@@ -1,0 +1,2682 @@
+{
+  "subject_id": "AyUG-SA1",
+  "questions": [
+    {
+      "id": "AyUG-SA1-0001",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-1",
+      "topic_en": "AH Sū 1: Āyuṣkāmīya",
+      "topic_hi": "अ.हृ.सू. 1: आयुष्कामीय",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Aṣṭāṅgahṛdaya Sūtrasthāna 1.6). Choose the correct second half of the śloka that begins as shown.",
+      "question_hi": "श्लोक पूरा कीजिए (अष्टाङ्गहृदय सूत्रस्थान 1.6)। दिए गए पूर्वार्ध का सही उत्तरार्ध चुनिए।",
+      "question_sa": "अष्टावङ्गानि तस्याहुश्चिकित्सा येषु संश्रिता ।",
+      "options": [
+        {
+          "en": "autsukya-mohā-rati-dāñ jaghāna yo '-pūrva-vaidyāya namo 'stu tasmai",
+          "hi": "औत्सुक्यमोहारतिदाञ्जघान योऽपूर्ववैद्याय नमोऽस्तु तस्मै"
+        },
+        {
+          "en": "anna-jñānānna-saṃrakṣā-mātrā-dravya-rasāśrayāḥ",
+          "hi": "अन्नज्ञानान्नसंरक्षामात्राद्रव्यरसाश्रयाः"
+        },
+        {
+          "en": "vāyuḥ pittaṃ kaphaś ceti trayo doṣāḥ samāsataḥ",
+          "hi": "वायुः पित्तं कफश्चेति त्रयो दोषाः समासतः"
+        },
+        {
+          "en": "catvāriṃśo 'n-apatyānām adhyāyo bīja-poṣaṇaḥ",
+          "hi": "चत्वारिंशोऽनपत्यानामध्यायो बीजपोषणः"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "\"They say it (Āyurveda) has eight branches, on which treatment rests. Vāyu, pitta and kapha, in brief, are the three doṣas\" (AH Sū 1.5-6).",
+      "explanation_hi": "\"आयुर्वेद के आठ अंग बताए गए हैं जिन पर चिकित्सा आश्रित है। संक्षेप में वायु, पित्त और कफ - ये तीन दोष हैं\" (अ.हृ.सू. 1.5-6)।",
+      "reference": "AH.sutra.1.6",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0002",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-1",
+      "topic_en": "AH Sū 1: Āyuṣkāmīya",
+      "topic_hi": "अ.हृ.सू. 1: आयुष्कामीय",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Aṣṭāṅgahṛdaya Sūtrasthāna 1.7). Choose the correct second half of the śloka that begins as shown.",
+      "question_hi": "श्लोक पूरा कीजिए (अष्टाङ्गहृदय सूत्रस्थान 1.7)। दिए गए पूर्वार्ध का सही उत्तरार्ध चुनिए।",
+      "question_sa": "विकृताविकृता देहं घ्नन्ति ते वर्तयन्ति च ।",
+      "options": [
+        {
+          "en": "te vyāpino 'pi hṛn-nābhyor adho-madhyordhva-saṃśrayāḥ",
+          "hi": "ते व्यापिनोऽपि हृन्नाभ्योरधोमध्योर्ध्वसंश्रयाः"
+        },
+        {
+          "en": "śuddhy-ādi-snehana-sveda-rekāsthāpana-nāvanam",
+          "hi": "शुद्ध्यादिस्नेहनस्वेदरेकास्थापननावनम्"
+        },
+        {
+          "en": "dhī-dhairyātmādi-vijñānaṃ mano-doṣauṣadhaṃ param",
+          "hi": "धीधैर्यात्मादिविज्ञानं मनोदोषौषधं परम्"
+        },
+        {
+          "en": "tair bhaved viṣamas tīkṣṇo mandaś cāgniḥ samaiḥ samaḥ",
+          "hi": "तैर्भवेद्विषमस्तीक्ष्णो मन्दश्चाग्निः समैः समः"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "\"Vitiated, they destroy the body; unvitiated, they sustain it. Though pervading the body, they reside below, between and above the heart and navel\" (AH Sū 1.7).",
+      "explanation_hi": "\"विकृत होकर ये शरीर का नाश करते हैं, अविकृत रहकर उसे धारण करते हैं। व्यापक होते हुए भी ये हृदय और नाभि के नीचे, मध्य और ऊपर रहते हैं\" (अ.हृ.सू. 1.7)।",
+      "reference": "AH.sutra.1.7",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0003",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-1",
+      "topic_en": "AH Sū 1: Āyuṣkāmīya",
+      "topic_hi": "अ.हृ.सू. 1: आयुष्कामीय",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Aṣṭāṅgahṛdaya Sūtrasthāna 1.13). Choose the correct second half of the śloka that begins as shown.",
+      "question_hi": "श्लोक पूरा कीजिए (अष्टाङ्गहृदय सूत्रस्थान 1.13)। दिए गए पूर्वार्ध का सही उत्तरार्ध चुनिए।",
+      "question_sa": "रसासृङ्मांसमेदोऽस्थिमज्जशुक्राणि धातवः ।",
+      "options": [
+        {
+          "en": "tri-dhā vipāko dravyasya svādv-amla-kaṭukātmakaḥ",
+          "hi": "त्रिधा विपाको द्रव्यस्य स्वाद्वम्लकटुकात्मकः"
+        },
+        {
+          "en": "sapta dūṣyā malā mūtra-śakṛt-svedādayo 'pi ca",
+          "hi": "सप्त दूष्या मला मूत्रशकृत्स्वेदादयोऽपि च"
+        },
+        {
+          "en": "autsukya-mohā-rati-dāñ jaghāna yo '-pūrva-vaidyāya namo 'stu tasmai",
+          "hi": "औत्सुक्यमोहारतिदाञ्जघान योऽपूर्ववैद्याय नमोऽस्तु तस्मै"
+        },
+        {
+          "en": "dṛk-tamo-liṅga-nāśeṣu trayo dvau dvau ca sarva-ge",
+          "hi": "दृक्तमोलिङ्गनाशेषु त्रयो द्वौ द्वौ च सर्वगे"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "\"Rasa, asṛk, māṃsa, medas, asthi, majjā and śukra are the seven dhātus, the dūṣyas; mūtra, śakṛt, sveda etc. are the malas\" (AH Sū 1.13).",
+      "explanation_hi": "\"रस, असृक्, मांस, मेद, अस्थि, मज्जा और शुक्र - ये सात धातु दूष्य हैं; मूत्र, शकृत्, स्वेद आदि मल हैं\" (अ.हृ.सू. 1.13)।",
+      "reference": "AH.sutra.1.13",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0004",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-1",
+      "topic_en": "AH Sū 1: Āyuṣkāmīya",
+      "topic_hi": "अ.हृ.सू. 1: आयुष्कामीय",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Aṣṭāṅgahṛdaya Sūtrasthāna 1.17). Choose the correct second half of the śloka that begins as shown.",
+      "question_hi": "श्लोक पूरा कीजिए (अष्टाङ्गहृदय सूत्रस्थान 1.17)। दिए गए पूर्वार्ध का सही उत्तरार्ध चुनिए।",
+      "question_sa": "उष्णशीतगुणोत्कर्षात्तत्र वीर्यं द्विधा स्मृतम् ।",
+      "options": [
+        {
+          "en": "autsukya-mohā-rati-kṛd dṛṣṭa-riṣṭo 'kṣa-nāśanaḥ",
+          "hi": "औत्सुक्यमोहारतिकृद्दृष्टरिष्टोऽक्षनाशनः"
+        },
+        {
+          "en": "śeṣa-tvād āyuṣo yāpyaḥ pathyābhyāsād viparyaye",
+          "hi": "शेषत्वादायुषो याप्यः पथ्याभ्यासाद्विपर्यये"
+        },
+        {
+          "en": "āyur-vedopadeśeṣu vidheyaḥ param ādaraḥ",
+          "hi": "आयुर्वेदोपदेशेषु विधेयः परमादरः"
+        },
+        {
+          "en": "tri-dhā vipāko dravyasya svādv-amla-kaṭukātmakaḥ",
+          "hi": "त्रिधा विपाको द्रव्यस्य स्वाद्वम्लकटुकात्मकः"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "\"Vīrya is of two kinds, by predominance of uṣṇa or śīta quality; vipāka of a dravya is threefold: svādu, amla and kaṭu\" (AH Sū 1.17).",
+      "explanation_hi": "\"उष्ण और शीत गुण की प्रधानता से वीर्य दो प्रकार का है; द्रव्य का विपाक तीन प्रकार का है - स्वादु, अम्ल और कटु\" (अ.हृ.सू. 1.17)।",
+      "reference": "AH.sutra.1.17",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0005",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-1",
+      "topic_en": "AH Sū 1: Āyuṣkāmīya",
+      "topic_hi": "अ.हृ.सू. 1: आयुष्कामीय",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Aṣṭāṅgahṛdaya Sūtrasthāna 1.18). Choose the correct second half of the śloka that begins as shown.",
+      "question_hi": "श्लोक पूरा कीजिए (अष्टाङ्गहृदय सूत्रस्थान 1.18)। दिए गए पूर्वार्ध का सही उत्तरार्ध चुनिए।",
+      "question_sa": "गुरुमन्दहिमस्निग्धश्लक्ष्णसान्द्रमृदुस्थिराः ।",
+      "options": [
+        {
+          "en": "guṇāḥ sa-sūkṣma-viśadā viṃśatiḥ sa-viparyayāḥ",
+          "hi": "गुणाः ससूक्ष्मविशदा विंशतिः सविपर्ययाः"
+        },
+        {
+          "en": "tebhyo 'ti-viprakīrṇebhyaḥ prāyaḥ sāra-taroccayaḥ",
+          "hi": "तेभ्योऽतिविप्रकीर्णेभ्यः प्रायः सारतरोच्चयः"
+        },
+        {
+          "en": "vamau madātyaye 'rśaḥsu viṣi dvau dvau ca mūtrite",
+          "hi": "वमौ मदात्ययेऽर्शःसु विषि द्वौ द्वौ च मूत्रिते"
+        },
+        {
+          "en": "cikitsitasya nirdiṣṭaṃ praty-ekaṃ tac catur-guṇam",
+          "hi": "चिकित्सितस्य निर्दिष्टं प्रत्येकं तच्चतुर्गुणम्"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "\"Guru, manda, hima, snigdha, ślakṣṇa, sāndra, mṛdu, sthira, with sūkṣma and viśada, together with their opposites, make the twenty guṇas\" (AH Sū 1.18).",
+      "explanation_hi": "\"गुरु, मन्द, हिम, स्निग्ध, श्लक्ष्ण, सान्द्र, मृदु, स्थिर, सूक्ष्म और विशद - अपने विपरीतों सहित - ये बीस गुण हैं\" (अ.हृ.सू. 1.18)।",
+      "reference": "AH.sutra.1.18",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0006",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-1",
+      "topic_en": "AH Sū 1: Āyuṣkāmīya",
+      "topic_hi": "अ.हृ.सू. 1: आयुष्कामीय",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Aṣṭāṅgahṛdaya Sūtrasthāna 1.20). Choose the correct second half of the śloka that begins as shown.",
+      "question_hi": "श्लोक पूरा कीजिए (अष्टाङ्गहृदय सूत्रस्थान 1.20)। दिए गए पूर्वार्ध का सही उत्तरार्ध चुनिए।",
+      "question_sa": "रोगस्तु दोषवैषम्यं दोषसाम्यमरोगता ।",
+      "options": [
+        {
+          "en": "tantrasyāsya paraṃ cāto vakṣyate 'dhyāya-saṃgrahaḥ",
+          "hi": "तन्त्रस्यास्य परं चातो वक्ष्यतेऽध्यायसंग्रहः"
+        },
+        {
+          "en": "vāyuḥ pittaṃ kaphaś ceti trayo doṣāḥ samāsataḥ",
+          "hi": "वायुः पित्तं कफश्चेति त्रयो दोषाः समासतः"
+        },
+        {
+          "en": "rajas tamaś ca manaso dvau ca doṣāv udāhṛtau",
+          "hi": "रजस्तमश्च मनसो द्वौ च दोषावुदाहृतौ"
+        },
+        {
+          "en": "nijāgantu-vibhāgena tatra rogā dvi-dhā smṛtāḥ",
+          "hi": "निजागन्तुविभागेन तत्र रोगा द्विधा स्मृताः"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "\"Disease is imbalance of the doṣas; health is their balance. Diseases are of two kinds, nija (endogenous) and āgantu (exogenous)\" (AH Sū 1.20).",
+      "explanation_hi": "\"दोषों की विषमता रोग है और दोषों की समता आरोग्य। निज और आगन्तु भेद से रोग दो प्रकार के हैं\" (अ.हृ.सू. 1.20)।",
+      "reference": "AH.sutra.1.20",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0007",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-1",
+      "topic_en": "AH Sū 1: Āyuṣkāmīya",
+      "topic_hi": "अ.हृ.सू. 1: आयुष्कामीय",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Aṣṭāṅgahṛdaya Sūtrasthāna 1.22). Choose the correct second half of the śloka that begins as shown.",
+      "question_hi": "श्लोक पूरा कीजिए (अष्टाङ्गहृदय सूत्रस्थान 1.22)। दिए गए पूर्वार्ध का सही उत्तरार्ध चुनिए।",
+      "question_sa": "दर्शनस्पर्शनप्रश्नैः परीक्षेत च रोगिणम् ।",
+      "options": [
+        {
+          "en": "bālopacāre tad-vyādhau tad-grahe dvau ca bhūta-ge",
+          "hi": "बालोपचारे तद्व्याधौ तद्ग्रहे द्वौ च भूतगे"
+        },
+        {
+          "en": "jvarāsṛk-śvāsa-yakṣmādi-madādy-arśo-'tisāriṇām",
+          "hi": "ज्वरासृक्श्वासयक्ष्मादिमदाद्यर्शोऽतिसारिणाम्"
+        },
+        {
+          "en": "rogaṃ nidāna-prāg-rūpa-lakṣaṇopaśayāptibhiḥ",
+          "hi": "रोगं निदानप्राग्रूपलक्षणोपशयाप्तिभिः"
+        },
+        {
+          "en": "autsukya-mohā-rati-dāñ jaghāna yo '-pūrva-vaidyāya namo 'stu tasmai",
+          "hi": "औत्सुक्यमोहारतिदाञ्जघान योऽपूर्ववैद्याय नमोऽस्तु तस्मै"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "\"The patient should be examined by darśana (inspection), sparśana (palpation) and praśna (interrogation); the disease by nidāna, prāgrūpa, lakṣaṇa, upaśaya and āpti (samprāpti)\" (AH Sū 1.22).",
+      "explanation_hi": "\"रोगी की परीक्षा दर्शन, स्पर्शन और प्रश्न से करें; रोग की परीक्षा निदान, पूर्वरूप, लक्षण, उपशय और आप्ति (सम्प्राप्ति) से\" (अ.हृ.सू. 1.22)।",
+      "reference": "AH.sutra.1.22",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0008",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-1",
+      "topic_en": "AH Sū 1: Āyuṣkāmīya",
+      "topic_hi": "अ.हृ.सू. 1: आयुष्कामीय",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Aṣṭāṅgahṛdaya Sūtrasthāna 1.26). Choose the correct second half of the śloka that begins as shown.",
+      "question_hi": "श्लोक पूरा कीजिए (अष्टाङ्गहृदय सूत्रस्थान 1.26)। दिए गए पूर्वार्ध का सही उत्तरार्ध चुनिए।",
+      "question_sa": "वस्तिर्विरेको वमनं तथा तैलं घृतं मधु ।",
+      "options": [
+        {
+          "en": "jvarāsṛk-śvāsa-yakṣmādi-madādy-arśo-'tisāriṇām",
+          "hi": "ज्वरासृक्श्वासयक्ष्मादिमदाद्यर्शोऽतिसारिणाम्"
+        },
+        {
+          "en": "dhī-dhairyātmādi-vijñānaṃ mano-doṣauṣadhaṃ param",
+          "hi": "धीधैर्यात्मादिविज्ञानं मनोदोषौषधं परम्"
+        },
+        {
+          "en": "samyag-yogaś ca vijñeyo rogārogyaika-kāraṇam",
+          "hi": "सम्यग्योगश्च विज्ञेयो रोगारोग्यैककारणम्"
+        },
+        {
+          "en": "rasāḥ svādv-amla-lavaṇa-tiktoṣaṇa-kaṣāyakāḥ",
+          "hi": "रसाः स्वाद्वम्ललवणतिक्तोषणकषायकाः"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "\"Basti, virecana and vamana, and likewise taila, ghṛta and madhu, are the best remedies for vāta, pitta and kapha respectively; knowledge of dhī, dhairya, ātmā etc. is the best remedy for the doṣas of the mind\" (AH Sū 1.25-26).",
+      "explanation_hi": "\"वात, पित्त, कफ के लिए क्रमशः बस्ति, विरेचन, वमन तथा तैल, घृत, मधु परम औषध हैं; धी, धैर्य, आत्मा आदि का ज्ञान मनोदोषों की परम औषध है\" (अ.हृ.सू. 1.25-26)।",
+      "reference": "AH.sutra.1.26",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0009",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-1",
+      "topic_en": "AH Sū 1: Āyuṣkāmīya",
+      "topic_hi": "अ.हृ.सू. 1: आयुष्कामीय",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Aṣṭāṅgahṛdaya Sūtrasthāna 1.27). Choose the correct second half of the śloka that begins as shown.",
+      "question_hi": "श्लोक पूरा कीजिए (अष्टाङ्गहृदय सूत्रस्थान 1.27)। दिए गए पूर्वार्ध का सही उत्तरार्ध चुनिए।",
+      "question_sa": "भिषग्द्रव्याण्युपस्थाता रोगी पादचतुष्टयम् ।",
+      "options": [
+        {
+          "en": "autsukya-mohā-rati-kṛd dṛṣṭa-riṣṭo 'kṣa-nāśanaḥ",
+          "hi": "औत्सुक्यमोहारतिकृद्दृष्टरिष्टोऽक्षनाशनः"
+        },
+        {
+          "en": "sama-dhātuḥ samastāsu śreṣṭhā nindyā dvi-doṣa-jāḥ",
+          "hi": "समधातुः समस्तासु श्रेष्ठा निन्द्या द्विदोषजाः"
+        },
+        {
+          "en": "cikitsitasya nirdiṣṭaṃ praty-ekaṃ tac catur-guṇam",
+          "hi": "चिकित्सितस्य निर्दिष्टं प्रत्येकं तच्चतुर्गुणम्"
+        },
+        {
+          "en": "āyur-vedopadeśeṣu vidheyaḥ param ādaraḥ",
+          "hi": "आयुर्वेदोपदेशेषु विधेयः परमादरः"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "\"Physician, drugs, attendant and patient are the four limbs (pāda) of treatment; each is said to have four qualities\" (AH Sū 1.27).",
+      "explanation_hi": "\"भिषक्, द्रव्य, उपस्थाता और रोगी - ये चिकित्सा के चार पाद हैं; प्रत्येक के चार-चार गुण बताए गए हैं\" (अ.हृ.सू. 1.27)।",
+      "reference": "AH.sutra.1.27",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0010",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-2",
+      "topic_en": "AH Sū 2: Dinacaryā",
+      "topic_hi": "अ.हृ.सू. 2: दिनचर्या",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Aṣṭāṅgahṛdaya Sūtrasthāna 2.1). Choose the correct second half of the śloka that begins as shown.",
+      "question_hi": "श्लोक पूरा कीजिए (अष्टाङ्गहृदय सूत्रस्थान 2.1)। दिए गए पूर्वार्ध का सही उत्तरार्ध चुनिए।",
+      "question_sa": "ब्राह्मे मुहूर्त उत्तिष्ठेत्स्वस्थो रक्षार्थमायुषः ।",
+      "options": [
+        {
+          "en": "ati-vyāyāmataḥ kāso jvaraś chardiś ca jāyate",
+          "hi": "अतिव्यायामतः कासो ज्वरश्छर्दिश्च जायते"
+        },
+        {
+          "en": "sthirī-karaṇam aṅgānāṃ tvak-prasāda-karaṃ param",
+          "hi": "स्थिरीकरणमङ्गानां त्वक्प्रसादकरं परम्"
+        },
+        {
+          "en": "ardha-śaktyā niṣevyas tu balibhiḥ snigdha-bhojibhiḥ",
+          "hi": "अर्धशक्त्या निषेव्यस्तु बलिभिः स्निग्धभोजिभिः"
+        },
+        {
+          "en": "śarīra-cintāṃ nirvartya kṛta-śauca-vidhis tataḥ",
+          "hi": "शरीरचिन्तां निर्वर्त्य कृतशौचविधिस्ततः"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "\"A healthy person should rise in brāhma muhūrta to protect his life; after thinking about his body, he should attend to cleansing\" (AH Sū 2.1).",
+      "explanation_hi": "\"स्वस्थ व्यक्ति आयु की रक्षा के लिए ब्राह्म मुहूर्त में उठे; शरीर-चिन्तन करके शौच-विधि करे\" (अ.हृ.सू. 2.1)।",
+      "reference": "AH.sutra.2.1",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0011",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-2",
+      "topic_en": "AH Sū 2: Dinacaryā",
+      "topic_hi": "अ.हृ.सू. 2: दिनचर्या",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Aṣṭāṅgahṛdaya Sūtrasthāna 2.8). Choose the correct second half of the śloka that begins as shown.",
+      "question_hi": "श्लोक पूरा कीजिए (अष्टाङ्गहृदय सूत्रस्थान 2.8)। दिए गए पूर्वार्ध का सही उत्तरार्ध चुनिए।",
+      "question_sa": "अभ्यङ्गमाचरेन्नित्यं स जराश्रमवातहा ।",
+      "options": [
+        {
+          "en": "dṛṣṭi-prasāda-puṣṭy-āyuḥ-svapna-su-tvak-tva-dārḍhya-kṛt",
+          "hi": "दृष्टिप्रसादपुष्ट्यायुःस्वप्नसुत्वक्त्वदार्ढ्यकृत्"
+        },
+        {
+          "en": "pāpaṃ karmeti daśa-dhā kāya-vāṅ-mānasais tyajet",
+          "hi": "पापं कर्मेति दशधा कायवाङ्मानसैस्त्यजेत्"
+        },
+        {
+          "en": "sthirī-karaṇam aṅgānāṃ tvak-prasāda-karaṃ param",
+          "hi": "स्थिरीकरणमङ्गानां त्वक्प्रसादकरं परम्"
+        },
+        {
+          "en": "prātar bhuktvā ca mṛdv-agraṃ kaṣāya-kaṭu-tiktakam",
+          "hi": "प्रातर्भुक्त्वा च मृद्वग्रं कषायकटुतिक्तकम्"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "\"Abhyaṅga should be practised daily; it removes old age, fatigue and vāta, and gives clear vision, nourishment, long life, good sleep, good skin and firmness\" (AH Sū 2.8).",
+      "explanation_hi": "\"प्रतिदिन अभ्यंग करें; यह जरा, श्रम और वात को हरता है तथा दृष्टि-प्रसाद, पुष्टि, आयु, अच्छी नींद, सुन्दर त्वचा और दृढ़ता देता है\" (अ.हृ.सू. 2.8)।",
+      "reference": "AH.sutra.2.8",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0012",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-2",
+      "topic_en": "AH Sū 2: Dinacaryā",
+      "topic_hi": "अ.हृ.सू. 2: दिनचर्या",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Aṣṭāṅgahṛdaya Sūtrasthāna 2.10). Choose the correct second half of the śloka that begins as shown.",
+      "question_hi": "श्लोक पूरा कीजिए (अष्टाङ्गहृदय सूत्रस्थान 2.10)। दिए गए पूर्वार्ध का सही उत्तरार्ध चुनिए।",
+      "question_sa": "लाघवं कर्मसामर्थ्यं दीप्तोऽग्निर्मेदसः क्षयः ।",
+      "options": [
+        {
+          "en": "ardha-śaktyā niṣevyas tu balibhiḥ snigdha-bhojibhiḥ",
+          "hi": "अर्धशक्त्या निषेव्यस्तु बलिभिः स्निग्धभोजिभिः"
+        },
+        {
+          "en": "vibhakta-ghana-gātra-tvaṃ vyāyāmād upajāyate",
+          "hi": "विभक्तघनगात्रत्वं व्यायामादुपजायते"
+        },
+        {
+          "en": "na kañ-cid ātmanaḥ śatruṃ nātmānaṃ kasya-cid ripum",
+          "hi": "न कञ्चिदात्मनः शत्रुं नात्मानं कस्यचिद्रिपुम्"
+        },
+        {
+          "en": "śarīra-cintāṃ nirvartya kṛta-śauca-vidhis tataḥ",
+          "hi": "शरीरचिन्तां निर्वर्त्य कृतशौचविधिस्ततः"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "\"Lightness, capacity for work, kindled agni, reduction of medas and well-defined firm limbs arise from vyāyāma\" (AH Sū 2.10).",
+      "explanation_hi": "\"लाघव, कर्म-सामर्थ्य, दीप्त अग्नि, मेद का क्षय और विभक्त-घन गात्र - ये व्यायाम से उत्पन्न होते हैं\" (अ.हृ.सू. 2.10)।",
+      "reference": "AH.sutra.2.10",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0013",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-2",
+      "topic_en": "AH Sū 2: Dinacaryā",
+      "topic_hi": "अ.हृ.सू. 2: दिनचर्या",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Aṣṭāṅgahṛdaya Sūtrasthāna 2.16). Choose the correct second half of the śloka that begins as shown.",
+      "question_hi": "श्लोक पूरा कीजिए (अष्टाङ्गहृदय सूत्रस्थान 2.16)। दिए गए पूर्वार्ध का सही उत्तरार्ध चुनिए।",
+      "question_sa": "दीपनं वृष्यमायुष्यं स्नानमूर्जाबलप्रदम् ।",
+      "options": [
+        {
+          "en": "kūla-cchāyāṃ nṛpa-dviṣṭaṃ vyāla-daṃṣṭri-viṣāṇinaḥ",
+          "hi": "कूलच्छायां नृपद्विष्टं व्यालदंष्ट्रिविषाणिनः"
+        },
+        {
+          "en": "kaṇḍū-mala-śrama-sveda-tandrā-tṛḍ-dāha-pāpma-jit",
+          "hi": "कण्डूमलश्रमस्वेदतन्द्रातृड्दाहपाप्मजित्"
+        },
+        {
+          "en": "tṛṣṇāsya-pāka-hṛn-netra-śiraḥ-karṇāmayī ca tat",
+          "hi": "तृष्णास्यपाकहृन्नेत्रशिरःकर्णामयी च तत्"
+        },
+        {
+          "en": "cakṣus tejo-mayaṃ tasya viśeṣāc chleṣmato bhayam",
+          "hi": "चक्षुस्तेजोमयं तस्य विशेषाच्छ्लेष्मतो भयम्"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "\"Bathing is dīpana, vṛṣya and āyuṣya, gives energy and strength, and removes itching, dirt, fatigue, sweat, drowsiness, thirst, burning and sin\" (AH Sū 2.16).",
+      "explanation_hi": "\"स्नान दीपन, वृष्य, आयुष्य, ऊर्जा और बल देने वाला है तथा कण्डू, मल, श्रम, स्वेद, तन्द्रा, तृष्णा, दाह और पाप को दूर करता है\" (अ.हृ.सू. 2.16)।",
+      "reference": "AH.sutra.2.16",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0014",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-2",
+      "topic_en": "AH Sū 2: Dinacaryā",
+      "topic_hi": "अ.हृ.सू. 2: दिनचर्या",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Aṣṭāṅgahṛdaya Sūtrasthāna 2.20). Choose the correct second half of the śloka that begins as shown.",
+      "question_hi": "श्लोक पूरा कीजिए (अष्टाङ्गहृदय सूत्रस्थान 2.20)। दिए गए पूर्वार्ध का सही उत्तरार्ध चुनिए।",
+      "question_sa": "सुखार्थाः सर्वभूतानां मताः सर्वाः प्रवृत्तयः ।",
+      "options": [
+        {
+          "en": "sukhaṃ ca na vinā dharmāt tasmād dharma-paro bhavet",
+          "hi": "सुखं च न विना धर्मात्तस्माद्धर्मपरो भवेत्"
+        },
+        {
+          "en": "sūnāṭavī-śūnya-gṛha-śmaśānāni divāpi na",
+          "hi": "सूनाटवीशून्यगृहश्मशानानि दिवापि न"
+        },
+        {
+          "en": "hiṃsā-steyān yathā-kāmaṃ paiśunyaṃ paruṣān-ṛte",
+          "hi": "हिंसास्तेयान्यथाकामं पैशुन्यं परुषानृते"
+        },
+        {
+          "en": "kūla-cchāyāṃ nṛpa-dviṣṭaṃ vyāla-daṃṣṭri-viṣāṇinaḥ",
+          "hi": "कूलच्छायां नृपद्विष्टं व्यालदंष्ट्रिविषाणिनः"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "\"All activities of all beings are for the sake of happiness; but there is no happiness without dharma, so one should be devoted to dharma\" (AH Sū 2.20).",
+      "explanation_hi": "\"सब प्राणियों की सब प्रवृत्तियाँ सुख के लिए हैं; पर धर्म के बिना सुख नहीं, अतः धर्मपरायण रहें\" (अ.हृ.सू. 2.20)।",
+      "reference": "AH.sutra.2.20",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0015",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-3",
+      "topic_en": "AH Sū 3: Ṛtucaryā",
+      "topic_hi": "अ.हृ.सू. 3: ऋतुचर्या",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Aṣṭāṅgahṛdaya Sūtrasthāna 3.1). Choose the correct second half of the śloka that begins as shown.",
+      "question_hi": "श्लोक पूरा कीजिए (अष्टाङ्गहृदय सूत्रस्थान 3.1)। दिए गए पूर्वार्ध का सही उत्तरार्ध चुनिए।",
+      "question_sa": "मासैर्द्विसंख्यैर्माघाद्यैः क्रमात्षडृतवः स्मृताः ।",
+      "options": [
+        {
+          "en": "hatvāgniṃ kurute rogān atas taṃ tvarayā tyajet",
+          "hi": "हत्वाग्निं कुरुते रोगानतस्तं त्वरया त्यजेत्"
+        },
+        {
+          "en": "bhajet sādhāraṇaṃ sarvam ūṣmaṇas tejanaṃ ca yat",
+          "hi": "भजेत्साधारणं सर्वमूष्मणस्तेजनं च यत्"
+        },
+        {
+          "en": "śiśiro 'tha vasantaś ca grīṣmo varṣā-śarad-dhimāḥ",
+          "hi": "शिशिरोऽथ वसन्तश्च ग्रीष्मो वर्षाशरद्धिमाः"
+        },
+        {
+          "en": "nivṛtta-kāma-tantrasya su-sūkṣma-tanu-vāsasaḥ",
+          "hi": "निवृत्तकामतन्त्रस्य सुसूक्ष्मतनुवाससः"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "\"Beginning with Māgha, by pairs of months the six seasons are, in order: śiśira, vasanta, grīṣma, varṣā, śarad and hima (hemanta)\" (AH Sū 3.1).",
+      "explanation_hi": "\"माघ से आरम्भ करके दो-दो मासों से क्रमशः छह ऋतुएँ हैं: शिशिर, वसन्त, ग्रीष्म, वर्षा, शरद् और हिम (हेमन्त)\" (अ.हृ.सू. 3.1)।",
+      "reference": "AH.sutra.3.1",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0016",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-3",
+      "topic_en": "AH Sū 3: Ṛtucaryā",
+      "topic_hi": "अ.हृ.सू. 3: ऋतुचर्या",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Aṣṭāṅgahṛdaya Sūtrasthāna 3.58). Choose the correct second half of the śloka that begins as shown.",
+      "question_hi": "श्लोक पूरा कीजिए (अष्टाङ्गहृदय सूत्रस्थान 3.58)। दिए गए पूर्वार्ध का सही उत्तरार्ध चुनिए।",
+      "question_sa": "ऋत्वोरन्त्यादिसप्ताहावृतुसंधिरिति स्मृतः ।",
+      "options": [
+        {
+          "en": "moca-coca-dalair yuktaṃ sāmlaṃ mṛn-maya-śuktibhiḥ",
+          "hi": "मोचचोचदलैर्युक्तं साम्लं मृन्मयशुक्तिभिः"
+        },
+        {
+          "en": "vyāyāmodvartanāghātair jitvā śleṣmāṇam ulbaṇam",
+          "hi": "व्यायामोद्वर्तनाघातैर्जित्वा श्लेष्माणमुल्बणम्"
+        },
+        {
+          "en": "priyāsya-saṅga-surabhīn priyā-netrotpalāṅkitān",
+          "hi": "प्रियास्यसङ्गसुरभीन्प्रियानेत्रोत्पलाङ्कितान्"
+        },
+        {
+          "en": "tatra pūrvo vidhis tyājyaḥ sevanīyo 'paraḥ kramāt",
+          "hi": "तत्र पूर्वो विधिस्त्याज्यः सेवनीयोऽपरः क्रमात्"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "\"The last week of one season and the first week of the next form the ṛtusandhi; in it the previous regimen should be given up and the next adopted gradually\" (AH Sū 3.58).",
+      "explanation_hi": "\"एक ऋतु का अन्तिम सप्ताह और अगली का प्रथम सप्ताह ऋतुसन्धि है; इसमें पिछली विधि को धीरे-धीरे छोड़ें और अगली को अपनाएँ\" (अ.हृ.सू. 3.58)।",
+      "reference": "AH.sutra.3.58",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0017",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-4",
+      "topic_en": "AH Sū 4: Rogānutpādanīya",
+      "topic_hi": "अ.हृ.सू. 4: रोगानुत्पादनीय",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Aṣṭāṅgahṛdaya Sūtrasthāna 4.1). Choose the correct second half of the śloka that begins as shown.",
+      "question_hi": "श्लोक पूरा कीजिए (अष्टाङ्गहृदय सूत्रस्थान 4.1)। दिए गए पूर्वार्ध का सही उत्तरार्ध चुनिए।",
+      "question_sa": "वेगान्न धारयेद्वातविण्मूत्रक्षवतृट्क्षुधाम् ।",
+      "options": [
+        {
+          "en": "ghanātyaye vārṣikam āśu samyak prāpnoti rogān ṛtu-jān na jātu",
+          "hi": "घनात्यये वार्षिकमाशु सम्यक्प्राप्नोति रोगानृतुजान्न जातु"
+        },
+        {
+          "en": "aty-artha-saṃcitās te hi kruddhāḥ syur jīvita-cchidaḥ",
+          "hi": "अत्यर्थसंचितास्ते हि क्रुद्धाः स्युर्जीवितच्छिदः"
+        },
+        {
+          "en": "ādhmāna-kāsa-hidhmāś ca hidhmā-vat tatra bheṣajam",
+          "hi": "आध्मानकासहिध्माश्च हिध्मावत्तत्र भेषजम्"
+        },
+        {
+          "en": "nidrā-kāsa-śrama-śvāsa-jṛmbhāśru-cchardi-retasām",
+          "hi": "निद्राकासश्रमश्वासजृम्भाश्रुच्छर्दिरेतसाम्"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "\"One should not suppress the urges of flatus, faeces, urine, sneezing, thirst, hunger, sleep, cough, breathing due to exertion, yawning, tears, vomiting and semen\" (AH Sū 4.1): the 13 adhāraṇīya vegas.",
+      "explanation_hi": "\"अधोवात, मल, मूत्र, छींक, प्यास, भूख, निद्रा, कास, श्रमश्वास, जम्हाई, आँसू, वमन और शुक्र के वेगों को न रोकें\" (अ.हृ.सू. 4.1) - 13 अधारणीय वेग।",
+      "reference": "AH.sutra.4.1",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0018",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-4",
+      "topic_en": "AH Sū 4: Rogānutpādanīya",
+      "topic_hi": "अ.हृ.सू. 4: रोगानुत्पादनीय",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Aṣṭāṅgahṛdaya Sūtrasthāna 4.22). Choose the correct second half of the śloka that begins as shown.",
+      "question_hi": "श्लोक पूरा कीजिए (अष्टाङ्गहृदय सूत्रस्थान 4.22)। दिए गए पूर्वार्ध का सही उत्तरार्ध चुनिए।",
+      "question_sa": "रोगाः सर्वेऽपि जायन्ते वेगोदीरणधारणैः ।",
+      "options": [
+        {
+          "en": "nidrā-kāsa-śrama-śvāsa-jṛmbhāśru-cchardi-retasām",
+          "hi": "निद्राकासश्रमश्वासजृम्भाश्रुच्छर्दिरेतसाम्"
+        },
+        {
+          "en": "nirdiṣṭaṃ sādhanaṃ tatra bhūyiṣṭhaṃ ye tu tān prati",
+          "hi": "निर्दिष्टं साधनं तत्र भूयिष्ठं ये तु तान्प्रति"
+        },
+        {
+          "en": "dātā samaḥ satya-paraḥ kṣamā-vān āptopasevī ca bhavaty a-rogaḥ",
+          "hi": "दाता समः सत्यपरः क्षमावानाप्तोपसेवी च भवत्यरोगः"
+        },
+        {
+          "en": "rāga-dveṣa-bhayādyāś ca te syur āgantavo gadāḥ",
+          "hi": "रागद्वेषभयाद्याश्च ते स्युरागन्तवो गदाः"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "\"All diseases arise from forcibly initiating or suppressing the urges; the treatment has been described there, mostly for those which are...\" (AH Sū 4.22).",
+      "explanation_hi": "\"वेगों को बलपूर्वक प्रवृत्त करने या रोकने से सभी रोग उत्पन्न होते हैं; उनकी चिकित्सा वहाँ बताई गई है...\" (अ.हृ.सू. 4.22)।",
+      "reference": "AH.sutra.4.22",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0019",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-4",
+      "topic_en": "AH Sū 4: Rogānutpādanīya",
+      "topic_hi": "अ.हृ.सू. 4: रोगानुत्पादनीय",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Aṣṭāṅgahṛdaya Sūtrasthāna 4.26). Choose the correct second half of the śloka that begins as shown.",
+      "question_hi": "श्लोक पूरा कीजिए (अष्टाङ्गहृदय सूत्रस्थान 4.26)। दिए गए पूर्वार्ध का सही उत्तरार्ध चुनिए।",
+      "question_sa": "दोषाः कदाचित्कुप्यन्ति जिता लङ्घनपाचनैः ।",
+      "options": [
+        {
+          "en": "ye tu saṃśodhanaiḥ śuddhā na teṣāṃ punar-udbhavaḥ",
+          "hi": "ये तु संशोधनैः शुद्धा न तेषां पुनरुद्भवः"
+        },
+        {
+          "en": "nidrāyā moha-mūrdhākṣi-gauravālasya-jṛmbhikāḥ",
+          "hi": "निद्राया मोहमूर्धाक्षिगौरवालस्यजृम्भिकाः"
+        },
+        {
+          "en": "ādhmāna-kāsa-hidhmāś ca hidhmā-vat tatra bheṣajam",
+          "hi": "आध्मानकासहिध्माश्च हिध्मावत्तत्र भेषजम्"
+        },
+        {
+          "en": "mūtra-jeṣu tu pāne ca prāg-bhaktaṃ śasyate ghṛtam",
+          "hi": "मूत्रजेषु तु पाने च प्राग्भक्तं शस्यते घृतम्"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "\"Doṣas subdued by laṅghana and pācana may sometimes become aggravated again, but those eliminated by saṃśodhana do not recur\" (AH Sū 4.26).",
+      "explanation_hi": "\"लंघन और पाचन से शान्त दोष कभी-कभी फिर कुपित हो सकते हैं, पर संशोधन से निकाले गए दोषों की पुनः उत्पत्ति नहीं होती\" (अ.हृ.सू. 4.26)।",
+      "reference": "AH.sutra.4.26",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0020",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-5",
+      "topic_en": "AH Sū 5: Dravadravyavijñānīya",
+      "topic_hi": "अ.हृ.सू. 5: द्रवद्रव्यविज्ञानीय",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Aṣṭāṅgahṛdaya Sūtrasthāna 5.15). Choose the correct second half of the śloka that begins as shown.",
+      "question_hi": "श्लोक पूरा कीजिए (अष्टाङ्गहृदय सूत्रस्थान 5.15)। दिए गए पूर्वार्ध का सही उत्तरार्ध चुनिए।",
+      "question_sa": "समस्थूलकृशा भुक्तमध्यान्तप्रथमाम्बुपाः ।",
+      "options": [
+        {
+          "en": "a-klinnam a-vi-varṇaṃ ca tat peyaṃ gāṅgam anya-thā",
+          "hi": "अक्लिन्नमविवर्णं च तत्पेयं गाङ्गमन्यथा"
+        },
+        {
+          "en": "so 'gre sa-lavaṇo danta-pīḍitaḥ śarkarā-samaḥ",
+          "hi": "सोऽग्रे सलवणो दन्तपीडितः शर्करासमः"
+        },
+        {
+          "en": "śītaṃ madātyaya-glāni-mūrchā-chardi-śrama-bhramān",
+          "hi": "शीतं मदात्ययग्लानिमूर्छाछर्दिश्रमभ्रमान्"
+        },
+        {
+          "en": "iti dravaika-deśo 'yaṃ yathā-sthūlam udāhṛtaḥ",
+          "hi": "इति द्रवैकदेशोऽयं यथास्थूलमुदाहृतः"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "\"Those who drink water in the middle, at the end or at the beginning of a meal become, respectively, of balanced, stout or lean body; cold water relieves madātyaya, glāni, mūrchā, chardi, śrama, bhrama...\" (AH Sū 5.15).",
+      "explanation_hi": "\"भोजन के मध्य, अन्त और आरम्भ में जल पीने वाले क्रमशः सम, स्थूल और कृश होते हैं; शीत जल मदात्यय, ग्लानि, मूर्छा, छर्दि, श्रम, भ्रम... को शान्त करता है\" (अ.हृ.सू. 5.15)।",
+      "reference": "AH.sutra.5.15",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0021",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-8",
+      "topic_en": "AH Sū 8: Mātrāśitīya",
+      "topic_hi": "अ.हृ.सू. 8: मात्राशितीय",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Aṣṭāṅgahṛdaya Sūtrasthāna 8.1). Choose the correct second half of the śloka that begins as shown.",
+      "question_hi": "श्लोक पूरा कीजिए (अष्टाङ्गहृदय सूत्रस्थान 8.1)। दिए गए पूर्वार्ध का सही उत्तरार्ध चुनिए।",
+      "question_sa": "मात्राशी सर्वकालं स्यान्मात्रा ह्यग्नेः प्रवर्तिका ।",
+      "options": [
+        {
+          "en": "pīḍyamānā hi vātādyā yuga-pat tena kopitāḥ",
+          "hi": "पीड्यमाना हि वाताद्या युगपत्तेन कोपिताः"
+        },
+        {
+          "en": "mātrāṃ dravyāṇy apekṣante gurūṇy api laghūny api",
+          "hi": "मात्रां द्रव्याण्यपेक्षन्ते गुरूण्यपि लघून्यपि"
+        },
+        {
+          "en": "sarveṣāṃ vāta-rogāṇāṃ hetu-tāṃ ca prapadyate",
+          "hi": "सर्वेषां वातरोगाणां हेतुतां च प्रपद्यते"
+        },
+        {
+          "en": "prayāti nordhvaṃ nādhas-tād āhāro na ca pacyate",
+          "hi": "प्रयाति नोर्ध्वं नाधस्तादाहारो न च पच्यते"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "\"One should always eat in proper quantity, for mātrā kindles agni; the measure depends on the food, whether heavy or light\" (AH Sū 8.1).",
+      "explanation_hi": "\"सदा मात्रा से भोजन करें, क्योंकि मात्रा अग्नि की प्रवर्तिका है; द्रव्य गुरु हों या लघु, मात्रा उन पर निर्भर करती है\" (अ.हृ.सू. 8.1)।",
+      "reference": "AH.sutra.8.1",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0022",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-9",
+      "topic_en": "AH Sū 9: Dravyādivijñānīya",
+      "topic_hi": "अ.हृ.सू. 9: द्रव्यादिविज्ञानीय",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Aṣṭāṅgahṛdaya Sūtrasthāna 9.1). Choose the correct second half of the śloka that begins as shown.",
+      "question_hi": "श्लोक पूरा कीजिए (अष्टाङ्गहृदय सूत्रस्थान 9.1)। दिए गए पूर्वार्ध का सही उत्तरार्ध चुनिए।",
+      "question_sa": "द्रव्यमेव रसादीनां श्रेष्ठं ते हि तदाश्रयाः ।",
+      "options": [
+        {
+          "en": "pañca-bhūtātmakaṃ tat tu kṣmām adhiṣṭhāya jāyate",
+          "hi": "पञ्चभूतात्मकं तत्तु क्ष्मामधिष्ठाय जायते"
+        },
+        {
+          "en": "vāyavyaṃ rūkṣa-viśada-laghu-sparśa-guṇolbaṇam",
+          "hi": "वायव्यं रूक्षविशदलघुस्पर्शगुणोल्बणम्"
+        },
+        {
+          "en": "nābhasaṃ sūkṣma-viśada-laghu-śabda-guṇolbaṇam",
+          "hi": "नाभसं सूक्ष्मविशदलघुशब्दगुणोल्बणम्"
+        },
+        {
+          "en": "tatra dravyaṃ guru-sthūla-sthira-gandha-guṇolbaṇam",
+          "hi": "तत्र द्रव्यं गुरुस्थूलस्थिरगन्धगुणोल्बणम्"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "\"Dravya is the chief among rasa etc., since they depend on it; it is pañcabhautika and arises with pṛthvī as its base\" (AH Sū 9.1).",
+      "explanation_hi": "\"रस आदि में द्रव्य ही श्रेष्ठ है, क्योंकि वे उसी के आश्रित हैं; वह पञ्चभौतिक है और पृथ्वी को अधिष्ठान बनाकर उत्पन्न होता है\" (अ.हृ.सू. 9.1)।",
+      "reference": "AH.sutra.9.1",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0023",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-11",
+      "topic_en": "AH Sū 11: Doṣādivijñānīya",
+      "topic_hi": "अ.हृ.सू. 11: दोषादिविज्ञानीय",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Aṣṭāṅgahṛdaya Sūtrasthāna 11.4). Choose the correct second half of the śloka that begins as shown.",
+      "question_hi": "श्लोक पूरा कीजिए (अष्टाङ्गहृदय सूत्रस्थान 11.4)। दिए गए पूर्वार्ध का सही उत्तरार्ध चुनिए।",
+      "question_sa": "प्रीणनं जीवनं लेपः स्नेहो धारणपूरणे ।",
+      "options": [
+        {
+          "en": "kaṇṭhādiṣv adhi-māṃsaṃ ca tad-van medas tathā śramam",
+          "hi": "कण्ठादिष्वधिमांसं च तद्वन्मेदस्तथा श्रमम्"
+        },
+        {
+          "en": "dūṣikādīn api malān bāhulya-guru-tādibhiḥ",
+          "hi": "दूषिकादीनपि मलान्बाहुल्यगुरुतादिभिः"
+        },
+        {
+          "en": "vyāyāmābhyañjana-sveda-madyaiḥ sveda-kṣayodbhavān",
+          "hi": "व्यायामाभ्यञ्जनस्वेदमद्यैः स्वेदक्षयोद्भवान्"
+        },
+        {
+          "en": "garbhotpādaś ca dhātūnāṃ śreṣṭhaṃ karma kramāt smṛtam",
+          "hi": "गर्भोत्पादश्च धातूनां श्रेष्ठं कर्म क्रमात्स्मृतम्"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "\"Prīṇana, jīvana, lepa, sneha, dhāraṇa, pūraṇa and garbhotpāda are, in order, the chief functions of the dhātus (rasa to śukra)\" (AH Sū 11.4).",
+      "explanation_hi": "\"प्रीणन, जीवन, लेप, स्नेह, धारण, पूरण और गर्भोत्पाद - क्रमशः धातुओं (रस से शुक्र) के श्रेष्ठ कर्म हैं\" (अ.हृ.सू. 11.4)।",
+      "reference": "AH.sutra.11.4",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0024",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-11",
+      "topic_en": "AH Sū 11: Doṣādivijñānīya",
+      "topic_hi": "अ.हृ.सू. 11: दोषादिविज्ञानीय",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Aṣṭāṅgahṛdaya Sūtrasthāna 11.37). Choose the correct second half of the śloka that begins as shown.",
+      "question_hi": "श्लोक पूरा कीजिए (अष्टाङ्गहृदय सूत्रस्थान 11.37)। दिए गए पूर्वार्ध का सही उत्तरार्ध चुनिए।",
+      "question_sa": "ओजस्तु तेजो धातूनां शुक्रान्तानां परं स्मृतम् ।",
+      "options": [
+        {
+          "en": "vyaṅgāgni-nāśa-saṃmoha-rakta-tvaṅ-netra-mūtra-tāḥ",
+          "hi": "व्यङ्गाग्निनाशसंमोहरक्तत्वङ्नेत्रमूत्रताः"
+        },
+        {
+          "en": "ati-strī-kāma-tāṃ vṛddhaṃ śuktaṃ śukrāśmarīm api",
+          "hi": "अतिस्त्रीकामतां वृद्धं शुक्तं शुक्राश्मरीमपि"
+        },
+        {
+          "en": "hṛdaya-stham api vyāpi deha-sthiti-nibandhanam",
+          "hi": "हृदयस्थमपि व्यापि देहस्थितिनिबन्धनम्"
+        },
+        {
+          "en": "teṣāṃ sādāti-dīptibhyāṃ dhātu-vṛddhi-kṣayodbhavaḥ",
+          "hi": "तेषां सादातिदीप्तिभ्यां धातुवृद्धिक्षयोद्भवः"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "\"Ojas is the supreme essence of the dhātus ending with śukra; though seated in the heart, it pervades the body and maintains its existence\" (AH Sū 11.37).",
+      "explanation_hi": "\"ओज शुक्र तक की धातुओं का परम तेज है; हृदयस्थ होकर भी व्यापक है और देह-स्थिति का आधार है\" (अ.हृ.सू. 11.37)।",
+      "reference": "AH.sutra.11.37",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0025",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-11",
+      "topic_en": "AH Sū 11: Doṣādivijñānīya",
+      "topic_hi": "अ.हृ.सू. 11: दोषादिविज्ञानीय",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Aṣṭāṅgahṛdaya Sūtrasthāna 11.38). Choose the correct second half of the śloka that begins as shown.",
+      "question_hi": "श्लोक पूरा कीजिए (अष्टाङ्गहृदय सूत्रस्थान 11.38)। दिए गए पूर्वार्ध का सही उत्तरार्ध चुनिए।",
+      "question_sa": "स्निग्धं सोमात्मकं शुद्धमीषल्लोहितपीतकम् ।",
+      "options": [
+        {
+          "en": "yan-nāśe niyataṃ nāśo yasmiṃs tiṣṭhati tiṣṭhati",
+          "hi": "यन्नाशे नियतं नाशो यस्मिंस्तिष्ठति तिष्ठति"
+        },
+        {
+          "en": "saṃjñā-mohas tathā śleṣma-vṛddhy-uktāmaya-saṃbhavaḥ",
+          "hi": "संज्ञामोहस्तथा श्लेष्मवृद्ध्युक्तामयसंभवः"
+        },
+        {
+          "en": "mūtraṃ tu vasti-nistodaṃ kṛte 'py a-kṛta-saṃjña-tām",
+          "hi": "मूत्रं तु वस्तिनिस्तोदं कृतेऽप्यकृतसंज्ञताम्"
+        },
+        {
+          "en": "rūpāṇi jahati kṣīṇāḥ samāḥ svaṃ karma kurvate",
+          "hi": "रूपाणि जहति क्षीणाः समाः स्वं कर्म कुर्वते"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "\"Ojas is unctuous, of the nature of soma, pure, slightly reddish-yellow; when it is destroyed, death is certain, and while it remains, life remains\" (AH Sū 11.38).",
+      "explanation_hi": "\"ओज स्निग्ध, सोमात्मक, शुद्ध और ईषत् लोहित-पीत है; इसके नाश से निश्चित नाश होता है और इसके रहने से जीवन रहता है\" (अ.हृ.सू. 11.38)।",
+      "reference": "AH.sutra.11.38",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0026",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-12",
+      "topic_en": "AH Sū 12: Doṣabhedīya",
+      "topic_hi": "अ.हृ.सू. 12: दोषभेदीय",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Aṣṭāṅgahṛdaya Sūtrasthāna 12.8). Choose the correct second half of the śloka that begins as shown.",
+      "question_hi": "श्लोक पूरा कीजिए (अष्टाङ्गहृदय सूत्रस्थान 12.8)। दिए गए पूर्वार्ध का सही उत्तरार्ध चुनिए।",
+      "question_sa": "समानोऽग्निसमीपस्थः कोष्ठे चरति सर्वतः ।",
+      "options": [
+        {
+          "en": "bodhako rasanā-sthāyī śiraḥ-saṃstho 'kṣa-tarpaṇāt",
+          "hi": "बोधको रसनास्थायी शिरःसंस्थोऽक्षतर्पणात्"
+        },
+        {
+          "en": "dṛk sparśanaṃ ca pittasya nābhir atra viśeṣataḥ",
+          "hi": "दृक्स्पर्शनं च पित्तस्य नाभिरत्र विशेषतः"
+        },
+        {
+          "en": "annaṃ gṛhṇāti pacati vivecayati muñcati",
+          "hi": "अन्नं गृह्णाति पचति विवेचयति मुञ्चति"
+        },
+        {
+          "en": "iti kāla-sva-bhāvo 'yam āhārādi-vaśāt punaḥ",
+          "hi": "इति कालस्वभावोऽयमाहारादिवशात्पुनः"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "\"Samāna, situated near agni, moves throughout the koṣṭha; it takes in food, digests it, separates it and releases it\" (AH Sū 12.8).",
+      "explanation_hi": "\"अग्नि के समीप स्थित समान वायु कोष्ठ में सर्वत्र विचरता है; यह अन्न को ग्रहण करता, पचाता, विवेचन करता और छोड़ता है\" (अ.हृ.सू. 12.8)।",
+      "reference": "AH.sutra.12.8",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0027",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-12",
+      "topic_en": "AH Sū 12: Doṣabhedīya",
+      "topic_hi": "अ.हृ.सू. 12: दोषभेदीय",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Aṣṭāṅgahṛdaya Sūtrasthāna 12.32). Choose the correct second half of the śloka that begins as shown.",
+      "question_hi": "श्लोक पूरा कीजिए (अष्टाङ्गहृदय सूत्रस्थान 12.32)। दिए गए पूर्वार्ध का सही उत्तरार्ध चुनिए।",
+      "question_sa": "दोषा एव हि सर्वेषां रोगाणामेककारणम् ।",
+      "options": [
+        {
+          "en": "sat-tvaṃ sātmyaṃ tathāhāram avasthāś ca pṛthag-vidhāḥ",
+          "hi": "सत्त्वं सात्म्यं तथाहारमवस्थाश्च पृथग्विधाः"
+        },
+        {
+          "en": "cīyate snigdha-śītābhir udakauṣadhibhiḥ kaphaḥ",
+          "hi": "चीयते स्निग्धशीताभिरुदकौषधिभिः कफः"
+        },
+        {
+          "en": "sthānaṃ vātasya tatrāpi pakvādhānaṃ viśeṣataḥ",
+          "hi": "स्थानं वातस्य तत्रापि पक्वाधानं विशेषतः"
+        },
+        {
+          "en": "yathā pakṣī paripatan sarvataḥ sarvam apy ahaḥ",
+          "hi": "यथा पक्षी परिपतन्सर्वतः सर्वमप्यहः"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "\"The doṣas alone are the one cause of all diseases; just as a bird flying everywhere all day long (does not go beyond its own shadow)...\" (AH Sū 12.32-33): no disease arises without the doṣas.",
+      "explanation_hi": "\"सब रोगों का एकमात्र कारण दोष ही हैं; जैसे दिन भर सर्वत्र उड़ता पक्षी (अपनी छाया को पार नहीं करता)...\" (अ.हृ.सू. 12.32-33) - दोषों के बिना कोई रोग नहीं होता।",
+      "reference": "AH.sutra.12.32",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0028",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-14",
+      "topic_en": "AH Sū 14: Dvividhopakramaṇīya",
+      "topic_hi": "अ.हृ.सू. 14: द्विविधोपक्रमणीय",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Aṣṭāṅgahṛdaya Sūtrasthāna 14.1). Choose the correct second half of the śloka that begins as shown.",
+      "question_hi": "श्लोक पूरा कीजिए (अष्टाङ्गहृदय सूत्रस्थान 14.1)। दिए गए पूर्वार्ध का सही उत्तरार्ध चुनिए।",
+      "question_sa": "उपक्रम्यस्य हि द्वित्वाद्द्विधैवोपक्रमो मतः ।",
+      "options": [
+        {
+          "en": "upakramā na te dvi-tvād bhinnā api gadā iva",
+          "hi": "उपक्रमा न ते द्वित्वाद्भिन्ना अपि गदा इव"
+        },
+        {
+          "en": "ekaḥ saṃtarpaṇas tatra dvitīyaś cāpatarpaṇaḥ",
+          "hi": "एकः संतर्पणस्तत्र द्वितीयश्चापतर्पणः"
+        },
+        {
+          "en": "an-apekṣita-mātrādi-sevite kurutas tu te",
+          "hi": "अनपेक्षितमात्रादिसेविते कुरुतस्तु ते"
+        },
+        {
+          "en": "kārśyam eva varaṃ sthaulyān na hi sthūlasya bheṣajam",
+          "hi": "कार्श्यमेव वरं स्थौल्यान्न हि स्थूलस्य भेषजम्"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "\"Since what is to be treated is twofold, treatment is considered twofold: one is santarpaṇa and the second apatarpaṇa\" (AH Sū 14.1).",
+      "explanation_hi": "\"उपक्रम्य (चिकित्सा योग्य) के दो प्रकार होने से उपक्रम भी दो ही प्रकार का है: एक सन्तर्पण और दूसरा अपतर्पण\" (अ.हृ.सू. 14.1)।",
+      "reference": "AH.sutra.14.1",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0029",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-16",
+      "topic_en": "AH Sū 16: Snehavidhi",
+      "topic_hi": "अ.हृ.सू. 16: स्नेहविधि",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Aṣṭāṅgahṛdaya Sūtrasthāna 16.2). Choose the correct second half of the śloka that begins as shown.",
+      "question_hi": "श्लोक पूरा कीजिए (अष्टाङ्गहृदय सूत्रस्थान 16.2)। दिए गए पूर्वार्ध का सही उत्तरार्ध चुनिए।",
+      "question_sa": "सर्पिर्मज्जा वसा तैलं स्नेहेषु प्रवरं मतम् ।",
+      "options": [
+        {
+          "en": "nīcāty-uccopadhānāhaḥ-svapna-dhūma-rajāṃsi ca",
+          "hi": "नीचात्युच्चोपधानाहःस्वप्नधूमरजांसि च"
+        },
+        {
+          "en": "tatrāpi cottamaṃ sarpiḥ saṃskārasyānuvartanāt",
+          "hi": "तत्रापि चोत्तमं सर्पिः संस्कारस्यानुवर्तनात्"
+        },
+        {
+          "en": "bāla-vṛddha-pipāsārta-sneha-dviṇ-madya-śīliṣu",
+          "hi": "बालवृद्धपिपासार्तस्नेहद्विण्मद्यशीलिषु"
+        },
+        {
+          "en": "tri-phalā-pippalī-pathyā-guggulv-ādi-vipācitān",
+          "hi": "त्रिफलापिप्पलीपथ्यागुग्गुल्वादिविपाचितान्"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "\"Sarpis, majjā, vasā and taila are considered the best of snehas; among them sarpis is the best because it follows (takes on) the properties of what it is processed with (saṃskāra)\" (AH Sū 16.2).",
+      "explanation_hi": "\"सर्पि, मज्जा, वसा और तैल स्नेहों में श्रेष्ठ हैं; उनमें भी सर्पि उत्तम है क्योंकि यह संस्कार का अनुवर्तन करता है\" (अ.हृ.सू. 16.2)।",
+      "reference": "AH.sutra.16.2",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0030",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-17",
+      "topic_en": "AH Sū 17: Svedavidhi",
+      "topic_hi": "अ.हृ.सू. 17: स्वेदविधि",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Aṣṭāṅgahṛdaya Sūtrasthāna 17.1). Choose the correct second half of the śloka that begins as shown.",
+      "question_hi": "श्लोक पूरा कीजिए (अष्टाङ्गहृदय सूत्रस्थान 17.1)। दिए गए पूर्वार्ध का सही उत्तरार्ध चुनिए।",
+      "question_sa": "स्वेदस्तापोपनाहोष्मद्रवभेदाच्चतुर्विधः ।",
+      "options": [
+        {
+          "en": "saṃdhi-pīḍā jvaraḥ śyāva-rakta-maṇḍala-darśanam",
+          "hi": "संधिपीडा ज्वरः श्यावरक्तमण्डलदर्शनम्"
+        },
+        {
+          "en": "stambha-tvak-snāyu-saṃkoca-kampa-hṛd-vāg-ghanu-grahaiḥ",
+          "hi": "स्तम्भत्वक्स्नायुसंकोचकम्पहृद्वाग्घनुग्रहैः"
+        },
+        {
+          "en": "tāpo 'gni-tapta-vasana-phāla-hasta-talādibhiḥ",
+          "hi": "तापोऽग्नितप्तवसनफालहस्ततलादिभिः"
+        },
+        {
+          "en": "svara-bhedānila-vyādhi-śleṣmāma-stambha-gaurave",
+          "hi": "स्वरभेदानिलव्याधिश्लेष्मामस्तम्भगौरवे"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "\"Sveda is of four kinds: tāpa, upanāha, ūṣmā and drava; tāpa is given with heated cloth, metal plate, palms etc.\" (AH Sū 17.1).",
+      "explanation_hi": "\"स्वेद चार प्रकार का है: ताप, उपनाह, ऊष्मा और द्रव; ताप अग्नि में तपाए वस्त्र, फाल, हथेली आदि से दिया जाता है\" (अ.हृ.सू. 17.1)।",
+      "reference": "AH.sutra.17.1",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0031",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-20",
+      "topic_en": "AH Sū 20: Nasyavidhi",
+      "topic_hi": "अ.हृ.सू. 20: नस्यविधि",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Aṣṭāṅgahṛdaya Sūtrasthāna 20.1). Choose the correct second half of the śloka that begins as shown.",
+      "question_hi": "श्लोक पूरा कीजिए (अष्टाङ्गहृदय सूत्रस्थान 20.1)। दिए गए पूर्वार्ध का सही उत्तरार्ध चुनिए।",
+      "question_sa": "ऊर्ध्वजत्रुविकारेषु विशेषान्नस्यमिष्यते ।",
+      "options": [
+        {
+          "en": "nāsā hi śiraso dvāraṃ tena tad vyāpya hanti tān",
+          "hi": "नासा हि शिरसो द्वारं तेन तद्व्याप्य हन्ति तान्"
+        },
+        {
+          "en": "śanair ucchidya niṣṭhīvet pārśvayor ubhayos tataḥ",
+          "hi": "शनैरुच्छिद्य निष्ठीवेत्पार्श्वयोरुभयोस्ततः"
+        },
+        {
+          "en": "anvāsa-mātrā-vastī ca tad-vad eva vinirdiśet",
+          "hi": "अन्वासमात्रावस्ती च तद्वदेव विनिर्दिशेत्"
+        },
+        {
+          "en": "vātābhibhūte śirasi hidhmāyām apatānake",
+          "hi": "वाताभिभूते शिरसि हिध्मायामपतानके"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "\"Nasya is especially indicated in diseases above the clavicle; the nose is the gateway to the head, so the drug pervades it and destroys those diseases\" (AH Sū 20.1).",
+      "explanation_hi": "\"जत्रु से ऊपर के विकारों में विशेष रूप से नस्य दिया जाता है; नासा शिर का द्वार है, अतः औषध उसमें व्याप्त होकर रोगों को नष्ट करती है\" (अ.हृ.सू. 20.1)।",
+      "reference": "AH.sutra.20.1",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0032",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-22",
+      "topic_en": "AH Sū 22: Gaṇḍūṣādividhi",
+      "topic_hi": "अ.हृ.सू. 22: गण्डूषादिविधि",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Aṣṭāṅgahṛdaya Sūtrasthāna 22.1). Choose the correct second half of the śloka that begins as shown.",
+      "question_hi": "श्लोक पूरा कीजिए (अष्टाङ्गहृदय सूत्रस्थान 22.1)। दिए गए पूर्वार्ध का सही उत्तरार्ध चुनिए।",
+      "question_sa": "चतुःप्रकारो गण्डूषः स्निग्धः शमनशोधनौ ।",
+      "options": [
+        {
+          "en": "siṃhī-mūlaṃ tilāḥ kṛṣṇā dārvī-tvaṅ nis-tuṣā yavāḥ",
+          "hi": "सिंहीमूलं तिलाः कृष्णा दार्वीत्वङ्निस्तुषा यवाः"
+        },
+        {
+          "en": "jayati janayatīndriya-prasādaṃ svara-hanu-mūrdha-balaṃ ca mūrdha-tailam",
+          "hi": "जयति जनयतीन्द्रियप्रसादं स्वरहनुमूर्धबलं च मूर्धतैलम्"
+        },
+        {
+          "en": "a-kāla-palita-vyaṅga-valī-timira-nīlikāḥ",
+          "hi": "अकालपलितव्यङ्गवलीतिमिरनीलिकाः"
+        },
+        {
+          "en": "ropaṇaś ca trayas tatra triṣu yojyāś calādiṣu",
+          "hi": "रोपणश्च त्रयस्तत्र त्रिषु योज्याश्चलादिषु"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "\"Gaṇḍūṣa is of four kinds: snigdha, śamana, śodhana and ropaṇa; the first three are used in vāta, pitta and kapha respectively\" (AH Sū 22.1).",
+      "explanation_hi": "\"गण्डूष चार प्रकार का है: स्निग्ध, शमन, शोधन और रोपण; पहले तीन क्रमशः वात, पित्त और कफ में प्रयुक्त होते हैं\" (अ.हृ.सू. 22.1)।",
+      "reference": "AH.sutra.22.1",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0033",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-30",
+      "topic_en": "AH Sū 30: Kṣārāgnikarmavidhi",
+      "topic_hi": "अ.हृ.सू. 30: क्षाराग्निकर्मविधि",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Aṣṭāṅgahṛdaya Sūtrasthāna 30.1). Choose the correct second half of the śloka that begins as shown.",
+      "question_hi": "श्लोक पूरा कीजिए (अष्टाङ्गहृदय सूत्रस्थान 30.1)। दिए गए पूर्वार्ध का सही उत्तरार्ध चुनिए।",
+      "question_sa": "सर्वशस्त्रानुशस्त्राणां क्षारः श्रेष्ठो बहूनि यत् ।",
+      "options": [
+        {
+          "en": "indravṛkṣārka-pūtīka-naktamālāśvamārakān",
+          "hi": "इन्द्रवृक्षार्कपूतीकनक्तमालाश्वमारकान्"
+        },
+        {
+          "en": "sneha-dagdhe bhṛśa-taraṃ rūkṣaṃ tatra tu yojayet",
+          "hi": "स्नेहदग्धे भृशतरं रूक्षं तत्र तु योजयेत्"
+        },
+        {
+          "en": "svarjikā-kanakakṣīrī-hiṅgu-pūtika-pallavāḥ",
+          "hi": "स्वर्जिकाकनकक्षीरीहिङ्गुपूतिकपल्लवाः"
+        },
+        {
+          "en": "chedya-bhedyādi-karmāṇi kurute viṣameṣv api",
+          "hi": "छेद्यभेद्यादिकर्माणि कुरुते विषमेष्वपि"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "\"Kṣāra is the best of all śastras and anuśastras, because it performs many actions such as chedana and bhedana even in difficult places\" (AH Sū 30.1).",
+      "explanation_hi": "\"सब शस्त्रों और अनुशस्त्रों में क्षार श्रेष्ठ है, क्योंकि यह कठिन स्थानों में भी छेदन, भेदन आदि अनेक कर्म करता है\" (अ.हृ.सू. 30.1)।",
+      "reference": "AH.sutra.30.1",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0034",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-1",
+      "topic_en": "AH Sū 1: Āyuṣkāmīya",
+      "topic_hi": "अ.हृ.सू. 1: आयुष्कामीय",
+      "type": "mcq",
+      "question_en": "According to AH Sū 1.3, Brahmā first taught Āyurveda to:",
+      "question_hi": "अ.हृ.सू. 1.3 के अनुसार ब्रह्मा ने सबसे पहले आयुर्वेद किसे सिखाया?",
+      "options": [
+        {
+          "en": "Prajāpati (Dakṣa)",
+          "hi": "प्रजापति (दक्ष)"
+        },
+        {
+          "en": "Indra",
+          "hi": "इन्द्र"
+        },
+        {
+          "en": "The Aśvins",
+          "hi": "अश्विनीकुमार"
+        },
+        {
+          "en": "Ātreya",
+          "hi": "आत्रेय"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "AH Sū 1.3: Brahmā → Prajāpati → the Aśvins → Sahasrākṣa (Indra) → Ātreya's son (Punarvasu) and other sages → Agniveśa etc. (1.4).",
+      "explanation_hi": "अ.हृ.सू. 1.3: ब्रह्मा → प्रजापति → अश्विनीकुमार → सहस्राक्ष (इन्द्र) → अत्रिपुत्र (पुनर्वसु) आदि मुनि → अग्निवेश आदि (1.4)।",
+      "reference": "AH.sutra.1.3",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0035",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-1",
+      "topic_en": "AH Sū 1: Āyuṣkāmīya",
+      "topic_hi": "अ.हृ.सू. 1: आयुष्कामीय",
+      "type": "mcq",
+      "question_en": "Which of the following is NOT one of the eight aṅgas of Āyurveda listed in AH Sū 1.5?",
+      "question_hi": "अ.हृ.सू. 1.5 में गिनाए आयुर्वेद के आठ अंगों में कौन नहीं है?",
+      "options": [
+        {
+          "en": "Kāya",
+          "hi": "काय"
+        },
+        {
+          "en": "Bāla",
+          "hi": "बाल"
+        },
+        {
+          "en": "Rasaśāstra",
+          "hi": "रसशास्त्र"
+        },
+        {
+          "en": "Daṃṣṭrā",
+          "hi": "दंष्ट्रा"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "AH Sū 1.5: kāya, bāla, graha, ūrdhvāṅga, śalya, daṃṣṭrā, jarā and vṛṣa. Rasaśāstra (iatrochemistry) developed later and is not one of the eight aṅgas.",
+      "explanation_hi": "अ.हृ.सू. 1.5: काय, बाल, ग्रह, ऊर्ध्वाङ्ग, शल्य, दंष्ट्रा, जरा और वृष। रसशास्त्र बाद में विकसित हुआ और आठ अंगों में नहीं है।",
+      "reference": "AH.sutra.1.5",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0036",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-1",
+      "topic_en": "AH Sū 1: Āyuṣkāmīya",
+      "topic_hi": "अ.हृ.सू. 1: आयुष्कामीय",
+      "type": "mcq",
+      "question_en": "In the aṣṭāṅga of AH Sū 1.5, 'jarā' and 'vṛṣa' correspond to:",
+      "question_hi": "अ.हृ.सू. 1.5 के अष्टाङ्ग में 'जरा' और 'वृष' किसके अनुरूप हैं?",
+      "options": [
+        {
+          "en": "Kaumārabhṛtya and bhūtavidyā",
+          "hi": "कौमारभृत्य और भूतविद्या"
+        },
+        {
+          "en": "Rasāyana and vājīkaraṇa",
+          "hi": "रसायन और वाजीकरण"
+        },
+        {
+          "en": "Śālākya and śalya",
+          "hi": "शालाक्य और शल्य"
+        },
+        {
+          "en": "Kāyacikitsā and agada",
+          "hi": "कायचिकित्सा और अगद"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "Jarā (geriatrics) = rasāyana; vṛṣa = vājīkaraṇa. Bāla = kaumārabhṛtya, graha = bhūtavidyā, ūrdhvāṅga = śālākya, daṃṣṭrā = agada tantra.",
+      "explanation_hi": "जरा = रसायन; वृष = वाजीकरण। बाल = कौमारभृत्य, ग्रह = भूतविद्या, ऊर्ध्वाङ्ग = शालाक्य, दंष्ट्रा = अगद तन्त्र।",
+      "reference": "AH.sutra.1.5",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0037",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-1",
+      "topic_en": "AH Sū 1: Āyuṣkāmīya",
+      "topic_hi": "अ.हृ.सू. 1: आयुष्कामीय",
+      "type": "mcq",
+      "question_en": "According to AH Sū 1.19, the sole cause of both disease and health is the hīna, mithyā, ati and samyak yoga of:",
+      "question_hi": "अ.हृ.सू. 1.19 के अनुसार रोग और आरोग्य का एकमात्र कारण किसका हीन, मिथ्या, अति और सम्यक् योग है?",
+      "options": [
+        {
+          "en": "Kāla, artha (sense objects) and karma",
+          "hi": "काल, अर्थ (इन्द्रियार्थ) और कर्म"
+        },
+        {
+          "en": "Doṣa, dhātu, mala",
+          "hi": "दोष, धातु, मल"
+        },
+        {
+          "en": "Rasa, vīrya, vipāka",
+          "hi": "रस, वीर्य, विपाक"
+        },
+        {
+          "en": "Āhāra, nidrā, brahmacarya",
+          "hi": "आहार, निद्रा, ब्रह्मचर्य"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "AH Sū 1.19: \"kālārthakarmaṇāṃ yogo hīnamithyātimātrakaḥ, samyagyogaś ca vijñeyo rogārogyaikakāraṇam\".",
+      "explanation_hi": "अ.हृ.सू. 1.19: \"कालार्थकर्मणां योगो हीनमिथ्यातिमात्रकः, सम्यग्योगश्च विज्ञेयो रोगारोग्यैककारणम्\"।",
+      "reference": "AH.sutra.1.19",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0038",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-1",
+      "topic_en": "AH Sū 1: Āyuṣkāmīya",
+      "topic_hi": "अ.हृ.सू. 1: आयुष्कामीय",
+      "type": "mcq",
+      "question_en": "According to AH Sū 1.23, jāṅgala deśa has a predominance of:",
+      "question_hi": "अ.हृ.सू. 1.23 के अनुसार जाङ्गल देश में किसकी प्रधानता है?",
+      "options": [
+        {
+          "en": "Kapha",
+          "hi": "कफ"
+        },
+        {
+          "en": "Pitta",
+          "hi": "पित्त"
+        },
+        {
+          "en": "Vāta",
+          "hi": "वात"
+        },
+        {
+          "en": "All doṣas equally",
+          "hi": "सब दोष समान"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "AH Sū 1.23: \"jāṅgalaṃ vātabhūyiṣṭham anūpaṃ tu kapholbaṇam\"; sādhāraṇa deśa has balanced doṣas (1.24).",
+      "explanation_hi": "अ.हृ.सू. 1.23: \"जाङ्गलं वातभूयिष्ठमनूपं तु कफोल्बणम्\"; साधारण देश में दोष सम होते हैं (1.24)।",
+      "reference": "AH.sutra.1.23",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0039",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-1",
+      "topic_en": "AH Sū 1: Āyuṣkāmīya",
+      "topic_hi": "अ.हृ.सू. 1: आयुष्कामीय",
+      "type": "mcq",
+      "question_en": "According to AH Sū 1.25, auṣadha (therapy) is in brief of two kinds:",
+      "question_hi": "अ.हृ.सू. 1.25 के अनुसार संक्षेप में औषध दो प्रकार का है:",
+      "options": [
+        {
+          "en": "Santarpaṇa and apatarpaṇa",
+          "hi": "सन्तर्पण और अपतर्पण"
+        },
+        {
+          "en": "Bāhya and ābhyantara",
+          "hi": "बाह्य और आभ्यन्तर"
+        },
+        {
+          "en": "Daiva and yukti",
+          "hi": "दैव और युक्ति"
+        },
+        {
+          "en": "Śodhana and śamana",
+          "hi": "शोधन और शमन"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "AH Sū 1.25: \"śodhanaṃ śamanaṃ ceti samāsād auṣadhaṃ dvidhā\". Santarpaṇa-apatarpaṇa is the dvividha upakrama of Sū 14.",
+      "explanation_hi": "अ.हृ.सू. 1.25: \"शोधनं शमनं चेति समासादौषधं द्विधा\"। सन्तर्पण-अपतर्पण सू. 14 का द्विविध उपक्रम है।",
+      "reference": "AH.sutra.1.25",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0040",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-1",
+      "topic_en": "AH Sū 1: Āyuṣkāmīya",
+      "topic_hi": "अ.हृ.सू. 1: आयुष्कामीय",
+      "type": "mcq",
+      "question_en": "According to AH Sū 1.25-26, the best remedy for kapha is:",
+      "question_hi": "अ.हृ.सू. 1.25-26 के अनुसार कफ की परम औषध है:",
+      "options": [
+        {
+          "en": "Basti and taila",
+          "hi": "बस्ति और तैल"
+        },
+        {
+          "en": "Vamana and madhu",
+          "hi": "वमन और मधु"
+        },
+        {
+          "en": "Virecana and ghṛta",
+          "hi": "विरेचन और घृत"
+        },
+        {
+          "en": "Nasya and dugdha",
+          "hi": "नस्य और दुग्ध"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "Basti and taila for vāta, virecana and ghṛta for pitta, vamana and madhu for kapha, taken in order (kramena).",
+      "explanation_hi": "क्रम से: वात के लिए बस्ति और तैल, पित्त के लिए विरेचन और घृत, कफ के लिए वमन और मधु।",
+      "reference": "AH.sutra.1.26",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0041",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-1",
+      "topic_en": "AH Sū 1: Āyuṣkāmīya",
+      "topic_hi": "अ.हृ.सू. 1: आयुष्कामीय",
+      "type": "mcq",
+      "question_en": "According to AH Sū 1.28, which is NOT one of the four qualities of a good physician?",
+      "question_hi": "अ.हृ.सू. 1.28 के अनुसार उत्तम भिषक् के चार गुणों में कौन-सा नहीं है?",
+      "options": [
+        {
+          "en": "Dakṣa (skilful)",
+          "hi": "दक्ष"
+        },
+        {
+          "en": "Śuci (clean)",
+          "hi": "शुचि"
+        },
+        {
+          "en": "Āḍhya (wealthy)",
+          "hi": "आढ्य (धनी)"
+        },
+        {
+          "en": "Dṛṣṭakarmā (practical experience)",
+          "hi": "दृष्टकर्मा"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "AH Sū 1.28: dakṣa, tīrthāttaśāstrārtha (learned from a teacher), dṛṣṭakarmā and śuci. Āḍhya (wealthy) is a quality of the patient (1.29).",
+      "explanation_hi": "अ.हृ.सू. 1.28: दक्ष, तीर्थात्तशास्त्रार्थ, दृष्टकर्मा और शुचि। आढ्य (धनी) रोगी का गुण है (1.29)।",
+      "reference": "AH.sutra.1.28",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0042",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-1",
+      "topic_en": "AH Sū 1: Āyuṣkāmīya",
+      "topic_hi": "अ.हृ.सू. 1: आयुष्कामीय",
+      "type": "mcq",
+      "question_en": "According to AH Sū 1.30, a disease is first divided into sādhya and asādhya. Asādhya is further divided into:",
+      "question_hi": "अ.हृ.सू. 1.30 के अनुसार रोग पहले साध्य-असाध्य में बँटता है। असाध्य के आगे भेद हैं:",
+      "options": [
+        {
+          "en": "Susādhya and kṛcchrasādhya",
+          "hi": "सुसाध्य और कृच्छ्रसाध्य"
+        },
+        {
+          "en": "Yāpya and anupakrama",
+          "hi": "याप्य और अनुपक्रम"
+        },
+        {
+          "en": "Nija and āgantu",
+          "hi": "निज और आगन्तु"
+        },
+        {
+          "en": "Śārīra and mānasa",
+          "hi": "शारीर और मानस"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "AH Sū 1.30: sādhya → susādhya and kṛcchrasādhya; asādhya → yāpya and anupakrama.",
+      "explanation_hi": "अ.हृ.सू. 1.30: साध्य → सुसाध्य और कृच्छ्रसाध्य; असाध्य → याप्य और अनुपक्रम।",
+      "reference": "AH.sutra.1.30",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0043",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-1",
+      "topic_en": "AH Sū 1: Āyuṣkāmīya",
+      "topic_hi": "अ.हृ.सू. 1: आयुष्कामीय",
+      "type": "mcq",
+      "question_en": "How many chapters are there in the Sūtrasthāna of Aṣṭāṅgahṛdaya?",
+      "question_hi": "अष्टाङ्गहृदय के सूत्रस्थान में कितने अध्याय हैं?",
+      "options": [
+        {
+          "en": "Thirty",
+          "hi": "तीस"
+        },
+        {
+          "en": "Twenty-two",
+          "hi": "बाईस"
+        },
+        {
+          "en": "Forty",
+          "hi": "चालीस"
+        },
+        {
+          "en": "Six",
+          "hi": "छह"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "AH Sū 1.39: \"sūtrasthānam ime 'dhyāyās triṃśat\". Cikitsāsthāna has 22, Uttarasthāna 40, Śārīra and Kalpasiddhi 6 each, Nidāna 16: 120 chapters in all.",
+      "explanation_hi": "अ.हृ.सू. 1.39: \"सूत्रस्थानमिमेऽध्यायास्त्रिंशत्\"। चिकित्सा 22, उत्तर 40, शारीर और कल्पसिद्धि 6-6, निदान 16 - कुल 120 अध्याय।",
+      "reference": "AH.sutra.1.39",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0044",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-1",
+      "topic_en": "AH Sū 1: Āyuṣkāmīya",
+      "topic_hi": "अ.हृ.सू. 1: आयुष्कामीय",
+      "type": "mcq",
+      "question_en": "What is the total number of chapters in the six sthānas of Aṣṭāṅgahṛdaya?",
+      "question_hi": "अष्टाङ्गहृदय के छह स्थानों में कुल कितने अध्याय हैं?",
+      "options": [
+        {
+          "en": "100",
+          "hi": "100"
+        },
+        {
+          "en": "150",
+          "hi": "150"
+        },
+        {
+          "en": "186",
+          "hi": "186"
+        },
+        {
+          "en": "120",
+          "hi": "120"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "30 + 6 + 16 + 22 + 6 + 40 = 120 (AH Sū 1.39-48). 120 is also the number of chapters of the Carakasaṃhitā; 186 is the Suśrutasaṃhitā (with Uttaratantra).",
+      "explanation_hi": "30 + 6 + 16 + 22 + 6 + 40 = 120 (अ.हृ.सू. 1.39-48)। चरकसंहिता में भी 120 अध्याय हैं; 186 सुश्रुतसंहिता (उत्तरतन्त्र सहित) के हैं।",
+      "reference": "AH.sutra.1.39",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0045",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-1",
+      "topic_en": "AH Sū 1: Āyuṣkāmīya",
+      "topic_hi": "अ.हृ.सू. 1: आयुष्कामीय",
+      "type": "true_false",
+      "question_en": "According to Aṣṭāṅgahṛdaya, vīrya is of eight kinds.",
+      "question_hi": "अष्टाङ्गहृदय के अनुसार वीर्य आठ प्रकार का है।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "False. AH Sū 1.17 accepts two vīryas, uṣṇa and śīta. The eightfold view is mentioned by Caraka as the opinion of some (CS Sū 26.64).",
+      "explanation_hi": "असत्य। अ.हृ.सू. 1.17 दो वीर्य (उष्ण और शीत) मानता है। आठ प्रकार का मत चरक कुछ आचार्यों के मत के रूप में बताते हैं (च.सू. 26.64)।",
+      "reference": "AH.sutra.1.17",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0046",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-1",
+      "topic_en": "AH Sū 1: Āyuṣkāmīya",
+      "topic_hi": "अ.हृ.सू. 1: आयुष्कामीय",
+      "type": "true_false",
+      "question_en": "According to AH Sū 1.21, the adhiṣṭhāna (seat) of diseases is twofold: body and mind.",
+      "question_hi": "अ.हृ.सू. 1.21 के अनुसार रोगों का अधिष्ठान दो प्रकार का है: शरीर और मन।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "True. AH Sū 1.21: \"teṣāṃ kāyamanobhedād adhiṣṭhānam api dvidhā\".",
+      "explanation_hi": "सत्य। अ.हृ.सू. 1.21: \"तेषां कायमनोभेदादधिष्ठानमपि द्विधा\"।",
+      "reference": "AH.sutra.1.21",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0047",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-2",
+      "topic_en": "AH Sū 2: Dinacaryā",
+      "topic_hi": "अ.हृ.सू. 2: दिनचर्या",
+      "type": "mcq",
+      "question_en": "According to AH Sū 2.3, the dantadhāvana (tooth-brush twig) should be:",
+      "question_hi": "अ.हृ.सू. 2.3 के अनुसार दन्तधावन (दातुन) होना चाहिए:",
+      "options": [
+        {
+          "en": "Twelve aṅgula long, as thick as the tip of the little finger",
+          "hi": "बारह अंगुल लम्बा, कनिष्ठिका के अग्र जितना मोटा"
+        },
+        {
+          "en": "Six aṅgula long, thumb-thick",
+          "hi": "छह अंगुल लम्बा, अंगूठे जितना मोटा"
+        },
+        {
+          "en": "Twenty-four aṅgula long",
+          "hi": "चौबीस अंगुल लम्बा"
+        },
+        {
+          "en": "Eight aṅgula long, index-finger thick",
+          "hi": "आठ अंगुल लम्बा, तर्जनी जितना मोटा"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "AH Sū 2.3: \"kanīnyagrasamasthaulyaṃ praguṇaṃ dvādaśāṅgulam\". AH Sū 2.2 names twigs of arka, nyagrodha, khadira, karañja, kakubha, with kaṣāya, kaṭu or tikta taste.",
+      "explanation_hi": "अ.हृ.सू. 2.3: \"कनीन्यग्रसमस्थौल्यं प्रगुणं द्वादशाङ्गुलम्\"। अ.हृ.सू. 2.2 में अर्क, न्यग्रोध, खदिर, करञ्ज, ककुभ की दातुन और कषाय, कटु, तिक्त रस बताए गए हैं।",
+      "reference": "AH.sutra.2.3",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0048",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-2",
+      "topic_en": "AH Sū 2: Dinacaryā",
+      "topic_hi": "अ.हृ.सू. 2: दिनचर्या",
+      "type": "mcq",
+      "question_en": "Which tastes are recommended for the dantadhāvana twig in AH Sū 2.2?",
+      "question_hi": "अ.हृ.सू. 2.2 में दातुन के लिए कौन-से रस बताए गए हैं?",
+      "options": [
+        {
+          "en": "Madhura, amla, lavaṇa",
+          "hi": "मधुर, अम्ल, लवण"
+        },
+        {
+          "en": "Madhura, tikta, kaṣāya",
+          "hi": "मधुर, तिक्त, कषाय"
+        },
+        {
+          "en": "Kaṣāya, kaṭu, tikta",
+          "hi": "कषाय, कटु, तिक्त"
+        },
+        {
+          "en": "Amla, lavaṇa, kaṭu",
+          "hi": "अम्ल, लवण, कटु"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "AH Sū 2.2: \"kaṣāyakaṭutiktakam\". These tastes counter the kapha accumulated in the mouth overnight.",
+      "explanation_hi": "अ.हृ.सू. 2.2: \"कषायकटुतिक्तकम्\"। ये रस रात भर मुख में संचित कफ को दूर करते हैं।",
+      "reference": "AH.sutra.2.2",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0049",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-2",
+      "topic_en": "AH Sū 2: Dinacaryā",
+      "topic_hi": "अ.हृ.सू. 2: दिनचर्या",
+      "type": "mcq",
+      "question_en": "Which añjana should be applied daily according to AH Sū 2.5?",
+      "question_hi": "अ.हृ.सू. 2.5 के अनुसार प्रतिदिन कौन-सा अञ्जन लगाना चाहिए?",
+      "options": [
+        {
+          "en": "Rasāñjana",
+          "hi": "रसाञ्जन"
+        },
+        {
+          "en": "Sauvīrāñjana",
+          "hi": "सौवीराञ्जन"
+        },
+        {
+          "en": "Srotoñjana with honey",
+          "hi": "मधु सहित स्रोतोञ्जन"
+        },
+        {
+          "en": "Tutthāñjana",
+          "hi": "तुत्थाञ्जन"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "AH Sū 2.5: \"sauvīram añjanaṃ nityaṃ hitam akṣṇoḥ\"; rasāñjana is used once in seven nights for srāvaṇa (2.6).",
+      "explanation_hi": "अ.हृ.सू. 2.5: \"सौवीरमञ्जनं नित्यं हितमक्ष्णोः\"; रसाञ्जन सात रात में एक बार स्रावण के लिए (2.6)।",
+      "reference": "AH.sutra.2.5",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0050",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-2",
+      "topic_en": "AH Sū 2: Dinacaryā",
+      "topic_hi": "अ.हृ.सू. 2: दिनचर्या",
+      "type": "mcq",
+      "question_en": "According to AH Sū 2.6, rasāñjana should be applied for srāvaṇa (draining) once in how many nights?",
+      "question_hi": "अ.हृ.सू. 2.6 के अनुसार स्रावण के लिए रसाञ्जन कितनी रातों में एक बार लगाएँ?",
+      "options": [
+        {
+          "en": "Three",
+          "hi": "तीन"
+        },
+        {
+          "en": "Five",
+          "hi": "पाँच"
+        },
+        {
+          "en": "Fifteen",
+          "hi": "पन्द्रह"
+        },
+        {
+          "en": "Seven",
+          "hi": "सात"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "AH Sū 2.6: \"yojayet saptarātre 'smāt srāvaṇārthaṃ rasāñjanam\", because the eye is tejomaya and especially threatened by kapha.",
+      "explanation_hi": "अ.हृ.सू. 2.6: \"योजयेत्सप्तरात्रेऽस्मात्स्रावणार्थं रसाञ्जनम्\", क्योंकि नेत्र तेजोमय है और उसे विशेषकर कफ से भय है।",
+      "reference": "AH.sutra.2.6",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0051",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-2",
+      "topic_en": "AH Sū 2: Dinacaryā",
+      "topic_hi": "अ.हृ.सू. 2: दिनचर्या",
+      "type": "mcq",
+      "question_en": "According to AH Sū 2.9, abhyaṅga should be applied especially to the:",
+      "question_hi": "अ.हृ.सू. 2.9 के अनुसार अभ्यंग विशेष रूप से कहाँ करना चाहिए?",
+      "options": [
+        {
+          "en": "Chest, back and abdomen",
+          "hi": "छाती, पीठ और पेट"
+        },
+        {
+          "en": "Head, ears and feet",
+          "hi": "सिर, कान और पैर"
+        },
+        {
+          "en": "Eyes, nose and mouth",
+          "hi": "आँख, नाक और मुँह"
+        },
+        {
+          "en": "Joints only",
+          "hi": "केवल सन्धियाँ"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "AH Sū 2.9: \"śiraḥśravaṇapādeṣu taṃ viśeṣeṇa śīlayet\". Abhyaṅga is avoided in kapha disorders, after śodhana and in indigestion.",
+      "explanation_hi": "अ.हृ.सू. 2.9: \"शिरःश्रवणपादेषु तं विशेषेण शीलयेत्\"। कफ-रोग, संशोधन के बाद और अजीर्ण में अभ्यंग वर्जित है।",
+      "reference": "AH.sutra.2.9",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0052",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-2",
+      "topic_en": "AH Sū 2: Dinacaryā",
+      "topic_hi": "अ.हृ.सू. 2: दिनचर्या",
+      "type": "mcq",
+      "question_en": "According to AH Sū 2.11-12, strong people who eat unctuous food should do vyāyāma to what extent in winter and spring?",
+      "question_hi": "अ.हृ.सू. 2.11-12 के अनुसार स्निग्ध भोजन करने वाले बलवान लोग शीतकाल और वसन्त में व्यायाम कितना करें?",
+      "options": [
+        {
+          "en": "Ardhaśakti (half of one's capacity)",
+          "hi": "अर्धशक्ति (आधी क्षमता तक)"
+        },
+        {
+          "en": "Until exhaustion",
+          "hi": "थकावट तक"
+        },
+        {
+          "en": "One-fourth of capacity",
+          "hi": "चौथाई क्षमता तक"
+        },
+        {
+          "en": "Should not exercise",
+          "hi": "व्यायाम न करें"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "AH Sū 2.11-12: \"ardhaśaktyā niṣevyas tu balibhiḥ snigdhabhojibhiḥ, śītakāle vasante ca; mandam eva tato 'nyadā\". In other seasons, only mild exercise.",
+      "explanation_hi": "अ.हृ.सू. 2.11-12: \"अर्धशक्त्या निषेव्यस्तु बलिभिः स्निग्धभोजिभिः, शीतकाले वसन्ते च; मन्दमेव ततोऽन्यदा\"। अन्य ऋतुओं में केवल हल्का व्यायाम।",
+      "reference": "AH.sutra.2.11",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0053",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-2",
+      "topic_en": "AH Sū 2: Dinacaryā",
+      "topic_hi": "अ.हृ.सू. 2: दिनचर्या",
+      "type": "mcq",
+      "question_en": "Who should avoid vyāyāma according to AH Sū 2.11?",
+      "question_hi": "अ.हृ.सू. 2.11 के अनुसार व्यायाम किसे नहीं करना चाहिए?",
+      "options": [
+        {
+          "en": "Strong people in winter",
+          "hi": "शीतकाल में बलवान लोग"
+        },
+        {
+          "en": "Those who eat unctuous food",
+          "hi": "स्निग्ध भोजन करने वाले"
+        },
+        {
+          "en": "People with vāta-pitta disorders, children, the elderly and those with indigestion",
+          "hi": "वात-पित्त रोगी, बालक, वृद्ध और अजीर्ण वाले"
+        },
+        {
+          "en": "Those with excess medas",
+          "hi": "अधिक मेद वाले"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "AH Sū 2.11: \"vātapittāmayī bālo vṛddho 'jīrṇī ca taṃ tyajet\". Exercise is in fact beneficial for medas reduction (2.10).",
+      "explanation_hi": "अ.हृ.सू. 2.11: \"वातपित्तामयी बालो वृद्धोऽजीर्णी च तं त्यजेत्\"। मेद घटाने के लिए तो व्यायाम हितकर है (2.10)।",
+      "reference": "AH.sutra.2.11",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0054",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-2",
+      "topic_en": "AH Sū 2: Dinacaryā",
+      "topic_hi": "अ.हृ.सू. 2: दिनचर्या",
+      "type": "mcq",
+      "question_en": "Udvartana (powder massage) is said in AH Sū 2.15 to be:",
+      "question_hi": "अ.हृ.सू. 2.15 में उद्वर्तन को क्या बताया गया है?",
+      "options": [
+        {
+          "en": "Vāta-increasing and drying",
+          "hi": "वातवर्धक और शोषक"
+        },
+        {
+          "en": "Pitta-increasing",
+          "hi": "पित्तवर्धक"
+        },
+        {
+          "en": "Only for children",
+          "hi": "केवल बालकों के लिए"
+        },
+        {
+          "en": "Kapha-removing and dissolving medas",
+          "hi": "कफहर और मेद का प्रविलायन करने वाला"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "AH Sū 2.15: \"udvartanaṃ kaphaharaṃ medasaḥ pravilāyanam, sthirīkaraṇam aṅgānāṃ tvakprasādakaraṃ param\".",
+      "explanation_hi": "अ.हृ.सू. 2.15: \"उद्वर्तनं कफहरं मेदसः प्रविलायनम्, स्थिरीकरणमङ्गानां त्वक्प्रसादकरं परम्\"।",
+      "reference": "AH.sutra.2.15",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0055",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-2",
+      "topic_en": "AH Sū 2: Dinacaryā",
+      "topic_hi": "अ.हृ.सू. 2: दिनचर्या",
+      "type": "mcq",
+      "question_en": "According to AH Sū 2.17, pouring hot water on the head is:",
+      "question_hi": "अ.हृ.सू. 2.17 के अनुसार सिर पर गरम जल डालना:",
+      "options": [
+        {
+          "en": "Strengthening for hair and eyes",
+          "hi": "केश और नेत्रों के लिए बलदायक"
+        },
+        {
+          "en": "Beneficial in all seasons",
+          "hi": "सब ऋतुओं में हितकर"
+        },
+        {
+          "en": "Harmful to the strength of hair and eyes",
+          "hi": "केश और नेत्रों के बल का नाशक"
+        },
+        {
+          "en": "Recommended only for children",
+          "hi": "केवल बालकों के लिए"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "AH Sū 2.17: hot water on the lower body gives strength, but on the head (uttamāṅga) it weakens hair and eyes.",
+      "explanation_hi": "अ.हृ.सू. 2.17: शरीर के निचले भाग पर गरम जल बलदायक है, पर सिर (उत्तमाङ्ग) पर केश और नेत्रों का बल हरता है।",
+      "reference": "AH.sutra.2.17",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0056",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-2",
+      "topic_en": "AH Sū 2: Dinacaryā",
+      "topic_hi": "अ.हृ.सू. 2: दिनचर्या",
+      "type": "mcq",
+      "question_en": "In the ten pāpa karmas of AH Sū 2.21-22, which group belongs to vāk (speech)?",
+      "question_hi": "अ.हृ.सू. 2.21-22 के दस पाप कर्मों में कौन-सा समूह वाणी (वाक्) से सम्बन्धित है?",
+      "options": [
+        {
+          "en": "Paiśunya, paruṣa, anṛta, sambhinnālāpa",
+          "hi": "पैशुन्य, परुष, अनृत, सम्भिन्नालाप"
+        },
+        {
+          "en": "Hiṃsā, steya, anyathākāma",
+          "hi": "हिंसा, स्तेय, अन्यथाकाम"
+        },
+        {
+          "en": "Vyāpāda, abhidhyā, dṛgviparyaya",
+          "hi": "व्यापाद, अभिध्या, दृग्विपर्यय"
+        },
+        {
+          "en": "Krodha, lobha, moha",
+          "hi": "क्रोध, लोभ, मोह"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "Bodily (3): violence, theft, illicit sex; verbal (4): slander, harsh words, lies, incoherent talk; mental (3): ill-will, covetousness, wrong views. Krodha-lobha-moha are not this list.",
+      "explanation_hi": "शारीरिक (3): हिंसा, चोरी, अन्यथाकाम; वाचिक (4): पैशुन्य, परुष, अनृत, सम्भिन्नालाप; मानसिक (3): व्यापाद, अभिध्या, दृग्विपर्यय। क्रोध-लोभ-मोह इस सूची के नहीं हैं।",
+      "reference": "AH.sutra.2.21",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0057",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-2",
+      "topic_en": "AH Sū 2: Dinacaryā",
+      "topic_hi": "अ.हृ.सू. 2: दिनचर्या",
+      "type": "true_false",
+      "question_en": "According to AH Sū 2.4, a person with ajīrṇa, vomiting, dyspnoea, cough or fever should not use the dantadhāvana twig.",
+      "question_hi": "अ.हृ.सू. 2.4 के अनुसार अजीर्ण, वमन, श्वास, कास या ज्वर वाला व्यक्ति दातुन न करे।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "True. AH Sū 2.4 forbids it in ajīrṇa, vamathu, śvāsa, kāsa, jvara, ardita, tṛṣṇā, mouth ulcers and diseases of heart, eyes, head and ears.",
+      "explanation_hi": "सत्य। अ.हृ.सू. 2.4 में अजीर्ण, वमथु, श्वास, कास, ज्वर, अर्दित, तृष्णा, आस्यपाक और हृदय, नेत्र, शिर, कर्ण के रोगों में दातुन वर्जित है।",
+      "reference": "AH.sutra.2.4",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0058",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-2",
+      "topic_en": "AH Sū 2: Dinacaryā",
+      "topic_hi": "अ.हृ.सू. 2: दिनचर्या",
+      "type": "true_false",
+      "question_en": "AH Sū 2.13 states that excessive exercise can cause thirst, emaciation, raktapitta, cough and fever.",
+      "question_hi": "अ.हृ.सू. 2.13 के अनुसार अति व्यायाम से तृष्णा, क्षय, रक्तपित्त, कास और ज्वर हो सकते हैं।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "True. AH Sū 2.13: tṛṣṇā, kṣaya, pratamaka, raktapitta, śrama, klama, kāsa, jvara and chardi arise from ativyāyāma.",
+      "explanation_hi": "सत्य। अ.हृ.सू. 2.13: अति व्यायाम से तृष्णा, क्षय, प्रतमक, रक्तपित्त, श्रम, क्लम, कास, ज्वर और छर्दि होते हैं।",
+      "reference": "AH.sutra.2.13",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0059",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-3",
+      "topic_en": "AH Sū 3: Ṛtucaryā",
+      "topic_hi": "अ.हृ.सू. 3: ऋतुचर्या",
+      "type": "mcq",
+      "question_en": "Ādānakāla (uttarāyaṇa) consists of which three seasons?",
+      "question_hi": "आदानकाल (उत्तरायण) में कौन-सी तीन ऋतुएँ हैं?",
+      "options": [
+        {
+          "en": "Varṣā, śarad, hemanta",
+          "hi": "वर्षा, शरद्, हेमन्त"
+        },
+        {
+          "en": "Vasanta, grīṣma, varṣā",
+          "hi": "वसन्त, ग्रीष्म, वर्षा"
+        },
+        {
+          "en": "Hemanta, śiśira, vasanta",
+          "hi": "हेमन्त, शिशिर, वसन्त"
+        },
+        {
+          "en": "Śiśira, vasanta, grīṣma",
+          "hi": "शिशिर, वसन्त, ग्रीष्म"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "AH Sū 3.2: the three seasons from śiśira form uttarāyaṇa or ādāna, which takes away people's strength daily. Varṣā, śarad and hemanta form visarga (3.4-5).",
+      "explanation_hi": "अ.हृ.सू. 3.2: शिशिर से तीन ऋतुएँ उत्तरायण या आदान हैं, जो प्रतिदिन लोगों का बल लेता है। वर्षा, शरद्, हेमन्त विसर्ग हैं (3.4-5)।",
+      "reference": "AH.sutra.3.2",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0060",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-3",
+      "topic_en": "AH Sū 3: Ṛtucaryā",
+      "topic_hi": "अ.हृ.सू. 3: ऋतुचर्या",
+      "type": "mcq",
+      "question_en": "During ādānakāla, which rasas become progressively strong (AH Sū 3.4)?",
+      "question_hi": "आदानकाल में कौन-से रस क्रमशः बलवान होते हैं (अ.हृ.सू. 3.4)?",
+      "options": [
+        {
+          "en": "Madhura, amla, lavaṇa",
+          "hi": "मधुर, अम्ल, लवण"
+        },
+        {
+          "en": "Tikta, kaṣāya, kaṭu",
+          "hi": "तिक्त, कषाय, कटु"
+        },
+        {
+          "en": "Amla, lavaṇa, madhura",
+          "hi": "अम्ल, लवण, मधुर"
+        },
+        {
+          "en": "Kaṭu, lavaṇa, amla",
+          "hi": "कटु, लवण, अम्ल"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "AH Sū 3.4: tikta, kaṣāya and kaṭu are strong in ādāna (śiśira, vasanta, grīṣma respectively); amla, lavaṇa and madhura in visarga (3.6).",
+      "explanation_hi": "अ.हृ.सू. 3.4: आदान में तिक्त, कषाय, कटु (क्रमशः शिशिर, वसन्त, ग्रीष्म में) और विसर्ग में अम्ल, लवण, मधुर बलवान होते हैं (3.6)।",
+      "reference": "AH.sutra.3.4",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0061",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-3",
+      "topic_en": "AH Sū 3: Ṛtucaryā",
+      "topic_hi": "अ.हृ.सू. 3: ऋतुचर्या",
+      "type": "mcq",
+      "question_en": "According to AH Sū 3.7, in which season is the digestive fire (anala) strongest?",
+      "question_hi": "अ.हृ.सू. 3.7 के अनुसार किस ऋतु में अग्नि सबसे प्रबल होती है?",
+      "options": [
+        {
+          "en": "Hemanta",
+          "hi": "हेमन्त"
+        },
+        {
+          "en": "Grīṣma",
+          "hi": "ग्रीष्म"
+        },
+        {
+          "en": "Varṣā",
+          "hi": "वर्षा"
+        },
+        {
+          "en": "Vasanta",
+          "hi": "वसन्त"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "AH Sū 3.7: \"balinaḥ śītasaṃrodhād dhemante prabalo 'nalaḥ\": cold confines the body heat, so agni is strong and heavy food should be taken.",
+      "explanation_hi": "अ.हृ.सू. 3.7: \"बलिनः शीतसंरोधाद्धेमन्ते प्रबलोऽनलः\" - शीत से ऊष्मा भीतर रुकती है, अग्नि प्रबल होती है, अतः गुरु आहार लें।",
+      "reference": "AH.sutra.3.7",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0062",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-3",
+      "topic_en": "AH Sū 3: Ṛtucaryā",
+      "topic_hi": "अ.हृ.सू. 3: ऋतुचर्या",
+      "type": "mcq",
+      "question_en": "According to AH Sū 3.7, bodily strength is weakest (alpa) in which seasons?",
+      "question_hi": "अ.हृ.सू. 3.7 के अनुसार किन ऋतुओं में बल सबसे अल्प होता है?",
+      "options": [
+        {
+          "en": "Hemanta and śiśira",
+          "hi": "हेमन्त और शिशिर"
+        },
+        {
+          "en": "Vasanta and śarad",
+          "hi": "वसन्त और शरद्"
+        },
+        {
+          "en": "Varṣā and grīṣma",
+          "hi": "वर्षा और ग्रीष्म"
+        },
+        {
+          "en": "Śiśira and vasanta",
+          "hi": "शिशिर और वसन्त"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "AH Sū 3.7: \"śīte 'gryaṃ vṛṣṭigharme 'lpaṃ balaṃ madhyaṃ tu śeṣayoḥ\": best in winter, least in rains and summer, medium in spring and autumn.",
+      "explanation_hi": "अ.हृ.सू. 3.7: \"शीतेऽग्र्यं वृष्टिघर्मेऽल्पं बलं मध्यं तु शेषयोः\" - शीत में उत्तम, वर्षा-ग्रीष्म में अल्प और शेष (वसन्त, शरद्) में मध्यम बल।",
+      "reference": "AH.sutra.3.7",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0063",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-3",
+      "topic_en": "AH Sū 3: Ṛtucaryā",
+      "topic_hi": "अ.हृ.सू. 3: ऋतुचर्या",
+      "type": "mcq",
+      "question_en": "'Haṃsodaka', water purified by sunlight by day and moonlight by night and detoxified by the rising of Agastya, is described for:",
+      "question_hi": "'हंसोदक' - दिन में सूर्य और रात में चन्द्र किरणों से शुद्ध और अगस्त्य उदय से निर्विष जल - किस ऋतु के लिए बताया गया है?",
+      "options": [
+        {
+          "en": "Vasanta",
+          "hi": "वसन्त"
+        },
+        {
+          "en": "Grīṣma",
+          "hi": "ग्रीष्म"
+        },
+        {
+          "en": "Hemanta",
+          "hi": "हेमन्त"
+        },
+        {
+          "en": "Śarad",
+          "hi": "शरद्"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "AH Sū 3.51-52 (śaradṛtucaryā): haṃsodaka is pure, clean and removes malas.",
+      "explanation_hi": "अ.हृ.सू. 3.51-52 (शरद् ऋतुचर्या): हंसोदक शुद्ध, निर्मल और मलनाशक है।",
+      "reference": "AH.sutra.3.52",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0064",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-3",
+      "topic_en": "AH Sū 3: Ṛtucaryā",
+      "topic_hi": "अ.हृ.सू. 3: ऋतुचर्या",
+      "type": "mcq",
+      "question_en": "How long is the ṛtusandhi according to AH Sū 3.58?",
+      "question_hi": "अ.हृ.सू. 3.58 के अनुसार ऋतुसन्धि कितनी अवधि की है?",
+      "options": [
+        {
+          "en": "Last three days of one season and first three of the next",
+          "hi": "एक ऋतु के अन्तिम तीन और अगली के प्रथम तीन दिन"
+        },
+        {
+          "en": "Last seven days of one season and first seven of the next",
+          "hi": "एक ऋतु के अन्तिम सात और अगली के प्रथम सात दिन"
+        },
+        {
+          "en": "One full month",
+          "hi": "एक पूरा मास"
+        },
+        {
+          "en": "Fifteen days at the start of each season",
+          "hi": "प्रत्येक ऋतु के आरम्भ के पन्द्रह दिन"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "AH Sū 3.58: \"ṛtvor antyādisaptāhāv ṛtusandhir iti smṛtaḥ\": two weeks in all, during which the regimen is changed gradually.",
+      "explanation_hi": "अ.हृ.सू. 3.58: \"ऋत्वोरन्त्यादिसप्ताहावृतुसंधिरिति स्मृतः\" - कुल दो सप्ताह, जिनमें चर्या धीरे-धीरे बदली जाती है।",
+      "reference": "AH.sutra.3.58",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0065",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-3",
+      "topic_en": "AH Sū 3: Ṛtucaryā",
+      "topic_hi": "अ.हृ.सू. 3: ऋतुचर्या",
+      "type": "true_false",
+      "question_en": "During visargakāla (dakṣiṇāyana), the moon is strong and the sun's strength declines.",
+      "question_hi": "विसर्गकाल (दक्षिणायन) में चन्द्रमा बलवान होता है और सूर्य का बल घटता है।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "True. AH Sū 3.5: \"saumyatvād atra somo hi balavān hīyate raviḥ\".",
+      "explanation_hi": "सत्य। अ.हृ.सू. 3.5: \"सौम्यत्वादत्र सोमो हि बलवान्हीयते रविः\"।",
+      "reference": "AH.sutra.3.5",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0066",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-4",
+      "topic_en": "AH Sū 4: Rogānutpādanīya",
+      "topic_hi": "अ.हृ.सू. 4: रोगानुत्पादनीय",
+      "type": "mcq",
+      "question_en": "How many adhāraṇīya vegas (urges not to be suppressed) are listed in AH Sū 4.1?",
+      "question_hi": "अ.हृ.सू. 4.1 में कितने अधारणीय वेग बताए गए हैं?",
+      "options": [
+        {
+          "en": "Ten",
+          "hi": "दस"
+        },
+        {
+          "en": "Twelve",
+          "hi": "बारह"
+        },
+        {
+          "en": "Fourteen",
+          "hi": "चौदह"
+        },
+        {
+          "en": "Thirteen",
+          "hi": "तेरह"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "Vāta (flatus), viṭ, mūtra, kṣava, tṛṭ, kṣudhā, nidrā, kāsa, śramaśvāsa, jṛmbhā, aśru, chardi and retas = 13.",
+      "explanation_hi": "अधोवात, विट्, मूत्र, क्षव, तृट्, क्षुधा, निद्रा, कास, श्रमश्वास, जृम्भा, अश्रु, छर्दि और रेतस् = 13।",
+      "reference": "AH.sutra.4.1",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0067",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-4",
+      "topic_en": "AH Sū 4: Rogānutpādanīya",
+      "topic_hi": "अ.हृ.सू. 4: रोगानुत्पादनीय",
+      "type": "mcq",
+      "question_en": "Which urge is included in AH Sū 4.1's list of 13 vegas but NOT in Caraka's list of 13 (CS Sū 7)?",
+      "question_hi": "कौन-सा वेग अ.हृ.सू. 4.1 की 13 वेगों की सूची में है पर चरक (च.सू. 7) की 13 की सूची में नहीं?",
+      "options": [
+        {
+          "en": "Udgāra (belching)",
+          "hi": "उद्गार"
+        },
+        {
+          "en": "Kṣavathu (sneezing)",
+          "hi": "क्षवथु"
+        },
+        {
+          "en": "Kāsa (cough)",
+          "hi": "कास"
+        },
+        {
+          "en": "Nidrā (sleep)",
+          "hi": "निद्रा"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "Caraka's list includes udgāra but not kāsa; Vāgbhaṭa lists kāsa in 4.1 and treats udgāra separately (4.8). Kṣavathu and nidrā are in both lists.",
+      "explanation_hi": "चरक की सूची में उद्गार है, कास नहीं; वाग्भट 4.1 में कास गिनाते हैं और उद्गार अलग से (4.8) बताते हैं। क्षवथु और निद्रा दोनों सूचियों में हैं।",
+      "reference": "AH.sutra.4.1;",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0068",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-4",
+      "topic_en": "AH Sū 4: Rogānutpādanīya",
+      "topic_hi": "अ.हृ.सू. 4: रोगानुत्पादनीय",
+      "type": "mcq",
+      "question_en": "Which of the following are dhāraṇīya vegas (urges that should be controlled) per AH Sū 4.24?",
+      "question_hi": "अ.हृ.सू. 4.24 के अनुसार कौन-से धारणीय वेग (रोकने योग्य) हैं?",
+      "options": [
+        {
+          "en": "Hunger and thirst",
+          "hi": "भूख और प्यास"
+        },
+        {
+          "en": "Greed, envy, hatred, jealousy and attachment",
+          "hi": "लोभ, ईर्ष्या, द्वेष, मात्सर्य और राग"
+        },
+        {
+          "en": "Sneezing and yawning",
+          "hi": "छींक और जम्हाई"
+        },
+        {
+          "en": "Tears and sleep",
+          "hi": "आँसू और निद्रा"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "AH Sū 4.24: \"dhārayet tu sadā vegān hitaiṣī pretya ceha ca, lobherṣyādveṣamātsaryarāgādīnāṃ jitendriyaḥ\". The others are physical urges that must not be suppressed.",
+      "explanation_hi": "अ.हृ.सू. 4.24: \"धारयेत्तु सदा वेगान्हितैषी प्रेत्य चेह च, लोभेर्ष्याद्वेषमात्सर्यरागादीनां जितेन्द्रियः\"। अन्य शारीरिक वेग हैं जिन्हें रोकना नहीं चाहिए।",
+      "reference": "AH.sutra.4.24",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0069",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-4",
+      "topic_en": "AH Sū 4: Rogānutpādanīya",
+      "topic_hi": "अ.हृ.सू. 4: रोगानुत्पादनीय",
+      "type": "mcq",
+      "question_en": "For disorders from suppressed mūtra, AH Sū 4.6-7 recommends ghee before food and after digestion in the highest dose. This is called:",
+      "question_hi": "मूत्र-वेग रोकने से हुए विकारों में अ.हृ.सू. 4.6-7 भोजन से पूर्व और पाचन के बाद उत्तम मात्रा में घृत बताता है। इसे कहते हैं:",
+      "options": [
+        {
+          "en": "Avapīḍaka",
+          "hi": "अवपीडक"
+        },
+        {
+          "en": "Accha peya",
+          "hi": "अच्छ पेय"
+        },
+        {
+          "en": "Vicāraṇā",
+          "hi": "विचारणा"
+        },
+        {
+          "en": "Anuvāsana",
+          "hi": "अनुवासन"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "AH Sū 4.6-7: ghṛta given prāgbhakta and jīrṇāntika in uttama mātrā, used twice, is named avapīḍaka.",
+      "explanation_hi": "अ.हृ.सू. 4.6-7: प्राग्भक्त और जीर्णान्तिक उत्तम मात्रा में दो बार दिया गया घृत अवपीडक कहलाता है।",
+      "reference": "AH.sutra.4.6",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0070",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-4",
+      "topic_en": "AH Sū 4: Rogānutpādanīya",
+      "topic_hi": "अ.हृ.सू. 4: रोगानुत्पादनीय",
+      "type": "mcq",
+      "question_en": "According to AH Sū 4.11, suppression of thirst (tṛṣṇā) is treated with:",
+      "question_hi": "अ.हृ.सू. 4.11 के अनुसार तृष्णा-वेग रोकने के विकार की चिकित्सा है:",
+      "options": [
+        {
+          "en": "Hot, unctuous food",
+          "hi": "उष्ण, स्निग्ध भोजन"
+        },
+        {
+          "en": "Tīkṣṇa dhūma and nasya",
+          "hi": "तीक्ष्ण धूम और नस्य"
+        },
+        {
+          "en": "All cooling measures (śīta vidhi)",
+          "hi": "सब शीतल उपाय"
+        },
+        {
+          "en": "Virecana",
+          "hi": "विरेचन"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "AH Sū 4.11: \"tṛṣṇāyā nigrahāt tatra śītaḥ sarvo vidhir hitaḥ\". Light, unctuous, warm, small meals are advised for suppressed hunger.",
+      "explanation_hi": "अ.हृ.सू. 4.11: \"तृष्णाया निग्रहात्तत्र शीतः सर्वो विधिर्हितः\"। दबी भूख में लघु, स्निग्ध, उष्ण और अल्प भोजन बताया गया है।",
+      "reference": "AH.sutra.4.11",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0071",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-4",
+      "topic_en": "AH Sū 4: Rogānutpādanīya",
+      "topic_hi": "अ.हृ.सू. 4: रोगानुत्पादनीय",
+      "type": "true_false",
+      "question_en": "According to AH Sū 4.21, a patient of vega-suppression with thirst, pain, emaciation and vomiting of faeces should be abandoned (as incurable).",
+      "question_hi": "अ.हृ.सू. 4.21 के अनुसार वेग-रोध के जिस रोगी में तृष्णा, शूल, क्षीणता और मल का वमन हो, उसे (असाध्य मानकर) त्याग दें।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "True. AH Sū 4.21: \"tṛṭśūlārtaṃ tyajet kṣīṇaṃ viḍvamaṃ vegarodhinam\".",
+      "explanation_hi": "सत्य। अ.हृ.सू. 4.21: \"तृट्शूलार्तं त्यजेत्क्षीणं विड्वमं वेगरोधिनम्\"।",
+      "reference": "AH.sutra.4.21",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    }
+  ]
+}

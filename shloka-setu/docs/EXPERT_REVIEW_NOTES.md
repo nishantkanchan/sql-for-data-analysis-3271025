@@ -15,6 +15,8 @@ Corpus caveats that apply everywhere:
 
 ## Aṣṭāṅgahṛdaya Sūtrasthāna
 
+**Ch. 1-5.** 2.2 prātar bhuktvā vs prātar abhuktvā · 2.21 yathā-kāmaṃ read as sexual misconduct · 3.42 doṣair duṣyanti te · 1.42 viṣ = faeces (atisāra/grahaṇī), matching the 22 Cikitsā chapters · 2.5 sauvīrāñjana (stibnite vs galena; lead-safety note added) · 5.55 sesame oil tvag-doṣa-kṛt · 5.77 pāṇḍu-dṛk-kṛmi · 5.11-12 regional river names · 5.62 madhyaṃ read as madyaṃ. *Framing to check:* period social views in 2.39, 2.44, 3.15, 3.21; safety-focused correlations on alcohol (5.63 ff.), heated honey (5.53), areca nut (2.7) and animal urine (5.83).
+
 **Ch. 6-7.** 6.13 sparśo/sparśe śītaḥ · 6.19 śukrāśmarī vs śukra + aśmarī · 6.21/6.24/6.107 dṛk-śukra-hṛt · plant ids in 6.17, 6.93-94, 6.109, 6.113, 6.135, 6.138 · 6.105 āmam = raw vs unripe · 6.130 amlā = tamarind · 6.158 vibhītaka "hima" (later texts: uṣṇa) · 6.70 yathāpūrvam order · 7.26 kukkuṭāṇḍa · 7.36 kāmāt · 7.41 hāridraka · 7.65 ardha-trirātra. *Sensitive content to check framing:* the meat varga (6.43-71, incl. beef 6.65) and the sexual-conduct verses (7.69-76).
 
 **Ch. 8-12.** 8.38 dravam · 9.8 pavanātmakam vs pacanātmakam · 10.27 sour-group names, varam = saindhava · 11.29 utkrama-yojita · 11.32 meṣāja-madhya · 11.35 rasaiḥ · 11.42 repeated fragment · 12.50 tarpaṇam vs tarṣaṇa · 12.13 the seat of rañjaka pitta (AH āmāśaya vs Suśruta liver/spleen) is explained, please verify.

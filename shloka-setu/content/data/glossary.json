@@ -12811,6 +12811,1119 @@
         "abhyanga"
       ],
       "review_status": "ai_draft"
+    },
+    {
+      "id": "swasthavritta",
+      "devanagari": "स्वस्थवृत्त",
+      "iast": "svasthavṛtta",
+      "simple": "Swasthavritta",
+      "en": "'Conduct of the healthy': the branch dealing with preservation of health through daily and seasonal regimen, good conduct, diet, sleep, hygiene, yoga and community health.",
+      "hi": "स्वस्थवृत्त - स्वस्थ के आचरण का शास्त्र; दिनचर्या, ऋतुचर्या, सद्वृत्त, आहार, योग, सामुदायिक स्वास्थ्य।",
+      "modern": "Comparable to preventive and social medicine with lifestyle medicine.",
+      "category": "swasthavritta",
+      "source_refs": [
+        "CS.sutra.5",
+        "AH.sutra.2"
+      ],
+      "related": [
+        "svastha",
+        "dinacharya",
+        "ritucharya",
+        "sadvritta",
+        "prayojana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "dinacharya",
+      "devanagari": "दिनचर्या",
+      "iast": "dinacaryā",
+      "simple": "Dinacharya",
+      "en": "Daily regimen: waking in brāhma muhūrta, attending to natural calls, dantadhāvana, añjana, nasya, gaṇḍūṣa, dhūmapāna, tāmbūla, abhyaṅga, vyāyāma, udvartana, snāna, suitable food and work, and sadvṛtta.",
+      "hi": "दिनचर्या - ब्राह्म मुहूर्त में उठना, दन्तधावन, अञ्जन, नस्य, गण्डूष, अभ्यंग, व्यायाम, उद्वर्तन, स्नान, उचित आहार।",
+      "modern": "Comparable to daily healthy routines (circadian hygiene).",
+      "category": "swasthavritta",
+      "source_refs": [
+        "AH.sutra.2",
+        "CS.sutra.5"
+      ],
+      "related": [
+        "brahma-muhurta",
+        "dantadhavana",
+        "abhyanga",
+        "vyayama",
+        "snana",
+        "ratricharya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "ratricharya",
+      "devanagari": "रात्रिचर्या",
+      "iast": "rātricaryā",
+      "simple": "Ratricharya",
+      "en": "Night regimen: light, early dinner, proper sleep at the right time and rules for sexual conduct.",
+      "hi": "रात्रिचर्या - रात्रि के नियम: हल्का, समय पर भोजन, उचित निद्रा।",
+      "modern": "",
+      "category": "swasthavritta",
+      "source_refs": [
+        "AH.sutra.7",
+        "CS.sutra.21"
+      ],
+      "related": [
+        "dinacharya",
+        "nidra"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "brahma-muhurta",
+      "devanagari": "ब्राह्म मुहूर्त",
+      "iast": "brāhma muhūrta",
+      "simple": "Brahma Muhurta",
+      "en": "The auspicious period before sunrise (roughly 1.5 hours before) when a healthy person should rise to protect life.",
+      "hi": "ब्राह्म मुहूर्त - सूर्योदय से लगभग डेढ़ घण्टा पहले का समय; स्वस्थ व्यक्ति को उठना चाहिए।",
+      "modern": "",
+      "category": "swasthavritta",
+      "source_refs": [
+        "AH.sutra.2.1"
+      ],
+      "related": [
+        "dinacharya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "dantadhavana",
+      "devanagari": "दन्तधावन",
+      "iast": "dantadhāvana",
+      "simple": "Dantadhavana",
+      "en": "Cleaning teeth with a twig (about 12 aṅgulas, as thick as the little finger) of astringent, pungent or bitter trees such as arka, nyagrodha, khadira, karañja and kakubha (arjuna).",
+      "hi": "दन्तधावन - अर्क, न्यग्रोध, खदिर, करञ्ज, ककुभ आदि की कषाय-कटु-तिक्त दातुन (12 अंगुल)।",
+      "modern": "Oral hygiene; some twigs have antimicrobial activity.",
+      "category": "swasthavritta",
+      "source_refs": [
+        "AH.sutra.2.2",
+        "AH.sutra.2.3"
+      ],
+      "related": [
+        "dinacharya",
+        "karanja",
+        "khadira"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "anjana",
+      "devanagari": "अञ्जन",
+      "iast": "añjana",
+      "simple": "Anjana",
+      "en": "Collyrium applied to the eyes; daily sauvīrāñjana is advised since the eye is fiery (tejomaya) and vulnerable to kapha; rasāñjana is used weekly. Also a therapeutic eye procedure (kriyākalpa).",
+      "hi": "अञ्जन - आँखों में काजल/अञ्जन; प्रतिदिन सौवीराञ्जन, सप्ताह में रसाञ्जन।",
+      "modern": "Collyrium (eye cosmetic/medicine).",
+      "category": "swasthavritta",
+      "source_refs": [
+        "AH.sutra.2.5",
+        "AH.sutra.23"
+      ],
+      "related": [
+        "dinacharya",
+        "kriyakalpa",
+        "rasanjana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "rasanjana",
+      "devanagari": "रसाञ्जन",
+      "iast": "rasāñjana",
+      "simple": "Rasanjana",
+      "en": "Solid aqueous extract of dāruharidrā (concentrated with milk/water), used as eye collyrium and for wounds and skin disease.",
+      "hi": "रसाञ्जन - दारुहरिद्रा का घन सत्त्व; नेत्र अञ्जन, व्रण, त्वचा रोग में।",
+      "modern": "Berberine-rich extract of Berberis aristata.",
+      "category": "swasthavritta",
+      "source_refs": [],
+      "related": [
+        "daruharidra",
+        "anjana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "gandusha",
+      "devanagari": "गण्डूष",
+      "iast": "gaṇḍūṣa",
+      "simple": "Gandusha",
+      "en": "Holding liquid (oil, decoction, milk) in the mouth without moving it until the eyes and nose water; four types: snigdha, śamana, śodhana and ropaṇa. Kavala is the mobile gargle with less liquid.",
+      "hi": "गण्डूष - मुख में द्रव भरकर बिना हिलाए रोकना; चार प्रकार; कवल में द्रव घुमाया जाता है।",
+      "modern": "Oil pulling/oral retention; evidence for oral health is modest.",
+      "category": "swasthavritta",
+      "source_refs": [
+        "AH.sutra.22.1",
+        "CS.sutra.5"
+      ],
+      "related": [
+        "kavala",
+        "dinacharya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "kavala",
+      "devanagari": "कवल",
+      "iast": "kavala",
+      "simple": "Kavala",
+      "en": "Gargling: a smaller quantity of liquid is moved around in the mouth and spat out.",
+      "hi": "कवल - थोड़ा द्रव मुख में घुमाकर थूकना।",
+      "modern": "Gargling/mouthwash.",
+      "category": "swasthavritta",
+      "source_refs": [
+        "AH.sutra.22"
+      ],
+      "related": [
+        "gandusha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "dhumapana",
+      "devanagari": "धूमपान",
+      "iast": "dhūmapāna",
+      "simple": "Dhumapana",
+      "en": "Inhalation of medicated smoke through a pipe (dhūmanetra) to prevent and treat kapha-vāta disorders above the clavicle; types include prāyogika/śamana, snaihika and vairecanika (tīkṣṇa). Smoke is inhaled by nose or mouth but always exhaled through the mouth.",
+      "hi": "धूमपान - नली से औषधीय धूम; प्रायोगिक, स्नैहिक, वैरेचनिक; धुआँ सदैव मुख से छोड़ें।",
+      "modern": "Medicinal smoke inhalation (not tobacco smoking).",
+      "category": "swasthavritta",
+      "source_refs": [
+        "AH.sutra.21.1",
+        "CS.sutra.5"
+      ],
+      "related": [
+        "dinacharya",
+        "varti"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "abhyanga",
+      "devanagari": "अभ्यंग",
+      "iast": "abhyaṅga",
+      "simple": "Abhyanga",
+      "en": "Daily oil massage that counters ageing, fatigue and vāta, improves vision, nourishment, sleep, skin and lifespan; especially for head, ears and feet. Avoided in kapha conditions, after śodhana and in indigestion.",
+      "hi": "अभ्यंग - तैल मर्दन; जरा, श्रम, वात नाशक; दृष्टि, पुष्टि, निद्रा, त्वचा, आयु वर्धक; सिर, कान, पैर में विशेष।",
+      "modern": "Oil massage; studied for relaxation and skin health.",
+      "category": "swasthavritta",
+      "source_refs": [
+        "AH.sutra.2.8",
+        "AH.sutra.2.9",
+        "CS.sutra.5"
+      ],
+      "related": [
+        "dinacharya",
+        "snehana",
+        "taila"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "vyayama",
+      "devanagari": "व्यायाम",
+      "iast": "vyāyāma",
+      "simple": "Vyayama",
+      "en": "Exercise: gives lightness, capacity for work, strong agni and reduction of medas. Should be done to half one's strength (ardhaśakti), mainly in cold seasons and spring; excess causes thirst, wasting, dyspnoea, bleeding and fever.",
+      "hi": "व्यायाम - लघुता, कार्यक्षमता, दीप्त अग्नि, मेद क्षय; अर्धशक्ति तक; अति से तृष्णा, क्षय, श्वास।",
+      "modern": "Physical exercise; 'half strength' parallels moderate-intensity guidance.",
+      "category": "swasthavritta",
+      "source_refs": [
+        "AH.sutra.2.10",
+        "AH.sutra.2.11",
+        "AH.sutra.2.12",
+        "AH.sutra.2.13"
+      ],
+      "related": [
+        "dinacharya",
+        "vyayama-shakti"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "snana",
+      "devanagari": "स्नान",
+      "iast": "snāna",
+      "simple": "Snana",
+      "en": "Bathing: dīpana, vṛṣya, life-promoting, gives energy and strength and removes itching, dirt, fatigue, sweat and burning. Hot water on the head harms the eyes and hair.",
+      "hi": "स्नान - दीपन, वृष्य, आयुष्य, बल देने वाला; सिर पर गरम जल नेत्र-केश के लिए हानिकर।",
+      "modern": "Bathing/personal hygiene.",
+      "category": "swasthavritta",
+      "source_refs": [
+        "AH.sutra.2.16",
+        "AH.sutra.2.17"
+      ],
+      "related": [
+        "dinacharya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "ritucharya",
+      "devanagari": "ऋतुचर्या",
+      "iast": "ṛtucaryā",
+      "simple": "Ritucharya",
+      "en": "Seasonal regimen: diet and conduct adapted to each of the six seasons to prevent doṣa accumulation and aggravation.",
+      "hi": "ऋतुचर्या - छह ऋतुओं के अनुसार आहार-विहार।",
+      "modern": "Comparable to seasonal adaptation of lifestyle.",
+      "category": "swasthavritta",
+      "source_refs": [
+        "AH.sutra.3",
+        "CS.sutra.6"
+      ],
+      "related": [
+        "ritu",
+        "adana-kala",
+        "visarga-kala",
+        "ritusandhi",
+        "chaya-prakopa-prashama"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "ritu",
+      "devanagari": "ऋतु",
+      "iast": "ṛtu",
+      "simple": "Ritu",
+      "en": "Season. Six ṛtus of two months each starting from Māgha: śiśira, vasanta, grīṣma (ādāna) and varṣā, śarad, hemanta (visarga). Ṛtu also means the fertile period in women (ṛtukāla).",
+      "hi": "ऋतु - छह ऋतुएँ (दो-दो मास): शिशिर, वसन्त, ग्रीष्म (आदान); वर्षा, शरद्, हेमन्त (विसर्ग)।",
+      "modern": "Seasons of the Indian calendar.",
+      "category": "swasthavritta",
+      "source_refs": [
+        "AH.sutra.3.1"
+      ],
+      "related": [
+        "ritucharya",
+        "shishira",
+        "vasanta",
+        "grishma",
+        "varsha",
+        "sharad",
+        "hemanta",
+        "ritukala"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "shishira",
+      "devanagari": "शिशिर",
+      "iast": "śiśira",
+      "simple": "Shishira (Late Winter)",
+      "en": "One of the six seasons (ṛtu); each spans two lunar months (AH.sutra.3.1). Māgha-Phālguna (about mid-January to mid-March); cold and dry, the first season of ādāna; regimen as in hemanta with more care against cold and dryness; kapha accumulates.",
+      "hi": "छह ऋतुओं में एक (दो मास)। शिशिर - माघ-फाल्गुन; शीत-रूक्ष; हेमन्त जैसी चर्या; कफ संचय।",
+      "modern": "",
+      "category": "swasthavritta",
+      "source_refs": [
+        "AH.sutra.3.1",
+        "AH.sutra.3"
+      ],
+      "related": [
+        "ritu",
+        "hemanta",
+        "adana-kala"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "vasanta",
+      "devanagari": "वसन्त",
+      "iast": "vasanta",
+      "simple": "Vasanta (Spring)",
+      "en": "One of the six seasons (ṛtu); each spans two lunar months (AH.sutra.3.1). Caitra-Vaiśākha; accumulated kapha liquefies by the sun and aggravates, so vamana, exercise, udvartana, dry and light food (old barley, wheat, honey) are advised; avoid heavy, sweet, oily food and day sleep.",
+      "hi": "छह ऋतुओं में एक (दो मास)। वसन्त - चैत्र-वैशाख; कफ प्रकोप; वमन, व्यायाम, उद्वर्तन, लघु-रूक्ष आहार; दिवास्वप्न निषेध।",
+      "modern": "",
+      "category": "swasthavritta",
+      "source_refs": [
+        "AH.sutra.3"
+      ],
+      "related": [
+        "ritu",
+        "kapha",
+        "vamana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "grishma",
+      "devanagari": "ग्रीष्म",
+      "iast": "grīṣma",
+      "simple": "Grishma (Summer)",
+      "en": "One of the six seasons (ṛtu); each spans two lunar months (AH.sutra.3.1). Jyeṣṭha-Āṣāḍha; strength is least; sweet, cold, liquid and unctuous food, cool water and rest are advised; avoid salty, sour, pungent food and exercise; vāta accumulates.",
+      "hi": "छह ऋतुओं में एक (दो मास)। ग्रीष्म - ज्येष्ठ-आषाढ; बल न्यूनतम; मधुर, शीत, द्रव, स्निग्ध आहार; वात संचय।",
+      "modern": "",
+      "category": "swasthavritta",
+      "source_refs": [
+        "AH.sutra.3"
+      ],
+      "related": [
+        "ritu",
+        "vata",
+        "adana-kala"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "varsha",
+      "devanagari": "वर्षा",
+      "iast": "varṣā",
+      "simple": "Varsha (Rainy Season)",
+      "en": "One of the six seasons (ṛtu); each spans two lunar months (AH.sutra.3.1). Śrāvaṇa-Bhādrapada; agni is weak and all doṣas are disturbed, vāta aggravated; boiled water, old grains, honey and basti are advised; avoid river water, day sleep and exertion.",
+      "hi": "छह ऋतुओं में एक (दो मास)। वर्षा - श्रावण-भाद्रपद; अग्नि मन्द, वात प्रकोप; उबला जल, पुराने अन्न, बस्ति।",
+      "modern": "",
+      "category": "swasthavritta",
+      "source_refs": [
+        "AH.sutra.3"
+      ],
+      "related": [
+        "ritu",
+        "vata",
+        "basti-karma",
+        "visarga-kala"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "sharad",
+      "devanagari": "शरद्",
+      "iast": "śarad",
+      "simple": "Sharad (Autumn)",
+      "en": "One of the six seasons (ṛtu); each spans two lunar months (AH.sutra.3.1). Āśvina-Kārttika; accumulated pitta is aggravated by sudden sun; virecana, raktamokṣaṇa, bitter ghee, sweet-bitter-astringent light food and haṃsodaka water are advised.",
+      "hi": "छह ऋतुओं में एक (दो मास)। शरद् - आश्विन-कार्तिक; पित्त प्रकोप; विरेचन, रक्तमोक्षण, तिक्त घृत, हंसोदक।",
+      "modern": "",
+      "category": "swasthavritta",
+      "source_refs": [
+        "AH.sutra.3"
+      ],
+      "related": [
+        "ritu",
+        "pitta",
+        "virechana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "hemanta",
+      "devanagari": "हेमन्त",
+      "iast": "hemanta",
+      "simple": "Hemanta (Early Winter)",
+      "en": "One of the six seasons (ṛtu); each spans two lunar months (AH.sutra.3.1). Mārgaśīrṣa-Pauṣa; agni is strongest and strength greatest, so heavy, unctuous, sweet-sour-salty food, oil massage, exercise and warm clothing are advised.",
+      "hi": "छह ऋतुओं में एक (दो मास)। हेमन्त - मार्गशीर्ष-पौष; अग्नि व बल सर्वाधिक; गुरु, स्निग्ध, मधुर-अम्ल-लवण आहार, अभ्यंग।",
+      "modern": "",
+      "category": "swasthavritta",
+      "source_refs": [
+        "AH.sutra.3.7",
+        "AH.sutra.3.8"
+      ],
+      "related": [
+        "ritu",
+        "shishira",
+        "visarga-kala"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "adana-kala",
+      "devanagari": "आदान काल",
+      "iast": "ādāna kāla",
+      "simple": "Adana Kala",
+      "en": "Northern solstice period (uttarāyaṇa: śiśira, vasanta, grīṣma) when the sun and wind 'take away' strength; āgneya in nature, tikta, kaṣāya and kaṭu rasas become strong, and strength progressively declines.",
+      "hi": "आदान काल - उत्तरायण (शिशिर, वसन्त, ग्रीष्म); सूर्य-वायु बल हरते हैं; आग्नेय; तिक्त, कषाय, कटु रस बलवान।",
+      "modern": "",
+      "category": "swasthavritta",
+      "source_refs": [
+        "AH.sutra.3.2",
+        "AH.sutra.3.3",
+        "AH.sutra.3.4"
+      ],
+      "related": [
+        "visarga-kala",
+        "ritu",
+        "kalaja-bala"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "visarga-kala",
+      "devanagari": "विसर्ग काल",
+      "iast": "visarga kāla",
+      "simple": "Visarga Kala",
+      "en": "Southern solstice period (dakṣiṇāyana: varṣā, śarad, hemanta) when the moon releases strength; saumya in nature, amla, lavaṇa and madhura rasas become strong, and strength progressively increases.",
+      "hi": "विसर्ग काल - दक्षिणायन (वर्षा, शरद्, हेमन्त); चन्द्रमा बल देता है; सौम्य; अम्ल, लवण, मधुर रस बलवान।",
+      "modern": "",
+      "category": "swasthavritta",
+      "source_refs": [
+        "AH.sutra.3.5",
+        "AH.sutra.3.6"
+      ],
+      "related": [
+        "adana-kala",
+        "ritu"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "ritusandhi",
+      "devanagari": "ऋतुसन्धि",
+      "iast": "ṛtusandhi",
+      "simple": "Ritusandhi",
+      "en": "The junction of two seasons (last week of one and first week of the next), when the regimen of the previous season should be given up and the next adopted gradually.",
+      "hi": "ऋतुसन्धि - दो ऋतुओं का संधिकाल (पिछली का अन्तिम व अगली का प्रथम सप्ताह); चर्या धीरे-धीरे बदलें।",
+      "modern": "",
+      "category": "swasthavritta",
+      "source_refs": [
+        "AH.sutra.3"
+      ],
+      "related": [
+        "ritucharya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "sadvritta",
+      "devanagari": "सद्वृत्त",
+      "iast": "sadvṛtta",
+      "simple": "Sadvritta",
+      "en": "Code of right conduct (personal, social, ethical, hygienic) for health of body and mind and control of the senses: truthfulness, kindness, cleanliness, moderation and respect.",
+      "hi": "सद्वृत्त - शरीर-मन के स्वास्थ्य हेतु सदाचरण: सत्य, दया, शौच, संयम, आदर।",
+      "modern": "Comparable to behavioural, ethical and mental hygiene guidance.",
+      "category": "swasthavritta",
+      "source_refs": [
+        "CS.sutra.8",
+        "AH.sutra.2"
+      ],
+      "related": [
+        "achara-rasayana",
+        "swasthavritta"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "vega",
+      "devanagari": "वेग",
+      "iast": "vega",
+      "simple": "Vega",
+      "en": "Natural urges. AH.sutra.4.1 lists 13 that must not be suppressed: flatus, faeces, urine, sneezing, thirst, hunger, sleep, cough, breathlessness on exertion, yawning, tears, vomiting and semen.",
+      "hi": "वेग - प्राकृतिक आवेग; 13 अधारणीय: अधोवायु, मल, मूत्र, छींक, प्यास, भूख, निद्रा, कास, श्रमश्वास, जम्हाई, आँसू, वमन, शुक्र।",
+      "modern": "Physiological urges; suppression is linked to many disorders.",
+      "category": "swasthavritta",
+      "source_refs": [
+        "AH.sutra.4.1",
+        "CS.sutra.7"
+      ],
+      "related": [
+        "adharaniya-vega",
+        "dharaniya-vega",
+        "kshudha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "adharaniya-vega",
+      "devanagari": "अधारणीय वेग",
+      "iast": "adhāraṇīya vega",
+      "simple": "Adharaniya Vega",
+      "en": "Urges that should not be suppressed (13 natural urges); their suppression aggravates vāta and causes specific diseases (e.g. suppressing urine causes pain in bladder and penis, dysuria, headache).",
+      "hi": "अधारणीय वेग - न रोके जाने वाले 13 वेग; रोकने से वात प्रकोप और रोग।",
+      "modern": "",
+      "category": "swasthavritta",
+      "source_refs": [
+        "AH.sutra.4",
+        "CS.sutra.7"
+      ],
+      "related": [
+        "vega",
+        "dharaniya-vega"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "dharaniya-vega",
+      "devanagari": "धारणीय वेग",
+      "iast": "dhāraṇīya vega",
+      "simple": "Dharaniya Vega",
+      "en": "Urges that should be controlled: impulses of greed, grief, fear, anger, ego, shamelessness, jealousy, excessive attachment and malice, and harmful acts of speech and body.",
+      "hi": "धारणीय वेग - रोकने योग्य: लोभ, शोक, भय, क्रोध, अहंकार, ईर्ष्या, अतिराग आदि।",
+      "modern": "Comparable to emotional self-regulation.",
+      "category": "swasthavritta",
+      "source_refs": [
+        "CS.sutra.7"
+      ],
+      "related": [
+        "vega",
+        "adharaniya-vega",
+        "sadvritta"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "trayopastambha",
+      "devanagari": "त्रयोपस्तम्भ",
+      "iast": "trayopastambha",
+      "simple": "Trayopastambha",
+      "en": "The three sub-pillars of life: āhāra (food), nidrā (sleep) and brahmacarya (regulated sexual conduct/celibacy). Properly used, they give strength, complexion and growth.",
+      "hi": "त्रयोपस्तम्भ - जीवन के तीन उपस्तम्भ: आहार, निद्रा, ब्रह्मचर्य।",
+      "modern": "Comparable to the diet-sleep-lifestyle triad of health.",
+      "category": "swasthavritta",
+      "source_refs": [
+        "CS.sutra.11"
+      ],
+      "related": [
+        "ahara",
+        "nidra",
+        "brahmacharya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "ahara",
+      "devanagari": "आहार",
+      "iast": "āhāra",
+      "simple": "Ahara",
+      "en": "Food and diet, the first upastambha; that which is taken in. Four forms: aśita (eaten), pīta (drunk), līḍha (licked) and khādita (chewed). Proper food is the cause of growth, strength, health and life.",
+      "hi": "आहार - भोजन; चार प्रकार: अशित, पीत, लीढ, खादित; बल, आरोग्य, आयु का कारण।",
+      "modern": "Diet/nutrition.",
+      "category": "swasthavritta",
+      "source_refs": [
+        "CS.sutra.25",
+        "CS.sutra.27"
+      ],
+      "related": [
+        "trayopastambha",
+        "ahara-vidhi-visheshayatana",
+        "matrashita",
+        "viruddha-ahara"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "brahmacharya",
+      "devanagari": "ब्रह्मचर्य",
+      "iast": "brahmacarya",
+      "simple": "Brahmacharya",
+      "en": "Regulated, disciplined sexual conduct (or celibacy where appropriate), the third upastambha; preserves śukra and ojas.",
+      "hi": "ब्रह्मचर्य - संयमित यौन आचरण (या ब्रह्मचर्य); शुक्र व ओज की रक्षा।",
+      "modern": "",
+      "category": "swasthavritta",
+      "source_refs": [
+        "CS.sutra.11"
+      ],
+      "related": [
+        "trayopastambha",
+        "shukra-dhatu"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "ahara-vidhi-visheshayatana",
+      "devanagari": "आहारविधि विशेषायतन",
+      "iast": "āhāravidhi viśeṣāyatana",
+      "simple": "Eight Factors of Diet",
+      "en": "Caraka's eight determinants of the effect of food: prakṛti (nature of food), karaṇa (processing), saṃyoga (combination), rāśi (quantity), deśa (place), kāla (time/state), upayoga-saṃsthā (rules of eating) and upayoktā (the eater).",
+      "hi": "आहारविधि विशेषायतन - आठ: प्रकृति, करण, संयोग, राशि, देश, काल, उपयोगसंस्था, उपयोक्ता।",
+      "modern": "Comparable to food science factors: composition, processing, combinations, portion, environment, timing, eating behaviour and the individual.",
+      "category": "swasthavritta",
+      "source_refs": [
+        "CS.vimana.1"
+      ],
+      "related": [
+        "ahara",
+        "samyoga"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "matrashita",
+      "devanagari": "मात्राशित",
+      "iast": "mātrāśita",
+      "simple": "Matrashita",
+      "en": "Eating in proper quantity: the amount that is digested in due time without disturbing health, depending on agni. Caraka advises filling the stomach one-third with solid food, one-third with liquids and leaving one-third for doṣas.",
+      "hi": "मात्राशित - उचित मात्रा में भोजन; अग्नि अनुसार; पेट का 1/3 ठोस, 1/3 द्रव, 1/3 खाली।",
+      "modern": "Comparable to portion control.",
+      "category": "swasthavritta",
+      "source_refs": [
+        "AH.sutra.8.1",
+        "CS.sutra.5",
+        "CS.vimana.2"
+      ],
+      "related": [
+        "ahara",
+        "matra"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "viruddha-ahara",
+      "devanagari": "विरुद्ध आहार",
+      "iast": "viruddha āhāra",
+      "simple": "Viruddha Ahara",
+      "en": "Incompatible food: combinations or practices that provoke doṣas but do not expel them, e.g. milk with fish, equal quantities of honey and ghee, heated honey, milk with sour fruits. Caraka lists 18 kinds of incompatibility (deśa, kāla, agni, mātrā, sātmya, saṃyoga, saṃskāra, etc.).",
+      "hi": "विरुद्ध आहार - असंगत भोजन: दूध-मछली, समान मात्रा मधु-घृत, गरम मधु आदि; 18 प्रकार।",
+      "modern": "Comparable to food incompatibility/food-drug interactions; many classical claims are untested.",
+      "category": "swasthavritta",
+      "source_refs": [
+        "CS.sutra.26",
+        "AH.sutra.7"
+      ],
+      "related": [
+        "ahara",
+        "apathya",
+        "agada-tantra"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "janapadoddhvamsa",
+      "devanagari": "जनपदोद्ध्वंस",
+      "iast": "janapadoddhvaṃsa",
+      "simple": "Janapadoddhvamsa",
+      "en": "Destruction of communities by epidemics, caused by vitiation of air, water, land and season (vāyu, udaka, deśa, kāla), rooted in adharma and prajñāparādha. Treated with pañcakarma, rasāyana, truthfulness and compassion.",
+      "hi": "जनपदोद्ध्वंस - महामारी; वायु, जल, देश, काल की विकृति से; अधर्म व प्रज्ञापराध मूल।",
+      "modern": "Epidemics; the four factors resemble environmental determinants of disease.",
+      "category": "swasthavritta",
+      "source_refs": [
+        "CS.vimana.3"
+      ],
+      "related": [
+        "prajnaparadha",
+        "swasthavritta"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "desha",
+      "devanagari": "देश",
+      "iast": "deśa",
+      "simple": "Desha",
+      "en": "Place, of two kinds: bhūmi deśa (land: jāṅgala dry/vāta-predominant, ānūpa marshy/kapha-predominant and sādhāraṇa balanced) and deha deśa (the body, the site of disease).",
+      "hi": "देश - भूमि देश (जाङ्गल, आनूप, साधारण) और देह देश (शरीर)।",
+      "modern": "Comparable to geographical/environmental factors in health.",
+      "category": "swasthavritta",
+      "source_refs": [
+        "AH.sutra.1.23",
+        "AH.sutra.1.24"
+      ],
+      "related": [
+        "jangala",
+        "anupa"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "jangala",
+      "devanagari": "जाङ्गल",
+      "iast": "jāṅgala",
+      "simple": "Jangala Desha",
+      "en": "Dry, open land with little water and sparse vegetation; vāta-predominant, and people there are generally strong; preferred for collecting drugs.",
+      "hi": "जाङ्गल देश - शुष्क, कम जल-वनस्पति वाला; वात प्रधान।",
+      "modern": "Arid region.",
+      "category": "swasthavritta",
+      "source_refs": [
+        "AH.sutra.1.23"
+      ],
+      "related": [
+        "desha",
+        "anupa"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "anupa",
+      "devanagari": "आनूप",
+      "iast": "ānūpa",
+      "simple": "Anupa Desha",
+      "en": "Marshy, water-rich land with dense vegetation; kapha-predominant, prone to kapha-vāta diseases.",
+      "hi": "आनूप देश - जल-बहुल, दलदली; कफ प्रधान।",
+      "modern": "Wetland/humid region.",
+      "category": "swasthavritta",
+      "source_refs": [
+        "AH.sutra.1.23"
+      ],
+      "related": [
+        "desha",
+        "jangala"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "ashtanga-yoga",
+      "devanagari": "अष्टाङ्ग योग",
+      "iast": "aṣṭāṅga yoga",
+      "simple": "Ashtanga Yoga",
+      "en": "Patañjali's eightfold yoga: yama, niyama, āsana, prāṇāyāma, pratyāhāra, dhāraṇā, dhyāna and samādhi. Part of the svasthavṛtta syllabus.",
+      "hi": "अष्टाङ्ग योग - यम, नियम, आसन, प्राणायाम, प्रत्याहार, धारणा, ध्यान, समाधि।",
+      "modern": "Yoga practices are studied for stress, fitness and chronic disease.",
+      "category": "swasthavritta",
+      "source_refs": [],
+      "related": [
+        "yoga-darshana",
+        "yama",
+        "niyama",
+        "asana",
+        "pranayama",
+        "pratyahara",
+        "dharana",
+        "dhyana",
+        "samadhi"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "yama",
+      "devanagari": "यम",
+      "iast": "yama",
+      "simple": "Yama",
+      "en": "One of the eight limbs of Patañjali's aṣṭāṅga yoga. Five ethical restraints: ahiṃsā (non-violence), satya (truth), asteya (non-stealing), brahmacarya and aparigraha (non-possessiveness).",
+      "hi": "पतञ्जलि के अष्टाङ्ग योग का एक अंग। यम - अहिंसा, सत्य, अस्तेय, ब्रह्मचर्य, अपरिग्रह।",
+      "modern": "",
+      "category": "swasthavritta",
+      "source_refs": [],
+      "related": [
+        "ashtanga-yoga",
+        "niyama"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "niyama",
+      "devanagari": "नियम",
+      "iast": "niyama",
+      "simple": "Niyama",
+      "en": "One of the eight limbs of Patañjali's aṣṭāṅga yoga. Five observances: śauca (cleanliness), santoṣa (contentment), tapas (austerity), svādhyāya (self-study) and īśvara-praṇidhāna (devotion).",
+      "hi": "पतञ्जलि के अष्टाङ्ग योग का एक अंग। नियम - शौच, सन्तोष, तप, स्वाध्याय, ईश्वरप्रणिधान।",
+      "modern": "",
+      "category": "swasthavritta",
+      "source_refs": [],
+      "related": [
+        "ashtanga-yoga",
+        "yama"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "asana",
+      "devanagari": "आसन",
+      "iast": "āsana",
+      "simple": "Asana",
+      "en": "One of the eight limbs of Patañjali's aṣṭāṅga yoga. A steady and comfortable posture (sthira-sukham āsanam).",
+      "hi": "पतञ्जलि के अष्टाङ्ग योग का एक अंग। आसन - स्थिर और सुखद शारीरिक स्थिति।",
+      "modern": "Yoga postures.",
+      "category": "swasthavritta",
+      "source_refs": [],
+      "related": [
+        "ashtanga-yoga",
+        "pranayama"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "pranayama",
+      "devanagari": "प्राणायाम",
+      "iast": "prāṇāyāma",
+      "simple": "Pranayama",
+      "en": "One of the eight limbs of Patañjali's aṣṭāṅga yoga. Regulation of breath through pūraka (inhalation), kumbhaka (retention) and recaka (exhalation).",
+      "hi": "पतञ्जलि के अष्टाङ्ग योग का एक अंग। प्राणायाम - श्वास का नियमन: पूरक, कुम्भक, रेचक।",
+      "modern": "Breathing exercises.",
+      "category": "swasthavritta",
+      "source_refs": [],
+      "related": [
+        "ashtanga-yoga",
+        "prana-vayu"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "pratyahara",
+      "devanagari": "प्रत्याहार",
+      "iast": "pratyāhāra",
+      "simple": "Pratyahara",
+      "en": "One of the eight limbs of Patañjali's aṣṭāṅga yoga. Withdrawal of the senses from their objects.",
+      "hi": "पतञ्जलि के अष्टाङ्ग योग का एक अंग। प्रत्याहार - इन्द्रियों को विषयों से हटाना।",
+      "modern": "",
+      "category": "swasthavritta",
+      "source_refs": [],
+      "related": [
+        "ashtanga-yoga",
+        "indriya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "dharana",
+      "devanagari": "धारणा",
+      "iast": "dhāraṇā",
+      "simple": "Dharana",
+      "en": "One of the eight limbs of Patañjali's aṣṭāṅga yoga. Fixing the mind on one point or object (concentration).",
+      "hi": "पतञ्जलि के अष्टाङ्ग योग का एक अंग। धारणा - मन को एक स्थान पर स्थिर करना।",
+      "modern": "Concentration.",
+      "category": "swasthavritta",
+      "source_refs": [],
+      "related": [
+        "ashtanga-yoga",
+        "dhyana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "dhyana",
+      "devanagari": "ध्यान",
+      "iast": "dhyāna",
+      "simple": "Dhyana",
+      "en": "One of the eight limbs of Patañjali's aṣṭāṅga yoga. Meditation: an unbroken flow of attention towards the object of concentration.",
+      "hi": "पतञ्जलि के अष्टाङ्ग योग का एक अंग। ध्यान - ध्येय में चित्त का अविच्छिन्न प्रवाह।",
+      "modern": "Meditation.",
+      "category": "swasthavritta",
+      "source_refs": [],
+      "related": [
+        "ashtanga-yoga",
+        "samadhi"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "samadhi",
+      "devanagari": "समाधि",
+      "iast": "samādhi",
+      "simple": "Samadhi",
+      "en": "One of the eight limbs of Patañjali's aṣṭāṅga yoga. Complete absorption in which only the object shines forth; Caraka also lists samādhi among the means of sattvāvajaya.",
+      "hi": "पतञ्जलि के अष्टाङ्ग योग का एक अंग। समाधि - ध्येय में पूर्ण तल्लीनता।",
+      "modern": "",
+      "category": "swasthavritta",
+      "source_refs": [
+        "CS.sutra.11"
+      ],
+      "related": [
+        "ashtanga-yoga",
+        "sattvavajaya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "takra",
+      "devanagari": "तक्र",
+      "iast": "takra",
+      "simple": "Takra",
+      "en": "Buttermilk (curd churned with one-quarter water and fat removed); dīpana, grāhī, light; highly praised for grahaṇī and arśas.",
+      "hi": "तक्र (छाछ) - दही में 1/4 जल मिलाकर मथा, मक्खन रहित; दीपन, ग्राही; ग्रहणी, अर्श में श्रेष्ठ।",
+      "modern": "Buttermilk (a probiotic-containing fermented dairy).",
+      "category": "swasthavritta",
+      "source_refs": [
+        "AH.sutra.5",
+        "CS.chikitsa.14"
+      ],
+      "related": [
+        "grahani-roga",
+        "arsha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "madhu",
+      "devanagari": "मधु",
+      "iast": "madhu",
+      "simple": "Madhu",
+      "en": "Honey; kaṣāya-madhura, rūkṣa, lekhana, yogavāhī, good for kapha. It must not be heated or given to people in hot conditions, and equal quantities of honey and ghee are incompatible.",
+      "hi": "मधु (शहद) - कषाय-मधुर, रूक्ष, लेखन, योगवाही, कफहर; गरम न करें; समान मात्रा घृत के साथ विरुद्ध।",
+      "modern": "Honey.",
+      "category": "swasthavritta",
+      "source_refs": [
+        "AH.sutra.5",
+        "CS.sutra.27"
+      ],
+      "related": [
+        "yogavahi",
+        "lekhana",
+        "viruddha-ahara"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "kshira",
+      "devanagari": "क्षीर",
+      "iast": "kṣīra",
+      "simple": "Kshira",
+      "en": "Milk, especially cow's milk: madhura, snigdha, śīta; jīvanīya, rasāyana, ojas-increasing; Caraka calls it the best jīvanīya.",
+      "hi": "क्षीर (दूध) - गोदुग्ध मधुर, स्निग्ध, शीत; जीवनीय, रसायन, ओजवर्धक।",
+      "modern": "Milk.",
+      "category": "swasthavritta",
+      "source_refs": [
+        "AH.sutra.5",
+        "CS.sutra.27"
+      ],
+      "related": [
+        "jivaniya",
+        "kshirapaka",
+        "ojas"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "shali",
+      "devanagari": "शालि",
+      "iast": "śāli",
+      "simple": "Shali Rice",
+      "en": "Fine rice harvested in winter; madhura, śīta, light; raktaśāli is the best. Ṣaṣṭika is a rice that ripens in sixty days, used in piṇḍa sveda and diet.",
+      "hi": "शालि - शीतकालीन चावल; मधुर, शीत, लघु; रक्तशालि श्रेष्ठ; षष्टिक 60 दिन में पकने वाला।",
+      "modern": "Oryza sativa L. varieties.",
+      "category": "swasthavritta",
+      "source_refs": [
+        "AH.sutra.6.1",
+        "CS.sutra.27"
+      ],
+      "related": [
+        "pinda-sveda",
+        "yava"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "yava",
+      "devanagari": "यव",
+      "iast": "yava",
+      "simple": "Yava (Barley)",
+      "en": "Barley; kaṣāya-madhura, rūkṣa, lekhana; good in prameha, obesity and kapha disorders.",
+      "hi": "यव (जौ) - रूक्ष, लेखन; प्रमेह, स्थौल्य, कफ में हितकर।",
+      "modern": "Hordeum vulgare L.",
+      "category": "swasthavritta",
+      "source_refs": [
+        "CS.sutra.27",
+        "AH.sutra.9.28"
+      ],
+      "related": [
+        "lekhana",
+        "prameha",
+        "sthaulya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "mudga",
+      "devanagari": "मुद्ग",
+      "iast": "mudga",
+      "simple": "Mudga (Green Gram)",
+      "en": "The best of pulses: kaṣāya-madhura, light, dry, does not aggravate doṣas much; used in yūṣa for convalescents.",
+      "hi": "मुद्ग (मूँग) - दालों में श्रेष्ठ; लघु; यूष हेतु।",
+      "modern": "Vigna radiata (L.) R.Wilczek.",
+      "category": "swasthavritta",
+      "source_refs": [
+        "CS.sutra.25",
+        "CS.sutra.27"
+      ],
+      "related": [
+        "yusha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "saindhava",
+      "devanagari": "सैन्धव",
+      "iast": "saindhava",
+      "simple": "Saindhava Lavana",
+      "en": "Rock salt from Sindh, the best of salts: slightly sweet, not very hot, good for eyes, tridoṣa-balancing; Caraka recommends it for daily use.",
+      "hi": "सैन्धव लवण - सेंधा नमक; नमकों में श्रेष्ठ; नेत्र्य, त्रिदोषशामक; नित्य सेवनीय।",
+      "modern": "Rock salt (mainly sodium chloride).",
+      "category": "swasthavritta",
+      "source_refs": [
+        "CS.sutra.5",
+        "CS.sutra.27"
+      ],
+      "related": [
+        "lavana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "peya",
+      "devanagari": "पेया",
+      "iast": "peyā",
+      "simple": "Peya",
+      "en": "Thin rice gruel with more liquid and few grains; light, dīpana, first item of saṃsarjana krama.",
+      "hi": "पेया - अधिक द्रव और कम दाने वाली पतली यवागू; लघु, दीपन; संसर्जन का प्रथम आहार।",
+      "modern": "Thin gruel.",
+      "category": "swasthavritta",
+      "source_refs": [
+        "CS.sutra.2",
+        "AH.sutra.18"
+      ],
+      "related": [
+        "samsarjana-krama",
+        "vilepi",
+        "yavagu"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "vilepi",
+      "devanagari": "विलेपी",
+      "iast": "vilepī",
+      "simple": "Vilepi",
+      "en": "Thick rice gruel with little liquid; nourishing, given after peyā in saṃsarjana krama.",
+      "hi": "विलेपी - गाढ़ी यवागू; पेया के बाद।",
+      "modern": "Thick gruel.",
+      "category": "swasthavritta",
+      "source_refs": [
+        "CS.sutra.2"
+      ],
+      "related": [
+        "peya",
+        "samsarjana-krama"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "yavagu",
+      "devanagari": "यवागू",
+      "iast": "yavāgū",
+      "simple": "Yavagu",
+      "en": "Gruel made of grains (rice, barley) cooked with water, often with medicinal herbs; Caraka describes 28 medicated yavāgūs.",
+      "hi": "यवागू - अन्न को जल में पकाकर बनाई लपसी; चरक ने 28 औषधीय यवागू बताईं।",
+      "modern": "Medicated gruel.",
+      "category": "swasthavritta",
+      "source_refs": [
+        "CS.sutra.2"
+      ],
+      "related": [
+        "peya",
+        "vilepi"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "yusha",
+      "devanagari": "यूष",
+      "iast": "yūṣa",
+      "simple": "Yusha",
+      "en": "Soup of pulses (especially mudga); kṛta (seasoned with salt, sour and spices) or akṛta (unseasoned).",
+      "hi": "यूष - दाल का सूप (मुख्यतः मूँग); कृत और अकृत।",
+      "modern": "Lentil soup.",
+      "category": "swasthavritta",
+      "source_refs": [],
+      "related": [
+        "mudga",
+        "samsarjana-krama"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "panchagavya",
+      "devanagari": "पञ्चगव्य",
+      "iast": "pañcagavya",
+      "simple": "Panchagavya",
+      "en": "Five products of the cow: milk, curd, ghee, urine and dung; used in medicine (e.g. pañcagavya ghṛta in apasmāra) and purification.",
+      "hi": "पञ्चगव्य - गाय के पाँच उत्पाद: दूध, दही, घी, मूत्र, गोबर।",
+      "modern": "",
+      "category": "swasthavritta",
+      "source_refs": [],
+      "related": [
+        "ghrita",
+        "kshira"
+      ],
+      "review_status": "ai_draft"
     }
   ]
 }
