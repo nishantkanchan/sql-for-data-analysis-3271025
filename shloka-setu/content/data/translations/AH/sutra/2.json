@@ -1,0 +1,4762 @@
+{
+ "chapter": {
+  "id": "AH.sutra.2",
+  "text": "ashtanga_hridaya",
+  "sthana": "sutra",
+  "chapter": 2,
+  "title_iast": "Dinacaryā Adhyāya",
+  "title_devanagari": "दिनचर्याध्यायः",
+  "title_en": "The chapter on the daily regimen",
+  "title_hi": "दिनचर्या अध्याय (रोज़ की दिनचर्या)",
+  "summary_en": "This chapter sets out the ideal daily routine for a healthy person and the code of good conduct (sadvṛtta). It begins with rising at brāhma muhūrta, evacuation, tooth-cleaning with herbal sticks, collyrium for the eyes, nasya, gargling, medicated smoking and betel leaf, each with its indications and contraindications. It then describes oil massage (abhyaṅga), exercise to half one's capacity (ardhaśakti vyāyāma) and the harms of over-exertion, powder massage (udvartana) and bathing, including the rule against hot water on the head. Rules on eating only after digestion and on not forcing or suppressing natural urges follow. The second half is sadvṛtta: avoiding the ten sinful acts, compassion, respectful speech, hygiene and grooming, safety precautions, things to avoid, the middle path in all matters, and daily self-reflection. It ends with bedtime and the benefits of following this conduct. Dinacaryā is a core Svasthavṛtta topic and is asked every year.",
+  "summary_hi": "यह अध्याय स्वस्थ व्यक्ति की आदर्श दिनचर्या और सद्वृत्त (अच्छे आचरण के नियम) बताता है। इसकी शुरुआत ब्राह्म मुहूर्त में उठने, मल-त्याग, औषधीय दातुन, आँखों में अञ्जन, नस्य, गण्डूष, धूमपान और ताम्बूल से होती है, और हर एक के योग्य और अयोग्य लोग बताए गए हैं। फिर अभ्यङ्ग (तेल मालिश), अर्धशक्ति व्यायाम और अति व्यायाम के दुष्परिणाम, उद्वर्तन और स्नान का वर्णन है, जिसमें सिर पर गरम पानी न डालने का नियम भी है। इसके बाद पचने पर ही खाने और वेगों को न रोकने-न ज़बरदस्ती निकालने के नियम आते हैं। दूसरा भाग सद्वृत्त है: दस पाप कर्मों से बचना, करुणा, मधुर वाणी, स्वच्छता, सुरक्षा के उपाय, वर्जित काम, हर बात में मध्यम मार्ग और रोज़ आत्म-निरीक्षण। अंत में सोने का समय और इस आचरण के लाभ बताए गए हैं। दिनचर्या स्वस्थवृत्त का मुख्य विषय है और हर वर्ष परीक्षा में पूछा जाता है।",
+  "key_concepts": [
+   "dinacaryā",
+   "brāhma muhūrta",
+   "dantadhāvana",
+   "añjana",
+   "nasya",
+   "gaṇḍūṣa",
+   "dhūmapāna",
+   "tāmbūla",
+   "abhyaṅga",
+   "vyāyāma",
+   "ardhaśakti",
+   "udvartana",
+   "snāna",
+   "vegadhāraṇa",
+   "sadvṛtta",
+   "daśavidha pāpa karma",
+   "madhyamā pratipad"
+  ],
+  "exam_focus_en": [
+   "Sequence of dinacaryā from brāhma muhūrta to bedtime.",
+   "Dantadhāvana: suitable plants, tastes, size of the stick and contraindications (verses 2-4).",
+   "Añjana: sauvīrāñjana daily, rasāñjana weekly, and why the eye fears kapha (verses 5-6).",
+   "Benefits and contraindications of abhyaṅga, udvartana and snāna (verses 8-9, 15-18).",
+   "Vyāyāma: benefits, ardhaśakti, who should avoid it, and effects of excess (verses 10-14).",
+   "Sadvṛtta: the ten sinful acts (3 bodily, 4 verbal, 3 mental) and the middle path (verses 21-22, 30, 46)."
+  ],
+  "exam_focus_hi": [
+   "ब्राह्म मुहूर्त से सोने तक दिनचर्या का क्रम।",
+   "दन्तधावन: उपयुक्त वृक्ष, रस, दातुन का माप और अयोग्य लोग (श्लोक 2-4)।",
+   "अञ्जन: रोज़ सौवीराञ्जन, सप्ताह में रसाञ्जन, और आँख को कफ से भय क्यों (श्लोक 5-6)।",
+   "अभ्यङ्ग, उद्वर्तन और स्नान के लाभ और अयोग्य लोग (श्लोक 8-9, 15-18)।",
+   "व्यायाम: लाभ, अर्धशक्ति, किसे नहीं करना चाहिए, और अति के दुष्परिणाम (श्लोक 10-14)।",
+   "सद्वृत्त: दस पाप कर्म (3 शारीरिक, 4 वाचिक, 3 मानसिक) और मध्यम मार्ग (श्लोक 21-22, 30, 46)।"
+  ],
+  "syllabus_refs": [
+   "AyUG-SA1"
+  ],
+  "review_status": "ai_draft"
+ },
+ "verses": [
+  {
+   "id": "AH.sutra.2.1",
+   "word_meanings": [
+    {
+     "sa": "ब्राह्मे",
+     "iast": "brāhme",
+     "en": "in the Brāhma",
+     "hi": "ब्राह्म में"
+    },
+    {
+     "sa": "मुहूर्ते",
+     "iast": "muhūrte",
+     "en": "in the muhūrta (period of 48 minutes)",
+     "hi": "मुहूर्त में"
+    },
+    {
+     "sa": "उत्तिष्ठेत्",
+     "iast": "uttiṣṭhet",
+     "en": "should rise",
+     "hi": "उठे"
+    },
+    {
+     "sa": "स्वस्थः",
+     "iast": "svasthaḥ",
+     "en": "a healthy person",
+     "hi": "स्वस्थ व्यक्ति"
+    },
+    {
+     "sa": "रक्षार्थम्",
+     "iast": "rakṣārtham",
+     "en": "for the protection",
+     "hi": "रक्षा के लिए"
+    },
+    {
+     "sa": "आयुषः",
+     "iast": "āyuṣaḥ",
+     "en": "of life",
+     "hi": "आयु की"
+    },
+    {
+     "sa": "शरीरचिन्ताम्",
+     "iast": "śarīracintām",
+     "en": "thought about the body (bodily needs)",
+     "hi": "शरीर-चिन्ता (शौच आदि का विचार)"
+    },
+    {
+     "sa": "निर्वर्त्य",
+     "iast": "nirvartya",
+     "en": "having completed",
+     "hi": "पूरा करके"
+    },
+    {
+     "sa": "कृतशौचविधिः",
+     "iast": "kṛtaśaucavidhiḥ",
+     "en": "having done cleansing",
+     "hi": "शौच-विधि करके"
+    },
+    {
+     "sa": "ततः",
+     "iast": "tataḥ",
+     "en": "then",
+     "hi": "उसके बाद"
+    }
+   ],
+   "english": "A healthy person should rise in the brāhma muhūrta (the period before dawn) for the protection of life. After attending to bodily needs (evacuation) and completing the cleansing routine, then...",
+   "hindi": "स्वस्थ व्यक्ति को अपनी आयु की रक्षा के लिए ब्राह्म मुहूर्त (सूर्योदय से पहले का समय) में उठना चाहिए। फिर शरीर की ज़रूरतों (मल-मूत्र त्याग) को पूरा करके और शौच-विधि करके...",
+   "explanation_en": "This opens the Dinacaryā (daily regimen) chapter. Brāhma muhūrta is generally taken as about 96 to 48 minutes before sunrise. 'Śarīra-cintā' is understood by commentators as checking whether the previous night's food is digested and attending to natural urges. Note the word 'svastha': these rules are for the healthy, to preserve health.",
+   "explanation_hi": "यह दिनचर्या अध्याय की शुरुआत है। ब्राह्म मुहूर्त सामान्यतः सूर्योदय से लगभग 96 से 48 मिनट पहले का समय माना जाता है। 'शरीर-चिन्ता' का अर्थ टीकाकार यह बताते हैं कि रात का भोजन पचा या नहीं, यह देखना और मल-मूत्र आदि वेगों को पूरा करना। 'स्वस्थ' शब्द पर ध्यान दें: ये नियम स्वस्थ व्यक्ति के स्वास्थ्य को बनाए रखने के लिए हैं।",
+   "modern_correlation": {
+    "en": "Waking early on a regular schedule is often discussed in relation to circadian alignment; consistent sleep-wake timing is associated with better metabolic and mental health in observational studies.",
+    "hi": "नियमित रूप से जल्दी उठने की आदत को अक्सर सर्केडियन लय (शरीर की घड़ी) के अनुरूप रहने से जोड़ा जाता है; अवलोकन अध्ययनों में नियमित सोने-जागने का समय बेहतर चयापचय और मानसिक स्वास्थ्य से जुड़ा पाया गया है।"
+   },
+   "key_terms": [
+    "dinacaryā",
+    "brāhma muhūrta",
+    "śarīra-cintā",
+    "śauca"
+   ],
+   "tags": [
+    "dinacharya",
+    "swasthavritta"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.2.2",
+   "word_meanings": [
+    {
+     "sa": "अर्क",
+     "iast": "arka",
+     "en": "Calotropis",
+     "hi": "अर्क (आक)"
+    },
+    {
+     "sa": "न्यग्रोध",
+     "iast": "nyagrodha",
+     "en": "banyan",
+     "hi": "न्यग्रोध (बरगद)"
+    },
+    {
+     "sa": "खदिर",
+     "iast": "khadira",
+     "en": "Acacia catechu",
+     "hi": "खदिर (खैर)"
+    },
+    {
+     "sa": "करञ्ज",
+     "iast": "karañja",
+     "en": "Pongamia",
+     "hi": "करञ्ज"
+    },
+    {
+     "sa": "ककुभ",
+     "iast": "kakubha",
+     "en": "Arjuna",
+     "hi": "ककुभ (अर्जुन)"
+    },
+    {
+     "sa": "आदिजम्",
+     "iast": "ādijam",
+     "en": "made from these etc.",
+     "hi": "आदि से बना"
+    },
+    {
+     "sa": "प्रातः",
+     "iast": "prātaḥ",
+     "en": "in the morning",
+     "hi": "सुबह"
+    },
+    {
+     "sa": "भुक्त्वा",
+     "iast": "bhuktvā",
+     "en": "after eating",
+     "hi": "भोजन करने के बाद"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "मृद्वग्रम्",
+     "iast": "mṛdvagram",
+     "en": "with a soft (chewed) tip",
+     "hi": "नरम सिरे वाला"
+    },
+    {
+     "sa": "कषाय",
+     "iast": "kaṣāya",
+     "en": "astringent",
+     "hi": "कषाय"
+    },
+    {
+     "sa": "कटु",
+     "iast": "kaṭu",
+     "en": "pungent",
+     "hi": "कटु"
+    },
+    {
+     "sa": "तिक्तकम्",
+     "iast": "tiktakam",
+     "en": "bitter",
+     "hi": "तिक्त"
+    }
+   ],
+   "english": "...[a tooth-stick] made from arka, nyagrodha, khadira, karañja, kakubha (arjuna) and similar plants, with a softened (frayed) tip, and astringent, pungent or bitter in taste, [should be used] in the morning and after meals...",
+   "hindi": "...अर्क (आक), न्यग्रोध (बरगद), खदिर (खैर), करञ्ज, ककुभ (अर्जुन) आदि वृक्षों की दातुन, जिसका सिरा चबाकर नरम कर लिया गया हो और जो कषाय, कटु या तिक्त रस वाली हो, सुबह और भोजन के बाद (उपयोग करे)...",
+   "explanation_en": "Dantadhāvana (tooth cleaning) is the first step after waking and evacuation. 'Prātar bhuktvā ca' is usually explained as 'in the morning and after eating', i.e. teeth are cleaned at both times. The tastes kaṣāya, kaṭu and tikta are chosen because they reduce kapha, which accumulates in the mouth overnight and after meals. The sentence continues in verse 3.",
+   "explanation_hi": "मल-त्याग के बाद पहला काम दन्तधावन (दातुन) है। 'प्रातर्भुक्त्वा च' का सामान्य अर्थ है 'सुबह और भोजन के बाद', यानी दोनों समय दाँत साफ़ करने चाहिए। कषाय, कटु और तिक्त रस इसलिए चुने गए क्योंकि ये कफ घटाते हैं, जो रात भर और भोजन के बाद मुँह में जमा होता है। वाक्य श्लोक 3 में पूरा होता है।",
+   "modern_correlation": {
+    "en": "Chewing sticks from plants such as neem, banyan and acacia have been studied for antimicrobial and anti-plaque activity; the WHO has recognised chewing sticks as a traditional oral-hygiene tool, though evidence on equivalence to toothbrushing is mixed.",
+    "hi": "नीम, बरगद और खैर जैसे पौधों की दातुन पर रोगाणुरोधी और प्लाक-रोधी प्रभाव के अध्ययन हुए हैं; WHO ने दातुन को पारंपरिक मुख-स्वच्छता साधन माना है, यद्यपि टूथब्रश के बराबर होने के प्रमाण मिश्रित हैं।"
+   },
+   "key_terms": [
+    "dantadhāvana",
+    "danta-pavana",
+    "arka",
+    "khadira",
+    "karañja",
+    "arjuna"
+   ],
+   "tags": [
+    "dinacharya",
+    "oral-hygiene"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.2.3",
+   "word_meanings": [
+    {
+     "sa": "कनीन्यग्र",
+     "iast": "kanīnyagra",
+     "en": "tip of the little finger",
+     "hi": "कनिष्ठा अंगुली का अग्र भाग"
+    },
+    {
+     "sa": "सम",
+     "iast": "sama",
+     "en": "equal",
+     "hi": "समान"
+    },
+    {
+     "sa": "स्थौल्यम्",
+     "iast": "sthaulyam",
+     "en": "thickness",
+     "hi": "मोटाई"
+    },
+    {
+     "sa": "प्रगुणम्",
+     "iast": "praguṇam",
+     "en": "straight",
+     "hi": "सीधी"
+    },
+    {
+     "sa": "द्वादशाङ्गुलम्",
+     "iast": "dvādaśāṅgulam",
+     "en": "twelve finger-breadths long",
+     "hi": "बारह अंगुल लंबी"
+    },
+    {
+     "sa": "भक्षयेत्",
+     "iast": "bhakṣayet",
+     "en": "should chew",
+     "hi": "चबाए"
+    },
+    {
+     "sa": "दन्तपवनम्",
+     "iast": "dantapavanam",
+     "en": "tooth-stick",
+     "hi": "दातुन"
+    },
+    {
+     "sa": "दन्तमांसानि",
+     "iast": "dantamāṃsāni",
+     "en": "gums",
+     "hi": "मसूड़ों को"
+    },
+    {
+     "sa": "अबाधयन्",
+     "iast": "abādhayan",
+     "en": "without hurting",
+     "hi": "कष्ट न देते हुए"
+    }
+   ],
+   "english": "...it should be as thick as the tip of the little finger, straight, and twelve finger-breadths long. One should chew the tooth-stick without hurting the gums.",
+   "hindi": "...दातुन कनिष्ठा (छोटी) अंगुली के सिरे जितनी मोटी, सीधी और बारह अंगुल लंबी हो। मसूड़ों को चोट पहुँचाए बिना दातुन चबानी चाहिए।",
+   "explanation_en": "These specifications of the dantadhāvana stick (thickness of little finger, 12 aṅgula, straight) are common short-answer questions. The caution against hurting the gums matches modern advice on gentle brushing.",
+   "explanation_hi": "दातुन के ये माप (कनिष्ठा अंगुली जितनी मोटी, 12 अंगुल लंबी, सीधी) छोटे प्रश्नों में अक्सर पूछे जाते हैं। मसूड़ों को चोट न पहुँचाने की सलाह आधुनिक 'धीरे ब्रश करने' की सलाह से मेल खाती है।",
+   "modern_correlation": {
+    "en": "Avoiding gum trauma while cleaning teeth parallels modern dental advice, since aggressive brushing is linked to gingival recession.",
+    "hi": "दाँत साफ़ करते समय मसूड़ों को चोट न पहुँचाना आधुनिक दन्त-चिकित्सा की सलाह से मिलता है, क्योंकि ज़ोर से ब्रश करना मसूड़ों के पीछे हटने (gingival recession) से जुड़ा है।"
+   },
+   "key_terms": [
+    "dantadhāvana",
+    "aṅgula"
+   ],
+   "tags": [
+    "dinacharya",
+    "oral-hygiene"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.2.4",
+   "word_meanings": [
+    {
+     "sa": "न अद्यात्",
+     "iast": "na adyāt",
+     "en": "should not use (chew)",
+     "hi": "उपयोग न करे"
+    },
+    {
+     "sa": "अजीर्ण",
+     "iast": "ajīrṇa",
+     "en": "indigestion",
+     "hi": "अजीर्ण"
+    },
+    {
+     "sa": "वमथु",
+     "iast": "vamathu",
+     "en": "vomiting",
+     "hi": "वमन"
+    },
+    {
+     "sa": "श्वास",
+     "iast": "śvāsa",
+     "en": "dyspnoea",
+     "hi": "श्वास"
+    },
+    {
+     "sa": "कास",
+     "iast": "kāsa",
+     "en": "cough",
+     "hi": "कास"
+    },
+    {
+     "sa": "ज्वर",
+     "iast": "jvara",
+     "en": "fever",
+     "hi": "ज्वर"
+    },
+    {
+     "sa": "अर्दिती",
+     "iast": "arditī",
+     "en": "one with facial palsy",
+     "hi": "अर्दित (मुख का लकवा) वाला"
+    },
+    {
+     "sa": "तृष्णा",
+     "iast": "tṛṣṇā",
+     "en": "thirst",
+     "hi": "तृष्णा"
+    },
+    {
+     "sa": "आस्यपाक",
+     "iast": "āsyapāka",
+     "en": "mouth ulcers",
+     "hi": "मुखपाक"
+    },
+    {
+     "sa": "हृत्",
+     "iast": "hṛt",
+     "en": "heart disease",
+     "hi": "हृदय रोग"
+    },
+    {
+     "sa": "नेत्र",
+     "iast": "netra",
+     "en": "eye",
+     "hi": "नेत्र"
+    },
+    {
+     "sa": "शिरः",
+     "iast": "śiraḥ",
+     "en": "head",
+     "hi": "शिर"
+    },
+    {
+     "sa": "कर्ण",
+     "iast": "karṇa",
+     "en": "ear",
+     "hi": "कर्ण"
+    },
+    {
+     "sa": "आमयी",
+     "iast": "āmayī",
+     "en": "one suffering from disease",
+     "hi": "रोगी"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "तत्",
+     "iast": "tat",
+     "en": "that (tooth-stick)",
+     "hi": "उस (दातुन) को"
+    }
+   ],
+   "english": "One suffering from indigestion, vomiting, dyspnoea, cough, fever, facial palsy (ardita), thirst, mouth ulcers, or diseases of the heart, eyes, head or ears should not use the tooth-stick.",
+   "hindi": "अजीर्ण, उल्टी, श्वास, खाँसी, ज्वर, अर्दित (चेहरे का लकवा), अधिक प्यास, मुँह के छाले, तथा हृदय, आँख, सिर या कान के रोग से पीड़ित व्यक्ति को दातुन नहीं करनी चाहिए।",
+   "explanation_en": "Every procedure in Āyurveda has indications and contraindications. These contraindications of dantadhāvana are asked as a list; commentators suggest such persons clean the mouth by gargling or finger-rubbing with powders instead.",
+   "explanation_hi": "आयुर्वेद में हर क्रिया के योग्य और अयोग्य (contraindication) बताए गए हैं। दन्तधावन के ये अयोग्य रोगी सूची के रूप में पूछे जाते हैं; टीकाकार कहते हैं कि ऐसे लोग गरारे से या अंगुली से चूर्ण मलकर मुँह साफ़ करें।",
+   "modern_correlation": null,
+   "key_terms": [
+    "dantadhāvana",
+    "ardita",
+    "contraindication"
+   ],
+   "tags": [
+    "dinacharya",
+    "contraindications"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.2.5",
+   "word_meanings": [
+    {
+     "sa": "सौवीरम्",
+     "iast": "sauvīram",
+     "en": "sauvīra (stibnite/antimony collyrium)",
+     "hi": "सौवीर (सौवीराञ्जन)"
+    },
+    {
+     "sa": "अञ्जनम्",
+     "iast": "añjanam",
+     "en": "collyrium",
+     "hi": "अञ्जन"
+    },
+    {
+     "sa": "नित्यम्",
+     "iast": "nityam",
+     "en": "daily",
+     "hi": "नित्य"
+    },
+    {
+     "sa": "हितम्",
+     "iast": "hitam",
+     "en": "beneficial",
+     "hi": "हितकर"
+    },
+    {
+     "sa": "अक्ष्णोः",
+     "iast": "akṣṇoḥ",
+     "en": "for the eyes",
+     "hi": "आँखों के लिए"
+    },
+    {
+     "sa": "ततः",
+     "iast": "tataḥ",
+     "en": "then",
+     "hi": "फिर"
+    },
+    {
+     "sa": "भजेत्",
+     "iast": "bhajet",
+     "en": "should use",
+     "hi": "प्रयोग करे"
+    },
+    {
+     "sa": "चक्षुः",
+     "iast": "cakṣuḥ",
+     "en": "the eye",
+     "hi": "नेत्र"
+    },
+    {
+     "sa": "तेजोमयम्",
+     "iast": "tejomayam",
+     "en": "made of fire (tejas)",
+     "hi": "तेजोमय"
+    },
+    {
+     "sa": "तस्य",
+     "iast": "tasya",
+     "en": "for it",
+     "hi": "उसके लिए"
+    },
+    {
+     "sa": "विशेषात्",
+     "iast": "viśeṣāt",
+     "en": "especially",
+     "hi": "विशेष रूप से"
+    },
+    {
+     "sa": "श्लेष्मतः",
+     "iast": "śleṣmataḥ",
+     "en": "from kapha",
+     "hi": "कफ से"
+    },
+    {
+     "sa": "भयम्",
+     "iast": "bhayam",
+     "en": "danger",
+     "hi": "भय"
+    }
+   ],
+   "english": "Then one should apply sauvīra añjana (collyrium) daily, as it is beneficial for the eyes. The eye is made of tejas (fire element), so it is especially endangered by kapha.",
+   "hindi": "इसके बाद रोज़ सौवीराञ्जन (सुरमा) लगाना चाहिए, क्योंकि यह आँखों के लिए हितकर है। आँख तेजोमय (अग्नि तत्व प्रधान) है, इसलिए उसे विशेष रूप से कफ से खतरा रहता है।",
+   "explanation_en": "Añjana is applied daily to remove kapha from the eyes. The logic is pañcabhautika: the eye is dominated by tejas, and kapha (water and earth) opposes it. Sauvīra añjana is traditionally identified with stibnite (antimony sulphide), though some scholars suggest galena (lead sulphide); follow your teacher's identification.",
+   "explanation_hi": "आँखों से कफ हटाने के लिए रोज़ अञ्जन लगाया जाता है। इसका तर्क पञ्चभौतिक है: आँख में तेज प्रधान है, और कफ (जल और पृथ्वी) उसका विरोधी है। सौवीराञ्जन को पारंपरिक रूप से स्टिबनाइट (एंटीमनी सल्फाइड) माना जाता है, कुछ विद्वान इसे गैलेना (लेड सल्फाइड) भी मानते हैं।",
+   "modern_correlation": {
+    "en": "Some traditional kohl/surma products have been found to contain lead (galena) rather than antimony, and lead exposure is a recognised health risk, especially for children; this is a safety point, not a comment on the classical intent.",
+    "hi": "कुछ पारंपरिक काजल/सुरमा उत्पादों में एंटीमनी के बजाय सीसा (लेड, गैलेना) पाया गया है, और सीसे का संपर्क खासकर बच्चों के लिए स्वास्थ्य जोखिम माना जाता है; यह सुरक्षा की बात है, शास्त्र के उद्देश्य पर टिप्पणी नहीं।"
+   },
+   "key_terms": [
+    "añjana",
+    "sauvīrāñjana",
+    "tejas",
+    "kapha"
+   ],
+   "tags": [
+    "dinacharya",
+    "eye-care"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.2.6",
+   "word_meanings": [
+    {
+     "sa": "भुक्तवान्",
+     "iast": "bhuktavān",
+     "en": "one who has eaten",
+     "hi": "जिसने भोजन किया हो"
+    },
+    {
+     "sa": "शिरःस्नातः",
+     "iast": "śiraḥsnātaḥ",
+     "en": "one who has bathed the head",
+     "hi": "जिसने सिर से स्नान किया हो"
+    },
+    {
+     "sa": "श्रान्तः",
+     "iast": "śrāntaḥ",
+     "en": "tired",
+     "hi": "थका हुआ"
+    },
+    {
+     "sa": "छर्दन",
+     "iast": "chardana",
+     "en": "emesis",
+     "hi": "वमन"
+    },
+    {
+     "sa": "नावनैः",
+     "iast": "nāvanaiḥ",
+     "en": "by nasal therapy",
+     "hi": "नस्य से"
+    },
+    {
+     "sa": "रात्रौ जागरितः",
+     "iast": "rātrau jāgaritaḥ",
+     "en": "one who stayed awake at night",
+     "hi": "रात में जागा हुआ"
+    },
+    {
+     "sa": "न अञ्ज्यात्",
+     "iast": "na añjyāt",
+     "en": "should not apply collyrium",
+     "hi": "अञ्जन न लगाए"
+    },
+    {
+     "sa": "ज्वरितः",
+     "iast": "jvaritaḥ",
+     "en": "one with fever",
+     "hi": "ज्वर वाला"
+    },
+    {
+     "sa": "योजयेत्",
+     "iast": "yojayet",
+     "en": "should apply",
+     "hi": "प्रयोग करे"
+    },
+    {
+     "sa": "सप्तरात्रे",
+     "iast": "saptarātre",
+     "en": "once in seven nights",
+     "hi": "सात रात में एक बार"
+    },
+    {
+     "sa": "अस्मात्",
+     "iast": "asmāt",
+     "en": "for it (the eye)",
+     "hi": "इसके लिए"
+    },
+    {
+     "sa": "स्रावणार्थम्",
+     "iast": "srāvaṇārtham",
+     "en": "for making (kapha) flow out",
+     "hi": "स्राव कराने के लिए"
+    },
+    {
+     "sa": "रसाञ्जनम्",
+     "iast": "rasāñjanam",
+     "en": "rasāñjana (extract of Berberis)",
+     "hi": "रसाञ्जन"
+    },
+    {
+     "sa": "ततः",
+     "iast": "tataḥ",
+     "en": "then",
+     "hi": "फिर"
+    },
+    {
+     "sa": "नावन",
+     "iast": "nāvana",
+     "en": "nasal medication",
+     "hi": "नस्य"
+    },
+    {
+     "sa": "गण्डूष",
+     "iast": "gaṇḍūṣa",
+     "en": "gargling",
+     "hi": "गण्डूष"
+    },
+    {
+     "sa": "धूम",
+     "iast": "dhūma",
+     "en": "medicated smoke",
+     "hi": "धूमपान"
+    },
+    {
+     "sa": "ताम्बूल",
+     "iast": "tāmbūla",
+     "en": "betel leaf",
+     "hi": "ताम्बूल (पान)"
+    },
+    {
+     "sa": "भाक् भवेत्",
+     "iast": "bhāk bhavet",
+     "en": "should partake of",
+     "hi": "सेवन करे"
+    }
+   ],
+   "english": "One who has just eaten, has bathed the head, is tired from emesis or nasal therapy, has kept awake at night, or has fever should not apply collyrium. Once in seven nights one should apply rasāñjana to make (excess kapha) flow out of the eye. After that one should use nasya (nasal drops), gaṇḍūṣa (gargles), dhūma (medicated smoke) and tāmbūla (betel leaf).",
+   "hindi": "जिसने अभी भोजन किया हो, सिर से नहाया हो, वमन या नस्य से थका हो, रात में जागा हो या ज्वर से पीड़ित हो, उसे अञ्जन नहीं लगाना चाहिए। सप्ताह में एक बार आँख से कफ का स्राव कराने के लिए रसाञ्जन लगाना चाहिए। इसके बाद नस्य, गण्डूष, धूमपान और ताम्बूल (पान) का सेवन करे।",
+   "explanation_en": "In this corpus 2.6 includes an extra half-verse (5+1) listing contraindications of añjana. Daily sauvīrāñjana is mild; weekly rasāñjana is stronger and causes lacrimation (srāvaṇa). The sequence of the morning routine then continues: nasya, gaṇḍūṣa, dhūmapāna and tāmbūla, which are detailed in later chapters (20-22).",
+   "explanation_hi": "इस कॉर्पस में 2.6 में अञ्जन के अयोग्य लोगों की सूची वाला अतिरिक्त आधा श्लोक (5+1) भी है। रोज़ का सौवीराञ्जन हल्का है; सप्ताह में एक बार का रसाञ्जन तेज़ है और आँसू (स्राव) लाता है। फिर सुबह का क्रम आगे चलता है: नस्य, गण्डूष, धूमपान और ताम्बूल, जिनका विस्तार अध्याय 20-22 में है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "añjana",
+    "rasāñjana",
+    "nasya",
+    "gaṇḍūṣa",
+    "dhūmapāna",
+    "tāmbūla"
+   ],
+   "tags": [
+    "dinacharya",
+    "eye-care",
+    "contraindications"
+   ],
+   "importance": "high",
+   "mnemonic": "Daily: sauvīra; weekly: rasāñjana",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.2.7",
+   "word_meanings": [
+    {
+     "sa": "ताम्बूलम्",
+     "iast": "tāmbūlam",
+     "en": "betel leaf",
+     "hi": "ताम्बूल"
+    },
+    {
+     "sa": "क्षत",
+     "iast": "kṣata",
+     "en": "chest injury",
+     "hi": "क्षत (उरःक्षत)"
+    },
+    {
+     "sa": "पित्तास्र",
+     "iast": "pittāsra",
+     "en": "raktapitta (bleeding disorder)",
+     "hi": "रक्तपित्त"
+    },
+    {
+     "sa": "रूक्ष",
+     "iast": "rūkṣa",
+     "en": "dry",
+     "hi": "रूक्ष"
+    },
+    {
+     "sa": "उत्कुपित",
+     "iast": "utkupita",
+     "en": "inflamed",
+     "hi": "कुपित"
+    },
+    {
+     "sa": "चक्षुषाम्",
+     "iast": "cakṣuṣām",
+     "en": "of those with (dry/inflamed) eyes",
+     "hi": "आँखों वालों के लिए"
+    },
+    {
+     "sa": "विष",
+     "iast": "viṣa",
+     "en": "poisoning",
+     "hi": "विष"
+    },
+    {
+     "sa": "मूर्छा",
+     "iast": "mūrchā",
+     "en": "fainting",
+     "hi": "मूर्छा"
+    },
+    {
+     "sa": "मद",
+     "iast": "mada",
+     "en": "intoxication",
+     "hi": "मद"
+    },
+    {
+     "sa": "आर्तानाम्",
+     "iast": "ārtānām",
+     "en": "of those afflicted",
+     "hi": "पीड़ितों के लिए"
+    },
+    {
+     "sa": "अपथ्यम्",
+     "iast": "apathyam",
+     "en": "unwholesome",
+     "hi": "अपथ्य"
+    },
+    {
+     "sa": "शोषिणाम्",
+     "iast": "śoṣiṇām",
+     "en": "of those with wasting",
+     "hi": "शोष वालों के लिए"
+    },
+    {
+     "sa": "अपि",
+     "iast": "api",
+     "en": "also",
+     "hi": "भी"
+    }
+   ],
+   "english": "Betel leaf is unwholesome for those with chest injury (kṣata), bleeding disorders (raktapitta), dry or inflamed eyes, those afflicted by poison, fainting or intoxication, and also those with wasting disease (śoṣa).",
+   "hindi": "उरःक्षत (छाती में घाव), रक्तपित्त, रूखी या जलन वाली आँखें, विष, मूर्छा या मद से पीड़ित, और शोष (क्षय) रोगी के लिए ताम्बूल (पान) अपथ्य है।",
+   "explanation_en": "Contraindications of tāmbūla. Betel is hot and drying, so it is avoided in conditions of dryness, bleeding and depletion. These lists are commonly asked as 'ayogya' (unfit persons) questions.",
+   "explanation_hi": "ताम्बूल के अयोग्य लोग। पान उष्ण और रूक्ष है, इसलिए सूखेपन, रक्तस्राव और क्षय की स्थितियों में इससे बचना चाहिए। ऐसी सूचियाँ 'अयोग्य' प्रश्नों के रूप में पूछी जाती हैं।",
+   "modern_correlation": {
+    "en": "Habitual chewing of areca nut (often taken with betel leaf) is classified by the IARC as carcinogenic to humans and is linked to oral submucous fibrosis and oral cancer; this is an important public-health point for students.",
+    "hi": "सुपारी (जो अक्सर पान के साथ खाई जाती है) का नियमित सेवन IARC द्वारा मनुष्यों के लिए कैंसरकारी माना गया है और यह ओरल सबम्यूकस फाइब्रोसिस और मुख कैंसर से जुड़ा है; विद्यार्थियों के लिए यह जन-स्वास्थ्य की महत्वपूर्ण बात है।"
+   },
+   "key_terms": [
+    "tāmbūla",
+    "raktapitta",
+    "kṣata",
+    "śoṣa",
+    "apathya"
+   ],
+   "tags": [
+    "dinacharya",
+    "contraindications"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.2.8",
+   "word_meanings": [
+    {
+     "sa": "अभ्यङ्गम्",
+     "iast": "abhyaṅgam",
+     "en": "oil massage",
+     "hi": "अभ्यङ्ग"
+    },
+    {
+     "sa": "आचरेत्",
+     "iast": "ācaret",
+     "en": "should practise",
+     "hi": "करे"
+    },
+    {
+     "sa": "नित्यम्",
+     "iast": "nityam",
+     "en": "daily",
+     "hi": "रोज़"
+    },
+    {
+     "sa": "सः",
+     "iast": "saḥ",
+     "en": "it",
+     "hi": "वह"
+    },
+    {
+     "sa": "जरा",
+     "iast": "jarā",
+     "en": "old age",
+     "hi": "जरा (बुढ़ापा)"
+    },
+    {
+     "sa": "श्रम",
+     "iast": "śrama",
+     "en": "fatigue",
+     "hi": "श्रम (थकान)"
+    },
+    {
+     "sa": "वात",
+     "iast": "vāta",
+     "en": "vāta",
+     "hi": "वात"
+    },
+    {
+     "sa": "हा",
+     "iast": "hā",
+     "en": "removes",
+     "hi": "नष्ट करने वाला"
+    },
+    {
+     "sa": "दृष्टिप्रसाद",
+     "iast": "dṛṣṭiprasāda",
+     "en": "clarity of vision",
+     "hi": "दृष्टि की स्वच्छता"
+    },
+    {
+     "sa": "पुष्टि",
+     "iast": "puṣṭi",
+     "en": "nourishment",
+     "hi": "पुष्टि"
+    },
+    {
+     "sa": "आयुः",
+     "iast": "āyuḥ",
+     "en": "longevity",
+     "hi": "आयु"
+    },
+    {
+     "sa": "स्वप्न",
+     "iast": "svapna",
+     "en": "good sleep",
+     "hi": "नींद"
+    },
+    {
+     "sa": "सुत्वक्त्व",
+     "iast": "sutvaktva",
+     "en": "good skin",
+     "hi": "सुन्दर त्वचा"
+    },
+    {
+     "sa": "दार्ढ्य",
+     "iast": "dārḍhya",
+     "en": "firmness",
+     "hi": "दृढ़ता"
+    },
+    {
+     "sa": "कृत्",
+     "iast": "kṛt",
+     "en": "produces",
+     "hi": "करने वाला"
+    }
+   ],
+   "english": "One should practise abhyaṅga (oil massage) daily. It counters ageing, fatigue and vāta, and brings clarity of vision, nourishment, longevity, good sleep, good skin and firmness of the body.",
+   "hindi": "रोज़ अभ्यङ्ग (तेल मालिश) करना चाहिए। यह बुढ़ापे, थकान और वात को दूर करता है, तथा दृष्टि की स्वच्छता, पुष्टि, आयु, अच्छी नींद, सुन्दर त्वचा और शरीर की दृढ़ता देता है।",
+   "explanation_en": "The benefits of abhyaṅga are a classic exam list. Since oil has qualities opposite to vāta (snigdha, guru, uṣṇa), it is the best daily vāta-pacifier. Learn the benefits as: anti-ageing, anti-fatigue, anti-vāta, plus six positive effects.",
+   "explanation_hi": "अभ्यङ्ग के लाभ परीक्षा की प्रसिद्ध सूची है। तेल के गुण (स्निग्ध, गुरु, उष्ण) वात के विपरीत हैं, इसलिए यह रोज़ का सबसे अच्छा वात-शामक है। लाभ ऐसे याद करें: बुढ़ापा, थकान, वात दूर करे, और छह अच्छे प्रभाव दे।",
+   "modern_correlation": {
+    "en": "Massage has been studied for effects on muscle soreness, sleep quality and relaxation, and emollients support the skin barrier; the broader claims on longevity have not been established by modern research.",
+    "hi": "मालिश के मांसपेशियों के दर्द, नींद की गुणवत्ता और विश्राम पर प्रभाव का अध्ययन हुआ है, और तैलीय पदार्थ त्वचा की बाहरी परत (skin barrier) को सहारा देते हैं; आयु बढ़ाने जैसे बड़े दावे आधुनिक शोध से स्थापित नहीं हैं।"
+   },
+   "key_terms": [
+    "abhyaṅga",
+    "vāta"
+   ],
+   "tags": [
+    "dinacharya",
+    "abhyanga"
+   ],
+   "importance": "high",
+   "mnemonic": "Abhyaṅga: J-Ś-V hā (removes Jarā, Śrama, Vāta)",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.2.9",
+   "word_meanings": [
+    {
+     "sa": "शिरः",
+     "iast": "śiraḥ",
+     "en": "head",
+     "hi": "सिर"
+    },
+    {
+     "sa": "श्रवण",
+     "iast": "śravaṇa",
+     "en": "ears",
+     "hi": "कान"
+    },
+    {
+     "sa": "पादेषु",
+     "iast": "pādeṣu",
+     "en": "on the feet",
+     "hi": "पैरों पर"
+    },
+    {
+     "sa": "तम्",
+     "iast": "tam",
+     "en": "it",
+     "hi": "उसे"
+    },
+    {
+     "sa": "विशेषेण",
+     "iast": "viśeṣeṇa",
+     "en": "especially",
+     "hi": "विशेष रूप से"
+    },
+    {
+     "sa": "शीलयेत्",
+     "iast": "śīlayet",
+     "en": "should practise",
+     "hi": "करे"
+    },
+    {
+     "sa": "वर्ज्यः",
+     "iast": "varjyaḥ",
+     "en": "to be avoided",
+     "hi": "वर्जित"
+    },
+    {
+     "sa": "अभ्यङ्गः",
+     "iast": "abhyaṅgaḥ",
+     "en": "oil massage",
+     "hi": "अभ्यङ्ग"
+    },
+    {
+     "sa": "कफग्रस्त",
+     "iast": "kaphagrasta",
+     "en": "those afflicted by kapha",
+     "hi": "कफ से ग्रस्त"
+    },
+    {
+     "sa": "कृतसंशुद्धि",
+     "iast": "kṛtasaṃśuddhi",
+     "en": "those who have undergone purification",
+     "hi": "जिन्होंने शोधन कराया हो"
+    },
+    {
+     "sa": "अजीर्णिभिः",
+     "iast": "ajīrṇibhiḥ",
+     "en": "by those with indigestion",
+     "hi": "अजीर्ण वालों द्वारा"
+    }
+   ],
+   "english": "One should apply it especially to the head, ears and feet. Abhyaṅga should be avoided by those afflicted by kapha, those who have just undergone purificatory therapy (vamana, virecana), and those with indigestion.",
+   "hindi": "अभ्यङ्ग विशेष रूप से सिर, कान और पैरों पर करना चाहिए। कफ से पीड़ित, जिन्होंने अभी शोधन (वमन, विरेचन) कराया हो, और अजीर्ण वाले लोगों को अभ्यङ्ग नहीं करना चाहिए।",
+   "explanation_en": "Head, ears and feet are the three key sites for daily oiling (śiro-abhyaṅga, karṇa-pūraṇa, pāda-abhyaṅga). Contraindications follow the logic that oil increases kapha and burdens digestion.",
+   "explanation_hi": "सिर, कान और पैर रोज़ तेल लगाने के तीन मुख्य स्थान हैं (शिरोभ्यङ्ग, कर्णपूरण, पादाभ्यङ्ग)। अयोग्य लोगों का तर्क यह है कि तेल कफ बढ़ाता है और पाचन पर भार डालता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "abhyaṅga",
+    "śiro-abhyaṅga",
+    "karṇa-pūraṇa",
+    "pāda-abhyaṅga"
+   ],
+   "tags": [
+    "dinacharya",
+    "abhyanga",
+    "contraindications"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.2.10",
+   "word_meanings": [
+    {
+     "sa": "लाघवम्",
+     "iast": "lāghavam",
+     "en": "lightness",
+     "hi": "लाघव (हल्कापन)"
+    },
+    {
+     "sa": "कर्मसामर्थ्यम्",
+     "iast": "karmasāmarthyam",
+     "en": "capacity for work",
+     "hi": "काम करने की क्षमता"
+    },
+    {
+     "sa": "दीप्तः",
+     "iast": "dīptaḥ",
+     "en": "kindled",
+     "hi": "दीप्त"
+    },
+    {
+     "sa": "अग्निः",
+     "iast": "agniḥ",
+     "en": "digestive fire",
+     "hi": "अग्नि"
+    },
+    {
+     "sa": "मेदसः",
+     "iast": "medasaḥ",
+     "en": "of fat",
+     "hi": "मेद का"
+    },
+    {
+     "sa": "क्षयः",
+     "iast": "kṣayaḥ",
+     "en": "reduction",
+     "hi": "क्षय"
+    },
+    {
+     "sa": "विभक्त",
+     "iast": "vibhakta",
+     "en": "well-proportioned",
+     "hi": "सुडौल (विभक्त)"
+    },
+    {
+     "sa": "घन",
+     "iast": "ghana",
+     "en": "compact",
+     "hi": "घन (ठोस)"
+    },
+    {
+     "sa": "गात्रत्वम्",
+     "iast": "gātratvam",
+     "en": "state of the body",
+     "hi": "शरीर का होना"
+    },
+    {
+     "sa": "व्यायामात्",
+     "iast": "vyāyāmāt",
+     "en": "from exercise",
+     "hi": "व्यायाम से"
+    },
+    {
+     "sa": "उपजायते",
+     "iast": "upajāyate",
+     "en": "arises",
+     "hi": "उत्पन्न होता है"
+    }
+   ],
+   "english": "Lightness, capacity for work, kindled agni, reduction of fat, and a well-proportioned, compact body arise from vyāyāma (exercise).",
+   "hindi": "व्यायाम से शरीर में हल्कापन, काम करने की क्षमता, तेज़ अग्नि (भूख), मेद (चर्बी) में कमी, और सुडौल व गठा हुआ शरीर प्राप्त होता है।",
+   "explanation_en": "Benefits of vyāyāma, another standard list. Notice 'medasaḥ kṣayaḥ' (reduction of fat) and 'dīpto 'gniḥ' (better digestion). The next verses give who should avoid exercise and how much is right.",
+   "explanation_hi": "व्यायाम के लाभ, एक और प्रसिद्ध सूची। 'मेदसः क्षयः' (चर्बी घटना) और 'दीप्तोऽग्निः' (पाचन सुधरना) पर ध्यान दें। अगले श्लोकों में बताया गया है कि किसे व्यायाम नहीं करना चाहिए और कितना उचित है।",
+   "modern_correlation": {
+    "en": "Regular physical activity is well established to improve fitness, body composition, insulin sensitivity and appetite regulation, which broadly parallels these listed benefits.",
+    "hi": "नियमित शारीरिक गतिविधि से फिटनेस, शरीर की संरचना, इंसुलिन संवेदनशीलता और भूख का नियमन सुधरता है, यह अच्छी तरह स्थापित है, और यह मोटे तौर पर इन लाभों से मिलता है।"
+   },
+   "key_terms": [
+    "vyāyāma",
+    "agni",
+    "medas"
+   ],
+   "tags": [
+    "dinacharya",
+    "exercise"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.2.11",
+   "word_meanings": [
+    {
+     "sa": "वातपित्तामयी",
+     "iast": "vātapittāmayī",
+     "en": "one suffering from vāta or pitta disease",
+     "hi": "वात-पित्त रोगी"
+    },
+    {
+     "sa": "बालः",
+     "iast": "bālaḥ",
+     "en": "child",
+     "hi": "बालक"
+    },
+    {
+     "sa": "वृद्धः",
+     "iast": "vṛddhaḥ",
+     "en": "old person",
+     "hi": "वृद्ध"
+    },
+    {
+     "sa": "अजीर्णी",
+     "iast": "ajīrṇī",
+     "en": "one with indigestion",
+     "hi": "अजीर्ण वाला"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "तम्",
+     "iast": "tam",
+     "en": "it",
+     "hi": "उसे"
+    },
+    {
+     "sa": "त्यजेत्",
+     "iast": "tyajet",
+     "en": "should avoid",
+     "hi": "छोड़ दे"
+    },
+    {
+     "sa": "अर्धशक्त्या",
+     "iast": "ardhaśaktyā",
+     "en": "at half strength",
+     "hi": "आधी शक्ति से"
+    },
+    {
+     "sa": "निषेव्यः",
+     "iast": "niṣevyaḥ",
+     "en": "should be practised",
+     "hi": "करना चाहिए"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "परन्तु"
+    },
+    {
+     "sa": "बलिभिः",
+     "iast": "balibhiḥ",
+     "en": "by the strong",
+     "hi": "बलवानों द्वारा"
+    },
+    {
+     "sa": "स्निग्धभोजिभिः",
+     "iast": "snigdhabhojibhiḥ",
+     "en": "by those eating unctuous food",
+     "hi": "स्निग्ध भोजन करने वालों द्वारा"
+    }
+   ],
+   "english": "Those suffering from vāta or pitta diseases, children, the elderly and those with indigestion should avoid exercise. It should be practised to half of one's capacity (ardhaśakti) by those who are strong and eat unctuous food...",
+   "hindi": "वात या पित्त रोगी, बच्चे, बूढ़े और अजीर्ण वाले लोग व्यायाम न करें। बलवान और स्निग्ध (घी-तेल युक्त) भोजन करने वाले लोग आधी शक्ति (अर्धशक्ति) तक व्यायाम करें...",
+   "explanation_en": "Ardhaśakti vyāyāma (exercise to half capacity) is a key concept. Commentators describe the sign of half capacity as sweating on the forehead, armpits and joints, and breathing through the mouth. The sentence continues in verse 12 with the seasons.",
+   "explanation_hi": "अर्धशक्ति व्यायाम एक मुख्य अवधारणा है। टीकाकार आधी शक्ति का संकेत बताते हैं: माथे, बगल और जोड़ों पर पसीना आना और मुँह से साँस लेना। वाक्य श्लोक 12 में ऋतुओं के साथ पूरा होता है।",
+   "modern_correlation": {
+    "en": "Ardhaśakti is often compared to moderate-intensity exercise; modern guidelines similarly recommend tailoring intensity to age, health status and fitness.",
+    "hi": "अर्धशक्ति की तुलना अक्सर मध्यम-तीव्रता वाले व्यायाम से की जाती है; आधुनिक दिशानिर्देश भी उम्र, स्वास्थ्य और फिटनेस के अनुसार तीव्रता तय करने की सलाह देते हैं।"
+   },
+   "key_terms": [
+    "ardhaśakti",
+    "vyāyāma",
+    "contraindication"
+   ],
+   "tags": [
+    "dinacharya",
+    "exercise",
+    "contraindications"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.2.12",
+   "word_meanings": [
+    {
+     "sa": "शीतकाले",
+     "iast": "śītakāle",
+     "en": "in the cold season",
+     "hi": "शीत काल (हेमन्त, शिशिर) में"
+    },
+    {
+     "sa": "वसन्ते",
+     "iast": "vasante",
+     "en": "in spring",
+     "hi": "वसन्त में"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "मन्दम् एव",
+     "iast": "mandam eva",
+     "en": "only mildly",
+     "hi": "थोड़ा ही"
+    },
+    {
+     "sa": "ततः अन्यदा",
+     "iast": "tataḥ anyadā",
+     "en": "at other times",
+     "hi": "अन्य समय में"
+    },
+    {
+     "sa": "तम्",
+     "iast": "tam",
+     "en": "it",
+     "hi": "उसे"
+    },
+    {
+     "sa": "कृत्वा",
+     "iast": "kṛtvā",
+     "en": "having done",
+     "hi": "करके"
+    },
+    {
+     "sa": "अनुसुखम्",
+     "iast": "anusukham",
+     "en": "comfortably",
+     "hi": "सुखपूर्वक"
+    },
+    {
+     "sa": "देहम्",
+     "iast": "deham",
+     "en": "the body",
+     "hi": "शरीर को"
+    },
+    {
+     "sa": "मर्दयेत्",
+     "iast": "mardayet",
+     "en": "should massage",
+     "hi": "मर्दन करे"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "समन्ततः",
+     "iast": "samantataḥ",
+     "en": "all over",
+     "hi": "चारों ओर से"
+    }
+   ],
+   "english": "...in the cold season and in spring; at other times only mildly. Having exercised, one should gently massage the body all over.",
+   "hindi": "...शीत ऋतु (हेमन्त, शिशिर) और वसन्त में; अन्य ऋतुओं में थोड़ा ही व्यायाम करें। व्यायाम के बाद पूरे शरीर का आराम से मर्दन (दबाना-मलना) करना चाहिए।",
+   "explanation_en": "Exercise at ardhaśakti is allowed in winter and spring, when strength is high and kapha accumulates; in summer, rainy season and autumn it should be mild. Post-exercise massage (mardana) relieves fatigue.",
+   "explanation_hi": "सर्दी और वसन्त में, जब बल अधिक होता है और कफ जमा होता है, अर्धशक्ति व्यायाम ठीक है; गर्मी, वर्षा और शरद में व्यायाम हल्का होना चाहिए। व्यायाम के बाद मर्दन थकान दूर करता है।",
+   "modern_correlation": {
+    "en": "Reducing exercise intensity in hot weather broadly parallels modern guidance on preventing heat illness.",
+    "hi": "गर्म मौसम में व्यायाम की तीव्रता कम करना आधुनिक 'हीट इलनेस' से बचाव की सलाह से मोटे तौर पर मिलता है।"
+   },
+   "key_terms": [
+    "vyāyāma",
+    "ṛtu",
+    "mardana"
+   ],
+   "tags": [
+    "dinacharya",
+    "exercise",
+    "seasonal"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.2.13",
+   "word_meanings": [
+    {
+     "sa": "तृष्णा",
+     "iast": "tṛṣṇā",
+     "en": "thirst",
+     "hi": "तृष्णा"
+    },
+    {
+     "sa": "क्षयः",
+     "iast": "kṣayaḥ",
+     "en": "wasting",
+     "hi": "क्षय"
+    },
+    {
+     "sa": "प्रतमकः",
+     "iast": "pratamakaḥ",
+     "en": "a type of dyspnoea (with darkness)",
+     "hi": "प्रतमक श्वास"
+    },
+    {
+     "sa": "रक्तपित्तम्",
+     "iast": "raktapittam",
+     "en": "bleeding disorder",
+     "hi": "रक्तपित्त"
+    },
+    {
+     "sa": "श्रमः",
+     "iast": "śramaḥ",
+     "en": "fatigue",
+     "hi": "श्रम"
+    },
+    {
+     "sa": "क्लमः",
+     "iast": "klamaḥ",
+     "en": "exhaustion",
+     "hi": "क्लम"
+    },
+    {
+     "sa": "अतिव्यायामतः",
+     "iast": "ativyāyāmataḥ",
+     "en": "from excessive exercise",
+     "hi": "अति व्यायाम से"
+    },
+    {
+     "sa": "कासः",
+     "iast": "kāsaḥ",
+     "en": "cough",
+     "hi": "कास"
+    },
+    {
+     "sa": "ज्वरः",
+     "iast": "jvaraḥ",
+     "en": "fever",
+     "hi": "ज्वर"
+    },
+    {
+     "sa": "छर्दिः",
+     "iast": "chardiḥ",
+     "en": "vomiting",
+     "hi": "छर्दि"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "जायते",
+     "iast": "jāyate",
+     "en": "arises",
+     "hi": "होता है"
+    }
+   ],
+   "english": "From excessive exercise arise thirst, wasting, pratamaka (a severe dyspnoea), bleeding disorders, fatigue, exhaustion, cough, fever and vomiting.",
+   "hindi": "अधिक व्यायाम से प्यास, क्षय, प्रतमक श्वास, रक्तपित्त, थकान, क्लान्ति, खाँसी, ज्वर और उल्टी होती है।",
+   "explanation_en": "Complications of ativyāyāma. This balances verse 10: exercise is beneficial only in the right dose. Exam tip: list at least six effects of excessive exercise.",
+   "explanation_hi": "अति व्यायाम के दुष्परिणाम। यह श्लोक 10 का संतुलन है: व्यायाम उचित मात्रा में ही लाभकारी है। परीक्षा के लिए अति व्यायाम के कम से कम छह दुष्प्रभाव याद रखें।",
+   "modern_correlation": {
+    "en": "Overtraining syndrome, exertional dehydration and exercise-induced bronchoconstriction are modern conditions that broadly parallel some of these effects.",
+    "hi": "ओवरट्रेनिंग सिंड्रोम, अत्यधिक परिश्रम से निर्जलीकरण और व्यायाम से होने वाली श्वास-नली संकुचन (bronchoconstriction) आधुनिक स्थितियाँ हैं जो इनमें से कुछ प्रभावों से मोटे तौर पर मिलती हैं।"
+   },
+   "key_terms": [
+    "ativyāyāma",
+    "pratamaka śvāsa",
+    "raktapitta"
+   ],
+   "tags": [
+    "dinacharya",
+    "exercise"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.2.14",
+   "word_meanings": [
+    {
+     "sa": "व्यायाम",
+     "iast": "vyāyāma",
+     "en": "exercise",
+     "hi": "व्यायाम"
+    },
+    {
+     "sa": "जागर",
+     "iast": "jāgara",
+     "en": "staying awake",
+     "hi": "जागरण"
+    },
+    {
+     "sa": "अध्व",
+     "iast": "adhva",
+     "en": "walking long distances",
+     "hi": "अधिक चलना"
+    },
+    {
+     "sa": "स्त्री",
+     "iast": "strī",
+     "en": "sexual intercourse",
+     "hi": "स्त्री-सम्भोग"
+    },
+    {
+     "sa": "हास्य",
+     "iast": "hāsya",
+     "en": "laughter",
+     "hi": "हँसी"
+    },
+    {
+     "sa": "भाष्य",
+     "iast": "bhāṣya",
+     "en": "talking",
+     "hi": "बोलना"
+    },
+    {
+     "sa": "आदि",
+     "iast": "ādi",
+     "en": "etc.",
+     "hi": "आदि"
+    },
+    {
+     "sa": "साहसम्",
+     "iast": "sāhasam",
+     "en": "overexertion",
+     "hi": "साहस (अति)"
+    },
+    {
+     "sa": "गजम्",
+     "iast": "gajam",
+     "en": "an elephant",
+     "hi": "हाथी को"
+    },
+    {
+     "sa": "सिंहः",
+     "iast": "siṃhaḥ",
+     "en": "a lion",
+     "hi": "शेर"
+    },
+    {
+     "sa": "इव",
+     "iast": "iva",
+     "en": "like",
+     "hi": "जैसे"
+    },
+    {
+     "sa": "आकर्षन्",
+     "iast": "ākarṣan",
+     "en": "dragging",
+     "hi": "खींचते हुए"
+    },
+    {
+     "sa": "भजन्",
+     "iast": "bhajan",
+     "en": "indulging",
+     "hi": "करते हुए"
+    },
+    {
+     "sa": "अति",
+     "iast": "ati",
+     "en": "excessively",
+     "hi": "अधिक"
+    },
+    {
+     "sa": "विनश्यति",
+     "iast": "vinaśyati",
+     "en": "perishes",
+     "hi": "नष्ट होता है"
+    }
+   ],
+   "english": "One who indulges excessively in exercise, keeping awake, long walks, sexual intercourse, laughter, talking and similar exertions perishes, like a lion that tries to drag an elephant.",
+   "hindi": "जो व्यक्ति व्यायाम, रात्रि जागरण, अधिक पैदल चलना, सम्भोग, हँसना, बोलना आदि में अति करता है, वह वैसे ही नष्ट होता है जैसे हाथी को खींचने वाला शेर।",
+   "explanation_en": "The simile is memorable: even a lion, though strong, is harmed by dragging an elephant beyond its strength. 'Sāhasa' (rash overexertion) is a general cause of disease and is listed among the activities to be avoided.",
+   "explanation_hi": "उपमा याद रखने योग्य है: शेर बलवान होते हुए भी अपनी शक्ति से अधिक भारी हाथी को खींचने पर हानि उठाता है। 'साहस' (अपनी क्षमता से अधिक परिश्रम) रोग का एक सामान्य कारण है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sāhasa",
+    "ativyāyāma"
+   ],
+   "tags": [
+    "dinacharya",
+    "exercise"
+   ],
+   "importance": "medium",
+   "mnemonic": "Lion dragging an elephant = overexertion",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.2.15",
+   "word_meanings": [
+    {
+     "sa": "उद्वर्तनम्",
+     "iast": "udvartanam",
+     "en": "powder massage",
+     "hi": "उद्वर्तन"
+    },
+    {
+     "sa": "कफहरम्",
+     "iast": "kaphaharam",
+     "en": "removes kapha",
+     "hi": "कफ हरने वाला"
+    },
+    {
+     "sa": "मेदसः",
+     "iast": "medasaḥ",
+     "en": "of fat",
+     "hi": "मेद का"
+    },
+    {
+     "sa": "प्रविलायनम्",
+     "iast": "pravilāyanam",
+     "en": "liquefying, reducing",
+     "hi": "विलयन करने वाला"
+    },
+    {
+     "sa": "स्थिरीकरणम्",
+     "iast": "sthirīkaraṇam",
+     "en": "firming",
+     "hi": "स्थिर (दृढ़) करने वाला"
+    },
+    {
+     "sa": "अङ्गानाम्",
+     "iast": "aṅgānām",
+     "en": "of the limbs",
+     "hi": "अंगों का"
+    },
+    {
+     "sa": "त्वक्प्रसादकरम्",
+     "iast": "tvakprasādakaram",
+     "en": "making the skin clear",
+     "hi": "त्वचा को निखारने वाला"
+    },
+    {
+     "sa": "परम्",
+     "iast": "param",
+     "en": "excellent",
+     "hi": "श्रेष्ठ"
+    }
+   ],
+   "english": "Udvartana (dry powder massage) removes kapha, liquefies (reduces) fat, firms the limbs and is excellent for clearing the skin.",
+   "hindi": "उद्वर्तन (सूखे चूर्ण से उल्टी दिशा में मालिश) कफ को हरता है, मेद (चर्बी) को घटाता है, अंगों को दृढ़ बनाता है और त्वचा को निखारने में श्रेष्ठ है।",
+   "explanation_en": "Udvartana is rubbing herbal powder against the direction of hair growth. Unlike oily abhyaṅga, it is dry and rough, and so suits kapha and medas. Remember the contrast: abhyaṅga for vāta, udvartana for kapha and obesity.",
+   "explanation_hi": "उद्वर्तन में औषधीय चूर्ण को रोमों की उल्टी दिशा में मला जाता है। तेल वाले अभ्यङ्ग के विपरीत यह रूखा और खुरदुरा है, इसलिए कफ और मेद के लिए उपयुक्त है। अंतर याद रखें: वात के लिए अभ्यङ्ग, कफ और मोटापे के लिए उद्वर्तन।",
+   "modern_correlation": null,
+   "key_terms": [
+    "udvartana",
+    "medas",
+    "kapha"
+   ],
+   "tags": [
+    "dinacharya",
+    "udvartana"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.2.16",
+   "word_meanings": [
+    {
+     "sa": "दीपनम्",
+     "iast": "dīpanam",
+     "en": "stimulating digestion",
+     "hi": "दीपन"
+    },
+    {
+     "sa": "वृष्यम्",
+     "iast": "vṛṣyam",
+     "en": "aphrodisiac",
+     "hi": "वृष्य"
+    },
+    {
+     "sa": "आयुष्यम्",
+     "iast": "āyuṣyam",
+     "en": "promoting longevity",
+     "hi": "आयुष्य"
+    },
+    {
+     "sa": "स्नानम्",
+     "iast": "snānam",
+     "en": "bath",
+     "hi": "स्नान"
+    },
+    {
+     "sa": "ऊर्जा",
+     "iast": "ūrjā",
+     "en": "energy",
+     "hi": "ऊर्जा"
+    },
+    {
+     "sa": "बल",
+     "iast": "bala",
+     "en": "strength",
+     "hi": "बल"
+    },
+    {
+     "sa": "प्रदम्",
+     "iast": "pradam",
+     "en": "giving",
+     "hi": "देने वाला"
+    },
+    {
+     "sa": "कण्डू",
+     "iast": "kaṇḍū",
+     "en": "itching",
+     "hi": "खुजली"
+    },
+    {
+     "sa": "मल",
+     "iast": "mala",
+     "en": "dirt",
+     "hi": "मैल"
+    },
+    {
+     "sa": "श्रम",
+     "iast": "śrama",
+     "en": "fatigue",
+     "hi": "थकान"
+    },
+    {
+     "sa": "स्वेद",
+     "iast": "sveda",
+     "en": "sweat",
+     "hi": "पसीना"
+    },
+    {
+     "sa": "तन्द्रा",
+     "iast": "tandrā",
+     "en": "drowsiness",
+     "hi": "तन्द्रा"
+    },
+    {
+     "sa": "तृट्",
+     "iast": "tṛṭ",
+     "en": "thirst",
+     "hi": "प्यास"
+    },
+    {
+     "sa": "दाह",
+     "iast": "dāha",
+     "en": "burning",
+     "hi": "जलन"
+    },
+    {
+     "sa": "पाप्म",
+     "iast": "pāpma",
+     "en": "impurity, sin",
+     "hi": "पाप (अशुभता)"
+    },
+    {
+     "sa": "जित्",
+     "iast": "jit",
+     "en": "conquering",
+     "hi": "दूर करने वाला"
+    }
+   ],
+   "english": "Bathing stimulates digestion, is aphrodisiac, promotes longevity, gives energy and strength, and removes itching, dirt, fatigue, sweat, drowsiness, thirst, burning sensation and impurity.",
+   "hindi": "स्नान से भूख बढ़ती है, यह वृष्य (बल-वीर्य वर्धक) और आयु बढ़ाने वाला है, ऊर्जा और बल देता है, तथा खुजली, मैल, थकान, पसीना, तन्द्रा, प्यास, जलन और अशुभता को दूर करता है।",
+   "explanation_en": "Benefits of snāna (bathing), a frequent exam list. The corpus reads 'ūrjā-bala-pradam' (gives energy and strength); a variant reads 'ojo-bala-pradam'. 'Pāpma' can mean both physical impurity and moral taint in this context.",
+   "explanation_hi": "स्नान के लाभ, परीक्षा में अक्सर पूछी जाने वाली सूची। यहाँ पाठ 'ऊर्जाबलप्रदम्' है; दूसरा पाठ 'ओजोबलप्रदम्' भी मिलता है। 'पाप्मा' का अर्थ यहाँ शारीरिक अशुद्धि और नैतिक दोष दोनों हो सकता है।",
+   "modern_correlation": {
+    "en": "Personal hygiene through bathing reduces skin microbial load and is a basic measure against skin infections and infestations.",
+    "hi": "स्नान से व्यक्तिगत स्वच्छता त्वचा पर रोगाणुओं की संख्या घटाती है और त्वचा संक्रमण से बचाव का मूल उपाय है।"
+   },
+   "key_terms": [
+    "snāna",
+    "dīpana",
+    "vṛṣya"
+   ],
+   "tags": [
+    "dinacharya",
+    "bathing"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.2.17",
+   "word_meanings": [
+    {
+     "sa": "उष्णाम्बुना",
+     "iast": "uṣṇāmbunā",
+     "en": "with warm water",
+     "hi": "गरम पानी से"
+    },
+    {
+     "sa": "अधःकायस्य",
+     "iast": "adhaḥkāyasya",
+     "en": "of the lower body",
+     "hi": "शरीर के निचले भाग का"
+    },
+    {
+     "sa": "परिषेकः",
+     "iast": "pariṣekaḥ",
+     "en": "pouring, bathing",
+     "hi": "स्नान (पानी डालना)"
+    },
+    {
+     "sa": "बलावहः",
+     "iast": "balāvahaḥ",
+     "en": "gives strength",
+     "hi": "बल देने वाला"
+    },
+    {
+     "sa": "तेन एव",
+     "iast": "tena eva",
+     "en": "with that same (warm water)",
+     "hi": "उसी से"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "परन्तु"
+    },
+    {
+     "sa": "उत्तमाङ्गस्य",
+     "iast": "uttamāṅgasya",
+     "en": "of the head",
+     "hi": "सिर का"
+    },
+    {
+     "sa": "बलहृत्",
+     "iast": "balahṛt",
+     "en": "takes away strength",
+     "hi": "बल हरने वाला"
+    },
+    {
+     "sa": "केश",
+     "iast": "keśa",
+     "en": "hair",
+     "hi": "बाल"
+    },
+    {
+     "sa": "चक्षुषाम्",
+     "iast": "cakṣuṣām",
+     "en": "of the eyes",
+     "hi": "आँखों का"
+    }
+   ],
+   "english": "Pouring warm water over the lower body gives strength; but the same (warm water) over the head takes away the strength of the hair and eyes.",
+   "hindi": "शरीर के निचले भाग पर गरम पानी डालना बल देता है; परन्तु वही गरम पानी सिर पर डालने से बालों और आँखों का बल नष्ट होता है।",
+   "explanation_en": "A practical and frequently asked rule: warm water for the body below the neck, but not on the head, because the head is the seat of the senses and of kapha and the eyes are harmed by heat. Commentators recommend lukewarm or cool water for the head.",
+   "explanation_hi": "एक व्यावहारिक और अक्सर पूछा जाने वाला नियम: गर्दन के नीचे गरम पानी, पर सिर पर नहीं, क्योंकि सिर इन्द्रियों का स्थान है और आँखें गर्मी से हानि पाती हैं। टीकाकार सिर के लिए हल्का गुनगुना या ठंडा पानी बताते हैं।",
+   "modern_correlation": {
+    "en": "Very hot water on the scalp can dry the hair and scalp by stripping natural oils; this broadly parallels the classical caution.",
+    "hi": "सिर पर बहुत गरम पानी डालने से प्राकृतिक तेल हट जाते हैं और बाल व खोपड़ी सूख सकती है; यह शास्त्रीय सावधानी से मोटे तौर पर मिलता है।"
+   },
+   "key_terms": [
+    "snāna",
+    "uṣṇodaka",
+    "uttamāṅga"
+   ],
+   "tags": [
+    "dinacharya",
+    "bathing"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.2.18",
+   "word_meanings": [
+    {
+     "sa": "स्नानम्",
+     "iast": "snānam",
+     "en": "bath",
+     "hi": "स्नान"
+    },
+    {
+     "sa": "अर्दित",
+     "iast": "ardita",
+     "en": "facial palsy",
+     "hi": "अर्दित"
+    },
+    {
+     "sa": "नेत्र",
+     "iast": "netra",
+     "en": "eye disease",
+     "hi": "नेत्र रोग"
+    },
+    {
+     "sa": "आस्य",
+     "iast": "āsya",
+     "en": "mouth disease",
+     "hi": "मुख रोग"
+    },
+    {
+     "sa": "कर्णरोग",
+     "iast": "karṇaroga",
+     "en": "ear disease",
+     "hi": "कर्ण रोग"
+    },
+    {
+     "sa": "अतिसारिषु",
+     "iast": "atisāriṣu",
+     "en": "in those with diarrhoea",
+     "hi": "अतिसार वालों में"
+    },
+    {
+     "sa": "आध्मान",
+     "iast": "ādhmāna",
+     "en": "flatulence, bloating",
+     "hi": "आध्मान (अफारा)"
+    },
+    {
+     "sa": "पीनस",
+     "iast": "pīnasa",
+     "en": "chronic rhinitis",
+     "hi": "पीनस"
+    },
+    {
+     "sa": "अजीर्ण",
+     "iast": "ajīrṇa",
+     "en": "indigestion",
+     "hi": "अजीर्ण"
+    },
+    {
+     "sa": "भुक्तवत्सु",
+     "iast": "bhuktavatsu",
+     "en": "in those who have just eaten",
+     "hi": "जिन्होंने अभी खाया हो"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "गर्हितम्",
+     "iast": "garhitam",
+     "en": "condemned",
+     "hi": "निन्दित (वर्जित)"
+    }
+   ],
+   "english": "Bathing is forbidden for those with facial palsy, diseases of the eyes, mouth and ears, diarrhoea, bloating, chronic rhinitis (pīnasa), indigestion, and for those who have just eaten.",
+   "hindi": "अर्दित, आँख, मुँह और कान के रोग, अतिसार, आध्मान (पेट फूलना), पीनस (पुराना जुकाम), अजीर्ण वाले और जिन्होंने अभी भोजन किया हो, उनके लिए स्नान वर्जित है।",
+   "explanation_en": "Contraindications of snāna. The corpus text of this verse begins with a stray word 'tūttamāṅgasya', which is a repetition from the variant reading of verse 17 and is not translated separately. Bathing right after a meal is avoided because it is thought to divert heat away from agni.",
+   "explanation_hi": "स्नान के अयोग्य लोग। कॉर्पस में इस श्लोक के आरम्भ में एक अतिरिक्त शब्द 'तूत्तमाङ्गस्य' है, जो श्लोक 17 के पाठभेद की पुनरावृत्ति है, इसलिए उसका अलग अनुवाद नहीं किया गया। भोजन के तुरंत बाद स्नान इसलिए वर्जित है क्योंकि माना जाता है कि इससे अग्नि की गर्मी बँट जाती है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "snāna",
+    "contraindication",
+    "pīnasa",
+    "ādhmāna"
+   ],
+   "tags": [
+    "dinacharya",
+    "bathing",
+    "contraindications"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.2.19",
+   "word_meanings": [
+    {
+     "sa": "जीर्णे",
+     "iast": "jīrṇe",
+     "en": "when (the previous meal) is digested",
+     "hi": "(पहला भोजन) पचने पर"
+    },
+    {
+     "sa": "हितम्",
+     "iast": "hitam",
+     "en": "wholesome",
+     "hi": "हितकर"
+    },
+    {
+     "sa": "मितम्",
+     "iast": "mitam",
+     "en": "in measured quantity",
+     "hi": "सीमित मात्रा में"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "अद्यात्",
+     "iast": "adyāt",
+     "en": "should eat",
+     "hi": "खाए"
+    },
+    {
+     "sa": "न",
+     "iast": "na",
+     "en": "not",
+     "hi": "न"
+    },
+    {
+     "sa": "वेगान्",
+     "iast": "vegān",
+     "en": "natural urges",
+     "hi": "वेगों को"
+    },
+    {
+     "sa": "ईरयेत्",
+     "iast": "īrayet",
+     "en": "should force",
+     "hi": "ज़बरदस्ती निकाले"
+    },
+    {
+     "sa": "बलात्",
+     "iast": "balāt",
+     "en": "by force",
+     "hi": "बल से"
+    },
+    {
+     "sa": "वेगितः",
+     "iast": "vegitaḥ",
+     "en": "one having an urge",
+     "hi": "वेग वाला"
+    },
+    {
+     "sa": "अन्यकार्यः",
+     "iast": "anyakāryaḥ",
+     "en": "engaged in other work",
+     "hi": "दूसरे काम में लगा"
+    },
+    {
+     "sa": "स्यात्",
+     "iast": "syāt",
+     "en": "should be",
+     "hi": "हो"
+    },
+    {
+     "sa": "अजित्वा",
+     "iast": "ajitvā",
+     "en": "without having conquered",
+     "hi": "बिना जीते"
+    },
+    {
+     "sa": "साध्यम्",
+     "iast": "sādhyam",
+     "en": "curable",
+     "hi": "साध्य"
+    },
+    {
+     "sa": "आमयम्",
+     "iast": "āmayam",
+     "en": "disease",
+     "hi": "रोग को"
+    }
+   ],
+   "english": "One should eat wholesome food in measured quantity only after the previous meal is digested. One should not force out natural urges, nor attend to other work when an urge is present. One should not [neglect], without first overcoming, a curable disease.",
+   "hindi": "पहला भोजन पच जाने पर ही हितकर और उचित मात्रा में भोजन करना चाहिए। मल-मूत्र आदि वेगों को ज़बरदस्ती नहीं निकालना चाहिए, और वेग आने पर दूसरे काम में नहीं लगना चाहिए (वेग नहीं रोकना चाहिए)। साध्य रोग को जीते बिना (उपेक्षा) नहीं करनी चाहिए।",
+   "explanation_en": "Three golden rules: eat only after digestion (jīrṇe), never force urges (udīraṇa), never suppress them (dhāraṇa). Vega-dhāraṇa is discussed fully in chapter 4. The last clause advises treating a curable disease promptly before turning to other matters.",
+   "explanation_hi": "तीन सुनहरे नियम: पचने के बाद ही खाएँ (जीर्णे), वेगों को ज़बरदस्ती न निकालें (उदीरण), और उन्हें रोकें भी नहीं (धारण)। वेग-धारण का पूरा वर्णन अध्याय 4 में है। अंतिम बात यह है कि साध्य रोग का इलाज तुरंत करें, बाकी काम बाद में।",
+   "modern_correlation": {
+    "en": "Eating only after the previous meal has cleared broadly parallels advice on regular meal spacing; chronic suppression of urination or defecation is linked to urinary and bowel problems in modern medicine.",
+    "hi": "पिछला भोजन पचने के बाद ही खाना भोजन के बीच उचित अंतर की सलाह से मोटे तौर पर मिलता है; आधुनिक चिकित्सा में भी मल-मूत्र को लंबे समय तक रोकना मूत्र और आँतों की समस्याओं से जुड़ा है।"
+   },
+   "key_terms": [
+    "jīrṇāhāra",
+    "mitāhāra",
+    "vega",
+    "vegadhāraṇa",
+    "udīraṇa"
+   ],
+   "tags": [
+    "dinacharya",
+    "diet",
+    "vega"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.2.20",
+   "word_meanings": [
+    {
+     "sa": "सुखार्थाः",
+     "iast": "sukhārthāḥ",
+     "en": "aimed at happiness",
+     "hi": "सुख के लिए"
+    },
+    {
+     "sa": "सर्वभूतानाम्",
+     "iast": "sarvabhūtānām",
+     "en": "of all beings",
+     "hi": "सब प्राणियों की"
+    },
+    {
+     "sa": "मताः",
+     "iast": "matāḥ",
+     "en": "are considered",
+     "hi": "मानी गई हैं"
+    },
+    {
+     "sa": "सर्वाः",
+     "iast": "sarvāḥ",
+     "en": "all",
+     "hi": "सभी"
+    },
+    {
+     "sa": "प्रवृत्तयः",
+     "iast": "pravṛttayaḥ",
+     "en": "activities",
+     "hi": "प्रवृत्तियाँ (कर्म)"
+    },
+    {
+     "sa": "सुखम्",
+     "iast": "sukham",
+     "en": "happiness",
+     "hi": "सुख"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "न विना",
+     "iast": "na vinā",
+     "en": "not without",
+     "hi": "बिना नहीं"
+    },
+    {
+     "sa": "धर्मात्",
+     "iast": "dharmāt",
+     "en": "from righteousness",
+     "hi": "धर्म के"
+    },
+    {
+     "sa": "तस्मात्",
+     "iast": "tasmāt",
+     "en": "therefore",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "धर्मपरः",
+     "iast": "dharmaparaḥ",
+     "en": "devoted to righteousness",
+     "hi": "धर्मपरायण"
+    },
+    {
+     "sa": "भवेत्",
+     "iast": "bhavet",
+     "en": "should be",
+     "hi": "होना चाहिए"
+    }
+   ],
+   "english": "All activities of all beings are considered to be aimed at happiness; and there is no happiness without dharma (righteous conduct). Therefore one should be devoted to dharma.",
+   "hindi": "सब प्राणियों के सारे कर्म सुख के लिए ही माने गए हैं; और धर्म के बिना सुख नहीं मिलता। इसलिए व्यक्ति को धर्मपरायण होना चाहिए।",
+   "explanation_en": "This begins the section on sadvṛtta (code of good conduct), which runs to the end of the chapter. Āyurveda regards ethical and social conduct as part of health, because mental peace and good relationships protect both body and mind.",
+   "explanation_hi": "यहाँ से सद्वृत्त (अच्छे आचरण के नियम) का भाग शुरू होता है, जो अध्याय के अंत तक चलता है। आयुर्वेद नैतिक और सामाजिक आचरण को स्वास्थ्य का हिस्सा मानता है, क्योंकि मन की शान्ति और अच्छे सम्बन्ध शरीर और मन दोनों की रक्षा करते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sadvṛtta",
+    "dharma",
+    "sukha"
+   ],
+   "tags": [
+    "sadvritta",
+    "ethics"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.2.21",
+   "word_meanings": [
+    {
+     "sa": "भक्त्या",
+     "iast": "bhaktyā",
+     "en": "with devotion",
+     "hi": "भक्ति से"
+    },
+    {
+     "sa": "कल्याणमित्राणि",
+     "iast": "kalyāṇamitrāṇi",
+     "en": "good friends",
+     "hi": "कल्याण-मित्रों (अच्छे मित्रों) की"
+    },
+    {
+     "sa": "सेवेत",
+     "iast": "seveta",
+     "en": "should serve, associate with",
+     "hi": "सेवा (संगति) करे"
+    },
+    {
+     "sa": "इतर",
+     "iast": "itara",
+     "en": "others (bad people)",
+     "hi": "दूसरों (दुर्जनों) से"
+    },
+    {
+     "sa": "दूरगः",
+     "iast": "dūragaḥ",
+     "en": "staying far",
+     "hi": "दूर रहने वाला"
+    },
+    {
+     "sa": "हिंसा",
+     "iast": "hiṃsā",
+     "en": "violence",
+     "hi": "हिंसा"
+    },
+    {
+     "sa": "स्तेय",
+     "iast": "steya",
+     "en": "theft",
+     "hi": "चोरी"
+    },
+    {
+     "sa": "अन्यथाकामम्",
+     "iast": "anyathākāmam",
+     "en": "illicit sexual conduct",
+     "hi": "अनुचित काम-सेवन"
+    },
+    {
+     "sa": "पैशुन्यम्",
+     "iast": "paiśunyam",
+     "en": "slander, backbiting",
+     "hi": "चुगली"
+    },
+    {
+     "sa": "परुष",
+     "iast": "paruṣa",
+     "en": "harsh speech",
+     "hi": "कठोर वचन"
+    },
+    {
+     "sa": "अनृते",
+     "iast": "anṛte",
+     "en": "falsehood",
+     "hi": "असत्य"
+    }
+   ],
+   "english": "One should associate devotedly with good friends and stay far from others. Violence, theft, illicit sexual conduct, slander, harsh speech, falsehood...",
+   "hindi": "अच्छे मित्रों की श्रद्धा से संगति करे और बुरे लोगों से दूर रहे। हिंसा, चोरी, अनुचित काम-सेवन, चुगली, कठोर वचन, असत्य...",
+   "explanation_en": "The list of ten sinful acts (daśavidha pāpa karma) begins here and finishes in verse 22. The corpus reads 'yathā-kāmaṃ'; it is understood in the sense of 'anyathā-kāma' (sexual misconduct), the standard term in the ten-fold list. The theme of 'kalyāṇa-mitra' (spiritual friend) is common to Buddhist and Āyurvedic ethics.",
+   "explanation_hi": "दस पाप कर्मों (दशविध पाप कर्म) की सूची यहाँ शुरू होकर श्लोक 22 में पूरी होती है। कॉर्पस में पाठ 'यथाकामं' है; इसे 'अन्यथाकाम' (अनुचित काम-सेवन) के अर्थ में लिया गया है, जो दस पापों की सूची का मानक शब्द है। 'कल्याण-मित्र' की धारणा बौद्ध और आयुर्वेदिक नैतिकता दोनों में मिलती है।",
+   "modern_correlation": {
+    "en": "Supportive social relationships are associated with better mental and physical health outcomes in epidemiological research.",
+    "hi": "महामारी विज्ञान के शोध में सहयोगी सामाजिक सम्बन्ध बेहतर मानसिक और शारीरिक स्वास्थ्य से जुड़े पाए गए हैं।"
+   },
+   "key_terms": [
+    "sadvṛtta",
+    "kalyāṇa-mitra",
+    "daśavidha pāpa"
+   ],
+   "tags": [
+    "sadvritta",
+    "ethics"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.2.22",
+   "word_meanings": [
+    {
+     "sa": "संभिन्नालापम्",
+     "iast": "saṃbhinnālāpam",
+     "en": "incoherent or idle talk",
+     "hi": "असंबद्ध बकवास"
+    },
+    {
+     "sa": "व्यापादम्",
+     "iast": "vyāpādam",
+     "en": "malice, intent to harm",
+     "hi": "हानि पहुँचाने का विचार"
+    },
+    {
+     "sa": "अभिध्याम्",
+     "iast": "abhidhyām",
+     "en": "covetousness",
+     "hi": "दूसरे के धन का लोभ"
+    },
+    {
+     "sa": "दृग्विपर्ययम्",
+     "iast": "dṛgviparyayam",
+     "en": "wrong view",
+     "hi": "विपरीत दृष्टि (मिथ्या धारणा)"
+    },
+    {
+     "sa": "पापम्",
+     "iast": "pāpam",
+     "en": "sinful",
+     "hi": "पाप"
+    },
+    {
+     "sa": "कर्म",
+     "iast": "karma",
+     "en": "act",
+     "hi": "कर्म"
+    },
+    {
+     "sa": "इति",
+     "iast": "iti",
+     "en": "thus",
+     "hi": "इस प्रकार"
+    },
+    {
+     "sa": "दशधा",
+     "iast": "daśadhā",
+     "en": "tenfold",
+     "hi": "दस प्रकार का"
+    },
+    {
+     "sa": "काय",
+     "iast": "kāya",
+     "en": "body",
+     "hi": "शरीर"
+    },
+    {
+     "sa": "वाक्",
+     "iast": "vāk",
+     "en": "speech",
+     "hi": "वाणी"
+    },
+    {
+     "sa": "मानसैः",
+     "iast": "mānasaiḥ",
+     "en": "by mind",
+     "hi": "मन से"
+    },
+    {
+     "sa": "त्यजेत्",
+     "iast": "tyajet",
+     "en": "should give up",
+     "hi": "त्याग दे"
+    }
+   ],
+   "english": "...idle or incoherent talk, malice, covetousness and wrong views: this tenfold sinful conduct of body, speech and mind should be given up.",
+   "hindi": "...बेतुकी बकवास, दूसरों को हानि पहुँचाने की इच्छा, दूसरे के धन का लोभ और मिथ्या धारणा: शरीर, वाणी और मन से होने वाले ये दस प्रकार के पाप कर्म त्याग देने चाहिए।",
+   "explanation_en": "The ten pāpa karmas are grouped: three of body (violence, theft, sexual misconduct), four of speech (slander, harsh words, lies, idle talk) and three of mind (malice, covetousness, wrong view). This 3-4-3 grouping is a useful exam answer.",
+   "explanation_hi": "दस पाप कर्म इस तरह बँटे हैं: शरीर के तीन (हिंसा, चोरी, अनुचित काम), वाणी के चार (चुगली, कठोर वचन, झूठ, बकवास) और मन के तीन (द्वेष, लोभ, मिथ्या दृष्टि)। यह 3-4-3 का विभाजन परीक्षा के उत्तर में उपयोगी है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "daśavidha pāpa",
+    "kāyika",
+    "vācika",
+    "mānasika"
+   ],
+   "tags": [
+    "sadvritta",
+    "ethics"
+   ],
+   "importance": "medium",
+   "mnemonic": "Body 3, Speech 4, Mind 3 = 10",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.2.23",
+   "word_meanings": [
+    {
+     "sa": "अवृत्ति",
+     "iast": "avṛtti",
+     "en": "without livelihood",
+     "hi": "आजीविका-रहित"
+    },
+    {
+     "sa": "व्याधि",
+     "iast": "vyādhi",
+     "en": "disease",
+     "hi": "रोग"
+    },
+    {
+     "sa": "शोक",
+     "iast": "śoka",
+     "en": "grief",
+     "hi": "शोक"
+    },
+    {
+     "sa": "आर्तान्",
+     "iast": "ārtān",
+     "en": "the afflicted",
+     "hi": "पीड़ितों को"
+    },
+    {
+     "sa": "अनुवर्तेत",
+     "iast": "anuvarteta",
+     "en": "should help",
+     "hi": "सहायता करे"
+    },
+    {
+     "sa": "शक्तितः",
+     "iast": "śaktitaḥ",
+     "en": "according to one's ability",
+     "hi": "यथाशक्ति"
+    },
+    {
+     "sa": "आत्मवत्",
+     "iast": "ātmavat",
+     "en": "like oneself",
+     "hi": "अपने समान"
+    },
+    {
+     "sa": "सततम्",
+     "iast": "satatam",
+     "en": "always",
+     "hi": "सदा"
+    },
+    {
+     "sa": "पश्येत्",
+     "iast": "paśyet",
+     "en": "should regard",
+     "hi": "देखे"
+    },
+    {
+     "sa": "अपि",
+     "iast": "api",
+     "en": "even",
+     "hi": "भी"
+    },
+    {
+     "sa": "कीट",
+     "iast": "kīṭa",
+     "en": "insects",
+     "hi": "कीड़े"
+    },
+    {
+     "sa": "पिपीलिकम्",
+     "iast": "pipīlikam",
+     "en": "ants",
+     "hi": "चींटी"
+    }
+   ],
+   "english": "One should help, as far as one can, those afflicted by poverty, disease or grief. One should always regard even insects and ants as oneself.",
+   "hindi": "जो लोग आजीविका न होने, रोग या शोक से पीड़ित हैं, उनकी यथाशक्ति सहायता करनी चाहिए। कीड़े और चींटी तक को भी हमेशा अपने समान समझना चाहिए।",
+   "explanation_en": "Compassion (karuṇā) and seeing oneself in all beings (ātmavat) are central to sadvṛtta. For a physician this is especially relevant: compassion toward patients is listed by Caraka as one of the four attitudes of a good vaidya.",
+   "explanation_hi": "करुणा और सब प्राणियों को अपने समान देखना (आत्मवत्) सद्वृत्त का केंद्र है। वैद्य के लिए यह विशेष रूप से ज़रूरी है: चरक ने रोगियों के प्रति करुणा को अच्छे वैद्य की चार वृत्तियों में गिना है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sadvṛtta",
+    "karuṇā",
+    "ātmavat"
+   ],
+   "tags": [
+    "sadvritta",
+    "ethics"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.2.24",
+   "word_meanings": [
+    {
+     "sa": "अर्चयेत्",
+     "iast": "arcayet",
+     "en": "should honour",
+     "hi": "पूजा (सम्मान) करे"
+    },
+    {
+     "sa": "देव",
+     "iast": "deva",
+     "en": "gods",
+     "hi": "देवता"
+    },
+    {
+     "sa": "गो",
+     "iast": "go",
+     "en": "cows",
+     "hi": "गाय"
+    },
+    {
+     "sa": "विप्र",
+     "iast": "vipra",
+     "en": "learned Brāhmaṇas",
+     "hi": "ब्राह्मण"
+    },
+    {
+     "sa": "वृद्ध",
+     "iast": "vṛddha",
+     "en": "elders",
+     "hi": "वृद्ध"
+    },
+    {
+     "sa": "वैद्य",
+     "iast": "vaidya",
+     "en": "physicians",
+     "hi": "वैद्य"
+    },
+    {
+     "sa": "नृप",
+     "iast": "nṛpa",
+     "en": "king",
+     "hi": "राजा"
+    },
+    {
+     "sa": "अतिथीन्",
+     "iast": "atithīn",
+     "en": "guests",
+     "hi": "अतिथियों को"
+    },
+    {
+     "sa": "विमुखान्",
+     "iast": "vimukhān",
+     "en": "turned away",
+     "hi": "विमुख"
+    },
+    {
+     "sa": "न",
+     "iast": "na",
+     "en": "not",
+     "hi": "न"
+    },
+    {
+     "sa": "अर्थिनः",
+     "iast": "arthinaḥ",
+     "en": "those who ask (for help)",
+     "hi": "याचकों को"
+    },
+    {
+     "sa": "कुर्यात्",
+     "iast": "kuryāt",
+     "en": "should make",
+     "hi": "करे"
+    },
+    {
+     "sa": "न अवमन्येत",
+     "iast": "na avamanyeta",
+     "en": "should not insult",
+     "hi": "अपमान न करे"
+    },
+    {
+     "sa": "न आक्षिपेत्",
+     "iast": "na ākṣipet",
+     "en": "should not abuse",
+     "hi": "निन्दा न करे"
+    }
+   ],
+   "english": "One should honour the gods, cows, the learned, elders, physicians, the king and guests. One should not turn away those who ask for help, nor insult or abuse them.",
+   "hindi": "देवता, गाय, विद्वान ब्राह्मण, बड़े-बूढ़े, वैद्य, राजा और अतिथियों का सम्मान करना चाहिए। मदद माँगने वालों को खाली हाथ नहीं लौटाना चाहिए, न उनका अपमान करना चाहिए और न उन्हें बुरा-भला कहना चाहिए।",
+   "explanation_en": "Respect for those who sustain society is part of good conduct. Note that the vaidya is listed among those to be honoured, reflecting the high status of the physician in classical society.",
+   "explanation_hi": "समाज को सँभालने वालों का सम्मान अच्छे आचरण का हिस्सा है। ध्यान दें कि सम्मान के योग्य लोगों में वैद्य को भी रखा गया है, जो प्राचीन समाज में चिकित्सक के ऊँचे स्थान को दिखाता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sadvṛtta",
+    "atithi"
+   ],
+   "tags": [
+    "sadvritta",
+    "ethics"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.2.25",
+   "word_meanings": [
+    {
+     "sa": "उपकारप्रधानः",
+     "iast": "upakārapradhānaḥ",
+     "en": "intent on doing good",
+     "hi": "उपकार-प्रधान"
+    },
+    {
+     "sa": "स्यात्",
+     "iast": "syāt",
+     "en": "should be",
+     "hi": "हो"
+    },
+    {
+     "sa": "अपकारपरे",
+     "iast": "apakārapare",
+     "en": "intent on harm",
+     "hi": "अपकार में लगे"
+    },
+    {
+     "sa": "अपि",
+     "iast": "api",
+     "en": "even",
+     "hi": "भी"
+    },
+    {
+     "sa": "अरौ",
+     "iast": "arau",
+     "en": "toward an enemy",
+     "hi": "शत्रु के प्रति"
+    },
+    {
+     "sa": "संपद्",
+     "iast": "saṃpad",
+     "en": "prosperity",
+     "hi": "सम्पत्ति (सुख)"
+    },
+    {
+     "sa": "विपत्सु",
+     "iast": "vipatsu",
+     "en": "in adversity",
+     "hi": "विपत्ति में"
+    },
+    {
+     "sa": "एकमनाः",
+     "iast": "ekamanāḥ",
+     "en": "even-minded",
+     "hi": "एक समान मन वाला"
+    },
+    {
+     "sa": "हेतौ",
+     "iast": "hetau",
+     "en": "in the cause",
+     "hi": "कारण में"
+    },
+    {
+     "sa": "ईर्ष्येत्",
+     "iast": "īrṣyet",
+     "en": "should envy",
+     "hi": "ईर्ष्या करे"
+    },
+    {
+     "sa": "फले",
+     "iast": "phale",
+     "en": "in the result",
+     "hi": "फल में"
+    },
+    {
+     "sa": "न तु",
+     "iast": "na tu",
+     "en": "but not",
+     "hi": "परन्तु नहीं"
+    }
+   ],
+   "english": "One should be intent on doing good even to an enemy who is intent on harm. One should be even-minded in prosperity and adversity. One may envy the cause (the good deeds that lead to success), but not the result (another's success).",
+   "hindi": "शत्रु भी हानि पहुँचाने में लगा हो तो भी उसकी भलाई करनी चाहिए। सुख और दुःख दोनों में मन एक समान रखना चाहिए। दूसरे की सफलता के कारण (उसके अच्छे कर्मों) से होड़ करें, उसके फल (सफलता) से ईर्ष्या नहीं।",
+   "explanation_en": "A subtle instruction: healthy competition with another person's efforts is fine, but envy of their rewards is not. Equanimity in success and failure protects mental health, connecting sadvṛtta with the treatment of mental doṣas in chapter 1.",
+   "explanation_hi": "एक सूक्ष्म शिक्षा: दूसरे के परिश्रम से प्रेरणा लेकर होड़ करना ठीक है, पर उसकी सफलता से जलना नहीं। सुख-दुःख में समभाव मानसिक स्वास्थ्य की रक्षा करता है, जो अध्याय 1 में बताई गई मानस दोष की चिकित्सा से जुड़ता है।",
+   "modern_correlation": {
+    "en": "Equanimity and reduced envy are themes in modern positive psychology and are associated with lower stress.",
+    "hi": "समभाव और ईर्ष्या कम होना आधुनिक पॉज़िटिव साइकोलॉजी के विषय हैं और कम तनाव से जुड़े हैं।"
+   },
+   "key_terms": [
+    "sadvṛtta",
+    "samatva"
+   ],
+   "tags": [
+    "sadvritta",
+    "ethics",
+    "mental-health"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.2.26",
+   "word_meanings": [
+    {
+     "sa": "काले",
+     "iast": "kāle",
+     "en": "at the right time",
+     "hi": "उचित समय पर"
+    },
+    {
+     "sa": "हितम्",
+     "iast": "hitam",
+     "en": "beneficial",
+     "hi": "हितकर"
+    },
+    {
+     "sa": "मितम्",
+     "iast": "mitam",
+     "en": "measured, brief",
+     "hi": "सीमित"
+    },
+    {
+     "sa": "ब्रूयात्",
+     "iast": "brūyāt",
+     "en": "should speak",
+     "hi": "बोले"
+    },
+    {
+     "sa": "अविसंवादि",
+     "iast": "avisaṃvādi",
+     "en": "consistent, not misleading",
+     "hi": "विरोधाभास-रहित (सच्चा)"
+    },
+    {
+     "sa": "पेशलम्",
+     "iast": "peśalam",
+     "en": "pleasant",
+     "hi": "मधुर"
+    },
+    {
+     "sa": "पूर्वाभिभाषी",
+     "iast": "pūrvābhibhāṣī",
+     "en": "first to greet",
+     "hi": "पहले बोलने (अभिवादन) वाला"
+    },
+    {
+     "sa": "सुमुखः",
+     "iast": "sumukhaḥ",
+     "en": "cheerful-faced",
+     "hi": "प्रसन्नमुख"
+    },
+    {
+     "sa": "सुशीलः",
+     "iast": "suśīlaḥ",
+     "en": "well-behaved",
+     "hi": "सुशील"
+    },
+    {
+     "sa": "करुणामृदुः",
+     "iast": "karuṇāmṛduḥ",
+     "en": "soft with compassion",
+     "hi": "करुणा से कोमल"
+    }
+   ],
+   "english": "One should speak at the right time words that are beneficial, measured, consistent (truthful) and pleasant. One should be the first to greet, cheerful in face, well-behaved and gentle with compassion.",
+   "hindi": "उचित समय पर हितकर, सीमित, सच्ची और मीठी बात बोलनी चाहिए। मिलने पर पहले स्वयं अभिवादन करें, चेहरा प्रसन्न रखें, सुशील रहें और करुणा से कोमल हों।",
+   "explanation_en": "Rules of speech and manners. For physicians this verse is often cited as a model of bedside manner: speak at the right time, kindly and truthfully.",
+   "explanation_hi": "वाणी और व्यवहार के नियम। चिकित्सकों के लिए यह श्लोक रोगी से व्यवहार (bedside manner) के आदर्श के रूप में उद्धृत होता है: सही समय पर, दया से और सच बोलें।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sadvṛtta",
+    "vāk"
+   ],
+   "tags": [
+    "sadvritta",
+    "ethics"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.2.27",
+   "word_meanings": [
+    {
+     "sa": "न एकः सुखी",
+     "iast": "na ekaḥ sukhī",
+     "en": "not happy alone",
+     "hi": "अकेले सुखी न हो"
+    },
+    {
+     "sa": "न सर्वत्र",
+     "iast": "na sarvatra",
+     "en": "not everywhere",
+     "hi": "हर जगह नहीं"
+    },
+    {
+     "sa": "विश्रब्धः",
+     "iast": "viśrabdhaḥ",
+     "en": "trusting",
+     "hi": "विश्वास करने वाला"
+    },
+    {
+     "sa": "न च शङ्कितः",
+     "iast": "na ca śaṅkitaḥ",
+     "en": "nor suspicious",
+     "hi": "न ही शंकालु"
+    },
+    {
+     "sa": "न कञ्चित्",
+     "iast": "na kañcit",
+     "en": "not anyone",
+     "hi": "किसी को नहीं"
+    },
+    {
+     "sa": "आत्मनः",
+     "iast": "ātmanaḥ",
+     "en": "one's own",
+     "hi": "अपना"
+    },
+    {
+     "sa": "शत्रुम्",
+     "iast": "śatrum",
+     "en": "enemy",
+     "hi": "शत्रु"
+    },
+    {
+     "sa": "न आत्मानम्",
+     "iast": "na ātmānam",
+     "en": "not oneself",
+     "hi": "स्वयं को नहीं"
+    },
+    {
+     "sa": "कस्यचित्",
+     "iast": "kasyacit",
+     "en": "of anyone",
+     "hi": "किसी का"
+    },
+    {
+     "sa": "रिपुम्",
+     "iast": "ripum",
+     "en": "enemy",
+     "hi": "शत्रु"
+    }
+   ],
+   "english": "One should not enjoy happiness alone, nor trust everyone everywhere, nor be suspicious of everyone. One should not declare anyone one's enemy, nor declare oneself anyone's enemy.",
+   "hindi": "अकेले सुख न भोगे (दूसरों से बाँटे), हर जगह सब पर विश्वास न करे, और न ही सब पर शंका करे। किसी को अपना शत्रु न बताए और न स्वयं को किसी का शत्रु घोषित करे।",
+   "explanation_en": "Balanced social behaviour: neither naive trust nor suspicion, neither selfishness nor open hostility. The 'middle path' theme returns in verse 30.",
+   "explanation_hi": "संतुलित सामाजिक व्यवहार: न अंधा विश्वास, न शंका; न स्वार्थ, न खुली शत्रुता। 'मध्यम मार्ग' का यही विचार श्लोक 30 में फिर आता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sadvṛtta"
+   ],
+   "tags": [
+    "sadvritta",
+    "ethics"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.2.28",
+   "word_meanings": [
+    {
+     "sa": "प्रकाशयेत्",
+     "iast": "prakāśayet",
+     "en": "should reveal",
+     "hi": "प्रकट करे"
+    },
+    {
+     "sa": "न",
+     "iast": "na",
+     "en": "not",
+     "hi": "न"
+    },
+    {
+     "sa": "अपमानम्",
+     "iast": "apamānam",
+     "en": "an insult (received)",
+     "hi": "अपमान"
+    },
+    {
+     "sa": "न च",
+     "iast": "na ca",
+     "en": "nor",
+     "hi": "और न"
+    },
+    {
+     "sa": "निःस्नेहताम्",
+     "iast": "niḥsnehatām",
+     "en": "lack of affection",
+     "hi": "स्नेह की कमी"
+    },
+    {
+     "sa": "प्रभोः",
+     "iast": "prabhoḥ",
+     "en": "of the master",
+     "hi": "स्वामी की"
+    },
+    {
+     "sa": "जनस्य",
+     "iast": "janasya",
+     "en": "of people",
+     "hi": "लोगों के"
+    },
+    {
+     "sa": "आशयम्",
+     "iast": "āśayam",
+     "en": "intention, mind",
+     "hi": "आशय (मन का भाव)"
+    },
+    {
+     "sa": "आलक्ष्य",
+     "iast": "ālakṣya",
+     "en": "having observed",
+     "hi": "देखकर"
+    },
+    {
+     "sa": "यः",
+     "iast": "yaḥ",
+     "en": "who",
+     "hi": "जो"
+    },
+    {
+     "sa": "यथा",
+     "iast": "yathā",
+     "en": "in whatever way",
+     "hi": "जैसे"
+    },
+    {
+     "sa": "परितुष्यति",
+     "iast": "parituṣyati",
+     "en": "is pleased",
+     "hi": "प्रसन्न होता है"
+    }
+   ],
+   "english": "One should not reveal an insult one has received, nor the lack of affection of one's master. Observing people's minds, [one should treat] each person in the way that pleases him...",
+   "hindi": "अपना हुआ अपमान और अपने स्वामी के स्नेह की कमी दूसरों के सामने प्रकट न करे। लोगों के मन के भाव को समझकर, जो जिस तरह प्रसन्न होता है...",
+   "explanation_en": "Social prudence: do not publicise humiliations, and read other people's dispositions. The sentence continues into verse 29.",
+   "explanation_hi": "सामाजिक समझदारी: अपने अपमान का ढिंढोरा न पीटें और लोगों का स्वभाव समझें। वाक्य श्लोक 29 में पूरा होता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sadvṛtta"
+   ],
+   "tags": [
+    "sadvritta",
+    "ethics"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.2.29",
+   "word_meanings": [
+    {
+     "sa": "तम्",
+     "iast": "tam",
+     "en": "him",
+     "hi": "उसके साथ"
+    },
+    {
+     "sa": "तथा एव",
+     "iast": "tathā eva",
+     "en": "in that very way",
+     "hi": "वैसे ही"
+    },
+    {
+     "sa": "अनुवर्तेत",
+     "iast": "anuvarteta",
+     "en": "should behave",
+     "hi": "व्यवहार करे"
+    },
+    {
+     "sa": "पराराधन",
+     "iast": "parārādhana",
+     "en": "pleasing others",
+     "hi": "दूसरों को प्रसन्न करने में"
+    },
+    {
+     "sa": "पण्डितः",
+     "iast": "paṇḍitaḥ",
+     "en": "skilled",
+     "hi": "कुशल"
+    },
+    {
+     "sa": "न पीडयेत्",
+     "iast": "na pīḍayet",
+     "en": "should not torment",
+     "hi": "पीड़ा न दे"
+    },
+    {
+     "sa": "इन्द्रियाणि",
+     "iast": "indriyāṇi",
+     "en": "the senses",
+     "hi": "इन्द्रियों को"
+    },
+    {
+     "sa": "न च",
+     "iast": "na ca",
+     "en": "nor",
+     "hi": "और न"
+    },
+    {
+     "sa": "एतानि",
+     "iast": "etāni",
+     "en": "them",
+     "hi": "इन्हें"
+    },
+    {
+     "sa": "अति",
+     "iast": "ati",
+     "en": "excessively",
+     "hi": "अधिक"
+    },
+    {
+     "sa": "लालयेत्",
+     "iast": "lālayet",
+     "en": "should indulge",
+     "hi": "लाड़ करे"
+    }
+   ],
+   "english": "...one should behave toward him in that very way, being skilled in pleasing others. One should neither torment the senses (by excessive restraint) nor indulge them excessively.",
+   "hindi": "...उसके साथ वैसा ही व्यवहार करे, और दूसरों को प्रसन्न करने में कुशल बने। इन्द्रियों को न तो अधिक कष्ट दे (अति दमन से) और न ही उनका अधिक लाड़ करे (अति भोग से)।",
+   "explanation_en": "The second line is a key health principle: neither suppression nor over-indulgence of the senses. This is the sense-organ version of the hīna-mithyā-ati-yoga concept from chapter 1, verse 19.",
+   "explanation_hi": "दूसरी पंक्ति स्वास्थ्य का मुख्य सिद्धान्त है: इन्द्रियों का न दमन, न अति भोग। यह अध्याय 1 के श्लोक 19 के हीन-मिथ्या-अति योग सिद्धान्त का इन्द्रियों पर लागू रूप है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sadvṛtta",
+    "indriya",
+    "atiyoga",
+    "hīnayoga"
+   ],
+   "tags": [
+    "sadvritta",
+    "indriya"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.2.30",
+   "word_meanings": [
+    {
+     "sa": "त्रिवर्ग",
+     "iast": "trivarga",
+     "en": "the three aims (dharma, artha, kāma)",
+     "hi": "त्रिवर्ग"
+    },
+    {
+     "sa": "शून्यम्",
+     "iast": "śūnyam",
+     "en": "devoid of",
+     "hi": "रहित"
+    },
+    {
+     "sa": "न आरम्भम्",
+     "iast": "na ārambham",
+     "en": "no undertaking",
+     "hi": "कोई कार्य नहीं"
+    },
+    {
+     "sa": "भजेत्",
+     "iast": "bhajet",
+     "en": "should take up",
+     "hi": "करे"
+    },
+    {
+     "sa": "तम्",
+     "iast": "tam",
+     "en": "that (trivarga)",
+     "hi": "उसे"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "अविरोधयन्",
+     "iast": "avirodhayan",
+     "en": "without conflict",
+     "hi": "विरोध न करते हुए"
+    },
+    {
+     "sa": "अनुयायात्",
+     "iast": "anuyāyāt",
+     "en": "should follow",
+     "hi": "अनुसरण करे"
+    },
+    {
+     "sa": "प्रतिपदम्",
+     "iast": "pratipadam",
+     "en": "at every step",
+     "hi": "हर कदम पर"
+    },
+    {
+     "sa": "सर्वधर्मेषु",
+     "iast": "sarvadharmeṣu",
+     "en": "in all matters",
+     "hi": "सब कर्मों में"
+    },
+    {
+     "sa": "मध्यमाम्",
+     "iast": "madhyamām",
+     "en": "the middle (path)",
+     "hi": "मध्यम मार्ग"
+    }
+   ],
+   "english": "One should not undertake anything devoid of the three aims (dharma, artha, kāma), and should pursue them without letting them conflict. In all matters, at every step, one should follow the middle path.",
+   "hindi": "ऐसा कोई कार्य शुरू न करे जिसमें धर्म, अर्थ और काम (त्रिवर्ग) में से कुछ न हो, और इन तीनों को आपस में टकराने न दे। सब कामों में, हर कदम पर मध्यम मार्ग अपनाए।",
+   "explanation_en": "'Madhyamā pratipad' (the middle path) is the summary of all sadvṛtta and of Āyurvedic lifestyle in general: avoid extremes in diet, sleep, exercise and behaviour.",
+   "explanation_hi": "'मध्यमा प्रतिपद्' (मध्यम मार्ग) पूरे सद्वृत्त और आयुर्वेदिक जीवनशैली का सार है: आहार, नींद, व्यायाम और व्यवहार में अति से बचें।",
+   "modern_correlation": null,
+   "key_terms": [
+    "trivarga",
+    "madhyamā pratipad",
+    "sadvṛtta"
+   ],
+   "tags": [
+    "sadvritta",
+    "ethics"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.2.31",
+   "word_meanings": [
+    {
+     "sa": "नीच",
+     "iast": "nīca",
+     "en": "short (trimmed)",
+     "hi": "कटे हुए (छोटे)"
+    },
+    {
+     "sa": "रोम",
+     "iast": "roma",
+     "en": "body hair",
+     "hi": "रोम"
+    },
+    {
+     "sa": "नख",
+     "iast": "nakha",
+     "en": "nails",
+     "hi": "नाखून"
+    },
+    {
+     "sa": "श्मश्रुः",
+     "iast": "śmaśruḥ",
+     "en": "beard",
+     "hi": "दाढ़ी"
+    },
+    {
+     "sa": "निर्मल",
+     "iast": "nirmala",
+     "en": "clean",
+     "hi": "निर्मल"
+    },
+    {
+     "sa": "अङ्घ्रि",
+     "iast": "aṅghri",
+     "en": "feet",
+     "hi": "पैर"
+    },
+    {
+     "sa": "मलायनः",
+     "iast": "malāyanaḥ",
+     "en": "excretory passages",
+     "hi": "मल-मार्ग"
+    },
+    {
+     "sa": "स्नानशीलः",
+     "iast": "snānaśīlaḥ",
+     "en": "habituated to bathing",
+     "hi": "नियमित स्नान करने वाला"
+    },
+    {
+     "sa": "सुसुरभिः",
+     "iast": "susurabhiḥ",
+     "en": "well-perfumed",
+     "hi": "सुगन्धित"
+    },
+    {
+     "sa": "सुवेषः",
+     "iast": "suveṣaḥ",
+     "en": "well-dressed",
+     "hi": "अच्छे वस्त्र वाला"
+    },
+    {
+     "sa": "अनुल्बण",
+     "iast": "anulbaṇa",
+     "en": "not gaudy",
+     "hi": "भड़कीला नहीं"
+    },
+    {
+     "sa": "उज्ज्वलः",
+     "iast": "ujjvalaḥ",
+     "en": "bright, neat",
+     "hi": "उज्ज्वल (साफ़-सुथरा)"
+    }
+   ],
+   "english": "One should keep the hair, nails and beard trimmed, the feet and excretory orifices clean, bathe regularly, be well-perfumed, and be well-dressed in clothes that are neat but not gaudy.",
+   "hindi": "रोम, नाखून और दाढ़ी कटी रखे, पैर और मल-मार्ग साफ़ रखे, नियमित स्नान करे, सुगन्धित रहे, और साफ़-सुथरे पर भड़कीले नहीं, ऐसे अच्छे वस्त्र पहने।",
+   "explanation_en": "Personal hygiene and grooming as part of sadvṛtta. Commentators prescribe trimming hair and nails about every five days (three times a fortnight). Cleanliness of the feet and excretory openings (malāyana) is stressed.",
+   "explanation_hi": "व्यक्तिगत स्वच्छता सद्वृत्त का हिस्सा है। टीकाकार बाल और नाखून लगभग हर पाँच दिन (पक्ष में तीन बार) काटने को कहते हैं। पैरों और मल-मार्गों की सफ़ाई पर विशेष ज़ोर है।",
+   "modern_correlation": {
+    "en": "Trimmed nails and clean hands, feet and perineum reduce transmission of faeco-oral and skin infections, a basic principle of public hygiene.",
+    "hi": "कटे नाखून और साफ़ हाथ, पैर और मल-मूत्र अंग मल-मुख मार्ग से फैलने वाले और त्वचा संक्रमणों को कम करते हैं, यह जन-स्वच्छता का मूल सिद्धान्त है।"
+   },
+   "key_terms": [
+    "sadvṛtta",
+    "śauca"
+   ],
+   "tags": [
+    "sadvritta",
+    "hygiene"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.2.32",
+   "word_meanings": [
+    {
+     "sa": "धारयेत्",
+     "iast": "dhārayet",
+     "en": "should wear",
+     "hi": "धारण करे"
+    },
+    {
+     "sa": "सततम्",
+     "iast": "satatam",
+     "en": "always",
+     "hi": "सदा"
+    },
+    {
+     "sa": "रत्न",
+     "iast": "ratna",
+     "en": "gems",
+     "hi": "रत्न"
+    },
+    {
+     "sa": "सिद्धमन्त्र",
+     "iast": "siddhamantra",
+     "en": "proven mantras",
+     "hi": "सिद्ध मन्त्र"
+    },
+    {
+     "sa": "महौषधीः",
+     "iast": "mahauṣadhīḥ",
+     "en": "great herbs",
+     "hi": "महौषधियाँ"
+    },
+    {
+     "sa": "सातपत्र",
+     "iast": "sātapatra",
+     "en": "with an umbrella",
+     "hi": "छाते सहित"
+    },
+    {
+     "sa": "पदत्राणः",
+     "iast": "padatrāṇaḥ",
+     "en": "with footwear",
+     "hi": "जूते सहित"
+    },
+    {
+     "sa": "विचरेत्",
+     "iast": "vicaret",
+     "en": "should walk",
+     "hi": "चले"
+    },
+    {
+     "sa": "युगमात्रदृक्",
+     "iast": "yugamātradṛk",
+     "en": "looking ahead a yoke's length",
+     "hi": "चार हाथ आगे देखते हुए"
+    }
+   ],
+   "english": "One should always wear gems, proven mantras (amulets) and great herbs. One should walk with an umbrella and footwear, looking ahead about a yoke's length (about four cubits).",
+   "hindi": "हमेशा रत्न, सिद्ध मन्त्र (ताबीज़) और महौषधियाँ धारण करे। छाता और जूते पहनकर चले, और चलते समय लगभग एक युग (चार हाथ) आगे ज़मीन देखते हुए चले।",
+   "explanation_en": "Practical protective measures: umbrella against sun and rain, footwear against injury, and watching the path to avoid falls and stepping on creatures. Gems and amulets reflect the beliefs of the period; students should treat them as historical context.",
+   "explanation_hi": "व्यावहारिक सुरक्षा उपाय: धूप-बारिश से बचने के लिए छाता, चोट से बचने के लिए जूते, और गिरने या जीवों को कुचलने से बचने के लिए रास्ता देखकर चलना। रत्न और ताबीज़ उस समय की मान्यताएँ दर्शाते हैं; इन्हें ऐतिहासिक सन्दर्भ में समझें।",
+   "modern_correlation": {
+    "en": "Wearing footwear is a recognised preventive measure against hookworm infection and foot injuries, especially in rural settings.",
+    "hi": "जूते पहनना हुकवर्म संक्रमण और पैरों की चोट से बचाव का मान्य उपाय है, विशेषकर ग्रामीण क्षेत्रों में।"
+   },
+   "key_terms": [
+    "sadvṛtta",
+    "chatra",
+    "pādatrāṇa"
+   ],
+   "tags": [
+    "sadvritta",
+    "prevention"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.2.33",
+   "word_meanings": [
+    {
+     "sa": "निशि",
+     "iast": "niśi",
+     "en": "at night",
+     "hi": "रात में"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "आत्ययिके",
+     "iast": "ātyayike",
+     "en": "urgent",
+     "hi": "आवश्यक (अत्यावश्यक)"
+    },
+    {
+     "sa": "कार्ये",
+     "iast": "kārye",
+     "en": "in work",
+     "hi": "काम में"
+    },
+    {
+     "sa": "दण्डी",
+     "iast": "daṇḍī",
+     "en": "carrying a staff",
+     "hi": "डंडा लिए हुए"
+    },
+    {
+     "sa": "मौली",
+     "iast": "maulī",
+     "en": "wearing a head-cover",
+     "hi": "सिर ढके हुए (पगड़ी वाला)"
+    },
+    {
+     "sa": "सहायवान्",
+     "iast": "sahāyavān",
+     "en": "with a companion",
+     "hi": "साथी के साथ"
+    },
+    {
+     "sa": "चैत्य",
+     "iast": "caitya",
+     "en": "sacred tree or shrine",
+     "hi": "चैत्य"
+    },
+    {
+     "sa": "पूज्य",
+     "iast": "pūjya",
+     "en": "revered (persons/objects)",
+     "hi": "पूज्य"
+    },
+    {
+     "sa": "ध्वज",
+     "iast": "dhvaja",
+     "en": "flag",
+     "hi": "ध्वज"
+    },
+    {
+     "sa": "अशस्त",
+     "iast": "aśasta",
+     "en": "inauspicious things",
+     "hi": "अशुभ वस्तुएँ"
+    },
+    {
+     "sa": "छाया",
+     "iast": "chāyā",
+     "en": "shadows",
+     "hi": "छाया"
+    },
+    {
+     "sa": "भस्म",
+     "iast": "bhasma",
+     "en": "ashes",
+     "hi": "भस्म (राख)"
+    },
+    {
+     "sa": "तुष",
+     "iast": "tuṣa",
+     "en": "husk",
+     "hi": "भूसी"
+    },
+    {
+     "sa": "अशुचीन्",
+     "iast": "aśucīn",
+     "en": "impure things",
+     "hi": "अशुद्ध वस्तुएँ"
+    }
+   ],
+   "english": "If one must go out at night on urgent work, one should carry a staff, cover the head and take a companion. One should not step over sacred trees or shrines, revered persons or objects, flags, inauspicious things, shadows, ashes, husk or impure things...",
+   "hindi": "रात में किसी ज़रूरी काम से जाना पड़े तो हाथ में डंडा लेकर, सिर ढककर और किसी साथी के साथ जाए। चैत्य, पूज्य व्यक्ति या वस्तु, ध्वज, अशुभ वस्तुएँ, (पूज्यों की) छाया, राख, भूसी और अशुद्ध वस्तुओं को लाँघना नहीं चाहिए...",
+   "explanation_en": "Safety rules for night travel (staff for protection, head-cover against dew and cold, companion for safety) followed by things not to be stepped over. The sentence continues into verse 34.",
+   "explanation_hi": "रात की यात्रा के लिए सुरक्षा नियम (रक्षा के लिए डंडा, ओस और ठंड से बचने के लिए सिर ढकना, सुरक्षा के लिए साथी), फिर उन चीज़ों की सूची जिन्हें लाँघना नहीं चाहिए। वाक्य श्लोक 34 में आगे चलता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sadvṛtta"
+   ],
+   "tags": [
+    "sadvritta",
+    "prevention"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.2.34",
+   "word_meanings": [
+    {
+     "sa": "न आक्रामेत्",
+     "iast": "na ākrāmet",
+     "en": "should not step over",
+     "hi": "न लाँघे"
+    },
+    {
+     "sa": "शर्करा",
+     "iast": "śarkarā",
+     "en": "gravel",
+     "hi": "कंकड़"
+    },
+    {
+     "sa": "लोष्ट",
+     "iast": "loṣṭa",
+     "en": "clods",
+     "hi": "मिट्टी के ढेले"
+    },
+    {
+     "sa": "बलि",
+     "iast": "bali",
+     "en": "offerings",
+     "hi": "बलि (भेंट)"
+    },
+    {
+     "sa": "स्नानभुवः",
+     "iast": "snānabhuvaḥ",
+     "en": "bathing places",
+     "hi": "स्नान के स्थान"
+    },
+    {
+     "sa": "न च",
+     "iast": "na ca",
+     "en": "nor",
+     "hi": "और न"
+    },
+    {
+     "sa": "नदीम्",
+     "iast": "nadīm",
+     "en": "a river",
+     "hi": "नदी को"
+    },
+    {
+     "sa": "तरेत्",
+     "iast": "taret",
+     "en": "should cross (swim)",
+     "hi": "पार करे"
+    },
+    {
+     "sa": "न बाहुभ्याम्",
+     "iast": "na bāhubhyām",
+     "en": "not with the arms",
+     "hi": "हाथों से (तैरकर) नहीं"
+    },
+    {
+     "sa": "न",
+     "iast": "na",
+     "en": "not",
+     "hi": "न"
+    },
+    {
+     "sa": "अग्निस्कन्धम्",
+     "iast": "agniskandham",
+     "en": "a mass of fire",
+     "hi": "आग के ढेर के"
+    },
+    {
+     "sa": "अभिव्रजेत्",
+     "iast": "abhivrajet",
+     "en": "should approach",
+     "hi": "पास जाए"
+    }
+   ],
+   "english": "...nor gravel, clods, offerings or bathing places. One should not cross a river by swimming with the arms, nor go near a blazing fire.",
+   "hindi": "...न कंकड़, मिट्टी के ढेले, बलि (देव-भेंट) या स्नान के स्थानों पर पैर रखे। नदी को हाथों से तैरकर पार न करे और जलती आग के ढेर के पास न जाए।",
+   "explanation_en": "Common-sense injury prevention: gravel and clods can injure the feet, swimming across rivers risks drowning, and big fires risk burns. Such rules are the ancient equivalent of accident prevention guidance.",
+   "explanation_hi": "चोट से बचाव के व्यावहारिक नियम: कंकड़ और ढेलों से पैर में चोट लग सकती है, नदी तैरकर पार करने में डूबने का खतरा है, और बड़ी आग से जलने का। ये प्राचीन काल के दुर्घटना-निवारण निर्देश हैं।",
+   "modern_correlation": {
+    "en": "Drowning and burns remain major causes of preventable injury in India; these rules broadly parallel modern accident-prevention advice.",
+    "hi": "डूबना और जलना आज भी भारत में रोकी जा सकने वाली चोटों के बड़े कारण हैं; ये नियम आधुनिक दुर्घटना-निवारण सलाह से मोटे तौर पर मिलते हैं।"
+   },
+   "key_terms": [
+    "sadvṛtta"
+   ],
+   "tags": [
+    "sadvritta",
+    "prevention"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.2.35",
+   "word_meanings": [
+    {
+     "sa": "संदिग्धनावम्",
+     "iast": "saṃdigdhanāvam",
+     "en": "an unsafe boat",
+     "hi": "संदिग्ध (असुरक्षित) नाव"
+    },
+    {
+     "sa": "वृक्षम्",
+     "iast": "vṛkṣam",
+     "en": "a tree",
+     "hi": "पेड़"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "न आरोहेत्",
+     "iast": "na ārohet",
+     "en": "should not climb",
+     "hi": "न चढ़े"
+    },
+    {
+     "sa": "दुष्टयानवत्",
+     "iast": "duṣṭayānavat",
+     "en": "like a faulty vehicle",
+     "hi": "खराब वाहन की तरह"
+    },
+    {
+     "sa": "न",
+     "iast": "na",
+     "en": "not",
+     "hi": "न"
+    },
+    {
+     "sa": "असंवृतमुखः",
+     "iast": "asaṃvṛtamukhaḥ",
+     "en": "with mouth uncovered",
+     "hi": "मुँह ढके बिना"
+    },
+    {
+     "sa": "कुर्यात्",
+     "iast": "kuryāt",
+     "en": "should do",
+     "hi": "करे"
+    },
+    {
+     "sa": "क्षुति",
+     "iast": "kṣuti",
+     "en": "sneezing",
+     "hi": "छींक"
+    },
+    {
+     "sa": "हास्य",
+     "iast": "hāsya",
+     "en": "laughing",
+     "hi": "हँसी"
+    },
+    {
+     "sa": "विजृम्भणम्",
+     "iast": "vijṛmbhaṇam",
+     "en": "yawning",
+     "hi": "जम्हाई"
+    }
+   ],
+   "english": "One should not board an unsafe boat, climb a (risky) tree, or ride a faulty vehicle. One should not sneeze, laugh or yawn without covering the mouth.",
+   "hindi": "असुरक्षित नाव, (खतरनाक) पेड़ या खराब वाहन पर न चढ़े। मुँह ढके बिना छींकना, हँसना या जम्हाई लेना नहीं चाहिए।",
+   "explanation_en": "The second line is a striking hygiene rule: cover the mouth when sneezing, laughing or yawning. It is often quoted as an early example of respiratory etiquette.",
+   "explanation_hi": "दूसरी पंक्ति एक उल्लेखनीय स्वच्छता नियम है: छींकते, हँसते या जम्हाई लेते समय मुँह ढकना। इसे श्वसन शिष्टाचार (respiratory etiquette) के प्राचीन उदाहरण के रूप में उद्धृत किया जाता है।",
+   "modern_correlation": {
+    "en": "Covering the mouth while sneezing is a standard modern measure to limit droplet spread of respiratory infections.",
+    "hi": "छींकते समय मुँह ढकना श्वसन संक्रमण के बूँदों (droplets) से फैलने को सीमित करने का मानक आधुनिक उपाय है।"
+   },
+   "key_terms": [
+    "sadvṛtta",
+    "kṣavathu"
+   ],
+   "tags": [
+    "sadvritta",
+    "hygiene",
+    "prevention"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.2.36",
+   "word_meanings": [
+    {
+     "sa": "नासिकाम्",
+     "iast": "nāsikām",
+     "en": "nose",
+     "hi": "नाक को"
+    },
+    {
+     "sa": "न विकुष्णीयात्",
+     "iast": "na vikuṣṇīyāt",
+     "en": "should not pick",
+     "hi": "न कुरेदे"
+    },
+    {
+     "sa": "न अकस्मात्",
+     "iast": "na akasmāt",
+     "en": "not without reason",
+     "hi": "बिना कारण नहीं"
+    },
+    {
+     "sa": "विलिखेत्",
+     "iast": "vilikhet",
+     "en": "should scratch",
+     "hi": "खुरचे"
+    },
+    {
+     "sa": "भुवम्",
+     "iast": "bhuvam",
+     "en": "the ground",
+     "hi": "ज़मीन को"
+    },
+    {
+     "sa": "न अङ्गैः",
+     "iast": "na aṅgaiḥ",
+     "en": "not with the limbs",
+     "hi": "अंगों से नहीं"
+    },
+    {
+     "sa": "चेष्टेत",
+     "iast": "ceṣṭeta",
+     "en": "should act",
+     "hi": "चेष्टा करे"
+    },
+    {
+     "sa": "विगुणम्",
+     "iast": "viguṇam",
+     "en": "awkwardly",
+     "hi": "विकृत रूप से"
+    },
+    {
+     "sa": "न आसीत",
+     "iast": "na āsīta",
+     "en": "should not sit",
+     "hi": "न बैठे"
+    },
+    {
+     "sa": "उत्कटकः",
+     "iast": "utkaṭakaḥ",
+     "en": "squatting on the heels",
+     "hi": "उकड़ूँ"
+    },
+    {
+     "sa": "चिरम्",
+     "iast": "ciram",
+     "en": "for long",
+     "hi": "देर तक"
+    }
+   ],
+   "english": "One should not pick the nose, nor scratch the ground without reason, nor make awkward movements with the limbs, nor sit squatting on the heels for a long time.",
+   "hindi": "नाक न कुरेदे, बिना कारण ज़मीन न खुरचे, अंगों से अजीब हरकतें न करे, और देर तक उकड़ूँ होकर न बैठे।",
+   "explanation_en": "Rules of bodily decorum and posture. Prolonged squatting is discouraged, probably because of strain on joints and circulation.",
+   "explanation_hi": "शारीरिक शिष्टता और मुद्रा के नियम। देर तक उकड़ूँ बैठने से मना किया गया है, सम्भवतः जोड़ों और रक्त-संचार पर दबाव के कारण।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sadvṛtta"
+   ],
+   "tags": [
+    "sadvritta",
+    "posture"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.2.37",
+   "word_meanings": [
+    {
+     "sa": "देह",
+     "iast": "deha",
+     "en": "body",
+     "hi": "शरीर"
+    },
+    {
+     "sa": "वाक्",
+     "iast": "vāk",
+     "en": "speech",
+     "hi": "वाणी"
+    },
+    {
+     "sa": "चेतसाम्",
+     "iast": "cetasām",
+     "en": "of mind",
+     "hi": "मन की"
+    },
+    {
+     "sa": "चेष्टाः",
+     "iast": "ceṣṭāḥ",
+     "en": "activities",
+     "hi": "चेष्टाएँ"
+    },
+    {
+     "sa": "प्राक् श्रमात्",
+     "iast": "prāk śramāt",
+     "en": "before fatigue",
+     "hi": "थकान से पहले"
+    },
+    {
+     "sa": "विनिवर्तयेत्",
+     "iast": "vinivartayet",
+     "en": "should stop",
+     "hi": "रोक दे"
+    },
+    {
+     "sa": "न ऊर्ध्वजानुः",
+     "iast": "na ūrdhvajānuḥ",
+     "en": "not with knees raised",
+     "hi": "घुटने ऊपर उठाकर नहीं"
+    },
+    {
+     "sa": "चिरम्",
+     "iast": "ciram",
+     "en": "for long",
+     "hi": "देर तक"
+    },
+    {
+     "sa": "तिष्ठेत्",
+     "iast": "tiṣṭhet",
+     "en": "should stay",
+     "hi": "रहे"
+    },
+    {
+     "sa": "नक्तम्",
+     "iast": "naktam",
+     "en": "at night",
+     "hi": "रात में"
+    },
+    {
+     "sa": "सेवेत",
+     "iast": "seveta",
+     "en": "should resort to",
+     "hi": "सेवन करे"
+    },
+    {
+     "sa": "न द्रुमम्",
+     "iast": "na drumam",
+     "en": "not a tree",
+     "hi": "पेड़ के नीचे नहीं"
+    }
+   ],
+   "english": "One should stop activities of body, speech and mind before fatigue sets in. One should not remain long with the knees raised, and should not stay under a tree at night.",
+   "hindi": "शरीर, वाणी और मन के कामों को थकान आने से पहले ही रोक देना चाहिए। देर तक घुटने ऊपर करके न बैठे, और रात में पेड़ के नीचे न रहे।",
+   "explanation_en": "'Prāk śramāt vinivartayet' (stop before fatigue) is an important preventive principle, echoing ardhaśakti in exercise. Trees at night are avoided because of insects, snakes and (in classical belief) unwholesome influences.",
+   "explanation_hi": "'प्राक् श्रमात् विनिवर्तयेत्' (थकान से पहले रुकें) एक महत्वपूर्ण निवारक सिद्धान्त है, जो व्यायाम के अर्धशक्ति नियम जैसा है। रात में पेड़ के नीचे रहने से मना किया गया है क्योंकि वहाँ कीड़े, साँप आदि का खतरा रहता है।",
+   "modern_correlation": {
+    "en": "Pacing activity and taking breaks before exhaustion broadly parallels modern occupational-health advice to prevent burnout and overuse injury.",
+    "hi": "थकान से पहले विश्राम लेना आधुनिक व्यावसायिक स्वास्थ्य की सलाह से मोटे तौर पर मिलता है, जो बर्नआउट और अधिक उपयोग से होने वाली चोटों से बचाती है।"
+   },
+   "key_terms": [
+    "sadvṛtta",
+    "śrama"
+   ],
+   "tags": [
+    "sadvritta",
+    "prevention"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.2.38",
+   "word_meanings": [
+    {
+     "sa": "तथा",
+     "iast": "tathā",
+     "en": "likewise",
+     "hi": "इसी तरह"
+    },
+    {
+     "sa": "चत्वर",
+     "iast": "catvara",
+     "en": "courtyard, crossroads",
+     "hi": "चौक"
+    },
+    {
+     "sa": "चैत्य",
+     "iast": "caitya",
+     "en": "shrine",
+     "hi": "चैत्य"
+    },
+    {
+     "sa": "अन्तः",
+     "iast": "antaḥ",
+     "en": "inside",
+     "hi": "अंदर"
+    },
+    {
+     "sa": "चतुष्पथ",
+     "iast": "catuṣpatha",
+     "en": "crossroads",
+     "hi": "चौराहा"
+    },
+    {
+     "sa": "सुरालयान्",
+     "iast": "surālayān",
+     "en": "temples",
+     "hi": "देवालय"
+    },
+    {
+     "sa": "सूना",
+     "iast": "sūnā",
+     "en": "slaughterhouse",
+     "hi": "बूचड़खाना"
+    },
+    {
+     "sa": "अटवी",
+     "iast": "aṭavī",
+     "en": "forest",
+     "hi": "जंगल"
+    },
+    {
+     "sa": "शून्यगृह",
+     "iast": "śūnyagṛha",
+     "en": "empty house",
+     "hi": "सूना घर"
+    },
+    {
+     "sa": "श्मशानानि",
+     "iast": "śmaśānāni",
+     "en": "cremation grounds",
+     "hi": "श्मशान"
+    },
+    {
+     "sa": "दिवा अपि",
+     "iast": "divā api",
+     "en": "even by day",
+     "hi": "दिन में भी"
+    },
+    {
+     "sa": "न",
+     "iast": "na",
+     "en": "not",
+     "hi": "नहीं"
+    }
+   ],
+   "english": "Likewise one should not stay at night in courtyards, shrines, crossroads or temples, nor even by day in slaughterhouses, forests, empty houses or cremation grounds.",
+   "hindi": "इसी तरह रात में चौक, चैत्य, चौराहे या देवालय में न रुके, और बूचड़खाने, जंगल, सूने घर या श्मशान में तो दिन में भी न रुके।",
+   "explanation_en": "Places to avoid for safety and hygiene reasons. Slaughterhouses and cremation grounds are unhygienic; forests and empty houses are unsafe.",
+   "explanation_hi": "सुरक्षा और स्वच्छता के कारण बचने योग्य स्थान। बूचड़खाने और श्मशान अस्वच्छ होते हैं; जंगल और सूने घर असुरक्षित।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sadvṛtta"
+   ],
+   "tags": [
+    "sadvritta",
+    "prevention"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.2.39",
+   "word_meanings": [
+    {
+     "sa": "असंमार्जितम्",
+     "iast": "asaṃmārjitam",
+     "en": "uncleaned",
+     "hi": "बिना साफ़ किया"
+    },
+    {
+     "sa": "आदर्शम्",
+     "iast": "ādarśam",
+     "en": "mirror",
+     "hi": "दर्पण"
+    },
+    {
+     "sa": "अनुपस्कृतकामिनीम्",
+     "iast": "anupaskṛtakāminīm",
+     "en": "an unadorned woman",
+     "hi": "बिना शृंगार की स्त्री"
+    },
+    {
+     "sa": "रजस्वलाम्",
+     "iast": "rajasvalām",
+     "en": "a menstruating woman",
+     "hi": "रजस्वला"
+    },
+    {
+     "sa": "न ईक्षेत",
+     "iast": "na īkṣeta",
+     "en": "should not look at",
+     "hi": "न देखे"
+    },
+    {
+     "sa": "सदा",
+     "iast": "sadā",
+     "en": "always",
+     "hi": "सदा"
+    },
+    {
+     "sa": "प्रातः",
+     "iast": "prātaḥ",
+     "en": "in the morning",
+     "hi": "सुबह"
+    },
+    {
+     "sa": "अमङ्गलम्",
+     "iast": "amaṅgalam",
+     "en": "inauspicious",
+     "hi": "अमंगल"
+    },
+    {
+     "sa": "सर्वथा",
+     "iast": "sarvathā",
+     "en": "by any means",
+     "hi": "किसी भी तरह"
+    },
+    {
+     "sa": "ईक्षेत न",
+     "iast": "īkṣeta na",
+     "en": "should not look at",
+     "hi": "न देखे"
+    },
+    {
+     "sa": "आदित्यम्",
+     "iast": "ādityam",
+     "en": "the sun",
+     "hi": "सूर्य को"
+    },
+    {
+     "sa": "न भारम्",
+     "iast": "na bhāram",
+     "en": "not a load",
+     "hi": "भार नहीं"
+    },
+    {
+     "sa": "शिरसा",
+     "iast": "śirasā",
+     "en": "on the head",
+     "hi": "सिर पर"
+    },
+    {
+     "sa": "वहेत्",
+     "iast": "vahet",
+     "en": "should carry",
+     "hi": "उठाए"
+    },
+    {
+     "sa": "प्रततम्",
+     "iast": "pratatam",
+     "en": "continuously",
+     "hi": "लगातार"
+    },
+    {
+     "sa": "सूक्ष्मम्",
+     "iast": "sūkṣmam",
+     "en": "minute objects",
+     "hi": "सूक्ष्म वस्तु"
+    },
+    {
+     "sa": "दीप्त",
+     "iast": "dīpta",
+     "en": "glaring (bright)",
+     "hi": "चमकीली"
+    },
+    {
+     "sa": "अमेध्य",
+     "iast": "amedhya",
+     "en": "unclean",
+     "hi": "अपवित्र"
+    },
+    {
+     "sa": "अप्रियाणि",
+     "iast": "apriyāṇi",
+     "en": "unpleasant things",
+     "hi": "अप्रिय वस्तुएँ"
+    }
+   ],
+   "english": "One should not look at an uncleaned mirror, an unadorned woman, a menstruating woman, or anything inauspicious in the morning. One should never look at the sun, never carry a load on the head, and should not look continuously at minute, glaring, unclean or unpleasant objects.",
+   "hindi": "सुबह-सुबह बिना साफ़ किया दर्पण, बिना शृंगार की स्त्री, रजस्वला स्त्री या कोई अमंगल वस्तु न देखे। सूर्य को कभी सीधे न देखे, सिर पर भार न उठाए, और बहुत बारीक, चमकीली, गन्दी या अप्रिय वस्तुओं को लगातार न देखे।",
+   "explanation_en": "In this corpus 2.39 includes an extra half-verse (38+1) about inauspicious sights, which reflects the social beliefs of its time and should be read as historical context. The second part is clinically meaningful: never stare at the sun, avoid continuous fine work and glare (eye protection), and avoid carrying loads on the head.",
+   "explanation_hi": "इस कॉर्पस में 2.39 में अमंगल दृश्यों के बारे में एक अतिरिक्त आधा श्लोक (38+1) भी है, जो उस समय की सामाजिक मान्यताएँ दिखाता है और इसे ऐतिहासिक सन्दर्भ में पढ़ना चाहिए। दूसरा भाग चिकित्सा की दृष्टि से उपयोगी है: सूर्य को सीधे न देखें, लगातार बारीक काम और तेज़ चमक से आँखों को बचाएँ, और सिर पर भार न उठाएँ।",
+   "modern_correlation": {
+    "en": "Looking directly at the sun can cause solar retinopathy, and prolonged near work is associated with eye strain; these broadly parallel the classical cautions.",
+    "hi": "सूर्य को सीधे देखने से सोलर रेटिनोपैथी (रेटिना की क्षति) हो सकती है, और लगातार नज़दीक का काम आँखों पर तनाव से जुड़ा है; ये शास्त्रीय सावधानियों से मोटे तौर पर मिलते हैं।"
+   },
+   "key_terms": [
+    "sadvṛtta",
+    "netra-rakṣā"
+   ],
+   "tags": [
+    "sadvritta",
+    "eye-care"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.2.40",
+   "word_meanings": [
+    {
+     "sa": "मद्य",
+     "iast": "madya",
+     "en": "alcohol",
+     "hi": "मद्य"
+    },
+    {
+     "sa": "विक्रय",
+     "iast": "vikraya",
+     "en": "selling",
+     "hi": "बेचना"
+    },
+    {
+     "sa": "संधान",
+     "iast": "saṃdhāna",
+     "en": "preparing (brewing)",
+     "hi": "बनाना (सन्धान)"
+    },
+    {
+     "sa": "दान",
+     "iast": "dāna",
+     "en": "giving",
+     "hi": "देना"
+    },
+    {
+     "sa": "आदानानि",
+     "iast": "ādānāni",
+     "en": "taking",
+     "hi": "लेना"
+    },
+    {
+     "sa": "न आचरेत्",
+     "iast": "na ācaret",
+     "en": "should not do",
+     "hi": "न करे"
+    },
+    {
+     "sa": "पुरः",
+     "iast": "puraḥ",
+     "en": "from the front",
+     "hi": "सामने से"
+    },
+    {
+     "sa": "वात",
+     "iast": "vāta",
+     "en": "wind",
+     "hi": "हवा"
+    },
+    {
+     "sa": "आतप",
+     "iast": "ātapa",
+     "en": "sun",
+     "hi": "धूप"
+    },
+    {
+     "sa": "रजः",
+     "iast": "rajaḥ",
+     "en": "dust",
+     "hi": "धूल"
+    },
+    {
+     "sa": "तुषार",
+     "iast": "tuṣāra",
+     "en": "frost, dew",
+     "hi": "ओस (पाला)"
+    },
+    {
+     "sa": "परुष",
+     "iast": "paruṣa",
+     "en": "harsh",
+     "hi": "तेज़"
+    },
+    {
+     "sa": "अनिलान्",
+     "iast": "anilān",
+     "en": "winds",
+     "hi": "हवाएँ"
+    }
+   ],
+   "english": "One should not sell, brew, give or take alcohol. [One should avoid] facing head-on wind, sun, dust, frost and harsh winds...",
+   "hindi": "मद्य (शराब) को बेचना, बनाना, देना या लेना नहीं चाहिए। सामने से आती हवा, धूप, धूल, ओस और तेज़ हवाओं से बचना चाहिए...",
+   "explanation_en": "Two themes: avoiding involvement with alcohol, and protecting oneself from harsh environmental exposures. The list of things to avoid (tyajet) continues until verse 44.",
+   "explanation_hi": "दो विषय: मद्य से जुड़े कामों से बचना, और कठोर मौसमी प्रभावों से स्वयं की रक्षा। बचने योग्य चीज़ों (त्यजेत्) की सूची श्लोक 44 तक चलती है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sadvṛtta",
+    "madya"
+   ],
+   "tags": [
+    "sadvritta",
+    "prevention"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.2.41",
+   "word_meanings": [
+    {
+     "sa": "अनृजुः",
+     "iast": "anṛjuḥ",
+     "en": "in a crooked posture",
+     "hi": "टेढ़ा होकर"
+    },
+    {
+     "sa": "क्षवथु",
+     "iast": "kṣavathu",
+     "en": "sneezing",
+     "hi": "छींकना"
+    },
+    {
+     "sa": "उद्गार",
+     "iast": "udgāra",
+     "en": "belching",
+     "hi": "डकार"
+    },
+    {
+     "sa": "कास",
+     "iast": "kāsa",
+     "en": "coughing",
+     "hi": "खाँसना"
+    },
+    {
+     "sa": "स्वप्न",
+     "iast": "svapna",
+     "en": "sleeping",
+     "hi": "सोना"
+    },
+    {
+     "sa": "अन्न",
+     "iast": "anna",
+     "en": "eating",
+     "hi": "खाना"
+    },
+    {
+     "sa": "मैथुनम्",
+     "iast": "maithunam",
+     "en": "intercourse",
+     "hi": "मैथुन"
+    },
+    {
+     "sa": "कूलच्छायाम्",
+     "iast": "kūlacchāyām",
+     "en": "shade of a river-bank",
+     "hi": "नदी-तट की छाया"
+    },
+    {
+     "sa": "नृपद्विष्टम्",
+     "iast": "nṛpadviṣṭam",
+     "en": "one hated by the king",
+     "hi": "राजा से द्वेष रखने वाला"
+    },
+    {
+     "sa": "व्याल",
+     "iast": "vyāla",
+     "en": "wild beasts",
+     "hi": "हिंसक पशु"
+    },
+    {
+     "sa": "दंष्ट्रि",
+     "iast": "daṃṣṭri",
+     "en": "fanged animals",
+     "hi": "दाँत वाले जानवर"
+    },
+    {
+     "sa": "विषाणिनः",
+     "iast": "viṣāṇinaḥ",
+     "en": "horned animals",
+     "hi": "सींग वाले जानवर"
+    }
+   ],
+   "english": "...sneezing, belching, coughing, sleeping, eating and sexual intercourse in a crooked posture; the shade of a (crumbling) river-bank; people disliked by the king; wild beasts, fanged and horned animals...",
+   "hindi": "...टेढ़े बैठकर छींकना, डकारना, खाँसना, सोना, खाना और मैथुन करना; नदी-तट (ढहने वाले किनारे) की छाया; राजा जिससे द्वेष रखे ऐसे लोग; हिंसक, दाँत वाले और सींग वाले पशु...",
+   "explanation_en": "Body posture matters: doing these acts in a twisted posture was thought to disturb vāta. River-bank shade is risky because banks can collapse. The list continues.",
+   "explanation_hi": "शरीर की मुद्रा का महत्व है: इन कामों को टेढ़ी मुद्रा में करने से वात बिगड़ता है, ऐसा माना गया। नदी-तट की छाया खतरनाक है क्योंकि किनारा ढह सकता है। सूची आगे चलती है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sadvṛtta"
+   ],
+   "tags": [
+    "sadvritta",
+    "prevention"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.2.42",
+   "word_meanings": [
+    {
+     "sa": "हीन",
+     "iast": "hīna",
+     "en": "lowly persons",
+     "hi": "नीच लोग"
+    },
+    {
+     "sa": "अनार्य",
+     "iast": "anārya",
+     "en": "ignoble persons",
+     "hi": "अनार्य (दुष्ट)"
+    },
+    {
+     "sa": "अतिनिपुण",
+     "iast": "atinipuṇa",
+     "en": "over-clever (cunning) persons",
+     "hi": "अति चालाक"
+    },
+    {
+     "sa": "सेवाम्",
+     "iast": "sevām",
+     "en": "association",
+     "hi": "संगति"
+    },
+    {
+     "sa": "विग्रहम्",
+     "iast": "vigraham",
+     "en": "quarrel",
+     "hi": "झगड़ा"
+    },
+    {
+     "sa": "उत्तमैः",
+     "iast": "uttamaiḥ",
+     "en": "with superiors",
+     "hi": "श्रेष्ठ लोगों से"
+    },
+    {
+     "sa": "संध्यासु",
+     "iast": "saṃdhyāsu",
+     "en": "at twilight",
+     "hi": "सन्ध्या में"
+    },
+    {
+     "sa": "अभ्यवहार",
+     "iast": "abhyavahāra",
+     "en": "eating",
+     "hi": "भोजन"
+    },
+    {
+     "sa": "स्त्री",
+     "iast": "strī",
+     "en": "intercourse",
+     "hi": "स्त्री-सम्भोग"
+    },
+    {
+     "sa": "स्वप्न",
+     "iast": "svapna",
+     "en": "sleep",
+     "hi": "नींद"
+    },
+    {
+     "sa": "अध्ययन",
+     "iast": "adhyayana",
+     "en": "study",
+     "hi": "अध्ययन"
+    },
+    {
+     "sa": "चिन्तनम्",
+     "iast": "cintanam",
+     "en": "brooding",
+     "hi": "चिन्तन"
+    }
+   ],
+   "english": "...association with lowly, ignoble or cunning persons; quarrels with superiors; and eating, sexual intercourse, sleep, study and brooding at the twilights...",
+   "hindi": "...नीच, दुष्ट और अति चालाक लोगों की संगति; श्रेष्ठ लोगों से झगड़ा; और सन्ध्या के समय भोजन, सम्भोग, नींद, अध्ययन और चिन्ता करना...",
+   "explanation_en": "The twilights (sandhyā, dawn and dusk) are transitional times when certain activities are avoided. Students sometimes get a question on 'sandhyā varjya karma' (acts forbidden at twilight): eating, sex, sleep, study and brooding.",
+   "explanation_hi": "सन्ध्या (सुबह और शाम का संधि-काल) परिवर्तन का समय है, जब कुछ कामों से बचना चाहिए। कभी-कभी 'सन्ध्या में वर्जित कर्म' पूछे जाते हैं: भोजन, सम्भोग, नींद, अध्ययन और चिन्ता।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sadvṛtta",
+    "sandhyā"
+   ],
+   "tags": [
+    "sadvritta"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.2.43",
+   "word_meanings": [
+    {
+     "sa": "शत्रु",
+     "iast": "śatru",
+     "en": "enemy",
+     "hi": "शत्रु"
+    },
+    {
+     "sa": "सत्त्र",
+     "iast": "sattra",
+     "en": "public feeding place",
+     "hi": "सत्र (सामूहिक भोज)"
+    },
+    {
+     "sa": "गण",
+     "iast": "gaṇa",
+     "en": "crowds",
+     "hi": "भीड़"
+    },
+    {
+     "sa": "आकीर्ण",
+     "iast": "ākīrṇa",
+     "en": "crowded",
+     "hi": "भरा हुआ"
+    },
+    {
+     "sa": "गणिका",
+     "iast": "gaṇikā",
+     "en": "courtesan",
+     "hi": "वेश्या"
+    },
+    {
+     "sa": "पणिक",
+     "iast": "paṇika",
+     "en": "shopkeeper",
+     "hi": "दुकानदार"
+    },
+    {
+     "sa": "अशनम्",
+     "iast": "aśanam",
+     "en": "food",
+     "hi": "भोजन"
+    },
+    {
+     "sa": "गात्र",
+     "iast": "gātra",
+     "en": "body",
+     "hi": "शरीर"
+    },
+    {
+     "sa": "वक्त्र",
+     "iast": "vaktra",
+     "en": "mouth",
+     "hi": "मुँह"
+    },
+    {
+     "sa": "नखैः",
+     "iast": "nakhaiḥ",
+     "en": "by nails",
+     "hi": "नाखूनों से"
+    },
+    {
+     "sa": "वाद्यम्",
+     "iast": "vādyam",
+     "en": "making music (drumming)",
+     "hi": "बजाना"
+    },
+    {
+     "sa": "हस्त",
+     "iast": "hasta",
+     "en": "hands",
+     "hi": "हाथ"
+    },
+    {
+     "sa": "केश",
+     "iast": "keśa",
+     "en": "hair",
+     "hi": "बाल"
+    },
+    {
+     "sa": "अवधूननम्",
+     "iast": "avadhūnanam",
+     "en": "shaking",
+     "hi": "झटकना"
+    }
+   ],
+   "english": "...eating food from an enemy, at public feasts, in crowded places, or from courtesans and shopkeepers; drumming with the body, mouth or nails; and shaking the hands or hair...",
+   "hindi": "...शत्रु का, सामूहिक भोज का, भीड़ वाली जगह का, वेश्या या दुकानदार का भोजन; शरीर, मुँह या नाखूनों से बाजा बजाना; और हाथ या बाल झटकना...",
+   "explanation_en": "Food from unknown or hostile sources was avoided for fear of poisoning and contamination, a theme developed in chapter 7 (protection of food). Restless habits like drumming with nails are considered improper conduct.",
+   "explanation_hi": "अनजान या शत्रु स्रोत का भोजन विष और संदूषण के डर से वर्जित था; यह विषय अध्याय 7 (अन्नरक्षा) में विस्तार से है। नाखूनों से बजाना जैसी बेचैन आदतें अनुचित आचरण मानी गई हैं।",
+   "modern_correlation": {
+    "en": "Avoiding food from crowded or unhygienic outlets broadly parallels modern food-safety advice to prevent food-borne illness.",
+    "hi": "भीड़ वाले या अस्वच्छ स्थानों का भोजन न करना आधुनिक खाद्य-सुरक्षा सलाह से मोटे तौर पर मिलता है, जो खाद्य-जनित रोगों से बचाती है।"
+   },
+   "key_terms": [
+    "sadvṛtta"
+   ],
+   "tags": [
+    "sadvritta",
+    "food-safety"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.2.44",
+   "word_meanings": [
+    {
+     "sa": "तोय",
+     "iast": "toya",
+     "en": "water",
+     "hi": "जल"
+    },
+    {
+     "sa": "अग्नि",
+     "iast": "agni",
+     "en": "fire",
+     "hi": "अग्नि"
+    },
+    {
+     "sa": "पूज्य",
+     "iast": "pūjya",
+     "en": "revered persons",
+     "hi": "पूज्य व्यक्ति"
+    },
+    {
+     "sa": "मध्येन",
+     "iast": "madhyena",
+     "en": "through the middle",
+     "hi": "बीच से"
+    },
+    {
+     "sa": "यानम्",
+     "iast": "yānam",
+     "en": "going",
+     "hi": "जाना"
+    },
+    {
+     "sa": "धूमम्",
+     "iast": "dhūmam",
+     "en": "smoke",
+     "hi": "धुआँ"
+    },
+    {
+     "sa": "शवाश्रयम्",
+     "iast": "śavāśrayam",
+     "en": "from a corpse (pyre)",
+     "hi": "शव (चिता) से"
+    },
+    {
+     "sa": "मद्य",
+     "iast": "madya",
+     "en": "alcohol",
+     "hi": "मद्य"
+    },
+    {
+     "sa": "अतिसक्तिम्",
+     "iast": "atisaktim",
+     "en": "excessive attachment",
+     "hi": "अधिक आसक्ति"
+    },
+    {
+     "sa": "विश्रम्भ",
+     "iast": "viśrambha",
+     "en": "complete trust",
+     "hi": "पूर्ण विश्वास"
+    },
+    {
+     "sa": "स्वातन्त्र्ये",
+     "iast": "svātantrye",
+     "en": "independence",
+     "hi": "स्वतन्त्रता"
+    },
+    {
+     "sa": "स्त्रीषु",
+     "iast": "strīṣu",
+     "en": "in women",
+     "hi": "स्त्रियों में"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "त्यजेत्",
+     "iast": "tyajet",
+     "en": "should avoid",
+     "hi": "त्याग दे"
+    }
+   ],
+   "english": "...passing between water and fire or between revered persons; smoke from a funeral pyre; excessive attachment to alcohol; and complete confidence in or freedom given to women: these should be avoided.",
+   "hindi": "...पानी और आग के बीच से या पूज्य लोगों के बीच से गुज़रना; चिता का धुआँ; मद्य में अधिक आसक्ति; और स्त्रियों पर पूर्ण विश्वास करना या उन्हें पूरी स्वतन्त्रता देना: इन सबका त्याग करे।",
+   "explanation_en": "The list of things to avoid ends here. The last item reflects the social views of the classical period and is not a medical principle; students should read it as historical context. Avoiding pyre smoke and alcohol addiction are health-relevant points.",
+   "explanation_hi": "बचने योग्य चीज़ों की सूची यहाँ समाप्त होती है। अंतिम बात प्राचीन काल के सामाजिक विचारों को दर्शाती है, यह चिकित्सा सिद्धान्त नहीं है; इसे ऐतिहासिक सन्दर्भ में पढ़ें। चिता के धुएँ और मद्य की लत से बचना स्वास्थ्य से जुड़ी बातें हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sadvṛtta",
+    "madya"
+   ],
+   "tags": [
+    "sadvritta"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.2.45",
+   "word_meanings": [
+    {
+     "sa": "आचार्यः",
+     "iast": "ācāryaḥ",
+     "en": "teacher",
+     "hi": "आचार्य"
+    },
+    {
+     "sa": "सर्वचेष्टासु",
+     "iast": "sarvaceṣṭāsu",
+     "en": "in all activities",
+     "hi": "सब कर्मों में"
+    },
+    {
+     "sa": "लोकः",
+     "iast": "lokaḥ",
+     "en": "the world (people)",
+     "hi": "लोक (समाज)"
+    },
+    {
+     "sa": "एव हि",
+     "iast": "eva hi",
+     "en": "indeed",
+     "hi": "ही"
+    },
+    {
+     "sa": "धीमतः",
+     "iast": "dhīmataḥ",
+     "en": "of a wise person",
+     "hi": "बुद्धिमान का"
+    },
+    {
+     "sa": "अनुकुर्यात्",
+     "iast": "anukuryāt",
+     "en": "should imitate",
+     "hi": "अनुसरण करे"
+    },
+    {
+     "sa": "तम्",
+     "iast": "tam",
+     "en": "it",
+     "hi": "उसका"
+    },
+    {
+     "sa": "एव",
+     "iast": "eva",
+     "en": "only",
+     "hi": "ही"
+    },
+    {
+     "sa": "अतः",
+     "iast": "ataḥ",
+     "en": "therefore",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "लौकिके",
+     "iast": "laukike",
+     "en": "in worldly",
+     "hi": "सांसारिक"
+    },
+    {
+     "sa": "अर्थे",
+     "iast": "arthe",
+     "en": "matters",
+     "hi": "विषयों में"
+    },
+    {
+     "sa": "परीक्षकः",
+     "iast": "parīkṣakaḥ",
+     "en": "one who examines",
+     "hi": "परीक्षा करने वाला"
+    }
+   ],
+   "english": "For a wise person, the world itself is the teacher in all activities. Therefore, examining carefully, one should follow the world's example in worldly matters.",
+   "hindi": "बुद्धिमान व्यक्ति के लिए सब कामों में संसार (लोक) ही आचार्य है। इसलिए सोच-समझकर सांसारिक विषयों में लोक-व्यवहार का अनुसरण करना चाहिए।",
+   "explanation_en": "Since no text can list every rule, Vāgbhaṭa asks the reader to learn from the conduct of good people, using judgement (parīkṣaka). This is an important methodological statement: observation of society completes the written rules.",
+   "explanation_hi": "कोई भी ग्रन्थ हर नियम नहीं बता सकता, इसलिए वाग्भट कहते हैं कि अच्छे लोगों के व्यवहार से सीखें, पर विवेक के साथ (परीक्षक बनकर)। यह एक महत्वपूर्ण पद्धतिगत कथन है: समाज का अवलोकन लिखित नियमों को पूरा करता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sadvṛtta",
+    "loka"
+   ],
+   "tags": [
+    "sadvritta"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.2.46",
+   "word_meanings": [
+    {
+     "sa": "आर्द्रसंतानता",
+     "iast": "ārdrasaṃtānatā",
+     "en": "compassionate disposition",
+     "hi": "करुणा से भरा स्वभाव"
+    },
+    {
+     "sa": "त्यागः",
+     "iast": "tyāgaḥ",
+     "en": "generosity",
+     "hi": "त्याग (दान)"
+    },
+    {
+     "sa": "काय",
+     "iast": "kāya",
+     "en": "body",
+     "hi": "शरीर"
+    },
+    {
+     "sa": "वाक्",
+     "iast": "vāk",
+     "en": "speech",
+     "hi": "वाणी"
+    },
+    {
+     "sa": "चेतसाम्",
+     "iast": "cetasām",
+     "en": "of mind",
+     "hi": "मन का"
+    },
+    {
+     "sa": "दमः",
+     "iast": "damaḥ",
+     "en": "control",
+     "hi": "दम (संयम)"
+    },
+    {
+     "sa": "स्वार्थबुद्धिः",
+     "iast": "svārthabuddhiḥ",
+     "en": "regarding as one's own interest",
+     "hi": "अपने हित जैसी बुद्धि"
+    },
+    {
+     "sa": "परार्थेषु",
+     "iast": "parārtheṣu",
+     "en": "in others' interests",
+     "hi": "दूसरों के हित में"
+    },
+    {
+     "sa": "पर्याप्तम्",
+     "iast": "paryāptam",
+     "en": "sufficient",
+     "hi": "पर्याप्त"
+    },
+    {
+     "sa": "इति",
+     "iast": "iti",
+     "en": "thus",
+     "hi": "यह"
+    },
+    {
+     "sa": "सद्व्रतम्",
+     "iast": "sadvratam",
+     "en": "good conduct",
+     "hi": "सद्व्रत (सद्वृत्त)"
+    }
+   ],
+   "english": "A compassionate disposition, generosity, control of body, speech and mind, and regarding others' interests as one's own: this is sufficient as good conduct (sadvṛtta).",
+   "hindi": "करुणामय स्वभाव, त्याग (दान), शरीर, वाणी और मन का संयम, और दूसरों के हित को अपना हित समझना: बस इतना ही सद्वृत्त के लिए पर्याप्त है।",
+   "explanation_en": "This verse is a one-line summary of all sadvṛtta: compassion, generosity, self-control and altruism. It is a good verse to quote in essay answers on sadvṛtta.",
+   "explanation_hi": "यह श्लोक पूरे सद्वृत्त का एक पंक्ति में सार है: करुणा, दान, संयम और परोपकार। सद्वृत्त पर निबन्ध प्रश्नों में इसे उद्धृत करना अच्छा रहता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sadvṛtta",
+    "dama",
+    "tyāga"
+   ],
+   "tags": [
+    "sadvritta",
+    "ethics"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.2.47",
+   "word_meanings": [
+    {
+     "sa": "नक्तन्दिनानि",
+     "iast": "naktandināni",
+     "en": "nights and days",
+     "hi": "रात और दिन"
+    },
+    {
+     "sa": "मे",
+     "iast": "me",
+     "en": "my",
+     "hi": "मेरे"
+    },
+    {
+     "sa": "यान्ति",
+     "iast": "yānti",
+     "en": "pass",
+     "hi": "बीत रहे हैं"
+    },
+    {
+     "sa": "कथम्भूतस्य",
+     "iast": "kathambhūtasya",
+     "en": "of me being of what kind",
+     "hi": "मैं किस प्रकार का होकर"
+    },
+    {
+     "sa": "संप्रति",
+     "iast": "saṃprati",
+     "en": "now",
+     "hi": "अभी"
+    },
+    {
+     "sa": "दुःखभाक्",
+     "iast": "duḥkhabhāk",
+     "en": "one who suffers",
+     "hi": "दुःख भोगने वाला"
+    },
+    {
+     "sa": "न भवति",
+     "iast": "na bhavati",
+     "en": "does not become",
+     "hi": "नहीं होता"
+    },
+    {
+     "sa": "एवम्",
+     "iast": "evam",
+     "en": "thus",
+     "hi": "इस प्रकार"
+    },
+    {
+     "sa": "नित्यम्",
+     "iast": "nityam",
+     "en": "always",
+     "hi": "सदा"
+    },
+    {
+     "sa": "संनिहितस्मृतिः",
+     "iast": "saṃnihitasmṛtiḥ",
+     "en": "with ever-present awareness",
+     "hi": "सदा सजग स्मृति वाला"
+    }
+   ],
+   "english": "'How are my days and nights passing now, and what kind of person am I becoming?' One who constantly keeps this awareness in mind does not come to suffering.",
+   "hindi": "'मेरे दिन और रात इस समय कैसे बीत रहे हैं, और मैं कैसा बन रहा हूँ?' जो व्यक्ति सदा इस तरह सजग रहता है, वह दुःख नहीं भोगता।",
+   "explanation_en": "Daily self-reflection (ātma-nirīkṣaṇa) is recommended as a safeguard against both disease and wrong conduct. This idea of mindful self-review links back to dhī, dhairya and ātma-vijñāna as remedies for mental doṣas (ch. 1.26).",
+   "explanation_hi": "रोज़ आत्म-निरीक्षण को रोग और गलत आचरण दोनों से बचाव के रूप में बताया गया है। यह सजग आत्म-समीक्षा अध्याय 1.26 में बताए गए धी, धैर्य और आत्मविज्ञान (मानस दोष की औषधि) से जुड़ती है।",
+   "modern_correlation": {
+    "en": "Regular self-reflection and mindfulness practices are studied in modern psychology for benefits on stress and wellbeing.",
+    "hi": "नियमित आत्म-चिन्तन और माइंडफुलनेस अभ्यासों का आधुनिक मनोविज्ञान में तनाव और कल्याण पर लाभ के लिए अध्ययन किया जाता है।"
+   },
+   "key_terms": [
+    "smṛti",
+    "ātma-nirīkṣaṇa",
+    "sadvṛtta"
+   ],
+   "tags": [
+    "sadvritta",
+    "mental-health"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.2.48",
+   "word_meanings": [
+    {
+     "sa": "एवम्",
+     "iast": "evam",
+     "en": "thus",
+     "hi": "इस प्रकार"
+    },
+    {
+     "sa": "कृत्स्नदिनम्",
+     "iast": "kṛtsnadinam",
+     "en": "the whole day",
+     "hi": "पूरा दिन"
+    },
+    {
+     "sa": "नीत्वा",
+     "iast": "nītvā",
+     "en": "having spent",
+     "hi": "बिताकर"
+    },
+    {
+     "sa": "रात्रौ",
+     "iast": "rātrau",
+     "en": "at night",
+     "hi": "रात में"
+    },
+    {
+     "sa": "यामे गते",
+     "iast": "yāme gate",
+     "en": "when a watch (3 hours) has passed",
+     "hi": "एक प्रहर बीतने पर"
+    },
+    {
+     "sa": "गृहे",
+     "iast": "gṛhe",
+     "en": "at home",
+     "hi": "घर में"
+    },
+    {
+     "sa": "देवान्",
+     "iast": "devān",
+     "en": "gods",
+     "hi": "देवताओं"
+    },
+    {
+     "sa": "ऋषीन्",
+     "iast": "ṛṣīn",
+     "en": "sages",
+     "hi": "ऋषियों"
+    },
+    {
+     "sa": "गुरून्",
+     "iast": "gurūn",
+     "en": "teachers",
+     "hi": "गुरुओं को"
+    },
+    {
+     "sa": "स्मृत्वा",
+     "iast": "smṛtvā",
+     "en": "having remembered",
+     "hi": "स्मरण करके"
+    },
+    {
+     "sa": "ततः",
+     "iast": "tataḥ",
+     "en": "then",
+     "hi": "फिर"
+    },
+    {
+     "sa": "शयनम्",
+     "iast": "śayanam",
+     "en": "sleep",
+     "hi": "शयन"
+    },
+    {
+     "sa": "आचरेत्",
+     "iast": "ācaret",
+     "en": "should go to",
+     "hi": "करे"
+    },
+    {
+     "sa": "इति",
+     "iast": "iti",
+     "en": "thus",
+     "hi": "इस प्रकार"
+    },
+    {
+     "sa": "आचारः",
+     "iast": "ācāraḥ",
+     "en": "conduct",
+     "hi": "आचार"
+    },
+    {
+     "sa": "समासेन",
+     "iast": "samāsena",
+     "en": "in brief",
+     "hi": "संक्षेप में"
+    },
+    {
+     "sa": "यम्",
+     "iast": "yam",
+     "en": "which",
+     "hi": "जिसे"
+    },
+    {
+     "sa": "प्राप्नोति",
+     "iast": "prāpnoti",
+     "en": "attains",
+     "hi": "प्राप्त करता है"
+    },
+    {
+     "sa": "समाचरन्",
+     "iast": "samācaran",
+     "en": "practising",
+     "hi": "पालन करते हुए"
+    },
+    {
+     "sa": "आयुः",
+     "iast": "āyuḥ",
+     "en": "long life",
+     "hi": "आयु"
+    },
+    {
+     "sa": "आरोग्यम्",
+     "iast": "ārogyam",
+     "en": "health",
+     "hi": "आरोग्य"
+    },
+    {
+     "sa": "ऐश्वर्यम्",
+     "iast": "aiśvaryam",
+     "en": "prosperity",
+     "hi": "ऐश्वर्य"
+    },
+    {
+     "sa": "यशः",
+     "iast": "yaśaḥ",
+     "en": "fame",
+     "hi": "यश"
+    },
+    {
+     "sa": "लोकान्",
+     "iast": "lokān",
+     "en": "worlds",
+     "hi": "लोक"
+    },
+    {
+     "sa": "शाश्वतान्",
+     "iast": "śāśvatān",
+     "en": "eternal",
+     "hi": "शाश्वत"
+    }
+   ],
+   "english": "Having spent the whole day thus, when the first watch of the night has passed, one should remember the gods, sages and teachers at home and then go to sleep. Thus, in brief, is the code of conduct; by practising it one attains long life, health, prosperity, fame and the eternal worlds.",
+   "hindi": "इस प्रकार पूरा दिन बिताकर, रात का पहला प्रहर (लगभग तीन घंटे) बीतने पर घर में देवताओं, ऋषियों और गुरुओं का स्मरण करके सोना चाहिए। यह संक्षेप में आचार (दिनचर्या और सद्वृत्त) है; इसका पालन करने वाला आयु, आरोग्य, ऐश्वर्य, यश और शाश्वत लोक प्राप्त करता है।",
+   "explanation_en": "In this corpus 2.48 includes an extra half-verse (47+1) about bedtime. Sleeping after the first yāma (about three hours after nightfall) fits with rising at brāhma muhūrta, giving roughly 6-7 hours of sleep. The phala-śruti (statement of results) closes the chapter.",
+   "explanation_hi": "इस कॉर्पस में 2.48 में सोने के समय के बारे में अतिरिक्त आधा श्लोक (47+1) भी है। रात के पहले याम (सूर्यास्त के लगभग तीन घंटे बाद) के बाद सोना ब्राह्म मुहूर्त में उठने से मेल खाता है, जिससे लगभग 6-7 घंटे की नींद मिलती है। फलश्रुति (परिणाम-कथन) के साथ अध्याय समाप्त होता है।",
+   "modern_correlation": {
+    "en": "A regular bedtime and wind-down routine is part of modern sleep-hygiene recommendations.",
+    "hi": "सोने का नियमित समय और सोने से पहले मन शान्त करने की आदत आधुनिक 'स्लीप हाइजीन' की सलाह का हिस्सा है।"
+   },
+   "key_terms": [
+    "dinacaryā",
+    "yāma",
+    "ācāra",
+    "sadvṛtta"
+   ],
+   "tags": [
+    "dinacharya",
+    "sleep",
+    "sadvritta"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  }
+ ]
+}

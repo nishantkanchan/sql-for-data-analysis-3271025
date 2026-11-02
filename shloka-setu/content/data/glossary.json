@@ -1,0 +1,2330 @@
+{
+  "terms": [
+    {
+      "id": "ayurveda",
+      "devanagari": "आयुर्वेद",
+      "iast": "āyurveda",
+      "simple": "Ayurveda",
+      "en": "The 'knowledge (veda) of life (āyus)'. Caraka defines it as the science that describes wholesome and unwholesome, happy and unhappy life, what is good and bad for life, its measure, and life itself.",
+      "hi": "आयुर्वेद - 'आयु का ज्ञान'; हित-अहित, सुख-दुःख आयु तथा आयु के लिए हितकर-अहितकर का वर्णन करने वाला शास्त्र।",
+      "modern": "",
+      "category": "siddhanta",
+      "source_refs": [
+        "CS.sutra.1.41"
+      ],
+      "related": [
+        "ayu",
+        "ashtanga-ayurveda",
+        "svastha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "ayu",
+      "devanagari": "आयु",
+      "iast": "āyus",
+      "simple": "Ayu",
+      "en": "Life: the conjunction (saṃyoga) of body (śarīra), senses (indriya), mind (sattva) and soul (ātmā). Synonyms given by Caraka: dhāri, jīvita, nityaga, anubandha.",
+      "hi": "आयु - शरीर, इन्द्रिय, सत्त्व (मन) और आत्मा का संयोग; पर्याय: धारि, जीवित, नित्यग, अनुबन्ध।",
+      "modern": "",
+      "category": "siddhanta",
+      "source_refs": [
+        "CS.sutra.1.42"
+      ],
+      "related": [
+        "ayurveda",
+        "sharira",
+        "indriya",
+        "manas",
+        "atma"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "svastha",
+      "devanagari": "स्वस्थ",
+      "iast": "svastha",
+      "simple": "Swastha",
+      "en": "A healthy person; literally 'established in one's own self'. Suśruta's definition requires balanced doṣas, agni, dhātus and malas, with a pleased soul, senses and mind.",
+      "hi": "स्वस्थ - 'स्व में स्थित'; जिसके दोष, अग्नि, धातु, मल सम हों और आत्मा, इन्द्रिय व मन प्रसन्न हों।",
+      "modern": "Broadly parallels the WHO idea of health as physical, mental and social well-being, not just absence of disease.",
+      "category": "siddhanta",
+      "source_refs": [
+        "SS.sutra.15"
+      ],
+      "related": [
+        "swasthavritta",
+        "dosha-samya",
+        "agni",
+        "dhatu",
+        "mala"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "dosha",
+      "devanagari": "दोष",
+      "iast": "doṣa",
+      "simple": "Dosha",
+      "en": "The three functional principles of the body (vāta, pitta, kapha); literally 'that which vitiates'. In balance they sustain the body, when vitiated they cause disease. Rajas and tamas are the two doṣas of the mind.",
+      "hi": "दोष - शरीर के तीन क्रियात्मक तत्त्व (वात, पित्त, कफ); सम अवस्था में शरीर को धारण करते हैं, विकृत होकर रोग उत्पन्न करते हैं।",
+      "modern": "Often compared to regulatory systems: vāta ~ neural/kinetic, pitta ~ metabolic/enzymatic, kapha ~ structural/anabolic. These are teaching analogies, not identities.",
+      "category": "siddhanta",
+      "source_refs": [
+        "AH.sutra.1.6",
+        "AH.sutra.1.7",
+        "CS.sutra.1.57"
+      ],
+      "related": [
+        "vata",
+        "pitta",
+        "kapha",
+        "tridosha",
+        "manasa-dosha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "tridosha",
+      "devanagari": "त्रिदोष",
+      "iast": "tridoṣa",
+      "simple": "Tridosha",
+      "en": "The doctrine of the three doṣas (vāta, pitta, kapha) that together govern all bodily functions; their balance (sāmya) is health and imbalance (vaiṣamya) is disease.",
+      "hi": "त्रिदोष सिद्धान्त - वात, पित्त, कफ तीनों दोष; इनकी समता आरोग्य और विषमता रोग है।",
+      "modern": "",
+      "category": "siddhanta",
+      "source_refs": [
+        "AH.sutra.1.6",
+        "AH.sutra.1.20"
+      ],
+      "related": [
+        "dosha",
+        "vata",
+        "pitta",
+        "kapha",
+        "dosha-samya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "vata",
+      "devanagari": "वात",
+      "iast": "vāta",
+      "simple": "Vata",
+      "en": "The doṣa of movement, from the root 'vā' (to move). Qualities: rūkṣa, laghu, śīta, khara, sūkṣma, cala. Chief seat is the pakvāśaya (colon); it is the leader of the other doṣas. Also called vāyu, anila, māruta, pavana.",
+      "hi": "वात - गति का दोष ('वा' = गति); गुण: रूक्ष, लघु, शीत, खर, सूक्ष्म, चल; मुख्य स्थान पक्वाशय।",
+      "modern": "Often compared to neural, neuromuscular and transport functions (movement, impulse conduction, elimination).",
+      "category": "siddhanta",
+      "source_refs": [
+        "AH.sutra.1.11",
+        "AH.sutra.12.1",
+        "AH.sutra.11.1"
+      ],
+      "related": [
+        "dosha",
+        "prana-vayu",
+        "udana-vayu",
+        "vyana-vayu",
+        "samana-vayu",
+        "apana-vayu"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "pitta",
+      "devanagari": "पित्त",
+      "iast": "pitta",
+      "simple": "Pitta",
+      "en": "The doṣa of transformation and heat, from 'tap' (to heat). Qualities: slightly unctuous, tīkṣṇa, uṣṇa, laghu, visra (fleshy smell), sara, drava. Chief seat is the nābhi region (between stomach and intestine).",
+      "hi": "पित्त - पाचन व ऊष्मा का दोष ('तप्' = तपाना); गुण: सस्नेह, तीक्ष्ण, उष्ण, लघु, विस्र, सर, द्रव; मुख्य स्थान नाभि।",
+      "modern": "Often compared to metabolic, enzymatic and thermoregulatory functions.",
+      "category": "siddhanta",
+      "source_refs": [
+        "AH.sutra.1.11",
+        "AH.sutra.12.2",
+        "AH.sutra.11.2"
+      ],
+      "related": [
+        "dosha",
+        "pachaka-pitta",
+        "ranjaka-pitta",
+        "sadhaka-pitta",
+        "alochaka-pitta",
+        "bhrajaka-pitta"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "kapha",
+      "devanagari": "कफ",
+      "iast": "kapha",
+      "simple": "Kapha",
+      "en": "The doṣa of cohesion, stability and lubrication; also called śleṣman ('that which binds'). Qualities: snigdha, śīta, guru, manda, ślakṣṇa, mṛtsna (slimy), sthira. Chief seat is the uras (chest).",
+      "hi": "कफ (श्लेष्मा) - बाँधने, स्थिरता और स्नेहन का दोष; गुण: स्निग्ध, शीत, गुरु, मन्द, श्लक्ष्ण, मृत्स्न, स्थिर; मुख्य स्थान उरस्।",
+      "modern": "Often compared to structural, anabolic, lubricating and immune-protective functions.",
+      "category": "siddhanta",
+      "source_refs": [
+        "AH.sutra.1.12",
+        "AH.sutra.12.3",
+        "AH.sutra.11.3"
+      ],
+      "related": [
+        "dosha",
+        "avalambaka-kapha",
+        "kledaka-kapha",
+        "bodhaka-kapha",
+        "tarpaka-kapha",
+        "shleshaka-kapha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "manasa-dosha",
+      "devanagari": "मानस दोष",
+      "iast": "mānasa doṣa",
+      "simple": "Manasa Dosha",
+      "en": "The two doṣas of the mind: rajas and tamas. Sattva is the pure quality of mind and is not counted as a doṣa.",
+      "hi": "मानस दोष - मन के दो दोष: रज और तम; सत्त्व शुद्ध गुण है, दोष नहीं।",
+      "modern": "",
+      "category": "siddhanta",
+      "source_refs": [
+        "AH.sutra.1.21",
+        "CS.sutra.1.57"
+      ],
+      "related": [
+        "rajas",
+        "tamas",
+        "sattva-guna",
+        "manas"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "dosha-samya",
+      "devanagari": "दोषसाम्य",
+      "iast": "doṣasāmya",
+      "simple": "Dosha Samya",
+      "en": "Balance of the doṣas, which is health (ārogya). Its opposite, doṣa-vaiṣamya, is disease.",
+      "hi": "दोषसाम्य - दोषों की समता = आरोग्य; दोषवैषम्य = रोग।",
+      "modern": "Comparable to the idea of homeostasis.",
+      "category": "siddhanta",
+      "source_refs": [
+        "AH.sutra.1.20"
+      ],
+      "related": [
+        "dosha-vaishamya",
+        "tridosha",
+        "dhatusamya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "dosha-vaishamya",
+      "devanagari": "दोषवैषम्य",
+      "iast": "doṣavaiṣamya",
+      "simple": "Dosha Vaishamya",
+      "en": "Imbalance of the doṣas (increase or decrease), which is defined as disease (roga).",
+      "hi": "दोषवैषम्य - दोषों की विषमता (वृद्धि या क्षय) = रोग।",
+      "modern": "",
+      "category": "siddhanta",
+      "source_refs": [
+        "AH.sutra.1.20"
+      ],
+      "related": [
+        "dosha-samya",
+        "roga",
+        "vriddhi",
+        "kshaya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "dhatusamya",
+      "devanagari": "धातुसाम्य",
+      "iast": "dhātusāmya",
+      "simple": "Dhatu Samya",
+      "en": "Equilibrium of the dhātus (here meaning all body constituents, including doṣas). Caraka states that establishing dhātusāmya is the purpose of this science.",
+      "hi": "धातुसाम्य - शरीर के घटकों की समता; चरक के अनुसार इसकी स्थापना आयुर्वेद का प्रयोजन है।",
+      "modern": "Comparable to homeostasis.",
+      "category": "siddhanta",
+      "source_refs": [
+        "CS.sutra.1"
+      ],
+      "related": [
+        "dosha-samya",
+        "dhatu",
+        "chikitsa"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "vriddhi",
+      "devanagari": "वृद्धि",
+      "iast": "vṛddhi",
+      "simple": "Vriddhi",
+      "en": "Increase of a doṣa, dhātu or mala above its normal measure. Caused by similar (sāmānya) substances and qualities.",
+      "hi": "वृद्धि - दोष, धातु या मल का सामान्य से अधिक बढ़ना; समान गुणों से होती है।",
+      "modern": "",
+      "category": "siddhanta",
+      "source_refs": [
+        "AH.sutra.1.14",
+        "AH.sutra.11"
+      ],
+      "related": [
+        "kshaya",
+        "samanya",
+        "dosha-vaishamya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "kshaya",
+      "devanagari": "क्षय",
+      "iast": "kṣaya",
+      "simple": "Kshaya",
+      "en": "Decrease or depletion of a doṣa, dhātu or mala below its normal measure. Caused by opposite (viśeṣa) substances and qualities.",
+      "hi": "क्षय - दोष, धातु या मल का सामान्य से कम होना; विपरीत गुणों से होता है।",
+      "modern": "",
+      "category": "siddhanta",
+      "source_refs": [
+        "AH.sutra.1.14",
+        "AH.sutra.11"
+      ],
+      "related": [
+        "vriddhi",
+        "vishesha",
+        "dosha-vaishamya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "panchamahabhuta",
+      "devanagari": "पञ्चमहाभूत",
+      "iast": "pañcamahābhūta",
+      "simple": "Panchamahabhuta",
+      "en": "The five great elements: pṛthvī (earth), ap/jala (water), tejas/agni (fire), vāyu (air) and ākāśa (space). Every substance, including the body and drugs, is made of them.",
+      "hi": "पञ्चमहाभूत - पृथ्वी, जल, तेज (अग्नि), वायु और आकाश; शरीर और सभी द्रव्य इन्हीं से बने हैं।",
+      "modern": "Not chemical elements; better understood as five classes of physical properties (solidity, fluidity, heat, motion, space).",
+      "category": "siddhanta",
+      "source_refs": [
+        "AH.sutra.9.1",
+        "AH.sutra.9.2",
+        "CS.sutra.26.10"
+      ],
+      "related": [
+        "prithvi",
+        "jala",
+        "tejas",
+        "vayu-mahabhuta",
+        "akasha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "prithvi",
+      "devanagari": "पृथ्वी",
+      "iast": "pṛthvī",
+      "simple": "Prithvi",
+      "en": "The earth element. Predominant qualities: guru, sthūla, sthira, khara (rough), gandha (smell). Produces heaviness, stability, compactness and growth.",
+      "hi": "पृथ्वी महाभूत - गुरु, स्थूल, स्थिर, गन्ध गुण वाला; भारीपन, स्थिरता और उपचय करता है।",
+      "modern": "",
+      "category": "siddhanta",
+      "source_refs": [
+        "AH.sutra.9.5",
+        "AH.sutra.9.6"
+      ],
+      "related": [
+        "panchamahabhuta",
+        "gandha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "jala",
+      "devanagari": "जल",
+      "iast": "jala (ap)",
+      "simple": "Jala / Ap",
+      "en": "The water element (ap). Predominant qualities: drava, śīta, guru, snigdha, manda, sāndra, rasa (taste). Produces moistening, cohesion, oozing and pleasure.",
+      "hi": "जल (अप्) महाभूत - द्रव, शीत, गुरु, स्निग्ध गुण वाला; स्नेहन, क्लेद और बन्धन करता है।",
+      "modern": "",
+      "category": "siddhanta",
+      "source_refs": [
+        "AH.sutra.9.6",
+        "AH.sutra.9.7"
+      ],
+      "related": [
+        "panchamahabhuta",
+        "rasa-taste"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "tejas",
+      "devanagari": "तेजस्",
+      "iast": "tejas (agni)",
+      "simple": "Tejas / Agni Mahabhuta",
+      "en": "The fire element. Predominant qualities: rūkṣa, tīkṣṇa, uṣṇa, viśada, sūkṣma, rūpa (form/colour). Produces burning, lustre, colour and digestion.",
+      "hi": "तेज (अग्नि) महाभूत - रूक्ष, तीक्ष्ण, उष्ण, रूप गुण वाला; दाह, प्रभा, वर्ण और पाचन करता है।",
+      "modern": "",
+      "category": "siddhanta",
+      "source_refs": [
+        "AH.sutra.9.7",
+        "AH.sutra.9.8"
+      ],
+      "related": [
+        "panchamahabhuta",
+        "agni"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "vayu-mahabhuta",
+      "devanagari": "वायु महाभूत",
+      "iast": "vāyu",
+      "simple": "Vayu Mahabhuta",
+      "en": "The air element. Predominant qualities: rūkṣa, viśada, laghu, sparśa (touch). Produces dryness, lightness, clarity and movement. Distinct from vāta doṣa, though vāta is mainly made of vāyu and ākāśa.",
+      "hi": "वायु महाभूत - रूक्ष, विशद, लघु, स्पर्श गुण वाला; रूक्षता, लघुता और गति करता है। (वात दोष से भिन्न)",
+      "modern": "",
+      "category": "siddhanta",
+      "source_refs": [
+        "AH.sutra.9.8",
+        "AH.sutra.9.9"
+      ],
+      "related": [
+        "panchamahabhuta",
+        "vata"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "akasha",
+      "devanagari": "आकाश",
+      "iast": "ākāśa",
+      "simple": "Akasha",
+      "en": "The space element. Predominant qualities: sūkṣma, viśada, laghu, śabda (sound). Produces porosity (sauṣirya) and lightness.",
+      "hi": "आकाश महाभूत - सूक्ष्म, विशद, लघु, शब्द गुण वाला; शरीर में छिद्र (सौषिर्य) और लघुता करता है।",
+      "modern": "",
+      "category": "siddhanta",
+      "source_refs": [
+        "AH.sutra.9.9",
+        "AH.sutra.9.10"
+      ],
+      "related": [
+        "panchamahabhuta"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "loka-purusha-samya",
+      "devanagari": "लोकपुरुषसाम्य",
+      "iast": "lokapuruṣasāmya",
+      "simple": "Loka Purusha Samya",
+      "en": "The principle that the individual (puruṣa) is a miniature of the universe (loka): whatever exists in the universe exists in the person. Caraka explains it in Śārīrasthāna 5.",
+      "hi": "लोकपुरुषसाम्य - लोक (ब्रह्माण्ड) और पुरुष (मनुष्य) की समानता; जो ब्रह्माण्ड में है वही शरीर में है।",
+      "modern": "",
+      "category": "siddhanta",
+      "source_refs": [
+        "CS.sharira.5"
+      ],
+      "related": [
+        "panchamahabhuta",
+        "purusha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "purusha",
+      "devanagari": "पुरुष",
+      "iast": "puruṣa",
+      "simple": "Purusha",
+      "en": "The person as the object of treatment. Caraka describes the 'ṣaḍdhātuka puruṣa' (five mahābhūtas plus consciousness) and the 'cikitsā puruṣa'. In Sāṃkhya, puruṣa means pure consciousness.",
+      "hi": "पुरुष - चिकित्सा का आधार व्यक्ति; षड्धातुक पुरुष (पञ्चमहाभूत + चेतना)। सांख्य में पुरुष = शुद्ध चेतना।",
+      "modern": "",
+      "category": "siddhanta",
+      "source_refs": [
+        "CS.sharira.1"
+      ],
+      "related": [
+        "loka-purusha-samya",
+        "atma",
+        "panchamahabhuta"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "tridanda",
+      "devanagari": "त्रिदण्ड",
+      "iast": "tridaṇḍa",
+      "simple": "Tridanda",
+      "en": "'Tripod': mind (sattva), soul (ātmā) and body (śarīra) together support life like the three legs of a stand; the world is sustained by their union.",
+      "hi": "त्रिदण्ड - सत्त्व, आत्मा और शरीर; ये तीनों तिपाई की तरह मिलकर जीवन को धारण करते हैं।",
+      "modern": "Comparable to the biopsychosocial model's insistence on mind-body unity.",
+      "category": "siddhanta",
+      "source_refs": [
+        "CS.sutra.1.46"
+      ],
+      "related": [
+        "manas",
+        "atma",
+        "sharira",
+        "ayu"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "roga",
+      "devanagari": "रोग",
+      "iast": "roga",
+      "simple": "Roga",
+      "en": "Disease, defined as doṣa imbalance. AH.nidana.1.1 gives synonyms: pāpmā, jvara, vyādhi, vikāra, duḥkha, āmaya, yakṣmā, ātaṅka, gada, ābādha.",
+      "hi": "रोग - दोषों की विषमता; पर्याय: व्याधि, विकार, दुःख, आमय, गद, आतंक आदि।",
+      "modern": "",
+      "category": "siddhanta",
+      "source_refs": [
+        "AH.sutra.1.20",
+        "AH.nidana.1.1"
+      ],
+      "related": [
+        "dosha-vaishamya",
+        "vyadhi",
+        "nija-roga",
+        "agantuja-roga"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "triskandha",
+      "devanagari": "त्रिस्कन्ध",
+      "iast": "triskandha",
+      "simple": "Triskandha",
+      "en": "The 'three pillars' of Āyurveda: hetu (cause), liṅga (signs and symptoms) and auṣadha (treatment) - for both the healthy and the sick.",
+      "hi": "त्रिस्कन्ध - आयुर्वेद के तीन स्तम्भ: हेतु, लिङ्ग और औषध।",
+      "modern": "",
+      "category": "siddhanta",
+      "source_refs": [
+        "CS.sutra.1"
+      ],
+      "related": [
+        "trisutra",
+        "hetu",
+        "chikitsa"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "trisutra",
+      "devanagari": "त्रिसूत्र",
+      "iast": "trisūtra",
+      "simple": "Trisutra",
+      "en": "Same three-part summary as triskandha (hetu, liṅga, auṣadha), so called because Āyurveda is said to be strung on these three threads.",
+      "hi": "त्रिसूत्र आयुर्वेद - हेतु, लिङ्ग, औषध के तीन सूत्र।",
+      "modern": "",
+      "category": "siddhanta",
+      "source_refs": [
+        "CS.sutra.1"
+      ],
+      "related": [
+        "triskandha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "prayojana",
+      "devanagari": "प्रयोजन",
+      "iast": "prayojana",
+      "simple": "Prayojana",
+      "en": "Purpose of Āyurveda: to protect the health of the healthy (svasthasya svāsthya-rakṣaṇam) and to cure the disease of the sick (āturasya vikāra-praśamanam).",
+      "hi": "आयुर्वेद का प्रयोजन - स्वस्थ के स्वास्थ्य की रक्षा और रोगी के रोग का शमन।",
+      "modern": "Parallels the twin aims of preventive and curative medicine.",
+      "category": "siddhanta",
+      "source_refs": [
+        "CS.sutra.30"
+      ],
+      "related": [
+        "svastha",
+        "swasthavritta",
+        "chikitsa"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "sharira",
+      "devanagari": "शरीर",
+      "iast": "śarīra",
+      "simple": "Sharira",
+      "en": "The body; derived from 'śṝ' (to decay), i.e. that which constantly wears away. It is the seat of consciousness (cetanādhiṣṭhāna) made of the five mahābhūtas.",
+      "hi": "शरीर - 'शीर्यते इति' (जो निरन्तर क्षीण होता है); चेतना का अधिष्ठान, पञ्चमहाभूत से बना।",
+      "modern": "",
+      "category": "siddhanta",
+      "source_refs": [
+        "CS.sharira.6"
+      ],
+      "related": [
+        "ayu",
+        "tridanda",
+        "panchamahabhuta"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "shashvata-ayurveda",
+      "devanagari": "शाश्वत आयुर्वेद",
+      "iast": "śāśvata āyurveda",
+      "simple": "Eternity of Ayurveda",
+      "en": "Caraka argues Āyurveda is eternal (śāśvata) because life, the nature of substances and the causes of health and disease have no beginning; only its teaching is revealed again.",
+      "hi": "आयुर्वेद शाश्वत है क्योंकि आयु, द्रव्यों का स्वभाव और रोग-आरोग्य के कारण अनादि हैं।",
+      "modern": "",
+      "category": "siddhanta",
+      "source_refs": [
+        "CS.sutra.30"
+      ],
+      "related": [
+        "ayurveda"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "agantuja-roga",
+      "devanagari": "आगन्तुज रोग",
+      "iast": "āgantuja roga",
+      "simple": "Agantuja Roga",
+      "en": "Exogenous disease caused by external factors such as injury, poison, bites, evil spirits or accidents; doṣa imbalance follows afterwards.",
+      "hi": "आगन्तुज रोग - बाहरी कारण (आघात, विष, दंश आदि) से उत्पन्न रोग; बाद में दोष विकृत होते हैं।",
+      "modern": "Comparable to trauma, poisoning and many external-agent illnesses.",
+      "category": "siddhanta",
+      "source_refs": [
+        "AH.sutra.1.20"
+      ],
+      "related": [
+        "nija-roga",
+        "roga"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "nija-roga",
+      "devanagari": "निज रोग",
+      "iast": "nija roga",
+      "simple": "Nija Roga",
+      "en": "Endogenous disease that begins with imbalance of the body's own doṣas.",
+      "hi": "निज रोग - शरीर के दोषों की विषमता से आरम्भ होने वाला रोग।",
+      "modern": "",
+      "category": "siddhanta",
+      "source_refs": [
+        "AH.sutra.1.20"
+      ],
+      "related": [
+        "agantuja-roga",
+        "dosha-vaishamya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "adhishthana",
+      "devanagari": "अधिष्ठान",
+      "iast": "adhiṣṭhāna",
+      "simple": "Adhishthana",
+      "en": "Seat or location. Diseases have two seats: body (kāya) and mind (manas). Also used for the site where a disease settles.",
+      "hi": "अधिष्ठान - आश्रय/स्थान; रोगों के दो अधिष्ठान: शरीर और मन।",
+      "modern": "",
+      "category": "siddhanta",
+      "source_refs": [
+        "AH.sutra.1.21"
+      ],
+      "related": [
+        "manasa-dosha",
+        "roga"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "manasa-roga",
+      "devanagari": "मानस रोग",
+      "iast": "mānasa roga",
+      "simple": "Manasa Roga",
+      "en": "Mental disorders caused by rajas and tamas, e.g. kāma, krodha, lobha, moha, īrṣyā, māna, mada, śoka, cintā, udvega, bhaya, harṣa.",
+      "hi": "मानस रोग - रज-तम से उत्पन्न मन के विकार जैसे काम, क्रोध, लोभ, मोह, शोक, भय।",
+      "modern": "Overlaps partly with emotional and psychiatric disorders.",
+      "category": "siddhanta",
+      "source_refs": [
+        "AH.sutra.1.21"
+      ],
+      "related": [
+        "manasa-dosha",
+        "rajas",
+        "tamas",
+        "sattvavajaya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "samanya-vishesha-siddhanta",
+      "devanagari": "सामान्यविशेष सिद्धान्त",
+      "iast": "sāmānya-viśeṣa siddhānta",
+      "simple": "Samanya Vishesha Siddhanta",
+      "en": "The core therapeutic rule: similar things increase (vṛddhiḥ samānaiḥ), opposite things decrease (viparītair viparyayaḥ). All treatment uses this principle.",
+      "hi": "सामान्य-विशेष सिद्धान्त - समान से वृद्धि, विपरीत से ह्रास; पूरी चिकित्सा इसी पर आधारित है।",
+      "modern": "",
+      "category": "siddhanta",
+      "source_refs": [
+        "AH.sutra.1.14",
+        "CS.sutra.1.44"
+      ],
+      "related": [
+        "samanya",
+        "vishesha",
+        "vriddhi",
+        "kshaya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "ashtanga-ayurveda",
+      "devanagari": "अष्टाङ्ग आयुर्वेद",
+      "iast": "aṣṭāṅga āyurveda",
+      "simple": "Ashtanga Ayurveda",
+      "en": "The eight branches: kāya (internal medicine), bāla (paediatrics), graha (bhūtavidyā), ūrdhvāṅga (diseases above the clavicle), śalya (surgery), daṃṣṭrā (toxicology), jarā (rasāyana) and vṛṣa (vājīkaraṇa).",
+      "hi": "अष्टाङ्ग आयुर्वेद - आठ अंग: काय, बाल, ग्रह, ऊर्ध्वाङ्ग, शल्य, दंष्ट्रा, जरा, वृष।",
+      "modern": "",
+      "category": "siddhanta",
+      "source_refs": [
+        "AH.sutra.1.5",
+        "SS.sutra.1"
+      ],
+      "related": [
+        "kayachikitsa",
+        "kaumarabhritya",
+        "bhutavidya",
+        "shalakya-tantra",
+        "shalya-tantra",
+        "agada-tantra",
+        "rasayana",
+        "vajikarana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "dosha-gati",
+      "devanagari": "दोषगति",
+      "iast": "doṣagati",
+      "simple": "Dosha Gati",
+      "en": "Movement of doṣas: kṣaya-sthāna-vṛddhi (decrease, normal, increase); ūrdhva-adhaḥ-tiryak (upward, downward, oblique); and koṣṭha-śākhā-marmāsthi-sandhi (inner path, outer path, middle path).",
+      "hi": "दोषगति - दोषों की गति: क्षय-स्थान-वृद्धि; ऊर्ध्व-अधः-तिर्यक्; कोष्ठ, शाखा, मर्म-अस्थि-सन्धि।",
+      "modern": "",
+      "category": "siddhanta",
+      "source_refs": [
+        "CS.sutra.17"
+      ],
+      "related": [
+        "rogamarga",
+        "dosha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "rogamarga",
+      "devanagari": "रोगमार्ग",
+      "iast": "rogamārga",
+      "simple": "Rogamarga",
+      "en": "The three pathways of disease: bāhya (outer: rakta and other dhātus and skin), madhyama (middle: marmas, bones, joints and related structures) and ābhyantara (inner: koṣṭha / alimentary tract).",
+      "hi": "रोगमार्ग - रोगों के तीन मार्ग: बाह्य (शाखा), मध्यम (मर्म-अस्थि-सन्धि), आभ्यन्तर (कोष्ठ)।",
+      "modern": "",
+      "category": "siddhanta",
+      "source_refs": [
+        "CS.sutra.11"
+      ],
+      "related": [
+        "dosha-gati",
+        "koshtha-anatomy",
+        "marma"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "svabhavabala-vyadhi",
+      "devanagari": "स्वभावबल प्रवृत्त व्याधि",
+      "iast": "svabhāvabala-pravṛtta vyādhi",
+      "simple": "Natural Diseases",
+      "en": "Suśruta's class of natural conditions such as hunger, thirst, sleep, old age and death, which arise from the nature of the body.",
+      "hi": "स्वभावबल प्रवृत्त व्याधि - स्वाभाविक अवस्थाएँ जैसे क्षुधा, तृष्णा, निद्रा, जरा, मृत्यु।",
+      "modern": "",
+      "category": "siddhanta",
+      "source_refs": [
+        "SS.sutra.24"
+      ],
+      "related": [
+        "saptavidha-vyadhi"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "saptavidha-vyadhi",
+      "devanagari": "सप्तविध व्याधि",
+      "iast": "saptavidha vyādhi",
+      "simple": "Seven Classes of Disease",
+      "en": "Suśruta's seven classes of disease: ādibala (hereditary), janmabala (congenital), doṣabala (doṣa-born), saṅghātabala (traumatic), kālabala (seasonal), daivabala (providential) and svabhāvabala (natural, e.g. ageing).",
+      "hi": "सुश्रुत के सात प्रकार के रोग: आदिबल, जन्मबल, दोषबल, संघातबल, कालबल, दैवबल, स्वभावबल।",
+      "modern": "Partly parallels genetic, congenital, acquired, traumatic, seasonal and degenerative categories.",
+      "category": "siddhanta",
+      "source_refs": [
+        "SS.sutra.24"
+      ],
+      "related": [
+        "svabhavabala-vyadhi",
+        "roga"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "prana-vayu",
+      "devanagari": "प्राण वायु",
+      "iast": "prāṇa vāyu",
+      "simple": "Prana Vayu",
+      "en": "First subtype of vāta. Seated in the head (mūrdhā), moves in the chest and throat; supports intellect, heart, senses and mind; governs spitting, sneezing, belching, breathing and swallowing. Suśruta places it in the mouth (vaktra).",
+      "hi": "प्राण वायु - सिर (मूर्धा) में स्थित, उरस्-कण्ठ में संचार; बुद्धि, हृदय, इन्द्रिय, चित्त का धारण; थूकना, छींकना, डकार, श्वास और अन्न-प्रवेश।",
+      "modern": "Often compared to functions of the brain and brainstem controlling respiration, swallowing and higher mental activity.",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sutra.12.4",
+        "AH.sutra.12.5",
+        "SS.nidana.1"
+      ],
+      "related": [
+        "vata",
+        "udana-vayu",
+        "vyana-vayu",
+        "samana-vayu",
+        "apana-vayu",
+        "pranavaha-srotas"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "udana-vayu",
+      "devanagari": "उदान वायु",
+      "iast": "udāna vāyu",
+      "simple": "Udana Vayu",
+      "en": "Subtype of vāta seated in the chest (uras), moving in the nose, navel and throat. Responsible for initiating speech, effort, energy, strength, complexion and memory.",
+      "hi": "उदान वायु - उरस् में स्थित, नासा-नाभि-गले में संचार; वाक्-प्रवृत्ति, प्रयत्न, ऊर्जा, बल, वर्ण और स्मृति।",
+      "modern": "Often compared to the neuromuscular control of speech and expiration.",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sutra.12.5",
+        "AH.sutra.12.6"
+      ],
+      "related": [
+        "vata",
+        "prana-vayu"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "vyana-vayu",
+      "devanagari": "व्यान वायु",
+      "iast": "vyāna vāyu",
+      "simple": "Vyana Vayu",
+      "en": "Subtype of vāta seated in the heart and moving rapidly through the whole body. Governs gait, raising and lowering of limbs, opening and closing of eyes and almost all bodily movement; Suśruta adds circulation of rasa.",
+      "hi": "व्यान वायु - हृदय में स्थित, सम्पूर्ण शरीर में तीव्र गति; गति, अंगों का उत्क्षेप-अपक्षेप, निमेष-उन्मेष तथा रस-संचार।",
+      "modern": "Often compared to circulatory and somatic motor functions.",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sutra.12.6",
+        "AH.sutra.12.7"
+      ],
+      "related": [
+        "vata",
+        "rasa-dhatu"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "samana-vayu",
+      "devanagari": "समान वायु",
+      "iast": "samāna vāyu",
+      "simple": "Samana Vayu",
+      "en": "Subtype of vāta located near the digestive fire (agni) and moving throughout the koṣṭha. It receives food, digests it, separates nutrient from waste, and moves the waste onward.",
+      "hi": "समान वायु - अग्नि के समीप, कोष्ठ में संचार; अन्न का ग्रहण, पाचन, विवेचन (सार-किट्ट पृथक्करण) और मुञ्चन।",
+      "modern": "Often compared to the autonomic (enteric) control of digestion and gut motility.",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sutra.12.8"
+      ],
+      "related": [
+        "vata",
+        "jatharagni",
+        "pachaka-pitta"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "apana-vayu",
+      "devanagari": "अपान वायु",
+      "iast": "apāna vāyu",
+      "simple": "Apana Vayu",
+      "en": "Subtype of vāta located in the apāna region (rectum/pelvis), moving in the hips, bladder, genitals and thighs. Governs expulsion of semen, menstrual blood, faeces, urine and the foetus.",
+      "hi": "अपान वायु - अपान (गुदा) प्रदेश में, श्रोणि-बस्ति-मेढ्र-ऊरु में संचार; शुक्र, आर्तव, मल, मूत्र और गर्भ का निष्क्रमण।",
+      "modern": "Often compared to pelvic autonomic and muscular functions of defecation, micturition and parturition.",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sutra.12.9"
+      ],
+      "related": [
+        "vata",
+        "purisha",
+        "mutra",
+        "basti"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "pachaka-pitta",
+      "devanagari": "पाचक पित्त",
+      "iast": "pācaka pitta",
+      "simple": "Pachaka Pitta",
+      "en": "Subtype of pitta located between the pakvāśaya and āmāśaya. It digests food, separates sāra (nutrient) and kiṭṭa (waste), and supports the other four pittas. It is the pitta called 'agni'.",
+      "hi": "पाचक पित्त - पक्वाशय-आमाशय के मध्य; अन्न का पाचन, सार-किट्ट विभाजन और अन्य पित्तों का पोषण; इसे अग्नि कहते हैं।",
+      "modern": "Often compared to digestive enzymes and secretions of the stomach, pancreas and small intestine.",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sutra.12.10",
+        "AH.sutra.12.11",
+        "AH.sutra.12.12",
+        "AH.sharira.3.49"
+      ],
+      "related": [
+        "pitta",
+        "jatharagni",
+        "agni",
+        "samana-vayu"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "ranjaka-pitta",
+      "devanagari": "रञ्जक पित्त",
+      "iast": "rañjaka pitta",
+      "simple": "Ranjaka Pitta",
+      "en": "Subtype of pitta that colours rasa into rakta (rasa-rañjana). Vāgbhaṭa places it in the āmāśaya; Suśruta places it in the liver and spleen (yakṛt-plīhā).",
+      "hi": "रञ्जक पित्त - रस को रंगकर रक्त बनाता है; वाग्भट के अनुसार आमाशय में, सुश्रुत के अनुसार यकृत-प्लीहा में।",
+      "modern": "Often compared to haemopoietic and hepatic functions (e.g. haemoglobin formation, bile pigment metabolism). Not a single identified substance.",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sutra.12.13",
+        "SS.sutra.21"
+      ],
+      "related": [
+        "pitta",
+        "rakta-dhatu",
+        "yakrit",
+        "pliha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "sadhaka-pitta",
+      "devanagari": "साधक पित्त",
+      "iast": "sādhaka pitta",
+      "simple": "Sadhaka Pitta",
+      "en": "Subtype of pitta located in the heart (hṛdaya). It accomplishes desired goals through intellect (buddhi), retention (medhā) and self-esteem (abhimāna).",
+      "hi": "साधक पित्त - हृदय में स्थित; बुद्धि, मेधा, अभिमान द्वारा इच्छित कार्यों की सिद्धि।",
+      "modern": "Often compared to neuro-endocrine aspects of cognition and motivation.",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sutra.12.13",
+        "AH.sutra.12.14"
+      ],
+      "related": [
+        "pitta",
+        "hridaya",
+        "buddhi"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "alochaka-pitta",
+      "devanagari": "आलोचक पित्त",
+      "iast": "ālocaka pitta",
+      "simple": "Alochaka Pitta",
+      "en": "Subtype of pitta located in the eyes (dṛk), responsible for perception of form and colour (rūpa-ālocana).",
+      "hi": "आलोचक पित्त - नेत्र में स्थित; रूप (दृश्य) का ज्ञान कराता है।",
+      "modern": "Often compared to the photochemical processes of the retina.",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sutra.12.14"
+      ],
+      "related": [
+        "pitta",
+        "netra"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "bhrajaka-pitta",
+      "devanagari": "भ्राजक पित्त",
+      "iast": "bhrājaka pitta",
+      "simple": "Bhrajaka Pitta",
+      "en": "Subtype of pitta located in the skin, giving it lustre (bhrājana). Suśruta adds that it digests substances applied to the skin (abhyaṅga, lepa).",
+      "hi": "भ्राजक पित्त - त्वचा में स्थित; त्वचा को कान्ति देता है और लेप-अभ्यंग का पाचन करता है।",
+      "modern": "Often compared to skin pigmentation, thermoregulation and transdermal absorption.",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sutra.12.14",
+        "SS.sutra.21"
+      ],
+      "related": [
+        "pitta",
+        "tvak"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "avalambaka-kapha",
+      "devanagari": "अवलम्बक कफ",
+      "iast": "avalambaka kapha",
+      "simple": "Avalambaka Kapha",
+      "en": "Subtype of kapha located in the chest (uras). It supports the trika and heart by its own potency and the other kapha sites by its watery action (ambu-karma).",
+      "hi": "अवलम्बक कफ - उरस् में स्थित; त्रिक और हृदय को अवलम्बन देता है तथा अन्य कफ-स्थानों को पोषण।",
+      "modern": "Often compared to pleural/pericardial fluids and supportive functions in the thorax.",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sutra.12.15",
+        "AH.sutra.12.16"
+      ],
+      "related": [
+        "kapha",
+        "hridaya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "kledaka-kapha",
+      "devanagari": "क्लेदक कफ",
+      "iast": "kledaka kapha",
+      "simple": "Kledaka Kapha",
+      "en": "Subtype of kapha located in the āmāśaya (stomach). It moistens and softens the ingested food mass.",
+      "hi": "क्लेदक कफ - आमाशय में स्थित; अन्न-संघात को क्लिन्न (गीला, मृदु) करता है।",
+      "modern": "Often compared to gastric mucus and protective secretions.",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sutra.12.16",
+        "AH.sutra.12.17"
+      ],
+      "related": [
+        "kapha",
+        "amashaya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "bodhaka-kapha",
+      "devanagari": "बोधक कफ",
+      "iast": "bodhaka kapha",
+      "simple": "Bodhaka Kapha",
+      "en": "Subtype of kapha located in the tongue (rasanā), responsible for perception of taste (rasa-bodhana).",
+      "hi": "बोधक कफ - जिह्वा में स्थित; रस (स्वाद) का बोध कराता है।",
+      "modern": "Often compared to saliva, which dissolves tastants for the taste buds.",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sutra.12.17"
+      ],
+      "related": [
+        "kapha",
+        "rasa-taste"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "tarpaka-kapha",
+      "devanagari": "तर्पक कफ",
+      "iast": "tarpaka kapha",
+      "simple": "Tarpaka Kapha",
+      "en": "Subtype of kapha located in the head (śiras), nourishing (tarpaṇa) the sense organs.",
+      "hi": "तर्पक कफ - शिर में स्थित; इन्द्रियों का तर्पण (पोषण) करता है।",
+      "modern": "Often compared to cerebrospinal fluid and the nourishing milieu of the brain.",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sutra.12.17",
+        "AH.sutra.12.18"
+      ],
+      "related": [
+        "kapha",
+        "indriya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "shleshaka-kapha",
+      "devanagari": "श्लेषक कफ",
+      "iast": "śleṣaka kapha",
+      "simple": "Shleshaka Kapha",
+      "en": "Subtype of kapha located in the joints (sandhi), lubricating and binding them.",
+      "hi": "श्लेषक कफ - सन्धियों में स्थित; सन्धियों को स्निग्ध रखता और जोड़ता है।",
+      "modern": "Often compared to synovial fluid.",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sutra.12.18"
+      ],
+      "related": [
+        "kapha",
+        "sandhi-joint"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "dosha-sthana",
+      "devanagari": "दोषस्थान",
+      "iast": "doṣasthāna",
+      "simple": "Dosha Sthana",
+      "en": "The normal sites of the doṣas. Vāta: pakvāśaya, hips, thighs, ears, bones, skin (chiefly pakvāśaya). Pitta: navel, stomach, sweat, lymph, blood, rasa, eyes, skin (chiefly navel). Kapha: chest, throat, head, kloma, joints, stomach, rasa, fat, nose, tongue (chiefly chest).",
+      "hi": "दोषों के स्थान - वात: पक्वाशय (मुख्य), कटि, सक्थि, कान, अस्थि, त्वचा; पित्त: नाभि (मुख्य), आमाशय, स्वेद, रक्त, नेत्र; कफ: उरस् (मुख्य), कण्ठ, शिर, सन्धि।",
+      "modern": "",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sutra.12.1",
+        "AH.sutra.12.2",
+        "AH.sutra.12.3"
+      ],
+      "related": [
+        "vata",
+        "pitta",
+        "kapha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "dhatu",
+      "devanagari": "धातु",
+      "iast": "dhātu",
+      "simple": "Dhatu",
+      "en": "Body tissue; literally 'that which supports' (dhāraṇāt). The seven dhātus are rasa, rakta, māṃsa, medas, asthi, majjā and śukra; they are the dūṣya (what doṣas vitiate). Also a homonym for metal and verbal root.",
+      "hi": "धातु - शरीर को धारण करने वाले; सात धातु: रस, रक्त, मांस, मेद, अस्थि, मज्जा, शुक्र।",
+      "modern": "Often compared to body tissues: plasma, blood, muscle, fat, bone, marrow and reproductive tissue (approximate).",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sutra.1.13",
+        "AH.sutra.11.4"
+      ],
+      "related": [
+        "rasa-dhatu",
+        "rakta-dhatu",
+        "mamsa-dhatu",
+        "meda-dhatu",
+        "asthi-dhatu",
+        "majja-dhatu",
+        "shukra-dhatu",
+        "dushya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "rasa-dhatu",
+      "devanagari": "रस धातु",
+      "iast": "rasa dhātu",
+      "simple": "Rasa Dhatu",
+      "en": "First dhātu, formed from the essence of digested food; its main function is prīṇana (nourishment, satisfaction). Its upadhātus are stanya and ārtava (Caraka); its mala is kapha. Not to be confused with rasa (taste) or rasa (mercury).",
+      "hi": "रस धातु - पहला धातु, आहार-रस से बनता; कर्म प्रीणन (तृप्ति, पोषण); उपधातु स्तन्य, आर्तव; मल कफ।",
+      "modern": "Often compared to plasma, lymph and tissue fluid.",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sutra.1.13",
+        "AH.sutra.11.4",
+        "CS.chikitsa.15"
+      ],
+      "related": [
+        "dhatu",
+        "rakta-dhatu",
+        "rasavaha-srotas",
+        "stanya",
+        "artava"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "rakta-dhatu",
+      "devanagari": "रक्त धातु",
+      "iast": "rakta dhātu",
+      "simple": "Rakta Dhatu",
+      "en": "Second dhātu (also asṛk, śoṇita); main function jīvana (sustaining life). Suśruta calls it the fourth doṣa in some contexts. Upadhātus: kaṇḍarā and sirā; mala: pitta.",
+      "hi": "रक्त धातु - दूसरा धातु (असृक्, शोणित); कर्म जीवन; उपधातु कण्डरा, सिरा; मल पित्त।",
+      "modern": "Often compared to blood (especially its cellular, oxygen-carrying part).",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sutra.1.13",
+        "AH.sutra.11.4",
+        "SS.sutra.14"
+      ],
+      "related": [
+        "dhatu",
+        "rasa-dhatu",
+        "ranjaka-pitta",
+        "raktavaha-srotas"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "mamsa-dhatu",
+      "devanagari": "मांस धातु",
+      "iast": "māṃsa dhātu",
+      "simple": "Mamsa Dhatu",
+      "en": "Third dhātu; main function lepa (covering/plastering the body). Upadhātus: vasā and the six layers of skin (Caraka); mala: secretions of the external orifices (kha-mala).",
+      "hi": "मांस धातु - तीसरा धातु; कर्म लेप (शरीर को ढकना); उपधातु वसा व छह त्वचाएँ; मल खमल।",
+      "modern": "Often compared to muscle tissue.",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sutra.1.13",
+        "AH.sutra.11.4"
+      ],
+      "related": [
+        "dhatu",
+        "peshi",
+        "mamsavaha-srotas"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "meda-dhatu",
+      "devanagari": "मेद धातु",
+      "iast": "medas dhātu",
+      "simple": "Meda Dhatu",
+      "en": "Fourth dhātu (medas); main function sneha (unctuousness). Upadhātus: snāyu and sandhi (Caraka); mala: sweat (sveda).",
+      "hi": "मेद धातु - चौथा धातु; कर्म स्नेह (स्निग्धता); उपधातु स्नायु, सन्धि; मल स्वेद।",
+      "modern": "Often compared to adipose tissue and body lipids.",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sutra.1.13",
+        "AH.sutra.11.4"
+      ],
+      "related": [
+        "dhatu",
+        "medovaha-srotas",
+        "sthaulya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "asthi-dhatu",
+      "devanagari": "अस्थि धातु",
+      "iast": "asthi dhātu",
+      "simple": "Asthi Dhatu",
+      "en": "Fifth dhātu; main function dhāraṇa (support of the body). Caraka names no upadhātu for it (Śārṅgadhara names teeth); its mala is hair of head and body (keśa, loma) and nails per various authors.",
+      "hi": "अस्थि धातु - पाँचवाँ धातु; कर्म धारण; मल केश-लोम (नख)। चरक कोई उपधातु नहीं बताते।",
+      "modern": "Often compared to bone and cartilage tissue.",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sutra.1.13",
+        "AH.sutra.11.4"
+      ],
+      "related": [
+        "dhatu",
+        "asthi",
+        "asthivaha-srotas"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "majja-dhatu",
+      "devanagari": "मज्जा धातु",
+      "iast": "majjā dhātu",
+      "simple": "Majja Dhatu",
+      "en": "Sixth dhātu, filling the bone cavities; main function pūraṇa (filling). Its mala is the oily secretion of eyes, faeces and skin (Caraka).",
+      "hi": "मज्जा धातु - छठा धातु; अस्थियों के भीतर भरा; कर्म पूरण; मल नेत्र-मल, त्वचा का स्नेह।",
+      "modern": "Often compared to bone marrow; some authors extend it to nervous tissue (mastulunga is called mastiṣka-majjā).",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sutra.1.13",
+        "AH.sutra.11.4"
+      ],
+      "related": [
+        "dhatu",
+        "majjavaha-srotas"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "shukra-dhatu",
+      "devanagari": "शुक्र धातु",
+      "iast": "śukra dhātu",
+      "simple": "Shukra Dhatu",
+      "en": "Seventh and final dhātu; main function garbhotpāda (reproduction). It has no mala; its essence (sāra) is ojas. Present throughout the body like ghee in milk.",
+      "hi": "शुक्र धातु - सातवाँ धातु; कर्म गर्भोत्पादन; इसका कोई मल नहीं, सार ओज है।",
+      "modern": "Often compared to reproductive tissue and gametes (semen and ovum), and broadly to reproductive capacity.",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sutra.1.13",
+        "AH.sutra.11.4"
+      ],
+      "related": [
+        "dhatu",
+        "ojas",
+        "shukravaha-srotas",
+        "artava",
+        "vajikarana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "upadhatu",
+      "devanagari": "उपधातु",
+      "iast": "upadhātu",
+      "simple": "Upadhatu",
+      "en": "Secondary tissues formed during dhātu metabolism that support the body but do not nourish further tissues. Caraka: rasa gives stanya and raja (ārtava); rakta gives kaṇḍarā and sirā; māṃsa gives vasā and six skin layers; medas gives snāyu and sandhi. Śārṅgadhara gives a different list.",
+      "hi": "उपधातु - धातु-पोषण के दौरान बनने वाले गौण धातु जो आगे पोषण नहीं करते; चरक: रस से स्तन्य-रज, रक्त से कण्डरा-सिरा, मांस से वसा-छह त्वचा, मेद से स्नायु-सन्धि।",
+      "modern": "",
+      "category": "kriya",
+      "source_refs": [
+        "CS.chikitsa.15"
+      ],
+      "related": [
+        "dhatu",
+        "stanya",
+        "artava",
+        "vasa",
+        "kandara",
+        "sira",
+        "snayu",
+        "tvak"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "stanya",
+      "devanagari": "स्तन्य",
+      "iast": "stanya",
+      "simple": "Stanya",
+      "en": "Breast milk, the upadhātu of rasa dhātu. Pure stanya mixes evenly with water, is cool, clear and white. Caraka describes eight stanya-doṣas.",
+      "hi": "स्तन्य - माता का दूध; रस धातु का उपधातु; शुद्ध स्तन्य जल में मिल जाता है, शीत, स्वच्छ, श्वेत।",
+      "modern": "Breast milk.",
+      "category": "kriya",
+      "source_refs": [
+        "CS.chikitsa.15",
+        "CS.sharira.8"
+      ],
+      "related": [
+        "rasa-dhatu",
+        "upadhatu",
+        "stanya-dushti",
+        "stanyajanana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "artava",
+      "devanagari": "आर्तव",
+      "iast": "ārtava",
+      "simple": "Artava",
+      "en": "Menstrual blood; also the female reproductive element (ovum) contributing to conception. Considered the upadhātu of rasa (Caraka). Pure ārtava is like rabbit's blood or lac and leaves no stain after washing.",
+      "hi": "आर्तव - मासिक स्राव; स्त्री का बीज भी; रस का उपधातु; शुद्ध आर्तव शशक-रक्त या लाक्षा जैसा, धोने पर दाग नहीं छोड़ता।",
+      "modern": "Refers both to menstrual flow and, in conception contexts, to the ovum.",
+      "category": "kriya",
+      "source_refs": [
+        "CS.chikitsa.15",
+        "SS.sharira.2"
+      ],
+      "related": [
+        "rasa-dhatu",
+        "upadhatu",
+        "shukra-dhatu",
+        "rajasvala-charya",
+        "ritukala"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "vasa",
+      "devanagari": "वसा",
+      "iast": "vasā",
+      "simple": "Vasa",
+      "en": "Muscle fat; the upadhātu of māṃsa. One of the four mahāsnehas (with ghṛta, taila and majjā) used in snehana.",
+      "hi": "वसा - मांस की चर्बी; मांस का उपधातु; चार महास्नेहों में से एक।",
+      "modern": "Often compared to intramuscular and visceral animal fat.",
+      "category": "kriya",
+      "source_refs": [
+        "CS.chikitsa.15",
+        "AH.sutra.16.2"
+      ],
+      "related": [
+        "mamsa-dhatu",
+        "upadhatu",
+        "snehana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "mala",
+      "devanagari": "मल",
+      "iast": "mala",
+      "simple": "Mala",
+      "en": "Waste products; literally 'that which soils' (malinīkaraṇāt). The main āhāra-malas are purīṣa (faeces), mūtra (urine) and sveda (sweat); each dhātu also forms its own mala. In some contexts doṣas themselves are called malas.",
+      "hi": "मल - मलिन करने वाले; मुख्य आहार-मल: पुरीष, मूत्र, स्वेद; प्रत्येक धातु का भी मल होता है।",
+      "modern": "Waste products of metabolism and digestion.",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sutra.1.13",
+        "AH.sutra.11.5"
+      ],
+      "related": [
+        "purisha",
+        "mutra",
+        "sveda",
+        "dhatu-mala",
+        "kitta"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "purisha",
+      "devanagari": "पुरीष",
+      "iast": "purīṣa",
+      "simple": "Purisha",
+      "en": "Faeces (also śakṛt, varcas, viṭ). Its normal function is avaṣṭambha (supporting the body and holding vāta and agni).",
+      "hi": "पुरीष - मल (शकृत्, विट्); कर्म अवष्टम्भ (शरीर को धारण करना)।",
+      "modern": "Faeces.",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sutra.11.5"
+      ],
+      "related": [
+        "mala",
+        "purishavaha-srotas",
+        "apana-vayu"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "mutra",
+      "devanagari": "मूत्र",
+      "iast": "mūtra",
+      "simple": "Mutra",
+      "en": "Urine; its function is kleda-vāhana (carrying excess moisture/waste fluid out of the body).",
+      "hi": "मूत्र - कर्म क्लेद-वाहन (शरीर के अतिरिक्त क्लेद को बाहर निकालना)।",
+      "modern": "Urine, the main route of excretion of water-soluble wastes.",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sutra.11.5"
+      ],
+      "related": [
+        "mala",
+        "mutravaha-srotas",
+        "basti"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "sveda",
+      "devanagari": "स्वेद",
+      "iast": "sveda",
+      "simple": "Sveda",
+      "en": "Sweat, the mala of medas dhātu; its function is kleda-vidhṛti (retaining moisture of skin) and maintaining body heat. Not to be confused with svedana (sudation therapy).",
+      "hi": "स्वेद - पसीना; मेद धातु का मल; कर्म क्लेद-विधृति (त्वचा में नमी बनाए रखना)।",
+      "modern": "Sweat.",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sutra.11.5"
+      ],
+      "related": [
+        "mala",
+        "svedavaha-srotas",
+        "meda-dhatu",
+        "svedana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "dhatu-mala",
+      "devanagari": "धातुमल",
+      "iast": "dhātumala",
+      "simple": "Dhatu Mala",
+      "en": "Waste formed during the metabolism of each dhātu (Caraka): rasa - kapha; rakta - pitta; māṃsa - kha-mala (secretions of orifices); medas - sweat; asthi - hair of head and body; majjā - oily secretion of eyes, faeces and skin; śukra - none.",
+      "hi": "धातुमल - प्रत्येक धातु के पोषण में बनने वाला मल; रस-कफ, रक्त-पित्त, मांस-खमल, मेद-स्वेद, अस्थि-केश-लोम, मज्जा-अक्षिविट्/त्वक्स्नेह।",
+      "modern": "Comparable to metabolic by-products of tissue metabolism.",
+      "category": "kriya",
+      "source_refs": [
+        "CS.chikitsa.15"
+      ],
+      "related": [
+        "mala",
+        "dhatu",
+        "kitta"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "kitta",
+      "devanagari": "किट्ट",
+      "iast": "kiṭṭa",
+      "simple": "Kitta",
+      "en": "The waste part separated during digestion and dhātu metabolism, opposite of sāra/prasāda (essence).",
+      "hi": "किट्ट - पाचन व धातु-पोषण में बनने वाला मल भाग; सार (प्रसाद) का विपरीत।",
+      "modern": "",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sutra.12.11",
+        "CS.sutra.28"
+      ],
+      "related": [
+        "prasada",
+        "mala"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "prasada",
+      "devanagari": "प्रसाद",
+      "iast": "prasāda",
+      "simple": "Prasada",
+      "en": "The essence or nutrient part (sāra) of digested food and of each dhātu, which nourishes the next tissue.",
+      "hi": "प्रसाद - आहार और धातुओं का सार भाग जो पोषण करता है।",
+      "modern": "",
+      "category": "kriya",
+      "source_refs": [
+        "CS.sutra.28"
+      ],
+      "related": [
+        "kitta",
+        "ahara-rasa"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "ahara-rasa",
+      "devanagari": "आहार रस",
+      "iast": "āhāra rasa",
+      "simple": "Ahara Rasa",
+      "en": "The nutrient essence produced by digestion of food (anna-rasa), from which rasa dhātu and then all other dhātus are nourished.",
+      "hi": "आहार रस - भोजन के पाचन से बना सार, जिससे रस धातु और फिर सभी धातुओं का पोषण होता है।",
+      "modern": "Often compared to absorbed nutrients in the circulation.",
+      "category": "kriya",
+      "source_refs": [
+        "CS.chikitsa.15",
+        "AH.sharira.3.54"
+      ],
+      "related": [
+        "rasa-dhatu",
+        "prasada",
+        "jatharagni"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "ojas",
+      "devanagari": "ओजस्",
+      "iast": "ojas",
+      "simple": "Ojas",
+      "en": "The supreme essence (tejas) of all dhātus from rasa to śukra. Located in the heart yet pervading the body; unctuous, soma-like, clear, slightly reddish-yellow. When it is destroyed life ends. Suśruta equates ojas with bala.",
+      "hi": "ओज - रस से शुक्र तक सभी धातुओं का परम सार; हृदय में स्थित पर पूरे शरीर में व्याप्त; इसके नाश से जीवन का नाश।",
+      "modern": "Often compared to immunity, vitality and resilience; it has no single biochemical equivalent.",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sutra.11.37",
+        "AH.sutra.11.38",
+        "CS.sutra.17",
+        "CS.sutra.30",
+        "SS.sutra.15"
+      ],
+      "related": [
+        "para-ojas",
+        "apara-ojas",
+        "bala",
+        "ojas-kshaya",
+        "shukra-dhatu"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "para-ojas",
+      "devanagari": "पर ओज",
+      "iast": "para ojas",
+      "simple": "Para Ojas",
+      "en": "Superior ojas: according to Cakrapāṇi on Caraka, eight drops (aṣṭa-bindu) located in the heart; any loss of it causes death.",
+      "hi": "पर ओज - हृदय में स्थित आठ बिन्दु परिमाण ओज; इसके क्षय से मृत्यु।",
+      "modern": "",
+      "category": "kriya",
+      "source_refs": [
+        "CS.sutra.30"
+      ],
+      "related": [
+        "ojas",
+        "apara-ojas",
+        "hridaya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "apara-ojas",
+      "devanagari": "अपर ओज",
+      "iast": "apara ojas",
+      "simple": "Apara Ojas",
+      "en": "Inferior ojas: half an añjali in quantity, circulating through the ten great vessels (mahāmūla dhamanīs) from the heart (Cakrapāṇi on Caraka).",
+      "hi": "अपर ओज - अर्ध अञ्जलि परिमाण, हृदय से दस धमनियों द्वारा पूरे शरीर में संचरित।",
+      "modern": "",
+      "category": "kriya",
+      "source_refs": [
+        "CS.sutra.30"
+      ],
+      "related": [
+        "ojas",
+        "para-ojas",
+        "dhamani"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "bala",
+      "devanagari": "बल",
+      "iast": "bala",
+      "simple": "Bala",
+      "en": "Strength and resistance to disease (vyādhikṣamatva). Caraka describes three kinds: sahaja (innate), kālaja (seasonal/age-related) and yuktikṛta (acquired by diet, exercise and rasāyana).",
+      "hi": "बल - शक्ति और रोग-प्रतिरोध क्षमता; तीन प्रकार: सहज, कालज, युक्तिकृत।",
+      "modern": "Often compared to immunity and physical fitness together.",
+      "category": "kriya",
+      "source_refs": [
+        "CS.sutra.11",
+        "SS.sutra.15"
+      ],
+      "related": [
+        "ojas",
+        "sahaja-bala",
+        "kalaja-bala",
+        "yuktikrita-bala",
+        "vyadhikshamatva"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "sahaja-bala",
+      "devanagari": "सहज बल",
+      "iast": "sahaja bala",
+      "simple": "Sahaja Bala",
+      "en": "Innate strength present from birth, determined by the constitution of body and mind.",
+      "hi": "सहज बल - जन्म से प्राप्त स्वाभाविक बल।",
+      "modern": "Comparable to innate (constitutional) immunity and genetic fitness.",
+      "category": "kriya",
+      "source_refs": [
+        "CS.sutra.11"
+      ],
+      "related": [
+        "bala"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "kalaja-bala",
+      "devanagari": "कालज बल",
+      "iast": "kālaja bala",
+      "simple": "Kalaja Bala",
+      "en": "Strength that depends on time: season (greatest in winter, least in summer and rains) and age (greatest in youth).",
+      "hi": "कालज बल - ऋतु और आयु पर निर्भर बल (शीत ऋतु और युवावस्था में अधिक)।",
+      "modern": "",
+      "category": "kriya",
+      "source_refs": [
+        "CS.sutra.11",
+        "AH.sutra.3.7"
+      ],
+      "related": [
+        "bala",
+        "adana-kala",
+        "visarga-kala"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "yuktikrita-bala",
+      "devanagari": "युक्तिकृत बल",
+      "iast": "yuktikṛta bala",
+      "simple": "Yuktikrita Bala",
+      "en": "Acquired strength produced by proper diet, exercise, rest and rasāyana.",
+      "hi": "युक्तिकृत बल - उचित आहार, व्यायाम और रसायन से प्राप्त बल।",
+      "modern": "Comparable to acquired immunity and conditioning.",
+      "category": "kriya",
+      "source_refs": [
+        "CS.sutra.11"
+      ],
+      "related": [
+        "bala",
+        "rasayana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "vyadhikshamatva",
+      "devanagari": "व्याधिक्षमत्व",
+      "iast": "vyādhikṣamatva",
+      "simple": "Vyadhikshamatva",
+      "en": "Capacity to resist disease: both preventing its onset (vyādhi-utpāda-pratibandhakatva) and limiting its strength (vyādhi-bala-virodhitva), as explained by Cakrapāṇi.",
+      "hi": "व्याधिक्षमत्व - रोग को उत्पन्न न होने देना और उसके बल को रोकना; रोग-प्रतिरोध क्षमता।",
+      "modern": "Often compared to immunity.",
+      "category": "kriya",
+      "source_refs": [
+        "CS.sutra.28"
+      ],
+      "related": [
+        "bala",
+        "ojas"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "agni",
+      "devanagari": "अग्नि",
+      "iast": "agni",
+      "simple": "Agni",
+      "en": "The biological fire responsible for digestion and all transformation in the body. Caraka counts 13: one jāṭharāgni, five bhūtāgnis and seven dhātvagnis. Āyu, varṇa, bala, health, ojas and life depend on it. Also the fire element (tejas).",
+      "hi": "अग्नि - शरीर में पाचन व परिवर्तन करने वाली शक्ति; चरक के अनुसार 13: 1 जाठराग्नि, 5 भूताग्नि, 7 धात्वग्नि।",
+      "modern": "Often compared to digestive and metabolic (enzymatic) activity as a whole.",
+      "category": "kriya",
+      "source_refs": [
+        "CS.chikitsa.15",
+        "AH.sharira.3.49",
+        "AH.sutra.11.34"
+      ],
+      "related": [
+        "jatharagni",
+        "bhutagni",
+        "dhatvagni",
+        "samagni",
+        "pachaka-pitta",
+        "trayodasha-agni"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "trayodasha-agni",
+      "devanagari": "त्रयोदश अग्नि",
+      "iast": "trayodaśa agni",
+      "simple": "Thirteen Agnis",
+      "en": "Caraka's count of thirteen agnis: 1 jāṭharāgni (in the gut), 5 bhūtāgnis (one per mahābhūta) and 7 dhātvagnis (one per dhātu).",
+      "hi": "त्रयोदश अग्नि - 1 जाठराग्नि + 5 भूताग्नि + 7 धात्वग्नि = 13 (चरक)।",
+      "modern": "",
+      "category": "kriya",
+      "source_refs": [
+        "CS.chikitsa.15"
+      ],
+      "related": [
+        "agni",
+        "jatharagni",
+        "bhutagni",
+        "dhatvagni"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "jatharagni",
+      "devanagari": "जाठराग्नि",
+      "iast": "jāṭharāgni",
+      "simple": "Jatharagni",
+      "en": "The digestive fire in the abdomen (jaṭhara), located in the grahaṇī region; the chief agni that supports all others. Also called kāyāgni, koṣṭhāgni, pācakāgni.",
+      "hi": "जाठराग्नि - उदर (जठर) में स्थित पाचक अग्नि; ग्रहणी में; सब अग्नियों का मूल।",
+      "modern": "Often compared to gastrointestinal digestion (acid, bile, pancreatic and intestinal enzymes).",
+      "category": "kriya",
+      "source_refs": [
+        "CS.chikitsa.15",
+        "AH.sharira.3.53",
+        "AH.sharira.3.56"
+      ],
+      "related": [
+        "agni",
+        "pachaka-pitta",
+        "grahani",
+        "samana-vayu"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "bhutagni",
+      "devanagari": "भूताग्नि",
+      "iast": "bhūtāgni",
+      "simple": "Bhutagni",
+      "en": "Five agnis, one for each mahābhūta, that digest the earth, water, fire, air and space portions of food so that they can nourish the corresponding portions of the body.",
+      "hi": "भूताग्नि - पाँच अग्नियाँ जो आहार के पार्थिव, आप्य, आग्नेय, वायव्य, नाभस अंशों का पाचन करती हैं।",
+      "modern": "Sometimes compared to hepatic metabolism converting absorbed nutrients; a conceptual model.",
+      "category": "kriya",
+      "source_refs": [
+        "CS.chikitsa.15",
+        "AH.sharira.3.59",
+        "AH.sharira.3.60"
+      ],
+      "related": [
+        "agni",
+        "panchamahabhuta"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "dhatvagni",
+      "devanagari": "धात्वग्नि",
+      "iast": "dhātvagni",
+      "simple": "Dhatvagni",
+      "en": "Seven agnis, one in each dhātu (portions of kāyāgni lodged in the dhātus). Their weakness causes increase, and their excess causes depletion, of that dhātu.",
+      "hi": "धात्वग्नि - प्रत्येक धातु में स्थित अग्नि (7); इनकी मन्दता से धातु-वृद्धि और तीक्ष्णता से धातु-क्षय।",
+      "modern": "Often compared to tissue-level (cellular) metabolism.",
+      "category": "kriya",
+      "source_refs": [
+        "CS.chikitsa.15",
+        "AH.sutra.11.34"
+      ],
+      "related": [
+        "agni",
+        "dhatu"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "samagni",
+      "devanagari": "समाग्नि",
+      "iast": "samāgni",
+      "simple": "Samagni",
+      "en": "Balanced digestive fire, produced when the three doṣas are in equilibrium; digests food properly at the right time.",
+      "hi": "समाग्नि - सम दोषों से उत्पन्न संतुलित अग्नि; उचित समय पर ठीक पाचन।",
+      "modern": "Normal digestion.",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sutra.1.8"
+      ],
+      "related": [
+        "agni",
+        "vishamagni",
+        "tikshnagni",
+        "mandagni"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "vishamagni",
+      "devanagari": "विषमाग्नि",
+      "iast": "viṣamāgni",
+      "simple": "Vishamagni",
+      "en": "Irregular digestive fire caused by vāta; sometimes digests well and sometimes poorly, with gas, distension and irregular bowels.",
+      "hi": "विषमाग्नि - वात के कारण अनियमित अग्नि; कभी ठीक पाचन, कभी नहीं।",
+      "modern": "Often compared to irregular digestion with bloating (e.g. functional dyspepsia).",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sutra.1.8"
+      ],
+      "related": [
+        "agni",
+        "vata",
+        "samagni"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "tikshnagni",
+      "devanagari": "तीक्ष्णाग्नि",
+      "iast": "tīkṣṇāgni",
+      "simple": "Tikshnagni",
+      "en": "Intense digestive fire caused by pitta; digests even large meals quickly. Its extreme form is atyagni/bhasmaka.",
+      "hi": "तीक्ष्णाग्नि - पित्त के कारण तीव्र अग्नि; अधिक भोजन भी जल्दी पचाती है; अति होने पर भस्मक।",
+      "modern": "",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sutra.1.8"
+      ],
+      "related": [
+        "agni",
+        "pitta",
+        "samagni",
+        "bhasmaka"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "mandagni",
+      "devanagari": "मन्दाग्नि",
+      "iast": "mandāgni",
+      "simple": "Mandagni",
+      "en": "Weak digestive fire caused by kapha; even small meals are digested slowly. It is the root of most diseases, especially udara and āma formation.",
+      "hi": "मन्दाग्नि - कफ के कारण मन्द अग्नि; थोड़ा भोजन भी देर से पचता; अधिकांश रोगों का मूल।",
+      "modern": "Often compared to sluggish digestion / hypofunction of digestive secretions.",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sutra.1.8",
+        "AH.nidana.12.1"
+      ],
+      "related": [
+        "agni",
+        "kapha",
+        "ama",
+        "ajirna"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "bhasmaka",
+      "devanagari": "भस्मक",
+      "iast": "bhasmaka",
+      "simple": "Bhasmaka",
+      "en": "Excessively sharp agni (atyagni) caused by aggravated pitta with vāta when kapha is depleted; food is 'burnt to ash' quickly, leading to excessive hunger and tissue wasting.",
+      "hi": "भस्मक रोग - अत्यग्नि; भोजन शीघ्र 'भस्म' होता है, अत्यधिक भूख व धातु-क्षय।",
+      "modern": "Sometimes compared to hypermetabolic states with polyphagia (e.g. hyperthyroidism, uncontrolled diabetes). Cautious analogy.",
+      "category": "kriya",
+      "source_refs": [
+        "AH.chikitsa.10.83"
+      ],
+      "related": [
+        "tikshnagni",
+        "agni"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "ama",
+      "devanagari": "आम",
+      "iast": "āma",
+      "simple": "Ama",
+      "en": "Undigested or improperly digested food essence produced by weak agni; it stays in the āmāśaya, becomes sticky and toxic, mixes with doṣas and blocks channels. Literally 'unripe, uncooked'.",
+      "hi": "आम - मन्द अग्नि के कारण अपक्व आहार-रस; चिपचिपा, दुर्गन्धित, स्रोतों को अवरुद्ध करता है।",
+      "modern": "Often compared to products of incomplete digestion and metabolic 'toxins'; no single biochemical identity.",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sutra.13",
+        "AH.sharira.3.52"
+      ],
+      "related": [
+        "mandagni",
+        "sama",
+        "nirama",
+        "ajirna",
+        "amavata"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "sama",
+      "devanagari": "साम",
+      "iast": "sāma",
+      "simple": "Sama (with Ama)",
+      "en": "State of a doṣa, dhātu or mala associated with āma. Signs include obstruction of channels, heaviness, loss of strength, indigestion, excess salivation and coated tongue.",
+      "hi": "साम अवस्था - आम से युक्त दोष; लक्षण: स्रोतोरोध, गुरुता, बलभ्रंश, अरुचि, लालास्राव।",
+      "modern": "",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sutra.13"
+      ],
+      "related": [
+        "ama",
+        "nirama"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "nirama",
+      "devanagari": "निराम",
+      "iast": "nirāma",
+      "simple": "Nirama",
+      "en": "State of doṣas free of āma; then śodhana or śamana can proceed. Treating sāma doṣas with śodhana is generally avoided until āma is digested (āmapācana).",
+      "hi": "निराम अवस्था - आम-रहित दोष; इस अवस्था में शोधन किया जाता है।",
+      "modern": "",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sutra.13"
+      ],
+      "related": [
+        "ama",
+        "sama",
+        "pachana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "koshtha",
+      "devanagari": "कोष्ठ",
+      "iast": "koṣṭha",
+      "simple": "Koshtha (bowel nature)",
+      "en": "Bowel habit/nature of the gut, assessed before purgation: krūra (hard, vāta), mṛdu (soft, pitta) and madhya (medium, kapha or balanced doṣas). Also the anatomical trunk/alimentary tract (see koṣṭha-anatomy).",
+      "hi": "कोष्ठ - आँतों का स्वभाव: क्रूर (वात), मृदु (पित्त), मध्य (कफ या सम दोष); विरेचन से पहले देखा जाता है।",
+      "modern": "Often compared to bowel transit tendency (constipated vs. loose).",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sutra.1.9"
+      ],
+      "related": [
+        "krura-koshtha",
+        "mridu-koshtha",
+        "madhya-koshtha",
+        "virechana",
+        "koshtha-anatomy"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "krura-koshtha",
+      "devanagari": "क्रूर कोष्ठ",
+      "iast": "krūra koṣṭha",
+      "simple": "Krura Koshtha",
+      "en": "Hard bowel nature due to vāta; strong purgatives are needed and even then purgation may be difficult.",
+      "hi": "क्रूर कोष्ठ - वात के कारण कठिन कोष्ठ; तीक्ष्ण विरेचन की आवश्यकता।",
+      "modern": "Comparable to a constipation-prone bowel.",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sutra.1.9"
+      ],
+      "related": [
+        "koshtha",
+        "vata"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "mridu-koshtha",
+      "devanagari": "मृदु कोष्ठ",
+      "iast": "mṛdu koṣṭha",
+      "simple": "Mridu Koshtha",
+      "en": "Soft bowel nature due to pitta; purged even by mild substances such as milk.",
+      "hi": "मृदु कोष्ठ - पित्त के कारण मृदु कोष्ठ; दूध जैसे मृदु द्रव्य से भी विरेचन।",
+      "modern": "Comparable to a bowel prone to loose stools.",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sutra.1.9"
+      ],
+      "related": [
+        "koshtha",
+        "pitta"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "madhya-koshtha",
+      "devanagari": "मध्य कोष्ठ",
+      "iast": "madhya koṣṭha",
+      "simple": "Madhya Koshtha",
+      "en": "Medium bowel nature due to kapha or to balanced doṣas.",
+      "hi": "मध्य कोष्ठ - कफ या सम दोषों से मध्यम कोष्ठ।",
+      "modern": "",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sutra.1.9"
+      ],
+      "related": [
+        "koshtha",
+        "kapha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "prakriti",
+      "devanagari": "प्रकृति",
+      "iast": "prakṛti",
+      "simple": "Prakriti",
+      "en": "Individual constitution fixed at conception by the predominant doṣa in śukra and ārtava (also mother's diet, conduct, uterus and season). Seven types: vāta, pitta, kapha, three dual (dvandvaja) and sama. Also, in Sāṃkhya, primordial matter (see prakṛti-sāṃkhya).",
+      "hi": "प्रकृति - गर्भधारण के समय शुक्र-आर्तव में प्रधान दोष से निर्धारित शारीरिक स्वभाव; सात प्रकार।",
+      "modern": "Often compared to phenotype or constitutional type; research into genomic correlates is ongoing and not conclusive.",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sutra.1.9",
+        "AH.sutra.1.10",
+        "AH.sharira.3.83",
+        "CS.vimana.8"
+      ],
+      "related": [
+        "vata-prakriti",
+        "pitta-prakriti",
+        "kapha-prakriti",
+        "dvandvaja-prakriti",
+        "sama-prakriti",
+        "manasa-prakriti"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "vata-prakriti",
+      "devanagari": "वात प्रकृति",
+      "iast": "vāta prakṛti",
+      "simple": "Vata Prakriti",
+      "en": "Constitution dominated by vāta: thin, dry, cracked skin and hair, light sleep, talkative, unsteady, low strength, wealth and lifespan; likes warm, sweet, sour and salty food. Regarded as hīna (inferior) among single-doṣa types.",
+      "hi": "वात प्रकृति - कृश, रूक्ष, फटी त्वचा, अल्प निद्रा, चंचल, बहुभाषी, अल्प बल-आयु; एकदोषज में हीन।",
+      "modern": "",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sharira.3.85",
+        "AH.sharira.3.86",
+        "CS.vimana.8"
+      ],
+      "related": [
+        "prakriti",
+        "vata"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "pitta-prakriti",
+      "devanagari": "पित्त प्रकृति",
+      "iast": "pitta prakṛti",
+      "simple": "Pitta Prakriti",
+      "en": "Constitution dominated by pitta: strong hunger and thirst, warm body, fair or coppery skin, early greying, sweating and body odour, intelligent, brave, irritable; moderate strength and lifespan (madhya).",
+      "hi": "पित्त प्रकृति - तीक्ष्ण क्षुधा-तृष्णा, उष्ण शरीर, शीघ्र पलित, अधिक स्वेद, मेधावी, क्रोधी; मध्यम बल-आयु।",
+      "modern": "",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sharira.3.90",
+        "AH.sharira.3.95",
+        "CS.vimana.8"
+      ],
+      "related": [
+        "prakriti",
+        "pitta"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "kapha-prakriti",
+      "devanagari": "कफ प्रकृति",
+      "iast": "kapha prakṛti",
+      "simple": "Kapha Prakriti",
+      "en": "Constitution dominated by kapha: well-built, firm and compact joints, smooth skin, calm, patient, slow but steady, strong, long-lived, good memory. Regarded as uttama (best) among single-doṣa types.",
+      "hi": "कफ प्रकृति - सुगठित, स्निग्ध, स्थिर, शान्त, धैर्यवान, बलवान, दीर्घायु; एकदोषज में उत्तम।",
+      "modern": "",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sharira.3.96",
+        "AH.sharira.3.103",
+        "CS.vimana.8"
+      ],
+      "related": [
+        "prakriti",
+        "kapha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "dvandvaja-prakriti",
+      "devanagari": "द्वन्द्वज प्रकृति",
+      "iast": "dvandvaja prakṛti",
+      "simple": "Dvandvaja Prakriti",
+      "en": "Dual-doṣa constitution: vāta-pitta, pitta-kapha or vāta-kapha. Vāgbhaṭa calls dual types 'nindya' (least desirable).",
+      "hi": "द्वन्द्वज प्रकृति - दो दोषों की प्रकृति (वात-पित्त, पित्त-कफ, वात-कफ); निन्द्य मानी गई।",
+      "modern": "",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sutra.1.10",
+        "AH.sharira.3.104"
+      ],
+      "related": [
+        "prakriti",
+        "sama-prakriti"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "sama-prakriti",
+      "devanagari": "सम प्रकृति",
+      "iast": "sama prakṛti",
+      "simple": "Sama Prakriti",
+      "en": "Balanced constitution where all three doṣas are equal (samadhātu); considered the best (śreṣṭha).",
+      "hi": "सम प्रकृति - तीनों दोष सम; सर्वश्रेष्ठ प्रकृति।",
+      "modern": "",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sutra.1.10"
+      ],
+      "related": [
+        "prakriti"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "manasa-prakriti",
+      "devanagari": "मानस प्रकृति",
+      "iast": "mānasa prakṛti",
+      "simple": "Manasa Prakriti",
+      "en": "Mental constitution based on predominance of sattva, rajas or tamas. Caraka and Suśruta describe 16 subtypes: 7 sāttvika, 6 rājasa and 3 tāmasa (e.g. brāhma, āsura, pāśava).",
+      "hi": "मानस प्रकृति - सत्त्व, रज, तम की प्रधानता से मानसिक स्वभाव; 16 भेद (7 सात्त्विक, 6 राजस, 3 तामस)।",
+      "modern": "Loosely comparable to personality types.",
+      "category": "kriya",
+      "source_refs": [
+        "CS.sharira.4",
+        "SS.sharira.4"
+      ],
+      "related": [
+        "prakriti",
+        "sattva-guna",
+        "rajas",
+        "tamas"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "avasthapaka",
+      "devanagari": "अवस्थापाक",
+      "iast": "avasthāpāka",
+      "simple": "Avasthapaka",
+      "en": "Stage-wise digestion of food in the gut: madhura (sweet) stage in the stomach producing frothy kapha, amla (sour) stage producing pitta, and kaṭu (pungent) stage in the colon producing vāta as food is dried into faeces.",
+      "hi": "अवस्थापाक - आहार पाचन की तीन अवस्थाएँ: मधुर (कफ), अम्ल (पित्त), कटु (वात)।",
+      "modern": "Often compared to the sequence of gastric, intestinal and colonic phases of digestion.",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sharira.3.57",
+        "AH.sharira.3.58",
+        "CS.chikitsa.15"
+      ],
+      "related": [
+        "vipaka",
+        "jatharagni"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "dhatu-poshana-nyaya",
+      "devanagari": "धातुपोषण न्याय",
+      "iast": "dhātupoṣaṇa nyāya",
+      "simple": "Dhatu Poshana Nyaya",
+      "en": "Analogies (nyāya) explaining how dhātus are nourished in sequence: kṣīra-dadhi (milk to curd: complete transformation), kedārī-kulyā (irrigation channels: sequential flow) and khale-kapota (pigeons picking grain: selective uptake). Cakrapāṇi discusses all three.",
+      "hi": "धातुपोषण न्याय - धातु-पोषण समझाने के दृष्टान्त: क्षीर-दधि, केदारी-कुल्या, खले-कपोत।",
+      "modern": "Teaching models of tissue nutrition; the khale-kapota model resembles selective cellular uptake.",
+      "category": "kriya",
+      "source_refs": [
+        "CS.chikitsa.15"
+      ],
+      "related": [
+        "kshira-dadhi-nyaya",
+        "kedari-kulya-nyaya",
+        "khale-kapota-nyaya",
+        "dhatu"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "kshira-dadhi-nyaya",
+      "devanagari": "क्षीरदधि न्याय",
+      "iast": "kṣīradadhi nyāya",
+      "simple": "Kshira Dadhi Nyaya",
+      "en": "'Milk-curd analogy': each dhātu is wholly transformed into the next, as milk turns into curd.",
+      "hi": "क्षीर-दधि न्याय - जैसे दूध पूरा दही बनता है, वैसे एक धातु पूर्णतः अगले धातु में बदलता है।",
+      "modern": "",
+      "category": "kriya",
+      "source_refs": [
+        "CS.chikitsa.15"
+      ],
+      "related": [
+        "dhatu-poshana-nyaya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "kedari-kulya-nyaya",
+      "devanagari": "केदारीकुल्या न्याय",
+      "iast": "kedārīkulyā nyāya",
+      "simple": "Kedari Kulya Nyaya",
+      "en": "'Irrigation-channel analogy': nutrient rasa flows through each dhātu in turn, as water flows from a channel to successive fields, nourishing nearer ones first.",
+      "hi": "केदारी-कुल्या न्याय - जैसे नहर का जल क्रम से खेतों को सींचता है, वैसे रस क्रम से धातुओं को पोषित करता है।",
+      "modern": "",
+      "category": "kriya",
+      "source_refs": [
+        "CS.chikitsa.15"
+      ],
+      "related": [
+        "dhatu-poshana-nyaya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "khale-kapota-nyaya",
+      "devanagari": "खलेकपोत न्याय",
+      "iast": "khalekapota nyāya",
+      "simple": "Khale Kapota Nyaya",
+      "en": "'Pigeons-at-the-threshing-floor analogy': each dhātu picks its own nutrients from the common pool and returns to its site, as pigeons pick grain and fly home.",
+      "hi": "खले-कपोत न्याय - जैसे कबूतर खलिहान से अपना दाना चुनकर ले जाते हैं, वैसे प्रत्येक धातु अपना पोषण चुनता है।",
+      "modern": "Resembles selective cellular uptake of nutrients.",
+      "category": "kriya",
+      "source_refs": [
+        "CS.chikitsa.15"
+      ],
+      "related": [
+        "dhatu-poshana-nyaya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "nidra",
+      "devanagari": "निद्रा",
+      "iast": "nidrā",
+      "simple": "Nidra",
+      "en": "Sleep; arises when the mind and senses, tired, withdraw from their objects. Proper sleep brings happiness, nourishment, strength, virility, knowledge and life. One of the three upastambhas (sub-pillars) of life.",
+      "hi": "निद्रा - जब थका हुआ मन व इन्द्रियाँ विषयों से हट जाती हैं; उचित निद्रा से सुख, पुष्टि, बल, ज्ञान और जीवन।",
+      "modern": "Sleep.",
+      "category": "kriya",
+      "source_refs": [
+        "CS.sutra.21"
+      ],
+      "related": [
+        "trayopastambha",
+        "ahara",
+        "brahmacharya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "kshudha",
+      "devanagari": "क्षुधा",
+      "iast": "kṣudhā",
+      "simple": "Kshudha",
+      "en": "Hunger; a natural urge (vega) that should not be suppressed; a sign of good agni. Suppression causes emaciation, weakness, body ache and dizziness.",
+      "hi": "क्षुधा - भूख; अधारणीय वेग; अच्छी अग्नि का लक्षण।",
+      "modern": "Hunger.",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sutra.4.1"
+      ],
+      "related": [
+        "vega",
+        "agni"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "vaya",
+      "devanagari": "वय",
+      "iast": "vayas",
+      "simple": "Vaya (Age)",
+      "en": "Age group: bālya (childhood, to 16 years), madhya (middle age, 16 to 70) and vṛddha (old age, after 70) per Vāgbhaṭa. Kapha dominates childhood, pitta middle age and vāta old age.",
+      "hi": "वय - आयु वर्ग: बाल्य (16 वर्ष तक), मध्य (16-70), वृद्ध (70 के बाद); क्रमशः कफ, पित्त, वात प्रधान।",
+      "modern": "",
+      "category": "kriya",
+      "source_refs": [
+        "AH.sharira.3.105",
+        "AH.sutra.1.8"
+      ],
+      "related": [
+        "dashavidha-pariksha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "satmya",
+      "devanagari": "सात्म्य",
+      "iast": "sātmya",
+      "simple": "Satmya",
+      "en": "That which is wholesome to a person through habit or nature (literally 'that which becomes one with the self'). Types include okasātmya (habituation), deśa-sātmya and rogasātmya; also one of the tenfold examinations.",
+      "hi": "सात्म्य - जो व्यक्ति के अनुकूल हो (अभ्यास या स्वभाव से); ओकसात्म्य, देशसात्म्य आदि।",
+      "modern": "Comparable to acquired tolerance/adaptation.",
+      "category": "kriya",
+      "source_refs": [
+        "CS.vimana.1",
+        "CS.vimana.8"
+      ],
+      "related": [
+        "okasatmya",
+        "upashaya",
+        "dashavidha-pariksha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "okasatmya",
+      "devanagari": "ओकसात्म्य",
+      "iast": "okasātmya",
+      "simple": "Okasatmya",
+      "en": "Habituation: a substance that suits a person because of long use, even if it is not inherently wholesome. Unwholesome habits should be given up gradually (by quarters).",
+      "hi": "ओकसात्म्य - लम्बे अभ्यास से अनुकूल हुआ पदार्थ; अहितकर आदत को धीरे-धीरे छोड़ना चाहिए।",
+      "modern": "Comparable to physiological adaptation/tolerance.",
+      "category": "kriya",
+      "source_refs": [
+        "CS.sutra.6",
+        "CS.vimana.1"
+      ],
+      "related": [
+        "satmya"
+      ],
+      "review_status": "ai_draft"
+    }
+  ]
+}

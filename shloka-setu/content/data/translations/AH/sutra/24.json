@@ -1,0 +1,2051 @@
+{
+ "chapter": {
+  "id": "AH.sutra.24",
+  "text": "ashtanga_hridaya",
+  "sthana": "sutra",
+  "chapter": 24,
+  "title_iast": "Tarpaṇapuṭapākavidhi Adhyāya",
+  "title_devanagari": "तर्पणपुटपाकविधिरध्यायः",
+  "title_en": "The chapter on the procedures of eye nourishment (tarpaṇa) and puṭapāka",
+  "title_hi": "तर्पण-पुटपाक विधि अध्याय (नेत्र तर्पण और पुटपाक की विधि)",
+  "summary_en": "This chapter continues the local eye therapies (netra kriyākalpa) with two nourishing procedures. Netra-tarpaṇa means retaining medicated ghee (or vasā in night blindness and vāta-timira) over the open eye inside a ring of barley and black-gram dough, two aṅgula high. The chapter gives its indications (dry, rough, tired, injured eyes and diseases like timira, adhimantha and vātaparyaya), the condition that acute inflammation must first subside, the famous holding-time (dhāraṇa-kāla) table in mātrā by site and by doṣa, frequency by doṣa, and the signs of proper, deficient and excessive tarpaṇa. Puṭapāka follows tarpaṇa to restore strength to the eye; it is of three types, snehana, lekhana and prasādana, prepared by roasting meat and drug paste in a clay-coated leaf packet and squeezing out the juice. The chapter ends with the contraindications (same as nasya) and the rule that the post-therapy regimen lasts twice the treatment period. Tables of mātrā and types are high-yield for exams.",
+  "summary_hi": "यह अध्याय नेत्र क्रियाकल्प की दो पोषक प्रक्रियाएँ बताता है। नेत्र-तर्पण में जौ और उड़द के आटे की दो अंगुल ऊँची पाली बनाकर खुली आँख पर औषधि-सिद्ध घी (रतौंधी और वातज तिमिर में वसा) रोका जाता है। इसमें तर्पण के संकेत (सूखी, रूखी, थकी, चोटग्रस्त आँख तथा तिमिर, अधिमन्थ, वातपर्याय जैसे रोग), यह शर्त कि पहले तीव्र सूजन शान्त हो, स्थान और दोष के अनुसार धारण-काल (मात्रा) की प्रसिद्ध तालिका, दोष के अनुसार आवृत्ति, और सम्यक्, हीन व अति तर्पण के लक्षण दिए गए हैं। तर्पण के बाद आँख का बल लौटाने के लिए पुटपाक दिया जाता है; यह स्नेहन, लेखन और प्रसादन तीन प्रकार का है, जिसे मांस और औषधि-कल्क को पत्तों और मिट्टी में लपेटकर भूनने और फिर रस निचोड़ने से बनाया जाता है। अन्त में निषेध (नस्य के समान) और यह नियम है कि पथ्य-काल चिकित्सा का दुगुना होता है। मात्रा और प्रकारों की तालिकाएँ परीक्षा के लिए बहुत महत्वपूर्ण हैं।",
+  "key_concepts": [
+   "tarpaṇa",
+   "puṭapāka",
+   "pālī",
+   "mātrā",
+   "dhāraṇa-kāla",
+   "tṛpti",
+   "snehana",
+   "lekhana",
+   "prasādana",
+   "vasā"
+  ],
+  "exam_focus_en": [
+   "Indications and contraindications of netra-tarpaṇa (and the rule that acute signs must subside first).",
+   "Procedure of tarpaṇa: supine position, pālī of yava-māṣa dough 2 aṅgula high, ghee melted over hot water, filled up to the eyelash tips, drained from the apāṅga, followed by dhūmapāna.",
+   "Dhāraṇa-kāla table: vartma 100, sandhi 300, śukla 500, kṛṣṇa 700, dṛṣṭi 800, vāta/adhimantha 1000, pitta 600, kapha/healthy 500 mātrā.",
+   "Frequency (vāta daily, pitta alternate days, kapha/healthy every third day) and signs of samyak, hīna and ati tarpaṇa.",
+   "Three types of puṭapāka with their indications, leaves used (eraṇḍa, vaṭa, kamala), temperature and holding times (100, 200, 300).",
+   "Post-therapy regimen lasts twice the number of treatment days."
+  ],
+  "exam_focus_hi": [
+   "नेत्र-तर्पण के संकेत और निषेध (और यह नियम कि पहले तीव्र लक्षण शान्त हों)।",
+   "तर्पण की विधि: पीठ के बल लिटाना, जौ-उड़द के आटे की 2 अंगुल ऊँची पाली, गरम पानी में पिघलाया घी, बरौनियों के सिरे तक भरना, अपाङ्ग से निकालना, फिर धूमपान।",
+   "धारण-काल तालिका: वर्त्म 100, संधि 300, शुक्ल 500, कृष्ण 700, दृष्टि 800, वात/अधिमन्थ 1000, पित्त 600, कफ/स्वस्थ 500 मात्रा।",
+   "आवृत्ति (वात में प्रतिदिन, पित्त में एक दिन छोड़कर, कफ/स्वस्थ में दो दिन छोड़कर) और सम्यक्, हीन व अति तर्पण के लक्षण।",
+   "पुटपाक के तीन प्रकार, उनके संकेत, प्रयुक्त पत्ते (एरण्ड, वट, कमल), तापमान और धारण-काल (100, 200, 300)।",
+   "चिकित्सा के बाद पथ्य-काल चिकित्सा के दिनों का दुगुना होता है।"
+  ],
+  "syllabus_refs": [
+   "AyUG-SA1"
+  ],
+  "review_status": "ai_draft"
+ },
+ "verses": [
+  {
+   "id": "AH.sutra.24.1",
+   "word_meanings": [
+    {
+     "sa": "नयने",
+     "iast": "nayane",
+     "en": "when the eye",
+     "hi": "जब आँख"
+    },
+    {
+     "sa": "ताम्यति",
+     "iast": "tāmyati",
+     "en": "feels dark, fatigued",
+     "hi": "अँधेरा-सा या थकान महसूस करे"
+    },
+    {
+     "sa": "स्तब्धे",
+     "iast": "stabdhe",
+     "en": "stiff",
+     "hi": "जकड़ी हुई"
+    },
+    {
+     "sa": "शुष्के",
+     "iast": "śuṣke",
+     "en": "dry",
+     "hi": "सूखी"
+    },
+    {
+     "sa": "रूक्षे",
+     "iast": "rūkṣe",
+     "en": "rough",
+     "hi": "रूखी"
+    },
+    {
+     "sa": "अभिघातिते",
+     "iast": "abhighātite",
+     "en": "injured",
+     "hi": "चोट लगी हुई"
+    },
+    {
+     "sa": "वातपित्तातुरे",
+     "iast": "vāta-pittāture",
+     "en": "afflicted by vāta and pitta",
+     "hi": "वात-पित्त से पीड़ित"
+    },
+    {
+     "sa": "जिह्मे",
+     "iast": "jihme",
+     "en": "crooked, squinting",
+     "hi": "टेढ़ी (तिरछी)"
+    },
+    {
+     "sa": "शीर्णपक्ष्म",
+     "iast": "śīrṇa-pakṣma",
+     "en": "with fallen eyelashes",
+     "hi": "जिसकी बरौनियाँ झड़ गई हों"
+    },
+    {
+     "sa": "आविलेक्षणे",
+     "iast": "āvilekṣaṇe",
+     "en": "with turbid vision",
+     "hi": "धुंधली दृष्टि वाली"
+    }
+   ],
+   "english": "When the eye feels dark and fatigued, is stiff, dry, rough or injured, is afflicted by vāta and pitta, is crooked (squinting), has lost its eyelashes, or has turbid vision,",
+   "hindi": "जब आँख में अँधेरा-सा या थकान लगे, आँख जकड़ी, सूखी, रूखी या चोट लगी हो, वात-पित्त से पीड़ित हो, टेढ़ी (तिरछी) हो, बरौनियाँ झड़ गई हों या दृष्टि धुंधली हो,",
+   "explanation_en": "Verses 1-3 give the indications for tarpaṇa (nourishing the eye with medicated ghee). Notice that most indications are signs of dryness and depletion (vāta) or heat (pitta), which ghee counteracts. Learn this list for the question 'indications of netra-tarpaṇa'.",
+   "explanation_hi": "श्लोक 1-3 तर्पण (औषधि-सिद्ध घी से आँख को पोषण देना) के संकेत बताते हैं। ध्यान दें कि अधिकतर संकेत रूखेपन और क्षय (वात) या गरमी (पित्त) के लक्षण हैं, जिन्हें घी ठीक करता है। 'नेत्र-तर्पण के संकेत' प्रश्न के लिए यह सूची याद करें।",
+   "modern_correlation": {
+    "en": "Many of these features (dryness, roughness, fatigue, blurred vision) overlap with what modern ophthalmology describes as dry eye and ocular surface disease, where lubricating, lipid-based preparations are used.",
+    "hi": "इनमें से कई लक्षण (सूखापन, रूखापन, थकान, धुंधलापन) आधुनिक नेत्र-विज्ञान के 'ड्राई आई' और नेत्र-सतह रोगों से मिलते हैं, जिनमें चिकनाई देने वाली, तैलीय दवाएँ प्रयोग होती हैं।"
+   },
+   "key_terms": [
+    "tarpaṇa",
+    "śuṣka",
+    "rūkṣa",
+    "abhighāta"
+   ],
+   "tags": [
+    "netra-kriyakalpa",
+    "tarpana",
+    "indications"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.24.2",
+   "word_meanings": [
+    {
+     "sa": "कृच्छ्रोन्मील",
+     "iast": "kṛcchronmīla",
+     "en": "difficulty in opening the eyes",
+     "hi": "आँख खोलने में कठिनाई"
+    },
+    {
+     "sa": "सिराहर्ष",
+     "iast": "sirā-harṣa",
+     "en": "sirāharṣa (congestion of vessels)",
+     "hi": "सिराहर्ष"
+    },
+    {
+     "sa": "सिरोत्पात",
+     "iast": "sirotpāta",
+     "en": "sirotpāta (bursting/redness of vessels)",
+     "hi": "सिरोत्पात"
+    },
+    {
+     "sa": "तमः",
+     "iast": "tamaḥ",
+     "en": "darkness (timira)",
+     "hi": "तिमिर (अँधेरा छाना)"
+    },
+    {
+     "sa": "अर्जुनैः",
+     "iast": "arjunaiḥ",
+     "en": "arjuna (subconjunctival red spot)",
+     "hi": "अर्जुन रोग"
+    },
+    {
+     "sa": "स्यन्द",
+     "iast": "syanda",
+     "en": "abhiṣyanda (conjunctivitis-like)",
+     "hi": "अभिष्यन्द"
+    },
+    {
+     "sa": "मन्थ",
+     "iast": "mantha",
+     "en": "adhimantha (severe eye pain)",
+     "hi": "अधिमन्थ"
+    },
+    {
+     "sa": "अन्यतोवात",
+     "iast": "anyatovāta",
+     "en": "anyatovāta (referred pain)",
+     "hi": "अन्यतोवात"
+    },
+    {
+     "sa": "वातपर्याय",
+     "iast": "vātaparyāya",
+     "en": "vātaparyaya (shifting pain)",
+     "hi": "वातपर्याय"
+    },
+    {
+     "sa": "शुक्रकैः",
+     "iast": "śukrakaiḥ",
+     "en": "śukraka (corneal opacity/ulcer)",
+     "hi": "शुक्रक"
+    }
+   ],
+   "english": "and in kṛcchronmīla (difficulty in opening the eyes), sirāharṣa, sirotpāta, tamas (timira), arjuna, syanda (abhiṣyanda), mantha (adhimantha), anyatovāta, vātaparyaya and śukraka,",
+   "hindi": "और कृच्छ्रोन्मील (आँख खोलने में कठिनाई), सिराहर्ष, सिरोत्पात, तिमिर, अर्जुन, अभिष्यन्द, अधिमन्थ, अन्यतोवात, वातपर्याय और शुक्रक रोगों में,",
+   "explanation_en": "This verse lists the named eye diseases (from the Uttarasthāna) in which tarpaṇa is used. You need not learn every disease now, but remember that tarpaṇa is used in vāta-dominant and chronic conditions like timira, adhimantha and vātaparyaya. The sentence completes in verse 3.",
+   "explanation_hi": "यह श्लोक उन नेत्र रोगों के नाम देता है (जो उत्तरस्थान में विस्तार से हैं) जिनमें तर्पण दिया जाता है। अभी सभी रोग याद करना जरूरी नहीं, पर इतना याद रखें कि तर्पण वात-प्रधान और पुराने रोगों जैसे तिमिर, अधिमन्थ, वातपर्याय में दिया जाता है। वाक्य श्लोक 3 में पूरा होता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "timira",
+    "abhiṣyanda",
+    "adhimantha",
+    "anyatovāta",
+    "vātaparyaya",
+    "śukraka",
+    "arjuna"
+   ],
+   "tags": [
+    "netra-kriyakalpa",
+    "tarpana",
+    "indications"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.24.3",
+   "word_meanings": [
+    {
+     "sa": "आतुरे",
+     "iast": "āture",
+     "en": "in a patient",
+     "hi": "रोगी में"
+    },
+    {
+     "sa": "शान्त",
+     "iast": "śānta",
+     "en": "subsided",
+     "hi": "शान्त हो चुके"
+    },
+    {
+     "sa": "राग",
+     "iast": "rāga",
+     "en": "redness",
+     "hi": "लालिमा"
+    },
+    {
+     "sa": "अश्रु",
+     "iast": "aśru",
+     "en": "watering",
+     "hi": "आँसू"
+    },
+    {
+     "sa": "शूल",
+     "iast": "śūla",
+     "en": "pain",
+     "hi": "शूल"
+    },
+    {
+     "sa": "संरम्भ",
+     "iast": "saṃrambha",
+     "en": "inflammation",
+     "hi": "सूजन"
+    },
+    {
+     "sa": "दूषिके",
+     "iast": "dūṣike",
+     "en": "discharge",
+     "hi": "कीचड़/स्राव"
+    },
+    {
+     "sa": "निवाते",
+     "iast": "nivāte",
+     "en": "in a windless place",
+     "hi": "हवा रहित स्थान में"
+    },
+    {
+     "sa": "तर्पणम्",
+     "iast": "tarpaṇam",
+     "en": "tarpaṇa (eye nourishment)",
+     "hi": "तर्पण"
+    },
+    {
+     "sa": "योज्यम्",
+     "iast": "yojyam",
+     "en": "should be applied",
+     "hi": "देना चाहिए"
+    },
+    {
+     "sa": "शुद्धयोः",
+     "iast": "śuddhayoḥ",
+     "en": "both purified",
+     "hi": "दोनों शुद्ध होने पर"
+    },
+    {
+     "sa": "मूर्धकाययोः",
+     "iast": "mūrdha-kāyayoḥ",
+     "en": "of head and body",
+     "hi": "सिर और शरीर के"
+    }
+   ],
+   "english": "in a patient whose redness, watering, pain, inflammation and discharge have subsided, tarpaṇa should be applied in a windless place, after both the head and the body have been purified.",
+   "hindi": "ऐसे रोगी में, जिसकी लालिमा, आँसू, दर्द, सूजन और कीचड़ शान्त हो चुके हों, हवा रहित स्थान में तर्पण देना चाहिए, जब सिर (नस्य से) और शरीर (वमन-विरेचन से) दोनों शुद्ध हो चुके हों।",
+   "explanation_en": "Key condition: tarpaṇa is given only after the acute inflammatory signs have settled, and after śiro-virecana (nasya) and body purification. Giving oily therapy during acute inflammation would worsen it. This sequence (acute phase first, then nourishment) is a frequently tested principle.",
+   "explanation_hi": "मुख्य शर्त: तर्पण केवल तब दिया जाता है जब तीव्र सूजन के लक्षण शान्त हो जाएँ, और नस्य तथा शरीर-शोधन हो चुका हो। तीव्र सूजन में स्नेह देने से रोग बढ़ता है। यह क्रम (पहले तीव्र अवस्था, फिर पोषण) परीक्षा में पूछा जाता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "tarpaṇa",
+    "śodhana",
+    "nasya",
+    "nivāta"
+   ],
+   "tags": [
+    "netra-kriyakalpa",
+    "tarpana",
+    "indications"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.24.4",
+   "word_meanings": [
+    {
+     "sa": "काले",
+     "iast": "kāle",
+     "en": "in the season",
+     "hi": "ऋतु में"
+    },
+    {
+     "sa": "साधारणे",
+     "iast": "sādhāraṇe",
+     "en": "moderate (neither hot nor cold)",
+     "hi": "साधारण (न अधिक गरम, न ठंडी)"
+    },
+    {
+     "sa": "प्रातः",
+     "iast": "prātaḥ",
+     "en": "morning",
+     "hi": "सुबह"
+    },
+    {
+     "sa": "सायम्",
+     "iast": "sāyam",
+     "en": "evening",
+     "hi": "शाम"
+    },
+    {
+     "sa": "वा",
+     "iast": "vā",
+     "en": "or",
+     "hi": "या"
+    },
+    {
+     "sa": "उत्तानशायिनः",
+     "iast": "uttāna-śāyinaḥ",
+     "en": "of one lying on the back",
+     "hi": "पीठ के बल लेटे हुए का"
+    },
+    {
+     "sa": "यवमाषमयीम्",
+     "iast": "yava-māṣa-mayīm",
+     "en": "made of barley and black gram (dough)",
+     "hi": "जौ और उड़द के आटे से बनी"
+    },
+    {
+     "sa": "पालीम्",
+     "iast": "pālīm",
+     "en": "a wall, ring",
+     "hi": "पाली (मेड़/दीवार)"
+    },
+    {
+     "sa": "नेत्रकोशात्",
+     "iast": "netra-kośāt",
+     "en": "from the eye socket",
+     "hi": "नेत्र-कोश (आँख के गड्ढे) से"
+    },
+    {
+     "sa": "बहिः",
+     "iast": "bahiḥ",
+     "en": "outside",
+     "hi": "बाहर"
+    },
+    {
+     "sa": "समाम्",
+     "iast": "samām",
+     "en": "even",
+     "hi": "समान"
+    }
+   ],
+   "english": "In a moderate season, in the morning or evening, with the patient lying on his back, [the physician] should make an even wall (pālī) of barley and black-gram dough outside the eye socket,",
+   "hindi": "साधारण ऋतु में, सुबह या शाम, रोगी को पीठ के बल लिटाकर, आँख के गड्ढे के बाहर चारों ओर जौ और उड़द के आटे की एक समान पाली (मेड़) बनाए,",
+   "explanation_en": "The procedure of tarpaṇa begins: timing, position (supine) and the dough ring around the orbit that holds the ghee. Black gram dough is sticky and does not leak, which is why it is chosen. Verses 4-6 together describe the setup.",
+   "explanation_hi": "तर्पण की विधि शुरू होती है: समय, स्थिति (पीठ के बल लेटना) और आँख के चारों ओर आटे की पाली, जिसमें घी भरा जाता है। उड़द का आटा चिपचिपा होता है और घी बाहर नहीं निकलने देता, इसलिए इसे चुना जाता है। श्लोक 4-6 मिलकर पूरी तैयारी बताते हैं।",
+   "modern_correlation": {
+    "en": "Retaining a medicated fluid over the open eye is often compared to the idea of increasing contact time to improve local drug absorption, a principle also used in modern ocular drug delivery.",
+    "hi": "आँख पर औषधि-द्रव को रोककर रखना, दवा के सम्पर्क-समय को बढ़ाकर स्थानीय अवशोषण सुधारने के सिद्धान्त से मिलता है, जो आधुनिक नेत्र औषधि-वितरण में भी प्रयोग होता है।"
+   },
+   "key_terms": [
+    "tarpaṇa",
+    "pālī",
+    "māṣa",
+    "yava"
+   ],
+   "tags": [
+    "netra-kriyakalpa",
+    "tarpana",
+    "procedure"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.24.5",
+   "word_meanings": [
+    {
+     "sa": "द्व्यङ्गुलोच्चाम्",
+     "iast": "dvy-aṅguloccām",
+     "en": "two aṅgula high",
+     "hi": "दो अंगुल ऊँची"
+    },
+    {
+     "sa": "दृढाम्",
+     "iast": "dṛḍhām",
+     "en": "firm",
+     "hi": "मजबूत"
+    },
+    {
+     "sa": "कृत्वा",
+     "iast": "kṛtvā",
+     "en": "having made",
+     "hi": "बनाकर"
+    },
+    {
+     "sa": "यथास्वम्",
+     "iast": "yathā-svam",
+     "en": "as appropriate (to the disease)",
+     "hi": "रोग के अनुसार"
+    },
+    {
+     "sa": "सिद्धम्",
+     "iast": "siddham",
+     "en": "medicated, processed",
+     "hi": "औषधि से सिद्ध"
+    },
+    {
+     "sa": "आवपेत्",
+     "iast": "āvapet",
+     "en": "should pour in",
+     "hi": "भरे"
+    },
+    {
+     "sa": "सर्पिः",
+     "iast": "sarpiḥ",
+     "en": "ghee",
+     "hi": "घी"
+    },
+    {
+     "sa": "निमीलिते",
+     "iast": "nimīlite",
+     "en": "closed",
+     "hi": "बंद"
+    },
+    {
+     "sa": "नेत्रे",
+     "iast": "netre",
+     "en": "on the eye",
+     "hi": "आँख पर"
+    },
+    {
+     "sa": "तप्ताम्बुप्रविलायितम्",
+     "iast": "taptāmbu-pravilāyitam",
+     "en": "liquefied over hot water",
+     "hi": "गरम पानी में पिघलाया हुआ"
+    }
+   ],
+   "english": "two aṅgula high and firm. Having made it, he should pour into it, over the closed eye, ghee medicated as appropriate to the disease, liquefied by placing it in hot water.",
+   "hindi": "जो दो अंगुल ऊँची और मजबूत हो। इसे बनाकर, बंद आँख पर, रोग के अनुसार औषधि-सिद्ध घी, जिसे गरम पानी में रखकर पिघलाया गया हो, भरना चाहिए।",
+   "explanation_en": "The ring is 2 aṅgula high. The ghee is poured while the eye is closed, and is melted indirectly in hot water (a water bath) so that it is just warm and never too hot for the eye. 'Pālī 2 aṅgula high' is a common one-line answer.",
+   "explanation_hi": "पाली 2 अंगुल ऊँची होती है। घी बंद आँख पर डाला जाता है, और उसे सीधे आग पर नहीं, बल्कि गरम पानी में रखकर पिघलाया जाता है ताकि वह हल्का गुनगुना रहे और आँख को न जलाए। 'पाली की ऊँचाई 2 अंगुल' एक सामान्य छोटा उत्तर है।",
+   "modern_correlation": {
+    "en": "Melting the ghee in a water bath to avoid overheating broadly parallels the modern practice of warming preparations indirectly to a safe, controlled temperature before applying them near the eye.",
+    "hi": "घी को पानी में रखकर पिघलाना, आधुनिक तरीके से मिलता है जिसमें आँख के पास लगाने से पहले दवा को अप्रत्यक्ष रूप से सुरक्षित तापमान तक गरम किया जाता है।"
+   },
+   "key_terms": [
+    "tarpaṇa",
+    "sarpis",
+    "ghṛta",
+    "pālī"
+   ],
+   "tags": [
+    "netra-kriyakalpa",
+    "tarpana",
+    "procedure"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.24.6",
+   "word_meanings": [
+    {
+     "sa": "नक्तान्ध्य",
+     "iast": "naktāndhya",
+     "en": "night blindness",
+     "hi": "रतौंधी"
+    },
+    {
+     "sa": "वाततिमिर",
+     "iast": "vāta-timira",
+     "en": "vāta-type timira",
+     "hi": "वातज तिमिर"
+    },
+    {
+     "sa": "कृच्छ्रबोध",
+     "iast": "kṛcchra-bodha",
+     "en": "difficulty in opening/waking of the eye",
+     "hi": "आँख खुलने में कठिनाई"
+    },
+    {
+     "sa": "आदिके",
+     "iast": "ādike",
+     "en": "and the like",
+     "hi": "आदि में"
+    },
+    {
+     "sa": "वसाम्",
+     "iast": "vasām",
+     "en": "muscle fat (vasā)",
+     "hi": "वसा (मांस की चर्बी)"
+    },
+    {
+     "sa": "आपक्ष्माग्रात्",
+     "iast": "ā-pakṣmāgrāt",
+     "en": "up to the tips of the eyelashes",
+     "hi": "बरौनियों के सिरों तक"
+    },
+    {
+     "sa": "अथ",
+     "iast": "atha",
+     "en": "then",
+     "hi": "फिर"
+    },
+    {
+     "sa": "उन्मेषम्",
+     "iast": "unmeṣam",
+     "en": "opening (of the eye)",
+     "hi": "आँख खोलना"
+    },
+    {
+     "sa": "शनकैः",
+     "iast": "śanakaiḥ",
+     "en": "slowly",
+     "hi": "धीरे-धीरे"
+    },
+    {
+     "sa": "तस्य",
+     "iast": "tasya",
+     "en": "of him (the patient)",
+     "hi": "उस (रोगी) के"
+    },
+    {
+     "sa": "कुर्वतः",
+     "iast": "kurvataḥ",
+     "en": "doing",
+     "hi": "करते हुए"
+    }
+   ],
+   "english": "In night blindness (naktāndhya), vāta-type timira, difficulty in opening the eye and similar conditions, vasā (muscle fat) is used instead. [It is filled] up to the tips of the eyelashes. Then, as the patient slowly opens his eye,",
+   "hindi": "रतौंधी (नक्तान्ध्य), वातज तिमिर, आँख खोलने में कठिनाई आदि रोगों में घी के स्थान पर वसा (चर्बी) का प्रयोग होता है। इसे बरौनियों के सिरों तक भरा जाता है। फिर जब रोगी धीरे-धीरे आँख खोलता है,",
+   "explanation_en": "Two practical points: vasā (animal fat) is preferred in naktāndhya and vāta-timira, and the fill level is 'up to the eyelash tips'. Once the eye is covered, the patient opens it slowly so that the medicine bathes the eye. The time count follows in verses 7-8.",
+   "explanation_hi": "दो व्यावहारिक बातें: रतौंधी और वातज तिमिर में वसा को श्रेष्ठ माना गया है, और भरने की सीमा है 'बरौनियों के सिरे तक'। आँख ढकने के बाद रोगी धीरे-धीरे आँख खोलता है ताकि दवा आँख को नहलाए। समय की गिनती श्लोक 7-8 में है।",
+   "modern_correlation": {
+    "en": "The use of animal fat (vasā), and of liver in later verses, in night blindness is often noted alongside the modern understanding that night blindness can result from vitamin A deficiency, as animal liver and fats are rich in this fat-soluble vitamin. This is a historical parallel, not a proven mechanism of the classical procedure.",
+    "hi": "रतौंधी में पशु-वसा (और आगे के श्लोकों में यकृत) के प्रयोग की तुलना अक्सर इस आधुनिक समझ से की जाती है कि रतौंधी विटामिन A की कमी से हो सकती है, और पशु-यकृत व वसा इस वसा-घुलनशील विटामिन से भरपूर होते हैं। यह एक ऐतिहासिक समानता है, शास्त्रीय विधि की सिद्ध कार्यविधि नहीं।"
+   },
+   "key_terms": [
+    "naktāndhya",
+    "timira",
+    "vasā",
+    "tarpaṇa"
+   ],
+   "tags": [
+    "netra-kriyakalpa",
+    "tarpana",
+    "procedure"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.24.7",
+   "word_meanings": [
+    {
+     "sa": "मात्राः",
+     "iast": "mātrāḥ",
+     "en": "time units (mātrā)",
+     "hi": "मात्राएँ (समय की इकाई)"
+    },
+    {
+     "sa": "विगणयेत्",
+     "iast": "vigaṇayet",
+     "en": "should count",
+     "hi": "गिने"
+    },
+    {
+     "sa": "तत्र",
+     "iast": "tatra",
+     "en": "there, for this",
+     "hi": "उसमें"
+    },
+    {
+     "sa": "वर्त्म",
+     "iast": "vartma",
+     "en": "eyelids",
+     "hi": "पलकें (वर्त्म)"
+    },
+    {
+     "sa": "संधि",
+     "iast": "saṃdhi",
+     "en": "junctions (canthi)",
+     "hi": "संधियाँ"
+    },
+    {
+     "sa": "सित",
+     "iast": "sita",
+     "en": "white part (sclera)",
+     "hi": "श्वेत मण्डल"
+    },
+    {
+     "sa": "असिते",
+     "iast": "asite",
+     "en": "black part (cornea/iris)",
+     "hi": "कृष्ण मण्डल"
+    },
+    {
+     "sa": "दृष्टौ",
+     "iast": "dṛṣṭau",
+     "en": "in the pupil/vision",
+     "hi": "दृष्टि में"
+    },
+    {
+     "sa": "क्रमशः",
+     "iast": "kramaśaḥ",
+     "en": "respectively",
+     "hi": "क्रम से"
+    },
+    {
+     "sa": "व्याधौ",
+     "iast": "vyādhau",
+     "en": "in disease",
+     "hi": "रोग में"
+    },
+    {
+     "sa": "शतम्",
+     "iast": "śatam",
+     "en": "one hundred",
+     "hi": "सौ"
+    },
+    {
+     "sa": "त्रीणि",
+     "iast": "trīṇi",
+     "en": "three (hundred)",
+     "hi": "तीन (सौ)"
+    },
+    {
+     "sa": "पञ्च",
+     "iast": "pañca",
+     "en": "five (hundred)",
+     "hi": "पाँच (सौ)"
+    }
+   ],
+   "english": "the physician should count the time units (mātrā). For disease of the eyelids (vartma), the junctions (sandhi), the white (sita), the black (asita) and the pupil (dṛṣṭi), respectively, [hold for] 100, 300, 500,",
+   "hindi": "तब वैद्य मात्राएँ (समय की इकाई) गिने। पलकों (वर्त्म), संधियों, श्वेत मण्डल, कृष्ण मण्डल और दृष्टि के रोग में क्रम से 100, 300, 500,",
+   "explanation_en": "This begins the famous dhāraṇa-kāla (holding time) table for tarpaṇa, one of the most frequently asked questions in this section. The deeper the part of the eye, the longer the holding time. One mātrā is commonly explained as roughly the time of one blink or a finger snap.",
+   "explanation_hi": "यहाँ से तर्पण के प्रसिद्ध धारण-काल (रोकने का समय) की तालिका शुरू होती है, जो इस भाग का सबसे अधिक पूछा जाने वाला प्रश्न है। आँख का भाग जितना गहरा, धारण-काल उतना अधिक। एक मात्रा को सामान्यतः एक पलक झपकने या चुटकी बजाने जितना समय माना जाता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "mātrā",
+    "dhāraṇa-kāla",
+    "vartma",
+    "sandhi",
+    "śukla-maṇḍala",
+    "kṛṣṇa-maṇḍala",
+    "dṛṣṭi"
+   ],
+   "tags": [
+    "netra-kriyakalpa",
+    "tarpana",
+    "dosage"
+   ],
+   "importance": "high",
+   "mnemonic": "Outer to inner: Vartma 100, Sandhi 300, Sita 500, Asita 700, Dṛṣṭi 800 (1-3-5-7-8).",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.24.8",
+   "word_meanings": [
+    {
+     "sa": "शतानि",
+     "iast": "śatāni",
+     "en": "hundreds",
+     "hi": "सौ"
+    },
+    {
+     "sa": "सप्त",
+     "iast": "sapta",
+     "en": "seven",
+     "hi": "सात"
+    },
+    {
+     "sa": "अष्टौ",
+     "iast": "aṣṭau",
+     "en": "eight",
+     "hi": "आठ"
+    },
+    {
+     "sa": "दश",
+     "iast": "daśa",
+     "en": "ten (hundred)",
+     "hi": "दस (सौ)"
+    },
+    {
+     "sa": "मन्थे",
+     "iast": "manthe",
+     "en": "in adhimantha",
+     "hi": "अधिमन्थ में"
+    },
+    {
+     "sa": "अनिले",
+     "iast": "anile",
+     "en": "in vāta",
+     "hi": "वात में"
+    },
+    {
+     "sa": "पित्ते",
+     "iast": "pitte",
+     "en": "in pitta",
+     "hi": "पित्त में"
+    },
+    {
+     "sa": "षट्",
+     "iast": "ṣaṭ",
+     "en": "six (hundred)",
+     "hi": "छह (सौ)"
+    },
+    {
+     "sa": "स्वस्थवृत्ते",
+     "iast": "svastha-vṛtte",
+     "en": "in the healthy (preventive use)",
+     "hi": "स्वस्थ व्यक्ति में"
+    },
+    {
+     "sa": "बलासे",
+     "iast": "balāse",
+     "en": "in kapha",
+     "hi": "कफ में"
+    },
+    {
+     "sa": "पञ्च",
+     "iast": "pañca",
+     "en": "five (hundred)",
+     "hi": "पाँच (सौ)"
+    },
+    {
+     "sa": "धारयेत्",
+     "iast": "dhārayet",
+     "en": "should hold",
+     "hi": "धारण कराए"
+    }
+   ],
+   "english": "700 and 800 [mātrā]. In adhimantha and in vāta disorders, 1000; in pitta, 600; and in the healthy and in kapha, 500 mātrā should be held.",
+   "hindi": "700 और 800 मात्रा। अधिमन्थ और वात रोगों में 1000; पित्त में 600; और स्वस्थ व्यक्ति तथा कफ में 500 मात्रा तक धारण कराना चाहिए।",
+   "explanation_en": "The table is completed by doṣa: vāta and adhimantha 1000, pitta 600, kapha and healthy 500. Commentators differ slightly on whether 'svasthavṛtte' goes with 600 or 500; the common textbook value is 500 for the healthy. Draw this as a two-part table (by site and by doṣa) in the exam.",
+   "explanation_hi": "तालिका दोष के अनुसार पूरी होती है: वात और अधिमन्थ 1000, पित्त 600, कफ और स्वस्थ 500। 'स्वस्थवृत्ते' 600 के साथ है या 500 के साथ, इस पर टीकाकारों में थोड़ा मतभेद है; पाठ्य-पुस्तकों में स्वस्थ के लिए सामान्यतः 500 दिया जाता है। परीक्षा में इसे दो भागों की तालिका (स्थान और दोष के अनुसार) बनाकर लिखें।",
+   "modern_correlation": null,
+   "key_terms": [
+    "mātrā",
+    "dhāraṇa-kāla",
+    "adhimantha",
+    "svasthavṛtta"
+   ],
+   "tags": [
+    "netra-kriyakalpa",
+    "tarpana",
+    "dosage"
+   ],
+   "importance": "high",
+   "mnemonic": "Vāta 10, Pitta 6, Kapha 5 (hundred mātrā); healthy like kapha.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.24.9",
+   "word_meanings": [
+    {
+     "sa": "कृत्वा",
+     "iast": "kṛtvā",
+     "en": "having made",
+     "hi": "बनाकर"
+    },
+    {
+     "sa": "अपाङ्गे",
+     "iast": "apāṅge",
+     "en": "at the outer canthus",
+     "hi": "आँख के बाहरी कोने पर"
+    },
+    {
+     "sa": "ततः",
+     "iast": "tataḥ",
+     "en": "then",
+     "hi": "फिर"
+    },
+    {
+     "sa": "द्वारम्",
+     "iast": "dvāram",
+     "en": "an opening",
+     "hi": "छेद/रास्ता"
+    },
+    {
+     "sa": "स्नेहम्",
+     "iast": "sneham",
+     "en": "the oil/ghee",
+     "hi": "स्नेह को"
+    },
+    {
+     "sa": "पात्रे",
+     "iast": "pātre",
+     "en": "into a vessel",
+     "hi": "पात्र में"
+    },
+    {
+     "sa": "निगालयेत्",
+     "iast": "nigālayet",
+     "en": "should drain",
+     "hi": "निकाल दे"
+    },
+    {
+     "sa": "पिबेत्",
+     "iast": "pibet",
+     "en": "should inhale",
+     "hi": "पिए (सेवन करे)"
+    },
+    {
+     "sa": "धूमम्",
+     "iast": "dhūmam",
+     "en": "medicated smoke",
+     "hi": "धूम"
+    },
+    {
+     "sa": "न ईक्षेत",
+     "iast": "na īkṣeta",
+     "en": "should not look at",
+     "hi": "न देखे"
+    },
+    {
+     "sa": "व्योम",
+     "iast": "vyoma",
+     "en": "the sky",
+     "hi": "आकाश"
+    },
+    {
+     "sa": "रूपम्",
+     "iast": "rūpam",
+     "en": "objects",
+     "hi": "वस्तुएँ"
+    },
+    {
+     "sa": "भास्वरम्",
+     "iast": "bhāsvaram",
+     "en": "bright, shining",
+     "hi": "चमकीली"
+    }
+   ],
+   "english": "Then, making an opening at the outer canthus (apāṅga), he should drain the ghee into a vessel. The patient should then inhale medicated smoke (dhūma), and should not look at the sky or at bright objects.",
+   "hindi": "फिर आँख के बाहरी कोने (अपाङ्ग) पर पाली में छेद करके घी को एक पात्र में निकाल दे। इसके बाद रोगी धूमपान (औषधीय धुआँ) करे, और आकाश या चमकीली वस्तुओं को न देखे।",
+   "explanation_en": "After the holding time, the ghee is drained from the outer corner. Dhūmapāna is given afterwards to clear the kapha that the oily therapy may have increased in the head. Avoiding bright light protects the freshly treated eye. Post-tarpaṇa care is a short-note topic.",
+   "explanation_hi": "धारण-काल के बाद घी बाहरी कोने से निकाला जाता है। इसके बाद धूमपान कराया जाता है ताकि स्नेह से सिर में बढ़ा हुआ कफ साफ हो जाए। तेज रोशनी से बचना नई चिकित्सित आँख की रक्षा करता है। 'तर्पण के बाद की देखभाल' छोटे नोट का विषय है।",
+   "modern_correlation": {
+    "en": "Advising the patient to avoid bright light after the procedure broadly parallels the common modern advice to protect the eyes from glare after ocular treatments.",
+    "hi": "प्रक्रिया के बाद तेज रोशनी से बचने की सलाह, आँख के उपचार के बाद चकाचौंध से बचाने की आधुनिक सामान्य सलाह से मिलती है।"
+   },
+   "key_terms": [
+    "apāṅga",
+    "dhūmapāna",
+    "paścāt-karma"
+   ],
+   "tags": [
+    "netra-kriyakalpa",
+    "tarpana",
+    "procedure"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.24.10",
+   "word_meanings": [
+    {
+     "sa": "इत्थम्",
+     "iast": "ittham",
+     "en": "in this way",
+     "hi": "इस प्रकार"
+    },
+    {
+     "sa": "प्रतिदिनम्",
+     "iast": "prati-dinam",
+     "en": "every day",
+     "hi": "प्रतिदिन"
+    },
+    {
+     "sa": "वायौ",
+     "iast": "vāyau",
+     "en": "in vāta",
+     "hi": "वात में"
+    },
+    {
+     "sa": "पित्ते",
+     "iast": "pitte",
+     "en": "in pitta",
+     "hi": "पित्त में"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "परन्तु"
+    },
+    {
+     "sa": "एकान्तरम्",
+     "iast": "ekāntaram",
+     "en": "on alternate days",
+     "hi": "एक दिन छोड़कर"
+    },
+    {
+     "sa": "कफे",
+     "iast": "kaphe",
+     "en": "in kapha",
+     "hi": "कफ में"
+    },
+    {
+     "sa": "स्वस्थे",
+     "iast": "svasthe",
+     "en": "in the healthy",
+     "hi": "स्वस्थ में"
+    },
+    {
+     "sa": "द्व्यन्तरम्",
+     "iast": "dvy-antaram",
+     "en": "with a gap of two days",
+     "hi": "दो दिन छोड़कर"
+    },
+    {
+     "sa": "दद्यात्",
+     "iast": "dadyāt",
+     "en": "should give",
+     "hi": "दे"
+    },
+    {
+     "sa": "आतृप्तेः",
+     "iast": "ā-tṛpteḥ",
+     "en": "until proper satiation",
+     "hi": "उचित तृप्ति तक"
+    },
+    {
+     "sa": "इति",
+     "iast": "iti",
+     "en": "thus",
+     "hi": "इस प्रकार"
+    },
+    {
+     "sa": "योजयेत्",
+     "iast": "yojayet",
+     "en": "should apply",
+     "hi": "प्रयोग करे"
+    }
+   ],
+   "english": "In this way it should be given every day in vāta, on alternate days in pitta, and with a gap of two days in kapha and in the healthy; it should be continued until proper satiation (tṛpti) is achieved.",
+   "hindi": "इस प्रकार तर्पण वात में प्रतिदिन, पित्त में एक दिन छोड़कर, और कफ तथा स्वस्थ व्यक्ति में दो दिन छोड़कर देना चाहिए; इसे तब तक जारी रखें जब तक उचित तृप्ति के लक्षण न आ जाएँ।",
+   "explanation_en": "Frequency is also adjusted to the doṣa: daily for dry vāta, less often for pitta, least often for kapha and the healthy, because the oily therapy can increase kapha. The endpoint is 'tṛpti', whose signs are in the next verse.",
+   "explanation_hi": "आवृत्ति भी दोष के अनुसार है: रूखे वात में प्रतिदिन, पित्त में कम, और कफ तथा स्वस्थ में सबसे कम, क्योंकि स्नेह कफ बढ़ा सकता है। अन्त-बिन्दु 'तृप्ति' है, जिसके लक्षण अगले श्लोक में हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "tarpaṇa",
+    "tṛpti",
+    "ekāntara"
+   ],
+   "tags": [
+    "netra-kriyakalpa",
+    "tarpana",
+    "dosage"
+   ],
+   "importance": "high",
+   "mnemonic": "Vāta daily, Pitta every 2nd day, Kapha/healthy every 3rd day.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.24.11",
+   "word_meanings": [
+    {
+     "sa": "प्रकाशक्षमता",
+     "iast": "prakāśa-kṣama-tā",
+     "en": "ability to tolerate light",
+     "hi": "रोशनी सहन करने की क्षमता"
+    },
+    {
+     "sa": "स्वास्थ्यम्",
+     "iast": "svāsthyam",
+     "en": "health, comfort",
+     "hi": "स्वस्थता"
+    },
+    {
+     "sa": "विशदम्",
+     "iast": "viśadam",
+     "en": "clear",
+     "hi": "निर्मल"
+    },
+    {
+     "sa": "लघु",
+     "iast": "laghu",
+     "en": "light",
+     "hi": "हल्की"
+    },
+    {
+     "sa": "लोचनम्",
+     "iast": "locanam",
+     "en": "eye",
+     "hi": "आँख"
+    },
+    {
+     "sa": "तृप्ते",
+     "iast": "tṛpte",
+     "en": "in proper satiation",
+     "hi": "सम्यक् तृप्ति में"
+    },
+    {
+     "sa": "विपर्ययः",
+     "iast": "viparyayaḥ",
+     "en": "the opposite",
+     "hi": "इसके विपरीत"
+    },
+    {
+     "sa": "अतृप्ते",
+     "iast": "a-tṛpte",
+     "en": "in insufficient satiation",
+     "hi": "अपूर्ण तृप्ति (हीन योग) में"
+    },
+    {
+     "sa": "अतितृप्ते",
+     "iast": "ati-tṛpte",
+     "en": "in excessive satiation",
+     "hi": "अति तृप्ति में"
+    },
+    {
+     "sa": "श्लेष्मजाः",
+     "iast": "śleṣma-jāḥ",
+     "en": "born of kapha",
+     "hi": "कफ से उत्पन्न"
+    },
+    {
+     "sa": "रुजः",
+     "iast": "rujaḥ",
+     "en": "disorders",
+     "hi": "रोग"
+    }
+   ],
+   "english": "When properly satiated, the eye tolerates light, is healthy, clear and light. In insufficient satiation the opposite occurs; in excessive satiation, kapha-born disorders arise.",
+   "hindi": "सम्यक् तृप्ति होने पर आँख रोशनी सहन कर पाती है, स्वस्थ, निर्मल और हल्की रहती है। अपूर्ण तृप्ति में इसके विपरीत लक्षण होते हैं; और अति तृप्ति में कफजन्य रोग उत्पन्न होते हैं।",
+   "explanation_en": "This gives the signs of samyak-yoga, hīna-yoga and ati-yoga of tarpaṇa. These three-part 'proper, deficient, excessive' signs appear for every Ayurvedic procedure and are very commonly asked. Ati-tarpaṇa produces heaviness, itching, stickiness and watering, all kapha signs.",
+   "explanation_hi": "यह तर्पण के सम्यक् योग, हीन योग और अति योग के लक्षण बताता है। 'सम्यक्, हीन, अति' के ये तीन प्रकार के लक्षण हर आयुर्वेदिक प्रक्रिया में आते हैं और बहुत पूछे जाते हैं। अति-तर्पण से भारीपन, खुजली, चिपचिपापन और आँसू जैसे कफ लक्षण होते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "tṛpti",
+    "samyak-yoga",
+    "hīna-yoga",
+    "atiyoga",
+    "śleṣma"
+   ],
+   "tags": [
+    "netra-kriyakalpa",
+    "tarpana",
+    "assessment"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.24.12",
+   "word_meanings": [
+    {
+     "sa": "स्नेहपीता",
+     "iast": "sneha-pītā",
+     "en": "having drunk oil/fat",
+     "hi": "स्नेह पी हुई"
+    },
+    {
+     "sa": "तनुः",
+     "iast": "tanuḥ",
+     "en": "the body",
+     "hi": "शरीर"
+    },
+    {
+     "sa": "इव",
+     "iast": "iva",
+     "en": "like",
+     "hi": "की तरह"
+    },
+    {
+     "sa": "क्लान्ता",
+     "iast": "klāntā",
+     "en": "fatigued",
+     "hi": "थकी हुई"
+    },
+    {
+     "sa": "दृष्टिः",
+     "iast": "dṛṣṭiḥ",
+     "en": "the vision/eye",
+     "hi": "दृष्टि"
+    },
+    {
+     "sa": "हि",
+     "iast": "hi",
+     "en": "indeed, because",
+     "hi": "क्योंकि"
+    },
+    {
+     "sa": "सीदति",
+     "iast": "sīdati",
+     "en": "weakens",
+     "hi": "दुर्बल होती है"
+    },
+    {
+     "sa": "तर्पणानन्तरम्",
+     "iast": "tarpaṇānantaram",
+     "en": "immediately after tarpaṇa",
+     "hi": "तर्पण के तुरन्त बाद"
+    },
+    {
+     "sa": "तस्मात्",
+     "iast": "tasmāt",
+     "en": "therefore",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "दृग्बलाधानकारिणम्",
+     "iast": "dṛg-balādhāna-kāriṇam",
+     "en": "which gives strength to the vision",
+     "hi": "दृष्टि को बल देने वाला"
+    }
+   ],
+   "english": "Just as the body becomes tired after drinking fat (snehapāna), the eye, fatigued [by tarpaṇa], weakens. Therefore, immediately after tarpaṇa, [one should use] puṭapāka, which gives strength to the vision,",
+   "hindi": "जैसे स्नेहपान के बाद शरीर थका हुआ लगता है, वैसे ही तर्पण से थकी आँख कमजोर हो जाती है। इसलिए तर्पण के तुरन्त बाद पुटपाक का प्रयोग करना चाहिए, जो दृष्टि को बल देता है,",
+   "explanation_en": "This verse links tarpaṇa to puṭapāka with a neat analogy to internal snehapāna. Puṭapāka (eye therapy with juice extracted by roasting in a sealed packet) follows tarpaṇa to restore strength to the eye. Remember the sequence: tarpaṇa first, then puṭapāka.",
+   "explanation_hi": "यह श्लोक आन्तरिक स्नेहपान की सुन्दर उपमा से तर्पण को पुटपाक से जोड़ता है। पुटपाक (बंद पोटली में भूनकर निकाले गए रस से आँख की चिकित्सा) तर्पण के बाद आँख का बल लौटाने के लिए दिया जाता है। क्रम याद रखें: पहले तर्पण, फिर पुटपाक।",
+   "modern_correlation": null,
+   "key_terms": [
+    "puṭapāka",
+    "tarpaṇa",
+    "snehapāna",
+    "dṛṣṭibala"
+   ],
+   "tags": [
+    "netra-kriyakalpa",
+    "putapaka",
+    "sequence"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.24.13",
+   "word_meanings": [
+    {
+     "sa": "पुटपाकम्",
+     "iast": "puṭa-pākam",
+     "en": "puṭapāka",
+     "hi": "पुटपाक"
+    },
+    {
+     "sa": "प्रयुञ्जीत",
+     "iast": "prayuñjīta",
+     "en": "should apply",
+     "hi": "प्रयोग करे"
+    },
+    {
+     "sa": "पूर्वोक्तेषु",
+     "iast": "pūrvokteṣu",
+     "en": "in the previously mentioned",
+     "hi": "पहले बताए गए"
+    },
+    {
+     "sa": "एव",
+     "iast": "eva",
+     "en": "only, same",
+     "hi": "उन्हीं"
+    },
+    {
+     "sa": "यक्ष्मसु",
+     "iast": "yakṣmasu",
+     "en": "diseases",
+     "hi": "रोगों में"
+    },
+    {
+     "sa": "सः",
+     "iast": "saḥ",
+     "en": "it",
+     "hi": "वह"
+    },
+    {
+     "sa": "वाते",
+     "iast": "vāte",
+     "en": "in vāta",
+     "hi": "वात में"
+    },
+    {
+     "sa": "स्नेहनः",
+     "iast": "snehanaḥ",
+     "en": "unctuous (snehana type)",
+     "hi": "स्नेहन प्रकार"
+    },
+    {
+     "sa": "श्लेष्मसहिते",
+     "iast": "śleṣma-sahite",
+     "en": "when associated with kapha",
+     "hi": "कफ युक्त में"
+    },
+    {
+     "sa": "लेखनः",
+     "iast": "lekhanaḥ",
+     "en": "scraping (lekhana type)",
+     "hi": "लेखन प्रकार"
+    },
+    {
+     "sa": "हितः",
+     "iast": "hitaḥ",
+     "en": "is beneficial",
+     "hi": "हितकर है"
+    }
+   ],
+   "english": "puṭapāka, in the same diseases mentioned above. It is of the snehana (unctuous) type in vāta, of the lekhana (scraping) type when kapha is associated,",
+   "hindi": "पुटपाक, उन्हीं रोगों में जो पहले (तर्पण के लिए) बताए गए हैं। वात में स्नेहन प्रकार का पुटपाक, और कफ युक्त रोग में लेखन प्रकार का पुटपाक हितकर है,",
+   "explanation_en": "Puṭapāka has the same indications as tarpaṇa. Its three types are introduced: snehana, lekhana and prasādana (the last in the next verse). Note that 'yakṣman' here simply means 'disease', not tuberculosis.",
+   "explanation_hi": "पुटपाक के संकेत वही हैं जो तर्पण के हैं। इसके तीन प्रकार यहाँ से शुरू होते हैं: स्नेहन, लेखन और प्रसादन (अन्तिम अगले श्लोक में)। ध्यान दें कि यहाँ 'यक्ष्म' का अर्थ केवल 'रोग' है, राजयक्ष्मा नहीं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "puṭapāka",
+    "snehana",
+    "lekhana"
+   ],
+   "tags": [
+    "netra-kriyakalpa",
+    "putapaka",
+    "classification"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.24.14",
+   "word_meanings": [
+    {
+     "sa": "दृग्दौर्बल्ये",
+     "iast": "dṛg-daurbalye",
+     "en": "in weakness of vision",
+     "hi": "दृष्टि की कमजोरी में"
+    },
+    {
+     "sa": "अनिले",
+     "iast": "anile",
+     "en": "in vāta",
+     "hi": "वात में"
+    },
+    {
+     "sa": "पित्ते",
+     "iast": "pitte",
+     "en": "in pitta",
+     "hi": "पित्त में"
+    },
+    {
+     "sa": "रक्ते",
+     "iast": "rakte",
+     "en": "in blood disorders",
+     "hi": "रक्त विकार में"
+    },
+    {
+     "sa": "स्वस्थे",
+     "iast": "svasthe",
+     "en": "in the healthy",
+     "hi": "स्वस्थ में"
+    },
+    {
+     "sa": "प्रसादनः",
+     "iast": "prasādanaḥ",
+     "en": "the soothing (prasādana) type",
+     "hi": "प्रसादन प्रकार"
+    },
+    {
+     "sa": "भूशय",
+     "iast": "bhū-śaya",
+     "en": "burrowing animals",
+     "hi": "बिल में रहने वाले जीव"
+    },
+    {
+     "sa": "प्रसह",
+     "iast": "prasaha",
+     "en": "animals/birds that seize their prey",
+     "hi": "झपटकर खाने वाले जीव"
+    },
+    {
+     "sa": "आनूप",
+     "iast": "ānūpa",
+     "en": "marsh-dwelling animals",
+     "hi": "जलीय/दलदली क्षेत्र के जीव"
+    },
+    {
+     "sa": "मेदः",
+     "iast": "medaḥ",
+     "en": "fat",
+     "hi": "मेद"
+    },
+    {
+     "sa": "मज्जा",
+     "iast": "majjā",
+     "en": "marrow",
+     "hi": "मज्जा"
+    },
+    {
+     "sa": "वसा",
+     "iast": "vasā",
+     "en": "muscle fat",
+     "hi": "वसा"
+    },
+    {
+     "sa": "आमिषैः",
+     "iast": "āmiṣaiḥ",
+     "en": "with the flesh",
+     "hi": "मांस से"
+    }
+   ],
+   "english": "and of the prasādana (soothing) type in weakness of vision, in vāta, pitta and blood disorders, and in the healthy. With the flesh, fat, marrow and muscle-fat of burrowing (bhūśaya), seizing (prasaha) and marshy (ānūpa) animals,",
+   "hindi": "और प्रसादन प्रकार का पुटपाक दृष्टि की कमजोरी, वात, पित्त, रक्त विकार और स्वस्थ व्यक्ति में देना चाहिए। बिल में रहने वाले (भूशय), झपटकर खाने वाले (प्रसह) और दलदली क्षेत्र (आनूप) के जीवों के मांस, मेद, मज्जा और वसा से,",
+   "explanation_en": "The three types of puṭapāka are now complete: snehana (vāta), lekhana (kapha), prasādana (weak vision, pitta, rakta, healthy). The second half starts the ingredients of snehana puṭapāka, which finish in verse 15. The animal categories come from the meat classification in the dietetics chapters.",
+   "explanation_hi": "पुटपाक के तीनों प्रकार पूरे हुए: स्नेहन (वात), लेखन (कफ), प्रसादन (दृष्टि-दौर्बल्य, पित्त, रक्त, स्वस्थ)। दूसरी पंक्ति स्नेहन पुटपाक के द्रव्य शुरू करती है, जो श्लोक 15 में पूरे होते हैं। जीवों के ये वर्ग आहार अध्यायों के मांस-वर्गीकरण से आते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "prasādana",
+    "bhūśaya",
+    "prasaha",
+    "ānūpa",
+    "vasā",
+    "majjā"
+   ],
+   "tags": [
+    "netra-kriyakalpa",
+    "putapaka",
+    "classification",
+    "ingredients"
+   ],
+   "importance": "high",
+   "mnemonic": "Puṭapāka: Snehana-Vāta, Lekhana-Kapha, Prasādana-Pitta/Rakta/weak eyes/healthy.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.24.15",
+   "word_meanings": [
+    {
+     "sa": "स्नेहनम्",
+     "iast": "snehanam",
+     "en": "the unctuous (puṭapāka)",
+     "hi": "स्नेहन पुटपाक"
+    },
+    {
+     "sa": "पयसा",
+     "iast": "payasā",
+     "en": "with milk",
+     "hi": "दूध के साथ"
+    },
+    {
+     "sa": "पिष्टैः",
+     "iast": "piṣṭaiḥ",
+     "en": "ground",
+     "hi": "पीसे हुए"
+    },
+    {
+     "sa": "जीवनीयैः",
+     "iast": "jīvanīyaiḥ",
+     "en": "with vitalising (jīvanīya) drugs",
+     "hi": "जीवनीय गण के द्रव्यों से"
+    },
+    {
+     "sa": "कल्पयेत्",
+     "iast": "kalpayet",
+     "en": "should prepare",
+     "hi": "बनाए"
+    },
+    {
+     "sa": "मृग",
+     "iast": "mṛga",
+     "en": "animal",
+     "hi": "पशु"
+    },
+    {
+     "sa": "पक्षि",
+     "iast": "pakṣi",
+     "en": "bird",
+     "hi": "पक्षी"
+    },
+    {
+     "sa": "यकृत्",
+     "iast": "yakṛt",
+     "en": "liver",
+     "hi": "यकृत"
+    },
+    {
+     "sa": "मांस",
+     "iast": "māṃsa",
+     "en": "flesh",
+     "hi": "मांस"
+    },
+    {
+     "sa": "मुक्ता",
+     "iast": "muktā",
+     "en": "pearl",
+     "hi": "मोती"
+    },
+    {
+     "sa": "अयः",
+     "iast": "ayaḥ",
+     "en": "iron",
+     "hi": "लोहा"
+    },
+    {
+     "sa": "ताम्र",
+     "iast": "tāmra",
+     "en": "copper",
+     "hi": "ताँबा"
+    },
+    {
+     "sa": "सैन्धवैः",
+     "iast": "saindhavaiḥ",
+     "en": "with rock salt",
+     "hi": "सैन्धव लवण से"
+    }
+   ],
+   "english": "and with jīvanīya (vitalising) drugs ground in milk, snehana puṭapāka should be prepared. With the liver and flesh of animals and birds, pearl, iron, copper, rock salt,",
+   "hindi": "और दूध में पीसे गए जीवनीय द्रव्यों के साथ स्नेहन पुटपाक बनाना चाहिए। पशु-पक्षियों के यकृत और मांस, मोती, लोहा, ताँबा, सैन्धव लवण,",
+   "explanation_en": "The snehana formula is complete (fatty meats plus jīvanīya herbs in milk). The lekhana formula begins with liver, meat and mineral substances, and finishes in verse 16. Minerals such as copper and salt give the scraping action.",
+   "explanation_hi": "स्नेहन पुटपाक का योग पूरा हुआ (चिकने मांस और दूध में जीवनीय द्रव्य)। लेखन पुटपाक का योग यकृत, मांस और खनिज द्रव्यों से शुरू होता है और श्लोक 16 में पूरा होता है। ताँबा, लवण जैसे खनिज लेखन कर्म देते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "snehana",
+    "jīvanīya",
+    "lekhana",
+    "saindhava"
+   ],
+   "tags": [
+    "netra-kriyakalpa",
+    "putapaka",
+    "ingredients"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.24.16",
+   "word_meanings": [
+    {
+     "sa": "स्रोतोज",
+     "iast": "sroto-ja",
+     "en": "antimony sulphide (srotoja añjana)",
+     "hi": "स्रोतोञ्जन"
+    },
+    {
+     "sa": "शङ्ख",
+     "iast": "śaṅkha",
+     "en": "conch shell",
+     "hi": "शंख"
+    },
+    {
+     "sa": "फेन",
+     "iast": "phena",
+     "en": "cuttlefish bone (samudraphena)",
+     "hi": "समुद्रफेन"
+    },
+    {
+     "sa": "आलैः",
+     "iast": "ālaiḥ",
+     "en": "orpiment (haritāla)",
+     "hi": "हरताल"
+    },
+    {
+     "sa": "लेखनम्",
+     "iast": "lekhanam",
+     "en": "the scraping (puṭapāka)",
+     "hi": "लेखन पुटपाक"
+    },
+    {
+     "sa": "मस्तुकल्कितैः",
+     "iast": "mastu-kalkitaiḥ",
+     "en": "made into paste with whey",
+     "hi": "दही के पानी (मस्तु) में पीसे हुए"
+    },
+    {
+     "sa": "मृगपक्षि",
+     "iast": "mṛga-pakṣi",
+     "en": "animals and birds",
+     "hi": "पशु-पक्षी"
+    },
+    {
+     "sa": "यकृत्",
+     "iast": "yakṛt",
+     "en": "liver",
+     "hi": "यकृत"
+    },
+    {
+     "sa": "मज्जा",
+     "iast": "majjā",
+     "en": "marrow",
+     "hi": "मज्जा"
+    },
+    {
+     "sa": "वसा",
+     "iast": "vasā",
+     "en": "muscle fat",
+     "hi": "वसा"
+    },
+    {
+     "sa": "अन्त्र",
+     "iast": "antra",
+     "en": "intestine",
+     "hi": "आँत"
+    },
+    {
+     "sa": "हृदय",
+     "iast": "hṛdaya",
+     "en": "heart",
+     "hi": "हृदय"
+    },
+    {
+     "sa": "आमिषैः",
+     "iast": "āmiṣaiḥ",
+     "en": "with flesh",
+     "hi": "मांस से"
+    }
+   ],
+   "english": "srotoja (antimony), conch, cuttlefish bone and orpiment, made into a paste with whey (mastu), the lekhana puṭapāka [is prepared]. With the liver, marrow, muscle-fat, intestine, heart and flesh of animals and birds,",
+   "hindi": "स्रोतोञ्जन, शंख, समुद्रफेन और हरताल को मस्तु (दही के पानी) में पीसकर लेखन पुटपाक बनाया जाता है। पशु-पक्षियों के यकृत, मज्जा, वसा, आँत, हृदय और मांस से,",
+   "explanation_en": "The lekhana formula is completed with mineral substances that have a scraping effect. Then the prasādana formula begins, continuing into verse 17. Today many of these animal and mineral ingredients are rarely used and must be properly purified (śodhita) and prescribed by qualified physicians.",
+   "explanation_hi": "लेखन योग खनिज द्रव्यों से पूरा होता है, जिनका खुरचने वाला प्रभाव है। फिर प्रसादन योग शुरू होता है जो श्लोक 17 में जारी है। आजकल इनमें से कई पशु और खनिज द्रव्य कम प्रयोग होते हैं और इन्हें शुद्ध करके केवल योग्य वैद्य की देखरेख में ही दिया जाना चाहिए।",
+   "modern_correlation": null,
+   "key_terms": [
+    "srotoñjana",
+    "śaṅkha",
+    "samudraphena",
+    "haritāla",
+    "mastu"
+   ],
+   "tags": [
+    "netra-kriyakalpa",
+    "putapaka",
+    "ingredients"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.24.17",
+   "word_meanings": [
+    {
+     "sa": "मधुरैः",
+     "iast": "madhuraiḥ",
+     "en": "with sweet (drugs)",
+     "hi": "मधुर द्रव्यों से"
+    },
+    {
+     "sa": "सघृतैः",
+     "iast": "sa-ghṛtaiḥ",
+     "en": "with ghee",
+     "hi": "घी सहित"
+    },
+    {
+     "sa": "स्तन्य",
+     "iast": "stanya",
+     "en": "breast milk",
+     "hi": "माता का दूध"
+    },
+    {
+     "sa": "क्षीर",
+     "iast": "kṣīra",
+     "en": "milk",
+     "hi": "दूध"
+    },
+    {
+     "sa": "पिष्टैः",
+     "iast": "piṣṭaiḥ",
+     "en": "ground in",
+     "hi": "पीसे हुए"
+    },
+    {
+     "sa": "प्रसादनम्",
+     "iast": "prasādanam",
+     "en": "the soothing (puṭapāka)",
+     "hi": "प्रसादन पुटपाक"
+    },
+    {
+     "sa": "बिल्वमात्रम्",
+     "iast": "bilva-mātram",
+     "en": "the size of a bilva fruit",
+     "hi": "बेल फल के बराबर"
+    },
+    {
+     "sa": "पृथक्",
+     "iast": "pṛthak",
+     "en": "separately, each",
+     "hi": "अलग-अलग"
+    },
+    {
+     "sa": "पिण्डम्",
+     "iast": "piṇḍam",
+     "en": "ball",
+     "hi": "गोला"
+    },
+    {
+     "sa": "मांस",
+     "iast": "māṃsa",
+     "en": "meat",
+     "hi": "मांस"
+    },
+    {
+     "sa": "भेषजकल्कयोः",
+     "iast": "bheṣaja-kalkayoḥ",
+     "en": "and of the drug paste",
+     "hi": "और औषधि कल्क का"
+    }
+   ],
+   "english": "and with sweet drugs together with ghee, ground in breast milk and milk, the prasādana puṭapāka [is prepared]. A ball the size of a bilva fruit is made, separately of the meat and of the drug paste.",
+   "hindi": "और मधुर द्रव्यों को घी सहित, माता के दूध और दूध में पीसकर प्रसादन पुटपाक बनाया जाता है। मांस और औषधि-कल्क, दोनों का अलग-अलग बेल फल के बराबर गोला बनाया जाता है।",
+   "explanation_en": "All three formulas are now given. The method of preparation begins: a bilva-sized ball each of meat and drug paste. 'Bilva-mātra' (about one pala, roughly 48 g in common conversions) is the classical size for puṭapāka.",
+   "explanation_hi": "तीनों योग अब पूरे हुए। बनाने की विधि शुरू होती है: मांस और औषधि-कल्क का बेल फल के बराबर गोला। 'बिल्व मात्र' (लगभग एक पल, सामान्य रूपान्तरण में करीब 48 ग्राम) पुटपाक का शास्त्रीय आकार है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "prasādana",
+    "bilva",
+    "kalka",
+    "stanya"
+   ],
+   "tags": [
+    "netra-kriyakalpa",
+    "putapaka",
+    "ingredients",
+    "procedure"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.24.18",
+   "word_meanings": [
+    {
+     "sa": "उरुबूक",
+     "iast": "urubūka",
+     "en": "castor (eraṇḍa)",
+     "hi": "एरण्ड"
+    },
+    {
+     "sa": "वट",
+     "iast": "vaṭa",
+     "en": "banyan",
+     "hi": "बरगद"
+    },
+    {
+     "sa": "अम्भोज",
+     "iast": "ambho-ja",
+     "en": "lotus",
+     "hi": "कमल"
+    },
+    {
+     "sa": "पत्त्रैः",
+     "iast": "pattraiḥ",
+     "en": "with leaves",
+     "hi": "पत्तों से"
+    },
+    {
+     "sa": "स्नेहादिषु",
+     "iast": "sneha-ādiṣu",
+     "en": "for snehana and the others",
+     "hi": "स्नेहन आदि में"
+    },
+    {
+     "sa": "क्रमात्",
+     "iast": "kramāt",
+     "en": "respectively",
+     "hi": "क्रम से"
+    },
+    {
+     "sa": "वेष्टयित्वा",
+     "iast": "veṣṭayitvā",
+     "en": "having wrapped",
+     "hi": "लपेटकर"
+    },
+    {
+     "sa": "मृदा",
+     "iast": "mṛdā",
+     "en": "with clay",
+     "hi": "मिट्टी से"
+    },
+    {
+     "sa": "लिप्तम्",
+     "iast": "liptam",
+     "en": "coated",
+     "hi": "लेप किया हुआ"
+    },
+    {
+     "sa": "धव",
+     "iast": "dhava",
+     "en": "dhava wood",
+     "hi": "धव की लकड़ी"
+    },
+    {
+     "sa": "धन्वन",
+     "iast": "dhanvana",
+     "en": "dhanvana wood",
+     "hi": "धन्वन की लकड़ी"
+    },
+    {
+     "sa": "गोमयैः",
+     "iast": "go-mayaiḥ",
+     "en": "with cow dung (cakes)",
+     "hi": "गोबर (उपलों) से"
+    }
+   ],
+   "english": "It is wrapped in leaves of castor (urubūka), banyan (vaṭa) and lotus (ambhoja), respectively for snehana and the other two types, and coated with clay. With dhava and dhanvana wood and cow-dung cakes,",
+   "hindi": "इसे क्रम से स्नेहन के लिए एरण्ड, (लेखन के लिए) बरगद और (प्रसादन के लिए) कमल के पत्तों में लपेटकर, ऊपर से मिट्टी का लेप किया जाता है। धव, धन्वन की लकड़ी और गोबर के उपलों से,",
+   "explanation_en": "The leaves match the type: castor (unctuous) for snehana, banyan (astringent) for lekhana, lotus (cooling) for prasādana. This sealed, clay-coated packet is the 'puṭa' that gives the procedure its name. Sentence continues in verse 19.",
+   "explanation_hi": "पत्ते प्रकार से मेल खाते हैं: स्नेहन के लिए एरण्ड (स्निग्ध), लेखन के लिए बरगद (कषाय), प्रसादन के लिए कमल (शीतल)। मिट्टी से लिपी यह बंद पोटली ही 'पुट' है, जिससे इस प्रक्रिया का नाम पड़ा। वाक्य श्लोक 19 में जारी है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "puṭa",
+    "eraṇḍa",
+    "vaṭa",
+    "padma"
+   ],
+   "tags": [
+    "netra-kriyakalpa",
+    "putapaka",
+    "procedure"
+   ],
+   "importance": "medium",
+   "mnemonic": "E-V-K: Eraṇḍa-Snehana, Vaṭa-Lekhana, Kamala-Prasādana.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.24.19",
+   "word_meanings": [
+    {
+     "sa": "पचेत्",
+     "iast": "pacet",
+     "en": "should cook",
+     "hi": "पकाए"
+    },
+    {
+     "sa": "प्रदीप्तैः",
+     "iast": "pradīptaiḥ",
+     "en": "with blazing (fuel)",
+     "hi": "प्रज्वलित (अग्नि) से"
+    },
+    {
+     "sa": "अग्न्याभम्",
+     "iast": "agny-ābham",
+     "en": "until it looks like fire (red-hot)",
+     "hi": "अग्नि के समान लाल होने तक"
+    },
+    {
+     "sa": "पक्वम्",
+     "iast": "pakvam",
+     "en": "the cooked (packet)",
+     "hi": "पका हुआ"
+    },
+    {
+     "sa": "निष्पीड्य",
+     "iast": "niṣpīḍya",
+     "en": "having squeezed",
+     "hi": "निचोड़कर"
+    },
+    {
+     "sa": "तद्रसम्",
+     "iast": "tad-rasam",
+     "en": "its juice",
+     "hi": "उसका रस"
+    },
+    {
+     "sa": "नेत्रे",
+     "iast": "netre",
+     "en": "in the eye",
+     "hi": "आँख में"
+    },
+    {
+     "sa": "तर्पणवत्",
+     "iast": "tarpaṇa-vat",
+     "en": "like tarpaṇa",
+     "hi": "तर्पण की तरह"
+    },
+    {
+     "sa": "युञ्ज्यात्",
+     "iast": "yuñjyāt",
+     "en": "should apply",
+     "hi": "प्रयोग करे"
+    },
+    {
+     "sa": "शतम्",
+     "iast": "śatam",
+     "en": "100",
+     "hi": "सौ"
+    },
+    {
+     "sa": "द्वे",
+     "iast": "dve",
+     "en": "200",
+     "hi": "दो सौ"
+    },
+    {
+     "sa": "त्रीणि",
+     "iast": "trīṇi",
+     "en": "300",
+     "hi": "तीन सौ"
+    },
+    {
+     "sa": "धारयेत्",
+     "iast": "dhārayet",
+     "en": "should hold",
+     "hi": "धारण कराए"
+    }
+   ],
+   "english": "it should be cooked in a blazing fire until it glows like fire. When cooked, the packet is squeezed and its juice applied to the eye in the same way as tarpaṇa. It is held for 100, 200 and 300 [mātrā].",
+   "hindi": "इसे प्रज्वलित अग्नि में तब तक पकाएँ जब तक यह आग के समान लाल न दिखे। पक जाने पर पोटली को निचोड़कर निकले रस को तर्पण की तरह आँख में प्रयोग करें। इसे 100, 200 और 300 मात्रा तक धारण कराएँ।",
+   "explanation_en": "The juice is applied with the same dough-ring method as tarpaṇa. Holding times: 100 mātrā for lekhana, 200 for snehana, 300 for prasādana (the order is clarified by verse 20, 'lekhana-snehana-antya'). Compare with tarpaṇa's longer times (500-1000).",
+   "explanation_hi": "रस को तर्पण की तरह ही आटे की पाली में भरकर प्रयोग किया जाता है। धारण-काल: लेखन 100, स्नेहन 200, प्रसादन 300 मात्रा (यह क्रम श्लोक 20 के 'लेखन-स्नेहन-अन्त्य' से स्पष्ट होता है)। तर्पण के लम्बे समय (500-1000) से इसकी तुलना करें।",
+   "modern_correlation": null,
+   "key_terms": [
+    "puṭapāka",
+    "dhāraṇa-kāla",
+    "mātrā",
+    "svarasa"
+   ],
+   "tags": [
+    "netra-kriyakalpa",
+    "putapaka",
+    "dosage"
+   ],
+   "importance": "high",
+   "mnemonic": "Puṭapāka L-S-P = 100-200-300 mātrā.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.24.20",
+   "word_meanings": [
+    {
+     "sa": "लेखन",
+     "iast": "lekhana",
+     "en": "lekhana",
+     "hi": "लेखन"
+    },
+    {
+     "sa": "स्नेहन",
+     "iast": "snehana",
+     "en": "snehana",
+     "hi": "स्नेहन"
+    },
+    {
+     "sa": "अन्त्येषु",
+     "iast": "antyeṣu",
+     "en": "and the last (prasādana)",
+     "hi": "और अन्तिम (प्रसादन) में"
+    },
+    {
+     "sa": "कोष्णौ",
+     "iast": "koṣṇau",
+     "en": "lukewarm (the two)",
+     "hi": "दोनों गुनगुने"
+    },
+    {
+     "sa": "पूर्वौ",
+     "iast": "pūrvau",
+     "en": "the first two",
+     "hi": "पहले दो"
+    },
+    {
+     "sa": "हिमः",
+     "iast": "himaḥ",
+     "en": "cold",
+     "hi": "ठंडा"
+    },
+    {
+     "sa": "अपरः",
+     "iast": "aparaḥ",
+     "en": "the other (last)",
+     "hi": "अन्तिम"
+    },
+    {
+     "sa": "धूमपः",
+     "iast": "dhūma-paḥ",
+     "en": "smoke inhalation",
+     "hi": "धूमपान करने वाला"
+    },
+    {
+     "sa": "अन्ते",
+     "iast": "ante",
+     "en": "at the end",
+     "hi": "अन्त में"
+    },
+    {
+     "sa": "तयोः",
+     "iast": "tayoḥ",
+     "en": "of those two",
+     "hi": "उन दोनों के"
+    },
+    {
+     "sa": "एव",
+     "iast": "eva",
+     "en": "only",
+     "hi": "ही"
+    },
+    {
+     "sa": "योगाः",
+     "iast": "yogāḥ",
+     "en": "the signs of proper application",
+     "hi": "सम्यक् योग आदि के लक्षण"
+    },
+    {
+     "sa": "तत्र",
+     "iast": "tatra",
+     "en": "there",
+     "hi": "उसमें"
+    },
+    {
+     "sa": "तृप्तिवत्",
+     "iast": "tṛpti-vat",
+     "en": "like those of tarpaṇa",
+     "hi": "तर्पण की तृप्ति के समान"
+    }
+   ],
+   "english": "Of lekhana, snehana and the last (prasādana), the first two are applied lukewarm and the last cold. Smoke inhalation (dhūmapāna) is done at the end of the first two only. The signs of proper, deficient and excessive application are the same as for tarpaṇa.",
+   "hindi": "लेखन, स्नेहन और अन्तिम (प्रसादन) में से पहले दो गुनगुने और अन्तिम ठंडा प्रयोग किया जाता है। धूमपान केवल पहले दो के अन्त में कराया जाता है। सम्यक्, हीन और अति योग के लक्षण तर्पण के समान ही होते हैं।",
+   "explanation_en": "Prasādana is cooling and given cold, so no smoke (which is hot) follows it. This verse is useful for the 'differences between tarpaṇa and puṭapāka' question: temperature, holding time and post-procedure smoke.",
+   "explanation_hi": "प्रसादन शीतल है और ठंडा दिया जाता है, इसलिए उसके बाद धूमपान (जो उष्ण है) नहीं कराया जाता। यह श्लोक 'तर्पण और पुटपाक में अन्तर' वाले प्रश्न के लिए उपयोगी है: तापमान, धारण-काल और बाद का धूमपान।",
+   "modern_correlation": null,
+   "key_terms": [
+    "puṭapāka",
+    "dhūmapāna",
+    "koṣṇa",
+    "hima"
+   ],
+   "tags": [
+    "netra-kriyakalpa",
+    "putapaka",
+    "procedure"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.24.21",
+   "word_meanings": [
+    {
+     "sa": "तर्पणम्",
+     "iast": "tarpaṇam",
+     "en": "tarpaṇa",
+     "hi": "तर्पण"
+    },
+    {
+     "sa": "पुटपाकम्",
+     "iast": "puṭa-pākam",
+     "en": "puṭapāka",
+     "hi": "पुटपाक"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "नस्यानर्हे",
+     "iast": "nasyān-arhe",
+     "en": "in one unfit for nasya",
+     "hi": "जो नस्य के अयोग्य हो"
+    },
+    {
+     "sa": "न योजयेत्",
+     "iast": "na yojayet",
+     "en": "should not apply",
+     "hi": "प्रयोग न करे"
+    },
+    {
+     "sa": "यावन्ति",
+     "iast": "yāvanti",
+     "en": "as many",
+     "hi": "जितने"
+    },
+    {
+     "sa": "अहानि",
+     "iast": "ahāni",
+     "en": "days",
+     "hi": "दिन"
+    },
+    {
+     "sa": "युञ्जीत",
+     "iast": "yuñjīta",
+     "en": "one uses (it)",
+     "hi": "प्रयोग करे"
+    },
+    {
+     "sa": "द्विः",
+     "iast": "dviḥ",
+     "en": "twice (as many)",
+     "hi": "दुगुने"
+    },
+    {
+     "sa": "ततः",
+     "iast": "tataḥ",
+     "en": "after that",
+     "hi": "उसके बाद"
+    },
+    {
+     "sa": "हितभाक्",
+     "iast": "hita-bhāk",
+     "en": "following a wholesome regimen",
+     "hi": "पथ्य का पालन करने वाला"
+    },
+    {
+     "sa": "भवेत्",
+     "iast": "bhavet",
+     "en": "should be",
+     "hi": "रहे"
+    }
+   ],
+   "english": "Tarpaṇa and puṭapāka should not be given to a person who is unfit for nasya (nasal therapy). For twice as many days as they were used, the patient should afterwards follow a wholesome regimen.",
+   "hindi": "जो व्यक्ति नस्य के अयोग्य हो, उसे तर्पण और पुटपाक नहीं देने चाहिए। जितने दिन यह चिकित्सा दी गई हो, उसके दुगुने दिनों तक बाद में रोगी को पथ्य (हितकर आहार-विहार) का पालन करना चाहिए।",
+   "explanation_en": "Two rules close the chapter: the contraindications are the same as those of nasya (described in chapter 20), and the post-therapy regimen (parihāra-kāla) lasts twice the treatment period. 'Double the days' is a commonly asked one-liner, also seen in other procedures.",
+   "explanation_hi": "दो नियमों से अध्याय समाप्त होता है: निषेध वही हैं जो नस्य के हैं (अध्याय 20 में वर्णित), और चिकित्सा के बाद का परिहार-काल चिकित्सा की अवधि का दुगुना होता है। 'दुगुने दिन' का नियम एक सामान्य छोटा प्रश्न है, जो अन्य प्रक्रियाओं में भी मिलता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "tarpaṇa",
+    "puṭapāka",
+    "nasya",
+    "parihāra-kāla",
+    "pathya"
+   ],
+   "tags": [
+    "netra-kriyakalpa",
+    "tarpana",
+    "putapaka",
+    "contraindications"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  }
+ ]
+}

@@ -1,0 +1,2666 @@
+{
+ "chapter": {
+  "id": "AH.sutra.9",
+  "text": "ashtanga_hridaya",
+  "sthana": "sutra",
+  "chapter": 9,
+  "title_iast": "Dravyādivijñānīya Adhyāya",
+  "title_devanagari": "द्रव्यादिविज्ञानीयोऽध्यायः",
+  "title_en": "The chapter on knowledge of substance and its properties",
+  "title_hi": "द्रव्यादिविज्ञानीय अध्याय (द्रव्य, रस, वीर्य, विपाक, प्रभाव का ज्ञान)",
+  "summary_en": "This chapter lays the foundation of Ayurvedic pharmacology (Dravyaguṇa). It states that dravya is foremost among rasa, guṇa, vīrya, vipāka and prabhāva because they all reside in it, and that every dravya is pāñcabhautika but named by its predominant element. It distinguishes rasa from anurasa and describes the qualities and actions of pārthiva, āpya, āgneya, vāyavya and nābhasa substances, concluding that nothing in the world is non-medicinal when used with the right purpose and method. It explains why upward-acting (emetic) drugs are agni-vāyu dominant and downward-acting (purgative) drugs are pṛthvī-jala dominant. It discusses vīrya as eightfold or twofold (uṣṇa/śīta) with Caraka's definition, defines vipāka and its three kinds, and sets out the natural order of strength rasa < vipāka < vīrya < prabhāva. Prabhāva is illustrated by the classic pairs dantī-citraka, mṛdvīkā-madhuka and ghṛta-kṣīra, and the chapter ends with vicitra-pratyayārabdha substances (wheat vs barley). It is one of the most examined chapters in Dravyaguṇa and Padārtha Vijñāna.",
+  "summary_hi": "यह अध्याय आयुर्वेदीय औषध विज्ञान (द्रव्यगुण) की नींव है। इसमें बताया गया है कि रस, गुण, वीर्य, विपाक और प्रभाव में द्रव्य श्रेष्ठ है क्योंकि ये सब उसी में रहते हैं, और हर द्रव्य पांचभौतिक है पर उसका नाम प्रधान महाभूत से रखा जाता है। रस और अनुरस का अंतर, तथा पार्थिव, आप्य, आग्नेय, वायव्य और नाभस द्रव्यों के गुण-कर्म बताए गए हैं, और निष्कर्ष है कि सही युक्ति से संसार में कुछ भी अनौषध नहीं। वमन द्रव्य अग्नि-वायु प्रधान और विरेचन द्रव्य पृथ्वी-जल प्रधान क्यों होते हैं, यह भी समझाया गया है। वीर्य के अष्टविध और द्विविध (उष्ण/शीत) मत, चरक की परिभाषा, विपाक की परिभाषा और तीन प्रकार, तथा बल-क्रम रस < विपाक < वीर्य < प्रभाव दिया गया है। प्रभाव के प्रसिद्ध उदाहरण दन्ती-चित्रक, मृद्वीका-मधुक और घृत-क्षीर हैं, और अंत में विचित्रप्रत्ययारब्ध द्रव्य (गेहूँ बनाम जौ) बताए गए हैं। द्रव्यगुण और पदार्थ विज्ञान में यह सबसे ज़्यादा पूछे जाने वाले अध्यायों में है।",
+  "key_concepts": [
+   "dravya",
+   "pañcamahābhūta",
+   "rasa",
+   "anurasa",
+   "pāñcabhautika-dravya",
+   "vīrya",
+   "vipāka",
+   "prabhāva",
+   "naisargika-bala",
+   "vicitra-pratyayārabdha"
+  ],
+  "exam_focus_en": [
+   "Primacy of dravya; pāñcabhautika composition and naming by predominance (9.1-3)",
+   "Guṇas and karmas of pārthiva, āpya, āgneya, vāyavya and nābhasa dravya; 'jagaty evam anauṣadham...' (9.5-10)",
+   "Vīrya: eightfold vs twofold views, Caraka's definition, actions of uṣṇa and śīta vīrya (9.12-19)",
+   "Definition of vipāka and the three vipākas with their source rasas (9.20-21)",
+   "Order of strength rasa < vipāka < vīrya < prabhāva; definition and examples of prabhāva (9.25-27)",
+   "Vicitra-pratyayārabdha dravya: wheat vs barley (9.28)"
+  ],
+  "exam_focus_hi": [
+   "द्रव्य की प्रधानता; पांचभौतिक रचना और प्रधानता से नामकरण (9.1-3)",
+   "पार्थिव, आप्य, आग्नेय, वायव्य, नाभस द्रव्य के गुण-कर्म; 'जगत्येवमनौषधं...' (9.5-10)",
+   "वीर्य: अष्टविध और द्विविध मत, चरक की परिभाषा, उष्ण और शीत वीर्य के कर्म (9.12-19)",
+   "विपाक की परिभाषा और तीन विपाक तथा उनके मूल रस (9.20-21)",
+   "बल-क्रम रस < विपाक < वीर्य < प्रभाव; प्रभाव की परिभाषा और उदाहरण (9.25-27)",
+   "विचित्रप्रत्ययारब्ध द्रव्य: गेहूँ बनाम जौ (9.28)"
+  ],
+  "syllabus_refs": [
+   "AyUG-SA1"
+  ],
+  "review_status": "ai_draft"
+ },
+ "verses": [
+  {
+   "id": "AH.sutra.9.1",
+   "word_meanings": [
+    {
+     "sa": "द्रव्यम्",
+     "iast": "dravyam",
+     "en": "substance",
+     "hi": "द्रव्य"
+    },
+    {
+     "sa": "एव",
+     "iast": "eva",
+     "en": "alone",
+     "hi": "ही"
+    },
+    {
+     "sa": "रसादीनाम्",
+     "iast": "rasādīnām",
+     "en": "among rasa and the others",
+     "hi": "रस आदि में"
+    },
+    {
+     "sa": "श्रेष्ठम्",
+     "iast": "śreṣṭham",
+     "en": "the foremost",
+     "hi": "श्रेष्ठ"
+    },
+    {
+     "sa": "ते",
+     "iast": "te",
+     "en": "they (rasa etc.)",
+     "hi": "वे (रस आदि)"
+    },
+    {
+     "sa": "हि",
+     "iast": "hi",
+     "en": "because",
+     "hi": "क्योंकि"
+    },
+    {
+     "sa": "तदाश्रयाः",
+     "iast": "tad-āśrayāḥ",
+     "en": "dependent on it",
+     "hi": "उस पर आश्रित"
+    },
+    {
+     "sa": "पञ्चभूतात्मकम्",
+     "iast": "pañca-bhūtātmakam",
+     "en": "composed of the five elements",
+     "hi": "पंचमहाभूतों से बना"
+    },
+    {
+     "sa": "तत्",
+     "iast": "tat",
+     "en": "that",
+     "hi": "वह"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "परंतु"
+    },
+    {
+     "sa": "क्ष्माम्",
+     "iast": "kṣmām",
+     "en": "earth",
+     "hi": "पृथ्वी को"
+    },
+    {
+     "sa": "अधिष्ठाय",
+     "iast": "adhiṣṭhāya",
+     "en": "taking as base",
+     "hi": "आधार बनाकर"
+    },
+    {
+     "sa": "जायते",
+     "iast": "jāyate",
+     "en": "is born",
+     "hi": "उत्पन्न होता है"
+    }
+   ],
+   "english": "Among rasa (taste) and the others (guṇa, vīrya, vipāka, prabhāva), dravya (substance) alone is the foremost, because they all reside in it. It is composed of the five elements (pañcabhūta), but it comes into being with earth (kṣmā) as its base,...",
+   "hindi": "रस, गुण, वीर्य, विपाक और प्रभाव में द्रव्य ही सबसे श्रेष्ठ है, क्योंकि ये सब द्रव्य पर ही आश्रित रहते हैं। द्रव्य पंचमहाभूतों से बना है, पर यह पृथ्वी को आधार बनाकर उत्पन्न होता है,...",
+   "explanation_en": "The chapter title Dravyādivijñānīya means 'knowledge of dravya and the rest (rasa, guṇa, vīrya, vipāka, prabhāva)', the basic pharmacological concepts of Dravyaguṇa. The opening states the primacy of dravya: properties cannot exist without a substance. Verse 2 completes the five-element origin.",
+   "explanation_hi": "अध्याय का नाम द्रव्यादिविज्ञानीय यानी 'द्रव्य और रस, गुण, वीर्य, विपाक, प्रभाव का ज्ञान' है, जो द्रव्यगुण की मूल अवधारणाएँ हैं। शुरुआत में द्रव्य की प्रधानता बताई गई है: गुण बिना द्रव्य के नहीं रह सकते। श्लोक 2 में पंचभूत से उत्पत्ति पूरी होती है।",
+   "modern_correlation": {
+    "en": "The idea that pharmacological properties belong to a substance and depend on its make-up broadly parallels the modern view that a drug's actions arise from its chemical composition and structure.",
+    "hi": "यह विचार कि औषधीय गुण द्रव्य के होते हैं और उसकी बनावट पर निर्भर करते हैं, आधुनिक समझ से मिलता है कि किसी दवा का प्रभाव उसकी रासायनिक संरचना से आता है।"
+   },
+   "key_terms": [
+    "dravya",
+    "rasa",
+    "pañcamahābhūta",
+    "dravyādi"
+   ],
+   "tags": [
+    "dravyaguna",
+    "dravya",
+    "panchamahabhuta"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.9.2",
+   "word_meanings": [
+    {
+     "sa": "अम्बुयोनि",
+     "iast": "ambu-yoni",
+     "en": "with water as the source (womb)",
+     "hi": "जल को योनि (उत्पत्ति स्थान) बनाकर"
+    },
+    {
+     "sa": "अग्नि",
+     "iast": "agni",
+     "en": "fire",
+     "hi": "अग्नि"
+    },
+    {
+     "sa": "पवन",
+     "iast": "pavana",
+     "en": "air",
+     "hi": "वायु"
+    },
+    {
+     "sa": "नभसाम्",
+     "iast": "nabhasām",
+     "en": "and space",
+     "hi": "आकाश के"
+    },
+    {
+     "sa": "समवायतः",
+     "iast": "samavāyataḥ",
+     "en": "by inseparable combination",
+     "hi": "समवाय (संयोग) से"
+    },
+    {
+     "sa": "तन्निर्वृत्तिः",
+     "iast": "tan-nirvṛttiḥ",
+     "en": "its formation",
+     "hi": "उसकी उत्पत्ति"
+    },
+    {
+     "sa": "विशेषः",
+     "iast": "viśeṣaḥ",
+     "en": "its distinctive features",
+     "hi": "उसकी विशेषता"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "व्यपदेशः",
+     "iast": "vyapadeśaḥ",
+     "en": "its naming",
+     "hi": "उसका नामकरण"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "परंतु"
+    },
+    {
+     "sa": "भूयसा",
+     "iast": "bhūyasā",
+     "en": "by predominance",
+     "hi": "अधिकता के अनुसार"
+    }
+   ],
+   "english": "...with water as its source (yoni), and through the combined presence (samavāya) of fire, air and space. Its formation and its distinctive features come from (all of) these, but it is named according to the predominant element.",
+   "hindi": "...जल को उत्पत्ति का स्रोत बनाकर, और अग्नि, वायु तथा आकाश के समवाय (मेल) से। द्रव्य की उत्पत्ति और विशेषताएँ इन सबसे होती हैं, पर उसका नाम (पार्थिव, आप्य आदि) उस महाभूत के अनुसार रखा जाता है जो अधिक हो।",
+   "explanation_en": "Every substance contains all five bhūtas: earth as base, water as source, fire, air and space contributing. It is called pārthiva, āpya etc. only by predominance (bhūyasā vyapadeśa). This principle is a common viva question on pāñcabhautika classification.",
+   "explanation_hi": "हर द्रव्य में पाँचों महाभूत होते हैं: पृथ्वी आधार, जल स्रोत, और अग्नि, वायु, आकाश का योगदान। उसे पार्थिव, आप्य आदि केवल अधिकता के आधार पर कहा जाता है (भूयसा व्यपदेश)। पांचभौतिक वर्गीकरण पर यह आम मौखिक प्रश्न है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "samavāya",
+    "bhūyasā-vyapadeśa",
+    "pañcamahābhūta"
+   ],
+   "tags": [
+    "dravyaguna",
+    "panchamahabhuta"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.9.3",
+   "word_meanings": [
+    {
+     "sa": "तस्मात्",
+     "iast": "tasmāt",
+     "en": "therefore",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "न एकरसम्",
+     "iast": "na eka-rasam",
+     "en": "not of a single taste",
+     "hi": "एक रस वाला नहीं"
+    },
+    {
+     "sa": "द्रव्यम्",
+     "iast": "dravyam",
+     "en": "substance",
+     "hi": "द्रव्य"
+    },
+    {
+     "sa": "भूतसंघातसंभवात्",
+     "iast": "bhūta-saṃghāta-saṃbhavāt",
+     "en": "because it arises from a combination of elements",
+     "hi": "महाभूतों के समूह से उत्पन्न होने के कारण"
+    },
+    {
+     "sa": "न एकदोषाः",
+     "iast": "na eka-doṣāḥ",
+     "en": "not of a single doṣa",
+     "hi": "एक दोष वाले नहीं"
+    },
+    {
+     "sa": "ततः",
+     "iast": "tataḥ",
+     "en": "likewise",
+     "hi": "इसी प्रकार"
+    },
+    {
+     "sa": "रोगाः",
+     "iast": "rogāḥ",
+     "en": "diseases",
+     "hi": "रोग"
+    },
+    {
+     "sa": "तत्र",
+     "iast": "tatra",
+     "en": "there",
+     "hi": "उनमें"
+    },
+    {
+     "sa": "व्यक्तः",
+     "iast": "vyaktaḥ",
+     "en": "manifest",
+     "hi": "प्रकट"
+    },
+    {
+     "sa": "रसः",
+     "iast": "rasaḥ",
+     "en": "rasa",
+     "hi": "रस"
+    },
+    {
+     "sa": "स्मृतः",
+     "iast": "smṛtaḥ",
+     "en": "is called",
+     "hi": "कहा जाता है"
+    }
+   ],
+   "english": "Therefore no substance has only one taste, since it arises from a combination of elements; likewise diseases are not caused by a single doṣa. Of the tastes present, the one that is clearly manifest is called rasa,...",
+   "hindi": "इसलिए कोई भी द्रव्य केवल एक रस वाला नहीं होता, क्योंकि वह कई महाभूतों के मेल से बनता है; इसी तरह रोग भी केवल एक दोष से नहीं होते। इनमें जो रस स्पष्ट रूप से प्रकट हो, उसे 'रस' कहते हैं,...",
+   "explanation_en": "A neat analogy: just as substances have several tastes, diseases involve more than one doṣa, and we name them by the dominant one. The distinction between rasa (manifest) and anurasa (unmanifest, verse 4) is a classic exam question.",
+   "explanation_hi": "सुंदर उपमा: जैसे द्रव्यों में कई रस होते हैं, वैसे ही रोगों में एक से ज़्यादा दोष होते हैं, और नाम प्रधान दोष से रखा जाता है। रस (प्रकट) और अनुरस (अप्रकट, श्लोक 4) का अंतर परीक्षा का प्रसिद्ध प्रश्न है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "rasa",
+    "anurasa",
+    "bhūta-saṃghāta"
+   ],
+   "tags": [
+    "rasa",
+    "dravyaguna"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.9.4",
+   "word_meanings": [
+    {
+     "sa": "अव्यक्तः",
+     "iast": "avyaktaḥ",
+     "en": "unmanifest",
+     "hi": "अप्रकट"
+    },
+    {
+     "sa": "अनुरसः",
+     "iast": "anurasaḥ",
+     "en": "subsidiary taste",
+     "hi": "अनुरस"
+    },
+    {
+     "sa": "किञ्चित्",
+     "iast": "kiñcit",
+     "en": "slightly",
+     "hi": "थोड़ा"
+    },
+    {
+     "sa": "अन्ते",
+     "iast": "ante",
+     "en": "at the end",
+     "hi": "अंत में"
+    },
+    {
+     "sa": "व्यक्तः",
+     "iast": "vyaktaḥ",
+     "en": "manifest",
+     "hi": "प्रकट"
+    },
+    {
+     "sa": "अपि",
+     "iast": "api",
+     "en": "also",
+     "hi": "भी"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "इष्यते",
+     "iast": "iṣyate",
+     "en": "is accepted",
+     "hi": "माना जाता है"
+    },
+    {
+     "sa": "गुर्वादयः",
+     "iast": "gurv-ādayaḥ",
+     "en": "heavy and the others",
+     "hi": "गुरु आदि"
+    },
+    {
+     "sa": "गुणाः",
+     "iast": "guṇāḥ",
+     "en": "qualities",
+     "hi": "गुण"
+    },
+    {
+     "sa": "द्रव्ये",
+     "iast": "dravye",
+     "en": "in the substance",
+     "hi": "द्रव्य में"
+    },
+    {
+     "sa": "पृथिव्यादौ",
+     "iast": "pṛthivy-ādau",
+     "en": "in earth and the other (elements)",
+     "hi": "पृथ्वी आदि में"
+    },
+    {
+     "sa": "रसाश्रये",
+     "iast": "rasāśraye",
+     "en": "which are the substratum of rasa",
+     "hi": "जो रस के आश्रय हैं"
+    }
+   ],
+   "english": "...while the unmanifest one is called anurasa (subsidiary taste); it is also accepted that the anurasa may be slightly manifest at the end. The qualities such as heavy (guru) belong to the substance, i.e. to earth and the other elements that are the substratum of rasa;",
+   "hindi": "...और जो अप्रकट हो उसे 'अनुरस' कहते हैं; यह भी माना जाता है कि अनुरस अंत में थोड़ा प्रकट हो सकता है। गुरु आदि गुण वास्तव में द्रव्य में, यानी पृथ्वी आदि महाभूतों में रहते हैं, जो रस के भी आश्रय हैं;",
+   "explanation_en": "Anurasa can be noticed faintly at the end of tasting (aftertaste). The second line begins a technical point: guṇas like guru really belong to the dravya, not to rasa; they are attributed to rasa only figuratively (verse 5). Remember: 'a guṇa cannot have a guṇa'.",
+   "explanation_hi": "अनुरस चखने के अंत में हल्का-सा महसूस हो सकता है। दूसरी पंक्ति एक तकनीकी बात शुरू करती है: गुरु आदि गुण वास्तव में द्रव्य के हैं, रस के नहीं; रस में उन्हें केवल उपचार (लाक्षणिक रूप) से कहा जाता है (श्लोक 5)। याद रखें: 'गुण में गुण नहीं होता'।",
+   "modern_correlation": null,
+   "key_terms": [
+    "anurasa",
+    "guṇa",
+    "gurvādi-guṇa"
+   ],
+   "tags": [
+    "rasa",
+    "guna",
+    "dravyaguna"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.9.5",
+   "word_meanings": [
+    {
+     "sa": "रसेषु",
+     "iast": "raseṣu",
+     "en": "in the rasas",
+     "hi": "रसों में"
+    },
+    {
+     "sa": "व्यपदिश्यन्ते",
+     "iast": "vyapadiśyante",
+     "en": "are attributed",
+     "hi": "कहे जाते हैं"
+    },
+    {
+     "sa": "साहचर्योपचारतः",
+     "iast": "sāhacaryopacārataḥ",
+     "en": "figuratively, because of association",
+     "hi": "साथ रहने के कारण लाक्षणिक रूप से"
+    },
+    {
+     "sa": "तत्र",
+     "iast": "tatra",
+     "en": "there",
+     "hi": "उनमें"
+    },
+    {
+     "sa": "द्रव्यम्",
+     "iast": "dravyam",
+     "en": "substance",
+     "hi": "द्रव्य"
+    },
+    {
+     "sa": "गुरु",
+     "iast": "guru",
+     "en": "heavy",
+     "hi": "भारी"
+    },
+    {
+     "sa": "स्थूल",
+     "iast": "sthūla",
+     "en": "gross",
+     "hi": "स्थूल"
+    },
+    {
+     "sa": "स्थिर",
+     "iast": "sthira",
+     "en": "stable",
+     "hi": "स्थिर"
+    },
+    {
+     "sa": "गन्धगुणोल्बणम्",
+     "iast": "gandha-guṇolbaṇam",
+     "en": "predominant in the quality of smell",
+     "hi": "गंध गुण की अधिकता वाला"
+    }
+   ],
+   "english": "...they are attributed to the rasas only figuratively (upacāra), because they occur together (sāhacarya). Among substances, that which is predominant in the qualities heavy, gross, stable and smell,...",
+   "hindi": "...रसों में इन गुणों का वर्णन केवल साथ रहने (साहचर्य) के कारण लाक्षणिक रूप से किया जाता है। द्रव्यों में जो भारी, स्थूल, स्थिर और गंध गुण की अधिकता वाला हो,...",
+   "explanation_en": "Verses 5-10 describe the five pāñcabhautika types of dravya with their qualities and actions. Each description has two parts: guṇas (qualities) and karma (actions). Start here with pārthiva: guru, sthūla, sthira, gandha.",
+   "explanation_hi": "श्लोक 5-10 में पांचभौतिक द्रव्यों के पाँच प्रकार, उनके गुण और कर्म बताए गए हैं। हर वर्णन के दो भाग हैं: गुण और कर्म। यहाँ से पार्थिव शुरू होता है: गुरु, स्थूल, स्थिर, गंध।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sāhacarya",
+    "upacāra",
+    "pārthiva"
+   ],
+   "tags": [
+    "panchabhautika",
+    "dravyaguna"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.9.6",
+   "word_meanings": [
+    {
+     "sa": "पार्थिवम्",
+     "iast": "pārthivam",
+     "en": "earthy (pārthiva)",
+     "hi": "पार्थिव"
+    },
+    {
+     "sa": "गौरव",
+     "iast": "gaurava",
+     "en": "heaviness",
+     "hi": "भारीपन"
+    },
+    {
+     "sa": "स्थैर्य",
+     "iast": "sthairya",
+     "en": "stability",
+     "hi": "स्थिरता"
+    },
+    {
+     "sa": "संघात",
+     "iast": "saṃghāta",
+     "en": "compactness",
+     "hi": "संघात (ठोसपन)"
+    },
+    {
+     "sa": "उपचय",
+     "iast": "upacaya",
+     "en": "growth, bulk",
+     "hi": "उपचय (वृद्धि)"
+    },
+    {
+     "sa": "आवहम्",
+     "iast": "āvaham",
+     "en": "bringing about",
+     "hi": "लाने वाला"
+    },
+    {
+     "sa": "द्रव",
+     "iast": "drava",
+     "en": "liquid",
+     "hi": "द्रव"
+    },
+    {
+     "sa": "शीत",
+     "iast": "śīta",
+     "en": "cold",
+     "hi": "शीत"
+    },
+    {
+     "sa": "गुरु",
+     "iast": "guru",
+     "en": "heavy",
+     "hi": "गुरु"
+    },
+    {
+     "sa": "स्निग्ध",
+     "iast": "snigdha",
+     "en": "unctuous",
+     "hi": "स्निग्ध"
+    },
+    {
+     "sa": "मन्द",
+     "iast": "manda",
+     "en": "slow",
+     "hi": "मंद"
+    },
+    {
+     "sa": "सान्द्र",
+     "iast": "sāndra",
+     "en": "dense",
+     "hi": "सान्द्र"
+    },
+    {
+     "sa": "रसोल्बणम्",
+     "iast": "rasolbaṇam",
+     "en": "predominant in taste",
+     "hi": "रस गुण की अधिकता वाला"
+    }
+   ],
+   "english": "...is pārthiva (earthy); it produces heaviness, stability, compactness and growth. That which is predominant in liquid, cold, heavy, unctuous, slow, dense and taste (rasa) qualities,...",
+   "hindi": "...वह 'पार्थिव' द्रव्य है; यह शरीर में भारीपन, स्थिरता, ठोसपन और वृद्धि लाता है। जो द्रव, शीत, गुरु, स्निग्ध, मंद, सान्द्र और रस गुण की अधिकता वाला हो,...",
+   "explanation_en": "Pārthiva karma: gaurava, sthairya, saṃghāta, upacaya, i.e. building and stabilising. The āpya description begins: its specific sense-quality is rasa (taste), just as earth's is gandha (smell).",
+   "explanation_hi": "पार्थिव कर्म: गौरव, स्थैर्य, संघात, उपचय, यानी शरीर को बनाना और स्थिर रखना। आप्य का वर्णन शुरू होता है: उसका विशेष गुण रस है, जैसे पृथ्वी का गंध।",
+   "modern_correlation": null,
+   "key_terms": [
+    "pārthiva",
+    "āpya",
+    "upacaya"
+   ],
+   "tags": [
+    "panchabhautika",
+    "dravyaguna"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.9.7",
+   "word_meanings": [
+    {
+     "sa": "आप्यम्",
+     "iast": "āpyam",
+     "en": "watery (āpya)",
+     "hi": "आप्य"
+    },
+    {
+     "sa": "स्नेहन",
+     "iast": "snehana",
+     "en": "unctuousness",
+     "hi": "स्निग्धता"
+    },
+    {
+     "sa": "विष्यन्द",
+     "iast": "viṣyanda",
+     "en": "flowing, liquefying",
+     "hi": "बहाना, द्रवीकरण"
+    },
+    {
+     "sa": "क्लेद",
+     "iast": "kleda",
+     "en": "moistening",
+     "hi": "क्लेद (नमी)"
+    },
+    {
+     "sa": "प्रह्लाद",
+     "iast": "prahlāda",
+     "en": "refreshing, pleasing",
+     "hi": "प्रसन्नता"
+    },
+    {
+     "sa": "बन्ध",
+     "iast": "bandha",
+     "en": "binding",
+     "hi": "जोड़ना, बाँधना"
+    },
+    {
+     "sa": "कृत्",
+     "iast": "kṛt",
+     "en": "producing",
+     "hi": "करने वाला"
+    },
+    {
+     "sa": "रूक्ष",
+     "iast": "rūkṣa",
+     "en": "dry",
+     "hi": "रूक्ष"
+    },
+    {
+     "sa": "तीक्ष्ण",
+     "iast": "tīkṣṇa",
+     "en": "sharp",
+     "hi": "तीक्ष्ण"
+    },
+    {
+     "sa": "उष्ण",
+     "iast": "uṣṇa",
+     "en": "hot",
+     "hi": "उष्ण"
+    },
+    {
+     "sa": "विशद",
+     "iast": "viśada",
+     "en": "clear, non-slimy",
+     "hi": "विशद"
+    },
+    {
+     "sa": "सूक्ष्म",
+     "iast": "sūkṣma",
+     "en": "subtle",
+     "hi": "सूक्ष्म"
+    },
+    {
+     "sa": "रूपगुणोल्बणम्",
+     "iast": "rūpa-guṇolbaṇam",
+     "en": "predominant in the quality of form/colour",
+     "hi": "रूप गुण की अधिकता वाला"
+    }
+   ],
+   "english": "...is āpya (watery); it produces unctuousness, flow, moistening, refreshment and binding. That which is predominant in dry, sharp, hot, clear, subtle and form/sight (rūpa) qualities,...",
+   "hindi": "...वह 'आप्य' द्रव्य है; यह स्निग्धता, बहाव, नमी, प्रसन्नता (ताज़गी) और जोड़ने का काम करता है। जो रूक्ष, तीक्ष्ण, उष्ण, विशद, सूक्ष्म और रूप गुण की अधिकता वाला हो,...",
+   "explanation_en": "Āpya karma: snehana, viṣyanda, kleda, prahlāda, bandha. Note 'bandha' (binding): water makes particles cohere, as in kneading dough. The āgneya description begins: rūpa (form/sight) is the specific quality of fire.",
+   "explanation_hi": "आप्य कर्म: स्नेहन, विष्यन्द, क्लेद, प्रह्लाद, बन्ध। 'बन्ध' पर ध्यान दें: जल कणों को जोड़ता है, जैसे आटा गूँधने में। आग्नेय का वर्णन शुरू होता है: रूप अग्नि का विशेष गुण है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "āpya",
+    "āgneya",
+    "kleda",
+    "bandha"
+   ],
+   "tags": [
+    "panchabhautika",
+    "dravyaguna"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.9.8",
+   "word_meanings": [
+    {
+     "sa": "आग्नेयम्",
+     "iast": "āgneyam",
+     "en": "fiery (āgneya)",
+     "hi": "आग्नेय"
+    },
+    {
+     "sa": "दाह",
+     "iast": "dāha",
+     "en": "burning",
+     "hi": "दाह (जलन)"
+    },
+    {
+     "sa": "भा",
+     "iast": "bhā",
+     "en": "lustre",
+     "hi": "कांति"
+    },
+    {
+     "sa": "वर्ण",
+     "iast": "varṇa",
+     "en": "complexion",
+     "hi": "वर्ण (रंग)"
+    },
+    {
+     "sa": "प्रकाश",
+     "iast": "prakāśa",
+     "en": "illumination",
+     "hi": "प्रकाश"
+    },
+    {
+     "sa": "पवनात्मकम्",
+     "iast": "pavanātmakam",
+     "en": "of the nature of air (introduces the next type)",
+     "hi": "वायु स्वरूप"
+    },
+    {
+     "sa": "वायव्यम्",
+     "iast": "vāyavyam",
+     "en": "airy (vāyavya)",
+     "hi": "वायव्य"
+    },
+    {
+     "sa": "रूक्ष",
+     "iast": "rūkṣa",
+     "en": "dry",
+     "hi": "रूक्ष"
+    },
+    {
+     "sa": "विशद",
+     "iast": "viśada",
+     "en": "clear",
+     "hi": "विशद"
+    },
+    {
+     "sa": "लघु",
+     "iast": "laghu",
+     "en": "light",
+     "hi": "लघु"
+    },
+    {
+     "sa": "स्पर्शगुणोल्बणम्",
+     "iast": "sparśa-guṇolbaṇam",
+     "en": "predominant in the quality of touch",
+     "hi": "स्पर्श गुण की अधिकता वाला"
+    }
+   ],
+   "english": "...is āgneya (fiery); it produces burning, lustre, complexion and illumination. The vāyavya (airy) substance, of the nature of air (pavana), is predominant in dry, clear, light and touch (sparśa) qualities,...",
+   "hindi": "...वह 'आग्नेय' द्रव्य है; यह जलन, कांति, वर्ण (रंग) और प्रकाश उत्पन्न करता है। 'वायव्य' द्रव्य, जो वायु स्वरूप है, रूक्ष, विशद, लघु और स्पर्श गुण की अधिकता वाला होता है,...",
+   "explanation_en": "The file reads 'prakāśa-pavanātmakam'; many printed editions read 'prakāśa-pacanātmakam', in which case āgneya dravya also causes digestion (pacana). Learn both: āgneya karma = dāha, bhā, varṇa, prakāśa, pacana. Vāyavya guṇas: rūkṣa, viśada, laghu, sparśa.",
+   "explanation_hi": "इस पाठ में 'प्रकाशपवनात्मकम्' है; कई मुद्रित संस्करणों में 'प्रकाशपचनात्मकम्' है, जिसके अनुसार आग्नेय द्रव्य पाचन भी करता है। दोनों याद रखें: आग्नेय कर्म = दाह, भा, वर्ण, प्रकाश, पचन। वायव्य गुण: रूक्ष, विशद, लघु, स्पर्श।",
+   "modern_correlation": null,
+   "key_terms": [
+    "āgneya",
+    "vāyavya",
+    "sparśa",
+    "pacana"
+   ],
+   "tags": [
+    "panchabhautika",
+    "dravyaguna"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.9.9",
+   "word_meanings": [
+    {
+     "sa": "रौक्ष्य",
+     "iast": "raukṣya",
+     "en": "dryness",
+     "hi": "रूखापन"
+    },
+    {
+     "sa": "लाघव",
+     "iast": "lāghava",
+     "en": "lightness",
+     "hi": "हल्कापन"
+    },
+    {
+     "sa": "वैशद्य",
+     "iast": "vaiśadya",
+     "en": "clarity, non-sliminess",
+     "hi": "विशदता"
+    },
+    {
+     "sa": "विचार",
+     "iast": "vicāra",
+     "en": "movement",
+     "hi": "गति"
+    },
+    {
+     "sa": "ग्लानि",
+     "iast": "glāni",
+     "en": "exhaustion",
+     "hi": "थकान"
+    },
+    {
+     "sa": "कारकम्",
+     "iast": "kārakam",
+     "en": "causing",
+     "hi": "करने वाला"
+    },
+    {
+     "sa": "नाभसम्",
+     "iast": "nābhasam",
+     "en": "ethereal (ākāśīya)",
+     "hi": "नाभस (आकाशीय)"
+    },
+    {
+     "sa": "सूक्ष्म",
+     "iast": "sūkṣma",
+     "en": "subtle",
+     "hi": "सूक्ष्म"
+    },
+    {
+     "sa": "विशद",
+     "iast": "viśada",
+     "en": "clear",
+     "hi": "विशद"
+    },
+    {
+     "sa": "लघु",
+     "iast": "laghu",
+     "en": "light",
+     "hi": "लघु"
+    },
+    {
+     "sa": "शब्दगुणोल्बणम्",
+     "iast": "śabda-guṇolbaṇam",
+     "en": "predominant in the quality of sound",
+     "hi": "शब्द गुण की अधिकता वाला"
+    }
+   ],
+   "english": "...and causes dryness, lightness, clarity, movement and exhaustion. The nābhasa (ethereal, of space) substance is predominant in subtle, clear, light and sound (śabda) qualities,...",
+   "hindi": "...और यह रूखापन, हल्कापन, विशदता, गति और थकान उत्पन्न करता है। 'नाभस' (आकाशीय) द्रव्य सूक्ष्म, विशद, लघु और शब्द गुण की अधिकता वाला होता है,...",
+   "explanation_en": "Vāyavya karma: raukṣya, lāghava, vaiśadya, vicāra, glāni. Nābhasa guṇas: sūkṣma, viśada, laghu, śabda. Note the pattern: each bhūta's special sense-quality appears in its list (gandha, rasa, rūpa, sparśa, śabda).",
+   "explanation_hi": "वायव्य कर्म: रौक्ष्य, लाघव, वैशद्य, विचार, ग्लानि। नाभस गुण: सूक्ष्म, विशद, लघु, शब्द। पैटर्न देखें: हर महाभूत का विशेष इंद्रिय-गुण उसकी सूची में है (गंध, रस, रूप, स्पर्श, शब्द)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vāyavya",
+    "nābhasa",
+    "ākāśa",
+    "śabda"
+   ],
+   "tags": [
+    "panchabhautika",
+    "dravyaguna"
+   ],
+   "importance": "high",
+   "mnemonic": "Gandha-Earth, Rasa-Water, Rūpa-Fire, Sparśa-Air, Śabda-Space",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.9.10",
+   "word_meanings": [
+    {
+     "sa": "सौषिर्य",
+     "iast": "sauṣirya",
+     "en": "porosity, hollowness",
+     "hi": "सौषिर्य (छिद्रता)"
+    },
+    {
+     "sa": "लाघव",
+     "iast": "lāghava",
+     "en": "lightness",
+     "hi": "हल्कापन"
+    },
+    {
+     "sa": "करम्",
+     "iast": "karam",
+     "en": "producing",
+     "hi": "करने वाला"
+    },
+    {
+     "sa": "जगति",
+     "iast": "jagati",
+     "en": "in the world",
+     "hi": "संसार में"
+    },
+    {
+     "sa": "एवम्",
+     "iast": "evam",
+     "en": "thus",
+     "hi": "इस प्रकार"
+    },
+    {
+     "sa": "अनौषधम्",
+     "iast": "anauṣadham",
+     "en": "non-medicinal",
+     "hi": "जो औषधि न हो"
+    },
+    {
+     "sa": "न किञ्चित्",
+     "iast": "na kiñcit",
+     "en": "nothing",
+     "hi": "कुछ भी नहीं"
+    },
+    {
+     "sa": "विद्यते",
+     "iast": "vidyate",
+     "en": "exists",
+     "hi": "है"
+    },
+    {
+     "sa": "द्रव्यम्",
+     "iast": "dravyam",
+     "en": "substance",
+     "hi": "द्रव्य"
+    },
+    {
+     "sa": "वशात्",
+     "iast": "vaśāt",
+     "en": "depending on",
+     "hi": "के कारण"
+    },
+    {
+     "sa": "नानार्थयोगयोः",
+     "iast": "nānārtha-yogayoḥ",
+     "en": "various purposes and modes of use",
+     "hi": "विभिन्न उद्देश्य और प्रयोग"
+    }
+   ],
+   "english": "...and produces porosity and lightness. Thus there is no substance in the world that is not a medicine, depending on the purpose and the manner in which it is used.",
+   "hindi": "...और यह शरीर में सौषिर्य (खोखलापन/छिद्र) और हल्कापन लाता है। इस प्रकार संसार में ऐसा कोई द्रव्य नहीं है जो औषधि न हो, बशर्ते उसे सही उद्देश्य और सही ढंग से प्रयोग किया जाए।",
+   "explanation_en": "'Jagaty evam anauṣadhaṃ na kiñcid vidyate dravyam' is one of the most quoted lines in Dravyaguṇa: every substance can be a medicine with the right yukti (purpose and mode of use). Parallel statements occur in Caraka Sūtra 26.",
+   "explanation_hi": "'जगत्येवमनौषधं न किञ्चिद्विद्यते द्रव्यम्' द्रव्यगुण की सबसे प्रसिद्ध पंक्तियों में से एक है: सही युक्ति (उद्देश्य और प्रयोग) से हर द्रव्य औषधि हो सकता है। चरक सूत्र 26 में भी यही बात है।",
+   "modern_correlation": {
+    "en": "This broadly parallels the pharmacological idea that whether a substance acts as a remedy or a poison depends on dose, route and context of use.",
+    "hi": "यह आधुनिक औषध विज्ञान के इस विचार से मिलता है कि कोई पदार्थ दवा बनेगा या विष, यह उसकी मात्रा, प्रयोग के मार्ग और परिस्थिति पर निर्भर करता है।"
+   },
+   "key_terms": [
+    "nābhasa",
+    "anauṣadha",
+    "yukti",
+    "sauṣirya"
+   ],
+   "tags": [
+    "panchabhautika",
+    "dravyaguna",
+    "quotable"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.9.11",
+   "word_meanings": [
+    {
+     "sa": "द्रव्यम्",
+     "iast": "dravyam",
+     "en": "substance",
+     "hi": "द्रव्य"
+    },
+    {
+     "sa": "ऊर्ध्वगमम्",
+     "iast": "ūrdhva-gamam",
+     "en": "that moves upward",
+     "hi": "ऊपर की ओर जाने वाला"
+    },
+    {
+     "sa": "तत्र",
+     "iast": "tatra",
+     "en": "among these",
+     "hi": "इनमें"
+    },
+    {
+     "sa": "प्रायः",
+     "iast": "prāyaḥ",
+     "en": "mostly",
+     "hi": "प्रायः"
+    },
+    {
+     "sa": "अग्निपवनोत्कटम्",
+     "iast": "agni-pavanotkaṭam",
+     "en": "predominant in fire and air",
+     "hi": "अग्नि और वायु प्रधान"
+    },
+    {
+     "sa": "अधोगामि",
+     "iast": "adho-gāmi",
+     "en": "that moves downward",
+     "hi": "नीचे की ओर जाने वाला"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "भूयिष्ठम्",
+     "iast": "bhūyiṣṭham",
+     "en": "mostly",
+     "hi": "अधिकतर"
+    },
+    {
+     "sa": "भूमितोयगुणाधिकम्",
+     "iast": "bhūmi-toya-guṇādhikam",
+     "en": "abundant in qualities of earth and water",
+     "hi": "पृथ्वी और जल गुण अधिक"
+    }
+   ],
+   "english": "Among these, substances that move upward (e.g. emetics) are mostly predominant in fire and air; those that move downward (e.g. purgatives) mostly have an abundance of the qualities of earth and water.",
+   "hindi": "इनमें, ऊपर की ओर गति करने वाले द्रव्य (जैसे वमन कराने वाले) प्रायः अग्नि और वायु प्रधान होते हैं; और नीचे की ओर गति करने वाले द्रव्य (जैसे विरेचन कराने वाले) में अधिकतर पृथ्वी और जल के गुण अधिक होते हैं।",
+   "explanation_en": "This is the pāñcabhautika basis of vamana (agni + vāyu → ūrdhvabhāgahara) and virecana (pṛthvī + jala → adhobhāgahara) drugs. A short, high-yield fact for Dravyaguṇa and Pañcakarma papers.",
+   "explanation_hi": "यह वमन (अग्नि + वायु → ऊर्ध्वभागहर) और विरेचन (पृथ्वी + जल → अधोभागहर) द्रव्यों का पांचभौतिक आधार है। द्रव्यगुण और पंचकर्म के लिए छोटा और महत्वपूर्ण तथ्य।",
+   "modern_correlation": null,
+   "key_terms": [
+    "ūrdhvabhāgahara",
+    "adhobhāgahara",
+    "vamana",
+    "virecana"
+   ],
+   "tags": [
+    "panchabhautika",
+    "panchakarma"
+   ],
+   "importance": "high",
+   "mnemonic": "Up = Agni + Air (light, rising); Down = Earth + Water (heavy, sinking)",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.9.12",
+   "word_meanings": [
+    {
+     "sa": "इति",
+     "iast": "iti",
+     "en": "thus",
+     "hi": "इस प्रकार"
+    },
+    {
+     "sa": "द्रव्यम्",
+     "iast": "dravyam",
+     "en": "substance (has been described)",
+     "hi": "द्रव्य (का वर्णन हुआ)"
+    },
+    {
+     "sa": "रसान्",
+     "iast": "rasān",
+     "en": "the tastes",
+     "hi": "रसों को"
+    },
+    {
+     "sa": "भेदैः",
+     "iast": "bhedaiḥ",
+     "en": "with their varieties",
+     "hi": "उनके भेदों सहित"
+    },
+    {
+     "sa": "उत्तरत्र",
+     "iast": "uttaratra",
+     "en": "later",
+     "hi": "आगे"
+    },
+    {
+     "sa": "उपदेक्ष्यते",
+     "iast": "upadekṣyate",
+     "en": "will be taught",
+     "hi": "बताया जाएगा"
+    },
+    {
+     "sa": "वीर्यम्",
+     "iast": "vīryam",
+     "en": "potency",
+     "hi": "वीर्य"
+    },
+    {
+     "sa": "पुनः",
+     "iast": "punaḥ",
+     "en": "now",
+     "hi": "अब"
+    },
+    {
+     "sa": "वदन्ति",
+     "iast": "vadanti",
+     "en": "say",
+     "hi": "कहते हैं"
+    },
+    {
+     "sa": "एके",
+     "iast": "eke",
+     "en": "some",
+     "hi": "कुछ (आचार्य)"
+    },
+    {
+     "sa": "गुरु",
+     "iast": "guru",
+     "en": "heavy",
+     "hi": "गुरु"
+    },
+    {
+     "sa": "स्निग्धम्",
+     "iast": "snigdham",
+     "en": "unctuous",
+     "hi": "स्निग्ध"
+    },
+    {
+     "sa": "हिमम्",
+     "iast": "himam",
+     "en": "cold",
+     "hi": "शीत"
+    },
+    {
+     "sa": "मृदु",
+     "iast": "mṛdu",
+     "en": "soft",
+     "hi": "मृदु"
+    }
+   ],
+   "english": "Thus dravya (has been described); the tastes with their varieties will be taught later (in the next chapter). As for vīrya (potency), some say it is heavy, unctuous, cold, soft,...",
+   "hindi": "इस प्रकार द्रव्य का वर्णन हुआ; रसों का उनके भेदों सहित वर्णन आगे (अगले अध्याय में) किया जाएगा। अब वीर्य: कुछ आचार्य कहते हैं कि वीर्य गुरु, स्निग्ध, शीत, मृदु,...",
+   "explanation_en": "The topic shifts from dravya to vīrya. Verses 12-13 give the view of eight vīryas (aṣṭavidha vīrya): guru, snigdha, hima/śīta, mṛdu, laghu, rūkṣa, uṣṇa, tīkṣṇa. This is the view of Suśruta and others; the twofold view follows in verse 17.",
+   "explanation_hi": "विषय द्रव्य से वीर्य पर आता है। श्लोक 12-13 में अष्टविध वीर्य का मत है: गुरु, स्निग्ध, शीत, मृदु, लघु, रूक्ष, उष्ण, तीक्ष्ण। यह सुश्रुत आदि का मत है; द्विविध मत श्लोक 17 में है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vīrya",
+    "aṣṭavidha-vīrya"
+   ],
+   "tags": [
+    "virya",
+    "dravyaguna"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.9.13",
+   "word_meanings": [
+    {
+     "sa": "लघु",
+     "iast": "laghu",
+     "en": "light",
+     "hi": "लघु"
+    },
+    {
+     "sa": "रूक्ष",
+     "iast": "rūkṣa",
+     "en": "dry",
+     "hi": "रूक्ष"
+    },
+    {
+     "sa": "उष्ण",
+     "iast": "uṣṇa",
+     "en": "hot",
+     "hi": "उष्ण"
+    },
+    {
+     "sa": "तीक्ष्णम्",
+     "iast": "tīkṣṇam",
+     "en": "sharp",
+     "hi": "तीक्ष्ण"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "तत्",
+     "iast": "tat",
+     "en": "that",
+     "hi": "वह"
+    },
+    {
+     "sa": "एवम्",
+     "iast": "evam",
+     "en": "thus",
+     "hi": "इस प्रकार"
+    },
+    {
+     "sa": "मतम्",
+     "iast": "matam",
+     "en": "considered",
+     "hi": "माना गया"
+    },
+    {
+     "sa": "अष्टधा",
+     "iast": "aṣṭadhā",
+     "en": "eightfold",
+     "hi": "आठ प्रकार का"
+    },
+    {
+     "sa": "चरकः",
+     "iast": "carakaḥ",
+     "en": "Caraka",
+     "hi": "चरक"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "परंतु"
+    },
+    {
+     "sa": "आह",
+     "iast": "āha",
+     "en": "says",
+     "hi": "कहते हैं"
+    },
+    {
+     "sa": "वीर्यम्",
+     "iast": "vīryam",
+     "en": "vīrya",
+     "hi": "वीर्य"
+    },
+    {
+     "sa": "तत्",
+     "iast": "tat",
+     "en": "that",
+     "hi": "वह"
+    },
+    {
+     "sa": "क्रियते",
+     "iast": "kriyate",
+     "en": "is done",
+     "hi": "किया जाता है"
+    },
+    {
+     "sa": "येन",
+     "iast": "yena",
+     "en": "by which",
+     "hi": "जिससे"
+    },
+    {
+     "sa": "या क्रिया",
+     "iast": "yā kriyā",
+     "en": "whatever action",
+     "hi": "जो भी क्रिया"
+    }
+   ],
+   "english": "...light, dry, hot and sharp; thus it is considered eightfold. But Caraka says: vīrya is that by which any action is performed.",
+   "hindi": "...लघु, रूक्ष, उष्ण और तीक्ष्ण है; इस प्रकार वीर्य आठ प्रकार का माना गया है। परंतु चरक कहते हैं: वीर्य वह है जिसके द्वारा कोई भी क्रिया की जाती है।",
+   "explanation_en": "Caraka's definition, 'vīryaṃ tat kriyate yena yā kriyā', is the most quoted definition of vīrya: vīrya is the active power through which a substance acts. Learn the eight vīryas as four opposite pairs: guru-laghu, snigdha-rūkṣa, śīta-uṣṇa, mṛdu-tīkṣṇa.",
+   "explanation_hi": "चरक की परिभाषा 'वीर्यं तत् क्रियते येन या क्रिया' वीर्य की सबसे प्रसिद्ध परिभाषा है: वीर्य वह शक्ति है जिससे द्रव्य कर्म करता है। आठ वीर्य को चार विपरीत जोड़ों में याद करें: गुरु-लघु, स्निग्ध-रूक्ष, शीत-उष्ण, मृदु-तीक्ष्ण।",
+   "modern_correlation": {
+    "en": "Vīrya as 'the power by which a substance acts' is often compared to the modern idea of a drug's active principle or potency, though the Ayurvedic concept is defined by qualities rather than by specific molecules.",
+    "hi": "वीर्य को 'वह शक्ति जिससे द्रव्य कर्म करता है' मानना, आधुनिक 'सक्रिय तत्व' या 'पोटेंसी' की अवधारणा से तुलना योग्य है, हालाँकि आयुर्वेद में इसे गुणों से परिभाषित किया गया है, विशेष अणुओं से नहीं।"
+   },
+   "key_terms": [
+    "vīrya",
+    "aṣṭavidha-vīrya",
+    "Caraka"
+   ],
+   "tags": [
+    "virya",
+    "definitions",
+    "dravyaguna"
+   ],
+   "importance": "high",
+   "mnemonic": "Four pairs: Guru-Laghu, Snigdha-Rūkṣa, Śīta-Uṣṇa, Mṛdu-Tīkṣṇa",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.9.14",
+   "word_meanings": [
+    {
+     "sa": "न",
+     "iast": "na",
+     "en": "not",
+     "hi": "नहीं"
+    },
+    {
+     "sa": "अवीर्यम्",
+     "iast": "avīryam",
+     "en": "that without vīrya",
+     "hi": "वीर्य रहित"
+    },
+    {
+     "sa": "कुरुते",
+     "iast": "kurute",
+     "en": "does",
+     "hi": "करता है"
+    },
+    {
+     "sa": "किञ्चित्",
+     "iast": "kiñcit",
+     "en": "anything",
+     "hi": "कुछ भी"
+    },
+    {
+     "sa": "सर्वा",
+     "iast": "sarvā",
+     "en": "all",
+     "hi": "सारी"
+    },
+    {
+     "sa": "वीर्यकृता",
+     "iast": "vīrya-kṛtā",
+     "en": "done by vīrya",
+     "hi": "वीर्य द्वारा की गई"
+    },
+    {
+     "sa": "हि",
+     "iast": "hi",
+     "en": "indeed",
+     "hi": "ही"
+    },
+    {
+     "sa": "सा",
+     "iast": "sā",
+     "en": "that (action)",
+     "hi": "वह (क्रिया)"
+    },
+    {
+     "sa": "गुर्वादिषु",
+     "iast": "gurv-ādiṣu",
+     "en": "in heavy and the others",
+     "hi": "गुरु आदि में"
+    },
+    {
+     "sa": "एव",
+     "iast": "eva",
+     "en": "only",
+     "hi": "ही"
+    },
+    {
+     "sa": "वीर्याख्या",
+     "iast": "vīryākhyā",
+     "en": "the name vīrya",
+     "hi": "वीर्य नाम"
+    },
+    {
+     "sa": "तेन",
+     "iast": "tena",
+     "en": "therefore",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "अन्वर्था",
+     "iast": "anvarthā",
+     "en": "meaningful (literal)",
+     "hi": "सार्थक"
+    },
+    {
+     "sa": "इति",
+     "iast": "iti",
+     "en": "thus",
+     "hi": "इस प्रकार"
+    },
+    {
+     "sa": "वर्ण्यते",
+     "iast": "varṇyate",
+     "en": "is described",
+     "hi": "कहा जाता है"
+    }
+   ],
+   "english": "Nothing devoid of vīrya can do anything; every action is indeed done by vīrya. Hence the name vīrya, when given to guru and the other (eight) qualities alone, is described as meaningful (anvartha).",
+   "hindi": "वीर्य के बिना कोई भी द्रव्य कुछ नहीं कर सकता; हर क्रिया वीर्य द्वारा ही होती है। इसलिए गुरु आदि (आठ) गुणों को ही 'वीर्य' नाम देना सार्थक बताया गया है।",
+   "explanation_en": "Vāgbhaṭa reconciles the two views: Caraka's general definition (all action is by vīrya) and the narrower use of the term for the eight potent guṇas. Verses 15-16 give reasons why only these eight are called vīrya.",
+   "explanation_hi": "वाग्भट दोनों मतों का समन्वय करते हैं: चरक की सामान्य परिभाषा (सारी क्रिया वीर्य से) और आठ शक्तिशाली गुणों के लिए 'वीर्य' शब्द का सीमित प्रयोग। श्लोक 15-16 में बताया गया है कि केवल ये आठ ही वीर्य क्यों कहलाते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vīrya",
+    "anvartha"
+   ],
+   "tags": [
+    "virya",
+    "dravyaguna"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.9.15",
+   "word_meanings": [
+    {
+     "sa": "समग्रगुणसारेषु",
+     "iast": "samagra-guṇa-sāreṣu",
+     "en": "being the essence of all qualities",
+     "hi": "सभी गुणों का सार होने से"
+    },
+    {
+     "sa": "शक्त्युत्कर्षविवर्तिषु",
+     "iast": "śakty-utkarṣa-vivartiṣu",
+     "en": "manifesting an excess of power",
+     "hi": "शक्ति की अधिकता प्रकट करने वाले होने से"
+    },
+    {
+     "sa": "व्यवहाराय",
+     "iast": "vyavahārāya",
+     "en": "for practical use",
+     "hi": "व्यवहार (चिकित्सा प्रयोग) के लिए"
+    },
+    {
+     "sa": "मुख्यत्वात्",
+     "iast": "mukhyatvāt",
+     "en": "because of being primary",
+     "hi": "मुख्य होने से"
+    },
+    {
+     "sa": "बह्वग्रग्रहणात्",
+     "iast": "bahv-agra-grahaṇāt",
+     "en": "because they are taken as foremost in many (substances)",
+     "hi": "बहुत द्रव्यों में प्रधान रूप से गृहीत होने से"
+    },
+    {
+     "sa": "अपि",
+     "iast": "api",
+     "en": "also",
+     "hi": "भी"
+    }
+   ],
+   "english": "(Guru and the other seven are called vīrya) because they are the essence of all qualities, because they display an excess of power, because they are primary for practical (therapeutic) use, and also because they are recognised as foremost in many substances.",
+   "hindi": "(गुरु आदि आठ गुणों को वीर्य कहा जाता है) क्योंकि वे सभी गुणों का सार हैं, उनमें शक्ति अधिक प्रकट होती है, चिकित्सा व्यवहार में वे मुख्य हैं, और बहुत से द्रव्यों में वे ही प्रधान रूप से पहचाने जाते हैं।",
+   "explanation_en": "Four reasons why only eight guṇas get the title vīrya: (1) samagra-guṇa-sāra, essence of all qualities; (2) śakty-utkarṣa, superior potency; (3) vyavahāra-mukhyatva, primary in practice; (4) bahv-agra-grahaṇa, dominant in many drugs. Verse 16 explains why rasa etc. are not called vīrya.",
+   "explanation_hi": "केवल आठ गुणों को 'वीर्य' कहने के चार कारण: (1) समग्र गुण सार, (2) शक्ति उत्कर्ष, (3) व्यवहार में मुख्यता, (4) बहुत द्रव्यों में प्रधानता। श्लोक 16 बताता है कि रस आदि को वीर्य क्यों नहीं कहते।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vīrya",
+    "guṇa"
+   ],
+   "tags": [
+    "virya",
+    "dravyaguna"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.9.16",
+   "word_meanings": [
+    {
+     "sa": "अतः",
+     "iast": "ataḥ",
+     "en": "hence",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "विपरीतत्वात्",
+     "iast": "viparītatvāt",
+     "en": "because of the opposite (features)",
+     "hi": "विपरीत होने से"
+    },
+    {
+     "sa": "संभवति",
+     "iast": "saṃbhavati",
+     "en": "is possible",
+     "hi": "संभव है"
+    },
+    {
+     "sa": "अपि",
+     "iast": "api",
+     "en": "although",
+     "hi": "यद्यपि"
+    },
+    {
+     "sa": "न एव",
+     "iast": "na eva",
+     "en": "not at all",
+     "hi": "बिल्कुल नहीं"
+    },
+    {
+     "sa": "सा",
+     "iast": "sā",
+     "en": "that (designation)",
+     "hi": "वह (वीर्य नाम)"
+    },
+    {
+     "sa": "विवक्ष्यते",
+     "iast": "vivakṣyate",
+     "en": "is intended",
+     "hi": "अभिप्रेत है"
+    },
+    {
+     "sa": "रसाद्येषु",
+     "iast": "rasādyeṣu",
+     "en": "for rasa and the others",
+     "hi": "रस आदि के लिए"
+    },
+    {
+     "sa": "वीर्यम्",
+     "iast": "vīryam",
+     "en": "vīrya",
+     "hi": "वीर्य"
+    },
+    {
+     "sa": "गुर्वादयः",
+     "iast": "gurv-ādayaḥ",
+     "en": "heavy and the others",
+     "hi": "गुरु आदि"
+    },
+    {
+     "sa": "हि",
+     "iast": "hi",
+     "en": "indeed",
+     "hi": "ही"
+    },
+    {
+     "sa": "अतः",
+     "iast": "ataḥ",
+     "en": "therefore",
+     "hi": "इसलिए"
+    }
+   ],
+   "english": "And because rasa and the others have the opposite features, the designation vīrya, though possible for them (since they too act), is not intended for them. Therefore guru and the others (eight) are vīrya.",
+   "hindi": "और क्योंकि रस आदि में ये विशेषताएँ विपरीत रूप से हैं, इसलिए यद्यपि उन्हें भी (क्रिया करने के कारण) वीर्य कहा जा सकता था, पर ऐसा अभिप्रेत नहीं है। इसलिए गुरु आदि आठ गुण ही वीर्य हैं।",
+   "explanation_en": "This closes the scholastic argument of verses 13-16. For exams, the conclusion is enough: in Vāgbhaṭa's usage vīrya = the eight guṇas, and the commonly used practical view is twofold (uṣṇa/śīta, verse 17).",
+   "explanation_hi": "यह श्लोक 13-16 का शास्त्रीय तर्क समाप्त करता है। परीक्षा के लिए निष्कर्ष काफ़ी है: वाग्भट के अनुसार वीर्य = आठ गुण, और व्यवहार में प्रचलित मत द्विविध है (उष्ण/शीत, श्लोक 17)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vīrya",
+    "rasa"
+   ],
+   "tags": [
+    "virya",
+    "dravyaguna"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.9.17",
+   "word_meanings": [
+    {
+     "sa": "उष्णम्",
+     "iast": "uṣṇam",
+     "en": "hot",
+     "hi": "उष्ण"
+    },
+    {
+     "sa": "शीतम्",
+     "iast": "śītam",
+     "en": "cold",
+     "hi": "शीत"
+    },
+    {
+     "sa": "द्विधा",
+     "iast": "dvidhā",
+     "en": "twofold",
+     "hi": "दो प्रकार का"
+    },
+    {
+     "sa": "एव",
+     "iast": "eva",
+     "en": "only",
+     "hi": "ही"
+    },
+    {
+     "sa": "अन्ये",
+     "iast": "anye",
+     "en": "others",
+     "hi": "अन्य (आचार्य)"
+    },
+    {
+     "sa": "वीर्यम्",
+     "iast": "vīryam",
+     "en": "vīrya",
+     "hi": "वीर्य"
+    },
+    {
+     "sa": "आचक्षते",
+     "iast": "ācakṣate",
+     "en": "declare",
+     "hi": "बताते हैं"
+    },
+    {
+     "sa": "अपि च",
+     "iast": "api ca",
+     "en": "and also",
+     "hi": "और भी"
+    },
+    {
+     "sa": "नानात्मकम्",
+     "iast": "nānātmakam",
+     "en": "of diverse nature",
+     "hi": "अनेक स्वभाव वाला"
+    },
+    {
+     "sa": "अपि",
+     "iast": "api",
+     "en": "even though",
+     "hi": "होने पर भी"
+    },
+    {
+     "sa": "द्रव्यम्",
+     "iast": "dravyam",
+     "en": "substance",
+     "hi": "द्रव्य"
+    },
+    {
+     "sa": "अग्नीषोमौ",
+     "iast": "agnī-ṣomau",
+     "en": "agni and soma (fire and moon principles)",
+     "hi": "अग्नि और सोम"
+    },
+    {
+     "sa": "महाबलौ",
+     "iast": "mahā-balau",
+     "en": "the two mighty forces",
+     "hi": "दो महाबली शक्तियाँ"
+    }
+   ],
+   "english": "Others declare vīrya to be only twofold: hot (uṣṇa) and cold (śīta). For although substances are of diverse nature, they never go beyond the two mighty forces, agni and soma (fire and moon),...",
+   "hindi": "अन्य आचार्य वीर्य को केवल दो प्रकार का बताते हैं: उष्ण और शीत। क्योंकि द्रव्य अनेक स्वभाव के होने पर भी अग्नि और सोम, इन दो महाबली शक्तियों से बाहर कभी नहीं जाते,...",
+   "explanation_en": "The twofold vīrya (dvividha vīrya: uṣṇa and śīta) is the view most used in practice and in Dravyaguṇa texts. It rests on the cosmic duality of agni (heat, transformation) and soma (coolness, nourishment). Verses 18-19 give the actions of each.",
+   "explanation_hi": "द्विविध वीर्य (उष्ण और शीत) व्यवहार और द्रव्यगुण ग्रंथों में सबसे ज़्यादा प्रयुक्त मत है। यह अग्नि (गर्मी, परिवर्तन) और सोम (शीतलता, पोषण) की सृष्टिगत द्वैतता पर आधारित है। श्लोक 18-19 में दोनों के कर्म हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "dvividha-vīrya",
+    "uṣṇa",
+    "śīta",
+    "agnīṣoma"
+   ],
+   "tags": [
+    "virya",
+    "dravyaguna"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.9.18",
+   "word_meanings": [
+    {
+     "sa": "व्यक्ताव्यक्तम्",
+     "iast": "vyaktāvyaktam",
+     "en": "manifest and unmanifest",
+     "hi": "प्रकट और अप्रकट"
+    },
+    {
+     "sa": "जगत्",
+     "iast": "jagat",
+     "en": "world",
+     "hi": "संसार"
+    },
+    {
+     "sa": "इव",
+     "iast": "iva",
+     "en": "just as",
+     "hi": "जैसे"
+    },
+    {
+     "sa": "न अतिक्रामति",
+     "iast": "na atikrāmati",
+     "en": "does not transgress",
+     "hi": "उल्लंघन नहीं करता"
+    },
+    {
+     "sa": "जातुचित्",
+     "iast": "jātucit",
+     "en": "ever",
+     "hi": "कभी भी"
+    },
+    {
+     "sa": "तत्र",
+     "iast": "tatra",
+     "en": "there",
+     "hi": "उनमें"
+    },
+    {
+     "sa": "उष्णम्",
+     "iast": "uṣṇam",
+     "en": "hot (vīrya)",
+     "hi": "उष्ण वीर्य"
+    },
+    {
+     "sa": "भ्रम",
+     "iast": "bhrama",
+     "en": "giddiness",
+     "hi": "चक्कर"
+    },
+    {
+     "sa": "तृट्",
+     "iast": "tṛṭ",
+     "en": "thirst",
+     "hi": "प्यास"
+    },
+    {
+     "sa": "ग्लानि",
+     "iast": "glāni",
+     "en": "exhaustion",
+     "hi": "थकान"
+    },
+    {
+     "sa": "स्वेद",
+     "iast": "sveda",
+     "en": "sweating",
+     "hi": "पसीना"
+    },
+    {
+     "sa": "दाह",
+     "iast": "dāha",
+     "en": "burning",
+     "hi": "जलन"
+    },
+    {
+     "sa": "आशुपाकिताः",
+     "iast": "āśu-pākitāḥ",
+     "en": "quick digestion/ripening",
+     "hi": "शीघ्र पाक"
+    }
+   ],
+   "english": "...just as the whole manifest and unmanifest world never goes beyond them. Of these, hot (uṣṇa) vīrya causes giddiness, thirst, exhaustion, sweating, burning, quick digestion (and quick suppuration),...",
+   "hindi": "...जैसे यह पूरा प्रकट और अप्रकट संसार उनसे बाहर कभी नहीं जाता। इनमें उष्ण वीर्य चक्कर, प्यास, थकान, पसीना, जलन और शीघ्र पाचन (पकाना) करता है,...",
+   "explanation_en": "Uṣṇa vīrya karma: bhrama, tṛṣṇā, glāni, sveda, dāha, āśupākitā, plus (verse 19) pacification of vāta and kapha. Pair with śīta vīrya karma in verse 19. These lists are common 'write the actions of uṣṇa and śīta vīrya' questions.",
+   "explanation_hi": "उष्ण वीर्य कर्म: भ्रम, तृष्णा, ग्लानि, स्वेद, दाह, आशुपाकिता, और (श्लोक 19) वात-कफ शमन। श्लोक 19 के शीत वीर्य कर्म के साथ याद करें। 'उष्ण और शीत वीर्य के कर्म लिखें' आम प्रश्न है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "uṣṇa-vīrya",
+    "āśupāka"
+   ],
+   "tags": [
+    "virya",
+    "dravyaguna"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.9.19",
+   "word_meanings": [
+    {
+     "sa": "शमम्",
+     "iast": "śamam",
+     "en": "pacification",
+     "hi": "शमन"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "वातकफयोः",
+     "iast": "vāta-kaphayoḥ",
+     "en": "of vāta and kapha",
+     "hi": "वात और कफ का"
+    },
+    {
+     "sa": "करोति",
+     "iast": "karoti",
+     "en": "does",
+     "hi": "करता है"
+    },
+    {
+     "sa": "शिशिरम्",
+     "iast": "śiśiram",
+     "en": "cold (vīrya)",
+     "hi": "शीत वीर्य"
+    },
+    {
+     "sa": "पुनः",
+     "iast": "punaḥ",
+     "en": "on the other hand",
+     "hi": "दूसरी ओर"
+    },
+    {
+     "sa": "ह्लादनम्",
+     "iast": "hlādanam",
+     "en": "refreshing, gladdening",
+     "hi": "आह्लाद, प्रसन्नता"
+    },
+    {
+     "sa": "जीवनम्",
+     "iast": "jīvanam",
+     "en": "life-giving",
+     "hi": "जीवनीय"
+    },
+    {
+     "sa": "स्तम्भम्",
+     "iast": "stambham",
+     "en": "arresting, firming",
+     "hi": "स्तम्भन (रोकना)"
+    },
+    {
+     "sa": "प्रसादम्",
+     "iast": "prasādam",
+     "en": "clarification, purification",
+     "hi": "प्रसादन (स्वच्छता)"
+    },
+    {
+     "sa": "रक्तपित्तयोः",
+     "iast": "rakta-pittayoḥ",
+     "en": "of blood and pitta",
+     "hi": "रक्त और पित्त का"
+    }
+   ],
+   "english": "...and pacifies vāta and kapha. Cold (śīta) vīrya, on the other hand, is refreshing, life-giving (jīvana), arresting (stambhana), and clarifies (purifies) blood and pitta.",
+   "hindi": "...और वात तथा कफ का शमन करता है। दूसरी ओर शीत वीर्य आह्लाद (ताज़गी) देता है, जीवन देता है, स्तम्भन (बहाव रोकना) करता है और रक्त तथा पित्त को प्रसन्न (शुद्ध) करता है।",
+   "explanation_en": "Śīta vīrya karma: hlādana, jīvana, stambhana, rakta-pitta-prasādana. Logically, śīta vīrya pacifies pitta and rakta, and uṣṇa vīrya pacifies vāta and kapha. Tip: 'uṣṇa → vāta-kapha śamana; śīta → pitta-rakta prasādana'.",
+   "explanation_hi": "शीत वीर्य कर्म: ह्लादन, जीवन, स्तम्भन, रक्त-पित्त प्रसादन। तर्क से: शीत वीर्य पित्त और रक्त को शांत करता है, उष्ण वीर्य वात और कफ को। सूत्र: 'उष्ण → वात-कफ शमन; शीत → पित्त-रक्त प्रसादन'।",
+   "modern_correlation": null,
+   "key_terms": [
+    "śīta-vīrya",
+    "stambhana",
+    "jīvana",
+    "raktapitta"
+   ],
+   "tags": [
+    "virya",
+    "dravyaguna"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.9.20",
+   "word_meanings": [
+    {
+     "sa": "जाठरेण",
+     "iast": "jāṭhareṇa",
+     "en": "with the gastric (digestive)",
+     "hi": "जठर की"
+    },
+    {
+     "sa": "अग्निना",
+     "iast": "agninā",
+     "en": "fire",
+     "hi": "अग्नि के साथ"
+    },
+    {
+     "sa": "योगात्",
+     "iast": "yogāt",
+     "en": "by contact",
+     "hi": "संयोग से"
+    },
+    {
+     "sa": "यत्",
+     "iast": "yat",
+     "en": "which",
+     "hi": "जो"
+    },
+    {
+     "sa": "उदेति",
+     "iast": "udeti",
+     "en": "arises",
+     "hi": "उत्पन्न होता है"
+    },
+    {
+     "sa": "रसान्तरम्",
+     "iast": "rasāntaram",
+     "en": "a different taste",
+     "hi": "दूसरा रस"
+    },
+    {
+     "sa": "रसानाम्",
+     "iast": "rasānām",
+     "en": "of the tastes",
+     "hi": "रसों के"
+    },
+    {
+     "sa": "परिणामान्ते",
+     "iast": "pariṇāmānte",
+     "en": "at the end of transformation",
+     "hi": "परिणाम (परिवर्तन) के अंत में"
+    },
+    {
+     "sa": "सः",
+     "iast": "saḥ",
+     "en": "that",
+     "hi": "वह"
+    },
+    {
+     "sa": "विपाकः",
+     "iast": "vipākaḥ",
+     "en": "vipāka",
+     "hi": "विपाक"
+    },
+    {
+     "sa": "इति",
+     "iast": "iti",
+     "en": "thus",
+     "hi": "इस प्रकार"
+    },
+    {
+     "sa": "स्मृतः",
+     "iast": "smṛtaḥ",
+     "en": "is known",
+     "hi": "कहा जाता है"
+    }
+   ],
+   "english": "The different taste that arises at the end of the transformation of tastes, through contact with the digestive fire (jāṭharāgni), is known as vipāka (post-digestive taste).",
+   "hindi": "जठराग्नि के संयोग से रसों के परिवर्तन के अंत में जो दूसरा रस उत्पन्न होता है, उसे 'विपाक' कहते हैं।",
+   "explanation_en": "The standard definition of vipāka, asked in almost every Dravyaguṇa exam: 'jāṭhareṇāgninā yogād yad udeti rasāntaram, rasānāṃ pariṇāmānte sa vipāka iti smṛtaḥ'. Learn it verbatim. Verse 21 gives the three vipākas.",
+   "explanation_hi": "विपाक की मानक परिभाषा, जो लगभग हर द्रव्यगुण परीक्षा में पूछी जाती है: 'जाठरेणाग्निना योगाद्यदुदेति रसान्तरम्। रसानां परिणामान्ते स विपाक इति स्मृतः॥' इसे शब्दशः याद करें। श्लोक 21 में तीन विपाक हैं।",
+   "modern_correlation": {
+    "en": "Vipāka is sometimes compared to the net metabolic effect of a food or drug after digestion and absorption, as distinct from its taste on the tongue; this is an interpretive analogy, not an identity.",
+    "hi": "विपाक की तुलना कभी-कभी पाचन और अवशोषण के बाद भोजन या दवा के कुल चयापचय प्रभाव से की जाती है, जो जीभ पर स्वाद से अलग है; यह एक व्याख्यात्मक तुलना है, समानता नहीं।"
+   },
+   "key_terms": [
+    "vipāka",
+    "jāṭharāgni",
+    "rasa"
+   ],
+   "tags": [
+    "vipaka",
+    "definitions",
+    "dravyaguna"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.9.21",
+   "word_meanings": [
+    {
+     "sa": "स्वादुः",
+     "iast": "svāduḥ",
+     "en": "sweet",
+     "hi": "मधुर"
+    },
+    {
+     "sa": "पटुः",
+     "iast": "paṭuḥ",
+     "en": "salty",
+     "hi": "लवण"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "मधुरम्",
+     "iast": "madhuram",
+     "en": "into sweet",
+     "hi": "मधुर में"
+    },
+    {
+     "sa": "अम्लः",
+     "iast": "amlaḥ",
+     "en": "sour",
+     "hi": "अम्ल"
+    },
+    {
+     "sa": "अम्लम्",
+     "iast": "amlam",
+     "en": "into sour",
+     "hi": "अम्ल में"
+    },
+    {
+     "sa": "पच्यते",
+     "iast": "pacyate",
+     "en": "is transformed",
+     "hi": "पकता है"
+    },
+    {
+     "sa": "रसः",
+     "iast": "rasaḥ",
+     "en": "taste",
+     "hi": "रस"
+    },
+    {
+     "sa": "तिक्त",
+     "iast": "tikta",
+     "en": "bitter",
+     "hi": "तिक्त"
+    },
+    {
+     "sa": "ऊषण",
+     "iast": "ūṣaṇa",
+     "en": "pungent",
+     "hi": "कटु"
+    },
+    {
+     "sa": "कषायाणाम्",
+     "iast": "kaṣāyāṇām",
+     "en": "and astringent",
+     "hi": "कषाय का"
+    },
+    {
+     "sa": "विपाकः",
+     "iast": "vipākaḥ",
+     "en": "vipāka",
+     "hi": "विपाक"
+    },
+    {
+     "sa": "प्रायशः",
+     "iast": "prāyaśaḥ",
+     "en": "generally",
+     "hi": "प्रायः"
+    },
+    {
+     "sa": "कटुः",
+     "iast": "kaṭuḥ",
+     "en": "pungent",
+     "hi": "कटु"
+    }
+   ],
+   "english": "Sweet and salty tastes are transformed into sweet (madhura vipāka); sour into sour (amla vipāka); and the vipāka of bitter, pungent and astringent tastes is generally pungent (kaṭu vipāka).",
+   "hindi": "मधुर और लवण रस का विपाक मधुर होता है; अम्ल रस का विपाक अम्ल होता है; और तिक्त, कटु तथा कषाय रसों का विपाक प्रायः कटु होता है।",
+   "explanation_en": "Three vipākas (trividha vipāka): madhura ← madhura + lavaṇa; amla ← amla; kaṭu ← tikta + kaṭu + kaṣāya. 'Prāyaśaḥ' (generally) allows exceptions, e.g. āmalaka. This table is one of the most asked MCQ facts.",
+   "explanation_hi": "तीन विपाक: मधुर ← मधुर + लवण; अम्ल ← अम्ल; कटु ← तिक्त + कटु + कषाय। 'प्रायशः' (प्रायः) शब्द अपवादों की गुंजाइश देता है, जैसे आँवला। यह तालिका सबसे ज़्यादा पूछे जाने वाले MCQ तथ्यों में है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "trividha-vipāka",
+    "madhura",
+    "amla",
+    "kaṭu"
+   ],
+   "tags": [
+    "vipaka",
+    "dravyaguna"
+   ],
+   "importance": "high",
+   "mnemonic": "2-1-3: Madhura & Lavaṇa → sweet; Amla → sour; Tikta, Kaṭu, Kaṣāya → pungent",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.9.22",
+   "word_meanings": [
+    {
+     "sa": "रसैः",
+     "iast": "rasaiḥ",
+     "en": "with the tastes",
+     "hi": "रसों के"
+    },
+    {
+     "sa": "असौ",
+     "iast": "asau",
+     "en": "it (vipāka)",
+     "hi": "यह (विपाक)"
+    },
+    {
+     "sa": "तुल्यफलः",
+     "iast": "tulya-phalaḥ",
+     "en": "of similar effect",
+     "hi": "समान फल वाला"
+    },
+    {
+     "sa": "तत्र",
+     "iast": "tatra",
+     "en": "there",
+     "hi": "वहाँ"
+    },
+    {
+     "sa": "द्रव्यम्",
+     "iast": "dravyam",
+     "en": "substance",
+     "hi": "द्रव्य"
+    },
+    {
+     "sa": "शुभाशुभम्",
+     "iast": "śubhāśubham",
+     "en": "good or bad (beneficial or harmful)",
+     "hi": "शुभ या अशुभ"
+    },
+    {
+     "sa": "किञ्चित्",
+     "iast": "kiñcit",
+     "en": "some",
+     "hi": "कोई"
+    },
+    {
+     "sa": "रसेन",
+     "iast": "rasena",
+     "en": "by rasa",
+     "hi": "रस से"
+    },
+    {
+     "sa": "कुरुते",
+     "iast": "kurute",
+     "en": "does",
+     "hi": "करता है"
+    },
+    {
+     "sa": "कर्म",
+     "iast": "karma",
+     "en": "action",
+     "hi": "कर्म"
+    },
+    {
+     "sa": "पाकेन",
+     "iast": "pākena",
+     "en": "by vipāka",
+     "hi": "विपाक से"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "अपरम्",
+     "iast": "aparam",
+     "en": "another",
+     "hi": "दूसरा"
+    }
+   ],
+   "english": "Vipāka has effects similar to the corresponding tastes. A substance, whether beneficial or harmful, does some action through its rasa and another through its vipāka,...",
+   "hindi": "विपाक का प्रभाव उसी नाम के रस जैसा होता है। कोई द्रव्य, चाहे हितकर हो या अहितकर, कुछ कर्म अपने रस से करता है और कुछ अपने विपाक से,...",
+   "explanation_en": "Madhura vipāka acts like madhura rasa (kapha-increasing, nourishing), and so on. Verses 22-23 list the five agents of drug action: rasa, vipāka, guṇa, vīrya, prabhāva. This 'rasa-pañcaka' is central to Dravyaguṇa.",
+   "explanation_hi": "मधुर विपाक मधुर रस की तरह काम करता है (कफ बढ़ाना, पोषण), इसी प्रकार अन्य। श्लोक 22-23 में द्रव्य कर्म के पाँच साधन हैं: रस, विपाक, गुण, वीर्य, प्रभाव। यह 'रस पंचक' द्रव्यगुण का केंद्र है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vipāka",
+    "rasa",
+    "karma"
+   ],
+   "tags": [
+    "vipaka",
+    "rasa-panchaka",
+    "dravyaguna"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.9.23",
+   "word_meanings": [
+    {
+     "sa": "गुणान्तरेण",
+     "iast": "guṇāntareṇa",
+     "en": "by another quality",
+     "hi": "अन्य गुण से"
+    },
+    {
+     "sa": "वीर्येण",
+     "iast": "vīryeṇa",
+     "en": "by vīrya",
+     "hi": "वीर्य से"
+    },
+    {
+     "sa": "प्रभावेण",
+     "iast": "prabhāveṇa",
+     "en": "by prabhāva (specific action)",
+     "hi": "प्रभाव से"
+    },
+    {
+     "sa": "एव",
+     "iast": "eva",
+     "en": "alone",
+     "hi": "ही"
+    },
+    {
+     "sa": "किञ्चन",
+     "iast": "kiñcana",
+     "en": "some",
+     "hi": "कोई"
+    },
+    {
+     "sa": "यत् यत्",
+     "iast": "yat yat",
+     "en": "whichever",
+     "hi": "जो जो"
+    },
+    {
+     "sa": "द्रव्ये",
+     "iast": "dravye",
+     "en": "in the substance",
+     "hi": "द्रव्य में"
+    },
+    {
+     "sa": "रसादीनाम्",
+     "iast": "rasādīnām",
+     "en": "among rasa etc.",
+     "hi": "रस आदि में से"
+    },
+    {
+     "sa": "बलवत्त्वेन",
+     "iast": "balavattvena",
+     "en": "with greater strength",
+     "hi": "अधिक बलवान होकर"
+    },
+    {
+     "sa": "वर्तते",
+     "iast": "vartate",
+     "en": "exists",
+     "hi": "रहता है"
+    }
+   ],
+   "english": "...some by another quality (guṇa), some by vīrya, and some by prabhāva alone. Whichever of rasa and the others exists in the substance with greater strength,...",
+   "hindi": "...कुछ कर्म किसी अन्य गुण से, कुछ वीर्य से, और कुछ केवल प्रभाव से करता है। रस आदि में से जो भी द्रव्य में अधिक बलवान होकर रहता है,...",
+   "explanation_en": "Completes the list of agents of action. The second line begins the rule of relative strength (bala) that continues in verses 24-25: the strongest factor determines the action of a drug.",
+   "explanation_hi": "कर्म के साधनों की सूची पूरी होती है। दूसरी पंक्ति बल (शक्ति) के नियम को शुरू करती है जो श्लोक 24-25 में चलता है: सबसे बलवान कारक ही द्रव्य का कर्म तय करता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "guṇa",
+    "vīrya",
+    "prabhāva",
+    "bala"
+   ],
+   "tags": [
+    "rasa-panchaka",
+    "dravyaguna"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.9.24",
+   "word_meanings": [
+    {
+     "sa": "अभिभूय",
+     "iast": "abhibhūya",
+     "en": "having overpowered",
+     "hi": "दबाकर"
+    },
+    {
+     "sa": "इतरान्",
+     "iast": "itarān",
+     "en": "the others",
+     "hi": "दूसरों को"
+    },
+    {
+     "sa": "तत् तत्",
+     "iast": "tat tat",
+     "en": "that (factor)",
+     "hi": "वह वह"
+    },
+    {
+     "sa": "कारणत्वम्",
+     "iast": "kāraṇatvam",
+     "en": "the status of being the cause",
+     "hi": "कारण होने की स्थिति"
+    },
+    {
+     "sa": "प्रपद्यते",
+     "iast": "prapadyate",
+     "en": "attains",
+     "hi": "प्राप्त करता है"
+    },
+    {
+     "sa": "विरुद्धगुणसंयोगे",
+     "iast": "viruddha-guṇa-saṃyoge",
+     "en": "when opposing qualities combine",
+     "hi": "विरोधी गुणों के मेल में"
+    },
+    {
+     "sa": "भूयसा",
+     "iast": "bhūyasā",
+     "en": "by the greater",
+     "hi": "अधिक से"
+    },
+    {
+     "sa": "अल्पम्",
+     "iast": "alpam",
+     "en": "the lesser",
+     "hi": "कम"
+    },
+    {
+     "sa": "हि",
+     "iast": "hi",
+     "en": "indeed",
+     "hi": "ही"
+    },
+    {
+     "sa": "जीयते",
+     "iast": "jīyate",
+     "en": "is overcome",
+     "hi": "जीता जाता है"
+    }
+   ],
+   "english": "...that factor, overpowering the others, becomes the cause (of the action). When opposing qualities are combined, the lesser is overcome by the greater.",
+   "hindi": "...वही कारक दूसरों को दबाकर कर्म का कारण बनता है। जब विरोधी गुण एक साथ हों, तो कम मात्रा वाला गुण अधिक मात्रा वाले से हार जाता है।",
+   "explanation_en": "General rule: in a combination of opposite qualities, the stronger or more abundant wins ('bhūyasālpaṃ hi jīyate'). This also explains why a single substance can have mixed effects. Verse 25 gives the natural order of strength.",
+   "explanation_hi": "सामान्य नियम: विरोधी गुणों के मेल में अधिक बलवान या अधिक मात्रा वाला जीतता है ('भूयसाल्पं हि जीयते')। इससे यह भी समझ आता है कि एक द्रव्य के मिश्रित प्रभाव क्यों होते हैं। श्लोक 25 में बल का प्राकृतिक क्रम है।",
+   "modern_correlation": {
+    "en": "This broadly parallels the pharmacological observation that the net effect of a mixture depends on the relative potency and amount of each active constituent.",
+    "hi": "यह औषध विज्ञान के इस अवलोकन से मिलता है कि किसी मिश्रण का कुल प्रभाव हर सक्रिय घटक की सापेक्ष शक्ति और मात्रा पर निर्भर करता है।"
+   },
+   "key_terms": [
+    "bala",
+    "viruddha-guṇa"
+   ],
+   "tags": [
+    "rasa-panchaka",
+    "dravyaguna"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.9.25",
+   "word_meanings": [
+    {
+     "sa": "रसम्",
+     "iast": "rasam",
+     "en": "rasa",
+     "hi": "रस को"
+    },
+    {
+     "sa": "विपाकः",
+     "iast": "vipākaḥ",
+     "en": "vipāka",
+     "hi": "विपाक"
+    },
+    {
+     "sa": "तौ",
+     "iast": "tau",
+     "en": "those two",
+     "hi": "उन दोनों को"
+    },
+    {
+     "sa": "वीर्यम्",
+     "iast": "vīryam",
+     "en": "vīrya",
+     "hi": "वीर्य"
+    },
+    {
+     "sa": "प्रभावः",
+     "iast": "prabhāvaḥ",
+     "en": "prabhāva",
+     "hi": "प्रभाव"
+    },
+    {
+     "sa": "तानि",
+     "iast": "tāni",
+     "en": "all of them",
+     "hi": "उन सबको"
+    },
+    {
+     "sa": "अपोहति",
+     "iast": "apohati",
+     "en": "overrides",
+     "hi": "दबा देता है"
+    },
+    {
+     "sa": "बलसाम्ये",
+     "iast": "bala-sāmye",
+     "en": "when strength is equal",
+     "hi": "बल समान होने पर"
+    },
+    {
+     "sa": "रसादीनाम्",
+     "iast": "rasādīnām",
+     "en": "of rasa etc.",
+     "hi": "रस आदि का"
+    },
+    {
+     "sa": "इति",
+     "iast": "iti",
+     "en": "thus",
+     "hi": "यह"
+    },
+    {
+     "sa": "नैसर्गिकम्",
+     "iast": "naisargikam",
+     "en": "natural",
+     "hi": "स्वाभाविक"
+    },
+    {
+     "sa": "बलम्",
+     "iast": "balam",
+     "en": "strength",
+     "hi": "बल"
+    }
+   ],
+   "english": "When rasa and the others are of equal strength, vipāka overrides rasa, vīrya overrides those two, and prabhāva overrides all of them; this is their natural order of strength.",
+   "hindi": "जब रस आदि का बल समान हो, तो विपाक रस को दबा देता है, वीर्य उन दोनों (रस और विपाक) को, और प्रभाव इन सबको दबा देता है; यही उनका स्वाभाविक बल-क्रम है।",
+   "explanation_en": "Natural order of strength: rasa < vipāka < vīrya < prabhāva. Only valid when all are of equal strength (bala-sāmya). A top-ranked MCQ and short-note topic.",
+   "explanation_hi": "स्वाभाविक बल-क्रम: रस < विपाक < वीर्य < प्रभाव। यह तभी लागू है जब सबका बल समान हो (बल साम्य)। यह सबसे ज़्यादा पूछे जाने वाले MCQ विषयों में है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "prabhāva",
+    "vīrya",
+    "vipāka",
+    "rasa",
+    "naisargika-bala"
+   ],
+   "tags": [
+    "rasa-panchaka",
+    "dravyaguna"
+   ],
+   "importance": "high",
+   "mnemonic": "R < V < V < P: Rasa < Vipāka < Vīrya < Prabhāva",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.9.26",
+   "word_meanings": [
+    {
+     "sa": "रसादिसाम्ये",
+     "iast": "rasādi-sāmye",
+     "en": "when rasa etc. are equal",
+     "hi": "रस आदि समान होने पर"
+    },
+    {
+     "sa": "यत्",
+     "iast": "yat",
+     "en": "which",
+     "hi": "जो"
+    },
+    {
+     "sa": "कर्म",
+     "iast": "karma",
+     "en": "action",
+     "hi": "कर्म"
+    },
+    {
+     "sa": "विशिष्टम्",
+     "iast": "viśiṣṭam",
+     "en": "distinctive",
+     "hi": "विशिष्ट"
+    },
+    {
+     "sa": "तत्",
+     "iast": "tat",
+     "en": "that",
+     "hi": "वह"
+    },
+    {
+     "sa": "प्रभावजम्",
+     "iast": "prabhāva-jam",
+     "en": "born of prabhāva",
+     "hi": "प्रभाव से उत्पन्न"
+    },
+    {
+     "sa": "दन्ती",
+     "iast": "dantī",
+     "en": "dantī (Baliospermum)",
+     "hi": "दन्ती"
+    },
+    {
+     "sa": "रसाद्यैः",
+     "iast": "rasādyaiḥ",
+     "en": "in rasa etc.",
+     "hi": "रस आदि में"
+    },
+    {
+     "sa": "तुल्या",
+     "iast": "tulyā",
+     "en": "equal",
+     "hi": "समान"
+    },
+    {
+     "sa": "अपि",
+     "iast": "api",
+     "en": "although",
+     "hi": "होने पर भी"
+    },
+    {
+     "sa": "चित्रकस्य",
+     "iast": "citrakasya",
+     "en": "to citraka (Plumbago)",
+     "hi": "चित्रक के"
+    },
+    {
+     "sa": "विरेचनी",
+     "iast": "virecanī",
+     "en": "purgative",
+     "hi": "विरेचक"
+    }
+   ],
+   "english": "When rasa and the others are the same, the distinctive action (that still differs) is born of prabhāva. Dantī, though equal to citraka in rasa and the other properties, is purgative (while citraka is not);",
+   "hindi": "जब रस आदि सब समान हों, फिर भी जो विशिष्ट कर्म अलग हो, वह 'प्रभाव' से उत्पन्न होता है। जैसे दन्ती रस आदि में चित्रक के समान होने पर भी विरेचक है (चित्रक नहीं);",
+   "explanation_en": "Definition of prabhāva: a specific action that cannot be explained by rasa, guṇa, vīrya or vipāka. Classic examples (v. 26-27): dantī vs citraka (purgation), mṛdvīkā vs madhuka (laxative), ghṛta vs kṣīra (dīpana). These three pairs are standard exam examples.",
+   "explanation_hi": "प्रभाव की परिभाषा: ऐसा विशिष्ट कर्म जो रस, गुण, वीर्य या विपाक से समझाया न जा सके। प्रसिद्ध उदाहरण (श्लोक 26-27): दन्ती बनाम चित्रक (विरेचन), मृद्वीका बनाम मधुक (विरेचन), घृत बनाम क्षीर (दीपन)। ये तीन जोड़े परीक्षा के मानक उदाहरण हैं।",
+   "modern_correlation": {
+    "en": "Prabhāva is often compared to a drug's specific pharmacological action that is not predictable from general properties, for instance actions mediated by a particular receptor or constituent.",
+    "hi": "प्रभाव की तुलना अक्सर किसी दवा की ऐसी विशिष्ट क्रिया से की जाती है जो उसके सामान्य गुणों से अनुमानित न हो, जैसे किसी विशेष रिसेप्टर या घटक से होने वाली क्रिया।"
+   },
+   "key_terms": [
+    "prabhāva",
+    "dantī",
+    "citraka",
+    "virecana"
+   ],
+   "tags": [
+    "prabhava",
+    "definitions",
+    "dravyaguna"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.9.27",
+   "word_meanings": [
+    {
+     "sa": "मधुकस्य",
+     "iast": "madhukasya",
+     "en": "to madhuka (liquorice)",
+     "hi": "मधुक (मुलेठी) के"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "मृद्वीका",
+     "iast": "mṛdvīkā",
+     "en": "grapes",
+     "hi": "मृद्वीका (मुनक्का)"
+    },
+    {
+     "sa": "घृतम्",
+     "iast": "ghṛtam",
+     "en": "ghee",
+     "hi": "घी"
+    },
+    {
+     "sa": "क्षीरस्य",
+     "iast": "kṣīrasya",
+     "en": "to milk",
+     "hi": "दूध के"
+    },
+    {
+     "sa": "दीपनम्",
+     "iast": "dīpanam",
+     "en": "kindles digestion",
+     "hi": "दीपन (अग्निवर्धक)"
+    },
+    {
+     "sa": "इति",
+     "iast": "iti",
+     "en": "thus",
+     "hi": "इस प्रकार"
+    },
+    {
+     "sa": "सामान्यतः",
+     "iast": "sāmānyataḥ",
+     "en": "in general",
+     "hi": "सामान्य रूप से"
+    },
+    {
+     "sa": "कर्म",
+     "iast": "karma",
+     "en": "action",
+     "hi": "कर्म"
+    },
+    {
+     "sa": "द्रव्यादीनाम्",
+     "iast": "dravyādīnām",
+     "en": "of dravya etc.",
+     "hi": "द्रव्य आदि का"
+    },
+    {
+     "sa": "पुनः",
+     "iast": "punaḥ",
+     "en": "again",
+     "hi": "फिर"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "तत्",
+     "iast": "tat",
+     "en": "that",
+     "hi": "वह"
+    }
+   ],
+   "english": "...likewise grapes (mṛdvīkā), compared with madhuka (liquorice), (is laxative); and ghee, compared with milk, kindles digestion (dīpana). Thus is the action of dravya and the rest in general; but again it...",
+   "hindi": "...इसी प्रकार मृद्वीका (मुनक्का) मधुक (मुलेठी) के समान होते हुए भी विरेचक है; और घी दूध के समान होते हुए भी दीपन (अग्नि बढ़ाने वाला) है। यह द्रव्य आदि के कर्म का सामान्य नियम है; परंतु यह फिर...",
+   "explanation_en": "Completes the prabhāva examples. Ghee is madhura, śīta and guru like milk, yet it is dīpana: this is prabhāva. The last line leads into verse 28, which notes that general rules have exceptions due to the special make-up of each substance.",
+   "explanation_hi": "प्रभाव के उदाहरण पूरे होते हैं। घी दूध की तरह मधुर, शीत और गुरु है, फिर भी दीपन है: यही प्रभाव है। अंतिम पंक्ति श्लोक 28 से जुड़ती है, जो बताती है कि सामान्य नियमों के अपवाद हर द्रव्य की विशेष बनावट के कारण होते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "prabhāva",
+    "mṛdvīkā",
+    "ghṛta",
+    "dīpana"
+   ],
+   "tags": [
+    "prabhava",
+    "dravyaguna"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.9.28",
+   "word_meanings": [
+    {
+     "sa": "विचित्रप्रत्ययारब्धद्रव्यभेदेन",
+     "iast": "vicitra-pratyayārabdha-dravya-bhedena",
+     "en": "by the difference of substances built from diverse causative factors",
+     "hi": "विचित्र कारणों से बने द्रव्यों के भेद से"
+    },
+    {
+     "sa": "भिद्यते",
+     "iast": "bhidyate",
+     "en": "differs",
+     "hi": "भिन्न हो जाता है"
+    },
+    {
+     "sa": "स्वादुः",
+     "iast": "svāduḥ",
+     "en": "sweet",
+     "hi": "मधुर"
+    },
+    {
+     "sa": "गुरुः",
+     "iast": "guruḥ",
+     "en": "heavy",
+     "hi": "गुरु"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "गोधूमः",
+     "iast": "godhūmaḥ",
+     "en": "wheat",
+     "hi": "गेहूँ"
+    },
+    {
+     "sa": "वातजित्",
+     "iast": "vāta-jit",
+     "en": "conquers vāta",
+     "hi": "वातनाशक"
+    },
+    {
+     "sa": "वातकृत्",
+     "iast": "vāta-kṛt",
+     "en": "causes vāta",
+     "hi": "वातकारक"
+    },
+    {
+     "sa": "यवः",
+     "iast": "yavaḥ",
+     "en": "barley",
+     "hi": "जौ"
+    }
+   ],
+   "english": "...varies with the difference of substances that are built from diverse causative factors (vicitra-pratyaya-ārabdha). Wheat, sweet and heavy, conquers vāta, whereas barley, (also sweet), causes vāta.",
+   "hindi": "...यह नियम उन द्रव्यों में बदल जाता है जो विचित्र (विशेष) कारणों के मेल से बने हैं। जैसे गेहूँ मधुर और गुरु होने से वात को शांत करता है, जबकि जौ (मधुर होते हुए भी) वात बढ़ाता है।",
+   "explanation_en": "Vicitra-pratyayārabdha dravya: substances whose action does not follow the general rule of their rasa because of their unique combination of bhūtas. Wheat vs barley is the standard example (both madhura, but yava is rūkṣa and vāta-kara). Contrast with samāna-pratyayārabdha, where action follows rasa.",
+   "explanation_hi": "विचित्रप्रत्ययारब्ध द्रव्य: ऐसे द्रव्य जिनका कर्म उनके रस के सामान्य नियम का पालन नहीं करता, क्योंकि उनमें महाभूतों का विशेष मेल है। गेहूँ बनाम जौ मानक उदाहरण है (दोनों मधुर, पर जौ रूक्ष और वातकर)। समानप्रत्ययारब्ध से तुलना करें, जहाँ कर्म रस के अनुसार होता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vicitra-pratyayārabdha",
+    "godhūma",
+    "yava"
+   ],
+   "tags": [
+    "dravyaguna",
+    "exceptions"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  }
+ ]
+}

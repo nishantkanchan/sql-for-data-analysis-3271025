@@ -1,0 +1,3724 @@
+{
+ "chapter": {
+  "id": "CS.sutra.1",
+  "text": "charaka_samhita",
+  "sthana": "sutra",
+  "chapter": 1,
+  "title_iast": "Dīrghañjīvitīya Adhyāya",
+  "title_devanagari": "दीर्घञ्जीवितीयोऽध्यायः",
+  "title_en": "The chapter on long life",
+  "title_hi": "दीर्घञ्जीवितीय अध्याय (दीर्घ जीवन का अध्याय)",
+  "summary_en": "The opening chapter of the Carakasaṃhitā tells how Āyurveda came down to humans: from Brahmā to Prajāpati (Dakṣa), the Aśvins and Indra, and from Indra to the sage Bharadvāja, who was sent by a great assembly of ṛṣis gathered in the Himālaya when disease began to obstruct human life and spiritual practice. It states that health (ārogya) is the root of the four goals of life (dharma, artha, kāma, mokṣa). Indra teaches Āyurveda as 'trisūtra' (cause, symptoms, medicine), aimed at both the healthy and the sick. The sages perceive the six categories (sāmānya, viśeṣa, guṇa, dravya, karma, samavāya), Punarvasu Ātreya teaches six disciples, and Agniveśa becomes the first to compose a treatise. The chapter ends (in this corpus) with the classic definitions of Āyurveda and of āyu (life) with its synonyms. These definitions, the trisūtra and the six padārthas are among the most frequently asked questions in BAMS examinations.",
+  "summary_hi": "चरकसंहिता का यह पहला अध्याय बताता है कि आयुर्वेद मनुष्यों तक कैसे पहुँचा: ब्रह्मा से प्रजापति (दक्ष), फिर अश्विनीकुमार, फिर इन्द्र, और इन्द्र से भरद्वाज ऋषि तक। जब रोग मनुष्यों के तप, उपवास, अध्ययन और ब्रह्मचर्य में बाधा बनने लगे, तब हिमालय पर ऋषियों की बड़ी सभा हुई और भरद्वाज को इन्द्र के पास भेजा गया। अध्याय कहता है कि आरोग्य (स्वास्थ्य) धर्म, अर्थ, काम और मोक्ष का मूल है। इन्द्र ने आयुर्वेद को 'त्रिसूत्र' (हेतु, लिङ्ग, औषध) के रूप में सिखाया, जो स्वस्थ और रोगी दोनों के लिए है। ऋषियों ने छह पदार्थ (सामान्य, विशेष, गुण, द्रव्य, कर्म, समवाय) जाने, पुनर्वसु आत्रेय ने छह शिष्यों को पढ़ाया और अग्निवेश ने सबसे पहले तन्त्र (ग्रन्थ) लिखा। अन्त में आयुर्वेद और आयु की प्रसिद्ध परिभाषाएँ हैं। ये परिभाषाएँ, त्रिसूत्र और षट्पदार्थ परीक्षा में बहुत पूछे जाते हैं।",
+  "key_concepts": [
+   "āyurvedāvataraṇa (descent of Āyurveda)",
+   "ārogya as root of puruṣārtha",
+   "trisūtra (hetu, liṅga, auṣadha)",
+   "ṣaṭpadārtha",
+   "Ātreya's six disciples",
+   "definition of Āyurveda",
+   "definition and synonyms of āyu"
+  ],
+  "exam_focus_en": [
+   "Lineage of Āyurveda per Caraka: Brahmā → Dakṣa Prajāpati → Aśvinīkumāras → Indra → Bharadvāja → Ātreya Punarvasu → six disciples.",
+   "'Dharmārthakāmamokṣāṇām ārogyaṃ mūlam uttamam' (Su 1.15): health is the best root of the four puruṣārthas.",
+   "Trisūtra Āyurveda: hetu (cause), liṅga (signs), auṣadha (medicine); svastha-ātura-parāyaṇa (Su 1.24).",
+   "Ṣaṭpadārtha listed in Su 1.28-29: sāmānya, viśeṣa, guṇa, dravya, karma, samavāya.",
+   "Six disciples of Ātreya: Agniveśa, Bhela, Jatūkarṇa, Parāśara, Hārīta, Kṣārapāṇi; Agniveśa wrote first (Su 1.31-32).",
+   "Definition of Āyurveda (Su 1.41) and of āyu as śarīra-indriya-sattva-ātma-saṃyoga with synonyms dhāri, jīvita, nityaga, anubandha (Su 1.42)."
+  ],
+  "exam_focus_hi": [
+   "चरक के अनुसार आयुर्वेद की परम्परा: ब्रह्मा → दक्ष प्रजापति → अश्विनीकुमार → इन्द्र → भरद्वाज → आत्रेय पुनर्वसु → छह शिष्य।",
+   "'धर्मार्थकाममोक्षाणामारोग्यं मूलमुत्तमम्' (सू. 1.15): आरोग्य चारों पुरुषार्थों का श्रेष्ठ मूल है।",
+   "त्रिसूत्र आयुर्वेद: हेतु, लिङ्ग, औषध; यह स्वस्थ और आतुर दोनों का आश्रय है (सू. 1.24)।",
+   "षट्पदार्थ (सू. 1.28-29): सामान्य, विशेष, गुण, द्रव्य, कर्म, समवाय।",
+   "आत्रेय के छह शिष्य: अग्निवेश, भेल, जतूकर्ण, पराशर, हारीत, क्षारपाणि; सबसे पहले अग्निवेश ने तन्त्र रचा (सू. 1.31-32)।",
+   "आयुर्वेद की परिभाषा (सू. 1.41) और आयु = शरीर-इन्द्रिय-सत्त्व-आत्मा का संयोग; पर्याय: धारि, जीवित, नित्यग, अनुबन्ध (सू. 1.42)।"
+  ],
+  "syllabus_refs": [
+   "AyUG-SA2"
+  ],
+  "review_status": "ai_draft"
+ },
+ "verses": [
+  {
+   "id": "CS.sutra.1.1",
+   "word_meanings": [
+    {
+     "sa": "अथ",
+     "iast": "atha",
+     "en": "now, next (auspicious opening word)",
+     "hi": "अब (मंगलसूचक शब्द)"
+    },
+    {
+     "sa": "अतः",
+     "iast": "ataḥ",
+     "en": "therefore, hence",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "दीर्घंजीवितीयम्",
+     "iast": "dīrghaṃjīvitīyam",
+     "en": "named 'Dīrghañjīvitīya' (on long life)",
+     "hi": "दीर्घञ्जीवितीय नामक"
+    },
+    {
+     "sa": "अध्यायम्",
+     "iast": "adhyāyam",
+     "en": "chapter",
+     "hi": "अध्याय को"
+    },
+    {
+     "sa": "व्याख्यास्यामः",
+     "iast": "vyākhyāsyāmaḥ",
+     "en": "we shall explain",
+     "hi": "हम व्याख्या करेंगे"
+    }
+   ],
+   "english": "Now, therefore, we shall explain the chapter named Dīrghañjīvitīya, 'on long life'.",
+   "hindi": "अब हम 'दीर्घञ्जीवितीय' (दीर्घ जीवन संबंधी) नामक अध्याय की व्याख्या करेंगे।",
+   "explanation_en": "This is the standard opening formula of every chapter in the Carakasaṃhitā. The chapter is named after its first important word, 'dīrghaṃ jīvitam' (long life) in verse 3. 'Atha' is traditionally treated as an auspicious word (maṅgala) and also marks the beginning of a new topic. Remember: Caraka names chapters by their opening words, Suśruta mostly by their subject.",
+   "explanation_hi": "यह चरकसंहिता के हर अध्याय की आरम्भिक पंक्ति है। अध्याय का नाम उसके पहले मुख्य शब्द 'दीर्घं जीवितम्' (श्लोक 3) से रखा गया है। 'अथ' शब्द मंगलसूचक माना जाता है और नए विषय के आरम्भ को बताता है। याद रखें: चरक अध्यायों के नाम प्रायः पहले शब्दों से रखते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "adhyāya",
+    "maṅgala"
+   ],
+   "tags": [
+    "chapter-opening"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.1.2",
+   "word_meanings": [
+    {
+     "sa": "इति",
+     "iast": "iti",
+     "en": "thus",
+     "hi": "इस प्रकार"
+    },
+    {
+     "sa": "ह स्म",
+     "iast": "ha sma",
+     "en": "indeed (particle of past narration)",
+     "hi": "निश्चय ही (भूतकाल कथन)"
+    },
+    {
+     "sa": "आह",
+     "iast": "āha",
+     "en": "said",
+     "hi": "कहा"
+    },
+    {
+     "sa": "भगवान्",
+     "iast": "bhagavān",
+     "en": "the revered",
+     "hi": "भगवान, पूज्य"
+    },
+    {
+     "sa": "आत्रेयः",
+     "iast": "ātreyaḥ",
+     "en": "Ātreya (Punarvasu)",
+     "hi": "आत्रेय (पुनर्वसु) ने"
+    }
+   ],
+   "english": "Thus said the revered Ātreya.",
+   "hindi": "ऐसा भगवान आत्रेय ने कहा।",
+   "explanation_en": "This line follows the opening of every chapter and shows that the teaching originates from Punarvasu Ātreya, as recorded by his disciple Agniveśa (later redacted by Caraka and Dṛḍhabala). It establishes the āpta-upadeśa (authoritative teaching) basis of the text.",
+   "explanation_hi": "यह पंक्ति हर अध्याय के आरम्भ में आती है और बताती है कि उपदेश पुनर्वसु आत्रेय का है, जिसे उनके शिष्य अग्निवेश ने लिखा (बाद में चरक और दृढ़बल ने संस्कार किया)। इससे ग्रन्थ का आप्तोपदेश होना सिद्ध होता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "Ātreya",
+    "āptopadeśa"
+   ],
+   "tags": [
+    "chapter-opening"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.1.3",
+   "word_meanings": [
+    {
+     "sa": "दीर्घम्",
+     "iast": "dīrgham",
+     "en": "long",
+     "hi": "लम्बा"
+    },
+    {
+     "sa": "जीवितम्",
+     "iast": "jīvitam",
+     "en": "life",
+     "hi": "जीवन"
+    },
+    {
+     "sa": "अन्विच्छन्",
+     "iast": "anvicchan",
+     "en": "seeking",
+     "hi": "चाहते हुए"
+    },
+    {
+     "sa": "भरद्वाजः",
+     "iast": "bharadvājaḥ",
+     "en": "the sage Bharadvāja",
+     "hi": "भरद्वाज ऋषि"
+    },
+    {
+     "sa": "उपागमत्",
+     "iast": "upāgamat",
+     "en": "approached",
+     "hi": "पास गए"
+    },
+    {
+     "sa": "इन्द्रम्",
+     "iast": "indram",
+     "en": "Indra",
+     "hi": "इन्द्र के"
+    },
+    {
+     "sa": "उग्रतपाः",
+     "iast": "ugratapāḥ",
+     "en": "of intense austerity",
+     "hi": "कठोर तपस्वी"
+    },
+    {
+     "sa": "बुद्ध्वा",
+     "iast": "buddhvā",
+     "en": "knowing, considering",
+     "hi": "जानकर"
+    },
+    {
+     "sa": "शरण्यम्",
+     "iast": "śaraṇyam",
+     "en": "the refuge",
+     "hi": "शरण देने वाले"
+    },
+    {
+     "sa": "अमरेश्वरम्",
+     "iast": "amareśvaram",
+     "en": "lord of the immortals",
+     "hi": "देवताओं के स्वामी"
+    }
+   ],
+   "english": "Seeking long life, Bharadvāja, a sage of intense austerity, approached Indra, knowing him to be the lord of the immortals and the one fit to be sought as refuge.",
+   "hindi": "दीर्घ जीवन की इच्छा से कठोर तपस्वी भरद्वाज, देवताओं के स्वामी इन्द्र को शरण देने योग्य जानकर, उनके पास गए।",
+   "explanation_en": "The story begins with the purpose of Āyurveda itself: long, healthy life. Bharadvāja goes to Indra because Indra holds the complete knowledge of Āyurveda (explained in the next two verses). The words 'dīrghaṃ jīvitam' give the chapter its name.",
+   "explanation_hi": "कथा आयुर्वेद के प्रयोजन से ही शुरू होती है: दीर्घ और स्वस्थ जीवन। भरद्वाज इन्द्र के पास इसलिए जाते हैं क्योंकि उनके पास आयुर्वेद का पूरा ज्ञान है (अगले दो श्लोकों में बताया गया)। 'दीर्घं जीवितम्' शब्दों से ही अध्याय का नाम बना है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "Bharadvāja",
+    "Indra",
+    "dīrghāyu"
+   ],
+   "tags": [
+    "history",
+    "lineage"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.1.4",
+   "word_meanings": [
+    {
+     "sa": "ब्रह्मणा",
+     "iast": "brahmaṇā",
+     "en": "by Brahmā",
+     "hi": "ब्रह्मा द्वारा"
+    },
+    {
+     "sa": "हि",
+     "iast": "hi",
+     "en": "indeed",
+     "hi": "निश्चय ही"
+    },
+    {
+     "sa": "यथाप्रोक्तम्",
+     "iast": "yathāproktam",
+     "en": "as it was taught",
+     "hi": "जैसा कहा गया"
+    },
+    {
+     "sa": "आयुर्वेदम्",
+     "iast": "āyurvedam",
+     "en": "Āyurveda",
+     "hi": "आयुर्वेद को"
+    },
+    {
+     "sa": "प्रजापतिः",
+     "iast": "prajāpatiḥ",
+     "en": "Prajāpati (Dakṣa)",
+     "hi": "प्रजापति (दक्ष) ने"
+    },
+    {
+     "sa": "जग्राह",
+     "iast": "jagrāha",
+     "en": "received, grasped",
+     "hi": "ग्रहण किया"
+    },
+    {
+     "sa": "निखिलेन",
+     "iast": "nikhilena",
+     "en": "completely",
+     "hi": "पूर्ण रूप से"
+    },
+    {
+     "sa": "आदौ",
+     "iast": "ādau",
+     "en": "first",
+     "hi": "पहले"
+    },
+    {
+     "sa": "अश्विनौ",
+     "iast": "aśvinau",
+     "en": "the two Aśvins",
+     "hi": "दोनों अश्विनीकुमार"
+    },
+    {
+     "sa": "पुनः ततः",
+     "iast": "punaḥ tataḥ",
+     "en": "then again from him",
+     "hi": "फिर उनसे"
+    }
+   ],
+   "english": "Prajāpati first received Āyurveda in its entirety exactly as it was taught by Brahmā; then the two Aśvins received it from him.",
+   "hindi": "ब्रह्मा ने जैसा आयुर्वेद कहा था, उसे पहले प्रजापति (दक्ष) ने पूर्ण रूप से ग्रहण किया; फिर उनसे दोनों अश्विनीकुमारों ने ग्रहण किया।",
+   "explanation_en": "This and the next verse give the divine lineage (āyurvedāvataraṇa) of Āyurveda: Brahmā → Prajāpati (Dakṣa) → Aśvinīkumāras → Indra. The commentator Cakrapāṇi identifies Prajāpati here as Dakṣa. This sequence is a very common short-answer question.",
+   "explanation_hi": "यह और अगला श्लोक आयुर्वेद की दैवी परम्परा (आयुर्वेदावतरण) बताते हैं: ब्रह्मा → प्रजापति (दक्ष) → अश्विनीकुमार → इन्द्र। चक्रपाणि के अनुसार यहाँ प्रजापति = दक्ष। यह क्रम परीक्षा में अक्सर पूछा जाता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "āyurvedāvataraṇa",
+    "Brahmā",
+    "Dakṣa Prajāpati",
+    "Aśvinīkumāra"
+   ],
+   "tags": [
+    "history",
+    "lineage",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "B-D-A-I-B: Brahmā, Dakṣa, Aśvins, Indra, Bharadvāja",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.1.5",
+   "word_meanings": [
+    {
+     "sa": "अश्विभ्याम्",
+     "iast": "aśvibhyām",
+     "en": "from the two Aśvins",
+     "hi": "अश्विनीकुमारों से"
+    },
+    {
+     "sa": "भगवान्",
+     "iast": "bhagavān",
+     "en": "the lordly",
+     "hi": "भगवान"
+    },
+    {
+     "sa": "शक्रः",
+     "iast": "śakraḥ",
+     "en": "Śakra (Indra)",
+     "hi": "शक्र (इन्द्र) ने"
+    },
+    {
+     "sa": "प्रतिपेदे",
+     "iast": "pratipede",
+     "en": "obtained",
+     "hi": "प्राप्त किया"
+    },
+    {
+     "sa": "केवलम्",
+     "iast": "kevalam",
+     "en": "entire, whole",
+     "hi": "सम्पूर्ण"
+    },
+    {
+     "sa": "ऋषिप्रोक्तः",
+     "iast": "ṛṣiproktaḥ",
+     "en": "urged by the sages",
+     "hi": "ऋषियों द्वारा कहे जाने पर"
+    },
+    {
+     "sa": "भरद्वाजः",
+     "iast": "bharadvājaḥ",
+     "en": "Bharadvāja",
+     "hi": "भरद्वाज"
+    },
+    {
+     "sa": "तस्मात्",
+     "iast": "tasmāt",
+     "en": "therefore",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "शक्रम्",
+     "iast": "śakram",
+     "en": "Indra",
+     "hi": "इन्द्र के पास"
+    },
+    {
+     "sa": "उपागमत्",
+     "iast": "upāgamat",
+     "en": "went",
+     "hi": "गए"
+    }
+   ],
+   "english": "The lordly Śakra (Indra) obtained the whole of it from the Aśvins. Therefore Bharadvāja, deputed by the sages, went to Śakra.",
+   "hindi": "भगवान इन्द्र ने अश्विनीकुमारों से सम्पूर्ण आयुर्वेद प्राप्त किया। इसलिए ऋषियों के कहने पर भरद्वाज इन्द्र के पास गए।",
+   "explanation_en": "This completes the divine chain and explains why Bharadvāja approached Indra rather than anyone else: Indra was the holder of the complete science. The phrase 'ṛṣiproktaḥ' anticipates the assembly of sages described in verses 6-19. Exam point: in Caraka's lineage Bharadvāja is the first human recipient.",
+   "explanation_hi": "इससे दैवी परम्परा पूरी होती है और पता चलता है कि भरद्वाज इन्द्र के पास ही क्यों गए: सम्पूर्ण विद्या इन्द्र के पास थी। 'ऋषिप्रोक्तः' शब्द श्लोक 6-19 में वर्णित ऋषि-सभा की ओर संकेत करता है। परीक्षा बिन्दु: चरक की परम्परा में भरद्वाज आयुर्वेद पाने वाले पहले मनुष्य हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "Indra",
+    "Bharadvāja"
+   ],
+   "tags": [
+    "history",
+    "lineage",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.1.6",
+   "word_meanings": [
+    {
+     "sa": "विघ्नभूताः",
+     "iast": "vighnabhūtāḥ",
+     "en": "having become obstacles",
+     "hi": "बाधा बनकर"
+    },
+    {
+     "sa": "यदा",
+     "iast": "yadā",
+     "en": "when",
+     "hi": "जब"
+    },
+    {
+     "sa": "रोगाः",
+     "iast": "rogāḥ",
+     "en": "diseases",
+     "hi": "रोग"
+    },
+    {
+     "sa": "प्रादुर्भूताः",
+     "iast": "prādurbhūtāḥ",
+     "en": "appeared",
+     "hi": "उत्पन्न हुए"
+    },
+    {
+     "sa": "शरीरिणाम्",
+     "iast": "śarīriṇām",
+     "en": "of embodied beings",
+     "hi": "देहधारियों के"
+    },
+    {
+     "sa": "तपस्",
+     "iast": "tapas",
+     "en": "austerity",
+     "hi": "तप"
+    },
+    {
+     "sa": "उपवास",
+     "iast": "upavāsa",
+     "en": "fasting",
+     "hi": "उपवास"
+    },
+    {
+     "sa": "अध्ययन",
+     "iast": "adhyayana",
+     "en": "study",
+     "hi": "अध्ययन"
+    },
+    {
+     "sa": "ब्रह्मचर्य",
+     "iast": "brahmacarya",
+     "en": "celibacy, disciplined student life",
+     "hi": "ब्रह्मचर्य"
+    },
+    {
+     "sa": "व्रत",
+     "iast": "vrata",
+     "en": "vows",
+     "hi": "व्रत"
+    },
+    {
+     "sa": "आयुषाम्",
+     "iast": "āyuṣām",
+     "en": "of life-span",
+     "hi": "आयु के"
+    }
+   ],
+   "english": "When diseases appeared among embodied beings and became obstacles to their austerity, fasting, study, celibacy, religious vows and life-span,",
+   "hindi": "जब देहधारियों में रोग उत्पन्न हुए और उनके तप, उपवास, अध्ययन, ब्रह्मचर्य, व्रत तथा आयु में बाधा बनने लगे,",
+   "explanation_en": "This verse (continued in the next) gives the reason the sages gathered: disease was obstructing both spiritual practice and life itself. It sets up the central idea of verse 15 that health is the foundation of all human goals.",
+   "explanation_hi": "यह श्लोक (अगले के साथ) बताता है कि ऋषि क्यों एकत्र हुए: रोग साधना और जीवन दोनों में बाधा बन रहे थे। इससे श्लोक 15 का मुख्य विचार आता है कि आरोग्य सभी पुरुषार्थों का आधार है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "roga",
+    "tapas",
+    "brahmacarya"
+   ],
+   "tags": [
+    "history"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.1.7",
+   "word_meanings": [
+    {
+     "sa": "तदा",
+     "iast": "tadā",
+     "en": "then",
+     "hi": "तब"
+    },
+    {
+     "sa": "भूतेषु",
+     "iast": "bhūteṣu",
+     "en": "towards living beings",
+     "hi": "प्राणियों के प्रति"
+    },
+    {
+     "sa": "अनुक्रोशम्",
+     "iast": "anukrośam",
+     "en": "compassion",
+     "hi": "करुणा को"
+    },
+    {
+     "sa": "पुरस्कृत्य",
+     "iast": "puraskṛtya",
+     "en": "placing in front",
+     "hi": "आगे रखकर"
+    },
+    {
+     "sa": "महर्षयः",
+     "iast": "maharṣayaḥ",
+     "en": "great sages",
+     "hi": "महर्षि"
+    },
+    {
+     "sa": "समेताः",
+     "iast": "sametāḥ",
+     "en": "assembled",
+     "hi": "एकत्र हुए"
+    },
+    {
+     "sa": "पुण्यकर्माणः",
+     "iast": "puṇyakarmāṇaḥ",
+     "en": "of virtuous deeds",
+     "hi": "पुण्य कर्म वाले"
+    },
+    {
+     "sa": "पार्श्वे",
+     "iast": "pārśve",
+     "en": "on the side, slope",
+     "hi": "पार्श्व में"
+    },
+    {
+     "sa": "हिमवतः",
+     "iast": "himavataḥ",
+     "en": "of the Himālaya",
+     "hi": "हिमालय के"
+    },
+    {
+     "sa": "शुभे",
+     "iast": "śubhe",
+     "en": "auspicious",
+     "hi": "शुभ"
+    }
+   ],
+   "english": "then the great sages of virtuous deeds, moved above all by compassion for living beings, assembled on an auspicious slope of the Himālaya.",
+   "hindi": "तब पुण्य कर्म करने वाले महर्षि, प्राणियों के प्रति करुणा को सबसे आगे रखकर, हिमालय के शुभ पार्श्व (ढलान) पर एकत्र हुए।",
+   "explanation_en": "Compassion for all beings (bhūtānukampā) is presented as the motive for seeking Āyurveda; the same idea returns in verse 30 when Ātreya teaches out of compassion. This is often quoted to show the ethical basis of the physician's work. The venue, the Himālaya, is a frequently asked fact.",
+   "explanation_hi": "सभी प्राणियों के प्रति करुणा (भूतानुकम्पा) को आयुर्वेद पाने का कारण बताया गया है; यही बात श्लोक 30 में फिर आती है जब आत्रेय करुणा से शिष्यों को पढ़ाते हैं। चिकित्सक के कार्य की नैतिक नींव दिखाने के लिए यह उद्धृत किया जाता है। सभा का स्थान हिमालय था, यह भी पूछा जाता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "anukrośa",
+    "bhūtānukampā",
+    "Himavat"
+   ],
+   "tags": [
+    "history",
+    "ethics"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.1.8",
+   "word_meanings": [
+    {
+     "sa": "अङ्गिराः",
+     "iast": "aṅgirāḥ",
+     "en": "Aṅgiras",
+     "hi": "अंगिरा"
+    },
+    {
+     "sa": "जमदग्निः",
+     "iast": "jamadagniḥ",
+     "en": "Jamadagni",
+     "hi": "जमदग्नि"
+    },
+    {
+     "sa": "वसिष्ठः",
+     "iast": "vasiṣṭhaḥ",
+     "en": "Vasiṣṭha",
+     "hi": "वसिष्ठ"
+    },
+    {
+     "sa": "कश्यपः",
+     "iast": "kaśyapaḥ",
+     "en": "Kaśyapa",
+     "hi": "कश्यप"
+    },
+    {
+     "sa": "भृगुः",
+     "iast": "bhṛguḥ",
+     "en": "Bhṛgu",
+     "hi": "भृगु"
+    },
+    {
+     "sa": "आत्रेयः",
+     "iast": "ātreyaḥ",
+     "en": "Ātreya",
+     "hi": "आत्रेय"
+    },
+    {
+     "sa": "गौतमः",
+     "iast": "gautamaḥ",
+     "en": "Gautama",
+     "hi": "गौतम"
+    },
+    {
+     "sa": "सांख्यः",
+     "iast": "sāṃkhyaḥ",
+     "en": "Sāṃkhya",
+     "hi": "सांख्य"
+    },
+    {
+     "sa": "पुलस्त्यः",
+     "iast": "pulastyaḥ",
+     "en": "Pulastya",
+     "hi": "पुलस्त्य"
+    },
+    {
+     "sa": "नारदः",
+     "iast": "nāradaḥ",
+     "en": "Nārada",
+     "hi": "नारद"
+    },
+    {
+     "sa": "असितः",
+     "iast": "asitaḥ",
+     "en": "Asita",
+     "hi": "असित"
+    }
+   ],
+   "english": "Aṅgiras, Jamadagni, Vasiṣṭha, Kaśyapa, Bhṛgu, Ātreya, Gautama, Sāṃkhya, Pulastya, Nārada, Asita,",
+   "hindi": "अंगिरा, जमदग्नि, वसिष्ठ, कश्यप, भृगु, आत्रेय, गौतम, सांख्य, पुलस्त्य, नारद, असित,",
+   "explanation_en": "Verses 8-13 list the sages who attended the Himālayan assembly. The list shows that Āyurveda was considered a concern of the entire learned community of the time. Students need not memorise the full list, but should remember that the assembly was large and included Ātreya and Bharadvāja.",
+   "explanation_hi": "श्लोक 8-13 में हिमालय की सभा में आए ऋषियों के नाम हैं। इससे पता चलता है कि आयुर्वेद उस समय के पूरे विद्वत्-समाज का विषय था। पूरी सूची रटने की आवश्यकता नहीं, पर याद रखें कि सभा बड़ी थी और उसमें आत्रेय व भरद्वाज भी थे।",
+   "modern_correlation": null,
+   "key_terms": [
+    "ṛṣi-sabhā"
+   ],
+   "tags": [
+    "history",
+    "list"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.1.9",
+   "word_meanings": [
+    {
+     "sa": "अगस्त्यः",
+     "iast": "agastyaḥ",
+     "en": "Agastya",
+     "hi": "अगस्त्य"
+    },
+    {
+     "sa": "वामदेवः",
+     "iast": "vāmadevaḥ",
+     "en": "Vāmadeva",
+     "hi": "वामदेव"
+    },
+    {
+     "sa": "मार्कण्डेय",
+     "iast": "mārkaṇḍeya",
+     "en": "Mārkaṇḍeya",
+     "hi": "मार्कण्डेय"
+    },
+    {
+     "sa": "आश्वलायनौ",
+     "iast": "āśvalāyanau",
+     "en": "and Āśvalāyana (pair)",
+     "hi": "और आश्वलायन"
+    },
+    {
+     "sa": "पारिक्षिः",
+     "iast": "pārikṣiḥ",
+     "en": "Pārikṣi",
+     "hi": "पारिक्षि"
+    },
+    {
+     "sa": "भिक्षुः आत्रेयः",
+     "iast": "bhikṣuḥ ātreyaḥ",
+     "en": "Bhikṣu Ātreya",
+     "hi": "भिक्षु आत्रेय"
+    },
+    {
+     "sa": "भरद्वाजः",
+     "iast": "bharadvājaḥ",
+     "en": "Bharadvāja",
+     "hi": "भरद्वाज"
+    },
+    {
+     "sa": "कपिञ्जलः",
+     "iast": "kapiñjalaḥ",
+     "en": "Kapiñjala",
+     "hi": "कपिञ्जल"
+    }
+   ],
+   "english": "Agastya, Vāmadeva, Mārkaṇḍeya and Āśvalāyana, Pārikṣi, Bhikṣu Ātreya, Bharadvāja, Kapiñjala,",
+   "hindi": "अगस्त्य, वामदेव, मार्कण्डेय और आश्वलायन, पारिक्षि, भिक्षु आत्रेय, भरद्वाज, कपिञ्जल,",
+   "explanation_en": "The list of sages continues. Note 'Bhikṣu Ātreya', a different person from Punarvasu Ātreya named in verse 8; commentators distinguish several Ātreyas. Bharadvāja, the hero of the story, is also present.",
+   "explanation_hi": "ऋषियों की सूची जारी है। 'भिक्षु आत्रेय' श्लोक 8 के आत्रेय से अलग व्यक्ति हैं; टीकाकार कई आत्रेयों में भेद करते हैं। कथा के नायक भरद्वाज भी यहाँ उपस्थित हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "ṛṣi-sabhā"
+   ],
+   "tags": [
+    "history",
+    "list"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.1.10",
+   "word_meanings": [
+    {
+     "sa": "विश्वामित्र",
+     "iast": "viśvāmitra",
+     "en": "Viśvāmitra",
+     "hi": "विश्वामित्र"
+    },
+    {
+     "sa": "आश्मरथ्यौ",
+     "iast": "āśmarathyau",
+     "en": "and Āśmarathya",
+     "hi": "और आश्मरथ्य"
+    },
+    {
+     "sa": "भार्गवः",
+     "iast": "bhārgavaḥ",
+     "en": "Bhārgava",
+     "hi": "भार्गव"
+    },
+    {
+     "sa": "च्यवनः",
+     "iast": "cyavanaḥ",
+     "en": "Cyavana",
+     "hi": "च्यवन"
+    },
+    {
+     "sa": "अभिजित्",
+     "iast": "abhijit",
+     "en": "Abhijit",
+     "hi": "अभिजित्"
+    },
+    {
+     "sa": "गार्ग्यः",
+     "iast": "gārgyaḥ",
+     "en": "Gārgya",
+     "hi": "गार्ग्य"
+    },
+    {
+     "sa": "शाण्डिल्य",
+     "iast": "śāṇḍilya",
+     "en": "Śāṇḍilya",
+     "hi": "शाण्डिल्य"
+    },
+    {
+     "sa": "कौण्डिन्यौ",
+     "iast": "kauṇḍinyau",
+     "en": "and Kauṇḍinya",
+     "hi": "और कौण्डिन्य"
+    },
+    {
+     "sa": "वार्क्षिः",
+     "iast": "vārkṣiḥ",
+     "en": "Vārkṣi",
+     "hi": "वार्क्षि"
+    },
+    {
+     "sa": "देवल",
+     "iast": "devala",
+     "en": "Devala",
+     "hi": "देवल"
+    },
+    {
+     "sa": "गालवौ",
+     "iast": "gālavau",
+     "en": "and Gālava",
+     "hi": "और गालव"
+    }
+   ],
+   "english": "Viśvāmitra and Āśmarathya, Bhārgava Cyavana, Abhijit, Gārgya, Śāṇḍilya and Kauṇḍinya, Vārkṣi, Devala and Gālava,",
+   "hindi": "विश्वामित्र और आश्मरथ्य, भार्गव च्यवन, अभिजित्, गार्ग्य, शाण्डिल्य और कौण्डिन्य, वार्क्षि, देवल और गालव,",
+   "explanation_en": "More names of the assembled sages. Cyavana is well known in Āyurveda because the rasāyana 'Cyavanaprāśa' (Ci 1.3) is named after him.",
+   "explanation_hi": "सभा के और ऋषियों के नाम। च्यवन आयुर्वेद में प्रसिद्ध हैं क्योंकि 'च्यवनप्राश' रसायन (चि. 1.3) उन्हीं के नाम पर है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "Cyavana"
+   ],
+   "tags": [
+    "history",
+    "list"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.1.11",
+   "word_meanings": [
+    {
+     "sa": "सांकृत्यः",
+     "iast": "sāṃkṛtyaḥ",
+     "en": "Sāṃkṛtya",
+     "hi": "सांकृत्य"
+    },
+    {
+     "sa": "बैजवापिः",
+     "iast": "baijavāpiḥ",
+     "en": "Baijavāpi",
+     "hi": "बैजवापि"
+    },
+    {
+     "sa": "कुशिकः",
+     "iast": "kuśikaḥ",
+     "en": "Kuśika",
+     "hi": "कुशिक"
+    },
+    {
+     "sa": "बादरायणः",
+     "iast": "bādarāyaṇaḥ",
+     "en": "Bādarāyaṇa",
+     "hi": "बादरायण"
+    },
+    {
+     "sa": "बडिशः",
+     "iast": "baḍiśaḥ",
+     "en": "Baḍiśa",
+     "hi": "बडिश"
+    },
+    {
+     "sa": "शरलोमा",
+     "iast": "śaralomā",
+     "en": "Śaraloman",
+     "hi": "शरलोमा"
+    },
+    {
+     "sa": "काप्य",
+     "iast": "kāpya",
+     "en": "Kāpya",
+     "hi": "काप्य"
+    },
+    {
+     "sa": "कात्यायनौ उभौ",
+     "iast": "kātyāyanau ubhau",
+     "en": "and Kātyāyana, both",
+     "hi": "और कात्यायन, दोनों"
+    }
+   ],
+   "english": "Sāṃkṛtya, Baijavāpi, Kuśika, Bādarāyaṇa, Baḍiśa, Śaraloman, and both Kāpya and Kātyāyana,",
+   "hindi": "सांकृत्य, बैजवापि, कुशिक, बादरायण, बडिश, शरलोमा, और काप्य तथा कात्यायन दोनों,",
+   "explanation_en": "The list continues. Several of these sages (Baḍiśa, Kāpya, Kātyāyana) reappear as speakers in later debates of the Sūtrasthāna, e.g. Su 12 and Su 26, which shows Caraka's style of presenting multiple views before Ātreya's conclusion.",
+   "explanation_hi": "सूची जारी है। इनमें से कई ऋषि (बडिश, काप्य, कात्यायन) आगे सूत्रस्थान 12 और 26 की चर्चाओं में वक्ता के रूप में आते हैं; यह चरक की शैली है कि पहले अनेक मत रखे जाते हैं, फिर आत्रेय का निर्णय।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sambhāṣā"
+   ],
+   "tags": [
+    "history",
+    "list"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.1.12",
+   "word_meanings": [
+    {
+     "sa": "काङ्कायनः",
+     "iast": "kāṅkāyanaḥ",
+     "en": "Kāṅkāyana",
+     "hi": "कांकायन"
+    },
+    {
+     "sa": "कैकशेयः",
+     "iast": "kaikaśeyaḥ",
+     "en": "Kaikaśeya",
+     "hi": "कैकशेय"
+    },
+    {
+     "sa": "धौम्यः",
+     "iast": "dhaumyaḥ",
+     "en": "Dhaumya",
+     "hi": "धौम्य"
+    },
+    {
+     "sa": "मारीच",
+     "iast": "mārīca",
+     "en": "Mārīca",
+     "hi": "मारीच"
+    },
+    {
+     "sa": "काश्यपौ",
+     "iast": "kāśyapau",
+     "en": "and Kāśyapa",
+     "hi": "और काश्यप"
+    },
+    {
+     "sa": "शर्कराक्षः",
+     "iast": "śarkarākṣaḥ",
+     "en": "Śarkarākṣa",
+     "hi": "शर्कराक्ष"
+    },
+    {
+     "sa": "हिरण्याक्षः",
+     "iast": "hiraṇyākṣaḥ",
+     "en": "Hiraṇyākṣa",
+     "hi": "हिरण्याक्ष"
+    },
+    {
+     "sa": "लोकाक्षः",
+     "iast": "lokākṣaḥ",
+     "en": "Lokākṣa",
+     "hi": "लोकाक्ष"
+    },
+    {
+     "sa": "पैङ्गिः",
+     "iast": "paiṅgiḥ",
+     "en": "Paiṅgi",
+     "hi": "पैङ्गि"
+    },
+    {
+     "sa": "एव च",
+     "iast": "eva ca",
+     "en": "and also",
+     "hi": "और भी"
+    }
+   ],
+   "english": "Kāṅkāyana, Kaikaśeya, Dhaumya, Mārīca and Kāśyapa, Śarkarākṣa, Hiraṇyākṣa, Lokākṣa and Paiṅgi as well,",
+   "hindi": "कांकायन, कैकशेय, धौम्य, मारीच और काश्यप, शर्कराक्ष, हिरण्याक्ष, लोकाक्ष और पैङ्गि भी,",
+   "explanation_en": "Further names in the assembly. Kāṅkāyana, the physician from Bāhlīka, speaks in Su 12 and Su 26.",
+   "explanation_hi": "सभा के और नाम। बाह्लीक देश के वैद्य कांकायन सूत्रस्थान 12 और 26 में बोलते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "ṛṣi-sabhā"
+   ],
+   "tags": [
+    "history",
+    "list"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.1.13",
+   "word_meanings": [
+    {
+     "sa": "शौनकः",
+     "iast": "śaunakaḥ",
+     "en": "Śaunaka",
+     "hi": "शौनक"
+    },
+    {
+     "sa": "शाकुनेयः",
+     "iast": "śākuneyaḥ",
+     "en": "Śākuneya",
+     "hi": "शाकुनेय"
+    },
+    {
+     "sa": "मैत्रेयः",
+     "iast": "maitreyaḥ",
+     "en": "Maitreya",
+     "hi": "मैत्रेय"
+    },
+    {
+     "sa": "मैमतायनिः",
+     "iast": "maimatāyaniḥ",
+     "en": "Maimatāyani",
+     "hi": "मैमतायनि"
+    },
+    {
+     "sa": "वैखानसाः",
+     "iast": "vaikhānasāḥ",
+     "en": "the Vaikhānasa hermits",
+     "hi": "वैखानस मुनि"
+    },
+    {
+     "sa": "वालखिल्याः",
+     "iast": "vālakhilyāḥ",
+     "en": "the Vālakhilya sages",
+     "hi": "वालखिल्य ऋषि"
+    },
+    {
+     "sa": "तथा",
+     "iast": "tathā",
+     "en": "likewise",
+     "hi": "तथा"
+    },
+    {
+     "sa": "अन्ये",
+     "iast": "anye",
+     "en": "other",
+     "hi": "अन्य"
+    },
+    {
+     "sa": "महर्षयः",
+     "iast": "maharṣayaḥ",
+     "en": "great sages",
+     "hi": "महर्षि"
+    }
+   ],
+   "english": "Śaunaka, Śākuneya, Maitreya, Maimatāyani, the Vaikhānasa and Vālakhilya ascetics, and other great sages too.",
+   "hindi": "शौनक, शाकुनेय, मैत्रेय, मैमतायनि, वैखानस और वालखिल्य मुनि तथा अन्य महर्षि भी।",
+   "explanation_en": "The list closes with groups of forest ascetics (Vaikhānasas, Vālakhilyas) and 'other great sages', showing the gathering was open-ended. The next verse describes their qualities.",
+   "explanation_hi": "सूची वनवासी तपस्वियों (वैखानस, वालखिल्य) और 'अन्य महर्षियों' से समाप्त होती है, यानी सभा बहुत बड़ी थी। अगला श्लोक उनके गुण बताता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "ṛṣi-sabhā"
+   ],
+   "tags": [
+    "history",
+    "list"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.1.14",
+   "word_meanings": [
+    {
+     "sa": "ब्रह्मज्ञानस्य",
+     "iast": "brahmajñānasya",
+     "en": "of knowledge of Brahman",
+     "hi": "ब्रह्मज्ञान के"
+    },
+    {
+     "sa": "निधयः",
+     "iast": "nidhayaḥ",
+     "en": "treasuries",
+     "hi": "भण्डार"
+    },
+    {
+     "sa": "दमस्य",
+     "iast": "damasya",
+     "en": "of self-control",
+     "hi": "इन्द्रिय-दमन के"
+    },
+    {
+     "sa": "नियमस्य",
+     "iast": "niyamasya",
+     "en": "of discipline",
+     "hi": "नियम के"
+    },
+    {
+     "sa": "तपसः",
+     "iast": "tapasaḥ",
+     "en": "of austerity",
+     "hi": "तप के"
+    },
+    {
+     "sa": "तेजसा",
+     "iast": "tejasā",
+     "en": "by the radiance",
+     "hi": "तेज से"
+    },
+    {
+     "sa": "दीप्ताः",
+     "iast": "dīptāḥ",
+     "en": "shining",
+     "hi": "प्रकाशमान"
+    },
+    {
+     "sa": "हूयमानाः",
+     "iast": "hūyamānāḥ",
+     "en": "receiving oblations",
+     "hi": "आहुति दी जाती हुई"
+    },
+    {
+     "sa": "इव",
+     "iast": "iva",
+     "en": "like",
+     "hi": "जैसे"
+    },
+    {
+     "sa": "अग्नयः",
+     "iast": "agnayaḥ",
+     "en": "fires",
+     "hi": "अग्नियाँ"
+    }
+   ],
+   "english": "They were treasuries of the knowledge of Brahman, of self-control and of discipline, and they shone with the radiance of austerity like sacrificial fires receiving oblations.",
+   "hindi": "वे ब्रह्मज्ञान, इन्द्रिय-संयम और नियम के भण्डार थे, और तप के तेज से ऐसे चमक रहे थे जैसे आहुति पाती हुई यज्ञ की अग्नियाँ।",
+   "explanation_en": "The sages' moral and spiritual qualifications are stressed to show that the knowledge they sought was pure and authoritative. This prepares for the discussion in verses 15-16 of health as the root of all life goals.",
+   "explanation_hi": "ऋषियों की नैतिक और आध्यात्मिक योग्यता पर जोर दिया गया है, ताकि दिखे कि उनका खोजा ज्ञान शुद्ध और प्रामाणिक है। इससे श्लोक 15-16 की चर्चा (आरोग्य सब पुरुषार्थों का मूल) की भूमिका बनती है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "dama",
+    "niyama",
+    "tapas"
+   ],
+   "tags": [
+    "history"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.1.15",
+   "word_meanings": [
+    {
+     "sa": "सुखोपविष्टाः",
+     "iast": "sukhopaviṣṭāḥ",
+     "en": "comfortably seated",
+     "hi": "सुखपूर्वक बैठे हुए"
+    },
+    {
+     "sa": "ते",
+     "iast": "te",
+     "en": "they",
+     "hi": "वे"
+    },
+    {
+     "sa": "तत्र",
+     "iast": "tatra",
+     "en": "there",
+     "hi": "वहाँ"
+    },
+    {
+     "sa": "पुण्याम्",
+     "iast": "puṇyām",
+     "en": "sacred, meritorious",
+     "hi": "पवित्र"
+    },
+    {
+     "sa": "चक्रुः",
+     "iast": "cakruḥ",
+     "en": "held, made",
+     "hi": "की"
+    },
+    {
+     "sa": "कथाम्",
+     "iast": "kathām",
+     "en": "discussion",
+     "hi": "चर्चा"
+    },
+    {
+     "sa": "इमाम्",
+     "iast": "imām",
+     "en": "this",
+     "hi": "यह"
+    },
+    {
+     "sa": "धर्म",
+     "iast": "dharma",
+     "en": "righteous duty",
+     "hi": "धर्म"
+    },
+    {
+     "sa": "अर्थ",
+     "iast": "artha",
+     "en": "wealth",
+     "hi": "अर्थ"
+    },
+    {
+     "sa": "काम",
+     "iast": "kāma",
+     "en": "desire, pleasure",
+     "hi": "काम"
+    },
+    {
+     "sa": "मोक्षाणाम्",
+     "iast": "mokṣāṇām",
+     "en": "and of liberation",
+     "hi": "और मोक्ष का"
+    },
+    {
+     "sa": "आरोग्यम्",
+     "iast": "ārogyam",
+     "en": "health, freedom from disease",
+     "hi": "आरोग्य"
+    },
+    {
+     "sa": "मूलम्",
+     "iast": "mūlam",
+     "en": "root",
+     "hi": "मूल"
+    },
+    {
+     "sa": "उत्तमम्",
+     "iast": "uttamam",
+     "en": "supreme, best",
+     "hi": "उत्तम, श्रेष्ठ"
+    }
+   ],
+   "english": "Seated comfortably there, they held this sacred discussion: 'Health (ārogya) is the supreme root of dharma (righteous living), artha (wealth), kāma (fulfilment of desires) and mokṣa (liberation).",
+   "hindi": "वहाँ सुखपूर्वक बैठकर उन्होंने यह पवित्र चर्चा की: 'आरोग्य (स्वास्थ्य) ही धर्म, अर्थ, काम और मोक्ष का सबसे उत्तम मूल है।",
+   "explanation_en": "This is one of the most quoted lines of the entire Carakasaṃhitā. The four puruṣārthas (goals of human life) can only be pursued by a healthy person, so health is called their best root (mūlam uttamam). It is a favourite opening quote for essays and is asked as a direct reference question. Link with verse 16: disease destroys this root.",
+   "explanation_hi": "यह पूरी चरकसंहिता की सबसे प्रसिद्ध पंक्तियों में से है। चार पुरुषार्थ (धर्म, अर्थ, काम, मोक्ष) केवल स्वस्थ व्यक्ति ही प्राप्त कर सकता है, इसलिए आरोग्य को उनका उत्तम मूल कहा गया। निबन्ध के आरम्भ में इसे उद्धृत करना अच्छा रहता है और सीधा सन्दर्भ-प्रश्न भी आता है। श्लोक 16 से जोड़ें: रोग इस मूल को नष्ट करते हैं।",
+   "modern_correlation": {
+    "en": "Modern public health makes a broadly similar point: the WHO constitution treats health as a precondition for social and economic development, and health is widely seen as a foundation for education, work and wellbeing. The parallel is in outlook, not in specific theory.",
+    "hi": "आधुनिक जनस्वास्थ्य भी मिलती-जुलती बात कहता है: WHO का संविधान स्वास्थ्य को सामाजिक और आर्थिक विकास की पूर्व-शर्त मानता है, और स्वास्थ्य को शिक्षा, काम और कल्याण की नींव समझा जाता है। यह समानता दृष्टिकोण की है, किसी विशेष सिद्धान्त की नहीं।"
+   },
+   "key_terms": [
+    "ārogya",
+    "puruṣārtha",
+    "dharma",
+    "artha",
+    "kāma",
+    "mokṣa"
+   ],
+   "tags": [
+    "definitions",
+    "exam",
+    "quotable"
+   ],
+   "importance": "high",
+   "mnemonic": "'DAKM ka mūl ārogya' - Dharma Artha Kāma Mokṣa rest on health",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.1.16",
+   "word_meanings": [
+    {
+     "sa": "रोगाः",
+     "iast": "rogāḥ",
+     "en": "diseases",
+     "hi": "रोग"
+    },
+    {
+     "sa": "तस्य",
+     "iast": "tasya",
+     "en": "of that (health)",
+     "hi": "उस (आरोग्य) के"
+    },
+    {
+     "sa": "अपहर्तारः",
+     "iast": "apahartāraḥ",
+     "en": "destroyers, robbers",
+     "hi": "हरण करने वाले"
+    },
+    {
+     "sa": "श्रेयसः",
+     "iast": "śreyasaḥ",
+     "en": "of well-being",
+     "hi": "कल्याण के"
+    },
+    {
+     "sa": "जीवितस्य",
+     "iast": "jīvitasya",
+     "en": "of life",
+     "hi": "जीवन के"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "प्रादुर्भूतः",
+     "iast": "prādurbhūtaḥ",
+     "en": "has arisen",
+     "hi": "उत्पन्न हुआ है"
+    },
+    {
+     "sa": "मनुष्याणाम्",
+     "iast": "manuṣyāṇām",
+     "en": "for human beings",
+     "hi": "मनुष्यों के लिए"
+    },
+    {
+     "sa": "अन्तरायः",
+     "iast": "antarāyaḥ",
+     "en": "obstacle",
+     "hi": "विघ्न, बाधा"
+    },
+    {
+     "sa": "महान्",
+     "iast": "mahān",
+     "en": "great",
+     "hi": "बड़ा"
+    },
+    {
+     "sa": "अयम्",
+     "iast": "ayam",
+     "en": "this",
+     "hi": "यह"
+    }
+   ],
+   "english": "Diseases rob us of that health, of well-being and of life itself. This great obstacle has arisen for human beings.",
+   "hindi": "रोग उस आरोग्य को, कल्याण को और जीवन को भी छीन लेते हैं। मनुष्यों के लिए यह बहुत बड़ी बाधा उत्पन्न हो गई है।",
+   "explanation_en": "Continuing verse 15, the sages define the problem: disease takes away health, prosperity and life. The verse is usually quoted together with verse 15. Remember the logic: health is the root (15) → disease destroys it (16) → so a remedy must be found (17).",
+   "explanation_hi": "श्लोक 15 को आगे बढ़ाते हुए ऋषि समस्या बताते हैं: रोग आरोग्य, कल्याण और जीवन छीन लेते हैं। इसे प्रायः श्लोक 15 के साथ उद्धृत किया जाता है। तर्क याद रखें: आरोग्य मूल है (15) → रोग उसे नष्ट करता है (16) → इसलिए उपाय खोजना है (17)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "roga",
+    "ārogya",
+    "śreyas"
+   ],
+   "tags": [
+    "definitions",
+    "exam",
+    "quotable"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.1.17",
+   "word_meanings": [
+    {
+     "sa": "कः",
+     "iast": "kaḥ",
+     "en": "what",
+     "hi": "क्या"
+    },
+    {
+     "sa": "स्यात्",
+     "iast": "syāt",
+     "en": "could be",
+     "hi": "हो सकता है"
+    },
+    {
+     "sa": "तेषाम्",
+     "iast": "teṣām",
+     "en": "of them (diseases)",
+     "hi": "उनका (रोगों का)"
+    },
+    {
+     "sa": "शमोपायः",
+     "iast": "śamopāyaḥ",
+     "en": "means of pacification",
+     "hi": "शान्त करने का उपाय"
+    },
+    {
+     "sa": "इति उक्त्वा",
+     "iast": "iti uktvā",
+     "en": "having said so",
+     "hi": "ऐसा कहकर"
+    },
+    {
+     "sa": "ध्यानम्",
+     "iast": "dhyānam",
+     "en": "meditation",
+     "hi": "ध्यान में"
+    },
+    {
+     "sa": "आस्थिताः",
+     "iast": "āsthitāḥ",
+     "en": "entered",
+     "hi": "स्थित हुए"
+    },
+    {
+     "sa": "अथ",
+     "iast": "atha",
+     "en": "then",
+     "hi": "तब"
+    },
+    {
+     "sa": "ते",
+     "iast": "te",
+     "en": "they",
+     "hi": "उन्होंने"
+    },
+    {
+     "sa": "शरणम्",
+     "iast": "śaraṇam",
+     "en": "refuge",
+     "hi": "शरण रूप"
+    },
+    {
+     "sa": "शक्रम्",
+     "iast": "śakram",
+     "en": "Indra",
+     "hi": "इन्द्र को"
+    },
+    {
+     "sa": "ददृशुः",
+     "iast": "dadṛśuḥ",
+     "en": "saw",
+     "hi": "देखा"
+    },
+    {
+     "sa": "ध्यानचक्षुषा",
+     "iast": "dhyānacakṣuṣā",
+     "en": "with the eye of meditation",
+     "hi": "ध्यान रूपी नेत्र से"
+    }
+   ],
+   "english": "'What could be the means of pacifying them?' Having said this, they entered meditation. Then, with the eye of meditation, they saw Śakra (Indra) as their refuge.",
+   "hindi": "'इन रोगों को शान्त करने का उपाय क्या हो?' ऐसा कहकर वे ध्यान में बैठ गए। तब उन्होंने ध्यान-दृष्टि से शरण-योग्य इन्द्र को देखा।",
+   "explanation_en": "Having stated the problem, the sages look for a solution through meditation, a recognised source of knowledge for realised sages (ārṣa jñāna). They identify Indra, who holds Āyurveda, as the refuge.",
+   "explanation_hi": "समस्या बताने के बाद ऋषि ध्यान द्वारा समाधान खोजते हैं; सिद्ध ऋषियों के लिए यह ज्ञान का मान्य साधन (आर्ष ज्ञान) है। वे आयुर्वेद के धारक इन्द्र को शरण के रूप में पहचानते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "śamopāya",
+    "dhyāna"
+   ],
+   "tags": [
+    "history"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.1.18",
+   "word_meanings": [
+    {
+     "sa": "सः",
+     "iast": "saḥ",
+     "en": "he",
+     "hi": "वह"
+    },
+    {
+     "sa": "वक्ष्यति",
+     "iast": "vakṣyati",
+     "en": "will tell",
+     "hi": "बताएगा"
+    },
+    {
+     "sa": "शमोपायम्",
+     "iast": "śamopāyam",
+     "en": "the means of cure",
+     "hi": "शमन का उपाय"
+    },
+    {
+     "sa": "यथावत्",
+     "iast": "yathāvat",
+     "en": "properly",
+     "hi": "यथावत्, ठीक-ठीक"
+    },
+    {
+     "sa": "अमरप्रभुः",
+     "iast": "amaraprabhuḥ",
+     "en": "lord of the immortals",
+     "hi": "देवताओं का स्वामी"
+    },
+    {
+     "sa": "कः",
+     "iast": "kaḥ",
+     "en": "who",
+     "hi": "कौन"
+    },
+    {
+     "sa": "सहस्राक्षभवनम्",
+     "iast": "sahasrākṣabhavanam",
+     "en": "to the abode of the thousand-eyed (Indra)",
+     "hi": "सहस्राक्ष (इन्द्र) के भवन"
+    },
+    {
+     "sa": "गच्छेत्",
+     "iast": "gacchet",
+     "en": "should go",
+     "hi": "जाए"
+    },
+    {
+     "sa": "प्रष्टुम्",
+     "iast": "praṣṭum",
+     "en": "to ask",
+     "hi": "पूछने के लिए"
+    },
+    {
+     "sa": "शचीपतिम्",
+     "iast": "śacīpatim",
+     "en": "the husband of Śacī (Indra)",
+     "hi": "शचीपति (इन्द्र) से"
+    }
+   ],
+   "english": "'The lord of the immortals will properly tell us the means of cure. Who will go to the abode of the thousand-eyed one to ask the husband of Śacī?'",
+   "hindi": "'देवताओं के स्वामी हमें रोग-शमन का उपाय ठीक-ठीक बताएँगे। सहस्राक्ष (इन्द्र) के भवन में जाकर शचीपति से पूछने कौन जाएगा?'",
+   "explanation_en": "The sages agree that Indra will answer and ask who will volunteer to go. Note the different names of Indra used for poetic variety: amaraprabhu, sahasrākṣa, śacīpati, śakra, śatakratu, balahantā.",
+   "explanation_hi": "ऋषि सहमत होते हैं कि इन्द्र उत्तर देंगे और पूछते हैं कि कौन जाएगा। काव्य-सौन्दर्य के लिए इन्द्र के अनेक नाम आए हैं: अमरप्रभु, सहस्राक्ष, शचीपति, शक्र, शतक्रतु, बलहन्ता।",
+   "modern_correlation": null,
+   "key_terms": [
+    "Indra"
+   ],
+   "tags": [
+    "history"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.1.19",
+   "word_meanings": [
+    {
+     "sa": "अहम्",
+     "iast": "aham",
+     "en": "I",
+     "hi": "मैं"
+    },
+    {
+     "sa": "अर्थे",
+     "iast": "arthe",
+     "en": "for this purpose",
+     "hi": "इस कार्य के लिए"
+    },
+    {
+     "sa": "नियुज्येयम्",
+     "iast": "niyujyeyam",
+     "en": "may be appointed",
+     "hi": "नियुक्त किया जाऊँ"
+    },
+    {
+     "sa": "अत्र",
+     "iast": "atra",
+     "en": "here",
+     "hi": "यहाँ"
+    },
+    {
+     "sa": "इति",
+     "iast": "iti",
+     "en": "thus",
+     "hi": "ऐसा"
+    },
+    {
+     "sa": "प्रथमम्",
+     "iast": "prathamam",
+     "en": "first",
+     "hi": "सबसे पहले"
+    },
+    {
+     "sa": "वचः",
+     "iast": "vacaḥ",
+     "en": "words",
+     "hi": "वचन"
+    },
+    {
+     "sa": "भरद्वाजः",
+     "iast": "bharadvājaḥ",
+     "en": "Bharadvāja",
+     "hi": "भरद्वाज ने"
+    },
+    {
+     "sa": "अब्रवीत्",
+     "iast": "abravīt",
+     "en": "spoke",
+     "hi": "कहा"
+    },
+    {
+     "sa": "तस्मात्",
+     "iast": "tasmāt",
+     "en": "therefore",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "ऋषिभिः",
+     "iast": "ṛṣibhiḥ",
+     "en": "by the sages",
+     "hi": "ऋषियों द्वारा"
+    },
+    {
+     "sa": "सः",
+     "iast": "saḥ",
+     "en": "he",
+     "hi": "वह"
+    },
+    {
+     "sa": "नियोजितः",
+     "iast": "niyojitaḥ",
+     "en": "was appointed",
+     "hi": "नियुक्त किया गया"
+    }
+   ],
+   "english": "'Let me be appointed for this task': these were the first words spoken, by Bharadvāja. So he was appointed by the sages.",
+   "hindi": "'इस कार्य के लिए मुझे नियुक्त किया जाए', यह वचन सबसे पहले भरद्वाज ने कहा। इसलिए ऋषियों ने उन्हें ही नियुक्त किया।",
+   "explanation_en": "Bharadvāja volunteers first and is chosen as messenger. This explains the phrase 'ṛṣiproktaḥ' in verse 5. Exam point: Bharadvāja was sent by the sages; he did not go only for himself.",
+   "explanation_hi": "भरद्वाज सबसे पहले आगे आते हैं और दूत चुने जाते हैं। इससे श्लोक 5 के 'ऋषिप्रोक्तः' का अर्थ स्पष्ट होता है। परीक्षा बिन्दु: भरद्वाज ऋषियों द्वारा भेजे गए थे, केवल अपने लिए नहीं गए।",
+   "modern_correlation": null,
+   "key_terms": [
+    "Bharadvāja"
+   ],
+   "tags": [
+    "history"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.1.20",
+   "word_meanings": [
+    {
+     "sa": "सः",
+     "iast": "saḥ",
+     "en": "he",
+     "hi": "वह"
+    },
+    {
+     "sa": "शक्रभवनम्",
+     "iast": "śakrabhavanam",
+     "en": "Indra's abode",
+     "hi": "इन्द्र के भवन"
+    },
+    {
+     "sa": "गत्वा",
+     "iast": "gatvā",
+     "en": "having gone",
+     "hi": "जाकर"
+    },
+    {
+     "sa": "सुरर्षिगणमध्यगम्",
+     "iast": "surarṣigaṇamadhyagam",
+     "en": "seated amid groups of gods and divine sages",
+     "hi": "देवों और देवर्षियों के बीच बैठे हुए"
+    },
+    {
+     "sa": "ददर्श",
+     "iast": "dadarśa",
+     "en": "saw",
+     "hi": "देखा"
+    },
+    {
+     "sa": "बलहन्तारम्",
+     "iast": "balahantāram",
+     "en": "the slayer of Bala (Indra)",
+     "hi": "बल असुर के संहारक (इन्द्र) को"
+    },
+    {
+     "sa": "दीप्यमानम्",
+     "iast": "dīpyamānam",
+     "en": "blazing",
+     "hi": "प्रकाशमान"
+    },
+    {
+     "sa": "इव",
+     "iast": "iva",
+     "en": "like",
+     "hi": "जैसे"
+    },
+    {
+     "sa": "अनलम्",
+     "iast": "analam",
+     "en": "fire",
+     "hi": "अग्नि"
+    }
+   ],
+   "english": "Having gone to Śakra's abode, he saw the slayer of Bala seated amid hosts of gods and divine sages, blazing like fire.",
+   "hindi": "इन्द्र के भवन जाकर उन्होंने देवों और देवर्षियों के बीच बैठे, अग्नि के समान चमकते हुए बल-संहारक इन्द्र को देखा।",
+   "explanation_en": "A narrative verse describing Bharadvāja's arrival at Indra's court. The comparison to fire stresses Indra's radiance and authority.",
+   "explanation_hi": "यह कथात्मक श्लोक भरद्वाज के इन्द्र-सभा में पहुँचने का वर्णन करता है। अग्नि की उपमा इन्द्र के तेज और अधिकार को दर्शाती है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "Indra"
+   ],
+   "tags": [
+    "history"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.1.21",
+   "word_meanings": [
+    {
+     "sa": "सः",
+     "iast": "saḥ",
+     "en": "he",
+     "hi": "वह"
+    },
+    {
+     "sa": "अभिगम्य",
+     "iast": "abhigamya",
+     "en": "having approached",
+     "hi": "पास जाकर"
+    },
+    {
+     "sa": "जयाशीर्भिः",
+     "iast": "jayāśīrbhiḥ",
+     "en": "with blessings of victory",
+     "hi": "विजय के आशीर्वादों से"
+    },
+    {
+     "sa": "अभिनन्द्य",
+     "iast": "abhinandya",
+     "en": "having greeted",
+     "hi": "अभिनन्दन करके"
+    },
+    {
+     "sa": "सुरेश्वरम्",
+     "iast": "sureśvaram",
+     "en": "the lord of gods",
+     "hi": "देवराज का"
+    },
+    {
+     "sa": "प्रोवाच",
+     "iast": "provāca",
+     "en": "spoke",
+     "hi": "कहा"
+    },
+    {
+     "sa": "विनयात्",
+     "iast": "vinayāt",
+     "en": "with humility",
+     "hi": "विनम्रता से"
+    },
+    {
+     "sa": "धीमान्",
+     "iast": "dhīmān",
+     "en": "the wise one",
+     "hi": "बुद्धिमान"
+    },
+    {
+     "sa": "ऋषीणाम्",
+     "iast": "ṛṣīṇām",
+     "en": "of the sages",
+     "hi": "ऋषियों का"
+    },
+    {
+     "sa": "वाक्यम्",
+     "iast": "vākyam",
+     "en": "message",
+     "hi": "वचन"
+    },
+    {
+     "sa": "उत्तमम्",
+     "iast": "uttamam",
+     "en": "excellent",
+     "hi": "उत्तम"
+    }
+   ],
+   "english": "Approaching him and greeting the lord of the gods with wishes for victory, the wise Bharadvāja humbly conveyed the excellent message of the sages:",
+   "hindi": "पास जाकर और विजय के आशीर्वाद देकर देवराज का अभिनन्दन करते हुए, बुद्धिमान भरद्वाज ने विनम्रता से ऋषियों का उत्तम सन्देश कहा:",
+   "explanation_en": "This verse models the proper conduct of a student approaching a teacher: humility (vinaya) and respectful greeting. The actual request follows in verse 22.",
+   "explanation_hi": "यह श्लोक गुरु के पास जाने वाले शिष्य का उचित आचरण दिखाता है: विनय और आदरपूर्वक अभिवादन। वास्तविक निवेदन श्लोक 22 में है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vinaya"
+   ],
+   "tags": [
+    "history",
+    "ethics"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.1.22",
+   "word_meanings": [
+    {
+     "sa": "व्याधयः",
+     "iast": "vyādhayaḥ",
+     "en": "diseases",
+     "hi": "व्याधियाँ"
+    },
+    {
+     "sa": "हि",
+     "iast": "hi",
+     "en": "indeed",
+     "hi": "निश्चय ही"
+    },
+    {
+     "sa": "समुत्पन्नाः",
+     "iast": "samutpannāḥ",
+     "en": "have arisen",
+     "hi": "उत्पन्न हो गई हैं"
+    },
+    {
+     "sa": "सर्वप्राणिभयंकराः",
+     "iast": "sarvaprāṇibhayaṃkarāḥ",
+     "en": "causing fear to all living beings",
+     "hi": "सब प्राणियों को भय देने वाली"
+    },
+    {
+     "sa": "तत्",
+     "iast": "tat",
+     "en": "therefore",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "ब्रूहि",
+     "iast": "brūhi",
+     "en": "tell",
+     "hi": "बताइए"
+    },
+    {
+     "sa": "मे",
+     "iast": "me",
+     "en": "me",
+     "hi": "मुझे"
+    },
+    {
+     "sa": "शमोपायम्",
+     "iast": "śamopāyam",
+     "en": "means of pacification",
+     "hi": "शमन का उपाय"
+    },
+    {
+     "sa": "यथावत्",
+     "iast": "yathāvat",
+     "en": "properly",
+     "hi": "ठीक-ठीक"
+    },
+    {
+     "sa": "अमरप्रभो",
+     "iast": "amaraprabho",
+     "en": "O lord of immortals",
+     "hi": "हे देवताओं के स्वामी"
+    }
+   ],
+   "english": "'Diseases have arisen that frighten all living beings. Therefore, O lord of the immortals, tell me properly the means of pacifying them.'",
+   "hindi": "'सब प्राणियों को भयभीत करने वाले रोग उत्पन्न हो गए हैं। इसलिए हे देवराज, मुझे उनके शमन का उपाय ठीक-ठीक बताइए।'",
+   "explanation_en": "Bharadvāja's request is simple and direct: a method for pacifying diseases (śamopāya). Indra's answer in verses 23-24 defines Āyurveda as trisūtra, so this verse is the question to which trisūtra is the answer.",
+   "explanation_hi": "भरद्वाज का निवेदन सरल और सीधा है: रोगों को शान्त करने का उपाय। श्लोक 23-24 में इन्द्र का उत्तर आयुर्वेद को त्रिसूत्र के रूप में बताता है, यानी यह श्लोक वह प्रश्न है जिसका उत्तर त्रिसूत्र है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vyādhi",
+    "śamopāya"
+   ],
+   "tags": [
+    "history"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.1.23",
+   "word_meanings": [
+    {
+     "sa": "तस्मै",
+     "iast": "tasmai",
+     "en": "to him",
+     "hi": "उन्हें"
+    },
+    {
+     "sa": "प्रोवाच",
+     "iast": "provāca",
+     "en": "taught",
+     "hi": "कहा, उपदेश दिया"
+    },
+    {
+     "sa": "भगवान्",
+     "iast": "bhagavān",
+     "en": "the lord",
+     "hi": "भगवान"
+    },
+    {
+     "sa": "आयुर्वेदम्",
+     "iast": "āyurvedam",
+     "en": "Āyurveda",
+     "hi": "आयुर्वेद"
+    },
+    {
+     "sa": "शतक्रतुः",
+     "iast": "śatakratuḥ",
+     "en": "Indra (performer of a hundred sacrifices)",
+     "hi": "शतक्रतु (इन्द्र)"
+    },
+    {
+     "sa": "पदैः",
+     "iast": "padaiḥ",
+     "en": "with words",
+     "hi": "शब्दों से"
+    },
+    {
+     "sa": "अल्पैः",
+     "iast": "alpaiḥ",
+     "en": "few",
+     "hi": "थोड़े"
+    },
+    {
+     "sa": "मतिम्",
+     "iast": "matim",
+     "en": "intellect",
+     "hi": "बुद्धि को"
+    },
+    {
+     "sa": "बुद्ध्वा",
+     "iast": "buddhvā",
+     "en": "recognising",
+     "hi": "जानकर"
+    },
+    {
+     "sa": "विपुलाम्",
+     "iast": "vipulām",
+     "en": "vast",
+     "hi": "विशाल"
+    },
+    {
+     "sa": "परमर्षये",
+     "iast": "paramarṣaye",
+     "en": "to the great sage",
+     "hi": "परम ऋषि को"
+    }
+   ],
+   "english": "Recognising the vast intellect of the great sage, the lord Śatakratu (Indra) taught him Āyurveda in a few words.",
+   "hindi": "उस महान ऋषि की विशाल बुद्धि को जानकर भगवान इन्द्र ने उन्हें थोड़े शब्दों में आयुर्वेद का उपदेश दिया।",
+   "explanation_en": "A gifted student needs only a concise teaching (sūtra form); the teacher adjusts the method to the student's ability. This principle is repeated in Vimāna 8 on teaching and learning. The 'few words' are given in the next verse: the trisūtra.",
+   "explanation_hi": "प्रतिभाशाली शिष्य को संक्षिप्त (सूत्र रूप) उपदेश पर्याप्त होता है; गुरु शिष्य की क्षमता के अनुसार पढ़ाता है। यह सिद्धान्त विमानस्थान 8 में भी आता है। वे 'थोड़े शब्द' अगले श्लोक में हैं: त्रिसूत्र।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sūtra",
+    "adhyāpana"
+   ],
+   "tags": [
+    "history",
+    "teaching"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.1.24",
+   "word_meanings": [
+    {
+     "sa": "हेतु",
+     "iast": "hetu",
+     "en": "cause (of disease)",
+     "hi": "हेतु, कारण"
+    },
+    {
+     "sa": "लिङ्ग",
+     "iast": "liṅga",
+     "en": "signs and symptoms",
+     "hi": "लिङ्ग, लक्षण"
+    },
+    {
+     "sa": "औषध",
+     "iast": "auṣadha",
+     "en": "medicine, therapy",
+     "hi": "औषध"
+    },
+    {
+     "sa": "ज्ञानम्",
+     "iast": "jñānam",
+     "en": "knowledge",
+     "hi": "ज्ञान"
+    },
+    {
+     "sa": "स्वस्थ",
+     "iast": "svastha",
+     "en": "the healthy",
+     "hi": "स्वस्थ"
+    },
+    {
+     "sa": "आतुर",
+     "iast": "ātura",
+     "en": "the sick",
+     "hi": "आतुर, रोगी"
+    },
+    {
+     "sa": "परायणम्",
+     "iast": "parāyaṇam",
+     "en": "the supreme resort",
+     "hi": "परम आश्रय"
+    },
+    {
+     "sa": "त्रिसूत्रम्",
+     "iast": "trisūtram",
+     "en": "having three aphorisms/pillars",
+     "hi": "त्रिसूत्र, तीन सूत्रों वाला"
+    },
+    {
+     "sa": "शाश्वतम्",
+     "iast": "śāśvatam",
+     "en": "eternal",
+     "hi": "शाश्वत, नित्य"
+    },
+    {
+     "sa": "पुण्यम्",
+     "iast": "puṇyam",
+     "en": "sacred, meritorious",
+     "hi": "पवित्र"
+    },
+    {
+     "sa": "बुबुधे",
+     "iast": "bubudhe",
+     "en": "knew, understood",
+     "hi": "जाना"
+    },
+    {
+     "sa": "यम्",
+     "iast": "yam",
+     "en": "which",
+     "hi": "जिसे"
+    },
+    {
+     "sa": "पितामहः",
+     "iast": "pitāmahaḥ",
+     "en": "the Grandsire (Brahmā)",
+     "hi": "पितामह (ब्रह्मा)"
+    }
+   ],
+   "english": "He taught the knowledge of cause (hetu), signs (liṅga) and medicine (auṣadha), the supreme resort of both the healthy and the sick: the eternal and sacred 'trisūtra' (three-pillared) science that the Grandsire Brahmā himself had known.",
+   "hindi": "इन्द्र ने हेतु (कारण), लिङ्ग (लक्षण) और औषध का ज्ञान दिया, जो स्वस्थ और रोगी दोनों का परम आश्रय है; यह वही शाश्वत और पवित्र 'त्रिसूत्र' आयुर्वेद है जिसे पितामह ब्रह्मा ने जाना था।",
+   "explanation_en": "This is the famous 'trisūtra' definition: all of Āyurveda can be summarised as knowledge of hetu (aetiology), liṅga (clinical features) and auṣadha (therapeutics). 'Svasthāturaparāyaṇa' shows its twofold aim, preserving the health of the healthy and curing the sick (compare Su 30.26). Cakrapāṇi explains that hetu and liṅga apply to health too (causes and signs of health), not only to disease. Very frequently asked: 'What is trisūtra Āyurveda?'",
+   "explanation_hi": "यह प्रसिद्ध 'त्रिसूत्र' परिभाषा है: पूरा आयुर्वेद हेतु (रोग का कारण), लिङ्ग (लक्षण) और औषध (चिकित्सा) के ज्ञान में समाया है। 'स्वस्थातुरपरायण' उसका दोहरा उद्देश्य बताता है: स्वस्थ के स्वास्थ्य की रक्षा और रोगी के रोग का नाश (सू. 30.26 से तुलना करें)। चक्रपाणि कहते हैं कि हेतु और लिङ्ग स्वास्थ्य पर भी लागू होते हैं। 'त्रिसूत्र आयुर्वेद क्या है?' यह बहुत पूछा जाने वाला प्रश्न है।",
+   "modern_correlation": {
+    "en": "The trisūtra broadly parallels the structure of modern clinical medicine: aetiology, clinical features/diagnosis, and treatment, with prevention for the healthy. The comparison concerns how knowledge is organised, not identical concepts.",
+    "hi": "त्रिसूत्र मोटे तौर पर आधुनिक चिकित्सा की संरचना से मिलता है: एटियोलॉजी (कारण), क्लिनिकल फीचर्स/निदान, और उपचार, तथा स्वस्थ के लिए रोकथाम। यह तुलना ज्ञान के संगठन की है, अवधारणाएँ बिल्कुल एक नहीं हैं।"
+   },
+   "key_terms": [
+    "trisūtra",
+    "hetu",
+    "liṅga",
+    "auṣadha",
+    "svastha",
+    "ātura"
+   ],
+   "tags": [
+    "definitions",
+    "exam",
+    "trisutra"
+   ],
+   "importance": "high",
+   "mnemonic": "H-L-A: Hetu, Liṅga, Auṣadha = Cause, Clue, Cure",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.1.25",
+   "word_meanings": [
+    {
+     "sa": "सः",
+     "iast": "saḥ",
+     "en": "he",
+     "hi": "वह"
+    },
+    {
+     "sa": "अनन्तपारम्",
+     "iast": "anantapāram",
+     "en": "endless, boundless",
+     "hi": "अनन्त, अपार"
+    },
+    {
+     "sa": "त्रिस्कन्धम्",
+     "iast": "triskandham",
+     "en": "having three divisions",
+     "hi": "तीन स्कन्धों वाला"
+    },
+    {
+     "sa": "आयुर्वेदम्",
+     "iast": "āyurvedam",
+     "en": "Āyurveda",
+     "hi": "आयुर्वेद को"
+    },
+    {
+     "sa": "महामतिः",
+     "iast": "mahāmatiḥ",
+     "en": "of great intellect",
+     "hi": "महाबुद्धिमान"
+    },
+    {
+     "sa": "यथावत्",
+     "iast": "yathāvat",
+     "en": "properly",
+     "hi": "यथावत्"
+    },
+    {
+     "sa": "अचिरात्",
+     "iast": "acirāt",
+     "en": "quickly",
+     "hi": "शीघ्र ही"
+    },
+    {
+     "sa": "सर्वम्",
+     "iast": "sarvam",
+     "en": "entire",
+     "hi": "सम्पूर्ण"
+    },
+    {
+     "sa": "बुबुधे",
+     "iast": "bubudhe",
+     "en": "understood",
+     "hi": "समझ लिया"
+    },
+    {
+     "sa": "तन्मनाः",
+     "iast": "tanmanāḥ",
+     "en": "with mind fixed on it",
+     "hi": "उसमें मन लगाकर"
+    },
+    {
+     "sa": "मुनिः",
+     "iast": "muniḥ",
+     "en": "the sage",
+     "hi": "मुनि"
+    }
+   ],
+   "english": "With his mind fully absorbed in it, the sage of great intellect quickly and properly understood the whole of this boundless Āyurveda with its three divisions (triskandha).",
+   "hindi": "मन लगाकर उस महाबुद्धिमान मुनि ने तीन स्कन्धों वाले इस अपार आयुर्वेद को शीघ्र ही यथावत् पूरा समझ लिया।",
+   "explanation_en": "'Triskandha' means the same three divisions as trisūtra: hetu, liṅga, auṣadha. Āyurveda is called 'anantapāra' (endless) because knowledge of health and disease has no final limit (compare Vi 8 and Su 30). Exam tip: trisūtra and triskandha are synonyms here.",
+   "explanation_hi": "'त्रिस्कन्ध' का अर्थ वही तीन विभाग है जो त्रिसूत्र में: हेतु, लिङ्ग, औषध। आयुर्वेद को 'अनन्तपार' कहा क्योंकि स्वास्थ्य और रोग के ज्ञान की कोई अन्तिम सीमा नहीं है। परीक्षा टिप: यहाँ त्रिसूत्र और त्रिस्कन्ध पर्यायवाची हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "triskandha",
+    "trisūtra",
+    "anantapāra"
+   ],
+   "tags": [
+    "definitions",
+    "exam",
+    "trisutra"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.1.26",
+   "word_meanings": [
+    {
+     "sa": "तेन",
+     "iast": "tena",
+     "en": "by that",
+     "hi": "उससे"
+    },
+    {
+     "sa": "आयुः",
+     "iast": "āyuḥ",
+     "en": "life",
+     "hi": "आयु"
+    },
+    {
+     "sa": "अमितम्",
+     "iast": "amitam",
+     "en": "immeasurable",
+     "hi": "अपरिमित"
+    },
+    {
+     "sa": "लेभे",
+     "iast": "lebhe",
+     "en": "obtained",
+     "hi": "प्राप्त की"
+    },
+    {
+     "sa": "भरद्वाजः",
+     "iast": "bharadvājaḥ",
+     "en": "Bharadvāja",
+     "hi": "भरद्वाज ने"
+    },
+    {
+     "sa": "सुखान्वितम्",
+     "iast": "sukhānvitam",
+     "en": "accompanied by happiness",
+     "hi": "सुख से युक्त"
+    },
+    {
+     "sa": "ऋषिभ्यः",
+     "iast": "ṛṣibhyaḥ",
+     "en": "to the sages",
+     "hi": "ऋषियों को"
+    },
+    {
+     "sa": "अनधिकम्",
+     "iast": "anadhikam",
+     "en": "without adding anything",
+     "hi": "बिना कुछ बढ़ाए"
+    },
+    {
+     "sa": "तत्",
+     "iast": "tat",
+     "en": "that",
+     "hi": "उसे"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "शशंस",
+     "iast": "śaśaṃsa",
+     "en": "taught",
+     "hi": "बताया"
+    },
+    {
+     "sa": "अनवशेषयन्",
+     "iast": "anavaśeṣayan",
+     "en": "leaving nothing out",
+     "hi": "कुछ भी शेष न छोड़ते हुए"
+    }
+   ],
+   "english": "Through it Bharadvāja attained an immeasurably long and happy life, and he taught it to the sages exactly as received, adding nothing and leaving nothing out.",
+   "hindi": "उस ज्ञान से भरद्वाज ने अपरिमित और सुखी आयु प्राप्त की, और उसे ऋषियों को बिना कुछ जोड़े, बिना कुछ छोड़े, ज्यों का त्यों बताया।",
+   "explanation_en": "Two lessons: Āyurveda produces a long life that is also happy (sukhāyu, see verse 41), and the knowledge was passed on faithfully, which supports the authority of the tradition. The words 'anadhikam' and 'anavaśeṣayan' (no addition, no omission) describe an ideal transmission.",
+   "explanation_hi": "दो शिक्षाएँ: आयुर्वेद से लम्बी और सुखी आयु मिलती है (सुखायु, श्लोक 41 देखें), और ज्ञान ईमानदारी से आगे पहुँचाया गया, जिससे परम्परा की प्रामाणिकता बनती है। 'अनधिकम्' और 'अनवशेषयन्' (न जोड़ना, न छोड़ना) आदर्श ज्ञान-संचार बताते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sukhāyu",
+    "paramparā"
+   ],
+   "tags": [
+    "history",
+    "lineage"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.1.27",
+   "word_meanings": [
+    {
+     "sa": "ऋषयः",
+     "iast": "ṛṣayaḥ",
+     "en": "the sages",
+     "hi": "ऋषियों ने"
+    },
+    {
+     "sa": "भरद्वाजात्",
+     "iast": "bharadvājāt",
+     "en": "from Bharadvāja",
+     "hi": "भरद्वाज से"
+    },
+    {
+     "sa": "जगृहुः",
+     "iast": "jagṛhuḥ",
+     "en": "received",
+     "hi": "ग्रहण किया"
+    },
+    {
+     "sa": "तम्",
+     "iast": "tam",
+     "en": "it",
+     "hi": "उसे"
+    },
+    {
+     "sa": "प्रजाहितम्",
+     "iast": "prajāhitam",
+     "en": "beneficial to all people",
+     "hi": "प्रजा के लिए हितकारी"
+    },
+    {
+     "sa": "दीर्घम्",
+     "iast": "dīrgham",
+     "en": "long",
+     "hi": "दीर्घ"
+    },
+    {
+     "sa": "आयुः",
+     "iast": "āyuḥ",
+     "en": "life",
+     "hi": "आयु"
+    },
+    {
+     "sa": "चिकीर्षन्तः",
+     "iast": "cikīrṣantaḥ",
+     "en": "wishing to bring about",
+     "hi": "प्राप्त करने की इच्छा से"
+    },
+    {
+     "sa": "वेदम्",
+     "iast": "vedam",
+     "en": "the science",
+     "hi": "वेद (विद्या) को"
+    },
+    {
+     "sa": "वर्धनम्",
+     "iast": "vardhanam",
+     "en": "promoter",
+     "hi": "बढ़ाने वाले"
+    },
+    {
+     "sa": "आयुषः",
+     "iast": "āyuṣaḥ",
+     "en": "of life",
+     "hi": "आयु के"
+    }
+   ],
+   "english": "Wishing to attain long life, the sages received from Bharadvāja this science that promotes life and is beneficial to all people.",
+   "hindi": "दीर्घ आयु प्राप्त करने की इच्छा से ऋषियों ने भरद्वाज से यह आयु बढ़ाने वाली और प्रजा के लिए हितकारी विद्या ग्रहण की।",
+   "explanation_en": "Āyurveda now passes from Bharadvāja to the assembled sages. It is called 'veda' (a body of knowledge) and 'āyuṣo vardhanam', anticipating the formal definition in verse 41.",
+   "explanation_hi": "अब आयुर्वेद भरद्वाज से सभा के ऋषियों तक पहुँचता है। इसे 'वेद' (ज्ञान-ग्रन्थ) और 'आयु को बढ़ाने वाला' कहा गया, जो श्लोक 41 की परिभाषा की भूमिका है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "āyurveda",
+    "paramparā"
+   ],
+   "tags": [
+    "history",
+    "lineage"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.1.28",
+   "word_meanings": [
+    {
+     "sa": "महर्षयः",
+     "iast": "maharṣayaḥ",
+     "en": "the great sages",
+     "hi": "महर्षियों ने"
+    },
+    {
+     "sa": "ते",
+     "iast": "te",
+     "en": "they",
+     "hi": "वे"
+    },
+    {
+     "sa": "ददृशुः",
+     "iast": "dadṛśuḥ",
+     "en": "perceived",
+     "hi": "देखा, जाना"
+    },
+    {
+     "sa": "यथावत्",
+     "iast": "yathāvat",
+     "en": "correctly",
+     "hi": "यथावत्"
+    },
+    {
+     "sa": "ज्ञानचक्षुषा",
+     "iast": "jñānacakṣuṣā",
+     "en": "with the eye of knowledge",
+     "hi": "ज्ञान-नेत्र से"
+    },
+    {
+     "sa": "सामान्यम्",
+     "iast": "sāmānyam",
+     "en": "generic concept, similarity",
+     "hi": "सामान्य"
+    },
+    {
+     "sa": "विशेषम्",
+     "iast": "viśeṣam",
+     "en": "particularity, difference",
+     "hi": "विशेष"
+    },
+    {
+     "sa": "गुणान्",
+     "iast": "guṇān",
+     "en": "qualities",
+     "hi": "गुणों को"
+    },
+    {
+     "sa": "द्रव्याणि",
+     "iast": "dravyāṇi",
+     "en": "substances",
+     "hi": "द्रव्यों को"
+    },
+    {
+     "sa": "कर्म",
+     "iast": "karma",
+     "en": "action",
+     "hi": "कर्म को"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    }
+   ],
+   "english": "Those great sages correctly perceived, with the eye of knowledge, sāmānya (generality, similarity), viśeṣa (particularity, difference), guṇa (qualities), dravya (substances), karma (action),",
+   "hindi": "उन महर्षियों ने ज्ञान-दृष्टि से यथावत् जाना: सामान्य (समानता), विशेष (भिन्नता), गुण, द्रव्य, कर्म,",
+   "explanation_en": "Together with verse 29 this lists the six padārthas (ṣaṭpadārtha) as accepted by Caraka: sāmānya, viśeṣa, guṇa, dravya, karma, samavāya. Note Caraka's order starts with sāmānya and viśeṣa because their practical use (increase by similarity, decrease by dissimilarity) is the basis of treatment (Su 1.44). Vaiśeṣika philosophy lists them as dravya, guṇa, karma, sāmānya, viśeṣa, samavāya. Caraka's unusual order is itself a common exam question.",
+   "explanation_hi": "श्लोक 29 के साथ यह चरक के छह पदार्थ (षट्पदार्थ) बताता है: सामान्य, विशेष, गुण, द्रव्य, कर्म, समवाय। चरक सामान्य और विशेष को पहले रखते हैं क्योंकि उनका व्यावहारिक उपयोग (समान से वृद्धि, विपरीत से ह्रास) चिकित्सा का आधार है (सू. 1.44)। वैशेषिक दर्शन में क्रम द्रव्य, गुण, कर्म, सामान्य, विशेष, समवाय है। चरक का यह अलग क्रम भी परीक्षा में पूछा जाता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "ṣaṭpadārtha",
+    "sāmānya",
+    "viśeṣa",
+    "guṇa",
+    "dravya",
+    "karma",
+    "samavāya"
+   ],
+   "tags": [
+    "definitions",
+    "exam",
+    "padartha"
+   ],
+   "importance": "high",
+   "mnemonic": "Caraka's order 'SāViGuDraKaSa': Sāmānya, Viśeṣa, Guṇa, Dravya, Karma, Samavāya",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.1.29",
+   "word_meanings": [
+    {
+     "sa": "समवायम्",
+     "iast": "samavāyam",
+     "en": "inseparable inherence",
+     "hi": "समवाय (नित्य सम्बन्ध)"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "तत्",
+     "iast": "tat",
+     "en": "that",
+     "hi": "उसे"
+    },
+    {
+     "sa": "ज्ञात्वा",
+     "iast": "jñātvā",
+     "en": "having known",
+     "hi": "जानकर"
+    },
+    {
+     "sa": "तन्त्रोक्तम्",
+     "iast": "tantroktam",
+     "en": "as stated in the treatise",
+     "hi": "शास्त्र में कहे गए"
+    },
+    {
+     "sa": "विधिम्",
+     "iast": "vidhim",
+     "en": "regimen, method",
+     "hi": "विधि का"
+    },
+    {
+     "sa": "आस्थिताः",
+     "iast": "āsthitāḥ",
+     "en": "following",
+     "hi": "पालन करते हुए"
+    },
+    {
+     "sa": "लेभिरे",
+     "iast": "lebhire",
+     "en": "obtained",
+     "hi": "प्राप्त किया"
+    },
+    {
+     "sa": "परमम्",
+     "iast": "paramam",
+     "en": "supreme",
+     "hi": "परम"
+    },
+    {
+     "sa": "शर्म",
+     "iast": "śarma",
+     "en": "happiness, well-being",
+     "hi": "सुख, कल्याण"
+    },
+    {
+     "sa": "जीवितम्",
+     "iast": "jīvitam",
+     "en": "life",
+     "hi": "जीवन"
+    },
+    {
+     "sa": "च अपि",
+     "iast": "ca api",
+     "en": "and also",
+     "hi": "और भी"
+    },
+    {
+     "sa": "अनित्वरम्",
+     "iast": "anitvaram",
+     "en": "not short-lived, lasting",
+     "hi": "अनश्वर, दीर्घ"
+    }
+   ],
+   "english": "and samavāya (inherence). Knowing these and following the regimen laid down in the science, they obtained supreme well-being and a long-lasting life.",
+   "hindi": "और समवाय को भी जाना। इन्हें जानकर और शास्त्र में बताई विधि का पालन करके उन्होंने परम सुख और दीर्घ जीवन प्राप्त किया।",
+   "explanation_en": "Samavāya completes the six padārthas. The verse adds that knowing theory alone is not enough; the sages gained long life by following the prescribed regimen (vidhi). Defining samavāya as the inseparable, eternal relation (e.g. between a substance and its qualities) is a standard exam question (defined at Su 1.50).",
+   "explanation_hi": "समवाय से छह पदार्थ पूरे होते हैं। श्लोक बताता है कि केवल सिद्धान्त जानना पर्याप्त नहीं; ऋषियों ने बताई गई विधि का पालन करके दीर्घ जीवन पाया। समवाय की परिभाषा (द्रव्य और गुण जैसा अपृथक्, नित्य सम्बन्ध) परीक्षा का सामान्य प्रश्न है (सू. 1.50 में परिभाषित)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "samavāya",
+    "ṣaṭpadārtha"
+   ],
+   "tags": [
+    "definitions",
+    "exam",
+    "padartha"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.1.30",
+   "word_meanings": [
+    {
+     "sa": "अथ",
+     "iast": "atha",
+     "en": "then",
+     "hi": "तब"
+    },
+    {
+     "sa": "मैत्रीपरः",
+     "iast": "maitrīparaḥ",
+     "en": "devoted to friendliness",
+     "hi": "मैत्री-भाव से युक्त"
+    },
+    {
+     "sa": "पुण्यम्",
+     "iast": "puṇyam",
+     "en": "sacred",
+     "hi": "पवित्र"
+    },
+    {
+     "sa": "आयुर्वेदम्",
+     "iast": "āyurvedam",
+     "en": "Āyurveda",
+     "hi": "आयुर्वेद"
+    },
+    {
+     "sa": "पुनर्वसुः",
+     "iast": "punarvasuḥ",
+     "en": "Punarvasu (Ātreya)",
+     "hi": "पुनर्वसु (आत्रेय) ने"
+    },
+    {
+     "sa": "शिष्येभ्यः",
+     "iast": "śiṣyebhyaḥ",
+     "en": "to disciples",
+     "hi": "शिष्यों को"
+    },
+    {
+     "sa": "दत्तवान्",
+     "iast": "dattavān",
+     "en": "gave",
+     "hi": "दिया"
+    },
+    {
+     "sa": "षड्भ्यः",
+     "iast": "ṣaḍbhyaḥ",
+     "en": "to six",
+     "hi": "छह"
+    },
+    {
+     "sa": "सर्वभूतानुकम्पया",
+     "iast": "sarvabhūtānukampayā",
+     "en": "out of compassion for all beings",
+     "hi": "सब प्राणियों पर करुणा से"
+    }
+   ],
+   "english": "Then Punarvasu (Ātreya), full of friendliness, out of compassion for all beings, imparted the sacred Āyurveda to six disciples.",
+   "hindi": "तब मैत्री-भाव से भरे पुनर्वसु आत्रेय ने सब प्राणियों पर करुणा करके यह पवित्र आयुर्वेद छह शिष्यों को दिया।",
+   "explanation_en": "This marks the start of the human teaching lineage that leads to the Carakasaṃhitā. Ātreya teaches out of maitrī (friendliness) and karuṇā (compassion), the qualities later prescribed for physicians (Su 9.26). The six disciples are named next.",
+   "explanation_hi": "यहाँ से मनुष्य-गुरु परम्परा शुरू होती है जो चरकसंहिता तक पहुँचती है। आत्रेय मैत्री और करुणा से पढ़ाते हैं, वही गुण जो बाद में वैद्य के लिए बताए गए (सू. 9.26)। छह शिष्यों के नाम अगले श्लोक में हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "Punarvasu Ātreya",
+    "maitrī",
+    "karuṇā"
+   ],
+   "tags": [
+    "history",
+    "lineage",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.1.31",
+   "word_meanings": [
+    {
+     "sa": "अग्निवेशः",
+     "iast": "agniveśaḥ",
+     "en": "Agniveśa",
+     "hi": "अग्निवेश"
+    },
+    {
+     "sa": "भेलः",
+     "iast": "bhelaḥ",
+     "en": "Bhela",
+     "hi": "भेल"
+    },
+    {
+     "sa": "जतूकर्णः",
+     "iast": "jatūkarṇaḥ",
+     "en": "Jatūkarṇa",
+     "hi": "जतूकर्ण"
+    },
+    {
+     "sa": "पराशरः",
+     "iast": "parāśaraḥ",
+     "en": "Parāśara",
+     "hi": "पराशर"
+    },
+    {
+     "sa": "हारीतः",
+     "iast": "hārītaḥ",
+     "en": "Hārīta",
+     "hi": "हारीत"
+    },
+    {
+     "sa": "क्षारपाणिः",
+     "iast": "kṣārapāṇiḥ",
+     "en": "Kṣārapāṇi",
+     "hi": "क्षारपाणि"
+    },
+    {
+     "sa": "जगृहुः",
+     "iast": "jagṛhuḥ",
+     "en": "received",
+     "hi": "ग्रहण किया"
+    },
+    {
+     "sa": "तत्",
+     "iast": "tat",
+     "en": "that",
+     "hi": "उस"
+    },
+    {
+     "sa": "मुनेः",
+     "iast": "muneḥ",
+     "en": "of the sage",
+     "hi": "मुनि के"
+    },
+    {
+     "sa": "वचः",
+     "iast": "vacaḥ",
+     "en": "teaching",
+     "hi": "वचन को"
+    }
+   ],
+   "english": "Agniveśa, Bhela, Jatūkarṇa, Parāśara, Hārīta and Kṣārapāṇi received the teaching of the sage.",
+   "hindi": "अग्निवेश, भेल, जतूकर्ण, पराशर, हारीत और क्षारपाणि ने मुनि (आत्रेय) के उपदेश को ग्रहण किया।",
+   "explanation_en": "The six disciples of Ātreya are a very common exam question. Each later wrote his own treatise (tantra); of these only Agniveśa's (as redacted by Caraka) survives fully, and a damaged Bhela Saṃhitā exists. Memorise all six names in order.",
+   "explanation_hi": "आत्रेय के छह शिष्य परीक्षा में बहुत पूछे जाते हैं। हर शिष्य ने अपना तन्त्र लिखा; इनमें केवल अग्निवेश तन्त्र (चरक द्वारा संस्कारित) पूरा उपलब्ध है, और भेल संहिता खण्डित रूप में मिलती है। छहों नाम क्रम से याद करें।",
+   "modern_correlation": null,
+   "key_terms": [
+    "Agniveśa",
+    "Bhela",
+    "Jatūkarṇa",
+    "Parāśara",
+    "Hārīta",
+    "Kṣārapāṇi"
+   ],
+   "tags": [
+    "history",
+    "lineage",
+    "exam",
+    "list"
+   ],
+   "importance": "high",
+   "mnemonic": "'A Big Jolly Parrot Has Kites': Agniveśa, Bhela, Jatūkarṇa, Parāśara, Hārīta, Kṣārapāṇi",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.1.32",
+   "word_meanings": [
+    {
+     "sa": "बुद्धेः",
+     "iast": "buddheḥ",
+     "en": "of intellect",
+     "hi": "बुद्धि का"
+    },
+    {
+     "sa": "विशेषः",
+     "iast": "viśeṣaḥ",
+     "en": "distinction, excellence",
+     "hi": "विशेषता"
+    },
+    {
+     "sa": "तत्र",
+     "iast": "tatra",
+     "en": "there",
+     "hi": "वहाँ"
+    },
+    {
+     "sa": "आसीत्",
+     "iast": "āsīt",
+     "en": "was",
+     "hi": "थी"
+    },
+    {
+     "sa": "न",
+     "iast": "na",
+     "en": "not",
+     "hi": "नहीं"
+    },
+    {
+     "sa": "उपदेशान्तरम्",
+     "iast": "upadeśāntaram",
+     "en": "difference in teaching",
+     "hi": "उपदेश में भेद"
+    },
+    {
+     "sa": "मुनेः",
+     "iast": "muneḥ",
+     "en": "of the sage",
+     "hi": "मुनि के"
+    },
+    {
+     "sa": "तन्त्रस्य",
+     "iast": "tantrasya",
+     "en": "of a treatise",
+     "hi": "तन्त्र के"
+    },
+    {
+     "sa": "कर्ता",
+     "iast": "kartā",
+     "en": "author",
+     "hi": "रचयिता"
+    },
+    {
+     "sa": "प्रथमम्",
+     "iast": "prathamam",
+     "en": "first",
+     "hi": "पहले"
+    },
+    {
+     "sa": "अग्निवेशः",
+     "iast": "agniveśaḥ",
+     "en": "Agniveśa",
+     "hi": "अग्निवेश"
+    },
+    {
+     "sa": "यतः",
+     "iast": "yataḥ",
+     "en": "since",
+     "hi": "क्योंकि"
+    },
+    {
+     "sa": "अभवत्",
+     "iast": "abhavat",
+     "en": "became",
+     "hi": "हुए"
+    }
+   ],
+   "english": "The difference lay in the excellence of their intellect, not in any difference in the sage's teaching; that is why Agniveśa became the first to compose a treatise.",
+   "hindi": "भेद उनकी बुद्धि की विशेषता में था, मुनि के उपदेश में कोई भेद नहीं था; इसीलिए अग्निवेश सबसे पहले तन्त्र के रचयिता बने।",
+   "explanation_en": "Ātreya taught all six equally; Agniveśa's sharper intellect made him the first author. The Agniveśa Tantra was later revised by Caraka (pratisaṃskartā) and completed by Dṛḍhabala, giving the present Carakasaṃhitā. Exam favourite: 'Who was the first to write a tantra among Ātreya's disciples?'",
+   "explanation_hi": "आत्रेय ने छहों को समान रूप से पढ़ाया; अग्निवेश की तीव्र बुद्धि ने उन्हें प्रथम ग्रन्थकार बनाया। अग्निवेश तन्त्र का बाद में चरक ने प्रतिसंस्कार किया और दृढ़बल ने उसे पूरा किया, जिससे आज की चरकसंहिता बनी। 'आत्रेय के शिष्यों में सबसे पहले तन्त्र किसने लिखा?' बहुत पूछा जाता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "Agniveśa",
+    "tantrakartā",
+    "Caraka",
+    "Dṛḍhabala"
+   ],
+   "tags": [
+    "history",
+    "lineage",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.1.33",
+   "word_meanings": [
+    {
+     "sa": "अथ",
+     "iast": "atha",
+     "en": "then",
+     "hi": "तब"
+    },
+    {
+     "sa": "भेलआदयः",
+     "iast": "bhela-ādayaḥ",
+     "en": "Bhela and others",
+     "hi": "भेल आदि ने"
+    },
+    {
+     "sa": "चक्रुः",
+     "iast": "cakruḥ",
+     "en": "composed",
+     "hi": "रचे"
+    },
+    {
+     "sa": "स्वं स्वम्",
+     "iast": "svaṃ svam",
+     "en": "each his own",
+     "hi": "अपने-अपने"
+    },
+    {
+     "sa": "तन्त्रम्",
+     "iast": "tantram",
+     "en": "treatise",
+     "hi": "तन्त्र"
+    },
+    {
+     "sa": "कृतानि",
+     "iast": "kṛtāni",
+     "en": "the compositions",
+     "hi": "रचे हुए ग्रन्थ"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "श्रावयामासुः",
+     "iast": "śrāvayāmāsuḥ",
+     "en": "recited, read out",
+     "hi": "सुनाए"
+    },
+    {
+     "sa": "आत्रेयम्",
+     "iast": "ātreyam",
+     "en": "to Ātreya",
+     "hi": "आत्रेय को"
+    },
+    {
+     "sa": "सर्षिसंघम्",
+     "iast": "sarṣisaṃgham",
+     "en": "with the assembly of sages",
+     "hi": "ऋषि-समूह सहित"
+    },
+    {
+     "sa": "सुमेधसः",
+     "iast": "sumedhasaḥ",
+     "en": "the intelligent ones",
+     "hi": "बुद्धिमान"
+    }
+   ],
+   "english": "Then Bhela and the others composed their own treatises, and these intelligent disciples recited their works before Ātreya and the assembly of sages.",
+   "hindi": "तब भेल आदि ने अपने-अपने तन्त्र रचे, और उन बुद्धिमान शिष्यों ने अपने ग्रन्थ आत्रेय और ऋषि-समूह को सुनाए।",
+   "explanation_en": "The treatises were presented for peer review before the teacher and the assembly, an early form of validating texts. Approval follows in the next verse.",
+   "explanation_hi": "ग्रन्थों को गुरु और ऋषि-सभा के सामने परीक्षण के लिए प्रस्तुत किया गया, जो ग्रन्थों की प्रामाणिकता जाँचने की एक प्राचीन पद्धति है। स्वीकृति अगले श्लोक में है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "tantra"
+   ],
+   "tags": [
+    "history",
+    "lineage"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.1.34",
+   "word_meanings": [
+    {
+     "sa": "श्रुत्वा",
+     "iast": "śrutvā",
+     "en": "having heard",
+     "hi": "सुनकर"
+    },
+    {
+     "sa": "सूत्रणम्",
+     "iast": "sūtraṇam",
+     "en": "systematic composition",
+     "hi": "सूत्र-बद्ध रचना"
+    },
+    {
+     "sa": "अर्थानाम्",
+     "iast": "arthānām",
+     "en": "of the subjects",
+     "hi": "विषयों की"
+    },
+    {
+     "sa": "ऋषयः",
+     "iast": "ṛṣayaḥ",
+     "en": "the sages",
+     "hi": "ऋषि"
+    },
+    {
+     "sa": "पुण्यकर्मणाम्",
+     "iast": "puṇyakarmaṇām",
+     "en": "of those of good deeds",
+     "hi": "पुण्यकर्मा (शिष्यों) की"
+    },
+    {
+     "sa": "यथावत्",
+     "iast": "yathāvat",
+     "en": "properly",
+     "hi": "ठीक प्रकार"
+    },
+    {
+     "sa": "सूत्रितम्",
+     "iast": "sūtritam",
+     "en": "composed",
+     "hi": "रचा गया"
+    },
+    {
+     "sa": "इति",
+     "iast": "iti",
+     "en": "thus",
+     "hi": "ऐसा"
+    },
+    {
+     "sa": "प्रहृष्टाः",
+     "iast": "prahṛṣṭāḥ",
+     "en": "delighted",
+     "hi": "प्रसन्न होकर"
+    },
+    {
+     "sa": "ते",
+     "iast": "te",
+     "en": "they",
+     "hi": "उन्होंने"
+    },
+    {
+     "sa": "अनुमेनिरे",
+     "iast": "anumenire",
+     "en": "approved",
+     "hi": "अनुमोदन किया"
+    }
+   ],
+   "english": "Hearing the systematic composition of these subjects by the virtuous disciples, the sages were delighted and approved them, saying, 'It has been properly composed.'",
+   "hindi": "पुण्यात्मा शिष्यों द्वारा विषयों की सूत्रबद्ध रचना सुनकर ऋषि प्रसन्न हुए और 'ठीक प्रकार से रचा गया है' कहकर अनुमोदन किया।",
+   "explanation_en": "The assembly approves the treatises. This approval (anumati) is what gives these tantras their authority (see verse 40).",
+   "explanation_hi": "सभा ने ग्रन्थों का अनुमोदन किया। यही अनुमति इन तन्त्रों को प्रामाणिकता देती है (श्लोक 40 देखें)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "anumati",
+    "sūtraṇa"
+   ],
+   "tags": [
+    "history"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.1.35",
+   "word_meanings": [
+    {
+     "sa": "सर्वे",
+     "iast": "sarve",
+     "en": "all",
+     "hi": "सभी ने"
+    },
+    {
+     "sa": "एव",
+     "iast": "eva",
+     "en": "indeed",
+     "hi": "ही"
+    },
+    {
+     "sa": "अस्तुवन्",
+     "iast": "astuvan",
+     "en": "praised",
+     "hi": "प्रशंसा की"
+    },
+    {
+     "sa": "तान्",
+     "iast": "tān",
+     "en": "them",
+     "hi": "उनकी"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "सर्वभूतहितैषिणः",
+     "iast": "sarvabhūtahitaiṣiṇaḥ",
+     "en": "well-wishers of all beings",
+     "hi": "सब प्राणियों के हितैषी"
+    },
+    {
+     "sa": "साधु",
+     "iast": "sādhu",
+     "en": "well done",
+     "hi": "साधु, अच्छा"
+    },
+    {
+     "sa": "भूतेषु",
+     "iast": "bhūteṣu",
+     "en": "towards beings",
+     "hi": "प्राणियों के प्रति"
+    },
+    {
+     "sa": "अनुक्रोशः",
+     "iast": "anukrośaḥ",
+     "en": "compassion",
+     "hi": "करुणा"
+    },
+    {
+     "sa": "इति",
+     "iast": "iti",
+     "en": "thus",
+     "hi": "ऐसा"
+    },
+    {
+     "sa": "उच्चैः",
+     "iast": "uccaiḥ",
+     "en": "loudly",
+     "hi": "ऊँचे स्वर में"
+    },
+    {
+     "sa": "अब्रुवन्",
+     "iast": "abruvan",
+     "en": "said",
+     "hi": "कहा"
+    },
+    {
+     "sa": "समम्",
+     "iast": "samam",
+     "en": "together",
+     "hi": "एक साथ"
+    }
+   ],
+   "english": "All of them praised those well-wishers of all beings and said loudly together, 'Well done! This is true compassion for living beings!'",
+   "hindi": "सभी ने उन सब प्राणियों के हितैषी शिष्यों की प्रशंसा की और एक साथ ऊँचे स्वर में कहा, 'साधु! यह प्राणियों के प्रति सच्ची करुणा है!'",
+   "explanation_en": "The sages praise the disciples for their compassion. The theme of anukrośa (compassion) frames the whole chapter, from verse 7 to here.",
+   "explanation_hi": "ऋषियों ने शिष्यों की करुणा के लिए उनकी प्रशंसा की। करुणा (अनुक्रोश) का विषय श्लोक 7 से यहाँ तक पूरे अध्याय को घेरे हुए है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "anukrośa"
+   ],
+   "tags": [
+    "history",
+    "ethics"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.1.36",
+   "word_meanings": [
+    {
+     "sa": "तम्",
+     "iast": "tam",
+     "en": "that",
+     "hi": "उस"
+    },
+    {
+     "sa": "पुण्यम्",
+     "iast": "puṇyam",
+     "en": "auspicious",
+     "hi": "पवित्र"
+    },
+    {
+     "sa": "शुश्रुवुः",
+     "iast": "śuśruvuḥ",
+     "en": "heard",
+     "hi": "सुना"
+    },
+    {
+     "sa": "शब्दम्",
+     "iast": "śabdam",
+     "en": "sound",
+     "hi": "शब्द को"
+    },
+    {
+     "sa": "दिवि",
+     "iast": "divi",
+     "en": "in heaven",
+     "hi": "स्वर्ग में"
+    },
+    {
+     "sa": "देवर्षयः",
+     "iast": "devarṣayaḥ",
+     "en": "divine sages",
+     "hi": "देवर्षियों ने"
+    },
+    {
+     "sa": "स्थिताः",
+     "iast": "sthitāḥ",
+     "en": "dwelling",
+     "hi": "स्थित"
+    },
+    {
+     "sa": "सामराः",
+     "iast": "sāmarāḥ",
+     "en": "along with the gods",
+     "hi": "देवताओं सहित"
+    },
+    {
+     "sa": "परमर्षीणाम्",
+     "iast": "paramarṣīṇām",
+     "en": "of the great sages",
+     "hi": "परम ऋषियों का"
+    },
+    {
+     "sa": "श्रुत्वा",
+     "iast": "śrutvā",
+     "en": "having heard",
+     "hi": "सुनकर"
+    },
+    {
+     "sa": "मुमुदिरे",
+     "iast": "mumudire",
+     "en": "rejoiced",
+     "hi": "प्रसन्न हुए"
+    },
+    {
+     "sa": "परम्",
+     "iast": "param",
+     "en": "greatly",
+     "hi": "अत्यन्त"
+    }
+   ],
+   "english": "The divine sages dwelling in heaven, together with the gods, heard that auspicious acclamation of the great sages and rejoiced greatly.",
+   "hindi": "स्वर्ग में स्थित देवर्षियों और देवताओं ने महर्षियों की वह पवित्र ध्वनि सुनी और अत्यन्त प्रसन्न हुए।",
+   "explanation_en": "A poetic description of heavenly approval. Verses 36-39 use auspicious signs to underline the importance of the composition of Āyurvedic treatises.",
+   "explanation_hi": "स्वर्गीय अनुमोदन का काव्यात्मक वर्णन। श्लोक 36-39 शुभ संकेतों द्वारा आयुर्वेद-ग्रन्थों की रचना का महत्त्व दिखाते हैं।",
+   "modern_correlation": null,
+   "key_terms": [],
+   "tags": [
+    "history"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.1.37",
+   "word_meanings": [
+    {
+     "sa": "अहो साधु",
+     "iast": "aho sādhu",
+     "en": "oh, excellent",
+     "hi": "अहो, साधु"
+    },
+    {
+     "sa": "इति",
+     "iast": "iti",
+     "en": "thus",
+     "hi": "ऐसी"
+    },
+    {
+     "sa": "निर्घोषः",
+     "iast": "nirghoṣaḥ",
+     "en": "resounding cry",
+     "hi": "ध्वनि"
+    },
+    {
+     "sa": "लोकान् त्रीन्",
+     "iast": "lokān trīn",
+     "en": "the three worlds",
+     "hi": "तीनों लोकों को"
+    },
+    {
+     "sa": "अन्ववादयत्",
+     "iast": "anvavādayat",
+     "en": "caused to resound",
+     "hi": "गुँजा दिया"
+    },
+    {
+     "sa": "नभसि",
+     "iast": "nabhasi",
+     "en": "in the sky",
+     "hi": "आकाश में"
+    },
+    {
+     "sa": "स्निग्धगम्भीरः",
+     "iast": "snigdhagambhīraḥ",
+     "en": "soft and deep",
+     "hi": "मधुर और गम्भीर"
+    },
+    {
+     "sa": "हर्षात्",
+     "iast": "harṣāt",
+     "en": "from joy",
+     "hi": "हर्ष से"
+    },
+    {
+     "sa": "भूतैः",
+     "iast": "bhūtaiḥ",
+     "en": "by beings",
+     "hi": "प्राणियों द्वारा"
+    },
+    {
+     "sa": "उदीरितः",
+     "iast": "udīritaḥ",
+     "en": "uttered",
+     "hi": "उच्चारित"
+    }
+   ],
+   "english": "A cry of 'Oh, excellent!', soft yet deep, uttered in the sky by beings out of joy, resounded through the three worlds.",
+   "hindi": "'अहो, साधु!' की मधुर और गम्भीर ध्वनि, जो आकाश में प्राणियों ने हर्ष से कही, तीनों लोकों में गूँज उठी।",
+   "explanation_en": "Continuing the celebration: the approval spreads through the three worlds. Narrative only.",
+   "explanation_hi": "उत्सव का वर्णन जारी है: अनुमोदन तीनों लोकों में फैल गया। केवल कथात्मक श्लोक।",
+   "modern_correlation": null,
+   "key_terms": [],
+   "tags": [
+    "history"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.1.38",
+   "word_meanings": [
+    {
+     "sa": "शिवः",
+     "iast": "śivaḥ",
+     "en": "auspicious, pleasant",
+     "hi": "सुखद, शुभ"
+    },
+    {
+     "sa": "वायुः",
+     "iast": "vāyuḥ",
+     "en": "wind",
+     "hi": "वायु"
+    },
+    {
+     "sa": "ववौ",
+     "iast": "vavau",
+     "en": "blew",
+     "hi": "बहने लगी"
+    },
+    {
+     "sa": "सर्वाः",
+     "iast": "sarvāḥ",
+     "en": "all",
+     "hi": "सभी"
+    },
+    {
+     "sa": "भाभिः",
+     "iast": "bhābhiḥ",
+     "en": "with light",
+     "hi": "प्रकाश से"
+    },
+    {
+     "sa": "उन्मीलिताः",
+     "iast": "unmīlitāḥ",
+     "en": "lit up",
+     "hi": "प्रकाशित"
+    },
+    {
+     "sa": "दिशः",
+     "iast": "diśaḥ",
+     "en": "directions",
+     "hi": "दिशाएँ"
+    },
+    {
+     "sa": "निपेतुः",
+     "iast": "nipetuḥ",
+     "en": "fell",
+     "hi": "गिरीं"
+    },
+    {
+     "sa": "सजलाः",
+     "iast": "sajalāḥ",
+     "en": "with water, moist",
+     "hi": "जल सहित"
+    },
+    {
+     "sa": "च एव",
+     "iast": "ca eva",
+     "en": "and indeed",
+     "hi": "और"
+    },
+    {
+     "sa": "दिव्याः",
+     "iast": "divyāḥ",
+     "en": "divine",
+     "hi": "दिव्य"
+    },
+    {
+     "sa": "कुसुमवृष्टयः",
+     "iast": "kusumavṛṣṭayaḥ",
+     "en": "showers of flowers",
+     "hi": "पुष्प-वर्षा"
+    }
+   ],
+   "english": "A pleasant breeze blew, all the directions were lit up with light, and divine showers of flowers mixed with water fell.",
+   "hindi": "सुखद वायु बहने लगी, सब दिशाएँ प्रकाश से जगमगा उठीं, और जल-सहित दिव्य पुष्प-वर्षा हुई।",
+   "explanation_en": "Auspicious natural signs accompany the event, a common literary device in classical Sanskrit texts. No technical content.",
+   "explanation_hi": "इस घटना के साथ शुभ प्राकृतिक संकेत हुए; यह संस्कृत ग्रन्थों की एक सामान्य काव्य शैली है। कोई तकनीकी विषय नहीं।",
+   "modern_correlation": null,
+   "key_terms": [],
+   "tags": [
+    "history"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.1.39",
+   "word_meanings": [
+    {
+     "sa": "अथ",
+     "iast": "atha",
+     "en": "then",
+     "hi": "तब"
+    },
+    {
+     "sa": "अग्निवेशप्रमुखान्",
+     "iast": "agniveśapramukhān",
+     "en": "Agniveśa and the others headed by him",
+     "hi": "अग्निवेश आदि में"
+    },
+    {
+     "sa": "विविशुः",
+     "iast": "viviśuḥ",
+     "en": "entered",
+     "hi": "प्रवेश किया"
+    },
+    {
+     "sa": "ज्ञानदेवताः",
+     "iast": "jñānadevatāḥ",
+     "en": "deities of knowledge",
+     "hi": "ज्ञान की देवियाँ"
+    },
+    {
+     "sa": "बुद्धिः",
+     "iast": "buddhiḥ",
+     "en": "intellect",
+     "hi": "बुद्धि"
+    },
+    {
+     "sa": "सिद्धिः",
+     "iast": "siddhiḥ",
+     "en": "success",
+     "hi": "सिद्धि"
+    },
+    {
+     "sa": "स्मृतिः",
+     "iast": "smṛtiḥ",
+     "en": "memory",
+     "hi": "स्मृति"
+    },
+    {
+     "sa": "मेधा",
+     "iast": "medhā",
+     "en": "retentive intelligence",
+     "hi": "मेधा"
+    },
+    {
+     "sa": "धृतिः",
+     "iast": "dhṛtiḥ",
+     "en": "steadiness, resolve",
+     "hi": "धृति"
+    },
+    {
+     "sa": "कीर्तिः",
+     "iast": "kīrtiḥ",
+     "en": "fame",
+     "hi": "कीर्ति"
+    },
+    {
+     "sa": "क्षमा",
+     "iast": "kṣamā",
+     "en": "forbearance",
+     "hi": "क्षमा"
+    },
+    {
+     "sa": "आदयः",
+     "iast": "ādayaḥ",
+     "en": "and others",
+     "hi": "आदि"
+    }
+   ],
+   "english": "Then the deities of knowledge, namely intellect (buddhi), success (siddhi), memory (smṛti), retentive intelligence (medhā), steadiness (dhṛti), fame (kīrti), forbearance (kṣamā) and others, entered Agniveśa and his fellows.",
+   "hindi": "तब बुद्धि, सिद्धि, स्मृति, मेधा, धृति, कीर्ति, क्षमा आदि ज्ञान की देवियाँ अग्निवेश आदि शिष्यों में प्रविष्ट हुईं।",
+   "explanation_en": "The qualities personified here are those desirable in a physician and scholar. Note the distinction between buddhi (understanding), smṛti (memory) and medhā (the capacity to grasp and retain), terms that reappear in Śārīra 1 and in rasāyana (medhya) contexts.",
+   "explanation_hi": "यहाँ जिन गुणों को देवी रूप में दिखाया गया है, वे वैद्य और विद्वान में अपेक्षित हैं। बुद्धि (समझ), स्मृति (याद) और मेधा (ग्रहण व धारण शक्ति) का भेद ध्यान दें; ये शब्द शारीर 1 और रसायन (मेध्य) प्रसंगों में फिर आते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "buddhi",
+    "smṛti",
+    "medhā",
+    "dhṛti"
+   ],
+   "tags": [
+    "history",
+    "psychology"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.1.40",
+   "word_meanings": [
+    {
+     "sa": "तानि",
+     "iast": "tāni",
+     "en": "those",
+     "hi": "वे"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "अनुमतानि",
+     "iast": "anumatāni",
+     "en": "approved",
+     "hi": "अनुमोदित"
+    },
+    {
+     "sa": "एषाम्",
+     "iast": "eṣām",
+     "en": "of these (disciples)",
+     "hi": "इन (शिष्यों) के"
+    },
+    {
+     "sa": "तन्त्राणि",
+     "iast": "tantrāṇi",
+     "en": "treatises",
+     "hi": "तन्त्र"
+    },
+    {
+     "sa": "परमर्षिभिः",
+     "iast": "paramarṣibhiḥ",
+     "en": "by the great sages",
+     "hi": "महर्षियों द्वारा"
+    },
+    {
+     "sa": "भवाय",
+     "iast": "bhavāya",
+     "en": "for the welfare",
+     "hi": "कल्याण के लिए"
+    },
+    {
+     "sa": "भूतसंघानाम्",
+     "iast": "bhūtasaṃghānām",
+     "en": "of all groups of beings",
+     "hi": "प्राणि-समूहों के"
+    },
+    {
+     "sa": "प्रतिष्ठाम्",
+     "iast": "pratiṣṭhām",
+     "en": "established place, fame",
+     "hi": "प्रतिष्ठा"
+    },
+    {
+     "sa": "भुवि",
+     "iast": "bhuvi",
+     "en": "on earth",
+     "hi": "पृथ्वी पर"
+    },
+    {
+     "sa": "लेभिरे",
+     "iast": "lebhire",
+     "en": "attained",
+     "hi": "प्राप्त की"
+    }
+   ],
+   "english": "And those treatises of the disciples, approved by the great sages, attained an established place on earth for the welfare of all living beings.",
+   "hindi": "और महर्षियों द्वारा अनुमोदित इन शिष्यों के तन्त्रों ने सब प्राणियों के कल्याण के लिए पृथ्वी पर प्रतिष्ठा पाई।",
+   "explanation_en": "This closes the historical section: the tantras became established because of the sages' approval. The text now turns to its technical subject, beginning with the definition of Āyurveda in the next verse.",
+   "explanation_hi": "यहाँ इतिहास का भाग समाप्त होता है: ऋषियों के अनुमोदन से तन्त्र प्रतिष्ठित हुए। अगले श्लोक से तकनीकी विषय शुरू होता है, आयुर्वेद की परिभाषा से।",
+   "modern_correlation": null,
+   "key_terms": [
+    "tantra",
+    "pratiṣṭhā"
+   ],
+   "tags": [
+    "history"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.1.41",
+   "word_meanings": [
+    {
+     "sa": "हिताहितम्",
+     "iast": "hitāhitam",
+     "en": "beneficial and harmful",
+     "hi": "हित और अहित"
+    },
+    {
+     "sa": "सुखम्",
+     "iast": "sukham",
+     "en": "happy",
+     "hi": "सुख"
+    },
+    {
+     "sa": "दुःखम्",
+     "iast": "duḥkham",
+     "en": "unhappy",
+     "hi": "दुःख"
+    },
+    {
+     "sa": "आयुः",
+     "iast": "āyuḥ",
+     "en": "life",
+     "hi": "आयु"
+    },
+    {
+     "sa": "तस्य",
+     "iast": "tasya",
+     "en": "its",
+     "hi": "उसका"
+    },
+    {
+     "sa": "हिताहितम्",
+     "iast": "hitāhitam",
+     "en": "what is wholesome and unwholesome",
+     "hi": "हितकर और अहितकर"
+    },
+    {
+     "sa": "मानम्",
+     "iast": "mānam",
+     "en": "measure",
+     "hi": "मान, प्रमाण"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "तत्",
+     "iast": "tat",
+     "en": "that",
+     "hi": "वह"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "यत्र",
+     "iast": "yatra",
+     "en": "where, in which",
+     "hi": "जिसमें"
+    },
+    {
+     "sa": "उक्तम्",
+     "iast": "uktam",
+     "en": "is described",
+     "hi": "कहा गया हो"
+    },
+    {
+     "sa": "आयुर्वेदः",
+     "iast": "āyurvedaḥ",
+     "en": "Āyurveda",
+     "hi": "आयुर्वेद"
+    },
+    {
+     "sa": "सः",
+     "iast": "saḥ",
+     "en": "that",
+     "hi": "वह"
+    },
+    {
+     "sa": "उच्यते",
+     "iast": "ucyate",
+     "en": "is called",
+     "hi": "कहा जाता है"
+    }
+   ],
+   "english": "That in which beneficial (hita) and harmful (ahita), happy (sukha) and unhappy (duḥkha) life is described, along with what is wholesome and unwholesome for that life, and its measure (māna), is called Āyurveda.",
+   "hindi": "जिसमें हित-आयु, अहित-आयु, सुख-आयु और दुःख-आयु का, उस आयु के लिए हितकर और अहितकर (पदार्थों/आचरण) का, तथा आयु के मान (प्रमाण) का वर्णन हो, उसे आयुर्वेद कहते हैं।",
+   "explanation_en": "This is Caraka's standard definition of Āyurveda and is among the most frequently asked questions. It names four types of life (hitāyu, ahitāyu, sukhāyu, duḥkhāyu), which are described in detail in Su 30.24. 'Tasya hitāhitam' refers to diet, conduct and drugs that help or harm life; 'māna' refers to the measure of life-span and its signs (studied in Indriyasthāna and Śārīra 8). Write all three components: types of āyu, what is hita/ahita for it, and its measure.",
+   "explanation_hi": "यह चरक की आयुर्वेद की मानक परिभाषा है और सबसे अधिक पूछे जाने वाले प्रश्नों में से है। इसमें चार प्रकार की आयु बताई गई: हितायु, अहितायु, सुखायु, दुःखायु (विस्तार सू. 30.24 में)। 'तस्य हिताहितम्' का अर्थ है आयु के लिए हितकर-अहितकर आहार, आचार और औषध; 'मान' का अर्थ है आयु का प्रमाण और उसके लक्षण (इन्द्रियस्थान और शारीर 8 में)। उत्तर में तीनों अंग लिखें: आयु के प्रकार, उसके लिए हिताहित, और उसका मान।",
+   "modern_correlation": null,
+   "key_terms": [
+    "āyurveda",
+    "hitāyu",
+    "ahitāyu",
+    "sukhāyu",
+    "duḥkhāyu",
+    "māna"
+   ],
+   "tags": [
+    "definitions",
+    "exam",
+    "ayurveda-definition"
+   ],
+   "importance": "high",
+   "mnemonic": "4 āyu: Hita-Ahita (social/moral), Sukha-Duḥkha (personal/physical)",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.1.42",
+   "word_meanings": [
+    {
+     "sa": "शरीर",
+     "iast": "śarīra",
+     "en": "body",
+     "hi": "शरीर"
+    },
+    {
+     "sa": "इन्द्रिय",
+     "iast": "indriya",
+     "en": "sense organs",
+     "hi": "इन्द्रियाँ"
+    },
+    {
+     "sa": "सत्त्व",
+     "iast": "sattva",
+     "en": "mind",
+     "hi": "सत्त्व (मन)"
+    },
+    {
+     "sa": "आत्म",
+     "iast": "ātma",
+     "en": "soul, self",
+     "hi": "आत्मा"
+    },
+    {
+     "sa": "संयोगः",
+     "iast": "saṃyogaḥ",
+     "en": "union, combination",
+     "hi": "संयोग"
+    },
+    {
+     "sa": "धारि",
+     "iast": "dhāri",
+     "en": "that which sustains (prevents decay)",
+     "hi": "धारि (शरीर को सड़ने से रोकने वाला)"
+    },
+    {
+     "sa": "जीवितम्",
+     "iast": "jīvitam",
+     "en": "that which keeps alive",
+     "hi": "जीवित"
+    },
+    {
+     "sa": "नित्यगः",
+     "iast": "nityagaḥ",
+     "en": "continuously moving",
+     "hi": "नित्यग (निरन्तर चलने वाला)"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "अनुबन्धः",
+     "iast": "anubandhaḥ",
+     "en": "continuity, linkage",
+     "hi": "अनुबन्ध (जन्म-जन्मान्तर को जोड़ने वाला)"
+    },
+    {
+     "sa": "पर्यायैः",
+     "iast": "paryāyaiḥ",
+     "en": "by synonyms",
+     "hi": "पर्यायों से"
+    },
+    {
+     "sa": "आयुः",
+     "iast": "āyuḥ",
+     "en": "life",
+     "hi": "आयु"
+    },
+    {
+     "sa": "उच्यते",
+     "iast": "ucyate",
+     "en": "is called",
+     "hi": "कहा जाता है"
+    }
+   ],
+   "english": "The union of body (śarīra), sense organs (indriya), mind (sattva) and soul (ātman) is āyu (life). It is also called by the synonyms dhāri (that which sustains), jīvita (that which keeps alive), nityaga (that which constantly moves on) and anubandha (that which links one life to the next).",
+   "hindi": "शरीर, इन्द्रिय, सत्त्व (मन) और आत्मा का संयोग 'आयु' है। इसके पर्याय हैं: धारि (शरीर को धारण करने वाला, सड़ने से रोकने वाला), जीवित (प्राण बनाए रखने वाला), नित्यग (हर क्षण बदलने/चलने वाला) और अनुबन्ध (एक जन्म को दूसरे से जोड़ने वाला)।",
+   "explanation_en": "This is the classic definition of life in Āyurveda and is asked in almost every exam. Life is not the body alone but the combination of four: body, senses, mind and soul. Cakrapāṇi explains the synonyms: dhāri, because it prevents the body from decaying; jīvita, because it keeps one alive; nityaga, because it is ever-changing from moment to moment; anubandha, because it continues from birth to birth. Link this to the 'tripod' of sattva, ātman and śarīra in Su 1.46.",
+   "explanation_hi": "यह आयुर्वेद में जीवन की प्रसिद्ध परिभाषा है और लगभग हर परीक्षा में पूछी जाती है। जीवन केवल शरीर नहीं, बल्कि चार का संयोग है: शरीर, इन्द्रिय, मन और आत्मा। चक्रपाणि पर्यायों को समझाते हैं: धारि क्योंकि यह शरीर को सड़ने नहीं देता; जीवित क्योंकि प्राण धारण कराता है; नित्यग क्योंकि यह हर क्षण बदलता रहता है; अनुबन्ध क्योंकि यह जन्म-जन्मान्तर चलता है। इसे सू. 1.46 के 'त्रिदण्ड' (सत्त्व, आत्मा, शरीर) से जोड़ें।",
+   "modern_correlation": {
+    "en": "Modern medicine usually describes life and health in biological terms, but the biopsychosocial model similarly holds that body and mind must both be considered. The ātman component lies outside the scope of science, so the parallel is partial.",
+    "hi": "आधुनिक चिकित्सा जीवन और स्वास्थ्य को प्रायः जैविक रूप में देखती है, पर बायोसाइकोसोशल मॉडल भी मानता है कि शरीर और मन दोनों पर ध्यान आवश्यक है। आत्मा का अंश विज्ञान के क्षेत्र से बाहर है, इसलिए यह समानता आंशिक है।"
+   },
+   "key_terms": [
+    "āyu",
+    "śarīra",
+    "indriya",
+    "sattva",
+    "ātman",
+    "dhāri",
+    "jīvita",
+    "nityaga",
+    "anubandha"
+   ],
+   "tags": [
+    "definitions",
+    "exam",
+    "ayu-definition"
+   ],
+   "importance": "high",
+   "mnemonic": "Life = SISA: Śarīra, Indriya, Sattva, Ātman; synonyms DJNA: Dhāri, Jīvita, Nityaga, Anubandha",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.1.43",
+   "word_meanings": [
+    {
+     "sa": "तस्य",
+     "iast": "tasya",
+     "en": "of that",
+     "hi": "उस"
+    },
+    {
+     "sa": "आयुषः",
+     "iast": "āyuṣaḥ",
+     "en": "of life",
+     "hi": "आयु का"
+    },
+    {
+     "sa": "पुण्यतमः",
+     "iast": "puṇyatamaḥ",
+     "en": "most sacred",
+     "hi": "सबसे पवित्र"
+    },
+    {
+     "sa": "वेदः",
+     "iast": "vedaḥ",
+     "en": "science, knowledge",
+     "hi": "वेद"
+    },
+    {
+     "sa": "वेदविदाम्",
+     "iast": "vedavidām",
+     "en": "of the knowers of the Vedas",
+     "hi": "वेदज्ञों का"
+    },
+    {
+     "sa": "मतः",
+     "iast": "mataḥ",
+     "en": "considered",
+     "hi": "माना गया है"
+    },
+    {
+     "sa": "वक्ष्यते",
+     "iast": "vakṣyate",
+     "en": "will be explained",
+     "hi": "बताया जाएगा"
+    },
+    {
+     "sa": "यत्",
+     "iast": "yat",
+     "en": "because, which",
+     "hi": "क्योंकि जो"
+    },
+    {
+     "sa": "मनुष्याणाम्",
+     "iast": "manuṣyāṇām",
+     "en": "for human beings",
+     "hi": "मनुष्यों के लिए"
+    },
+    {
+     "sa": "लोकयोः उभयोः",
+     "iast": "lokayoḥ ubhayoḥ",
+     "en": "in both worlds (this and the next)",
+     "hi": "दोनों लोकों में"
+    },
+    {
+     "sa": "हितम्",
+     "iast": "hitam",
+     "en": "beneficial",
+     "hi": "हितकर"
+    }
+   ],
+   "english": "The science of that life (Āyurveda) is regarded by the knowers of the Vedas as the most sacred of sciences, because, as will be explained, it is beneficial to human beings in both worlds, this one and the next.",
+   "hindi": "उस आयु का वेद (आयुर्वेद) वेदज्ञों द्वारा सबसे पवित्र माना गया है, क्योंकि जैसा आगे बताया जाएगा, यह मनुष्यों के लिए दोनों लोकों (इहलोक और परलोक) में हितकर है।",
+   "explanation_en": "Having defined āyu, the text praises Āyurveda as the most sacred science (puṇyatama veda) because it benefits people in this life and the next. Compare Su 30.21-23, where Āyurveda is related to the Atharvaveda. In the full text, the next verses (Su 1.44 onwards) explain the practical application of sāmānya and viśeṣa; those verses are not in this corpus selection.",
+   "explanation_hi": "आयु की परिभाषा के बाद ग्रन्थ आयुर्वेद की प्रशंसा करता है कि यह सबसे पवित्र विद्या है क्योंकि यह इस जन्म और अगले जन्म दोनों में लाभ देती है। सू. 30.21-23 से तुलना करें, जहाँ आयुर्वेद को अथर्ववेद से जोड़ा गया है। मूल ग्रन्थ में आगे (सू. 1.44 से) सामान्य-विशेष का व्यावहारिक प्रयोग बताया गया है; वे श्लोक इस संकलन में नहीं हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "āyurveda",
+    "puṇyatama veda"
+   ],
+   "tags": [
+    "definitions"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  }
+ ]
+}

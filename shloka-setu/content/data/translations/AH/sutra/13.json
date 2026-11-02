@@ -1,0 +1,3139 @@
+{
+ "chapter": {
+  "id": "AH.sutra.13",
+  "text": "ashtanga_hridaya",
+  "sthana": "sutra",
+  "chapter": 13,
+  "title_iast": "Doṣopakramaṇīya Adhyāya",
+  "title_devanagari": "दोषोपक्रमणीयोऽध्यायः",
+  "title_en": "The chapter on the treatment of the doṣas",
+  "title_hi": "दोषोपक्रमणीय अध्याय (दोषों की चिकित्सा)",
+  "summary_en": "This chapter lays down the basic line of treatment (upakrama) for each doṣa: oleation, sudation, mild purification and vasti for vāta; ghee, cooling measures and virecana for pitta; strong vamana, dry and light regimen for kapha. It explains how to adapt these in combined doṣa states using the seasonal regimens, and gives the definition of ideal treatment (śuddha cikitsā). It describes how doṣas move between the koṣṭha and the periphery (śākhā) and back, and how to treat a doṣa lodged in another's site. A major section defines āma, gives two views of its origin, and lists the features of sāma and nirāma vāta, pitta and kapha, with the rule that sāma doṣas must first be digested before purification. It then sets out seasonal purification in the three sādhāraṇa seasons, the routes of elimination, and finally the ten times for administering medicine (bheṣaja-kāla). Many of these lists are standard university and AIAPGET questions.",
+  "summary_hi": "इस अध्याय में हर दोष की मूल चिकित्सा (उपक्रम) बताई गई है: वात के लिए स्नेहन, स्वेदन, मृदु शोधन और बस्ति; पित्त के लिए घी, शीतल उपाय और विरेचन; कफ के लिए तीक्ष्ण वमन, रूखा और हल्का आहार-विहार। फिर बताया गया है कि मिश्रित दोषों में ऋतुचर्या के आधार पर इन्हें कैसे मिलाएँ, और शुद्ध चिकित्सा की परिभाषा दी गई है। दोषों के कोष्ठ से शाखा में जाने और लौटने के कारण, तथा दूसरे दोष के स्थान में बैठे दोष के उपचार का नियम बताया गया है। एक बड़े भाग में 'आम' की परिभाषा, उसकी उत्पत्ति के दो मत, और साम-निराम वात, पित्त, कफ के लक्षण हैं, साथ ही यह नियम कि साम दोषों को पहले पचाकर ही शोधन करें। अंत में तीन साधारण ऋतुओं में ऋतु-शोधन, दोष निकालने के मार्ग और औषधि देने के दस काल (भेषज-काल) बताए गए हैं। इनमें से कई सूचियाँ विश्वविद्यालय और AIAPGET परीक्षा में बार-बार पूछी जाती हैं।",
+  "key_concepts": [
+   "doṣopakrama",
+   "śuddha cikitsā",
+   "yogavāhī",
+   "koṣṭha-śākhā gati",
+   "sthānī-āgantu doṣa",
+   "āma",
+   "sāma-nirāma doṣa",
+   "ṛtu-śodhana",
+   "sādhāraṇa ṛtu",
+   "bheṣaja-kāla"
+  ],
+  "exam_focus_en": [
+   "Upakrama of vāta, pitta and kapha, and the best śodhana for each (vasti, virecana, vamana) (verses 1-12).",
+   "Definition of śuddha cikitsā: a therapy that cures one disease without provoking another (verse 16).",
+   "Causes of movement of doṣas from koṣṭha to śākhā and back to koṣṭha (verses 17-18).",
+   "Definition of āma, two views on its origin, and the ten general signs of sāma doṣa (verses 23-26).",
+   "Features of sāma and nirāma vāta, pitta and kapha; why sāma doṣas are not purified (verse 28).",
+   "Ten bheṣaja-kāla (times of medicine) with their indications, including the five vāyus (verses 37-41)."
+  ],
+  "exam_focus_hi": [
+   "वात, पित्त, कफ के उपक्रम और हर दोष का श्रेष्ठ शोधन (बस्ति, विरेचन, वमन) (श्लोक 1-12)।",
+   "शुद्ध चिकित्सा की परिभाषा: जो एक रोग शांत करे और दूसरा न भड़काए (श्लोक 16)।",
+   "दोषों के कोष्ठ से शाखा में जाने और वापस कोष्ठ में आने के कारण (श्लोक 17-18)।",
+   "आम की परिभाषा, उत्पत्ति के दो मत और साम दोष के दस सामान्य लक्षण (श्लोक 23-26)।",
+   "साम और निराम वात, पित्त, कफ के लक्षण; साम दोषों का शोधन क्यों नहीं (श्लोक 28)।",
+   "दस भेषज-काल और उनके संकेत, पाँच वायुओं सहित (श्लोक 37-41)।"
+  ],
+  "syllabus_refs": [
+   "AyUG-SA1"
+  ],
+  "review_status": "ai_draft"
+ },
+ "verses": [
+  {
+   "id": "AH.sutra.13.1",
+   "word_meanings": [
+    {
+     "sa": "वातस्य",
+     "iast": "vātasya",
+     "en": "of vāta",
+     "hi": "वात का"
+    },
+    {
+     "sa": "उपक्रमः",
+     "iast": "upakramaḥ",
+     "en": "treatment, line of management",
+     "hi": "उपचार"
+    },
+    {
+     "sa": "स्नेहः",
+     "iast": "snehaḥ",
+     "en": "oleation (internal/external use of fats)",
+     "hi": "स्नेहन (घी-तेल का प्रयोग)"
+    },
+    {
+     "sa": "स्वेदः",
+     "iast": "svedaḥ",
+     "en": "sudation, sweating therapy",
+     "hi": "स्वेदन (पसीना लाने की चिकित्सा)"
+    },
+    {
+     "sa": "संशोधनम्",
+     "iast": "saṃśodhanam",
+     "en": "purification therapy",
+     "hi": "शोधन (दोष बाहर निकालना)"
+    },
+    {
+     "sa": "मृदु",
+     "iast": "mṛdu",
+     "en": "mild",
+     "hi": "मृदु, हल्का"
+    },
+    {
+     "sa": "स्वादु-अम्ल-लवण-उष्णानि",
+     "iast": "svādu-amla-lavaṇa-uṣṇāni",
+     "en": "sweet, sour, salty and hot",
+     "hi": "मधुर, अम्ल, लवण और उष्ण"
+    },
+    {
+     "sa": "भोज्यानि",
+     "iast": "bhojyāni",
+     "en": "foods",
+     "hi": "भोजन"
+    },
+    {
+     "sa": "अभ्यङ्ग",
+     "iast": "abhyaṅga",
+     "en": "oil massage",
+     "hi": "तेल मालिश (अभ्यंग)"
+    },
+    {
+     "sa": "मर्दनम्",
+     "iast": "mardanam",
+     "en": "pressing / kneading massage",
+     "hi": "मर्दन, दबाकर मालिश"
+    }
+   ],
+   "english": "The treatment of vāta (the principle of movement) consists of oleation (sneha), sudation (sveda), mild purification (saṃśodhana), foods that are sweet, sour, salty and hot, oil massage (abhyaṅga) and kneading massage (mardana).",
+   "hindi": "वात की चिकित्सा है: स्नेहन (घी-तेल का प्रयोग), स्वेदन (पसीना लाना), मृदु (हल्का) शोधन, मधुर-अम्ल-लवण रस वाले और गरम भोजन, अभ्यंग (तेल मालिश) और मर्दन (दबाकर मालिश)।",
+   "explanation_en": "The chapter opens with the general line of treatment (upakrama) for each doṣa, starting with vāta. Vāta is dry, light, cold and mobile, so every measure listed here supplies the opposite qualities: unctuousness, heaviness, warmth and stability. Verses 1-3 together form the complete vāta-upakrama list; note that purification for vāta is only 'mild'.",
+   "explanation_hi": "यह अध्याय हर दोष की सामान्य चिकित्सा (उपक्रम) से शुरू होता है, पहले वात की। वात रूक्ष, लघु, शीत और चल है, इसलिए यहाँ बताए सारे उपाय इसके विपरीत गुण देते हैं: स्निग्धता, भारीपन, गर्मी और स्थिरता। श्लोक 1 से 3 मिलकर वात-उपक्रम की पूरी सूची बनाते हैं। ध्यान रखें कि वात में शोधन केवल 'मृदु' बताया है।",
+   "modern_correlation": {
+    "en": "Using warmth, massage and fat-rich foods to counter dryness and stiffness is often compared to how warmth improves tissue flexibility and how lipids support skin barrier function, but this is only a broad parallel.",
+    "hi": "गर्मी, मालिश और स्निग्ध भोजन से रूखापन और जकड़न दूर करने की बात की तुलना अक्सर इस बात से की जाती है कि गर्मी से ऊतकों का लचीलापन बढ़ता है और वसा त्वचा की सुरक्षा परत को सहारा देती है। यह केवल एक मोटी समानता है।"
+   },
+   "key_terms": [
+    "vāta",
+    "upakrama",
+    "sneha",
+    "sveda",
+    "saṃśodhana",
+    "abhyaṅga",
+    "mardana"
+   ],
+   "tags": [
+    "vata-treatment",
+    "upakrama",
+    "doshopakrama"
+   ],
+   "importance": "high",
+   "mnemonic": "Vata needs 'SS-M-FOOD': Sneha, Sveda, Mild śodhana, Food sweet-sour-salty-hot, Oil massage, Deep kneading.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.13.2",
+   "word_meanings": [
+    {
+     "sa": "वेष्टनम्",
+     "iast": "veṣṭanam",
+     "en": "wrapping, bandaging",
+     "hi": "लपेटना, पट्टी बाँधना"
+    },
+    {
+     "sa": "त्रासनम्",
+     "iast": "trāsanam",
+     "en": "frightening (as a shock therapy)",
+     "hi": "डराना (भय उत्पन्न करना)"
+    },
+    {
+     "sa": "सेकः",
+     "iast": "sekaḥ",
+     "en": "affusion, pouring of liquids on the body",
+     "hi": "सेक, शरीर पर द्रव धार डालना"
+    },
+    {
+     "sa": "मद्यम्",
+     "iast": "madyam",
+     "en": "wine",
+     "hi": "मद्य"
+    },
+    {
+     "sa": "पैष्टिक-गौडिकम्",
+     "iast": "paiṣṭika-gauḍikam",
+     "en": "prepared from flour and from jaggery",
+     "hi": "पिष्टी (आटे) और गुड़ से बना"
+    },
+    {
+     "sa": "स्निग्ध-उष्णाः",
+     "iast": "snigdha-uṣṇāḥ",
+     "en": "unctuous and warm",
+     "hi": "स्निग्ध और उष्ण"
+    },
+    {
+     "sa": "वस्तयः",
+     "iast": "vastayaḥ",
+     "en": "medicated enemas",
+     "hi": "बस्तियाँ (एनिमा)"
+    },
+    {
+     "sa": "वस्ति-नियमः",
+     "iast": "vasti-niyamaḥ",
+     "en": "following the regimen of enema therapy",
+     "hi": "बस्ति के नियमों का पालन"
+    },
+    {
+     "sa": "सुख-शीलता",
+     "iast": "sukha-śīlatā",
+     "en": "a comfortable, easy way of living",
+     "hi": "सुखपूर्वक रहने की आदत"
+    }
+   ],
+   "english": "Wrapping (veṣṭana), frightening (trāsana), affusion (seka), wine made from flour (paiṣṭika) and from jaggery (gauḍika), unctuous and warm enemas (vasti), observing the regimen of enema therapy, and a comfortable way of life.",
+   "hindi": "वेष्टन (लपेटना/पट्टी बाँधना), त्रासन (डराना), सेक (शरीर पर द्रव की धार डालना), आटे और गुड़ से बनी मदिरा, स्निग्ध और गरम बस्तियाँ, बस्ति के नियमों का पालन और सुखपूर्वक रहना (यह भी वात की चिकित्सा है)।",
+   "explanation_en": "This continues the vāta-upakrama. Vasti (enema) is considered the best treatment for vāta, because vāta's main seat is the pakvāśaya (colon). Trāsana (shock by fear) is used in particular vāta conditions involving loss of awareness. 'Sukha-śīlatā' reminds us that rest and an easy routine also calm vāta.",
+   "explanation_hi": "यह वात-उपक्रम का ही भाग है। वात की सबसे श्रेष्ठ चिकित्सा बस्ति मानी जाती है, क्योंकि वात का मुख्य स्थान पक्वाशय है। त्रासन (डराकर झटका देना) कुछ विशेष वात रोगों में प्रयोग होता है। 'सुखशीलता' बताती है कि आराम और सहज दिनचर्या भी वात को शांत करती है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "veṣṭana",
+    "trāsana",
+    "seka",
+    "vasti",
+    "vasti-niyama"
+   ],
+   "tags": [
+    "vata-treatment",
+    "upakrama",
+    "vasti"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.13.3",
+   "word_meanings": [
+    {
+     "sa": "दीपनैः",
+     "iast": "dīpanaiḥ",
+     "en": "with appetisers (agni-kindling drugs)",
+     "hi": "दीपन द्रव्यों से"
+    },
+    {
+     "sa": "पाचनैः",
+     "iast": "pācanaiḥ",
+     "en": "with digestives",
+     "hi": "पाचन द्रव्यों से"
+    },
+    {
+     "sa": "स्निग्धाः",
+     "iast": "snigdhāḥ",
+     "en": "made unctuous",
+     "hi": "स्निग्ध किए हुए"
+    },
+    {
+     "sa": "स्नेहाः",
+     "iast": "snehāḥ",
+     "en": "fats (ghee, oil, muscle-fat, marrow)",
+     "hi": "स्नेह (घी, तेल, वसा, मज्जा)"
+    },
+    {
+     "sa": "अनेक-योनयः",
+     "iast": "aneka-yonayaḥ",
+     "en": "of many sources",
+     "hi": "अनेक स्रोतों से बने"
+    },
+    {
+     "sa": "विशेषात्",
+     "iast": "viśeṣāt",
+     "en": "especially",
+     "hi": "विशेष रूप से"
+    },
+    {
+     "sa": "मेद्य-पिशित-रस",
+     "iast": "medya-piśita-rasa",
+     "en": "soup of fatty meat",
+     "hi": "चर्बीदार मांस का रस (सूप)"
+    },
+    {
+     "sa": "तैल",
+     "iast": "taila",
+     "en": "sesame oil",
+     "hi": "तिल का तेल"
+    },
+    {
+     "sa": "अनुवासनम्",
+     "iast": "anuvāsanam",
+     "en": "unctuous (oil) enema",
+     "hi": "अनुवासन बस्ति (स्नेह बस्ति)"
+    }
+   ],
+   "english": "Fats of many sources, processed with appetiser (dīpana) and digestive (pācana) drugs, are also used. Especially beneficial are the soup of fatty meat, sesame oil and the unctuous enema (anuvāsana).",
+   "hindi": "दीपन और पाचन द्रव्यों के साथ सिद्ध किए गए, अनेक स्रोतों से प्राप्त स्नेह भी (वात में) दिए जाते हैं। विशेष रूप से चर्बीदार मांस का रस, तिल का तेल और अनुवासन बस्ति लाभकारी हैं।",
+   "explanation_en": "Fats are processed with dīpana-pācana drugs so that they do not dampen agni (digestive fire) while pacifying vāta. Oil (taila) is singled out because it is warm and unctuous, exactly opposite to vāta. Remember the 'best three' for vāta from this verse: fatty meat soup, taila and anuvāsana vasti.",
+   "explanation_hi": "स्नेह को दीपन-पाचन द्रव्यों से सिद्ध किया जाता है ताकि वात शांत करते समय अग्नि मंद न हो। तेल को विशेष रूप से इसलिए कहा है क्योंकि वह उष्ण और स्निग्ध है, जो वात के ठीक विपरीत है। इस श्लोक से वात के लिए 'तीन श्रेष्ठ' याद रखें: मांसरस, तैल और अनुवासन बस्ति।",
+   "modern_correlation": null,
+   "key_terms": [
+    "dīpana",
+    "pācana",
+    "sneha",
+    "taila",
+    "anuvāsana"
+   ],
+   "tags": [
+    "vata-treatment",
+    "upakrama",
+    "sneha"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.13.4",
+   "word_meanings": [
+    {
+     "sa": "पित्तस्य",
+     "iast": "pittasya",
+     "en": "of pitta",
+     "hi": "पित्त की (चिकित्सा)"
+    },
+    {
+     "sa": "सर्पिषः",
+     "iast": "sarpiṣaḥ",
+     "en": "of ghee",
+     "hi": "घी का"
+    },
+    {
+     "sa": "पानम्",
+     "iast": "pānam",
+     "en": "drinking",
+     "hi": "पीना"
+    },
+    {
+     "sa": "स्वादु-शीतैः",
+     "iast": "svādu-śītaiḥ",
+     "en": "with sweet and cold (drugs)",
+     "hi": "मधुर और शीत द्रव्यों से"
+    },
+    {
+     "sa": "विरेचनम्",
+     "iast": "virecanam",
+     "en": "purgation",
+     "hi": "विरेचन (दस्त द्वारा शोधन)"
+    },
+    {
+     "sa": "स्वादु-तिक्त-कषायाणि",
+     "iast": "svādu-tikta-kaṣāyāṇi",
+     "en": "sweet, bitter and astringent",
+     "hi": "मधुर, तिक्त और कषाय"
+    },
+    {
+     "sa": "भोजनानि",
+     "iast": "bhojanāni",
+     "en": "foods",
+     "hi": "भोजन"
+    },
+    {
+     "sa": "औषधानि",
+     "iast": "auṣadhāni",
+     "en": "medicines",
+     "hi": "औषधियाँ"
+    }
+   ],
+   "english": "For pitta (the principle of transformation): drinking ghee, purgation (virecana) with sweet and cold drugs, and foods and medicines that are sweet, bitter and astringent.",
+   "hindi": "पित्त की चिकित्सा है: घी पीना, मधुर और शीत द्रव्यों से विरेचन, तथा मधुर, तिक्त और कषाय रस वाले भोजन और औषधियाँ।",
+   "explanation_en": "Pitta-upakrama begins here and runs to verse 9. Ghee is the best for pitta because it is cool and unctuous yet does not increase pitta's heat. Virecana is the main purification for pitta since pitta's seat is near the small intestine. Exam point: the three rasas that reduce pitta are madhura, tikta and kaṣāya.",
+   "explanation_hi": "यहाँ से श्लोक 9 तक पित्त-उपक्रम है। पित्त के लिए घी सबसे श्रेष्ठ है क्योंकि वह शीत और स्निग्ध है। पित्त के लिए मुख्य शोधन विरेचन है, क्योंकि पित्त का स्थान आमाशय और पक्वाशय के बीच (ग्रहणी) है। परीक्षा के लिए: पित्त को घटाने वाले तीन रस हैं मधुर, तिक्त और कषाय।",
+   "modern_correlation": null,
+   "key_terms": [
+    "pitta",
+    "sarpis",
+    "virecana",
+    "madhura",
+    "tikta",
+    "kaṣāya"
+   ],
+   "tags": [
+    "pitta-treatment",
+    "upakrama",
+    "virecana"
+   ],
+   "importance": "high",
+   "mnemonic": "Pitta: Ghee-Gut-clear (virecana) with Sweet-Bitter-Astringent.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.13.5",
+   "word_meanings": [
+    {
+     "sa": "सुगन्धि-शीत-हृद्यानाम्",
+     "iast": "sugandhi-śīta-hṛdyānām",
+     "en": "fragrant, cooling and pleasing to the heart",
+     "hi": "सुगंधित, शीतल और मन को प्रिय"
+    },
+    {
+     "sa": "गन्धानाम्",
+     "iast": "gandhānām",
+     "en": "of perfumes",
+     "hi": "सुगंधों का"
+    },
+    {
+     "sa": "उपसेवनम्",
+     "iast": "upasevanam",
+     "en": "use, enjoyment",
+     "hi": "सेवन"
+    },
+    {
+     "sa": "कण्ठे-गुणानाम्",
+     "iast": "kaṇṭhe-guṇānām",
+     "en": "worn with strings around the neck",
+     "hi": "गले में धागे से पहने"
+    },
+    {
+     "sa": "हाराणाम्",
+     "iast": "hārāṇām",
+     "en": "of necklaces",
+     "hi": "हारों का"
+    },
+    {
+     "sa": "मणीनाम्",
+     "iast": "maṇīnām",
+     "en": "of gems",
+     "hi": "मणियों का"
+    },
+    {
+     "sa": "उरसा",
+     "iast": "urasā",
+     "en": "on the chest",
+     "hi": "छाती पर"
+    },
+    {
+     "sa": "धृतिः",
+     "iast": "dhṛtiḥ",
+     "en": "wearing",
+     "hi": "धारण करना"
+    }
+   ],
+   "english": "Enjoying perfumes that are fragrant, cooling and pleasing to the heart, and wearing on the chest necklaces strung around the neck and gems.",
+   "hindi": "सुगंधित, शीतल और मन को अच्छे लगने वाले इत्र-सुगंधों का सेवन, तथा गले में पहने हुए हार और मणियों को छाती पर धारण करना (पित्त को शांत करता है)।",
+   "explanation_en": "Pitta-upakrama includes not only drugs but also cooling sensory and mental experiences. Pitta is linked to heat, sharpness and irritability, so pleasant fragrance and cool ornaments on the chest are meant to soothe both body and mind. Verses 5-9 form a list of such 'saumya' (gentle, cooling) measures.",
+   "explanation_hi": "पित्त की चिकित्सा में केवल दवाएँ ही नहीं, बल्कि ठंडक देने वाले इंद्रिय और मानसिक अनुभव भी शामिल हैं। पित्त गर्मी, तीक्ष्णता और चिड़चिड़ेपन से जुड़ा है, इसलिए सुगंध और छाती पर ठंडे आभूषण शरीर और मन दोनों को शांत करते हैं। श्लोक 5 से 9 तक ऐसे 'सौम्य' उपायों की सूची है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "pitta",
+    "gandha",
+    "maṇi"
+   ],
+   "tags": [
+    "pitta-treatment",
+    "upakrama"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.13.6",
+   "word_meanings": [
+    {
+     "sa": "कर्पूर",
+     "iast": "karpūra",
+     "en": "camphor",
+     "hi": "कपूर"
+    },
+    {
+     "sa": "चन्दन",
+     "iast": "candana",
+     "en": "sandalwood",
+     "hi": "चंदन"
+    },
+    {
+     "sa": "उशीरैः",
+     "iast": "uśīraiḥ",
+     "en": "with vetiver (Chrysopogon zizanioides)",
+     "hi": "खस (उशीर) से"
+    },
+    {
+     "sa": "अनुलेपः",
+     "iast": "anulepaḥ",
+     "en": "anointing, application of paste",
+     "hi": "लेप लगाना"
+    },
+    {
+     "sa": "क्षणे क्षणे",
+     "iast": "kṣaṇe kṣaṇe",
+     "en": "again and again",
+     "hi": "बार-बार"
+    },
+    {
+     "sa": "प्रदोषः",
+     "iast": "pradoṣaḥ",
+     "en": "early evening",
+     "hi": "प्रदोष, संध्या का समय"
+    },
+    {
+     "sa": "चन्द्रमाः",
+     "iast": "candramāḥ",
+     "en": "the moon",
+     "hi": "चंद्रमा"
+    },
+    {
+     "sa": "सौधम्",
+     "iast": "saudham",
+     "en": "terrace of a mansion (bathed in moonlight)",
+     "hi": "महल की छत"
+    },
+    {
+     "sa": "हारि गीतम्",
+     "iast": "hāri gītam",
+     "en": "charming music",
+     "hi": "मनमोहक गीत"
+    },
+    {
+     "sa": "हिमः अनिलः",
+     "iast": "himaḥ anilaḥ",
+     "en": "cool breeze",
+     "hi": "शीतल वायु"
+    }
+   ],
+   "english": "Repeatedly anointing the body with camphor, sandalwood and vetiver (uśīra); the early evening, the moon, the terrace of a mansion, charming songs and a cool breeze.",
+   "hindi": "कपूर, चंदन और खस का बार-बार लेप करना; संध्या का समय, चंद्रमा (की चाँदनी), महल की छत, मनमोहक संगीत और ठंडी हवा (पित्त को शांत करते हैं)।",
+   "explanation_en": "Camphor, sandalwood and uśīra are classic cooling drugs, often used in pitta-hara lepa (paste). The moonlit evening and cool breeze are 'śīta' experiences that oppose pitta's heat. A useful exam link: candana and uśīra also appear in many pitta-pacifying formulations.",
+   "explanation_hi": "कपूर, चंदन और खस प्रसिद्ध शीतल द्रव्य हैं, जो पित्तहर लेप में बहुत प्रयोग होते हैं। चाँदनी रात और ठंडी हवा 'शीत' अनुभव हैं जो पित्त की गर्मी के विपरीत हैं। परीक्षा के लिए: चंदन और उशीर बहुत से पित्तशामक योगों में भी आते हैं।",
+   "modern_correlation": {
+    "en": "Applying cool aromatic pastes to the skin is often compared to evaporative and conductive skin cooling, which helps the body lose heat; this is a broad physiological parallel only.",
+    "hi": "त्वचा पर ठंडे सुगंधित लेप लगाने की तुलना अक्सर त्वचा द्वारा वाष्पीकरण और संपर्क से गर्मी कम होने से की जाती है। यह केवल एक मोटी शारीरिक समानता है।"
+   },
+   "key_terms": [
+    "karpūra",
+    "candana",
+    "uśīra",
+    "anulepa"
+   ],
+   "tags": [
+    "pitta-treatment",
+    "upakrama",
+    "lepa"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.13.7",
+   "word_meanings": [
+    {
+     "sa": "अयन्त्रण-सुखम्",
+     "iast": "ayantraṇa-sukham",
+     "en": "pleasant without restraint (in whose company one is at ease)",
+     "hi": "बिना बंधन के सुख देने वाला"
+    },
+    {
+     "sa": "मित्रम्",
+     "iast": "mitram",
+     "en": "friend",
+     "hi": "मित्र"
+    },
+    {
+     "sa": "पुत्रः",
+     "iast": "putraḥ",
+     "en": "son, child",
+     "hi": "पुत्र, संतान"
+    },
+    {
+     "sa": "संदिग्ध-मुग्ध-वाक्",
+     "iast": "saṃdigdha-mugdha-vāk",
+     "en": "with indistinct, innocent speech",
+     "hi": "तुतलाती, भोली बोली वाला"
+    },
+    {
+     "sa": "छन्द-अनुवर्तिनः",
+     "iast": "chanda-anuvartinaḥ",
+     "en": "following one's wishes",
+     "hi": "इच्छा के अनुसार चलने वाली"
+    },
+    {
+     "sa": "दाराः",
+     "iast": "dārāḥ",
+     "en": "wife",
+     "hi": "पत्नी"
+    },
+    {
+     "sa": "प्रियाः",
+     "iast": "priyāḥ",
+     "en": "loving, dear",
+     "hi": "प्रिय"
+    },
+    {
+     "sa": "शील-विभूषिताः",
+     "iast": "śīla-vibhūṣitāḥ",
+     "en": "adorned with good conduct",
+     "hi": "अच्छे स्वभाव से सुशोभित"
+    }
+   ],
+   "english": "A friend in whose company one is at ease without restraint, a child with lisping, innocent speech, and a loving wife who is in harmony with one's wishes and adorned with good conduct.",
+   "hindi": "ऐसा मित्र जिसके साथ बिना किसी बंधन के सुख मिले, तुतलाती भोली बोली वाला बच्चा, और इच्छा के अनुसार चलने वाली, प्रिय और अच्छे स्वभाव वाली पत्नी (ये भी पित्त को शांत करते हैं)।",
+   "explanation_en": "Here pleasant relationships are counted as treatment. Anger and mental agitation increase pitta, so a relaxed social and family atmosphere is prescribed. This shows that Ayurveda includes the mind (manas) in therapy. The file records a variant reading 'ayantraṇa-mukham' in the first quarter, which does not change the sense much.",
+   "explanation_hi": "यहाँ सुखद संबंधों को भी चिकित्सा माना गया है। क्रोध और मानसिक बेचैनी पित्त बढ़ाते हैं, इसलिए शांत पारिवारिक और सामाजिक वातावरण बताया गया है। इससे पता चलता है कि आयुर्वेद चिकित्सा में मन को भी शामिल करता है।",
+   "modern_correlation": {
+    "en": "Calming social contact is often compared to modern findings that social support lowers stress responses; this is a loose parallel, not a claim that the text describes stress physiology.",
+    "hi": "शांत सामाजिक संपर्क की तुलना अक्सर आधुनिक अध्ययनों से की जाती है जिनमें सामाजिक सहारे से तनाव प्रतिक्रिया कम होती दिखी है। यह केवल ढीली समानता है।"
+   },
+   "key_terms": [
+    "pitta",
+    "manas"
+   ],
+   "tags": [
+    "pitta-treatment",
+    "upakrama",
+    "mind"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.13.8",
+   "word_meanings": [
+    {
+     "sa": "शीत-अम्बु-धारा-गर्भाणि",
+     "iast": "śīta-ambu-dhārā-garbhāṇi",
+     "en": "containing streams (fountains) of cool water",
+     "hi": "जिनके भीतर ठंडे पानी के फव्वारे हों"
+    },
+    {
+     "sa": "गृहाणि",
+     "iast": "gṛhāṇi",
+     "en": "houses",
+     "hi": "घर"
+    },
+    {
+     "sa": "उद्यान",
+     "iast": "udyāna",
+     "en": "gardens",
+     "hi": "बगीचे"
+    },
+    {
+     "sa": "दीर्घिकाः",
+     "iast": "dīrghikāḥ",
+     "en": "long ponds",
+     "hi": "लंबे तालाब"
+    },
+    {
+     "sa": "सुतीर्थ",
+     "iast": "sutīrtha",
+     "en": "with good steps / landing places",
+     "hi": "अच्छे घाट वाले"
+    },
+    {
+     "sa": "विपुल-स्वच्छ-सलिल-आशय",
+     "iast": "vipula-svaccha-salila-āśaya",
+     "en": "broad reservoirs of clear water",
+     "hi": "स्वच्छ जल के बड़े जलाशय"
+    },
+    {
+     "sa": "सैकते",
+     "iast": "saikate",
+     "en": "on the sandy bank",
+     "hi": "रेतीले तट पर"
+    }
+   ],
+   "english": "Houses with streams of cool water flowing inside them, gardens, long ponds, and the sandy banks of broad reservoirs of clear water with good bathing steps.",
+   "hindi": "ऐसे घर जिनमें ठंडे पानी की धाराएँ (फव्वारे) बहती हों, बगीचे, लंबे तालाब, और अच्छे घाट वाले, स्वच्छ जल से भरे बड़े जलाशयों के रेतीले किनारे (पित्त को शांत करते हैं)।",
+   "explanation_en": "The pitta patient should live in cool, watery surroundings. Verses 8 and 9 are read together: they describe pleasant places near water. Such cooling environments are also advised in the grīṣma (summer) ṛtucaryā of Sūtrasthāna chapter 3, which is a good cross-reference.",
+   "explanation_hi": "पित्त के रोगी को ठंडे, जल से भरे वातावरण में रहना चाहिए। श्लोक 8 और 9 साथ पढ़े जाते हैं: इनमें पानी के पास सुखद स्थानों का वर्णन है। ऐसा ही ठंडा वातावरण सूत्रस्थान अध्याय 3 की ग्रीष्म ऋतुचर्या में भी बताया गया है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "pitta"
+   ],
+   "tags": [
+    "pitta-treatment",
+    "upakrama",
+    "environment"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.13.9",
+   "word_meanings": [
+    {
+     "sa": "स-अम्भोजा-जल-तीर-अन्ते",
+     "iast": "sa-ambhojā-jala-tīra-ante",
+     "en": "at the edge of waters with lotuses",
+     "hi": "कमल वाले जल के किनारे"
+    },
+    {
+     "sa": "कायमाने",
+     "iast": "kāyamāne",
+     "en": "in a bower / cottage",
+     "hi": "कुटिया या लताकुंज में"
+    },
+    {
+     "sa": "द्रुम-आकुले",
+     "iast": "druma-ākule",
+     "en": "full of trees",
+     "hi": "पेड़ों से घिरे"
+    },
+    {
+     "sa": "सौम्याः भावाः",
+     "iast": "saumyāḥ bhāvāḥ",
+     "en": "gentle, cooling things and moods",
+     "hi": "सौम्य (शीतल, शांत) भाव और वस्तुएँ"
+    },
+    {
+     "sa": "पयः",
+     "iast": "payaḥ",
+     "en": "milk",
+     "hi": "दूध"
+    },
+    {
+     "sa": "सर्पिः",
+     "iast": "sarpiḥ",
+     "en": "ghee",
+     "hi": "घी"
+    },
+    {
+     "sa": "विरेकः",
+     "iast": "virekaḥ",
+     "en": "purgation",
+     "hi": "विरेचन"
+    },
+    {
+     "sa": "विशेषतः",
+     "iast": "viśeṣataḥ",
+     "en": "especially",
+     "hi": "विशेष रूप से"
+    }
+   ],
+   "english": "A bower among trees at the edge of waters full of lotuses; gentle (saumya) things and moods, milk, ghee and, above all, purgation (vireka).",
+   "hindi": "कमलों से भरे जल के किनारे पेड़ों से घिरी कुटिया, सौम्य (शांत, शीतल) भाव और वस्तुएँ, दूध, घी और विशेष रूप से विरेचन (पित्त की चिकित्सा है)।",
+   "explanation_en": "This completes the pitta-upakrama. The word 'viśeṣataḥ' marks virecana as the most important measure for pitta, just as vasti is for vāta and vamana is for kapha (verse 12). This trio is a very common exam question. The file notes a variant 'kāyamānaṃ' in the second quarter.",
+   "explanation_hi": "यहाँ पित्त-उपक्रम पूरा होता है। 'विशेषतः' शब्द बताता है कि पित्त के लिए विरेचन सबसे महत्वपूर्ण है, जैसे वात के लिए बस्ति और कफ के लिए वमन (श्लोक 12)। यह त्रयी परीक्षा में बहुत पूछी जाती है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "pitta",
+    "saumya",
+    "payas",
+    "sarpis",
+    "virecana"
+   ],
+   "tags": [
+    "pitta-treatment",
+    "upakrama",
+    "virecana"
+   ],
+   "importance": "high",
+   "mnemonic": "Best śodhana: Vāta-Vasti, Pitta-Virecana, Kapha-Vamana (V-V, P-V, K-V).",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.13.10",
+   "word_meanings": [
+    {
+     "sa": "श्लेष्मणः",
+     "iast": "śleṣmaṇaḥ",
+     "en": "of kapha",
+     "hi": "कफ की (चिकित्सा)"
+    },
+    {
+     "sa": "विधिना युक्तम्",
+     "iast": "vidhinā yuktam",
+     "en": "administered according to rule",
+     "hi": "विधिपूर्वक दिया हुआ"
+    },
+    {
+     "sa": "तीक्ष्णम्",
+     "iast": "tīkṣṇam",
+     "en": "strong, sharp",
+     "hi": "तीक्ष्ण"
+    },
+    {
+     "sa": "वमन-रेचनम्",
+     "iast": "vamana-recanam",
+     "en": "emesis and purgation",
+     "hi": "वमन और विरेचन"
+    },
+    {
+     "sa": "अन्नम्",
+     "iast": "annam",
+     "en": "food",
+     "hi": "अन्न, भोजन"
+    },
+    {
+     "sa": "रूक्ष-अल्प-तीक्ष्ण-उष्णम्",
+     "iast": "rūkṣa-alpa-tīkṣṇa-uṣṇam",
+     "en": "dry, small in quantity, sharp and hot",
+     "hi": "रूखा, कम मात्रा में, तीखा और गरम"
+    },
+    {
+     "sa": "कटु-तिक्त-कषायकम्",
+     "iast": "kaṭu-tikta-kaṣāyakam",
+     "en": "pungent, bitter and astringent",
+     "hi": "कटु, तिक्त और कषाय"
+    }
+   ],
+   "english": "For kapha (the principle of cohesion): strong emesis and purgation given according to rule, and food that is dry, scanty, sharp and hot, with pungent, bitter and astringent tastes.",
+   "hindi": "कफ की चिकित्सा है: विधिपूर्वक दिया गया तीक्ष्ण वमन और विरेचन, तथा रूखा, कम मात्रा में, तीखा, गरम और कटु-तिक्त-कषाय रस वाला भोजन।",
+   "explanation_en": "Kapha-upakrama runs from verse 10 to 12. Kapha is heavy, cold, unctuous and stable, so it is treated with the opposite: dryness, lightness, heat and sharpness. Note that purification for kapha is 'tīkṣṇa' (strong), in contrast to the 'mṛdu' purification for vāta in verse 1.",
+   "explanation_hi": "कफ-उपक्रम श्लोक 10 से 12 तक है। कफ गुरु, शीत, स्निग्ध और स्थिर है, इसलिए इसका उपचार विपरीत गुणों से होता है: रूक्षता, लघुता, उष्णता और तीक्ष्णता। ध्यान दें कि कफ में शोधन 'तीक्ष्ण' है, जबकि वात में (श्लोक 1) 'मृदु' है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "kapha",
+    "śleṣman",
+    "vamana",
+    "virecana",
+    "kaṭu",
+    "tikta",
+    "kaṣāya"
+   ],
+   "tags": [
+    "kapha-treatment",
+    "upakrama"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.13.11",
+   "word_meanings": [
+    {
+     "sa": "दीर्घ-काल-स्थितम् मद्यम्",
+     "iast": "dīrgha-kāla-sthitam madyam",
+     "en": "wine kept for a long time (old wine)",
+     "hi": "पुरानी मदिरा"
+    },
+    {
+     "sa": "रति-प्रीतिः",
+     "iast": "rati-prītiḥ",
+     "en": "enjoyment of sexual pleasure",
+     "hi": "रति-सुख"
+    },
+    {
+     "sa": "प्रजागरः",
+     "iast": "prajāgaraḥ",
+     "en": "keeping awake",
+     "hi": "जागरण"
+    },
+    {
+     "sa": "अनेक-रूपः व्यायामः",
+     "iast": "aneka-rūpaḥ vyāyāmaḥ",
+     "en": "exercise of many kinds",
+     "hi": "अनेक प्रकार का व्यायाम"
+    },
+    {
+     "sa": "चिन्ता",
+     "iast": "cintā",
+     "en": "worry, mental effort",
+     "hi": "चिंता"
+    },
+    {
+     "sa": "रूक्षम् विमर्दनम्",
+     "iast": "rūkṣam vimardanam",
+     "en": "dry massage (rubbing without oil)",
+     "hi": "रूखी मालिश (उद्वर्तन)"
+    }
+   ],
+   "english": "Old wine, sexual enjoyment, keeping awake at night, many kinds of exercise, worry and dry massage.",
+   "hindi": "पुरानी मदिरा, रति-सुख, रात में जागना, अनेक प्रकार के व्यायाम, चिंता और रूखी मालिश (कफ को कम करते हैं)।",
+   "explanation_en": "Each item here reduces kapha by increasing lightness, dryness or activity. Old wine is drier and lighter than new wine. Rūkṣa vimardana is usually understood as udvartana (dry powder massage), which is widely used for obesity. Notice that night-waking, harmful for vāta, is useful against kapha.",
+   "explanation_hi": "यहाँ बताया गया हर उपाय लघुता, रूक्षता या सक्रियता बढ़ाकर कफ घटाता है। पुरानी मदिरा नई से अधिक रूखी और हल्की होती है। रूक्ष विमर्दन को सामान्यतः उद्वर्तन (सूखे चूर्ण की मालिश) माना जाता है, जो मेदोरोग में बहुत प्रयोग होता है। ध्यान दें कि रात्रि जागरण, जो वात के लिए हानिकारक है, कफ में लाभकारी है।",
+   "modern_correlation": {
+    "en": "Exercise and dry powder massage for kapha excess is often compared to modern advice on physical activity in obesity and metabolic sluggishness; the parallel is general only.",
+    "hi": "कफ वृद्धि में व्यायाम और उद्वर्तन की तुलना अक्सर मोटापे और धीमे चयापचय में शारीरिक गतिविधि की आधुनिक सलाह से की जाती है। यह केवल सामान्य समानता है।"
+   },
+   "key_terms": [
+    "kapha",
+    "vyāyāma",
+    "prajāgara",
+    "udvartana"
+   ],
+   "tags": [
+    "kapha-treatment",
+    "upakrama",
+    "vyayama"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.13.12",
+   "word_meanings": [
+    {
+     "sa": "विशेषात्",
+     "iast": "viśeṣāt",
+     "en": "especially",
+     "hi": "विशेष रूप से"
+    },
+    {
+     "sa": "वमनम्",
+     "iast": "vamanam",
+     "en": "emesis",
+     "hi": "वमन"
+    },
+    {
+     "sa": "यूषः",
+     "iast": "yūṣaḥ",
+     "en": "soup of pulses",
+     "hi": "यूष (दाल का सूप)"
+    },
+    {
+     "sa": "क्षौद्रम्",
+     "iast": "kṣaudram",
+     "en": "honey",
+     "hi": "शहद"
+    },
+    {
+     "sa": "मेदः-घ्नम् औषधम्",
+     "iast": "medaḥ-ghnam auṣadham",
+     "en": "fat-reducing medicine",
+     "hi": "मेद (चर्बी) घटाने वाली औषधि"
+    },
+    {
+     "sa": "धूम",
+     "iast": "dhūma",
+     "en": "medicated smoking",
+     "hi": "धूमपान (औषधीय धूम)"
+    },
+    {
+     "sa": "उपवास",
+     "iast": "upavāsa",
+     "en": "fasting",
+     "hi": "उपवास"
+    },
+    {
+     "sa": "गण्डूषाः",
+     "iast": "gaṇḍūṣāḥ",
+     "en": "gargles (holding liquid in the mouth)",
+     "hi": "गण्डूष (मुँह में द्रव भरकर रखना)"
+    },
+    {
+     "sa": "निःसुखत्वम्",
+     "iast": "niḥsukhatvam",
+     "en": "absence of comfort",
+     "hi": "सुख-सुविधा का त्याग"
+    },
+    {
+     "sa": "सुखाय",
+     "iast": "sukhāya",
+     "en": "for well-being",
+     "hi": "भलाई के लिए"
+    }
+   ],
+   "english": "Especially emesis (vamana); also pulse soups (yūṣa), honey, fat-reducing medicines, medicated smoking (dhūma), fasting, gargling (gaṇḍūṣa), and giving up comforts, which brings well-being (in kapha).",
+   "hindi": "विशेष रूप से वमन; साथ ही यूष (दाल का सूप), शहद, मेद घटाने वाली औषधियाँ, धूमपान, उपवास, गण्डूष, और सुख-सुविधा का त्याग, जो (कफ के रोगी के लिए) सुख देने वाला है।",
+   "explanation_en": "This completes the three doṣa-upakramas. Vamana is the best purification for kapha because kapha's main seat is the āmāśaya (stomach and chest region). Honey is noted as kapha-reducing even though it is sweet. The paradox 'niḥsukhatvaṃ sukhāya' is easy to remember: for kapha, discomfort is the cure.",
+   "explanation_hi": "यहाँ तीनों दोषों के उपक्रम पूरे होते हैं। कफ के लिए वमन सबसे श्रेष्ठ शोधन है क्योंकि कफ का मुख्य स्थान आमाशय (और उरः प्रदेश) है। शहद मधुर होने पर भी कफ घटाता है, यह याद रखें। 'निःसुखत्वं सुखाय' एक आसान सूत्र है: कफ के लिए आराम छोड़ना ही इलाज है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "kapha",
+    "vamana",
+    "yūṣa",
+    "kṣaudra",
+    "dhūma",
+    "upavāsa",
+    "gaṇḍūṣa"
+   ],
+   "tags": [
+    "kapha-treatment",
+    "upakrama",
+    "vamana"
+   ],
+   "importance": "high",
+   "mnemonic": "Kapha: no comfort is its comfort (niḥsukhatvaṃ sukhāya).",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.13.13",
+   "word_meanings": [
+    {
+     "sa": "उपक्रमः",
+     "iast": "upakramaḥ",
+     "en": "line of treatment",
+     "hi": "उपक्रम, चिकित्सा"
+    },
+    {
+     "sa": "पृथक् दोषान् उद्दिश्य",
+     "iast": "pṛthak doṣān uddiśya",
+     "en": "for each doṣa separately",
+     "hi": "प्रत्येक दोष के लिए अलग-अलग"
+    },
+    {
+     "sa": "यः अयम् कीर्तितः",
+     "iast": "yaḥ ayam kīrtitaḥ",
+     "en": "which has been described",
+     "hi": "जो बताया गया है"
+    },
+    {
+     "sa": "संसर्ग",
+     "iast": "saṃsarga",
+     "en": "combination of two doṣas",
+     "hi": "दो दोषों का मेल (संसर्ग)"
+    },
+    {
+     "sa": "संनिपातेषु",
+     "iast": "saṃnipāteṣu",
+     "en": "in combination of all three doṣas",
+     "hi": "तीनों दोषों के मेल (सन्निपात) में"
+    },
+    {
+     "sa": "यथा-स्वम्",
+     "iast": "yathā-svam",
+     "en": "as appropriate to each",
+     "hi": "प्रत्येक के अनुसार"
+    },
+    {
+     "sa": "विकल्पयेत्",
+     "iast": "vikalpayet",
+     "en": "should combine / adapt",
+     "hi": "मिलाकर प्रयोग करे, कल्पना करे"
+    }
+   ],
+   "english": "The treatment that has been described for each doṣa separately should be suitably combined and adapted in conditions of saṃsarga (two doṣas together) and saṃnipāta (all three doṣas together).",
+   "hindi": "हर दोष के लिए अलग-अलग जो चिकित्सा बताई गई है, उसे संसर्ग (दो दोष) और सन्निपात (तीनों दोष) की अवस्था में यथायोग्य मिलाकर प्रयोग करना चाहिए।",
+   "explanation_en": "After the individual upakramas (verses 1-12), the text explains how to treat mixed conditions. The physician must judge which doṣa is stronger and blend the measures accordingly. The file records a variant 'prakalpayet' (should arrange) in the last quarter, with the same meaning.",
+   "explanation_hi": "श्लोक 1-12 में अलग-अलग दोषों की चिकित्सा के बाद यहाँ मिश्रित अवस्था का उपचार बताया है। वैद्य को देखना चाहिए कि कौन-सा दोष अधिक बलवान है और उसी हिसाब से उपाय मिलाने चाहिए।",
+   "modern_correlation": null,
+   "key_terms": [
+    "saṃsarga",
+    "saṃnipāta",
+    "upakrama"
+   ],
+   "tags": [
+    "mixed-dosha",
+    "upakrama"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.13.14",
+   "word_meanings": [
+    {
+     "sa": "ग्रैष्मः",
+     "iast": "graiṣmaḥ",
+     "en": "(the regimen) of summer",
+     "hi": "ग्रीष्म ऋतु की चर्या"
+    },
+    {
+     "sa": "प्रायः",
+     "iast": "prāyaḥ",
+     "en": "generally",
+     "hi": "प्रायः"
+    },
+    {
+     "sa": "मरुत्-पित्ते",
+     "iast": "marut-pitte",
+     "en": "in vāta-pitta (combination)",
+     "hi": "वात-पित्त में"
+    },
+    {
+     "sa": "वासन्तः",
+     "iast": "vāsantaḥ",
+     "en": "(the regimen) of spring",
+     "hi": "वसंत ऋतु की चर्या"
+    },
+    {
+     "sa": "कफ-मारुते",
+     "iast": "kapha-mārute",
+     "en": "in kapha-vāta (combination)",
+     "hi": "कफ-वात में"
+    },
+    {
+     "sa": "मरुतः",
+     "iast": "marutaḥ",
+     "en": "of vāta",
+     "hi": "वात के"
+    },
+    {
+     "sa": "योग-वाहित्वात्",
+     "iast": "yoga-vāhitvāt",
+     "en": "because of being a carrier (taking on the qualities of its partner)",
+     "hi": "योगवाही होने के कारण"
+    },
+    {
+     "sa": "कफ-पित्ते",
+     "iast": "kapha-pitte",
+     "en": "in kapha-pitta (combination)",
+     "hi": "कफ-पित्त में"
+    },
+    {
+     "sa": "शारदः",
+     "iast": "śāradaḥ",
+     "en": "(the regimen) of autumn",
+     "hi": "शरद ऋतु की चर्या"
+    }
+   ],
+   "english": "Generally, in a combination of vāta and pitta the summer (grīṣma) regimen is followed; in kapha and vāta, the spring (vasanta) regimen, because vāta is a 'yogavāhī' (it takes on the qualities of the doṣa it joins); and in kapha and pitta, the autumn (śarad) regimen.",
+   "hindi": "प्रायः वात-पित्त के मेल में ग्रीष्म ऋतु की चर्या, कफ-वात में वसंत ऋतु की चर्या अपनानी चाहिए, क्योंकि वात योगवाही है (जिस दोष के साथ मिलता है उसी जैसा गुण ले लेता है); और कफ-पित्त में शरद ऋतु की चर्या अपनानी चाहिए।",
+   "explanation_en": "This is a practical shortcut for treating two-doṣa states using the seasonal regimens of Sūtrasthāna chapter 3. Since vāta is yogavāhī (like wind carrying heat or cold), in vāta-pitta you mainly cool (summer regimen) and in vāta-kapha you mainly reduce kapha (spring regimen). 'Yogavāhī' is a frequently asked term.",
+   "explanation_hi": "यह दो दोषों की अवस्था के उपचार का व्यावहारिक सूत्र है, जो अध्याय 3 की ऋतुचर्या पर आधारित है। वात योगवाही है (जैसे हवा गर्मी या ठंडक को साथ ले जाती है), इसलिए वात-पित्त में मुख्यतः ठंडक (ग्रीष्म चर्या) और वात-कफ में कफ घटाने वाली (वसंत चर्या) चिकित्सा दी जाती है। 'योगवाही' शब्द परीक्षा में बहुत पूछा जाता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "yogavāhī",
+    "saṃsarga",
+    "ṛtucaryā",
+    "grīṣma",
+    "vasanta",
+    "śarad"
+   ],
+   "tags": [
+    "mixed-dosha",
+    "ritucharya",
+    "yogavahi"
+   ],
+   "importance": "high",
+   "mnemonic": "VP-Grīṣma, KV-Vasanta, KP-Śarad: 'Very Pleasant Summer, Kind Velvet Spring, Kind Peaceful Śarad'.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.13.15",
+   "word_meanings": [
+    {
+     "sa": "चये एव",
+     "iast": "caye eva",
+     "en": "at the stage of accumulation itself",
+     "hi": "चय (संचय) की अवस्था में ही"
+    },
+    {
+     "sa": "जयेत् दोषम्",
+     "iast": "jayet doṣam",
+     "en": "should overcome the doṣa",
+     "hi": "दोष को जीत ले"
+    },
+    {
+     "sa": "कुपितम्",
+     "iast": "kupitam",
+     "en": "(when) aggravated",
+     "hi": "प्रकुपित (बढ़ा हुआ)"
+    },
+    {
+     "sa": "तु अविरोधयन्",
+     "iast": "tu avirodhayan",
+     "en": "without antagonising (the others)",
+     "hi": "दूसरों को बिगाड़े बिना"
+    },
+    {
+     "sa": "सर्व-कोपे",
+     "iast": "sarva-kope",
+     "en": "when all are aggravated",
+     "hi": "जब सभी दोष कुपित हों"
+    },
+    {
+     "sa": "बलीयांसम्",
+     "iast": "balīyāṃsam",
+     "en": "the strongest",
+     "hi": "सबसे बलवान को"
+    },
+    {
+     "sa": "शेष-दोष-अविरोधतः",
+     "iast": "śeṣa-doṣa-avirodhataḥ",
+     "en": "without disturbing the remaining doṣas",
+     "hi": "शेष दोषों को बिगाड़े बिना"
+    }
+   ],
+   "english": "A doṣa should be overcome at the stage of accumulation (caya) itself. When it has become aggravated (kupita), it should be treated without antagonising the other doṣas. When all are aggravated, the strongest one should be treated first, without disturbing the remaining ones.",
+   "hindi": "दोष को चय (संचय) की अवस्था में ही जीत लेना चाहिए। कुपित होने पर उसका उपचार इस तरह करें कि दूसरे दोष न बिगड़ें। जब सभी दोष कुपित हों, तब सबसे बलवान दोष का उपचार करें, पर शेष दोषों को बिगाड़े बिना।",
+   "explanation_en": "This links to the concept of kriyākāla (stages of disease): caya (accumulation) is the first and easiest stage to correct. The second rule, treating the strongest doṣa in saṃnipāta, is a key principle for complex cases. Exam tip: 'early intervention at caya' is often asked together with ṣaṭkriyākāla.",
+   "explanation_hi": "यह क्रियाकाल (रोग की अवस्थाओं) से जुड़ा है: चय पहली और सबसे आसानी से ठीक होने वाली अवस्था है। सन्निपात में सबसे बलवान दोष का पहले उपचार करना जटिल रोगों का मुख्य सिद्धांत है। परीक्षा में 'चय में ही चिकित्सा' को षट्क्रियाकाल के साथ पूछा जाता है।",
+   "modern_correlation": {
+    "en": "Treating a disorder at its earliest stage broadly parallels the modern idea of early detection and secondary prevention, though the frameworks are different.",
+    "hi": "रोग को उसकी सबसे शुरुआती अवस्था में ठीक करने की बात मोटे तौर पर आधुनिक 'प्रारंभिक पहचान और द्वितीयक रोकथाम' के विचार से मिलती है, हालाँकि दोनों के ढाँचे अलग हैं।"
+   },
+   "key_terms": [
+    "caya",
+    "prakopa",
+    "kriyākāla",
+    "saṃnipāta"
+   ],
+   "tags": [
+    "chikitsa-principles",
+    "kriyakala"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.13.16",
+   "word_meanings": [
+    {
+     "sa": "प्रयोगः",
+     "iast": "prayogaḥ",
+     "en": "a therapy, application of treatment",
+     "hi": "प्रयोग, चिकित्सा"
+    },
+    {
+     "sa": "शमयेत् व्याधिम् एकम्",
+     "iast": "śamayet vyādhim ekam",
+     "en": "cures one disease",
+     "hi": "एक रोग को शांत करे"
+    },
+    {
+     "sa": "यः अन्यम् उदीरयेत्",
+     "iast": "yaḥ anyam udīrayet",
+     "en": "which provokes another",
+     "hi": "जो दूसरे को उभार दे"
+    },
+    {
+     "sa": "न असौ विशुद्धः",
+     "iast": "na asau viśuddhaḥ",
+     "en": "that is not pure (correct)",
+     "hi": "वह शुद्ध (सही) चिकित्सा नहीं है"
+    },
+    {
+     "sa": "शुद्धः तु",
+     "iast": "śuddhaḥ tu",
+     "en": "the pure one, however",
+     "hi": "शुद्ध चिकित्सा तो"
+    },
+    {
+     "sa": "यः न कोपयेत्",
+     "iast": "yaḥ na kopayet",
+     "en": "which does not provoke (another)",
+     "hi": "जो (दूसरा रोग) न भड़काए"
+    }
+   ],
+   "english": "A therapy that cures one disease but provokes another is not a pure (correct) therapy. The pure therapy is the one that cures without provoking anything else.",
+   "hindi": "जो चिकित्सा एक रोग को शांत करे पर दूसरा रोग उत्पन्न कर दे, वह शुद्ध चिकित्सा नहीं है। शुद्ध चिकित्सा वही है जो रोग को शांत करे और कोई नया विकार न भड़काए।",
+   "explanation_en": "This is the famous definition of 'śuddha cikitsā' (ideal treatment) and is very commonly asked in exams. It follows logically from verse 15: treat without antagonising other doṣas. The variant recorded in the file ('yo 'nyam anyam udīrayet') does not change the meaning.",
+   "explanation_hi": "यह 'शुद्ध चिकित्सा' की प्रसिद्ध परिभाषा है और परीक्षा में बहुत पूछी जाती है। यह श्लोक 15 से ही निकलती है: दूसरे दोषों को बिगाड़े बिना उपचार करो।",
+   "modern_correlation": {
+    "en": "This is often compared to the modern idea of minimising adverse drug effects and iatrogenic harm, the principle that treatment should not create a new disorder.",
+    "hi": "इसकी तुलना अक्सर आधुनिक चिकित्सा के उस सिद्धांत से की जाती है जिसमें दवा के दुष्प्रभाव और चिकित्सा से होने वाली हानि (आयट्रोजेनिक हानि) को कम से कम रखने पर ज़ोर है।"
+   },
+   "key_terms": [
+    "śuddha cikitsā",
+    "prayoga"
+   ],
+   "tags": [
+    "chikitsa-principles",
+    "definitions",
+    "shuddha-chikitsa"
+   ],
+   "importance": "high",
+   "mnemonic": "Śuddha cikitsā = cure one, cause none.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.13.17",
+   "word_meanings": [
+    {
+     "sa": "व्यायामात्",
+     "iast": "vyāyāmāt",
+     "en": "due to exercise",
+     "hi": "व्यायाम से"
+    },
+    {
+     "sa": "ऊष्मणः",
+     "iast": "ūṣmaṇaḥ",
+     "en": "due to heat",
+     "hi": "ऊष्मा (गर्मी) से"
+    },
+    {
+     "sa": "तैक्ष्ण्यात्",
+     "iast": "taikṣṇyāt",
+     "en": "due to sharpness",
+     "hi": "तीक्ष्णता से"
+    },
+    {
+     "sa": "अहित-आचरणात्",
+     "iast": "ahita-ācaraṇāt",
+     "en": "due to unwholesome conduct",
+     "hi": "अहित आचरण से"
+    },
+    {
+     "sa": "कोष्ठात्",
+     "iast": "koṣṭhāt",
+     "en": "from the koṣṭha (alimentary tract, central body)",
+     "hi": "कोष्ठ से"
+    },
+    {
+     "sa": "शाखा-अस्थि-मर्माणि",
+     "iast": "śākhā-asthi-marmāṇi",
+     "en": "to the periphery (tissues), bones and vital points",
+     "hi": "शाखा, अस्थि और मर्म में"
+    },
+    {
+     "sa": "द्रुतत्वात् मारुतस्य",
+     "iast": "drutatvāt mārutasya",
+     "en": "due to the rapid movement of vāta",
+     "hi": "वात की तीव्र गति से"
+    }
+   ],
+   "english": "Owing to exercise, heat, sharpness (of agni), unwholesome conduct and the swift movement of vāta, the doṣas move from the koṣṭha (central alimentary tract) to the śākhā (peripheral tissues), bones and marma (vital points).",
+   "hindi": "व्यायाम, गर्मी, (अग्नि की) तीक्ष्णता, अहित आचरण और वात की तीव्र गति के कारण दोष कोष्ठ से शाखा (बाहरी धातुओं), अस्थियों और मर्मों में चले जाते हैं।",
+   "explanation_en": "Verses 17-18 describe the two-way movement of doṣas between koṣṭha and śākhā, a key concept for understanding why some diseases spread and others become eliminable. The three rogamārga (disease pathways) of AH are koṣṭha, śākhā and marma-asthi-sandhi. Learn the five causes of outward movement listed here.",
+   "explanation_hi": "श्लोक 17-18 में कोष्ठ और शाखा के बीच दोषों के आने-जाने का वर्णन है। यह समझने के लिए ज़रूरी है कि कुछ रोग क्यों फैलते हैं और कुछ को शोधन से निकाला जा सकता है। अष्टांगहृदय के तीन रोगमार्ग हैं: कोष्ठ, शाखा और मर्म-अस्थि-संधि। यहाँ बताए पाँच कारण याद रखें।",
+   "modern_correlation": null,
+   "key_terms": [
+    "koṣṭha",
+    "śākhā",
+    "marma",
+    "rogamārga",
+    "doṣa-gati"
+   ],
+   "tags": [
+    "dosha-gati",
+    "rogamarga"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.13.18",
+   "word_meanings": [
+    {
+     "sa": "दोषाः यान्ति",
+     "iast": "doṣāḥ yānti",
+     "en": "the doṣas go",
+     "hi": "दोष जाते हैं"
+    },
+    {
+     "sa": "तथा तेभ्यः",
+     "iast": "tathā tebhyaḥ",
+     "en": "likewise, from them (the periphery)",
+     "hi": "उसी प्रकार वहाँ से"
+    },
+    {
+     "sa": "स्रोतः-मुख-विशोधनात्",
+     "iast": "srotaḥ-mukha-viśodhanāt",
+     "en": "by cleansing of the openings of the channels",
+     "hi": "स्रोतों के मुख की शुद्धि से"
+    },
+    {
+     "sa": "वृद्ध्या",
+     "iast": "vṛddhyā",
+     "en": "by increase (in quantity)",
+     "hi": "वृद्धि (बढ़ने) से"
+    },
+    {
+     "sa": "अभिष्यन्दनात्",
+     "iast": "abhiṣyandanāt",
+     "en": "by liquefaction / oozing",
+     "hi": "अभिष्यंद (द्रवित होने) से"
+    },
+    {
+     "sa": "पाकात्",
+     "iast": "pākāt",
+     "en": "by ripening (maturation)",
+     "hi": "पाक (पकने) से"
+    },
+    {
+     "sa": "कोष्ठम्",
+     "iast": "koṣṭham",
+     "en": "to the koṣṭha",
+     "hi": "कोष्ठ में"
+    },
+    {
+     "sa": "वायोः निग्रहात्",
+     "iast": "vāyoḥ nigrahāt",
+     "en": "by controlling vāta",
+     "hi": "वायु के निग्रह (नियंत्रण) से"
+    }
+   ],
+   "english": "Likewise, the doṣas return from those places to the koṣṭha through cleansing of the openings of the channels (srotas), through increase in quantity, liquefaction (abhiṣyanda), ripening (pāka) and control of vāta.",
+   "hindi": "इसी प्रकार दोष वहाँ (शाखा आदि) से कोष्ठ में लौट आते हैं: स्रोतों के मुख की शुद्धि से, (दोषों की) वृद्धि से, अभिष्यंद (द्रवित होने) से, पाक से और वायु के नियंत्रण से।",
+   "explanation_en": "This verse gives the five causes of return of doṣas to the koṣṭha, from where they can be eliminated by śodhana. This is the rationale behind pūrvakarma (snehana and svedana before purification, see chapters 16-17): they liquefy and loosen doṣas so they flow back to the koṣṭha. A frequent exam pair with verse 17.",
+   "explanation_hi": "यह श्लोक दोषों के कोष्ठ में लौटने के पाँच कारण बताता है, जहाँ से उन्हें शोधन द्वारा निकाला जा सकता है। यही पूर्वकर्म (शोधन से पहले स्नेहन और स्वेदन, अध्याय 16-17) का आधार है: ये दोषों को द्रवित और ढीला करके कोष्ठ में लाते हैं। श्लोक 17 के साथ यह परीक्षा में बहुत पूछा जाता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "koṣṭha",
+    "srotas",
+    "abhiṣyanda",
+    "pāka",
+    "doṣa-gati"
+   ],
+   "tags": [
+    "dosha-gati",
+    "purvakarma"
+   ],
+   "importance": "high",
+   "mnemonic": "Return to koṣṭha: 'S-V-A-P-V' = Srotomukha-viśodhana, Vṛddhi, Abhiṣyanda, Pāka, Vāyu-nigraha.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.13.19",
+   "word_meanings": [
+    {
+     "sa": "तत्र-स्थाः",
+     "iast": "tatra-sthāḥ",
+     "en": "staying there (in the periphery)",
+     "hi": "वहाँ (शाखा में) स्थित"
+    },
+    {
+     "sa": "विलम्बेरन्",
+     "iast": "vilamberan",
+     "en": "may linger",
+     "hi": "ठहरे रहते हैं"
+    },
+    {
+     "sa": "भूयः हेतु-प्रतीक्षिणः",
+     "iast": "bhūyaḥ hetu-pratīkṣiṇaḥ",
+     "en": "waiting again for (fresh) causes",
+     "hi": "फिर से कारणों की प्रतीक्षा करते हुए"
+    },
+    {
+     "sa": "काल-आदि-बलम् लब्ध्वा",
+     "iast": "kāla-ādi-balam labdhvā",
+     "en": "gaining strength from time (season) etc.",
+     "hi": "काल आदि का बल पाकर"
+    },
+    {
+     "sa": "कुप्यन्ति",
+     "iast": "kupyanti",
+     "en": "become aggravated",
+     "hi": "कुपित होते हैं"
+    },
+    {
+     "sa": "अन्य-आश्रयेषु अपि",
+     "iast": "anya-āśrayeṣu api",
+     "en": "even in other sites",
+     "hi": "दूसरे स्थानों में भी"
+    }
+   ],
+   "english": "Staying there (in the periphery), they may linger, waiting for further causes. Then, gaining strength from time (season) and other factors, they become aggravated even in sites belonging to other doṣas.",
+   "hindi": "वहाँ (शाखा में) स्थित दोष ठहरे रहते हैं और फिर से कारणों की प्रतीक्षा करते हैं। फिर काल (ऋतु) आदि का बल पाकर वे दूसरे दोषों के स्थानों में भी कुपित हो जाते हैं।",
+   "explanation_en": "This explains latent or recurrent disease: doṣas lodged in the śākhā can remain quiet and flare up later when season, diet or other factors favour them. It leads into the next verse, which tells how to treat a doṣa sitting in another doṣa's site (āgantu or 'visiting' doṣa).",
+   "explanation_hi": "यह छिपे हुए या बार-बार लौटने वाले रोगों को समझाता है: शाखा में बैठे दोष चुपचाप रह सकते हैं और बाद में ऋतु, आहार आदि अनुकूल होने पर भड़क सकते हैं। अगला श्लोक बताता है कि दूसरे दोष के स्थान में बैठे (आगंतु) दोष का उपचार कैसे करें।",
+   "modern_correlation": null,
+   "key_terms": [
+    "doṣa-gati",
+    "kāla-bala",
+    "āśraya"
+   ],
+   "tags": [
+    "dosha-gati",
+    "recurrence"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.13.20",
+   "word_meanings": [
+    {
+     "sa": "तत्र",
+     "iast": "tatra",
+     "en": "in that case",
+     "hi": "उस स्थिति में"
+    },
+    {
+     "sa": "अन्य-स्थान-संस्थेषु",
+     "iast": "anya-sthāna-saṃstheṣu",
+     "en": "(doṣas) lodged in another's site",
+     "hi": "दूसरे के स्थान में स्थित (दोषों) में"
+    },
+    {
+     "sa": "तदीयाम्",
+     "iast": "tadīyām",
+     "en": "(the treatment) belonging to that (site's own doṣa)",
+     "hi": "उस (स्थान के अपने दोष) की"
+    },
+    {
+     "sa": "अबलेषु तु",
+     "iast": "abaleṣu tu",
+     "en": "but when they are weak",
+     "hi": "पर जब वे दुर्बल हों"
+    },
+    {
+     "sa": "कुर्यात् चिकित्साम्",
+     "iast": "kuryāt cikitsām",
+     "en": "one should do the treatment",
+     "hi": "चिकित्सा करे"
+    },
+    {
+     "sa": "स्वाम् एव",
+     "iast": "svām eva",
+     "en": "their own (treatment)",
+     "hi": "उनकी अपनी ही"
+    },
+    {
+     "sa": "बलेन अन्य-अभिभाविषु",
+     "iast": "balena anya-abhibhāviṣu",
+     "en": "when by strength they overpower the other",
+     "hi": "जब वे बल से दूसरे को दबा दें"
+    }
+   ],
+   "english": "In that case, when doṣas lodged in another doṣa's site are weak, one should apply the treatment of that site's own doṣa; but when they overpower the other by their strength, one should apply their own treatment.",
+   "hindi": "ऐसी स्थिति में, जब दूसरे दोष के स्थान में बैठे दोष दुर्बल हों तो उस स्थान के अपने दोष (स्थानी) की चिकित्सा करें; पर जब वे अपने बल से उस (स्थानी दोष) को दबा दें, तब उन्हीं की अपनी चिकित्सा करें।",
+   "explanation_en": "Example: if pitta has moved into the seat of kapha but is weak, treat kapha (the sthānī or host doṣa); if pitta dominates, treat pitta. This is the sthānī-āgantu principle and continues into verse 21. It is a subtle point often asked as a short note.",
+   "explanation_hi": "उदाहरण: यदि पित्त कफ के स्थान में चला गया है पर दुर्बल है, तो कफ (स्थानी दोष) की चिकित्सा करें; यदि पित्त प्रबल है तो पित्त की चिकित्सा करें। यह स्थानी-आगंतु सिद्धांत है, जो श्लोक 21 में आगे चलता है। यह लघु प्रश्न के रूप में पूछा जाता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sthānī doṣa",
+    "āgantu doṣa",
+    "sthāna"
+   ],
+   "tags": [
+    "sthani-agantu",
+    "chikitsa-principles"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.13.21",
+   "word_meanings": [
+    {
+     "sa": "आगन्तुम्",
+     "iast": "āgantum",
+     "en": "the visiting (doṣa)",
+     "hi": "आगंतु (बाहर से आए) दोष को"
+    },
+    {
+     "sa": "शमयेत् दोषम्",
+     "iast": "śamayet doṣam",
+     "en": "should pacify the doṣa",
+     "hi": "दोष को शांत करे"
+    },
+    {
+     "sa": "स्थानिनम्",
+     "iast": "sthāninam",
+     "en": "the host (doṣa of that site)",
+     "hi": "स्थानी (स्थान के अपने) दोष को"
+    },
+    {
+     "sa": "प्रतिकृत्य वा",
+     "iast": "pratikṛtya vā",
+     "en": "or after treating",
+     "hi": "या उपचार करके"
+    },
+    {
+     "sa": "प्रायः",
+     "iast": "prāyaḥ",
+     "en": "mostly",
+     "hi": "प्रायः"
+    },
+    {
+     "sa": "तिर्यक्-गताः दोषाः",
+     "iast": "tiryak-gatāḥ doṣāḥ",
+     "en": "doṣas moving transversely (sideways)",
+     "hi": "तिर्यक् (टेढ़ी/आड़ी) गति वाले दोष"
+    },
+    {
+     "sa": "क्लेशयन्ति आतुरान् चिरम्",
+     "iast": "kleśayanti āturān ciram",
+     "en": "trouble patients for a long time",
+     "hi": "रोगियों को लंबे समय तक कष्ट देते हैं"
+    },
+    {
+     "sa": "साधारणम् क्रियाम्",
+     "iast": "sādhāraṇam kriyām",
+     "en": "a common therapy",
+     "hi": "साधारण (सामान्य) चिकित्सा"
+    },
+    {
+     "sa": "उभय-योगिनीम्",
+     "iast": "ubhaya-yoginīm",
+     "en": "suitable for both",
+     "hi": "दोनों के लिए उपयुक्त"
+    }
+   ],
+   "english": "One should pacify the visiting (āgantu) doṣa, or do so after first treating the host (sthānī) doṣa. Doṣas that move transversely (tiryak) mostly trouble patients for a long time. [Additional line:] Or one may adopt a common therapy that suits both.",
+   "hindi": "आगंतु दोष को शांत करें, या पहले स्थानी दोष का उपचार करके फिर (आगंतु को) शांत करें। तिर्यक् (आड़ी) गति वाले दोष प्रायः रोगियों को लंबे समय तक कष्ट देते हैं। [अतिरिक्त पंक्ति:] या फिर दोनों के लिए उपयुक्त साधारण चिकित्सा करें।",
+   "explanation_en": "This completes the sthānī-āgantu rule and introduces 'tiryag-gata' doṣas, which wander sideways in the tissues instead of moving up or down, and hence cause chronic disease. In this file, the extra half-verse 'sādhāraṇaṃ vā kurvīta...' (marked 21.1+1) is printed at the start of entry 22; it logically completes this verse's options, so it is explained here as well.",
+   "explanation_hi": "यहाँ स्थानी-आगंतु नियम पूरा होता है और 'तिर्यग्गत' दोषों का परिचय है, जो ऊपर-नीचे न जाकर धातुओं में आड़े घूमते हैं और इसलिए जीर्ण (पुराने) रोग पैदा करते हैं। इस फ़ाइल में अतिरिक्त अर्धश्लोक 'साधारणं वा कुर्वीत...' प्रविष्टि 22 के आरंभ में छपा है; अर्थ की दृष्टि से यह इसी श्लोक को पूरा करता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "āgantu doṣa",
+    "sthānī doṣa",
+    "tiryag-gata doṣa"
+   ],
+   "tags": [
+    "sthani-agantu",
+    "dosha-gati",
+    "chronic-disease"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.13.22",
+   "word_meanings": [
+    {
+     "sa": "साधारणम् वा कुर्वीत",
+     "iast": "sādhāraṇam vā kurvīta",
+     "en": "or one may do a common (therapy)",
+     "hi": "या साधारण चिकित्सा करे"
+    },
+    {
+     "sa": "क्रियाम् उभय-योगिनीम्",
+     "iast": "kriyām ubhaya-yoginīm",
+     "en": "treatment suitable for both",
+     "hi": "दोनों के अनुकूल चिकित्सा"
+    },
+    {
+     "sa": "कुर्यात् न तेषु त्वरया",
+     "iast": "kuryāt na teṣu tvarayā",
+     "en": "one should not act hastily on them",
+     "hi": "उन पर जल्दबाज़ी में न करे"
+    },
+    {
+     "sa": "देह-अग्नि-बल-वित्",
+     "iast": "deha-agni-bala-vit",
+     "en": "knowing the strength of body and agni",
+     "hi": "शरीर और अग्नि का बल जानने वाला"
+    },
+    {
+     "sa": "क्रियाम्",
+     "iast": "kriyām",
+     "en": "therapy",
+     "hi": "चिकित्सा"
+    },
+    {
+     "sa": "शमयेत् तान् प्रयोगेण",
+     "iast": "śamayet tān prayogeṇa",
+     "en": "should pacify them with therapies",
+     "hi": "उन्हें औषध-प्रयोग से शांत करे"
+    },
+    {
+     "sa": "सुखम् वा",
+     "iast": "sukham vā",
+     "en": "or gently",
+     "hi": "या आराम से, धीरे-धीरे"
+    },
+    {
+     "sa": "कोष्ठम् आनयेत्",
+     "iast": "koṣṭham ānayet",
+     "en": "bring them to the koṣṭha",
+     "hi": "कोष्ठ में ले आए"
+    }
+   ],
+   "english": "[Or one may adopt a common therapy suitable for both.] For those (transversely moving doṣas), the physician who knows the strength of the body and of agni should not act hastily. He should pacify them with suitable therapies, or gently bring them into the koṣṭha.",
+   "hindi": "[या दोनों के लिए उपयुक्त साधारण चिकित्सा करे।] उन (तिर्यक् गति वाले) दोषों पर शरीर और अग्नि का बल जानने वाला वैद्य जल्दबाज़ी में चिकित्सा न करे। वह उन्हें औषधियों से शांत करे, या धीरे-धीरे आराम से कोष्ठ में ले आए।",
+   "explanation_en": "Tiryag-gata doṣas are deep and slow, so forcing them out quickly can harm the patient. There are two options: śamana (pacification in place) or bringing them gently to the koṣṭha (through snehana, svedana etc., see verse 18) for later elimination. The first line belongs with verse 21 in sense.",
+   "explanation_hi": "तिर्यग्गत दोष गहरे और धीमे होते हैं, इसलिए उन्हें जल्दी ज़बरदस्ती निकालने से रोगी को हानि हो सकती है। दो विकल्प हैं: शमन (वहीं शांत करना) या उन्हें धीरे-धीरे कोष्ठ में लाना (स्नेहन, स्वेदन आदि से, श्लोक 18 देखें) ताकि बाद में निकाला जा सके। पहली पंक्ति अर्थ में श्लोक 21 से जुड़ी है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "tiryag-gata doṣa",
+    "śamana",
+    "koṣṭha",
+    "agni-bala"
+   ],
+   "tags": [
+    "dosha-gati",
+    "chikitsa-principles"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.13.23",
+   "word_meanings": [
+    {
+     "sa": "ज्ञात्वा",
+     "iast": "jñātvā",
+     "en": "having known",
+     "hi": "जानकर"
+    },
+    {
+     "sa": "कोष्ठ-प्रपन्नान्",
+     "iast": "koṣṭha-prapannān",
+     "en": "(doṣas) that have reached the koṣṭha",
+     "hi": "कोष्ठ में पहुँचे हुए (दोषों को)"
+    },
+    {
+     "sa": "यथा-आसन्नम्",
+     "iast": "yathā-āsannam",
+     "en": "by the nearest route",
+     "hi": "सबसे निकट मार्ग से"
+    },
+    {
+     "sa": "विनिर्हरेत्",
+     "iast": "vinirharet",
+     "en": "should eliminate",
+     "hi": "बाहर निकाले"
+    },
+    {
+     "sa": "स्रोतः-रोध",
+     "iast": "srotaḥ-rodha",
+     "en": "obstruction of channels",
+     "hi": "स्रोतों में रुकावट"
+    },
+    {
+     "sa": "बल-भ्रंश",
+     "iast": "bala-bhraṃśa",
+     "en": "loss of strength",
+     "hi": "बल की हानि"
+    },
+    {
+     "sa": "गौरव",
+     "iast": "gaurava",
+     "en": "heaviness",
+     "hi": "भारीपन"
+    },
+    {
+     "sa": "अनिल-मूढता",
+     "iast": "anila-mūḍhatā",
+     "en": "obstruction (disordered movement) of vāta",
+     "hi": "वायु का रुकना/मार्ग भूलना"
+    }
+   ],
+   "english": "Knowing that the doṣas have reached the koṣṭha, one should eliminate them by the nearest route. Obstruction of the channels, loss of strength, heaviness, obstructed movement of vāta, (continued in the next verse)...",
+   "hindi": "यह जानकर कि दोष कोष्ठ में आ गए हैं, उन्हें सबसे निकट के मार्ग से बाहर निकालना चाहिए। स्रोतों में रुकावट, बल की कमी, भारीपन, वायु का रुकना (अगले श्लोक में आगे)...",
+   "explanation_en": "The first half completes the doṣa-gati discussion: once in the koṣṭha, doṣas are removed by the closest exit (vamana for upper, virecana for lower). The second half begins the classic list of sāma (āma-associated) signs, which continues in verse 24. The file notes a variant '-mūḍhatā' (singular) with the same meaning.",
+   "explanation_hi": "पहली आधी पंक्ति दोषगति का विषय पूरा करती है: कोष्ठ में आने पर दोषों को सबसे निकट के द्वार से निकाला जाता है (ऊपर के लिए वमन, नीचे के लिए विरेचन)। दूसरी आधी पंक्ति से 'साम' (आम युक्त) दोषों के लक्षणों की प्रसिद्ध सूची शुरू होती है, जो श्लोक 24 में पूरी होती है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "yathāsanna",
+    "srotorodha",
+    "sāma lakṣaṇa"
+   ],
+   "tags": [
+    "sama-nirama",
+    "shodhana"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.13.24",
+   "word_meanings": [
+    {
+     "sa": "आलस्य",
+     "iast": "ālasya",
+     "en": "lethargy",
+     "hi": "आलस्य"
+    },
+    {
+     "sa": "अपक्ति",
+     "iast": "apakti",
+     "en": "indigestion",
+     "hi": "अपच"
+    },
+    {
+     "sa": "निष्ठीव",
+     "iast": "niṣṭhīva",
+     "en": "spitting, excess salivation",
+     "hi": "बार-बार थूकना"
+    },
+    {
+     "sa": "मल-सङ्ग",
+     "iast": "mala-saṅga",
+     "en": "retention of wastes",
+     "hi": "मल का रुकना"
+    },
+    {
+     "sa": "अरुचि",
+     "iast": "aruci",
+     "en": "loss of taste / appetite",
+     "hi": "अरुचि"
+    },
+    {
+     "sa": "क्लमाः",
+     "iast": "klamāḥ",
+     "en": "fatigue",
+     "hi": "थकान (क्लम)"
+    },
+    {
+     "sa": "लिङ्गम्",
+     "iast": "liṅgam",
+     "en": "sign",
+     "hi": "लक्षण"
+    },
+    {
+     "sa": "मलानाम् सामानाम्",
+     "iast": "malānām sāmānām",
+     "en": "of the doṣas associated with āma",
+     "hi": "आम युक्त दोषों (मलों) का"
+    },
+    {
+     "sa": "निरामाणाम्",
+     "iast": "nirāmāṇām",
+     "en": "of those free from āma",
+     "hi": "निराम दोषों का"
+    },
+    {
+     "sa": "विपर्ययः",
+     "iast": "viparyayaḥ",
+     "en": "the opposite",
+     "hi": "विपरीत"
+    }
+   ],
+   "english": "...lethargy, indigestion, spitting, retention of wastes, loss of taste and fatigue: these are the signs of doṣas associated with āma (sāma). The signs of doṣas free from āma (nirāma) are the opposite.",
+   "hindi": "...आलस्य, अपच, बार-बार थूकना, मल का रुकना, अरुचि और थकान: ये आम युक्त (साम) दोषों के लक्षण हैं। निराम दोषों के लक्षण इनके विपरीत होते हैं।",
+   "explanation_en": "Verses 23b-24 give the ten general signs of sāma doṣa, one of the most commonly asked lists in BAMS exams. Nirāma is recognised simply by the absence of these signs. The next verse defines āma itself.",
+   "explanation_hi": "श्लोक 23 का उत्तरार्ध और श्लोक 24 मिलकर साम दोष के दस सामान्य लक्षण बताते हैं, जो BAMS परीक्षा की सबसे अधिक पूछी जाने वाली सूचियों में से एक है। निराम अवस्था इन लक्षणों के न होने से पहचानी जाती है। अगले श्लोक में 'आम' की परिभाषा है।",
+   "modern_correlation": {
+    "en": "These signs, such as heaviness, poor appetite, coated feeling and sluggish bowels, are often compared to non-specific features of indigestion and low-grade systemic inflammation; this is an interpretive comparison, not an equivalence.",
+    "hi": "भारीपन, भूख न लगना, मल का रुकना जैसे इन लक्षणों की तुलना अक्सर अपच और हल्की सामान्य सूजन (इन्फ़्लेमेशन) के अविशिष्ट लक्षणों से की जाती है। यह केवल एक व्याख्यात्मक तुलना है, समानता नहीं।"
+   },
+   "key_terms": [
+    "sāma",
+    "nirāma",
+    "āma",
+    "srotorodha",
+    "aruci"
+   ],
+   "tags": [
+    "sama-nirama",
+    "ama",
+    "lakshana"
+   ],
+   "importance": "high",
+   "mnemonic": "Sāma signs (10): 'SBG-AA-NM-AK' = Srotorodha, Bala-bhraṃśa, Gaurava, Anila-mūḍhatā, Ālasya, Apakti, Niṣṭhīva, Mala-saṅga, Aruci, Klama.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.13.25",
+   "word_meanings": [
+    {
+     "sa": "विट्-मूत्र-नख-दन्त-त्वक्-चक्षुषाम्",
+     "iast": "viṭ-mūtra-nakha-danta-tvak-cakṣuṣām",
+     "en": "of faeces, urine, nails, teeth, skin and eyes",
+     "hi": "मल, मूत्र, नाखून, दाँत, त्वचा और आँखों का"
+    },
+    {
+     "sa": "पीतता",
+     "iast": "pītatā",
+     "en": "yellowness",
+     "hi": "पीलापन"
+    },
+    {
+     "sa": "रक्तत्वम्",
+     "iast": "raktatvam",
+     "en": "redness",
+     "hi": "लालिमा"
+    },
+    {
+     "sa": "कृष्णत्वम्",
+     "iast": "kṛṣṇatvam",
+     "en": "blackness",
+     "hi": "कालापन"
+    },
+    {
+     "sa": "पृष्ठ-अस्थि-कटि-संधि-रुक्",
+     "iast": "pṛṣṭha-asthi-kaṭi-saṃdhi-ruk",
+     "en": "pain in back, bones, waist and joints",
+     "hi": "पीठ, हड्डियों, कमर और जोड़ों में दर्द"
+    },
+    {
+     "sa": "शिरः-रुक् तीव्रा",
+     "iast": "śiraḥ-ruk tīvrā",
+     "en": "severe headache",
+     "hi": "तीव्र सिरदर्द"
+    },
+    {
+     "sa": "निद्रा",
+     "iast": "nidrā",
+     "en": "(excess) sleep",
+     "hi": "(अधिक) नींद"
+    },
+    {
+     "sa": "विरसता मुखे",
+     "iast": "virasatā mukhe",
+     "en": "tastelessness in the mouth",
+     "hi": "मुँह में बेस्वादपन"
+    },
+    {
+     "sa": "श्वयथुः गात्रे",
+     "iast": "śvayathuḥ gātre",
+     "en": "swelling of the body",
+     "hi": "शरीर में सूजन"
+    },
+    {
+     "sa": "ज्वर-अतीसार-हर्षणम्",
+     "iast": "jvara-atīsāra-harṣaṇam",
+     "en": "fever, diarrhoea and horripilation",
+     "hi": "ज्वर, अतिसार और रोमांच"
+    },
+    {
+     "sa": "ऊष्मणः अल्प-बलत्वेन",
+     "iast": "ūṣmaṇaḥ alpa-balatvena",
+     "en": "due to weakness of the digestive heat (agni)",
+     "hi": "ऊष्मा (अग्नि) के दुर्बल होने से"
+    },
+    {
+     "sa": "धातुम् आद्यम् अपाचितम्",
+     "iast": "dhātum ādyam apācitam",
+     "en": "the first dhātu (rasa) left undigested",
+     "hi": "पहली धातु (रस) का न पचना"
+    },
+    {
+     "sa": "दुष्टम् आमाशय-गतम्",
+     "iast": "duṣṭam āmāśaya-gatam",
+     "en": "vitiated and lodged in the stomach",
+     "hi": "दूषित और आमाशय में स्थित"
+    },
+    {
+     "sa": "रसम् आमम् प्रचक्षते",
+     "iast": "rasam āmam pracakṣate",
+     "en": "that rasa is called āma",
+     "hi": "उस रस को 'आम' कहते हैं"
+    }
+   ],
+   "english": "[Additional lines:] There may be yellowness, redness or blackness of the faeces, urine, nails, teeth, skin and eyes; pain in the back, bones, waist and joints; severe headache; sleepiness; tastelessness in the mouth; sometimes swelling of the body, fever, diarrhoea and horripilation. [Main verse:] When, owing to weakness of the digestive heat (ūṣmā, i.e. agni), the first dhātu (rasa) remains undigested, becomes vitiated and stays in the āmāśaya (stomach), that rasa is called āma.",
+   "hindi": "[अतिरिक्त पंक्तियाँ:] मल, मूत्र, नाखून, दाँत, त्वचा और आँखों में पीलापन, लालिमा या कालापन; पीठ, हड्डियों, कमर और जोड़ों में दर्द; तीव्र सिरदर्द; अधिक नींद; मुँह का बेस्वाद होना; कभी-कभी शरीर में सूजन, ज्वर, अतिसार और रोमांच हो सकते हैं। [मूल श्लोक:] जब ऊष्मा (अग्नि) के दुर्बल होने से पहली धातु (रस) ठीक से नहीं पचती, दूषित होकर आमाशय में रुकी रहती है, तो उस रस को 'आम' कहते हैं।",
+   "explanation_en": "The main half-verse here is the standard definition of āma in Aṣṭāṅgahṛdaya and is among the most important verses in the chapter for exams. The extra lines (marked 24.1+1 and 24.1+2 in the file) add more sāma symptoms to the list of verses 23-24. Remember the three key words: alpa-bala ūṣmā (weak agni), apācita (undigested) ādya dhātu (rasa).",
+   "explanation_hi": "यहाँ का मूल अर्धश्लोक अष्टांगहृदय में 'आम' की मानक परिभाषा है और परीक्षा के लिए इस अध्याय के सबसे महत्वपूर्ण श्लोकों में से है। अतिरिक्त पंक्तियाँ (फ़ाइल में 24.1+1, 24.1+2) श्लोक 23-24 की साम लक्षण सूची में और लक्षण जोड़ती हैं। तीन मुख्य शब्द याद रखें: मंद ऊष्मा (अग्नि), अपाचित (न पचा), आद्य धातु (रस)।",
+   "modern_correlation": {
+    "en": "Āma is often compared to incompletely digested or improperly metabolised material and its effects on the body; some authors relate it to concepts like endotoxins or metabolic by-products, but this is a hypothesis, not an established equivalence.",
+    "hi": "'आम' की तुलना अक्सर अधपचे या ठीक से चयापचय न हुए पदार्थ और उसके प्रभावों से की जाती है। कुछ लेखक इसे एंडोटॉक्सिन या चयापचय के उपोत्पादों से जोड़ते हैं, पर यह एक परिकल्पना है, स्थापित समानता नहीं।"
+   },
+   "key_terms": [
+    "āma",
+    "ūṣmā",
+    "agni",
+    "rasa dhātu",
+    "āmāśaya"
+   ],
+   "tags": [
+    "ama",
+    "definitions",
+    "agni"
+   ],
+   "importance": "high",
+   "mnemonic": "Āma = weak Agni + unripe Rasa + stuck in Āmāśaya.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.13.26",
+   "word_meanings": [
+    {
+     "sa": "अन्ये",
+     "iast": "anye",
+     "en": "others (other authorities)",
+     "hi": "दूसरे (आचार्य)"
+    },
+    {
+     "sa": "दोषेभ्यः एव अति-दुष्टेभ्यः",
+     "iast": "doṣebhyaḥ eva ati-duṣṭebhyaḥ",
+     "en": "from the highly vitiated doṣas themselves",
+     "hi": "अत्यधिक दूषित दोषों से ही"
+    },
+    {
+     "sa": "अन्योन्य-मूर्छनात्",
+     "iast": "anyonya-mūrchanāt",
+     "en": "by their mutual intermingling",
+     "hi": "आपस में मिल जाने (मूर्छन) से"
+    },
+    {
+     "sa": "कोद्रवेभ्यः विषस्य इव",
+     "iast": "kodravebhyaḥ viṣasya iva",
+     "en": "like poison from kodrava grains",
+     "hi": "जैसे कोदों अनाज से विष"
+    },
+    {
+     "sa": "वदन्ति",
+     "iast": "vadanti",
+     "en": "say",
+     "hi": "कहते हैं"
+    },
+    {
+     "sa": "आमस्य संभवम्",
+     "iast": "āmasya saṃbhavam",
+     "en": "the origin of āma",
+     "hi": "आम की उत्पत्ति"
+    }
+   ],
+   "english": "Others say that āma arises from the highly vitiated doṣas themselves through their mutual intermingling (mūrchana), just as poison arises from kodrava grains (Paspalum scrobiculatum).",
+   "hindi": "दूसरे आचार्य कहते हैं कि आम अत्यधिक दूषित दोषों के आपस में मिल जाने (मूर्छन) से उत्पन्न होता है, जैसे कोदों (कोद्रव) अनाज से विष उत्पन्न हो जाता है।",
+   "explanation_en": "This gives a second view on the origin of āma: not only from undigested rasa (verse 25) but also from the mixing of excessively vitiated doṣas. The kodrava example refers to the well-known toxicity of improperly stored kodo millet. Exams often ask for 'both views of āma-utpatti'.",
+   "explanation_hi": "यह आम की उत्पत्ति का दूसरा मत है: केवल अपाचित रस से (श्लोक 25) ही नहीं, बल्कि अत्यधिक दूषित दोषों के मिलने से भी। कोद्रव का उदाहरण ठीक से न रखे गए कोदो अनाज की प्रसिद्ध विषाक्तता की ओर संकेत करता है। परीक्षा में 'आम उत्पत्ति के दोनों मत' अक्सर पूछे जाते हैं।",
+   "modern_correlation": {
+    "en": "Kodo millet (Paspalum scrobiculatum) is known to become toxic when contaminated by fungi that produce cyclopiazonic acid; the analogy in the text broadly parallels this observation.",
+    "hi": "कोदो (Paspalum scrobiculatum) फफूंद से दूषित होने पर साइक्लोपियाज़ोनिक एसिड नामक विष के कारण विषैला हो सकता है; ग्रंथ का उदाहरण मोटे तौर पर इसी अवलोकन से मेल खाता है।"
+   },
+   "key_terms": [
+    "āma",
+    "mūrchana",
+    "kodrava"
+   ],
+   "tags": [
+    "ama",
+    "etiology"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.13.27",
+   "word_meanings": [
+    {
+     "sa": "आमेन तेन संपृक्ताः",
+     "iast": "āmena tena saṃpṛktāḥ",
+     "en": "mixed with that āma",
+     "hi": "उस आम से मिले हुए"
+    },
+    {
+     "sa": "दोषाः",
+     "iast": "doṣāḥ",
+     "en": "the doṣas",
+     "hi": "दोष"
+    },
+    {
+     "sa": "दूष्याः च",
+     "iast": "dūṣyāḥ ca",
+     "en": "and the dūṣyas (tissues and wastes that get vitiated)",
+     "hi": "और दूष्य (धातु व मल)"
+    },
+    {
+     "sa": "दूषिताः",
+     "iast": "dūṣitāḥ",
+     "en": "vitiated",
+     "hi": "दूषित"
+    },
+    {
+     "sa": "सामाः इति उपदिश्यन्ते",
+     "iast": "sāmāḥ iti upadiśyante",
+     "en": "are called 'sāma'",
+     "hi": "'साम' कहलाते हैं"
+    },
+    {
+     "sa": "ये च रोगाः तद्-उद्भवाः",
+     "iast": "ye ca rogāḥ tad-udbhavāḥ",
+     "en": "and the diseases arising from them",
+     "hi": "और उनसे उत्पन्न रोग भी"
+    }
+   ],
+   "english": "The doṣas and dūṣyas (dhātus and malas) vitiated by being mixed with that āma are called 'sāma', and so are the diseases arising from them.",
+   "hindi": "उस आम से मिलकर दूषित हुए दोष और दूष्य (धातु और मल) 'साम' कहलाते हैं, और उनसे उत्पन्न रोग भी 'साम' कहलाते हैं।",
+   "explanation_en": "This is the definition of the term 'sāma' (sa + āma, 'with āma'). It applies to doṣas, dūṣyas and diseases alike, e.g. sāma jvara, sāma vāta. Next comes the detailed description of sāma and nirāma states of each doṣa.",
+   "explanation_hi": "यह 'साम' शब्द (स + आम = आम के साथ) की परिभाषा है। यह दोष, दूष्य और रोग तीनों पर लागू होता है, जैसे साम ज्वर, साम वात। आगे हर दोष की साम और निराम अवस्था का विस्तृत वर्णन है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sāma",
+    "dūṣya",
+    "doṣa",
+    "āma"
+   ],
+   "tags": [
+    "sama-nirama",
+    "definitions"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.13.28",
+   "word_meanings": [
+    {
+     "sa": "वायुः सामः",
+     "iast": "vāyuḥ sāmaḥ",
+     "en": "vāta with āma",
+     "hi": "साम वायु"
+    },
+    {
+     "sa": "विबन्ध",
+     "iast": "vibandha",
+     "en": "constipation",
+     "hi": "मलबंध (कब्ज़)"
+    },
+    {
+     "sa": "अग्नि-साद",
+     "iast": "agni-sāda",
+     "en": "weak digestion",
+     "hi": "अग्निमांद्य"
+    },
+    {
+     "sa": "स्तम्भ",
+     "iast": "stambha",
+     "en": "stiffness",
+     "hi": "जकड़न"
+    },
+    {
+     "sa": "आन्त्र-कूजनैः",
+     "iast": "āntra-kūjanaiḥ",
+     "en": "with intestinal gurgling",
+     "hi": "आँतों में गुड़गुड़ाहट"
+    },
+    {
+     "sa": "वेदना-शोफ-निस्तोदैः",
+     "iast": "vedanā-śopha-nistodaiḥ",
+     "en": "with pain, swelling and pricking pain",
+     "hi": "दर्द, सूजन और चुभन"
+    },
+    {
+     "sa": "क्रमशः अङ्गानि पीडयन्",
+     "iast": "kramaśaḥ aṅgāni pīḍayan",
+     "en": "afflicting the body parts one by one",
+     "hi": "एक-एक करके अंगों को पीड़ा देता हुआ"
+    },
+    {
+     "sa": "युगपत्",
+     "iast": "yugapat",
+     "en": "simultaneously",
+     "hi": "एक साथ"
+    },
+    {
+     "sa": "स्नेहाद्यैः वृद्धिम् आयाति",
+     "iast": "snehādyaiḥ vṛddhim āyāti",
+     "en": "increases with oleation etc.",
+     "hi": "स्नेह आदि से बढ़ता है"
+    },
+    {
+     "sa": "सूर्य-मेघ-उदये निशि",
+     "iast": "sūrya-megha-udaye niśi",
+     "en": "at sunrise, in cloudy weather and at night",
+     "hi": "सूर्योदय, बादल छाने पर और रात में"
+    },
+    {
+     "sa": "निरामः",
+     "iast": "nirāmaḥ",
+     "en": "free from āma",
+     "hi": "निराम"
+    },
+    {
+     "sa": "विशदः रूक्षः",
+     "iast": "viśadaḥ rūkṣaḥ",
+     "en": "clear (non-slimy) and dry",
+     "hi": "विशद (साफ़) और रूखा"
+    },
+    {
+     "sa": "अल्प-वेदनः",
+     "iast": "alpa-vedanaḥ",
+     "en": "with little pain",
+     "hi": "कम दर्द वाला"
+    },
+    {
+     "sa": "पित्तम् सामम्",
+     "iast": "pittam sāmam",
+     "en": "pitta with āma",
+     "hi": "साम पित्त"
+    },
+    {
+     "sa": "दुर्गन्धि हरितम् श्यावम्",
+     "iast": "durgandhi haritam śyāvam",
+     "en": "foul-smelling, greenish, dark",
+     "hi": "दुर्गंधयुक्त, हरा, काला-नीला"
+    },
+    {
+     "sa": "अम्लम् घनम् गुरु",
+     "iast": "amlam ghanam guru",
+     "en": "sour, thick, heavy",
+     "hi": "खट्टा, गाढ़ा, भारी"
+    },
+    {
+     "sa": "अम्लीका-कण्ठ-हृत्-दाह-करम्",
+     "iast": "amlīkā-kaṇṭha-hṛt-dāha-karam",
+     "en": "causing sour belching and burning in throat and chest",
+     "hi": "खट्टी डकार, गले और छाती में जलन करने वाला"
+    },
+    {
+     "sa": "आ-ताम्र-पीतम्",
+     "iast": "ā-tāmra-pītam",
+     "en": "coppery-yellow",
+     "hi": "ताँबे जैसा पीला"
+    },
+    {
+     "sa": "रसे कटुकम्",
+     "iast": "rase kaṭukam",
+     "en": "pungent in taste",
+     "hi": "स्वाद में कटु"
+    },
+    {
+     "sa": "अस्थिरम्",
+     "iast": "asthiram",
+     "en": "not stagnant, mobile",
+     "hi": "अस्थिर, चलायमान"
+    },
+    {
+     "sa": "पक्वम् विगन्धि",
+     "iast": "pakvam vigandhi",
+     "en": "ripe (nirāma), without foul smell",
+     "hi": "पक्व (निराम), दुर्गंध रहित"
+    },
+    {
+     "sa": "रुचि-पक्ति-बल-प्रदम्",
+     "iast": "ruci-pakti-bala-pradam",
+     "en": "giving taste, digestion and strength",
+     "hi": "रुचि, पाचन और बल देने वाला"
+    },
+    {
+     "sa": "बलासः सामः",
+     "iast": "balāsaḥ sāmaḥ",
+     "en": "kapha with āma",
+     "hi": "साम कफ"
+    },
+    {
+     "sa": "आविलः तन्तुलः स्त्यानः",
+     "iast": "āvilaḥ tantulaḥ styānaḥ",
+     "en": "turbid, stringy, sticky",
+     "hi": "गंदला, तारदार, चिपचिपा"
+    },
+    {
+     "sa": "कण्ठ-देशे अवतिष्ठते",
+     "iast": "kaṇṭha-deśe avatiṣṭhate",
+     "en": "sticks in the throat",
+     "hi": "गले में अटका रहता है"
+    },
+    {
+     "sa": "क्षुत्-उद्गार-विघात-कृत्",
+     "iast": "kṣut-udgāra-vighāta-kṛt",
+     "en": "obstructs hunger and belching",
+     "hi": "भूख और डकार को रोकने वाला"
+    },
+    {
+     "sa": "फेनवान् पिण्डितः पाण्डुः",
+     "iast": "phenavān piṇḍitaḥ pāṇḍuḥ",
+     "en": "frothy, in lumps, pale",
+     "hi": "झागदार, गोलियों जैसा, सफ़ेद-पीला"
+    },
+    {
+     "sa": "निःसारः अगन्धः",
+     "iast": "niḥsāraḥ agandhaḥ",
+     "en": "not slimy, odourless",
+     "hi": "सारहीन (पतला/कम चिपचिपा), गंधहीन"
+    },
+    {
+     "sa": "छेदवान् वक्त्र-शुद्धि-दः",
+     "iast": "chedavān vaktra-śuddhi-daḥ",
+     "en": "breaking up easily, clearing the mouth",
+     "hi": "आसानी से टूटने वाला, मुँह साफ़ करने वाला"
+    },
+    {
+     "sa": "सर्व-देह-प्रविसृतान्",
+     "iast": "sarva-deha-pravisṛtān",
+     "en": "spread throughout the whole body",
+     "hi": "पूरे शरीर में फैले हुए"
+    },
+    {
+     "sa": "सामान् दोषान् न निर्हरेत्",
+     "iast": "sāmān doṣān na nirharet",
+     "en": "should not expel sāma doṣas",
+     "hi": "साम दोषों को (शोधन से) न निकाले"
+    },
+    {
+     "sa": "लीनान् धातुषु अनुत्क्लिष्टान्",
+     "iast": "līnān dhātuṣu anutkliṣṭān",
+     "en": "adhering to the dhātus and not loosened",
+     "hi": "धातुओं में चिपके, उत्क्लेशित न हुए"
+    },
+    {
+     "sa": "फलात् आमात् रसान् इव",
+     "iast": "phalāt āmāt rasān iva",
+     "en": "like juice from an unripe fruit",
+     "hi": "जैसे कच्चे फल से रस"
+    }
+   ],
+   "english": "[Additional lines on sāma and nirāma doṣas:] Vāta with āma (sāma vāyu) shows constipation, weak digestion, stiffness, gurgling in the intestines, pain, swelling and pricking pain; it afflicts the body parts one after another, or moves through them all at once, and seizes them severely when aggravated; it increases with oleation and similar measures, at sunrise, in cloudy weather and at night. Nirāma vāta is clear (viśada), dry, without constipation and with little pain; it subsides with measures of opposite qualities, especially unctuous ones. Pitta with āma is foul-smelling, greenish or dusky, sour, thick and heavy, and causes sour belching and burning in the throat and chest. Ripe (nirāma) pitta is coppery-yellow, very hot, pungent in taste, mobile, free from foul smell, and gives taste, digestion and strength. Kapha with āma (sāma balāsa) is turbid, stringy and sticky, clings to the throat, smells foul and obstructs hunger and belching. Ripe (nirāma) kapha is frothy, forms lumps, is pale, not slimy, odourless, breaks up easily and clears the mouth. [Main verse:] Sāma doṣas spread through the whole body, adhering to the dhātus and not yet loosened, should not be expelled, just as juice should not be squeezed from an unripe fruit.",
+   "hindi": "[साम और निराम दोषों पर अतिरिक्त पंक्तियाँ:] साम वायु में कब्ज़, अग्निमांद्य, जकड़न, आँतों में गुड़गुड़ाहट, दर्द, सूजन और चुभन होती है; यह एक-एक करके अंगों को पीड़ित करता है या एक साथ पूरे शरीर में घूमता है और कुपित होने पर बहुत जकड़ता है; यह स्नेह आदि से, सूर्योदय के समय, बादल होने पर और रात में बढ़ता है। निराम वायु विशद, रूखा, कब्ज़ रहित और कम दर्द वाला होता है; यह विपरीत गुणों से, विशेषकर स्निग्ध उपायों से शांत होता है। साम पित्त दुर्गंधयुक्त, हरा या काला-सा, खट्टा, गाढ़ा और भारी होता है तथा खट्टी डकार और गले-छाती में जलन करता है। निराम (पक्व) पित्त ताँबे जैसा पीला, बहुत गरम, स्वाद में कटु, अस्थिर, दुर्गंध रहित होता है और रुचि, पाचन व बल देता है। साम कफ गंदला, तारदार, चिपचिपा, गले में अटकने वाला, दुर्गंधयुक्त होता है और भूख व डकार को रोकता है। निराम कफ झागदार, गोलियों जैसा, सफ़ेद-पीला, कम चिपचिपा, गंधहीन, आसानी से टूटने वाला और मुँह साफ़ करने वाला होता है। [मूल श्लोक:] पूरे शरीर में फैले, धातुओं में चिपके और उत्क्लेशित न हुए साम दोषों को (शोधन से) नहीं निकालना चाहिए, जैसे कच्चे फल से रस नहीं निचोड़ा जाता।",
+   "explanation_en": "The seven additional couplets (27+1 to 27+7) give the clinical features of sāma and nirāma vāta, pitta and kapha, a favourite topic for long answers. The main verse gives the key rule: do not do śodhana while doṣas are sāma, because like juice in an unripe fruit they cling to the tissues. Verses 29-30 then explain what to do first (pācana, dīpana, snehana, svedana).",
+   "explanation_hi": "सात अतिरिक्त श्लोक (27+1 से 27+7) साम और निराम वात, पित्त और कफ के लक्षण बताते हैं, जो दीर्घ उत्तर का प्रिय विषय है। मूल श्लोक मुख्य नियम देता है: दोष साम हों तो शोधन न करें, क्योंकि कच्चे फल के रस की तरह वे धातुओं से चिपके रहते हैं। श्लोक 29-30 बताते हैं कि पहले क्या करें (पाचन, दीपन, स्नेहन, स्वेदन)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sāma vāta",
+    "nirāma vāta",
+    "sāma pitta",
+    "nirāma pitta",
+    "sāma kapha",
+    "nirāma kapha",
+    "śodhana"
+   ],
+   "tags": [
+    "sama-nirama",
+    "lakshana",
+    "shodhana"
+   ],
+   "importance": "high",
+   "mnemonic": "Unripe fruit gives no juice: sāma doṣa gives no śodhana.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.13.29",
+   "word_meanings": [
+    {
+     "sa": "आश्रयस्य हि नाशाय",
+     "iast": "āśrayasya hi nāśāya",
+     "en": "for destruction of the substrate (body tissues)",
+     "hi": "आश्रय (शरीर/धातुओं) के नाश के लिए"
+    },
+    {
+     "sa": "ते स्युः",
+     "iast": "te syuḥ",
+     "en": "they would lead",
+     "hi": "वे हो जाएँगे"
+    },
+    {
+     "sa": "दुर्निर्हरत्वतः",
+     "iast": "durnirharatvataḥ",
+     "en": "because they are hard to remove",
+     "hi": "कठिनता से निकलने के कारण"
+    },
+    {
+     "sa": "पाचनैः",
+     "iast": "pācanaiḥ",
+     "en": "with digestives",
+     "hi": "पाचन द्रव्यों से"
+    },
+    {
+     "sa": "दीपनैः",
+     "iast": "dīpanaiḥ",
+     "en": "with appetisers",
+     "hi": "दीपन द्रव्यों से"
+    },
+    {
+     "sa": "स्नेहैः",
+     "iast": "snehaiḥ",
+     "en": "with oleation",
+     "hi": "स्नेहन से"
+    },
+    {
+     "sa": "स्वेदैः च",
+     "iast": "svedaiḥ ca",
+     "en": "and with sudation",
+     "hi": "और स्वेदन से"
+    },
+    {
+     "sa": "परिष्कृतान्",
+     "iast": "pariṣkṛtān",
+     "en": "(when they are) prepared",
+     "hi": "संस्कारित (तैयार) किए हुए"
+    }
+   ],
+   "english": "For, being hard to remove, they would destroy their substrate (the body). (Therefore,) after preparing them with digestives (pācana), appetisers (dīpana), oleation (sneha) and sudation (sveda), ... (continued in the next verse).",
+   "hindi": "क्योंकि कठिनता से निकलने के कारण (ज़बरदस्ती निकालने पर) वे अपने आश्रय (शरीर) को ही नष्ट कर देंगे। इसलिए पाचन, दीपन, स्नेहन और स्वेदन से उन्हें तैयार करके... (अगले श्लोक में आगे)।",
+   "explanation_en": "The first half gives the reason for verse 28's rule: forcing out sāma doṣas damages the tissues they adhere to. The second half begins the correct sequence: pācana and dīpana first (to digest āma), then snehana and svedana (pūrvakarma), then śodhana. This sequence is a core principle of pañcakarma.",
+   "explanation_hi": "पहली आधी पंक्ति श्लोक 28 के नियम का कारण बताती है: साम दोषों को ज़बरदस्ती निकालने से वे जिन धातुओं से चिपके हैं, वे नष्ट होती हैं। दूसरी आधी पंक्ति सही क्रम शुरू करती है: पहले पाचन-दीपन (आम पचाने के लिए), फिर स्नेहन-स्वेदन (पूर्वकर्म), फिर शोधन। यह क्रम पंचकर्म का मूल सिद्धांत है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "pācana",
+    "dīpana",
+    "snehana",
+    "svedana",
+    "pūrvakarma"
+   ],
+   "tags": [
+    "shodhana",
+    "purvakarma",
+    "panchakarma"
+   ],
+   "importance": "high",
+   "mnemonic": "Order: Pācana-Dīpana, then Sneha-Sveda, then Śodhana (P-D-S-S-Ś).",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.13.30",
+   "word_meanings": [
+    {
+     "sa": "शोधयेत् शोधनैः",
+     "iast": "śodhayet śodhanaiḥ",
+     "en": "should purify with purifying therapies",
+     "hi": "शोधन द्रव्यों से शोधन करे"
+    },
+    {
+     "sa": "काले",
+     "iast": "kāle",
+     "en": "at the proper time",
+     "hi": "उचित समय पर"
+    },
+    {
+     "sa": "यथा-आसन्नम्",
+     "iast": "yathā-āsannam",
+     "en": "by the nearest route",
+     "hi": "निकटतम मार्ग से"
+    },
+    {
+     "sa": "यथा-बलम्",
+     "iast": "yathā-balam",
+     "en": "according to strength",
+     "hi": "बल के अनुसार"
+    },
+    {
+     "sa": "हन्ति आशु",
+     "iast": "hanti āśu",
+     "en": "quickly removes",
+     "hi": "शीघ्र नष्ट करता है"
+    },
+    {
+     "sa": "युक्तम् वक्त्रेण द्रव्यम्",
+     "iast": "yuktam vaktreṇa dravyam",
+     "en": "a drug given by mouth",
+     "hi": "मुँह से दिया गया द्रव्य"
+    },
+    {
+     "sa": "आमाशयात् मलान्",
+     "iast": "āmāśayāt malān",
+     "en": "doṣas from the āmāśaya (stomach)",
+     "hi": "आमाशय से दोषों को"
+    }
+   ],
+   "english": "...one should purify them with purifying therapies (śodhana) at the proper time, by the nearest route and according to strength. A drug given by mouth quickly removes the doṣas from the āmāśaya (stomach),...",
+   "hindi": "...उचित समय पर, निकटतम मार्ग से और बल के अनुसार शोधन द्रव्यों से उनका शोधन करना चाहिए। मुँह से दिया गया द्रव्य आमाशय के दोषों को शीघ्र बाहर निकालता है,...",
+   "explanation_en": "Three conditions for śodhana: proper time (kāla), nearest route (yathāsanna) and the patient's strength (yathābala). The second half begins the 'route rule' that continues into verse 31: oral route for the stomach, nasal route for the head, anal route for the colon.",
+   "explanation_hi": "शोधन की तीन शर्तें: उचित काल, निकटतम मार्ग और रोगी का बल। दूसरी आधी पंक्ति 'मार्ग नियम' शुरू करती है जो श्लोक 31 में आगे चलता है: आमाशय के लिए मुख, सिर के लिए नासा, और पक्वाशय के लिए गुदा मार्ग।",
+   "modern_correlation": null,
+   "key_terms": [
+    "śodhana",
+    "yathāsanna",
+    "yathābala",
+    "āmāśaya"
+   ],
+   "tags": [
+    "shodhana",
+    "route"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.13.31",
+   "word_meanings": [
+    {
+     "sa": "घ्राणेन",
+     "iast": "ghrāṇena",
+     "en": "through the nose",
+     "hi": "नाक से"
+    },
+    {
+     "sa": "च ऊर्ध्व-जत्रु-उत्थान्",
+     "iast": "ca ūrdhva-jatru-utthān",
+     "en": "and (doṣas) arising above the clavicles",
+     "hi": "और जत्रु (हँसली) के ऊपर उत्पन्न (दोषों) को"
+    },
+    {
+     "sa": "पक्वाधानात्",
+     "iast": "pakvādhānāt",
+     "en": "from the pakvāśaya (colon)",
+     "hi": "पक्वाशय से"
+    },
+    {
+     "sa": "गुदेन च",
+     "iast": "gudena ca",
+     "en": "and through the anus",
+     "hi": "और गुदा मार्ग से"
+    },
+    {
+     "sa": "उत्क्लिष्टान्",
+     "iast": "utkliṣṭān",
+     "en": "excited, loosened",
+     "hi": "उत्क्लेशित (उभरे हुए)"
+    },
+    {
+     "sa": "अधः ऊर्ध्वम् वा",
+     "iast": "adhaḥ ūrdhvam vā",
+     "en": "downward or upward",
+     "hi": "नीचे या ऊपर"
+    },
+    {
+     "sa": "न च आमान्",
+     "iast": "na ca āmān",
+     "en": "and not with āma",
+     "hi": "और जो आम युक्त न हों"
+    },
+    {
+     "sa": "वहतः स्वयम्",
+     "iast": "vahataḥ svayam",
+     "en": "flowing out by themselves",
+     "hi": "अपने आप बहते हुए"
+    }
+   ],
+   "english": "...(a drug given) through the nose (removes) doṣas arising above the clavicles, and (a drug given) through the anus removes those in the colon (pakvāśaya). Doṣas that are excited and flowing out downward or upward by themselves, and are not associated with āma,...",
+   "hindi": "...नाक से दिया गया द्रव्य जत्रु के ऊपर (सिर, गले) के दोषों को, और गुदा से दिया गया द्रव्य पक्वाशय के दोषों को निकालता है। जो दोष उत्क्लेशित होकर अपने आप नीचे या ऊपर बह रहे हों और आम युक्त न हों,...",
+   "explanation_en": "This completes the route rule: oral (vamana/virecana) for the stomach, nasya for ūrdhvajatru (head and neck) diseases, vasti for the colon. The second half starts a new rule about spontaneous discharge of doṣas, completed in verse 32.",
+   "explanation_hi": "यहाँ मार्ग नियम पूरा होता है: आमाशय के लिए मुख (वमन/विरेचन), ऊर्ध्वजत्रु (सिर-गला) रोगों के लिए नस्य, पक्वाशय के लिए बस्ति। दूसरी आधी पंक्ति स्वयं निकल रहे दोषों के बारे में नया नियम शुरू करती है, जो श्लोक 32 में पूरा होता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "nasya",
+    "vasti",
+    "ūrdhvajatru",
+    "pakvāśaya",
+    "utkliṣṭa doṣa"
+   ],
+   "tags": [
+    "shodhana",
+    "route",
+    "nasya",
+    "vasti"
+   ],
+   "importance": "high",
+   "mnemonic": "Mouth-stomach, Nose-head, Anus-colon.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.13.32",
+   "word_meanings": [
+    {
+     "sa": "धारयेत्",
+     "iast": "dhārayet",
+     "en": "should hold back (stop)",
+     "hi": "रोके"
+    },
+    {
+     "sa": "औषधैः",
+     "iast": "auṣadhaiḥ",
+     "en": "with medicines",
+     "hi": "औषधियों से"
+    },
+    {
+     "sa": "विधृताः",
+     "iast": "vidhṛtāḥ",
+     "en": "(when) held back",
+     "hi": "रोके जाने पर"
+    },
+    {
+     "sa": "ते हि रोग-दाः",
+     "iast": "te hi roga-dāḥ",
+     "en": "they indeed cause disease",
+     "hi": "वे रोग उत्पन्न करते हैं"
+    },
+    {
+     "sa": "प्रवृत्तान्",
+     "iast": "pravṛttān",
+     "en": "flowing out",
+     "hi": "प्रवृत्त (बहते हुए)"
+    },
+    {
+     "sa": "प्राक्",
+     "iast": "prāk",
+     "en": "initially",
+     "hi": "पहले"
+    },
+    {
+     "sa": "अतः",
+     "iast": "ataḥ",
+     "en": "therefore",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "उपेक्षेत",
+     "iast": "upekṣeta",
+     "en": "should disregard (let them flow)",
+     "hi": "उपेक्षा करे (बहने दे)"
+    },
+    {
+     "sa": "हित-आशिनः",
+     "iast": "hita-āśinaḥ",
+     "en": "in one taking wholesome food",
+     "hi": "हितकर भोजन करने वाले में"
+    }
+   ],
+   "english": "...should not be held back with medicines, because when held back they cause disease. Therefore, in a person taking wholesome food, doṣas that are flowing out should at first be left alone.",
+   "hindi": "...उन्हें औषधियों से नहीं रोकना चाहिए, क्योंकि रोके जाने पर वे रोग उत्पन्न करते हैं। इसलिए हितकर भोजन करने वाले व्यक्ति में बहते हुए दोषों की शुरुआत में उपेक्षा करनी चाहिए (उन्हें बहने देना चाहिए)।",
+   "explanation_en": "This is the rule of not suppressing spontaneous elimination of nirāma doṣas (for example, early diarrhoea or vomiting where the body is expelling doṣas), as long as the patient eats wholesome food. It echoes the vegadhāraṇa (suppression of urges) concept of Sūtrasthāna chapter 4.",
+   "explanation_hi": "यह नियम कहता है कि निराम दोष अपने आप निकल रहे हों (जैसे शुरुआती दस्त या उल्टी जहाँ शरीर दोषों को निकाल रहा है), तो उन्हें दवा से न रोकें, जब तक रोगी हितकर आहार ले रहा हो। यह सूत्रस्थान अध्याय 4 के वेगधारण (वेग रोकने) के विचार से मिलता है।",
+   "modern_correlation": {
+    "en": "This is often compared to the modern caution against routinely stopping early diarrhoea with antimotility drugs in some infections, where elimination can be protective; this is a loose parallel and not treatment guidance.",
+    "hi": "इसकी तुलना अक्सर उस आधुनिक सावधानी से की जाती है जिसमें कुछ संक्रमणों में शुरुआती दस्त को तुरंत दवा से रोकने से बचने की बात है, क्योंकि निष्कासन रक्षात्मक हो सकता है। यह केवल ढीली समानता है, उपचार की सलाह नहीं।"
+   },
+   "key_terms": [
+    "utkliṣṭa doṣa",
+    "upekṣā",
+    "vegadhāraṇa"
+   ],
+   "tags": [
+    "shodhana",
+    "chikitsa-principles"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.13.33",
+   "word_meanings": [
+    {
+     "sa": "विबद्धान्",
+     "iast": "vibaddhān",
+     "en": "(doṣas that are) obstructed",
+     "hi": "रुके हुए (दोषों को)"
+    },
+    {
+     "sa": "पाचनैः तैः तैः",
+     "iast": "pācanaiḥ taiḥ taiḥ",
+     "en": "with various appropriate digestives",
+     "hi": "उन-उन (उपयुक्त) पाचन द्रव्यों से"
+    },
+    {
+     "sa": "पाचयेत्",
+     "iast": "pācayet",
+     "en": "should digest",
+     "hi": "पचाए"
+    },
+    {
+     "sa": "निर्हरेत वा",
+     "iast": "nirhareta vā",
+     "en": "or should eliminate",
+     "hi": "या बाहर निकाले"
+    },
+    {
+     "sa": "श्रावणे कार्त्तिके चैत्रे",
+     "iast": "śrāvaṇe kārttike caitre",
+     "en": "in Śrāvaṇa, Kārttika and Caitra",
+     "hi": "श्रावण, कार्तिक और चैत्र में"
+    },
+    {
+     "sa": "मासि साधारणे",
+     "iast": "māsi sādhāraṇe",
+     "en": "in the common (moderate) month",
+     "hi": "साधारण मास में"
+    },
+    {
+     "sa": "क्रमात्",
+     "iast": "kramāt",
+     "en": "respectively",
+     "hi": "क्रम से"
+    }
+   ],
+   "english": "Doṣas that are obstructed should be digested with the various appropriate digestives (pācana) or eliminated. In the moderate (sādhāraṇa) months Śrāvaṇa, Kārttika and Caitra, respectively, ... (continued in the next verse).",
+   "hindi": "रुके हुए दोषों को उपयुक्त पाचन द्रव्यों से पचाना चाहिए या बाहर निकालना चाहिए। साधारण मासों में, क्रम से श्रावण, कार्तिक और चैत्र में... (अगले श्लोक में आगे)।",
+   "explanation_en": "The first half completes the rule of verse 32: if the doṣas are not flowing freely, help with pācana or śodhana. The second half begins the section on routine seasonal purification (ṛtu-śodhana). The three sādhāraṇa months are mild in climate, so purification is safe then. The file gives a variant 'nirharet tathā' in the second quarter.",
+   "explanation_hi": "पहली आधी पंक्ति श्लोक 32 का नियम पूरा करती है: यदि दोष ठीक से नहीं बह रहे, तो पाचन या शोधन से सहायता करें। दूसरी आधी पंक्ति ऋतु के अनुसार नियमित शोधन का विषय शुरू करती है। तीनों साधारण मासों में मौसम मध्यम रहता है, इसलिए तब शोधन सुरक्षित होता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sādhāraṇa māsa",
+    "pācana",
+    "ṛtu-śodhana"
+   ],
+   "tags": [
+    "seasonal-shodhana",
+    "ritucharya"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.13.34",
+   "word_meanings": [
+    {
+     "sa": "प्रावृट्-शरद्-वसन्तेषु",
+     "iast": "prāvṛṭ-śarad-vasanteṣu",
+     "en": "in prāvṛṭ (early rains), śarad (autumn) and vasanta (spring)",
+     "hi": "प्रावृट्, शरद और वसंत में"
+    },
+    {
+     "sa": "मासेषु एतेषु शोधयेत्",
+     "iast": "māseṣu eteṣu śodhayet",
+     "en": "one should purify in these months",
+     "hi": "इन मासों में शोधन करे"
+    },
+    {
+     "sa": "साधारणेषु विधिना",
+     "iast": "sādhāraṇeṣu vidhinā",
+     "en": "in the moderate (months), according to rule",
+     "hi": "साधारण मासों में विधिपूर्वक"
+    },
+    {
+     "sa": "त्रि-मास-अन्तरितान् मलान्",
+     "iast": "tri-māsa-antaritān malān",
+     "en": "doṣas at intervals of three months",
+     "hi": "तीन-तीन महीने के अंतर पर दोषों को"
+    },
+    {
+     "sa": "ग्रीष्म-वर्षा-हिम-चितान्",
+     "iast": "grīṣma-varṣā-hima-citān",
+     "en": "accumulated in summer, rains and winter",
+     "hi": "ग्रीष्म, वर्षा और हेमंत में संचित"
+    },
+    {
+     "sa": "वायु-आदीन्",
+     "iast": "vāyu-ādīn",
+     "en": "vāta and the others",
+     "hi": "वात आदि को"
+    },
+    {
+     "sa": "आशु निर्हरेत्",
+     "iast": "āśu nirharet",
+     "en": "should quickly eliminate",
+     "hi": "शीघ्र निकाले"
+    },
+    {
+     "sa": "अति-उष्ण-वर्ष-शीताः",
+     "iast": "ati-uṣṇa-varṣa-śītāḥ",
+     "en": "extremely hot, rainy and cold",
+     "hi": "अति गरम, वर्षा वाले और ठंडे"
+    },
+    {
+     "sa": "ग्रीष्म-वर्षा-हिम-आगमाः",
+     "iast": "grīṣma-varṣā-hima-āgamāḥ",
+     "en": "the arrival of summer, rains and winter",
+     "hi": "ग्रीष्म, वर्षा और हेमंत का आगमन"
+    }
+   ],
+   "english": "...in prāvṛṭ (early rains), śarad (autumn) and vasanta (spring), one should carry out purification in these months. [Additional lines:] In the moderate months, according to rule, one should eliminate the doṣas at intervals of three months: vāta and the others, accumulated in summer, rains and winter respectively, should be removed promptly. [Main verse:] For the arrival of summer, rains and winter brings extreme heat, rain and cold (which are unsuitable for purification).",
+   "hindi": "...प्रावृट्, शरद और वसंत ऋतुओं के इन मासों में शोधन करना चाहिए। [अतिरिक्त पंक्तियाँ:] साधारण मासों में विधिपूर्वक तीन-तीन महीने के अंतर पर दोषों का शोधन करें: ग्रीष्म, वर्षा और हेमंत में संचित वात, पित्त और कफ को शीघ्र निकालना चाहिए। [मूल श्लोक:] क्योंकि ग्रीष्म, वर्षा और हेमंत के आने पर अत्यधिक गर्मी, वर्षा और ठंड होती है (जो शोधन के लिए अनुपयुक्त है)।",
+   "explanation_en": "This is the classic schedule of seasonal śodhana: vāta accumulated in grīṣma is eliminated in prāvṛṭ (Śrāvaṇa, by vasti), pitta accumulated in varṣā in śarad (Kārttika, by virecana), and kapha accumulated in hemanta in vasanta (Caitra, by vamana). Extreme seasons are avoided because purification weakens the body. This is a high-yield exam topic.",
+   "explanation_hi": "यह ऋतु-शोधन की प्रसिद्ध समय-सारणी है: ग्रीष्म में संचित वात का प्रावृट् (श्रावण) में बस्ति से, वर्षा में संचित पित्त का शरद (कार्तिक) में विरेचन से, और हेमंत में संचित कफ का वसंत (चैत्र) में वमन से शोधन। अत्यधिक गर्मी, वर्षा या ठंड वाली ऋतुओं से बचा जाता है क्योंकि शोधन शरीर को दुर्बल करता है। यह परीक्षा का बहुत महत्वपूर्ण विषय है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "ṛtu-śodhana",
+    "sādhāraṇa ṛtu",
+    "caya",
+    "vasti",
+    "virecana",
+    "vamana"
+   ],
+   "tags": [
+    "seasonal-shodhana",
+    "ritucharya"
+   ],
+   "importance": "high",
+   "mnemonic": "Śrāvaṇa-Vāta-Vasti, Kārttika-Pitta-Virecana, Caitra-Kapha-Vamana.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.13.35",
+   "word_meanings": [
+    {
+     "sa": "संधौ साधारणे",
+     "iast": "saṃdhau sādhāraṇe",
+     "en": "in the moderate junction (between seasons)",
+     "hi": "ऋतुओं की साधारण संधि में"
+    },
+    {
+     "sa": "तेषाम्",
+     "iast": "teṣām",
+     "en": "of those (seasons)",
+     "hi": "उन (ऋतुओं) की"
+    },
+    {
+     "sa": "दुष्टान् दोषान् विशोधयेत्",
+     "iast": "duṣṭān doṣān viśodhayet",
+     "en": "should purify the vitiated doṣas",
+     "hi": "दूषित दोषों का शोधन करे"
+    },
+    {
+     "sa": "स्वस्थ-वृत्तम् अभिप्रेत्य",
+     "iast": "svastha-vṛttam abhipretya",
+     "en": "with reference to the regimen of the healthy",
+     "hi": "स्वस्थवृत्त को ध्यान में रखकर"
+    },
+    {
+     "sa": "व्याधौ",
+     "iast": "vyādhau",
+     "en": "in disease",
+     "hi": "रोग में"
+    },
+    {
+     "sa": "व्याधि-वशेन तु",
+     "iast": "vyādhi-vaśena tu",
+     "en": "but according to the disease",
+     "hi": "पर रोग के अनुसार"
+    }
+   ],
+   "english": "One should purify the vitiated doṣas in the moderate junction between those seasons: this is with reference to the regimen of the healthy (svasthavṛtta). In disease, however, it is done according to the needs of the disease.",
+   "hindi": "उन ऋतुओं की साधारण संधि में दूषित दोषों का शोधन करना चाहिए: यह स्वस्थवृत्त (स्वस्थ व्यक्ति की चर्या) के लिए है। रोग होने पर तो रोग की आवश्यकता के अनुसार (कभी भी) शोधन करें।",
+   "explanation_en": "An important clarification: the seasonal schedule is preventive, for healthy people. In disease, the physician does not wait for the season; urgency of the disease decides. This distinction between svastha (preventive) and ātura (curative) śodhana is often asked.",
+   "explanation_hi": "एक महत्वपूर्ण स्पष्टीकरण: ऋतु के अनुसार शोधन निवारक है, स्वस्थ लोगों के लिए। रोग में वैद्य ऋतु की प्रतीक्षा नहीं करता; रोग की आवश्यकता ही निर्णय करती है। स्वस्थ (निवारक) और आतुर (रोगी) शोधन का यह भेद अक्सर पूछा जाता है।",
+   "modern_correlation": {
+    "en": "The idea of periodic preventive measures in healthy people versus need-based treatment in illness broadly parallels the modern distinction between preventive care and clinical treatment.",
+    "hi": "स्वस्थ लोगों के लिए समय-समय पर निवारक उपाय और रोग में आवश्यकता के अनुसार उपचार का विचार मोटे तौर पर आधुनिक 'निवारक देखभाल और नैदानिक उपचार' के भेद से मिलता है।"
+   },
+   "key_terms": [
+    "svasthavṛtta",
+    "ṛtu-sandhi",
+    "śodhana"
+   ],
+   "tags": [
+    "seasonal-shodhana",
+    "swasthavritta"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.13.36",
+   "word_meanings": [
+    {
+     "sa": "त्रयः साधारणाः",
+     "iast": "trayaḥ sādhāraṇāḥ",
+     "en": "three moderate (seasons)",
+     "hi": "तीन साधारण ऋतुएँ"
+    },
+    {
+     "sa": "तेषाम् अन्तरे",
+     "iast": "teṣām antare",
+     "en": "in between those (extreme seasons)",
+     "hi": "उनके बीच में"
+    },
+    {
+     "sa": "प्रावृष्-आदयः",
+     "iast": "prāvṛṣ-ādayaḥ",
+     "en": "prāvṛṭ and the others",
+     "hi": "प्रावृट् आदि"
+    },
+    {
+     "sa": "शुचि-नभौ",
+     "iast": "śuci-nabhau",
+     "en": "Śuci and Nabhas (Āṣāḍha and Śrāvaṇa)",
+     "hi": "शुचि और नभ (आषाढ़ और श्रावण)"
+    },
+    {
+     "sa": "ऊर्ज-सहौ",
+     "iast": "ūrja-sahau",
+     "en": "Ūrja and Sahas (Kārttika and Mārgaśīrṣa)",
+     "hi": "ऊर्ज और सह (कार्तिक और मार्गशीर्ष)"
+    },
+    {
+     "sa": "तपस्यः मधु-मासः",
+     "iast": "tapasyaḥ madhu-māsaḥ",
+     "en": "Tapasya and Madhu (Phālguna and Caitra)",
+     "hi": "तपस्य और मधु (फाल्गुन और चैत्र)"
+    },
+    {
+     "sa": "शोधनम् प्रति",
+     "iast": "śodhanam prati",
+     "en": "with regard to purification",
+     "hi": "शोधन के संबंध में"
+    },
+    {
+     "sa": "विकल्प्य",
+     "iast": "vikalpya",
+     "en": "having considered",
+     "hi": "विचार करके"
+    },
+    {
+     "sa": "कृत्वा प्रतीकारम्",
+     "iast": "kṛtvā pratīkāram",
+     "en": "having made counter-measures",
+     "hi": "उपाय करके"
+    },
+    {
+     "sa": "शीत-उष्ण-वृष्टीनाम्",
+     "iast": "śīta-uṣṇa-vṛṣṭīnām",
+     "en": "against cold, heat and rain",
+     "hi": "ठंड, गर्मी और वर्षा के"
+    },
+    {
+     "sa": "यथा-यथम्",
+     "iast": "yathā-yatham",
+     "en": "appropriately",
+     "hi": "यथायोग्य"
+    },
+    {
+     "sa": "प्रयोजयेत् क्रियाम् प्राप्ताम्",
+     "iast": "prayojayet kriyām prāptām",
+     "en": "should apply the indicated therapy",
+     "hi": "प्राप्त (उचित) चिकित्सा करे"
+    },
+    {
+     "sa": "क्रिया-कालम् न हापयेत्",
+     "iast": "kriyā-kālam na hāpayet",
+     "en": "should not let the time for therapy pass",
+     "hi": "चिकित्सा का समय न गँवाए"
+    }
+   ],
+   "english": "[Additional lines:] Between those (extreme seasons) lie the three moderate seasons, prāvṛṭ and the others. For purposes of purification, prāvṛṭ consists of Śuci and Nabhas (Āṣāḍha-Śrāvaṇa), śarad of Ūrja and Sahas (Kārttika-Mārgaśīrṣa), and vasanta of Tapasya and Madhu (Phālguna-Caitra). Having considered the seasons in this way, the physician should give purification therapy. [Main verse:] After taking appropriate measures against cold, heat and rain, one should apply the indicated therapy and should never let the right time for therapy (kriyākāla) pass.",
+   "hindi": "[अतिरिक्त पंक्तियाँ:] उन (अति ऋतुओं) के बीच प्रावृट् आदि तीन साधारण ऋतुएँ हैं। शोधन के लिए प्रावृट् में शुचि और नभ (आषाढ़-श्रावण), शरद में ऊर्ज और सह (कार्तिक-मार्गशीर्ष), और वसंत में तपस्य और मधु (फाल्गुन-चैत्र) मास आते हैं। इस प्रकार ऋतुओं का विचार करके वैद्य शोधन कराए। [मूल श्लोक:] ठंड, गर्मी और वर्षा से बचाव के उचित उपाय करके आवश्यक चिकित्सा करनी चाहिए और चिकित्सा का सही समय (क्रियाकाल) कभी नहीं गँवाना चाहिए।",
+   "explanation_en": "The extra lines define the month-pairs of the three sādhāraṇa seasons for śodhana. The main verse is a practical instruction: if disease demands purification in an unsuitable season, protect the patient from the climate (for example, warm rooms in winter) and proceed, because missing the kriyākāla is worse. 'Kriyākālaṃ na hāpayet' is a well-known maxim.",
+   "explanation_hi": "अतिरिक्त पंक्तियाँ शोधन के लिए तीनों साधारण ऋतुओं के मास-युग्म बताती हैं। मूल श्लोक व्यावहारिक निर्देश है: यदि रोग में अनुपयुक्त ऋतु में शोधन ज़रूरी हो, तो रोगी को मौसम से बचाकर (जैसे सर्दी में गरम कमरा) चिकित्सा करें, क्योंकि क्रियाकाल चूकना अधिक हानिकारक है। 'क्रियाकालं न हापयेत्' प्रसिद्ध सूक्ति है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sādhāraṇa ṛtu",
+    "kriyākāla",
+    "prāvṛṭ",
+    "śarad",
+    "vasanta"
+   ],
+   "tags": [
+    "seasonal-shodhana",
+    "kriyakala"
+   ],
+   "importance": "medium",
+   "mnemonic": "Kriyākālaṃ na hāpayet: never miss the moment to treat.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.13.37",
+   "word_meanings": [
+    {
+     "sa": "युञ्ज्यात्",
+     "iast": "yuñjyāt",
+     "en": "should administer",
+     "hi": "प्रयोग करे"
+    },
+    {
+     "sa": "अनन्नम्",
+     "iast": "anannam",
+     "en": "without food (on an empty stomach)",
+     "hi": "बिना अन्न के (खाली पेट)"
+    },
+    {
+     "sa": "अन्न-आदौ",
+     "iast": "anna-ādau",
+     "en": "at the beginning of a meal",
+     "hi": "भोजन के आरंभ में"
+    },
+    {
+     "sa": "मध्ये",
+     "iast": "madhye",
+     "en": "in the middle (of a meal)",
+     "hi": "भोजन के बीच में"
+    },
+    {
+     "sa": "अन्ते",
+     "iast": "ante",
+     "en": "at the end (of a meal)",
+     "hi": "भोजन के अंत में"
+    },
+    {
+     "sa": "कवड-अन्तरे",
+     "iast": "kavaḍa-antare",
+     "en": "between morsels",
+     "hi": "ग्रासों के बीच में"
+    },
+    {
+     "sa": "ग्रासे ग्रासे",
+     "iast": "grāse grāse",
+     "en": "with each morsel",
+     "hi": "हर ग्रास के साथ"
+    },
+    {
+     "sa": "मुहुः",
+     "iast": "muhuḥ",
+     "en": "repeatedly",
+     "hi": "बार-बार"
+    },
+    {
+     "sa": "स-अन्नम्",
+     "iast": "sa-annam",
+     "en": "mixed with food",
+     "hi": "अन्न के साथ मिलाकर"
+    },
+    {
+     "sa": "सामुद्गम्",
+     "iast": "sāmudgam",
+     "en": "before and after food (enclosing the meal like a box)",
+     "hi": "भोजन के पहले और बाद में (सामुद्ग)"
+    },
+    {
+     "sa": "निशि",
+     "iast": "niśi",
+     "en": "at night",
+     "hi": "रात में"
+    },
+    {
+     "sa": "औषधम्",
+     "iast": "auṣadham",
+     "en": "medicine",
+     "hi": "औषधि"
+    }
+   ],
+   "english": "Medicine should be administered: without food (anna), at the beginning of a meal, in the middle, at the end, between morsels, with each morsel, repeatedly, mixed with food, before and after a meal (sāmudga), and at night.",
+   "hindi": "औषधि इन समयों पर दी जाती है: बिना अन्न के (खाली पेट), भोजन के आरंभ में, बीच में, अंत में, ग्रासों के बीच में, हर ग्रास के साथ, बार-बार, अन्न में मिलाकर, भोजन के पहले और बाद में (सामुद्ग) और रात में।",
+   "explanation_en": "This is the famous list of ten auṣadha-sevana-kāla (times of administering medicine) in Aṣṭāṅgahṛdaya, a very frequently asked exam question. Verses 38-41 then give the indication for each time. 'Sāmudga' comes from samudga, a box with a lid: the medicine 'encloses' the meal.",
+   "explanation_hi": "यह अष्टांगहृदय के दस औषध-सेवन-काल की प्रसिद्ध सूची है, जो परीक्षा में बहुत पूछी जाती है। श्लोक 38-41 हर काल का संकेत (कब प्रयोग करें) बताते हैं। 'सामुद्ग' शब्द समुद्ग (ढक्कन वाली डिबिया) से आया है: औषधि भोजन को डिबिया की तरह दोनों ओर से घेर लेती है।",
+   "modern_correlation": {
+    "en": "Timing medicines relative to meals broadly parallels modern pharmacology, where food can change absorption, gastric tolerance and onset of action of drugs; the classical scheme is based on doṣa and vāyu subtypes rather than pharmacokinetics.",
+    "hi": "भोजन के सापेक्ष दवा का समय तय करना मोटे तौर पर आधुनिक फ़ार्माकोलॉजी से मेल खाता है, जहाँ भोजन दवा के अवशोषण, पेट पर सहनशीलता और असर के समय को बदल सकता है। पर शास्त्रीय योजना दोष और वायु के भेदों पर आधारित है, फ़ार्माकोकाइनेटिक्स पर नहीं।"
+   },
+   "key_terms": [
+    "auṣadha-sevana-kāla",
+    "bheṣaja-kāla",
+    "sāmudga",
+    "anannam"
+   ],
+   "tags": [
+    "bhaishajya-kala",
+    "definitions",
+    "enumeration"
+   ],
+   "importance": "high",
+   "mnemonic": "10 Bheṣaja-kāla: 'Empty, Start, Middle, End, Between, Each-bite, Repeat, With-food, Box (sāmudga), Night'.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.13.38",
+   "word_meanings": [
+    {
+     "sa": "कफ-उद्रेके गदे",
+     "iast": "kapha-udreke gade",
+     "en": "in a disease with kapha predominance",
+     "hi": "कफ की अधिकता वाले रोग में"
+    },
+    {
+     "sa": "अनन्नम्",
+     "iast": "anannam",
+     "en": "(medicine) without food",
+     "hi": "बिना अन्न के"
+    },
+    {
+     "sa": "बलिनः रोग-रोगिणोः",
+     "iast": "balinaḥ roga-rogiṇoḥ",
+     "en": "when both disease and patient are strong",
+     "hi": "जब रोग और रोगी दोनों बलवान हों"
+    },
+    {
+     "sa": "अन्न-आदौ",
+     "iast": "anna-ādau",
+     "en": "at the beginning of a meal",
+     "hi": "भोजन के आरंभ में"
+    },
+    {
+     "sa": "विगुणे अपाने",
+     "iast": "viguṇe apāne",
+     "en": "when apāna (vāta) is disordered",
+     "hi": "अपान वायु के विकृत होने पर"
+    },
+    {
+     "sa": "समाने मध्ये इष्यते",
+     "iast": "samāne madhye iṣyate",
+     "en": "in (disorder of) samāna, in the middle (of the meal) is desired",
+     "hi": "समान वायु के विकार में भोजन के बीच में"
+    }
+   ],
+   "english": "Medicine without food is given in diseases with predominance of kapha, when both the disease and the patient are strong. At the beginning of a meal, when apāna vāyu is disordered; in the middle of a meal, (when) samāna vāyu (is disordered).",
+   "hindi": "कफ की अधिकता वाले रोग में, जब रोग और रोगी दोनों बलवान हों, तब औषधि बिना अन्न के (खाली पेट) दी जाती है। अपान वायु के विकार में भोजन के आरंभ में, और समान वायु के विकार में भोजन के बीच में दी जाती है।",
+   "explanation_en": "Here begin the indications for each bheṣaja-kāla. Empty-stomach medicine acts most strongly, so it is used only when the patient can tolerate it. Note the link with the five subtypes of vāta: apāna (downward) - beginning of meal; samāna (digestive) - middle of meal.",
+   "explanation_hi": "यहाँ से हर भेषज-काल के संकेत शुरू होते हैं। खाली पेट दी गई औषधि सबसे तीव्र असर करती है, इसलिए यह केवल तभी दी जाती है जब रोगी सह सके। वात के पाँच भेदों से संबंध देखें: अपान (नीचे जाने वाला) - भोजन से पहले; समान (पाचन में सहायक) - भोजन के बीच में।",
+   "modern_correlation": null,
+   "key_terms": [
+    "anannam",
+    "apāna",
+    "samāna",
+    "bheṣaja-kāla"
+   ],
+   "tags": [
+    "bhaishajya-kala",
+    "vata-subtypes"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.13.39",
+   "word_meanings": [
+    {
+     "sa": "व्याने अन्ते प्रातर्-आशस्य",
+     "iast": "vyāne ante prātar-āśasya",
+     "en": "in vyāna (disorder), at the end of the morning meal",
+     "hi": "व्यान वायु में, सुबह के भोजन के अंत में"
+    },
+    {
+     "sa": "सायम्-आशस्य तु उत्तरे",
+     "iast": "sāyam-āśasya tu uttare",
+     "en": "and after the evening meal (in udāna disorder)",
+     "hi": "और शाम के भोजन के बाद (उदान में)"
+    },
+    {
+     "sa": "ग्रास-ग्रास-अन्तयोः",
+     "iast": "grāsa-grāsa-antayoḥ",
+     "en": "with morsels and between morsels",
+     "hi": "ग्रास के साथ और ग्रासों के बीच में"
+    },
+    {
+     "sa": "प्राणे प्रदुष्टे मातरिश्वनि",
+     "iast": "prāṇe praduṣṭe mātariśvani",
+     "en": "when prāṇa vāyu is vitiated",
+     "hi": "प्राण वायु के दूषित होने पर"
+    }
+   ],
+   "english": "In disorders of vyāna vāyu, (medicine is given) at the end of the morning meal; (in disorders of udāna,) after the evening meal; and when prāṇa vāyu is vitiated, with each morsel and between morsels.",
+   "hindi": "व्यान वायु के विकार में औषधि सुबह के भोजन के अंत में; (उदान वायु के विकार में) शाम के भोजन के बाद; और प्राण वायु के दूषित होने पर हर ग्रास के साथ और ग्रासों के बीच में दी जाती है।",
+   "explanation_en": "This completes the correlation of bheṣaja-kāla with the five vāyus: apāna - before meal, samāna - middle, vyāna - after morning meal, udāna - after evening meal, prāṇa - with/between morsels. Udāna is not named but is understood by commentators from the context.",
+   "explanation_hi": "यहाँ भेषज-काल और पाँच वायुओं का संबंध पूरा होता है: अपान - भोजन से पहले, समान - बीच में, व्यान - सुबह के भोजन के बाद, उदान - शाम के भोजन के बाद, प्राण - ग्रास के साथ/बीच में। उदान का नाम श्लोक में नहीं है, पर टीकाकार प्रसंग से इसे समझते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vyāna",
+    "udāna",
+    "prāṇa",
+    "bheṣaja-kāla"
+   ],
+   "tags": [
+    "bhaishajya-kala",
+    "vata-subtypes"
+   ],
+   "importance": "high",
+   "mnemonic": "Vāyu clock: Apāna-Start, Samāna-Middle, Vyāna-after Morning, Udāna-after Evening, Prāṇa-with/between bites.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.13.40",
+   "word_meanings": [
+    {
+     "sa": "मुहुः मुहुः",
+     "iast": "muhuḥ muhuḥ",
+     "en": "repeatedly",
+     "hi": "बार-बार"
+    },
+    {
+     "sa": "विष-छर्दि-हिध्मा-तृट्-श्वास-कासिषु",
+     "iast": "viṣa-chardi-hidhmā-tṛṭ-śvāsa-kāsiṣu",
+     "en": "in poisoning, vomiting, hiccup, thirst, dyspnoea and cough",
+     "hi": "विष, वमन (उल्टी), हिचकी, प्यास, श्वास और खाँसी में"
+    },
+    {
+     "sa": "योज्यम्",
+     "iast": "yojyam",
+     "en": "should be given",
+     "hi": "देना चाहिए"
+    },
+    {
+     "sa": "स-भोज्यम् भैषज्यम्",
+     "iast": "sa-bhojyam bhaiṣajyam",
+     "en": "medicine mixed with food",
+     "hi": "भोजन में मिली औषधि"
+    },
+    {
+     "sa": "भोज्यैः चित्रैः",
+     "iast": "bhojyaiḥ citraiḥ",
+     "en": "with various (tasty) foods",
+     "hi": "तरह-तरह के (स्वादिष्ट) भोजन के साथ"
+    },
+    {
+     "sa": "अरोचके",
+     "iast": "arocake",
+     "en": "in anorexia",
+     "hi": "अरुचि में"
+    }
+   ],
+   "english": "Medicine is given repeatedly in poisoning, vomiting, hiccup, thirst, breathlessness and cough. In anorexia (arocaka), medicine is given mixed with a variety of tasty foods.",
+   "hindi": "विष, उल्टी, हिचकी, प्यास, श्वास और खाँसी में औषधि बार-बार दी जाती है। अरुचि (भोजन में रुचि न होने) में औषधि तरह-तरह के स्वादिष्ट भोजन में मिलाकर दी जाती है।",
+   "explanation_en": "Repeated small doses suit conditions that come in bouts (vega), like hiccup or cough. Mixing medicine with attractive food helps the patient with no appetite to take it. These are the 'muhurmuhu' and 'sānna' kālas of verse 37.",
+   "explanation_hi": "बार-बार थोड़ी मात्रा में औषधि उन रोगों में ठीक है जो वेग (दौरे) के रूप में आते हैं, जैसे हिचकी या खाँसी। स्वादिष्ट भोजन में दवा मिलाने से भूख न लगने वाला रोगी भी उसे ले लेता है। ये श्लोक 37 के 'मुहुर्मुहु' और 'सान्न' काल हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "muhurmuhu",
+    "sānna",
+    "arocaka",
+    "hidhmā",
+    "śvāsa"
+   ],
+   "tags": [
+    "bhaishajya-kala"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.13.41",
+   "word_meanings": [
+    {
+     "sa": "कम्प-आक्षेपक-हिध्मासु",
+     "iast": "kampa-ākṣepaka-hidhmāsu",
+     "en": "in tremors, convulsions and hiccup",
+     "hi": "कंपन, आक्षेपक (ऐंठन) और हिचकी में"
+    },
+    {
+     "sa": "सामुद्गम्",
+     "iast": "sāmudgam",
+     "en": "before and after food",
+     "hi": "भोजन के पहले और बाद में"
+    },
+    {
+     "sa": "लघु-भोजिनाम्",
+     "iast": "laghu-bhojinām",
+     "en": "for those taking light food",
+     "hi": "हल्का भोजन करने वालों के लिए"
+    },
+    {
+     "sa": "ऊर्ध्व-जत्रु-विकारेषु",
+     "iast": "ūrdhva-jatru-vikāreṣu",
+     "en": "in diseases above the clavicles",
+     "hi": "जत्रु के ऊपर (सिर-गले) के रोगों में"
+    },
+    {
+     "sa": "स्वप्न-काले प्रशस्यते",
+     "iast": "svapna-kāle praśasyate",
+     "en": "(medicine) at bedtime is recommended",
+     "hi": "सोने के समय (औषधि) प्रशस्त है"
+    }
+   ],
+   "english": "Medicine before and after food (sāmudga) is given in tremors, convulsions (ākṣepaka) and hiccup, for those who take light food. In diseases above the clavicles (ūrdhvajatru), medicine at bedtime (night) is recommended.",
+   "hindi": "कंपन, आक्षेपक (ऐंठन) और हिचकी में, हल्का भोजन करने वालों को औषधि भोजन के पहले और बाद में (सामुद्ग) दी जाती है। जत्रु के ऊपर (सिर, आँख, नाक, गले) के रोगों में सोने के समय (रात में) औषधि देना श्रेष्ठ है।",
+   "explanation_en": "This completes the ten bheṣaja-kālas and the chapter. Night-time medicine for ūrdhvajatru disorders is a well-known exam point. Tip: revise verses 37-41 as a table of 'time - indication'.",
+   "explanation_hi": "यहाँ दस भेषज-काल और अध्याय पूरा होता है। ऊर्ध्वजत्रु रोगों में रात्रि में औषधि परीक्षा का प्रसिद्ध बिंदु है। सुझाव: श्लोक 37-41 को 'काल - संकेत' की तालिका बनाकर दोहराएँ।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sāmudga",
+    "niśi",
+    "ūrdhvajatru",
+    "ākṣepaka",
+    "bheṣaja-kāla"
+   ],
+   "tags": [
+    "bhaishajya-kala"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  }
+ ]
+}

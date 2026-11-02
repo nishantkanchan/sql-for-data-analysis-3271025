@@ -1,0 +1,24 @@
+{
+ "source": "Digital Corpus of Sanskrit (DCS), Oliver Hellwig, CoNLL-U dump",
+ "repository": "https://github.com/OliverHellwig/sanskrit",
+ "path": "dcs/data/conllu/files",
+ "commit": "8aeed5a1343d0e48b64eb32af8c00e8c6eb29359",
+ "commit_date": "2026-08-24T20:22:25+02:00",
+ "extracted": "2026-11-02",
+ "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+ "citation": "Oliver Hellwig: The Digital Corpus of Sanskrit (DCS). 2010-2024.",
+ "texts": [
+  {
+   "text": "Carakasaṃhitā",
+   "file": "carakasamhita.jsonl",
+   "chapters": 82,
+   "lines": 8571
+  },
+  {
+   "text": "Suśrutasaṃhitā",
+   "file": "susrutasamhita.jsonl",
+   "chapters": 186,
+   "lines": 15899
+  }
+ ]
+}
