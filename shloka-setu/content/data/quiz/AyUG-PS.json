@@ -1,0 +1,2221 @@
+{
+  "subject_id": "AyUG-PS",
+  "questions": [
+    {
+      "id": "AyUG-PS-0001",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-rajasvala",
+      "topic_en": "Rajasvalā caryā and ṛtu",
+      "topic_hi": "रजस्वला चर्या और ऋतु",
+      "type": "mcq",
+      "question_en": "According to Caraka, for how many nights should a woman observe rajasvalā caryā from the onset of menstruation?",
+      "question_hi": "चरक के अनुसार रजोदर्शन से कितनी रातों तक रजस्वला चर्या का पालन करना चाहिए?",
+      "options": [
+        {
+          "en": "Five",
+          "hi": "पाँच"
+        },
+        {
+          "en": "Seven",
+          "hi": "सात"
+        },
+        {
+          "en": "Twelve",
+          "hi": "बारह"
+        },
+        {
+          "en": "Three",
+          "hi": "तीन"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "CS Śā 8.5: from the first day of flow, for three nights she should observe celibacy, sleep on the ground, eat from her palms or an unbroken vessel and avoid toilet/cosmetic care; on the fourth day she bathes. Twelve nights is Suśruta's ṛtukāla.",
+      "explanation_hi": "चरक शारीर 8.5: रजोदर्शन से तीन रात तक ब्रह्मचर्य, भूमि पर शयन, हथेलियों या अखंड पात्र में भोजन, और श्रृंगार का त्याग करना चाहिए; चौथे दिन स्नान। बारह रात सुश्रुत का ऋतुकाल है।",
+      "reference": "CS.sharira.8.5",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0002",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-rajasvala",
+      "topic_en": "Rajasvalā caryā and ṛtu",
+      "topic_hi": "रजस्वला चर्या और ऋतु",
+      "type": "mcq",
+      "question_en": "According to Suśruta, if a rajasvalā woman applies añjana (collyrium), the child born may be:",
+      "question_hi": "सुश्रुत के अनुसार यदि रजस्वला स्त्री अञ्जन लगाए, तो जन्म लेने वाली संतान कैसी हो सकती है?",
+      "options": [
+        {
+          "en": "Bald (khalati)",
+          "hi": "गंजी (खलति)"
+        },
+        {
+          "en": "Deaf (badhira)",
+          "hi": "बहरी"
+        },
+        {
+          "en": "Blind (andha)",
+          "hi": "अन्धी"
+        },
+        {
+          "en": "Sleepy (svapnaśīla)",
+          "hi": "निद्राशील"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "SS Śā 2.25 links each prohibited act with a defect in the child: añjana → blindness; day sleep → sleepiness; listening to loud sounds → deafness; combing hair → baldness; crying → defective vision; nail cutting → bad nails.",
+      "explanation_hi": "सुश्रुत शारीर 2.25 प्रत्येक निषिद्ध कर्म को संतान के दोष से जोड़ता है: अञ्जन → अन्धापन; दिवास्वप्न → निद्राशीलता; तीव्र शब्द सुनना → बहरापन; केश संवारना → गंजापन; रोना → दृष्टि दोष; नख काटना → कुनख।",
+      "reference": "SS.sharira.2.25",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0003",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-rajasvala",
+      "topic_en": "Rajasvalā caryā and ṛtu",
+      "topic_hi": "रजस्वला चर्या और ऋतु",
+      "type": "true_false",
+      "question_en": "True or False: Suśruta states that if a rajasvalā woman sleeps during the day, her child may be excessively sleepy.",
+      "question_hi": "सत्य या असत्य: सुश्रुत कहते हैं कि यदि रजस्वला स्त्री दिन में सोए, तो उसकी संतान अधिक निद्राशील हो सकती है।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "True. SS Śā 2.25: divāsvapna during menstruation is said to produce a svapnaśīla (sleepy) child. The verse is used to teach rest and restraint during menses.",
+      "explanation_hi": "सत्य। सुश्रुत शारीर 2.25: रजस्वला अवस्था में दिवास्वप्न से संतान स्वप्नशील (निद्रालु) होती है। यह श्लोक रजस्वला काल में संयम और विश्राम सिखाने के लिए प्रयुक्त होता है।",
+      "reference": "SS.sharira.2.25",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0004",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-rajasvala",
+      "topic_en": "Rajasvalā caryā and ṛtu",
+      "topic_hi": "रजस्वला चर्या और ऋतु",
+      "type": "mcq",
+      "question_en": "According to Suśruta, menstruation begins at about what age and ceases at about what age?",
+      "question_hi": "सुश्रुत के अनुसार आर्तव लगभग किस आयु में आरम्भ होता है और किस आयु में बंद होता है?",
+      "options": [
+        {
+          "en": "16 years; 45 years",
+          "hi": "16 वर्ष; 45 वर्ष"
+        },
+        {
+          "en": "10 years; 60 years",
+          "hi": "10 वर्ष; 60 वर्ष"
+        },
+        {
+          "en": "12 years; 50 years",
+          "hi": "12 वर्ष; 50 वर्ष"
+        },
+        {
+          "en": "14 years; 40 years",
+          "hi": "14 वर्ष; 40 वर्ष"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "SS Śā 3.11: menstrual blood flows from the twelfth year and declines at fifty in women whose bodies are 'ripened by age'.",
+      "explanation_hi": "सुश्रुत शारीर 3.11: आर्तव बारहवें वर्ष से प्रवृत्त होता है और पचास वर्ष में, जब शरीर जरा से परिपक्व हो जाता है, क्षीण होता है।",
+      "reference": "SS.sharira.3.11",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0005",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-rajasvala",
+      "topic_en": "Rajasvalā caryā and ṛtu",
+      "topic_hi": "रजस्वला चर्या और ऋतु",
+      "type": "mcq",
+      "question_en": "According to Suśruta, ṛtukāla (the fertile period) lasts for:",
+      "question_hi": "सुश्रुत के अनुसार ऋतुकाल कितने समय तक रहता है?",
+      "options": [
+        {
+          "en": "Twelve nights",
+          "hi": "बारह रातें"
+        },
+        {
+          "en": "Three nights",
+          "hi": "तीन रातें"
+        },
+        {
+          "en": "Sixteen nights",
+          "hi": "सोलह रातें"
+        },
+        {
+          "en": "One month",
+          "hi": "एक मास"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "SS Śā 3.6: 'ṛtus tu dvādaśarātraṃ bhavati' — ṛtukāla is twelve nights. Vāgbhaṭa also speaks of twelve nights (AH Śā 1.26). Three nights is the period of rajasvalā caryā.",
+      "explanation_hi": "सुश्रुत शारीर 3.6: 'ऋतुस्तु द्वादशरात्रं भवति' - ऋतुकाल बारह रातें है। वाग्भट भी बारह रातें बताते हैं (अष्टाङ्गहृदय शारीर 1.26)। तीन रातें रजस्वला चर्या की अवधि है।",
+      "reference": "SS.sharira.3.6",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0006",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-artava",
+      "topic_en": "Ārtava and ārtava doṣa",
+      "topic_hi": "आर्तव और आर्तव दोष",
+      "type": "mcq",
+      "question_en": "According to Suśruta, pure (śuddha) ārtava resembles:",
+      "question_hi": "सुश्रुत के अनुसार शुद्ध आर्तव किसके समान होता है?",
+      "options": [
+        {
+          "en": "Rabbit's blood or lac juice, and does not stain cloth after washing",
+          "hi": "शशक रक्त या लाक्षा रस के समान, और धोने पर वस्त्र पर दाग नहीं छोड़ता"
+        },
+        {
+          "en": "Dark, clotted and foul-smelling blood",
+          "hi": "काला, थक्केदार और दुर्गन्धयुक्त रक्त"
+        },
+        {
+          "en": "Pale, watery discharge",
+          "hi": "फीका, पतला स्राव"
+        },
+        {
+          "en": "Frothy, scanty blood with pain",
+          "hi": "झागदार, अल्प, पीड़ायुक्त रक्त"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "SS Śā 2.17: ārtava like śaśāsṛk (rabbit's blood) or lākṣārasa, which does not stain cloth (vāso na rañjayet), is praised. Clots, foul smell or froth indicate ārtava doṣa.",
+      "explanation_hi": "सुश्रुत शारीर 2.17: शशासृक् (खरगोश का रक्त) या लाक्षारस जैसा आर्तव, जो वस्त्र को न रंगे, प्रशस्त है। थक्के, दुर्गन्ध या झाग आर्तव दोष दर्शाते हैं।",
+      "reference": "SS.sharira.2.17",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0007",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-artava",
+      "topic_en": "Ārtava and ārtava doṣa",
+      "topic_hi": "आर्तव और आर्तव दोष",
+      "type": "mcq",
+      "question_en": "According to Caraka, normal menstrual flow lasts about how many nights?",
+      "question_hi": "चरक के अनुसार सामान्य आर्तव प्रवृत्ति लगभग कितनी रातों तक रहती है?",
+      "options": [
+        {
+          "en": "Five",
+          "hi": "पाँच"
+        },
+        {
+          "en": "Three",
+          "hi": "तीन"
+        },
+        {
+          "en": "Seven",
+          "hi": "सात"
+        },
+        {
+          "en": "Twelve",
+          "hi": "बारह"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "CS Ci 30.225: pure ārtava comes monthly, is not slimy, without burning or pain, lasts five nights and is neither too much nor too little; its colour is like guñjā fruit, red lotus, lac or the indragopa insect (30.226). Do not confuse with the three nights of rajasvalā caryā.",
+      "explanation_hi": "चरक चिकित्सा 30.225: शुद्ध आर्तव मासिक, पिच्छिलता रहित, दाह-पीड़ा रहित, पाँच रात तक रहने वाला और न अधिक न अल्प होता है; उसका वर्ण गुञ्जाफल, लाल कमल, अलक्तक या इन्द्रगोप जैसा (30.226)। इसे रजस्वला चर्या की तीन रातों से न मिलाएँ।",
+      "reference": "CS.chikitsa.30.225",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0008",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-artava",
+      "topic_en": "Ārtava and ārtava doṣa",
+      "topic_hi": "आर्तव और आर्तव दोष",
+      "type": "mcq",
+      "question_en": "How many ārtava doṣas are described by Suśruta?",
+      "question_hi": "सुश्रुत ने कितने आर्तव दोष बताए हैं?",
+      "options": [
+        {
+          "en": "Five",
+          "hi": "पाँच"
+        },
+        {
+          "en": "Eight",
+          "hi": "आठ"
+        },
+        {
+          "en": "Twenty",
+          "hi": "बीस"
+        },
+        {
+          "en": "Four",
+          "hi": "चार"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "SS Śā 2.3–5: eight — vātaja, pittaja, kaphaja, kuṇapagandhi (rakta), granthibhūta (kapha-vāta), pūti-pūya (pitta-kapha), kṣīṇa (vāta-pitta) and mūtra-purīṣa-gandhi (sannipāta). The same eight are described for śukra.",
+      "explanation_hi": "सुश्रुत शारीर 2.3-5: आठ - वातज, पित्तज, कफज, कुणपगन्धि (रक्त), ग्रन्थिभूत (कफ-वात), पूतिपूय (पित्त-कफ), क्षीण (वात-पित्त) और मूत्रपुरीषगन्धि (सन्निपात)। यही आठ शुक्र दोष भी हैं।",
+      "reference": "SS.sharira.2.3",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0009",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-artava",
+      "topic_en": "Ārtava and ārtava doṣa",
+      "topic_hi": "आर्तव और आर्तव दोष",
+      "type": "mcq",
+      "question_en": "According to Suśruta, which of the following ārtava doṣas is considered sādhya (curable)?",
+      "question_hi": "सुश्रुत के अनुसार इनमें से कौन-सा आर्तव दोष साध्य माना गया है?",
+      "options": [
+        {
+          "en": "Kuṇapagandhi",
+          "hi": "कुणपगन्धि"
+        },
+        {
+          "en": "Granthibhūta",
+          "hi": "ग्रन्थिभूत"
+        },
+        {
+          "en": "Vātaja",
+          "hi": "वातज"
+        },
+        {
+          "en": "Mūtra-purīṣa-gandhi",
+          "hi": "मूत्रपुरीषगन्धि"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "SS Śā 2.5: in ārtava, the kuṇapa, granthi, pūti-pūya, kṣīṇa and mūtra-purīṣa types are asādhya, and the rest (vātaja, pittaja, kaphaja) sādhya. Note the difference for śukra (2.4), where the first four of these are kṛcchrasādhya and only mūtra-purīṣa is asādhya.",
+      "explanation_hi": "सुश्रुत शारीर 2.5: आर्तव में कुणप, ग्रन्थि, पूतिपूय, क्षीण और मूत्रपुरीष प्रकार असाध्य हैं, शेष (वातज, पित्तज, कफज) साध्य। शुक्र (2.4) में अंतर ध्यान दें - वहाँ पहले चार कृच्छ्रसाध्य हैं और केवल मूत्रपुरीष असाध्य।",
+      "reference": "SS.sharira.2.5",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0010",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-artava",
+      "topic_en": "Ārtava and ārtava doṣa",
+      "topic_hi": "आर्तव और आर्तव दोष",
+      "type": "mcq",
+      "question_en": "According to Suśruta, rasa is converted into ārtava in women in about how long?",
+      "question_hi": "सुश्रुत के अनुसार स्त्रियों में रस लगभग कितने समय में आर्तव में बदलता है?",
+      "options": [
+        {
+          "en": "Seven days",
+          "hi": "सात दिन"
+        },
+        {
+          "en": "Three days",
+          "hi": "तीन दिन"
+        },
+        {
+          "en": "Six months",
+          "hi": "छह मास"
+        },
+        {
+          "en": "One month",
+          "hi": "एक मास"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "SS Sū 14.14: rasa stays 3015 kalās in each dhātu, so in one month it becomes śukra in men and ārtava in women. This explains the monthly cycle.",
+      "explanation_hi": "सुश्रुत सूत्र 14.14: रस प्रत्येक धातु में 3015 कला रहता है, अतः एक मास में पुरुषों में शुक्र और स्त्रियों में आर्तव बन जाता है। इससे मासिक चक्र समझाया जाता है।",
+      "reference": "SS.sutra.14.14",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0011",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-garbha",
+      "topic_en": "Garbhādhāna and garbha vṛddhi",
+      "topic_hi": "गर्भाधान और गर्भ वृद्धि",
+      "type": "mcq",
+      "question_en": "Suśruta names four essential factors for conception (garbha sambhava sāmagrī). They are:",
+      "question_hi": "सुश्रुत ने गर्भ सम्भव के चार आवश्यक कारक (गर्भ सम्भव सामग्री) बताए हैं। वे हैं:",
+      "options": [
+        {
+          "en": "Vāta, pitta, kapha, rakta",
+          "hi": "वात, पित्त, कफ, रक्त"
+        },
+        {
+          "en": "Ṛtu, kṣetra, ambu, bīja",
+          "hi": "ऋतु, क्षेत्र, अम्बु, बीज"
+        },
+        {
+          "en": "Rasa, rakta, māṃsa, meda",
+          "hi": "रस, रक्त, मांस, मेद"
+        },
+        {
+          "en": "Ātmā, manas, indriya, śarīra",
+          "hi": "आत्मा, मन, इन्द्रिय, शरीर"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "SS Śā 2.33: ṛtu (fertile period), kṣetra (healthy uterus/reproductive tract), ambu (nutrition) and bīja (healthy śukra and ārtava) — like a seed needing season, field, water and seed.",
+      "explanation_hi": "सुश्रुत शारीर 2.33: ऋतु (उचित काल), क्षेत्र (स्वस्थ गर्भाशय), अम्बु (पोषण) और बीज (स्वस्थ शुक्र-आर्तव) - जैसे बीज को उगने के लिए ऋतु, खेत, जल और बीज चाहिए।",
+      "reference": "SS.sharira.2.33",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0012",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-garbha",
+      "topic_en": "Garbhādhāna and garbha vṛddhi",
+      "topic_hi": "गर्भाधान और गर्भ वृद्धि",
+      "type": "mcq",
+      "question_en": "According to Suśruta, what forms in the first month of pregnancy?",
+      "question_hi": "सुश्रुत के अनुसार गर्भ के प्रथम मास में क्या बनता है?",
+      "options": [
+        {
+          "en": "Ghana (compact mass)",
+          "hi": "घन"
+        },
+        {
+          "en": "Five piṇḍakas for limbs and head",
+          "hi": "अंगों और सिर के पाँच पिण्डक"
+        },
+        {
+          "en": "Kalala (jelly-like mass)",
+          "hi": "कलल"
+        },
+        {
+          "en": "Manifest heart",
+          "hi": "व्यक्त हृदय"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "SS Śā 3.18: first month — kalala; second — ghana; third — five piṇḍakas (buds) for hands, feet and head; fourth — all limbs distinct and the heart manifest.",
+      "explanation_hi": "सुश्रुत शारीर 3.18: प्रथम मास - कलल; द्वितीय - घन; तृतीय - हाथ, पैर और सिर के पाँच पिण्डक; चतुर्थ - सभी अंग स्पष्ट और हृदय व्यक्त।",
+      "reference": "SS.sharira.3.18",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0013",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-garbha",
+      "topic_en": "Garbhādhāna and garbha vṛddhi",
+      "topic_hi": "गर्भाधान और गर्भ वृद्धि",
+      "type": "mcq",
+      "question_en": "In which month do the five piṇḍakas (buds of the two hands, two feet and head) appear, according to Suśruta?",
+      "question_hi": "सुश्रुत के अनुसार किस मास में पाँच पिण्डक (दो हाथ, दो पैर और सिर के अंकुर) प्रकट होते हैं?",
+      "options": [
+        {
+          "en": "Second",
+          "hi": "दूसरे"
+        },
+        {
+          "en": "Fourth",
+          "hi": "चौथे"
+        },
+        {
+          "en": "Third",
+          "hi": "तीसरे"
+        },
+        {
+          "en": "Fifth",
+          "hi": "पाँचवें"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "SS Śā 3.18: in the third month five piṇḍakas form and the subtle division of limbs begins. In the second month the embryo becomes ghana; in the fourth all limbs become distinct.",
+      "explanation_hi": "सुश्रुत शारीर 3.18: तीसरे मास में पाँच पिण्डक बनते हैं और अंगों का सूक्ष्म विभाजन आरम्भ होता है। दूसरे मास में गर्भ घन होता है; चौथे में सभी अंग स्पष्ट होते हैं।",
+      "reference": "SS.sharira.3.18",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0014",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-garbha",
+      "topic_en": "Garbhādhāna and garbha vṛddhi",
+      "topic_hi": "गर्भाधान और गर्भ वृद्धि",
+      "type": "mcq",
+      "question_en": "According to Suśruta, in which month does the fetal heart become manifest, so that the mother is called 'dauhṛdinī' (two-hearted)?",
+      "question_hi": "सुश्रुत के अनुसार किस मास में गर्भ का हृदय व्यक्त होता है, जिससे माता 'दौहृदिनी' (दो हृदय वाली) कहलाती है?",
+      "options": [
+        {
+          "en": "Second",
+          "hi": "दूसरे"
+        },
+        {
+          "en": "Sixth",
+          "hi": "छठे"
+        },
+        {
+          "en": "Eighth",
+          "hi": "आठवें"
+        },
+        {
+          "en": "Fourth",
+          "hi": "चौथे"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "SS Śā 3.18: in the fourth month all limbs become distinct and, as the fetal heart becomes manifest, consciousness is expressed; the mother now has two hearts and her cravings (dauhṛda) should be respected.",
+      "explanation_hi": "सुश्रुत शारीर 3.18: चौथे मास में सभी अंग स्पष्ट होते हैं और गर्भ का हृदय व्यक्त होने से चेतना प्रकट होती है; अब माता दो हृदय वाली है और उसकी इच्छाओं (दौहृद) का सम्मान करना चाहिए।",
+      "reference": "SS.sharira.3.18",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0015",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-garbha",
+      "topic_en": "Garbhādhāna and garbha vṛddhi",
+      "topic_hi": "गर्भाधान और गर्भ वृद्धि",
+      "type": "mcq",
+      "question_en": "According to Suśruta, in which month does the manas (mind) of the fetus become more awakened?",
+      "question_hi": "सुश्रुत के अनुसार किस मास में गर्भ का मन अधिक प्रबुद्ध होता है?",
+      "options": [
+        {
+          "en": "Fifth",
+          "hi": "पाँचवें"
+        },
+        {
+          "en": "Fourth",
+          "hi": "चौथे"
+        },
+        {
+          "en": "Sixth",
+          "hi": "छठे"
+        },
+        {
+          "en": "Seventh",
+          "hi": "सातवें"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "SS Śā 3.30: fifth month — manas more awakened; sixth — buddhi; seventh — all limbs more clearly developed; eighth — ojas unstable.",
+      "explanation_hi": "सुश्रुत शारीर 3.30: पाँचवाँ मास - मन अधिक प्रबुद्ध; छठा - बुद्धि; सातवाँ - सभी अंग और स्पष्ट; आठवाँ - ओज अस्थिर।",
+      "reference": "SS.sharira.3.30",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0016",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-garbha",
+      "topic_en": "Garbhādhāna and garbha vṛddhi",
+      "topic_hi": "गर्भाधान और गर्भ वृद्धि",
+      "type": "mcq",
+      "question_en": "According to Suśruta, buddhi (intellect) of the fetus develops in which month?",
+      "question_hi": "सुश्रुत के अनुसार गर्भ में बुद्धि किस मास में विकसित होती है?",
+      "options": [
+        {
+          "en": "Sixth",
+          "hi": "छठे"
+        },
+        {
+          "en": "Fifth",
+          "hi": "पाँचवें"
+        },
+        {
+          "en": "Fourth",
+          "hi": "चौथे"
+        },
+        {
+          "en": "Eighth",
+          "hi": "आठवें"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "SS Śā 3.30: 'ṣaṣṭhe buddhiḥ' — buddhi in the sixth month. Manas is more awakened in the fifth.",
+      "explanation_hi": "सुश्रुत शारीर 3.30: 'षष्ठे बुद्धिः' - छठे मास में बुद्धि। पाँचवें मास में मन अधिक प्रबुद्ध होता है।",
+      "reference": "SS.sharira.3.30",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0017",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-garbha",
+      "topic_en": "Garbhādhāna and garbha vṛddhi",
+      "topic_hi": "गर्भाधान और गर्भ वृद्धि",
+      "type": "mcq",
+      "question_en": "Why is a baby born in the eighth month considered unlikely to survive, according to Suśruta?",
+      "question_hi": "सुश्रुत के अनुसार आठवें मास में जन्मा शिशु जीवित न रहने की संभावना वाला क्यों माना गया है?",
+      "options": [
+        {
+          "en": "The heart has not yet formed",
+          "hi": "हृदय अभी नहीं बना"
+        },
+        {
+          "en": "The limbs are not yet separated",
+          "hi": "अंग अभी अलग नहीं हुए"
+        },
+        {
+          "en": "The mind has not yet awakened",
+          "hi": "मन अभी प्रबुद्ध नहीं हुआ"
+        },
+        {
+          "en": "Ojas is unstable (asthira) in that month",
+          "hi": "उस मास में ओज अस्थिर रहता है"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "SS Śā 3.30: in the eighth month ojas is unstable, moving between mother and fetus; a child born then may not live, being without ojas and belonging to the nairṛta (demonic) share.",
+      "explanation_hi": "सुश्रुत शारीर 3.30: आठवें मास में ओज अस्थिर रहता है और माता व गर्भ के बीच आता-जाता है; उस समय जन्मा शिशु ओज रहित और नैरृत भाग का होने से जीवित नहीं रह सकता।",
+      "reference": "SS.sharira.3.30",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0018",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-garbha",
+      "topic_en": "Garbhādhāna and garbha vṛddhi",
+      "topic_hi": "गर्भाधान और गर्भ वृद्धि",
+      "type": "mcq",
+      "question_en": "According to Suśruta, normal delivery (prasava) occurs in which period?",
+      "question_hi": "सुश्रुत के अनुसार सामान्य प्रसव किस अवधि में होता है?",
+      "options": [
+        {
+          "en": "Any of the 9th, 10th, 11th or 12th months",
+          "hi": "9वें, 10वें, 11वें या 12वें मास में"
+        },
+        {
+          "en": "Only in the 8th month",
+          "hi": "केवल 8वें मास में"
+        },
+        {
+          "en": "Only in the 10th month",
+          "hi": "केवल 10वें मास में"
+        },
+        {
+          "en": "7th or 8th month",
+          "hi": "7वें या 8वें मास में"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "SS Śā 3.30: birth takes place in any of the ninth, tenth, eleventh or twelfth months; otherwise the fetus is considered abnormal (vikārī).",
+      "explanation_hi": "सुश्रुत शारीर 3.30: प्रसव नवें, दसवें, ग्यारहवें या बारहवें मास में से किसी में होता है; अन्यथा गर्भ विकारी माना जाता है।",
+      "reference": "SS.sharira.3.30",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0019",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-garbha",
+      "topic_en": "Garbhādhāna and garbha vṛddhi",
+      "topic_hi": "गर्भाधान और गर्भ वृद्धि",
+      "type": "mcq",
+      "question_en": "Which of the following is a pitṛja bhāva (derived from the father) according to Caraka?",
+      "question_hi": "चरक के अनुसार इनमें से कौन-सा पितृज भाव (पिता से प्राप्त) है?",
+      "options": [
+        {
+          "en": "Hṛdaya (heart)",
+          "hi": "हृदय"
+        },
+        {
+          "en": "Asthi (bones)",
+          "hi": "अस्थि"
+        },
+        {
+          "en": "Rakta (blood)",
+          "hi": "रक्त"
+        },
+        {
+          "en": "Māṃsa (muscle)",
+          "hi": "मांस"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "CS Śā 3.7: pitṛja bhāvas are the firm parts — keśa, śmaśru, nakha, loma, danta, asthi, sirā, snāyu, dhamanī and śukra. Soft parts like tvak, rakta, māṃsa, medas, hṛdaya and the abdominal organs are mātṛja (3.6).",
+      "explanation_hi": "चरक शारीर 3.7: पितृज भाव स्थिर अवयव हैं - केश, श्मश्रु, नख, लोम, दन्त, अस्थि, सिरा, स्नायु, धमनी और शुक्र। मृदु अवयव जैसे त्वक्, रक्त, मांस, मेद, हृदय और उदर के अंग मातृज हैं (3.6)।",
+      "reference": "CS.sharira.3.7",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0020",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-garbha",
+      "topic_en": "Garbhādhāna and garbha vṛddhi",
+      "topic_hi": "गर्भाधान और गर्भ वृद्धि",
+      "type": "mcq",
+      "question_en": "According to Suśruta, the yoni has three āvartas (coils). In which āvarta is the garbhaśayyā (seat of the fetus) located?",
+      "question_hi": "सुश्रुत के अनुसार योनि में तीन आवर्त होते हैं। गर्भशय्या किस आवर्त में स्थित है?",
+      "options": [
+        {
+          "en": "First",
+          "hi": "पहले"
+        },
+        {
+          "en": "Second",
+          "hi": "दूसरे"
+        },
+        {
+          "en": "Third",
+          "hi": "तीसरे"
+        },
+        {
+          "en": "Outside the āvartas",
+          "hi": "आवर्तों से बाहर"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "SS Śā 5.43–44: the yoni is shaped like a conch's spiral with three āvartas; the garbhaśayyā lies in the third, and the uterus is shaped like the mouth of a rohita fish.",
+      "explanation_hi": "सुश्रुत शारीर 5.43-44: योनि शंख की नाभि जैसी, तीन आवर्तों वाली है; गर्भशय्या तीसरे आवर्त में है, और गर्भाशय रोहित मछली के मुख के आकार का है।",
+      "reference": "SS.sharira.5.43",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0021",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-garbha",
+      "topic_en": "Garbhādhāna and garbha vṛddhi",
+      "topic_hi": "गर्भाधान और गर्भ वृद्धि",
+      "type": "mcq",
+      "question_en": "Suśruta compares the shape of the garbhāśaya (uterus) with:",
+      "question_hi": "सुश्रुत गर्भाशय के आकार की तुलना किससे करते हैं?",
+      "options": [
+        {
+          "en": "A lotus bud",
+          "hi": "कमल की कली से"
+        },
+        {
+          "en": "A conch shell",
+          "hi": "शंख से"
+        },
+        {
+          "en": "The mouth of a rohita fish",
+          "hi": "रोहित मछली के मुख से"
+        },
+        {
+          "en": "An inverted pot",
+          "hi": "उल्टे घड़े से"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "SS Śā 5.44: the garbhāśaya is like the mouth of a rohita fish. The conch comparison (śaṅkhanābhi) describes the yoni with its three āvartas.",
+      "explanation_hi": "सुश्रुत शारीर 5.44: गर्भाशय रोहित मछली के मुख जैसा है। शंखनाभि की तुलना तीन आवर्तों वाली योनि के लिए है।",
+      "reference": "SS.sharira.5.44",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0022",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-garbhini",
+      "topic_en": "Garbhiṇī paricaryā",
+      "topic_hi": "गर्भिणी परिचर्या",
+      "type": "mcq",
+      "question_en": "According to Caraka's month-wise regimen, what should a woman take in the first month of pregnancy?",
+      "question_hi": "चरक की मासानुमासिक परिचर्या के अनुसार गर्भ के प्रथम मास में स्त्री को क्या लेना चाहिए?",
+      "options": [
+        {
+          "en": "Plain, unmedicated cold milk in suitable quantity",
+          "hi": "उचित मात्रा में सादा, औषधरहित शीतल दूध"
+        },
+        {
+          "en": "Milk medicated with madhura drugs",
+          "hi": "मधुर औषधसिद्ध दूध"
+        },
+        {
+          "en": "Milk with honey and ghee",
+          "hi": "मधु और घृत युक्त दूध"
+        },
+        {
+          "en": "Kṣīra-yavāgū with ghee",
+          "hi": "घृतयुक्त क्षीर यवागू"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "CS Śā 8.32: 1st month — unmedicated (anupaskṛta) cold milk; 2nd — milk medicated with madhura drugs; 3rd — milk with honey and ghee; 4th — milk with butter (one akṣa); 5th — milk-ghee; 6th–7th — ghee medicated with madhura drugs; 8th — kṣīra-yavāgū with ghee.",
+      "explanation_hi": "चरक शारीर 8.32: प्रथम मास - अनुपस्कृत (सादा) शीतल दूध; द्वितीय - मधुर औषधसिद्ध दूध; तृतीय - मधु-घृत युक्त दूध; चतुर्थ - नवनीत (एक अक्ष) युक्त दूध; पञ्चम - क्षीर सर्पि; षष्ठ-सप्तम - मधुर औषधसिद्ध घृत; अष्टम - घृतयुक्त क्षीर यवागू।",
+      "reference": "CS.sharira.8.32",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0023",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-garbhini",
+      "topic_en": "Garbhiṇī paricaryā",
+      "topic_hi": "गर्भिणी परिचर्या",
+      "type": "mcq",
+      "question_en": "In Caraka's month-wise regimen, kṣīra-navanīta (butter from milk) in the dose of one akṣa is advised in which month?",
+      "question_hi": "चरक की मासानुमासिक परिचर्या में एक अक्ष मात्रा में क्षीर-नवनीत किस मास में बताया गया है?",
+      "options": [
+        {
+          "en": "Second",
+          "hi": "दूसरे"
+        },
+        {
+          "en": "Fourth",
+          "hi": "चौथे"
+        },
+        {
+          "en": "Sixth",
+          "hi": "छठे"
+        },
+        {
+          "en": "Eighth",
+          "hi": "आठवें"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "CS Śā 8.32: 'caturthe māse kṣīranavanītam akṣamātram aśnīyāt'. Ghee from milk (kṣīra-sarpis) is for the fifth month.",
+      "explanation_hi": "चरक शारीर 8.32: 'चतुर्थे मासे क्षीरनवनीतमक्षमात्रमश्नीयात्'। क्षीर सर्पि (दूध से बना घी) पाँचवें मास के लिए है।",
+      "reference": "CS.sharira.8.32",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0024",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-garbhini",
+      "topic_en": "Garbhiṇī paricaryā",
+      "topic_hi": "गर्भिणी परिचर्या",
+      "type": "mcq",
+      "question_en": "In the ninth month, Caraka advises which local measure for the pregnant woman (along with anuvāsana)?",
+      "question_hi": "नवें मास में चरक गर्भिणी के लिए (अनुवासन के साथ) कौन-सा स्थानिक उपाय बताते हैं?",
+      "options": [
+        {
+          "en": "Yoni picu (tampon) of oil medicated with madhura drugs",
+          "hi": "मधुर औषधसिद्ध तैल का योनि पिचु"
+        },
+        {
+          "en": "Vaginal douche with decoction",
+          "hi": "क्वाथ से योनि प्रक्षालन"
+        },
+        {
+          "en": "Kṣāra application",
+          "hi": "क्षार प्रयोग"
+        },
+        {
+          "en": "Uttara basti",
+          "hi": "उत्तर बस्ति"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "CS Śā 8.32: in the ninth month anuvāsana basti with oil medicated with madhura drugs and a picu of the same oil in the vagina are given, to lubricate the birth passage and help normal vāta for delivery.",
+      "explanation_hi": "चरक शारीर 8.32: नवें मास में मधुर औषधसिद्ध तैल से अनुवासन बस्ति और उसी तैल का योनि पिचु दिया जाता है, जिससे प्रसव मार्ग स्निग्ध हो और प्रसव के लिए वात अनुलोम रहे।",
+      "reference": "CS.sharira.8.32",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0025",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-garbhini",
+      "topic_en": "Garbhiṇī paricaryā",
+      "topic_hi": "गर्भिणी परिचर्या",
+      "type": "mcq",
+      "question_en": "Caraka advises kṣīra-yavāgū with ghee in the eighth month. Which sage objected to it, fearing a tawny (piṅgala) child?",
+      "question_hi": "चरक आठवें मास में घृतयुक्त क्षीर यवागू बताते हैं। किस ऋषि ने पिङ्गल (भूरे) शिशु की आशंका से इसका विरोध किया?",
+      "options": [
+        {
+          "en": "Kāṅkāyana",
+          "hi": "काङ्कायन"
+        },
+        {
+          "en": "Bharadvāja",
+          "hi": "भरद्वाज"
+        },
+        {
+          "en": "Bhadrakāpya",
+          "hi": "भद्रकाप्य"
+        },
+        {
+          "en": "Vāyorvida",
+          "hi": "वायोर्विद"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "CS Śā 8.32 records Bhadrakāpya's objection that kṣīra-yavāgū in the eighth month may make the child piṅgala (tawny-eyed); Ātreya nevertheless accepts it, as such discussions show debate within the text.",
+      "explanation_hi": "चरक शारीर 8.32 में भद्रकाप्य की आपत्ति दर्ज है कि आठवें मास में क्षीर यवागू से शिशु पिङ्गल (भूरी आँखों वाला) हो सकता है; फिर भी आत्रेय इसे स्वीकार करते हैं - यह ग्रंथ के भीतर के शास्त्रार्थ को दिखाता है।",
+      "reference": "CS.sharira.8.32",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0026",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-garbhini",
+      "topic_en": "Garbhiṇī paricaryā",
+      "topic_hi": "गर्भिणी परिचर्या",
+      "type": "true_false",
+      "question_en": "True or False: Caraka permits routine vamana, virecana and raktamokṣaṇa throughout pregnancy.",
+      "question_hi": "सत्य या असत्य: चरक गर्भावस्था में नियमित रूप से वमन, विरेचन और रक्तमोक्षण की अनुमति देते हैं।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "False. CS Śā 8.22: vamana, virecana, śirovirecana, raktamokṣaṇa, āsthāpana and anuvāsana are avoided in pregnancy except in emergencies; from the eighth month, mild measures may be used if truly needed.",
+      "explanation_hi": "असत्य। चरक शारीर 8.22: गर्भावस्था में वमन, विरेचन, शिरोविरेचन, रक्तमोक्षण, आस्थापन और अनुवासन आपात स्थिति के अलावा वर्जित हैं; आठवें मास से आवश्यकता होने पर मृदु उपाय किए जा सकते हैं।",
+      "reference": "CS.sharira.8.22",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0027",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-garbhini",
+      "topic_en": "Garbhiṇī paricaryā",
+      "topic_hi": "गर्भिणी परिचर्या",
+      "type": "mcq",
+      "question_en": "According to Caraka and Suśruta, when should the pregnant woman enter the sūtikāgāra (labour room)?",
+      "question_hi": "चरक और सुश्रुत के अनुसार गर्भिणी को सूतिकागार में कब प्रवेश करना चाहिए?",
+      "options": [
+        {
+          "en": "In the seventh month",
+          "hi": "सातवें मास में"
+        },
+        {
+          "en": "Only after labour pains begin",
+          "hi": "केवल प्रसव पीड़ा आरम्भ होने पर"
+        },
+        {
+          "en": "In the sixth month",
+          "hi": "छठे मास में"
+        },
+        {
+          "en": "At the beginning of the ninth month",
+          "hi": "नवें मास के आरम्भ में"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "CS Śā 8.35 and SS Śā 10.5: she enters the sūtikāgāra on an auspicious day when the ninth month begins. Suśruta gives its size as 8 hasta long and 4 hasta wide.",
+      "explanation_hi": "चरक शारीर 8.35 और सुश्रुत शारीर 10.5: नवाँ मास आरम्भ होने पर शुभ दिन में सूतिकागार में प्रवेश। सुश्रुत उसका माप 8 हाथ लम्बा और 4 हाथ चौड़ा बताते हैं।",
+      "reference": "CS.sharira.8.35",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0028",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-garbhini",
+      "topic_en": "Garbhiṇī paricaryā",
+      "topic_hi": "गर्भिणी परिचर्या",
+      "type": "true_false",
+      "question_en": "True or False: Suśruta advises that the cravings (dauhṛda) of a pregnant woman should be fulfilled, as their denial can harm the fetus.",
+      "question_hi": "सत्य या असत्य: सुश्रुत कहते हैं कि गर्भिणी की इच्छाएँ (दौहृद) पूरी करनी चाहिए, क्योंकि उन्हें ठुकराने से गर्भ को हानि हो सकती है।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "True. SS Śā 3 explains that from the fourth month the mother is dauhṛdinī; unfulfilled cravings may cause deformity or harm to the fetus, so wholesome wishes should be met.",
+      "explanation_hi": "सत्य। सुश्रुत शारीर 3 बताता है कि चौथे मास से माता दौहृदिनी होती है; इच्छाएँ पूरी न होने पर गर्भ में विकृति या हानि हो सकती है, इसलिए हितकर इच्छाएँ पूरी करनी चाहिए।",
+      "reference": "SS.sharira.3.18",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0029",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-garbha-vyapad",
+      "topic_en": "Garbha vyāpad (pregnancy complications)",
+      "topic_hi": "गर्भ व्यापद्",
+      "type": "mcq",
+      "question_en": "According to Suśruta, loss of the fetus up to the fourth month is called garbhasrāva. What is it called in the fifth and sixth months?",
+      "question_hi": "सुश्रुत के अनुसार चौथे मास तक गर्भ का नष्ट होना गर्भस्राव कहलाता है। पाँचवें और छठे मास में इसे क्या कहते हैं?",
+      "options": [
+        {
+          "en": "Upaviṣṭaka",
+          "hi": "उपविष्टक"
+        },
+        {
+          "en": "Mūḍhagarbha",
+          "hi": "मूढगर्भ"
+        },
+        {
+          "en": "Līnagarbha",
+          "hi": "लीनगर्भ"
+        },
+        {
+          "en": "Garbhapāta",
+          "hi": "गर्भपात"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "SS Ni 8.10: up to the fourth month the fetus 'flows out' (srāva) as it is still liquid; in the fifth and sixth months, when the body is firmer, it is pāta. Mūḍhagarbha is obstructed labour; upaviṣṭaka and līnagarbha are conditions of arrested fetal growth.",
+      "explanation_hi": "सुश्रुत निदान 8.10: चौथे मास तक गर्भ द्रव रूप होने से 'स्राव' होता है; पाँचवें-छठे मास में शरीर स्थिर होने पर 'पात'। मूढगर्भ अवरुद्ध प्रसव है; उपविष्टक और लीनगर्भ गर्भ वृद्धि रुकने की अवस्थाएँ हैं।",
+      "reference": "SS.nidana.8.10",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0030",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-garbha-vyapad",
+      "topic_en": "Garbha vyāpad (pregnancy complications)",
+      "topic_hi": "गर्भ व्यापद्",
+      "type": "mcq",
+      "question_en": "According to Caraka, if bleeding occurs in the second or third month of pregnancy due to faulty conduct, what is the expected outcome?",
+      "question_hi": "चरक के अनुसार यदि अपचार से गर्भ के दूसरे या तीसरे मास में रक्तस्राव हो, तो अपेक्षित परिणाम क्या है?",
+      "options": [
+        {
+          "en": "It is normal and needs no care",
+          "hi": "यह सामान्य है, देखभाल आवश्यक नहीं"
+        },
+        {
+          "en": "The pregnancy will usually not be retained",
+          "hi": "गर्भ प्रायः नहीं ठहरेगा"
+        },
+        {
+          "en": "It indicates twins",
+          "hi": "यह जुड़वाँ गर्भ दर्शाता है"
+        },
+        {
+          "en": "It always becomes raktaja gulma",
+          "hi": "यह सदा रक्तज गुल्म बनता है"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "CS Śā 8.23: bleeding in the second or third month suggests the pregnancy will not stay, because the fetus has not yet become firm (ajātasāra). From the fourth month onward Caraka gives a detailed garbhasthāpana regimen for bleeding (8.24).",
+      "explanation_hi": "चरक शारीर 8.23: दूसरे या तीसरे मास में रक्तस्राव होने पर गर्भ के न ठहरने की संभावना है, क्योंकि गर्भ अभी सारयुक्त (स्थिर) नहीं हुआ। चौथे मास से रक्तस्राव होने पर चरक विस्तृत गर्भस्थापन विधि बताते हैं (8.24)।",
+      "reference": "CS.sharira.8.23",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0031",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-sutika",
+      "topic_en": "Sūtikā paricaryā",
+      "topic_hi": "सूतिका परिचर्या",
+      "type": "mcq",
+      "question_en": "Makkalla, described by Suśruta in the puerperium, refers to:",
+      "question_hi": "सुश्रुत द्वारा सूतिकावस्था में वर्णित मक्कल्ल क्या है?",
+      "options": [
+        {
+          "en": "Retained placenta",
+          "hi": "अपरा का रुकना"
+        },
+        {
+          "en": "Excess breast milk",
+          "hi": "स्तन्य की अधिकता"
+        },
+        {
+          "en": "Puerperal fever only",
+          "hi": "केवल सूतिका ज्वर"
+        },
+        {
+          "en": "Painful lump/after-pains from retained blood obstructed by vāta",
+          "hi": "वात से रुके रक्त के कारण पीड़ादायक ग्रन्थि/प्रसवोत्तर शूल"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "SS Śā 10.22: in a woman with dry body after delivery, uncleansed blood is blocked by vāta and forms a painful knot (granthi) below the navel, in the flanks, bladder or head — makkalla (after-pains). Retained placenta is aparāsaṅga.",
+      "explanation_hi": "सुश्रुत शारीर 10.22: प्रसव के बाद रूक्ष शरीर वाली स्त्री में अशोधित रक्त वात से रुककर नाभि के नीचे, पार्श्व, बस्ति या शिर में पीड़ादायक ग्रन्थि बनाता है - मक्कल्ल (प्रसवोत्तर शूल)। अपरा का रुकना अपरासङ्ग है।",
+      "reference": "SS.sharira.10.22",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0032",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-sutika",
+      "topic_en": "Sūtikā paricaryā",
+      "topic_hi": "सूतिका परिचर्या",
+      "type": "mcq",
+      "question_en": "Immediately after delivery, if doṣas remain, Suśruta advises giving which powder with warm jaggery water for two or three nights?",
+      "question_hi": "प्रसव के तुरन्त बाद दोष शेष हों तो सुश्रुत दो-तीन रात तक गरम गुड़ के जल के साथ कौन-सा चूर्ण देने को कहते हैं?",
+      "options": [
+        {
+          "en": "Triphalā",
+          "hi": "त्रिफला"
+        },
+        {
+          "en": "Pippalī, pippalīmūla, hastipippalī, citraka and śṛṅgavera",
+          "hi": "पिप्पली, पिप्पलीमूल, हस्तिपिप्पली, चित्रक और शृङ्गवेर"
+        },
+        {
+          "en": "Śatāvarī and vidārī",
+          "hi": "शतावरी और विदारी"
+        },
+        {
+          "en": "Trivṛt and dantī",
+          "hi": "त्रिवृत् और दन्ती"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "SS Śā 10.16: the sūtikā is anointed with balā oil, and if doṣas remain she is given a powder of pippalī, pippalīmūla, hastipippalī, citraka and śṛṅgavera with warm guḍa water for 2–3 nights until vitiated blood is cleared; then unctuous or milk gruel with vidārigandhādi for three nights.",
+      "explanation_hi": "सुश्रुत शारीर 10.16: सूतिका को बला तैल का अभ्यङ्ग किया जाता है, और दोष शेष हों तो पिप्पली, पिप्पलीमूल, हस्तिपिप्पली, चित्रक और शृङ्गवेर का चूर्ण गरम गुडोदक के साथ 2-3 रात दिया जाता है जब तक दुष्ट रक्त न निकल जाए; फिर तीन रात विदारिगन्धादि सिद्ध स्नेह या क्षीर यवागू।",
+      "reference": "SS.sharira.10.16",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0033",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-sutika",
+      "topic_en": "Sūtikā paricaryā",
+      "topic_hi": "सूतिका परिचर्या",
+      "type": "mcq",
+      "question_en": "Aparā in Ayurvedic obstetrics refers to:",
+      "question_hi": "आयुर्वेदीय प्रसूति तन्त्र में अपरा का अर्थ है:",
+      "options": [
+        {
+          "en": "Umbilical cord",
+          "hi": "नाभिनाल"
+        },
+        {
+          "en": "Amniotic fluid",
+          "hi": "उल्ब द्रव"
+        },
+        {
+          "en": "Lochia",
+          "hi": "सूतिका स्राव (लोकिया)"
+        },
+        {
+          "en": "Placenta",
+          "hi": "अपरा (प्लेसेंटा)"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "Aparā is the placenta; its retention is aparāsaṅga, managed by Caraka with measures such as firm pressure above the navel and shaking (CS Śā 8.41). Nābhināḍī is the cord.",
+      "explanation_hi": "अपरा प्लेसेंटा है; उसका रुकना अपरासङ्ग कहलाता है, जिसके लिए चरक नाभि के ऊपर दृढ़ दबाव, हिलाना आदि उपाय बताते हैं (चरक शारीर 8.41)। नाभिनाडी नाल है।",
+      "reference": "CS.sharira.8.41",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0034",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-yonivyapad",
+      "topic_en": "Yonivyāpad and pradara",
+      "topic_hi": "योनिव्यापद् और प्रदर",
+      "type": "mcq",
+      "question_en": "How many yonivyāpads are described by Caraka and Suśruta?",
+      "question_hi": "चरक और सुश्रुत ने कितने योनिव्यापद् बताए हैं?",
+      "options": [
+        {
+          "en": "Eight",
+          "hi": "आठ"
+        },
+        {
+          "en": "Twenty",
+          "hi": "बीस"
+        },
+        {
+          "en": "Sixteen",
+          "hi": "सोलह"
+        },
+        {
+          "en": "Twelve",
+          "hi": "बारह"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "CS Ci 30.7 and SS Utt 38.5: 'viṃśatir vyāpado yoneḥ' — twenty disorders of the female reproductive tract. Eight is the number of ārtava doṣas.",
+      "explanation_hi": "चरक चिकित्सा 30.7 और सुश्रुत उत्तर 38.5: 'विंशतिर्व्यापदो योनेः' - बीस योनिव्यापद्। आठ आर्तव दोषों की संख्या है।",
+      "reference": "CS.chikitsa.30.7",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0035",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-yonivyapad",
+      "topic_en": "Yonivyāpad and pradara",
+      "topic_hi": "योनिव्यापद् और प्रदर",
+      "type": "mcq",
+      "question_en": "According to Suśruta, which of the following yonivyāpads is vātaja?",
+      "question_hi": "सुश्रुत के अनुसार इनमें से कौन-सा योनिव्यापद् वातज है?",
+      "options": [
+        {
+          "en": "Rudhirakṣarā",
+          "hi": "रुधिरक्षरा"
+        },
+        {
+          "en": "Atyānandā",
+          "hi": "अत्यानन्दा"
+        },
+        {
+          "en": "Udāvartā",
+          "hi": "उदावर्ता"
+        },
+        {
+          "en": "Sūcīvaktrā",
+          "hi": "सूचीवक्त्रा"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "SS Utt 38.6–9: vātaja — udāvartā, vandhyā, viplutā, pariplutā, vātalā; pittaja — rudhirakṣarā, vāminī, sraṃsinī, putraghnī, pittalā; kaphaja — atyānandā, karṇinī, two caraṇās, śleṣmalā; sannipātaja — ṣaṇḍhī, phalinī, mahatī, sūcīvaktrā, sarvajā.",
+      "explanation_hi": "सुश्रुत उत्तर 38.6-9: वातज - उदावर्ता, वन्ध्या, विप्लुता, परिप्लुता, वातला; पित्तज - रुधिरक्षरा, वामिनी, स्रंसिनी, पुत्रघ्नी, पित्तला; कफज - अत्यानन्दा, कर्णिनी, दो चरणा, श्लेष्मला; सन्निपातज - षण्ढी, फलिनी, महती, सूचीवक्त्रा, सर्वजा।",
+      "reference": "SS.uttara.38.6",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0036",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-yonivyapad",
+      "topic_en": "Yonivyāpad and pradara",
+      "topic_hi": "योनिव्यापद् और प्रदर",
+      "type": "mcq",
+      "question_en": "In which yonivyāpad is frothy menstrual blood passed with great difficulty (painfully), as described by Suśruta?",
+      "question_hi": "सुश्रुत के अनुसार किस योनिव्यापद् में झागदार आर्तव अत्यंत कठिनाई (पीड़ा) से निकलता है?",
+      "options": [
+        {
+          "en": "Udāvartā",
+          "hi": "उदावर्ता"
+        },
+        {
+          "en": "Vandhyā",
+          "hi": "वन्ध्या"
+        },
+        {
+          "en": "Pariplutā",
+          "hi": "परिप्लुता"
+        },
+        {
+          "en": "Mahatī",
+          "hi": "महती"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "SS Utt 38.9: 'saphenilam udāvartā rajaḥ kṛcchreṇa muñcati' — udāvartā corresponds to (spasmodic) dysmenorrhoea. Vandhyā has loss of menses; pariplutā has severe pain during intercourse.",
+      "explanation_hi": "सुश्रुत उत्तर 38.9: 'सफेनिलमुदावर्ता रजः कृच्छ्रेण मुञ्चति' - उदावर्ता का सहसंबंध कष्टार्तव (डिसमेनोरिया) से है। वन्ध्या में आर्तव नष्ट होता है; परिप्लुता में मैथुन के समय तीव्र पीड़ा होती है।",
+      "reference": "SS.uttara.38.9",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0037",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-yonivyapad",
+      "topic_en": "Yonivyāpad and pradara",
+      "topic_hi": "योनिव्यापद् और प्रदर",
+      "type": "mcq",
+      "question_en": "According to Suśruta, in which yonivyāpad is there severe pain during intercourse (grāmya dharma)?",
+      "question_hi": "सुश्रुत के अनुसार किस योनिव्यापद् में मैथुन के समय तीव्र पीड़ा होती है?",
+      "options": [
+        {
+          "en": "Vandhyā",
+          "hi": "वन्ध्या"
+        },
+        {
+          "en": "Pariplutā",
+          "hi": "परिप्लुता"
+        },
+        {
+          "en": "Viplutā",
+          "hi": "विप्लुता"
+        },
+        {
+          "en": "Atyānandā",
+          "hi": "अत्यानन्दा"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "SS Utt 38.10: vandhyā — loss of menses; viplutā — constant pain; pariplutā — severe pain during intercourse (dyspareunia). Atyānandā (kaphaja) is the opposite: excessive desire without satisfaction.",
+      "explanation_hi": "सुश्रुत उत्तर 38.10: वन्ध्या - आर्तव नाश; विप्लुता - निरंतर पीड़ा; परिप्लुता - मैथुन के समय तीव्र पीड़ा (डिस्पैरूनिया)। अत्यानन्दा (कफज) इसके विपरीत है - अत्यधिक इच्छा, तृप्ति नहीं।",
+      "reference": "SS.uttara.38.10",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0038",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-yonivyapad",
+      "topic_en": "Yonivyāpad and pradara",
+      "topic_hi": "योनिव्यापद् और प्रदर",
+      "type": "mcq",
+      "question_en": "Asṛgdara (pradara) is best correlated with:",
+      "question_hi": "असृग्दर (प्रदर) का सबसे उपयुक्त सहसंबंध है:",
+      "options": [
+        {
+          "en": "Absence of menstruation",
+          "hi": "आर्तव का अभाव"
+        },
+        {
+          "en": "White vaginal discharge only",
+          "hi": "केवल श्वेत स्राव"
+        },
+        {
+          "en": "Painful menstruation only",
+          "hi": "केवल कष्टार्तव"
+        },
+        {
+          "en": "Excessive or prolonged menstrual/uterine bleeding (menorrhagia/metrorrhagia)",
+          "hi": "अत्यधिक या लम्बा आर्तव/गर्भाशय रक्तस्राव"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "CS Ci 30.209: it is called pradara because the menstrual blood is 'scattered/expelled' (pradīryate) excessively. It corresponds to heavy or irregular uterine bleeding (e.g. abnormal uterine bleeding).",
+      "explanation_hi": "चरक चिकित्सा 30.209: रज अधिक मात्रा में प्रदीर्ण (बिखरता/निकलता) होने से इसे प्रदर कहते हैं। इसका सहसंबंध अत्यधिक या अनियमित गर्भाशय रक्तस्राव (असामान्य गर्भाशय रक्तस्राव) से है।",
+      "reference": "CS.chikitsa.30.209",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0039",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-stanya",
+      "topic_en": "Stanya and stanya doṣa",
+      "topic_hi": "स्तन्य और स्तन्य दोष",
+      "type": "mcq",
+      "question_en": "How many stanya doṣas (defects of breast milk) does Caraka describe?",
+      "question_hi": "चरक ने कितने स्तन्य दोष बताए हैं?",
+      "options": [
+        {
+          "en": "Five",
+          "hi": "पाँच"
+        },
+        {
+          "en": "Three",
+          "hi": "तीन"
+        },
+        {
+          "en": "Eight",
+          "hi": "आठ"
+        },
+        {
+          "en": "Twelve",
+          "hi": "बारह"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "CS Ci 30.236–237: eight — vairasya, phenasaṅghāta and raukṣya (vāta); vaivarṇya and daurgandhya (pitta); sneha, paicchilya and gaurava (kapha).",
+      "explanation_hi": "चरक चिकित्सा 30.236-237: आठ - वैरस्य, फेनसङ्घात और रौक्ष्य (वात); वैवर्ण्य और दौर्गन्ध्य (पित्त); स्नेह, पैच्छिल्य और गौरव (कफ)।",
+      "reference": "CS.chikitsa.30.237",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0040",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-stanya",
+      "topic_en": "Stanya and stanya doṣa",
+      "topic_hi": "स्तन्य और स्तन्य दोष",
+      "type": "mcq",
+      "question_en": "Which stanya doṣa is caused by pitta according to Caraka?",
+      "question_hi": "चरक के अनुसार कौन-सा स्तन्य दोष पित्त से होता है?",
+      "options": [
+        {
+          "en": "Phenasaṅghāta (frothiness)",
+          "hi": "फेनसङ्घात (झागदारपन)"
+        },
+        {
+          "en": "Daurgandhya (foul smell)",
+          "hi": "दौर्गन्ध्य (दुर्गन्ध)"
+        },
+        {
+          "en": "Paicchilya (sliminess)",
+          "hi": "पैच्छिल्य (चिपचिपापन)"
+        },
+        {
+          "en": "Vairasya (abnormal taste)",
+          "hi": "वैरस्य (विकृत स्वाद)"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "CS Ci 30.237: pitta causes vaivarṇya (discoloration) and daurgandhya (foul smell). Vairasya and phenasaṅghāta are vātaja; paicchilya is kaphaja.",
+      "explanation_hi": "चरक चिकित्सा 30.237: पित्त से वैवर्ण्य (वर्ण विकृति) और दौर्गन्ध्य (दुर्गन्ध) होते हैं। वैरस्य और फेनसङ्घात वातज हैं; पैच्छिल्य कफज है।",
+      "reference": "CS.chikitsa.30.237",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0041",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-stanya",
+      "topic_en": "Stanya and stanya doṣa",
+      "topic_hi": "स्तन्य और स्तन्य दोष",
+      "type": "mcq",
+      "question_en": "According to Caraka, how is pure breast milk (stanya sampat) recognised when milked into a vessel of water?",
+      "question_hi": "चरक के अनुसार जल के पात्र में दुहने पर शुद्ध स्तन्य (स्तन्य सम्पत्) कैसे पहचाना जाता है?",
+      "options": [
+        {
+          "en": "It sinks to the bottom",
+          "hi": "यह तल में बैठ जाता है"
+        },
+        {
+          "en": "It mixes evenly with the water",
+          "hi": "यह जल में समान रूप से मिल जाता है"
+        },
+        {
+          "en": "It floats as oily drops",
+          "hi": "यह तैलीय बूँदों के रूप में तैरता है"
+        },
+        {
+          "en": "It forms threads",
+          "hi": "यह तन्तु बनाता है"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "CS Śā 8.54: pure milk has normal colour, smell, taste and touch, and when milked into water it mixes with it (udakaṃ vyeti). Kapha-vitiated milk is slimy, thread-forming and sinks in water (8.55).",
+      "explanation_hi": "चरक शारीर 8.54: शुद्ध स्तन्य का वर्ण, गन्ध, रस और स्पर्श प्राकृत होता है, और जल में दुहने पर उसमें मिल जाता है (उदकं व्येति)। कफ दूषित स्तन्य पिच्छिल, तन्तुयुक्त और जल में बैठने वाला होता है (8.55)।",
+      "reference": "CS.sharira.8.54",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0042",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-stanya",
+      "topic_en": "Stanya and stanya doṣa",
+      "topic_hi": "स्तन्य और स्तन्य दोष",
+      "type": "mcq",
+      "question_en": "Stanya (breast milk) is the upadhātu of which dhātu according to Caraka?",
+      "question_hi": "चरक के अनुसार स्तन्य किस धातु का उपधातु है?",
+      "options": [
+        {
+          "en": "Rakta",
+          "hi": "रक्त"
+        },
+        {
+          "en": "Māṃsa",
+          "hi": "मांस"
+        },
+        {
+          "en": "Śukra",
+          "hi": "शुक्र"
+        },
+        {
+          "en": "Rasa",
+          "hi": "रस"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "CS Ci 15.17: 'rasāt stanyaṃ striyāḥ raktam' — from rasa arise stanya and ārtava (raja) in women; from rakta arise kaṇḍarā and sirā.",
+      "explanation_hi": "चरक चिकित्सा 15.17: 'रसात् स्तन्यं स्त्रियाः रक्तम्' - रस से स्त्रियों में स्तन्य और रज (आर्तव) बनते हैं; रक्त से कण्डरा और सिरा।",
+      "reference": "CS.chikitsa.15.17",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0043",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-stanya",
+      "topic_en": "Stanya and stanya doṣa",
+      "topic_hi": "स्तन्य और स्तन्य दोष",
+      "type": "true_false",
+      "question_en": "True or False: According to Caraka, the dhātrī (wet nurse) should first give the right breast to the infant.",
+      "question_hi": "सत्य या असत्य: चरक के अनुसार धात्री को शिशु को पहले दायाँ स्तन पिलाना चाहिए।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "True. CS Śā 8.46 and 8.58 advise that after jātakarma the right breast is offered first, the child facing east, while the dhātrī wears protective herbs.",
+      "explanation_hi": "सत्य। चरक शारीर 8.46 और 8.58 के अनुसार जातकर्म के बाद पहले दायाँ स्तन दिया जाता है, शिशु का मुख पूर्व की ओर, और धात्री रक्षक औषधियाँ धारण करती है।",
+      "reference": "CS.sharira.8.58",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0044",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-modern-obs",
+      "topic_en": "Obstetrics basics",
+      "topic_hi": "प्रसूति विज्ञान (आधुनिक)",
+      "type": "mcq",
+      "question_en": "By Naegele's rule, the expected date of delivery is calculated as:",
+      "question_hi": "नेगेल नियम से प्रसव की अनुमानित तिथि कैसे निकाली जाती है?",
+      "options": [
+        {
+          "en": "LMP + 9 months + 7 days",
+          "hi": "LMP + 9 मास + 7 दिन"
+        },
+        {
+          "en": "LMP + 9 months − 7 days",
+          "hi": "LMP + 9 मास − 7 दिन"
+        },
+        {
+          "en": "LMP + 10 months",
+          "hi": "LMP + 10 मास"
+        },
+        {
+          "en": "LMP + 280 weeks",
+          "hi": "LMP + 280 सप्ताह"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "Naegele's rule: add 9 calendar months and 7 days to the first day of the last menstrual period (about 280 days or 40 weeks), assuming a regular 28-day cycle.",
+      "explanation_hi": "नेगेल नियम: अंतिम मासिक धर्म के पहले दिन में 9 मास और 7 दिन जोड़ें (लगभग 280 दिन या 40 सप्ताह), नियमित 28 दिन के चक्र को मानते हुए।",
+      "reference": "Dutta's Textbook of Obstetrics",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0045",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-modern-obs",
+      "topic_en": "Obstetrics basics",
+      "topic_hi": "प्रसूति विज्ञान (आधुनिक)",
+      "type": "mcq",
+      "question_en": "The drug of choice for preventing and controlling seizures in eclampsia is:",
+      "question_hi": "एक्लैम्पसिया में दौरों की रोकथाम और नियंत्रण के लिए चुनी जाने वाली औषधि है:",
+      "options": [
+        {
+          "en": "Phenytoin",
+          "hi": "फ़िनाइटॉइन"
+        },
+        {
+          "en": "Magnesium sulphate",
+          "hi": "मैग्नीशियम सल्फेट"
+        },
+        {
+          "en": "Diazepam",
+          "hi": "डायज़ेपाम"
+        },
+        {
+          "en": "Phenobarbitone",
+          "hi": "फ़ेनोबार्बिटोन"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "Magnesium sulphate (Pritchard or Zuspan regimen) is superior to diazepam and phenytoin for eclampsia; calcium gluconate is the antidote for magnesium toxicity.",
+      "explanation_hi": "एक्लैम्पसिया में मैग्नीशियम सल्फेट (प्रिचर्ड या ज़ुस्पैन विधि) डायज़ेपाम और फ़िनाइटॉइन से श्रेष्ठ है; मैग्नीशियम विषाक्तता का प्रतिविष कैल्शियम ग्लूकोनेट है।",
+      "reference": "Dutta's Textbook of Obstetrics",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0046",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-modern-obs",
+      "topic_en": "Obstetrics basics",
+      "topic_hi": "प्रसूति विज्ञान (आधुनिक)",
+      "type": "mcq",
+      "question_en": "The most common cause of postpartum haemorrhage is:",
+      "question_hi": "प्रसवोत्तर रक्तस्राव (PPH) का सबसे सामान्य कारण है:",
+      "options": [
+        {
+          "en": "Uterine atony",
+          "hi": "गर्भाशय की शिथिलता (एटोनी)"
+        },
+        {
+          "en": "Genital tract trauma",
+          "hi": "जननमार्ग की चोट"
+        },
+        {
+          "en": "Retained placental tissue",
+          "hi": "अपरा ऊतक का रुकना"
+        },
+        {
+          "en": "Coagulation disorders",
+          "hi": "रक्त जमने के विकार"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "Of the '4 Ts' (tone, trauma, tissue, thrombin), poor uterine tone (atony) causes most PPH; active management of the third stage of labour helps prevent it.",
+      "explanation_hi": "'4 T' (टोन, ट्रॉमा, टिश्यू, थ्रोम्बिन) में से गर्भाशय की शिथिलता (एटोनी) अधिकांश PPH का कारण है; प्रसव के तीसरे चरण का सक्रिय प्रबंधन इसे रोकने में सहायक है।",
+      "reference": "Dutta's Textbook of Obstetrics",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0047",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-modern-obs",
+      "topic_en": "Obstetrics basics",
+      "topic_hi": "प्रसूति विज्ञान (आधुनिक)",
+      "type": "mcq",
+      "question_en": "Painless, recurrent, bright-red vaginal bleeding in the third trimester is most suggestive of:",
+      "question_hi": "तीसरी तिमाही में बिना दर्द के, बार-बार, चमकीले लाल रक्तस्राव का सबसे संभावित कारण है:",
+      "options": [
+        {
+          "en": "Abruptio placentae",
+          "hi": "एब्रप्शियो प्लेसेंटी"
+        },
+        {
+          "en": "Vasa praevia",
+          "hi": "वासा प्रीविया"
+        },
+        {
+          "en": "Placenta praevia",
+          "hi": "प्लेसेंटा प्रीविया"
+        },
+        {
+          "en": "Cervical ectropion",
+          "hi": "सर्वाइकल एक्ट्रोपियन"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "Placenta praevia classically causes painless, causeless, recurrent bleeding with a soft, non-tender uterus. Abruptio placentae causes painful bleeding with a tense, tender uterus. Per vaginal examination is avoided when praevia is suspected.",
+      "explanation_hi": "प्लेसेंटा प्रीविया में शास्त्रीय रूप से बिना दर्द, बिना कारण, बार-बार रक्तस्राव होता है और गर्भाशय मुलायम रहता है। एब्रप्शियो प्लेसेंटी में दर्दयुक्त रक्तस्राव और कठोर, दर्दयुक्त गर्भाशय होता है। प्रीविया की आशंका में योनि परीक्षा नहीं की जाती।",
+      "reference": "Dutta's Textbook of Obstetrics",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0048",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-modern-obs",
+      "topic_en": "Obstetrics basics",
+      "topic_hi": "प्रसूति विज्ञान (आधुनिक)",
+      "type": "mcq",
+      "question_en": "What is the normal fetal heart rate range?",
+      "question_hi": "सामान्य गर्भस्थ शिशु हृदय गति की सीमा क्या है?",
+      "options": [
+        {
+          "en": "60–100 beats/min",
+          "hi": "60-100 प्रति मिनट"
+        },
+        {
+          "en": "160–200 beats/min",
+          "hi": "160-200 प्रति मिनट"
+        },
+        {
+          "en": "110–160 beats/min",
+          "hi": "110-160 प्रति मिनट"
+        },
+        {
+          "en": "80–110 beats/min",
+          "hi": "80-110 प्रति मिनट"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "Normal baseline FHR is 110–160 bpm. Persistent rates below 110 (bradycardia) or above 160 (tachycardia) need evaluation for fetal distress or maternal causes.",
+      "explanation_hi": "सामान्य आधार FHR 110-160 प्रति मिनट है। लगातार 110 से कम (ब्रैडीकार्डिया) या 160 से अधिक (टैकीकार्डिया) होने पर गर्भस्थ संकट या मातृ कारणों की जाँच आवश्यक है।",
+      "reference": "Dutta's Textbook of Obstetrics",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0049",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-modern-obs",
+      "topic_en": "Obstetrics basics",
+      "topic_hi": "प्रसूति विज्ञान (आधुनिक)",
+      "type": "mcq",
+      "question_en": "Periconceptional folic acid supplementation primarily prevents:",
+      "question_hi": "गर्भधारण के आसपास फोलिक अम्ल देने से मुख्य रूप से किसकी रोकथाम होती है?",
+      "options": [
+        {
+          "en": "Cleft lip only",
+          "hi": "केवल कटा होंठ"
+        },
+        {
+          "en": "Neural tube defects",
+          "hi": "न्यूरल ट्यूब दोष"
+        },
+        {
+          "en": "Down syndrome",
+          "hi": "डाउन सिंड्रोम"
+        },
+        {
+          "en": "Congenital heart block",
+          "hi": "जन्मजात हृदय ब्लॉक"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "Folic acid taken before conception and in early pregnancy markedly reduces neural tube defects such as anencephaly and spina bifida. Down syndrome is a chromosomal disorder not prevented by folate.",
+      "explanation_hi": "गर्भधारण से पहले और प्रारम्भिक गर्भावस्था में फोलिक अम्ल लेने से एनेनसेफ़ली और स्पाइना बिफ़िडा जैसे न्यूरल ट्यूब दोष बहुत कम होते हैं। डाउन सिंड्रोम गुणसूत्रीय विकार है, फोलेट से नहीं रुकता।",
+      "reference": "Dutta's Textbook of Obstetrics",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0050",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-modern-obs",
+      "topic_en": "Obstetrics basics",
+      "topic_hi": "प्रसूति विज्ञान (आधुनिक)",
+      "type": "mcq",
+      "question_en": "Pre-eclampsia is defined as new-onset hypertension (≥140/90 mm Hg) with proteinuria (or end-organ features) appearing after:",
+      "question_hi": "प्री-एक्लैम्पसिया को किस समय के बाद नए उच्च रक्तचाप (≥140/90 mm Hg) और प्रोटीनूरिया (या अंग क्षति) के रूप में परिभाषित किया जाता है?",
+      "options": [
+        {
+          "en": "12 weeks of gestation",
+          "hi": "12 सप्ताह के बाद"
+        },
+        {
+          "en": "36 weeks only",
+          "hi": "केवल 36 सप्ताह के बाद"
+        },
+        {
+          "en": "20 weeks of gestation",
+          "hi": "20 सप्ताह के गर्भ के बाद"
+        },
+        {
+          "en": "Delivery",
+          "hi": "प्रसव के बाद"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "Pre-eclampsia develops after 20 weeks. Hypertension present before 20 weeks suggests chronic hypertension (or molar pregnancy if very early pre-eclampsia appears).",
+      "explanation_hi": "प्री-एक्लैम्पसिया 20 सप्ताह के बाद विकसित होता है। 20 सप्ताह से पहले उच्च रक्तचाप दीर्घकालिक उच्च रक्तचाप (या बहुत जल्दी होने पर मोलर गर्भ) का संकेत है।",
+      "reference": "Dutta's Textbook of Obstetrics",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0051",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-modern-obs",
+      "topic_en": "Obstetrics basics",
+      "topic_hi": "प्रसूति विज्ञान (आधुनिक)",
+      "type": "mcq",
+      "question_en": "Serum hCG levels in normal pregnancy peak at about:",
+      "question_hi": "सामान्य गर्भावस्था में सीरम hCG का स्तर लगभग कब शिखर पर होता है?",
+      "options": [
+        {
+          "en": "20 weeks",
+          "hi": "20 सप्ताह"
+        },
+        {
+          "en": "4 weeks",
+          "hi": "4 सप्ताह"
+        },
+        {
+          "en": "36 weeks",
+          "hi": "36 सप्ताह"
+        },
+        {
+          "en": "8–10 weeks",
+          "hi": "8-10 सप्ताह"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "hCG doubles about every 48 hours in early pregnancy and peaks at around 8–10 weeks, then falls to a plateau. Very high levels suggest molar or multiple pregnancy.",
+      "explanation_hi": "प्रारम्भिक गर्भावस्था में hCG लगभग हर 48 घंटे में दुगुना होता है और 8-10 सप्ताह पर शिखर पर पहुँचकर घटता है। बहुत अधिक स्तर मोलर या बहु-गर्भ दर्शाता है।",
+      "reference": "Dutta's Textbook of Obstetrics",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0052",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-modern-obs",
+      "topic_en": "Obstetrics basics",
+      "topic_hi": "प्रसूति विज्ञान (आधुनिक)",
+      "type": "mcq",
+      "question_en": "The first stage of labour ends with:",
+      "question_hi": "प्रसव का प्रथम चरण किसके साथ समाप्त होता है?",
+      "options": [
+        {
+          "en": "Full dilatation of the cervix (10 cm)",
+          "hi": "गर्भाशय ग्रीवा का पूर्ण विस्तार (10 से.मी.)"
+        },
+        {
+          "en": "Delivery of the baby",
+          "hi": "शिशु का जन्म"
+        },
+        {
+          "en": "Delivery of the placenta",
+          "hi": "अपरा का निष्कासन"
+        },
+        {
+          "en": "Rupture of membranes",
+          "hi": "झिल्लियों का फटना"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "Stage 1: onset of true labour to full cervical dilatation; stage 2: full dilatation to delivery of the baby; stage 3: delivery of the placenta; stage 4: the first hour of observation after delivery.",
+      "explanation_hi": "प्रथम चरण: वास्तविक प्रसव आरम्भ से पूर्ण ग्रीवा विस्तार तक; द्वितीय: पूर्ण विस्तार से शिशु जन्म तक; तृतीय: अपरा निष्कासन; चतुर्थ: प्रसव के बाद निरीक्षण का पहला घंटा।",
+      "reference": "Dutta's Textbook of Obstetrics",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0053",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-modern-obs",
+      "topic_en": "Obstetrics basics",
+      "topic_hi": "प्रसूति विज्ञान (आधुनिक)",
+      "type": "mcq",
+      "question_en": "The Bishop score is used to assess:",
+      "question_hi": "बिशप स्कोर का उपयोग किसके आकलन के लिए होता है?",
+      "options": [
+        {
+          "en": "Cervical favourability before induction of labour",
+          "hi": "प्रसव प्रेरण से पहले ग्रीवा की अनुकूलता"
+        },
+        {
+          "en": "Newborn condition at birth",
+          "hi": "जन्म के समय नवजात की स्थिति"
+        },
+        {
+          "en": "Fetal lung maturity",
+          "hi": "गर्भस्थ फेफड़ों की परिपक्वता"
+        },
+        {
+          "en": "Severity of pre-eclampsia",
+          "hi": "प्री-एक्लैम्पसिया की गंभीरता"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "Bishop score rates cervical dilatation, effacement, consistency, position and station of the head; a high score (usually ≥8) predicts successful induction. Newborn condition is assessed by APGAR.",
+      "explanation_hi": "बिशप स्कोर ग्रीवा के विस्तार, पतलेपन, कठोरता, स्थिति और शिर के स्टेशन को आँकता है; अधिक स्कोर (प्रायः ≥8) सफल प्रेरण दर्शाता है। नवजात की स्थिति APGAR से आँकी जाती है।",
+      "reference": "Dutta's Textbook of Obstetrics",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0054",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-modern-gyn",
+      "topic_en": "Gynaecology basics",
+      "topic_hi": "स्त्री रोग विज्ञान (आधुनिक)",
+      "type": "mcq",
+      "question_en": "The most common site of ectopic pregnancy is:",
+      "question_hi": "एक्टोपिक गर्भ का सबसे सामान्य स्थान है:",
+      "options": [
+        {
+          "en": "Ovary",
+          "hi": "अण्डाशय"
+        },
+        {
+          "en": "Ampulla of the fallopian tube",
+          "hi": "फैलोपियन नली का एम्पुला"
+        },
+        {
+          "en": "Cervix",
+          "hi": "गर्भाशय ग्रीवा"
+        },
+        {
+          "en": "Interstitial part of the tube",
+          "hi": "नली का इंटरस्टीशियल भाग"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "About 95% of ectopics are tubal, and the ampulla is the commonest site (about 70%). Isthmic ectopics rupture earlier; interstitial ones rupture late but bleed heavily.",
+      "explanation_hi": "लगभग 95% एक्टोपिक नली में होते हैं, और एम्पुला सबसे सामान्य स्थान है (लगभग 70%)। इस्थमिक एक्टोपिक जल्दी फटते हैं; इंटरस्टीशियल देर से फटते हैं पर अधिक रक्तस्राव करते हैं।",
+      "reference": "Shaw's Textbook of Gynaecology",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0055",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-modern-gyn",
+      "topic_en": "Gynaecology basics",
+      "topic_hi": "स्त्री रोग विज्ञान (आधुनिक)",
+      "type": "mcq",
+      "question_en": "According to the Rotterdam criteria, PCOS is diagnosed when at least how many of the three features are present?",
+      "question_hi": "रॉटरडैम मानदंड के अनुसार PCOS का निदान तीन लक्षणों में से कम से कम कितने होने पर होता है?",
+      "options": [
+        {
+          "en": "One",
+          "hi": "एक"
+        },
+        {
+          "en": "All three",
+          "hi": "तीनों"
+        },
+        {
+          "en": "None; hormone tests alone decide",
+          "hi": "कोई नहीं; केवल हार्मोन परीक्षण"
+        },
+        {
+          "en": "Two",
+          "hi": "दो"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "Rotterdam (2003): any two of (1) oligo/anovulation, (2) clinical or biochemical hyperandrogenism, (3) polycystic ovaries on ultrasound, after excluding other causes.",
+      "explanation_hi": "रॉटरडैम (2003): अन्य कारणों को हटाने के बाद इन तीन में से कोई दो - (1) अल्प/अ-अण्डोत्सर्ग, (2) नैदानिक या जैव-रासायनिक हाइपरएंड्रोजेनिज़्म, (3) अल्ट्रासाउंड पर पॉलीसिस्टिक अण्डाशय।",
+      "reference": "Shaw's Textbook of Gynaecology",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0056",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-modern-gyn",
+      "topic_en": "Gynaecology basics",
+      "topic_hi": "स्त्री रोग विज्ञान (आधुनिक)",
+      "type": "mcq",
+      "question_en": "Persistent infection with which agent is the main cause of carcinoma cervix?",
+      "question_hi": "किस कारक के दीर्घकालिक संक्रमण से मुख्य रूप से गर्भाशय ग्रीवा का कैंसर होता है?",
+      "options": [
+        {
+          "en": "Herpes simplex virus type 2",
+          "hi": "हर्पीज़ सिम्प्लेक्स वायरस टाइप 2"
+        },
+        {
+          "en": "High-risk HPV (types 16 and 18)",
+          "hi": "उच्च जोखिम HPV (टाइप 16 और 18)"
+        },
+        {
+          "en": "Chlamydia trachomatis",
+          "hi": "क्लैमिडिया ट्रेकोमैटिस"
+        },
+        {
+          "en": "Candida albicans",
+          "hi": "कैंडिडा एल्बिकेन्स"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "High-risk human papillomavirus, especially types 16 and 18, causes most cervical cancers; screening (Pap smear, VIA, HPV testing) and HPV vaccination are key preventive measures.",
+      "explanation_hi": "उच्च जोखिम ह्यूमन पैपिलोमा वायरस, विशेषकर टाइप 16 और 18, अधिकांश ग्रीवा कैंसर का कारण है; स्क्रीनिंग (पैप स्मीयर, VIA, HPV परीक्षण) और HPV टीकाकरण मुख्य निवारक उपाय हैं।",
+      "reference": "Shaw's Textbook of Gynaecology",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0057",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-modern-gyn",
+      "topic_en": "Gynaecology basics",
+      "topic_hi": "स्त्री रोग विज्ञान (आधुनिक)",
+      "type": "mcq",
+      "question_en": "The most common type of uterine fibroid (leiomyoma) by location is:",
+      "question_hi": "स्थान के अनुसार गर्भाशय फाइब्रॉइड (लियोमायोमा) का सबसे सामान्य प्रकार है:",
+      "options": [
+        {
+          "en": "Submucous",
+          "hi": "सबम्यूकस"
+        },
+        {
+          "en": "Subserous",
+          "hi": "सबसीरस"
+        },
+        {
+          "en": "Cervical",
+          "hi": "सर्वाइकल"
+        },
+        {
+          "en": "Intramural",
+          "hi": "इंट्राम्यूरल"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "Intramural fibroids (within the myometrium) are the commonest. Submucous fibroids are fewer but cause the most bleeding and infertility; cervical fibroids are rare.",
+      "explanation_hi": "इंट्राम्यूरल फाइब्रॉइड (मायोमेट्रियम के भीतर) सबसे सामान्य हैं। सबम्यूकस कम होते हैं पर सबसे अधिक रक्तस्राव और बाँझपन करते हैं; सर्वाइकल फाइब्रॉइड दुर्लभ हैं।",
+      "reference": "Shaw's Textbook of Gynaecology",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0058",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-modern-gyn",
+      "topic_en": "Gynaecology basics",
+      "topic_hi": "स्त्री रोग विज्ञान (आधुनिक)",
+      "type": "true_false",
+      "question_en": "True or False: Infertility is generally defined as failure to conceive after one year of regular unprotected intercourse.",
+      "question_hi": "सत्य या असत्य: बाँझपन को सामान्यतः एक वर्ष तक नियमित असुरक्षित सहवास के बाद भी गर्भ न ठहरने के रूप में परिभाषित किया जाता है।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "True. The WHO/clinical definition uses 12 months (6 months if the woman is over 35). Classical texts discuss vandhyātva under yonivyāpad and garbha sambhava sāmagrī.",
+      "explanation_hi": "सत्य। WHO/नैदानिक परिभाषा 12 मास (35 वर्ष से अधिक आयु में 6 मास) मानती है। शास्त्रों में वन्ध्यात्व की चर्चा योनिव्यापद् और गर्भ सम्भव सामग्री के अंतर्गत होती है।",
+      "reference": "Shaw's Textbook of Gynaecology",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0059",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-modern-obs",
+      "topic_en": "Obstetrics basics",
+      "topic_hi": "प्रसूति विज्ञान (आधुनिक)",
+      "type": "true_false",
+      "question_en": "True or False: Abruptio placentae classically presents with painless bleeding and a soft, non-tender uterus.",
+      "question_hi": "सत्य या असत्य: एब्रप्शियो प्लेसेंटी में शास्त्रीय रूप से बिना दर्द का रक्तस्राव और मुलायम, दर्दरहित गर्भाशय होता है।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "False. Abruptio placentae causes painful bleeding (which may be concealed) with a tense, tender, 'woody-hard' uterus and possible fetal distress. Painless bleeding with a soft uterus is typical of placenta praevia.",
+      "explanation_hi": "असत्य। एब्रप्शियो प्लेसेंटी में दर्दयुक्त रक्तस्राव (जो छिपा भी हो सकता है), कठोर, दर्दयुक्त गर्भाशय और गर्भस्थ संकट हो सकता है। बिना दर्द और मुलायम गर्भाशय के साथ रक्तस्राव प्लेसेंटा प्रीविया का लक्षण है।",
+      "reference": "Dutta's Textbook of Obstetrics",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PS-0060",
+      "subject_id": "AyUG-PS",
+      "topic_id": "ps-sutika",
+      "topic_en": "Sūtikā paricaryā",
+      "topic_hi": "सूतिका परिचर्या",
+      "type": "mcq",
+      "question_en": "In Ayurvedic obstetrics, the term 'sūtikā' refers to:",
+      "question_hi": "आयुर्वेदीय प्रसूति तन्त्र में 'सूतिका' शब्द का अर्थ है:",
+      "options": [
+        {
+          "en": "A woman who has recently delivered (puerperal woman)",
+          "hi": "हाल ही में प्रसव कर चुकी स्त्री"
+        },
+        {
+          "en": "A pregnant woman in the first trimester",
+          "hi": "प्रथम तिमाही की गर्भिणी"
+        },
+        {
+          "en": "A menstruating woman",
+          "hi": "रजस्वला स्त्री"
+        },
+        {
+          "en": "A wet nurse",
+          "hi": "धात्री"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "Sūtikā is the woman after delivery (puerperium); her care is sūtikā paricaryā (SS Śā 10; CS Śā 8). A pregnant woman is garbhiṇī, a menstruating woman rajasvalā, and a wet nurse dhātrī.",
+      "explanation_hi": "सूतिका प्रसव के बाद की स्त्री है; उसकी देखभाल सूतिका परिचर्या कहलाती है (सुश्रुत शारीर 10; चरक शारीर 8)। गर्भवती स्त्री गर्भिणी, मासिक धर्म वाली रजस्वला और दूध पिलाने वाली धात्री कहलाती है।",
+      "reference": "SS.sharira.10",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    }
+  ]
+}

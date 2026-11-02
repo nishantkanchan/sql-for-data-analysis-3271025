@@ -1,0 +1,1916 @@
+{
+ "chapter": {
+  "id": "CS.sutra.10",
+  "text": "charaka_samhita",
+  "sthana": "sutra",
+  "chapter": 10,
+  "title_iast": "Mahācatuṣpāda Adhyāya",
+  "title_devanagari": "महाचतुष्पादोऽध्यायः",
+  "title_en": "The greater chapter on the four limbs of treatment",
+  "title_hi": "महाचतुष्पाद अध्याय (चिकित्सा के चार पादों पर बृहत् अध्याय)",
+  "summary_en": "This chapter defends the efficacy of treatment and introduces prognosis. Ātreya states that the four-limbed treatment with sixteen qualities, applied with yukti, produces health. Maitreya objects that some treated patients die and some untreated patients recover, so treatment seems no different from no treatment. Ātreya replies that treatment never fails in curable diseases, that it speeds and eases recovery even in self-limiting illness (the simile of helping a fallen man), that incurable diseases cannot be cured by any means, and that a skilled physician who examines first succeeds like a trained archer aiming at a large, near target. He adds the empirical evidence of treatment by opposites (nourishing the lean, depleting the obese, cooling heat, warming cold). The chapter then classifies diseases into sukhasādhya, kṛcchrasādhya, yāpya and pratyākhyeya (anupakrama), gives the features of each, warns against treating the incurable, and insists on examination before treatment.",
+  "summary_hi": "यह अध्याय चिकित्सा की प्रभावशीलता का समर्थन करता है और साध्यासाध्यता (प्रोग्नोसिस) बताता है। आत्रेय कहते हैं कि सोलह गुणों वाली चतुष्पाद चिकित्सा युक्ति से करने पर आरोग्य देती है। मैत्रेय आपत्ति करते हैं कि कुछ चिकित्सित रोगी मरते हैं और कुछ अचिकित्सित ठीक होते हैं, इसलिए चिकित्सा और अचिकित्सा में अन्तर नहीं लगता। आत्रेय उत्तर देते हैं कि साध्य रोगों में चिकित्सा कभी विफल नहीं होती, स्वयं ठीक होने वाले रोगों में भी वह सुधार को शीघ्र और सरल बनाती है (गिरे व्यक्ति को सहारा देने की उपमा), असाध्य रोग किसी उपाय से ठीक नहीं होते, और परीक्षा करके चिकित्सा करने वाला कुशल वैद्य पास के बड़े लक्ष्य पर निशाना लगाने वाले धनुर्धर की तरह सफल होता है। वे विपरीत चिकित्सा का प्रत्यक्ष प्रमाण भी देते हैं (कृश को पुष्ट करना, स्थूल का अपतर्पण, उष्णता में शीत, शीत में उष्ण)। फिर रोगों को सुखसाध्य, कृच्छ्रसाध्य, याप्य और प्रत्याख्येय (अनुपक्रम) में बाँटकर प्रत्येक के लक्षण बताए गए हैं, असाध्य की चिकित्सा के विरुद्ध चेतावनी दी गई है और चिकित्सा से पहले परीक्षा पर बल दिया गया है।",
+  "key_concepts": [
+   "efficacy of treatment (Ātreya-Maitreya debate)",
+   "yuktiyukta bheṣaja",
+   "viparīta-guṇa cikitsā",
+   "sādhya-asādhya vibhāga",
+   "sukhasādhya",
+   "kṛcchrasādhya",
+   "yāpya",
+   "pratyākhyeya (anupakrama)"
+  ],
+  "exam_focus_en": [
+   "Fourfold classification of diseases by prognosis: sukhasādhya, kṛcchrasādhya, yāpya, anupakrama/pratyākhyeya (Su 10.9) - very frequently asked.",
+   "Features of sukhasādhya (Su 10.11-13) and kṛcchrasādhya (Su 10.14-16) - long answer.",
+   "Features of yāpya (Su 10.17-19a) and pratyākhyeya (Su 10.19b-20).",
+   "Ātreya-Maitreya debate on whether treatment is effective, with the similes of the fallen man and the archer (Su 10.4-5).",
+   "Importance of knowing sādhya-asādhya and losses from treating incurable disease (Su 10.7-8).",
+   "Principle of treatment by opposites: santarpaṇa/apatarpaṇa, śīta/uṣṇa, pūraṇa/hrāsa of dhātus (Su 10.6)."
+  ],
+  "exam_focus_hi": [
+   "प्रोग्नोसिस के अनुसार रोगों का चतुर्विध वर्गीकरण: सुखसाध्य, कृच्छ्रसाध्य, याप्य, अनुपक्रम/प्रत्याख्येय (सू. 10.9) - बहुत पूछा जाता है।",
+   "सुखसाध्य (सू. 10.11-13) और कृच्छ्रसाध्य (सू. 10.14-16) के लक्षण - दीर्घ उत्तर।",
+   "याप्य (सू. 10.17-19) और प्रत्याख्येय (सू. 10.19-20) के लक्षण।",
+   "चिकित्सा की प्रभावशीलता पर आत्रेय-मैत्रेय संवाद, गिरे व्यक्ति और धनुर्धर की उपमाओं सहित (सू. 10.4-5)।",
+   "साध्य-असाध्य ज्ञान का महत्त्व और असाध्य की चिकित्सा से होने वाली हानियाँ (सू. 10.7-8)।",
+   "विपरीत चिकित्सा का सिद्धान्त: सन्तर्पण/अपतर्पण, शीत/उष्ण, धातुओं का पूरण/ह्रास (सू. 10.6)।"
+  ],
+  "syllabus_refs": [
+   "AyUG-SA2"
+  ],
+  "review_status": "ai_draft"
+ },
+ "verses": [
+  {
+   "id": "CS.sutra.10.1",
+   "word_meanings": [
+    {
+     "sa": "अथ",
+     "iast": "atha",
+     "en": "now",
+     "hi": "अब"
+    },
+    {
+     "sa": "अतः",
+     "iast": "ataḥ",
+     "en": "therefore",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "महाचतुष्पादम्",
+     "iast": "mahācatuṣpādam",
+     "en": "the greater (longer) chapter on the four limbs",
+     "hi": "महाचतुष्पाद"
+    },
+    {
+     "sa": "अध्यायम्",
+     "iast": "adhyāyam",
+     "en": "chapter",
+     "hi": "अध्याय की"
+    },
+    {
+     "sa": "व्याख्यास्यामः",
+     "iast": "vyākhyāsyāmaḥ",
+     "en": "we shall explain",
+     "hi": "व्याख्या करेंगे"
+    }
+   ],
+   "english": "Now we shall explain the chapter named Mahā-catuṣpāda, the greater chapter on the four limbs of treatment.",
+   "hindi": "अब हम 'महाचतुष्पाद' नामक अध्याय की व्याख्या करेंगे, अर्थात् चिकित्सा के चार पादों पर बड़ा अध्याय।",
+   "explanation_en": "This is the 'greater' (mahā) counterpart of Su 9 (Khuḍḍāka-catuṣpāda). While Su 9 described the four limbs and their qualities, Su 10 defends the efficacy of treatment and classifies diseases by prognosis (sādhya-asādhya).",
+   "explanation_hi": "यह सू. 9 (खुड्डाक चतुष्पाद) का 'बड़ा' (महा) अध्याय है। सू. 9 में चार पाद और उनके गुण बताए गए; सू. 10 चिकित्सा की प्रभावशीलता का समर्थन करता है और रोगों को साध्यता के अनुसार वर्गीकृत करता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "mahācatuṣpāda",
+    "catuṣpāda"
+   ],
+   "tags": [
+    "introduction",
+    "chapter-opening",
+    "chatushpada"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.10.2",
+   "word_meanings": [
+    {
+     "sa": "इति",
+     "iast": "iti",
+     "en": "thus",
+     "hi": "इस प्रकार"
+    },
+    {
+     "sa": "ह स्म आह",
+     "iast": "ha sma āha",
+     "en": "so indeed said",
+     "hi": "ऐसा कहा था"
+    },
+    {
+     "sa": "भगवान्",
+     "iast": "bhagavān",
+     "en": "the venerable",
+     "hi": "भगवान्"
+    },
+    {
+     "sa": "आत्रेयः",
+     "iast": "ātreyaḥ",
+     "en": "Ātreya",
+     "hi": "आत्रेय ने"
+    }
+   ],
+   "english": "Thus said the venerable Ātreya.",
+   "hindi": "ऐसा भगवान् आत्रेय ने कहा।",
+   "explanation_en": "Standard attribution to Punarvasu Ātreya. In this chapter, unusually, a debate follows between Ātreya and the sage Maitreya.",
+   "explanation_hi": "पुनर्वसु आत्रेय को परम्परागत श्रेय। इस अध्याय में विशेष रूप से आत्रेय और मैत्रेय ऋषि के बीच वाद-विवाद होता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "Ātreya"
+   ],
+   "tags": [
+    "introduction",
+    "teacher"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.10.3",
+   "word_meanings": [
+    {
+     "sa": "चतुष्पादम्",
+     "iast": "catuṣpādam",
+     "en": "having four limbs",
+     "hi": "चार पादों वाली"
+    },
+    {
+     "sa": "षोडशकलम्",
+     "iast": "ṣoḍaśakalam",
+     "en": "having sixteen parts (qualities)",
+     "hi": "सोलह कलाओं (गुणों) वाली"
+    },
+    {
+     "sa": "भेषजम्",
+     "iast": "bheṣajam",
+     "en": "treatment, therapy",
+     "hi": "भेषज (चिकित्सा)"
+    },
+    {
+     "sa": "इति भिषजः भाषन्ते",
+     "iast": "iti bhiṣajaḥ bhāṣante",
+     "en": "so physicians say",
+     "hi": "ऐसा वैद्य कहते हैं"
+    },
+    {
+     "sa": "यत् उक्तम् पूर्वाध्याये",
+     "iast": "yat uktam pūrvādhyāye",
+     "en": "which was stated in the previous chapter",
+     "hi": "जो पिछले अध्याय में कहा गया"
+    },
+    {
+     "sa": "षोडशगुणम् इति",
+     "iast": "ṣoḍaśaguṇam iti",
+     "en": "as 'having sixteen qualities'",
+     "hi": "'सोलह गुणों वाली' रूप में"
+    },
+    {
+     "sa": "तत् भेषजम्",
+     "iast": "tat bheṣajam",
+     "en": "that treatment",
+     "hi": "वह चिकित्सा"
+    },
+    {
+     "sa": "युक्तियुक्तम्",
+     "iast": "yuktiyuktam",
+     "en": "applied with rational planning (yukti)",
+     "hi": "युक्ति से युक्त"
+    },
+    {
+     "sa": "अलम् आरोग्याय",
+     "iast": "alam ārogyāya",
+     "en": "is capable of producing health",
+     "hi": "आरोग्य के लिए समर्थ"
+    },
+    {
+     "sa": "इति भगवान् पुनर्वसुः आत्रेयः",
+     "iast": "iti bhagavān punarvasuḥ ātreyaḥ",
+     "en": "so said the venerable Punarvasu Ātreya",
+     "hi": "ऐसा भगवान् पुनर्वसु आत्रेय ने कहा"
+    }
+   ],
+   "english": "Physicians describe treatment (bheṣaja) as having four limbs and sixteen parts, as stated in the previous chapter ('having sixteen qualities'). That treatment, when applied with rational planning (yukti), is capable of producing health, said the venerable Punarvasu Ātreya.",
+   "hindi": "वैद्य चिकित्सा को चार पादों और सोलह कलाओं वाली कहते हैं, जैसा पिछले अध्याय में 'सोलह गुणों वाली' कहा गया। वह चिकित्सा जब युक्ति (तर्कसंगत योजना) से की जाए तो आरोग्य देने में समर्थ है, ऐसा भगवान् पुनर्वसु आत्रेय ने कहा।",
+   "explanation_en": "Ātreya's opening thesis: catuṣpāda treatment with its 16 qualities, applied with yukti (rational planning), produces health. 'Bheṣaja' here means the whole treatment, not just medicine. The word 'yuktiyukta' is the key qualifier and links to yukti-pramāṇa in Su 11.",
+   "explanation_hi": "आत्रेय का आरम्भिक सिद्धान्त: 16 गुणों वाली चतुष्पाद चिकित्सा, युक्ति से प्रयुक्त होने पर आरोग्य देती है। यहाँ 'भेषज' का अर्थ पूरी चिकित्सा है, केवल औषध नहीं। 'युक्तियुक्त' मुख्य विशेषण है जो सू. 11 के युक्ति-प्रमाण से जुड़ता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "bheṣaja",
+    "ṣoḍaśakala",
+    "yukti",
+    "catuṣpāda"
+   ],
+   "tags": [
+    "chatushpada",
+    "chikitsa"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.10.4",
+   "word_meanings": [
+    {
+     "sa": "न इति मैत्रेयः",
+     "iast": "na iti maitreyaḥ",
+     "en": "'No', said Maitreya",
+     "hi": "'नहीं', मैत्रेय ने कहा"
+    },
+    {
+     "sa": "किम् कारणम्",
+     "iast": "kim kāraṇam",
+     "en": "for what reason",
+     "hi": "किस कारण से"
+    },
+    {
+     "sa": "दृश्यन्ते",
+     "iast": "dṛśyante",
+     "en": "are seen",
+     "hi": "देखे जाते हैं"
+    },
+    {
+     "sa": "आतुराः केचित्",
+     "iast": "āturāḥ kecit",
+     "en": "some patients",
+     "hi": "कुछ रोगी"
+    },
+    {
+     "sa": "उपकरणवन्तः",
+     "iast": "upakaraṇavantaḥ",
+     "en": "having (all) equipment/resources",
+     "hi": "साधनों से युक्त"
+    },
+    {
+     "sa": "परिचारकसम्पन्नाः",
+     "iast": "paricārakasampannāḥ",
+     "en": "well provided with attendants",
+     "hi": "परिचारकों से सम्पन्न"
+    },
+    {
+     "sa": "आत्मवन्तः",
+     "iast": "ātmavantaḥ",
+     "en": "self-controlled",
+     "hi": "आत्मवान् (संयमी)"
+    },
+    {
+     "sa": "कुशलैः भिषग्भिः अनुष्ठिताः",
+     "iast": "kuśalaiḥ bhiṣagbhiḥ anuṣṭhitāḥ",
+     "en": "treated by skilled physicians",
+     "hi": "कुशल वैद्यों द्वारा चिकित्सित"
+    },
+    {
+     "sa": "समुत्तिष्ठमानाः",
+     "iast": "samuttiṣṭhamānāḥ",
+     "en": "recovering",
+     "hi": "ठीक होते हुए"
+    },
+    {
+     "sa": "तथायुक्ताः च अपरे म्रियमाणाः",
+     "iast": "tathāyuktāḥ ca apare mriyamāṇāḥ",
+     "en": "and others, equally provided, dying",
+     "hi": "और वैसे ही युक्त अन्य मरते हुए"
+    },
+    {
+     "sa": "तस्मात्",
+     "iast": "tasmāt",
+     "en": "therefore",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "भेषजम् अकिंचित्करम्",
+     "iast": "bheṣajam akiṃcitkaram",
+     "en": "treatment is ineffective",
+     "hi": "चिकित्सा निष्फल है"
+    },
+    {
+     "sa": "श्वभ्रे",
+     "iast": "śvabhre",
+     "en": "in a pit",
+     "hi": "गड्ढे में"
+    },
+    {
+     "sa": "सरसि",
+     "iast": "sarasi",
+     "en": "in a lake",
+     "hi": "तालाब में"
+    },
+    {
+     "sa": "प्रसिक्तम् अल्पम् उदकम्",
+     "iast": "prasiktam alpam udakam",
+     "en": "a little water poured",
+     "hi": "थोड़ा जल डाला हुआ"
+    },
+    {
+     "sa": "नद्याम् स्यन्दमानायाम्",
+     "iast": "nadyām syandamānāyām",
+     "en": "in a flowing river",
+     "hi": "बहती नदी में"
+    },
+    {
+     "sa": "पांसुधाने",
+     "iast": "pāṃsudhāne",
+     "en": "on a heap of dust",
+     "hi": "धूल के ढेर पर"
+    },
+    {
+     "sa": "पांसुमुष्टिः प्रकीर्णः",
+     "iast": "pāṃsumuṣṭiḥ prakīrṇaḥ",
+     "en": "a handful of dust scattered",
+     "hi": "मुट्ठी भर धूल बिखेरी"
+    },
+    {
+     "sa": "अनुपकरणाः",
+     "iast": "anupakaraṇāḥ",
+     "en": "without resources",
+     "hi": "साधनहीन"
+    },
+    {
+     "sa": "अपरिचारकाः",
+     "iast": "aparicārakāḥ",
+     "en": "without attendants",
+     "hi": "परिचारकहीन"
+    },
+    {
+     "sa": "अनात्मवन्तः",
+     "iast": "anātmavantaḥ",
+     "en": "without self-control",
+     "hi": "असंयमी"
+    },
+    {
+     "sa": "अकुशलैः",
+     "iast": "akuśalaiḥ",
+     "en": "by unskilled ones",
+     "hi": "अकुशलों द्वारा"
+    },
+    {
+     "sa": "प्रतिकुर्वन् सिध्यति",
+     "iast": "pratikurvan sidhyati",
+     "en": "one recovers with treatment",
+     "hi": "चिकित्सा करने पर ठीक होता है"
+    },
+    {
+     "sa": "अप्रतिकुर्वन्",
+     "iast": "apratikurvan",
+     "en": "without treatment",
+     "hi": "चिकित्सा न करने पर"
+    },
+    {
+     "sa": "म्रियते",
+     "iast": "mriyate",
+     "en": "dies",
+     "hi": "मरता है"
+    },
+    {
+     "sa": "भेषजम् अभेषजेन अविशिष्टम्",
+     "iast": "bheṣajam abheṣajena aviśiṣṭam",
+     "en": "treatment is no different from no treatment",
+     "hi": "चिकित्सा और अचिकित्सा में कोई अन्तर नहीं"
+    }
+   ],
+   "english": "'No,' said Maitreya. 'Why? Because some patients who have all resources, good attendants, self-control and are treated by skilled physicians are seen to recover, while others equally provided die. So treatment is ineffective, like a little water poured into a pit or a lake, or into a flowing river, or a handful of dust thrown on a heap of dust. Likewise, others without resources, without attendants, without self-control and treated by unskilled physicians are seen to recover, while others in the same condition die. Since one recovers with treatment and one dies with treatment, one recovers without treatment and one dies without treatment, it appears that treatment is no different from no treatment.'",
+   "hindi": "'नहीं,' मैत्रेय ने कहा। 'क्यों? क्योंकि कुछ रोगी जिनके पास सब साधन, अच्छे परिचारक और संयम है और जिनकी चिकित्सा कुशल वैद्यों ने की, ठीक होते देखे जाते हैं, जबकि वैसे ही युक्त अन्य मर जाते हैं। इसलिए चिकित्सा निष्फल है, जैसे गड्ढे या तालाब में थोड़ा जल डालना, बहती नदी में जल डालना, या धूल के ढेर पर मुट्ठी भर धूल बिखेरना। इसी प्रकार साधनहीन, परिचारकहीन, असंयमी और अकुशल वैद्यों द्वारा चिकित्सित कुछ रोगी ठीक होते हैं और वैसे ही अन्य मर जाते हैं। चूँकि चिकित्सा करने पर भी कोई ठीक होता है और कोई मरता है, चिकित्सा न करने पर भी कोई ठीक होता है और कोई मरता है, इसलिए लगता है कि चिकित्सा और अचिकित्सा में कोई अन्तर नहीं।'",
+   "explanation_en": "This is Maitreya's objection (pūrvapakṣa), which challenges the very basis of medicine. His argument uses four observed combinations: treated-recovered, treated-died, untreated-recovered, untreated-died. The similes (water into a pit or river, dust on dust) suggest that treatment adds nothing to what nature does. Exam point: 'Explain the Ātreya-Maitreya debate on the efficacy of treatment.'",
+   "explanation_hi": "यह मैत्रेय का पूर्वपक्ष (आपत्ति) है जो चिकित्सा के मूल आधार को चुनौती देता है। उनका तर्क चार देखे गए संयोगों पर है: चिकित्सा-ठीक, चिकित्सा-मृत्यु, बिना चिकित्सा-ठीक, बिना चिकित्सा-मृत्यु। उपमाएँ (गड्ढे या नदी में जल, धूल पर धूल) बताती हैं कि चिकित्सा प्रकृति में कुछ नहीं जोड़ती। परीक्षा: 'चिकित्सा की प्रभावशीलता पर आत्रेय-मैत्रेय संवाद समझाइए।'",
+   "modern_correlation": {
+    "en": "Maitreya's four-way table (treated/untreated vs recovered/died) closely resembles the 2×2 table used in modern clinical epidemiology. The modern answer, similar in spirit to Ātreya's, is that efficacy is judged by comparing outcome rates between groups, not by individual cases, since some untreated patients recover and some treated patients die.",
+    "hi": "मैत्रेय की चार-खाने वाली तालिका (चिकित्सित/अचिकित्सित बनाम ठीक/मृत) आधुनिक क्लिनिकल एपिडेमियोलॉजी की 2×2 तालिका जैसी है। आधुनिक उत्तर, आत्रेय के भाव जैसा, यह है कि प्रभावशीलता समूहों के परिणाम-दरों की तुलना से आँकी जाती है, अलग-अलग मामलों से नहीं, क्योंकि कुछ अचिकित्सित रोगी ठीक होते हैं और कुछ चिकित्सित मरते हैं।"
+   },
+   "key_terms": [
+    "pūrvapakṣa",
+    "Maitreya",
+    "bheṣaja",
+    "abheṣaja"
+   ],
+   "tags": [
+    "debate",
+    "chikitsa",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Maitreya's 4 boxes: Treated+Lived, Treated+Died, Untreated+Lived, Untreated+Died",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.10.5",
+   "word_meanings": [
+    {
+     "sa": "मैत्रेय मिथ्या चिन्त्यते",
+     "iast": "maitreya mithyā cintyate",
+     "en": "Maitreya, you think wrongly",
+     "hi": "मैत्रेय, तुम गलत सोचते हो"
+    },
+    {
+     "sa": "षोडशगुणसमुदितेन",
+     "iast": "ṣoḍaśaguṇasamuditena",
+     "en": "endowed with all sixteen qualities",
+     "hi": "सोलह गुणों से युक्त"
+    },
+    {
+     "sa": "भेषजेन उपपद्यमानाः म्रियन्ते",
+     "iast": "bheṣajena upapadyamānāḥ mriyante",
+     "en": "die while receiving treatment",
+     "hi": "चिकित्सा पाते हुए मरते हैं"
+    },
+    {
+     "sa": "अनुपपन्नम्",
+     "iast": "anupapannam",
+     "en": "untenable",
+     "hi": "असंगत"
+    },
+    {
+     "sa": "भेषजसाध्यानाम् व्याधीनाम्",
+     "iast": "bheṣajasādhyānām vyādhīnām",
+     "en": "of diseases curable by treatment",
+     "hi": "चिकित्सा से साध्य रोगों का"
+    },
+    {
+     "sa": "अकारणम्",
+     "iast": "akāraṇam",
+     "en": "not the cause",
+     "hi": "कारण नहीं"
+    },
+    {
+     "sa": "केवलात् भेषजात् ऋते",
+     "iast": "kevalāt bheṣajāt ṛte",
+     "en": "without complete treatment",
+     "hi": "पूर्ण चिकित्सा के बिना"
+    },
+    {
+     "sa": "समुत्थानविशेषः",
+     "iast": "samutthānaviśeṣaḥ",
+     "en": "special (better) recovery",
+     "hi": "विशेष (अच्छा) सुधार"
+    },
+    {
+     "sa": "पतितम् पुरुषम्",
+     "iast": "patitam puruṣam",
+     "en": "a fallen man",
+     "hi": "गिरा हुआ व्यक्ति"
+    },
+    {
+     "sa": "समरथम् उत्थानाय",
+     "iast": "samaratham utthānāya",
+     "en": "capable of rising by himself",
+     "hi": "स्वयं उठने में समर्थ"
+    },
+    {
+     "sa": "बलम् उपादध्यात्",
+     "iast": "balam upādadhyāt",
+     "en": "lends strength",
+     "hi": "सहारा दे"
+    },
+    {
+     "sa": "क्षिप्रतरम् अपरिक्लिष्टः",
+     "iast": "kṣiprataram aparikliṣṭaḥ",
+     "en": "more quickly and without strain",
+     "hi": "शीघ्र और बिना कष्ट के"
+    },
+    {
+     "sa": "उपायसाध्याः",
+     "iast": "upāyasādhyāḥ",
+     "en": "curable by means (treatment)",
+     "hi": "उपाय से साध्य"
+    },
+    {
+     "sa": "असाध्यानाम्",
+     "iast": "asādhyānām",
+     "en": "of incurable diseases",
+     "hi": "असाध्य रोगों का"
+    },
+    {
+     "sa": "मुमूर्षुम् आतुरम्",
+     "iast": "mumūrṣum āturam",
+     "en": "a dying patient",
+     "hi": "मरणासन्न रोगी को"
+    },
+    {
+     "sa": "परीक्ष्यकारिणः",
+     "iast": "parīkṣyakāriṇaḥ",
+     "en": "those who act after examination",
+     "hi": "परीक्षा करके कार्य करने वाले"
+    },
+    {
+     "sa": "कुशलाः",
+     "iast": "kuśalāḥ",
+     "en": "skilled",
+     "hi": "कुशल"
+    },
+    {
+     "sa": "योगज्ञः",
+     "iast": "yogajñaḥ",
+     "en": "knowing the technique",
+     "hi": "विधि जानने वाला"
+    },
+    {
+     "sa": "अभ्यासनित्यः",
+     "iast": "abhyāsanityaḥ",
+     "en": "constantly practising",
+     "hi": "नित्य अभ्यास करने वाला"
+    },
+    {
+     "sa": "इष्वासः",
+     "iast": "iṣvāsaḥ",
+     "en": "archer",
+     "hi": "धनुर्धर"
+    },
+    {
+     "sa": "अतिविप्रकृष्टे महति काये",
+     "iast": "ativiprakṛṣṭe mahati kāye",
+     "en": "at a large target not too far",
+     "hi": "न अधिक दूर, बड़े लक्ष्य पर"
+    },
+    {
+     "sa": "न अपराधवान् भवति",
+     "iast": "na aparādhavān bhavati",
+     "en": "does not miss",
+     "hi": "चूकता नहीं"
+    },
+    {
+     "sa": "स्वगुणसम्पन्नः उपकरणवान्",
+     "iast": "svaguṇasampannaḥ upakaraṇavān",
+     "en": "endowed with his qualities and equipment",
+     "hi": "अपने गुणों और साधनों से युक्त"
+    },
+    {
+     "sa": "वीक्ष्य कर्म आरभमाणः",
+     "iast": "vīkṣya karma ārabhamāṇaḥ",
+     "en": "starting action after examination",
+     "hi": "देखकर कार्य आरम्भ करते हुए"
+    },
+    {
+     "sa": "साध्यरोगम्",
+     "iast": "sādhyarogam",
+     "en": "a patient with a curable disease",
+     "hi": "साध्य रोगी को"
+    },
+    {
+     "sa": "आरोग्येण सम्पादयति",
+     "iast": "ārogyeṇa sampādayati",
+     "en": "endows with health",
+     "hi": "आरोग्य प्रदान करता है"
+    }
+   ],
+   "english": "'Maitreya, you think wrongly,' said Ātreya. 'Why? The claim that patients die even when receiving treatment endowed with all sixteen qualities is untenable, because for diseases curable by treatment, treatment is never ineffective. As for patients who recover without complete treatment, it is not that complete treatment would have made no difference to their recovery. Just as a man helping a fallen person who is able to rise by himself lends him strength, so that he rises faster and without strain, so do patients recover better on receiving complete treatment. And patients who die even with treatment: not all who receive treatment can recover, because not all diseases are curable by means; diseases curable by means do not get cured without means, and for incurable diseases this set of therapies does not exist. Even a learned physician cannot revive a dying patient. Skilled physicians act only after examination. Just as an archer who knows the technique and practises constantly does not miss a large target that is not too far and accomplishes his aim, so a physician endowed with his qualities and equipment, who begins treatment after careful examination, unfailingly brings a patient with a curable disease to health. Therefore treatment is not the same as no treatment.'",
+   "hindi": "'मैत्रेय, तुम गलत सोचते हो,' आत्रेय ने कहा। 'क्यों? यह कहना कि सोलह गुणों से युक्त चिकित्सा पाने पर भी रोगी मरते हैं, असंगत है, क्योंकि चिकित्सा-साध्य रोगों में चिकित्सा कभी निष्फल नहीं होती। और जो रोगी पूर्ण चिकित्सा के बिना ठीक होते हैं, ऐसा नहीं कि पूर्ण चिकित्सा से उनके सुधार में कोई विशेषता न आती। जैसे स्वयं उठने में समर्थ गिरे हुए व्यक्ति को कोई सहारा दे तो वह शीघ्र और बिना कष्ट के उठता है, वैसे ही पूर्ण चिकित्सा मिलने से रोगी बेहतर ठीक होते हैं। और जो रोगी चिकित्सा से भी मरते हैं: चिकित्सा पाने वाले सभी ठीक नहीं हो सकते, क्योंकि सब रोग उपाय-साध्य नहीं होते; उपाय-साध्य रोग बिना उपाय के ठीक नहीं होते, और असाध्य रोगों के लिए यह चिकित्सा-समूह नहीं है। ज्ञानी वैद्य भी मरणासन्न रोगी को नहीं उठा सकता। कुशल वैद्य परीक्षा करके ही कार्य करते हैं। जैसे विधि जानने वाला और नित्य अभ्यास करने वाला धनुर्धर बहुत दूर न स्थित बड़े लक्ष्य पर बाण चलाकर चूकता नहीं और अपना कार्य सिद्ध करता है, वैसे ही अपने गुणों और साधनों से युक्त वैद्य भली-भाँति परीक्षा करके चिकित्सा आरम्भ करने पर साध्य रोगी को निश्चय ही आरोग्य देता है। इसलिए चिकित्सा अचिकित्सा के समान नहीं है।'",
+   "explanation_en": "Ātreya's reply (siddhānta) answers each of Maitreya's four cases: (1) treated but died: the disease was incurable; (2) untreated but recovered: the disease was mild, and treatment would have made recovery faster and easier, as helping a fallen man who can rise anyway; (3) treatment works for curable diseases, as surely as a trained archer hits a big, near target. The key conclusion: the physician must first examine and classify the disease as curable or incurable (leading into v. 7-21). 'Na bheṣajam abheṣajenāviśiṣṭam' is the quotable last line.",
+   "explanation_hi": "आत्रेय का उत्तर (सिद्धान्त) मैत्रेय के हर पक्ष का उत्तर देता है: (1) चिकित्सा के बाद भी मृत्यु: रोग असाध्य था; (2) बिना चिकित्सा ठीक होना: रोग हल्का था, चिकित्सा से सुधार और शीघ्र व सरल होता, जैसे स्वयं उठ सकने वाले को सहारा देना; (3) साध्य रोगों में चिकित्सा उतनी ही निश्चित है जितना प्रशिक्षित धनुर्धर का पास के बड़े लक्ष्य पर निशाना। मुख्य निष्कर्ष: वैद्य को पहले परीक्षा करके रोग को साध्य-असाध्य में वर्गीकृत करना चाहिए (श्लोक 7-21)।",
+   "modern_correlation": {
+    "en": "This argument parallels modern reasoning about treatment efficacy: some conditions are self-limiting (treatment may shorten or ease recovery), some are not treatable with available means, and effectiveness must be judged in the group of patients for whom the treatment is indicated. It also reflects the importance of prognosis and patient selection.",
+    "hi": "यह तर्क उपचार-प्रभावशीलता पर आधुनिक तर्क से मेल खाता है: कुछ रोग स्वयं सीमित होते हैं (उपचार सुधार को छोटा या सरल कर सकता है), कुछ उपलब्ध साधनों से ठीक नहीं होते, और प्रभावशीलता उन्हीं रोगियों के समूह में आँकी जानी चाहिए जिनके लिए उपचार संकेतित है। यह प्रोग्नोसिस और रोगी-चयन के महत्त्व को भी दर्शाता है।"
+   },
+   "key_terms": [
+    "siddhānta",
+    "sādhya",
+    "asādhya",
+    "upāyasādhya",
+    "parīkṣā"
+   ],
+   "tags": [
+    "debate",
+    "chikitsa",
+    "prognosis",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Archer simile: trained archer + big near target = sure hit; trained vaidya + curable disease = sure cure",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.10.6",
+   "word_meanings": [
+    {
+     "sa": "इदम् च नः प्रत्यक्षम्",
+     "iast": "idam ca naḥ pratyakṣam",
+     "en": "and this is directly seen by us",
+     "hi": "और यह हमें प्रत्यक्ष है"
+    },
+    {
+     "sa": "अनातुरेन भेषजेन",
+     "iast": "anāturena bheṣajena",
+     "en": "with a 'non-diseased' (opposite in quality) remedy",
+     "hi": "अनातुर (विपरीत गुण वाली) औषध से"
+    },
+    {
+     "sa": "आतुरम् चिकित्सामः",
+     "iast": "āturam cikitsāmaḥ",
+     "en": "we treat the diseased",
+     "hi": "रोगी की चिकित्सा करते हैं"
+    },
+    {
+     "sa": "क्षामम् अक्षामेण",
+     "iast": "kṣāmam akṣāmeṇa",
+     "en": "the emaciated with what is not emaciating",
+     "hi": "क्षीण को अक्षीण (पोषक) से"
+    },
+    {
+     "sa": "कृशम् दुर्बलम् आप्याययामः",
+     "iast": "kṛśam durbalam āpyāyayāmaḥ",
+     "en": "we nourish the lean and weak",
+     "hi": "कृश और दुर्बल को पुष्ट करते हैं"
+    },
+    {
+     "sa": "स्थूलम् मेदस्विनम् अपतर्पयामः",
+     "iast": "sthūlam medasvinam apatarpayāmaḥ",
+     "en": "we deplete the obese with excess fat",
+     "hi": "स्थूल और मेदस्वी का अपतर्पण करते हैं"
+    },
+    {
+     "sa": "शीतेन उष्णाभिभूतम्",
+     "iast": "śītena uṣṇābhibhūtam",
+     "en": "the one afflicted by heat with cold",
+     "hi": "उष्णता से पीड़ित को शीत से"
+    },
+    {
+     "sa": "शीताभिभूतम् उष्णेन",
+     "iast": "śītābhibhūtam uṣṇena",
+     "en": "the one afflicted by cold with heat",
+     "hi": "शीत से पीड़ित को उष्ण से"
+    },
+    {
+     "sa": "न्यूनान् धातून् पूरयामः",
+     "iast": "nyūnān dhātūn pūrayāmaḥ",
+     "en": "we replenish deficient dhātus",
+     "hi": "क्षीण धातुओं को पूर्ण करते हैं"
+    },
+    {
+     "sa": "व्यतिरिक्तान् ह्रासयामः",
+     "iast": "vyatiriktān hrāsayāmaḥ",
+     "en": "we reduce those in excess",
+     "hi": "बढ़ी हुई धातुओं को घटाते हैं"
+    },
+    {
+     "sa": "मूलविपर्ययेण",
+     "iast": "mūlaviparyayeṇa",
+     "en": "by acting opposite to the root cause",
+     "hi": "मूल (कारण) के विपरीत"
+    },
+    {
+     "sa": "सम्यक् प्रकृतौ स्थापयामः",
+     "iast": "samyak prakṛtau sthāpayāmaḥ",
+     "en": "we restore to the normal state",
+     "hi": "प्रकृति में भली-भाँति स्थापित करते हैं"
+    },
+    {
+     "sa": "कान्ततमः",
+     "iast": "kāntatamaḥ",
+     "en": "most excellent, most beneficial",
+     "hi": "सबसे उत्तम (प्रिय)"
+    },
+    {
+     "sa": "भेषजसमुदायः",
+     "iast": "bheṣajasamudāyaḥ",
+     "en": "the set of therapies",
+     "hi": "चिकित्सा-समूह"
+    }
+   ],
+   "english": "And this is directly observed by us: we treat the diseased with remedies of opposite nature; we nourish the emaciated, lean and weak with what builds up; we deplete the obese with excess fat; we treat one afflicted by heat with cold and one afflicted by cold with heat; we replenish deficient dhātus and reduce excessive ones; and by treating diseases with measures opposite to their cause we restore them properly to the normal state. For us, doing so, this set of therapies is most beneficial.",
+   "hindi": "और यह हमें प्रत्यक्ष दिखता है: हम रोगी की चिकित्सा विपरीत स्वभाव वाली औषध से करते हैं; क्षीण, कृश और दुर्बल को पोषक पदार्थों से पुष्ट करते हैं; स्थूल और मेदस्वी का अपतर्पण करते हैं; उष्णता से पीड़ित की शीत से और शीत से पीड़ित की उष्ण से चिकित्सा करते हैं; क्षीण धातुओं को बढ़ाते और बढ़ी हुई धातुओं को घटाते हैं; और रोगों की उनके कारण के विपरीत चिकित्सा करके उन्हें भली-भाँति प्रकृति में स्थापित करते हैं। ऐसा करने वाले हमारे लिए यह चिकित्सा-समूह सबसे उत्तम है।",
+   "explanation_en": "This gives empirical (pratyakṣa) evidence for the efficacy of treatment, based on the principle of 'viparīta-guṇa' (treatment by opposites) and 'sāmānya-viśeṣa' (similar increases, dissimilar decreases; Su 1.44). Examples: santarpaṇa for the emaciated, apatarpaṇa for the obese, cold for heat. The goal is 'prakṛti-sthāpana', restoring balance (as defined in Su 9.4-5).",
+   "explanation_hi": "यह चिकित्सा की प्रभावशीलता का प्रत्यक्ष प्रमाण देता है, जो 'विपरीत गुण' चिकित्सा और 'सामान्य-विशेष' सिद्धान्त (समान से वृद्धि, विशेष से ह्रास; सू. 1.44) पर आधारित है। उदाहरण: क्षीण के लिए सन्तर्पण, स्थूल के लिए अपतर्पण, उष्णता के लिए शीत। लक्ष्य 'प्रकृति-स्थापन' (सू. 9.4-5) है।",
+   "modern_correlation": {
+    "en": "Treating deficiency by replacement and excess by reduction (e.g. nutritional support for undernutrition, calorie restriction for obesity, cooling for hyperthermia, warming for hypothermia) parallels the modern physiological goal of restoring homeostasis. This is a conceptual parallel only.",
+    "hi": "कमी को पूरा करना और अधिकता को घटाना (जैसे कुपोषण में पोषण, मोटापे में कैलोरी नियन्त्रण, हाइपरथर्मिया में ठण्डक, हाइपोथर्मिया में गर्मी) आधुनिक शरीर-क्रिया के लक्ष्य 'होमियोस्टेसिस' की बहाली जैसा है। यह केवल वैचारिक समानता है।"
+   },
+   "key_terms": [
+    "viparīta guṇa",
+    "santarpaṇa",
+    "apatarpaṇa",
+    "prakṛtisthāpana",
+    "sāmānya-viśeṣa"
+   ],
+   "tags": [
+    "chikitsa",
+    "principle",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Lean → nourish, Fat → deplete, Hot → cool, Cold → warm",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.10.7",
+   "word_meanings": [
+    {
+     "sa": "भवन्ति च अत्र",
+     "iast": "bhavanti ca atra",
+     "en": "and here are (verses)",
+     "hi": "और यहाँ (श्लोक) हैं"
+    },
+    {
+     "sa": "साध्य असाध्य विभागज्ञः",
+     "iast": "sādhya asādhya vibhāgajñaḥ",
+     "en": "one who knows the distinction between curable and incurable",
+     "hi": "साध्य-असाध्य का भेद जानने वाला"
+    },
+    {
+     "sa": "ज्ञानपूर्वम्",
+     "iast": "jñānapūrvam",
+     "en": "with knowledge, after due understanding",
+     "hi": "ज्ञानपूर्वक"
+    },
+    {
+     "sa": "चिकित्सकः",
+     "iast": "cikitsakaḥ",
+     "en": "physician",
+     "hi": "चिकित्सक"
+    },
+    {
+     "sa": "काले च आरभते कर्म",
+     "iast": "kāle ca ārabhate karma",
+     "en": "and begins treatment in time",
+     "hi": "और समय पर चिकित्सा आरम्भ करता है"
+    },
+    {
+     "sa": "यत् तत् साधयति ध्रुवम्",
+     "iast": "yat tat sādhayati dhruvam",
+     "en": "he certainly accomplishes it",
+     "hi": "वह उसे निश्चय ही सिद्ध करता है"
+    }
+   ],
+   "english": "Here are some verses: The physician who knows the distinction between curable and incurable diseases and begins treatment in time, with full knowledge, certainly achieves success.",
+   "hindi": "यहाँ श्लोक हैं: जो चिकित्सक साध्य-असाध्य का भेद जानता है और ज्ञानपूर्वक समय पर चिकित्सा आरम्भ करता है, वह निश्चय ही सफलता प्राप्त करता है।",
+   "explanation_en": "Three conditions for certain success: (1) knowing sādhya-asādhya (prognosis), (2) jñāna-pūrvam (treatment based on knowledge), (3) kāle (timely start). Frequently quoted in answers on the importance of prognosis.",
+   "explanation_hi": "निश्चित सफलता की तीन शर्तें: (1) साध्य-असाध्य का ज्ञान (प्रोग्नोसिस), (2) ज्ञानपूर्वक चिकित्सा, (3) समय पर आरम्भ। प्रोग्नोसिस के महत्त्व वाले उत्तरों में प्रायः उद्धृत।",
+   "modern_correlation": {
+    "en": "The emphasis on prognosis and early intervention corresponds to modern clinical practice, where accurate prognosis guides treatment choice and early treatment often improves outcomes.",
+    "hi": "प्रोग्नोसिस और शीघ्र हस्तक्षेप पर बल आधुनिक नैदानिक प्रैक्टिस से मेल खाता है, जहाँ सही प्रोग्नोसिस उपचार के चयन का मार्गदर्शन करता है और शीघ्र उपचार प्रायः परिणाम सुधारता है।"
+   },
+   "key_terms": [
+    "sādhya",
+    "asādhya",
+    "kāla",
+    "prognosis"
+   ],
+   "tags": [
+    "prognosis",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.10.8",
+   "word_meanings": [
+    {
+     "sa": "अर्थ",
+     "iast": "artha",
+     "en": "wealth",
+     "hi": "अर्थ (धन)"
+    },
+    {
+     "sa": "विद्या",
+     "iast": "vidyā",
+     "en": "learning (reputation for learning)",
+     "hi": "विद्या"
+    },
+    {
+     "sa": "यशः",
+     "iast": "yaśaḥ",
+     "en": "fame",
+     "hi": "यश"
+    },
+    {
+     "sa": "हानिम्",
+     "iast": "hānim",
+     "en": "loss of",
+     "hi": "हानि"
+    },
+    {
+     "sa": "उपक्रोशम्",
+     "iast": "upakrośam",
+     "en": "public censure",
+     "hi": "निन्दा (अपकीर्ति)"
+    },
+    {
+     "sa": "असंग्रहम्",
+     "iast": "asaṃgraham",
+     "en": "non-acceptance (loss of patronage)",
+     "hi": "असंग्रह (लोगों का साथ न मिलना)"
+    },
+    {
+     "sa": "प्राप्नुयात् नियतम्",
+     "iast": "prāpnuyāt niyatam",
+     "en": "certainly incurs",
+     "hi": "निश्चय ही प्राप्त करता है"
+    },
+    {
+     "sa": "वैद्यः यः",
+     "iast": "vaidyaḥ yaḥ",
+     "en": "the physician who",
+     "hi": "जो वैद्य"
+    },
+    {
+     "sa": "असाध्यम् समुपाचरेत्",
+     "iast": "asādhyam samupācaret",
+     "en": "treats an incurable disease",
+     "hi": "असाध्य रोग की चिकित्सा करता है"
+    }
+   ],
+   "english": "The physician who undertakes to treat an incurable disease certainly suffers loss of wealth, learning (reputation) and fame, incurs public censure and loses patronage.",
+   "hindi": "जो वैद्य असाध्य रोग की चिकित्सा करता है, वह निश्चय ही धन, विद्या (प्रतिष्ठा) और यश की हानि, लोक-निन्दा और लोगों के असंग्रह (साथ छूटने) को प्राप्त करता है।",
+   "explanation_en": "This verse warns against taking up clearly incurable (pratyākhyeya) cases with false promises. 'Asaṃgraha' is explained as loss of acceptance or patronage by people. Remember the five losses: artha, vidyā, yaśas, upakrośa, asaṃgraha. Note the ethical point: the physician should not mislead patients about incurable diseases.",
+   "explanation_hi": "यह श्लोक स्पष्ट रूप से असाध्य (प्रत्याख्येय) रोगियों को झूठे वादों से लेने के विरुद्ध चेतावनी है। 'असंग्रह' का अर्थ लोगों द्वारा स्वीकार न किया जाना है। पाँच हानियाँ याद रखें: अर्थ, विद्या, यश, उपक्रोश, असंग्रह।",
+   "modern_correlation": {
+    "en": "This is broadly comparable to the modern ethical principle of honest prognosis and avoiding futile treatment or false promises of cure, which harm patients and undermine trust in the clinician.",
+    "hi": "यह आधुनिक नैतिक सिद्धान्त से मोटे तौर पर तुलनीय है: ईमानदार प्रोग्नोसिस और व्यर्थ उपचार या ठीक करने के झूठे वादों से बचना, जो रोगी को हानि पहुँचाते हैं और चिकित्सक पर विश्वास घटाते हैं।"
+   },
+   "key_terms": [
+    "asādhya",
+    "upakrośa",
+    "asaṃgraha"
+   ],
+   "tags": [
+    "prognosis",
+    "ethics"
+   ],
+   "importance": "medium",
+   "mnemonic": "Treat the incurable, lose A-V-Y (artha, vidyā, yaśas) + gain censure + lose patients",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.10.9",
+   "word_meanings": [
+    {
+     "sa": "सुखसाध्यम्",
+     "iast": "sukhasādhyam",
+     "en": "easily curable",
+     "hi": "सुखसाध्य"
+    },
+    {
+     "sa": "मतम्",
+     "iast": "matam",
+     "en": "is considered",
+     "hi": "माना गया है"
+    },
+    {
+     "sa": "साध्यम्",
+     "iast": "sādhyam",
+     "en": "curable",
+     "hi": "साध्य"
+    },
+    {
+     "sa": "कृच्छ्रसाध्यम्",
+     "iast": "kṛcchrasādhyam",
+     "en": "curable with difficulty",
+     "hi": "कृच्छ्रसाध्य"
+    },
+    {
+     "sa": "अथ अपि च",
+     "iast": "atha api ca",
+     "en": "and also",
+     "hi": "और भी"
+    },
+    {
+     "sa": "द्विविधम्",
+     "iast": "dvividham",
+     "en": "of two kinds",
+     "hi": "दो प्रकार का"
+    },
+    {
+     "sa": "च अपि असाध्यम् स्यात्",
+     "iast": "ca api asādhyam syāt",
+     "en": "and the incurable also is",
+     "hi": "और असाध्य भी है"
+    },
+    {
+     "sa": "याप्यम्",
+     "iast": "yāpyam",
+     "en": "palliable (manageable, maintainable)",
+     "hi": "याप्य"
+    },
+    {
+     "sa": "यत् च अनुपक्रमम्",
+     "iast": "yat ca anupakramam",
+     "en": "and that which is untreatable",
+     "hi": "और अनुपक्रम (जिसकी चिकित्सा न हो)"
+    }
+   ],
+   "english": "The curable (sādhya) is considered to be of two kinds: easily curable (sukha-sādhya) and curable with difficulty (kṛcchra-sādhya). The incurable (asādhya) is also of two kinds: palliable (yāpya) and untreatable (anupakrama).",
+   "hindi": "साध्य रोग दो प्रकार के माने गए हैं: सुखसाध्य और कृच्छ्रसाध्य। असाध्य भी दो प्रकार के हैं: याप्य और अनुपक्रम (जिनकी चिकित्सा नहीं हो सकती)।",
+   "explanation_en": "This is the classic fourfold classification of prognosis (catur-vidha vyādhi): sukhasādhya, kṛcchrasādhya, yāpya and anupakrama (also called pratyākhyeya, v. 19). Yāpya means the disease cannot be cured but life can be maintained with continued regimen (yāpana). One of the most frequently asked short notes.",
+   "explanation_hi": "यह प्रोग्नोसिस का प्रसिद्ध चतुर्विध वर्गीकरण है: सुखसाध्य, कृच्छ्रसाध्य, याप्य और अनुपक्रम (जिसे प्रत्याख्येय भी कहते हैं, श्लोक 19)। याप्य का अर्थ है रोग ठीक नहीं होता पर निरन्तर पथ्य से जीवन चलाया जा सकता है (यापन)। सबसे अधिक पूछे जाने वाले लघु प्रश्नों में।",
+   "modern_correlation": {
+    "en": "This four-level prognostic scale is often compared with modern categories: conditions that resolve easily with treatment, those curable with intensive or prolonged treatment, chronic conditions controlled but not cured (e.g. many metabolic diseases on long-term management), and conditions where curative treatment is no longer possible and palliative care is appropriate.",
+    "hi": "इस चार-स्तरीय प्रोग्नोस्टिक वर्गीकरण की तुलना अक्सर आधुनिक श्रेणियों से की जाती है: उपचार से आसानी से ठीक होने वाले रोग, गहन या लम्बे उपचार से ठीक होने वाले, नियन्त्रित पर ठीक न होने वाले दीर्घकालिक रोग (जैसे दीर्घकालिक प्रबन्धन वाले कई मेटाबॉलिक रोग), और ऐसे रोग जहाँ उपचारात्मक चिकित्सा सम्भव नहीं और पैलिएटिव केयर उचित है।"
+   },
+   "key_terms": [
+    "sukhasādhya",
+    "kṛcchrasādhya",
+    "yāpya",
+    "anupakrama",
+    "pratyākhyeya"
+   ],
+   "tags": [
+    "prognosis",
+    "classification",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Sādhya: Sukha + Kṛcchra; Asādhya: Yāpya + Anupakrama ('Easy, Hard, Hold, Hopeless')",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.10.10",
+   "word_meanings": [
+    {
+     "sa": "साध्यानाम्",
+     "iast": "sādhyānām",
+     "en": "of the curable",
+     "hi": "साध्य रोगों का"
+    },
+    {
+     "sa": "त्रिविधः",
+     "iast": "trividhaḥ",
+     "en": "threefold",
+     "hi": "तीन प्रकार का"
+    },
+    {
+     "sa": "च अल्प मध्यम उत्कृष्टताम् प्रति",
+     "iast": "ca alpa madhyama utkṛṣṭatām prati",
+     "en": "according to mild, moderate and severe",
+     "hi": "अल्प, मध्यम और उत्कृष्ट (तीव्र) के अनुसार"
+    },
+    {
+     "sa": "विकल्पः",
+     "iast": "vikalpaḥ",
+     "en": "subdivision",
+     "hi": "भेद"
+    },
+    {
+     "sa": "न तु असाध्यानाम्",
+     "iast": "na tu asādhyānām",
+     "en": "but not of the incurable",
+     "hi": "परन्तु असाध्य रोगों का नहीं"
+    },
+    {
+     "sa": "नियतानाम्",
+     "iast": "niyatānām",
+     "en": "which are fixed (certain)",
+     "hi": "जो नियत हैं"
+    },
+    {
+     "sa": "विकल्पना",
+     "iast": "vikalpanā",
+     "en": "subdivision",
+     "hi": "विकल्प (भेद)"
+    }
+   ],
+   "english": "Curable diseases are further divided into three according to whether they are mild, moderate or severe; but there is no such subdivision of incurable diseases, since their outcome is fixed.",
+   "hindi": "साध्य रोगों के अल्प, मध्यम और उत्कृष्ट (तीव्र) के अनुसार तीन भेद होते हैं; परन्तु असाध्य रोगों का ऐसा भेद नहीं होता, क्योंकि उनका परिणाम नियत है।",
+   "explanation_en": "Curable diseases vary in severity, so treatment intensity must match (mild, moderate, severe). Incurable diseases are 'niyata' (fixed in outcome), so grading them does not change management. This links to the matching of treatment strength with disease strength (e.g. in Vimāna 3 on yukti).",
+   "explanation_hi": "साध्य रोगों की तीव्रता भिन्न होती है, इसलिए चिकित्सा की तीव्रता भी उसके अनुसार होनी चाहिए (अल्प, मध्यम, तीव्र)। असाध्य रोग 'नियत' (निश्चित परिणाम वाले) हैं, इसलिए उनके भेद से चिकित्सा नहीं बदलती।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sādhya",
+    "alpa",
+    "madhya",
+    "utkṛṣṭa",
+    "niyata"
+   ],
+   "tags": [
+    "prognosis",
+    "classification"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.10.11",
+   "word_meanings": [
+    {
+     "sa": "हेतवः",
+     "iast": "hetavaḥ",
+     "en": "causes",
+     "hi": "हेतु"
+    },
+    {
+     "sa": "पूर्वरूपाणि",
+     "iast": "pūrvarūpāṇi",
+     "en": "prodromal symptoms",
+     "hi": "पूर्वरूप"
+    },
+    {
+     "sa": "रूपाणि",
+     "iast": "rūpāṇi",
+     "en": "symptoms",
+     "hi": "रूप (लक्षण)"
+    },
+    {
+     "sa": "अल्पानि",
+     "iast": "alpāni",
+     "en": "few, mild",
+     "hi": "अल्प"
+    },
+    {
+     "sa": "यस्य च",
+     "iast": "yasya ca",
+     "en": "whose",
+     "hi": "जिसके"
+    },
+    {
+     "sa": "न च तुल्यगुणः दूष्यः",
+     "iast": "na ca tulyaguṇaḥ dūṣyaḥ",
+     "en": "the dūṣya (affected tissue) is not of similar quality (to the doṣa)",
+     "hi": "दूष्य (दोष के) समान गुण वाला न हो"
+    },
+    {
+     "sa": "न दोषः प्रकृतिः भवेत्",
+     "iast": "na doṣaḥ prakṛtiḥ bhavet",
+     "en": "the doṣa is not the same as the constitution (prakṛti)",
+     "hi": "दोष प्रकृति के समान न हो"
+    }
+   ],
+   "english": "(A disease) whose causes, prodromal symptoms (pūrvarūpa) and symptoms (rūpa) are few; in which the affected tissue (dūṣya) is not of similar quality to the doṣa; and in which the doṣa is not the same as the person's constitution (prakṛti);",
+   "hindi": "जिस रोग के हेतु, पूर्वरूप और रूप (लक्षण) अल्प हों; जिसमें दूष्य दोष के समान गुण वाला न हो; और जिसमें दोष व्यक्ति की प्रकृति के समान न हो;",
+   "explanation_en": "First part of the features of sukhasādhya (v. 11-13). Logic: if the doṣa and dūṣya are of similar qualities (e.g. kapha with medas), or the doṣa matches the patient's prakṛti (kapha disease in a kapha person), the disease is reinforced and harder to treat. If dissimilar, the treatment for the doṣa does not harm the dūṣya or prakṛti.",
+   "explanation_hi": "सुखसाध्य के लक्षणों का पहला भाग (श्लोक 11-13)। तर्क: यदि दोष और दूष्य समान गुण वाले हों (जैसे कफ और मेद), या दोष रोगी की प्रकृति से मेल खाए (कफ प्रकृति में कफज रोग), तो रोग को बल मिलता है और चिकित्सा कठिन होती है। असमान होने पर दोष की चिकित्सा दूष्य या प्रकृति को हानि नहीं पहुँचाती।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sukhasādhya",
+    "hetu",
+    "pūrvarūpa",
+    "rūpa",
+    "dūṣya",
+    "prakṛti"
+   ],
+   "tags": [
+    "prognosis",
+    "sukhasadhya",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.10.12",
+   "word_meanings": [
+    {
+     "sa": "न च कालगुणः तुल्यः",
+     "iast": "na ca kālaguṇaḥ tulyaḥ",
+     "en": "the season's quality is not similar (to the doṣa)",
+     "hi": "काल (ऋतु) का गुण (दोष के) समान न हो"
+    },
+    {
+     "sa": "न देशः दुरुपक्रमः",
+     "iast": "na deśaḥ durupakramaḥ",
+     "en": "the site is not difficult to treat",
+     "hi": "देश (स्थान) कठिन-चिकित्स्य न हो"
+    },
+    {
+     "sa": "गतिः एका",
+     "iast": "gatiḥ ekā",
+     "en": "a single pathway (of spread)",
+     "hi": "एक ही गति (मार्ग)"
+    },
+    {
+     "sa": "नवत्वम् च",
+     "iast": "navatvam ca",
+     "en": "and recent onset",
+     "hi": "और नवीनता (नया होना)"
+    },
+    {
+     "sa": "रोगस्य",
+     "iast": "rogasya",
+     "en": "of the disease",
+     "hi": "रोग का"
+    },
+    {
+     "sa": "उपद्रवः न च",
+     "iast": "upadravaḥ na ca",
+     "en": "and no complications",
+     "hi": "और उपद्रव न हों"
+    }
+   ],
+   "english": "in which the qualities of the season (kāla) are not similar to it; the site (deśa) is not difficult to treat; the disease follows a single pathway (gati) and is of recent onset; and there are no complications (upadrava);",
+   "hindi": "जिसमें काल (ऋतु) के गुण रोग के समान न हों; देश (स्थान) कठिन-चिकित्स्य न हो; रोग की एक ही गति (मार्ग) हो और वह नया हो; और उपद्रव न हों;",
+   "explanation_en": "Continues sukhasādhya. 'Deśa' is taken both as the body site and as the land (habitat). 'Gati ekā' means one pathway, e.g. ūrdhvaga or adhoga, or one of the three rogamārgas. 'Navatva' (recent onset) and absence of upadrava (complications) favour easy cure.",
+   "explanation_hi": "सुखसाध्य का क्रम जारी। 'देश' को शरीर का स्थान और भूमि (निवास) दोनों माना गया है। 'गति एका' का अर्थ एक मार्ग है, जैसे ऊर्ध्वग या अधोग, या तीन रोगमार्गों में से एक। नवीनता और उपद्रव का अभाव सरल चिकित्सा के पक्ष में हैं।",
+   "modern_correlation": {
+    "en": "Recent onset, localised involvement and absence of complications are also recognised in modern medicine as generally favourable prognostic factors.",
+    "hi": "नई शुरुआत, सीमित (लोकलाइज़्ड) प्रभाव और जटिलताओं का अभाव आधुनिक चिकित्सा में भी सामान्यतः अनुकूल प्रोग्नोस्टिक कारक माने जाते हैं।"
+   },
+   "key_terms": [
+    "sukhasādhya",
+    "kāla",
+    "deśa",
+    "gati",
+    "navatva",
+    "upadrava"
+   ],
+   "tags": [
+    "prognosis",
+    "sukhasadhya"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.10.13",
+   "word_meanings": [
+    {
+     "sa": "दोषः च एकः समुत्पत्तौ",
+     "iast": "doṣaḥ ca ekaḥ samutpattau",
+     "en": "and only one doṣa in its causation",
+     "hi": "और उत्पत्ति में एक ही दोष"
+    },
+    {
+     "sa": "देहः सर्वौषधक्षमः",
+     "iast": "dehaḥ sarvauṣadhakṣamaḥ",
+     "en": "the body tolerates all medicines (therapies)",
+     "hi": "शरीर सब औषधियाँ सह सके"
+    },
+    {
+     "sa": "चतुष्पादोपपत्तिः च",
+     "iast": "catuṣpādopapattiḥ ca",
+     "en": "and availability of all four limbs",
+     "hi": "और चारों पादों की उपलब्धता"
+    },
+    {
+     "sa": "सुखसाध्यस्य लक्षणम्",
+     "iast": "sukhasādhyasya lakṣaṇam",
+     "en": "the features of an easily curable disease",
+     "hi": "सुखसाध्य का लक्षण"
+    }
+   ],
+   "english": "in which only one doṣa is involved in causation, the body can tolerate all therapies, and all four limbs of treatment are available: these are the features of an easily curable (sukha-sādhya) disease.",
+   "hindi": "जिसकी उत्पत्ति में एक ही दोष हो, शरीर सब प्रकार की चिकित्सा सह सके, और चारों पाद उपलब्ध हों: ये सुखसाध्य रोग के लक्षण हैं।",
+   "explanation_en": "Completes the list of sukhasādhya features (v. 11-13). Summary list: few causes/prodromes/symptoms; dissimilar dūṣya, prakṛti and kāla; easy site; single pathway; recent; no complications; single doṣa; body fit for all therapies; complete catuṣpāda. Learn these as a numbered list for a long answer.",
+   "explanation_hi": "सुखसाध्य के लक्षणों की सूची पूरी (श्लोक 11-13)। सारांश: अल्प हेतु/पूर्वरूप/रूप; दूष्य, प्रकृति और काल असमान; सरल स्थान; एक मार्ग; नया; उपद्रव रहित; एक दोष; शरीर सब चिकित्सा सहने योग्य; पूर्ण चतुष्पाद। दीर्घ उत्तर के लिए क्रमांकित सूची बनाकर याद करें।",
+   "modern_correlation": {
+    "en": "Single-system involvement and a patient able to tolerate full treatment (good functional reserve) are favourable prognostic indicators in modern medicine as well.",
+    "hi": "एक ही तन्त्र का प्रभावित होना और पूर्ण उपचार सह सकने वाला रोगी (अच्छा फ़ंक्शनल रिज़र्व) आधुनिक चिकित्सा में भी अनुकूल प्रोग्नोस्टिक संकेत हैं।"
+   },
+   "key_terms": [
+    "sukhasādhya",
+    "ekadoṣaja",
+    "sarvauṣadhakṣama",
+    "catuṣpāda"
+   ],
+   "tags": [
+    "prognosis",
+    "sukhasadhya",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.10.14",
+   "word_meanings": [
+    {
+     "sa": "निमित्त",
+     "iast": "nimitta",
+     "en": "causes",
+     "hi": "निमित्त (हेतु)"
+    },
+    {
+     "sa": "पूर्वरूपाणाम्",
+     "iast": "pūrvarūpāṇām",
+     "en": "of prodromes",
+     "hi": "पूर्वरूपों के"
+    },
+    {
+     "sa": "रूपाणाम्",
+     "iast": "rūpāṇām",
+     "en": "of symptoms",
+     "hi": "रूपों के"
+    },
+    {
+     "sa": "मध्यमे बले",
+     "iast": "madhyame bale",
+     "en": "in moderate strength",
+     "hi": "मध्यम बल में"
+    },
+    {
+     "sa": "काल प्रकृति दूष्याणाम्",
+     "iast": "kāla prakṛti dūṣyāṇām",
+     "en": "of season, constitution and dūṣya",
+     "hi": "काल, प्रकृति और दूष्य के"
+    },
+    {
+     "sa": "सामान्ये",
+     "iast": "sāmānye",
+     "en": "in similarity (with the doṣa)",
+     "hi": "समानता में"
+    },
+    {
+     "sa": "अन्यतमस्य च",
+     "iast": "anyatamasya ca",
+     "en": "of any one of them",
+     "hi": "इनमें से किसी एक की"
+    }
+   ],
+   "english": "When the causes, prodromes and symptoms are of moderate strength; when any one of season, constitution or dūṣya is similar (to the doṣa);",
+   "hindi": "जब हेतु, पूर्वरूप और रूप मध्यम बल वाले हों; जब काल, प्रकृति या दूष्य में से कोई एक (दोष के) समान हो;",
+   "explanation_en": "Beginning of the features of kṛcchrasādhya (v. 14-16). Compare with sukhasādhya: there the features were 'few' and none of kāla-prakṛti-dūṣya was similar; here they are 'moderate' and one of them is similar.",
+   "explanation_hi": "कृच्छ्रसाध्य के लक्षणों की शुरुआत (श्लोक 14-16)। सुखसाध्य से तुलना करें: वहाँ लक्षण 'अल्प' थे और काल-प्रकृति-दूष्य में कोई समान नहीं था; यहाँ वे 'मध्यम' हैं और इनमें से एक समान है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "kṛcchrasādhya",
+    "nimitta",
+    "pūrvarūpa",
+    "rūpa",
+    "kāla",
+    "prakṛti",
+    "dūṣya"
+   ],
+   "tags": [
+    "prognosis",
+    "krichrasadhya"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.10.15",
+   "word_meanings": [
+    {
+     "sa": "गर्भिणी",
+     "iast": "garbhiṇī",
+     "en": "pregnant woman",
+     "hi": "गर्भिणी"
+    },
+    {
+     "sa": "वृद्ध",
+     "iast": "vṛddha",
+     "en": "aged",
+     "hi": "वृद्ध"
+    },
+    {
+     "sa": "बालानाम्",
+     "iast": "bālānām",
+     "en": "of children",
+     "hi": "बालकों का"
+    },
+    {
+     "sa": "न अत्युपद्रवपीडितम्",
+     "iast": "na atyupadravapīḍitam",
+     "en": "not much afflicted by complications",
+     "hi": "अधिक उपद्रवों से पीड़ित न हो"
+    },
+    {
+     "sa": "शस्त्र क्षार अग्नि कृत्यानाम्",
+     "iast": "śastra kṣāra agni kṛtyānām",
+     "en": "requiring surgery, alkali (kṣāra) or cautery (agni)",
+     "hi": "शस्त्र, क्षार या अग्नि कर्म की आवश्यकता वाले"
+    },
+    {
+     "sa": "अनवम्",
+     "iast": "anavam",
+     "en": "not recent (chronic)",
+     "hi": "नया नहीं (पुराना)"
+    },
+    {
+     "sa": "कृच्छ्रदेशजम्",
+     "iast": "kṛcchradeśajam",
+     "en": "arising in a site difficult to treat",
+     "hi": "कठिन स्थान में उत्पन्न"
+    }
+   ],
+   "english": "(a disease) in pregnant women, the aged or children; not much afflicted by complications; requiring surgery, alkali (kṣāra) or cautery (agni-karma); not recent; arising in a site difficult to treat;",
+   "hindi": "(रोग) जो गर्भिणी, वृद्ध या बालकों में हो; अधिक उपद्रवों से पीड़ित न हो; शस्त्र, क्षार या अग्नि कर्म की आवश्यकता वाला हो; नया न हो; कठिन स्थान में उत्पन्न हुआ हो;",
+   "explanation_en": "Continues kṛcchrasādhya. Diseases in pregnant women, the elderly and children are harder because strong therapies (e.g. strong purgation, surgery) cannot be freely used. Diseases needing śastra, kṣāra or agni are difficult because these procedures are risky.",
+   "explanation_hi": "कृच्छ्रसाध्य का क्रम। गर्भिणी, वृद्ध और बालकों में रोग कठिन होते हैं क्योंकि तीव्र चिकित्सा (जैसे तीव्र विरेचन, शस्त्रकर्म) स्वतन्त्र रूप से नहीं दी जा सकती। शस्त्र, क्षार या अग्नि वाले रोग कठिन हैं क्योंकि ये प्रक्रियाएँ जोखिमपूर्ण हैं।",
+   "modern_correlation": {
+    "en": "Pregnancy, old age and childhood are recognised in modern medicine as special populations where treatment options are restricted (e.g. drug safety concerns) and risks are higher; chronic disease and need for invasive procedures likewise worsen prognosis.",
+    "hi": "आधुनिक चिकित्सा में गर्भावस्था, वृद्धावस्था और बाल्यावस्था विशेष समूह माने जाते हैं जहाँ उपचार विकल्प सीमित (जैसे दवा-सुरक्षा की चिन्ता) और जोखिम अधिक होते हैं; दीर्घकालिक रोग और आक्रामक प्रक्रियाओं की आवश्यकता भी प्रोग्नोसिस बिगाड़ती है।"
+   },
+   "key_terms": [
+    "kṛcchrasādhya",
+    "garbhiṇī",
+    "vṛddha",
+    "bāla",
+    "śastra",
+    "kṣāra",
+    "agnikarma"
+   ],
+   "tags": [
+    "prognosis",
+    "krichrasadhya"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.10.16",
+   "word_meanings": [
+    {
+     "sa": "विद्यात्",
+     "iast": "vidyāt",
+     "en": "one should know",
+     "hi": "जानना चाहिए"
+    },
+    {
+     "sa": "एकपथम् रोगम्",
+     "iast": "ekapatham rogam",
+     "en": "a disease with one pathway",
+     "hi": "एक मार्ग वाला रोग"
+    },
+    {
+     "sa": "न अतिपूर्णचतुष्पदम्",
+     "iast": "na atipūrṇacatuṣpadam",
+     "en": "with the four limbs not fully complete",
+     "hi": "जिसके चारों पाद पूर्ण न हों"
+    },
+    {
+     "sa": "द्विपथम्",
+     "iast": "dvipatham",
+     "en": "with two pathways",
+     "hi": "दो मार्गों वाला"
+    },
+    {
+     "sa": "न अतिकालम् वा",
+     "iast": "na atikālam vā",
+     "en": "or not too long-standing",
+     "hi": "या बहुत पुराना न हो"
+    },
+    {
+     "sa": "कृच्छ्रसाध्यम्",
+     "iast": "kṛcchrasādhyam",
+     "en": "curable with difficulty",
+     "hi": "कृच्छ्रसाध्य"
+    },
+    {
+     "sa": "द्विदोषजम्",
+     "iast": "dvidoṣajam",
+     "en": "caused by two doṣas",
+     "hi": "दो दोषों से उत्पन्न"
+    }
+   ],
+   "english": "a disease with one pathway when the four limbs are not fully complete, or with two pathways and not too long-standing, and caused by two doṣas: such a disease should be known as curable with difficulty (kṛcchra-sādhya).",
+   "hindi": "एक मार्ग वाला रोग जिसके चारों पाद पूर्ण न हों, या दो मार्गों वाला जो बहुत पुराना न हो, और दो दोषों से उत्पन्न: ऐसे रोग को कृच्छ्रसाध्य जानना चाहिए।",
+   "explanation_en": "Completes kṛcchrasādhya. Key differences from sukhasādhya: moderate features, one of kāla/prakṛti/dūṣya similar, special patient groups, needs śastra-kṣāra-agni, chronic, difficult site, incomplete catuṣpāda or two pathways, and two doṣas (dvidoṣaja).",
+   "explanation_hi": "कृच्छ्रसाध्य पूर्ण। सुखसाध्य से मुख्य अन्तर: मध्यम लक्षण, काल/प्रकृति/दूष्य में से एक समान, विशेष रोगी-वर्ग, शस्त्र-क्षार-अग्नि की आवश्यकता, पुराना, कठिन स्थान, अपूर्ण चतुष्पाद या दो मार्ग, और दो दोष (द्विदोषज)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "kṛcchrasādhya",
+    "dvidoṣaja",
+    "gati",
+    "catuṣpāda"
+   ],
+   "tags": [
+    "prognosis",
+    "krichrasadhya",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Sukha: 1 doṣa; Kṛcchra: 2 doṣas; Pratyākhyeya: 3 doṣas",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.10.17",
+   "word_meanings": [
+    {
+     "sa": "शेषत्वात् आयुषः",
+     "iast": "śeṣatvāt āyuṣaḥ",
+     "en": "because some lifespan remains",
+     "hi": "आयु शेष होने के कारण"
+    },
+    {
+     "sa": "याप्यम्",
+     "iast": "yāpyam",
+     "en": "palliable (maintainable)",
+     "hi": "याप्य"
+    },
+    {
+     "sa": "असाध्यम्",
+     "iast": "asādhyam",
+     "en": "incurable",
+     "hi": "असाध्य"
+    },
+    {
+     "sa": "पथ्यसेवया",
+     "iast": "pathyasevayā",
+     "en": "by following a wholesome regimen",
+     "hi": "पथ्य सेवन से"
+    },
+    {
+     "sa": "लब्ध अल्प सुखम्",
+     "iast": "labdha alpa sukham",
+     "en": "obtaining slight relief",
+     "hi": "थोड़ा सुख पाने वाला"
+    },
+    {
+     "sa": "अल्पेन हेतुना",
+     "iast": "alpena hetunā",
+     "en": "by a slight cause",
+     "hi": "थोड़े से कारण से"
+    },
+    {
+     "sa": "आशु प्रवर्तकम्",
+     "iast": "āśu pravartakam",
+     "en": "quickly aggravated (recurring)",
+     "hi": "शीघ्र बढ़ने (उभरने) वाला"
+    }
+   ],
+   "english": "An incurable disease that is maintained (yāpya) by a wholesome regimen because some lifespan remains; that obtains slight relief (with treatment) and is quickly aggravated by a slight cause;",
+   "hindi": "जो असाध्य रोग आयु शेष होने के कारण पथ्य सेवन से याप्य (नियन्त्रित) रहता है; जिसमें थोड़ी राहत मिलती है और जो थोड़े से कारण से शीघ्र बढ़ जाता है;",
+   "explanation_en": "Beginning of the features of yāpya (v. 17-19a). A yāpya disease is incurable but kept under control as long as the patient has remaining lifespan and follows pathya. Cakrapāṇi's simile: like a pillar supporting a falling house - remove the support (pathya) and it collapses. Example often given: prameha of some types, vātarakta, chronic arthritic diseases.",
+   "explanation_hi": "याप्य के लक्षणों की शुरुआत (श्लोक 17-19 पूर्वार्ध)। याप्य रोग असाध्य है पर जब तक आयु शेष है और रोगी पथ्य करता है, नियन्त्रित रहता है। चक्रपाणि की उपमा: गिरते घर को थामने वाला खम्भा - सहारा (पथ्य) हटाओ और वह गिर जाता है।",
+   "modern_correlation": {
+    "en": "This resembles the modern idea of chronic diseases that are controlled but not cured, where long-term adherence to diet, lifestyle and treatment keeps the condition stable, and lapses quickly lead to relapse or exacerbation.",
+    "hi": "यह आधुनिक 'दीर्घकालिक रोगों' की अवधारणा जैसा है जो नियन्त्रित होते हैं पर ठीक नहीं होते, जहाँ आहार, जीवनशैली और उपचार का दीर्घकालिक पालन स्थिति स्थिर रखता है और चूक होने पर शीघ्र पुनरावृत्ति या वृद्धि होती है।"
+   },
+   "key_terms": [
+    "yāpya",
+    "pathya",
+    "āyuḥśeṣa"
+   ],
+   "tags": [
+    "prognosis",
+    "yapya",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Yāpya = like a prop holding up a falling house",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.10.18",
+   "word_meanings": [
+    {
+     "sa": "गम्भीरम्",
+     "iast": "gambhīram",
+     "en": "deep-seated",
+     "hi": "गम्भीर (गहराई में स्थित)"
+    },
+    {
+     "sa": "बहुधातुस्थम्",
+     "iast": "bahudhātustham",
+     "en": "situated in many dhātus",
+     "hi": "अनेक धातुओं में स्थित"
+    },
+    {
+     "sa": "मर्म सन्धि समाश्रितम्",
+     "iast": "marma sandhi samāśritam",
+     "en": "located in vital points and joints",
+     "hi": "मर्म और सन्धियों में आश्रित"
+    },
+    {
+     "sa": "नित्यानुशायिनम्",
+     "iast": "nityānuśāyinam",
+     "en": "constantly persisting",
+     "hi": "नित्य बना रहने वाला"
+    },
+    {
+     "sa": "रोगम्",
+     "iast": "rogam",
+     "en": "disease",
+     "hi": "रोग"
+    },
+    {
+     "sa": "दीर्घकालम् अवस्थितम्",
+     "iast": "dīrghakālam avasthitam",
+     "en": "long-standing",
+     "hi": "दीर्घकाल से स्थित"
+    }
+   ],
+   "english": "deep-seated, located in many dhātus, in vital points (marma) and joints (sandhi), constantly persisting and long-standing;",
+   "hindi": "गम्भीर (गहराई में स्थित), अनेक धातुओं में स्थित, मर्म और सन्धियों में आश्रित, नित्य बना रहने वाला और दीर्घकाल से स्थित रोग;",
+   "explanation_en": "Continues yāpya. Deep involvement, multiple dhātus, marma-sandhi location and chronicity make complete cure impossible, though control is possible.",
+   "explanation_hi": "याप्य का क्रम। गहरा प्रभाव, अनेक धातुएँ, मर्म-सन्धि में स्थिति और दीर्घता पूर्ण उपचार को असम्भव बनाते हैं, यद्यपि नियन्त्रण सम्भव है।",
+   "modern_correlation": {
+    "en": "Multi-organ involvement, involvement of joints and vital structures, and long duration are associated in modern medicine with chronic, relapsing courses and lower chance of cure.",
+    "hi": "आधुनिक चिकित्सा में अनेक अंगों का प्रभावित होना, जोड़ों और महत्त्वपूर्ण संरचनाओं का प्रभावित होना, और लम्बी अवधि, दीर्घकालिक, बार-बार उभरने वाले क्रम और ठीक होने की कम सम्भावना से जुड़े हैं।"
+   },
+   "key_terms": [
+    "yāpya",
+    "gambhīra",
+    "marma",
+    "sandhi",
+    "dhātu"
+   ],
+   "tags": [
+    "prognosis",
+    "yapya"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.10.19",
+   "word_meanings": [
+    {
+     "sa": "विद्यात् द्विदोषजम् तद्वत्",
+     "iast": "vidyāt dvidoṣajam tadvat",
+     "en": "one should know such a disease caused by two doṣas (as yāpya)",
+     "hi": "ऐसे द्विदोषज रोग को (याप्य) जाने"
+    },
+    {
+     "sa": "प्रत्याख्येयम्",
+     "iast": "pratyākhyeyam",
+     "en": "to be rejected (untreatable)",
+     "hi": "प्रत्याख्येय (चिकित्सा हेतु अस्वीकार्य)"
+    },
+    {
+     "sa": "त्रिदोषजम्",
+     "iast": "tridoṣajam",
+     "en": "caused by all three doṣas",
+     "hi": "तीनों दोषों से उत्पन्न"
+    },
+    {
+     "sa": "क्रियापथम् अतिक्रान्तम्",
+     "iast": "kriyāpatham atikrāntam",
+     "en": "gone beyond the range of treatment",
+     "hi": "चिकित्सा की सीमा से परे"
+    },
+    {
+     "sa": "सर्वमार्गानुसारिणम्",
+     "iast": "sarvamārgānusāriṇam",
+     "en": "spreading through all pathways",
+     "hi": "सभी मार्गों में फैला हुआ"
+    }
+   ],
+   "english": "and caused by two doṣas: such a disease should be known as yāpya. A disease caused by all three doṣas, beyond the scope of treatment and spreading through all pathways, is pratyākhyeya (to be refused, untreatable);",
+   "hindi": "और दो दोषों से उत्पन्न: ऐसे रोग को याप्य जानना चाहिए। तीनों दोषों से उत्पन्न, चिकित्सा की सीमा से परे और सभी मार्गों में फैला रोग प्रत्याख्येय (चिकित्सा हेतु अस्वीकार्य) है;",
+   "explanation_en": "The first half ends the yāpya list; the second half begins pratyākhyeya (= anupakrama of v. 9). Note: yāpya is dvidoṣaja (like kṛcchrasādhya) but chronic and deep; pratyākhyeya is tridoṣaja (sannipātaja), 'kriyā-patham atikrāntam' (beyond treatment) and involving all three rogamārgas.",
+   "explanation_hi": "पहला भाग याप्य की सूची समाप्त करता है; दूसरा भाग प्रत्याख्येय (= श्लोक 9 का अनुपक्रम) आरम्भ करता है। ध्यान दें: याप्य द्विदोषज है (कृच्छ्रसाध्य जैसा) पर पुराना और गहरा; प्रत्याख्येय त्रिदोषज (सन्निपातज), 'क्रियापथम् अतिक्रान्तम्' और तीनों रोगमार्गों में फैला होता है।",
+   "modern_correlation": {
+    "en": "Disease spreading through all pathways is loosely comparable to widespread, multi-system or disseminated disease, which in modern medicine generally carries a poor prognosis.",
+    "hi": "सभी मार्गों में फैले रोग की तुलना मोटे तौर पर व्यापक, बहु-तन्त्रीय या फैले हुए (डिसेमिनेटेड) रोग से की जा सकती है, जिसका आधुनिक चिकित्सा में सामान्यतः प्रोग्नोसिस खराब होता है।"
+   },
+   "key_terms": [
+    "yāpya",
+    "pratyākhyeya",
+    "tridoṣaja",
+    "sannipāta",
+    "rogamārga"
+   ],
+   "tags": [
+    "prognosis",
+    "yapya",
+    "pratyakhyeya",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.10.20",
+   "word_meanings": [
+    {
+     "sa": "औत्सुक्य",
+     "iast": "autsukya",
+     "en": "anxiety, restless eagerness",
+     "hi": "औत्सुक्य (बेचैनी)"
+    },
+    {
+     "sa": "अरति",
+     "iast": "arati",
+     "en": "discomfort, restlessness",
+     "hi": "अरति (बेचैनी, कहीं मन न लगना)"
+    },
+    {
+     "sa": "संमोह",
+     "iast": "saṃmoha",
+     "en": "stupor, unconsciousness",
+     "hi": "सम्मोह (मूर्च्छा)"
+    },
+    {
+     "sa": "करम्",
+     "iast": "karam",
+     "en": "causing",
+     "hi": "उत्पन्न करने वाला"
+    },
+    {
+     "sa": "इन्द्रियनाशनम्",
+     "iast": "indriyanāśanam",
+     "en": "destroying the senses",
+     "hi": "इन्द्रियों का नाश करने वाला"
+    },
+    {
+     "sa": "दुर्बलस्य",
+     "iast": "durbalasya",
+     "en": "of a weak person",
+     "hi": "दुर्बल व्यक्ति का"
+    },
+    {
+     "sa": "सुसंवृद्धम्",
+     "iast": "susaṃvṛddham",
+     "en": "greatly increased",
+     "hi": "अत्यधिक बढ़ा हुआ"
+    },
+    {
+     "sa": "व्याधिम्",
+     "iast": "vyādhim",
+     "en": "disease",
+     "hi": "रोग"
+    },
+    {
+     "sa": "सारिष्टम् एव च",
+     "iast": "sāriṣṭam eva ca",
+     "en": "and accompanied by fatal signs (ariṣṭa)",
+     "hi": "और अरिष्ट लक्षणों से युक्त"
+    }
+   ],
+   "english": "a disease that causes anxiety, restlessness and stupor, destroys the senses, has greatly increased in a weak person, and is accompanied by fatal signs (ariṣṭa).",
+   "hindi": "जो रोग बेचैनी, अरति और सम्मोह (मूर्च्छा) उत्पन्न करे, इन्द्रियों का नाश करे, दुर्बल व्यक्ति में अत्यधिक बढ़ गया हो, और अरिष्ट (मृत्यु-सूचक) लक्षणों से युक्त हो (वह प्रत्याख्येय है)।",
+   "explanation_en": "Completes pratyākhyeya: mental disturbance, loss of sensory function, a severe disease in a weak patient, and ariṣṭa lakṣaṇa (fatal signs, detailed in Indriyasthāna). A physician should recognise such cases and not undertake futile treatment (see v. 8).",
+   "explanation_hi": "प्रत्याख्येय पूर्ण: मानसिक विकार, इन्द्रियों का नाश, दुर्बल रोगी में तीव्र रोग, और अरिष्ट लक्षण (इन्द्रियस्थान में विस्तार)। वैद्य को ऐसे रोगी पहचानने चाहिए और व्यर्थ चिकित्सा नहीं करनी चाहिए (श्लोक 8)।",
+   "modern_correlation": {
+    "en": "Altered consciousness, loss of sensory responsiveness and severe illness in a frail patient are recognised in modern medicine as signs of critical illness and poor prognosis, used in clinical scoring of severity.",
+    "hi": "चेतना में बदलाव, इन्द्रिय-प्रतिक्रिया का लोप और कमज़ोर रोगी में गम्भीर रोग आधुनिक चिकित्सा में गम्भीर रोग और खराब प्रोग्नोसिस के संकेत माने जाते हैं और गम्भीरता के क्लिनिकल स्कोरिंग में प्रयुक्त होते हैं।"
+   },
+   "key_terms": [
+    "pratyākhyeya",
+    "ariṣṭa",
+    "saṃmoha",
+    "indriyanāśa"
+   ],
+   "tags": [
+    "prognosis",
+    "pratyakhyeya"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.10.21",
+   "word_meanings": [
+    {
+     "sa": "भिषजा",
+     "iast": "bhiṣajā",
+     "en": "by the physician",
+     "hi": "वैद्य द्वारा"
+    },
+    {
+     "sa": "प्राक्",
+     "iast": "prāk",
+     "en": "first",
+     "hi": "पहले"
+    },
+    {
+     "sa": "परीक्ष्य एवम्",
+     "iast": "parīkṣya evam",
+     "en": "having examined thus",
+     "hi": "इस प्रकार परीक्षा करके"
+    },
+    {
+     "sa": "विकाराणाम्",
+     "iast": "vikārāṇām",
+     "en": "of diseases",
+     "hi": "रोगों के"
+    },
+    {
+     "sa": "स्वलक्षणम्",
+     "iast": "svalakṣaṇam",
+     "en": "specific characteristics",
+     "hi": "अपने-अपने लक्षण"
+    },
+    {
+     "sa": "पश्चात्",
+     "iast": "paścāt",
+     "en": "afterwards",
+     "hi": "बाद में"
+    },
+    {
+     "sa": "कर्मसमारम्भः",
+     "iast": "karmasamārambhaḥ",
+     "en": "beginning of treatment",
+     "hi": "चिकित्सा का आरम्भ"
+    },
+    {
+     "sa": "कार्यः",
+     "iast": "kāryaḥ",
+     "en": "should be done",
+     "hi": "करना चाहिए"
+    },
+    {
+     "sa": "साध्येषु",
+     "iast": "sādhyeṣu",
+     "en": "in curable ones",
+     "hi": "साध्य रोगों में"
+    },
+    {
+     "sa": "धीमता",
+     "iast": "dhīmatā",
+     "en": "by the wise",
+     "hi": "बुद्धिमान द्वारा"
+    }
+   ],
+   "english": "The wise physician should first examine the specific characteristics of diseases in this way, and only afterwards begin treatment in the curable ones.",
+   "hindi": "बुद्धिमान वैद्य को पहले इस प्रकार रोगों के अपने-अपने लक्षणों की परीक्षा करनी चाहिए, और उसके बाद साध्य रोगों में चिकित्सा आरम्भ करनी चाहिए।",
+   "explanation_en": "The practical rule: 'first examine, then treat' (parīkṣya-kāritā). This repeats Ātreya's statement in v. 5 that skilled physicians act only after examination, and links to Su 20.20 ('rogam ādau parīkṣeta tato 'nantaram auṣadham').",
+   "explanation_hi": "व्यावहारिक नियम: 'पहले परीक्षा, फिर चिकित्सा'। यह श्लोक 5 में आत्रेय के कथन को दोहराता है और सू. 20.20 ('रोगमादौ परीक्षेत ततोऽनन्तरमौषधम्') से जुड़ता है।",
+   "modern_correlation": {
+    "en": "This corresponds to the basic clinical principle that diagnosis and assessment of prognosis should precede treatment.",
+    "hi": "यह मूल नैदानिक सिद्धान्त से मेल खाता है कि उपचार से पहले निदान और प्रोग्नोसिस का आकलन होना चाहिए।"
+   },
+   "key_terms": [
+    "parīkṣā",
+    "sādhya",
+    "svalakṣaṇa"
+   ],
+   "tags": [
+    "prognosis",
+    "diagnosis"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.10.22",
+   "word_meanings": [
+    {
+     "sa": "साध्य असाध्य विभागज्ञः",
+     "iast": "sādhya asādhya vibhāgajñaḥ",
+     "en": "knower of the distinction between curable and incurable",
+     "hi": "साध्य-असाध्य का भेद जानने वाला"
+    },
+    {
+     "sa": "यः",
+     "iast": "yaḥ",
+     "en": "who",
+     "hi": "जो"
+    },
+    {
+     "sa": "सम्यक् प्रतिपत्तिमान्",
+     "iast": "samyak pratipattimān",
+     "en": "having correct understanding and approach",
+     "hi": "सम्यक् प्रतिपत्ति (समझ) वाला"
+    },
+    {
+     "sa": "न सः",
+     "iast": "na saḥ",
+     "en": "he does not",
+     "hi": "वह नहीं"
+    },
+    {
+     "sa": "मैत्रेयतुल्यानाम्",
+     "iast": "maitreyatulyānām",
+     "en": "like those of Maitreya",
+     "hi": "मैत्रेय जैसे"
+    },
+    {
+     "sa": "मिथ्याबुद्धिम्",
+     "iast": "mithyābuddhim",
+     "en": "wrong notion",
+     "hi": "मिथ्या बुद्धि"
+    },
+    {
+     "sa": "प्रकल्पयेत्",
+     "iast": "prakalpayet",
+     "en": "would form",
+     "hi": "बनाएगा"
+    }
+   ],
+   "english": "One who knows the distinction between curable and incurable diseases and has correct understanding will not form wrong notions like those of Maitreya.",
+   "hindi": "जो साध्य-असाध्य का भेद जानता है और सम्यक् समझ रखता है, वह मैत्रेय जैसी मिथ्या धारणा नहीं बनाएगा।",
+   "explanation_en": "Closes the debate: Maitreya's doubt arose because he did not distinguish sādhya from asādhya. Once diseases are classified by prognosis, the apparent failures of treatment are explained.",
+   "explanation_hi": "वाद-विवाद का समापन: मैत्रेय का सन्देह इसलिए था कि उन्होंने साध्य और असाध्य में भेद नहीं किया। रोगों को प्रोग्नोसिस से वर्गीकृत करने पर चिकित्सा की प्रतीत होने वाली विफलताएँ समझ में आ जाती हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sādhya",
+    "asādhya",
+    "Maitreya"
+   ],
+   "tags": [
+    "debate",
+    "prognosis"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.10.23",
+   "word_meanings": [
+    {
+     "sa": "तत्र श्लोकौ",
+     "iast": "tatra ślokau",
+     "en": "here are two summary verses",
+     "hi": "यहाँ दो संग्रह श्लोक हैं"
+    },
+    {
+     "sa": "इह",
+     "iast": "iha",
+     "en": "here",
+     "hi": "यहाँ"
+    },
+    {
+     "sa": "औषधम्",
+     "iast": "auṣadham",
+     "en": "treatment",
+     "hi": "औषध (चिकित्सा)"
+    },
+    {
+     "sa": "पादगुणाः",
+     "iast": "pādaguṇāḥ",
+     "en": "qualities of the limbs",
+     "hi": "पादों के गुण"
+    },
+    {
+     "sa": "प्रभवः",
+     "iast": "prabhavaḥ",
+     "en": "efficacy",
+     "hi": "प्रभाव (प्रभावशीलता)"
+    },
+    {
+     "sa": "भेषजाश्रयः",
+     "iast": "bheṣajāśrayaḥ",
+     "en": "depending on treatment",
+     "hi": "चिकित्सा पर आश्रित"
+    },
+    {
+     "sa": "आत्रेय मैत्रेय मती",
+     "iast": "ātreya maitreya matī",
+     "en": "the views of Ātreya and Maitreya",
+     "hi": "आत्रेय और मैत्रेय के मत"
+    },
+    {
+     "sa": "मतिद्वैविध्यनिश्चयः",
+     "iast": "matidvaividhyaniścayaḥ",
+     "en": "the resolution of the two views",
+     "hi": "दोनों मतों का निर्णय"
+    }
+   ],
+   "english": "Here are two summary verses: Treatment, the qualities of its limbs, the efficacy dependent on treatment, the views of Ātreya and Maitreya and the resolution of these two views,",
+   "hindi": "यहाँ दो संग्रह श्लोक हैं: चिकित्सा, पादों के गुण, चिकित्सा पर आश्रित प्रभावशीलता, आत्रेय और मैत्रेय के मत तथा उन दोनों मतों का निर्णय,",
+   "explanation_en": "Chapter summary (continued in v. 24). Use it to recall the sequence: thesis (catuṣpāda works), objection (Maitreya), reply (Ātreya), and classification of prognosis.",
+   "explanation_hi": "अध्याय का संग्रह (श्लोक 24 में जारी)। इससे क्रम याद करें: सिद्धान्त (चतुष्पाद प्रभावी है), आपत्ति (मैत्रेय), उत्तर (आत्रेय), और साध्यता का वर्गीकरण।",
+   "modern_correlation": null,
+   "key_terms": [
+    "auṣadha",
+    "pādaguṇa",
+    "prabhava"
+   ],
+   "tags": [
+    "summary"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.10.24",
+   "word_meanings": [
+    {
+     "sa": "चतुर्विधविकल्पाः च",
+     "iast": "caturvidhavikalpāḥ ca",
+     "en": "and the fourfold classification",
+     "hi": "और चार प्रकार के भेद"
+    },
+    {
+     "sa": "व्याधयः",
+     "iast": "vyādhayaḥ",
+     "en": "diseases",
+     "hi": "रोग"
+    },
+    {
+     "sa": "स्वस्वलक्षणाः",
+     "iast": "svasvalakṣaṇāḥ",
+     "en": "with their respective features",
+     "hi": "अपने-अपने लक्षणों सहित"
+    },
+    {
+     "sa": "उक्ताः",
+     "iast": "uktāḥ",
+     "en": "have been described",
+     "hi": "बताए गए हैं"
+    },
+    {
+     "sa": "महाचतुष्पादे",
+     "iast": "mahācatuṣpāde",
+     "en": "in the Mahā-catuṣpāda chapter",
+     "hi": "महाचतुष्पाद अध्याय में"
+    },
+    {
+     "sa": "येषु आयत्तम्",
+     "iast": "yeṣu āyattam",
+     "en": "on which depends",
+     "hi": "जिन पर निर्भर है"
+    },
+    {
+     "sa": "भिषग्जितम्",
+     "iast": "bhiṣagjitam",
+     "en": "treatment",
+     "hi": "चिकित्सा"
+    }
+   ],
+   "english": "and the fourfold classification of diseases with their respective features, on which treatment depends: these have been described in the Mahā-catuṣpāda chapter.",
+   "hindi": "और रोगों का चार प्रकार का वर्गीकरण उनके अपने-अपने लक्षणों सहित, जिन पर चिकित्सा निर्भर है: ये सब महाचतुष्पाद अध्याय में बताए गए हैं।",
+   "explanation_en": "Ends the summary. The phrase 'yeṣv āyattaṃ bhiṣagjitam' (on which treatment depends) underlines that prognosis is the foundation for deciding whether and how to treat.",
+   "explanation_hi": "संग्रह का अन्त। 'येष्वायत्तं भिषग्जितम्' (जिन पर चिकित्सा निर्भर है) बताता है कि चिकित्सा करनी है या नहीं और कैसे, यह प्रोग्नोसिस पर आधारित है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "caturvidha vyādhi",
+    "bhiṣagjita"
+   ],
+   "tags": [
+    "summary",
+    "prognosis"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  }
+ ]
+}

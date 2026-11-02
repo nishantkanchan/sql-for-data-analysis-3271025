@@ -1,0 +1,4779 @@
+{
+ "chapter": {
+  "id": "CS.sutra.25",
+  "text": "charaka_samhita",
+  "sthana": "sutra",
+  "chapter": 25,
+  "title_iast": "Yajjaḥpuruṣīya Adhyāya",
+  "title_devanagari": "यज्जःपुरुषीयोऽध्यायः",
+  "title_en": "The chapter on the origin of the person (and of disease)",
+  "title_hi": "यज्जःपुरुषीय अध्याय (पुरुष और रोग की उत्पत्ति)",
+  "summary_en": "The first chapter of the Annapāna catuṣka opens with a famous symposium. King Vāmaka of Kāśī asks whether a person and his diseases arise from the same source. Nine sages propose single causes in turn - ātman (Maudgalya), manas (Śaraloman), rasa (Vāryovida), ṣaḍdhātu (Hiraṇyākṣa), parents (Kauśika), karma (Bhadrakāpya), svabhāva (Bharadvāja), Prajāpati (Kāṅkāyana) and kāla (Bhikṣu Ātreya) - each refuted by the next. Punarvasu Ātreya warns against partisanship and concludes that the same factors in their wholesome state (saṃpat) produce the person and in their unwholesome state (vipat) produce disease. He then states that wholesome food alone promotes growth and unwholesome food causes disease, defines hitāhāra functionally, classifies food (1-2-2-4-6-20-countless), and lists the most and least wholesome items in each food group. The chapter's centrepiece is the agrya saṃgraha of 152 'best-in-category' items, a high-yield exam passage, followed by the definition of pathya and the 84 āsavas from nine sources.",
+  "summary_hi": "अन्नपान चतुष्क का पहला अध्याय एक प्रसिद्ध सभा से आरम्भ होता है। काशी के राजा वामक पूछते हैं कि क्या पुरुष और उसके रोग एक ही स्रोत से उत्पन्न होते हैं। नौ ऋषि बारी-बारी से एक-एक कारण बताते हैं - आत्मा (मौद्गल्य), मन (शरलोमा), रस (वार्योविद), षड्धातु (हिरण्याक्ष), माता-पिता (कौशिक), कर्म (भद्रकाप्य), स्वभाव (भरद्वाज), प्रजापति (कांकायन) और काल (भिक्षु आत्रेय) - और प्रत्येक का अगला ऋषि खण्डन करता है। पुनर्वसु आत्रेय पक्षपात से बचने की चेतावनी देकर निष्कर्ष देते हैं कि वही कारक सम्पत् अवस्था में पुरुष को और विपत् अवस्था में रोग को उत्पन्न करते हैं। फिर वे बताते हैं कि हित आहार ही वृद्धि करता है और अहित आहार रोग का कारण है, हिताहार की कार्य-आधारित परिभाषा देते हैं, आहार का वर्गीकरण (1-2-2-4-6-20-असंख्य) करते हैं और प्रत्येक आहार-वर्ग में सबसे हितकर और सबसे अहितकर द्रव्य बताते हैं। अध्याय का मुख्य भाग 152 'वर्ग-श्रेष्ठ' द्रव्यों का अग्र्य संग्रह है जो परीक्षा के लिए अत्यन्त महत्त्वपूर्ण है; इसके बाद पथ्य की परिभाषा और नौ योनियों से 84 आसव आते हैं।",
+  "key_concepts": [
+   "origin of person and disease debate",
+   "saṃpat-vipat siddhānta",
+   "hitāhāra and ahitāhāra",
+   "āhāra classification",
+   "hitatama and ahitatama dravya",
+   "agrya saṃgraha (152)",
+   "pathya definition",
+   "84 āsavas and 9 āsava yonis"
+  ],
+  "exam_focus_en": [
+   "Agrya saṃgraha: commonly asked one-liners such as 'jvaro rogāṇām', 'bastis tantrāṇām', 'āmalakaṃ vayaḥsthāpanānām', 'harītakī pathyānām', 'āyurvedo 'mṛtānām' (Su 25.40-41; total 152).",
+   "Names of the nine sages and their theories of causation, and Ātreya's conclusion that saṃpat and vipat of the same factors give rise to the person and to disease (Su 25.8-29).",
+   "Definition of hitāhāra: keeps sama dhātus in prakṛti and makes viṣama dhātus sama (Su 25.33); definition of pathya (Su 25.45).",
+   "Classification of āhāra: 1-2-2-4-6-20-countless (Su 25.36).",
+   "Hitatama vs ahitatama pairs in each food group, e.g. lohitaśāli/yavaka, mudga/māṣa, saindhava/ūṣara (Su 25.38-39).",
+   "84 āsavas from 9 sources with their numbers (Su 25.49)."
+  ],
+  "exam_focus_hi": [
+   "अग्र्य संग्रह: अक्सर पूछे जाने वाले वाक्य जैसे 'ज्वरो रोगाणाम्', 'बस्तिस्तन्त्राणाम्', 'आमलकं वयःस्थापनानाम्', 'हरीतकी पथ्यानाम्', 'आयुर्वेदोऽमृतानाम्' (सू. 25.40-41; कुल 152)।",
+   "नौ ऋषियों के नाम और उनके कारण-सिद्धान्त, तथा आत्रेय का निष्कर्ष कि उन्हीं कारकों की सम्पत् और विपत् से पुरुष और रोग उत्पन्न होते हैं (सू. 25.8-29)।",
+   "हिताहार की परिभाषा: सम धातुओं को प्रकृति में रखे और विषम धातुओं को सम करे (सू. 25.33); पथ्य की परिभाषा (सू. 25.45)।",
+   "आहार का वर्गीकरण: 1-2-2-4-6-20-असंख्य (सू. 25.36)।",
+   "प्रत्येक आहार-वर्ग में हिततम और अहिततम जोड़े, जैसे लोहितशालि/यवक, मुद्ग/माष, सैन्धव/ऊषर (सू. 25.38-39)।",
+   "9 योनियों से 84 आसव और उनकी संख्या (सू. 25.49)।"
+  ],
+  "syllabus_refs": [
+   "AyUG-SA2"
+  ],
+  "review_status": "ai_draft"
+ },
+ "verses": [
+  {
+   "id": "CS.sutra.25.1",
+   "word_meanings": [
+    {
+     "sa": "अथ अतः",
+     "iast": "atha ataḥ",
+     "en": "now, therefore",
+     "hi": "अब इसलिए"
+    },
+    {
+     "sa": "यज्जःपुरुषीयम्",
+     "iast": "yajjaḥpuruṣīyam",
+     "en": "named 'from what is the person born' (yat-ja puruṣa)",
+     "hi": "यज्जःपुरुषीय"
+    },
+    {
+     "sa": "अध्यायम्",
+     "iast": "adhyāyam",
+     "en": "chapter",
+     "hi": "अध्याय की"
+    },
+    {
+     "sa": "व्याख्यास्यामः",
+     "iast": "vyākhyāsyāmaḥ",
+     "en": "we shall explain",
+     "hi": "व्याख्या करेंगे"
+    }
+   ],
+   "english": "Now we shall explain the chapter named Yajjaḥpuruṣīya (on the origin of the person).",
+   "hindi": "अब हम यज्जःपुरुषीय अध्याय (पुरुष की उत्पत्ति किससे है) की व्याख्या करेंगे।",
+   "explanation_en": "The name comes from the question 'yajjaḥ puruṣaḥ' - 'from what is the person born?' (Su 25.6). The chapter belongs to the Annapāna catuṣka (Su 25-28) and moves from a philosophical debate on origins to the role of wholesome diet, and ends with the famous agrya saṃgraha (lists of the best in each category).",
+   "explanation_hi": "नाम प्रश्न 'यज्जः पुरुषः' - 'पुरुष किससे उत्पन्न होता है?' (सू. 25.6) से आता है। यह अध्याय अन्नपान चतुष्क (सू. 25-28) का है; यह उत्पत्ति पर दार्शनिक वाद-विवाद से शुरू होकर हिताहार की भूमिका तक जाता है और प्रसिद्ध अग्र्य संग्रह (प्रत्येक वर्ग में श्रेष्ठ) पर समाप्त होता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "yajjaḥpuruṣīya",
+    "annapāna catuṣka"
+   ],
+   "tags": [
+    "introduction"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.2",
+   "word_meanings": [
+    {
+     "sa": "इति ह स्म आह",
+     "iast": "iti ha sma āha",
+     "en": "thus indeed said",
+     "hi": "ऐसा कहा था"
+    },
+    {
+     "sa": "भगवान् आत्रेयः",
+     "iast": "bhagavān ātreyaḥ",
+     "en": "the revered Ātreya",
+     "hi": "भगवान आत्रेय ने"
+    }
+   ],
+   "english": "Thus said the revered Ātreya.",
+   "hindi": "ऐसा भगवान आत्रेय ने कहा।",
+   "explanation_en": "Standard attribution line; the teaching is of Punarvasu Ātreya. In this chapter Ātreya also appears as the chair of the assembly who resolves the debate.",
+   "explanation_hi": "सामान्य आरम्भ-पंक्ति; उपदेश पुनर्वसु आत्रेय का है। इस अध्याय में आत्रेय सभा के अध्यक्ष के रूप में विवाद का समाधान भी करते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "Ātreya"
+   ],
+   "tags": [
+    "introduction"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.3",
+   "word_meanings": [
+    {
+     "sa": "पुरा",
+     "iast": "purā",
+     "en": "in olden times",
+     "hi": "प्राचीन काल में"
+    },
+    {
+     "sa": "प्रत्यक्षधर्माणाम्",
+     "iast": "pratyakṣadharmāṇām",
+     "en": "of those who had directly perceived dharma (truth)",
+     "hi": "धर्म का साक्षात्कार किए हुए"
+    },
+    {
+     "sa": "भगवन्तम् पुनर्वसुम्",
+     "iast": "bhagavantam punarvasum",
+     "en": "the revered Punarvasu",
+     "hi": "भगवान पुनर्वसु के पास"
+    },
+    {
+     "sa": "समेतानाम्",
+     "iast": "sametānām",
+     "en": "assembled",
+     "hi": "एकत्र हुए"
+    },
+    {
+     "sa": "महर्षीणाम्",
+     "iast": "maharṣīṇām",
+     "en": "of the great sages",
+     "hi": "महर्षियों में"
+    },
+    {
+     "sa": "प्रादुरासीत्",
+     "iast": "prādurāsīt",
+     "en": "arose",
+     "hi": "उत्पन्न हुई"
+    },
+    {
+     "sa": "इयम् कथा",
+     "iast": "iyam kathā",
+     "en": "this discussion",
+     "hi": "यह चर्चा"
+    }
+   ],
+   "english": "In olden times, among the great sages who had directly realised the truth and who had assembled around the revered Punarvasu, this discussion arose",
+   "hindi": "प्राचीन काल में, सत्य का साक्षात्कार किए हुए महर्षि भगवान पुनर्वसु के पास एकत्र हुए, उनमें यह चर्चा उत्पन्न हुई",
+   "explanation_en": "The chapter is framed as a scientific assembly (sambhāṣā/pariṣad) of sages around Punarvasu Ātreya. Such symposia (also in Su 12 and Su 26) show the classical method of reaching conclusions through debate (vāda).",
+   "explanation_hi": "यह अध्याय पुनर्वसु आत्रेय के चारों ओर ऋषियों की एक वैज्ञानिक सभा (सम्भाषा/परिषद्) के रूप में है। ऐसी सभाएँ (सू. 12 और सू. 26 में भी) वाद-विवाद से निष्कर्ष तक पहुँचने की शास्त्रीय पद्धति दिखाती हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sambhāṣā",
+    "Punarvasu"
+   ],
+   "tags": [
+    "origin-of-man-debate",
+    "sambhasha"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.4",
+   "word_meanings": [
+    {
+     "sa": "आत्म इन्द्रिय मनः अर्थानाम्",
+     "iast": "ātma indriya manaḥ arthānām",
+     "en": "of the soul, senses, mind and sense objects",
+     "hi": "आत्मा, इन्द्रिय, मन और अर्थों का"
+    },
+    {
+     "sa": "यः अयम्",
+     "iast": "yaḥ ayam",
+     "en": "this which",
+     "hi": "यह जो"
+    },
+    {
+     "sa": "पुरुषसंज्ञकः",
+     "iast": "puruṣasaṃjñakaḥ",
+     "en": "called puruṣa (the person)",
+     "hi": "पुरुष नाम वाला"
+    },
+    {
+     "sa": "राशिः",
+     "iast": "rāśiḥ",
+     "en": "aggregate, combination",
+     "hi": "राशि (समूह)"
+    },
+    {
+     "sa": "अस्य",
+     "iast": "asya",
+     "en": "of this",
+     "hi": "इसके"
+    },
+    {
+     "sa": "आमयानाम् च",
+     "iast": "āmayānām ca",
+     "en": "and of diseases",
+     "hi": "और रोगों की"
+    },
+    {
+     "sa": "प्राक् उत्पत्ति विनिश्चये",
+     "iast": "prāk utpatti viniścaye",
+     "en": "in determining the original cause of origin",
+     "hi": "मूल उत्पत्ति के निश्चय के विषय में"
+    }
+   ],
+   "english": "about determining the original source of this aggregate called the person (puruṣa), made up of soul, senses, mind and sense objects, and of its diseases.",
+   "hindi": "इस बारे में कि आत्मा, इन्द्रियाँ, मन और अर्थों की राशि जिसे पुरुष कहते हैं, उसकी और उसके रोगों की मूल उत्पत्ति क्या है।",
+   "explanation_en": "The topic of the debate is defined: the origin of the rāśi puruṣa (the person as a combination of ātman, indriya, manas and artha) and of its diseases. Compare Su 1.46, where the living being is the union of body, senses, mind and soul.",
+   "explanation_hi": "विवाद का विषय: राशि पुरुष (आत्मा, इन्द्रिय, मन और अर्थ का संयोग) और उसके रोगों की उत्पत्ति। सू. 1.46 से तुलना करें जहाँ शरीर, इन्द्रिय, सत्त्व और आत्मा के संयोग को आयु कहा गया है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "rāśi puruṣa",
+    "ātman",
+    "indriya",
+    "manas",
+    "artha"
+   ],
+   "tags": [
+    "origin-of-man-debate",
+    "sambhasha"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.5",
+   "word_meanings": [
+    {
+     "sa": "तदन्तरम्",
+     "iast": "tadantaram",
+     "en": "at that time, meanwhile",
+     "hi": "उसी समय"
+    },
+    {
+     "sa": "काशिपतिः",
+     "iast": "kāśipatiḥ",
+     "en": "the king of Kāśī",
+     "hi": "काशी के राजा"
+    },
+    {
+     "sa": "वामकः",
+     "iast": "vāmakaḥ",
+     "en": "Vāmaka",
+     "hi": "वामक"
+    },
+    {
+     "sa": "वाक्यम् अर्थवित्",
+     "iast": "vākyam arthavit",
+     "en": "skilled in meaningful speech",
+     "hi": "सार्थक वचन जानने वाले"
+    },
+    {
+     "sa": "व्याजहार",
+     "iast": "vyājahāra",
+     "en": "spoke",
+     "hi": "बोले"
+    },
+    {
+     "sa": "ऋषिसमितिम्",
+     "iast": "ṛṣisamitim",
+     "en": "the assembly of sages",
+     "hi": "ऋषियों की सभा के"
+    },
+    {
+     "sa": "उपसृत्य",
+     "iast": "upasṛtya",
+     "en": "approaching",
+     "hi": "पास जाकर"
+    },
+    {
+     "sa": "अभिवाद्य च",
+     "iast": "abhivādya ca",
+     "en": "and saluting",
+     "hi": "और प्रणाम करके"
+    }
+   ],
+   "english": "Meanwhile Vāmaka, the king of Kāśī, skilled in meaningful speech, approached the assembly of sages, saluted them and spoke:",
+   "hindi": "उसी समय सार्थक वचन में निपुण काशी के राजा वामक ऋषियों की सभा के पास गए, प्रणाम किया और बोले:",
+   "explanation_en": "King Vāmaka of Kāśī poses the question. Note the respectful approach (abhivādana) of a learner before asking a question. The name Vāmaka is an MCQ point.",
+   "explanation_hi": "काशी के राजा वामक प्रश्न पूछते हैं। प्रश्न से पहले जिज्ञासु का आदरपूर्वक प्रणाम ध्यान देने योग्य है। 'वामक' नाम MCQ में पूछा जाता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "Vāmaka",
+    "Kāśipati"
+   ],
+   "tags": [
+    "origin-of-man-debate",
+    "sambhasha"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.6",
+   "word_meanings": [
+    {
+     "sa": "किम् नु भोः",
+     "iast": "kim nu bhoḥ",
+     "en": "O sirs, is it so that",
+     "hi": "हे महानुभावो, क्या"
+    },
+    {
+     "sa": "पुरुषः यज्जः",
+     "iast": "puruṣaḥ yajjaḥ",
+     "en": "the person is born from what (cause)",
+     "hi": "पुरुष जिससे उत्पन्न है"
+    },
+    {
+     "sa": "तज्जाः",
+     "iast": "tajjāḥ",
+     "en": "born from the same",
+     "hi": "उसी से उत्पन्न"
+    },
+    {
+     "sa": "तस्य आमयाः",
+     "iast": "tasya āmayāḥ",
+     "en": "his diseases",
+     "hi": "उसके रोग"
+    },
+    {
+     "sa": "स्मृताः",
+     "iast": "smṛtāḥ",
+     "en": "are held to be",
+     "hi": "माने गए हैं"
+    },
+    {
+     "sa": "न वा इति",
+     "iast": "na vā iti",
+     "en": "or not",
+     "hi": "या नहीं"
+    },
+    {
+     "sa": "उक्ते नरेन्द्रेण",
+     "iast": "ukte narendreṇa",
+     "en": "when said by the king",
+     "hi": "राजा के ऐसा कहने पर"
+    },
+    {
+     "sa": "प्रोवाच ऋषीन् पुनर्वसुः",
+     "iast": "provāca ṛṣīn punarvasuḥ",
+     "en": "Punarvasu said to the sages",
+     "hi": "पुनर्वसु ने ऋषियों से कहा"
+    }
+   ],
+   "english": "'Sirs, are a person's diseases born from the same source from which the person is born, or not?' When the king had said this, Punarvasu addressed the sages:",
+   "hindi": "'हे महानुभावो, पुरुष जिससे उत्पन्न होता है, क्या उसके रोग भी उसी से उत्पन्न माने गए हैं, या नहीं?' राजा के ऐसा कहने पर पुनर्वसु ने ऋषियों से कहा:",
+   "explanation_en": "This is the central question that gives the chapter its name: 'yajjaḥ puruṣaḥ, tajjāḥ tasya āmayāḥ?' - Do the person and his diseases have the same origin? Exam tip: the question is asked by Vāmaka, and the debate is chaired by Punarvasu Ātreya.",
+   "explanation_hi": "यह केन्द्रीय प्रश्न है जिससे अध्याय का नाम पड़ा: 'यज्जः पुरुषः, तज्जाः तस्यामयाः?' - क्या पुरुष और उसके रोगों का स्रोत एक है? परीक्षा टिप: प्रश्न वामक ने पूछा, सभा की अध्यक्षता पुनर्वसु आत्रेय ने की।",
+   "modern_correlation": null,
+   "key_terms": [
+    "yajjaḥ puruṣaḥ",
+    "āmaya"
+   ],
+   "tags": [
+    "origin-of-man-debate",
+    "sambhasha",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.7",
+   "word_meanings": [
+    {
+     "sa": "सर्वे एव",
+     "iast": "sarve eva",
+     "en": "all of you",
+     "hi": "आप सभी"
+    },
+    {
+     "sa": "अमित ज्ञान विज्ञान",
+     "iast": "amita jñāna vijñāna",
+     "en": "of boundless knowledge and wisdom",
+     "hi": "असीम ज्ञान और विज्ञान से"
+    },
+    {
+     "sa": "छिन्नसंशयाः",
+     "iast": "chinnasaṃśayāḥ",
+     "en": "whose doubts are cut off",
+     "hi": "जिनके संशय कट चुके हैं"
+    },
+    {
+     "sa": "भवन्तः",
+     "iast": "bhavantaḥ",
+     "en": "you (honoured ones)",
+     "hi": "आप"
+    },
+    {
+     "sa": "छेत्तुम् अर्हन्ति",
+     "iast": "chettum arhanti",
+     "en": "are able to remove",
+     "hi": "दूर करने में समर्थ हैं"
+    },
+    {
+     "sa": "काशिराजस्य संशयम्",
+     "iast": "kāśirājasya saṃśayam",
+     "en": "the doubt of the king of Kāśī",
+     "hi": "काशीराज के संशय को"
+    }
+   ],
+   "english": "'All of you, whose doubts have been cut away by boundless knowledge and wisdom, are able to remove the doubt of the king of Kāśī.'",
+   "hindi": "'आप सभी, जिनके संशय असीम ज्ञान और विज्ञान से दूर हो चुके हैं, काशीराज के संशय को दूर करने में समर्थ हैं।'",
+   "explanation_en": "Ātreya invites each sage to give his view first, before giving his own conclusion. This shows the method of discussion: hearing all views (pūrvapakṣa) before the final view (siddhānta).",
+   "explanation_hi": "आत्रेय अपना निष्कर्ष देने से पहले प्रत्येक ऋषि को अपना मत रखने को आमन्त्रित करते हैं। यह चर्चा की पद्धति दिखाता है: अन्तिम मत (सिद्धान्त) से पहले सभी मतों (पूर्वपक्ष) को सुनना।",
+   "modern_correlation": null,
+   "key_terms": [
+    "jñāna",
+    "vijñāna",
+    "saṃśaya"
+   ],
+   "tags": [
+    "origin-of-man-debate",
+    "sambhasha"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.8",
+   "word_meanings": [
+    {
+     "sa": "पारीक्षिः",
+     "iast": "pārīkṣiḥ",
+     "en": "Pārīkṣi",
+     "hi": "पारीक्षि"
+    },
+    {
+     "sa": "तत् परीक्ष्य",
+     "iast": "tat parīkṣya",
+     "en": "having examined that",
+     "hi": "उसकी परीक्षा करके"
+    },
+    {
+     "sa": "अग्रे",
+     "iast": "agre",
+     "en": "first",
+     "hi": "सबसे पहले"
+    },
+    {
+     "sa": "मौद्गल्यः",
+     "iast": "maudgalyaḥ",
+     "en": "Maudgalya",
+     "hi": "मौद्गल्य"
+    },
+    {
+     "sa": "वाक्यम् अब्रवीत्",
+     "iast": "vākyam abravīt",
+     "en": "spoke these words",
+     "hi": "वचन बोले"
+    },
+    {
+     "sa": "आत्मजः",
+     "iast": "ātmajaḥ",
+     "en": "born of the soul (ātman)",
+     "hi": "आत्मा से उत्पन्न"
+    },
+    {
+     "sa": "पुरुषः",
+     "iast": "puruṣaḥ",
+     "en": "the person",
+     "hi": "पुरुष"
+    },
+    {
+     "sa": "रोगाः च आत्मजाः",
+     "iast": "rogāḥ ca ātmajāḥ",
+     "en": "and diseases are born of the soul",
+     "hi": "और रोग भी आत्मा से उत्पन्न"
+    },
+    {
+     "sa": "कारणम् हि सः",
+     "iast": "kāraṇam hi saḥ",
+     "en": "for it (the soul) is the cause",
+     "hi": "क्योंकि वह (आत्मा) कारण है"
+    }
+   ],
+   "english": "Pārīkṣi Maudgalya, having considered it, spoke first: 'The person is born of the soul (ātman), and diseases too are born of the soul, for the soul is the cause.'",
+   "hindi": "पारीक्षि मौद्गल्य ने विचार करके सबसे पहले कहा: 'पुरुष आत्मा से उत्पन्न है और रोग भी आत्मा से उत्पन्न हैं, क्योंकि आत्मा ही कारण है।'",
+   "explanation_en": "First view: ātman (soul) is the cause of the person and diseases. Learn the list of speakers with their theories in order: Maudgalya - ātman; Śaraloman - manas (sattva); Vāryovida - rasa; Hiraṇyākṣa - ṣaḍdhātu; Kauśika - mātā-pitā; Bhadrakāpya - karma; Bharadvāja - svabhāva; Kāṅkāyana - prajāpati; Bhikṣu Ātreya - kāla.",
+   "explanation_hi": "पहला मत: आत्मा पुरुष और रोगों का कारण है। वक्ताओं और उनके मतों को क्रम से याद करें: मौद्गल्य - आत्मा; शरलोमा - मन (सत्त्व); वार्योविद - रस; हिरण्याक्ष - षड्धातु; कौशिक - माता-पिता; भद्रकाप्य - कर्म; भरद्वाज - स्वभाव; कांकायन - प्रजापति; भिक्षु आत्रेय - काल।",
+   "modern_correlation": null,
+   "key_terms": [
+    "ātmaja",
+    "Maudgalya",
+    "Pārīkṣi"
+   ],
+   "tags": [
+    "origin-of-man-debate",
+    "sambhasha",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Speakers in order: 'A-M-R-S-P-K-Sv-Pr-K' - Ātman, Manas, Rasa, Ṣaḍdhātu, Parents, Karma, Svabhāva, Prajāpati, Kāla",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.9",
+   "word_meanings": [
+    {
+     "sa": "सः",
+     "iast": "saḥ",
+     "en": "he (the soul)",
+     "hi": "वह (आत्मा)"
+    },
+    {
+     "sa": "चिनोति",
+     "iast": "cinoti",
+     "en": "accumulates",
+     "hi": "संचित करता है"
+    },
+    {
+     "sa": "उपभुङ्क्ते च",
+     "iast": "upabhuṅkte ca",
+     "en": "and enjoys/experiences",
+     "hi": "और भोगता है"
+    },
+    {
+     "sa": "कर्म",
+     "iast": "karma",
+     "en": "action",
+     "hi": "कर्म"
+    },
+    {
+     "sa": "कर्मफलानि च",
+     "iast": "karmaphalāni ca",
+     "en": "and fruits of actions",
+     "hi": "और कर्मफल"
+    },
+    {
+     "sa": "न हि ऋते",
+     "iast": "na hi ṛte",
+     "en": "for not without",
+     "hi": "क्योंकि बिना नहीं"
+    },
+    {
+     "sa": "चेतनाधातोः",
+     "iast": "cetanādhātoḥ",
+     "en": "the conscious principle",
+     "hi": "चेतना-धातु (आत्मा) के"
+    },
+    {
+     "sa": "प्रवृत्तिः",
+     "iast": "pravṛttiḥ",
+     "en": "occurrence",
+     "hi": "प्रवृत्ति"
+    },
+    {
+     "sa": "सुख दुःखयोः",
+     "iast": "sukha duḥkhayoḥ",
+     "en": "of happiness and misery",
+     "hi": "सुख और दुःख की"
+    }
+   ],
+   "english": "'It is the soul that accumulates actions and experiences their fruits; for without the conscious principle (cetanādhātu) there is no occurrence of happiness or misery.'",
+   "hindi": "'आत्मा ही कर्म संचित करता है और कर्मफल भोगता है; क्योंकि चेतना-धातु (आत्मा) के बिना सुख और दुःख की प्रवृत्ति नहीं होती।'",
+   "explanation_en": "Maudgalya's reasoning: since experience (sukha-duḥkha) requires consciousness, the soul must be the cause of both the person and disease (disease being a form of duḥkha).",
+   "explanation_hi": "मौद्गल्य का तर्क: अनुभव (सुख-दुःख) के लिए चेतना आवश्यक है, अतः आत्मा ही पुरुष और रोग (जो दुःख का रूप है) दोनों का कारण है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "cetanādhātu",
+    "karmaphala",
+    "sukha",
+    "duḥkha"
+   ],
+   "tags": [
+    "origin-of-man-debate",
+    "sambhasha"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.10",
+   "word_meanings": [
+    {
+     "sa": "शरलोमा तु",
+     "iast": "śaralomā tu",
+     "en": "but Śaraloman",
+     "hi": "परन्तु शरलोमा ने"
+    },
+    {
+     "sa": "न इति आह",
+     "iast": "na iti āha",
+     "en": "said 'no'",
+     "hi": "'नहीं' कहा"
+    },
+    {
+     "sa": "न हि आत्मा",
+     "iast": "na hi ātmā",
+     "en": "for the soul does not",
+     "hi": "क्योंकि आत्मा नहीं"
+    },
+    {
+     "sa": "आत्मानम् आत्मना",
+     "iast": "ātmānam ātmanā",
+     "en": "itself by itself",
+     "hi": "स्वयं को स्वयं से"
+    },
+    {
+     "sa": "योजयेत्",
+     "iast": "yojayet",
+     "en": "would join",
+     "hi": "जोड़ेगा"
+    },
+    {
+     "sa": "व्याधिभिः दुःखैः",
+     "iast": "vyādhibhiḥ duḥkhaiḥ",
+     "en": "with diseases and sufferings",
+     "hi": "रोगों और दुःखों से"
+    },
+    {
+     "sa": "दुःखद्वेषी",
+     "iast": "duḥkhadveṣī",
+     "en": "one who hates suffering",
+     "hi": "दुःख से द्वेष करने वाला"
+    },
+    {
+     "sa": "कदाचन",
+     "iast": "kadācana",
+     "en": "ever",
+     "hi": "कभी भी"
+    }
+   ],
+   "english": "But Śaraloman said 'No. The soul, which hates suffering, would never by itself join itself to diseases and sufferings.'",
+   "hindi": "परन्तु शरलोमा ने कहा 'नहीं। दुःख से द्वेष करने वाला आत्मा स्वयं को कभी भी रोगों और दुःखों से नहीं जोड़ेगा।'",
+   "explanation_en": "Śaraloman refutes the ātman theory: no conscious being would deliberately give itself disease. Each refutation in this chapter uses a simple logical objection, which is a good model for answer writing.",
+   "explanation_hi": "शरलोमा आत्मा-वाद का खण्डन करते हैं: कोई चेतन प्राणी स्वयं को जान-बूझकर रोग नहीं देगा। इस अध्याय का प्रत्येक खण्डन एक सरल तार्किक आपत्ति पर आधारित है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "Śaraloman",
+    "duḥkhadveṣī"
+   ],
+   "tags": [
+    "origin-of-man-debate",
+    "sambhasha"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.11",
+   "word_meanings": [
+    {
+     "sa": "रजः तमोभ्याम्",
+     "iast": "rajaḥ tamobhyām",
+     "en": "by rajas and tamas",
+     "hi": "रज और तम से"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "परन्तु"
+    },
+    {
+     "sa": "मनः",
+     "iast": "manaḥ",
+     "en": "mind",
+     "hi": "मन"
+    },
+    {
+     "sa": "परीतम्",
+     "iast": "parītam",
+     "en": "enveloped",
+     "hi": "घिरा हुआ"
+    },
+    {
+     "sa": "सत्त्वसंज्ञकम्",
+     "iast": "sattvasaṃjñakam",
+     "en": "called sattva",
+     "hi": "सत्त्व नामक"
+    },
+    {
+     "sa": "शरीरस्य समुत्पत्तौ",
+     "iast": "śarīrasya samutpattau",
+     "en": "in the origin of the body",
+     "hi": "शरीर की उत्पत्ति में"
+    },
+    {
+     "sa": "विकाराणाम् च",
+     "iast": "vikārāṇām ca",
+     "en": "and of disorders",
+     "hi": "और विकारों का"
+    },
+    {
+     "sa": "कारणम्",
+     "iast": "kāraṇam",
+     "en": "cause",
+     "hi": "कारण"
+    }
+   ],
+   "english": "'Rather, the mind, called sattva, when enveloped by rajas and tamas, is the cause of the origin of the body and of disorders.'",
+   "hindi": "'बल्कि सत्त्व नामक मन, रज और तम से घिरा होने पर, शरीर की उत्पत्ति और विकारों का कारण है।'",
+   "explanation_en": "Second view (Śaraloman): the mind (sattva), clouded by rajas and tamas (the two mental doṣas), is the cause. Remember: Śaraloman → manas.",
+   "explanation_hi": "दूसरा मत (शरलोमा): रज और तम (दो मानस दोष) से घिरा मन (सत्त्व) कारण है। याद रखें: शरलोमा → मन।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sattva",
+    "rajas",
+    "tamas",
+    "manas"
+   ],
+   "tags": [
+    "origin-of-man-debate",
+    "sambhasha",
+    "manas"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.12",
+   "word_meanings": [
+    {
+     "sa": "वार्योविदः तु",
+     "iast": "vāryovidaḥ tu",
+     "en": "but Vāryovida",
+     "hi": "परन्तु वार्योविद ने"
+    },
+    {
+     "sa": "न इति आह",
+     "iast": "na iti āha",
+     "en": "said 'no'",
+     "hi": "'नहीं' कहा"
+    },
+    {
+     "sa": "न हि एकम् कारणम् मनः",
+     "iast": "na hi ekam kāraṇam manaḥ",
+     "en": "for the mind alone is not the cause",
+     "hi": "क्योंकि केवल मन कारण नहीं है"
+    },
+    {
+     "sa": "न ऋते शरीरात्",
+     "iast": "na ṛte śarīrāt",
+     "en": "not without the body",
+     "hi": "शरीर के बिना नहीं"
+    },
+    {
+     "sa": "शारीररोगाः",
+     "iast": "śārīrarogāḥ",
+     "en": "bodily diseases",
+     "hi": "शारीरिक रोग"
+    },
+    {
+     "sa": "न मनसः स्थितिः",
+     "iast": "na manasaḥ sthitiḥ",
+     "en": "nor is there existence of the mind",
+     "hi": "न ही मन की स्थिति"
+    }
+   ],
+   "english": "But Vāryovida said 'No. The mind alone is not the cause; without the body there are no bodily diseases, nor can the mind exist.'",
+   "hindi": "परन्तु वार्योविद ने कहा 'नहीं। केवल मन कारण नहीं है; शरीर के बिना शारीरिक रोग नहीं होते, और न ही मन का अस्तित्व रहता है।'",
+   "explanation_en": "Vāryovida objects that mind cannot be the sole cause, because bodily diseases need a body and the mind itself depends on a body. This anticipates the psychosomatic interdependence taught elsewhere in Caraka.",
+   "explanation_hi": "वार्योविद आपत्ति करते हैं कि केवल मन कारण नहीं हो सकता, क्योंकि शारीरिक रोगों के लिए शरीर चाहिए और मन भी शरीर पर आश्रित है। यह चरक में अन्यत्र बताई गई मन-शरीर की परस्पर निर्भरता से जुड़ता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "Vāryovida",
+    "śārīra roga"
+   ],
+   "tags": [
+    "origin-of-man-debate",
+    "sambhasha"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.13",
+   "word_meanings": [
+    {
+     "sa": "रसजानि",
+     "iast": "rasajāni",
+     "en": "born of rasa (nutrient fluid / water)",
+     "hi": "रस से उत्पन्न"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "परन्तु"
+    },
+    {
+     "sa": "भूतानि",
+     "iast": "bhūtāni",
+     "en": "living beings",
+     "hi": "प्राणी"
+    },
+    {
+     "sa": "व्याधयः च",
+     "iast": "vyādhayaḥ ca",
+     "en": "and diseases",
+     "hi": "और रोग"
+    },
+    {
+     "sa": "पृथग्विधाः",
+     "iast": "pṛthagvidhāḥ",
+     "en": "of various kinds",
+     "hi": "अनेक प्रकार के"
+    },
+    {
+     "sa": "आपः हि",
+     "iast": "āpaḥ hi",
+     "en": "for waters",
+     "hi": "क्योंकि जल"
+    },
+    {
+     "sa": "रसवत्यः ताः",
+     "iast": "rasavatyaḥ tāḥ",
+     "en": "those possessing rasa",
+     "hi": "रसयुक्त वे"
+    },
+    {
+     "sa": "स्मृताः",
+     "iast": "smṛtāḥ",
+     "en": "are held to be",
+     "hi": "माने गए हैं"
+    },
+    {
+     "sa": "निर्वृत्तिहेतवः",
+     "iast": "nirvṛttihetavaḥ",
+     "en": "causes of production",
+     "hi": "उत्पत्ति के कारण"
+    }
+   ],
+   "english": "'Living beings and diseases of various kinds are born of rasa; for waters, which possess rasa, are held to be the cause of their production.'",
+   "hindi": "'प्राणी और अनेक प्रकार के रोग रस से उत्पन्न होते हैं; क्योंकि रसयुक्त जल ही उनकी उत्पत्ति का कारण माना गया है।'",
+   "explanation_en": "Third view (Vāryovida): rasa (taste/nutrient essence, located in water) is the cause. This connects with the idea that the body is food-born (āhārasambhava) and diseases are diet-born, a point Ātreya later accepts partly in Su 25.31.",
+   "explanation_hi": "तीसरा मत (वार्योविद): रस (जल में स्थित) कारण है। यह इस विचार से जुड़ता है कि शरीर आहार से बना है और रोग आहार से होते हैं - आत्रेय सू. 25.31 में इसे आंशिक रूप से स्वीकार करते हैं।",
+   "modern_correlation": {
+    "en": "The view that nutrition shapes both the body and many diseases is broadly consistent with modern nutritional science, though modern medicine recognises many other causes as well.",
+    "hi": "यह मत कि पोषण शरीर और अनेक रोगों दोनों को आकार देता है, आधुनिक पोषण विज्ञान से व्यापक रूप से मेल खाता है, यद्यपि आधुनिक चिकित्सा अन्य अनेक कारण भी मानती है।"
+   },
+   "key_terms": [
+    "rasa",
+    "āpaḥ",
+    "rasaja"
+   ],
+   "tags": [
+    "origin-of-man-debate",
+    "sambhasha"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.14",
+   "word_meanings": [
+    {
+     "sa": "हिरण्याक्षः तु",
+     "iast": "hiraṇyākṣaḥ tu",
+     "en": "but Hiraṇyākṣa",
+     "hi": "परन्तु हिरण्याक्ष ने"
+    },
+    {
+     "sa": "न इति आह",
+     "iast": "na iti āha",
+     "en": "said 'no'",
+     "hi": "'नहीं' कहा"
+    },
+    {
+     "sa": "न हि आत्मा रसजः स्मृतः",
+     "iast": "na hi ātmā rasajaḥ smṛtaḥ",
+     "en": "the soul is not held to be born of rasa",
+     "hi": "आत्मा रस से उत्पन्न नहीं माना गया"
+    },
+    {
+     "sa": "न अतीन्द्रियम् मनः",
+     "iast": "na atīndriyam manaḥ",
+     "en": "nor the supersensory mind",
+     "hi": "न अतीन्द्रिय मन"
+    },
+    {
+     "sa": "सन्ति रोगाः",
+     "iast": "santi rogāḥ",
+     "en": "there are diseases",
+     "hi": "रोग हैं"
+    },
+    {
+     "sa": "शब्दादिजाः तथा",
+     "iast": "śabdādijāḥ tathā",
+     "en": "likewise born of sound etc.",
+     "hi": "वैसे ही शब्द आदि से उत्पन्न"
+    }
+   ],
+   "english": "But Hiraṇyākṣa said 'No. The soul is not held to be born of rasa, nor is the supersensory mind; and there are also diseases born of sound and the other sense objects.'",
+   "hindi": "परन्तु हिरण्याक्ष ने कहा 'नहीं। आत्मा रस से उत्पन्न नहीं माना गया, न अतीन्द्रिय मन; और शब्द आदि (इन्द्रिय-विषयों) से उत्पन्न रोग भी होते हैं।'",
+   "explanation_en": "Hiraṇyākṣa points out that rasa cannot explain the soul or the mind, and that some diseases arise from sound, touch, sight etc. (e.g. harm from loud noise), not from taste.",
+   "explanation_hi": "हिरण्याक्ष बताते हैं कि रस से आत्मा या मन की उत्पत्ति नहीं समझाई जा सकती, और कुछ रोग शब्द, स्पर्श, रूप आदि से होते हैं (जैसे तेज़ आवाज़ से हानि), रस से नहीं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "Hiraṇyākṣa",
+    "atīndriya",
+    "śabdādi"
+   ],
+   "tags": [
+    "origin-of-man-debate",
+    "sambhasha"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.15",
+   "word_meanings": [
+    {
+     "sa": "षड्धातुजः",
+     "iast": "ṣaḍdhātujaḥ",
+     "en": "born of the six elements",
+     "hi": "षड्धातु से उत्पन्न"
+    },
+    {
+     "sa": "तु पुरुषः",
+     "iast": "tu puruṣaḥ",
+     "en": "but the person",
+     "hi": "परन्तु पुरुष"
+    },
+    {
+     "sa": "रोगाः षड्धातुजाः तथा",
+     "iast": "rogāḥ ṣaḍdhātujāḥ tathā",
+     "en": "and likewise diseases born of six elements",
+     "hi": "और रोग भी षड्धातुज"
+    },
+    {
+     "sa": "राशिः",
+     "iast": "rāśiḥ",
+     "en": "aggregate",
+     "hi": "राशि"
+    },
+    {
+     "sa": "षड्धातुजः हि एषः",
+     "iast": "ṣaḍdhātujaḥ hi eṣaḥ",
+     "en": "this indeed born of six elements",
+     "hi": "यह षड्धातुज है"
+    },
+    {
+     "sa": "सांख्यैः आद्यैः",
+     "iast": "sāṃkhyaiḥ ādyaiḥ",
+     "en": "by the early Sāṃkhya thinkers",
+     "hi": "प्राचीन सांख्य विद्वानों द्वारा"
+    },
+    {
+     "sa": "प्रकीर्तितः",
+     "iast": "prakīrtitaḥ",
+     "en": "proclaimed",
+     "hi": "कहा गया है"
+    }
+   ],
+   "english": "'The person is born of the six elements (ṣaḍdhātu), and so are diseases. This aggregate (rāśi) has been declared to be made of the six elements by the early Sāṃkhya thinkers.'",
+   "hindi": "'पुरुष षड्धातु (छह धातुओं) से उत्पन्न है और रोग भी। प्राचीन सांख्य विद्वानों ने इस राशि को षड्धातुज कहा है।'",
+   "explanation_en": "Fourth view (Hiraṇyākṣa): ṣaḍdhātu - the five mahābhūtas plus consciousness (cetanā) - constitute the person (compare Śā 1.16). Remember: Hiraṇyākṣa → ṣaḍdhātu (six-element) theory.",
+   "explanation_hi": "चौथा मत (हिरण्याक्ष): षड्धातु - पाँच महाभूत और चेतना - से पुरुष बना है (शारीर 1.16 से तुलना करें)। याद रखें: हिरण्याक्ष → षड्धातु।",
+   "modern_correlation": null,
+   "key_terms": [
+    "ṣaḍdhātu",
+    "sāṃkhya",
+    "rāśi puruṣa"
+   ],
+   "tags": [
+    "origin-of-man-debate",
+    "sambhasha"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.16",
+   "word_meanings": [
+    {
+     "sa": "तथा ब्रुवाणम्",
+     "iast": "tathā bruvāṇam",
+     "en": "(to him) speaking thus",
+     "hi": "ऐसा कहने वाले"
+    },
+    {
+     "sa": "कुशिकम्",
+     "iast": "kuśikam",
+     "en": "to Kuśika (Hiraṇyākṣa of the Kuśika clan)",
+     "hi": "कुशिक से"
+    },
+    {
+     "sa": "आह तत् न इति",
+     "iast": "āha tat na iti",
+     "en": "said 'that is not so'",
+     "hi": "'ऐसा नहीं' कहा"
+    },
+    {
+     "sa": "कौशिकः",
+     "iast": "kauśikaḥ",
+     "en": "Kauśika",
+     "hi": "कौशिक ने"
+    },
+    {
+     "sa": "कस्मात्",
+     "iast": "kasmāt",
+     "en": "how",
+     "hi": "कैसे"
+    },
+    {
+     "sa": "मातापितृभ्याम् हि विना",
+     "iast": "mātāpitṛbhyām hi vinā",
+     "en": "without mother and father",
+     "hi": "माता-पिता के बिना"
+    },
+    {
+     "sa": "षड्धातुजः भवेत्",
+     "iast": "ṣaḍdhātujaḥ bhavet",
+     "en": "can be born of six elements",
+     "hi": "षड्धातुज हो सकता है"
+    }
+   ],
+   "english": "To Kuśika (Hiraṇyākṣa), who spoke thus, Kauśika said 'That is not so. How can (a person) be born of the six elements without a mother and father?'",
+   "hindi": "ऐसा कहने वाले कुशिक (हिरण्याक्ष) से कौशिक ने कहा 'ऐसा नहीं है। माता-पिता के बिना कोई षड्धातुज कैसे उत्पन्न हो सकता है?'",
+   "explanation_en": "Kauśika objects that the six elements alone do not make a person; parents are required. Commentators identify 'Kuśika' here with Hiraṇyākṣa (of the Kuśika lineage).",
+   "explanation_hi": "कौशिक आपत्ति करते हैं कि केवल छह धातुएँ पुरुष नहीं बनातीं; माता-पिता आवश्यक हैं। टीकाकार यहाँ 'कुशिक' को हिरण्याक्ष (कुशिक वंश के) मानते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "Kauśika",
+    "mātāpitṛ"
+   ],
+   "tags": [
+    "origin-of-man-debate",
+    "sambhasha"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.17",
+   "word_meanings": [
+    {
+     "sa": "पुरुषः पुरुषात्",
+     "iast": "puruṣaḥ puruṣāt",
+     "en": "man from man",
+     "hi": "मनुष्य से मनुष्य"
+    },
+    {
+     "sa": "गौः गोः",
+     "iast": "gauḥ goḥ",
+     "en": "cow from cow",
+     "hi": "गाय से गाय"
+    },
+    {
+     "sa": "अश्वात् अश्वः",
+     "iast": "aśvāt aśvaḥ",
+     "en": "horse from horse",
+     "hi": "घोड़े से घोड़ा"
+    },
+    {
+     "sa": "प्रजायते",
+     "iast": "prajāyate",
+     "en": "is born",
+     "hi": "उत्पन्न होता है"
+    },
+    {
+     "sa": "पित्र्याः",
+     "iast": "pitryāḥ",
+     "en": "inherited from parents",
+     "hi": "पैतृक (माता-पिता से प्राप्त)"
+    },
+    {
+     "sa": "मेह आदयः च",
+     "iast": "meha ādayaḥ ca",
+     "en": "and prameha etc.",
+     "hi": "और प्रमेह आदि"
+    },
+    {
+     "sa": "उक्ताः रोगाः",
+     "iast": "uktāḥ rogāḥ",
+     "en": "diseases are said",
+     "hi": "रोग कहे गए हैं"
+    },
+    {
+     "sa": "तौ अत्र कारणम्",
+     "iast": "tau atra kāraṇam",
+     "en": "those two (parents) are the cause here",
+     "hi": "वे दोनों (माता-पिता) यहाँ कारण हैं"
+    }
+   ],
+   "english": "'A man is born from a man, a cow from a cow, a horse from a horse; and diseases such as prameha are said to be inherited from the parents. So the two (parents) are the cause here.'",
+   "hindi": "'मनुष्य से मनुष्य, गाय से गाय, घोड़े से घोड़ा उत्पन्न होता है; और प्रमेह आदि रोग पैतृक (माता-पिता से प्राप्त) कहे गए हैं। अतः यहाँ माता-पिता ही कारण हैं।'",
+   "explanation_en": "Fifth view (Kauśika): parents are the cause of the person and of hereditary diseases like prameha (compare Ci 6, where sahaja prameha is described as arising from the parental bīja). Remember: Kauśika → mātā-pitā.",
+   "explanation_hi": "पाँचवाँ मत (कौशिक): माता-पिता पुरुष और प्रमेह जैसे वंशानुगत रोगों के कारण हैं (चिकित्सा 6 से तुलना करें जहाँ सहज प्रमेह माता-पिता के बीज-दोष से बताया गया है)। याद रखें: कौशिक → माता-पिता।",
+   "modern_correlation": {
+    "en": "This is an early statement of heredity: offspring resemble parents, and some diseases run in families. Modern genetics confirms familial risk for conditions such as type 2 diabetes, but also shows that most such diseases are multifactorial, with genes interacting with lifestyle and environment.",
+    "hi": "यह आनुवंशिकता का प्रारम्भिक कथन है: सन्तान माता-पिता जैसी होती है और कुछ रोग परिवार में चलते हैं। आधुनिक जेनेटिक्स टाइप 2 डायबिटीज़ जैसे रोगों में पारिवारिक जोखिम की पुष्टि करती है, पर यह भी दिखाती है कि ऐसे अधिकांश रोग बहुकारकीय हैं जिनमें जीन, जीवनशैली और पर्यावरण साथ काम करते हैं।"
+   },
+   "key_terms": [
+    "pitrya roga",
+    "prameha",
+    "heredity"
+   ],
+   "tags": [
+    "origin-of-man-debate",
+    "sambhasha",
+    "heredity"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.18",
+   "word_meanings": [
+    {
+     "sa": "भद्रकाप्यः तु",
+     "iast": "bhadrakāpyaḥ tu",
+     "en": "but Bhadrakāpya",
+     "hi": "परन्तु भद्रकाप्य ने"
+    },
+    {
+     "sa": "न इति आह",
+     "iast": "na iti āha",
+     "en": "said 'no'",
+     "hi": "'नहीं' कहा"
+    },
+    {
+     "sa": "न हि अन्धः अन्धात् प्रजायते",
+     "iast": "na hi andhaḥ andhāt prajāyate",
+     "en": "for a blind person is not born of a blind person",
+     "hi": "अन्धे से अन्धा उत्पन्न नहीं होता"
+    },
+    {
+     "sa": "मातापित्रोः अपि च",
+     "iast": "mātāpitroḥ api ca",
+     "en": "and of the parents too",
+     "hi": "और माता-पिता की भी"
+    },
+    {
+     "sa": "ते",
+     "iast": "te",
+     "en": "they",
+     "hi": "वे"
+    },
+    {
+     "sa": "प्राक् उत्पत्तिः",
+     "iast": "prāk utpattiḥ",
+     "en": "prior origin",
+     "hi": "पूर्व उत्पत्ति"
+    },
+    {
+     "sa": "न युज्यते",
+     "iast": "na yujyate",
+     "en": "is not explained",
+     "hi": "उचित नहीं ठहरती"
+    }
+   ],
+   "english": "But Bhadrakāpya said 'No. A blind person is not (necessarily) born of a blind person; and (this view) cannot explain the prior origin of the parents themselves.'",
+   "hindi": "परन्तु भद्रकाप्य ने कहा 'नहीं। अन्धे से अन्धा उत्पन्न नहीं होता; और इस मत से माता-पिता की अपनी पूर्व उत्पत्ति नहीं समझाई जा सकती।'",
+   "explanation_en": "Bhadrakāpya's two objections: acquired defects (like blindness) are not passed on, and the parental theory leads to an infinite regress (who made the parents?).",
+   "explanation_hi": "भद्रकाप्य की दो आपत्तियाँ: अर्जित दोष (जैसे अन्धापन) सन्तान में नहीं जाते, और माता-पिता वाला मत अनवस्था दोष तक ले जाता है (माता-पिता को किसने बनाया?)।",
+   "modern_correlation": {
+    "en": "The observation that acquired defects are not inherited is in line with modern genetics, which distinguishes acquired conditions from heritable genetic variants.",
+    "hi": "यह अवलोकन कि अर्जित दोष वंशानुगत नहीं होते, आधुनिक जेनेटिक्स से मेल खाता है जो अर्जित स्थितियों और वंशानुगत जेनेटिक वेरिएंट में अन्तर करती है।"
+   },
+   "key_terms": [
+    "Bhadrakāpya",
+    "heredity"
+   ],
+   "tags": [
+    "origin-of-man-debate",
+    "sambhasha"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.19",
+   "word_meanings": [
+    {
+     "sa": "कर्मजः",
+     "iast": "karmajaḥ",
+     "en": "born of karma (past deeds)",
+     "hi": "कर्म से उत्पन्न"
+    },
+    {
+     "sa": "तु मतः जन्तुः",
+     "iast": "tu mataḥ jantuḥ",
+     "en": "but the living being is held to be",
+     "hi": "परन्तु प्राणी माना गया है"
+    },
+    {
+     "sa": "कर्मजाः तस्य च आमयाः",
+     "iast": "karmajāḥ tasya ca āmayāḥ",
+     "en": "and his diseases are born of karma",
+     "hi": "और उसके रोग भी कर्मज"
+    },
+    {
+     "sa": "न हि ऋते कर्मणः",
+     "iast": "na hi ṛte karmaṇaḥ",
+     "en": "for not without karma",
+     "hi": "क्योंकि कर्म के बिना नहीं"
+    },
+    {
+     "sa": "जन्म",
+     "iast": "janma",
+     "en": "birth",
+     "hi": "जन्म"
+    },
+    {
+     "sa": "रोगाणाम् पुरुषस्य वा",
+     "iast": "rogāṇām puruṣasya vā",
+     "en": "of diseases or of the person",
+     "hi": "रोगों का या पुरुष का"
+    }
+   ],
+   "english": "'The living being is held to be born of karma (past actions), and so are his diseases; for without karma there is no birth of either the person or diseases.'",
+   "hindi": "'प्राणी कर्म से उत्पन्न माना गया है और उसके रोग भी कर्मज हैं; क्योंकि कर्म के बिना न पुरुष का जन्म होता है न रोगों का।'",
+   "explanation_en": "Sixth view (Bhadrakāpya): karma (deeds of past life) is the cause. Remember: Bhadrakāpya → karma.",
+   "explanation_hi": "छठा मत (भद्रकाप्य): कर्म (पूर्वजन्म के कर्म) कारण है। याद रखें: भद्रकाप्य → कर्म।",
+   "modern_correlation": null,
+   "key_terms": [
+    "karmaja",
+    "karma"
+   ],
+   "tags": [
+    "origin-of-man-debate",
+    "sambhasha"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.20",
+   "word_meanings": [
+    {
+     "sa": "भरद्वाजः तु",
+     "iast": "bharadvājaḥ tu",
+     "en": "but Bharadvāja",
+     "hi": "परन्तु भरद्वाज ने"
+    },
+    {
+     "sa": "न इति आह",
+     "iast": "na iti āha",
+     "en": "said 'no'",
+     "hi": "'नहीं' कहा"
+    },
+    {
+     "sa": "कर्ता पूर्वम् हि कर्मणः",
+     "iast": "kartā pūrvam hi karmaṇaḥ",
+     "en": "for the doer exists before the deed",
+     "hi": "क्योंकि कर्ता कर्म से पहले होता है"
+    },
+    {
+     "sa": "दृष्टम्",
+     "iast": "dṛṣṭam",
+     "en": "is seen",
+     "hi": "देखा गया है"
+    },
+    {
+     "sa": "न च अकृतम् कर्म",
+     "iast": "na ca akṛtam karma",
+     "en": "and no deed that was not done",
+     "hi": "और बिना किया कर्म नहीं"
+    },
+    {
+     "sa": "यस्य स्यात् पुरुषः फलम्",
+     "iast": "yasya syāt puruṣaḥ phalam",
+     "en": "of which the person could be the fruit",
+     "hi": "जिसका फल पुरुष हो"
+    }
+   ],
+   "english": "But Bharadvāja said 'No. The doer is seen to exist before the deed; and there is no deed not yet performed of which the person could be the result.'",
+   "hindi": "परन्तु भरद्वाज ने कहा 'नहीं। कर्ता कर्म से पहले देखा जाता है; और ऐसा कोई बिना किया कर्म नहीं जिसका फल पुरुष हो।'",
+   "explanation_en": "Bharadvāja argues that karma requires a doer who already exists, so karma cannot produce the first person (a logical priority objection).",
+   "explanation_hi": "भरद्वाज तर्क देते हैं कि कर्म के लिए पहले से विद्यमान कर्ता चाहिए, अतः कर्म पहले पुरुष को उत्पन्न नहीं कर सकता (तार्किक पूर्वता की आपत्ति)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "Bharadvāja",
+    "kartā",
+    "karma"
+   ],
+   "tags": [
+    "origin-of-man-debate",
+    "sambhasha"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.21",
+   "word_meanings": [
+    {
+     "sa": "भावहेतुः",
+     "iast": "bhāvahetuḥ",
+     "en": "the cause of existence",
+     "hi": "भावों (उत्पत्ति) का कारण"
+    },
+    {
+     "sa": "स्वभावः तु",
+     "iast": "svabhāvaḥ tu",
+     "en": "but inherent nature",
+     "hi": "परन्तु स्वभाव"
+    },
+    {
+     "sa": "व्याधीनाम् पुरुषस्य च",
+     "iast": "vyādhīnām puruṣasya ca",
+     "en": "of diseases and the person",
+     "hi": "रोगों और पुरुष का"
+    },
+    {
+     "sa": "खर द्रव चल उष्णत्वम्",
+     "iast": "khara drava cala uṣṇatvam",
+     "en": "roughness, liquidity, mobility and heat",
+     "hi": "खरता, द्रवता, चलता और उष्णता"
+    },
+    {
+     "sa": "तेजोऽन्तानाम्",
+     "iast": "tejo'ntānām",
+     "en": "of (earth, water, air and) fire",
+     "hi": "(पृथ्वी, जल, वायु और) तेज की"
+    },
+    {
+     "sa": "यथा एव हि",
+     "iast": "yathā eva hi",
+     "en": "just as indeed",
+     "hi": "जैसे ही"
+    }
+   ],
+   "english": "'Inherent nature (svabhāva) is the cause of the existence of diseases and of the person, just as hardness, liquidity, mobility and heat are the inherent natures of earth, water, air and fire.'",
+   "hindi": "'स्वभाव ही रोगों और पुरुष की उत्पत्ति का कारण है, जैसे खरता, द्रवता, चलता और उष्णता क्रमशः पृथ्वी, जल, वायु और तेज के स्वभाव हैं।'",
+   "explanation_en": "Seventh view (Bharadvāja): svabhāva (inherent nature, spontaneous) is the cause - things happen by their own nature, as the qualities of the bhūtas do. Remember: Bharadvāja → svabhāva. ('Tejo'ntānām' = the bhūtas ending with tejas, i.e. pṛthvī, jala, vāyu, tejas.)",
+   "explanation_hi": "सातवाँ मत (भरद्वाज): स्वभाव कारण है - वस्तुएँ अपने स्वभाव से होती हैं, जैसे भूतों के गुण। याद रखें: भरद्वाज → स्वभाव।",
+   "modern_correlation": null,
+   "key_terms": [
+    "svabhāva",
+    "Bharadvāja",
+    "mahābhūta"
+   ],
+   "tags": [
+    "origin-of-man-debate",
+    "sambhasha"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.22",
+   "word_meanings": [
+    {
+     "sa": "काङ्कायनः तु",
+     "iast": "kāṅkāyanaḥ tu",
+     "en": "but Kāṅkāyana",
+     "hi": "परन्तु कांकायन ने"
+    },
+    {
+     "sa": "न इति आह",
+     "iast": "na iti āha",
+     "en": "said 'no'",
+     "hi": "'नहीं' कहा"
+    },
+    {
+     "sa": "न हि आरम्भफलम् भवेत्",
+     "iast": "na hi ārambhaphalam bhavet",
+     "en": "then effort would bear no fruit",
+     "hi": "तब प्रयास का कोई फल नहीं होगा"
+    },
+    {
+     "sa": "भवेत् स्वभावात्",
+     "iast": "bhavet svabhāvāt",
+     "en": "it would come from nature alone",
+     "hi": "स्वभाव से ही होगा"
+    },
+    {
+     "sa": "भावानाम्",
+     "iast": "bhāvānām",
+     "en": "of things",
+     "hi": "पदार्थों की"
+    },
+    {
+     "sa": "असिद्धिः सिद्धिः एव वा",
+     "iast": "asiddhiḥ siddhiḥ eva vā",
+     "en": "failure or success",
+     "hi": "असिद्धि या सिद्धि"
+    }
+   ],
+   "english": "But Kāṅkāyana said 'No. Then effort would bear no fruit; success or failure of things would come from inherent nature alone.'",
+   "hindi": "परन्तु कांकायन ने कहा 'नहीं। तब प्रयास का कोई फल नहीं होगा; पदार्थों की सिद्धि या असिद्धि केवल स्वभाव से होगी।'",
+   "explanation_en": "Kāṅkāyana's objection: if everything is by svabhāva, all human effort (including treatment) would be pointless - which contradicts experience. This is why Ayurveda rejects pure svabhāvavāda for causation.",
+   "explanation_hi": "कांकायन की आपत्ति: यदि सब कुछ स्वभाव से है तो सारा मानव प्रयास (चिकित्सा सहित) व्यर्थ होगा - जो अनुभव के विरुद्ध है। इसीलिए आयुर्वेद कारणता के लिए केवल स्वभाववाद को नहीं मानता।",
+   "modern_correlation": null,
+   "key_terms": [
+    "Kāṅkāyana",
+    "svabhāvavāda",
+    "ārambha"
+   ],
+   "tags": [
+    "origin-of-man-debate",
+    "sambhasha"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.23",
+   "word_meanings": [
+    {
+     "sa": "स्रष्टा तु",
+     "iast": "sraṣṭā tu",
+     "en": "but the creator",
+     "hi": "परन्तु सृष्टिकर्ता"
+    },
+    {
+     "sa": "अमितसङ्कल्पः",
+     "iast": "amitasaṅkalpaḥ",
+     "en": "of unlimited will",
+     "hi": "असीम संकल्प वाला"
+    },
+    {
+     "sa": "ब्रह्मापत्यम्",
+     "iast": "brahmāpatyam",
+     "en": "son of Brahmā",
+     "hi": "ब्रह्मा का पुत्र"
+    },
+    {
+     "sa": "प्रजापतिः",
+     "iast": "prajāpatiḥ",
+     "en": "Prajāpati",
+     "hi": "प्रजापति"
+    },
+    {
+     "sa": "चेतन अचेतनस्य अस्य जगतः",
+     "iast": "cetana acetanasya asya jagataḥ",
+     "en": "of this world, sentient and insentient",
+     "hi": "इस चेतन-अचेतन जगत का"
+    },
+    {
+     "sa": "सुख दुःखयोः",
+     "iast": "sukha duḥkhayoḥ",
+     "en": "of happiness and misery",
+     "hi": "सुख और दुःख का"
+    }
+   ],
+   "english": "'Prajāpati, the son of Brahmā, of unlimited will, is the creator of this sentient and insentient world and of its happiness and misery.'",
+   "hindi": "'ब्रह्मा के पुत्र, असीम संकल्प वाले प्रजापति इस चेतन-अचेतन जगत और उसके सुख-दुःख के स्रष्टा हैं।'",
+   "explanation_en": "Eighth view (Kāṅkāyana): Prajāpati, the creator, is the cause. Remember: Kāṅkāyana → Prajāpati (creator).",
+   "explanation_hi": "आठवाँ मत (कांकायन): सृष्टिकर्ता प्रजापति कारण हैं। याद रखें: कांकायन → प्रजापति।",
+   "modern_correlation": null,
+   "key_terms": [
+    "Prajāpati",
+    "Kāṅkāyana"
+   ],
+   "tags": [
+    "origin-of-man-debate",
+    "sambhasha"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.24",
+   "word_meanings": [
+    {
+     "sa": "तत् न इति",
+     "iast": "tat na iti",
+     "en": "'that is not so'",
+     "hi": "'ऐसा नहीं'"
+    },
+    {
+     "sa": "भिक्षुः आत्रेयः",
+     "iast": "bhikṣuḥ ātreyaḥ",
+     "en": "the mendicant Ātreya",
+     "hi": "भिक्षु आत्रेय ने"
+    },
+    {
+     "sa": "न हि अपत्यम् प्रजापतिः",
+     "iast": "na hi apatyam prajāpatiḥ",
+     "en": "for Prajāpati (with his) offspring",
+     "hi": "क्योंकि प्रजापति अपनी सन्तान को"
+    },
+    {
+     "sa": "प्रजाहितैषी",
+     "iast": "prajāhitaiṣī",
+     "en": "who desires the welfare of beings",
+     "hi": "प्रजा का हित चाहने वाले"
+    },
+    {
+     "sa": "सततम्",
+     "iast": "satatam",
+     "en": "always",
+     "hi": "सदा"
+    },
+    {
+     "sa": "दुःखैः युञ्ज्यात्",
+     "iast": "duḥkhaiḥ yuñjyāt",
+     "en": "would join with sufferings",
+     "hi": "दुःखों से जोड़ेंगे"
+    },
+    {
+     "sa": "असाधुवत्",
+     "iast": "asādhuvat",
+     "en": "like a wicked person",
+     "hi": "दुष्ट व्यक्ति की तरह"
+    }
+   ],
+   "english": "The mendicant (Bhikṣu) Ātreya said 'That is not so. Prajāpati, who always desires the welfare of beings, would not, like a wicked person, inflict sufferings on his own offspring.'",
+   "hindi": "भिक्षु आत्रेय ने कहा 'ऐसा नहीं है। सदा प्रजा का हित चाहने वाले प्रजापति, किसी दुष्ट की तरह, अपनी सन्तान को दुःख नहीं देंगे।'",
+   "explanation_en": "Bhikṣu Ātreya (a different sage from Punarvasu Ātreya - a frequent MCQ trap) refutes the creator theory: a benevolent creator would not cause suffering.",
+   "explanation_hi": "भिक्षु आत्रेय (पुनर्वसु आत्रेय से भिन्न ऋषि - MCQ में अक्सर भ्रम) सृष्टिकर्ता-वाद का खण्डन करते हैं: कल्याणकारी स्रष्टा दुःख नहीं देगा।",
+   "modern_correlation": null,
+   "key_terms": [
+    "Bhikṣu Ātreya",
+    "Prajāpati"
+   ],
+   "tags": [
+    "origin-of-man-debate",
+    "sambhasha",
+    "exam"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.25",
+   "word_meanings": [
+    {
+     "sa": "कालजः तु एव",
+     "iast": "kālajaḥ tu eva",
+     "en": "born of time alone",
+     "hi": "काल से ही उत्पन्न"
+    },
+    {
+     "sa": "पुरुषः",
+     "iast": "puruṣaḥ",
+     "en": "the person",
+     "hi": "पुरुष"
+    },
+    {
+     "sa": "कालजाः तस्य च आमयाः",
+     "iast": "kālajāḥ tasya ca āmayāḥ",
+     "en": "and his diseases born of time",
+     "hi": "और उसके रोग भी कालज"
+    },
+    {
+     "sa": "जगत्",
+     "iast": "jagat",
+     "en": "the world",
+     "hi": "जगत"
+    },
+    {
+     "sa": "कालवशम् सर्वम्",
+     "iast": "kālavaśam sarvam",
+     "en": "all under the control of time",
+     "hi": "सब काल के वश में"
+    },
+    {
+     "sa": "कालः सर्वत्र कारणम्",
+     "iast": "kālaḥ sarvatra kāraṇam",
+     "en": "time is the cause everywhere",
+     "hi": "काल ही सर्वत्र कारण है"
+    }
+   ],
+   "english": "'The person is born of time (kāla) alone, and so are his diseases; the whole world is under the control of time, and time is the cause everywhere.'",
+   "hindi": "'पुरुष काल से ही उत्पन्न है और उसके रोग भी कालज हैं; सम्पूर्ण जगत काल के वश में है, काल ही सर्वत्र कारण है।'",
+   "explanation_en": "Ninth view (Bhikṣu Ātreya): kāla (time) is the cause. Remember: Bhikṣu Ātreya → kāla. This completes the nine theories; Punarvasu then gives the conclusion.",
+   "explanation_hi": "नौवाँ मत (भिक्षु आत्रेय): काल कारण है। याद रखें: भिक्षु आत्रेय → काल। इसके साथ नौ मत पूरे होते हैं; फिर पुनर्वसु निष्कर्ष देते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "kāla",
+    "kālaja",
+    "Bhikṣu Ātreya"
+   ],
+   "tags": [
+    "origin-of-man-debate",
+    "sambhasha"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.26",
+   "word_meanings": [
+    {
+     "sa": "तथा ऋषीणाम् विवदताम्",
+     "iast": "tathā ṛṣīṇām vivadatām",
+     "en": "while the sages were disputing thus",
+     "hi": "ऋषियों के इस प्रकार विवाद करते समय"
+    },
+    {
+     "sa": "उवाच इदम् पुनर्वसुः",
+     "iast": "uvāca idam punarvasuḥ",
+     "en": "Punarvasu said this",
+     "hi": "पुनर्वसु ने यह कहा"
+    },
+    {
+     "sa": "मा एवम् वोचत",
+     "iast": "mā evam vocata",
+     "en": "do not speak thus",
+     "hi": "ऐसा मत कहिए"
+    },
+    {
+     "sa": "तत्त्वम् हि दुष्प्रापम्",
+     "iast": "tattvam hi duṣprāpam",
+     "en": "for truth is hard to reach",
+     "hi": "क्योंकि तत्त्व कठिनता से मिलता है"
+    },
+    {
+     "sa": "पक्षसंश्रयात्",
+     "iast": "pakṣasaṃśrayāt",
+     "en": "by clinging to one side (partisanship)",
+     "hi": "पक्षपात (एक पक्ष पकड़ने) से"
+    }
+   ],
+   "english": "While the sages were disputing thus, Punarvasu said: 'Do not speak like this; truth is hard to reach by clinging to one side.'",
+   "hindi": "ऋषियों के इस प्रकार विवाद करते समय पुनर्वसु ने कहा: 'ऐसा मत कहिए; एक पक्ष को पकड़े रहने से तत्त्व (सत्य) कठिनता से मिलता है।'",
+   "explanation_en": "Punarvasu warns against partisanship (pakṣa-saṃśraya). Each sage held one single cause; the truth is that causation is multifactorial. This verse is quoted to show Ayurveda's scientific attitude.",
+   "explanation_hi": "पुनर्वसु पक्षपात (पक्ष-संश्रय) के विरुद्ध चेतावनी देते हैं। प्रत्येक ऋषि ने एक ही कारण पकड़ा; सत्य यह है कि कारणता बहुकारकीय है। यह श्लोक आयुर्वेद की वैज्ञानिक दृष्टि दिखाने के लिए उद्धृत होता है।",
+   "modern_correlation": {
+    "en": "The warning against single-cause thinking parallels the modern recognition that most chronic diseases are multifactorial and that confirmation bias hinders scientific progress.",
+    "hi": "एक-कारण वाली सोच के विरुद्ध यह चेतावनी आधुनिक समझ से मिलती है कि अधिकांश दीर्घकालिक रोग बहुकारकीय हैं और पूर्वाग्रह (कन्फर्मेशन बायस) वैज्ञानिक प्रगति में बाधक है।"
+   },
+   "key_terms": [
+    "pakṣasaṃśraya",
+    "tattva"
+   ],
+   "tags": [
+    "origin-of-man-debate",
+    "sambhasha",
+    "scientific-method",
+    "quotable"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.27",
+   "word_meanings": [
+    {
+     "sa": "वादान् सप्रतिवादान् हि",
+     "iast": "vādān saprativādān hi",
+     "en": "arguments with counter-arguments",
+     "hi": "वाद और प्रतिवाद"
+    },
+    {
+     "sa": "वदन्तः",
+     "iast": "vadantaḥ",
+     "en": "those speaking",
+     "hi": "बोलते हुए"
+    },
+    {
+     "sa": "निश्चितान् इव",
+     "iast": "niścitān iva",
+     "en": "as if certain",
+     "hi": "मानो निश्चित हों"
+    },
+    {
+     "sa": "पक्षान्तम्",
+     "iast": "pakṣāntam",
+     "en": "the end of the matter",
+     "hi": "पक्ष के अन्त तक"
+    },
+    {
+     "sa": "न एव गच्छन्ति",
+     "iast": "na eva gacchanti",
+     "en": "never reach",
+     "hi": "कभी नहीं पहुँचते"
+    },
+    {
+     "sa": "तिलपीडकवत्",
+     "iast": "tilapīḍakavat",
+     "en": "like an oil-presser (or his bullock)",
+     "hi": "तेली (कोल्हू के बैल) की तरह"
+    },
+    {
+     "sa": "गतौ",
+     "iast": "gatau",
+     "en": "in movement",
+     "hi": "गति में"
+    }
+   ],
+   "english": "'Those who put forth arguments and counter-arguments as if they were certain never reach the end of the matter, like the oil-presser's bullock that goes round and round.'",
+   "hindi": "'जो वाद और प्रतिवाद को मानो निश्चित मानकर बोलते हैं, वे कभी विषय के अन्त तक नहीं पहुँचते, जैसे कोल्हू का बैल गोल-गोल घूमता रहता है।'",
+   "explanation_en": "The memorable simile of the oil-press (tilapīḍaka): endless partisan debate goes in circles without progress. Good for quoting in answers on vāda and scientific discussion.",
+   "explanation_hi": "कोल्हू (तिलपीडक) की यादगार उपमा: पक्षपातपूर्ण अन्तहीन बहस बिना प्रगति के गोल-गोल घूमती है। वाद और वैज्ञानिक चर्चा पर उत्तरों में उद्धृत करने योग्य।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vāda",
+    "prativāda",
+    "tilapīḍaka"
+   ],
+   "tags": [
+    "origin-of-man-debate",
+    "sambhasha",
+    "scientific-method",
+    "simile"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.28",
+   "word_meanings": [
+    {
+     "sa": "मुक्त्वा एवम्",
+     "iast": "muktvā evam",
+     "en": "giving up thus",
+     "hi": "इस प्रकार छोड़कर"
+    },
+    {
+     "sa": "वादसंघट्टम्",
+     "iast": "vādasaṃghaṭṭam",
+     "en": "the clash of arguments",
+     "hi": "वाद का टकराव"
+    },
+    {
+     "sa": "अध्यात्मम्",
+     "iast": "adhyātmam",
+     "en": "the inner truth, the self",
+     "hi": "अध्यात्म (आन्तरिक तत्त्व)"
+    },
+    {
+     "sa": "अनुचिन्त्यताम्",
+     "iast": "anucintyatām",
+     "en": "should be contemplated",
+     "hi": "चिन्तन करना चाहिए"
+    },
+    {
+     "sa": "न अविधूते",
+     "iast": "na avidhūte",
+     "en": "not when not shaken off",
+     "hi": "दूर किए बिना नहीं"
+    },
+    {
+     "sa": "तमःस्कन्धे",
+     "iast": "tamaḥskandhe",
+     "en": "the mass of darkness (ignorance)",
+     "hi": "अज्ञान के अन्धकार-पुंज को"
+    },
+    {
+     "sa": "ज्ञेये",
+     "iast": "jñeye",
+     "en": "in the object of knowledge",
+     "hi": "ज्ञेय विषय में"
+    },
+    {
+     "sa": "ज्ञानम् प्रवर्तते",
+     "iast": "jñānam pravartate",
+     "en": "knowledge arises",
+     "hi": "ज्ञान प्रवृत्त होता है"
+    }
+   ],
+   "english": "'Giving up this clash of arguments, reflect on the inner truth (adhyātma); knowledge of what is to be known does not arise until the mass of darkness (ignorance) is shaken off.'",
+   "hindi": "'इस वाद के टकराव को छोड़कर अध्यात्म (आन्तरिक तत्त्व) का चिन्तन कीजिए; अज्ञान रूपी अन्धकार के दूर हुए बिना ज्ञेय विषय का ज्ञान उत्पन्न नहीं होता।'",
+   "explanation_en": "Punarvasu asks the sages to drop prejudice (tamas) and examine the matter calmly. Clearing the mind is presented as a precondition for real knowledge.",
+   "explanation_hi": "पुनर्वसु ऋषियों से पूर्वाग्रह (तम) छोड़कर शान्ति से विषय की परीक्षा करने को कहते हैं। मन को स्वच्छ करना सच्चे ज्ञान की पूर्व-शर्त है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "adhyātma",
+    "tamas",
+    "jñāna"
+   ],
+   "tags": [
+    "origin-of-man-debate",
+    "sambhasha"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.29",
+   "word_meanings": [
+    {
+     "sa": "येषाम् एव हि भावानाम्",
+     "iast": "yeṣām eva hi bhāvānām",
+     "en": "of whichever factors",
+     "hi": "जिन भावों (कारकों) की"
+    },
+    {
+     "sa": "संपत्",
+     "iast": "saṃpat",
+     "en": "wholesome state, proper combination",
+     "hi": "सम्पत् (उचित/सम्यक् अवस्था)"
+    },
+    {
+     "sa": "संजनयेत् नरम्",
+     "iast": "saṃjanayet naram",
+     "en": "produces the person",
+     "hi": "मनुष्य को उत्पन्न करती है"
+    },
+    {
+     "sa": "तेषाम् एव विपत्",
+     "iast": "teṣām eva vipat",
+     "en": "the unwholesome state of the same",
+     "hi": "उन्हीं की विपत् (विकृत अवस्था)"
+    },
+    {
+     "sa": "व्याधीन् विविधान्",
+     "iast": "vyādhīn vividhān",
+     "en": "various diseases",
+     "hi": "अनेक प्रकार के रोग"
+    },
+    {
+     "sa": "समुदीरयेत्",
+     "iast": "samudīrayet",
+     "en": "produces",
+     "hi": "उत्पन्न करती है"
+    }
+   ],
+   "english": "'The very factors whose wholesome state (saṃpat) produces the person, produce various diseases when they are in an unwholesome state (vipat).'",
+   "hindi": "'जिन भावों (कारकों) की सम्पत् (सम्यक् अवस्था) मनुष्य को उत्पन्न करती है, उन्हीं की विपत् (विकृत अवस्था) अनेक प्रकार के रोग उत्पन्न करती है।'",
+   "explanation_en": "This is Punarvasu Ātreya's conclusion (siddhānta) and the answer to the chapter's question: the person and his diseases come from the same set of factors (ātman, mind, rasa, parents, karma, etc.), but in different states - saṃpat gives health and birth, vipat gives disease. Very commonly asked: 'What is Ātreya's final view in the Yajjaḥpuruṣīya debate?'",
+   "explanation_hi": "यह पुनर्वसु आत्रेय का सिद्धान्त है और अध्याय के प्रश्न का उत्तर: पुरुष और उसके रोग उन्हीं कारकों (आत्मा, मन, रस, माता-पिता, कर्म आदि) से आते हैं, पर भिन्न अवस्था में - सम्पत् से जन्म और स्वास्थ्य, विपत् से रोग। बहुत पूछा जाता है: 'यज्जःपुरुषीय विवाद में आत्रेय का अन्तिम मत क्या है?'",
+   "modern_correlation": {
+    "en": "This multifactorial view resembles the modern understanding that the same determinants (genes, nutrition, environment, behaviour, time) that support normal development can, when disturbed, lead to disease. The parallel is conceptual.",
+    "hi": "यह बहुकारकीय दृष्टि आधुनिक समझ से मिलती है कि वही निर्धारक (जीन, पोषण, पर्यावरण, व्यवहार, समय) जो सामान्य विकास में सहायक हैं, बिगड़ने पर रोग का कारण बनते हैं। यह समानता वैचारिक है।"
+   },
+   "key_terms": [
+    "saṃpat",
+    "vipat",
+    "siddhānta",
+    "multifactorial causation"
+   ],
+   "tags": [
+    "origin-of-man-debate",
+    "sambhasha",
+    "exam",
+    "siddhanta"
+   ],
+   "importance": "high",
+   "mnemonic": "Same factors: Saṃpat → Saṃjanana (birth/health); Vipat → Vyādhi (disease)",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.30",
+   "word_meanings": [
+    {
+     "sa": "अथ",
+     "iast": "atha",
+     "en": "then",
+     "hi": "तब"
+    },
+    {
+     "sa": "आत्रेयस्य भगवतः",
+     "iast": "ātreyasya bhagavataḥ",
+     "en": "of the revered Ātreya",
+     "hi": "भगवान आत्रेय के"
+    },
+    {
+     "sa": "वचनम् अनुनिशम्य",
+     "iast": "vacanam anuniśamya",
+     "en": "having heard the words",
+     "hi": "वचन सुनकर"
+    },
+    {
+     "sa": "पुनः एव",
+     "iast": "punaḥ eva",
+     "en": "again",
+     "hi": "फिर से"
+    },
+    {
+     "sa": "वामकः काशिपतिः",
+     "iast": "vāmakaḥ kāśipatiḥ",
+     "en": "Vāmaka, king of Kāśī",
+     "hi": "काशीराज वामक"
+    },
+    {
+     "sa": "उवाच",
+     "iast": "uvāca",
+     "en": "said",
+     "hi": "बोले"
+    },
+    {
+     "sa": "भगवन्",
+     "iast": "bhagavan",
+     "en": "O lord",
+     "hi": "हे भगवन्"
+    },
+    {
+     "sa": "संपन्निमित्तजस्य पुरुषस्य",
+     "iast": "saṃpannimittajasya puruṣasya",
+     "en": "of the person born from wholesome factors",
+     "hi": "सम्यक् कारणों से उत्पन्न पुरुष की"
+    },
+    {
+     "sa": "विपन्निमित्तजानाम् च रोगाणाम्",
+     "iast": "vipannimittajānām ca rogāṇām",
+     "en": "and of diseases born from unwholesome factors",
+     "hi": "और विकृत कारणों से उत्पन्न रोगों की"
+    },
+    {
+     "sa": "किम्",
+     "iast": "kim",
+     "en": "what",
+     "hi": "क्या"
+    },
+    {
+     "sa": "अभिवृद्धिकारणम्",
+     "iast": "abhivṛddhikāraṇam",
+     "en": "cause of growth (increase)",
+     "hi": "वृद्धि का कारण"
+    }
+   ],
+   "english": "Then, having heard the words of the revered Ātreya, Vāmaka, king of Kāśī, again asked him: 'Lord, what causes the growth of the person born of wholesome factors, and of the diseases born of unwholesome factors?'",
+   "hindi": "तब भगवान आत्रेय के वचन सुनकर काशीराज वामक ने फिर पूछा: 'भगवन्, सम्यक् कारणों से उत्पन्न पुरुष की और विकृत कारणों से उत्पन्न रोगों की वृद्धि का कारण क्या है?'",
+   "explanation_en": "Having accepted that the same factors in saṃpat or vipat produce the person or disease, the king asks a practical follow-up: what makes each grow? This turns the chapter from philosophy to diet.",
+   "explanation_hi": "यह स्वीकार कर लेने के बाद कि वही कारक सम्पत् या विपत् में पुरुष या रोग उत्पन्न करते हैं, राजा व्यावहारिक प्रश्न पूछते हैं: प्रत्येक की वृद्धि किससे होती है? यहाँ से अध्याय दर्शन से आहार की ओर मुड़ता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "saṃpannimitta",
+    "vipannimitta",
+    "abhivṛddhi"
+   ],
+   "tags": [
+    "origin-of-man-debate",
+    "ahara"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.31",
+   "word_meanings": [
+    {
+     "sa": "तम् उवाच भगवान् आत्रेयः",
+     "iast": "tam uvāca bhagavān ātreyaḥ",
+     "en": "the revered Ātreya said to him",
+     "hi": "भगवान आत्रेय ने उनसे कहा"
+    },
+    {
+     "sa": "हित आहार उपयोगः",
+     "iast": "hita āhāra upayogaḥ",
+     "en": "use of wholesome food",
+     "hi": "हित आहार का सेवन"
+    },
+    {
+     "sa": "एकः एव",
+     "iast": "ekaḥ eva",
+     "en": "alone, the one",
+     "hi": "एक ही"
+    },
+    {
+     "sa": "पुरुषवृद्धिकरः भवति",
+     "iast": "puruṣavṛddhikaraḥ bhavati",
+     "en": "is the cause of the person's growth",
+     "hi": "पुरुष की वृद्धि करने वाला है"
+    },
+    {
+     "sa": "अहित आहार उपयोगः",
+     "iast": "ahita āhāra upayogaḥ",
+     "en": "use of unwholesome food",
+     "hi": "अहित आहार का सेवन"
+    },
+    {
+     "sa": "पुनः",
+     "iast": "punaḥ",
+     "en": "on the other hand",
+     "hi": "और"
+    },
+    {
+     "sa": "व्याधिनिमित्तम्",
+     "iast": "vyādhinimittam",
+     "en": "the cause of disease",
+     "hi": "रोग का कारण"
+    }
+   ],
+   "english": "The revered Ātreya replied: 'The use of wholesome food (hitāhāra) alone causes the growth of the person, and the use of unwholesome food (ahitāhāra) is the cause of disease.'",
+   "hindi": "भगवान आत्रेय ने उत्तर दिया: 'हित आहार का सेवन ही पुरुष की वृद्धि करता है, और अहित आहार का सेवन रोग का कारण है।'",
+   "explanation_en": "A key quotable line: 'hitāhāropayoga eka eva puruṣavṛddhikaraḥ, ahitāhāropayogaḥ punar vyādhinimittam'. It establishes diet as the main modifiable factor for health and disease and introduces the theme of the Annapāna catuṣka.",
+   "explanation_hi": "महत्त्वपूर्ण उद्धरण: 'हिताहारोपयोग एक एव पुरुषवृद्धिकरः, अहिताहारोपयोगः पुनर्व्याधिनिमित्तम्'। यह आहार को स्वास्थ्य और रोग का मुख्य परिवर्तनीय कारक बताता है और अन्नपान चतुष्क का विषय आरम्भ करता है।",
+   "modern_correlation": {
+    "en": "Modern epidemiology identifies diet as one of the major modifiable risk factors for chronic diseases such as obesity, type 2 diabetes and cardiovascular disease, while recognising other contributors as well.",
+    "hi": "आधुनिक महामारी-विज्ञान आहार को मोटापा, टाइप 2 डायबिटीज़ और हृदय रोग जैसे दीर्घकालिक रोगों के प्रमुख परिवर्तनीय जोखिम-कारकों में मानता है, साथ ही अन्य कारकों को भी स्वीकार करता है।"
+   },
+   "key_terms": [
+    "hitāhāra",
+    "ahitāhāra",
+    "puruṣavṛddhi"
+   ],
+   "tags": [
+    "ahara",
+    "quotable",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Hita āhāra → vṛddhi (growth); Ahita āhāra → vyādhi (disease)",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.32",
+   "word_meanings": [
+    {
+     "sa": "एवंवादिनम्",
+     "iast": "evaṃvādinam",
+     "en": "to him speaking thus",
+     "hi": "ऐसा कहने वाले"
+    },
+    {
+     "sa": "भगवन्तम् आत्रेयम्",
+     "iast": "bhagavantam ātreyam",
+     "en": "to the revered Ātreya",
+     "hi": "भगवान आत्रेय से"
+    },
+    {
+     "sa": "अग्निवेशः उवाच",
+     "iast": "agniveśaḥ uvāca",
+     "en": "Agniveśa said",
+     "hi": "अग्निवेश ने कहा"
+    },
+    {
+     "sa": "कथम् इह",
+     "iast": "katham iha",
+     "en": "how here",
+     "hi": "यहाँ कैसे"
+    },
+    {
+     "sa": "हित अहितानाम् आहारजातानाम्",
+     "iast": "hita ahitānām āhārajātānām",
+     "en": "of wholesome and unwholesome kinds of food",
+     "hi": "हित और अहित आहार-द्रव्यों का"
+    },
+    {
+     "sa": "लक्षणम् अनपवादम्",
+     "iast": "lakṣaṇam anapavādam",
+     "en": "a definition without exception",
+     "hi": "निर्दोष (अपवाद रहित) लक्षण"
+    },
+    {
+     "sa": "अभिजानीमहे",
+     "iast": "abhijānīmahe",
+     "en": "may we know",
+     "hi": "हम जानें"
+    },
+    {
+     "sa": "हितसमाख्यातानाम्",
+     "iast": "hitasamākhyātānām",
+     "en": "of those called wholesome",
+     "hi": "हित कहे गए"
+    },
+    {
+     "sa": "अहितसमाख्यातानाम् च",
+     "iast": "ahitasamākhyātānām ca",
+     "en": "and of those called unwholesome",
+     "hi": "और अहित कहे गए"
+    },
+    {
+     "sa": "मात्रा काल क्रिया भूमि देह दोष पुरुषावस्था अन्तरेषु",
+     "iast": "mātrā kāla kriyā bhūmi deha doṣa puruṣāvasthā antareṣu",
+     "en": "in different dose, time, preparation, place, body, doṣa and state of the person",
+     "hi": "मात्रा, काल, क्रिया, भूमि, देह, दोष और पुरुष की अवस्था के भेद में"
+    },
+    {
+     "sa": "विपरीतकारित्वम्",
+     "iast": "viparītakāritvam",
+     "en": "contrary action",
+     "hi": "विपरीत कार्य करना"
+    },
+    {
+     "sa": "उपलभामहे",
+     "iast": "upalabhāmahe",
+     "en": "we observe",
+     "hi": "हम देखते हैं"
+    }
+   ],
+   "english": "To the revered Ātreya speaking thus, Agniveśa said: 'Lord, how can we know a definition of wholesome and unwholesome foods that has no exceptions? For we observe that foods called wholesome and those called unwholesome act in the opposite way when dose, time, method of preparation, place, body, doṣa and the state of the person differ.'",
+   "hindi": "ऐसा कहने वाले भगवान आत्रेय से अग्निवेश ने कहा: 'भगवन्, हित और अहित आहार का अपवाद-रहित लक्षण हम कैसे जानें? क्योंकि हम देखते हैं कि हित कहे गए और अहित कहे गए आहार मात्रा, काल, क्रिया (संस्कार), भूमि, देह, दोष और पुरुष की अवस्था बदलने पर विपरीत कार्य करते हैं।'",
+   "explanation_en": "Agniveśa raises a sharp objection: wholesomeness is relative. The seven modifiers (mātrā, kāla, kriyā, bhūmi, deha, doṣa, puruṣāvasthā) can reverse the effect of a food. This anticipates the concept of individualised diet.",
+   "explanation_hi": "अग्निवेश तीखी आपत्ति उठाते हैं: हितकरता सापेक्ष है। सात परिवर्तक (मात्रा, काल, क्रिया, भूमि, देह, दोष, पुरुषावस्था) आहार के प्रभाव को उलट सकते हैं। यह व्यक्ति-विशेष आहार की अवधारणा का पूर्वाभास है।",
+   "modern_correlation": {
+    "en": "The observation that the same food can help one person and harm another, depending on dose, timing, preparation and individual state, parallels modern ideas of dose-response and personalised (precision) nutrition.",
+    "hi": "यह अवलोकन कि एक ही आहार मात्रा, समय, बनाने की विधि और व्यक्ति की अवस्था के अनुसार किसी को लाभ और किसी को हानि दे सकता है, आधुनिक डोज़-रिस्पॉन्स और व्यक्तिगत (प्रिसिज़न) पोषण की धारणाओं से मिलता है।"
+   },
+   "key_terms": [
+    "hitāhita lakṣaṇa",
+    "mātrā",
+    "kāla",
+    "kriyā",
+    "bhūmi",
+    "puruṣāvasthā"
+   ],
+   "tags": [
+    "ahara",
+    "pathya"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.33",
+   "word_meanings": [
+    {
+     "sa": "तम् उवाच भगवान् आत्रेयः",
+     "iast": "tam uvāca bhagavān ātreyaḥ",
+     "en": "the revered Ātreya said to him",
+     "hi": "भगवान आत्रेय ने कहा"
+    },
+    {
+     "sa": "यत् आहारजातम्",
+     "iast": "yat āhārajātam",
+     "en": "whatever food",
+     "hi": "जो आहार-द्रव्य"
+    },
+    {
+     "sa": "अग्निवेश",
+     "iast": "agniveśa",
+     "en": "O Agniveśa",
+     "hi": "हे अग्निवेश"
+    },
+    {
+     "sa": "समान् च एव शरीरधातून्",
+     "iast": "samān ca eva śarīradhātūn",
+     "en": "the balanced bodily dhātus",
+     "hi": "सम अवस्था वाली शरीर-धातुओं को"
+    },
+    {
+     "sa": "प्रकृतौ स्थापयति",
+     "iast": "prakṛtau sthāpayati",
+     "en": "maintains in their normal state",
+     "hi": "प्राकृत अवस्था में बनाए रखता है"
+    },
+    {
+     "sa": "विषमान् च",
+     "iast": "viṣamān ca",
+     "en": "and the imbalanced ones",
+     "hi": "और विषम धातुओं को"
+    },
+    {
+     "sa": "समीकरोति",
+     "iast": "samīkaroti",
+     "en": "brings to balance",
+     "hi": "सम करता है"
+    },
+    {
+     "sa": "इति एतत् हितम् विद्धि",
+     "iast": "iti etat hitam viddhi",
+     "en": "know this to be wholesome",
+     "hi": "इसे हित जानो"
+    },
+    {
+     "sa": "विपरीतम् तु अहितम्",
+     "iast": "viparītam tu ahitam",
+     "en": "the opposite is unwholesome",
+     "hi": "विपरीत अहित है"
+    },
+    {
+     "sa": "इति एतत् हिताहितलक्षणम्",
+     "iast": "iti etat hitāhitalakṣaṇam",
+     "en": "this is the definition of wholesome and unwholesome",
+     "hi": "यह हित-अहित का लक्षण है"
+    },
+    {
+     "sa": "अनपवादम् भवति",
+     "iast": "anapavādam bhavati",
+     "en": "is without exception",
+     "hi": "अपवाद-रहित है"
+    }
+   ],
+   "english": "The revered Ātreya replied: 'Agniveśa, know that food to be wholesome (hita) which keeps the balanced bodily dhātus in their normal state and brings the imbalanced ones back to balance; the opposite is unwholesome. This is the definition of wholesome and unwholesome that has no exception.'",
+   "hindi": "भगवान आत्रेय ने कहा: 'अग्निवेश, जो आहार सम धातुओं को प्राकृत अवस्था में बनाए रखे और विषम धातुओं को सम करे, उसे हित जानो; इसके विपरीत अहित है। यही हित-अहित का अपवाद-रहित लक्षण है।'",
+   "explanation_en": "This is the classical definition of pathya (hitāhāra): a functional definition, not a list. Food is wholesome if, for that person and context, it preserves balance (svāsthya rakṣaṇa) and restores balance (vikāra praśamana). Very frequently asked as a definition question.",
+   "explanation_hi": "यह पथ्य (हिताहार) की शास्त्रीय परिभाषा है: सूची नहीं, कार्य-आधारित परिभाषा। आहार हित है यदि उस व्यक्ति और सन्दर्भ में वह सन्तुलन बनाए रखे (स्वास्थ्य रक्षण) और सन्तुलन लौटाए (विकार प्रशमन)। परिभाषा प्रश्न के रूप में बहुत पूछा जाता है।",
+   "modern_correlation": {
+    "en": "Defining a healthy diet by its effect on maintaining or restoring physiological balance, rather than by fixed food lists, is conceptually similar to the modern emphasis on outcomes and individual needs in clinical nutrition.",
+    "hi": "स्वस्थ आहार को निश्चित सूची के बजाय शारीरिक सन्तुलन बनाए रखने या लौटाने के प्रभाव से परिभाषित करना, क्लिनिकल न्यूट्रिशन में परिणाम और व्यक्तिगत आवश्यकता पर दिए जाने वाले आधुनिक बल से वैचारिक रूप से मिलता है।"
+   },
+   "key_terms": [
+    "hitāhāra",
+    "pathya",
+    "dhātusāmya",
+    "ahitāhāra"
+   ],
+   "tags": [
+    "ahara",
+    "pathya",
+    "definitions",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Hita = keeps sama dhātus sama + makes viṣama dhātus sama",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.34",
+   "word_meanings": [
+    {
+     "sa": "एवंवादिनम् च",
+     "iast": "evaṃvādinam ca",
+     "en": "and to him speaking thus",
+     "hi": "और ऐसा कहने वाले"
+    },
+    {
+     "sa": "भगवन्तम् आत्रेयम् अग्निवेशः उवाच",
+     "iast": "bhagavantam ātreyam agniveśaḥ uvāca",
+     "en": "Agniveśa said to the revered Ātreya",
+     "hi": "अग्निवेश ने भगवान आत्रेय से कहा"
+    },
+    {
+     "sa": "भगवन्",
+     "iast": "bhagavan",
+     "en": "O lord",
+     "hi": "भगवन्"
+    },
+    {
+     "sa": "न तु एतत् एवम् उपदिष्टम्",
+     "iast": "na tu etat evam upadiṣṭam",
+     "en": "but this, taught in this way",
+     "hi": "परन्तु इस प्रकार बताया गया यह"
+    },
+    {
+     "sa": "भूयिष्ठकल्पाः",
+     "iast": "bhūyiṣṭhakalpāḥ",
+     "en": "the majority, ordinary",
+     "hi": "अधिकांश, सामान्य"
+    },
+    {
+     "sa": "सर्वभिषजः",
+     "iast": "sarvabhiṣajaḥ",
+     "en": "all physicians",
+     "hi": "सभी वैद्य"
+    },
+    {
+     "sa": "विज्ञास्यन्ति",
+     "iast": "vijñāsyanti",
+     "en": "will (not) understand",
+     "hi": "(नहीं) समझेंगे"
+    }
+   ],
+   "english": "And to the revered Ātreya speaking thus, Agniveśa said: 'Lord, taught in this (brief) way, most ordinary physicians will not understand it.'",
+   "hindi": "और ऐसा कहने वाले भगवान आत्रेय से अग्निवेश ने कहा: 'भगवन्, इस प्रकार (संक्षेप में) बताया गया यह विषय अधिकांश सामान्य वैद्य नहीं समझ पाएँगे।'",
+   "explanation_en": "Agniveśa asks for a practical explanation suited to average physicians. The definition is correct but abstract; this request leads to the classification of food and the lists of best and worst items.",
+   "explanation_hi": "अग्निवेश सामान्य वैद्यों के लिए व्यावहारिक व्याख्या माँगते हैं। परिभाषा सही है पर अमूर्त है; इसी अनुरोध से आहार का वर्गीकरण और श्रेष्ठ-निकृष्ट द्रव्यों की सूचियाँ आती हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "bhūyiṣṭhakalpa",
+    "upadeśa"
+   ],
+   "tags": [
+    "ahara"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.35",
+   "word_meanings": [
+    {
+     "sa": "तम् उवाच भगवान् आत्रेयः",
+     "iast": "tam uvāca bhagavān ātreyaḥ",
+     "en": "the revered Ātreya said to him",
+     "hi": "भगवान आत्रेय ने कहा"
+    },
+    {
+     "sa": "येषाम् हि विदितम्",
+     "iast": "yeṣām hi viditam",
+     "en": "those by whom is known",
+     "hi": "जिन्हें ज्ञात है"
+    },
+    {
+     "sa": "आहारतत्त्वम्",
+     "iast": "āhāratattvam",
+     "en": "the true nature of food",
+     "hi": "आहार का तत्त्व"
+    },
+    {
+     "sa": "गुणतः द्रव्यतः कर्मतः",
+     "iast": "guṇataḥ dravyataḥ karmataḥ",
+     "en": "by qualities, substance and actions",
+     "hi": "गुण, द्रव्य और कर्म से"
+    },
+    {
+     "sa": "सर्वावयवशः च",
+     "iast": "sarvāvayavaśaḥ ca",
+     "en": "and in all its parts",
+     "hi": "और सभी अंगों से"
+    },
+    {
+     "sa": "मात्रादयः भावाः",
+     "iast": "mātrādayaḥ bhāvāḥ",
+     "en": "factors like dose etc.",
+     "hi": "मात्रा आदि भाव"
+    },
+    {
+     "sa": "ते एतत् एवम् उपदिष्टम्",
+     "iast": "te etat evam upadiṣṭam",
+     "en": "they, this as taught",
+     "hi": "वे इस प्रकार बताए गए को"
+    },
+    {
+     "sa": "विज्ञातुम् उत्सहन्ते",
+     "iast": "vijñātum utsahante",
+     "en": "are able to understand",
+     "hi": "समझने में समर्थ हैं"
+    },
+    {
+     "sa": "यथा तु खलु",
+     "iast": "yathā tu khalu",
+     "en": "but in such a way that",
+     "hi": "परन्तु जिस प्रकार"
+    },
+    {
+     "sa": "तथा एतत् उपदेक्ष्यामः",
+     "iast": "tathā etat upadekṣyāmaḥ",
+     "en": "so we shall teach this",
+     "hi": "उस प्रकार हम बताएँगे"
+    },
+    {
+     "sa": "मात्रादीन् भावान् अनुदाहरन्तः",
+     "iast": "mātrādīn bhāvān anudāharantaḥ",
+     "en": "without citing factors like dose",
+     "hi": "मात्रा आदि भावों का उल्लेख किए बिना"
+    },
+    {
+     "sa": "तेषाम् हि बहुविधविकल्पाः भवन्ति",
+     "iast": "teṣām hi bahuvidhavikalpāḥ bhavanti",
+     "en": "for they have many variations",
+     "hi": "क्योंकि उनके अनेक भेद होते हैं"
+    },
+    {
+     "sa": "आहारविधिविशेषान्",
+     "iast": "āhāravidhiviśeṣān",
+     "en": "the specific modes of food",
+     "hi": "आहार-विधि के विशेष भेदों को"
+    },
+    {
+     "sa": "लक्षणतः च अवयवतः च",
+     "iast": "lakṣaṇataḥ ca avayavataḥ ca",
+     "en": "by definition and by components",
+     "hi": "लक्षण और अवयव (अंग) से"
+    },
+    {
+     "sa": "अनुव्याख्यास्यामः",
+     "iast": "anuvyākhyāsyāmaḥ",
+     "en": "we shall explain",
+     "hi": "व्याख्या करेंगे"
+    }
+   ],
+   "english": "The revered Ātreya replied: 'Agniveśa, those who know the true nature of food in terms of qualities, substances and actions in all their parts, and the factors like dose, are able to understand it taught this way. But we shall teach it in a way that most physicians can understand, without citing dose and the other factors, for they have many variations. We shall explain the specific modes of food by their definitions and their components.'",
+   "hindi": "भगवान आत्रेय ने कहा: 'अग्निवेश, जिन्हें गुण, द्रव्य, कर्म और सभी अंगों सहित आहार का तत्त्व और मात्रा आदि भाव ज्ञात हैं, वे इस प्रकार बताए गए को समझ सकते हैं। परन्तु हम इसे इस प्रकार बताएँगे कि अधिकांश वैद्य समझ सकें - मात्रा आदि भावों का उल्लेख किए बिना, क्योंकि उनके अनेक भेद होते हैं। हम आहार-विधि के विशेष भेदों को लक्षण और अवयव से समझाएँगे।'",
+   "explanation_en": "Ātreya agrees to simplify: he will classify food (Su 25.36) and give the best and worst items by nature (prakṛti) (Su 25.38-39), leaving context factors aside because they vary infinitely. Note the teaching principle of adapting to the learner's level.",
+   "explanation_hi": "आत्रेय सरल करने को सहमत होते हैं: वे आहार का वर्गीकरण (सू. 25.36) और स्वभाव से श्रेष्ठ और निकृष्ट द्रव्य (सू. 25.38-39) बताएँगे, सन्दर्भ-कारकों को छोड़कर क्योंकि वे अनन्त प्रकार के हैं। शिक्षार्थी के स्तर के अनुसार पढ़ाने का सिद्धान्त ध्यान दें।",
+   "modern_correlation": null,
+   "key_terms": [
+    "āhāratattva",
+    "guṇa",
+    "dravya",
+    "karma"
+   ],
+   "tags": [
+    "ahara"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.36",
+   "word_meanings": [
+    {
+     "sa": "तद्यथा",
+     "iast": "tadyathā",
+     "en": "namely",
+     "hi": "जैसे"
+    },
+    {
+     "sa": "आहारत्वम् आहारस्य",
+     "iast": "āhāratvam āhārasya",
+     "en": "the state of being food, of food",
+     "hi": "आहार का आहारत्व"
+    },
+    {
+     "sa": "एकविधम्",
+     "iast": "ekavidham",
+     "en": "is of one kind",
+     "hi": "एक प्रकार का"
+    },
+    {
+     "sa": "अर्थाभेदात्",
+     "iast": "arthābhedāt",
+     "en": "because its purpose (being ingested) is not different",
+     "hi": "प्रयोजन में अभेद होने से"
+    },
+    {
+     "sa": "सः पुनः द्वियोनिः",
+     "iast": "saḥ punaḥ dviyoniḥ",
+     "en": "it again has two sources",
+     "hi": "वह फिर दो योनियों वाला"
+    },
+    {
+     "sa": "स्थावर जङ्गम आत्मकत्वात्",
+     "iast": "sthāvara jaṅgama ātmakatvāt",
+     "en": "being of plant and animal origin",
+     "hi": "स्थावर (वनस्पति) और जंगम (प्राणी) होने से"
+    },
+    {
+     "sa": "द्विविधप्रभावः",
+     "iast": "dvividhaprabhāvaḥ",
+     "en": "of two kinds of effect",
+     "hi": "दो प्रकार के प्रभाव वाला"
+    },
+    {
+     "sa": "हित अहित उदर्क विशेषात्",
+     "iast": "hita ahita udarka viśeṣāt",
+     "en": "by distinction of wholesome and unwholesome results",
+     "hi": "हित और अहित परिणाम के भेद से"
+    },
+    {
+     "sa": "चतुर्विधोपयोगः",
+     "iast": "caturvidhopayogaḥ",
+     "en": "of four modes of intake",
+     "hi": "चार प्रकार के उपयोग वाला"
+    },
+    {
+     "sa": "पान अशन भक्ष्य लेह्य उपयोगात्",
+     "iast": "pāna aśana bhakṣya lehya upayogāt",
+     "en": "by drinking, eating soft food, chewing and licking",
+     "hi": "पान, अशन, भक्ष्य और लेह्य के उपयोग से"
+    },
+    {
+     "sa": "षडास्वादः",
+     "iast": "ṣaḍāsvādaḥ",
+     "en": "of six tastes",
+     "hi": "छह स्वाद वाला"
+    },
+    {
+     "sa": "रसभेदतः षड्विधत्वात्",
+     "iast": "rasabhedataḥ ṣaḍvidhatvāt",
+     "en": "because rasa is of six kinds",
+     "hi": "रसों के छह भेद होने से"
+    },
+    {
+     "sa": "विंशतिगुणः",
+     "iast": "viṃśatiguṇaḥ",
+     "en": "of twenty qualities",
+     "hi": "बीस गुणों वाला"
+    },
+    {
+     "sa": "गुरु लघु शीत उष्ण स्निग्ध रूक्ष",
+     "iast": "guru laghu śīta uṣṇa snigdha rūkṣa",
+     "en": "heavy, light, cold, hot, unctuous, dry",
+     "hi": "गुरु, लघु, शीत, उष्ण, स्निग्ध, रूक्ष"
+    },
+    {
+     "sa": "मन्द तीक्ष्ण स्थिर सर मृदु कठिन",
+     "iast": "manda tīkṣṇa sthira sara mṛdu kaṭhina",
+     "en": "dull, sharp, stable, mobile, soft, hard",
+     "hi": "मन्द, तीक्ष्ण, स्थिर, सर, मृदु, कठिन"
+    },
+    {
+     "sa": "विशद पिच्छिल श्लक्ष्ण खर",
+     "iast": "viśada picchila ślakṣṇa khara",
+     "en": "non-slimy, slimy, smooth, rough",
+     "hi": "विशद, पिच्छिल, श्लक्ष्ण, खर"
+    },
+    {
+     "sa": "सूक्ष्म स्थूल सान्द्र द्रव",
+     "iast": "sūkṣma sthūla sāndra drava",
+     "en": "subtle, gross, dense, liquid",
+     "hi": "सूक्ष्म, स्थूल, सान्द्र, द्रव"
+    },
+    {
+     "sa": "अनुगमात्",
+     "iast": "anugamāt",
+     "en": "because of possessing",
+     "hi": "युक्त होने से"
+    },
+    {
+     "sa": "अपरिसंख्येयविकल्पः",
+     "iast": "aparisaṃkhyeyavikalpaḥ",
+     "en": "of countless varieties",
+     "hi": "असंख्य भेदों वाला"
+    },
+    {
+     "sa": "द्रव्य संयोग करण बाहुल्यात्",
+     "iast": "dravya saṃyoga karaṇa bāhulyāt",
+     "en": "because of the multitude of substances, combinations and preparations",
+     "hi": "द्रव्य, संयोग और संस्कार की बहुलता से"
+    }
+   ],
+   "english": "Namely: as food, food is of one kind, since its purpose (being taken in) is the same. It has two sources, being of plant (sthāvara) or animal (jaṅgama) origin. It has two kinds of effect, according to its wholesome or unwholesome results. It has four modes of use: drinks (pāna), soft eatables (aśana), chewables (bhakṣya) and lickables (lehya). It has six tastes, since rasa is of six kinds. It has twenty qualities, since it may be heavy, light, cold, hot, unctuous, dry, dull, sharp, stable, mobile, soft, hard, non-slimy, slimy, smooth, rough, subtle, gross, dense and liquid. And it has countless varieties because of the multitude of substances, combinations and methods of preparation.",
+   "hindi": "जैसे: आहार के रूप में आहार एक प्रकार का है, क्योंकि प्रयोजन (ग्रहण किया जाना) एक है। योनि से दो प्रकार का - स्थावर (वनस्पति) और जंगम (प्राणिज)। प्रभाव से दो प्रकार का - हित और अहित परिणाम के अनुसार। उपयोग से चार प्रकार का - पान (पेय), अशन (खाद्य), भक्ष्य (चबाने योग्य) और लेह्य (चाटने योग्य)। स्वाद से छह प्रकार का, क्योंकि रस छह हैं। गुण से बीस प्रकार का - गुरु, लघु, शीत, उष्ण, स्निग्ध, रूक्ष, मन्द, तीक्ष्ण, स्थिर, सर, मृदु, कठिन, विशद, पिच्छिल, श्लक्ष्ण, खर, सूक्ष्म, स्थूल, सान्द्र, द्रव। और द्रव्य, संयोग और संस्कार की बहुलता से असंख्य प्रकार का।",
+   "explanation_en": "A classic exam question: classification of āhāra - 1 (āhāratva), 2 (yoni: sthāvara/jaṅgama), 2 (prabhāva: hita/ahita), 4 (upayoga: pāna, aśana, bhakṣya, lehya), 6 (rasa), 20 (gurvādi guṇa), countless (by dravya, saṃyoga, karaṇa). Compare the 1-2-2-4-countless pattern of disease in Su 20.3. The 20 guṇas are given here as 10 opposite pairs.",
+   "explanation_hi": "परीक्षा का प्रसिद्ध प्रश्न: आहार का वर्गीकरण - 1 (आहारत्व), 2 (योनि: स्थावर/जंगम), 2 (प्रभाव: हित/अहित), 4 (उपयोग: पान, अशन, भक्ष्य, लेह्य), 6 (रस), 20 (गुर्वादि गुण), असंख्य (द्रव्य, संयोग, करण से)। सू. 20.3 के रोग वर्गीकरण 1-2-2-4-असंख्य से तुलना करें। 20 गुण यहाँ 10 विपरीत जोड़ों में दिए गए हैं।",
+   "modern_correlation": {
+    "en": "Classifying foods by source (plant vs animal), physical form (liquid, soft, solid, semi-solid), taste and physical properties has loose parallels in food science (food groups, texture and rheology, sensory science), though the guṇa system is a distinct conceptual framework.",
+    "hi": "आहार को स्रोत (वनस्पति/प्राणिज), भौतिक रूप (द्रव, मृदु, ठोस, अर्ध-ठोस), स्वाद और भौतिक गुणों से वर्गीकृत करना फ़ूड साइंस (फ़ूड ग्रुप, टेक्सचर, सेंसरी साइंस) से कुछ मिलता है, यद्यपि गुण-प्रणाली एक अलग वैचारिक ढाँचा है।"
+   },
+   "key_terms": [
+    "āhāra vargīkaraṇa",
+    "sthāvara",
+    "jaṅgama",
+    "pāna",
+    "aśana",
+    "bhakṣya",
+    "lehya",
+    "gurvādi guṇa"
+   ],
+   "tags": [
+    "ahara",
+    "classification",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Food: 1-2-2-4-6-20-∞ (āhāratva, yoni, prabhāva, upayoga, rasa, guṇa, combinations)",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.37",
+   "word_meanings": [
+    {
+     "sa": "तस्य खलु",
+     "iast": "tasya khalu",
+     "en": "of that (food) indeed",
+     "hi": "उस आहार के"
+    },
+    {
+     "sa": "ये ये विकारावयवाः",
+     "iast": "ye ye vikārāvayavāḥ",
+     "en": "whichever products and parts",
+     "hi": "जो-जो विकार (उत्पाद) और अवयव"
+    },
+    {
+     "sa": "भूयिष्ठम् उपयुज्यन्ते",
+     "iast": "bhūyiṣṭham upayujyante",
+     "en": "are most commonly used",
+     "hi": "अधिकतर उपयोग में आते हैं"
+    },
+    {
+     "sa": "भूयिष्ठकल्पानाम् च मनुष्याणाम्",
+     "iast": "bhūyiṣṭhakalpānām ca manuṣyāṇām",
+     "en": "and by most people",
+     "hi": "और अधिकांश मनुष्यों द्वारा"
+    },
+    {
+     "sa": "प्रकृत्या एव",
+     "iast": "prakṛtyā eva",
+     "en": "by their very nature",
+     "hi": "स्वभाव से ही"
+    },
+    {
+     "sa": "हिततमाः च अहिततमाः च",
+     "iast": "hitatamāḥ ca ahitatamāḥ ca",
+     "en": "most wholesome and most unwholesome",
+     "hi": "सबसे हितकर और सबसे अहितकर"
+    },
+    {
+     "sa": "तान् तान् यथावत् उपदेक्ष्यामः",
+     "iast": "tān tān yathāvat upadekṣyāmaḥ",
+     "en": "those we shall describe properly",
+     "hi": "उन्हें यथावत् बताएँगे"
+    }
+   ],
+   "english": "Of the food items and products most commonly used by most people, we shall now properly describe those which by their very nature are the most wholesome and the most unwholesome.",
+   "hindi": "अधिकांश मनुष्यों द्वारा सबसे अधिक उपयोग किए जाने वाले आहार-द्रव्यों और उत्पादों में से जो स्वभाव से सबसे हितकर और सबसे अहितकर हैं, उन्हें अब हम यथावत् बताएँगे।",
+   "explanation_en": "Introduces the two lists of 'best' (hitatama) and 'worst' (ahitatama) items in each food group, judged by their nature (prakṛti) for most people, as a practical guide.",
+   "explanation_hi": "प्रत्येक आहार-वर्ग में स्वभाव से 'श्रेष्ठ' (हिततम) और 'निकृष्ट' (अहिततम) द्रव्यों की दो सूचियों का परिचय, जो अधिकांश लोगों के लिए व्यावहारिक मार्गदर्शक है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "hitatama",
+    "ahitatama",
+    "prakṛti"
+   ],
+   "tags": [
+    "ahara",
+    "agrya"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.38",
+   "word_meanings": [
+    {
+     "sa": "तद्यथा",
+     "iast": "tadyathā",
+     "en": "namely",
+     "hi": "जैसे"
+    },
+    {
+     "sa": "लोहितशालयः",
+     "iast": "lohitaśālayaḥ",
+     "en": "red śāli rice",
+     "hi": "लोहितशालि (लाल चावल)"
+    },
+    {
+     "sa": "शूकधान्यानाम्",
+     "iast": "śūkadhānyānām",
+     "en": "among awned cereals",
+     "hi": "शूकधान्यों में"
+    },
+    {
+     "sa": "पथ्यतमत्वे श्रेष्ठतमाः भवन्ति",
+     "iast": "pathyatamatve śreṣṭhatamāḥ bhavanti",
+     "en": "are the best in wholesomeness",
+     "hi": "हितकरता में सर्वश्रेष्ठ हैं"
+    },
+    {
+     "sa": "मुद्गाः शमीधान्यानाम्",
+     "iast": "mudgāḥ śamīdhānyānām",
+     "en": "green gram among pulses",
+     "hi": "शमीधान्यों (दालों) में मूँग"
+    },
+    {
+     "sa": "आन्तरिक्षम् उदकानाम्",
+     "iast": "āntarikṣam udakānām",
+     "en": "rainwater among waters",
+     "hi": "जलों में आन्तरिक्ष (वर्षा) जल"
+    },
+    {
+     "sa": "सैन्धवम् लवणानाम्",
+     "iast": "saindhavam lavaṇānām",
+     "en": "rock salt among salts",
+     "hi": "लवणों में सैन्धव"
+    },
+    {
+     "sa": "जीवन्तीशाकम् शाकानाम्",
+     "iast": "jīvantīśākam śākānām",
+     "en": "jīvantī among leafy vegetables",
+     "hi": "शाकों में जीवन्ती"
+    },
+    {
+     "sa": "ऐणेयम् मृगमांसानाम्",
+     "iast": "aiṇeyam mṛgamāṃsānām",
+     "en": "meat of the eṇa (black) antelope among animal meats",
+     "hi": "मृगमांसों में ऐणेय (एण मृग का मांस)"
+    },
+    {
+     "sa": "लावः पक्षिणाम्",
+     "iast": "lāvaḥ pakṣiṇām",
+     "en": "common quail among birds",
+     "hi": "पक्षियों में लाव (बटेर)"
+    },
+    {
+     "sa": "गोधा बिलेशयानाम्",
+     "iast": "godhā bileśayānām",
+     "en": "monitor lizard among burrow-dwellers",
+     "hi": "बिलेशयों में गोधा"
+    },
+    {
+     "sa": "रोहितः मत्स्यानाम्",
+     "iast": "rohitaḥ matsyānām",
+     "en": "rohu among fish",
+     "hi": "मछलियों में रोहित (रोहू)"
+    },
+    {
+     "sa": "गव्यम् सर्पिः सर्पिषाम्",
+     "iast": "gavyam sarpiḥ sarpiṣām",
+     "en": "cow's ghee among ghees",
+     "hi": "घृतों में गोघृत"
+    },
+    {
+     "sa": "गोक्षीरम् क्षीराणाम्",
+     "iast": "gokṣīram kṣīrāṇām",
+     "en": "cow's milk among milks",
+     "hi": "दूधों में गोदुग्ध"
+    },
+    {
+     "sa": "तिलतैलम् स्थावरजातानाम् स्नेहानाम्",
+     "iast": "tilatailam sthāvarajātānām snehānām",
+     "en": "sesame oil among plant fats",
+     "hi": "वनस्पति स्नेहों में तिल तेल"
+    },
+    {
+     "sa": "वराहवसा आनूपमृगवसानाम्",
+     "iast": "varāhavasā ānūpamṛgavasānām",
+     "en": "pig fat among fats of marshland animals",
+     "hi": "आनूप पशुओं की वसा में वराह वसा"
+    },
+    {
+     "sa": "चुलुकीवसा मत्स्यवसानाम्",
+     "iast": "culukīvasā matsyavasānām",
+     "en": "fat of culukī (a dolphin-like aquatic animal) among fish fats",
+     "hi": "मत्स्य वसाओं में चुलुकी वसा"
+    },
+    {
+     "sa": "पाकहंसवसा जलचरविहङ्गवसानाम्",
+     "iast": "pākahaṃsavasā jalacaravihaṅgavasānām",
+     "en": "fat of the pākahaṃsa among aquatic bird fats",
+     "hi": "जलचर पक्षियों की वसा में पाकहंस वसा"
+    },
+    {
+     "sa": "कुक्कुटवसा विष्किरशकुनिवसानाम्",
+     "iast": "kukkuṭavasā viṣkiraśakunivasānām",
+     "en": "fowl fat among fats of gallinaceous (scratching) birds",
+     "hi": "विष्किर पक्षियों की वसा में कुक्कुट वसा"
+    },
+    {
+     "sa": "अजमेदः शाखादमेदसाम्",
+     "iast": "ajamedaḥ śākhādamedasām",
+     "en": "goat fat among fats of browsing animals",
+     "hi": "शाखाद पशुओं के मेद में बकरी का मेद"
+    },
+    {
+     "sa": "शृङ्गवेरम् कन्दानाम्",
+     "iast": "śṛṅgaveram kandānām",
+     "en": "ginger among rhizomes/tubers",
+     "hi": "कन्दों में शृंगवेर (अदरक)"
+    },
+    {
+     "sa": "मृद्वीका फलानाम्",
+     "iast": "mṛdvīkā phalānām",
+     "en": "grapes among fruits",
+     "hi": "फलों में मृद्वीका (मुनक्का)"
+    },
+    {
+     "sa": "शर्करा इक्षुविकाराणाम्",
+     "iast": "śarkarā ikṣuvikārāṇām",
+     "en": "sugar among sugarcane products",
+     "hi": "ईख के उत्पादों में शर्करा"
+    },
+    {
+     "sa": "इति",
+     "iast": "iti",
+     "en": "thus",
+     "hi": "इस प्रकार"
+    },
+    {
+     "sa": "प्रकृत्या एव हिततमानाम् आहारविकाराणाम्",
+     "iast": "prakṛtyā eva hitatamānām āhāravikārāṇām",
+     "en": "of food items most wholesome by nature",
+     "hi": "स्वभाव से सबसे हितकर आहार-द्रव्यों के"
+    },
+    {
+     "sa": "प्राधान्यतः द्रव्याणि व्याख्यातानि भवन्ति",
+     "iast": "prādhānyataḥ dravyāṇi vyākhyātāni bhavanti",
+     "en": "the chief items have been explained",
+     "hi": "प्रमुख द्रव्य बताए गए"
+    }
+   ],
+   "english": "Namely: red śāli rice is the best in wholesomeness among awned cereals; green gram (mudga) among pulses; rainwater (āntarikṣa jala) among waters; rock salt (saindhava) among salts; jīvantī among leafy vegetables; meat of the eṇa antelope among animal meats; quail (lāva) among birds; monitor lizard (godhā) among burrow-dwellers; rohu (rohita) among fish; cow's ghee among ghees; cow's milk among milks; sesame oil among plant fats; pig fat among fats of marsh animals; culukī fat among fish fats; pākahaṃsa fat among aquatic bird fats; fowl fat among gallinaceous bird fats; goat fat among the fats of browsing animals; ginger (śṛṅgavera) among tubers and rhizomes; grapes (mṛdvīkā) among fruits; and sugar (śarkarā) among sugarcane products. Thus the chief items among foods that are most wholesome by nature have been explained.",
+   "hindi": "जैसे: शूकधान्यों में लाल शालि चावल हितकरता में सर्वश्रेष्ठ है; दालों में मूँग; जलों में वर्षा जल; लवणों में सैन्धव; शाकों में जीवन्ती; मृगमांस में एण मृग का मांस; पक्षियों में लाव (बटेर); बिलेशयों में गोधा; मछलियों में रोहित; घृतों में गोघृत; दूधों में गाय का दूध; वनस्पति तेलों में तिल तेल; आनूप पशुओं की वसा में वराह वसा; मत्स्य वसा में चुलुकी वसा; जलचर पक्षियों की वसा में पाकहंस वसा; विष्किर पक्षियों की वसा में कुक्कुट वसा; शाखाद पशुओं के मेद में बकरी का मेद; कन्दों में अदरक; फलों में मुनक्का; और ईख के उत्पादों में शर्करा। इस प्रकार स्वभाव से सबसे हितकर आहार-द्रव्यों में प्रमुख द्रव्य बताए गए।",
+   "explanation_en": "The 'hitatama' list - a high-yield MCQ area. Key pairs to remember: lohitaśāli (cereals), mudga (pulses), āntarikṣa jala (water), saindhava (salt), jīvantī (vegetables), lāva (birds), gavya ghṛta, gokṣīra, tila taila, śṛṅgavera (kanda), mṛdvīkā (fruit), śarkarā (sugarcane products). These are 'best by nature for most people', not in every context (Su 25.32-35, 45-47).",
+   "explanation_hi": "'हिततम' सूची - MCQ का अत्यन्त महत्त्वपूर्ण भाग। मुख्य जोड़े याद रखें: लोहितशालि (धान्य), मुद्ग (दाल), आन्तरिक्ष जल, सैन्धव (लवण), जीवन्ती (शाक), लाव (पक्षी), गोघृत, गोदुग्ध, तिल तेल, शृंगवेर (कन्द), मृद्वीका (फल), शर्करा (ईख उत्पाद)। ये 'अधिकांश लोगों के लिए स्वभाव से श्रेष्ठ' हैं, हर सन्दर्भ में नहीं (सू. 25.32-35, 45-47)।",
+   "modern_correlation": {
+    "en": "Several items correspond to foods still regarded as easily digestible or nutritionally useful (e.g. green gram, cow's milk, grapes, ginger). However, modern dietary guidance is evidence-based and context-specific (e.g. rainwater can be contaminated today, and animal fats are viewed cautiously), so these classical rankings should be read historically.",
+    "hi": "कई द्रव्य आज भी सुपाच्य या पोषक माने जाने वाले खाद्यों से मेल खाते हैं (जैसे मूँग, गाय का दूध, मुनक्का, अदरक)। परन्तु आधुनिक आहार-मार्गदर्शन प्रमाण-आधारित और सन्दर्भ-विशेष है (जैसे आज वर्षा जल दूषित हो सकता है, और पशु वसा को सावधानी से देखा जाता है), अतः इन शास्त्रीय क्रमों को ऐतिहासिक दृष्टि से पढ़ना चाहिए।"
+   },
+   "key_terms": [
+    "hitatama dravya",
+    "lohitaśāli",
+    "mudga",
+    "saindhava",
+    "āntarikṣa jala",
+    "gavya ghṛta",
+    "mṛdvīkā"
+   ],
+   "tags": [
+    "ahara",
+    "agrya",
+    "list",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Best: Red rice, Mudga, Rain, Rock-salt, Jīvantī, Ghee & milk of cow, Sesame oil, Ginger, Grapes, Sugar",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.39",
+   "word_meanings": [
+    {
+     "sa": "अहिततमान् अपि उपदेक्ष्यामः",
+     "iast": "ahitatamān api upadekṣyāmaḥ",
+     "en": "we shall now describe the most unwholesome",
+     "hi": "अब सबसे अहितकर बताएँगे"
+    },
+    {
+     "sa": "यवकाः शूकधान्यानाम्",
+     "iast": "yavakāḥ śūkadhānyānām",
+     "en": "yavaka (a poor barley-like grain) among awned cereals",
+     "hi": "शूकधान्यों में यवक"
+    },
+    {
+     "sa": "अपथ्यतमत्वेन प्रकृष्टतमाः भवन्ति",
+     "iast": "apathyatamatvena prakṛṣṭatamāḥ bhavanti",
+     "en": "are the foremost in unwholesomeness",
+     "hi": "अहितकरता में सबसे आगे हैं"
+    },
+    {
+     "sa": "माषाः शमीधान्यानाम्",
+     "iast": "māṣāḥ śamīdhānyānām",
+     "en": "black gram among pulses",
+     "hi": "दालों में माष (उड़द)"
+    },
+    {
+     "sa": "वर्षा नादेयम् उदकानाम्",
+     "iast": "varṣā nādeyam udakānām",
+     "en": "river water in the rainy season among waters",
+     "hi": "जलों में वर्षा ऋतु का नदी जल"
+    },
+    {
+     "sa": "ऊषरम् लवणानाम्",
+     "iast": "ūṣaram lavaṇānām",
+     "en": "salt from saline soil among salts",
+     "hi": "लवणों में ऊषर लवण"
+    },
+    {
+     "sa": "सर्षपशाकम् शाकानाम्",
+     "iast": "sarṣapaśākam śākānām",
+     "en": "mustard greens among vegetables",
+     "hi": "शाकों में सरसों का साग"
+    },
+    {
+     "sa": "गोमांसम् मृगमांसानाम्",
+     "iast": "gomāṃsam mṛgamāṃsānām",
+     "en": "beef among animal meats",
+     "hi": "मांसों में गोमांस"
+    },
+    {
+     "sa": "काणकपोतः पक्षिणाम्",
+     "iast": "kāṇakapotaḥ pakṣiṇām",
+     "en": "kāṇakapota (a kind of pigeon) among birds",
+     "hi": "पक्षियों में काणकपोत"
+    },
+    {
+     "sa": "भेकः बिलेशयानाम्",
+     "iast": "bhekaḥ bileśayānām",
+     "en": "frog among burrow-dwellers",
+     "hi": "बिलेशयों में भेक (मेंढक)"
+    },
+    {
+     "sa": "चिलिचिमः मत्स्यानाम्",
+     "iast": "cilicimaḥ matsyānām",
+     "en": "cilicima fish among fish",
+     "hi": "मछलियों में चिलिचिम"
+    },
+    {
+     "sa": "आविकम् सर्पिः सर्पिषाम्",
+     "iast": "āvikam sarpiḥ sarpiṣām",
+     "en": "sheep's ghee among ghees",
+     "hi": "घृतों में भेड़ का घी"
+    },
+    {
+     "sa": "अविक्षीरम् क्षीराणाम्",
+     "iast": "avikṣīram kṣīrāṇām",
+     "en": "sheep's milk among milks",
+     "hi": "दूधों में भेड़ का दूध"
+    },
+    {
+     "sa": "कुसुम्भस्नेहः स्थावरस्नेहानाम्",
+     "iast": "kusumbhasnehaḥ sthāvarasnehānām",
+     "en": "safflower oil among plant oils",
+     "hi": "वनस्पति तेलों में कुसुम्भ तेल"
+    },
+    {
+     "sa": "महिषवसा आनूपमृगवसानाम्",
+     "iast": "mahiṣavasā ānūpamṛgavasānām",
+     "en": "buffalo fat among marsh-animal fats",
+     "hi": "आनूप पशु-वसा में भैंस की वसा"
+    },
+    {
+     "sa": "कुम्भीरवसा मत्स्यवसानाम्",
+     "iast": "kumbhīravasā matsyavasānām",
+     "en": "crocodile fat among fish fats",
+     "hi": "मत्स्य वसा में कुम्भीर (मगर) वसा"
+    },
+    {
+     "sa": "काकमद्गुवसा जलचरविहङ्गवसानाम्",
+     "iast": "kākamadguvasā jalacaravihaṅgavasānām",
+     "en": "fat of kākamadgu (cormorant-like bird) among aquatic bird fats",
+     "hi": "जलचर पक्षी-वसा में काकमद्गु वसा"
+    },
+    {
+     "sa": "चटकवसा विष्किरशकुनिवसानाम्",
+     "iast": "caṭakavasā viṣkiraśakunivasānām",
+     "en": "sparrow fat among gallinaceous bird fats",
+     "hi": "विष्किर पक्षी-वसा में चटक (गौरैया) वसा"
+    },
+    {
+     "sa": "हस्तिमेदः शाखादमेदसाम्",
+     "iast": "hastimedaḥ śākhādamedasām",
+     "en": "elephant fat among browsing-animal fats",
+     "hi": "शाखाद पशुओं के मेद में हाथी का मेद"
+    },
+    {
+     "sa": "निकुचम् फलानाम्",
+     "iast": "nikucam phalānām",
+     "en": "nikuca (a fruit, Artocarpus lakoocha) among fruits",
+     "hi": "फलों में निकुच (बड़हल)"
+    },
+    {
+     "sa": "आलुकम् कन्दानाम्",
+     "iast": "ālukam kandānām",
+     "en": "āluka among tubers",
+     "hi": "कन्दों में आलुक"
+    },
+    {
+     "sa": "फाणितम् इक्षुविकाराणाम्",
+     "iast": "phāṇitam ikṣuvikārāṇām",
+     "en": "phāṇita (half-thickened cane juice) among sugarcane products",
+     "hi": "ईख उत्पादों में फाणित"
+    },
+    {
+     "sa": "इति प्रकृत्या एव अहिततमानाम्",
+     "iast": "iti prakṛtyā eva ahitatamānām",
+     "en": "thus of those most unwholesome by nature",
+     "hi": "इस प्रकार स्वभाव से सबसे अहितकर"
+    },
+    {
+     "sa": "प्रकृष्टतमानि द्रव्याणि व्याख्यातानि",
+     "iast": "prakṛṣṭatamāni dravyāṇi vyākhyātāni",
+     "en": "the foremost items are explained",
+     "hi": "प्रमुख द्रव्य बताए गए"
+    },
+    {
+     "sa": "हिताहितावयवः व्याख्यातः आहारविकाराणाम्",
+     "iast": "hitāhitāvayavaḥ vyākhyātaḥ āhāravikārāṇām",
+     "en": "the wholesome and unwholesome parts of food items are explained",
+     "hi": "आहार-द्रव्यों के हित-अहित भाग बताए गए"
+    }
+   ],
+   "english": "We shall also describe the most unwholesome: yavaka is foremost in unwholesomeness among awned cereals; black gram (māṣa) among pulses; river water in the rainy season among waters; salt from saline soil (ūṣara) among salts; mustard greens among vegetables; beef among animal meats; kāṇakapota among birds; frog among burrow-dwellers; cilicima among fish; sheep's ghee among ghees; sheep's milk among milks; safflower oil among plant oils; buffalo fat among marsh-animal fats; crocodile fat among fish fats; kākamadgu fat among aquatic bird fats; sparrow fat among gallinaceous bird fats; elephant fat among the fats of browsing animals; nikuca among fruits; āluka among tubers; and phāṇita among sugarcane products. Thus the foremost among foods most unwholesome by nature have been explained, and so the wholesome and unwholesome parts of food items have been described.",
+   "hindi": "अब सबसे अहितकर भी बताते हैं: शूकधान्यों में यवक अहितकरता में सबसे आगे है; दालों में उड़द; जलों में वर्षा ऋतु का नदी-जल; लवणों में ऊषर लवण; शाकों में सरसों का साग; मांसों में गोमांस; पक्षियों में काणकपोत; बिलेशयों में मेंढक; मछलियों में चिलिचिम; घृतों में भेड़ का घी; दूधों में भेड़ का दूध; वनस्पति तेलों में कुसुम्भ तेल; आनूप पशु-वसा में भैंस की वसा; मत्स्य वसा में मगर की वसा; जलचर पक्षी-वसा में काकमद्गु की वसा; विष्किर पक्षी-वसा में गौरैया की वसा; शाखाद पशुओं के मेद में हाथी का मेद; फलों में निकुच; कन्दों में आलुक; और ईख उत्पादों में फाणित। इस प्रकार स्वभाव से सबसे अहितकर द्रव्यों में प्रमुख बताए गए, और आहार-द्रव्यों के हित-अहित भाग का वर्णन हुआ।",
+   "explanation_en": "The 'ahitatama' list mirrors the hitatama list group by group - learn them as pairs: lohitaśāli/yavaka, mudga/māṣa, āntarikṣa/varṣā nādeya jala, saindhava/ūṣara, jīvantī/sarṣapa, gavya/āvika ghṛta and kṣīra, tila/kusumbha taila, mṛdvīkā/nikuca, śarkarā/phāṇita. Note that 'ahitatama' means least suitable for regular use by most people, not poison; e.g. māṣa is still used therapeutically as vṛṣya and bṛṃhaṇa.",
+   "explanation_hi": "'अहिततम' सूची हिततम सूची का वर्ग-दर-वर्ग प्रतिरूप है - जोड़ों में याद करें: लोहितशालि/यवक, मुद्ग/माष, आन्तरिक्ष/वर्षा नादेय जल, सैन्धव/ऊषर, जीवन्ती/सर्षप, गो/भेड़ घृत और दूध, तिल/कुसुम्भ तेल, मृद्वीका/निकुच, शर्करा/फाणित। 'अहिततम' का अर्थ है अधिकांश लोगों के नियमित सेवन के लिए सबसे कम उपयुक्त, विष नहीं; जैसे माष वृष्य और बृंहण के रूप में चिकित्सा में प्रयुक्त होता है।",
+   "modern_correlation": {
+    "en": "Some items have plausible modern rationales (e.g. river water in the monsoon carries more sediment and microbial contamination; saline-soil salt may contain impurities), but others reflect classical digestive theory rather than modern evidence. Read the list as historical guidance, not as current dietary advice.",
+    "hi": "कुछ द्रव्यों के आधुनिक कारण सम्भव हैं (जैसे मानसून में नदी के पानी में अधिक गाद और सूक्ष्मजीवी प्रदूषण होता है; ऊषर भूमि के लवण में अशुद्धियाँ हो सकती हैं), पर अन्य शास्त्रीय पाचन-सिद्धान्त पर आधारित हैं, आधुनिक प्रमाण पर नहीं। इस सूची को ऐतिहासिक मार्गदर्शन के रूप में पढ़ें, वर्तमान आहार-सलाह के रूप में नहीं।"
+   },
+   "key_terms": [
+    "ahitatama dravya",
+    "yavaka",
+    "māṣa",
+    "ūṣara",
+    "phāṇita",
+    "avikṣīra"
+   ],
+   "tags": [
+    "ahara",
+    "agrya",
+    "list",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Pairs best/worst: Śāli-Yavaka, Mudga-Māṣa, Rain-Monsoon river, Saindhava-Ūṣara, Cow-Sheep, Tila-Kusumbha, Grapes-Nikuca, Śarkarā-Phāṇita",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.40",
+   "word_meanings": [
+    {
+     "sa": "अतः भूयः",
+     "iast": "ataḥ bhūyaḥ",
+     "en": "hereafter further",
+     "hi": "इसके आगे"
+    },
+    {
+     "sa": "कर्म औषधानाम् च",
+     "iast": "karma auṣadhānām ca",
+     "en": "of therapeutic procedures and medicines",
+     "hi": "कर्मों और औषधों के"
+    },
+    {
+     "sa": "प्राधान्यतः",
+     "iast": "prādhānyataḥ",
+     "en": "by pre-eminence",
+     "hi": "प्रधानता से"
+    },
+    {
+     "sa": "सानुबन्धानि द्रव्याणि",
+     "iast": "sānubandhāni dravyāṇi",
+     "en": "items together with related ones (including harmful)",
+     "hi": "सम्बद्ध (अहित सहित) द्रव्य"
+    },
+    {
+     "sa": "अनुव्याख्यास्यामः",
+     "iast": "anuvyākhyāsyāmaḥ",
+     "en": "we shall explain",
+     "hi": "बताएँगे"
+    },
+    {
+     "sa": "अन्नम् वृत्तिकराणाम् श्रेष्ठम्",
+     "iast": "annam vṛttikarāṇām śreṣṭham",
+     "en": "food is best among sustainers of life",
+     "hi": "अन्न जीवन-निर्वाह करने वालों में श्रेष्ठ"
+    },
+    {
+     "sa": "उदकम् आश्वासकराणाम्",
+     "iast": "udakam āśvāsakarāṇām",
+     "en": "water among refreshing (comforting) things",
+     "hi": "जल आश्वासन (तृप्ति, ताज़गी) देने वालों में"
+    },
+    {
+     "sa": "सुरा श्रमहराणाम्",
+     "iast": "surā śramaharāṇām",
+     "en": "surā (alcoholic drink) among fatigue relievers",
+     "hi": "सुरा थकान दूर करने वालों में"
+    },
+    {
+     "sa": "क्षीरम् जीवनीयानाम्",
+     "iast": "kṣīram jīvanīyānām",
+     "en": "milk among vitalisers",
+     "hi": "दूध जीवनीय द्रव्यों में"
+    },
+    {
+     "sa": "मांसम् बृंहणीयानाम्",
+     "iast": "māṃsam bṛṃhaṇīyānām",
+     "en": "meat among bulk-promoting (nourishing) things",
+     "hi": "मांस बृंहण द्रव्यों में"
+    },
+    {
+     "sa": "रसः तर्पणीयानाम्",
+     "iast": "rasaḥ tarpaṇīyānām",
+     "en": "meat soup among satisfying (refreshing) things",
+     "hi": "मांसरस तर्पण द्रव्यों में"
+    },
+    {
+     "sa": "लवणम् अन्नद्रव्यरुचिकराणाम्",
+     "iast": "lavaṇam annadravyarucikarāṇām",
+     "en": "salt among things that make food tasty",
+     "hi": "लवण अन्न में रुचि उत्पन्न करने वालों में"
+    },
+    {
+     "sa": "अम्लम् हृद्यानाम्",
+     "iast": "amlam hṛdyānām",
+     "en": "sour among things pleasing to the heart",
+     "hi": "अम्ल हृद्य द्रव्यों में"
+    },
+    {
+     "sa": "कुक्कुटः बल्यानाम्",
+     "iast": "kukkuṭaḥ balyānām",
+     "en": "fowl among strength promoters",
+     "hi": "कुक्कुट (मुर्गा) बल्य द्रव्यों में"
+    },
+    {
+     "sa": "नक्ररेतः वृष्याणाम्",
+     "iast": "nakraretaḥ vṛṣyāṇām",
+     "en": "crocodile semen among aphrodisiacs",
+     "hi": "नक्र-रेतस् वृष्य द्रव्यों में"
+    },
+    {
+     "sa": "मधु श्लेष्मपित्तप्रशमनानाम्",
+     "iast": "madhu śleṣmapittapraśamanānām",
+     "en": "honey among pacifiers of kapha and pitta",
+     "hi": "मधु कफ-पित्त शामकों में"
+    },
+    {
+     "sa": "सर्पिः वातपित्तप्रशमनानाम्",
+     "iast": "sarpiḥ vātapittapraśamanānām",
+     "en": "ghee among pacifiers of vāta and pitta",
+     "hi": "घृत वात-पित्त शामकों में"
+    },
+    {
+     "sa": "तैलम् वातश्लेष्मप्रशमनानाम्",
+     "iast": "tailam vātaśleṣmapraśamanānām",
+     "en": "oil among pacifiers of vāta and kapha",
+     "hi": "तैल वात-कफ शामकों में"
+    },
+    {
+     "sa": "वमनम् श्लेष्महराणाम्",
+     "iast": "vamanam śleṣmaharāṇām",
+     "en": "emesis among kapha-eliminating measures",
+     "hi": "वमन कफहर उपायों में"
+    },
+    {
+     "sa": "विरेचनम् पित्तहराणाम्",
+     "iast": "virecanam pittaharāṇām",
+     "en": "purgation among pitta-eliminating measures",
+     "hi": "विरेचन पित्तहर उपायों में"
+    },
+    {
+     "sa": "बस्तिः वातहराणाम्",
+     "iast": "bastiḥ vātaharāṇām",
+     "en": "enema among vāta-eliminating measures",
+     "hi": "बस्ति वातहर उपायों में"
+    },
+    {
+     "sa": "स्वेदः मार्दवकराणाम्",
+     "iast": "svedaḥ mārdavakarāṇām",
+     "en": "sudation among softening measures",
+     "hi": "स्वेद मृदुता लाने वालों में"
+    },
+    {
+     "sa": "व्यायामः स्थैर्यकराणाम्",
+     "iast": "vyāyāmaḥ sthairyakarāṇām",
+     "en": "exercise among things giving firmness",
+     "hi": "व्यायाम स्थिरता देने वालों में"
+    },
+    {
+     "sa": "क्षारः पुंस्त्वोपघातिनाम्",
+     "iast": "kṣāraḥ puṃstvopaghātinām",
+     "en": "alkali among things harmful to virility",
+     "hi": "क्षार पुंस्त्व नष्ट करने वालों में"
+    },
+    {
+     "sa": "तिन्दुकम् अनन्नद्रव्यरुचिकराणाम्",
+     "iast": "tindukam anannadravyarucikarāṇām",
+     "en": "(unripe) tinduka among things that spoil relish for food",
+     "hi": "तिन्दुक अन्न में अरुचि उत्पन्न करने वालों में"
+    },
+    {
+     "sa": "आमम् कपित्थम् उत्कण्ठ्यानाम्",
+     "iast": "āmam kapittham utkaṇṭhyānām",
+     "en": "unripe kapittha (wood apple) among things harmful to the throat",
+     "hi": "कच्चा कपित्थ कण्ठ के लिए अहितकर द्रव्यों में"
+    },
+    {
+     "sa": "आविकम् सर्पिः अहृद्यानाम्",
+     "iast": "āvikam sarpiḥ ahṛdyānām",
+     "en": "sheep's ghee among things unpleasant to the heart",
+     "hi": "भेड़ का घी अहृद्य द्रव्यों में"
+    },
+    {
+     "sa": "अजाक्षीरम् शोषघ्न स्तन्य सात्म्य रक्तसांग्राहिक रक्तपित्तप्रशमनानाम्",
+     "iast": "ajākṣīram śoṣaghna stanya sātmya raktasāṃgrāhika raktapittapraśamanānām",
+     "en": "goat's milk among things that counter wasting, act like (mother's) milk, check bleeding and pacify raktapitta",
+     "hi": "बकरी का दूध शोषनाशक, स्तन्य जैसा सात्म्य, रक्तस्तम्भक और रक्तपित्तशामक द्रव्यों में"
+    },
+    {
+     "sa": "अविक्षीरम् श्लेष्मपित्तजननानाम्",
+     "iast": "avikṣīram śleṣmapittajananānām",
+     "en": "sheep's milk among things increasing kapha and pitta",
+     "hi": "भेड़ का दूध कफ-पित्त बढ़ाने वालों में"
+    },
+    {
+     "sa": "महिषीक्षीरम् स्वप्नजननानाम्",
+     "iast": "mahiṣīkṣīram svapnajananānām",
+     "en": "buffalo milk among sleep inducers",
+     "hi": "भैंस का दूध निद्राजनकों में"
+    },
+    {
+     "sa": "मन्दकम् दधि अभिष्यन्दकराणाम्",
+     "iast": "mandakam dadhi abhiṣyandakarāṇām",
+     "en": "immature curd among channel-blocking things",
+     "hi": "मन्दक (अधजमा) दही अभिष्यन्दकारकों में"
+    },
+    {
+     "sa": "गवेधुकान्नम् कर्शनीयानाम्",
+     "iast": "gavedhukānnam karśanīyānām",
+     "en": "gavedhuka grain among slimming foods",
+     "hi": "गवेधुक अन्न कर्शन (कृश करने) वालों में"
+    },
+    {
+     "sa": "उद्दालकान्नम् विरूक्षणीयानाम्",
+     "iast": "uddālakānnam virūkṣaṇīyānām",
+     "en": "uddālaka grain among drying foods",
+     "hi": "उद्दालक अन्न रूक्षण करने वालों में"
+    },
+    {
+     "sa": "इक्षुः मूत्रजननानाम्",
+     "iast": "ikṣuḥ mūtrajananānām",
+     "en": "sugarcane among diuretics",
+     "hi": "ईख मूत्रजनकों में"
+    },
+    {
+     "sa": "यवाः पुरीषजननानाम्",
+     "iast": "yavāḥ purīṣajananānām",
+     "en": "barley among things that increase faeces",
+     "hi": "यव पुरीषजनकों में"
+    },
+    {
+     "sa": "जाम्बवम् वातजननानाम्",
+     "iast": "jāmbavam vātajananānām",
+     "en": "jambū fruit among vāta-increasing things",
+     "hi": "जामुन वातजनकों में"
+    },
+    {
+     "sa": "शष्कुल्यः श्लेष्मपित्तजननानाम्",
+     "iast": "śaṣkulyaḥ śleṣmapittajananānām",
+     "en": "śaṣkulī (fried cakes) among kapha-pitta increasing things",
+     "hi": "शष्कुली कफ-पित्तजनकों में"
+    },
+    {
+     "sa": "कुलत्थाः अम्लपित्तजननानाम्",
+     "iast": "kulatthāḥ amlapittajananānām",
+     "en": "horse gram among causes of amlapitta",
+     "hi": "कुलथी अम्लपित्तजनकों में"
+    },
+    {
+     "sa": "माषाः श्लेष्मपित्तजननानाम्",
+     "iast": "māṣāḥ śleṣmapittajananānām",
+     "en": "black gram among kapha-pitta increasing things",
+     "hi": "उड़द कफ-पित्तजनकों में"
+    },
+    {
+     "sa": "मदनफलम् वमन आस्थापन अनुवासन उपयोगिनाम्",
+     "iast": "madanaphalam vamana āsthāpana anuvāsana upayoginām",
+     "en": "madanaphala among drugs used for emesis, decoction enema and oil enema",
+     "hi": "मदनफल वमन, आस्थापन और अनुवासन में उपयोगी द्रव्यों में"
+    },
+    {
+     "sa": "त्रिवृत् सुखविरेचनानाम्",
+     "iast": "trivṛt sukhavirecanānām",
+     "en": "trivṛt among easy purgatives",
+     "hi": "त्रिवृत् सुखविरेचकों में"
+    },
+    {
+     "sa": "चतुरङ्गुलः मृदुविरेचनानाम्",
+     "iast": "caturaṅgulaḥ mṛduvirecanānām",
+     "en": "caturaṅgula (āragvadha) among mild purgatives",
+     "hi": "चतुरंगुल (आरग्वध) मृदुविरेचकों में"
+    },
+    {
+     "sa": "स्नुक्पयः तीक्ष्णविरेचनानाम्",
+     "iast": "snukpayaḥ tīkṣṇavirecanānām",
+     "en": "snuhī latex among drastic purgatives",
+     "hi": "स्नुही क्षीर तीक्ष्णविरेचकों में"
+    },
+    {
+     "sa": "प्रत्यक्पुष्पा शिरोविरेचनानाम्",
+     "iast": "pratyakpuṣpā śirovirecanānām",
+     "en": "pratyakpuṣpā (apāmārga) among head-evacuating drugs",
+     "hi": "प्रत्यक्पुष्पा (अपामार्ग) शिरोविरेचकों में"
+    },
+    {
+     "sa": "विडङ्गम् क्रिमिघ्नानाम्",
+     "iast": "viḍaṅgam krimighnānām",
+     "en": "viḍaṅga among anthelmintics",
+     "hi": "विडंग कृमिघ्नों में"
+    },
+    {
+     "sa": "शिरीषः विषघ्नानाम्",
+     "iast": "śirīṣaḥ viṣaghnānām",
+     "en": "śirīṣa among antidotes to poison",
+     "hi": "शिरीष विषघ्नों में"
+    },
+    {
+     "sa": "खदिरः कुष्ठघ्नानाम्",
+     "iast": "khadiraḥ kuṣṭhaghnānām",
+     "en": "khadira among remedies for skin disease",
+     "hi": "खदिर कुष्ठघ्नों में"
+    },
+    {
+     "sa": "रास्ना वातहराणाम्",
+     "iast": "rāsnā vātaharāṇām",
+     "en": "rāsnā among vāta-alleviating drugs",
+     "hi": "रास्ना वातहरों में"
+    },
+    {
+     "sa": "आमलकम् वयःस्थापनानाम्",
+     "iast": "āmalakam vayaḥsthāpanānām",
+     "en": "āmalaka among age-sustaining (anti-ageing) drugs",
+     "hi": "आमलक वयःस्थापनों में"
+    },
+    {
+     "sa": "हरीतकी पथ्यानाम्",
+     "iast": "harītakī pathyānām",
+     "en": "harītakī among wholesome drugs",
+     "hi": "हरीतकी पथ्य द्रव्यों में"
+    },
+    {
+     "sa": "एरण्डमूलम् वृष्य वातहराणाम्",
+     "iast": "eraṇḍamūlam vṛṣya vātaharāṇām",
+     "en": "castor root among aphrodisiac and vāta-alleviating drugs",
+     "hi": "एरण्डमूल वृष्य और वातहर द्रव्यों में"
+    },
+    {
+     "sa": "पिप्पलीमूलम् दीपनीय पाचनीय गुदशोथ अर्शः शूलहराणाम्",
+     "iast": "pippalīmūlam dīpanīya pācanīya gudaśotha arśaḥ śūlaharāṇām",
+     "en": "pippalī root among appetisers, digestives and remedies for anal swelling, piles and colic",
+     "hi": "पिप्पलीमूल दीपन, पाचन, गुदशोथ, अर्श और शूल नाशकों में"
+    },
+    {
+     "sa": "पुष्करमूलम् हिक्का श्वास कास पार्श्वशूलहराणाम्",
+     "iast": "puṣkaramūlam hikkā śvāsa kāsa pārśvaśūlaharāṇām",
+     "en": "puṣkaramūla among remedies for hiccup, dyspnoea, cough and chest-side pain",
+     "hi": "पुष्करमूल हिक्का, श्वास, कास और पार्श्वशूल नाशकों में"
+    },
+    {
+     "sa": "मुस्तम् सांग्राहिक दीपनीय पाचनीयानाम्",
+     "iast": "mustam sāṃgrāhika dīpanīya pācanīyānām",
+     "en": "musta among astringent (absorbent), appetiser and digestive drugs",
+     "hi": "मुस्ता संग्राही, दीपन और पाचन द्रव्यों में"
+    },
+    {
+     "sa": "उदीच्यम् निर्वापण दीपनीय पाचनीय छर्दि अतीसारहराणाम्",
+     "iast": "udīcyam nirvāpaṇa dīpanīya pācanīya chardi atīsāraharāṇām",
+     "en": "udīcya (hrībera) among cooling, appetiser, digestive and anti-vomiting, anti-diarrhoeal drugs",
+     "hi": "उदीच्य (ह्रीबेर) शीतल, दीपन, पाचन, छर्दि और अतिसार नाशकों में"
+    },
+    {
+     "sa": "कट्वङ्गम् सांग्राहिक रक्तपित्तप्रशमनानाम्",
+     "iast": "kaṭvaṅgam sāṃgrāhika raktapittapraśamanānām",
+     "en": "kaṭvaṅga (śyonāka) among astringents and pacifiers of raktapitta",
+     "hi": "कट्वंग (श्योनाक) संग्राही और रक्तपित्तशामकों में"
+    },
+    {
+     "sa": "अमृता सांग्राहिक वातहर दीपनीय श्लेष्म शोणित विबन्ध प्रशमनानाम्",
+     "iast": "amṛtā sāṃgrāhika vātahara dīpanīya śleṣma śoṇita vibandha praśamanānām",
+     "en": "amṛtā (guḍūcī) among astringent, vāta-alleviating, appetising drugs and those relieving kapha, blood disorders and constipation",
+     "hi": "अमृता (गुडूची) संग्राही, वातहर, दीपन, कफ-रक्त विकार और विबन्ध शामकों में"
+    },
+    {
+     "sa": "अतिविषा दीपनीय पाचनीय सांग्राहिक सर्वदोषहराणाम्",
+     "iast": "ativiṣā dīpanīya pācanīya sāṃgrāhika sarvadoṣaharāṇām",
+     "en": "ativiṣā among appetiser, digestive, astringent drugs alleviating all doṣas",
+     "hi": "अतिविषा दीपन, पाचन, संग्राही और सर्वदोषहर द्रव्यों में"
+    },
+    {
+     "sa": "उत्पल कुमुद पद्म किञ्जल्कः सांग्राहिक रक्तपित्तप्रशमनानाम्",
+     "iast": "utpala kumuda padma kiñjalkaḥ sāṃgrāhika raktapittapraśamanānām",
+     "en": "filaments of utpala, kumuda and padma (lotuses) among astringents and raktapitta pacifiers",
+     "hi": "उत्पल, कुमुद, पद्म के केसर संग्राही और रक्तपित्तशामकों में"
+    },
+    {
+     "sa": "दुरालभा पित्तश्लेष्मप्रशमनानाम्",
+     "iast": "durālabhā pittaśleṣmapraśamanānām",
+     "en": "durālabhā among pacifiers of pitta and kapha",
+     "hi": "दुरालभा पित्त-कफ शामकों में"
+    },
+    {
+     "sa": "गन्धप्रियङ्गुः शोणितपित्त अतियोग प्रशमनानाम्",
+     "iast": "gandhapriyaṅguḥ śoṇitapitta atiyoga praśamanānām",
+     "en": "gandhapriyaṅgu among remedies for excessive bleeding",
+     "hi": "गन्धप्रियंगु रक्तपित्त और अतिस्राव शामकों में"
+    },
+    {
+     "sa": "कुटजत्वक् श्लेष्म पित्त रक्त सांग्राहिक उपशोषणानाम्",
+     "iast": "kuṭajatvak śleṣma pitta rakta sāṃgrāhika upaśoṣaṇānām",
+     "en": "kuṭaja bark among astringent and drying drugs for kapha, pitta and blood",
+     "hi": "कुटज की छाल कफ, पित्त, रक्त के संग्राही और उपशोषक द्रव्यों में"
+    },
+    {
+     "sa": "काश्मर्यफलम् रक्तसांग्राहिक रक्तपित्तप्रशमनानाम्",
+     "iast": "kāśmaryaphalam raktasāṃgrāhika raktapittapraśamanānām",
+     "en": "kāśmarya (gambhārī) fruit among haemostatics and raktapitta pacifiers",
+     "hi": "काश्मर्य फल रक्तस्तम्भक और रक्तपित्तशामकों में"
+    },
+    {
+     "sa": "पृश्निपर्णी सांग्राहिक वातहर दीपनीय वृष्याणाम्",
+     "iast": "pṛśniparṇī sāṃgrāhika vātahara dīpanīya vṛṣyāṇām",
+     "en": "pṛśniparṇī among astringent, vāta-alleviating, appetising and aphrodisiac drugs",
+     "hi": "पृश्निपर्णी संग्राही, वातहर, दीपन और वृष्य द्रव्यों में"
+    },
+    {
+     "sa": "विदारिगन्धा वृष्य सर्वदोषहराणाम्",
+     "iast": "vidārigandhā vṛṣya sarvadoṣaharāṇām",
+     "en": "vidārigandhā (śālaparṇī) among aphrodisiac and all-doṣa-alleviating drugs",
+     "hi": "विदारिगन्धा (शालपर्णी) वृष्य और सर्वदोषहर द्रव्यों में"
+    },
+    {
+     "sa": "बला सांग्राहिक बल्य वातहराणाम्",
+     "iast": "balā sāṃgrāhika balya vātaharāṇām",
+     "en": "balā among astringent, strength-promoting, vāta-alleviating drugs",
+     "hi": "बला संग्राही, बल्य और वातहर द्रव्यों में"
+    },
+    {
+     "sa": "गोक्षुरकः मूत्रकृच्छ्र अनिलहराणाम्",
+     "iast": "gokṣurakaḥ mūtrakṛcchra anilaharāṇām",
+     "en": "gokṣura among remedies for dysuria and vāta",
+     "hi": "गोक्षुर मूत्रकृच्छ्र और वातहर द्रव्यों में"
+    },
+    {
+     "sa": "हिङ्गुनिर्यासः छेदनीय दीपनीय आनुलोमिक वातकफप्रशमनानाम्",
+     "iast": "hiṅguniryāsaḥ chedanīya dīpanīya ānulomika vātakaphapraśamanānām",
+     "en": "asafoetida resin among scraping, appetising, carminative drugs pacifying vāta and kapha",
+     "hi": "हिंगु निर्यास छेदन, दीपन, अनुलोमन और वात-कफ शामकों में"
+    },
+    {
+     "sa": "अम्लवेतसः भेदनीय दीपनीय आनुलोमिक वातश्लेष्महराणाम्",
+     "iast": "amlavetasaḥ bhedanīya dīpanīya ānulomika vātaśleṣmaharāṇām",
+     "en": "amlavetasa among breaking (purgative), appetising, carminative drugs alleviating vāta and kapha",
+     "hi": "अम्लवेतस भेदन, दीपन, अनुलोमन और वात-कफहर द्रव्यों में"
+    },
+    {
+     "sa": "यावशूकः स्रंसनीय पाचनीय अर्शोघ्नानाम्",
+     "iast": "yāvaśūkaḥ sraṃsanīya pācanīya arśoghnānām",
+     "en": "yavakṣāra among laxative, digestive and anti-haemorrhoidal drugs",
+     "hi": "यावशूक (यवक्षार) स्रंसन, पाचन और अर्शोघ्न द्रव्यों में"
+    },
+    {
+     "sa": "तक्राभ्यासः ग्रहणीदोष शोफ अर्शः घृतव्यापत् प्रशमनानाम्",
+     "iast": "takrābhyāsaḥ grahaṇīdoṣa śopha arśaḥ ghṛtavyāpat praśamanānām",
+     "en": "regular use of buttermilk among remedies for grahaṇī disorders, swelling, piles and complications of ghee intake",
+     "hi": "तक्र का नियमित सेवन ग्रहणी दोष, शोथ, अर्श और घृत-व्यापद् शामकों में"
+    },
+    {
+     "sa": "क्रव्यात् मांसरस अभ्यासः ग्रहणीदोष शोष अर्शोघ्नानाम्",
+     "iast": "kravyāt māṃsarasa abhyāsaḥ grahaṇīdoṣa śoṣa arśoghnānām",
+     "en": "regular use of soup of carnivorous animals' meat among remedies for grahaṇī disorders, wasting and piles",
+     "hi": "मांसाहारी पशुओं के मांसरस का नियमित सेवन ग्रहणी दोष, शोष और अर्शनाशकों में"
+    },
+    {
+     "sa": "क्षीर घृत अभ्यासः रसायनानाम्",
+     "iast": "kṣīra ghṛta abhyāsaḥ rasāyanānām",
+     "en": "regular use of milk and ghee among rejuvenatives",
+     "hi": "दूध और घी का नियमित सेवन रसायनों में"
+    },
+    {
+     "sa": "सम घृत सक्तु प्राश अभ्यासः वृष्य उदावर्तहराणाम्",
+     "iast": "sama ghṛta saktu prāśa abhyāsaḥ vṛṣya udāvartaharāṇām",
+     "en": "regular intake of roasted flour with equal ghee among aphrodisiacs and remedies for udāvarta",
+     "hi": "समान घृत के साथ सत्तू का नियमित सेवन वृष्य और उदावर्तहरों में"
+    },
+    {
+     "sa": "तैल गण्डूष अभ्यासः दन्तबल रुचिकराणाम्",
+     "iast": "taila gaṇḍūṣa abhyāsaḥ dantabala rucikarāṇām",
+     "en": "regular oil gargling among things strengthening teeth and improving taste",
+     "hi": "तैल गण्डूष का नियमित अभ्यास दाँतों को बल और रुचि देने वालों में"
+    },
+    {
+     "sa": "चन्दनम् दुर्गन्धहर दाहनिर्वापण लेपनानाम्",
+     "iast": "candanam durgandhahara dāhanirvāpaṇa lepanānām",
+     "en": "sandalwood among pastes removing bad odour and relieving burning",
+     "hi": "चन्दन दुर्गन्धनाशक और दाहशामक लेपों में"
+    },
+    {
+     "sa": "रास्ना अगुरुणी शीतापनयन प्रलेपनानाम्",
+     "iast": "rāsnā aguruṇī śītāpanayana pralepanānām",
+     "en": "rāsnā and aguru among pastes removing cold",
+     "hi": "रास्ना और अगुरु शीत दूर करने वाले लेपों में"
+    },
+    {
+     "sa": "लामज्जक उशीरम् दाह त्वग्दोष स्वेद अपनयन प्रलेपनानाम्",
+     "iast": "lāmajjaka uśīram dāha tvagdoṣa sveda apanayana pralepanānām",
+     "en": "lāmajjaka and uśīra among pastes removing burning, skin disorders and sweating",
+     "hi": "लामज्जक और उशीर दाह, त्वचा-दोष और स्वेद दूर करने वाले लेपों में"
+    },
+    {
+     "sa": "कुष्ठम् वातहर अभ्यङ्ग उपनाह उपयोगिनाम्",
+     "iast": "kuṣṭham vātahara abhyaṅga upanāha upayoginām",
+     "en": "kuṣṭha among vāta-alleviating drugs useful for massage and poultice",
+     "hi": "कुष्ठ वातहर अभ्यंग और उपनाह में उपयोगी द्रव्यों में"
+    },
+    {
+     "sa": "मधुकम् चक्षुष्य वृष्य केश्य कण्ठ्य वर्ण्य विरजनीय रोपणीयानाम्",
+     "iast": "madhukam cakṣuṣya vṛṣya keśya kaṇṭhya varṇya virajanīya ropaṇīyānām",
+     "en": "madhuka (liquorice) among drugs good for the eyes, virility, hair, throat, complexion, clearing and wound healing",
+     "hi": "मधुक (मुलेठी) चक्षुष्य, वृष्य, केश्य, कण्ठ्य, वर्ण्य, विरजनीय और रोपण द्रव्यों में"
+    },
+    {
+     "sa": "वायुः प्राण संज्ञा प्रदान हेतूनाम्",
+     "iast": "vāyuḥ prāṇa saṃjñā pradāna hetūnām",
+     "en": "air among causes that give life and consciousness",
+     "hi": "वायु प्राण और चेतना देने वाले कारणों में"
+    },
+    {
+     "sa": "अग्निः आम स्तम्भ शीत शूल उद्वेपन प्रशमनानाम्",
+     "iast": "agniḥ āma stambha śīta śūla udvepana praśamanānām",
+     "en": "fire (heat) among relievers of āma, stiffness, cold, colic and shivering",
+     "hi": "अग्नि आम, स्तम्भ, शीत, शूल और कम्पकँपी शामकों में"
+    },
+    {
+     "sa": "जलम् स्तम्भनीयानाम्",
+     "iast": "jalam stambhanīyānām",
+     "en": "water among checking (styptic) measures",
+     "hi": "जल स्तम्भन करने वालों में"
+    },
+    {
+     "sa": "मृद्भृष्ट लोष्ट्र निर्वापितम् उदकम् तृष्णा छर्दि अतियोग प्रशमनानाम्",
+     "iast": "mṛdbhṛṣṭa loṣṭra nirvāpitam udakam tṛṣṇā chardi atiyoga praśamanānām",
+     "en": "water quenched with heated clay lumps among relievers of thirst and excessive vomiting",
+     "hi": "तपाए मिट्टी के ढेले बुझाया हुआ जल तृष्णा और अधिक छर्दि शामकों में"
+    },
+    {
+     "sa": "अतिमात्राशनम् आमप्रदोषहेतूनाम्",
+     "iast": "atimātrāśanam āmapradoṣahetūnām",
+     "en": "overeating among causes of āma disorders",
+     "hi": "अतिमात्रा भोजन आमदोष के कारणों में"
+    },
+    {
+     "sa": "यथाग्नि अभ्यवहारः अग्निसंधुक्षणानाम्",
+     "iast": "yathāgni abhyavahāraḥ agnisaṃdhukṣaṇānām",
+     "en": "eating according to digestive power among stimulants of agni",
+     "hi": "अग्नि के अनुसार भोजन अग्नि को प्रदीप्त करने वालों में"
+    },
+    {
+     "sa": "यथासात्म्यम् चेष्टा अभ्यवहारौ सेव्यानाम्",
+     "iast": "yathāsātmyam ceṣṭā abhyavahārau sevyānām",
+     "en": "activity and food as per habituation among things to be practised",
+     "hi": "सात्म्य के अनुसार चेष्टा और आहार सेवनीयों में"
+    },
+    {
+     "sa": "कालभोजनम् आरोग्यकराणाम्",
+     "iast": "kālabhojanam ārogyakarāṇām",
+     "en": "eating at the proper time among health promoters",
+     "hi": "उचित समय पर भोजन आरोग्यकारकों में"
+    },
+    {
+     "sa": "तृप्तिः आहारगुणानाम्",
+     "iast": "tṛptiḥ āhāraguṇānām",
+     "en": "satisfaction among qualities of food",
+     "hi": "तृप्ति आहार के गुणों में"
+    },
+    {
+     "sa": "वेगसंधारणम् अनारोग्यकराणाम्",
+     "iast": "vegasaṃdhāraṇam anārogyakarāṇām",
+     "en": "suppression of natural urges among causes of ill health",
+     "hi": "वेगों को रोकना अनारोग्यकारकों में"
+    },
+    {
+     "sa": "मद्यम् सौमनस्यजननानाम्",
+     "iast": "madyam saumanasyajananānām",
+     "en": "wine among producers of cheerfulness",
+     "hi": "मद्य प्रसन्नता देने वालों में"
+    },
+    {
+     "sa": "मद्याक्षेपः धी धृति स्मृति हराणाम्",
+     "iast": "madyākṣepaḥ dhī dhṛti smṛti harāṇām",
+     "en": "excessive drinking among destroyers of intellect, restraint and memory",
+     "hi": "अधिक मद्यपान बुद्धि, धृति और स्मृति नष्ट करने वालों में"
+    },
+    {
+     "sa": "गुरुभोजनम् दुर्विपाककराणाम्",
+     "iast": "gurubhojanam durvipākakarāṇām",
+     "en": "heavy food among causes of poor digestion",
+     "hi": "गुरु भोजन दुर्विपाक करने वालों में"
+    },
+    {
+     "sa": "एकाशनभोजनम् सुखपरिणामकराणाम्",
+     "iast": "ekāśanabhojanam sukhapariṇāmakarāṇām",
+     "en": "eating once a day among things easy to digest",
+     "hi": "एक बार भोजन सुखपूर्वक पचने वालों में"
+    },
+    {
+     "sa": "स्त्रीषु अतिप्रसङ्गः शोषकराणाम्",
+     "iast": "strīṣu atiprasaṅgaḥ śoṣakarāṇām",
+     "en": "sexual excess among causes of wasting",
+     "hi": "स्त्रियों में अति-आसक्ति शोषकारकों में"
+    },
+    {
+     "sa": "शुक्रवेगनिग्रहः षाण्ढ्यकराणाम्",
+     "iast": "śukraveganigrahaḥ ṣāṇḍhyakarāṇām",
+     "en": "suppression of the urge of semen among causes of impotence",
+     "hi": "शुक्रवेग रोकना षाण्ढ्य (नपुंसकता) करने वालों में"
+    },
+    {
+     "sa": "पराघातनम् अन्नाश्रद्धाजननानाम्",
+     "iast": "parāghātanam annāśraddhājananānām",
+     "en": "(sight of) a slaughterhouse among causes of aversion to food",
+     "hi": "वधस्थल अन्न में अश्रद्धा उत्पन्न करने वालों में"
+    },
+    {
+     "sa": "अनशनम् आयुषः ह्रासकराणाम्",
+     "iast": "anaśanam āyuṣaḥ hrāsakarāṇām",
+     "en": "fasting (starvation) among things shortening life",
+     "hi": "अनशन आयु घटाने वालों में"
+    },
+    {
+     "sa": "प्रमिताशनम् कर्शनीयानाम्",
+     "iast": "pramitāśanam karśanīyānām",
+     "en": "scanty eating among causes of emaciation",
+     "hi": "अल्प भोजन कृश करने वालों में"
+    },
+    {
+     "sa": "अजीर्ण अध्यशनम् ग्रहणीदूषणानाम्",
+     "iast": "ajīrṇa adhyaśanam grahaṇīdūṣaṇānām",
+     "en": "eating during indigestion or on top of the previous meal among things vitiating grahaṇī",
+     "hi": "अजीर्ण में भोजन और अध्यशन ग्रहणी दूषित करने वालों में"
+    },
+    {
+     "sa": "विषमाशनम् अग्निवैषम्यकराणाम्",
+     "iast": "viṣamāśanam agnivaiṣamyakarāṇām",
+     "en": "irregular eating among causes of irregular agni",
+     "hi": "विषम भोजन अग्नि को विषम करने वालों में"
+    },
+    {
+     "sa": "विरुद्धवीर्य अशनम् निन्दितव्याधिकराणाम्",
+     "iast": "viruddhavīrya aśanam ninditavyādhikarāṇām",
+     "en": "eating foods of incompatible potency among causes of grave (despised) diseases",
+     "hi": "विरुद्ध वीर्य वाला भोजन निन्दित रोग करने वालों में"
+    },
+    {
+     "sa": "प्रशमः पथ्यानाम्",
+     "iast": "praśamaḥ pathyānām",
+     "en": "tranquillity among wholesome things",
+     "hi": "प्रशम (शान्ति) पथ्य में"
+    },
+    {
+     "sa": "आयासः सर्वापथ्यानाम्",
+     "iast": "āyāsaḥ sarvāpathyānām",
+     "en": "over-exertion among all unwholesome things",
+     "hi": "आयास (अति परिश्रम) सब अपथ्यों में"
+    },
+    {
+     "sa": "मिथ्यायोगः व्याधिकराणाम्",
+     "iast": "mithyāyogaḥ vyādhikarāṇām",
+     "en": "wrong use among causes of disease",
+     "hi": "मिथ्यायोग रोगकारकों में"
+    },
+    {
+     "sa": "रजस्वलाभिगमनम् अलक्ष्मीमुखानाम्",
+     "iast": "rajasvalābhigamanam alakṣmīmukhānām",
+     "en": "intercourse with a menstruating woman among causes of misfortune",
+     "hi": "रजस्वला-गमन अलक्ष्मी (दुर्भाग्य) के कारणों में"
+    },
+    {
+     "sa": "ब्रह्मचर्यम् आयुष्याणाम्",
+     "iast": "brahmacaryam āyuṣyāṇām",
+     "en": "celibacy (self-restraint) among promoters of longevity",
+     "hi": "ब्रह्मचर्य आयुष्य द्रव्यों/उपायों में"
+    },
+    {
+     "sa": "परदाराभिगमनम् अनायुष्याणाम्",
+     "iast": "paradārābhigamanam anāyuṣyāṇām",
+     "en": "adultery among things that shorten life",
+     "hi": "परस्त्री-गमन आयु घटाने वालों में"
+    },
+    {
+     "sa": "सङ्कल्पः वृष्याणाम्",
+     "iast": "saṅkalpaḥ vṛṣyāṇām",
+     "en": "determination (desire) among aphrodisiacs",
+     "hi": "संकल्प वृष्यों में"
+    },
+    {
+     "sa": "दौर्मनस्यम् अवृष्याणाम्",
+     "iast": "daurmanasyam avṛṣyāṇām",
+     "en": "dejection among anaphrodisiacs",
+     "hi": "दौर्मनस्य अवृष्यों में"
+    },
+    {
+     "sa": "अयथाबलम् आरम्भः प्राणोपरोधिनाम्",
+     "iast": "ayathābalam ārambhaḥ prāṇoparodhinām",
+     "en": "undertaking work beyond one's strength among things that endanger life",
+     "hi": "सामर्थ्य से अधिक कार्य प्राण को रोकने वालों में"
+    },
+    {
+     "sa": "विषादः रोगवर्धनानाम्",
+     "iast": "viṣādaḥ rogavardhanānām",
+     "en": "despondency among aggravators of disease",
+     "hi": "विषाद रोग बढ़ाने वालों में"
+    },
+    {
+     "sa": "स्नानम् श्रमहराणाम्",
+     "iast": "snānam śramaharāṇām",
+     "en": "bathing among fatigue relievers",
+     "hi": "स्नान थकान दूर करने वालों में"
+    },
+    {
+     "sa": "हर्षः प्रीणनानाम्",
+     "iast": "harṣaḥ prīṇanānām",
+     "en": "joy among things that give contentment",
+     "hi": "हर्ष प्रसन्नता देने वालों में"
+    },
+    {
+     "sa": "शोकः शोषणानाम्",
+     "iast": "śokaḥ śoṣaṇānām",
+     "en": "grief among causes of wasting",
+     "hi": "शोक शोषण करने वालों में"
+    },
+    {
+     "sa": "निवृत्तिः पुष्टिकराणाम्",
+     "iast": "nivṛttiḥ puṣṭikarāṇām",
+     "en": "freedom from worry (rest) among things promoting nourishment",
+     "hi": "निवृत्ति पुष्टि करने वालों में"
+    },
+    {
+     "sa": "पुष्टिः स्वप्नकराणाम्",
+     "iast": "puṣṭiḥ svapnakarāṇām",
+     "en": "nourished state among things inducing sleep",
+     "hi": "पुष्टि निद्रा लाने वालों में"
+    },
+    {
+     "sa": "अतिस्वप्नः तन्द्राकराणाम्",
+     "iast": "atisvapnaḥ tandrākarāṇām",
+     "en": "oversleeping among causes of drowsiness",
+     "hi": "अति निद्रा तन्द्रा करने वालों में"
+    },
+    {
+     "sa": "सर्वरस अभ्यासः बलकराणाम्",
+     "iast": "sarvarasa abhyāsaḥ balakarāṇām",
+     "en": "regular use of all tastes among strength promoters",
+     "hi": "सभी रसों का अभ्यास बलकारकों में"
+    },
+    {
+     "sa": "एकरस अभ्यासः दौर्बल्यकराणाम्",
+     "iast": "ekarasa abhyāsaḥ daurbalyakarāṇām",
+     "en": "regular use of a single taste among causes of weakness",
+     "hi": "एक रस का अभ्यास दुर्बलता करने वालों में"
+    },
+    {
+     "sa": "गर्भशल्यम् आहार्याणाम्",
+     "iast": "garbhaśalyam āhāryāṇām",
+     "en": "a dead foetus among things to be extracted",
+     "hi": "गर्भशल्य (मृत गर्भ) निकालने योग्य में"
+    },
+    {
+     "sa": "अजीर्णम् उद्धार्याणाम्",
+     "iast": "ajīrṇam uddhāryāṇām",
+     "en": "indigestion among things to be eliminated (by emesis)",
+     "hi": "अजीर्ण निकालने योग्य में"
+    },
+    {
+     "sa": "बालः मृदुभेषजीयानाम्",
+     "iast": "bālaḥ mṛdubheṣajīyānām",
+     "en": "a child among those needing mild medicines",
+     "hi": "बालक मृदु औषधि योग्य में"
+    },
+    {
+     "sa": "वृद्धः याप्यानाम्",
+     "iast": "vṛddhaḥ yāpyānām",
+     "en": "an old person among those (conditions) only to be maintained",
+     "hi": "वृद्ध याप्य में"
+    },
+    {
+     "sa": "गर्भिणी तीक्ष्णौषध व्यवाय व्यायाम वर्जनीयानाम्",
+     "iast": "garbhiṇī tīkṣṇauṣadha vyavāya vyāyāma varjanīyānām",
+     "en": "a pregnant woman among those who must avoid strong drugs, sex and exercise",
+     "hi": "गर्भिणी तीक्ष्ण औषध, मैथुन और व्यायाम से बचने योग्य में"
+    },
+    {
+     "sa": "सौमनस्यम् गर्भधारणानाम्",
+     "iast": "saumanasyam garbhadhāraṇānām",
+     "en": "cheerfulness among things that sustain pregnancy",
+     "hi": "सौमनस्य गर्भधारण में सहायक में"
+    },
+    {
+     "sa": "सन्निपातः दुश्चिकित्स्यानाम्",
+     "iast": "sannipātaḥ duścikitsyānām",
+     "en": "sannipāta (all three doṣas) among the most difficult to treat",
+     "hi": "सन्निपात दुश्चिकित्स्यों में"
+    },
+    {
+     "sa": "आमः विषमचिकित्स्यानाम्",
+     "iast": "āmaḥ viṣamacikitsyānām",
+     "en": "āma among those with contradictory treatment",
+     "hi": "आम विषम-चिकित्स्यों में"
+    },
+    {
+     "sa": "ज्वरः रोगाणाम्",
+     "iast": "jvaraḥ rogāṇām",
+     "en": "fever among diseases",
+     "hi": "ज्वर रोगों में"
+    },
+    {
+     "sa": "कुष्ठम् दीर्घरोगाणाम्",
+     "iast": "kuṣṭham dīrgharogāṇām",
+     "en": "skin disease among chronic diseases",
+     "hi": "कुष्ठ दीर्घ रोगों में"
+    },
+    {
+     "sa": "राजयक्ष्मा रोगसमूहानाम्",
+     "iast": "rājayakṣmā rogasamūhānām",
+     "en": "rājayakṣmā among groups (complexes) of diseases",
+     "hi": "राजयक्ष्मा रोग-समूहों में"
+    },
+    {
+     "sa": "प्रमेहः अनुषङ्गिणाम्",
+     "iast": "pramehaḥ anuṣaṅgiṇām",
+     "en": "prameha among diseases that persist (recur)",
+     "hi": "प्रमेह अनुषंगी (पीछा न छोड़ने वाले) रोगों में"
+    },
+    {
+     "sa": "जलौकसः अनुशस्त्राणाम्",
+     "iast": "jalaukasaḥ anuśastrāṇām",
+     "en": "leeches among para-surgical instruments",
+     "hi": "जलौका अनुशस्त्रों में"
+    },
+    {
+     "sa": "बस्तिः तन्त्राणाम्",
+     "iast": "bastiḥ tantrāṇām",
+     "en": "enema among therapeutic procedures",
+     "hi": "बस्ति तन्त्रों (चिकित्सा विधियों) में"
+    },
+    {
+     "sa": "हिमवान् औषधिभूमीनाम्",
+     "iast": "himavān auṣadhibhūmīnām",
+     "en": "the Himālaya among lands of medicinal plants",
+     "hi": "हिमालय औषधि-भूमियों में"
+    },
+    {
+     "sa": "सोमः ओषधीनाम्",
+     "iast": "somaḥ oṣadhīnām",
+     "en": "soma among medicinal plants",
+     "hi": "सोम औषधियों में"
+    },
+    {
+     "sa": "मरुभूमिः आरोग्यदेशानाम्",
+     "iast": "marubhūmiḥ ārogyadeśānām",
+     "en": "arid land among healthy regions",
+     "hi": "मरुभूमि आरोग्य देशों में"
+    },
+    {
+     "sa": "अनूपः अहितदेशानाम्",
+     "iast": "anūpaḥ ahitadeśānām",
+     "en": "marshy land among unhealthy regions",
+     "hi": "अनूप देश अहित देशों में"
+    },
+    {
+     "sa": "निर्देशकारित्वम् आतुरगुणानाम्",
+     "iast": "nirdeśakāritvam āturaguṇānām",
+     "en": "obeying instructions among a patient's qualities",
+     "hi": "निर्देश मानना रोगी के गुणों में"
+    },
+    {
+     "sa": "भिषक् चिकित्साङ्गानाम्",
+     "iast": "bhiṣak cikitsāṅgānām",
+     "en": "the physician among the limbs of treatment",
+     "hi": "वैद्य चिकित्सा के अंगों में"
+    },
+    {
+     "sa": "नास्तिकः वर्ज्यानाम्",
+     "iast": "nāstikaḥ varjyānām",
+     "en": "a non-believer (nihilist) among those to be avoided",
+     "hi": "नास्तिक त्यागने योग्य में"
+    },
+    {
+     "sa": "लौल्यम् क्लेशकराणाम्",
+     "iast": "laulyam kleśakarāṇām",
+     "en": "greed among causes of suffering",
+     "hi": "लोलुपता क्लेश देने वालों में"
+    },
+    {
+     "sa": "अनिर्देशकारित्वम् अरिष्टानाम्",
+     "iast": "anirdeśakāritvam ariṣṭānām",
+     "en": "not following instructions among bad prognostic signs",
+     "hi": "निर्देश न मानना अरिष्ट लक्षणों में"
+    },
+    {
+     "sa": "अनिर्वेदः वार्त्तलक्षणानाम्",
+     "iast": "anirvedaḥ vārttalakṣaṇānām",
+     "en": "absence of despondency (perseverance) among signs of good health/success",
+     "hi": "अनिर्वेद (उत्साह) स्वास्थ्य/सफलता के लक्षणों में"
+    },
+    {
+     "sa": "वैद्यसमूहः निःसंशयकराणाम्",
+     "iast": "vaidyasamūhaḥ niḥsaṃśayakarāṇām",
+     "en": "a group of physicians among things removing doubt",
+     "hi": "वैद्यों का समूह संशय दूर करने वालों में"
+    },
+    {
+     "sa": "योगः वैद्यगुणानाम्",
+     "iast": "yogaḥ vaidyaguṇānām",
+     "en": "skill in proper application among the qualities of a physician",
+     "hi": "योग (उचित प्रयोग) वैद्य के गुणों में"
+    },
+    {
+     "sa": "विज्ञानम् औषधीनाम्",
+     "iast": "vijñānam auṣadhīnām",
+     "en": "knowledge among medicines",
+     "hi": "विज्ञान औषधियों में"
+    },
+    {
+     "sa": "शास्त्रसहितः तर्कः साधनानाम्",
+     "iast": "śāstrasahitaḥ tarkaḥ sādhanānām",
+     "en": "reasoning supported by the śāstra among means (of success)",
+     "hi": "शास्त्र-सहित तर्क साधनों में"
+    },
+    {
+     "sa": "सम्प्रतिपत्तिः कालज्ञानप्रयोजनानाम्",
+     "iast": "sampratipattiḥ kālajñānaprayojanānām",
+     "en": "timely action among the purposes of knowing time",
+     "hi": "उचित समय पर कार्य काल-ज्ञान के प्रयोजनों में"
+    },
+    {
+     "sa": "अव्यवसायः कालातिपत्तिहेतूनाम्",
+     "iast": "avyavasāyaḥ kālātipattihetūnām",
+     "en": "indecision (procrastination) among causes of losing the right time",
+     "hi": "अव्यवसाय (टालमटोल) समय निकल जाने के कारणों में"
+    },
+    {
+     "sa": "दृष्टकर्मता निःसंशयकराणाम्",
+     "iast": "dṛṣṭakarmatā niḥsaṃśayakarāṇām",
+     "en": "practical experience among things removing doubt",
+     "hi": "दृष्टकर्मता (व्यावहारिक अनुभव) संशय दूर करने वालों में"
+    },
+    {
+     "sa": "असमर्थता भयकराणाम्",
+     "iast": "asamarthatā bhayakarāṇām",
+     "en": "incompetence among causes of fear",
+     "hi": "असमर्थता भय उत्पन्न करने वालों में"
+    },
+    {
+     "sa": "तद्विद्यसंभाषा बुद्धिवर्धनानाम्",
+     "iast": "tadvidyasaṃbhāṣā buddhivardhanānām",
+     "en": "discussion with experts among things that increase intellect",
+     "hi": "विशेषज्ञों से सम्भाषा बुद्धिवर्धकों में"
+    },
+    {
+     "sa": "आचार्यः शास्त्राधिगमहेतूनाम्",
+     "iast": "ācāryaḥ śāstrādhigamahetūnām",
+     "en": "the teacher among means of learning the śāstra",
+     "hi": "आचार्य शास्त्र-ज्ञान के साधनों में"
+    },
+    {
+     "sa": "आयुर्वेदः अमृतानाम्",
+     "iast": "āyurvedaḥ amṛtānām",
+     "en": "Āyurveda among immortalising things",
+     "hi": "आयुर्वेद अमृतों में"
+    },
+    {
+     "sa": "सद्वचनम् अनुष्ठेयानाम्",
+     "iast": "sadvacanam anuṣṭheyānām",
+     "en": "the words of the good among things to be followed",
+     "hi": "सद्वचन पालन करने योग्य में"
+    },
+    {
+     "sa": "असद्ग्रहणम् सर्वाहितानाम्",
+     "iast": "asadgrahaṇam sarvāhitānām",
+     "en": "accepting the wrong (adherence to evil) among all harmful things",
+     "hi": "असद्ग्रहण सब अहितों में"
+    },
+    {
+     "sa": "सर्वसंन्यासः सुखानाम्",
+     "iast": "sarvasaṃnyāsaḥ sukhānām",
+     "en": "renunciation of all among sources of happiness",
+     "hi": "सर्वसंन्यास सुखों में"
+    },
+    {
+     "sa": "इति",
+     "iast": "iti",
+     "en": "thus",
+     "hi": "इस प्रकार"
+    }
+   ],
+   "english": "Hereafter we shall explain the pre-eminent items among therapeutic procedures and medicines, together with related (including harmful) items. Food (anna) is the best among sustainers of life; water among refreshing things; surā among fatigue relievers; milk among vitalisers (jīvanīya); meat among bulk-promoting things; meat soup among satisfying things; salt among things that make food tasty; sour among things pleasing to the heart; fowl among strength promoters; crocodile semen among aphrodisiacs; honey among pacifiers of kapha and pitta; ghee among pacifiers of vāta and pitta; oil among pacifiers of vāta and kapha; emesis (vamana) among kapha-eliminating measures; purgation (virecana) among pitta-eliminating measures; enema (basti) among vāta-eliminating measures; sudation among softening measures; exercise among things giving firmness; alkali (kṣāra) among things harmful to virility; tinduka among things that spoil the relish for food; unripe kapittha among things harmful to the throat; sheep's ghee among things unpleasant to the heart; goat's milk among things that counter wasting, suit like breast milk, check bleeding and pacify raktapitta; sheep's milk among things that increase kapha and pitta; buffalo milk among sleep inducers; immature curd among channel-blocking (abhiṣyandi) things; gavedhuka grain among slimming foods; uddālaka grain among drying foods; sugarcane among diuretics; barley among things increasing faeces; jambū fruit among vāta-increasing things; śaṣkulī among kapha-pitta increasing things; horse gram (kulattha) among causes of amlapitta; black gram among kapha-pitta increasing things. Madanaphala is best among drugs for emesis, decoction enema and oil enema; trivṛt among easy purgatives; caturaṅgula (āragvadha) among mild purgatives; snuhī latex among drastic purgatives; apāmārga among head-evacuating drugs; viḍaṅga among anthelmintics; śirīṣa among antidotes; khadira among remedies for skin disease (kuṣṭha); rāsnā among vāta-alleviating drugs; āmalaka among age-sustaining drugs (vayaḥsthāpana); harītakī among wholesome drugs (pathya); castor root among aphrodisiac and vāta-alleviating drugs; pippalī root among appetisers, digestives and remedies for anal swelling, piles and colic; puṣkaramūla among remedies for hiccup, dyspnoea, cough and chest-side pain; musta among astringent, appetiser and digestive drugs; udīcya among cooling, appetiser, digestive and anti-vomiting, anti-diarrhoeal drugs; kaṭvaṅga among astringents and raktapitta pacifiers; amṛtā (guḍūcī) among astringent, vāta-alleviating and appetiser drugs that relieve kapha, blood disorders and constipation; ativiṣā among appetiser, digestive and astringent drugs alleviating all doṣas; the filaments of utpala, kumuda and padma among astringents and raktapitta pacifiers; durālabhā among pacifiers of pitta and kapha; gandhapriyaṅgu among remedies for excessive bleeding; kuṭaja bark among astringent, drying drugs for kapha, pitta and blood; kāśmarya fruit among haemostatics and raktapitta pacifiers; pṛśniparṇī among astringent, vāta-alleviating, appetiser and aphrodisiac drugs; vidārigandhā among aphrodisiacs alleviating all doṣas; balā among astringent, strength-promoting, vāta-alleviating drugs; gokṣura among remedies for dysuria and vāta; asafoetida among scraping, appetiser, carminative drugs pacifying vāta and kapha; amlavetasa among purgative, appetiser, carminative drugs alleviating vāta and kapha; yavakṣāra among laxative, digestive and anti-haemorrhoidal drugs. Regular use of buttermilk is best for grahaṇī disorders, swelling, piles and complications of ghee therapy; regular use of meat soup of carnivores for grahaṇī disorders, wasting and piles; regular use of milk and ghee among rejuvenatives (rasāyana); regular intake of roasted flour with an equal quantity of ghee among aphrodisiacs and remedies for udāvarta; regular oil gargling among things strengthening the teeth and improving taste; sandalwood among pastes removing bad odour and burning; rāsnā and aguru among pastes removing cold; lāmajjaka and uśīra among pastes removing burning, skin disorders and sweating; kuṣṭha among vāta-alleviating drugs used for massage and poultice; madhuka (liquorice) among drugs good for the eyes, virility, hair, throat, complexion, clearing and wound healing. Air is the best among causes giving life and consciousness; fire among relievers of āma, stiffness, cold, colic and shivering; water among checking (styptic) measures; water quenched with heated clay lumps among relievers of thirst and excessive vomiting; overeating among causes of āma disorders; eating according to digestive power among stimulants of agni; activity and food according to habituation (sātmya) among things to be practised; eating at the proper time among health promoters; satisfaction (tṛpti) among the qualities of food; suppression of natural urges among causes of ill health; wine among producers of cheerfulness; excessive drinking among destroyers of intellect, restraint and memory; heavy food among causes of poor digestion; eating once a day among things easy to digest; sexual excess among causes of wasting; suppression of the urge of semen among causes of impotence; the sight of slaughter among causes of aversion to food; fasting among things shortening life; scanty eating among causes of emaciation; eating during indigestion or eating on top of a previous meal among things vitiating grahaṇī; irregular eating among causes of irregular agni; eating foods of incompatible potency among causes of despised diseases; tranquillity among wholesome things; over-exertion among all unwholesome things; wrong use (mithyāyoga) among causes of disease; intercourse with a menstruating woman among causes of misfortune; celibacy (brahmacarya) among promoters of longevity; adultery among things that shorten life; determination (saṅkalpa) among aphrodisiacs; dejection among anaphrodisiacs; undertaking work beyond one's strength among things that endanger life; despondency (viṣāda) among aggravators of disease; bathing among fatigue relievers; joy among things giving contentment; grief among causes of wasting; freedom from worry among things promoting nourishment; a nourished state among inducers of sleep; oversleeping among causes of drowsiness; regular use of all tastes among strength promoters; regular use of a single taste among causes of weakness; a dead foetus among things to be extracted; indigestion among things to be eliminated; a child among those needing mild medicines; an old person among those with conditions only to be maintained (yāpya); a pregnant woman among those who must avoid strong drugs, sex and exercise; cheerfulness among things sustaining pregnancy. Sannipāta is the most difficult to treat; āma the most contradictory in treatment; fever (jvara) the chief of diseases; kuṣṭha the chief of chronic diseases; rājayakṣmā the chief of disease complexes; prameha the chief of persistent diseases; leeches the best para-surgical instruments; basti the best of procedures; the Himālaya the best land for medicinal plants; soma the best of medicinal plants; arid land (maru) the healthiest region; marshy land (anūpa) the most unwholesome region; obeying instructions the best quality of a patient; the physician the chief limb of treatment; a non-believer (nāstika) the foremost of those to be avoided; greed the chief cause of suffering; disobeying instructions the chief bad prognostic sign; perseverance (anirveda) the chief sign of well-being; a group of physicians the best remover of doubt; skilful application (yoga) the best quality of a physician; knowledge the best medicine; reasoning supported by the śāstra the best means; timely action the main purpose of knowing time; indecision the chief cause of losing the right time; practical experience the best remover of doubt; incompetence the chief cause of fear; discussion with experts the best way to increase intellect; the teacher the best means of learning the śāstra; Āyurveda the best of immortalising things; the words of the good the foremost to be followed; adherence to the wrong the most harmful of all; and renunciation of everything the best of happiness.",
+   "hindi": "अब हम कर्मों और औषधों में प्रधान द्रव्यों को, उनसे सम्बद्ध (अहित सहित) द्रव्यों के साथ, बताएँगे। अन्न जीवन-निर्वाह करने वालों में श्रेष्ठ है; जल ताज़गी देने वालों में; सुरा थकान दूर करने वालों में; दूध जीवनीयों में; मांस बृंहणों में; मांसरस तर्पणों में; लवण भोजन में रुचि लाने वालों में; अम्ल हृद्यों में; कुक्कुट बल्यों में; नक्र-रेतस् वृष्यों में; मधु कफ-पित्त शामकों में; घृत वात-पित्त शामकों में; तैल वात-कफ शामकों में; वमन कफहरों में; विरेचन पित्तहरों में; बस्ति वातहरों में; स्वेद मृदुता लाने वालों में; व्यायाम स्थिरता देने वालों में; क्षार पुंस्त्व नष्ट करने वालों में; तिन्दुक अन्न में अरुचि करने वालों में; कच्चा कपित्थ कण्ठ के लिए अहितकरों में; भेड़ का घी अहृद्यों में; बकरी का दूध शोषनाशक, स्तन्य-सात्म्य, रक्तस्तम्भक और रक्तपित्तशामकों में; भेड़ का दूध कफ-पित्त बढ़ाने वालों में; भैंस का दूध निद्राजनकों में; मन्दक दही अभिष्यन्दकों में; गवेधुक अन्न कृश करने वालों में; उद्दालक अन्न रूक्षण करने वालों में; ईख मूत्रजनकों में; यव पुरीषजनकों में; जामुन वातजनकों में; शष्कुली कफ-पित्तजनकों में; कुलथी अम्लपित्तजनकों में; उड़द कफ-पित्तजनकों में। मदनफल वमन, आस्थापन और अनुवासन में उपयोगी द्रव्यों में श्रेष्ठ है; त्रिवृत् सुखविरेचकों में; आरग्वध मृदुविरेचकों में; स्नुही क्षीर तीक्ष्णविरेचकों में; अपामार्ग शिरोविरेचकों में; विडंग कृमिघ्नों में; शिरीष विषघ्नों में; खदिर कुष्ठघ्नों में; रास्ना वातहरों में; आमलक वयःस्थापनों में; हरीतकी पथ्यों में; एरण्डमूल वृष्य-वातहरों में; पिप्पलीमूल दीपन, पाचन, गुदशोथ, अर्श और शूल नाशकों में; पुष्करमूल हिक्का, श्वास, कास और पार्श्वशूल नाशकों में; मुस्ता संग्राही, दीपन, पाचनों में; उदीच्य शीतल, दीपन, पाचन, छर्दि-अतिसार नाशकों में; कट्वंग संग्राही और रक्तपित्तशामकों में; अमृता (गुडूची) संग्राही, वातहर, दीपन, कफ-रक्त और विबन्ध शामकों में; अतिविषा दीपन, पाचन, संग्राही और सर्वदोषहरों में; उत्पल, कुमुद, पद्म के केसर संग्राही और रक्तपित्तशामकों में; दुरालभा पित्त-कफ शामकों में; गन्धप्रियंगु अति रक्तस्राव शामकों में; कुटज छाल कफ-पित्त-रक्त के संग्राही उपशोषकों में; काश्मर्य फल रक्तस्तम्भक और रक्तपित्तशामकों में; पृश्निपर्णी संग्राही, वातहर, दीपन और वृष्यों में; विदारिगन्धा वृष्य और सर्वदोषहरों में; बला संग्राही, बल्य, वातहरों में; गोक्षुर मूत्रकृच्छ्र और वातहरों में; हिंगु छेदन, दीपन, अनुलोमन और वात-कफ शामकों में; अम्लवेतस भेदन, दीपन, अनुलोमन और वात-कफहरों में; यवक्षार स्रंसन, पाचन और अर्शोघ्नों में। तक्र का नियमित सेवन ग्रहणी दोष, शोथ, अर्श और घृत-व्यापद् में श्रेष्ठ है; मांसाहारी पशुओं के मांसरस का सेवन ग्रहणी दोष, शोष और अर्श में; दूध-घी का नियमित सेवन रसायनों में; समान घी के साथ सत्तू का सेवन वृष्य और उदावर्तहरों में; तैल गण्डूष दाँतों को बल और रुचि देने वालों में; चन्दन दुर्गन्ध और दाह दूर करने वाले लेपों में; रास्ना और अगुरु शीत दूर करने वाले लेपों में; लामज्जक और उशीर दाह, त्वचा-दोष और पसीना दूर करने वाले लेपों में; कुष्ठ वातहर अभ्यंग और उपनाह में; मधुक नेत्र, वृष्य, केश, कण्ठ, वर्ण, विरजनीय और रोपण द्रव्यों में। वायु प्राण और चेतना देने वालों में श्रेष्ठ है; अग्नि आम, स्तम्भ, शीत, शूल और कम्पकँपी शामकों में; जल स्तम्भनों में; तपाए ढेले से बुझाया जल तृष्णा और अधिक छर्दि शामकों में; अति भोजन आमदोष के कारणों में; अग्नि के अनुसार भोजन अग्निवर्धकों में; सात्म्य के अनुसार चेष्टा और आहार सेवनीयों में; समय पर भोजन आरोग्यकारकों में; तृप्ति आहार-गुणों में; वेग-धारण अनारोग्यकारकों में; मद्य प्रसन्नता देने वालों में; अति मद्यपान बुद्धि, धृति, स्मृति नाशकों में; गुरु भोजन दुर्विपाक करने वालों में; एक बार भोजन सुख से पचने वालों में; स्त्रियों में अति-आसक्ति शोषकारकों में; शुक्रवेग-निग्रह नपुंसकता करने वालों में; वध-दर्शन अन्न में अश्रद्धा करने वालों में; अनशन आयु घटाने वालों में; अल्प भोजन कृश करने वालों में; अजीर्ण में भोजन और अध्यशन ग्रहणी-दूषकों में; विषम भोजन अग्नि-वैषम्य करने वालों में; विरुद्ध वीर्य वाला भोजन निन्दित रोग करने वालों में; प्रशम पथ्यों में; आयास सब अपथ्यों में; मिथ्यायोग रोगकारकों में; रजस्वला-गमन दुर्भाग्य के कारणों में; ब्रह्मचर्य आयुष्यों में; परस्त्री-गमन अनायुष्यों में; संकल्प वृष्यों में; दौर्मनस्य अवृष्यों में; सामर्थ्य से अधिक कार्य प्राण-घातकों में; विषाद रोग बढ़ाने वालों में; स्नान थकान दूर करने वालों में; हर्ष प्रसन्नता देने वालों में; शोक शोषकों में; निवृत्ति (चिन्तामुक्ति) पुष्टिकारकों में; पुष्टि निद्राकारकों में; अति निद्रा तन्द्राकारकों में; सब रसों का सेवन बलकारकों में; एक रस का सेवन दुर्बलताकारकों में; मृत गर्भ निकालने योग्य में; अजीर्ण निकालने योग्य में; बालक मृदु औषधि योग्य में; वृद्ध याप्य में; गर्भिणी तीक्ष्ण औषध, मैथुन और व्यायाम से बचने योग्य में; सौमनस्य गर्भधारण में सहायकों में। सन्निपात सबसे दुश्चिकित्स्य है; आम सबसे विषम चिकित्सा वाला; ज्वर रोगों में प्रधान; कुष्ठ दीर्घ रोगों में; राजयक्ष्मा रोग-समूहों में; प्रमेह अनुषंगी रोगों में; जलौका अनुशस्त्रों में; बस्ति चिकित्सा-विधियों में; हिमालय औषधि-भूमियों में; सोम औषधियों में; मरुभूमि आरोग्य देशों में; अनूप अहित देशों में; निर्देश मानना रोगी के गुणों में; वैद्य चिकित्सा के अंगों में; नास्तिक त्याज्यों में; लोलुपता क्लेशकारकों में; निर्देश न मानना अरिष्टों में; अनिर्वेद स्वास्थ्य-लक्षणों में; वैद्य-समूह संशय दूर करने वालों में; योग वैद्य-गुणों में; विज्ञान औषधियों में; शास्त्र-सहित तर्क साधनों में; समय पर कार्य काल-ज्ञान के प्रयोजनों में; अव्यवसाय समय चूकने के कारणों में; दृष्टकर्मता संशय दूर करने वालों में; असमर्थता भयकारकों में; विशेषज्ञों से सम्भाषा बुद्धिवर्धकों में; आचार्य शास्त्र-ज्ञान के साधनों में; आयुर्वेद अमृतों में; सद्वचन पालनीयों में; असद्ग्रहण सब अहितों में; और सर्वसंन्यास सुखों में श्रेष्ठ है।",
+   "explanation_en": "This is the famous agrya saṃgraha - the 'collection of the foremost' items (about 152, per Su 25.41), one of the most heavily examined passages of Caraka Sūtrasthāna. Each entry follows the pattern 'X is the best (or worst) among Y'. It covers diet (anna, udaka, kṣīra), the best purificatory therapies (vamana, virecana, basti), single drugs (āmalaka - vayaḥsthāpana, harītakī - pathya, viḍaṅga - krimighna, khadira - kuṣṭhaghna, rāsnā - vātahara, guḍūcī, musta, ativiṣā), regimen (kālabhojana, vegasaṃdhāraṇa, brahmacarya), diseases (jvara - chief of diseases, kuṣṭha - chronic, rājayakṣmā - complex, prameha - persistent, sannipāta - hardest to treat) and qualities of patients and physicians. Study tip: learn in clusters - (1) food and drink, (2) doṣa pacifiers and śodhana, (3) single drugs, (4) habits and mind, (5) diseases and patients, (6) knowledge and physician. Frequently asked one-liners: 'jvaro rogāṇām', 'bastis tantrāṇām', 'āmalakaṃ vayaḥsthāpanānām', 'harītakī pathyānām', 'āyurvedo 'mṛtānām', 'vegasaṃdhāraṇam anārogyakarāṇām'.",
+   "explanation_hi": "यह प्रसिद्ध अग्र्य संग्रह है - 'श्रेष्ठ द्रव्यों/भावों का संग्रह' (सू. 25.41 के अनुसार लगभग 152), चरक सूत्रस्थान का सबसे अधिक पूछा जाने वाला अंश। प्रत्येक प्रविष्टि का रूप है 'X, Y में श्रेष्ठ (या निकृष्ट) है'। इसमें आहार (अन्न, जल, दूध), श्रेष्ठ शोधन (वमन, विरेचन, बस्ति), एकल औषधियाँ (आमलक - वयःस्थापन, हरीतकी - पथ्य, विडंग - कृमिघ्न, खदिर - कुष्ठघ्न, रास्ना - वातहर, गुडूची, मुस्ता, अतिविषा), दिनचर्या-व्यवहार (कालभोजन, वेगधारण, ब्रह्मचर्य), रोग (ज्वर - रोगों में प्रधान, कुष्ठ - दीर्घ, राजयक्ष्मा - रोग-समूह, प्रमेह - अनुषंगी, सन्निपात - दुश्चिकित्स्य) और रोगी तथा वैद्य के गुण शामिल हैं। पढ़ने की विधि: समूहों में याद करें - (1) आहार-पान, (2) दोषशामक और शोधन, (3) एकल औषधियाँ, (4) आदतें और मन, (5) रोग और रोगी, (6) ज्ञान और वैद्य। अक्सर पूछे जाने वाले: 'ज्वरो रोगाणाम्', 'बस्तिस्तन्त्राणाम्', 'आमलकं वयःस्थापनानाम्', 'हरीतकी पथ्यानाम्', 'आयुर्वेदोऽमृतानाम्', 'वेगसंधारणमनारोग्यकराणाम्'।",
+   "modern_correlation": {
+    "en": "Several entries point to ideas that modern medicine also stresses, such as regular meal timing, avoiding overeating, the harm of excessive alcohol and of chronic grief or stress, the value of exercise for musculoskeletal strength, adherence to medical advice as a key patient factor, and consultation among clinicians (multidisciplinary review) to reduce diagnostic uncertainty. Leech therapy is still used in some reconstructive surgery. Other entries (e.g. specific animal fats, crocodile semen, social prescriptions) are historical and should not be read as medical advice.",
+    "hi": "कई प्रविष्टियाँ उन बातों की ओर संकेत करती हैं जिन पर आधुनिक चिकित्सा भी बल देती है, जैसे भोजन का नियमित समय, अधिक भोजन से बचना, अधिक मद्य और दीर्घकालिक शोक या तनाव की हानि, मांसपेशी-अस्थि की मज़बूती के लिए व्यायाम, रोगी द्वारा चिकित्सा-निर्देशों का पालन, और निदान की अनिश्चितता घटाने के लिए चिकित्सकों का परामर्श (मल्टीडिसिप्लिनरी रिव्यू)। जलौका चिकित्सा आज भी कुछ रिकंस्ट्रक्टिव सर्जरी में प्रयुक्त होती है। अन्य प्रविष्टियाँ (जैसे विशेष पशु-वसा, नक्र-रेतस्, सामाजिक नियम) ऐतिहासिक हैं, इन्हें चिकित्सा-सलाह न समझें।"
+   },
+   "key_terms": [
+    "agrya saṃgraha",
+    "śreṣṭha dravya",
+    "vamana",
+    "virecana",
+    "basti",
+    "āmalaka",
+    "harītakī",
+    "jvara",
+    "vegasaṃdhāraṇa",
+    "kālabhojana"
+   ],
+   "tags": [
+    "agrya",
+    "list",
+    "exam",
+    "dravyaguna",
+    "ahara"
+   ],
+   "importance": "high",
+   "mnemonic": "Six clusters: Food → Doṣa & Śodhana → Single drugs → Habits & Mind → Diseases & Patients → Knowledge & Physician",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.41",
+   "word_meanings": [
+    {
+     "sa": "भवन्ति च अत्र",
+     "iast": "bhavanti ca atra",
+     "en": "and here are (verses)",
+     "hi": "यहाँ ये श्लोक हैं"
+    },
+    {
+     "sa": "अग्र्याणाम् शतम्",
+     "iast": "agryāṇām śatam",
+     "en": "a hundred of the foremost items",
+     "hi": "श्रेष्ठ द्रव्यों के सौ"
+    },
+    {
+     "sa": "उद्दिष्टम्",
+     "iast": "uddiṣṭam",
+     "en": "have been stated",
+     "hi": "बताए गए"
+    },
+    {
+     "sa": "यत् द्विपञ्चाशत् उत्तरम्",
+     "iast": "yat dvipañcāśat uttaram",
+     "en": "which is plus fifty-two",
+     "hi": "जो बावन अधिक हैं"
+    },
+    {
+     "sa": "अलम्",
+     "iast": "alam",
+     "en": "capable, sufficient",
+     "hi": "समर्थ"
+    },
+    {
+     "sa": "एतत् विकाराणाम् विघाताय",
+     "iast": "etat vikārāṇām vighātāya",
+     "en": "this, for destroying disorders",
+     "hi": "यह विकारों के नाश के लिए"
+    },
+    {
+     "sa": "उपदिश्यते",
+     "iast": "upadiśyate",
+     "en": "is taught",
+     "hi": "उपदेश किया जाता है"
+    }
+   ],
+   "english": "Here are the verses: One hundred and fifty-two foremost items have been stated; this (collection) is taught as capable of destroying disorders.",
+   "hindi": "यहाँ ये श्लोक हैं: एक सौ बावन श्रेष्ठ (अग्र्य) द्रव्य बताए गए हैं; यह संग्रह विकारों के नाश में समर्थ है, इसलिए इसका उपदेश किया जाता है।",
+   "explanation_en": "The text itself gives the count of the agrya saṃgraha: 152 (śatam dvipañcāśad-uttaram). This number is a common MCQ. Counts made by individual readers may differ slightly depending on how compound entries are split.",
+   "explanation_hi": "ग्रन्थ स्वयं अग्र्य संग्रह की संख्या देता है: 152 (शतं द्विपञ्चाशदुत्तरम्)। यह संख्या MCQ में अक्सर पूछी जाती है। समस्त प्रविष्टियों को अलग करने के ढंग से व्यक्तिगत गिनती थोड़ी भिन्न हो सकती है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "agrya saṃgraha",
+    "152"
+   ],
+   "tags": [
+    "agrya",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Agrya = 152 (śata + dvi-pañcāśat)",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.42",
+   "word_meanings": [
+    {
+     "sa": "समानकारिणः ये अर्थाः",
+     "iast": "samānakāriṇaḥ ye arthāḥ",
+     "en": "items having similar action",
+     "hi": "समान कार्य करने वाले पदार्थ"
+    },
+    {
+     "sa": "तेषाम् श्रेष्ठस्य लक्षणम्",
+     "iast": "teṣām śreṣṭhasya lakṣaṇam",
+     "en": "the mark of the best among them",
+     "hi": "उनमें श्रेष्ठ का लक्षण"
+    },
+    {
+     "sa": "ज्यायस्त्वम्",
+     "iast": "jyāyastvam",
+     "en": "superiority, greater strength",
+     "hi": "ज्यायस्त्व (अधिक श्रेष्ठता)"
+    },
+    {
+     "sa": "कार्यकर्तृत्वे",
+     "iast": "kāryakartṛtve",
+     "en": "in accomplishing the effect",
+     "hi": "कार्य करने में"
+    },
+    {
+     "sa": "वरत्वम् च अपि",
+     "iast": "varatvam ca api",
+     "en": "and excellence",
+     "hi": "और उत्कृष्टता"
+    },
+    {
+     "sa": "उदाहृतम्",
+     "iast": "udāhṛtam",
+     "en": "is declared",
+     "hi": "बताया गया है"
+    }
+   ],
+   "english": "Among substances having similar actions, the mark of the best is declared to be its superiority in producing the effect and its excellence.",
+   "hindi": "समान कार्य करने वाले पदार्थों में श्रेष्ठ का लक्षण कार्य करने में उसकी अधिक क्षमता और उत्कृष्टता बताया गया है।",
+   "explanation_en": "This defines what 'agrya' (best) means: among items with the same action, the one that acts most strongly and with fewest drawbacks. It is a comparative, not absolute, judgement.",
+   "explanation_hi": "यह बताता है कि 'अग्र्य' (श्रेष्ठ) का अर्थ क्या है: समान कर्म वाले द्रव्यों में जो सबसे प्रबल और कम दोष वाला हो। यह तुलनात्मक निर्णय है, निरपेक्ष नहीं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "agrya",
+    "jyāyastva",
+    "varatva"
+   ],
+   "tags": [
+    "agrya",
+    "definitions"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.43",
+   "word_meanings": [
+    {
+     "sa": "वात पित्त कफानाम् च",
+     "iast": "vāta pitta kaphānām ca",
+     "en": "and of vāta, pitta and kapha",
+     "hi": "और वात, पित्त, कफ के"
+    },
+    {
+     "sa": "यत् यत् प्रशमने हितम्",
+     "iast": "yat yat praśamane hitam",
+     "en": "whatever is beneficial in pacifying",
+     "hi": "जो-जो शमन में हितकर है"
+    },
+    {
+     "sa": "प्राधान्यतः च निर्दिष्टम्",
+     "iast": "prādhānyataḥ ca nirdiṣṭam",
+     "en": "has been indicated by pre-eminence",
+     "hi": "प्रधानता से बताया गया है"
+    },
+    {
+     "sa": "यत् व्याधिहरम् उत्तमम्",
+     "iast": "yat vyādhiharam uttamam",
+     "en": "whatever is best in curing disease",
+     "hi": "जो रोग दूर करने में उत्तम है"
+    }
+   ],
+   "english": "Whatever is most beneficial in pacifying vāta, pitta and kapha, and whatever is best in curing disease, has been indicated by pre-eminence.",
+   "hindi": "वात, पित्त और कफ के शमन में जो-जो सबसे हितकर है और जो रोग दूर करने में उत्तम है, वह प्रधानता से बताया गया है।",
+   "explanation_en": "Summarises the purpose of the agrya list: it highlights the leading remedy in each category so that the physician can choose quickly.",
+   "explanation_hi": "अग्र्य सूची का उद्देश्य: प्रत्येक वर्ग में प्रमुख उपाय बताना ताकि वैद्य शीघ्र चुन सके।",
+   "modern_correlation": null,
+   "key_terms": [
+    "doṣa praśamana",
+    "vyādhihara"
+   ],
+   "tags": [
+    "agrya"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.44",
+   "word_meanings": [
+    {
+     "sa": "एतत् निशम्य",
+     "iast": "etat niśamya",
+     "en": "having heard (learnt) this",
+     "hi": "इसे सुनकर (समझकर)"
+    },
+    {
+     "sa": "निपुणम्",
+     "iast": "nipuṇam",
+     "en": "skilfully",
+     "hi": "निपुणता से"
+    },
+    {
+     "sa": "चिकित्साम् संप्रयोजयेत्",
+     "iast": "cikitsām saṃprayojayet",
+     "en": "should apply treatment",
+     "hi": "चिकित्सा का प्रयोग करे"
+    },
+    {
+     "sa": "एवम् कुर्वन्",
+     "iast": "evam kurvan",
+     "en": "doing so",
+     "hi": "ऐसा करते हुए"
+    },
+    {
+     "sa": "सदा वैद्यः",
+     "iast": "sadā vaidyaḥ",
+     "en": "the physician always",
+     "hi": "वैद्य सदा"
+    },
+    {
+     "sa": "धर्म कामौ",
+     "iast": "dharma kāmau",
+     "en": "virtue and desired ends",
+     "hi": "धर्म और काम"
+    },
+    {
+     "sa": "समश्नुते",
+     "iast": "samaśnute",
+     "en": "attains",
+     "hi": "प्राप्त करता है"
+    }
+   ],
+   "english": "Having learnt this well, one should apply treatment skilfully; a physician who does so always attains virtue (dharma) and his desired ends (kāma).",
+   "hindi": "इसे भली-भाँति समझकर निपुणता से चिकित्सा करनी चाहिए; ऐसा करने वाला वैद्य सदा धर्म और काम (इच्छित फल) प्राप्त करता है।",
+   "explanation_en": "Phalaśruti (statement of benefit) for learning the agrya list: success in practice brings merit and fulfilment.",
+   "explanation_hi": "अग्र्य सूची सीखने की फलश्रुति: चिकित्सा में सफलता से पुण्य और इच्छित फल मिलते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "dharma",
+    "kāma",
+    "cikitsā"
+   ],
+   "tags": [
+    "agrya"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.45",
+   "word_meanings": [
+    {
+     "sa": "पथ्यम्",
+     "iast": "pathyam",
+     "en": "wholesome",
+     "hi": "पथ्य"
+    },
+    {
+     "sa": "पथः अनपेतम् यत्",
+     "iast": "pathaḥ anapetam yat",
+     "en": "that which does not depart from the path (channels)",
+     "hi": "जो पथ (स्रोतस्) से अलग न हो, उन्हें हानि न करे"
+    },
+    {
+     "sa": "यत् च उक्तम् मनसः प्रियम्",
+     "iast": "yat ca uktam manasaḥ priyam",
+     "en": "and that which is said to be pleasing to the mind",
+     "hi": "और जो मन को प्रिय कहा गया"
+    },
+    {
+     "sa": "यत् च अप्रियम् अपथ्यम् च",
+     "iast": "yat ca apriyam apathyam ca",
+     "en": "and what is unpleasant and unwholesome",
+     "hi": "और जो अप्रिय और अपथ्य है"
+    },
+    {
+     "sa": "नियतम् तत् न लक्षयेत्",
+     "iast": "niyatam tat na lakṣayet",
+     "en": "one should not regard that as fixed",
+     "hi": "उसे निश्चित (स्थायी) न समझे"
+    }
+   ],
+   "english": "Pathya is that which does not harm the body's channels (pathas) and which is pleasing to the mind; what is unpleasant is apathya. But one should not regard this (classification) as absolutely fixed.",
+   "hindi": "पथ्य वह है जो शरीर के पथ (स्रोतस्) को हानि न करे और जो मन को प्रिय हो; जो अप्रिय है वह अपथ्य है। परन्तु इसे निश्चित (सदा एक-सा) नहीं मानना चाहिए।",
+   "explanation_en": "Etymological definition of pathya: 'pathaḥ anapetam' - not departing from (not harming) the channels, and agreeable to the mind. The second half warns that pathya and apathya are not fixed lists; they depend on context (next verse). A popular definition question.",
+   "explanation_hi": "पथ्य की व्युत्पत्तिपरक परिभाषा: 'पथोऽनपेतम्' - जो स्रोतसों को हानि न करे और मन को प्रिय हो। उत्तरार्ध चेतावनी देता है कि पथ्य-अपथ्य निश्चित सूचियाँ नहीं हैं; ये सन्दर्भ पर निर्भर हैं (अगला श्लोक)। परिभाषा प्रश्न में लोकप्रिय।",
+   "modern_correlation": null,
+   "key_terms": [
+    "pathya",
+    "apathya",
+    "srotas"
+   ],
+   "tags": [
+    "pathya",
+    "definitions",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Pathya = pathaḥ anapetam (stays on the path) + manasaḥ priyam",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.46",
+   "word_meanings": [
+    {
+     "sa": "मात्रा काल क्रिया भूमि देह दोष गुण अन्तरम्",
+     "iast": "mātrā kāla kriyā bhūmi deha doṣa guṇa antaram",
+     "en": "differences of dose, time, preparation, place, body, doṣa and qualities",
+     "hi": "मात्रा, काल, क्रिया, भूमि, देह, दोष और गुण का भेद"
+    },
+    {
+     "sa": "प्राप्य",
+     "iast": "prāpya",
+     "en": "having obtained (encountered)",
+     "hi": "प्राप्त करके"
+    },
+    {
+     "sa": "तत् तत् हि दृश्यन्ते",
+     "iast": "tat tat hi dṛśyante",
+     "en": "indeed are seen",
+     "hi": "देखे जाते हैं"
+    },
+    {
+     "sa": "ते ते भावाः",
+     "iast": "te te bhāvāḥ",
+     "en": "those substances",
+     "hi": "वे-वे पदार्थ"
+    },
+    {
+     "sa": "तथा तथा",
+     "iast": "tathā tathā",
+     "en": "in that way (differently)",
+     "hi": "उस-उस प्रकार के"
+    }
+   ],
+   "english": "For, depending on differences of dose, time, method of preparation, place, body, doṣa and qualities, those very substances are seen to act in different ways.",
+   "hindi": "क्योंकि मात्रा, काल, क्रिया (संस्कार), भूमि, देह, दोष और गुण के भेद से वही पदार्थ भिन्न-भिन्न प्रकार से कार्य करते दिखते हैं।",
+   "explanation_en": "The seven modifiers (mātrā, kāla, kriyā, bhūmi, deha, doṣa, guṇa) that can turn pathya into apathya and vice versa. This repeats Agniveśa's observation in Su 25.32 and is the reason the agrya lists are only 'general' guides.",
+   "explanation_hi": "सात परिवर्तक (मात्रा, काल, क्रिया, भूमि, देह, दोष, गुण) जो पथ्य को अपथ्य और अपथ्य को पथ्य बना सकते हैं। यह सू. 25.32 में अग्निवेश के अवलोकन को दोहराता है और यही कारण है कि अग्र्य सूचियाँ केवल 'सामान्य' मार्गदर्शक हैं।",
+   "modern_correlation": {
+    "en": "This mirrors the pharmacological principle that the effect of a substance depends on dose, timing, formulation, and patient factors (age, disease state, metabolism) - 'the dose makes the poison'.",
+    "hi": "यह औषध-विज्ञान के सिद्धान्त से मिलता है कि किसी पदार्थ का प्रभाव मात्रा, समय, बनावट और रोगी-कारकों (आयु, रोग-अवस्था, मेटाबॉलिज़्म) पर निर्भर करता है - 'मात्रा ही विष बनाती है'।"
+   },
+   "key_terms": [
+    "mātrā",
+    "kāla",
+    "kriyā",
+    "bhūmi",
+    "deha",
+    "doṣa"
+   ],
+   "tags": [
+    "pathya",
+    "principles"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.47",
+   "word_meanings": [
+    {
+     "sa": "तस्मात्",
+     "iast": "tasmāt",
+     "en": "therefore",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "स्वभावः निर्दिष्टः",
+     "iast": "svabhāvaḥ nirdiṣṭaḥ",
+     "en": "the inherent nature has been stated",
+     "hi": "स्वभाव बताया गया है"
+    },
+    {
+     "sa": "तथा मात्रादिः आश्रयः",
+     "iast": "tathā mātrādiḥ āśrayaḥ",
+     "en": "and likewise dose etc. as the basis",
+     "hi": "और वैसे ही मात्रा आदि आश्रय"
+    },
+    {
+     "sa": "तत् अपेक्ष्य उभयम्",
+     "iast": "tat apekṣya ubhayam",
+     "en": "considering both of these",
+     "hi": "इन दोनों का ध्यान रखकर"
+    },
+    {
+     "sa": "कर्म प्रयोज्यम्",
+     "iast": "karma prayojyam",
+     "en": "treatment should be applied",
+     "hi": "चिकित्सा करनी चाहिए"
+    },
+    {
+     "sa": "सिद्धिम् इच्छता",
+     "iast": "siddhim icchatā",
+     "en": "by one who desires success",
+     "hi": "सफलता चाहने वाले को"
+    }
+   ],
+   "english": "Therefore the inherent nature (svabhāva) of substances has been stated, and so have dose and the other factors on which they depend. One who desires success should apply treatment considering both.",
+   "hindi": "इसलिए पदार्थों का स्वभाव बताया गया है और वैसे ही मात्रा आदि आश्रय-कारक भी। सफलता चाहने वाले को दोनों का ध्यान रखकर चिकित्सा करनी चाहिए।",
+   "explanation_en": "Resolution: use both the general nature of a substance (as in the hitatama/ahitatama and agrya lists) and the specific context (mātrā etc.). This balanced approach is the practical message of the chapter.",
+   "explanation_hi": "समाधान: पदार्थ का सामान्य स्वभाव (हिततम/अहिततम और अग्र्य सूचियों जैसा) और विशेष सन्दर्भ (मात्रा आदि) दोनों का प्रयोग करें। यह सन्तुलित दृष्टि अध्याय का व्यावहारिक सन्देश है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "svabhāva",
+    "mātrādi",
+    "siddhi"
+   ],
+   "tags": [
+    "pathya",
+    "principles"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.48",
+   "word_meanings": [
+    {
+     "sa": "तत् आत्रेयस्य भगवतः वचनम् अनुनिशम्य",
+     "iast": "tat ātreyasya bhagavataḥ vacanam anuniśamya",
+     "en": "having heard those words of the revered Ātreya",
+     "hi": "भगवान आत्रेय के वे वचन सुनकर"
+    },
+    {
+     "sa": "पुनः अपि",
+     "iast": "punaḥ api",
+     "en": "again",
+     "hi": "फिर से"
+    },
+    {
+     "sa": "अग्निवेशः उवाच",
+     "iast": "agniveśaḥ uvāca",
+     "en": "Agniveśa said",
+     "hi": "अग्निवेश ने कहा"
+    },
+    {
+     "sa": "यथोद्देशम् अभिनिर्दिष्टः",
+     "iast": "yathoddeśam abhinirdiṣṭaḥ",
+     "en": "explained according to the outline",
+     "hi": "उद्देश के अनुसार बताया गया"
+    },
+    {
+     "sa": "केवलः अयम् अर्थः",
+     "iast": "kevalaḥ ayam arthaḥ",
+     "en": "this whole subject",
+     "hi": "यह सम्पूर्ण विषय"
+    },
+    {
+     "sa": "भगवता श्रुतः च अस्माभिः",
+     "iast": "bhagavatā śrutaḥ ca asmābhiḥ",
+     "en": "by you, and heard by us",
+     "hi": "आपके द्वारा, और हमने सुना"
+    },
+    {
+     "sa": "आसवद्रव्याणाम्",
+     "iast": "āsavadravyāṇām",
+     "en": "of the sources of āsavas (fermented preparations)",
+     "hi": "आसव-द्रव्यों का"
+    },
+    {
+     "sa": "इदानीम्",
+     "iast": "idānīm",
+     "en": "now",
+     "hi": "अब"
+    },
+    {
+     "sa": "अनपवादम् लक्षणम्",
+     "iast": "anapavādam lakṣaṇam",
+     "en": "a definition without exception",
+     "hi": "अपवाद-रहित लक्षण"
+    },
+    {
+     "sa": "अनतिसंक्षेपेण उपदिश्यमानम्",
+     "iast": "anatisaṃkṣepeṇa upadiśyamānam",
+     "en": "taught not too briefly",
+     "hi": "बहुत संक्षेप में नहीं"
+    },
+    {
+     "sa": "शुश्रूषामहे",
+     "iast": "śuśrūṣāmahe",
+     "en": "we wish to hear",
+     "hi": "हम सुनना चाहते हैं"
+    }
+   ],
+   "english": "Having heard those words of the revered Ātreya, Agniveśa again said: 'This whole subject has been explained by you according to the outline, and we have heard it. Now we wish to hear, not too briefly, a precise description of the sources of āsavas (fermented preparations).'",
+   "hindi": "भगवान आत्रेय के वे वचन सुनकर अग्निवेश ने फिर कहा: 'आपने यह सम्पूर्ण विषय उद्देश के अनुसार बताया और हमने सुना। अब हम आसव-द्रव्यों का अपवाद-रहित वर्णन, बहुत संक्षेप में नहीं, सुनना चाहते हैं।'",
+   "explanation_en": "The chapter now turns to āsavas (fermented medicinal preparations), which are both food-like (drinks) and medicines. This leads to the list of 84 āsavas.",
+   "explanation_hi": "अब अध्याय आसवों (किण्वित औषधीय कल्पनाओं) की ओर मुड़ता है, जो पेय (आहार-जैसे) और औषध दोनों हैं। इससे 84 आसवों की सूची आती है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "āsava",
+    "āsavadravya"
+   ],
+   "tags": [
+    "asava"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.49",
+   "word_meanings": [
+    {
+     "sa": "तम् उवाच भगवान् आत्रेयः",
+     "iast": "tam uvāca bhagavān ātreyaḥ",
+     "en": "the revered Ātreya said to him",
+     "hi": "भगवान आत्रेय ने कहा"
+    },
+    {
+     "sa": "धान्य फल मूल सार पुष्प काण्ड पत्त्र त्वचः",
+     "iast": "dhānya phala mūla sāra puṣpa kāṇḍa pattra tvacaḥ",
+     "en": "grains, fruits, roots, heartwood, flowers, stems, leaves and barks",
+     "hi": "धान्य, फल, मूल, सार, पुष्प, काण्ड, पत्र और त्वक्"
+    },
+    {
+     "sa": "भवन्ति आसवयोनयः",
+     "iast": "bhavanti āsavayonayaḥ",
+     "en": "are the sources of āsavas",
+     "hi": "आसवों की योनियाँ (स्रोत) हैं"
+    },
+    {
+     "sa": "संग्रहेण अष्टौ",
+     "iast": "saṃgraheṇa aṣṭau",
+     "en": "eight in brief",
+     "hi": "संक्षेप में आठ"
+    },
+    {
+     "sa": "शर्करानवमीकाः",
+     "iast": "śarkarānavamīkāḥ",
+     "en": "with sugar as the ninth",
+     "hi": "शर्करा नौवीं"
+    },
+    {
+     "sa": "तासु एव",
+     "iast": "tāsu eva",
+     "en": "among these",
+     "hi": "इन्हीं में"
+    },
+    {
+     "sa": "द्रव्य संयोग करणतः अपरिसंख्येयासु",
+     "iast": "dravya saṃyoga karaṇataḥ aparisaṃkhyeyāsu",
+     "en": "countless due to substances, combinations and processing",
+     "hi": "द्रव्य, संयोग और संस्कार से असंख्य"
+    },
+    {
+     "sa": "यथापथ्यतमानाम् आसवानाम्",
+     "iast": "yathāpathyatamānām āsavānām",
+     "en": "of the most wholesome āsavas",
+     "hi": "सबसे हितकर आसवों के"
+    },
+    {
+     "sa": "चतुरशीतिम् निबोध",
+     "iast": "caturaśītim nibodha",
+     "en": "know the eighty-four",
+     "hi": "चौरासी को जानो"
+    },
+    {
+     "sa": "सुरा सौवीर तुषोदक मैरेय मेदक धान्याम्लाः",
+     "iast": "surā sauvīra tuṣodaka maireya medaka dhānyāmlāḥ",
+     "en": "surā, sauvīra, tuṣodaka, maireya, medaka and dhānyāmla",
+     "hi": "सुरा, सौवीर, तुषोदक, मैरेय, मेदक और धान्याम्ल"
+    },
+    {
+     "sa": "षट् धान्यासवाः",
+     "iast": "ṣaṭ dhānyāsavāḥ",
+     "en": "six grain āsavas",
+     "hi": "छह धान्य आसव"
+    },
+    {
+     "sa": "मृद्वीका खर्जूर काश्मर्य धन्वन राजादन तृणशून्य परूषक अभया आमलक मृगलिण्डिका",
+     "iast": "mṛdvīkā kharjūra kāśmarya dhanvana rājādana tṛṇaśūnya parūṣaka abhayā āmalaka mṛgaliṇḍikā",
+     "en": "grape, date, kāśmarya, dhanvana, rājādana, tṛṇaśūnya (ketakī), parūṣaka, abhayā (harītakī), āmalaka, mṛgaliṇḍikā",
+     "hi": "मृद्वीका, खर्जूर, काश्मर्य, धन्वन, राजादन, तृणशून्य, परूषक, अभया, आमलक, मृगलिण्डिका"
+    },
+    {
+     "sa": "जाम्बव कपित्थ कुवल बदर कर्कन्धू पीलु प्रियाल पनस",
+     "iast": "jāmbava kapittha kuvala badara karkandhū pīlu priyāla panasa",
+     "en": "jambū, kapittha, kuvala, badara, karkandhū, pīlu, priyāla, panasa (jackfruit)",
+     "hi": "जाम्बव, कपित्थ, कुवल, बदर, कर्कन्धू, पीलु, प्रियाल, पनस"
+    },
+    {
+     "sa": "न्यग्रोध अश्वत्थ प्लक्ष कपीतन उदुम्बर अजमोद शृङ्गाटक शङ्खिनी",
+     "iast": "nyagrodha aśvattha plakṣa kapītana udumbara ajamoda śṛṅgāṭaka śaṅkhinī",
+     "en": "nyagrodha, aśvattha, plakṣa, kapītana, udumbara, ajamodā, śṛṅgāṭaka, śaṅkhinī",
+     "hi": "न्यग्रोध, अश्वत्थ, प्लक्ष, कपीतन, उदुम्बर, अजमोदा, शृंगाटक, शंखिनी"
+    },
+    {
+     "sa": "फलासवाः षड्विंशतिः",
+     "iast": "phalāsavāḥ ṣaḍviṃśatiḥ",
+     "en": "twenty-six fruit āsavas",
+     "hi": "छब्बीस फल आसव"
+    },
+    {
+     "sa": "विदारिगन्धा अश्वगन्धा कृष्णगन्धा शतावरी श्यामा त्रिवृत् दन्ती द्रवन्ती बिल्व उरुबूक चित्रक मूलैः",
+     "iast": "vidārigandhā aśvagandhā kṛṣṇagandhā śatāvarī śyāmā trivṛt dantī dravantī bilva urubūka citraka mūlaiḥ",
+     "en": "from the roots of vidārigandhā, aśvagandhā, kṛṣṇagandhā, śatāvarī, śyāmā, trivṛt, dantī, dravantī, bilva, urubūka (castor) and citraka",
+     "hi": "विदारिगन्धा, अश्वगन्धा, कृष्णगन्धा, शतावरी, श्यामा, त्रिवृत्, दन्ती, द्रवन्ती, बिल्व, उरुबूक और चित्रक के मूलों से"
+    },
+    {
+     "sa": "एकादश मूलासवाः",
+     "iast": "ekādaśa mūlāsavāḥ",
+     "en": "eleven root āsavas",
+     "hi": "ग्यारह मूल आसव"
+    },
+    {
+     "sa": "शाल प्रियक अश्वकर्ण चन्दन स्यन्दन खदिर कदर सप्तपर्ण अर्जुन असन",
+     "iast": "śāla priyaka aśvakarṇa candana syandana khadira kadara saptaparṇa arjuna asana",
+     "en": "śāla, priyaka, aśvakarṇa, candana, syandana, khadira, kadara, saptaparṇa, arjuna, asana",
+     "hi": "शाल, प्रियक, अश्वकर्ण, चन्दन, स्यन्दन, खदिर, कदर, सप्तपर्ण, अर्जुन, असन"
+    },
+    {
+     "sa": "अरिमेद तिन्दुक किणिही शमी शुक्ति शिंशपा शिरीष वञ्जल धन्वन मधूकैः",
+     "iast": "arimeda tinduka kiṇihī śamī śukti śiṃśapā śirīṣa vañjala dhanvana madhūkaiḥ",
+     "en": "arimeda, tinduka, kiṇihī, śamī, śukti, śiṃśapā, śirīṣa, vañjula, dhanvana, madhūka",
+     "hi": "अरिमेद, तिन्दुक, किणिही, शमी, शुक्ति, शिंशपा, शिरीष, वञ्जल, धन्वन, मधूक"
+    },
+    {
+     "sa": "सारासवाः विंशतिः",
+     "iast": "sārāsavāḥ viṃśatiḥ",
+     "en": "twenty heartwood āsavas",
+     "hi": "बीस सार आसव"
+    },
+    {
+     "sa": "पद्म उत्पल नलिक कुमुद सौगन्धिक पुण्डरीक शतपत्र मधूक प्रियङ्गु धातकी पुष्पैः",
+     "iast": "padma utpala nalika kumuda saugandhika puṇḍarīka śatapatra madhūka priyaṅgu dhātakī puṣpaiḥ",
+     "en": "from flowers of padma, utpala, nalina, kumuda, saugandhika, puṇḍarīka, śatapatra, madhūka, priyaṅgu and dhātakī",
+     "hi": "पद्म, उत्पल, नलिन, कुमुद, सौगन्धिक, पुण्डरीक, शतपत्र, मधूक, प्रियंगु और धातकी के पुष्पों से"
+    },
+    {
+     "sa": "दश पुष्पासवाः",
+     "iast": "daśa puṣpāsavāḥ",
+     "en": "ten flower āsavas",
+     "hi": "दस पुष्प आसव"
+    },
+    {
+     "sa": "इक्षुकाण्ड इक्षु इक्षुवालिका पुण्ड्रक चतुर्थाः काण्डासवाः",
+     "iast": "ikṣukāṇḍa ikṣu ikṣuvālikā puṇḍraka caturthāḥ kāṇḍāsavāḥ",
+     "en": "four stem āsavas: ikṣukāṇḍa, ikṣu, ikṣuvālikā and puṇḍraka (types of cane)",
+     "hi": "चार काण्ड आसव: इक्षुकाण्ड, इक्षु, इक्षुवालिका और पुण्ड्रक"
+    },
+    {
+     "sa": "पटोल ताडक पत्रासवौ द्वौ",
+     "iast": "paṭola tāḍaka patrāsavau dvau",
+     "en": "two leaf āsavas: paṭola and tāḍaka",
+     "hi": "दो पत्र आसव: पटोल और ताडक"
+    },
+    {
+     "sa": "तिल्वक लोध्र एलवालुक क्रमुक चतुर्थाः त्वगासवाः",
+     "iast": "tilvaka lodhra elavāluka kramuka caturthāḥ tvagāsavāḥ",
+     "en": "four bark āsavas: tilvaka, lodhra, elavāluka and kramuka",
+     "hi": "चार त्वक् आसव: तिल्वक, लोध्र, एलवालुक और क्रमुक"
+    },
+    {
+     "sa": "शर्करासवः एकः एव",
+     "iast": "śarkarāsavaḥ ekaḥ eva",
+     "en": "only one sugar āsava",
+     "hi": "शर्करा आसव केवल एक"
+    },
+    {
+     "sa": "परस्परेण असंसृष्टानाम्",
+     "iast": "paraspareṇa asaṃsṛṣṭānām",
+     "en": "not mixed with each other",
+     "hi": "एक-दूसरे से न मिलाए गए"
+    },
+    {
+     "sa": "आसुतत्वात् आसवसंज्ञा",
+     "iast": "āsutatvāt āsavasaṃjñā",
+     "en": "called āsava because they are fermented (āsuta)",
+     "hi": "आसुत (किण्वित) होने से आसव नाम"
+    },
+    {
+     "sa": "द्रव्य संयोग विभाग विस्तारः",
+     "iast": "dravya saṃyoga vibhāga vistāraḥ",
+     "en": "detailed combination and division of ingredients",
+     "hi": "द्रव्यों के संयोग और विभाग का विस्तार"
+    },
+    {
+     "sa": "बहुविधकल्पः संस्कारः च",
+     "iast": "bahuvidhakalpaḥ saṃskāraḥ ca",
+     "en": "various formulations and processing",
+     "hi": "अनेक प्रकार की कल्पना और संस्कार"
+    },
+    {
+     "sa": "यथास्वम् संयोग संस्कार संस्कृताः",
+     "iast": "yathāsvam saṃyoga saṃskāra saṃskṛtāḥ",
+     "en": "processed with their own combinations and treatments",
+     "hi": "अपने-अपने संयोग और संस्कार से तैयार"
+    },
+    {
+     "sa": "स्वम् कर्म कुर्वन्ति",
+     "iast": "svam karma kurvanti",
+     "en": "perform their own action",
+     "hi": "अपना कर्म करते हैं"
+    },
+    {
+     "sa": "संयोग संस्कार देश काल मात्रा आदयः भावाः",
+     "iast": "saṃyoga saṃskāra deśa kāla mātrā ādayaḥ bhāvāḥ",
+     "en": "factors like combination, processing, place, time and dose",
+     "hi": "संयोग, संस्कार, देश, काल, मात्रा आदि भाव"
+    },
+    {
+     "sa": "तत् तत् कार्यम् अभिसमीक्ष्य",
+     "iast": "tat tat kāryam abhisamīkṣya",
+     "en": "considering the respective purpose",
+     "hi": "उस-उस कार्य को देखकर"
+    },
+    {
+     "sa": "समुपदिश्यन्ते",
+     "iast": "samupadiśyante",
+     "en": "are prescribed",
+     "hi": "बताए जाते हैं"
+    }
+   ],
+   "english": "The revered Ātreya replied: 'Agniveśa, grains, fruits, roots, heartwood, flowers, stems, leaves and barks, eight in brief, with sugar as the ninth, are the sources of āsavas. Though āsavas made from these are countless because of the substances, combinations and processing involved, know the eighty-four most wholesome ones. Surā, sauvīra, tuṣodaka, maireya, medaka and dhānyāmla are the six grain āsavas. The twenty-six fruit āsavas are made from grape, date, kāśmarya, dhanvana, rājādana, tṛṇaśūnya, parūṣaka, abhayā, āmalaka, mṛgaliṇḍikā, jambū, kapittha, kuvala, badara, karkandhū, pīlu, priyāla, panasa, nyagrodha, aśvattha, plakṣa, kapītana, udumbara, ajamodā, śṛṅgāṭaka and śaṅkhinī. The eleven root āsavas are made from the roots of vidārigandhā, aśvagandhā, kṛṣṇagandhā, śatāvarī, śyāmā, trivṛt, dantī, dravantī, bilva, urubūka and citraka. The twenty heartwood āsavas are made from śāla, priyaka, aśvakarṇa, candana, syandana, khadira, kadara, saptaparṇa, arjuna, asana, arimeda, tinduka, kiṇihī, śamī, śukti, śiṃśapā, śirīṣa, vañjula, dhanvana and madhūka. The ten flower āsavas are made from the flowers of padma, utpala, nalina, kumuda, saugandhika, puṇḍarīka, śatapatra, madhūka, priyaṅgu and dhātakī. The four stem āsavas are of ikṣukāṇḍa, ikṣu, ikṣuvālikā and puṇḍraka; the two leaf āsavas of paṭola and tāḍaka; the four bark āsavas of tilvaka, lodhra, elavāluka and kramuka; and there is one sugar āsava. Thus eighty-four āsavas, made from ingredients not mixed with one another, have been indicated. They are called āsava because they are fermented (āsuta). The details of combining and dividing their ingredients, and their formulations and processing, are of many kinds. Āsavas prepared with their proper combinations and processing perform their specific actions; and the combination, processing, place, time, dose and other factors for each are prescribed with reference to the purpose intended.'",
+   "hindi": "भगवान आत्रेय ने कहा: 'अग्निवेश, धान्य, फल, मूल, सार, पुष्प, काण्ड, पत्र और त्वक् - संक्षेप में ये आठ, और नौवीं शर्करा - आसवों की योनियाँ हैं। इनसे बने आसव द्रव्य, संयोग और संस्कार के भेद से असंख्य हैं, पर सबसे हितकर चौरासी आसवों को जानो। सुरा, सौवीर, तुषोदक, मैरेय, मेदक और धान्याम्ल - ये छह धान्य आसव हैं। मृद्वीका, खर्जूर, काश्मर्य, धन्वन, राजादन, तृणशून्य, परूषक, अभया, आमलक, मृगलिण्डिका, जामुन, कपित्थ, कुवल, बदर, कर्कन्धू, पीलु, प्रियाल, पनस, न्यग्रोध, अश्वत्थ, प्लक्ष, कपीतन, उदुम्बर, अजमोदा, शृंगाटक और शंखिनी से छब्बीस फल आसव बनते हैं। विदारिगन्धा, अश्वगन्धा, कृष्णगन्धा, शतावरी, श्यामा, त्रिवृत्, दन्ती, द्रवन्ती, बिल्व, एरण्ड और चित्रक के मूलों से ग्यारह मूल आसव बनते हैं। शाल, प्रियक, अश्वकर्ण, चन्दन, स्यन्दन, खदिर, कदर, सप्तपर्ण, अर्जुन, असन, अरिमेद, तिन्दुक, किणिही, शमी, शुक्ति, शिंशपा, शिरीष, वञ्जुल, धन्वन और मधूक से बीस सार आसव बनते हैं। पद्म, उत्पल, नलिन, कुमुद, सौगन्धिक, पुण्डरीक, शतपत्र, मधूक, प्रियंगु और धातकी के पुष्पों से दस पुष्प आसव बनते हैं। इक्षुकाण्ड, इक्षु, इक्षुवालिका और पुण्ड्रक - चार काण्ड आसव; पटोल और ताडक - दो पत्र आसव; तिल्वक, लोध्र, एलवालुक और क्रमुक - चार त्वक् आसव; और एक शर्करा आसव है। इस प्रकार एक-दूसरे से न मिलाए गए द्रव्यों से बने चौरासी आसव बताए गए। आसुत (किण्वित) होने से इन्हें आसव कहते हैं। इनके द्रव्यों के संयोग और विभाग का विस्तार, कल्पना और संस्कार अनेक प्रकार के हैं। अपने-अपने संयोग और संस्कार से तैयार आसव अपना कर्म करते हैं; और प्रत्येक आसव के संयोग, संस्कार, देश, काल, मात्रा आदि भाव उस-उस कार्य को देखकर बताए जाते हैं।'",
+   "explanation_en": "Exam points: 9 āsava yonis (8 plant parts + śarkarā) and 84 āsavas: dhānya 6, phala 26, mūla 11, sāra 20, puṣpa 10, kāṇḍa 4, patra 2, tvak 4, śarkarā 1 (6+26+11+20+10+4+2+4+1 = 84). The name āsava comes from 'āsuta' (fermented). In modern pharmaceutics classes (Bhaiṣajya Kalpanā), āsava-ariṣṭa are taught as self-generated alcohol preparations; this verse is their classical root.",
+   "explanation_hi": "परीक्षा बिन्दु: 9 आसव योनियाँ (8 वनस्पति-भाग + शर्करा) और 84 आसव: धान्य 6, फल 26, मूल 11, सार 20, पुष्प 10, काण्ड 4, पत्र 2, त्वक् 4, शर्करा 1 (6+26+11+20+10+4+2+4+1 = 84)। नाम 'आसव' 'आसुत' (किण्वित) से आता है। भैषज्य कल्पना में आसव-अरिष्ट को स्व-उत्पन्न अल्कोहल वाली कल्पनाओं के रूप में पढ़ाया जाता है; यह श्लोक उनका शास्त्रीय मूल है।",
+   "modern_correlation": {
+    "en": "Āsavas are fermented preparations in which yeasts convert sugars into a small amount of alcohol, which also acts as a solvent and preservative for plant constituents. This is comparable in principle to fermentation-based extraction in pharmaceutics; the classical claims for individual āsavas need separate evaluation.",
+    "hi": "आसव किण्वित कल्पनाएँ हैं जिनमें यीस्ट शर्करा को थोड़ी मात्रा में अल्कोहल में बदलते हैं, जो वनस्पति-घटकों के लिए विलायक और परिरक्षक का काम भी करता है। यह सिद्धान्त रूप में फार्मास्यूटिक्स के किण्वन-आधारित निष्कर्षण से तुलनीय है; अलग-अलग आसवों के शास्त्रीय दावों का अलग मूल्यांकन आवश्यक है।"
+   },
+   "key_terms": [
+    "āsava",
+    "āsavayoni",
+    "84 āsava",
+    "dhānyāsava",
+    "phalāsava",
+    "śarkarāsava"
+   ],
+   "tags": [
+    "asava",
+    "list",
+    "exam",
+    "bhaishajya-kalpana"
+   ],
+   "importance": "high",
+   "mnemonic": "84 āsavas = 6 Dhānya + 26 Phala + 11 Mūla + 20 Sāra + 10 Puṣpa + 4 Kāṇḍa + 2 Patra + 4 Tvak + 1 Śarkarā",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.50",
+   "word_meanings": [
+    {
+     "sa": "भवति च अत्र",
+     "iast": "bhavati ca atra",
+     "en": "and here is (a verse)",
+     "hi": "यहाँ यह श्लोक है"
+    },
+    {
+     "sa": "मनः शरीर अग्नि बल प्रदानाम्",
+     "iast": "manaḥ śarīra agni bala pradānām",
+     "en": "which give strength to mind, body and digestive fire",
+     "hi": "मन, शरीर और अग्नि को बल देने वाले"
+    },
+    {
+     "sa": "अस्वप्न शोक अरुचि नाशनानाम्",
+     "iast": "asvapna śoka aruci nāśanānām",
+     "en": "which destroy insomnia, grief and anorexia",
+     "hi": "अनिद्रा, शोक और अरुचि नष्ट करने वाले"
+    },
+    {
+     "sa": "संहर्षणानाम्",
+     "iast": "saṃharṣaṇānām",
+     "en": "exhilarating",
+     "hi": "प्रसन्न करने वाले"
+    },
+    {
+     "sa": "प्रवर आसवानाम्",
+     "iast": "pravara āsavānām",
+     "en": "of the excellent āsavas",
+     "hi": "श्रेष्ठ आसवों की"
+    },
+    {
+     "sa": "अशीतिः उक्ता चतुरुत्तरा एषा",
+     "iast": "aśītiḥ uktā caturuttarā eṣā",
+     "en": "these eighty-four have been stated",
+     "hi": "ये चौरासी बताए गए"
+    }
+   ],
+   "english": "Here is a verse: These eighty-four excellent āsavas have been described, which give strength to the mind, body and digestive fire, remove insomnia, grief and anorexia, and are exhilarating.",
+   "hindi": "यहाँ यह श्लोक है: ये चौरासी श्रेष्ठ आसव बताए गए जो मन, शरीर और अग्नि को बल देते हैं, अनिद्रा, शोक और अरुचि नष्ट करते हैं और प्रसन्नता देते हैं।",
+   "explanation_en": "Summary of the general properties of āsavas: bala to manas, śarīra and agni; they relieve asvapna, śoka and aruci, and are saṃharṣaṇa (exhilarating). Useful for short notes on āsava properties.",
+   "explanation_hi": "आसवों के सामान्य गुणों का सारांश: मन, शरीर और अग्नि को बल; अनिद्रा, शोक और अरुचि दूर करना; संहर्षण (प्रसन्नता देना)। आसव के गुणों पर लघु टिप्पणी के लिए उपयोगी।",
+   "modern_correlation": null,
+   "key_terms": [
+    "āsava",
+    "agnibala",
+    "saṃharṣaṇa"
+   ],
+   "tags": [
+    "asava"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.25.51",
+   "word_meanings": [
+    {
+     "sa": "तत्र श्लोकः",
+     "iast": "tatra ślokaḥ",
+     "en": "here is the summary verse",
+     "hi": "यहाँ सारांश श्लोक है"
+    },
+    {
+     "sa": "शरीर रोग प्रकृतौ",
+     "iast": "śarīra roga prakṛtau",
+     "en": "regarding the origin of the body and diseases",
+     "hi": "शरीर और रोगों की उत्पत्ति के विषय में"
+    },
+    {
+     "sa": "मतानि",
+     "iast": "matāni",
+     "en": "the views",
+     "hi": "मत"
+    },
+    {
+     "sa": "तत्त्वेन च आहारविनिश्चयम् च",
+     "iast": "tattvena ca āhāraviniścayam ca",
+     "en": "and the true determination of diet",
+     "hi": "और आहार का तात्त्विक निर्णय"
+    },
+    {
+     "sa": "उवाच",
+     "iast": "uvāca",
+     "en": "said",
+     "hi": "कहा"
+    },
+    {
+     "sa": "यज्जःपुरुषादिके अस्मिन्",
+     "iast": "yajjaḥpuruṣādike asmin",
+     "en": "in this (chapter) beginning with 'yajjaḥ puruṣa'",
+     "hi": "'यज्जः पुरुष' से आरम्भ होने वाले इस अध्याय में"
+    },
+    {
+     "sa": "मुनिः",
+     "iast": "muniḥ",
+     "en": "the sage",
+     "hi": "मुनि ने"
+    },
+    {
+     "sa": "तथा अग्र्याणि",
+     "iast": "tathā agryāṇi",
+     "en": "and the foremost items",
+     "hi": "और अग्र्य द्रव्य"
+    },
+    {
+     "sa": "वरासवान् च",
+     "iast": "varāsavān ca",
+     "en": "and the best āsavas",
+     "hi": "और श्रेष्ठ आसव"
+    }
+   ],
+   "english": "Summary verse: In this chapter beginning with 'yajjaḥ puruṣa', the sage explained the views on the origin of the body and of diseases, the true determination of diet, the foremost (agrya) items and the best āsavas.",
+   "hindi": "सारांश श्लोक: 'यज्जः पुरुष' से आरम्भ होने वाले इस अध्याय में मुनि ने शरीर और रोगों की उत्पत्ति पर मत, आहार का तात्त्विक निर्णय, अग्र्य द्रव्य और श्रेष्ठ आसव बताए।",
+   "explanation_en": "The four parts of the chapter: (1) the debate on the origin of the person and disease, (2) hita-ahita āhāra, (3) agrya saṃgraha, (4) 84 āsavas. Note that this corpus has no separate colophon line after the summary verse.",
+   "explanation_hi": "अध्याय के चार भाग: (1) पुरुष और रोग की उत्पत्ति पर विवाद, (2) हित-अहित आहार, (3) अग्र्य संग्रह, (4) 84 आसव। इस पाठ में सारांश श्लोक के बाद अलग पुष्पिका पंक्ति नहीं है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "yajjaḥpuruṣīya",
+    "agrya",
+    "āsava"
+   ],
+   "tags": [
+    "summary"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  }
+ ]
+}

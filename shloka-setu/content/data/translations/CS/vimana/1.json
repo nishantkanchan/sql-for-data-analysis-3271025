@@ -1,0 +1,2537 @@
+{
+ "chapter": {
+  "id": "CS.vimana.1",
+  "text": "charaka_samhita",
+  "sthana": "vimana",
+  "chapter": 1,
+  "title_iast": "Rasavimāna Adhyāya",
+  "title_devanagari": "रसविमानम् (रसविमानाध्यायः)",
+  "title_en": "The chapter on the specific measure of rasas (tastes)",
+  "title_hi": "रसविमान अध्याय (रसों का विशेष ज्ञान)",
+  "summary_en": "The first chapter of the Vimānasthāna explains why a physician must know the 'measure' (māna) of doṣa, drug, place, time, strength, body, diet, habituation, mind, constitution and age, since treatment depends on it. It restates the six rasas and three doṣas, how each doṣa is increased and decreased by three rasas, and warns that the effect of mixed substances and mixed disorders cannot always be inferred from their parts. It describes the 'prabhāva' of oil, ghee and honey on vāta, pitta and kapha; names three substances not to be overused (pippalī, kṣāra, lavaṇa) with the reasons and regional examples; defines sātmya (habituation) and its types and the method of gradually giving up harmful habits. It then gives the famous eight factors of diet (āhāravidhiviśeṣāyatana: prakṛti, karaṇa, saṃyoga, rāśi, deśa, kāla, upayogasaṃsthā, upayoktā) and the rules for eating (āhāravidhi vidhāna: warm, unctuous, in proper quantity, after digestion, non-incompatible, in a pleasant place, neither too fast nor too slow, without talking or laughing, with attention, knowing one's own suitability). These lists are among the most frequently asked questions in BAMS examinations.",
+  "summary_hi": "विमानस्थान का पहला अध्याय बताता है कि वैद्य को दोष, औषध, देश, काल, बल, शरीर, आहार, सात्म्य, सत्त्व, प्रकृति और वय का 'मान' (विशेष प्रमाण) क्यों जानना चाहिए, क्योंकि चिकित्सा इसी पर निर्भर है। इसमें छह रस और तीन दोष, प्रत्येक दोष को बढ़ाने और घटाने वाले तीन-तीन रस बताए गए हैं, और चेतावनी दी गई है कि मिश्रित द्रव्यों और मिश्रित रोगों का प्रभाव हमेशा उनके अंगों से अनुमानित नहीं हो सकता। वात, पित्त, कफ पर तैल, घृत और मधु का प्रभाव; तीन द्रव्य जिनका अधिक सेवन न करें (पिप्पली, क्षार, लवण) कारणों और प्रादेशिक उदाहरणों सहित; सात्म्य की परिभाषा, भेद और हानिकारक आदतें धीरे-धीरे छोड़ने की विधि बताई गई है। फिर प्रसिद्ध आठ आहारविधि-विशेषायतन (प्रकृति, करण, संयोग, राशि, देश, काल, उपयोगसंस्था, उपयोक्ता) और भोजन के नियम (आहारविधि विधान: उष्ण, स्निग्ध, मात्रावत्, जीर्ण होने पर, वीर्य-अविरुद्ध, इष्ट देश में, न अति शीघ्र न अति विलम्ब से, बिना बोले-हँसे, मन लगाकर, अपना सात्म्य समझकर) दिए गए हैं। ये सूचियाँ BAMS परीक्षाओं में सबसे अधिक पूछे जाने वाले प्रश्नों में से हैं।",
+  "key_concepts": [
+   "vimāna (specific measure)",
+   "doṣādi māna",
+   "rasa-doṣa relation",
+   "taila-ghṛta-madhu",
+   "pippalī, kṣāra, lavaṇa atiyoga",
+   "sātmya",
+   "aṣṭa āhāravidhiviśeṣāyatana",
+   "āhāravidhi vidhāna"
+  ],
+  "exam_focus_en": [
+   "Meaning of 'vimāna' and the factors whose measure must be known: doṣa, bheṣaja, deśa, kāla, bala, śarīra, sāra, āhāra, sātmya, sattva, prakṛti, vayas (Vi 1.3).",
+   "Taila for vāta, ghṛta for pitta, madhu for kapha, with reasons from opposing guṇas (Vi 1.13-14).",
+   "Three substances not to be overused: pippalī, kṣāra, lavaṇa, and the regions habituated to kṣāra and lavaṇa (Vi 1.15-18).",
+   "Definition and types of sātmya (pravara, madhya, avara; seven by rasa) and gradual withdrawal of unwholesome habits (Vi 1.19-20).",
+   "Aṣṭa āhāravidhiviśeṣāyatana with definitions (Vi 1.21-22) - one of the most frequently asked questions.",
+   "Āhāravidhi vidhāna: rules of eating with reasons (Vi 1.24-25)."
+  ],
+  "exam_focus_hi": [
+   "'विमान' का अर्थ और वे कारक जिनका मान जानना आवश्यक है: दोष, भेषज, देश, काल, बल, शरीर, सार, आहार, सात्म्य, सत्त्व, प्रकृति, वय (वि. 1.3)।",
+   "वात के लिए तैल, पित्त के लिए घृत, कफ के लिए मधु, विरोधी गुणों के कारण (वि. 1.13-14)।",
+   "तीन द्रव्य जिनका अति सेवन न करें: पिप्पली, क्षार, लवण, और क्षार व लवण के अभ्यस्त प्रदेश (वि. 1.15-18)।",
+   "सात्म्य की परिभाषा और भेद (प्रवर, मध्य, अवर; रस के अनुसार सात) और अहित आदतों को धीरे-धीरे छोड़ना (वि. 1.19-20)।",
+   "अष्ट आहारविधि-विशेषायतन परिभाषाओं सहित (वि. 1.21-22) - सबसे अधिक पूछे जाने वाले प्रश्नों में से।",
+   "आहारविधि विधान: भोजन के नियम कारणों सहित (वि. 1.24-25)।"
+  ],
+  "syllabus_refs": [
+   "AyUG-SA2"
+  ],
+  "review_status": "ai_draft"
+ },
+ "verses": [
+  {
+   "id": "CS.vimana.1.1",
+   "word_meanings": [
+    {
+     "sa": "अथ",
+     "iast": "atha",
+     "en": "now",
+     "hi": "अब"
+    },
+    {
+     "sa": "अतः",
+     "iast": "ataḥ",
+     "en": "therefore",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "रसविमानम्",
+     "iast": "rasavimānam",
+     "en": "the chapter on the specific measure of rasas",
+     "hi": "रसविमान को"
+    },
+    {
+     "sa": "व्याख्यास्यामः",
+     "iast": "vyākhyāsyāmaḥ",
+     "en": "we shall explain",
+     "hi": "व्याख्या करेंगे"
+    }
+   ],
+   "english": "Now we shall explain the chapter on the specific measure of rasas (Rasavimāna).",
+   "hindi": "अब हम रसविमान (रसों के विशेष ज्ञान) अध्याय की व्याख्या करेंगे।",
+   "explanation_en": "Opening of the Vimānasthāna. 'Vimāna' means specific knowledge or measurement (viśeṣeṇa mānam) of things such as doṣa and drug. This is the first of eight chapters.",
+   "explanation_hi": "विमानस्थान का आरम्भ। 'विमान' का अर्थ है दोष, औषध आदि का विशेष ज्ञान या माप (विशेषेण मानम्)। यह आठ अध्यायों में पहला है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vimāna"
+   ],
+   "tags": [
+    "chapter-opening"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.vimana.1.2",
+   "word_meanings": [
+    {
+     "sa": "इति ह स्म आह भगवान् आत्रेयः",
+     "iast": "iti ha sma āha bhagavān ātreyaḥ",
+     "en": "thus said the revered Ātreya",
+     "hi": "ऐसा भगवान आत्रेय ने कहा"
+    }
+   ],
+   "english": "Thus said the revered Ātreya.",
+   "hindi": "ऐसा भगवान आत्रेय ने कहा।",
+   "explanation_en": "Standard attribution to Punarvasu Ātreya.",
+   "explanation_hi": "पुनर्वसु आत्रेय को उपदेश का श्रेय देने वाली मानक पंक्ति।",
+   "modern_correlation": null,
+   "key_terms": [
+    "Ātreya"
+   ],
+   "tags": [
+    "chapter-opening"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.vimana.1.3",
+   "word_meanings": [
+    {
+     "sa": "इह खलु",
+     "iast": "iha khalu",
+     "en": "here indeed",
+     "hi": "यहाँ"
+    },
+    {
+     "sa": "व्याधीनाम्",
+     "iast": "vyādhīnām",
+     "en": "of diseases",
+     "hi": "रोगों के"
+    },
+    {
+     "sa": "निमित्त",
+     "iast": "nimitta",
+     "en": "cause",
+     "hi": "निमित्त (कारण)"
+    },
+    {
+     "sa": "पूर्वरूप",
+     "iast": "pūrvarūpa",
+     "en": "prodrome",
+     "hi": "पूर्वरूप"
+    },
+    {
+     "sa": "रूप",
+     "iast": "rūpa",
+     "en": "symptoms",
+     "hi": "रूप (लक्षण)"
+    },
+    {
+     "sa": "उपशय",
+     "iast": "upaśaya",
+     "en": "therapeutic test",
+     "hi": "उपशय"
+    },
+    {
+     "sa": "संख्या",
+     "iast": "saṃkhyā",
+     "en": "number",
+     "hi": "संख्या"
+    },
+    {
+     "sa": "प्राधान्य",
+     "iast": "prādhānya",
+     "en": "predominance",
+     "hi": "प्राधान्य"
+    },
+    {
+     "sa": "विधि",
+     "iast": "vidhi",
+     "en": "classification",
+     "hi": "विधि"
+    },
+    {
+     "sa": "विकल्प",
+     "iast": "vikalpa",
+     "en": "proportional variation",
+     "hi": "विकल्प"
+    },
+    {
+     "sa": "बल",
+     "iast": "bala",
+     "en": "strength",
+     "hi": "बल"
+    },
+    {
+     "sa": "काल",
+     "iast": "kāla",
+     "en": "time",
+     "hi": "काल"
+    },
+    {
+     "sa": "विशेषान् अनुप्रविश्य",
+     "iast": "viśeṣān anupraviśya",
+     "en": "having understood the particulars",
+     "hi": "विशेषताओं को समझकर"
+    },
+    {
+     "sa": "दोष",
+     "iast": "doṣa",
+     "en": "doṣa",
+     "hi": "दोष"
+    },
+    {
+     "sa": "भेषज",
+     "iast": "bheṣaja",
+     "en": "medicine",
+     "hi": "भेषज"
+    },
+    {
+     "sa": "देश",
+     "iast": "deśa",
+     "en": "place",
+     "hi": "देश"
+    },
+    {
+     "sa": "बल",
+     "iast": "bala",
+     "en": "strength",
+     "hi": "बल"
+    },
+    {
+     "sa": "शरीर",
+     "iast": "śarīra",
+     "en": "body",
+     "hi": "शरीर"
+    },
+    {
+     "sa": "सार",
+     "iast": "sāra",
+     "en": "tissue excellence",
+     "hi": "सार"
+    },
+    {
+     "sa": "आहार",
+     "iast": "āhāra",
+     "en": "diet",
+     "hi": "आहार"
+    },
+    {
+     "sa": "सात्म्य",
+     "iast": "sātmya",
+     "en": "habituation",
+     "hi": "सात्म्य"
+    },
+    {
+     "sa": "सत्त्व",
+     "iast": "sattva",
+     "en": "mind",
+     "hi": "सत्त्व"
+    },
+    {
+     "sa": "प्रकृति",
+     "iast": "prakṛti",
+     "en": "constitution",
+     "hi": "प्रकृति"
+    },
+    {
+     "sa": "वयसाम्",
+     "iast": "vayasām",
+     "en": "and age",
+     "hi": "और वय का"
+    },
+    {
+     "sa": "मानम्",
+     "iast": "mānam",
+     "en": "measure",
+     "hi": "मान"
+    },
+    {
+     "sa": "अवहितमनसा",
+     "iast": "avahitamanasā",
+     "en": "with attentive mind",
+     "hi": "सावधान मन से"
+    },
+    {
+     "sa": "ज्ञेयम्",
+     "iast": "jñeyam",
+     "en": "to be known",
+     "hi": "जानना चाहिए"
+    },
+    {
+     "sa": "दोषादिमानज्ञानायत्तत्वात् क्रियायाः",
+     "iast": "doṣādimānajñānāyattatvāt kriyāyāḥ",
+     "en": "because treatment depends on knowing the measure of doṣa etc.",
+     "hi": "क्योंकि चिकित्सा दोष आदि के मान-ज्ञान पर निर्भर है"
+    },
+    {
+     "sa": "न हि अमानज्ञः",
+     "iast": "na hi amānajñaḥ",
+     "en": "one ignorant of measure",
+     "hi": "मान न जानने वाला"
+    },
+    {
+     "sa": "व्याधिनिग्रहसमर्थः",
+     "iast": "vyādhinigrahasamarthaḥ",
+     "en": "capable of controlling disease",
+     "hi": "रोग पर नियन्त्रण में समर्थ"
+    }
+   ],
+   "english": "Here, after understanding the particulars of diseases, namely their cause, prodrome, symptoms, therapeutic test (upaśaya), number, predominance, classification, proportional variation, strength and time, the physician should then attentively and properly know the measure of the doṣa, medicine, place, time, strength, body, tissue excellence (sāra), diet, habituation, mind, constitution and age; for treatment depends on knowing the measure of doṣa and the rest. A physician who does not know the measure of doṣas etc. is not capable of controlling disease. Therefore, Agniveśa, we shall teach the Vimānasthāna for the knowledge of the measure of doṣas etc.",
+   "hindi": "यहाँ रोगों के निमित्त, पूर्वरूप, रूप, उपशय, संख्या, प्राधान्य, विधि, विकल्प, बल और काल की विशेषताओं को समझने के बाद वैद्य को सावधान मन से दोष, भेषज, देश, काल, बल, शरीर, सार, आहार, सात्म्य, सत्त्व, प्रकृति और वय का मान ठीक-ठीक जानना चाहिए; क्योंकि चिकित्सा दोष आदि के मान-ज्ञान पर निर्भर है। जो वैद्य दोष आदि का मान नहीं जानता वह रोग पर नियन्त्रण करने में समर्थ नहीं होता। इसलिए, अग्निवेश, दोष आदि के मान-ज्ञान के लिए हम विमानस्थान का उपदेश करेंगे।",
+   "explanation_en": "This passage defines the purpose of the Vimānasthāna. The first list (nimitta to kāla) summarises what Nidānasthāna taught about disease. The second list gives the factors whose 'māna' (measure) must be assessed before treatment; these are later developed as the 'daśavidha parīkṣya bhāva' (Vi 8.94). Exam point: Vimāna = 'doṣādi mānajñāna'.",
+   "explanation_hi": "यह अंश विमानस्थान का प्रयोजन बताता है। पहली सूची (निमित्त से काल तक) निदानस्थान में रोग के बारे में बताई गई बातों का सार है। दूसरी सूची उन कारकों की है जिनका 'मान' चिकित्सा से पहले परखना है; ये आगे 'दशविध परीक्ष्य भाव' (वि. 8.94) में विस्तृत हैं। परीक्षा बिन्दु: विमान = 'दोषादि मानज्ञान'।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vimāna",
+    "doṣādi māna",
+    "nidāna pañcaka",
+    "daśavidha parīkṣya"
+   ],
+   "tags": [
+    "principles",
+    "exam",
+    "definitions"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.vimana.1.4",
+   "word_meanings": [
+    {
+     "sa": "तत्र आदौ",
+     "iast": "tatra ādau",
+     "en": "first",
+     "hi": "पहले"
+    },
+    {
+     "sa": "रसद्रव्यदोषविकारप्रभावान्",
+     "iast": "rasa-dravya-doṣa-vikāra-prabhāvān",
+     "en": "the effects of rasa, substance, doṣa and disease",
+     "hi": "रस, द्रव्य, दोष और विकार के प्रभाव"
+    },
+    {
+     "sa": "वक्ष्यामः",
+     "iast": "vakṣyāmaḥ",
+     "en": "we shall tell",
+     "hi": "बताएँगे"
+    },
+    {
+     "sa": "रसाः तावत् षट्",
+     "iast": "rasāḥ tāvat ṣaṭ",
+     "en": "the rasas are six",
+     "hi": "रस छह हैं"
+    },
+    {
+     "sa": "सम्यक् उपयुज्यमानाः",
+     "iast": "samyak upayujyamānāḥ",
+     "en": "used properly",
+     "hi": "सम्यक् प्रयोग करने पर"
+    },
+    {
+     "sa": "शरीरम् यापयन्ति",
+     "iast": "śarīram yāpayanti",
+     "en": "sustain the body",
+     "hi": "शरीर को धारण करते हैं"
+    },
+    {
+     "sa": "मिथ्या उपयुज्यमानाः",
+     "iast": "mithyā upayujyamānāḥ",
+     "en": "used wrongly",
+     "hi": "मिथ्या प्रयोग करने पर"
+    },
+    {
+     "sa": "दोषप्रकोपाय उपकल्पन्ते",
+     "iast": "doṣaprakopāya upakalpante",
+     "en": "lead to aggravation of doṣas",
+     "hi": "दोष-प्रकोप करते हैं"
+    }
+   ],
+   "english": "First we shall describe the effects (prabhāva) of rasa, substance, doṣa and disease. The rasas are six: sweet, sour, salty, pungent, bitter and astringent. Used properly they sustain the body; used wrongly they lead to aggravation of the doṣas.",
+   "hindi": "पहले हम रस, द्रव्य, दोष और विकार के प्रभाव बताएँगे। रस छह हैं: मधुर, अम्ल, लवण, कटु, तिक्त और कषाय। सम्यक् प्रयोग से ये शरीर को धारण करते हैं; मिथ्या प्रयोग से दोषों का प्रकोप करते हैं।",
+   "explanation_en": "The chapter's plan: rasa-prabhāva, dravya-prabhāva, doṣa-prabhāva, vikāra-prabhāva. Rasas sustain or harm depending on use (compare Su 26.44).",
+   "explanation_hi": "अध्याय की योजना: रस-प्रभाव, द्रव्य-प्रभाव, दोष-प्रभाव, विकार-प्रभाव। रस प्रयोग के अनुसार धारण या हानि करते हैं (सू. 26.44 देखें)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "ṣaḍrasa",
+    "prabhāva"
+   ],
+   "tags": [
+    "rasa"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.vimana.1.5",
+   "word_meanings": [
+    {
+     "sa": "दोषाः पुनः त्रयः",
+     "iast": "doṣāḥ punaḥ trayaḥ",
+     "en": "the doṣas are three",
+     "hi": "दोष तीन हैं"
+    },
+    {
+     "sa": "वातपित्तश्लेष्माणः",
+     "iast": "vāta-pitta-śleṣmāṇaḥ",
+     "en": "vāta, pitta and kapha",
+     "hi": "वात, पित्त और कफ"
+    },
+    {
+     "sa": "प्रकृतिभूताः",
+     "iast": "prakṛtibhūtāḥ",
+     "en": "in their normal state",
+     "hi": "प्राकृत अवस्था में"
+    },
+    {
+     "sa": "शरीरोपकारकाः",
+     "iast": "śarīropakārakāḥ",
+     "en": "beneficial to the body",
+     "hi": "शरीर के उपकारक"
+    },
+    {
+     "sa": "विकृतिम् आपन्नाः",
+     "iast": "vikṛtim āpannāḥ",
+     "en": "when deranged",
+     "hi": "विकृत होने पर"
+    },
+    {
+     "sa": "नानाविधैः विकारैः",
+     "iast": "nānāvidhaiḥ vikāraiḥ",
+     "en": "with various disorders",
+     "hi": "अनेक प्रकार के रोगों से"
+    },
+    {
+     "sa": "शरीरम् उपतापयन्ति",
+     "iast": "śarīram upatāpayanti",
+     "en": "afflict the body",
+     "hi": "शरीर को पीड़ित करते हैं"
+    }
+   ],
+   "english": "The doṣas are three: vāta, pitta and kapha. In their normal state they benefit the body; when deranged they afflict the body with various disorders.",
+   "hindi": "दोष तीन हैं: वात, पित्त और कफ। प्राकृत अवस्था में वे शरीर का उपकार करते हैं; विकृत होने पर अनेक रोगों से शरीर को पीड़ित करते हैं।",
+   "explanation_en": "Restates the dual nature of doṣas (compare Su 12.13).",
+   "explanation_hi": "दोषों के दोहरे स्वभाव को दोहराता है (सू. 12.13 देखें)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "tridoṣa",
+    "prakṛti",
+    "vikṛti"
+   ],
+   "tags": [
+    "tridosha"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.vimana.1.6",
+   "word_meanings": [
+    {
+     "sa": "तत्र दोषम् एकैकम्",
+     "iast": "tatra doṣam ekaikam",
+     "en": "each doṣa",
+     "hi": "प्रत्येक दोष को"
+    },
+    {
+     "sa": "त्रयः त्रयः रसाः जनयन्ति",
+     "iast": "trayaḥ trayaḥ rasāḥ janayanti",
+     "en": "three rasas each produce (increase)",
+     "hi": "तीन-तीन रस बढ़ाते हैं"
+    },
+    {
+     "sa": "त्रयः त्रयः च उपशमयन्ति",
+     "iast": "trayaḥ trayaḥ ca upaśamayanti",
+     "en": "and three each pacify",
+     "hi": "और तीन-तीन शान्त करते हैं"
+    },
+    {
+     "sa": "कटुतिक्तकषायाः वातम् जनयन्ति",
+     "iast": "kaṭu-tikta-kaṣāyāḥ vātam janayanti",
+     "en": "pungent, bitter, astringent increase vāta",
+     "hi": "कटु, तिक्त, कषाय वात बढ़ाते हैं"
+    },
+    {
+     "sa": "मधुरअम्ललवणाः एनम् शमयन्ति",
+     "iast": "madhura-amla-lavaṇāḥ enam śamayanti",
+     "en": "sweet, sour, salty pacify it",
+     "hi": "मधुर, अम्ल, लवण उसे शान्त करते हैं"
+    },
+    {
+     "sa": "कटुअम्ललवणाः पित्तम्",
+     "iast": "kaṭu-amla-lavaṇāḥ pittam",
+     "en": "pungent, sour, salty (increase) pitta",
+     "hi": "कटु, अम्ल, लवण पित्त"
+    },
+    {
+     "sa": "मधुरतिक्तकषायाः",
+     "iast": "madhura-tikta-kaṣāyāḥ",
+     "en": "sweet, bitter, astringent",
+     "hi": "मधुर, तिक्त, कषाय"
+    },
+    {
+     "sa": "मधुरअम्ललवणाः श्लेष्माणम्",
+     "iast": "madhura-amla-lavaṇāḥ śleṣmāṇam",
+     "en": "sweet, sour, salty (increase) kapha",
+     "hi": "मधुर, अम्ल, लवण कफ"
+    },
+    {
+     "sa": "कटुतिक्तकषायाः तु एनम् शमयन्ति",
+     "iast": "kaṭu-tikta-kaṣāyāḥ tu enam śamayanti",
+     "en": "pungent, bitter, astringent pacify it",
+     "hi": "कटु, तिक्त, कषाय उसे शान्त करते हैं"
+    }
+   ],
+   "english": "Each doṣa is increased by three rasas and pacified by three. Thus pungent, bitter and astringent increase vāta, while sweet, sour and salty pacify it; pungent, sour and salty increase pitta, while sweet, bitter and astringent pacify it; sweet, sour and salty increase kapha, while pungent, bitter and astringent pacify it.",
+   "hindi": "प्रत्येक दोष तीन रसों से बढ़ता और तीन से शान्त होता है। जैसे कटु, तिक्त और कषाय वात बढ़ाते हैं, और मधुर, अम्ल, लवण उसे शान्त करते हैं; कटु, अम्ल, लवण पित्त बढ़ाते हैं, और मधुर, तिक्त, कषाय उसे शान्त करते हैं; मधुर, अम्ल, लवण कफ बढ़ाते हैं, और कटु, तिक्त, कषाय उसे शान्त करते हैं।",
+   "explanation_en": "The rasa-doṣa table in prose (compare Su 1.66). Must be memorised; asked in nearly every exam.",
+   "explanation_hi": "रस-दोष तालिका गद्य में (सू. 1.66 देखें)। अवश्य याद करें; लगभग हर परीक्षा में पूछी जाती है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "rasa-doṣa sambandha"
+   ],
+   "tags": [
+    "rasa",
+    "tridosha",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Vāta↑ KTK / ↓ MAL; Pitta↑ KAL / ↓ MTK; Kapha↑ MAL / ↓ KTK",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.vimana.1.7",
+   "word_meanings": [
+    {
+     "sa": "रसदोषसंनिपाते",
+     "iast": "rasa-doṣa-saṃnipāte",
+     "en": "when rasa and doṣa come together",
+     "hi": "रस और दोष के मिलने पर"
+    },
+    {
+     "sa": "ये रसाः यैः दोषैः",
+     "iast": "ye rasāḥ yaiḥ doṣaiḥ",
+     "en": "those rasas which with those doṣas",
+     "hi": "जो रस जिन दोषों के साथ"
+    },
+    {
+     "sa": "समानगुणाः",
+     "iast": "samānaguṇāḥ",
+     "en": "having similar qualities",
+     "hi": "समान गुण वाले"
+    },
+    {
+     "sa": "समानगुणभूयिष्ठाः वा",
+     "iast": "samānaguṇabhūyiṣṭhāḥ vā",
+     "en": "or mostly similar qualities",
+     "hi": "या अधिकतर समान गुण वाले"
+    },
+    {
+     "sa": "अभिवर्धयन्ति",
+     "iast": "abhivardhayanti",
+     "en": "increase",
+     "hi": "बढ़ाते हैं"
+    },
+    {
+     "sa": "विपरीतगुणाः",
+     "iast": "viparītaguṇāḥ",
+     "en": "having opposite qualities",
+     "hi": "विपरीत गुण वाले"
+    },
+    {
+     "sa": "शमयन्ति अभ्यस्यमानाः",
+     "iast": "śamayanti abhyasyamānāḥ",
+     "en": "pacify when used regularly",
+     "hi": "नियमित सेवन से शान्त करते हैं"
+    },
+    {
+     "sa": "एतद्व्यवस्थाहेतोः",
+     "iast": "etadvyavasthāhetoḥ",
+     "en": "for the sake of this arrangement",
+     "hi": "इस व्यवस्था के लिए"
+    },
+    {
+     "sa": "षट्त्वम् रसानाम्",
+     "iast": "ṣaṭtvam rasānām",
+     "en": "the sixfold nature of rasas",
+     "hi": "रसों का छह होना"
+    },
+    {
+     "sa": "असंसृष्टानाम्",
+     "iast": "asaṃsṛṣṭānām",
+     "en": "when unmixed",
+     "hi": "अमिश्रित"
+    },
+    {
+     "sa": "त्रित्वम् च दोषाणाम्",
+     "iast": "tritvam ca doṣāṇām",
+     "en": "and threefold nature of doṣas",
+     "hi": "और दोषों का तीन होना"
+    }
+   ],
+   "english": "When rasa and doṣa come together, the rasas that have qualities similar, or mostly similar, to the doṣas increase them; those with opposite, or mostly opposite, qualities pacify them when used regularly. For the sake of this systematic arrangement, the rasas are taught as six (when unmixed) and the doṣas as three.",
+   "hindi": "रस और दोष मिलने पर, जो रस दोषों के समान या अधिकतर समान गुण वाले हैं, वे उन्हें बढ़ाते हैं; जो विपरीत या अधिकतर विपरीत गुण वाले हैं, वे नियमित सेवन से उन्हें शान्त करते हैं। इसी व्यवस्था के लिए रस (अमिश्रित) छह और दोष तीन बताए गए हैं।",
+   "explanation_en": "The reason behind verse 6 is the sāmānya-viśeṣa principle (Su 1.44).",
+   "explanation_hi": "श्लोक 6 के पीछे का कारण सामान्य-विशेष सिद्धान्त है (सू. 1.44)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sāmānya",
+    "viśeṣa",
+    "rasa",
+    "doṣa"
+   ],
+   "tags": [
+    "rasa",
+    "principles"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.vimana.1.8",
+   "word_meanings": [
+    {
+     "sa": "संसर्गविकल्पविस्तरः",
+     "iast": "saṃsarga-vikalpa-vistaraḥ",
+     "en": "the extent of combinations and variations",
+     "hi": "संसर्ग और विकल्पों का विस्तार"
+    },
+    {
+     "sa": "हि एषाम्",
+     "iast": "hi eṣām",
+     "en": "of these",
+     "hi": "इनका"
+    },
+    {
+     "sa": "अपरिसंख्येयः भवति",
+     "iast": "aparisaṃkhyeyaḥ bhavati",
+     "en": "is innumerable",
+     "hi": "असंख्य है"
+    },
+    {
+     "sa": "विकल्पभेदअपरिसंख्येयत्वात्",
+     "iast": "vikalpabheda-aparisaṃkhyeyatvāt",
+     "en": "because variations are innumerable",
+     "hi": "विकल्पों के भेद असंख्य होने से"
+    }
+   ],
+   "english": "The extent of their combinations and variations is innumerable, because the varieties of variation are innumerable.",
+   "hindi": "इनके संसर्ग और विकल्पों का विस्तार असंख्य है, क्योंकि विकल्पों के भेद असंख्य हैं।",
+   "explanation_en": "Combinations of rasas and doṣas are countless (compare Su 26.23).",
+   "explanation_hi": "रसों और दोषों के संयोग असंख्य हैं (सू. 26.23 देखें)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "saṃsarga",
+    "vikalpa"
+   ],
+   "tags": [
+    "rasa"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.vimana.1.9",
+   "word_meanings": [
+    {
+     "sa": "तत्र खलु",
+     "iast": "tatra khalu",
+     "en": "there indeed",
+     "hi": "वहाँ"
+    },
+    {
+     "sa": "अनेकरसेषु द्रव्येषु",
+     "iast": "anekaraseṣu dravyeṣu",
+     "en": "in substances of many rasas",
+     "hi": "अनेक रसों वाले द्रव्यों में"
+    },
+    {
+     "sa": "अनेकदोषात्मकेषु च विकारेषु",
+     "iast": "anekadoṣātmakeṣu ca vikāreṣu",
+     "en": "and in diseases of many doṣas",
+     "hi": "और अनेक दोषों वाले रोगों में"
+    },
+    {
+     "sa": "रसदोषप्रभावम् एकैकश्येन अभिसमीक्ष्य",
+     "iast": "rasa-doṣa-prabhāvam ekaikaśyena abhisamīkṣya",
+     "en": "examining the effect of each rasa and doṣa singly",
+     "hi": "प्रत्येक रस और दोष का प्रभाव अलग-अलग परखकर"
+    },
+    {
+     "sa": "ततः",
+     "iast": "tataḥ",
+     "en": "then",
+     "hi": "तब"
+    },
+    {
+     "sa": "द्रव्यविकारयोः प्रभावतत्त्वम् व्यवस्येत्",
+     "iast": "dravya-vikārayoḥ prabhāvatattvam vyavasyet",
+     "en": "determine the true effect of the substance and disease",
+     "hi": "द्रव्य और रोग के प्रभाव का तत्त्व निश्चित करे"
+    }
+   ],
+   "english": "In substances with many rasas and diseases involving many doṣas, one should examine the effect of each rasa and each doṣa separately, and then determine the true effect of the substance and of the disease.",
+   "hindi": "अनेक रसों वाले द्रव्यों और अनेक दोषों वाले रोगों में प्रत्येक रस और दोष का प्रभाव अलग-अलग परखकर फिर द्रव्य और रोग के प्रभाव का तत्त्व निश्चित करना चाहिए।",
+   "explanation_en": "Analytical method: assess the parts first. Verse 10 qualifies this.",
+   "explanation_hi": "विश्लेषण पद्धति: पहले अंगों को परखें। श्लोक 10 इसमें शर्त जोड़ता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "avayava prabhāva"
+   ],
+   "tags": [
+    "dravyaguna",
+    "method"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.vimana.1.10",
+   "word_meanings": [
+    {
+     "sa": "न तु एवम् खलु सर्वत्र",
+     "iast": "na tu evam khalu sarvatra",
+     "en": "but not so in all cases",
+     "hi": "परन्तु सर्वत्र ऐसा नहीं"
+    },
+    {
+     "sa": "विकृतिविषमसमवेतानाम्",
+     "iast": "vikṛti-viṣama-samavetānām",
+     "en": "of those combined in an abnormal, unequal way",
+     "hi": "विकृति-विषम समवाय वाले"
+    },
+    {
+     "sa": "नानात्मकानाम्",
+     "iast": "nānātmakānām",
+     "en": "of diverse nature",
+     "hi": "अनेक स्वभाव वाले"
+    },
+    {
+     "sa": "परस्परेन च उपहतानाम्",
+     "iast": "parasparena ca upahatānām",
+     "en": "and mutually counteracted",
+     "hi": "और परस्पर दबाए गए"
+    },
+    {
+     "sa": "अन्यैः च विकल्पनैः विकल्पितानाम्",
+     "iast": "anyaiḥ ca vikalpanaiḥ vikalpitānām",
+     "en": "and modified by other variations",
+     "hi": "और अन्य विकल्पों से परिवर्तित"
+    },
+    {
+     "sa": "अवयवप्रभावअनुमानेन एव",
+     "iast": "avayava-prabhāva-anumānena eva",
+     "en": "merely by inferring from the effects of the parts",
+     "hi": "केवल अंगों के प्रभाव के अनुमान से"
+    },
+    {
+     "sa": "समुदायप्रभावतत्त्वम्",
+     "iast": "samudāya-prabhāva-tattvam",
+     "en": "the true effect of the whole",
+     "hi": "समुदाय के प्रभाव का तत्त्व"
+    },
+    {
+     "sa": "अध्यवसातुम् शक्यम्",
+     "iast": "adhyavasātum śakyam",
+     "en": "can be determined",
+     "hi": "निश्चित किया जा सकता है"
+    }
+   ],
+   "english": "But this is not so in all cases. The true effect of a whole cannot be determined merely by inference from the effects of its parts, when the components are combined in an abnormal, unequal way (vikṛti-viṣama-samavāya), are of diverse nature, counteract one another, or are modified by other variations.",
+   "hindi": "परन्तु सर्वत्र ऐसा नहीं होता। जब घटक विकृति-विषम समवाय से मिले हों, अनेक स्वभाव वाले हों, एक-दूसरे को दबाते हों, या अन्य विकल्पों से परिवर्तित हों, तब केवल अंगों के प्रभाव से समुदाय के प्रभाव का तत्त्व निश्चित नहीं किया जा सकता।",
+   "explanation_en": "An important concept: 'vikṛti-viṣama-samavāya' (the whole has properties not predictable from the parts) versus 'prakṛti-sama-samavāya' (properties follow the parts). Asked in Dravyaguṇa and Roga Nidāna.",
+   "explanation_hi": "महत्त्वपूर्ण अवधारणा: 'विकृति-विषम-समवाय' (समुदाय के गुण अंगों से अनुमानित नहीं) बनाम 'प्रकृति-सम-समवाय' (गुण अंगों के अनुसार)। द्रव्यगुण और रोग निदान में पूछा जाता है।",
+   "modern_correlation": {
+    "en": "This resembles the modern recognition that combinations of compounds can show synergistic or antagonistic effects (emergent properties) not predictable from individual components, as in drug interactions.",
+    "hi": "यह आधुनिक समझ से मिलता है कि यौगिकों के मिश्रण सहक्रियात्मक या विरोधी प्रभाव (इमर्जेंट गुण) दिखा सकते हैं जो अलग-अलग घटकों से अनुमानित नहीं होते, जैसे ड्रग इंटरैक्शन में।"
+   },
+   "key_terms": [
+    "vikṛtiviṣamasamavāya",
+    "prakṛtisamasamavāya",
+    "samudāya prabhāva"
+   ],
+   "tags": [
+    "dravyaguna",
+    "exam"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.vimana.1.11",
+   "word_meanings": [
+    {
+     "sa": "तथायुक्ते हि समुदये",
+     "iast": "tathāyukte hi samudaye",
+     "en": "in such a combination",
+     "hi": "ऐसे समुदाय में"
+    },
+    {
+     "sa": "समुदायप्रभावतत्त्वम् एवम् एव उपलभ्य",
+     "iast": "samudāya-prabhāva-tattvam evam eva upalabhya",
+     "en": "having observed directly the true effect of the whole",
+     "hi": "समुदाय के प्रभाव का तत्त्व प्रत्यक्ष देखकर"
+    },
+    {
+     "sa": "ततः",
+     "iast": "tataḥ",
+     "en": "then",
+     "hi": "तब"
+    },
+    {
+     "sa": "द्रव्यविकारप्रभावतत्त्वम् व्यवस्येत्",
+     "iast": "dravya-vikāra-prabhāva-tattvam vyavasyet",
+     "en": "determine the true effect of substance and disease",
+     "hi": "द्रव्य और रोग के प्रभाव का तत्त्व निश्चित करे"
+    }
+   ],
+   "english": "In such a combination, one should directly observe the true effect of the whole, and then determine the true effect of the substance and the disease.",
+   "hindi": "ऐसे समुदाय में समुदाय के प्रभाव को प्रत्यक्ष देखकर फिर द्रव्य और रोग के प्रभाव का तत्त्व निश्चित करना चाहिए।",
+   "explanation_en": "For vikṛti-viṣama-samavāya, direct observation of the whole is needed.",
+   "explanation_hi": "विकृति-विषम-समवाय में समुदाय का प्रत्यक्ष अवलोकन आवश्यक है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "samudāya prabhāva"
+   ],
+   "tags": [
+    "dravyaguna"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.vimana.1.12",
+   "word_meanings": [
+    {
+     "sa": "तस्मात्",
+     "iast": "tasmāt",
+     "en": "therefore",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "रसप्रभावतः",
+     "iast": "rasaprabhāvataḥ",
+     "en": "from the effect of rasa",
+     "hi": "रस-प्रभाव से"
+    },
+    {
+     "sa": "द्रव्यप्रभावतः",
+     "iast": "dravyaprabhāvataḥ",
+     "en": "from the effect of substance",
+     "hi": "द्रव्य-प्रभाव से"
+    },
+    {
+     "sa": "दोषप्रभावतः",
+     "iast": "doṣaprabhāvataḥ",
+     "en": "from the effect of doṣa",
+     "hi": "दोष-प्रभाव से"
+    },
+    {
+     "sa": "विकारप्रभावतः",
+     "iast": "vikāraprabhāvataḥ",
+     "en": "from the effect of disease",
+     "hi": "विकार-प्रभाव से"
+    },
+    {
+     "sa": "तत्त्वम् उपदेक्ष्यामः",
+     "iast": "tattvam upadekṣyāmaḥ",
+     "en": "we shall teach the truth",
+     "hi": "तत्त्व बताएँगे"
+    }
+   ],
+   "english": "Therefore we shall teach the truth regarding the effects of rasa, substance, doṣa and disease.",
+   "hindi": "इसलिए हम रस, द्रव्य, दोष और विकार के प्रभाव का तत्त्व बताएँगे।",
+   "explanation_en": "Restates the plan of the chapter.",
+   "explanation_hi": "अध्याय की योजना को दोहराता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "prabhāva"
+   ],
+   "tags": [
+    "method"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.vimana.1.13",
+   "word_meanings": [
+    {
+     "sa": "तत्र एष रसप्रभावः उपदिष्टः",
+     "iast": "tatra eṣa rasaprabhāvaḥ upadiṣṭaḥ",
+     "en": "the effect of rasa has been taught",
+     "hi": "रस-प्रभाव बताया गया"
+    },
+    {
+     "sa": "द्रव्यप्रभावम् पुनः उपदेक्ष्यामः",
+     "iast": "dravyaprabhāvam punaḥ upadekṣyāmaḥ",
+     "en": "now we shall teach the effect of substances",
+     "hi": "अब द्रव्य-प्रभाव बताएँगे"
+    },
+    {
+     "sa": "तैलसर्पिःमधूनि",
+     "iast": "taila-sarpiḥ-madhūni",
+     "en": "oil, ghee and honey",
+     "hi": "तैल, घृत और मधु"
+    },
+    {
+     "sa": "वातपित्तश्लेष्मप्रशमनार्थानि",
+     "iast": "vāta-pitta-śleṣma-praśamanārthāni",
+     "en": "for pacifying vāta, pitta and kapha",
+     "hi": "वात, पित्त और कफ को शान्त करने के लिए"
+    },
+    {
+     "sa": "द्रव्याणि भवन्ति",
+     "iast": "dravyāṇi bhavanti",
+     "en": "are the substances",
+     "hi": "द्रव्य हैं"
+    }
+   ],
+   "english": "The effect of rasa has thus been taught. Now we shall teach the effect of substances: oil, ghee and honey are the substances for pacifying vāta, pitta and kapha respectively.",
+   "hindi": "इस प्रकार रस-प्रभाव बताया गया। अब द्रव्य-प्रभाव बताएँगे: तैल, घृत और मधु क्रमशः वात, पित्त और कफ को शान्त करने वाले द्रव्य हैं।",
+   "explanation_en": "A classic one-liner: taila-vāta, ghṛta-pitta, madhu-kapha. Very commonly asked.",
+   "explanation_hi": "प्रसिद्ध एक-पंक्ति: तैल-वात, घृत-पित्त, मधु-कफ। बहुत पूछा जाता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "taila",
+    "ghṛta",
+    "madhu",
+    "dravya prabhāva"
+   ],
+   "tags": [
+    "dravya",
+    "tridosha",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Oil-Vāta, Ghee-Pitta, Honey-Kapha (T-G-M for V-P-K)",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.vimana.1.14",
+   "word_meanings": [
+    {
+     "sa": "तैलम्",
+     "iast": "tailam",
+     "en": "oil",
+     "hi": "तैल"
+    },
+    {
+     "sa": "स्नेहऔष्ण्यगौरवौपपन्नत्वात्",
+     "iast": "sneha-auṣṇya-gaurava-upapannatvāt",
+     "en": "being unctuous, hot and heavy",
+     "hi": "स्निग्ध, उष्ण और गुरु होने से"
+    },
+    {
+     "sa": "वातम् जयति",
+     "iast": "vātam jayati",
+     "en": "overcomes vāta",
+     "hi": "वात को जीतता है"
+    },
+    {
+     "sa": "सततम् अभ्यस्यमानम्",
+     "iast": "satatam abhyasyamānam",
+     "en": "used continuously",
+     "hi": "निरन्तर प्रयोग करने पर"
+    },
+    {
+     "sa": "रौक्ष्यशैत्यलाघवौपपन्नः",
+     "iast": "raukṣya-śaitya-lāghava-upapannaḥ",
+     "en": "being dry, cold and light",
+     "hi": "रूक्ष, शीत और लघु होने से"
+    },
+    {
+     "sa": "विरुद्धगुणसंनिपाते",
+     "iast": "viruddhaguṇa-saṃnipāte",
+     "en": "when opposite qualities meet",
+     "hi": "विरुद्ध गुणों के मिलने पर"
+    },
+    {
+     "sa": "भूयसा अल्पम् अवजीयते",
+     "iast": "bhūyasā alpam avajīyate",
+     "en": "the weaker is overcome by the stronger",
+     "hi": "प्रबल से दुर्बल जीता जाता है"
+    },
+    {
+     "sa": "सर्पिः",
+     "iast": "sarpiḥ",
+     "en": "ghee",
+     "hi": "घृत"
+    },
+    {
+     "sa": "माधुर्यात् शैत्यात् मन्दत्वात्",
+     "iast": "mādhuryāt śaityāt mandatvāt",
+     "en": "by sweetness, coldness and mildness",
+     "hi": "मधुरता, शीतलता और मन्दता से"
+    },
+    {
+     "sa": "अमधुरम् उष्णम् तीक्ष्णम्",
+     "iast": "amadhuram uṣṇam tīkṣṇam",
+     "en": "not sweet, hot and sharp",
+     "hi": "अमधुर, उष्ण और तीक्ष्ण"
+    },
+    {
+     "sa": "मधु",
+     "iast": "madhu",
+     "en": "honey",
+     "hi": "मधु"
+    },
+    {
+     "sa": "रौक्ष्यात् तैक्ष्ण्यात् कषायत्वात्",
+     "iast": "raukṣyāt taikṣṇyāt kaṣāyatvāt",
+     "en": "by dryness, sharpness and astringency",
+     "hi": "रूक्षता, तीक्ष्णता और कषायता से"
+    },
+    {
+     "sa": "स्निग्धः मन्दः मधुरः",
+     "iast": "snigdhaḥ mandaḥ madhuraḥ",
+     "en": "unctuous, mild and sweet",
+     "hi": "स्निग्ध, मन्द और मधुर"
+    },
+    {
+     "sa": "गुणतः विपरीतम्",
+     "iast": "guṇataḥ viparītam",
+     "en": "opposite in qualities",
+     "hi": "गुणों में विपरीत"
+    }
+   ],
+   "english": "Oil, being unctuous, hot and heavy, overcomes vāta when used regularly, for vāta is dry, cold and light, i.e. of opposite qualities; and when opposite qualities meet, the weaker is overcome by the stronger. Hence oil used regularly overcomes vāta. Likewise ghee overcomes pitta by its sweetness, coldness and mildness, for pitta is not sweet, and is hot and sharp. Honey overcomes kapha by its dryness, sharpness and astringency, for kapha is unctuous, mild and sweet. And any other substance similarly opposite in qualities to vāta, pitta or kapha overcomes them when used regularly.",
+   "hindi": "तैल स्निग्ध, उष्ण और गुरु होने से नियमित प्रयोग पर वात को जीतता है, क्योंकि वात रूक्ष, शीत और लघु, अर्थात् विपरीत गुणों वाला है; और विरुद्ध गुणों के मिलने पर प्रबल दुर्बल को जीत लेता है। इसलिए नियमित प्रयुक्त तैल वात को जीतता है। इसी प्रकार घृत अपनी मधुरता, शीतलता और मन्दता से पित्त को जीतता है, क्योंकि पित्त अमधुर, उष्ण और तीक्ष्ण है। मधु अपनी रूक्षता, तीक्ष्णता और कषायता से कफ को जीतता है, क्योंकि कफ स्निग्ध, मन्द और मधुर है। और जो भी अन्य द्रव्य वात, पित्त, कफ के गुणों से ऐसा ही विपरीत हो, वह नियमित सेवन से उन्हें जीतता है।",
+   "explanation_en": "Reasoning behind taila-ghṛta-madhu: the stronger set of opposite qualities overcomes the weaker. A model answer for 'why is oil best for vāta?'",
+   "explanation_hi": "तैल-घृत-मधु के पीछे का तर्क: विपरीत गुणों का प्रबल समूह दुर्बल को जीतता है। 'वात के लिए तैल श्रेष्ठ क्यों?' का आदर्श उत्तर।",
+   "modern_correlation": null,
+   "key_terms": [
+    "taila",
+    "ghṛta",
+    "madhu",
+    "viruddha guṇa"
+   ],
+   "tags": [
+    "dravya",
+    "tridosha",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.vimana.1.15",
+   "word_meanings": [
+    {
+     "sa": "अथ खलु",
+     "iast": "atha khalu",
+     "en": "now indeed",
+     "hi": "अब"
+    },
+    {
+     "sa": "त्रीणि द्रव्याणि",
+     "iast": "trīṇi dravyāṇi",
+     "en": "three substances",
+     "hi": "तीन द्रव्य"
+    },
+    {
+     "sa": "न अति उपयुञ्जीत",
+     "iast": "na ati upayuñjīta",
+     "en": "one should not overuse",
+     "hi": "अधिक प्रयोग न करे"
+    },
+    {
+     "sa": "अधिकम् अन्येभ्यः द्रव्येभ्यः",
+     "iast": "adhikam anyebhyaḥ dravyebhyaḥ",
+     "en": "more than other substances",
+     "hi": "अन्य द्रव्यों से अधिक"
+    },
+    {
+     "sa": "तद्यथा",
+     "iast": "tadyathā",
+     "en": "namely",
+     "hi": "जैसे"
+    },
+    {
+     "sa": "पिप्पली",
+     "iast": "pippalī",
+     "en": "long pepper",
+     "hi": "पिप्पली"
+    },
+    {
+     "sa": "क्षारः",
+     "iast": "kṣāraḥ",
+     "en": "alkali",
+     "hi": "क्षार"
+    },
+    {
+     "sa": "लवणम्",
+     "iast": "lavaṇam",
+     "en": "salt",
+     "hi": "लवण"
+    }
+   ],
+   "english": "Now, there are three substances that one should not use excessively, more than other substances: pippalī (long pepper), kṣāra (alkali) and lavaṇa (salt).",
+   "hindi": "अब तीन द्रव्य ऐसे हैं जिनका अन्य द्रव्यों से अधिक, अति प्रयोग नहीं करना चाहिए: पिप्पली, क्षार और लवण।",
+   "explanation_en": "A frequently asked one-liner: 'nātyupayuñjīta' - pippalī, kṣāra, lavaṇa. Reasons follow in 16-18.",
+   "explanation_hi": "बहुत पूछी जाने वाली पंक्ति: 'नात्युपयुञ्जीत' - पिप्पली, क्षार, लवण। कारण श्लोक 16-18 में।",
+   "modern_correlation": null,
+   "key_terms": [
+    "pippalī",
+    "kṣāra",
+    "lavaṇa",
+    "atiyoga"
+   ],
+   "tags": [
+    "dravya",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Don't overuse 'PKL': Pippalī, Kṣāra, Lavaṇa",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.vimana.1.16",
+   "word_meanings": [
+    {
+     "sa": "पिप्पल्यः हि कटुकाः सत्यः",
+     "iast": "pippalyaḥ hi kaṭukāḥ satyaḥ",
+     "en": "pippalī, though pungent",
+     "hi": "पिप्पली कटु होते हुए भी"
+    },
+    {
+     "sa": "मधुरविपाकाः",
+     "iast": "madhuravipākāḥ",
+     "en": "sweet in vipāka",
+     "hi": "मधुर विपाक वाली"
+    },
+    {
+     "sa": "गुर्व्यः",
+     "iast": "gurvyaḥ",
+     "en": "heavy",
+     "hi": "गुरु"
+    },
+    {
+     "sa": "न अत्यर्थम् स्निग्धौष्णाः",
+     "iast": "na atyartham snigdha-uṣṇāḥ",
+     "en": "not very unctuous or hot",
+     "hi": "न अधिक स्निग्ध, न अधिक उष्ण"
+    },
+    {
+     "sa": "प्रक्लेदिन्यः",
+     "iast": "prakledinyaḥ",
+     "en": "moistening",
+     "hi": "प्रक्लेदी"
+    },
+    {
+     "sa": "भेषजाभिमताः",
+     "iast": "bheṣajābhimatāḥ",
+     "en": "valued as medicine",
+     "hi": "औषध रूप में मान्य"
+    },
+    {
+     "sa": "सद्यः शुभअशुभकारिण्यः",
+     "iast": "sadyaḥ śubha-aśubha-kāriṇyaḥ",
+     "en": "producing immediate good and bad effects",
+     "hi": "तुरन्त शुभ और अशुभ फल देने वाली"
+    },
+    {
+     "sa": "आपातभद्राः",
+     "iast": "āpātabhadrāḥ",
+     "en": "good at first",
+     "hi": "आरम्भ में लाभकारी"
+    },
+    {
+     "sa": "दोषसंचयानुबन्धाः",
+     "iast": "doṣasaṃcayānubandhāḥ",
+     "en": "followed by accumulation of doṣas",
+     "hi": "बाद में दोष-संचय करने वाली"
+    },
+    {
+     "sa": "श्लेष्माणम् उत्क्लेशयन्ति",
+     "iast": "śleṣmāṇam utkleśayanti",
+     "en": "excite kapha",
+     "hi": "कफ को उत्क्लेशित करती हैं"
+    },
+    {
+     "sa": "औष्ण्यात् पित्तम्",
+     "iast": "auṣṇyāt pittam",
+     "en": "by heat, pitta",
+     "hi": "उष्णता से पित्त को"
+    },
+    {
+     "sa": "न च वातप्रशमनाय",
+     "iast": "na ca vātapraśamanāya",
+     "en": "nor do they pacify vāta",
+     "hi": "और वात शमन नहीं करतीं"
+    },
+    {
+     "sa": "योगवाहिन्यः",
+     "iast": "yogavāhinyaḥ",
+     "en": "carriers that enhance other drugs (yogavāhī)",
+     "hi": "योगवाही"
+    }
+   ],
+   "english": "Pippalī, though pungent, is sweet in vipāka, heavy, not very unctuous or hot, moistening, and valued as a medicine. It produces immediate good and bad effects: it is beneficial at first because of its good qualities when properly used, but continuous use leads to accumulation of doṣas. Because of its heaviness and moistening property it excites kapha; by its heat it excites pitta; and being only slightly unctuous and hot it does not pacify vāta. It is, however, a yogavāhī (enhancer of other drugs). Therefore one should not use pippalī excessively.",
+   "hindi": "पिप्पली कटु होते हुए भी मधुर विपाक, गुरु, न अधिक स्निग्ध न अधिक उष्ण, प्रक्लेदी और औषध रूप में मान्य है। यह तुरन्त शुभ और अशुभ दोनों फल देती है: उचित प्रयोग में गुणों के कारण आरम्भ में लाभकारी है, पर निरन्तर प्रयोग से दोष-संचय करती है। गुरुता और प्रक्लेदी गुण से यह कफ को उत्क्लेशित करती है; उष्णता से पित्त को; और थोड़ी ही स्निग्ध और उष्ण होने से वात का शमन नहीं करती। फिर भी यह योगवाही है। इसलिए पिप्पली का अति प्रयोग नहीं करना चाहिए।",
+   "explanation_en": "Pippalī is called 'yogavāhī' (it potentiates whatever it is combined with), a term often asked. Prolonged use is cautioned (contrast with pippalī rasāyana, used under supervision in Ci 1.3).",
+   "explanation_hi": "पिप्पली को 'योगवाही' कहा गया (जिसके साथ मिले उसकी शक्ति बढ़ाती है), यह शब्द अक्सर पूछा जाता है। लम्बे प्रयोग से सावधान किया गया है (चि. 1.3 के पिप्पली रसायन से तुलना करें, जो विधिपूर्वक दिया जाता है)।",
+   "modern_correlation": {
+    "en": "Piperine from long pepper is studied as a bioavailability enhancer of several drugs and nutrients, which is often cited as a modern parallel to the term yogavāhī. Clinical significance varies by substance.",
+    "hi": "पिप्पली के पिपेरिन का अनेक औषधियों और पोषक तत्त्वों की बायोअवेलेबिलिटी बढ़ाने वाले के रूप में अध्ययन हुआ है, जिसे प्रायः 'योगवाही' का आधुनिक समानान्तर बताया जाता है। नैदानिक महत्त्व पदार्थ के अनुसार भिन्न है।"
+   },
+   "key_terms": [
+    "pippalī",
+    "yogavāhī",
+    "madhura vipāka"
+   ],
+   "tags": [
+    "dravya",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.vimana.1.17",
+   "word_meanings": [
+    {
+     "sa": "क्षारः",
+     "iast": "kṣāraḥ",
+     "en": "alkali",
+     "hi": "क्षार"
+    },
+    {
+     "sa": "औष्ण्यतैक्ष्ण्यलाघवौपपन्नः",
+     "iast": "auṣṇya-taikṣṇya-lāghava-upapannaḥ",
+     "en": "hot, sharp and light",
+     "hi": "उष्ण, तीक्ष्ण और लघु"
+    },
+    {
+     "sa": "क्लेदयति आदौ",
+     "iast": "kledayati ādau",
+     "en": "moistens at first",
+     "hi": "पहले क्लेदन करता है"
+    },
+    {
+     "sa": "पश्चात् विशोषयति",
+     "iast": "paścāt viśoṣayati",
+     "en": "then dries",
+     "hi": "फिर सुखाता है"
+    },
+    {
+     "sa": "पचनदहनभेदनअर्थम्",
+     "iast": "pacana-dahana-bhedana-artham",
+     "en": "for digesting, burning and breaking",
+     "hi": "पाचन, दहन और भेदन के लिए"
+    },
+    {
+     "sa": "अतिप्रयुज्यमानः",
+     "iast": "atiprayujyamānaḥ",
+     "en": "when overused",
+     "hi": "अति प्रयोग करने पर"
+    },
+    {
+     "sa": "केशअक्षिहृदयपुंस्त्वौपघातकरः",
+     "iast": "keśa-akṣi-hṛdaya-puṃstva-upaghātakaraḥ",
+     "en": "harms hair, eyes, heart and virility",
+     "hi": "केश, नेत्र, हृदय और पुंसत्व को हानि"
+    },
+    {
+     "sa": "आन्ध्यषाण्ढ्यखालित्यपालित्य",
+     "iast": "āndhya-ṣāṇḍhya-khālitya-pālitya",
+     "en": "blindness, impotence, baldness, greying",
+     "hi": "अन्धापन, नपुंसकता, गंजापन, बालों का सफेद होना"
+    },
+    {
+     "sa": "हृदयापकर्तिनः",
+     "iast": "hṛdayāpakartinaḥ",
+     "en": "suffering cutting pain in the heart",
+     "hi": "हृदय में काटने जैसी पीड़ा वाले"
+    },
+    {
+     "sa": "प्राच्याः चीनाः च",
+     "iast": "prācyāḥ cīnāḥ ca",
+     "en": "the people of the east and China",
+     "hi": "प्राच्य (पूर्वी) और चीन के लोग"
+    }
+   ],
+   "english": "Kṣāra (alkali) is hot, sharp and light; it moistens at first and then dries. It is used for digesting, burning (cauterising) and breaking. When overused it harms the hair, eyes, heart and virility. Villages, towns, cities and regions that use it continuously suffer from blindness, impotence, baldness, greying and cutting pain in the heart, for example the people of the east (prācya) and of Cīna. Therefore one should not use kṣāra excessively.",
+   "hindi": "क्षार उष्ण, तीक्ष्ण और लघु है; पहले क्लेदन करता है फिर सुखाता है। इसका प्रयोग पाचन, दहन और भेदन के लिए होता है। अति प्रयोग करने पर यह केश, नेत्र, हृदय और पुंसत्व को हानि पहुँचाता है। जो गाँव, नगर, निगम और जनपद इसका निरन्तर प्रयोग करते हैं, वे अन्धापन, नपुंसकता, गंजापन, बालों का सफेद होना और हृदय में काटने जैसी पीड़ा से पीड़ित होते हैं, जैसे प्राच्य (पूर्वी) और चीन के लोग। इसलिए क्षार का अति प्रयोग नहीं करना चाहिए।",
+   "explanation_en": "Effects of kṣāra overuse with a regional example (prācya and Cīna). Frequently asked as 'which people are habituated to kṣāra?'",
+   "explanation_hi": "क्षार के अति प्रयोग के दुष्प्रभाव, प्रादेशिक उदाहरण (प्राच्य और चीन) सहित। प्रश्न: 'कौन लोग क्षार के अभ्यस्त हैं?'",
+   "modern_correlation": null,
+   "key_terms": [
+    "kṣāra",
+    "atiyoga",
+    "prācya",
+    "cīna"
+   ],
+   "tags": [
+    "dravya",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.vimana.1.18",
+   "word_meanings": [
+    {
+     "sa": "लवणम्",
+     "iast": "lavaṇam",
+     "en": "salt",
+     "hi": "लवण"
+    },
+    {
+     "sa": "औष्ण्यतैक्ष्ण्यौपपन्नम्",
+     "iast": "auṣṇya-taikṣṇya-upapannam",
+     "en": "hot and sharp",
+     "hi": "उष्ण और तीक्ष्ण"
+    },
+    {
+     "sa": "अनतिगुरु",
+     "iast": "anatiguru",
+     "en": "not very heavy",
+     "hi": "अधिक गुरु नहीं"
+    },
+    {
+     "sa": "अनतिस्निग्धम्",
+     "iast": "anatisnigdham",
+     "en": "not very unctuous",
+     "hi": "अधिक स्निग्ध नहीं"
+    },
+    {
+     "sa": "उपक्लेदि",
+     "iast": "upakledi",
+     "en": "moistening",
+     "hi": "उपक्लेदी"
+    },
+    {
+     "sa": "विस्रंसनसमर्थम्",
+     "iast": "visraṃsanasamartham",
+     "en": "capable of loosening (laxative)",
+     "hi": "विस्रंसन में समर्थ"
+    },
+    {
+     "sa": "अन्नद्रव्यरुचिकरम्",
+     "iast": "annadravyarucikaram",
+     "en": "makes food tasty",
+     "hi": "अन्न में रुचि लाने वाला"
+    },
+    {
+     "sa": "आपातभद्रम्",
+     "iast": "āpātabhadram",
+     "en": "good at first",
+     "hi": "आरम्भ में लाभकारी"
+    },
+    {
+     "sa": "ग्लानिशैथिल्यदौर्बल्य",
+     "iast": "glāni-śaithilya-daurbalya",
+     "en": "fatigue, laxity and weakness",
+     "hi": "ग्लानि, शिथिलता और दुर्बलता"
+    },
+    {
+     "sa": "ग्लास्नवः",
+     "iast": "glāsnavaḥ",
+     "en": "easily tired",
+     "hi": "शीघ्र थकने वाले"
+    },
+    {
+     "sa": "शिथिलमांसशोणिताः",
+     "iast": "śithila-māṃsa-śoṇitāḥ",
+     "en": "with flabby muscles and blood",
+     "hi": "शिथिल मांस-रक्त वाले"
+    },
+    {
+     "sa": "अपरिक्लेशसहाः",
+     "iast": "aparikleśasahāḥ",
+     "en": "unable to bear hardship",
+     "hi": "कष्ट न सह सकने वाले"
+    },
+    {
+     "sa": "वाह्लीकसौराष्ट्रिकसैन्धवसौवीरकाः",
+     "iast": "vāhlīka-saurāṣṭrika-saindhava-sauvīrakāḥ",
+     "en": "people of Bāhlīka, Saurāṣṭra, Sindhu and Sauvīra",
+     "hi": "बाह्लीक, सौराष्ट्र, सिन्धु और सौवीर के लोग"
+    },
+    {
+     "sa": "पयसा अपि सह लवणम् अश्नन्ति",
+     "iast": "payasā api saha lavaṇam aśnanti",
+     "en": "eat salt even with milk",
+     "hi": "दूध के साथ भी नमक खाते हैं"
+    },
+    {
+     "sa": "अत्यूषराः देशाः",
+     "iast": "atyūṣarāḥ deśāḥ",
+     "en": "highly saline lands",
+     "hi": "अति ऊसर प्रदेश"
+    },
+    {
+     "sa": "खालित्यपालित्यानि वलयः च अकाले",
+     "iast": "khālitya-pālityāni valayaḥ ca akāle",
+     "en": "premature baldness, greying and wrinkles",
+     "hi": "असमय गंजापन, सफेद बाल और झुर्रियाँ"
+    }
+   ],
+   "english": "Salt is hot and sharp, not very heavy, not very unctuous, moistening, capable of loosening, and makes food tasty. It is beneficial at first because of its good qualities when properly used, but continuous use leads to accumulation of doṣas. It is used to improve taste, aid digestion, moisten and loosen. Used excessively, it causes fatigue, laxity and weakness of the body. Villages, towns, cities and regions that use it continuously are mostly easily tired, have flabby muscles and blood, and cannot bear hardship, for example the people of Bāhlīka, Saurāṣṭra, Sindhu and Sauvīra, who eat salt even with milk. In highly saline lands, herbs, creepers and trees do not grow, or grow weak, because of the damage done by salt. Therefore one should not use salt excessively. Even people habituated to excess salt develop premature baldness, greying and wrinkles.",
+   "hindi": "लवण उष्ण और तीक्ष्ण, अधिक गुरु नहीं, अधिक स्निग्ध नहीं, उपक्लेदी, विस्रंसन में समर्थ और भोजन में रुचि लाने वाला है। उचित प्रयोग में गुणों के कारण आरम्भ में लाभकारी है, पर निरन्तर प्रयोग से दोष-संचय करता है। इसका प्रयोग रुचि, पाचन, क्लेदन और विस्रंसन के लिए होता है। अधिक प्रयोग से शरीर में ग्लानि, शिथिलता और दुर्बलता होती है। जो गाँव, नगर और जनपद इसका निरन्तर प्रयोग करते हैं, वे प्रायः शीघ्र थकने वाले, शिथिल मांस-रक्त वाले और कष्ट न सह सकने वाले होते हैं, जैसे बाह्लीक, सौराष्ट्र, सिन्धु और सौवीर के लोग, जो दूध के साथ भी नमक खाते हैं। अति ऊसर भूमि में लवण से हानि के कारण औषधि, लताएँ और वृक्ष उगते ही नहीं या दुर्बल रहते हैं। इसलिए लवण का अति प्रयोग नहीं करना चाहिए। अति लवण के अभ्यस्त लोगों में भी असमय गंजापन, बाल सफेद होना और झुर्रियाँ होती हैं।",
+   "explanation_en": "Effects of excess salt, with regional examples (Bāhlīka, Saurāṣṭra, Sindhu, Sauvīra) and the analogy of saline soil where plants do not grow. Commonly asked.",
+   "explanation_hi": "अधिक लवण के दुष्प्रभाव, प्रादेशिक उदाहरणों (बाह्लीक, सौराष्ट्र, सिन्धु, सौवीर) और ऊसर भूमि की उपमा सहित जहाँ पौधे नहीं उगते। बहुत पूछा जाता है।",
+   "modern_correlation": {
+    "en": "High habitual salt intake is associated in modern medicine with hypertension and cardiovascular disease, and saline soils do impair plant growth. The specific effects listed (greying, baldness) are classical observations rather than established findings.",
+    "hi": "आधुनिक चिकित्सा में अधिक नमक का नियमित सेवन हाइपरटेंशन और हृदय रोग से जुड़ा है, और खारी मिट्टी पौधों की वृद्धि रोकती है। बताए गए विशिष्ट प्रभाव (बाल सफेद होना, गंजापन) शास्त्रीय अवलोकन हैं, स्थापित निष्कर्ष नहीं।"
+   },
+   "key_terms": [
+    "lavaṇa",
+    "atiyoga",
+    "ūṣara"
+   ],
+   "tags": [
+    "dravya",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.vimana.1.19",
+   "word_meanings": [
+    {
+     "sa": "तस्मात्",
+     "iast": "tasmāt",
+     "en": "therefore",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "तेषाम्",
+     "iast": "teṣām",
+     "en": "for them",
+     "hi": "उनके लिए"
+    },
+    {
+     "sa": "तत्सात्म्यतः",
+     "iast": "tatsātmyataḥ",
+     "en": "from that habituation",
+     "hi": "उस सात्म्य से"
+    },
+    {
+     "sa": "क्रमेण अपगमनम् श्रेयः",
+     "iast": "krameṇa apagamanam śreyaḥ",
+     "en": "gradual withdrawal is best",
+     "hi": "धीरे-धीरे हटना श्रेष्ठ है"
+    },
+    {
+     "sa": "सात्म्यम् अपि हि",
+     "iast": "sātmyam api hi",
+     "en": "even a habituation",
+     "hi": "सात्म्य भी"
+    },
+    {
+     "sa": "क्रमेण उपनिवर्त्यमानम्",
+     "iast": "krameṇa upanivartyamānam",
+     "en": "when withdrawn gradually",
+     "hi": "धीरे-धीरे छुड़ाने पर"
+    },
+    {
+     "sa": "अदोषम् अल्पदोषम् वा भवति",
+     "iast": "adoṣam alpadoṣam vā bhavati",
+     "en": "causes no or little harm",
+     "hi": "निर्दोष या अल्पदोष होता है"
+    }
+   ],
+   "english": "Therefore, for such people, gradual withdrawal from that habituation is best; for even a habituation, when withdrawn gradually, causes no harm or only little harm.",
+   "hindi": "इसलिए ऐसे लोगों के लिए उस सात्म्य से धीरे-धीरे हटना श्रेष्ठ है; क्योंकि सात्म्य भी धीरे-धीरे छुड़ाने पर निर्दोष या अल्पदोष होता है।",
+   "explanation_en": "The principle of gradual withdrawal of unwholesome habits (krama), detailed in Su 7.36-37 (pādāṃśika krama). Useful clinical advice.",
+   "explanation_hi": "अहित आदतों को धीरे-धीरे छोड़ने का सिद्धान्त (क्रम), सू. 7.36-37 में विस्तार (पादांशिक क्रम)। उपयोगी चिकित्सकीय सलाह।",
+   "modern_correlation": {
+    "en": "Gradual reduction (tapering) of a habitual substance to avoid withdrawal effects parallels modern practice, e.g. stepwise salt reduction or tapering of habit-forming substances.",
+    "hi": "किसी आदतन पदार्थ को धीरे-धीरे घटाना (टेपरिंग) ताकि छोड़ने के दुष्प्रभाव न हों, आधुनिक व्यवहार से मेल खाता है, जैसे नमक को चरणबद्ध घटाना या आदत डालने वाले पदार्थों को धीरे-धीरे कम करना।"
+   },
+   "key_terms": [
+    "sātmya",
+    "krama",
+    "apagamana"
+   ],
+   "tags": [
+    "sātmya",
+    "principles",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.vimana.1.20",
+   "word_meanings": [
+    {
+     "sa": "सात्म्यम् नाम",
+     "iast": "sātmyam nāma",
+     "en": "sātmya means",
+     "hi": "सात्म्य वह है"
+    },
+    {
+     "sa": "तत् यत् आत्मनि उपशेते",
+     "iast": "tat yat ātmani upaśete",
+     "en": "that which suits the self (body)",
+     "hi": "जो आत्मा (शरीर) के अनुकूल हो"
+    },
+    {
+     "sa": "सात्म्यार्थः हि उपशयार्थः",
+     "iast": "sātmyārthaḥ hi upaśayārthaḥ",
+     "en": "sātmya means the same as upaśaya",
+     "hi": "सात्म्य का अर्थ उपशय ही है"
+    },
+    {
+     "sa": "त्रिविधम्",
+     "iast": "trividham",
+     "en": "threefold",
+     "hi": "तीन प्रकार"
+    },
+    {
+     "sa": "प्रवरअवरमध्यविभागेन",
+     "iast": "pravara-avara-madhya-vibhāgena",
+     "en": "as best, lowest and middle",
+     "hi": "प्रवर, अवर और मध्य"
+    },
+    {
+     "sa": "सप्तविधम् तु",
+     "iast": "saptavidham tu",
+     "en": "sevenfold",
+     "hi": "सात प्रकार"
+    },
+    {
+     "sa": "रसएकैकत्वेन सर्वरसौपयोगात् च",
+     "iast": "rasa-ekaikatvena sarvarasa-upayogāt ca",
+     "en": "by single rasas and use of all rasas",
+     "hi": "एक-एक रस और सब रसों के प्रयोग से"
+    },
+    {
+     "sa": "सर्वरसम् प्रवरम्",
+     "iast": "sarvarasam pravaram",
+     "en": "use of all rasas is best",
+     "hi": "सर्वरस प्रवर"
+    },
+    {
+     "sa": "अवरम् एकरसम्",
+     "iast": "avaram ekarasam",
+     "en": "single rasa is lowest",
+     "hi": "एकरस अवर"
+    },
+    {
+     "sa": "मध्यम्",
+     "iast": "madhyam",
+     "en": "middle",
+     "hi": "मध्य"
+    },
+    {
+     "sa": "प्रकृतिआदिउपयोक्तृअष्टमानि",
+     "iast": "prakṛti-ādi-upayoktṛ-aṣṭamāni",
+     "en": "the eight beginning with prakṛti and ending with upayoktā",
+     "hi": "प्रकृति से उपयोक्ता तक आठ"
+    },
+    {
+     "sa": "आहारविधिविशेषायतनानि",
+     "iast": "āhāravidhiviśeṣāyatanāni",
+     "en": "the special factors of dietetics",
+     "hi": "आहारविधि-विशेषायतन"
+    },
+    {
+     "sa": "हितम् एव अनुरुध्येत",
+     "iast": "hitam eva anurudhyeta",
+     "en": "should follow only what is wholesome",
+     "hi": "हितकर का ही पालन करे"
+    }
+   ],
+   "english": "Sātmya is that which suits one's self (body); the meaning of sātmya is the same as upaśaya (wholesomeness). It is threefold: best (pravara), lowest (avara) and middle (madhya); and sevenfold, by habituation to each single rasa and to all rasas together. Habituation to all rasas is best, to a single rasa lowest, and the middle lies between. One should gradually move from the lowest and middle habituation to the best. Even when habituated to all rasas, one should examine the eight special factors of dietetics, from prakṛti to upayoktā (the consumer), and follow only what is wholesome.",
+   "hindi": "सात्म्य वह है जो आत्मा (शरीर) के अनुकूल हो; सात्म्य का अर्थ उपशय ही है। यह तीन प्रकार का है: प्रवर, अवर और मध्य; और सात प्रकार का: एक-एक रस का और सब रसों का अभ्यास। सब रसों का सात्म्य प्रवर, एक रस का अवर, और बीच का मध्य है। अवर और मध्य सात्म्य से धीरे-धीरे प्रवर सात्म्य की ओर जाना चाहिए। सब रसों का सात्म्य होने पर भी प्रकृति से उपयोक्ता तक आठ आहारविधि-विशेषायतनों को परखकर हितकर का ही पालन करना चाहिए।",
+   "explanation_en": "Definition and classification of sātmya: 'yad ātmany upaśete'. Three types (pravara-sarvarasa, madhya, avara-ekarasa) and seven types (six single rasas + all). Very frequently asked.",
+   "explanation_hi": "सात्म्य की परिभाषा और वर्गीकरण: 'यदात्मन्युपशेते'। तीन प्रकार (प्रवर-सर्वरस, मध्य, अवर-एकरस) और सात प्रकार (छह एकल रस + सर्वरस)। बहुत पूछा जाता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sātmya",
+    "upaśaya",
+    "pravara",
+    "madhya",
+    "avara",
+    "sarvarasa"
+   ],
+   "tags": [
+    "sātmya",
+    "exam",
+    "definitions"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.vimana.1.21",
+   "word_meanings": [
+    {
+     "sa": "तत्र खलु इमानि अष्टौ",
+     "iast": "tatra khalu imāni aṣṭau",
+     "en": "now these eight",
+     "hi": "अब ये आठ"
+    },
+    {
+     "sa": "आहारविधिविशेषायतनानि भवन्ति",
+     "iast": "āhāravidhiviśeṣāyatanāni bhavanti",
+     "en": "are the special factors of dietetics",
+     "hi": "आहारविधि-विशेषायतन हैं"
+    },
+    {
+     "sa": "प्रकृति",
+     "iast": "prakṛti",
+     "en": "nature of food",
+     "hi": "प्रकृति"
+    },
+    {
+     "sa": "करण",
+     "iast": "karaṇa",
+     "en": "processing",
+     "hi": "करण"
+    },
+    {
+     "sa": "संयोग",
+     "iast": "saṃyoga",
+     "en": "combination",
+     "hi": "संयोग"
+    },
+    {
+     "sa": "राशि",
+     "iast": "rāśi",
+     "en": "quantity",
+     "hi": "राशि"
+    },
+    {
+     "sa": "देश",
+     "iast": "deśa",
+     "en": "place",
+     "hi": "देश"
+    },
+    {
+     "sa": "काल",
+     "iast": "kāla",
+     "en": "time",
+     "hi": "काल"
+    },
+    {
+     "sa": "उपयोगसंस्था",
+     "iast": "upayogasaṃsthā",
+     "en": "rules of use",
+     "hi": "उपयोगसंस्था"
+    },
+    {
+     "sa": "उपयोक्तृअष्टमानि",
+     "iast": "upayoktṛ-aṣṭamāni",
+     "en": "with the consumer as the eighth",
+     "hi": "उपयोक्ता आठवाँ"
+    }
+   ],
+   "english": "These are the eight special factors governing the method of eating (āhāravidhiviśeṣāyatana): prakṛti (nature), karaṇa (processing), saṃyoga (combination), rāśi (quantity), deśa (place), kāla (time), upayogasaṃsthā (rules of use) and upayoktā (the consumer) as the eighth.",
+   "hindi": "ये आठ आहारविधि-विशेषायतन हैं: प्रकृति, करण (संस्कार), संयोग, राशि (मात्रा), देश, काल, उपयोगसंस्था (सेवन के नियम) और आठवाँ उपयोक्ता (खाने वाला)।",
+   "explanation_en": "One of the most frequently asked lists in BAMS: the aṣṭa āhāravidhiviśeṣāyatana. Definitions follow in verse 22.",
+   "explanation_hi": "BAMS की सबसे अधिक पूछी जाने वाली सूचियों में से एक: अष्ट आहारविधि-विशेषायतन। परिभाषाएँ श्लोक 22 में।",
+   "modern_correlation": null,
+   "key_terms": [
+    "aṣṭa āhāravidhiviśeṣāyatana",
+    "prakṛti",
+    "karaṇa",
+    "saṃyoga",
+    "rāśi",
+    "deśa",
+    "kāla",
+    "upayogasaṃsthā",
+    "upayoktā"
+   ],
+   "tags": [
+    "ahara",
+    "exam",
+    "list"
+   ],
+   "importance": "high",
+   "mnemonic": "'Please Keep Some Rice, Dal, Kheer Under Umbrella' - Prakṛti, Karaṇa, Saṃyoga, Rāśi, Deśa, Kāla, Upayogasaṃsthā, Upayoktā",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.vimana.1.22",
+   "word_meanings": [
+    {
+     "sa": "प्रकृतिः उच्यते स्वभावः",
+     "iast": "prakṛtiḥ ucyate svabhāvaḥ",
+     "en": "prakṛti means natural property",
+     "hi": "प्रकृति स्वभाव है"
+    },
+    {
+     "sa": "स्वाभाविकः गुर्वादिगुणयोगः",
+     "iast": "svābhāvikaḥ gurvādiguṇayogaḥ",
+     "en": "natural possession of qualities like heaviness",
+     "hi": "स्वाभाविक गुरु आदि गुण"
+    },
+    {
+     "sa": "माषमुद्गयोः",
+     "iast": "māṣa-mudgayoḥ",
+     "en": "of black gram and green gram",
+     "hi": "उड़द और मूँग का"
+    },
+    {
+     "sa": "शूकरएणयोः",
+     "iast": "śūkara-eṇayoḥ",
+     "en": "of pork and deer meat",
+     "hi": "सूअर और हिरण मांस का"
+    },
+    {
+     "sa": "करणम्",
+     "iast": "karaṇam",
+     "en": "processing",
+     "hi": "करण"
+    },
+    {
+     "sa": "अभिसंस्कारः",
+     "iast": "abhisaṃskāraḥ",
+     "en": "transformation",
+     "hi": "अभिसंस्कार"
+    },
+    {
+     "sa": "संस्कारः हि गुणान्तराधानम्",
+     "iast": "saṃskāraḥ hi guṇāntarādhānam",
+     "en": "saṃskāra is the infusion of new qualities",
+     "hi": "संस्कार गुणान्तराधान है"
+    },
+    {
+     "sa": "तोयअग्निसंनिकर्ष",
+     "iast": "toya-agni-saṃnikarṣa",
+     "en": "contact with water and fire",
+     "hi": "जल और अग्नि का संपर्क"
+    },
+    {
+     "sa": "शौच",
+     "iast": "śauca",
+     "en": "cleansing",
+     "hi": "शौच"
+    },
+    {
+     "sa": "मन्थन",
+     "iast": "manthana",
+     "en": "churning",
+     "hi": "मन्थन"
+    },
+    {
+     "sa": "देशकाल",
+     "iast": "deśa-kāla",
+     "en": "place and time",
+     "hi": "देश और काल"
+    },
+    {
+     "sa": "वासन",
+     "iast": "vāsana",
+     "en": "impregnating with scent",
+     "hi": "वासन"
+    },
+    {
+     "sa": "भावन",
+     "iast": "bhāvana",
+     "en": "trituration with liquids",
+     "hi": "भावना"
+    },
+    {
+     "sa": "कालप्रकर्ष",
+     "iast": "kālaprakarṣa",
+     "en": "passage of time",
+     "hi": "काल-प्रकर्ष"
+    },
+    {
+     "sa": "भाजन",
+     "iast": "bhājana",
+     "en": "container",
+     "hi": "भाजन"
+    },
+    {
+     "sa": "संयोगः",
+     "iast": "saṃyogaḥ",
+     "en": "combination",
+     "hi": "संयोग"
+    },
+    {
+     "sa": "संहतीभावः",
+     "iast": "saṃhatībhāvaḥ",
+     "en": "combining together",
+     "hi": "एकत्रीकरण"
+    },
+    {
+     "sa": "विशेषम् आरभते",
+     "iast": "viśeṣam ārabhate",
+     "en": "produces a special effect",
+     "hi": "विशेष प्रभाव उत्पन्न करता है"
+    },
+    {
+     "sa": "मधुसर्पिषोः",
+     "iast": "madhu-sarpiṣoḥ",
+     "en": "of honey and ghee",
+     "hi": "मधु और घी का"
+    },
+    {
+     "sa": "मधुमत्स्यपयसाम्",
+     "iast": "madhu-matsya-payasām",
+     "en": "of honey, fish and milk",
+     "hi": "मधु, मछली और दूध का"
+    },
+    {
+     "sa": "राशिः",
+     "iast": "rāśiḥ",
+     "en": "quantity",
+     "hi": "राशि"
+    },
+    {
+     "sa": "सर्वग्रह",
+     "iast": "sarvagraha",
+     "en": "total quantity",
+     "hi": "सर्वग्रह"
+    },
+    {
+     "sa": "परिग्रह",
+     "iast": "parigraha",
+     "en": "quantity of each item",
+     "hi": "परिग्रह"
+    },
+    {
+     "sa": "मात्राअमात्रफलविनिश्चयार्थः",
+     "iast": "mātrā-amātra-phala-viniścayārthaḥ",
+     "en": "for determining the results of proper and improper quantity",
+     "hi": "मात्रा-अमात्रा के फल के निर्णय हेतु"
+    },
+    {
+     "sa": "देशः",
+     "iast": "deśaḥ",
+     "en": "place",
+     "hi": "देश"
+    },
+    {
+     "sa": "उत्पत्तिप्रचारौ",
+     "iast": "utpatti-pracārau",
+     "en": "origin and spread",
+     "hi": "उत्पत्ति और प्रचार"
+    },
+    {
+     "sa": "देशसात्म्यम्",
+     "iast": "deśasātmyam",
+     "en": "suitability to region",
+     "hi": "देशसात्म्य"
+    },
+    {
+     "sa": "कालः",
+     "iast": "kālaḥ",
+     "en": "time",
+     "hi": "काल"
+    },
+    {
+     "sa": "नित्यगः",
+     "iast": "nityagaḥ",
+     "en": "daily/seasonal (continuous)",
+     "hi": "नित्यग"
+    },
+    {
+     "sa": "आवस्थिकः",
+     "iast": "āvasthikaḥ",
+     "en": "related to state (disease)",
+     "hi": "आवस्थिक"
+    },
+    {
+     "sa": "ऋतुसात्म्य",
+     "iast": "ṛtusātmya",
+     "en": "seasonal suitability",
+     "hi": "ऋतुसात्म्य"
+    },
+    {
+     "sa": "उपयोगसंस्था",
+     "iast": "upayogasaṃsthā",
+     "en": "rules of use",
+     "hi": "उपयोगसंस्था"
+    },
+    {
+     "sa": "जीर्णलक्षणापेक्षः",
+     "iast": "jīrṇalakṣaṇāpekṣaḥ",
+     "en": "depends on signs of digestion",
+     "hi": "जीर्ण लक्षणों पर निर्भर"
+    },
+    {
+     "sa": "उपयोक्ता",
+     "iast": "upayoktā",
+     "en": "the consumer",
+     "hi": "उपयोक्ता"
+    },
+    {
+     "sa": "ओकसात्म्यम्",
+     "iast": "okasātmyam",
+     "en": "habituation (by practice)",
+     "hi": "ओकसात्म्य"
+    }
+   ],
+   "english": "Prakṛti is natural property, i.e. the natural possession of qualities such as heaviness in food and drug substances; for example black gram (heavy) and green gram (light), pork (heavy) and deer meat (light). Karaṇa is the processing of natural substances; processing (saṃskāra) means the infusion of new qualities (guṇāntarādhāna). These qualities are imparted by contact with water and fire, cleansing, churning, place, time, scenting, impregnation (bhāvanā), passage of time, the container and so on. Saṃyoga is the combining of two or more substances; it produces special effects that the substances do not produce singly, such as the combination of honey and ghee, or of honey, fish and milk. Rāśi is quantity, considered as sarvagraha (the whole meal) and parigraha (each item), for determining the results of proper and improper quantity: measuring the whole meal at once is sarvagraha, and measuring each food item separately is parigraha. Deśa is place; it indicates the origin and spread of substances and their suitability to the region. Kāla is time, of two kinds: nityaga (daily and seasonal) and āvasthika (related to the state, i.e. disease); the āvasthika depends on the disease, the nityaga on seasonal suitability. Upayogasaṃsthā is the rules of eating, which depend on signs of digestion. Upayoktā is the person who consumes the food, on whom habituation by practice (okasātmya) depends. Thus the eight special factors of dietetics have been explained.",
+   "hindi": "प्रकृति स्वभाव है, अर्थात् आहार और औषध द्रव्यों में गुरु आदि गुणों का स्वाभाविक होना; जैसे उड़द (गुरु) और मूँग (लघु), सूअर (गुरु) और हिरण (लघु) का मांस। करण स्वाभाविक द्रव्यों का संस्कार है; संस्कार का अर्थ है गुणान्तराधान (नए गुण डालना)। ये गुण जल और अग्नि के संपर्क, शुद्धि, मन्थन, देश, काल, वासन, भावना, काल-प्रकर्ष, भाजन आदि से आते हैं। संयोग दो या अधिक द्रव्यों का मिलना है; यह ऐसा विशेष प्रभाव उत्पन्न करता है जो द्रव्य अकेले नहीं करते, जैसे मधु और घी का, या मधु, मछली और दूध का संयोग। राशि मात्रा है, जो सर्वग्रह (पूरे भोजन की) और परिग्रह (प्रत्येक द्रव्य की) के रूप में मात्रा-अमात्रा के फल को निश्चित करने के लिए है: पूरे भोजन को एक साथ मापना सर्वग्रह, और प्रत्येक द्रव्य को अलग मापना परिग्रह है। देश स्थान है; यह द्रव्यों की उत्पत्ति, प्रचार और देश-सात्म्य बताता है। काल दो प्रकार का है: नित्यग (दैनिक और ऋतुगत) और आवस्थिक (अवस्था अर्थात् रोग से सम्बन्धित); आवस्थिक रोग पर और नित्यग ऋतुसात्म्य पर निर्भर है। उपयोगसंस्था भोजन के नियम हैं, जो जीर्ण लक्षणों पर निर्भर हैं। उपयोक्ता वह है जो आहार का सेवन करता है, जिस पर ओकसात्म्य निर्भर है। इस प्रकार आठ आहारविधि-विशेषायतन बताए गए।",
+   "explanation_en": "The definitions of the eight factors with examples, a top exam question. Key phrases: 'saṃskāro hi guṇāntarādhānam' (processing infuses new qualities), sarvagraha vs parigraha, nityaga vs āvasthika kāla, okasātmya. Write each factor with its definition and one example.",
+   "explanation_hi": "आठ कारकों की परिभाषाएँ उदाहरणों सहित, सर्वोच्च परीक्षा प्रश्न। मुख्य वाक्य: 'संस्कारो हि गुणान्तराधानम्', सर्वग्रह बनाम परिग्रह, नित्यग बनाम आवस्थिक काल, ओकसात्म्य। प्रत्येक कारक परिभाषा और एक उदाहरण सहित लिखें।",
+   "modern_correlation": {
+    "en": "Several factors have parallels in nutrition science: food composition (prakṛti), effects of cooking and processing on digestibility and nutrients (karaṇa), food combinations and interactions (saṃyoga), portion size (rāśi), local and seasonal foods (deśa, kāla), meal timing (upayogasaṃsthā) and individual variation in tolerance (upayoktā). These are broad parallels.",
+    "hi": "कई कारकों की पोषण विज्ञान में समानता है: भोजन की संरचना (प्रकृति), पकाने और संस्करण का पाचनशीलता व पोषक तत्त्वों पर प्रभाव (करण), भोजन के संयोग और परस्पर क्रिया (संयोग), मात्रा (राशि), स्थानीय और मौसमी भोजन (देश, काल), भोजन का समय (उपयोगसंस्था) और सहनशीलता में व्यक्तिगत भिन्नता (उपयोक्ता)। ये व्यापक समानताएँ हैं।"
+   },
+   "key_terms": [
+    "prakṛti",
+    "karaṇa",
+    "saṃskāra",
+    "guṇāntarādhāna",
+    "saṃyoga",
+    "rāśi",
+    "sarvagraha",
+    "parigraha",
+    "deśa",
+    "kāla",
+    "nityaga",
+    "āvasthika",
+    "upayogasaṃsthā",
+    "upayoktā",
+    "okasātmya"
+   ],
+   "tags": [
+    "ahara",
+    "exam",
+    "long-answer",
+    "definitions"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.vimana.1.23",
+   "word_meanings": [
+    {
+     "sa": "एषाम् विशेषाः",
+     "iast": "eṣām viśeṣāḥ",
+     "en": "their particulars",
+     "hi": "इनकी विशेषताएँ"
+    },
+    {
+     "sa": "शुभअशुभफलाः",
+     "iast": "śubha-aśubha-phalāḥ",
+     "en": "yielding good and bad results",
+     "hi": "शुभ और अशुभ फल देने वाली"
+    },
+    {
+     "sa": "परस्परौपकारकाः",
+     "iast": "paraspara-upakārakāḥ",
+     "en": "mutually supporting",
+     "hi": "परस्पर सहायक"
+    },
+    {
+     "sa": "तान् बुभुत्सेत",
+     "iast": "tān bubhutseta",
+     "en": "one should seek to know them",
+     "hi": "उन्हें जानने की इच्छा करे"
+    },
+    {
+     "sa": "बुद्ध्वा च हितेप्सुः एव स्यात्",
+     "iast": "buddhvā ca hitepsuḥ eva syāt",
+     "en": "and having known, should seek only the wholesome",
+     "hi": "और जानकर हित ही चाहे"
+    },
+    {
+     "sa": "न च मोहात् प्रमादात् वा",
+     "iast": "na ca mohāt pramādāt vā",
+     "en": "not out of delusion or carelessness",
+     "hi": "मोह या प्रमाद से नहीं"
+    },
+    {
+     "sa": "प्रियम् अहितम्",
+     "iast": "priyam ahitam",
+     "en": "pleasant but unwholesome",
+     "hi": "प्रिय पर अहित"
+    },
+    {
+     "sa": "असुखोदर्कम्",
+     "iast": "asukhodarkam",
+     "en": "leading to unhappiness",
+     "hi": "अन्त में दुःख देने वाला"
+    },
+    {
+     "sa": "उपसेव्यम्",
+     "iast": "upasevyam",
+     "en": "should be used",
+     "hi": "सेवन करे"
+    }
+   ],
+   "english": "The particular features of these factors yield good and bad results and support one another. One should seek to know them, and having known them, should desire only the wholesome; one should not, out of delusion or carelessness, take food or anything else that is pleasant but unwholesome and leads to unhappiness in the end.",
+   "hindi": "इन कारकों की विशेषताएँ शुभ और अशुभ फल देती हैं और परस्पर सहायक हैं। इन्हें जानने का प्रयत्न करना चाहिए, और जानकर हित ही चाहना चाहिए; मोह या प्रमाद से ऐसा आहार या अन्य कुछ नहीं लेना चाहिए जो प्रिय हो पर अहितकर और अन्त में दुःखदायी हो।",
+   "explanation_en": "Choose hita over priya (compare Su 28.36).",
+   "explanation_hi": "प्रिय की बजाय हित चुनें (सू. 28.36 देखें)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "hita",
+    "priya"
+   ],
+   "tags": [
+    "ahara",
+    "conduct"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.vimana.1.24",
+   "word_meanings": [
+    {
+     "sa": "आहारविधिविधानम्",
+     "iast": "āhāravidhividhānam",
+     "en": "the rules for the method of eating",
+     "hi": "आहारविधि विधान"
+    },
+    {
+     "sa": "अरोगाणाम् आतुराणाम् च अपि केषांचित्",
+     "iast": "arogāṇām āturāṇām ca api keṣāṃcit",
+     "en": "for the healthy and some patients",
+     "hi": "स्वस्थ और कुछ रोगियों के लिए"
+    },
+    {
+     "sa": "काले",
+     "iast": "kāle",
+     "en": "at the proper time",
+     "hi": "उचित समय पर"
+    },
+    {
+     "sa": "प्रकृत्या एव हिततमम् भुञ्जानानाम्",
+     "iast": "prakṛtyā eva hitatamam bhuñjānānām",
+     "en": "for those eating what is naturally most wholesome",
+     "hi": "स्वभावतः सबसे हितकर खाने वालों के लिए"
+    },
+    {
+     "sa": "उष्णम्",
+     "iast": "uṣṇam",
+     "en": "warm",
+     "hi": "उष्ण"
+    },
+    {
+     "sa": "स्निग्धम्",
+     "iast": "snigdham",
+     "en": "unctuous",
+     "hi": "स्निग्ध"
+    },
+    {
+     "sa": "मात्रावत्",
+     "iast": "mātrāvat",
+     "en": "in proper quantity",
+     "hi": "मात्रावत्"
+    },
+    {
+     "sa": "जीर्णे",
+     "iast": "jīrṇe",
+     "en": "after digestion (of previous meal)",
+     "hi": "जीर्ण होने पर"
+    },
+    {
+     "sa": "वीर्याविरुद्धम्",
+     "iast": "vīryāviruddham",
+     "en": "not incompatible in potency",
+     "hi": "वीर्य-अविरुद्ध"
+    },
+    {
+     "sa": "इष्टे देशे",
+     "iast": "iṣṭe deśe",
+     "en": "in a pleasant place",
+     "hi": "इष्ट देश में"
+    },
+    {
+     "sa": "इष्टसर्वौपकरणम्",
+     "iast": "iṣṭa-sarva-upakaraṇam",
+     "en": "with all pleasing accessories",
+     "hi": "सब इष्ट उपकरणों सहित"
+    },
+    {
+     "sa": "न अतिद्रुतम्",
+     "iast": "na atidrutam",
+     "en": "not too fast",
+     "hi": "न अति शीघ्र"
+    },
+    {
+     "sa": "न अतिविलम्बितम्",
+     "iast": "na ativilambitam",
+     "en": "not too slowly",
+     "hi": "न अति विलम्ब से"
+    },
+    {
+     "sa": "अजल्पन्",
+     "iast": "ajalpan",
+     "en": "without talking",
+     "hi": "बिना बोले"
+    },
+    {
+     "sa": "अहसन्",
+     "iast": "ahasan",
+     "en": "without laughing",
+     "hi": "बिना हँसे"
+    },
+    {
+     "sa": "तन्मनाः",
+     "iast": "tanmanāḥ",
+     "en": "with mind on the food",
+     "hi": "मन लगाकर"
+    },
+    {
+     "sa": "भुञ्जीत",
+     "iast": "bhuñjīta",
+     "en": "should eat",
+     "hi": "खाए"
+    },
+    {
+     "sa": "आत्मानम् अभिसमीक्ष्य सम्यक्",
+     "iast": "ātmānam abhisamīkṣya samyak",
+     "en": "considering oneself properly",
+     "hi": "अपने आप को भली-भाँति परखकर"
+    }
+   ],
+   "english": "These are the rules of eating for the healthy, and also for some patients, who eat at the proper time food that is naturally most wholesome: one should eat food that is warm, unctuous, in proper quantity, after the previous meal is digested, not incompatible in potency, in a pleasant place with all pleasing accessories, neither too fast nor too slowly, without talking or laughing, with full attention, and after properly considering oneself (what suits one).",
+   "hindi": "स्वस्थ और कुछ रोगियों के लिए, जो उचित समय पर स्वभावतः हितकर भोजन करते हैं, भोजन के नियम ये हैं: भोजन उष्ण, स्निग्ध, उचित मात्रा में, पिछला भोजन पचने पर, वीर्य-अविरुद्ध, इष्ट स्थान पर सब इष्ट उपकरणों सहित, न अति शीघ्र न अति विलम्ब से, बिना बोले और बिना हँसे, मन लगाकर, और अपने आप को (क्या अनुकूल है) भली-भाँति परखकर करना चाहिए।",
+   "explanation_en": "The 'āhāravidhi vidhāna' (twelve rules of eating), very frequently asked. Reasons for each are given in verse 25.",
+   "explanation_hi": "'आहारविधि विधान' (भोजन के बारह नियम), बहुत पूछा जाता है। प्रत्येक का कारण श्लोक 25 में है।",
+   "modern_correlation": {
+    "en": "Several rules match modern dietary advice: eating at regular intervals, appropriate portion size, eating slowly and attentively (mindful eating), and avoiding distraction during meals.",
+    "hi": "कई नियम आधुनिक आहार-सलाह से मेल खाते हैं: नियमित अन्तराल पर खाना, उचित मात्रा, धीरे और ध्यान से खाना (माइंडफुल ईटिंग), और भोजन के समय ध्यान न भटकाना।"
+   },
+   "key_terms": [
+    "āhāravidhi vidhāna",
+    "uṣṇa",
+    "snigdha",
+    "mātrāvat",
+    "jīrṇe",
+    "vīryāviruddha",
+    "tanmanā"
+   ],
+   "tags": [
+    "ahara",
+    "exam",
+    "list"
+   ],
+   "importance": "high",
+   "mnemonic": "12 rules: Warm, Unctuous, Measured, After digestion, Compatible, Pleasant place, Pleasant tools, Not fast, Not slow, No talk, No laugh/attentive, Know yourself",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.vimana.1.25",
+   "word_meanings": [
+    {
+     "sa": "उष्णम् अश्नीयात्",
+     "iast": "uṣṇam aśnīyāt",
+     "en": "one should eat warm food",
+     "hi": "उष्ण खाए"
+    },
+    {
+     "sa": "स्वदते",
+     "iast": "svadate",
+     "en": "tastes good",
+     "hi": "स्वादिष्ट लगता है"
+    },
+    {
+     "sa": "अग्निम् औदर्यम् उदीरयति",
+     "iast": "agnim audaryam udīrayati",
+     "en": "stimulates the digestive fire",
+     "hi": "जठराग्नि को प्रदीप्त करता है"
+    },
+    {
+     "sa": "क्षिप्रम् जराम् गच्छति",
+     "iast": "kṣipram jarām gacchati",
+     "en": "is digested quickly",
+     "hi": "शीघ्र पचता है"
+    },
+    {
+     "sa": "वातम् अनुलोमयति",
+     "iast": "vātam anulomayati",
+     "en": "moves vāta downward",
+     "hi": "वात का अनुलोमन करता है"
+    },
+    {
+     "sa": "श्लेष्माणम् परिह्रासयति",
+     "iast": "śleṣmāṇam parihrāsayati",
+     "en": "reduces kapha",
+     "hi": "कफ घटाता है"
+    },
+    {
+     "sa": "स्निग्धम्",
+     "iast": "snigdham",
+     "en": "unctuous",
+     "hi": "स्निग्ध"
+    },
+    {
+     "sa": "शरीरम् उपचिनोति",
+     "iast": "śarīram upacinoti",
+     "en": "nourishes the body",
+     "hi": "शरीर को पुष्ट करता है"
+    },
+    {
+     "sa": "दृढीकरोति इन्द्रियाणि",
+     "iast": "dṛḍhīkaroti indriyāṇi",
+     "en": "strengthens the senses",
+     "hi": "इन्द्रियों को दृढ़ करता है"
+    },
+    {
+     "sa": "वर्णप्रसादम्",
+     "iast": "varṇaprasādam",
+     "en": "clarity of complexion",
+     "hi": "वर्ण की प्रसन्नता"
+    },
+    {
+     "sa": "मात्रावत्",
+     "iast": "mātrāvat",
+     "en": "in proper quantity",
+     "hi": "उचित मात्रा में"
+    },
+    {
+     "sa": "वातपित्तकफान् अपीडयत्",
+     "iast": "vāta-pitta-kaphān apīḍayat",
+     "en": "without troubling vāta, pitta, kapha",
+     "hi": "वात, पित्त, कफ को पीड़ित न करते हुए"
+    },
+    {
+     "sa": "आयुः एव विवर्धयति",
+     "iast": "āyuḥ eva vivardhayati",
+     "en": "only increases life",
+     "hi": "केवल आयु बढ़ाता है"
+    },
+    {
+     "sa": "सुखम् गुदम् अनुपर्येति",
+     "iast": "sukham gudam anuparyeti",
+     "en": "passes easily to the anus",
+     "hi": "सुखपूर्वक गुदा तक पहुँचता है"
+    },
+    {
+     "sa": "जीर्णे",
+     "iast": "jīrṇe",
+     "en": "after digestion",
+     "hi": "जीर्ण होने पर"
+    },
+    {
+     "sa": "अजीर्णे हि भुञ्जानस्य",
+     "iast": "ajīrṇe hi bhuñjānasya",
+     "en": "for one eating before digestion",
+     "hi": "अजीर्ण में खाने वाले का"
+    },
+    {
+     "sa": "पूर्वस्य आहारस्य रसम् अपरिणतम्",
+     "iast": "pūrvasya āhārasya rasam apariṇatam",
+     "en": "the undigested product of the previous meal",
+     "hi": "पिछले आहार का अपक्व रस"
+    },
+    {
+     "sa": "सर्वान् दोषान् प्रकोपयति",
+     "iast": "sarvān doṣān prakopayati",
+     "en": "aggravates all doṣas",
+     "hi": "सब दोषों को कुपित करता है"
+    },
+    {
+     "sa": "विशुद्धे च उद्गारे",
+     "iast": "viśuddhe ca udgāre",
+     "en": "with clear belching",
+     "hi": "शुद्ध डकार"
+    },
+    {
+     "sa": "वीर्याविरुद्धम्",
+     "iast": "vīryāviruddham",
+     "en": "compatible in potency",
+     "hi": "वीर्य-अविरुद्ध"
+    },
+    {
+     "sa": "इष्टे देशे",
+     "iast": "iṣṭe deśe",
+     "en": "in a pleasant place",
+     "hi": "इष्ट स्थान में"
+    },
+    {
+     "sa": "मनोविघातम्",
+     "iast": "manovighātam",
+     "en": "mental distress",
+     "hi": "मनोविघात"
+    },
+    {
+     "sa": "अतिद्रुतम्",
+     "iast": "atidrutam",
+     "en": "too fast",
+     "hi": "अति शीघ्र"
+    },
+    {
+     "sa": "उत्स्नेहनम्",
+     "iast": "utsnehanam",
+     "en": "food going the wrong way (choking)",
+     "hi": "उत्स्नेहन"
+    },
+    {
+     "sa": "अवसादनम्",
+     "iast": "avasādanam",
+     "en": "depression, heaviness",
+     "hi": "अवसादन"
+    },
+    {
+     "sa": "अप्रतिष्ठानम्",
+     "iast": "apratiṣṭhānam",
+     "en": "improper settling",
+     "hi": "अप्रतिष्ठान"
+    },
+    {
+     "sa": "अतिविलम्बितम्",
+     "iast": "ativilambitam",
+     "en": "too slowly",
+     "hi": "अति विलम्ब"
+    },
+    {
+     "sa": "न तृप्तिम् अधिगच्छति",
+     "iast": "na tṛptim adhigacchati",
+     "en": "does not attain satisfaction",
+     "hi": "तृप्ति नहीं होती"
+    },
+    {
+     "sa": "शीतीभवति",
+     "iast": "śītībhavati",
+     "en": "becomes cold",
+     "hi": "ठण्डा हो जाता है"
+    },
+    {
+     "sa": "विषमम् च पच्यते",
+     "iast": "viṣamam ca pacyate",
+     "en": "is digested irregularly",
+     "hi": "विषम रूप से पचता है"
+    },
+    {
+     "sa": "अजल्पन् अहसन् तन्मनाः",
+     "iast": "ajalpan ahasan tanmanāḥ",
+     "en": "without talking or laughing, attentively",
+     "hi": "बिना बोले, बिना हँसे, मन लगाकर"
+    },
+    {
+     "sa": "आत्मसात्म्यम्",
+     "iast": "ātmasātmyam",
+     "en": "what suits oneself",
+     "hi": "आत्मसात्म्य"
+    }
+   ],
+   "english": "We shall explain the merits of these rules. One should eat warm food: warm food tastes good, stimulates the digestive fire, is digested quickly, moves vāta downward and reduces kapha. One should eat unctuous food: it tastes good, kindles a weak digestive fire, is digested quickly, moves vāta downward, nourishes the body, strengthens the senses, increases strength and brings clarity of complexion. One should eat in proper quantity: food in proper quantity does not disturb vāta, pitta and kapha, only increases life, passes easily to the anus, does not impair the digestive heat and is digested without discomfort. One should eat after the previous meal is digested: food eaten before the previous meal is digested mixes its undigested product with the new one and quickly aggravates all doṣas; but food eaten after digestion, when the doṣas are in their places, agni is kindled, hunger has arisen, the openings of the channels are clear, belching is clean, the heart is clear, vāta moves downward, and the urges of flatus, urine and faeces have been attended to, does not vitiate the body's dhātus and only increases life. One should eat food compatible in potency: then one is not afflicted by disorders arising from incompatible food. One should eat in a pleasant place with all pleasing accessories: then one does not suffer mental distress from unpleasant surroundings. One should not eat too fast: eating too fast causes food to go the wrong way, heaviness and improper settling of food, and one cannot properly notice faults or merits in the food. One should not eat too slowly: eating too slowly does not bring satisfaction, one eats too much, the food becomes cold and is digested irregularly. One should eat without talking or laughing and with full attention: talking, laughing or inattention while eating lead to the same faults as eating too fast. One should eat after properly considering oneself: by noting 'this suits me, this does not', one comes to know what is wholesome for oneself.",
+   "hindi": "इन नियमों के गुण बताते हैं। उष्ण भोजन करना चाहिए: उष्ण भोजन स्वादिष्ट लगता है, जठराग्नि को प्रदीप्त करता है, शीघ्र पचता है, वात का अनुलोमन करता है और कफ घटाता है। स्निग्ध भोजन करना चाहिए: यह स्वादिष्ट लगता है, मन्द अग्नि को प्रदीप्त करता है, शीघ्र पचता है, वात का अनुलोमन करता है, शरीर को पुष्ट करता है, इन्द्रियों को दृढ़ करता है, बल बढ़ाता है और वर्ण को निखारता है। उचित मात्रा में भोजन करना चाहिए: उचित मात्रा का भोजन वात, पित्त, कफ को पीड़ित नहीं करता, केवल आयु बढ़ाता है, सुखपूर्वक गुदा तक पहुँचता है, ऊष्मा को हानि नहीं पहुँचाता और बिना कष्ट पचता है। पिछला भोजन पचने पर खाना चाहिए: अजीर्ण में खाया भोजन पिछले भोजन के अपक्व रस को नए से मिलाकर शीघ्र सब दोषों को कुपित करता है; पर पचने के बाद, जब दोष अपने स्थान पर हों, अग्नि प्रदीप्त हो, भूख लगी हो, स्रोतों के मुख खुले हों, डकार शुद्ध हो, हृदय हल्का हो, वात का अनुलोमन हो और वायु, मूत्र, मल के वेग निकल चुके हों, तब खाया भोजन शरीर-धातुओं को दूषित नहीं करता और केवल आयु बढ़ाता है। वीर्य-अविरुद्ध भोजन करना चाहिए: तब विरुद्ध वीर्य वाले आहार से होने वाले रोग नहीं होते। इष्ट स्थान पर सब इष्ट उपकरणों सहित भोजन करना चाहिए: तब अप्रिय वातावरण से मन को कष्ट नहीं होता। अति शीघ्र नहीं खाना चाहिए: अति शीघ्र खाने से भोजन गलत मार्ग में जाता है, भारीपन होता है, भोजन ठीक से नहीं बैठता, और भोजन के दोष-गुण ठीक से पता नहीं चलते। अति विलम्ब से नहीं खाना चाहिए: अति धीरे खाने से तृप्ति नहीं होती, अधिक खाया जाता है, भोजन ठण्डा हो जाता है और विषम रूप से पचता है। बिना बोले, बिना हँसे, मन लगाकर खाना चाहिए: बोलते, हँसते या मन भटकाकर खाने से वही दोष होते हैं जो अति शीघ्र खाने से। अपने आप को परखकर खाना चाहिए: 'यह मुझे अनुकूल है, यह नहीं', ऐसा जानकर व्यक्ति अपना आत्मसात्म्य जानता है।",
+   "explanation_en": "This long passage gives the reasoning for each rule of eating. The signs of digestion of the previous meal (jīrṇa lakṣaṇa: clear belching, hunger, lightness, clear channels, passing of flatus, urine and faeces) are especially asked. Write rule + reason pairs in exams.",
+   "explanation_hi": "यह लम्बा अंश भोजन के प्रत्येक नियम का कारण बताता है। पिछले भोजन के पचने के लक्षण (जीर्ण लक्षण: शुद्ध डकार, भूख, हल्कापन, स्रोतों का खुलना, वायु-मूत्र-मल का निकलना) विशेष रूप से पूछे जाते हैं। परीक्षा में नियम + कारण की जोड़ी लिखें।",
+   "modern_correlation": {
+    "en": "Some reasons resemble modern physiology: eating slowly allows satiety signals to develop and reduces overeating; eating too fast or talking while eating raises the risk of choking (aspiration); appropriate portion sizes reduce digestive discomfort. Others reflect Ayurvedic theory.",
+    "hi": "कुछ कारण आधुनिक शरीरक्रिया से मिलते हैं: धीरे खाने से तृप्ति के संकेत बनने का समय मिलता है और अधिक खाना कम होता है; बहुत जल्दी खाने या खाते समय बोलने से गले में अटकने (एस्पिरेशन) का जोखिम बढ़ता है; उचित मात्रा से पाचन-कष्ट कम होता है। अन्य कारण आयुर्वेदिक सिद्धान्त पर आधारित हैं।"
+   },
+   "key_terms": [
+    "āhāravidhi vidhāna",
+    "jīrṇa lakṣaṇa",
+    "ātmasātmya"
+   ],
+   "tags": [
+    "ahara",
+    "exam",
+    "long-answer"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.vimana.1.26",
+   "word_meanings": [
+    {
+     "sa": "रसान्",
+     "iast": "rasān",
+     "en": "rasas",
+     "hi": "रसों को"
+    },
+    {
+     "sa": "द्रव्याणि",
+     "iast": "dravyāṇi",
+     "en": "substances",
+     "hi": "द्रव्यों को"
+    },
+    {
+     "sa": "दोषान् च",
+     "iast": "doṣān ca",
+     "en": "and doṣas",
+     "hi": "और दोषों को"
+    },
+    {
+     "sa": "विकारान् च",
+     "iast": "vikārān ca",
+     "en": "and diseases",
+     "hi": "और विकारों को"
+    },
+    {
+     "sa": "प्रभावतः",
+     "iast": "prabhāvataḥ",
+     "en": "by their effects",
+     "hi": "प्रभाव से"
+    },
+    {
+     "sa": "वेद यः",
+     "iast": "veda yaḥ",
+     "en": "one who knows",
+     "hi": "जो जानता है"
+    },
+    {
+     "sa": "देशकालौ च",
+     "iast": "deśakālau ca",
+     "en": "and place and time",
+     "hi": "और देश-काल को"
+    },
+    {
+     "sa": "शरीरम् च",
+     "iast": "śarīram ca",
+     "en": "and the body",
+     "hi": "और शरीर को"
+    },
+    {
+     "sa": "सः नः भिषक्",
+     "iast": "saḥ naḥ bhiṣak",
+     "en": "he is a physician in our view",
+     "hi": "वह हमारा (मान्य) वैद्य है"
+    }
+   ],
+   "english": "One who knows rasas, substances, doṣas and diseases by their effects, and also place, time and the body, is a (true) physician in our view.",
+   "hindi": "जो रस, द्रव्य, दोष और विकारों को उनके प्रभाव से, तथा देश, काल और शरीर को जानता है, वही हमारे मत में (सच्चा) वैद्य है।",
+   "explanation_en": "Concluding verse on the qualities of a physician, linking the chapter's topics.",
+   "explanation_hi": "वैद्य के गुणों पर समापन श्लोक, जो अध्याय के विषयों को जोड़ता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "bhiṣak"
+   ],
+   "tags": [
+    "physician"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.vimana.1.27",
+   "word_meanings": [
+    {
+     "sa": "विमानार्थः",
+     "iast": "vimānārthaḥ",
+     "en": "the purpose of vimāna",
+     "hi": "विमान का प्रयोजन"
+    },
+    {
+     "sa": "रसद्रव्यदोषरोगाः प्रभावतः",
+     "iast": "rasa-dravya-doṣa-rogāḥ prabhāvataḥ",
+     "en": "rasa, substance, doṣa and disease by their effects",
+     "hi": "रस, द्रव्य, दोष और रोग प्रभाव सहित"
+    },
+    {
+     "sa": "द्रव्याणि न अतिसेव्यानि",
+     "iast": "dravyāṇi na atisevyāni",
+     "en": "substances not to be overused",
+     "hi": "अति सेवन न करने योग्य द्रव्य"
+    },
+    {
+     "sa": "त्रिविधम् सात्म्यम् एव च",
+     "iast": "trividham sātmyam eva ca",
+     "en": "and the three kinds of sātmya",
+     "hi": "और त्रिविध सात्म्य"
+    }
+   ],
+   "english": "(Summary:) The purpose of vimāna; rasa, substance, doṣa and disease by their effects; substances not to be overused; and the three kinds of sātmya;",
+   "hindi": "(सारांश:) विमान का प्रयोजन; रस, द्रव्य, दोष और रोग प्रभाव सहित; अति सेवन न करने योग्य द्रव्य; और त्रिविध सात्म्य;",
+   "explanation_en": "Summary verses.",
+   "explanation_hi": "सारांश श्लोक।",
+   "modern_correlation": null,
+   "key_terms": [
+    "saṃgraha"
+   ],
+   "tags": [
+    "summary"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.vimana.1.28",
+   "word_meanings": [
+    {
+     "sa": "आहारायतनानि अष्टौ",
+     "iast": "āhārāyatanāni aṣṭau",
+     "en": "the eight factors of diet",
+     "hi": "आठ आहारायतन"
+    },
+    {
+     "sa": "भोज्यसाद्गुण्यम् एव च",
+     "iast": "bhojyasādguṇyam eva ca",
+     "en": "and the merits of (the rules of) eating",
+     "hi": "और भोजन (नियमों) के गुण"
+    },
+    {
+     "sa": "विमाने रससंख्याते",
+     "iast": "vimāne rasasaṃkhyāte",
+     "en": "in the chapter on rasa-vimāna",
+     "hi": "रसविमान में"
+    },
+    {
+     "sa": "सर्वम् एतत् प्रकाशितम्",
+     "iast": "sarvam etat prakāśitam",
+     "en": "all this has been explained",
+     "hi": "यह सब बताया गया"
+    }
+   ],
+   "english": "the eight factors of diet and the merits of the rules of eating: all this has been explained in the Rasavimāna chapter.",
+   "hindi": "आठ आहारायतन और भोजन-नियमों के गुण: यह सब रसविमान अध्याय में बताया गया है।",
+   "explanation_en": "End of the summary.",
+   "explanation_hi": "सारांश का अन्त।",
+   "modern_correlation": null,
+   "key_terms": [
+    "saṃgraha"
+   ],
+   "tags": [
+    "summary"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.vimana.1.29",
+   "word_meanings": [
+    {
+     "sa": "इति अग्निवेशकृते तन्त्रे चरकप्रतिसंस्कृते",
+     "iast": "iti agniveśakṛte tantre carakapratisaṃskṛte",
+     "en": "thus in the treatise composed by Agniveśa and redacted by Caraka",
+     "hi": "इस प्रकार अग्निवेश रचित, चरक प्रतिसंस्कृत तन्त्र में"
+    },
+    {
+     "sa": "विमानस्थाने",
+     "iast": "vimānasthāne",
+     "en": "in the Vimānasthāna",
+     "hi": "विमानस्थान में"
+    },
+    {
+     "sa": "रसविमानम् नाम प्रथमः अध्यायः",
+     "iast": "rasavimānam nāma prathamaḥ adhyāyaḥ",
+     "en": "the first chapter named Rasavimāna",
+     "hi": "रसविमान नामक प्रथम अध्याय"
+    }
+   ],
+   "english": "Thus ends the first chapter, named Rasavimāna, in the Vimānasthāna of the treatise composed by Agniveśa and redacted by Caraka.",
+   "hindi": "इस प्रकार अग्निवेश रचित और चरक प्रतिसंस्कृत तन्त्र के विमानस्थान में रसविमान नामक प्रथम अध्याय समाप्त हुआ।",
+   "explanation_en": "Colophon.",
+   "explanation_hi": "पुष्पिका।",
+   "modern_correlation": null,
+   "key_terms": [
+    "colophon"
+   ],
+   "tags": [
+    "colophon"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  }
+ ]
+}

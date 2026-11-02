@@ -261,7 +261,7 @@ export default function Scan() {
       {phase === 'result' && result ? (
         <>
           <ScanResultView r={result} />
-          <Button kind="secondary" icon="refresh" label={t('scanAgain')} onPress={reset} />
+          <Button testID="scan-again" kind="secondary" icon="refresh" label={t('scanAgain')} onPress={reset} />
         </>
       ) : null}
 

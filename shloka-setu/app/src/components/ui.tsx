@@ -70,13 +70,15 @@ export function T({ variant = 'body', color, muted, center, style, children, ...
     if (spec.bold) fontWeight = '600';
   }
   const lh = deva ? Math.max(spec.lh, 1.6) : spec.lh;
+  // Devanagari needs a little more size than Latin to stay legible at small sizes
+  const size = deva && (variant === 'label' || variant === 'caption') ? spec.size + 1.5 : spec.size;
   return (
     <Text
       {...rest}
       style={[
         {
-          fontSize: spec.size,
-          lineHeight: Math.round(spec.size * lh),
+          fontSize: size,
+          lineHeight: Math.round(size * lh),
           color: color ?? (muted ? p.textMuted : p.text),
           fontFamily,
           fontWeight,

@@ -973,7 +973,7 @@
       ],
       "related": [
         "pitta",
-        "tvak"
+        "tvak-cinnamon"
       ],
       "review_status": "ai_draft"
     },
@@ -1282,7 +1282,7 @@
         "kandara",
         "sira",
         "snayu",
-        "tvak"
+        "tvak-cinnamon"
       ],
       "review_status": "ai_draft"
     },
@@ -6083,7 +6083,7 @@
       "review_status": "ai_draft"
     },
     {
-      "id": "tvak",
+      "id": "tvak-cinnamon",
       "devanagari": "त्वक् (दालचीनी)",
       "iast": "tvak",
       "simple": "Tvak / Cinnamon",
@@ -6109,7 +6109,7 @@
       "category": "dravyaguna",
       "source_refs": [],
       "related": [
-        "tvak",
+        "tvak-cinnamon",
         "ela",
         "nagakeshara"
       ],
@@ -14748,6 +14748,2250 @@
       ],
       "related": [
         "gandusha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "prasuti-tantra",
+      "devanagari": "प्रसूति तन्त्र",
+      "iast": "prasūti tantra",
+      "simple": "Prasuti Tantra",
+      "en": "Obstetrics (with strī roga, gynaecology): conception, pregnancy care, labour, puerperium and diseases of women. Not one of the eight classical branches by name; it is drawn from Śārīra and Cikitsā sections and Kāśyapa Saṃhitā.",
+      "hi": "प्रसूति तन्त्र (स्त्री रोग सहित) - गर्भधारण, गर्भिणी परिचर्या, प्रसव, सूतिका और स्त्री रोग।",
+      "modern": "Obstetrics and gynaecology.",
+      "category": "prasuti",
+      "source_refs": [
+        "CS.sharira.8",
+        "SS.sharira.10"
+      ],
+      "related": [
+        "garbha",
+        "garbhini-paricharya",
+        "sutika",
+        "yonivyapad"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "garbha",
+      "devanagari": "गर्भ",
+      "iast": "garbha",
+      "simple": "Garbha",
+      "en": "Embryo/foetus: formed by the union of śukra, ārtava and the jīva (ātmā with sattva) in the uterus, together with the five mahābhūtas.",
+      "hi": "गर्भ - गर्भाशय में शुक्र, आर्तव और जीव (आत्मा-सत्त्व) का संयोग; पञ्चमहाभूत युक्त।",
+      "modern": "Embryo/foetus.",
+      "category": "prasuti",
+      "source_refs": [
+        "CS.sharira.4",
+        "SS.sharira.5",
+        "AH.sharira.1.1"
+      ],
+      "related": [
+        "garbha-sambhava-samagri",
+        "shadbhava",
+        "garbhashaya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "garbha-sambhava-samagri",
+      "devanagari": "गर्भसम्भव सामग्री",
+      "iast": "garbhasambhava sāmagrī",
+      "simple": "Garbha Sambhava Samagri",
+      "en": "Suśruta's four essentials for conception: ṛtu (fertile period), kṣetra (healthy uterus/reproductive tract), ambu (nutrient fluid) and bīja (healthy śukra and ārtava), likened to growing a seed.",
+      "hi": "गर्भसम्भव सामग्री - ऋतु, क्षेत्र, अम्बु, बीज (बीज बोने की तरह)।",
+      "modern": "Comparable to fertile window, healthy reproductive tract, nutrition and healthy gametes.",
+      "category": "prasuti",
+      "source_refs": [
+        "SS.sharira.2"
+      ],
+      "related": [
+        "garbha",
+        "ritukala"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "shadbhava",
+      "devanagari": "षड्भाव",
+      "iast": "ṣaḍbhāva",
+      "simple": "Shadbhava",
+      "en": "Six factors that form the foetus and determine its features: mātṛja (from mother), pitṛja (from father), ātmaja (from self), sātmyaja (from habituation), rasaja (from nutrition) and sattvaja (from mind).",
+      "hi": "षड्भाव - गर्भ के छह घटक: मातृज, पितृज, आत्मज, सात्म्यज, रसज, सत्त्वज।",
+      "modern": "Partly comparable to maternal and paternal inheritance plus environmental and nutritional factors.",
+      "category": "prasuti",
+      "source_refs": [
+        "CS.sharira.3"
+      ],
+      "related": [
+        "garbha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "garbhashaya",
+      "devanagari": "गर्भाशय",
+      "iast": "garbhāśaya",
+      "simple": "Garbhashaya",
+      "en": "Uterus, the eighth āśaya in women, shaped like the mouth of a rohita fish, located between pittāśaya and pakvāśaya (third āvarta of the yoni).",
+      "hi": "गर्भाशय - स्त्रियों का आठवाँ आशय; रोहित मछली के मुख जैसा।",
+      "modern": "Uterus.",
+      "category": "prasuti",
+      "source_refs": [
+        "AH.sharira.3.11",
+        "SS.sharira.5"
+      ],
+      "related": [
+        "ashaya",
+        "garbha",
+        "artavavaha-srotas"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "ritukala",
+      "devanagari": "ऋतुकाल",
+      "iast": "ṛtukāla",
+      "simple": "Ritukala",
+      "en": "The fertile period of the menstrual cycle, about 12 nights from the onset of menstruation (excluding the first days of bleeding); the uterus is receptive then.",
+      "hi": "ऋतुकाल - मासिक धर्म के आरम्भ से लगभग 12 रात्रि का गर्भधारण योग्य काल।",
+      "modern": "Comparable to the proliferative/fertile phase of the menstrual cycle.",
+      "category": "prasuti",
+      "source_refs": [
+        "SS.sharira.3",
+        "AH.sharira.1"
+      ],
+      "related": [
+        "artava",
+        "rajasvala-charya",
+        "garbha-sambhava-samagri"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "rajasvala-charya",
+      "devanagari": "रजस्वला चर्या",
+      "iast": "rajasvalā caryā",
+      "simple": "Rajasvala Charya",
+      "en": "Regimen during menstruation (first three days): rest, celibacy, light diet, avoiding exertion, day sleep, bathing, oil massage and cosmetics.",
+      "hi": "रजस्वला चर्या - मासिक धर्म के तीन दिन के नियम: विश्राम, ब्रह्मचर्य, लघु आहार।",
+      "modern": "Menstrual hygiene and rest guidance (some classical restrictions are culture-specific).",
+      "category": "prasuti",
+      "source_refs": [
+        "SS.sharira.2",
+        "AH.sharira.1"
+      ],
+      "related": [
+        "artava",
+        "ritukala"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "garbhini-paricharya",
+      "devanagari": "गर्भिणी परिचर्या",
+      "iast": "garbhiṇī paricaryā",
+      "simple": "Garbhini Paricharya",
+      "en": "Antenatal care: diet, conduct and month-wise regimen (māsānumāsika) for the pregnant woman, avoiding garbhopaghātakara bhāvas (factors harmful to the foetus).",
+      "hi": "गर्भिणी परिचर्या - गर्भवती का आहार-विहार; मासानुमासिक चर्या; गर्भोपघातकर भावों का त्याग।",
+      "modern": "Antenatal care.",
+      "category": "prasuti",
+      "source_refs": [
+        "CS.sharira.8",
+        "SS.sharira.10",
+        "AH.sharira.1"
+      ],
+      "related": [
+        "masanumasika-paricharya",
+        "garbhopaghatakara-bhava",
+        "dauhrida"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "masanumasika-paricharya",
+      "devanagari": "मासानुमासिक परिचर्या",
+      "iast": "māsānumāsika paricaryā",
+      "simple": "Masanumasika Paricharya",
+      "en": "Month-by-month diet in pregnancy: e.g. milk in the first months, milk with honey and ghee, rice with milk, butter, ghee medicated with madhura drugs in the middle months, and anuvāsana basti and tampons of oil in the eighth and ninth months to prepare for labour.",
+      "hi": "मासानुमासिक परिचर्या - प्रत्येक मास का गर्भिणी आहार (दूध, मधु-घृत, क्षीरपाक; आठवें-नवें मास में अनुवासन बस्ति, पिचु)।",
+      "modern": "Comparable to trimester-wise nutrition and birth preparation.",
+      "category": "prasuti",
+      "source_refs": [
+        "CS.sharira.8",
+        "SS.sharira.10"
+      ],
+      "related": [
+        "garbhini-paricharya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "garbhopaghatakara-bhava",
+      "devanagari": "गर्भोपघातकर भाव",
+      "iast": "garbhopaghātakara bhāva",
+      "simple": "Garbhopaghatakara Bhava",
+      "en": "Factors harmful to the foetus: e.g. heavy exertion, travel on rough vehicles, fasting, alcohol, meat in excess, emotional shock, sleeping supine, sitting on hard surfaces, strong purgatives.",
+      "hi": "गर्भोपघातकर भाव - गर्भ को हानि करने वाले भाव: अति श्रम, मद्य, उपवास, शोक, उत्तान शयन आदि।",
+      "modern": "Comparable to teratogenic and pregnancy-risk factors.",
+      "category": "prasuti",
+      "source_refs": [
+        "CS.sharira.4",
+        "SS.sharira.3"
+      ],
+      "related": [
+        "garbhini-paricharya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "dauhrida",
+      "devanagari": "दौहृद",
+      "iast": "dauhṛda",
+      "simple": "Dauhrida",
+      "en": "The 'two-hearted' state of pregnancy (from the fourth month, when the foetal heart develops); the mother's cravings should be fulfilled within reason, as their denial may harm the foetus.",
+      "hi": "दौहृद - 'दो हृदय वाली' अवस्था (चौथे मास से); गर्भिणी की इच्छाओं की उचित पूर्ति।",
+      "modern": "Pregnancy cravings.",
+      "category": "prasuti",
+      "source_refs": [
+        "SS.sharira.3",
+        "CS.sharira.4"
+      ],
+      "related": [
+        "garbhini-paricharya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "pumsavana",
+      "devanagari": "पुंसवन",
+      "iast": "puṃsavana",
+      "simple": "Pumsavana",
+      "en": "Rite and medications given in early pregnancy (before the sex is manifest) traditionally aimed at a male child and healthy progeny. Sex-selection practices are illegal in India (PCPNDT Act); today it is taught as a historical/supportive rite.",
+      "hi": "पुंसवन - प्रारम्भिक गर्भ में संस्कार/औषध; लिंग चयन भारत में अवैध है।",
+      "modern": "No scientific basis for sex determination; legal restrictions apply.",
+      "category": "prasuti",
+      "source_refs": [
+        "CS.sharira.8",
+        "SS.sharira.2"
+      ],
+      "related": [
+        "garbhini-paricharya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "prasava",
+      "devanagari": "प्रसव",
+      "iast": "prasava",
+      "simple": "Prasava",
+      "en": "Labour/delivery; Suśruta and Caraka describe signs of imminent labour (āsanna prasava), the delivery room (sūtikāgāra) and management of normal and abnormal labour.",
+      "hi": "प्रसव - बच्चे का जन्म; आसन्नप्रसव लक्षण, सूतिकागार, सामान्य-असामान्य प्रसव।",
+      "modern": "Labour and childbirth.",
+      "category": "prasuti",
+      "source_refs": [
+        "CS.sharira.8",
+        "SS.sharira.10"
+      ],
+      "related": [
+        "mudhagarbha",
+        "apara",
+        "sutika"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "apara",
+      "devanagari": "अपरा",
+      "iast": "aparā",
+      "simple": "Apara",
+      "en": "Placenta (after-birth), through which the foetus is nourished via the umbilical cord (nābhi-nāḍī); retained aparā is a serious complication.",
+      "hi": "अपरा - नाल/जरायु; नाभिनाडी द्वारा गर्भ का पोषण।",
+      "modern": "Placenta.",
+      "category": "prasuti",
+      "source_refs": [
+        "SS.sharira.10",
+        "CS.sharira.6"
+      ],
+      "related": [
+        "prasava"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "mudhagarbha",
+      "devanagari": "मूढगर्भ",
+      "iast": "mūḍhagarbha",
+      "simple": "Mudhagarbha",
+      "en": "Obstructed labour due to abnormal presentation or position of the foetus; Suśruta describes four main types (kīla, pratikhura, bījaka, parigha) and eight abnormal positions, with manipulation or surgical management.",
+      "hi": "मूढगर्भ - असामान्य स्थिति के कारण अवरुद्ध प्रसव; सुश्रुत: चार मुख्य प्रकार (कील, प्रतिखुर, बीजक, परिघ)।",
+      "modern": "Obstructed labour/malpresentation.",
+      "category": "prasuti",
+      "source_refs": [
+        "SS.nidana.8",
+        "SS.chikitsa.15"
+      ],
+      "related": [
+        "prasava"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "sutika",
+      "devanagari": "सूतिका",
+      "iast": "sūtikā",
+      "simple": "Sutika",
+      "en": "A woman after delivery (puerperium), until about one and a half months or till the return of menstruation; she needs a special regimen (sūtikā paricaryā) of rest, massage, warm water and digestive diet.",
+      "hi": "सूतिका - प्रसव के बाद की स्त्री (लगभग डेढ़ मास); विश्राम, अभ्यंग, उष्ण जल, दीपन आहार।",
+      "modern": "Puerperal woman.",
+      "category": "prasuti",
+      "source_refs": [
+        "SS.sharira.10",
+        "AH.sharira.1"
+      ],
+      "related": [
+        "prasava",
+        "stanya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "yonivyapad",
+      "devanagari": "योनिव्यापद्",
+      "iast": "yonivyāpad",
+      "simple": "Yonivyapad",
+      "en": "Disorders of the female reproductive tract; Caraka and Suśruta describe 20, by doṣa and other causes (e.g. udāvartā, vandhyā, upaplutā, viplutā).",
+      "hi": "योनिव्यापद् - स्त्री जननाङ्ग के 20 रोग।",
+      "modern": "Gynaecological disorders.",
+      "category": "prasuti",
+      "source_refs": [
+        "CS.chikitsa.30",
+        "SS.uttara.38"
+      ],
+      "related": [
+        "asrigdara",
+        "vandhyatva",
+        "uttara-basti"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "asrigdara",
+      "devanagari": "असृग्दर",
+      "iast": "asṛgdara",
+      "simple": "Asrigdara (Pradara)",
+      "en": "Excessive or prolonged menstrual or intermenstrual bleeding (also pradara, raktapradara); four types by doṣa.",
+      "hi": "असृग्दर (प्रदर) - अत्यधिक या दीर्घ रक्तस्राव; चार प्रकार।",
+      "modern": "Often compared to menorrhagia and abnormal uterine bleeding.",
+      "category": "prasuti",
+      "source_refs": [
+        "CS.chikitsa.30"
+      ],
+      "related": [
+        "ashoka",
+        "lodhra",
+        "yonivyapad"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "vandhyatva",
+      "devanagari": "वन्ध्यत्व",
+      "iast": "vandhyatva",
+      "simple": "Vandhyatva",
+      "en": "Infertility; may result from defects in ṛtu, kṣetra, ambu or bīja, or from yonivyāpad.",
+      "hi": "वन्ध्यत्व - बाँझपन; ऋतु, क्षेत्र, अम्बु, बीज की विकृति से।",
+      "modern": "Infertility.",
+      "category": "prasuti",
+      "source_refs": [
+        "CS.chikitsa.30",
+        "SS.uttara.38"
+      ],
+      "related": [
+        "garbha-sambhava-samagri",
+        "vajikarana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "kaumarabhritya",
+      "devanagari": "कौमारभृत्य",
+      "iast": "kaumārabhṛtya",
+      "simple": "Kaumarabhritya",
+      "en": "Paediatrics (bāla tantra): care of the newborn and child, breastfeeding and wet-nurse (dhātrī), and children's diseases including grahas. Kāśyapa Saṃhitā is the chief text.",
+      "hi": "कौमारभृत्य (बाल तन्त्र) - नवजात व बालकों की देखभाल, स्तन्य, धात्री और बाल रोग; मुख्य ग्रन्थ काश्यप संहिता।",
+      "modern": "Paediatrics.",
+      "category": "kaumarabhritya",
+      "source_refs": [
+        "SS.sutra.1",
+        "AH.uttara.1"
+      ],
+      "related": [
+        "ashtanga-ayurveda",
+        "bala-child",
+        "kashyapa-samhita"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "bala-child",
+      "devanagari": "बाल",
+      "iast": "bāla",
+      "simple": "Bala (Child)",
+      "en": "Child; Vāgbhaṭa classifies by diet: kṣīrapa (milk-fed, up to 1 year), kṣīrānnāda (milk and food, 1 to 2 years) and annāda (food-fed, after 2 years). Not to be confused with bala (strength).",
+      "hi": "बाल - बालक; क्षीरप (1 वर्ष तक), क्षीरान्नाद (1-2 वर्ष), अन्नाद (2 वर्ष बाद)।",
+      "modern": "Child; the classification parallels infancy, weaning and early childhood.",
+      "category": "kaumarabhritya",
+      "source_refs": [
+        "AH.uttara.2.1",
+        "SS.sharira.10"
+      ],
+      "related": [
+        "kaumarabhritya",
+        "bala"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "jatakarma",
+      "devanagari": "जातकर्म",
+      "iast": "jātakarma",
+      "simple": "Jatakarma",
+      "en": "Newborn care rite: after clearing the airway and cutting the cord, the baby is given honey and ghee (with gold) to lick, and mantras are recited.",
+      "hi": "जातकर्म - नवजात संस्कार; नाल छेदन के बाद मधु-घृत (स्वर्ण सहित) चटाना।",
+      "modern": "Neonatal care; giving honey to newborns is now discouraged because of infant botulism risk.",
+      "category": "kaumarabhritya",
+      "source_refs": [
+        "CS.sharira.8",
+        "SS.sharira.10"
+      ],
+      "related": [
+        "kaumarabhritya",
+        "suvarnaprashana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "suvarnaprashana",
+      "devanagari": "सुवर्णप्राशन",
+      "iast": "suvarṇaprāśana",
+      "simple": "Suvarnaprashana",
+      "en": "Giving fine gold (rubbed or as bhasma) with honey and ghee to children, which Kāśyapa says promotes intellect, digestion, strength, longevity, complexion and immunity.",
+      "hi": "सुवर्णप्राशन - बालक को स्वर्ण (भस्म) मधु-घृत के साथ चटाना; मेधा, अग्नि, बल, आयु वर्धक।",
+      "modern": "Claims of immunity and cognitive benefit are not established by robust trials.",
+      "category": "kaumarabhritya",
+      "source_refs": [],
+      "related": [
+        "svarna",
+        "kaumarabhritya",
+        "kashyapa-samhita"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "lehana",
+      "devanagari": "लेहन",
+      "iast": "lehana",
+      "simple": "Lehana",
+      "en": "Giving medicines to infants in a lickable form (with honey, ghee); Kāśyapa devotes a chapter to it.",
+      "hi": "लेहन - शिशु को चाटने योग्य औषध (मधु-घृत के साथ) देना।",
+      "modern": "",
+      "category": "kaumarabhritya",
+      "source_refs": [],
+      "related": [
+        "suvarnaprashana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "dhatri",
+      "devanagari": "धात्री",
+      "iast": "dhātrī",
+      "simple": "Dhatri",
+      "en": "Wet-nurse: classical texts describe her qualities (healthy, of same caste, with living children, abundant pure milk). Dhātrī also is a name of āmalakī.",
+      "hi": "धात्री - धाय (स्तनपान कराने वाली); आमलकी का भी नाम।",
+      "modern": "Wet-nurse.",
+      "category": "kaumarabhritya",
+      "source_refs": [
+        "CS.sharira.8",
+        "SS.sharira.10"
+      ],
+      "related": [
+        "stanya",
+        "amalaki"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "stanya-dushti",
+      "devanagari": "स्तन्य दुष्टि",
+      "iast": "stanya duṣṭi",
+      "simple": "Stanya Dushti",
+      "en": "Vitiation of breast milk; Caraka describes eight defects (e.g. vaivarṇya, vaigandhya, vairasya, picchilya, phenasaṅghāta, raukṣya, gaurava, sneha) and their tests and remedies.",
+      "hi": "स्तन्य दुष्टि - स्तन्य के आठ दोष (विवर्णता, दुर्गन्ध, विरसता, पिच्छिलता आदि)।",
+      "modern": "Altered breast milk quality.",
+      "category": "kaumarabhritya",
+      "source_refs": [
+        "CS.chikitsa.30",
+        "CS.sharira.8"
+      ],
+      "related": [
+        "stanya",
+        "stanyajanana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "annaprashana",
+      "devanagari": "अन्नप्राशन",
+      "iast": "annaprāśana",
+      "simple": "Annaprashana",
+      "en": "Introduction of solid food (weaning), traditionally around the sixth month with light, wholesome food.",
+      "hi": "अन्नप्राशन - छठे मास के आसपास अन्न आरम्भ।",
+      "modern": "Introduction of complementary feeding (WHO also recommends about 6 months).",
+      "category": "kaumarabhritya",
+      "source_refs": [
+        "SS.sharira.10"
+      ],
+      "related": [
+        "bala-child"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "karnavedhana",
+      "devanagari": "कर्णवेधन",
+      "iast": "karṇavedhana",
+      "simple": "Karnavedhana",
+      "en": "Ear-piercing rite for protection and ornament, performed in the sixth or seventh month in a favourable season (Suśruta).",
+      "hi": "कर्णवेधन - छठे या सातवें मास में कान छेदन (सुश्रुत)।",
+      "modern": "",
+      "category": "kaumarabhritya",
+      "source_refs": [
+        "SS.sutra.16"
+      ],
+      "related": [
+        "sandhana-karma"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "balagraha",
+      "devanagari": "बालग्रह",
+      "iast": "bālagraha",
+      "simple": "Balagraha",
+      "en": "Disorders of children attributed to 'seizers' (grahas) such as skanda and pūtanā, causing fever, convulsions, crying and wasting; Suśruta names nine.",
+      "hi": "बालग्रह - स्कन्द, पूतना आदि 'ग्रहों' से बालकों के रोग; ज्वर, आक्षेप; सुश्रुत: नौ।",
+      "modern": "Often interpreted as childhood infections and neonatal illnesses.",
+      "category": "kaumarabhritya",
+      "source_refs": [
+        "SS.uttara.27",
+        "AH.uttara.3.1"
+      ],
+      "related": [
+        "kaumarabhritya",
+        "bhutavidya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "phakka-roga",
+      "devanagari": "फक्क रोग",
+      "iast": "phakka roga",
+      "simple": "Phakka Roga",
+      "en": "Kāśyapa's condition of a child who cannot walk even after one year, with emaciation; types are kṣīraja, garbhaja and vyādhija.",
+      "hi": "फक्क रोग - एक वर्ष बाद भी न चल पाने वाला कृश बालक (काश्यप)।",
+      "modern": "Often compared to rickets and protein-energy malnutrition.",
+      "category": "kaumarabhritya",
+      "source_refs": [],
+      "related": [
+        "kashyapa-samhita",
+        "karshya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "dantodbhava",
+      "devanagari": "दन्तोद्भव",
+      "iast": "dantodbhava",
+      "simple": "Dantodbhava",
+      "en": "Teething; Kāśyapa describes it as a cause of fever, diarrhoea, cough and other ailments in infants.",
+      "hi": "दन्तोद्भव - दाँत निकलना; ज्वर, अतिसार आदि का कारण (काश्यप)।",
+      "modern": "Teething (modern view: it causes only mild symptoms).",
+      "category": "kaumarabhritya",
+      "source_refs": [],
+      "related": [
+        "kaumarabhritya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "agada-tantra",
+      "devanagari": "अगद तन्त्र",
+      "iast": "agada tantra",
+      "simple": "Agada Tantra",
+      "en": "Toxicology (daṃṣṭrā/viṣa cikitsā): poisons from plants, minerals and animals, their actions, antidotes and treatment; now taught with medical jurisprudence (vyavahāra āyurveda).",
+      "hi": "अगद तन्त्र - विष विज्ञान (स्थावर, जङ्गम, कृत्रिम विष) और चिकित्सा; विधि वैद्यक सहित।",
+      "modern": "Toxicology (with forensic medicine).",
+      "category": "agada",
+      "source_refs": [
+        "SS.kalpa.1",
+        "AH.uttara.35"
+      ],
+      "related": [
+        "ashtanga-ayurveda",
+        "visha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "visha",
+      "devanagari": "विष",
+      "iast": "viṣa",
+      "simple": "Visha",
+      "en": "Poison: that which causes sorrow (viṣāda) and death. Arose from the churning of the ocean (Vāgbhaṭa). Types: sthāvara (plant/mineral), jaṅgama (animal) and kṛtrima (artificial/gara).",
+      "hi": "विष - विषाद (दुःख) और मृत्यु देने वाला; स्थावर, जङ्गम, कृत्रिम।",
+      "modern": "Poison/toxin.",
+      "category": "agada",
+      "source_refs": [
+        "AH.uttara.35.1",
+        "SS.kalpa.2"
+      ],
+      "related": [
+        "sthavara-visha",
+        "jangama-visha",
+        "gara-visha",
+        "visha-guna"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "visha-guna",
+      "devanagari": "विष गुण",
+      "iast": "viṣa guṇa",
+      "simple": "Visha Guna",
+      "en": "Ten qualities of poison: laghu, rūkṣa, āśu (quick), viśada, vyavāyī, tīkṣṇa, vikāśī, sūkṣma, uṣṇa and anirdeśya rasa (indistinct taste); they are opposite to the qualities of ojas.",
+      "hi": "विष के दस गुण: लघु, रूक्ष, आशु, विशद, व्यवायी, तीक्ष्ण, विकाशी, सूक्ष्म, उष्ण, अनिर्देश्य रस; ओज के विपरीत।",
+      "modern": "",
+      "category": "agada",
+      "source_refs": [
+        "CS.chikitsa.23",
+        "SS.kalpa.2"
+      ],
+      "related": [
+        "visha",
+        "ojas",
+        "vyavayi",
+        "vikashi"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "sthavara-visha",
+      "devanagari": "स्थावर विष",
+      "iast": "sthāvara viṣa",
+      "simple": "Sthavara Visha",
+      "en": "Immobile poisons from plants and minerals; Suśruta lists ten sites (root, leaf, fruit, flower, bark, latex, heartwood, gum, mineral, tuber), e.g. vatsanābha (kanda viṣa).",
+      "hi": "स्थावर विष - वनस्पति और खनिज विष; दस अधिष्ठान (मूल, पत्र, फल, पुष्प, कन्द आदि)।",
+      "modern": "Plant and mineral toxins.",
+      "category": "agada",
+      "source_refs": [
+        "SS.kalpa.2"
+      ],
+      "related": [
+        "visha",
+        "vatsanabha",
+        "upavisha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "jangama-visha",
+      "devanagari": "जङ्गम विष",
+      "iast": "jaṅgama viṣa",
+      "simple": "Jangama Visha",
+      "en": "Animal poisons (snakes, scorpions, spiders, insects, rabid dogs), with 16 sites such as fangs, sting, nails, saliva and urine.",
+      "hi": "जङ्गम विष - प्राणिज विष (सर्प, वृश्चिक, लूता, कीट, अलर्क); 16 अधिष्ठान।",
+      "modern": "Animal venoms.",
+      "category": "agada",
+      "source_refs": [
+        "SS.kalpa.3"
+      ],
+      "related": [
+        "visha",
+        "sarpa-visha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "gara-visha",
+      "devanagari": "गर विष",
+      "iast": "gara viṣa",
+      "simple": "Gara Visha",
+      "en": "Artificial or compound poison (kṛtrima viṣa), often made from combining non-poisonous substances, given secretly with food; produces chronic symptoms.",
+      "hi": "गर विष (कृत्रिम) - अविषैले द्रव्यों के संयोग से बना, भोजन में दिया विष; दीर्घकालीन लक्षण।",
+      "modern": "Comparable to deliberate chronic poisoning or toxic combinations.",
+      "category": "agada",
+      "source_refs": [
+        "CS.chikitsa.23",
+        "AH.uttara.35"
+      ],
+      "related": [
+        "visha",
+        "dushivisha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "dushivisha",
+      "devanagari": "दूषीविष",
+      "iast": "dūṣīviṣa",
+      "simple": "Dushivisha",
+      "en": "Weakened, residual poison that remains in the body (because of reduced potency or partial detoxification), not fatal but producing chronic disorders when aggravated by causes like bad weather or diet.",
+      "hi": "दूषीविष - शरीर में शेष रह गया मन्दवीर्य विष; उत्तेजक कारणों से दीर्घकालीन रोग।",
+      "modern": "Often compared to cumulative/chronic low-dose toxicity.",
+      "category": "agada",
+      "source_refs": [
+        "SS.kalpa.2",
+        "AH.uttara.35"
+      ],
+      "related": [
+        "visha",
+        "gara-visha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "upavisha",
+      "devanagari": "उपविष",
+      "iast": "upaviṣa",
+      "simple": "Upavisha",
+      "en": "Semi-poisons, less toxic than mahāviṣas, used medicinally after śodhana: e.g. arka, snuhī, dhattūra, kupīlu, bhallātaka, guñjā, ahiphena (opium), karavīra and lāṅgalī.",
+      "hi": "उपविष - महाविष से कम विषैले; शोधन के बाद औषध रूप में: अर्क, स्नुही, धत्तूर, कुपीलु, भल्लातक, गुञ्जा।",
+      "modern": "Toxic medicinal plants requiring processing and dose control.",
+      "category": "agada",
+      "source_refs": [],
+      "related": [
+        "visha",
+        "arka",
+        "snuhi",
+        "dhattura",
+        "kupilu",
+        "bhallataka"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "visha-vega",
+      "devanagari": "विषवेग",
+      "iast": "viṣavega",
+      "simple": "Visha Vega",
+      "en": "Successive stages of poisoning as the poison advances through the dhātus: seven vegas in snake-bite (Suśruta) and eight (Caraka), with stage-specific treatment.",
+      "hi": "विषवेग - विष के क्रमिक वेग (सर्पदंश में सात - सुश्रुत; आठ - चरक); प्रत्येक की विशेष चिकित्सा।",
+      "modern": "Comparable to clinical stages of envenomation.",
+      "category": "agada",
+      "source_refs": [
+        "SS.kalpa.4",
+        "CS.chikitsa.23"
+      ],
+      "related": [
+        "sarpa-visha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "sarpa-visha",
+      "devanagari": "सर्प विष",
+      "iast": "sarpa viṣa",
+      "simple": "Sarpa Visha",
+      "en": "Snake venom. Snakes are darvīkara (hooded, vāta-aggravating), maṇḍalī (with circular marks, pitta-aggravating), rājimanta (striped, kapha-aggravating) plus nirviṣa (non-poisonous) and vaikarañja (hybrid).",
+      "hi": "सर्प विष - दर्वीकर (फणधारी, वात), मण्डली (पित्त), राजिमन्त (कफ), निर्विष, वैकरञ्ज।",
+      "modern": "Darvīkara is often compared to elapids (cobras), maṇḍalī to vipers (e.g. Russell's viper), rājimanta to kraits; correlations are approximate.",
+      "category": "agada",
+      "source_refs": [
+        "AH.uttara.36.1",
+        "SS.kalpa.4"
+      ],
+      "related": [
+        "jangama-visha",
+        "visha-vega",
+        "arishtabandhana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "arishtabandhana",
+      "devanagari": "अरिष्टाबन्धन",
+      "iast": "ariṣṭābandhana",
+      "simple": "Arishtabandhana",
+      "en": "Applying a tourniquet four aṅgulas above the bite to stop the spread of poison; the first of the measures for snake-bite.",
+      "hi": "अरिष्टाबन्धन - दंश से चार अंगुल ऊपर बन्धन बाँधना; सर्पदंश का प्रथम उपाय।",
+      "modern": "Tight tourniquets are no longer recommended in snake-bite first aid (risk of ischaemia); pressure immobilisation and antivenom are standard.",
+      "category": "agada",
+      "source_refs": [
+        "SS.kalpa.5",
+        "CS.chikitsa.23"
+      ],
+      "related": [
+        "sarpa-visha",
+        "chaturvimshati-upakrama"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "chaturvimshati-upakrama",
+      "devanagari": "चतुर्विंशति उपक्रम",
+      "iast": "caturviṃśati upakrama",
+      "simple": "Twenty-four Measures for Poisoning",
+      "en": "Caraka's 24 measures in poisoning: mantra, ariṣṭābandhana, utkartana (excision), niṣpīḍana (squeezing), cūṣaṇa (sucking), agni, pariṣeka, avagāha, raktamokṣaṇa, vamana, virecana, upadhāna, hṛdayāvaraṇa, añjana, nasya, dhūma, leha, auṣadha, praśamana, pratisāraṇa, prativiṣa, saṃjñāsthāpana, lepa and mṛtasañjīvana.",
+      "hi": "चतुर्विंशति उपक्रम - विष चिकित्सा के 24 उपाय (मन्त्र, अरिष्टाबन्धन, उत्कर्तन, चूषण, वमन, प्रतिविष आदि)।",
+      "modern": "Comparable to a toxicology management protocol (decontamination, elimination, antidotes, supportive care).",
+      "category": "agada",
+      "source_refs": [
+        "CS.chikitsa.23"
+      ],
+      "related": [
+        "visha",
+        "arishtabandhana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "madatyaya",
+      "devanagari": "मदात्यय",
+      "iast": "madātyaya",
+      "simple": "Madatyaya",
+      "en": "Disorders from improper or excessive alcohol (madya), whose ten qualities are opposite to those of ojas; four types by doṣa, plus conditions like paramada, pānājīrṇa and pānavibhrama.",
+      "hi": "मदात्यय - अनुचित/अधिक मद्यपान से रोग; मद्य के दस गुण ओज के विपरीत।",
+      "modern": "Alcohol-use disorders and alcohol-related conditions (intoxication, withdrawal).",
+      "category": "agada",
+      "source_refs": [
+        "AH.nidana.6.1",
+        "CS.chikitsa.24"
+      ],
+      "related": [
+        "madya",
+        "madakari",
+        "ojas"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "madya",
+      "devanagari": "मद्य",
+      "iast": "madya",
+      "simple": "Madya",
+      "en": "Alcoholic drink; has ten qualities (tīkṣṇa, uṣṇa, rūkṣa, sūkṣma, amla, vyavāyī, āśukara, laghu, vikāśī, viśada) that oppose ojas. In proper amounts with food it is dīpana and cheering; in excess it causes madātyaya.",
+      "hi": "मद्य - शराब; दस गुण (तीक्ष्ण, उष्ण, रूक्ष, सूक्ष्म, अम्ल, व्यवायी, आशुकर, लघु, विकाशी, विशद) ओज के विपरीत।",
+      "modern": "Alcohol (ethanol).",
+      "category": "agada",
+      "source_refs": [
+        "AH.nidana.6.1",
+        "AH.nidana.6.3"
+      ],
+      "related": [
+        "madatyaya",
+        "madakari"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "alarka-visha",
+      "devanagari": "अलर्क विष",
+      "iast": "alarka viṣa",
+      "simple": "Alarka Visha",
+      "en": "Poisoning from the bite of a rabid dog (alarka); a key sign is fear of water (jalatrāsa), which marks it as incurable.",
+      "hi": "अलर्क विष - पागल कुत्ते के काटने से विष; जलत्रास होने पर असाध्य।",
+      "modern": "Rabies (hydrophobia); post-exposure vaccination is essential.",
+      "category": "agada",
+      "source_refs": [
+        "SS.kalpa.7",
+        "AH.uttara.38"
+      ],
+      "related": [
+        "jangama-visha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "vyavahara-ayurveda",
+      "devanagari": "व्यवहार आयुर्वेद",
+      "iast": "vyavahāra āyurveda",
+      "simple": "Vyavahara Ayurveda",
+      "en": "Medical jurisprudence and forensic aspects in Ayurvedic education, including the physician's legal and ethical duties.",
+      "hi": "व्यवहार आयुर्वेद - विधि वैद्यक; चिकित्सक के कानूनी व नैतिक कर्तव्य।",
+      "modern": "Forensic medicine and medical law.",
+      "category": "agada",
+      "source_refs": [],
+      "related": [
+        "agada-tantra"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "sandhi-grammar",
+      "devanagari": "सन्धि (व्याकरण)",
+      "iast": "sandhi",
+      "simple": "Sandhi (Euphonic Joining)",
+      "en": "Sound changes when two sounds meet at word or morpheme boundaries, merging words in writing (e.g. vāyuḥ + iti may become vāyur iti; ca + iti = ceti). Three kinds: svara (vowel), vyañjana (consonant) and visarga sandhi. Undoing sandhi is padaccheda.",
+      "hi": "सन्धि - दो वर्णों के मेल से होने वाला परिवर्तन (च + इति = चेति); स्वर, व्यञ्जन, विसर्ग सन्धि। (शारीर सन्धि से भिन्न)",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [],
+      "related": [
+        "svara-sandhi",
+        "vyanjana-sandhi",
+        "visarga-sandhi",
+        "padaccheda",
+        "sandhi-joint"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "svara-sandhi",
+      "devanagari": "स्वर सन्धि",
+      "iast": "svara sandhi",
+      "simple": "Svara Sandhi",
+      "en": "Vowel sandhi, e.g. dīrgha (a + a = ā: deha + adhi), guṇa (a + i = e: ca + iti = ceti), vṛddhi (a + e = ai), yaṇ (i + a = ya: iti + ādi = ityādi).",
+      "hi": "स्वर सन्धि - स्वरों का मेल; दीर्घ, गुण (च+इति=चेति), वृद्धि, यण् (इति+आदि=इत्यादि)।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [],
+      "related": [
+        "sandhi-grammar"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "vyanjana-sandhi",
+      "devanagari": "व्यञ्जन सन्धि",
+      "iast": "vyañjana sandhi",
+      "simple": "Vyanjana Sandhi",
+      "en": "Consonant sandhi, e.g. t + c = cc (tat + ca = tac ca), final consonants becoming voiced before voiced sounds (vāk + īśa = vāgīśa).",
+      "hi": "व्यञ्जन सन्धि - व्यञ्जनों का मेल (तत् + च = तच्च; वाक् + ईश = वागीश)।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [],
+      "related": [
+        "sandhi-grammar"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "visarga-sandhi",
+      "devanagari": "विसर्ग सन्धि",
+      "iast": "visarga sandhi",
+      "simple": "Visarga Sandhi",
+      "en": "Changes of visarga (ḥ) before following sounds, e.g. kaphaḥ + ca = kaphaś ca; doṣaḥ + api = doṣo 'pi; vāyuḥ + iti = vāyur iti.",
+      "hi": "विसर्ग सन्धि - विसर्ग का परिवर्तन (कफः + च = कफश्च; दोषः + अपि = दोषोऽपि)।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [
+        "AH.sutra.1.6"
+      ],
+      "related": [
+        "sandhi-grammar",
+        "visarga",
+        "avagraha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "samasa",
+      "devanagari": "समास",
+      "iast": "samāsa",
+      "simple": "Samasa",
+      "en": "Compound: two or more words joined into one, dropping case endings except at the end (e.g. doṣa-dhātu-malāḥ). Main types: tatpuruṣa, karmadhāraya, dvigu, dvandva, bahuvrīhi and avyayībhāva. Breaking a compound is vigraha.",
+      "hi": "समास - दो या अधिक पदों का मिलकर एक पद (दोषधातुमलाः); तत्पुरुष, कर्मधारय, द्विगु, द्वन्द्व, बहुव्रीहि, अव्ययीभाव।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [
+        "AH.sutra.11.1"
+      ],
+      "related": [
+        "tatpurusha",
+        "dvandva",
+        "bahuvrihi",
+        "karmadharaya",
+        "dvigu",
+        "avyayibhava",
+        "vigraha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "vigraha",
+      "devanagari": "विग्रह",
+      "iast": "vigraha",
+      "simple": "Vigraha",
+      "en": "Analysis of a compound into its parts with case endings (e.g. āyurveda = āyuṣaḥ vedaḥ). Also means body or conflict in other contexts.",
+      "hi": "विग्रह - समास को विभक्ति सहित अलग करना (आयुर्वेदः = आयुषः वेदः)।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [],
+      "related": [
+        "samasa"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "tatpurusha",
+      "devanagari": "तत्पुरुष",
+      "iast": "tatpuruṣa",
+      "simple": "Tatpurusha",
+      "en": "Determinative compound where the second member is principal and the first stands in a case relation to it, e.g. rogapati (lord of diseases, ṣaṣṭhī), āyurveda (veda of life).",
+      "hi": "तत्पुरुष समास - उत्तरपद प्रधान, पूर्वपद में विभक्ति सम्बन्ध (रोगपतिः = रोगाणां पतिः)।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [],
+      "related": [
+        "samasa",
+        "karmadharaya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "karmadharaya",
+      "devanagari": "कर्मधारय",
+      "iast": "karmadhāraya",
+      "simple": "Karmadharaya",
+      "en": "Descriptive compound where both members refer to the same thing, usually adjective + noun, e.g. mahābhūta (great element), mandāgni (weak fire).",
+      "hi": "कर्मधारय समास - विशेषण-विशेष्य (महाभूत, मन्दाग्नि)।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [],
+      "related": [
+        "samasa",
+        "tatpurusha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "dvigu",
+      "devanagari": "द्विगु",
+      "iast": "dvigu",
+      "simple": "Dvigu",
+      "en": "Numerical compound with a number as the first member, e.g. tridoṣa, triphalā, pañcakarma, ṣaḍrasa.",
+      "hi": "द्विगु समास - संख्यावाचक पूर्वपद (त्रिदोष, त्रिफला, पञ्चकर्म)।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [],
+      "related": [
+        "samasa"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "dvandva",
+      "devanagari": "द्वन्द्व",
+      "iast": "dvandva",
+      "simple": "Dvandva",
+      "en": "Copulative compound joining items with 'and', e.g. vāta-pitta-kaphāḥ, rasāsṛṅ-māṃsa-medo-'sthi-majja-śukrāṇi; both/all members are principal.",
+      "hi": "द्वन्द्व समास - 'और' से जुड़े पद (वातपित्तकफाः, रसासृङ्मांसमेदोऽस्थिमज्जशुक्राणि)।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [
+        "AH.sutra.1.13"
+      ],
+      "related": [
+        "samasa"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "bahuvrihi",
+      "devanagari": "बहुव्रीहि",
+      "iast": "bahuvrīhi",
+      "simple": "Bahuvrihi",
+      "en": "Possessive compound referring to something outside its members, e.g. bahu-vrīhi 'having much rice' = a rich man; pīta-ambara 'whose garment is yellow' = Kṛṣṇa; sa-viparyayāḥ 'with their opposites'.",
+      "hi": "बहुव्रीहि समास - अन्य पद प्रधान (पीताम्बरः = पीत वस्त्र वाला, कृष्ण)।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [],
+      "related": [
+        "samasa"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "avyayibhava",
+      "devanagari": "अव्ययीभाव",
+      "iast": "avyayībhāva",
+      "simple": "Avyayibhava",
+      "en": "Adverbial compound whose first member is an indeclinable, e.g. yathā-śakti (according to strength), prati-dinam (daily).",
+      "hi": "अव्ययीभाव समास - पूर्वपद अव्यय (यथाशक्ति, प्रतिदिनम्)।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [],
+      "related": [
+        "samasa",
+        "avyaya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "vibhakti",
+      "devanagari": "विभक्ति",
+      "iast": "vibhakti",
+      "simple": "Vibhakti",
+      "en": "Case endings of nouns. Sanskrit has seven cases plus the vocative (sambodhana): prathamā, dvitīyā, tṛtīyā, caturthī, pañcamī, ṣaṣṭhī and saptamī, each in three numbers.",
+      "hi": "विभक्ति - संज्ञा के कारक-प्रत्यय; प्रथमा से सप्तमी + सम्बोधन; तीन वचन।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [],
+      "related": [
+        "prathama",
+        "dvitiya",
+        "tritiya",
+        "chaturthi",
+        "panchami",
+        "shashthi",
+        "saptami",
+        "sambodhana",
+        "vachana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "prathama",
+      "devanagari": "प्रथमा",
+      "iast": "prathamā",
+      "simple": "Prathama (Nominative)",
+      "en": "One of the eight vibhaktis (cases) of Sanskrit nouns. Marks the subject (kartā), e.g. doṣaḥ, vāyuḥ.",
+      "hi": "आठ विभक्तियों में एक। प्रथमा - कर्ता (दोषः, वायुः)।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [],
+      "related": [
+        "vibhakti"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "dvitiya",
+      "devanagari": "द्वितीया",
+      "iast": "dvitīyā",
+      "simple": "Dvitiya (Accusative)",
+      "en": "One of the eight vibhaktis (cases) of Sanskrit nouns. Marks the object (karma), e.g. annam pacati 'digests food'.",
+      "hi": "आठ विभक्तियों में एक। द्वितीया - कर्म (अन्नं पचति)।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [
+        "AH.sutra.12.8"
+      ],
+      "related": [
+        "vibhakti"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "tritiya",
+      "devanagari": "तृतीया",
+      "iast": "tṛtīyā",
+      "simple": "Tritiya (Instrumental)",
+      "en": "One of the eight vibhaktis (cases) of Sanskrit nouns. Means 'by/with', e.g. samānaiḥ 'by similar things', agninā 'by fire'.",
+      "hi": "आठ विभक्तियों में एक। तृतीया - करण, 'से/द्वारा' (समानैः, अग्निना)।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [
+        "AH.sutra.1.14"
+      ],
+      "related": [
+        "vibhakti"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "chaturthi",
+      "devanagari": "चतुर्थी",
+      "iast": "caturthī",
+      "simple": "Chaturthi (Dative)",
+      "en": "One of the eight vibhaktis (cases) of Sanskrit nouns. Means 'for/to', e.g. hitāya 'for the benefit of', āyuṣe 'for life'.",
+      "hi": "आठ विभक्तियों में एक। चतुर्थी - सम्प्रदान, 'के लिए' (हिताय)।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [],
+      "related": [
+        "vibhakti"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "panchami",
+      "devanagari": "पञ्चमी",
+      "iast": "pañcamī",
+      "simple": "Panchami (Ablative)",
+      "en": "One of the eight vibhaktis (cases) of Sanskrit nouns. Means 'from/because of', e.g. prāṇādi-bhedāt 'because of the division into prāṇa etc.'",
+      "hi": "आठ विभक्तियों में एक। पञ्चमी - अपादान, 'से' (कारण/अलगाव) (प्राणादिभेदात्)।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [
+        "AH.sutra.12.4"
+      ],
+      "related": [
+        "vibhakti"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "shashthi",
+      "devanagari": "षष्ठी",
+      "iast": "ṣaṣṭhī",
+      "simple": "Shashthi (Genitive)",
+      "en": "One of the eight vibhaktis (cases) of Sanskrit nouns. Means 'of', e.g. vātasya 'of vāta', āyuṣaḥ 'of life'.",
+      "hi": "आठ विभक्तियों में एक। षष्ठी - सम्बन्ध, 'का/की/के' (वातस्य, आयुषः)।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [
+        "AH.sutra.12.1"
+      ],
+      "related": [
+        "vibhakti"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "saptami",
+      "devanagari": "सप्तमी",
+      "iast": "saptamī",
+      "simple": "Saptami (Locative)",
+      "en": "One of the eight vibhaktis (cases) of Sanskrit nouns. Means 'in/on/at', e.g. hṛdi 'in the heart', koṣṭhe 'in the koṣṭha'.",
+      "hi": "आठ विभक्तियों में एक। सप्तमी - अधिकरण, 'में/पर' (हृदि, कोष्ठे)।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [
+        "AH.sutra.12.8"
+      ],
+      "related": [
+        "vibhakti"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "sambodhana",
+      "devanagari": "सम्बोधन",
+      "iast": "sambodhana",
+      "simple": "Sambodhana (Vocative)",
+      "en": "The form of address, e.g. 'he agniveśa!' (O Agniveśa).",
+      "hi": "सम्बोधन - पुकारने का रूप (हे अग्निवेश!)।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [],
+      "related": [
+        "vibhakti"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "vachana",
+      "devanagari": "वचन",
+      "iast": "vacana",
+      "simple": "Vachana",
+      "en": "Grammatical number: ekavacana (singular), dvivacana (dual) and bahuvacana (plural). Dual forms (e.g. vṛkkau 'the two kidneys') often confuse beginners.",
+      "hi": "वचन - एकवचन, द्विवचन, बहुवचन (वृक्कौ = दो वृक्क)।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [],
+      "related": [
+        "vibhakti",
+        "linga"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "linga",
+      "devanagari": "लिङ्ग",
+      "iast": "liṅga",
+      "simple": "Linga",
+      "en": "(1) Grammatical gender: puṃliṅga (masculine, e.g. doṣaḥ), strīliṅga (feminine, e.g. sirā) and napuṃsakaliṅga (neuter, e.g. pittam). (2) In medicine, a sign or symptom (synonym of rūpa).",
+      "hi": "लिङ्ग - (1) व्याकरण में पुंलिङ्ग, स्त्रीलिङ्ग, नपुंसकलिङ्ग; (2) चिकित्सा में लक्षण।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [],
+      "related": [
+        "vachana",
+        "rupa"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "dhatu-root",
+      "devanagari": "धातु (व्याकरण)",
+      "iast": "dhātu",
+      "simple": "Dhatu (Verbal Root)",
+      "en": "Verbal root from which verbs and nouns are derived, e.g. √car (to move) gives caraka, carati; √pac (to cook) gives pācaka, pācana. Not to be confused with body dhātu or metal.",
+      "hi": "धातु (व्याकरण) - क्रिया का मूल (√पच् से पाचक, पाचन)। (शरीर धातु से भिन्न)",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [],
+      "related": [
+        "pratyaya",
+        "dhatu"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "pratyaya",
+      "devanagari": "प्रत्यय",
+      "iast": "pratyaya",
+      "simple": "Pratyaya",
+      "en": "Suffix added to roots or stems to form words (kṛt, taddhita, case and verb endings), e.g. -aka in pācaka. In nidāna, pratyaya is a synonym of cause.",
+      "hi": "प्रत्यय - धातु/शब्द के बाद जुड़ने वाला अंश (पाचक में -अक); निदान में हेतु का पर्याय।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [],
+      "related": [
+        "dhatu-root",
+        "upasarga"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "upasarga",
+      "devanagari": "उपसर्ग",
+      "iast": "upasarga",
+      "simple": "Upasarga",
+      "en": "Verbal prefix that modifies a root's meaning, e.g. pra-, vi-, sam-, anu-, ut- (as in pra-kopa, vi-recana, saṃ-śodhana, anu-lomana).",
+      "hi": "उपसर्ग - धातु से पहले जुड़कर अर्थ बदलने वाले (प्र, वि, सम्, अनु, उत्)।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [],
+      "related": [
+        "dhatu-root",
+        "pratyaya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "avyaya",
+      "devanagari": "अव्यय",
+      "iast": "avyaya",
+      "simple": "Avyaya",
+      "en": "Indeclinable words that do not change form, e.g. ca (and), tu (but), hi (indeed/because), eva (only), api (also), iti (thus), atha (now). Recognising them helps parse ślokas.",
+      "hi": "अव्यय - जो रूप न बदलें: च, तु, हि, एव, अपि, इति, अथ।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [],
+      "related": [
+        "iti",
+        "avyayibhava"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "iti",
+      "devanagari": "इति",
+      "iast": "iti",
+      "simple": "Iti",
+      "en": "Particle meaning 'thus', closing a quotation or list (e.g. vāyuḥ pittaṃ kaphaś ceti 'vāyu, pitta and kapha - thus'); also ends chapters ('iti ... adhyāyaḥ').",
+      "hi": "इति - 'इस प्रकार'; उद्धरण या सूची का अन्त; अध्याय समाप्ति।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [
+        "AH.sutra.1.6"
+      ],
+      "related": [
+        "avyaya",
+        "adhyaya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "athato",
+      "devanagari": "अथातो",
+      "iast": "athāto",
+      "simple": "Athato",
+      "en": "'Now, therefore': the opening formula of many chapters, e.g. 'athāto dīrghañjīvitīyam adhyāyaṃ vyākhyāsyāmaḥ' (now we shall explain the chapter on long life). It marks auspicious beginning and connection with the previous chapter.",
+      "hi": "अथातो - 'अब इसलिए'; अध्याय आरम्भ का सूत्र (अथातो दीर्घञ्जीवितीयमध्यायं व्याख्यास्यामः)।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [
+        "CS.sutra.1"
+      ],
+      "related": [
+        "iti-ha-smaha",
+        "adhyaya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "iti-ha-smaha",
+      "devanagari": "इति ह स्माह भगवानात्रेयः",
+      "iast": "iti ha smāha bhagavān ātreyaḥ",
+      "simple": "Iti Ha Smaha Bhagavan Atreyah",
+      "en": "'Thus indeed said the venerable Ātreya': the formula after the opening of each Caraka chapter, showing the teaching is Ātreya's as compiled by Agniveśa.",
+      "hi": "इति ह स्माह भगवानात्रेयः - 'ऐसा भगवान आत्रेय ने कहा'; चरक के प्रत्येक अध्याय के आरम्भ में।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [
+        "CS.sutra.1"
+      ],
+      "related": [
+        "athato",
+        "atreya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "avagraha",
+      "devanagari": "अवग्रह",
+      "iast": "avagraha",
+      "simple": "Avagraha",
+      "en": "The sign ऽ (') marking an elided initial 'a' after sandhi, e.g. doṣo 'pi = doṣaḥ + api; medo-'sthi = medas + asthi.",
+      "hi": "अवग्रह (ऽ) - सन्धि में लुप्त 'अ' का चिह्न (दोषोऽपि = दोषः + अपि)।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [
+        "AH.sutra.1.13"
+      ],
+      "related": [
+        "visarga-sandhi"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "visarga",
+      "devanagari": "विसर्ग",
+      "iast": "visarga",
+      "simple": "Visarga",
+      "en": "The sign ः (ḥ), a breathy sound after a vowel, common at word end (vāyuḥ, doṣāḥ); it changes by visarga sandhi.",
+      "hi": "विसर्ग (ः) - शब्दान्त में प्रायः (वायुः, दोषाः); विसर्ग सन्धि से बदलता है।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [],
+      "related": [
+        "visarga-sandhi",
+        "anusvara"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "anusvara",
+      "devanagari": "अनुस्वार",
+      "iast": "anusvāra",
+      "simple": "Anusvara",
+      "en": "The dot ं (ṃ) representing a nasal after a vowel (pittaṃ, saṃśodhana); before consonants it may be written as the corresponding nasal (saṅgraha / saṃgraha).",
+      "hi": "अनुस्वार (ं) - स्वर के बाद नासिक्य ध्वनि (पित्तं, संशोधन)।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [],
+      "related": [
+        "visarga"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "halanta",
+      "devanagari": "हलन्त",
+      "iast": "halanta",
+      "simple": "Halanta / Virama",
+      "en": "The sign ् (virāma) showing a consonant without its inherent vowel, e.g. vāk (वाक्), marut (मरुत्).",
+      "hi": "हलन्त (्) - व्यञ्जन बिना स्वर के (वाक्, मरुत्)।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [],
+      "related": [
+        "anusvara"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "iast",
+      "devanagari": "आईएएसटी",
+      "iast": "IAST",
+      "simple": "IAST",
+      "en": "International Alphabet of Sanskrit Transliteration: Roman letters with diacritics (ā, ī, ū, ṛ, ṃ, ḥ, ś, ṣ, ṭ, ḍ, ṇ, ñ, ṅ) to write Sanskrit unambiguously; e.g. 'ś' as in śarīra, 'ṣ' as in doṣa, 'c' always like English 'ch'.",
+      "hi": "IAST - संस्कृत को रोमन अक्षरों में लिखने की मानक पद्धति (ā, ś, ṣ, ṭ आदि); 'c' = 'च'।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [],
+      "related": [
+        "devanagari-script"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "devanagari-script",
+      "devanagari": "देवनागरी",
+      "iast": "devanāgarī",
+      "simple": "Devanagari",
+      "en": "The script in which Sanskrit (and Hindi) is commonly written, with consonants carrying an inherent 'a' and vowel signs (mātrā) attached to them.",
+      "hi": "देवनागरी - संस्कृत/हिन्दी की लिपि; व्यञ्जन में अन्तर्निहित 'अ' और मात्राएँ।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [],
+      "related": [
+        "iast",
+        "halanta"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "sutra",
+      "devanagari": "सूत्र",
+      "iast": "sūtra",
+      "simple": "Sutra",
+      "en": "A terse aphorism that holds much meaning in few words, like a thread (sūtra) holding flowers; also the Sūtrasthāna, the foundational section of the saṃhitās.",
+      "hi": "सूत्र - कम शब्दों में अधिक अर्थ वाला वाक्य; सूत्रस्थान (मूल सिद्धान्त भाग)।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [],
+      "related": [
+        "sthana",
+        "shloka"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "shloka",
+      "devanagari": "श्लोक",
+      "iast": "śloka",
+      "simple": "Shloka",
+      "en": "A verse, usually in the anuṣṭubh metre of four quarters (pādas) of eight syllables; most of the Aṣṭāṅgahṛdaya is in ślokas. Prose passages are gadya.",
+      "hi": "श्लोक - पद्य, प्रायः अनुष्टुप् छन्द (चार पाद, प्रत्येक में आठ अक्षर); गद्य = पद्य-रहित।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [
+        "AH.sutra.1.6"
+      ],
+      "related": [
+        "anushtubh",
+        "pada-verse",
+        "chandas"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "pada-verse",
+      "devanagari": "पाद",
+      "iast": "pāda",
+      "simple": "Pada (Quarter-verse)",
+      "en": "One of the four quarters of a śloka (a, b, c, d); the dividers | and || (daṇḍa) mark half and full verse. (Pada also means a word.)",
+      "hi": "पाद - श्लोक का चौथाई भाग (a, b, c, d); । अर्धश्लोक, ॥ पूर्ण श्लोक।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [],
+      "related": [
+        "shloka",
+        "anushtubh"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "chandas",
+      "devanagari": "छन्दस्",
+      "iast": "chandas",
+      "simple": "Chandas",
+      "en": "Metre: the pattern of syllable count and weight in a verse, e.g. anuṣṭubh, indravajrā, upajāti, vasantatilakā (some chapter-ending verses use longer metres).",
+      "hi": "छन्द - पद्य में अक्षरों की संख्या और गुरु-लघु क्रम (अनुष्टुप्, उपजाति, वसन्ततिलका)।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [],
+      "related": [
+        "anushtubh",
+        "shloka"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "anushtubh",
+      "devanagari": "अनुष्टुभ्",
+      "iast": "anuṣṭubh",
+      "simple": "Anushtubh",
+      "en": "The commonest Sanskrit metre: four pādas of eight syllables (32 syllables), with the sixth syllable usually long and the fifth short in each pāda.",
+      "hi": "अनुष्टुप् छन्द - चार पाद × आठ अक्षर = 32 अक्षर; सबसे प्रचलित छन्द।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [],
+      "related": [
+        "chandas",
+        "shloka"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "anvaya",
+      "devanagari": "अन्वय",
+      "iast": "anvaya",
+      "simple": "Anvaya",
+      "en": "Rearranging the words of a verse into natural prose order (subject, object, verb) so that its meaning is clear; the first step in understanding a śloka after padaccheda.",
+      "hi": "अन्वय - श्लोक के पदों को गद्य क्रम (कर्ता-कर्म-क्रिया) में लगाना।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [],
+      "related": [
+        "padaccheda",
+        "shloka"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "padaccheda",
+      "devanagari": "पदच्छेद",
+      "iast": "padaccheda",
+      "simple": "Padaccheda",
+      "en": "Splitting a verse into separate words by undoing sandhi (and noting compounds), e.g. 'kaphaś ceti' = kaphaḥ + ca + iti.",
+      "hi": "पदच्छेद - सन्धि-विच्छेद कर श्लोक के पद अलग करना (कफश्चेति = कफः + च + इति)।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [
+        "AH.sutra.1.6"
+      ],
+      "related": [
+        "sandhi-grammar",
+        "anvaya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "tika",
+      "devanagari": "टीका",
+      "iast": "ṭīkā",
+      "simple": "Tika",
+      "en": "Commentary explaining a text, e.g. Cakrapāṇi's Āyurvedadīpikā on Caraka, Ḍalhaṇa's Nibandhasaṅgraha on Suśruta, Aruṇadatta's Sarvāṅgasundarā and Hemādri's Āyurvedarasāyana on the Aṣṭāṅgahṛdaya.",
+      "hi": "टीका - ग्रन्थ की व्याख्या (चक्रपाणि - आयुर्वेददीपिका; डल्हण - निबन्धसंग्रह; अरुणदत्त - सर्वाङ्गसुन्दरा; हेमाद्रि - आयुर्वेदरसायन)।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [],
+      "related": [
+        "vyakhya",
+        "chakrapani",
+        "dalhana",
+        "arunadatta"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "vyakhya",
+      "devanagari": "व्याख्या",
+      "iast": "vyākhyā",
+      "simple": "Vyakhya",
+      "en": "Explanation/commentary in general (bhāṣya is a detailed commentary, vṛtti a brief one); modern Hindi commentaries (e.g. Vidyotinī) help students.",
+      "hi": "व्याख्या - टीका/स्पष्टीकरण; भाष्य (विस्तृत), वृत्ति (संक्षिप्त)।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [],
+      "related": [
+        "tika"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "adhyaya",
+      "devanagari": "अध्याय",
+      "iast": "adhyāya",
+      "simple": "Adhyaya",
+      "en": "Chapter. Caraka's 120 chapters are grouped into eight sthānas; chapter names usually come from the opening words (e.g. dīrghañjīvitīya, āyuṣkāmīya).",
+      "hi": "अध्याय - ग्रन्थ का अध्याय; नाम प्रायः प्रारम्भिक शब्दों से (दीर्घञ्जीवितीय, आयुष्कामीय)।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [],
+      "related": [
+        "sthana",
+        "samhita"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "sthana",
+      "devanagari": "स्थान",
+      "iast": "sthāna",
+      "simple": "Sthana (Section)",
+      "en": "Major section of a saṃhitā. Caraka has eight: sūtra, nidāna, vimāna, śārīra, indriya, cikitsā, kalpa and siddhi; Suśruta has five plus uttaratantra (sūtra, nidāna, śārīra, cikitsā, kalpa); the Aṣṭāṅgahṛdaya has six (sūtra, śārīra, nidāna, cikitsā, kalpa-siddhi, uttara).",
+      "hi": "स्थान - संहिता का बड़ा भाग; चरक: आठ स्थान; सुश्रुत: पाँच + उत्तरतन्त्र; अष्टाङ्गहृदय: छह।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [],
+      "related": [
+        "adhyaya",
+        "samhita"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "samhita",
+      "devanagari": "संहिता",
+      "iast": "saṃhitā",
+      "simple": "Samhita",
+      "en": "A compiled classical treatise (literally 'collection'), e.g. Caraka Saṃhitā, Suśruta Saṃhitā, Kāśyapa Saṃhitā.",
+      "hi": "संहिता - संकलित शास्त्रीय ग्रन्थ (चरक, सुश्रुत, काश्यप संहिता)।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [],
+      "related": [
+        "brihat-trayi",
+        "sthana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "tantrayukti",
+      "devanagari": "तन्त्रयुक्ति",
+      "iast": "tantrayukti",
+      "simple": "Tantrayukti",
+      "en": "Methodological devices for composing and interpreting scientific texts; Caraka lists 36 and Suśruta 32 (e.g. adhikaraṇa, yoga, padārtha, uddeśa, nirdeśa, upadeśa, apadeśa, atideśa). They help read concise ślokas correctly.",
+      "hi": "तन्त्रयुक्ति - शास्त्र-रचना व अर्थ-ग्रहण की युक्तियाँ; चरक: 36 (अधिकरण, योग, उद्देश, निर्देश आदि)।",
+      "modern": "Comparable to rules of textual interpretation (hermeneutics).",
+      "category": "sanskrit",
+      "source_refs": [
+        "CS.siddhi.12",
+        "SS.uttara.65"
+      ],
+      "related": [
+        "tika",
+        "anvaya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "paryaya",
+      "devanagari": "पर्याय",
+      "iast": "paryāya",
+      "simple": "Paryaya",
+      "en": "Synonym; classical texts give many synonyms for each term (e.g. vāta = vāyu, anila, māruta, pavana, samīraṇa), so recognising paryāyas is essential when reading ślokas.",
+      "hi": "पर्याय - समानार्थी शब्द (वात = वायु, अनिल, मारुत, पवन, समीरण)।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [],
+      "related": [
+        "nighantu",
+        "vata"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "vada",
+      "devanagari": "वाद",
+      "iast": "vāda",
+      "simple": "Vada",
+      "en": "Formal scholarly debate; Caraka describes rules of discussion (sambhāṣā), friendly (sandhāya) and hostile (vigṛhya) debate, and 44 vāda-mārga terms (e.g. pratijñā, sthāpanā, hetu, dṛṣṭānta).",
+      "hi": "वाद - शास्त्रार्थ; सन्धाय और विगृह्य सम्भाषा; 44 वादमार्ग पद।",
+      "modern": "",
+      "category": "sanskrit",
+      "source_refs": [
+        "CS.vimana.8"
+      ],
+      "related": [
+        "nyaya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "kayachikitsa",
+      "devanagari": "कायचिकित्सा",
+      "iast": "kāyacikitsā",
+      "simple": "Kayachikitsa",
+      "en": "Internal medicine, the first branch of aṣṭāṅga āyurveda; 'kāya' also means agni, so it is the treatment of diseases arising from disturbed agni throughout the body. Caraka Saṃhitā is its main text.",
+      "hi": "कायचिकित्सा - आन्तरिक चिकित्सा; अष्टाङ्ग आयुर्वेद का प्रथम अंग; मुख्य ग्रन्थ चरक संहिता।",
+      "modern": "Internal medicine.",
+      "category": "general",
+      "source_refs": [
+        "AH.sutra.1.5",
+        "SS.sutra.1"
+      ],
+      "related": [
+        "ashtanga-ayurveda",
+        "agni",
+        "charaka-samhita"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "bhutavidya",
+      "devanagari": "भूतविद्या",
+      "iast": "bhūtavidyā",
+      "simple": "Bhutavidya",
+      "en": "Branch (graha cikitsā) dealing with disorders attributed to bhūtas and grahas (unseen agents), treated by daivavyapāśraya and medicines; today often linked with psychiatry.",
+      "hi": "भूतविद्या (ग्रह चिकित्सा) - भूत-ग्रह जन्य विकारों की चिकित्सा; आज मनोरोग से सम्बद्ध।",
+      "modern": "Often related to psychiatry and some infectious conditions.",
+      "category": "general",
+      "source_refs": [
+        "AH.sutra.1.5",
+        "SS.sutra.1",
+        "AH.uttara.4"
+      ],
+      "related": [
+        "ashtanga-ayurveda",
+        "daivavyapashraya",
+        "unmada"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "brihat-trayi",
+      "devanagari": "बृहत्त्रयी",
+      "iast": "bṛhattrayī",
+      "simple": "Brihat Trayi",
+      "en": "'The great three' classics: Caraka Saṃhitā, Suśruta Saṃhitā and Aṣṭāṅga Hṛdaya (some include Aṣṭāṅga Saṅgraha).",
+      "hi": "बृहत्त्रयी - चरक संहिता, सुश्रुत संहिता, अष्टाङ्गहृदय।",
+      "modern": "",
+      "category": "general",
+      "source_refs": [],
+      "related": [
+        "charaka-samhita",
+        "sushruta-samhita",
+        "ashtanga-hridaya",
+        "laghu-trayi"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "laghu-trayi",
+      "devanagari": "लघुत्रयी",
+      "iast": "laghutrayī",
+      "simple": "Laghu Trayi",
+      "en": "'The lesser three' classics: Mādhava Nidāna, Śārṅgadhara Saṃhitā and Bhāvaprakāśa.",
+      "hi": "लघुत्रयी - माधव निदान, शार्ङ्गधर संहिता, भावप्रकाश।",
+      "modern": "",
+      "category": "general",
+      "source_refs": [],
+      "related": [
+        "madhava-nidana",
+        "sharngadhara-samhita",
+        "bhavaprakasha",
+        "brihat-trayi"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "charaka-samhita",
+      "devanagari": "चरक संहिता",
+      "iast": "carakasaṃhitā",
+      "simple": "Charaka Samhita",
+      "en": "The foundational text of kāyacikitsā: Ātreya's teaching compiled by Agniveśa (Agniveśa Tantra), redacted by Caraka and completed by Dṛḍhabala; 8 sthānas and 120 chapters.",
+      "hi": "चरक संहिता - आत्रेय का उपदेश, अग्निवेश द्वारा संकलित, चरक द्वारा प्रतिसंस्कृत, दृढबल द्वारा पूरित; 8 स्थान, 120 अध्याय।",
+      "modern": "",
+      "category": "general",
+      "source_refs": [],
+      "related": [
+        "charaka",
+        "atreya",
+        "agnivesha",
+        "dridhabala",
+        "brihat-trayi"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "charaka",
+      "devanagari": "चरक",
+      "iast": "caraka",
+      "simple": "Charaka",
+      "en": "Redactor (pratisaṃskartā) of the Agniveśa Tantra, which became the Caraka Saṃhitā; usually dated around the early centuries CE.",
+      "hi": "चरक - अग्निवेश तन्त्र के प्रतिसंस्कर्ता; चरक संहिता।",
+      "modern": "",
+      "category": "general",
+      "source_refs": [],
+      "related": [
+        "charaka-samhita",
+        "agnivesha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "dridhabala",
+      "devanagari": "दृढबल",
+      "iast": "dṛḍhabala",
+      "simple": "Dridhabala",
+      "en": "Kashmiri scholar who completed the Caraka Saṃhitā by adding 17 chapters of Cikitsāsthāna and the whole of Kalpa and Siddhi sthānas.",
+      "hi": "दृढबल - चरक संहिता के पूरक; चिकित्सा के 17 अध्याय तथा कल्प और सिद्धि स्थान जोड़े।",
+      "modern": "",
+      "category": "general",
+      "source_refs": [],
+      "related": [
+        "charaka-samhita"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "atreya",
+      "devanagari": "आत्रेय पुनर्वसु",
+      "iast": "ātreya punarvasu",
+      "simple": "Atreya Punarvasu",
+      "en": "Sage-teacher whose teachings form the Caraka Saṃhitā; leader of the school of medicine (kāyacikitsā). His six disciples included Agniveśa, Bheḍa (Bhela), Jatūkarṇa, Parāśara, Hārīta and Kṣārapāṇi.",
+      "hi": "आत्रेय पुनर्वसु - चरक संहिता के उपदेष्टा; छह शिष्य: अग्निवेश, भेड, जतूकर्ण, पराशर, हारीत, क्षारपाणि।",
+      "modern": "",
+      "category": "general",
+      "source_refs": [
+        "CS.sutra.1"
+      ],
+      "related": [
+        "agnivesha",
+        "charaka-samhita",
+        "iti-ha-smaha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "agnivesha",
+      "devanagari": "अग्निवेश",
+      "iast": "agniveśa",
+      "simple": "Agnivesha",
+      "en": "Foremost disciple of Ātreya, who composed the Agniveśa Tantra, the basis of the Caraka Saṃhitā.",
+      "hi": "अग्निवेश - आत्रेय के प्रमुख शिष्य; अग्निवेश तन्त्र के रचयिता।",
+      "modern": "",
+      "category": "general",
+      "source_refs": [
+        "CS.sutra.1",
+        "AH.sutra.1.4"
+      ],
+      "related": [
+        "atreya",
+        "charaka-samhita"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "bhela-samhita",
+      "devanagari": "भेल संहिता",
+      "iast": "bhelasaṃhitā",
+      "simple": "Bhela Samhita",
+      "en": "Treatise of Bheḍa (Bhela), a fellow disciple of Agniveśa; survives incompletely.",
+      "hi": "भेल संहिता - आत्रेय के शिष्य भेल की संहिता; अपूर्ण उपलब्ध।",
+      "modern": "",
+      "category": "general",
+      "source_refs": [],
+      "related": [
+        "atreya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "sushruta-samhita",
+      "devanagari": "सुश्रुत संहिता",
+      "iast": "suśrutasaṃhitā",
+      "simple": "Sushruta Samhita",
+      "en": "The foundational text of śalya tantra: teaching of Dhanvantari (as Divodāsa, king of Kāśī) to Suśruta; five sthānas plus uttaratantra; redacted later by Nāgārjuna according to Ḍalhaṇa.",
+      "hi": "सुश्रुत संहिता - शल्य तन्त्र का मूल ग्रन्थ; धन्वन्तरि (दिवोदास) का सुश्रुत को उपदेश; पाँच स्थान + उत्तरतन्त्र।",
+      "modern": "",
+      "category": "general",
+      "source_refs": [],
+      "related": [
+        "sushruta",
+        "dhanvantari",
+        "shalya-tantra",
+        "brihat-trayi",
+        "dalhana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "sushruta",
+      "devanagari": "सुश्रुत",
+      "iast": "suśruta",
+      "simple": "Sushruta",
+      "en": "Disciple of Dhanvantari (Divodāsa) and author of the Suśruta Saṃhitā; honoured as the father of Indian surgery.",
+      "hi": "सुश्रुत - धन्वन्तरि (दिवोदास) के शिष्य; सुश्रुत संहिता के रचयिता; शल्य चिकित्सा के जनक।",
+      "modern": "",
+      "category": "general",
+      "source_refs": [
+        "SS.sutra.1"
+      ],
+      "related": [
+        "sushruta-samhita",
+        "dhanvantari"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "dhanvantari",
+      "devanagari": "धन्वन्तरि",
+      "iast": "dhanvantari",
+      "simple": "Dhanvantari",
+      "en": "Divine physician who emerged with nectar from the churning of the ocean; reborn as Divodāsa, king of Kāśī, who taught surgery to Suśruta. Regarded as the god of Āyurveda.",
+      "hi": "धन्वन्तरि - समुद्र मन्थन से अमृत सहित प्रकट; काशीराज दिवोदास रूप में सुश्रुत के गुरु; आयुर्वेद के देवता।",
+      "modern": "",
+      "category": "general",
+      "source_refs": [
+        "SS.sutra.1"
+      ],
+      "related": [
+        "sushruta",
+        "sushruta-samhita"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "vagbhata",
+      "devanagari": "वाग्भट",
+      "iast": "vāgbhaṭa",
+      "simple": "Vagbhata",
+      "en": "Author of the Aṣṭāṅga Hṛdaya (and traditionally the Aṣṭāṅga Saṅgraha, attributed to an elder Vāgbhaṭa by some), from Sindh, around the 6th-7th century CE; he synthesised Caraka and Suśruta.",
+      "hi": "वाग्भट - अष्टाङ्गहृदय के रचयिता (अष्टाङ्ग संग्रह भी); सिन्धु देश, लगभग 6-7वीं शताब्दी; चरक-सुश्रुत का समन्वय।",
+      "modern": "",
+      "category": "general",
+      "source_refs": [
+        "AH.sutra.1.4",
+        "AH.sutra.1.5"
+      ],
+      "related": [
+        "ashtanga-hridaya",
+        "ashtanga-sangraha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "ashtanga-hridaya",
+      "devanagari": "अष्टाङ्गहृदय",
+      "iast": "aṣṭāṅgahṛdaya",
+      "simple": "Ashtanga Hridaya",
+      "en": "Vāgbhaṭa's verse compendium of all eight branches, 'neither too brief nor too long', in six sthānas and 120 chapters; widely memorised and the main text in Kerala tradition.",
+      "hi": "अष्टाङ्गहृदय - वाग्भट का पद्यात्मक ग्रन्थ; आठों अंग; छह स्थान, 120 अध्याय।",
+      "modern": "",
+      "category": "general",
+      "source_refs": [
+        "AH.sutra.1.5"
+      ],
+      "related": [
+        "vagbhata",
+        "brihat-trayi",
+        "arunadatta",
+        "hemadri"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "ashtanga-sangraha",
+      "devanagari": "अष्टाङ्ग संग्रह",
+      "iast": "aṣṭāṅgasaṅgraha",
+      "simple": "Ashtanga Sangraha",
+      "en": "Larger prose-and-verse compendium attributed to Vāgbhaṭa (Vṛddha Vāgbhaṭa), with Indu's commentary Śaśilekhā.",
+      "hi": "अष्टाङ्ग संग्रह - वाग्भट (वृद्ध वाग्भट) का गद्य-पद्य ग्रन्थ; इन्दु की शशिलेखा टीका।",
+      "modern": "",
+      "category": "general",
+      "source_refs": [],
+      "related": [
+        "vagbhata",
+        "ashtanga-hridaya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "sharngadhara-samhita",
+      "devanagari": "शार्ङ्गधर संहिता",
+      "iast": "śārṅgadharasaṃhitā",
+      "simple": "Sharngadhara Samhita",
+      "en": "13th-14th century text by Śārṅgadhara in three khaṇḍas, the key reference for pharmaceutics (kalpanās, measures), and an early source for pulse examination.",
+      "hi": "शार्ङ्गधर संहिता - 13-14वीं शताब्दी; तीन खण्ड; भैषज्य कल्पना और मान का मुख्य ग्रन्थ; नाडी परीक्षा का प्रारम्भिक स्रोत।",
+      "modern": "",
+      "category": "general",
+      "source_refs": [],
+      "related": [
+        "laghu-trayi",
+        "bhaishajya-kalpana",
+        "nadi-pariksha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "bhavaprakasha",
+      "devanagari": "भावप्रकाश",
+      "iast": "bhāvaprakāśa",
+      "simple": "Bhavaprakasha",
+      "en": "16th-century compendium by Bhāvamiśra, with a widely used nighaṇṭu; it includes newer items like phiraṅga roga (syphilis) and new drugs.",
+      "hi": "भावप्रकाश - भावमिश्र (16वीं शताब्दी); प्रसिद्ध निघण्टु; फिरङ्ग रोग का वर्णन।",
+      "modern": "",
+      "category": "general",
+      "source_refs": [],
+      "related": [
+        "laghu-trayi",
+        "nighantu"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "kashyapa-samhita",
+      "devanagari": "काश्यप संहिता",
+      "iast": "kāśyapasaṃhitā",
+      "simple": "Kashyapa Samhita",
+      "en": "Classical text of paediatrics and obstetrics (Vṛddha Jīvakīya Tantra), teaching of Kaśyapa recorded by Vṛddha Jīvaka; survives incompletely. Describes lehana, suvarṇaprāśana, phakka and teething.",
+      "hi": "काश्यप संहिता (वृद्धजीवकीय तन्त्र) - बाल व प्रसूति का ग्रन्थ; लेहन, सुवर्णप्राशन, फक्क, दन्तोद्भव।",
+      "modern": "",
+      "category": "general",
+      "source_refs": [],
+      "related": [
+        "kaumarabhritya",
+        "suvarnaprashana",
+        "phakka-roga"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "chakrapani",
+      "devanagari": "चक्रपाणिदत्त",
+      "iast": "cakrapāṇidatta",
+      "simple": "Chakrapani",
+      "en": "11th-century Bengali commentator who wrote Āyurvedadīpikā on the Caraka Saṃhitā (and Bhānumatī on Suśruta) and the formulary Cakradatta.",
+      "hi": "चक्रपाणिदत्त - 11वीं शताब्दी; चरक पर आयुर्वेददीपिका टीका; चक्रदत्त ग्रन्थ।",
+      "modern": "",
+      "category": "general",
+      "source_refs": [],
+      "related": [
+        "tika",
+        "charaka-samhita"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "dalhana",
+      "devanagari": "डल्हण",
+      "iast": "ḍalhaṇa",
+      "simple": "Dalhana",
+      "en": "12th-century commentator whose Nibandhasaṅgraha is the standard commentary on the Suśruta Saṃhitā.",
+      "hi": "डल्हण - 12वीं शताब्दी; सुश्रुत संहिता पर निबन्धसंग्रह टीका।",
+      "modern": "",
+      "category": "general",
+      "source_refs": [],
+      "related": [
+        "tika",
+        "sushruta-samhita"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "arunadatta",
+      "devanagari": "अरुणदत्त",
+      "iast": "aruṇadatta",
+      "simple": "Arunadatta",
+      "en": "13th-century commentator; his Sarvāṅgasundarā is a standard commentary on the Aṣṭāṅga Hṛdaya.",
+      "hi": "अरुणदत्त - अष्टाङ्गहृदय पर सर्वाङ्गसुन्दरा टीका।",
+      "modern": "",
+      "category": "general",
+      "source_refs": [],
+      "related": [
+        "tika",
+        "ashtanga-hridaya",
+        "hemadri"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "hemadri",
+      "devanagari": "हेमाद्रि",
+      "iast": "hemādri",
+      "simple": "Hemadri",
+      "en": "13th-century scholar whose Āyurvedarasāyana commentary on the Aṣṭāṅga Hṛdaya is widely used.",
+      "hi": "हेमाद्रि - अष्टाङ्गहृदय पर आयुर्वेदरसायन टीका।",
+      "modern": "",
+      "category": "general",
+      "source_refs": [],
+      "related": [
+        "tika",
+        "ashtanga-hridaya",
+        "arunadatta"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "ayurveda-avatarana",
+      "devanagari": "आयुर्वेदावतरण",
+      "iast": "āyurvedāvataraṇa",
+      "simple": "Descent of Ayurveda",
+      "en": "The lineage by which Āyurveda came to humans: Brahmā to Dakṣa Prajāpati, then the Aśvins, Indra, and through Bharadvāja (Caraka) to Ātreya and his disciples; in Suśruta, Indra to Dhanvantari (Divodāsa).",
+      "hi": "आयुर्वेदावतरण - ब्रह्मा → दक्ष प्रजापति → अश्विनीकुमार → इन्द्र → भरद्वाज → आत्रेय (चरक); सुश्रुत: इन्द्र → धन्वन्तरि।",
+      "modern": "",
+      "category": "general",
+      "source_refs": [
+        "AH.sutra.1.3",
+        "AH.sutra.1.4",
+        "CS.sutra.1",
+        "SS.sutra.1"
+      ],
+      "related": [
+        "atreya",
+        "dhanvantari",
+        "ashvini-kumara"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "ashvini-kumara",
+      "devanagari": "अश्विनीकुमार",
+      "iast": "aśvinīkumāra",
+      "simple": "Ashvini Kumara",
+      "en": "Twin divine physicians who learned Āyurveda from Dakṣa and taught it to Indra; famed for restoring sage Cyavana's youth.",
+      "hi": "अश्विनीकुमार - देवताओं के युगल वैद्य; दक्ष से आयुर्वेद सीखा, इन्द्र को सिखाया; च्यवन ऋषि को यौवन दिया।",
+      "modern": "",
+      "category": "general",
+      "source_refs": [
+        "AH.sutra.1.3"
+      ],
+      "related": [
+        "ayurveda-avatarana",
+        "chyavanaprasha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "bharadvaja",
+      "devanagari": "भरद्वाज",
+      "iast": "bharadvāja",
+      "simple": "Bharadvaja",
+      "en": "Sage who, according to Caraka, went to Indra on behalf of the assembled sages and brought Āyurveda to the earth.",
+      "hi": "भरद्वाज - चरक के अनुसार इन्द्र से आयुर्वेद पृथ्वी पर लाने वाले ऋषि।",
+      "modern": "",
+      "category": "general",
+      "source_refs": [
+        "CS.sutra.1"
+      ],
+      "related": [
+        "ayurveda-avatarana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "ojas-kshaya",
+      "devanagari": "ओजः क्षय",
+      "iast": "ojaḥkṣaya",
+      "simple": "Ojas Kshaya",
+      "en": "Depletion of ojas, caused by anger, hunger, worry, grief, exertion etc.; signs: fearfulness, weakness, anxiety, impaired senses, poor complexion, dryness and emaciation. Suśruta describes three stages of ojas disorder: visraṃsa, vyāpat and kṣaya.",
+      "hi": "ओजः क्षय - क्रोध, क्षुधा, चिन्ता, शोक, श्रम से; भय, दुर्बलता, इन्द्रिय-व्यथा, कृशता; सुश्रुत: विस्रंस, व्यापत्, क्षय।",
+      "modern": "Often compared to states of lowered immunity and exhaustion.",
+      "category": "general",
+      "source_refs": [
+        "AH.sutra.11.39",
+        "AH.sutra.11.40",
+        "SS.sutra.15"
+      ],
+      "related": [
+        "ojas",
+        "bala",
+        "rajayakshma"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "samskara",
+      "devanagari": "संस्कार",
+      "iast": "saṃskāra",
+      "simple": "Samskara",
+      "en": "Processing that transforms the qualities of a substance (guṇāntarādhāna), e.g. by water, heat, churning, trituration, time, container, or impregnation; one of the parādi guṇas and the karaṇa factor of diet. Also: rite of passage and the purificatory processes of mercury.",
+      "hi": "संस्कार - द्रव्य के गुणों में परिवर्तन करने वाली प्रक्रिया (गुणान्तराधान): जल, अग्नि, मन्थन, भावना, काल आदि से।",
+      "modern": "Comparable to pharmaceutical processing that alters a substance's properties.",
+      "category": "general",
+      "source_refs": [
+        "CS.vimana.1",
+        "CS.sutra.26"
+      ],
+      "related": [
+        "paradi-guna",
+        "ashta-samskara",
+        "ahara-vidhi-visheshayatana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "ayush",
+      "devanagari": "आयुष",
+      "iast": "AYUSH",
+      "simple": "AYUSH",
+      "en": "India's Ministry of Ayurveda, Yoga and Naturopathy, Unani, Siddha, Sowa-Rigpa and Homoeopathy; NCISM regulates Indian-system medical education including BAMS.",
+      "hi": "आयुष - आयुर्वेद, योग, यूनानी, सिद्ध, सोवा-रिग्पा, होम्योपैथी मन्त्रालय; NCISM बीएएमएस शिक्षा का नियामक।",
+      "modern": "",
+      "category": "general",
+      "source_refs": [],
+      "related": [
+        "ayurveda"
       ],
       "review_status": "ai_draft"
     }
