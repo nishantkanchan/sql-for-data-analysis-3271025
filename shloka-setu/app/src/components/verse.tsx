@@ -13,7 +13,7 @@ import { AiDraftBadge, Card, Chip, Row, Segmented, T } from './ui';
 export type MaskMode = 'full' | 'some' | 'most' | 'first' | 'lines';
 
 const MARKS = /[ऀ-ःऺ-ॏ॑-ॗॢॣ]/;
-const PUNCT = /^[।॥|\d०-९()\[\]\-–—.,;:'"\u00A0]+$/;
+const PUNCT = /^[।॥|\d०-९()\[\]\-–—.,;:'"\u00A0\u2060]+$/;
 
 /** First akṣara of a Devanagari (or Latin) word, for "first letters" memorisation. */
 export function firstAkshara(word: string): string {
@@ -106,7 +106,8 @@ export function ShlokaText({ devanagari, iast, showIast, mode = 'full', revealed
 /** Keep dandas and "॥ ६ ॥" verse numbers attached to the preceding word so they never wrap alone. */
 export function glueMarks(line: string): string {
   return line
-    .replace(/ *([।॥|]+) *([०-९\d]+) *([।॥|]+)/g, '\u00A0$1\u00A0$2\u00A0$3')
+    // U+2060 WORD JOINER: dandas are a break-after class, so NBSP alone does not prevent a break after them
+    .replace(/ *([।॥|]+) *([०-९\d]+) *([।॥|]+)/g, '\u00A0$1\u2060\u00A0\u2060$2\u00A0$3')
     .replace(/ +([।॥|]+)/g, '\u00A0$1');
 }
 

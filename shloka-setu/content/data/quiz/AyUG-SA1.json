@@ -2677,6 +2677,1251 @@
         "aiapget"
       ],
       "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0072",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-5",
+      "topic_en": "AH Sū 5: Dravadravyavijñānīya",
+      "topic_hi": "अ.हृ.सू. 5: द्रवद्रव्यविज्ञानीय",
+      "type": "mcq",
+      "question_en": "Which kind of water is described first and praised as 'amṛtopama' in AH Sū 5.1-2?",
+      "question_hi": "अ.हृ.सू. 5.1-2 में सबसे पहले किस जल का वर्णन है और उसे 'अमृतोपम' कहा गया है?",
+      "options": [
+        {
+          "en": "Well water",
+          "hi": "कूप जल"
+        },
+        {
+          "en": "Rain water from the sky (gāṅga)",
+          "hi": "आकाश से गिरा वर्षा जल (गाङ्ग)"
+        },
+        {
+          "en": "Sea water",
+          "hi": "समुद्र जल"
+        },
+        {
+          "en": "Spring water",
+          "hi": "झरने का जल"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "AH Sū 5.1-2: water fallen from the sky (gāṅgāmbu), touched by sun, moon and wind, is jīvana, tarpaṇa, hṛdya, light and like nectar; its wholesomeness then depends on place and time.",
+      "explanation_hi": "अ.हृ.सू. 5.1-2: आकाश से गिरा (गाङ्गाम्बु), सूर्य, चन्द्र और वायु से स्पृष्ट जल जीवन, तर्पण, हृद्य, लघु और अमृत के समान है; उसका हिताहित फिर देश-काल पर निर्भर है।",
+      "reference": "AH.sutra.5.1",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0073",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-5",
+      "topic_en": "AH Sū 5: Dravadravyavijñānīya",
+      "topic_hi": "अ.हृ.सू. 5: द्रवद्रव्यविज्ञानीय",
+      "type": "mcq",
+      "question_en": "According to AH Sū 5.3, how is rain water tested to be 'gāṅga' (fit to drink)?",
+      "question_hi": "अ.हृ.सू. 5.3 के अनुसार वर्षा जल के 'गाङ्ग' (पीने योग्य) होने की परीक्षा कैसे होती है?",
+      "options": [
+        {
+          "en": "By boiling it",
+          "hi": "उबालकर"
+        },
+        {
+          "en": "By tasting for sweetness",
+          "hi": "मिठास चखकर"
+        },
+        {
+          "en": "By its smell",
+          "hi": "गन्ध से"
+        },
+        {
+          "en": "Cooked śāli rice kept in a silver vessel and exposed to it remains unspoiled and unchanged in colour",
+          "hi": "चाँदी के पात्र में रखा पका शालि चावल उस पर पड़ने से न सड़े, न रंग बदले"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "AH Sū 5.3: if śālyanna in a silver vessel, rained upon, stays unspoilt and unchanged in colour, the water is gāṅga; otherwise it is sāmudra.",
+      "explanation_hi": "अ.हृ.सू. 5.3: चाँदी के पात्र में रखा शाल्यन्न वर्षा पड़ने पर न गले, न रंग बदले तो जल गाङ्ग है; अन्यथा सामुद्र।",
+      "reference": "AH.sutra.5.3",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0074",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-5",
+      "topic_en": "AH Sū 5: Dravadravyavijñānīya",
+      "topic_hi": "अ.हृ.सू. 5: द्रवद्रव्यविज्ञानीय",
+      "type": "mcq",
+      "question_en": "According to AH Sū 5.4, sāmudra (rain) water may be drunk only in which month?",
+      "question_hi": "अ.हृ.सू. 5.4 के अनुसार सामुद्र (वर्षा) जल केवल किस मास में पिया जा सकता है?",
+      "options": [
+        {
+          "en": "Āśvayuja (Āśvina)",
+          "hi": "आश्वयुज (आश्विन)"
+        },
+        {
+          "en": "Śrāvaṇa",
+          "hi": "श्रावण"
+        },
+        {
+          "en": "Kārtika",
+          "hi": "कार्तिक"
+        },
+        {
+          "en": "Māgha",
+          "hi": "माघ"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "AH Sū 5.4: \"sāmudraṃ tan na pātavyaṃ māsād āśvayujād vinā\".",
+      "explanation_hi": "अ.हृ.सू. 5.4: \"सामुद्रं तन्न पातव्यं मासादाश्वयुजाद्विना\"।",
+      "reference": "AH.sutra.5.4",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0075",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-5",
+      "topic_en": "AH Sū 5: Dravadravyavijñānīya",
+      "topic_hi": "अ.हृ.सू. 5: द्रवद्रव्यविज्ञानीय",
+      "type": "mcq",
+      "question_en": "According to AH Sū 5.15, a person who drinks water at the beginning of a meal becomes:",
+      "question_hi": "अ.हृ.सू. 5.15 के अनुसार भोजन के आरम्भ में जल पीने वाला व्यक्ति होता है:",
+      "options": [
+        {
+          "en": "Sthūla (stout)",
+          "hi": "स्थूल"
+        },
+        {
+          "en": "Sama (balanced)",
+          "hi": "सम"
+        },
+        {
+          "en": "Kṛśa (lean)",
+          "hi": "कृश"
+        },
+        {
+          "en": "Unaffected",
+          "hi": "अप्रभावित"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "AH Sū 5.15: \"samasthūlakṛśā bhuktamadhyāntaprathamāmbupāḥ\": water in the middle - balanced; at the end - stout; at the beginning - lean.",
+      "explanation_hi": "अ.हृ.सू. 5.15: \"समस्थूलकृशा भुक्तमध्यान्तप्रथमाम्बुपाः\" - मध्य में जल से सम, अन्त में स्थूल और आरम्भ में कृश।",
+      "reference": "AH.sutra.5.15",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0076",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-5",
+      "topic_en": "AH Sū 5: Dravadravyavijñānīya",
+      "topic_hi": "अ.हृ.सू. 5: द्रवद्रव्यविज्ञानीय",
+      "type": "mcq",
+      "question_en": "According to AH Sū 5.13-14, in which two seasons may even a healthy person drink water freely (not in small amounts)?",
+      "question_hi": "अ.हृ.सू. 5.13-14 के अनुसार किन दो ऋतुओं में स्वस्थ व्यक्ति भी जल अल्प मात्रा के बिना पी सकता है?",
+      "options": [
+        {
+          "en": "Hemanta and śiśira",
+          "hi": "हेमन्त और शिशिर"
+        },
+        {
+          "en": "Śarad and nidāgha (grīṣma)",
+          "hi": "शरद् और निदाघ (ग्रीष्म)"
+        },
+        {
+          "en": "Vasanta and varṣā",
+          "hi": "वसन्त और वर्षा"
+        },
+        {
+          "en": "Varṣā and hemanta",
+          "hi": "वर्षा और हेमन्त"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "AH Sū 5.14: \"ṛte śaran-nidāghābhyāṃ pibet svastho 'pi cālpaśaḥ\": except in śarad and grīṣma, even the healthy should drink little water.",
+      "explanation_hi": "अ.हृ.सू. 5.14: \"ऋते शरन्निदाघाभ्यां पिबेत्स्वस्थोऽपि चाल्पशः\" - शरद् और ग्रीष्म को छोड़कर स्वस्थ व्यक्ति भी थोड़ा जल पिए।",
+      "reference": "AH.sutra.5.14",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0077",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-5",
+      "topic_en": "AH Sū 5: Dravadravyavijñānīya",
+      "topic_hi": "अ.हृ.सू. 5: द्रवद्रव्यविज्ञानीय",
+      "type": "mcq",
+      "question_en": "According to AH Sū 5.16, hot water is:",
+      "question_hi": "अ.हृ.सू. 5.16 के अनुसार उष्ण जल है:",
+      "options": [
+        {
+          "en": "Dīpana, pācana, good for the throat, light, and cleanses the bladder",
+          "hi": "दीपन, पाचन, कण्ठ्य, लघु और बस्तिशोधक"
+        },
+        {
+          "en": "Heavy and kapha-increasing",
+          "hi": "गुरु और कफवर्धक"
+        },
+        {
+          "en": "Constipating",
+          "hi": "मलरोधक"
+        },
+        {
+          "en": "Contraindicated in fever",
+          "hi": "ज्वर में वर्जित"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "AH Sū 5.16: \"dīpanaṃ pācanaṃ kaṇṭhyaṃ laghūṣṇaṃ bastiśodhanam\" (and helpful in hiccup, flatulence, vāta-kapha, fresh fever).",
+      "explanation_hi": "अ.हृ.सू. 5.16: \"दीपनं पाचनं कण्ठ्यं लघूष्णं बस्तिशोधनम्\" (और हिक्का, आध्मान, वात-कफ, नवज्वर में हितकर)।",
+      "reference": "AH.sutra.5.16",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0078",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-5",
+      "topic_en": "AH Sū 5: Dravadravyavijñānīya",
+      "topic_hi": "अ.हृ.सू. 5: द्रवद्रव्यविज्ञानीय",
+      "type": "true_false",
+      "question_en": "AH Sū 5 says that persons with weak digestion, gulma, pāṇḍu, udara, atisāra and arśas should take water in small amounts.",
+      "question_hi": "अ.हृ.सू. 5 के अनुसार मन्दाग्नि, गुल्म, पाण्डु, उदर, अतिसार और अर्श वाले लोग जल अल्प मात्रा में लें।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "True. AH Sū 5.13-14: those with alpāgni, gulma, pāṇḍu, udara, atisāra, arśas, grahaṇī, śoṣa and śotha should drink only little water.",
+      "explanation_hi": "सत्य। अ.हृ.सू. 5.13-14: अल्पाग्नि, गुल्म, पाण्डु, उदर, अतिसार, अर्श, ग्रहणी, शोष और शोथ वाले थोड़ा ही जल पिएँ।",
+      "reference": "AH.sutra.5.13",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0079",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-6",
+      "topic_en": "AH Sū 6: Annasvarūpavijñānīya",
+      "topic_hi": "अ.हृ.सू. 6: अन्नस्वरूपविज्ञानीय",
+      "type": "mcq",
+      "question_en": "According to AH Sū 6.5, the best among śūkadhānya (awned cereals) is:",
+      "question_hi": "अ.हृ.सू. 6.5 के अनुसार शूकधान्यों में श्रेष्ठ है:",
+      "options": [
+        {
+          "en": "Yava",
+          "hi": "यव"
+        },
+        {
+          "en": "Godhūma",
+          "hi": "गोधूम"
+        },
+        {
+          "en": "Ṣaṣṭika",
+          "hi": "षष्टिक"
+        },
+        {
+          "en": "Rakta śāli",
+          "hi": "रक्त शालि"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "AH Sū 6.5: \"śūkajeṣu varas tatra raktas tṛṣṇātridoṣahā\", followed by mahāśāli and kalama.",
+      "explanation_hi": "अ.हृ.सू. 6.5: \"शूकजेषु वरस्तत्र रक्तस्तृष्णात्रिदोषहा\", उसके बाद महाशालि और कलम।",
+      "reference": "AH.sutra.6.5",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0080",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-6",
+      "topic_en": "AH Sū 6: Annasvarūpavijñānīya",
+      "topic_hi": "अ.हृ.सू. 6: अन्नस्वरूपविज्ञानीय",
+      "type": "mcq",
+      "question_en": "According to AH Sū 6.4, śāli rice in general is:",
+      "question_hi": "अ.हृ.सू. 6.4 के अनुसार शालि चावल सामान्यतः है:",
+      "options": [
+        {
+          "en": "Kaṭu in vipāka and uṣṇa",
+          "hi": "कटु विपाक और उष्ण"
+        },
+        {
+          "en": "Sweet in taste and vipāka, unctuous, aphrodisiac, light, diuretic, cold",
+          "hi": "रस-विपाक में मधुर, स्निग्ध, वृष्य, लघु, मूत्रल, शीत"
+        },
+        {
+          "en": "Heavy and constipating",
+          "hi": "गुरु और मलरोधक"
+        },
+        {
+          "en": "Rūkṣa and vāta-increasing",
+          "hi": "रूक्ष और वातवर्धक"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "AH Sū 6.4: \"svādupākarasāḥ snigdhā vṛṣyā baddhālpavarcasaḥ, kaṣāyānurasāḥ pathyā laghavo mūtralā himāḥ\".",
+      "explanation_hi": "अ.हृ.सू. 6.4: \"स्वादुपाकरसाः स्निग्धा वृष्या बद्धाल्पवर्चसः, कषायानुरसाः पथ्या लघवो मूत्रला हिमाः\"।",
+      "reference": "AH.sutra.6.4",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0081",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-6",
+      "topic_en": "AH Sū 6: Annasvarūpavijñānīya",
+      "topic_hi": "अ.हृ.सू. 6: अन्नस्वरूपविज्ञानीय",
+      "type": "true_false",
+      "question_en": "According to AH Sū 6.6, yavaka, hāyana and similar grains are heavy, unctuous and aggravate kapha and pitta.",
+      "question_hi": "अ.हृ.सू. 6.6 के अनुसार यवक, हायन आदि धान्य गुरु, स्निग्ध और कफ-पित्त बढ़ाने वाले हैं।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "True. AH Sū 6.6: \"svādūṣṇā guravaḥ snigdhāḥ pāke 'mlāḥ śleṣmapittalāḥ\", unlike the wholesome śāli.",
+      "explanation_hi": "सत्य। अ.हृ.सू. 6.6: \"स्वादूष्णा गुरवः स्निग्धाः पाकेऽम्लाः श्लेष्मपित्तलाः\" - हितकर शालि के विपरीत।",
+      "reference": "AH.sutra.6.6",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0082",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-7",
+      "topic_en": "AH Sū 7: Annarakṣā",
+      "topic_hi": "अ.हृ.सू. 7: अन्नरक्षा",
+      "type": "mcq",
+      "question_en": "AH Sū 7 (Annarakṣā) begins by advising the king to keep whom near the palace?",
+      "question_hi": "अ.हृ.सू. 7 (अन्नरक्षा) राजा को राजमहल के पास किसे रखने की सलाह से आरम्भ होता है?",
+      "options": [
+        {
+          "en": "A cook",
+          "hi": "रसोइया"
+        },
+        {
+          "en": "A priest",
+          "hi": "पुरोहित"
+        },
+        {
+          "en": "A prāṇācārya (physician)",
+          "hi": "प्राणाचार्य (वैद्य)"
+        },
+        {
+          "en": "A minister",
+          "hi": "मन्त्री"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "AH Sū 7.1: \"rājā rājagṛhāsanne prāṇācāryaṃ niveśayet\" so that he is always alert; 7.2 stresses protecting the king's food from poison.",
+      "explanation_hi": "अ.हृ.सू. 7.1: \"राजा राजगृहासन्ने प्राणाचार्यं निवेशयेत्\" ताकि वह सदा सजग रहे; 7.2 में राजा के अन्न को विष से बचाने पर बल है।",
+      "reference": "AH.sutra.7.1",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0083",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-7",
+      "topic_en": "AH Sū 7: Annarakṣā",
+      "topic_hi": "अ.हृ.सू. 7: अन्नरक्षा",
+      "type": "mcq",
+      "question_en": "According to AH Sū 7.3-4, cooked rice mixed with poison shows which sign?",
+      "question_hi": "अ.हृ.सू. 7.3-4 के अनुसार विषयुक्त पके चावल में कौन-सा लक्षण दिखता है?",
+      "options": [
+        {
+          "en": "Its steam is the colour of a peacock's throat",
+          "hi": "उसकी भाप मोर की गर्दन के रंग की होती है"
+        },
+        {
+          "en": "It becomes very sweet",
+          "hi": "वह बहुत मीठा हो जाता है"
+        },
+        {
+          "en": "It cooks very quickly",
+          "hi": "वह बहुत जल्दी पकता है"
+        },
+        {
+          "en": "It turns red",
+          "hi": "वह लाल हो जाता है"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "AH Sū 7.3-4: poisoned rice becomes sticky, cooks slowly, looks stale, and its steam is like a peacock's throat (mayūrakaṇṭha) and causes moha, mūrchā and salivation.",
+      "explanation_hi": "अ.हृ.सू. 7.3-4: विषयुक्त चावल चिपचिपा, देर से पकने वाला, बासी जैसा होता है और उसकी भाप मयूरकण्ठ जैसी होकर मोह, मूर्छा और प्रसेक करती है।",
+      "reference": "AH.sutra.7.3",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0084",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-7",
+      "topic_en": "AH Sū 7: Annarakṣā",
+      "topic_hi": "अ.हृ.सू. 7: अन्नरक्षा",
+      "type": "mcq",
+      "question_en": "Which combination is a classic example of saṃyoga-viruddha āhāra?",
+      "question_hi": "कौन-सा संयोग संयोग-विरुद्ध आहार का प्रसिद्ध उदाहरण है?",
+      "options": [
+        {
+          "en": "Rice with mudga soup",
+          "hi": "चावल के साथ मूँग का यूष"
+        },
+        {
+          "en": "Ghee with rice",
+          "hi": "चावल के साथ घी"
+        },
+        {
+          "en": "Warm water after food",
+          "hi": "भोजन के बाद गरम जल"
+        },
+        {
+          "en": "Milk with fish",
+          "hi": "दूध के साथ मछली"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "AH Sū 7.31: \"viśeṣāt payasā matsyāḥ\" - fish with milk is especially viruddha (also CS Sū 26). It is said to cause skin diseases and other disorders. The other combinations are wholesome.",
+      "explanation_hi": "अ.हृ.सू. 7.31: \"विशेषात्पयसा मत्स्याः\" - दूध के साथ मछली विशेष रूप से विरुद्ध है (च.सू. 26 भी)। इससे त्वचा रोग आदि होते हैं। अन्य संयोग हितकर हैं।",
+      "reference": "AH.sutra.7.31",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0085",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-7",
+      "topic_en": "AH Sū 7: Annarakṣā",
+      "topic_hi": "अ.हृ.सू. 7: अन्नरक्षा",
+      "type": "mcq",
+      "question_en": "Honey and ghee taken together in equal quantity is an example of which type of viruddha?",
+      "question_hi": "मधु और घृत समान मात्रा में साथ लेना किस प्रकार के विरुद्ध का उदाहरण है?",
+      "options": [
+        {
+          "en": "Mātrā viruddha",
+          "hi": "मात्रा विरुद्ध"
+        },
+        {
+          "en": "Deśa viruddha",
+          "hi": "देश विरुद्ध"
+        },
+        {
+          "en": "Kāla viruddha",
+          "hi": "काल विरुद्ध"
+        },
+        {
+          "en": "Krama viruddha",
+          "hi": "क्रम विरुद्ध"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "CS Sū 26.90: \"madhusarpiḥ samadhṛtaṃ mātrayā tad virudhyate\". AH Sū 7.39 likewise says honey, ghee, vasā, taila and water become mutually viruddha when combined in equal parts.",
+      "explanation_hi": "च.सू. 26.90: \"मधुसर्पिः समधृतं मात्रया तद्विरुध्यते\"। अ.हृ.सू. 7.39 में भी मधु, घृत, वसा, तैल और जल समान भाग में मिलाने पर परस्पर विरुद्ध बताए गए हैं।",
+      "reference": "CS.sutra.26.90",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0086",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-8",
+      "topic_en": "AH Sū 8: Mātrāśitīya",
+      "topic_hi": "अ.हृ.सू. 8: मात्राशितीय",
+      "type": "mcq",
+      "question_en": "According to AH Sū 8.2, heavy (guru) foods should be eaten only to:",
+      "question_hi": "अ.हृ.सू. 8.2 के अनुसार गुरु आहार किस सीमा तक खाना चाहिए?",
+      "options": [
+        {
+          "en": "Full satiety",
+          "hi": "पूर्ण तृप्ति तक"
+        },
+        {
+          "en": "One-fourth of capacity",
+          "hi": "क्षमता के चौथाई तक"
+        },
+        {
+          "en": "Half satiety (ardhasauhitya)",
+          "hi": "अर्ध तृप्ति (अर्धसौहित्य) तक"
+        },
+        {
+          "en": "Not at all",
+          "hi": "बिल्कुल नहीं"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "AH Sū 8.2: \"gurūṇām ardhasauhityaṃ laghūnāṃ nātitṛptatā\": half-satiety for heavy foods, and not over-satiety even for light ones. The right quantity is that which digests comfortably.",
+      "explanation_hi": "अ.हृ.सू. 8.2: \"गुरूणामर्धसौहित्यं लघूनां नातितृप्तता\" - गुरु आहार आधी तृप्ति तक और लघु आहार भी अति तृप्ति तक नहीं। सही मात्रा वह है जो सुख से पच जाए।",
+      "reference": "AH.sutra.8.2",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0087",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-8",
+      "topic_en": "AH Sū 8: Mātrāśitīya",
+      "topic_hi": "अ.हृ.सू. 8: मात्राशितीय",
+      "type": "mcq",
+      "question_en": "According to AH Sū 8.46-47, how should the stomach be filled?",
+      "question_hi": "अ.हृ.सू. 8.46-47 के अनुसार आमाशय कैसे भरना चाहिए?",
+      "options": [
+        {
+          "en": "Half with food, half with water",
+          "hi": "आधा अन्न, आधा जल"
+        },
+        {
+          "en": "Two parts food, one part liquid, the fourth part left for vāta etc.",
+          "hi": "दो भाग अन्न, एक भाग पेय, चौथा भाग वात आदि के लिए खाली"
+        },
+        {
+          "en": "Three parts food, one part water",
+          "hi": "तीन भाग अन्न, एक भाग जल"
+        },
+        {
+          "en": "Completely with food",
+          "hi": "पूर्णतः अन्न से"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "AH Sū 8.46-47: \"annena kukṣer dvāv aṃśau pānenaikaṃ prapūrayet, āśrayaṃ pavanādīnāṃ caturtham avaśeṣayet\".",
+      "explanation_hi": "अ.हृ.सू. 8.46-47: \"अन्नेन कुक्षेर्द्वावंशौ पानेनैकं प्रपूरयेत्, आश्रयं पवनादीनां चतुर्थमवशेषयेत्\"।",
+      "reference": "AH.sutra.8.46",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0088",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-8",
+      "topic_en": "AH Sū 8: Mātrāśitīya",
+      "topic_hi": "अ.हृ.सू. 8: मात्राशितीय",
+      "type": "mcq",
+      "question_en": "In AH Sū 8.5-6, food that is neither vomited nor passed downward and does not digest, causing stasis, produces:",
+      "question_hi": "अ.हृ.सू. 8.5-6 में जो आहार न ऊपर निकले न नीचे और न पचे, उससे होने वाला रोग है:",
+      "options": [
+        {
+          "en": "Visūcikā",
+          "hi": "विसूचिका"
+        },
+        {
+          "en": "Atisāra",
+          "hi": "अतिसार"
+        },
+        {
+          "en": "Chardi",
+          "hi": "छर्दि"
+        },
+        {
+          "en": "Alasaka",
+          "hi": "अलसक"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "AH Sū 8.5-6: āma obstructing the channels causes alasaka; āma expelled violently through both upper and lower routes causes visūcikā.",
+      "explanation_hi": "अ.हृ.सू. 8.5-6: स्रोतों को रोकता आम अलसक करता है; ऊपर और नीचे दोनों मार्गों से वेग से निकलता आम विसूचिका करता है।",
+      "reference": "AH.sutra.8.5",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0089",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-8",
+      "topic_en": "AH Sū 8: Mātrāśitīya",
+      "topic_hi": "अ.हृ.सू. 8: मात्राशितीय",
+      "type": "mcq",
+      "question_en": "According to AH Sū 8.3, food in deficient quantity (hīna mātrā) becomes a cause of:",
+      "question_hi": "अ.हृ.सू. 8.3 के अनुसार हीन मात्रा में भोजन किसका कारण बनता है?",
+      "options": [
+        {
+          "en": "All kapha disorders",
+          "hi": "सब कफ रोग"
+        },
+        {
+          "en": "All pitta disorders",
+          "hi": "सब पित्त रोग"
+        },
+        {
+          "en": "Only āma",
+          "hi": "केवल आम"
+        },
+        {
+          "en": "All vāta disorders",
+          "hi": "सब वात रोग"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "AH Sū 8.3: hīnamātra food does not give strength, growth or ojas and becomes a cause of all vāta diseases. Excess food aggravates all doṣas at once (8.4).",
+      "explanation_hi": "अ.हृ.सू. 8.3: हीन मात्रा भोजन बल, उपचय, ओज नहीं देता और सब वात रोगों का कारण बनता है। अति मात्रा सब दोषों को एक साथ कुपित करती है (8.4)।",
+      "reference": "AH.sutra.8.3",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0090",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-8",
+      "topic_en": "AH Sū 8: Mātrāśitīya",
+      "topic_hi": "अ.हृ.सू. 8: मात्राशितीय",
+      "type": "true_false",
+      "question_en": "According to AH Sū 8.4, excessive quantity of food aggravates all three doṣas simultaneously.",
+      "question_hi": "अ.हृ.सू. 8.4 के अनुसार अति मात्रा भोजन तीनों दोषों को एक साथ कुपित करता है।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "True. AH Sū 8.4: \"atimātraṃ punaḥ sarvān āśu doṣān prakopayet\".",
+      "explanation_hi": "सत्य। अ.हृ.सू. 8.4: \"अतिमात्रं पुनः सर्वानाशु दोषान्प्रकोपयेत्\"।",
+      "reference": "AH.sutra.8.4",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0091",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-9",
+      "topic_en": "AH Sū 9: Dravyādivijñānīya",
+      "topic_hi": "अ.हृ.सू. 9: द्रव्यादिविज्ञानीय",
+      "type": "mcq",
+      "question_en": "According to AH Sū 9.1, which is the chief (śreṣṭha) among rasa, guṇa, vīrya, vipāka and prabhāva?",
+      "question_hi": "अ.हृ.सू. 9.1 के अनुसार रस, गुण, वीर्य, विपाक और प्रभाव में श्रेष्ठ कौन है?",
+      "options": [
+        {
+          "en": "Rasa",
+          "hi": "रस"
+        },
+        {
+          "en": "Dravya",
+          "hi": "द्रव्य"
+        },
+        {
+          "en": "Vīrya",
+          "hi": "वीर्य"
+        },
+        {
+          "en": "Prabhāva",
+          "hi": "प्रभाव"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "AH Sū 9.1: \"dravyam eva rasādīnāṃ śreṣṭhaṃ te hi tadāśrayāḥ\": they all reside in the dravya.",
+      "explanation_hi": "अ.हृ.सू. 9.1: \"द्रव्यमेव रसादीनां श्रेष्ठं ते हि तदाश्रयाः\" - ये सब द्रव्य में ही आश्रित हैं।",
+      "reference": "AH.sutra.9.1",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0092",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-9",
+      "topic_en": "AH Sū 9: Dravyādivijñānīya",
+      "topic_hi": "अ.हृ.सू. 9: द्रव्यादिविज्ञानीय",
+      "type": "mcq",
+      "question_en": "Why, according to AH Sū 9.3, is no dravya of a single rasa?",
+      "question_hi": "अ.हृ.सू. 9.3 के अनुसार कोई द्रव्य एकरस क्यों नहीं होता?",
+      "options": [
+        {
+          "en": "Because of prabhāva",
+          "hi": "प्रभाव के कारण"
+        },
+        {
+          "en": "Because of vipāka",
+          "hi": "विपाक के कारण"
+        },
+        {
+          "en": "Because every dravya arises from a combination of bhūtas",
+          "hi": "क्योंकि प्रत्येक द्रव्य भूतों के संघात से बनता है"
+        },
+        {
+          "en": "Because of the season",
+          "hi": "ऋतु के कारण"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "AH Sū 9.3: \"tasmān naikarasaṃ dravyaṃ bhūtasaṅghātasambhavāt, naikadoṣās tato rogāḥ\"; the manifest taste is the rasa, the unmanifest one the anurasa.",
+      "explanation_hi": "अ.हृ.सू. 9.3: \"तस्मान्नैकरसं द्रव्यं भूतसंघातसंभवात्, नैकदोषास्ततो रोगाः\"; व्यक्त स्वाद रस और अव्यक्त अनुरस है।",
+      "reference": "AH.sutra.9.3",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0093",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-9",
+      "topic_en": "AH Sū 9: Dravyādivijñānīya",
+      "topic_hi": "अ.हृ.सू. 9: द्रव्यादिविज्ञानीय",
+      "type": "mcq",
+      "question_en": "\"Rasaṃ vipākas tau vīryaṃ prabhāvas tān apohati\" describes the:",
+      "question_hi": "\"रसं विपाकस्तौ वीर्यं प्रभावस्तानपोहति\" किसका वर्णन है?",
+      "options": [
+        {
+          "en": "Relative strength: vipāka overrides rasa, vīrya overrides both, prabhāva overrides all",
+          "hi": "सापेक्ष बल: विपाक रस को, वीर्य दोनों को और प्रभाव सबको दबाता है"
+        },
+        {
+          "en": "Order of perception of rasa etc.",
+          "hi": "रस आदि के ज्ञान का क्रम"
+        },
+        {
+          "en": "Order of formation of dhātus",
+          "hi": "धातु निर्माण का क्रम"
+        },
+        {
+          "en": "Sequence of digestion",
+          "hi": "पाचन का क्रम"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "CS Sū 26.72-73: when rasa etc. are equally strong, this is their natural strength order; AH Sū 9 repeats the idea.",
+      "explanation_hi": "च.सू. 26.72-73: जब रस आदि समान बल वाले हों, तब यह उनका स्वाभाविक बल-क्रम है; अ.हृ.सू. 9 भी यही कहता है।",
+      "reference": "CS.sutra.26.72",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0094",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-9",
+      "topic_en": "AH Sū 9: Dravyādivijñānīya",
+      "topic_hi": "अ.हृ.सू. 9: द्रव्यादिविज्ञानीय",
+      "type": "mcq",
+      "question_en": "Dantī and citraka are both kaṭu in rasa and vipāka and uṣṇa in vīrya, yet only dantī is purgative. This is explained by:",
+      "question_hi": "दन्ती और चित्रक दोनों रस-विपाक में कटु और उष्ण वीर्य हैं, पर केवल दन्ती विरेचक है। इसका कारण है:",
+      "options": [
+        {
+          "en": "Vīrya",
+          "hi": "वीर्य"
+        },
+        {
+          "en": "Guṇa",
+          "hi": "गुण"
+        },
+        {
+          "en": "Prabhāva",
+          "hi": "प्रभाव"
+        },
+        {
+          "en": "Anurasa",
+          "hi": "अनुरस"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "CS Sū 26.67-68: when rasa, vīrya and vipāka are similar but the action differs, the cause is prabhāva (specific potency); the same example appears in AH Sū 9.",
+      "explanation_hi": "च.सू. 26.67-68: जहाँ रस, वीर्य, विपाक समान हों पर कर्म भिन्न हो, वहाँ कारण प्रभाव है; यही उदाहरण अ.हृ.सू. 9 में भी है।",
+      "reference": "CS.sutra.26.68",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0095",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-9",
+      "topic_en": "AH Sū 9: Dravyādivijñānīya",
+      "topic_hi": "अ.हृ.सू. 9: द्रव्यादिविज्ञानीय",
+      "type": "true_false",
+      "question_en": "Rasa is known on contact with the tongue (nipāta), while vipāka is inferred from the final effect (karma-niṣṭhā).",
+      "question_hi": "रस जीभ पर पड़ते ही (निपात से) ज्ञात होता है, जबकि विपाक का अनुमान अन्तिम कर्म (कर्मनिष्ठा) से होता है।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "True. CS Sū 26.66: \"raso nipāte dravyāṇāṃ vipākaḥ karmaniṣṭhayā, vīryaṃ yāvad adhīvāsān nipātāc copalabhyate\".",
+      "explanation_hi": "सत्य। च.सू. 26.66: \"रसो निपाते द्रव्याणां विपाकः कर्मनिष्ठया, वीर्यं यावदधीवासान्निपाताच्चोपलभ्यते\"।",
+      "reference": "CS.sutra.26.66",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0096",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-10",
+      "topic_en": "AH Sū 10: Rasabhedīya",
+      "topic_hi": "अ.हृ.सू. 10: रसभेदीय",
+      "type": "mcq",
+      "question_en": "According to AH Sū 10.1, madhura rasa arises from the predominance of:",
+      "question_hi": "अ.हृ.सू. 10.1 के अनुसार मधुर रस किनकी प्रधानता से बनता है?",
+      "options": [
+        {
+          "en": "Agni and pṛthvī",
+          "hi": "अग्नि और पृथ्वी"
+        },
+        {
+          "en": "Jala and agni",
+          "hi": "जल और अग्नि"
+        },
+        {
+          "en": "Vāyu and ākāśa",
+          "hi": "वायु और आकाश"
+        },
+        {
+          "en": "Pṛthvī and jala",
+          "hi": "पृथ्वी और जल"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "AH Sū 10.1: madhura - kṣmā + ambhas; amla - agni + kṣmā; lavaṇa - ambu + tejas; tikta - kha + vāyu; kaṭu - vāyu + agni; kaṣāya - anila + go (pṛthvī).",
+      "explanation_hi": "अ.हृ.सू. 10.1: मधुर - पृथ्वी + जल; अम्ल - अग्नि + पृथ्वी; लवण - जल + अग्नि; तिक्त - आकाश + वायु; कटु - वायु + अग्नि; कषाय - वायु + पृथ्वी।",
+      "reference": "AH.sutra.10.1",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0097",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-10",
+      "topic_en": "AH Sū 10: Rasabhedīya",
+      "topic_hi": "अ.हृ.सू. 10: रसभेदीय",
+      "type": "mcq",
+      "question_en": "Lavaṇa rasa is composed predominantly of:",
+      "question_hi": "लवण रस मुख्यतः किनसे बना है?",
+      "options": [
+        {
+          "en": "Jala and agni",
+          "hi": "जल और अग्नि"
+        },
+        {
+          "en": "Pṛthvī and agni",
+          "hi": "पृथ्वी और अग्नि"
+        },
+        {
+          "en": "Vāyu and agni",
+          "hi": "वायु और अग्नि"
+        },
+        {
+          "en": "Pṛthvī and vāyu",
+          "hi": "पृथ्वी और वायु"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "AH Sū 10.1: lavaṇa = ambu + tejas. Pṛthvī + agni is amla; vāyu + agni is kaṭu; pṛthvī + vāyu is kaṣāya.",
+      "explanation_hi": "अ.हृ.सू. 10.1: लवण = जल + तेज। पृथ्वी + अग्नि अम्ल; वायु + अग्नि कटु; पृथ्वी + वायु कषाय।",
+      "reference": "AH.sutra.10.1",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0098",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-10",
+      "topic_en": "AH Sū 10: Rasabhedīya",
+      "topic_hi": "अ.हृ.सू. 10: रसभेदीय",
+      "type": "mcq",
+      "question_en": "Tikta rasa is composed of which two mahābhūtas?",
+      "question_hi": "तिक्त रस किन दो महाभूतों से बना है?",
+      "options": [
+        {
+          "en": "Vāyu and agni",
+          "hi": "वायु और अग्नि"
+        },
+        {
+          "en": "Ākāśa and vāyu",
+          "hi": "आकाश और वायु"
+        },
+        {
+          "en": "Vāyu and pṛthvī",
+          "hi": "वायु और पृथ्वी"
+        },
+        {
+          "en": "Jala and ākāśa",
+          "hi": "जल और आकाश"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "AH Sū 10.1: tikta = kha (ākāśa) + vāyu. That is why tikta is the lightest and most drying rasa.",
+      "explanation_hi": "अ.हृ.सू. 10.1: तिक्त = ख (आकाश) + वायु। इसलिए तिक्त सबसे लघु और शोषक रस है।",
+      "reference": "AH.sutra.10.1",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0099",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-10",
+      "topic_en": "AH Sū 10: Rasabhedīya",
+      "topic_hi": "अ.हृ.सू. 10: रसभेदीय",
+      "type": "mcq",
+      "question_en": "According to AH Sū 10.2-3, which rasa, when tasted, makes the mouth water and causes horripilation and sensitivity of teeth (dantaharṣa)?",
+      "question_hi": "अ.हृ.सू. 10.2-3 के अनुसार कौन-सा रस चखने पर मुख में पानी लाता है और रोमहर्ष व दन्तहर्ष करता है?",
+      "options": [
+        {
+          "en": "Amla",
+          "hi": "अम्ल"
+        },
+        {
+          "en": "Madhura",
+          "hi": "मधुर"
+        },
+        {
+          "en": "Lavaṇa",
+          "hi": "लवण"
+        },
+        {
+          "en": "Kaṣāya",
+          "hi": "कषाय"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "AH Sū 10.3: amla \"kṣālayate mukham, harṣaṇo romadantānām, akṣibhruvanikocanaḥ\". Madhura coats the mouth and pleases; kaṣāya dries and constricts it.",
+      "explanation_hi": "अ.हृ.सू. 10.3: अम्ल \"क्षालयते मुखम्, हर्षणो रोमदन्तानाम्, अक्षिभ्रुवनिकोचनः\"। मधुर मुख में लिपटता और प्रसन्न करता है; कषाय सुखाता और जकड़ता है।",
+      "reference": "AH.sutra.10.2",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0100",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-10",
+      "topic_en": "AH Sū 10: Rasabhedīya",
+      "topic_hi": "अ.हृ.सू. 10: रसभेदीय",
+      "type": "mcq",
+      "question_en": "How many combinations of the six rasas (including single rasas) are described?",
+      "question_hi": "छह रसों के कितने संयोग (एकरस सहित) बताए गए हैं?",
+      "options": [
+        {
+          "en": "Thirty-six",
+          "hi": "छत्तीस"
+        },
+        {
+          "en": "Fifty-seven",
+          "hi": "सत्तावन"
+        },
+        {
+          "en": "Sixty-three",
+          "hi": "तिरसठ"
+        },
+        {
+          "en": "Sixty-four",
+          "hi": "चौंसठ"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "57 combinations of two or more rasas (15 + 20 + 15 + 6 + 1) plus 6 single rasas = 63 (CS Sū 26.22-24; AH Sū 10).",
+      "explanation_hi": "दो या अधिक रसों के 57 संयोग (15 + 20 + 15 + 6 + 1) और 6 एकरस = 63 (च.सू. 26.22-24; अ.हृ.सू. 10)।",
+      "reference": "AH.sutra.10.39",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0101",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-10",
+      "topic_en": "AH Sū 10: Rasabhedīya",
+      "topic_hi": "अ.हृ.सू. 10: रसभेदीय",
+      "type": "true_false",
+      "question_en": "According to AH Sū 1.15, the first three rasas (madhura, amla, lavaṇa) pacify kapha.",
+      "question_hi": "अ.हृ.सू. 1.15 के अनुसार पहले तीन रस (मधुर, अम्ल, लवण) कफ को शान्त करते हैं।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "False. AH Sū 1.15: the first three pacify vāta (\"tatrādyā mārutaṃ ghnanti\"); tikta, kaṭu, kaṣāya pacify kapha; kaṣāya, tikta, madhura pacify pitta.",
+      "explanation_hi": "असत्य। अ.हृ.सू. 1.15: पहले तीन वात को शान्त करते हैं (\"तत्राद्या मारुतं घ्नन्ति\"); तिक्त, कटु, कषाय कफ को; कषाय, तिक्त, मधुर पित्त को।",
+      "reference": "AH.sutra.1.15",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0102",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-12",
+      "topic_en": "AH Sū 12: Doṣabhedīya",
+      "topic_hi": "अ.हृ.सू. 12: दोषभेदीय",
+      "type": "mcq",
+      "question_en": "According to AH Sū 12.24, vāta undergoes caya, prakopa and praśama in which seasons respectively?",
+      "question_hi": "अ.हृ.सू. 12.24 के अनुसार वात का चय, प्रकोप और प्रशम क्रमशः किन ऋतुओं में होता है?",
+      "options": [
+        {
+          "en": "Varṣā, śarad, hemanta",
+          "hi": "वर्षा, शरद्, हेमन्त"
+        },
+        {
+          "en": "Grīṣma, varṣā, śarad",
+          "hi": "ग्रीष्म, वर्षा, शरद्"
+        },
+        {
+          "en": "Śiśira, vasanta, grīṣma",
+          "hi": "शिशिर, वसन्त, ग्रीष्म"
+        },
+        {
+          "en": "Hemanta, śiśira, vasanta",
+          "hi": "हेमन्त, शिशिर, वसन्त"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "AH Sū 12.24-25: vāta - grīṣma, varṣā, śarad; pitta - varṣā, śarad, hemanta; kapha - śiśira, vasanta, grīṣma.",
+      "explanation_hi": "अ.हृ.सू. 12.24-25: वात - ग्रीष्म, वर्षा, शरद्; पित्त - वर्षा, शरद्, हेमन्त; कफ - शिशिर, वसन्त, ग्रीष्म।",
+      "reference": "AH.sutra.12.24",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0103",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-12",
+      "topic_en": "AH Sū 12: Doṣabhedīya",
+      "topic_hi": "अ.हृ.सू. 12: दोषभेदीय",
+      "type": "mcq",
+      "question_en": "Pitta is naturally aggravated (prakopa) in which season?",
+      "question_hi": "पित्त का स्वाभाविक प्रकोप किस ऋतु में होता है?",
+      "options": [
+        {
+          "en": "Varṣā",
+          "hi": "वर्षा"
+        },
+        {
+          "en": "Grīṣma",
+          "hi": "ग्रीष्म"
+        },
+        {
+          "en": "Vasanta",
+          "hi": "वसन्त"
+        },
+        {
+          "en": "Śarad",
+          "hi": "शरद्"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "Pitta accumulates in varṣā, is aggravated in śarad and subsides in hemanta (AH Sū 12.24-25). Kapha is aggravated in vasanta and vāta in varṣā.",
+      "explanation_hi": "पित्त वर्षा में संचित, शरद् में कुपित और हेमन्त में शान्त होता है (अ.हृ.सू. 12.24-25)। कफ वसन्त में और वात वर्षा में कुपित होता है।",
+      "reference": "AH.sutra.12.25",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0104",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-12",
+      "topic_en": "AH Sū 12: Doṣabhedīya",
+      "topic_hi": "अ.हृ.सू. 12: दोषभेदीय",
+      "type": "mcq",
+      "question_en": "According to AH Sū 12.35, the three causes of disease are:",
+      "question_hi": "अ.हृ.सू. 12.35 के अनुसार रोग के तीन कारण हैं:",
+      "options": [
+        {
+          "en": "Vāta, pitta, kapha",
+          "hi": "वात, पित्त, कफ"
+        },
+        {
+          "en": "Asātmya indriyārtha saṃyoga, kāla and duṣkṛta karma",
+          "hi": "असात्म्य इन्द्रियार्थ संयोग, काल और दुष्कृत कर्म"
+        },
+        {
+          "en": "Āhāra, vihāra, auṣadha",
+          "hi": "आहार, विहार, औषध"
+        },
+        {
+          "en": "Deśa, kāla, bala",
+          "hi": "देश, काल, बल"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "AH Sū 12.35: \"arthair asātmyaiḥ saṃyogaḥ kālaḥ karma ca duṣkṛtam\", each divided into hīna, ati and mithyā yoga.",
+      "explanation_hi": "अ.हृ.सू. 12.35: \"अर्थैरसात्म्यैः संयोगः कालः कर्म च दुष्कृतम्\", प्रत्येक हीन, अति और मिथ्या योग से तीन प्रकार का।",
+      "reference": "AH.sutra.12.35",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA1-0105",
+      "subject_id": "AyUG-SA1",
+      "topic_id": "sa1-ah-su-12",
+      "topic_en": "AH Sū 12: Doṣabhedīya",
+      "topic_hi": "अ.हृ.सू. 12: दोषभेदीय",
+      "type": "mcq",
+      "question_en": "In AH Sū 12.22-23, 'pradveṣa' (aversion) to the causes of increase and desire for opposite qualities is a sign of:",
+      "question_hi": "अ.हृ.सू. 12.22-23 में वृद्धि-हेतुओं के प्रति प्रद्वेष और विपरीत गुणों की इच्छा किसका लक्षण है?",
+      "options": [
+        {
+          "en": "Prakopa",
+          "hi": "प्रकोप"
+        },
+        {
+          "en": "Praśama",
+          "hi": "प्रशम"
+        },
+        {
+          "en": "Vyakti",
+          "hi": "व्यक्ति"
+        },
+        {
+          "en": "Caya (accumulation)",
+          "hi": "चय"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "AH Sū 12.22-23: caya is increase in the doṣa's own site, with aversion to similar factors and desire for opposites; prakopa is movement out of the proper path (unmārgagamana).",
+      "explanation_hi": "अ.हृ.सू. 12.22-23: चय - अपने स्थान में वृद्धि, समान हेतुओं से द्वेष और विपरीत की इच्छा; प्रकोप - उन्मार्गगमन।",
+      "reference": "AH.sutra.12.22",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
     }
   ]
 }

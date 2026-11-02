@@ -13924,6 +13924,832 @@
         "kshira"
       ],
       "review_status": "ai_draft"
+    },
+    {
+      "id": "shalya-tantra",
+      "devanagari": "शल्य तन्त्र",
+      "iast": "śalya tantra",
+      "simple": "Shalya Tantra",
+      "en": "Surgery: the branch dealing with removal of foreign bodies (śalya) and with diseases treated by instruments, kṣāra, agni and bandaging; Suśruta Saṃhitā is its main text.",
+      "hi": "शल्य तन्त्र - शल्य (बाह्य पदार्थ) निकालने और शस्त्र, क्षार, अग्नि से साध्य रोगों का तन्त्र; मुख्य ग्रन्थ सुश्रुत संहिता।",
+      "modern": "Surgery.",
+      "category": "shalya",
+      "source_refs": [
+        "SS.sutra.1"
+      ],
+      "related": [
+        "ashtanga-ayurveda",
+        "shalya",
+        "yantra",
+        "shastra"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "shalya",
+      "devanagari": "शल्य",
+      "iast": "śalya",
+      "simple": "Shalya (Foreign Body)",
+      "en": "Anything that causes pain to body or mind (literally 'dart'); foreign bodies such as arrowheads, splinters and stones. Their five directions of movement and methods of extraction are described.",
+      "hi": "शल्य - शरीर या मन को पीड़ा देने वाला (तीर की नोक, कांटा आदि बाह्य पदार्थ)।",
+      "modern": "Foreign body.",
+      "category": "shalya",
+      "source_refs": [
+        "AH.sutra.28.1",
+        "SS.sutra.26"
+      ],
+      "related": [
+        "shalya-tantra",
+        "vishalyaghna"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "yantra",
+      "devanagari": "यन्त्र",
+      "iast": "yantra",
+      "simple": "Yantra (Blunt Instruments)",
+      "en": "Blunt surgical instruments used to extract foreign bodies and examine: Suśruta lists 101, with the hand as the chief yantra; types include svastika, sandaṃśa, tāla, nāḍī, śalākā and upayantra.",
+      "hi": "यन्त्र - कुण्ठ (भोथरे) शल्य उपकरण; सुश्रुत: 101; हाथ प्रधान यन्त्र।",
+      "modern": "Blunt instruments (forceps, specula, probes).",
+      "category": "shalya",
+      "source_refs": [
+        "SS.sutra.7",
+        "AH.sutra.25"
+      ],
+      "related": [
+        "shastra",
+        "yantra-rasa"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "shastra",
+      "devanagari": "शस्त्र",
+      "iast": "śastra",
+      "simple": "Shastra (Sharp Instruments)",
+      "en": "Sharp surgical instruments; Suśruta lists 20 (e.g. maṇḍalāgra, vṛddhipatra, kuśapatra), Vāgbhaṭa 26.",
+      "hi": "शस्त्र - तीक्ष्ण शल्य उपकरण; सुश्रुत: 20, वाग्भट: 26।",
+      "modern": "Sharp surgical instruments (scalpels, lancets).",
+      "category": "shalya",
+      "source_refs": [
+        "SS.sutra.8",
+        "AH.sutra.26.1"
+      ],
+      "related": [
+        "yantra",
+        "anushastra",
+        "ashtavidha-shastra-karma"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "anushastra",
+      "devanagari": "अनुशस्त्र",
+      "iast": "anuśastra",
+      "simple": "Anushastra",
+      "en": "Accessory or substitute sharp means used where instruments are unsuitable: kṣāra, agni, jalaukā, nails, bamboo bark, glass, etc.",
+      "hi": "अनुशस्त्र - शस्त्र के स्थान पर उपयोगी साधन: क्षार, अग्नि, जलौका, नख, काँच आदि।",
+      "modern": "",
+      "category": "shalya",
+      "source_refs": [
+        "SS.sutra.8"
+      ],
+      "related": [
+        "shastra",
+        "kshara",
+        "agnikarma"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "ashtavidha-shastra-karma",
+      "devanagari": "अष्टविध शस्त्रकर्म",
+      "iast": "aṣṭavidha śastrakarma",
+      "simple": "Eight Surgical Procedures",
+      "en": "Suśruta's eight surgical procedures: chedana (excision), bhedana (incision), lekhana (scraping), vedhana/vyadhana (puncture), eṣaṇa (probing), āharaṇa (extraction), visrāvaṇa (draining) and sīvana (suturing).",
+      "hi": "अष्टविध शस्त्रकर्म - छेदन, भेदन, लेखन, वेधन, एषण, आहरण, विस्रावण, सीवन।",
+      "modern": "Excision, incision, scraping, puncture, probing, extraction, drainage and suturing.",
+      "category": "shalya",
+      "source_refs": [
+        "SS.sutra.5"
+      ],
+      "related": [
+        "bhedana-incision",
+        "shastra",
+        "trividha-karma"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "bhedana-incision",
+      "devanagari": "भेदन (शस्त्रकर्म)",
+      "iast": "bhedana",
+      "simple": "Bhedana (Incision)",
+      "en": "Surgical incision, e.g. to drain an abscess; one of the eight śastrakarmas. Not to be confused with bhedana as a purgative drug action.",
+      "hi": "भेदन - शल्य चीरा (जैसे विद्रधि का); अष्टविध शस्त्रकर्म में एक। (भेदन औषध-कर्म से भिन्न)",
+      "modern": "Incision.",
+      "category": "shalya",
+      "source_refs": [
+        "SS.sutra.5"
+      ],
+      "related": [
+        "ashtavidha-shastra-karma",
+        "bhedana-purgative"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "trividha-karma",
+      "devanagari": "त्रिविध कर्म",
+      "iast": "trividha karma",
+      "simple": "Trividha Karma",
+      "en": "Three phases of surgery: pūrvakarma (pre-operative preparation), pradhānakarma (operation) and paścātkarma (post-operative care).",
+      "hi": "त्रिविध कर्म (शल्य) - पूर्वकर्म, प्रधानकर्म, पश्चात्कर्म।",
+      "modern": "Pre-operative, operative and post-operative phases.",
+      "category": "shalya",
+      "source_refs": [
+        "SS.sutra.5"
+      ],
+      "related": [
+        "ashtavidha-shastra-karma"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "yogya",
+      "devanagari": "योग्या",
+      "iast": "yogyā",
+      "simple": "Yogya (Surgical Training)",
+      "en": "Practical training on models before operating on patients, e.g. incision on fruits like gourds, scraping on hide with hair, puncturing vessels of dead animals, suturing on cloth, bandaging on dummies.",
+      "hi": "योग्या - शल्यकर्म का अभ्यास (फल, चर्म, मृत पशु की सिरा, वस्त्र आदि पर)।",
+      "modern": "Comparable to simulation-based surgical training.",
+      "category": "shalya",
+      "source_refs": [
+        "SS.sutra.9"
+      ],
+      "related": [
+        "ashtavidha-shastra-karma"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "kshara-karma",
+      "devanagari": "क्षारकर्म",
+      "iast": "kṣārakarma",
+      "simple": "Kshara Karma",
+      "en": "Application of caustic alkali to excise or cauterise tissue (e.g. arśas, warts, fistula); considered superior to sharp instruments because it does several actions (excision, incision, scraping) and treats deep tissue.",
+      "hi": "क्षारकर्म - क्षार द्वारा छेदन/दहन (अर्श, भगन्दर आदि)।",
+      "modern": "Chemical cauterisation.",
+      "category": "shalya",
+      "source_refs": [
+        "SS.sutra.11",
+        "AH.sutra.30.1"
+      ],
+      "related": [
+        "kshara",
+        "kshara-sutra",
+        "arsha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "kshara-sutra",
+      "devanagari": "क्षारसूत्र",
+      "iast": "kṣārasūtra",
+      "simple": "Kshara Sutra",
+      "en": "Medicated thread coated repeatedly with snuhī latex, apāmārga kṣāra and haridrā, used to cut and heal fistula-in-ano (bhagandara) and nāḍī vraṇa gradually; mentioned by Suśruta and detailed by Cakradatta.",
+      "hi": "क्षारसूत्र - स्नुही क्षीर, अपामार्ग क्षार, हरिद्रा से लेपित धागा; भगन्दर में।",
+      "modern": "Medicated seton; clinical trials support its use in fistula-in-ano.",
+      "category": "shalya",
+      "source_refs": [
+        "SS.chikitsa.17"
+      ],
+      "related": [
+        "bhagandara",
+        "kshara",
+        "snuhi",
+        "apamarga"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "agnikarma",
+      "devanagari": "अग्निकर्म",
+      "iast": "agnikarma",
+      "simple": "Agnikarma",
+      "en": "Therapeutic cauterisation with heated instruments (śalākā) or substances; diseases treated by it do not recur. Patterns include valaya, bindu, vilekhā and pratisāraṇa.",
+      "hi": "अग्निकर्म - तप्त शलाका आदि से दहन; इससे साध्य रोग पुनः नहीं होते।",
+      "modern": "Thermal cautery.",
+      "category": "shalya",
+      "source_refs": [
+        "SS.sutra.12",
+        "AH.sutra.30"
+      ],
+      "related": [
+        "kshara-karma",
+        "anushastra"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "vrana",
+      "devanagari": "व्रण",
+      "iast": "vraṇa",
+      "simple": "Vrana",
+      "en": "Wound or ulcer, literally 'that which covers/scars'. Two types: nija (from doṣas) and āgantu (traumatic); also śuddha (clean) and duṣṭa (unhealthy). Suśruta describes 60 measures (ṣaṣṭi upakrama) to treat it.",
+      "hi": "व्रण - घाव/अल्सर; निज और आगन्तु; शुद्ध और दुष्ट; 60 उपक्रम।",
+      "modern": "Wound/ulcer.",
+      "category": "shalya",
+      "source_refs": [
+        "AH.uttara.25.1",
+        "SS.chikitsa.1"
+      ],
+      "related": [
+        "dushta-vrana",
+        "sadyovrana",
+        "shashti-upakrama",
+        "vrana-shotha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "dushta-vrana",
+      "devanagari": "दुष्ट व्रण",
+      "iast": "duṣṭa vraṇa",
+      "simple": "Dushta Vrana",
+      "en": "Unhealthy (chronic, infected) wound: foul smell, abnormal colour, excessive discharge, pain and delayed healing; needs śodhana before ropaṇa.",
+      "hi": "दुष्ट व्रण - दुर्गन्ध, विवर्ण, अधिक स्राव, वेदना, देर से भरने वाला घाव।",
+      "modern": "Chronic or infected wound.",
+      "category": "shalya",
+      "source_refs": [
+        "SS.sutra.22",
+        "AH.uttara.25"
+      ],
+      "related": [
+        "vrana",
+        "shuddha-vrana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "shuddha-vrana",
+      "devanagari": "शुद्ध व्रण",
+      "iast": "śuddha vraṇa",
+      "simple": "Shuddha Vrana",
+      "en": "Clean wound: tongue-coloured (pinkish), soft, smooth, painless, without discharge, with slightly raised edges; ready to heal (ropaṇa).",
+      "hi": "शुद्ध व्रण - जिह्वा जैसा वर्ण, मृदु, वेदना-स्राव रहित; रोपण योग्य।",
+      "modern": "Healthy granulating wound.",
+      "category": "shalya",
+      "source_refs": [
+        "AH.uttara.25.12",
+        "SS.sutra.23"
+      ],
+      "related": [
+        "vrana",
+        "dushta-vrana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "sadyovrana",
+      "devanagari": "सद्योव्रण",
+      "iast": "sadyovraṇa",
+      "simple": "Sadyovrana",
+      "en": "Fresh traumatic wound; six types: chinna (cut), bhinna (penetrating), viddha (punctured), kṣata (lacerated), piccita (crushed) and ghṛṣṭa (abraded).",
+      "hi": "सद्योव्रण - ताज़ा आघातज घाव; छह: छिन्न, भिन्न, विद्ध, क्षत, पिच्चित, घृष्ट।",
+      "modern": "Acute traumatic wounds (incised, penetrating, punctured, lacerated, crushed, abraded).",
+      "category": "shalya",
+      "source_refs": [
+        "SS.chikitsa.2",
+        "AH.uttara.26"
+      ],
+      "related": [
+        "vrana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "shashti-upakrama",
+      "devanagari": "षष्टि उपक्रम",
+      "iast": "ṣaṣṭi upakrama",
+      "simple": "Shashti Upakrama",
+      "en": "Suśruta's sixty measures for wound management, from apatarpaṇa, lepa and pariṣeka through śodhana, ropaṇa, cutting, suturing and bandaging to rakṣā-vidhāna (protection).",
+      "hi": "षष्टि उपक्रम - व्रण चिकित्सा के 60 उपाय (अपतर्पण से रक्षाविधान तक)।",
+      "modern": "Comprehensive wound-care protocol.",
+      "category": "shalya",
+      "source_refs": [
+        "SS.chikitsa.1"
+      ],
+      "related": [
+        "vrana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "vrana-shotha",
+      "devanagari": "व्रणशोथ",
+      "iast": "vraṇaśotha",
+      "simple": "Vrana Shotha",
+      "en": "Inflammatory swelling that precedes suppuration, in three stages: āma (unripe), pacyamāna (ripening) and pakva (ripe); proper stage identification decides incision.",
+      "hi": "व्रणशोथ - पाक से पहले का शोथ; तीन अवस्थाएँ: आम, पच्यमान, पक्व।",
+      "modern": "Comparable to stages of inflammation leading to abscess formation.",
+      "category": "shalya",
+      "source_refs": [
+        "SS.sutra.17",
+        "AH.sutra.29.1"
+      ],
+      "related": [
+        "vrana",
+        "vidradhi",
+        "shotha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "bhagna",
+      "devanagari": "भग्न",
+      "iast": "bhagna",
+      "simple": "Bhagna",
+      "en": "Fracture or dislocation; two types: kāṇḍa-bhagna (fracture of bone shaft, 12 types) and sandhi-mukta (dislocation, 6 types). Treated by reduction, immobilisation (kuśa splints) and medication.",
+      "hi": "भग्न - अस्थि-भंग; काण्डभग्न (12) और सन्धिमुक्त (6)।",
+      "modern": "Fractures and dislocations.",
+      "category": "shalya",
+      "source_refs": [
+        "SS.nidana.15",
+        "AH.uttara.27.1"
+      ],
+      "related": [
+        "sandhaniya",
+        "arjuna"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "bhagandara",
+      "devanagari": "भगन्दर",
+      "iast": "bhagandara",
+      "simple": "Bhagandara",
+      "en": "A track opening near the anus that 'tears' the perineal region (bhaga, guda, basti); five types by doṣa and āgantu (Suśruta).",
+      "hi": "भगन्दर - गुदा के पास नाडी जो भग-गुद-बस्ति प्रदेश को विदीर्ण करे; पाँच प्रकार।",
+      "modern": "Fistula-in-ano.",
+      "category": "shalya",
+      "source_refs": [
+        "SS.nidana.4",
+        "SS.chikitsa.8"
+      ],
+      "related": [
+        "kshara-sutra",
+        "guda"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "ashmari",
+      "devanagari": "अश्मरी",
+      "iast": "aśmarī",
+      "simple": "Ashmari",
+      "en": "Stone (urinary calculus); four types: ślaiṣmika, paittika, vātika and śukrāśmarī. Suśruta describes perineal lithotomy for stones that do not respond to drugs.",
+      "hi": "अश्मरी - पथरी; चार प्रकार: श्लैष्मिक, पैत्तिक, वातिक, शुक्राश्मरी; सुश्रुत ने शस्त्रकर्म बताया।",
+      "modern": "Urolithiasis.",
+      "category": "shalya",
+      "source_refs": [
+        "SS.nidana.3",
+        "SS.chikitsa.7"
+      ],
+      "related": [
+        "gokshura",
+        "varuna",
+        "pashanabheda",
+        "mutravaha-srotas"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "arbuda",
+      "devanagari": "अर्बुद",
+      "iast": "arbuda",
+      "simple": "Arbuda",
+      "en": "A large, round, fixed, slowly growing, deep-rooted swelling that rarely suppurates; types by doṣa, rakta, māṃsa and medas.",
+      "hi": "अर्बुद - बड़ा, गोल, स्थिर, धीरे बढ़ने वाला, गहरा शोथ, जो प्रायः नहीं पकता।",
+      "modern": "Often compared to neoplasms (benign and malignant tumours).",
+      "category": "shalya",
+      "source_refs": [
+        "SS.nidana.11",
+        "AH.uttara.29"
+      ],
+      "related": [
+        "granthi"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "granthi",
+      "devanagari": "ग्रन्थि",
+      "iast": "granthi",
+      "simple": "Granthi",
+      "en": "A round, knotty swelling (literally 'knot') formed by doṣas vitiating māṃsa, rakta, medas and sirā; types include vātaja, pittaja, kaphaja, medoja and sirāja.",
+      "hi": "ग्रन्थि - गाँठ जैसी गोल सूजन; वातज, पित्तज, कफज, मेदोज, सिराज।",
+      "modern": "Cysts, nodules and swellings (e.g. lipoma, sebaceous cyst, ganglion).",
+      "category": "shalya",
+      "source_refs": [
+        "SS.nidana.11",
+        "AH.uttara.29.1"
+      ],
+      "related": [
+        "arbuda",
+        "galaganda"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "galaganda",
+      "devanagari": "गलगण्ड",
+      "iast": "galagaṇḍa",
+      "simple": "Galaganda",
+      "en": "Swelling in the front of the neck that hangs like a scrotum, slowly growing.",
+      "hi": "गलगण्ड - गले के सामने लटकने वाली सूजन।",
+      "modern": "Often compared to goitre (thyroid enlargement).",
+      "category": "shalya",
+      "source_refs": [
+        "SS.nidana.11"
+      ],
+      "related": [
+        "granthi",
+        "kanchanara",
+        "gandamala"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "gandamala",
+      "devanagari": "गण्डमाला",
+      "iast": "gaṇḍamālā",
+      "simple": "Gandamala",
+      "en": "A garland-like chain of swellings in the neck, axilla or groin.",
+      "hi": "गण्डमाला - गले, कक्षा, वंक्षण में माला जैसी गाँठें।",
+      "modern": "Often compared to cervical lymphadenitis (e.g. tuberculous, scrofula).",
+      "category": "shalya",
+      "source_refs": [
+        "SS.nidana.11",
+        "AH.uttara.29"
+      ],
+      "related": [
+        "galaganda",
+        "kanchanara"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "bandha",
+      "devanagari": "बन्ध",
+      "iast": "bandha",
+      "simple": "Bandha (Bandaging)",
+      "en": "Bandaging; Suśruta describes 14 types of bandages (e.g. kośa, svastika, anuvellita, cīna) applied tight, medium or loose according to site and doṣa.",
+      "hi": "बन्ध - पट्टी बाँधना; सुश्रुत: 14 प्रकार।",
+      "modern": "Bandaging techniques.",
+      "category": "shalya",
+      "source_refs": [
+        "SS.sutra.18"
+      ],
+      "related": [
+        "vrana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "sandhana-karma",
+      "devanagari": "सन्धान कर्म",
+      "iast": "sandhāna karma",
+      "simple": "Sandhana Karma",
+      "en": "Reconstructive surgery: Suśruta's karṇa-sandhāna (ear-lobe repair) and nāsā-sandhāna (rhinoplasty with a pedicled cheek flap), regarded as early plastic surgery.",
+      "hi": "सन्धान कर्म - कर्ण-सन्धान और नासा-सन्धान (गाल की त्वचा से नाक बनाना)।",
+      "modern": "Plastic/reconstructive surgery (Suśruta's rhinoplasty is widely cited historically).",
+      "category": "shalya",
+      "source_refs": [
+        "SS.sutra.16"
+      ],
+      "related": [
+        "shalya-tantra"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "shalakya-tantra",
+      "devanagari": "शालाक्य तन्त्र",
+      "iast": "śālākya tantra",
+      "simple": "Shalakya Tantra",
+      "en": "Branch dealing with diseases above the clavicle (ūrdhvajatru): eye, ear, nose, mouth, throat and head; named after the śalākā (probe) used. Also called ūrdhvāṅga.",
+      "hi": "शालाक्य तन्त्र - जत्रु के ऊपर के रोग (नेत्र, कर्ण, नासा, मुख, शिर); शलाका के प्रयोग से नाम।",
+      "modern": "Ophthalmology and ENT (with head and oral diseases).",
+      "category": "shalakya",
+      "source_refs": [
+        "SS.sutra.1",
+        "AH.sutra.1.5"
+      ],
+      "related": [
+        "ashtanga-ayurveda",
+        "netra",
+        "kriyakalpa"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "netra",
+      "devanagari": "नेत्र",
+      "iast": "netra",
+      "simple": "Netra",
+      "en": "The eye; made of all five mahābhūtas with tejas predominant. Suśruta describes five maṇḍalas (pakṣma, vartma, śveta, kṛṣṇa, dṛṣṭi), six sandhis and six paṭalas (two in the eyelid and four in the eyeball).",
+      "hi": "नेत्र - आँख; तेज प्रधान; पाँच मण्डल, छह सन्धि, छह पटल।",
+      "modern": "Eye.",
+      "category": "shalakya",
+      "source_refs": [
+        "SS.uttara.1"
+      ],
+      "related": [
+        "alochaka-pitta",
+        "timira",
+        "netra-patala"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "netra-patala",
+      "devanagari": "पटल",
+      "iast": "paṭala",
+      "simple": "Patala",
+      "en": "Layers of the eye: Suśruta describes four paṭalas in the eyeball (besides two of the eyelid); progressive involvement of these layers produces timira, kāca and liṅganāśa.",
+      "hi": "पटल - नेत्र के स्तर; चार पटलों की क्रमिक विकृति से तिमिर, काच, लिङ्गनाश।",
+      "modern": "Correlation of each paṭala with ocular tissues is debated.",
+      "category": "shalakya",
+      "source_refs": [
+        "SS.uttara.7",
+        "AH.uttara.12.1"
+      ],
+      "related": [
+        "netra",
+        "timira"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "timira",
+      "devanagari": "तिमिर",
+      "iast": "timira",
+      "simple": "Timira",
+      "en": "Progressive blurring of vision when doṣas affect the inner layers (paṭalas); neglected, timira becomes kāca and kāca becomes blindness (liṅganāśa).",
+      "hi": "तिमिर - दृष्टि का क्रमिक धुंधलापन; उपेक्षा से काच, फिर लिङ्गनाश।",
+      "modern": "Often compared to refractive errors and early cataract.",
+      "category": "shalakya",
+      "source_refs": [
+        "AH.uttara.13.1",
+        "SS.uttara.7"
+      ],
+      "related": [
+        "linganasha",
+        "netra",
+        "netra-patala"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "linganasha",
+      "devanagari": "लिङ्गनाश",
+      "iast": "liṅganāśa",
+      "simple": "Linganasha",
+      "en": "Advanced loss of vision when the fourth paṭala is affected; the kaphaja variety is treated surgically by couching with a barley-tipped needle (yavavaktra śalākā).",
+      "hi": "लिङ्गनाश - चौथे पटल की विकृति से दृष्टिनाश; कफज लिङ्गनाश का शलाका से वेधन।",
+      "modern": "Kaphaja liṅganāśa is often compared to mature cataract (Suśruta's couching).",
+      "category": "shalakya",
+      "source_refs": [
+        "AH.uttara.14.1",
+        "SS.uttara.17"
+      ],
+      "related": [
+        "timira",
+        "netra"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "abhishyanda",
+      "devanagari": "अभिष्यन्द",
+      "iast": "abhiṣyanda",
+      "simple": "Abhishyanda",
+      "en": "Eye disease with discharge, redness and congestion (syanda = flowing); considered the root of almost all eye diseases; neglected, it may progress to adhimantha.",
+      "hi": "अभिष्यन्द - स्राव, लालिमा वाला नेत्र रोग; प्रायः सभी नेत्र रोगों का मूल।",
+      "modern": "Often compared to conjunctivitis.",
+      "category": "shalakya",
+      "source_refs": [
+        "AH.uttara.15.1",
+        "SS.uttara.6"
+      ],
+      "related": [
+        "adhimantha",
+        "netra"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "adhimantha",
+      "devanagari": "अधिमन्थ",
+      "iast": "adhimantha",
+      "simple": "Adhimantha",
+      "en": "Severe eye disease with churning pain in the eye spreading to half the head; can destroy vision quickly.",
+      "hi": "अधिमन्थ - नेत्र में मथने जैसी पीड़ा जो आधे सिर तक फैले; शीघ्र दृष्टिनाश।",
+      "modern": "Often compared to acute (congestive) glaucoma.",
+      "category": "shalakya",
+      "source_refs": [
+        "AH.uttara.15",
+        "SS.uttara.6"
+      ],
+      "related": [
+        "abhishyanda"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "kriyakalpa",
+      "devanagari": "क्रियाकल्प",
+      "iast": "kriyākalpa",
+      "simple": "Kriyakalpa",
+      "en": "Local ocular therapeutic procedures: seka (pouring), āścyotana (eye drops), piṇḍī, viḍālaka (eyelid paste), tarpaṇa, puṭapāka and añjana.",
+      "hi": "क्रियाकल्प - नेत्र की स्थानीय चिकित्साएँ: सेक, आश्च्योतन, पिण्डी, विडालक, तर्पण, पुटपाक, अञ्जन।",
+      "modern": "Topical ophthalmic procedures.",
+      "category": "shalakya",
+      "source_refs": [
+        "SS.uttara.18",
+        "AH.sutra.23",
+        "AH.sutra.24"
+      ],
+      "related": [
+        "netra-tarpana",
+        "ashchyotana",
+        "anjana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "netra-tarpana",
+      "devanagari": "नेत्र तर्पण",
+      "iast": "netra tarpaṇa",
+      "simple": "Netra Tarpana",
+      "en": "Retaining medicated ghee over the open eyes within a dough ring for a set time; nourishes the eyes in dryness, fatigue and vāta disorders.",
+      "hi": "नेत्र तर्पण - आँखों पर आटे की मेड़ बनाकर औषधसिद्ध घृत रोकना।",
+      "modern": "",
+      "category": "shalakya",
+      "source_refs": [
+        "AH.sutra.24.1"
+      ],
+      "related": [
+        "kriyakalpa",
+        "putapaka"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "putapaka",
+      "devanagari": "पुटपाक",
+      "iast": "puṭapāka",
+      "simple": "Putapaka",
+      "en": "Juice extracted from drugs cooked in a sealed leaf-and-clay bolus, poured into the eyes after tarpaṇa; types: snehana, lekhana and prasādana.",
+      "hi": "पुटपाक - पुट में पकाए द्रव्यों का रस नेत्र में; स्नेहन, लेखन, प्रसादन।",
+      "modern": "",
+      "category": "shalakya",
+      "source_refs": [
+        "AH.sutra.24"
+      ],
+      "related": [
+        "netra-tarpana",
+        "kriyakalpa"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "ashchyotana",
+      "devanagari": "आश्च्योतन",
+      "iast": "āścyotana",
+      "simple": "Ashchyotana",
+      "en": "Instilling drops of medicated liquid into the eye from a height of two aṅgulas; advised as the first treatment in all eye diseases.",
+      "hi": "आश्च्योतन - दो अंगुल ऊँचाई से नेत्र में औषध की बूँदें; नेत्र रोगों में प्रथम चिकित्सा।",
+      "modern": "Eye drops.",
+      "category": "shalakya",
+      "source_refs": [
+        "AH.sutra.23.1"
+      ],
+      "related": [
+        "kriyakalpa"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "karnapurana",
+      "devanagari": "कर्णपूरण",
+      "iast": "karṇapūraṇa",
+      "simple": "Karnapurana",
+      "en": "Filling the ears with warm medicated oil, as part of dinacaryā and for ear diseases (vāta, deafness, tinnitus).",
+      "hi": "कर्णपूरण - कान में गुनगुना औषधीय तैल भरना।",
+      "modern": "Ear instillation (contraindicated in perforated eardrum or discharge).",
+      "category": "shalakya",
+      "source_refs": [
+        "AH.sutra.2.9",
+        "CS.sutra.5"
+      ],
+      "related": [
+        "karnashula"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "karnashula",
+      "devanagari": "कर्णशूल",
+      "iast": "karṇaśūla",
+      "simple": "Karnashula",
+      "en": "Ear pain, chiefly due to vāta; also karṇanāda (tinnitus) and bādhirya (deafness) are related ear diseases.",
+      "hi": "कर्णशूल - कान का दर्द; कर्णनाद, बाधिर्य सम्बन्धित रोग।",
+      "modern": "Otalgia (earache).",
+      "category": "shalakya",
+      "source_refs": [
+        "AH.uttara.17.1",
+        "SS.uttara.20"
+      ],
+      "related": [
+        "karnapurana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "pratishyaya",
+      "devanagari": "प्रतिश्याय",
+      "iast": "pratiśyāya",
+      "simple": "Pratishyaya",
+      "en": "Running nose with sneezing, heaviness of the head and discharge; neglected, it can lead to many diseases including rājayakṣmā.",
+      "hi": "प्रतिश्याय - नाक बहना, छींक, सिर में भारीपन।",
+      "modern": "Often compared to coryza/common cold and rhinitis.",
+      "category": "shalakya",
+      "source_refs": [
+        "AH.uttara.19.1",
+        "SS.uttara.24"
+      ],
+      "related": [
+        "pinasa",
+        "nasya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "pinasa",
+      "devanagari": "पीनस",
+      "iast": "pīnasa",
+      "simple": "Pinasa",
+      "en": "Chronic nasal disease with blockage, alternately dry and moist nose, loss of smell and taste.",
+      "hi": "पीनस - नासा अवरोध, गन्ध-रस ज्ञान नाश वाला दीर्घकालीन नासा रोग।",
+      "modern": "Often compared to chronic rhinitis and sinusitis.",
+      "category": "shalakya",
+      "source_refs": [
+        "AH.uttara.19",
+        "SS.uttara.22"
+      ],
+      "related": [
+        "pratishyaya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "ardhavabhedaka",
+      "devanagari": "अर्धावभेदक",
+      "iast": "ardhāvabhedaka",
+      "simple": "Ardhavabhedaka",
+      "en": "Severe, periodic pain in half of the head (neck, eyebrow, temple, ear, eye), like cutting or piercing.",
+      "hi": "अर्धावभेदक - आधे सिर में आवर्ती तीव्र वेदना।",
+      "modern": "Often compared to migraine.",
+      "category": "shalakya",
+      "source_refs": [
+        "CS.siddhi.9",
+        "SS.uttara.25"
+      ],
+      "related": [
+        "shirahshula"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "mukharoga",
+      "devanagari": "मुखरोग",
+      "iast": "mukharoga",
+      "simple": "Mukharoga",
+      "en": "Diseases of the mouth in seven sites: lips, gums, teeth, tongue, palate, throat and whole oral cavity; Suśruta describes 65.",
+      "hi": "मुखरोग - सात स्थानों (ओष्ठ, दन्तमूल, दन्त, जिह्वा, तालु, कण्ठ, सर्वसर) के रोग; सुश्रुत: 65।",
+      "modern": "Oral and throat diseases.",
+      "category": "shalakya",
+      "source_refs": [
+        "SS.nidana.16",
+        "AH.uttara.21"
+      ],
+      "related": [
+        "gandusha"
+      ],
+      "review_status": "ai_draft"
     }
   ]
 }
