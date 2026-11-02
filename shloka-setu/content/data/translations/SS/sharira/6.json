@@ -1,0 +1,5288 @@
+{
+ "chapter": {
+  "id": "SS.sharira.6",
+  "text": "sushruta_samhita",
+  "sthana": "sharira",
+  "chapter": 6,
+  "title_iast": "Pratyekamarmanirdeśa Śārīra Adhyāya",
+  "title_devanagari": "प्रत्येकमर्मनिर्देशं शारीरम्",
+  "title_en": "The chapter describing each marma (vital point)",
+  "title_hi": "प्रत्येकमर्मनिर्देश शारीर (प्रत्येक मर्म का वर्णन)",
+  "summary_en": "This chapter is the classical source for the 107 marmas, the vital points where injury can cause death, disability or pain. Suśruta classifies them in three ways: by structure into five groups (māṃsa 11, sirā 41, snāyu 27, asthi 8, sandhi 20), by region (44 in the limbs, 12 in the abdomen and chest, 14 in the back, 37 above the clavicle), and by the result of injury into five groups (sadyaḥprāṇahara 19, kālāntaraprāṇahara 33, viśalyaghna 3, vaikalyakara 44, rujākara 8). He defines a marma as a meeting point of muscle, vessel, ligament, bone and joint where prāṇa specially resides, and explains each prognostic group through the elements (fire, soma, air). The chapter then locates every marma with the effects of its injury, gives their sizes in finger-breadths and palm-widths, and states the time frame of death. It ends with surgical lessons: avoid marmas during surgery, why a clean amputation may be survived while Kṣipra/Talahṛdaya injury may be fatal, and that diseases located at marmas are hard to cure. Its numbers and classifications are among the most frequently asked topics in Rachana Sharira.",
+  "summary_hi": "यह अध्याय 107 मर्मों का शास्त्रीय स्रोत है, अर्थात् वे प्राण-स्थान जहाँ चोट से मृत्यु, विकलता या पीड़ा हो सकती है। सुश्रुत इन्हें तीन प्रकार से वर्गीकृत करते हैं: रचना के अनुसार पाँच वर्ग (मांस 11, सिरा 41, स्नायु 27, अस्थि 8, सन्धि 20), क्षेत्र के अनुसार (शाखाओं में 44, उदर-उर में 12, पीठ में 14, जत्रु के ऊपर 37), और चोट के परिणाम के अनुसार पाँच वर्ग (सद्यःप्राणहर 19, कालान्तरप्राणहर 33, विशल्यघ्न 3, वैकल्यकर 44, रुजाकर 8)। मर्म की परिभाषा है: मांस, सिरा, स्नायु, अस्थि और सन्धि का संनिपात, जहाँ विशेष रूप से प्राण रहते हैं; हर परिणाम-वर्ग को भूतों (अग्नि, सोम, वायु) से समझाया गया है। फिर हर मर्म का स्थान और उसकी चोट का परिणाम, अंगुल और हथेली में परिमाण, और मृत्यु की समय-सीमा बताई गई है। अन्त में शल्य-शिक्षा है: शल्यकर्म में मर्म बचाएँ, साफ विच्छेदन में व्यक्ति क्यों बच सकता है पर क्षिप्र/तलहृदय की चोट क्यों घातक हो सकती है, और मर्म पर स्थित रोग कष्टसाध्य होते हैं। इसकी संख्याएँ और वर्गीकरण रचना शारीर में सबसे अधिक पूछे जाने वाले विषयों में हैं।",
+  "key_concepts": [
+   "107 marmas",
+   "definition of marma (saṃnipāta, prāṇa-sthāna)",
+   "structural classification (māṃsa, sirā, snāyu, asthi, sandhi)",
+   "regional distribution (śākhā 44, udara-uras 12, pṛṣṭha 14, ūrdhvajatru 37)",
+   "prognostic classification (sadyaḥ, kālāntara, viśalyaghna, vaikalyakara, rujākara)",
+   "elemental basis of prognosis",
+   "marma locations and effects of injury",
+   "marma pramāṇa (size)",
+   "marmāṇi śalyaviṣayārdham"
+  ],
+  "exam_focus_en": [
+   "Total 107 marmas and the structural classification with numbers: māṃsa 11, sirā 41, snāyu 27, asthi 8, sandhi 20 (verses 3-4, 7).",
+   "Prognostic classification with numbers and names: sadyaḥprāṇahara 19, kālāntaraprāṇahara 33, viśalyaghna 3, vaikalyakara 44, rujākara 8 (verses 8-14).",
+   "Definition of marma: māṃsa-sirā-snāyu-asthi-sandhi saṃnipāta and seat of prāṇa (verse 15); seats of soma, vāyu, tejas, the three guṇas and bhūtātmā (verse 35).",
+   "Elemental basis: sadyaḥ = āgneya, kālāntara = saumya-āgneya, viśalyaghna = vāyavya, vaikalyakara = saumya, rujākara = agni-vāyu (verse 16).",
+   "Regional count (44/12/14/37), site and effect of important marmas such as Kṣipra, Hṛdaya, Basti, Śaṅkha, Adhipati, Lohitākṣa, Viṭapa (verses 5, 24-27).",
+   "Marma sizes (1, 2, 3 aṅgula, palm-sized, ½ aṅgula), effect of marginal injury, time to death (7 days / fortnight-month) and 'marmāṇi śalyaviṣayārdham' (verses 22-23, 28-33)."
+  ],
+  "exam_focus_hi": [
+   "कुल 107 मर्म और रचना-वर्गीकरण की संख्याएँ: मांस 11, सिरा 41, स्नायु 27, अस्थि 8, सन्धि 20 (श्लोक 3-4, 7)।",
+   "परिणाम-वर्गीकरण की संख्याएँ और नाम: सद्यःप्राणहर 19, कालान्तरप्राणहर 33, विशल्यघ्न 3, वैकल्यकर 44, रुजाकर 8 (श्लोक 8-14)।",
+   "मर्म की परिभाषा: मांस-सिरा-स्नायु-अस्थि-सन्धि का संनिपात और प्राण का स्थान (श्लोक 15); सोम, वायु, तेज, तीन गुण और भूतात्मा के स्थान (श्लोक 35)।",
+   "भौतिक आधार: सद्यः = आग्नेय, कालान्तर = सौम्य-आग्नेय, विशल्यघ्न = वायव्य, वैकल्यकर = सौम्य, रुजाकर = अग्नि-वायु (श्लोक 16)।",
+   "क्षेत्रीय संख्या (44/12/14/37), और क्षिप्र, हृदय, बस्ति, शङ्ख, अधिपति, लोहिताक्ष, विटप जैसे प्रमुख मर्मों का स्थान व परिणाम (श्लोक 5, 24-27)।",
+   "मर्म-परिमाण (1, 2, 3 अंगुल, हथेली-परिमाण, आधा अंगुल), किनारे की चोट का परिणाम, मृत्यु की समय-सीमा (7 दिन / पक्ष-मास) और 'मर्माणि शल्यविषयार्धम्' (श्लोक 22-23, 28-33)।"
+  ],
+  "syllabus_refs": [
+   "AyUG-RS"
+  ],
+  "review_status": "ai_draft"
+ },
+ "verses": [
+  {
+   "id": "SS.sharira.6.1",
+   "word_meanings": [
+    {
+     "sa": "अथ",
+     "iast": "atha",
+     "en": "now, next",
+     "hi": "अब"
+    },
+    {
+     "sa": "अतः",
+     "iast": "ataḥ",
+     "en": "therefore, hence",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "प्रत्येकमर्मनिर्देशम्",
+     "iast": "pratyekamarmanirdeśam",
+     "en": "the specific description of each marma",
+     "hi": "प्रत्येक मर्म का निर्देश (वर्णन)"
+    },
+    {
+     "sa": "शारीरम्",
+     "iast": "śārīram",
+     "en": "the chapter on the body (anatomy)",
+     "hi": "शरीर-सम्बन्धी अध्याय"
+    },
+    {
+     "sa": "व्याख्यास्यामः",
+     "iast": "vyākhyāsyāmaḥ",
+     "en": "we shall explain",
+     "hi": "हम व्याख्या करेंगे"
+    }
+   ],
+   "english": "Now we shall explain the anatomical chapter called Pratyekamarmanirdeśa, 'the description of each marma (vital point)'.",
+   "hindi": "अब हम 'प्रत्येकमर्मनिर्देश' नामक शारीर अध्याय की व्याख्या करेंगे, जिसमें हर एक मर्म का अलग-अलग वर्णन है।",
+   "explanation_en": "This is the standard opening formula of a Suśruta chapter. A marma is a vital point of the body where injury can cause death, deformity or severe pain. This sixth chapter of Śārīrasthāna is the classical source for the 107 marmas and their classifications, so it is one of the most examined chapters of Rachana Sharira.",
+   "explanation_hi": "यह सुश्रुत के अध्याय का पारम्परिक आरम्भ-वाक्य है। मर्म शरीर का वह प्राण-स्थान है जहाँ चोट लगने पर मृत्यु, विकलता (अपंगता) या तीव्र पीड़ा हो सकती है। शारीरस्थान का यह छठा अध्याय 107 मर्मों और उनके वर्गीकरण का मूल स्रोत है, इसलिए रचना शारीर में यह बहुत महत्त्वपूर्ण है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "marma",
+    "pratyekamarmanirdeśa",
+    "śārīra"
+   ],
+   "tags": [
+    "introduction",
+    "marma"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sharira.6.2",
+   "word_meanings": [
+    {
+     "sa": "यथा",
+     "iast": "yathā",
+     "en": "as",
+     "hi": "जैसा"
+    },
+    {
+     "sa": "उवाच",
+     "iast": "uvāca",
+     "en": "spoke, taught",
+     "hi": "कहा"
+    },
+    {
+     "sa": "भगवान्",
+     "iast": "bhagavān",
+     "en": "the revered one",
+     "hi": "भगवान्"
+    },
+    {
+     "sa": "धन्वन्तरिः",
+     "iast": "dhanvantariḥ",
+     "en": "Dhanvantari",
+     "hi": "धन्वन्तरि ने"
+    }
+   ],
+   "english": "As the revered Dhanvantari taught.",
+   "hindi": "जैसा भगवान् धन्वन्तरि ने कहा था।",
+   "explanation_en": "In the Suśrutasaṃhitā the teacher is Dhanvantari (as Divodāsa, king of Kāśī) and the student is Suśruta. This line marks that what follows is the teacher's own instruction. Remember: Caraka's chapters open with 'iti ha smāha bhagavān ātreyaḥ', Suśruta's with 'yathovāca bhagavān dhanvantariḥ'.",
+   "explanation_hi": "सुश्रुतसंहिता में उपदेशक धन्वन्तरि (काशिराज दिवोदास) हैं और शिष्य सुश्रुत। यह पंक्ति बताती है कि आगे का उपदेश गुरु का अपना वचन है। याद रखें: चरक के अध्याय 'इति ह स्माह भगवान् आत्रेयः' से और सुश्रुत के 'यथोवाच भगवान् धन्वन्तरिः' से शुरू होते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "Dhanvantari"
+   ],
+   "tags": [
+    "introduction",
+    "tradition"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sharira.6.3",
+   "word_meanings": [
+    {
+     "sa": "सप्तोत्तरम्",
+     "iast": "saptottaram",
+     "en": "exceeding by seven",
+     "hi": "सात अधिक"
+    },
+    {
+     "sa": "मर्मशतम्",
+     "iast": "marmaśatam",
+     "en": "a hundred marmas",
+     "hi": "सौ मर्म"
+    },
+    {
+     "sa": "तानि",
+     "iast": "tāni",
+     "en": "those",
+     "hi": "वे"
+    },
+    {
+     "sa": "मर्माणि",
+     "iast": "marmāṇi",
+     "en": "marmas, vital points",
+     "hi": "मर्म"
+    },
+    {
+     "sa": "पञ्चात्मकानि",
+     "iast": "pañcātmakāni",
+     "en": "of five kinds (by structure)",
+     "hi": "पाँच प्रकार के"
+    },
+    {
+     "sa": "भवन्ति",
+     "iast": "bhavanti",
+     "en": "are",
+     "hi": "होते हैं"
+    },
+    {
+     "sa": "तद्यथा",
+     "iast": "tadyathā",
+     "en": "namely",
+     "hi": "जैसे"
+    },
+    {
+     "sa": "मांसमर्माणि",
+     "iast": "māṃsamarmāṇi",
+     "en": "muscle marmas",
+     "hi": "मांस मर्म"
+    },
+    {
+     "sa": "सिरामर्माणि",
+     "iast": "sirāmarmāṇi",
+     "en": "vessel marmas",
+     "hi": "सिरा मर्म"
+    },
+    {
+     "sa": "स्नायुमर्माणि",
+     "iast": "snāyumarmāṇi",
+     "en": "ligament/tendon marmas",
+     "hi": "स्नायु मर्म"
+    },
+    {
+     "sa": "अस्थिमर्माणि",
+     "iast": "asthimarmāṇi",
+     "en": "bone marmas",
+     "hi": "अस्थि मर्म"
+    },
+    {
+     "sa": "सन्धिमर्माणि",
+     "iast": "sandhimarmāṇi",
+     "en": "joint marmas",
+     "hi": "सन्धि मर्म"
+    },
+    {
+     "sa": "न खलु",
+     "iast": "na khalu",
+     "en": "certainly not",
+     "hi": "निश्चय ही नहीं"
+    },
+    {
+     "sa": "मांससिरास्नाय्वस्थिसन्धिव्यतिरेकेण",
+     "iast": "māṃsasirāsnāyvasthisandhivyatirekeṇa",
+     "en": "apart from muscle, vessel, ligament, bone and joint",
+     "hi": "मांस, सिरा, स्नायु, अस्थि, सन्धि के अतिरिक्त"
+    },
+    {
+     "sa": "अन्यानि",
+     "iast": "anyāni",
+     "en": "other",
+     "hi": "अन्य"
+    },
+    {
+     "sa": "यस्मात्",
+     "iast": "yasmāt",
+     "en": "because",
+     "hi": "क्योंकि"
+    },
+    {
+     "sa": "न उपलभ्यन्ते",
+     "iast": "na upalabhyante",
+     "en": "are not found",
+     "hi": "नहीं पाए जाते"
+    }
+   ],
+   "english": "There are one hundred and seven marmas. These marmas are of five kinds: māṃsa-marmas (muscle), sirā-marmas (vessel), snāyu-marmas (ligament/tendon), asthi-marmas (bone) and sandhi-marmas (joint). There are certainly no marmas other than those of muscle, vessel, ligament, bone and joint, because none are found.",
+   "hindi": "मर्म एक सौ सात (107) हैं। ये पाँच प्रकार के होते हैं: मांस मर्म, सिरा मर्म, स्नायु मर्म, अस्थि मर्म और सन्धि मर्म। मांस, सिरा, स्नायु, अस्थि और सन्धि के अलावा कोई और मर्म नहीं होते, क्योंकि ऐसे मर्म मिलते ही नहीं।",
+   "explanation_en": "This is the key verse for the total number (107) and the first classification of marmas, by the predominant structure (racanā-bheda). Each marma is named after the tissue that dominates it, though in fact several tissues meet there (see verse 15). Here 'snāyu' covers ligaments, tendons and similar fibrous bands, and 'sirā' covers blood vessels in general. Memory tip: 'MaSi-SnA-San', muscle, sirā, snāyu, asthi, sandhi.",
+   "explanation_hi": "यह श्लोक मर्मों की कुल संख्या (107) और पहला वर्गीकरण (रचना के अनुसार) बताता है। हर मर्म का नाम उसमें प्रधान रचना (धातु/अवयव) के आधार पर है, यद्यपि वास्तव में वहाँ कई रचनाएँ मिलती हैं (श्लोक 15)। यहाँ 'स्नायु' में लिगामेंट, टेंडन आदि रेशेदार रचनाएँ और 'सिरा' में सामान्य रक्तवाहिनियाँ आती हैं। याद रखने का सूत्र: मांस-सिरा-स्नायु-अस्थि-सन्धि।",
+   "modern_correlation": {
+    "en": "Classifying vital points by the dominant tissue is often compared to how trauma surgery thinks of injury by structure: muscular, vascular, ligamentous/tendinous, osseous and articular injuries. Many marma sites lie over major vessels, nerves or joints, which modern anatomy recognises as zones where penetrating injury carries high risk.",
+    "hi": "प्रधान रचना के आधार पर मर्मों का वर्गीकरण आधुनिक ट्रॉमा सर्जरी में चोट को संरचना के अनुसार (मांसपेशी, रक्तवाहिनी, लिगामेंट/टेंडन, हड्डी, जोड़) समझने से तुलना किया जाता है। कई मर्म स्थान बड़ी रक्तवाहिनियों, नसों या जोड़ों के ऊपर हैं, जिन्हें आधुनिक शरीर-रचना भी भेदक चोट के लिए जोखिम-क्षेत्र मानती है।"
+   },
+   "key_terms": [
+    "marma",
+    "māṃsa",
+    "sirā",
+    "snāyu",
+    "asthi",
+    "sandhi",
+    "107 marmas"
+   ],
+   "tags": [
+    "marma",
+    "classification",
+    "structure",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "107 = 'one hundred and seven'; 5 structural types: Māṃsa, Sirā, Snāyu, Asthi, Sandhi",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sharira.6.4",
+   "word_meanings": [
+    {
+     "sa": "तत्र",
+     "iast": "tatra",
+     "en": "among them",
+     "hi": "उनमें"
+    },
+    {
+     "sa": "एकादश",
+     "iast": "ekādaśa",
+     "en": "eleven",
+     "hi": "ग्यारह"
+    },
+    {
+     "sa": "मांसमर्माणि",
+     "iast": "māṃsamarmāṇi",
+     "en": "muscle marmas",
+     "hi": "मांस मर्म"
+    },
+    {
+     "sa": "एकचत्वारिंशत्",
+     "iast": "ekacatvāriṃśat",
+     "en": "forty-one",
+     "hi": "इकतालीस"
+    },
+    {
+     "sa": "सिरामर्माणि",
+     "iast": "sirāmarmāṇi",
+     "en": "vessel marmas",
+     "hi": "सिरा मर्म"
+    },
+    {
+     "sa": "सप्तविंशतिः",
+     "iast": "saptaviṃśatiḥ",
+     "en": "twenty-seven",
+     "hi": "सत्ताईस"
+    },
+    {
+     "sa": "स्नायुमर्माणि",
+     "iast": "snāyumarmāṇi",
+     "en": "ligament marmas",
+     "hi": "स्नायु मर्म"
+    },
+    {
+     "sa": "अष्टौ",
+     "iast": "aṣṭau",
+     "en": "eight",
+     "hi": "आठ"
+    },
+    {
+     "sa": "अस्थिमर्माणि",
+     "iast": "asthimarmāṇi",
+     "en": "bone marmas",
+     "hi": "अस्थि मर्म"
+    },
+    {
+     "sa": "विंशतिः",
+     "iast": "viṃśatiḥ",
+     "en": "twenty",
+     "hi": "बीस"
+    },
+    {
+     "sa": "सन्धिमर्माणि",
+     "iast": "sandhimarmāṇi",
+     "en": "joint marmas",
+     "hi": "सन्धि मर्म"
+    },
+    {
+     "sa": "तत् एतत्",
+     "iast": "tat etat",
+     "en": "this is that",
+     "hi": "यही है"
+    },
+    {
+     "sa": "सप्तोत्तरं मर्मशतम्",
+     "iast": "saptottaraṃ marmaśatam",
+     "en": "the hundred and seven marmas",
+     "hi": "एक सौ सात मर्म"
+    }
+   ],
+   "english": "Among them, eleven are muscle marmas, forty-one vessel marmas, twenty-seven ligament marmas, eight bone marmas and twenty joint marmas. This makes the hundred and seven marmas.",
+   "hindi": "इनमें मांस मर्म ग्यारह (11), सिरा मर्म इकतालीस (41), स्नायु मर्म सत्ताईस (27), अस्थि मर्म आठ (8) और सन्धि मर्म बीस (20) हैं। यही एक सौ सात मर्म हैं।",
+   "explanation_en": "This gives the numbers in the structural classification: 11 + 41 + 27 + 8 + 20 = 107. Note that Vāgbhaṭa (Aṣṭāṅgahṛdaya) adds a sixth group, dhamanī-marmas, and so his numbers differ; in Suśruta the vessel group is the largest. This count is one of the most frequently asked exam questions.",
+   "explanation_hi": "यह रचना-आधारित वर्गीकरण की संख्याएँ देता है: 11 + 41 + 27 + 8 + 20 = 107। ध्यान दें कि वाग्भट (अष्टाङ्गहृदय) एक छठा वर्ग 'धमनी मर्म' जोड़ते हैं, इसलिए उनकी संख्याएँ अलग हैं; सुश्रुत में सिरा मर्म सबसे अधिक हैं। यह संख्या परीक्षा में बहुत पूछी जाती है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "māṃsa marma",
+    "sirā marma",
+    "snāyu marma",
+    "asthi marma",
+    "sandhi marma"
+   ],
+   "tags": [
+    "marma",
+    "classification",
+    "numbers",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "11-41-27-8-20: 'Eleven Muscles, Forty-one Sirās, Twenty-seven Snāyus, Eight Bones, Twenty Joints'",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sharira.6.5",
+   "word_meanings": [
+    {
+     "sa": "तेषाम्",
+     "iast": "teṣām",
+     "en": "of them",
+     "hi": "उनमें से"
+    },
+    {
+     "sa": "एकादश",
+     "iast": "ekādaśa",
+     "en": "eleven",
+     "hi": "ग्यारह"
+    },
+    {
+     "sa": "एकस्मिन्",
+     "iast": "ekasmin",
+     "en": "in one",
+     "hi": "एक में"
+    },
+    {
+     "sa": "सक्थ्नि",
+     "iast": "sakthni",
+     "en": "lower limb",
+     "hi": "पैर (निचली शाखा) में"
+    },
+    {
+     "sa": "भवन्ति",
+     "iast": "bhavanti",
+     "en": "are",
+     "hi": "होते हैं"
+    },
+    {
+     "sa": "एतेन",
+     "iast": "etena",
+     "en": "by this",
+     "hi": "इससे"
+    },
+    {
+     "sa": "इतरसक्थि",
+     "iast": "itarasakthi",
+     "en": "the other lower limb",
+     "hi": "दूसरा पैर"
+    },
+    {
+     "sa": "बाहू",
+     "iast": "bāhū",
+     "en": "the two arms",
+     "hi": "दोनों भुजाएँ"
+    },
+    {
+     "sa": "व्याख्यातौ",
+     "iast": "vyākhyātau",
+     "en": "are explained",
+     "hi": "व्याख्यात हो गए"
+    },
+    {
+     "sa": "उदरोरसोः",
+     "iast": "udarorasoḥ",
+     "en": "in the abdomen and chest",
+     "hi": "उदर और छाती में"
+    },
+    {
+     "sa": "द्वादश",
+     "iast": "dvādaśa",
+     "en": "twelve",
+     "hi": "बारह"
+    },
+    {
+     "sa": "चतुर्दश",
+     "iast": "caturdaśa",
+     "en": "fourteen",
+     "hi": "चौदह"
+    },
+    {
+     "sa": "पृष्ठे",
+     "iast": "pṛṣṭhe",
+     "en": "in the back",
+     "hi": "पीठ में"
+    },
+    {
+     "sa": "ग्रीवां प्रति ऊर्ध्वम्",
+     "iast": "grīvāṃ prati ūrdhvam",
+     "en": "from the neck upwards",
+     "hi": "गर्दन से ऊपर"
+    },
+    {
+     "sa": "सप्तत्रिंशत्",
+     "iast": "saptatriṃśat",
+     "en": "thirty-seven",
+     "hi": "सैंतीस"
+    }
+   ],
+   "english": "Of these, eleven are in one lower limb; by this the other lower limb and the two arms are also explained. There are twelve in the abdomen and chest, fourteen in the back, and thirty-seven from the neck upwards.",
+   "hindi": "इनमें से ग्यारह मर्म एक पैर में होते हैं; इसी से दूसरे पैर और दोनों भुजाओं का भी वर्णन समझ लेना चाहिए। उदर और छाती में बारह, पीठ में चौदह, और गर्दन से ऊपर सैंतीस मर्म हैं।",
+   "explanation_en": "This is the regional (anatomical-location) distribution of marmas: 4 limbs × 11 = 44 (śākhā), abdomen and chest 12, back 14, above the clavicle 37; total 107. Remember the trunk (madhyaśarīra) has 12 + 14 = 26. Questions like 'How many marmas are in the ūrdhvajatru region?' (37) are common.",
+   "explanation_hi": "यह मर्मों का क्षेत्रीय (स्थान के अनुसार) विभाजन है: चार शाखाएँ × 11 = 44, उदर-उर 12, पीठ 14, जत्रु (हँसली) के ऊपर 37; कुल 107। मध्य शरीर में 12 + 14 = 26 मर्म हैं। 'ऊर्ध्वजत्रु में कितने मर्म?' (37) जैसे प्रश्न अक्सर पूछे जाते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "śākhā",
+    "udara",
+    "uras",
+    "pṛṣṭha",
+    "ūrdhvajatru"
+   ],
+   "tags": [
+    "marma",
+    "regional distribution",
+    "numbers",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "44-12-14-37: limbs 44, front trunk 12, back 14, head-neck 37",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sharira.6.6",
+   "word_meanings": [
+    {
+     "sa": "सक्थिमर्माणि",
+     "iast": "sakthimarmāṇi",
+     "en": "marmas of the lower limb",
+     "hi": "पैर के मर्म"
+    },
+    {
+     "sa": "क्षिप्र",
+     "iast": "kṣipra",
+     "en": "Kṣipra (between great and second toe)",
+     "hi": "क्षिप्र"
+    },
+    {
+     "sa": "तलहृदय",
+     "iast": "talahṛdaya",
+     "en": "Talahṛdaya (centre of sole/palm)",
+     "hi": "तलहृदय"
+    },
+    {
+     "sa": "कूर्च",
+     "iast": "kūrca",
+     "en": "Kūrca",
+     "hi": "कूर्च"
+    },
+    {
+     "sa": "कूर्चशिरः",
+     "iast": "kūrcaśiraḥ",
+     "en": "Kūrcaśiras",
+     "hi": "कूर्चशिर"
+    },
+    {
+     "sa": "गुल्फ",
+     "iast": "gulpha",
+     "en": "Gulpha (ankle)",
+     "hi": "गुल्फ (टखना)"
+    },
+    {
+     "sa": "इन्द्रबस्ति",
+     "iast": "indrabasti",
+     "en": "Indrabasti (mid-calf/forearm)",
+     "hi": "इन्द्रबस्ति"
+    },
+    {
+     "sa": "जानु",
+     "iast": "jānu",
+     "en": "Jānu (knee)",
+     "hi": "जानु (घुटना)"
+    },
+    {
+     "sa": "आणि",
+     "iast": "āṇi",
+     "en": "Āṇi (above knee/elbow)",
+     "hi": "आणि"
+    },
+    {
+     "sa": "ऊर्वी",
+     "iast": "ūrvī",
+     "en": "Ūrvī (mid-thigh/arm)",
+     "hi": "ऊर्वी"
+    },
+    {
+     "sa": "लोहिताक्ष",
+     "iast": "lohitākṣa",
+     "en": "Lohitākṣa (root of thigh/arm)",
+     "hi": "लोहिताक्ष"
+    },
+    {
+     "sa": "विटप",
+     "iast": "viṭapa",
+     "en": "Viṭapa (between groin and scrotum)",
+     "hi": "विटप"
+    },
+    {
+     "sa": "उदरोरसोः",
+     "iast": "udarorasoḥ",
+     "en": "of abdomen and chest",
+     "hi": "उदर और छाती के"
+    },
+    {
+     "sa": "गुद",
+     "iast": "guda",
+     "en": "Guda (anus/rectum)",
+     "hi": "गुद"
+    },
+    {
+     "sa": "बस्ति",
+     "iast": "basti",
+     "en": "Basti (urinary bladder)",
+     "hi": "बस्ति (मूत्राशय)"
+    },
+    {
+     "sa": "नाभि",
+     "iast": "nābhi",
+     "en": "Nābhi (umbilicus)",
+     "hi": "नाभि"
+    },
+    {
+     "sa": "हृदय",
+     "iast": "hṛdaya",
+     "en": "Hṛdaya (heart)",
+     "hi": "हृदय"
+    },
+    {
+     "sa": "स्तनमूल",
+     "iast": "stanamūla",
+     "en": "Stanamūla (below the breast)",
+     "hi": "स्तनमूल"
+    },
+    {
+     "sa": "स्तनरोहित",
+     "iast": "stanarohita",
+     "en": "Stanarohita (above the breast)",
+     "hi": "स्तनरोहित"
+    },
+    {
+     "sa": "अपलाप",
+     "iast": "apalāpa",
+     "en": "Apalāpa",
+     "hi": "अपलाप"
+    },
+    {
+     "sa": "अपस्तम्भौ",
+     "iast": "apastambhau",
+     "en": "the two Apastambhas",
+     "hi": "दो अपस्तम्भ"
+    },
+    {
+     "sa": "पृष्ठमर्माणि",
+     "iast": "pṛṣṭhamarmāṇi",
+     "en": "marmas of the back",
+     "hi": "पीठ के मर्म"
+    },
+    {
+     "sa": "कटीकतरुण",
+     "iast": "kaṭīkataruṇa",
+     "en": "Kaṭīkataruṇa",
+     "hi": "कटीकतरुण"
+    },
+    {
+     "sa": "कुकुन्दर",
+     "iast": "kukundara",
+     "en": "Kukundara",
+     "hi": "कुकुन्दर"
+    },
+    {
+     "sa": "नितम्ब",
+     "iast": "nitamba",
+     "en": "Nitamba",
+     "hi": "नितम्ब"
+    },
+    {
+     "sa": "पार्श्वसन्धि",
+     "iast": "pārśvasandhi",
+     "en": "Pārśvasandhi",
+     "hi": "पार्श्वसन्धि"
+    },
+    {
+     "sa": "बृहती",
+     "iast": "bṛhatī",
+     "en": "Bṛhatī",
+     "hi": "बृहती"
+    },
+    {
+     "sa": "अंसफलक",
+     "iast": "aṃsaphalaka",
+     "en": "Aṃsaphalaka (scapular region)",
+     "hi": "अंसफलक"
+    },
+    {
+     "sa": "अंसौ",
+     "iast": "aṃsau",
+     "en": "the two Aṃsas (shoulders)",
+     "hi": "दो अंस"
+    },
+    {
+     "sa": "बाहुमर्माणि",
+     "iast": "bāhumarmāṇi",
+     "en": "marmas of the arm",
+     "hi": "भुजा के मर्म"
+    },
+    {
+     "sa": "मणिबन्ध",
+     "iast": "maṇibandha",
+     "en": "Maṇibandha (wrist)",
+     "hi": "मणिबन्ध (कलाई)"
+    },
+    {
+     "sa": "कूर्पर",
+     "iast": "kūrpara",
+     "en": "Kūrpara (elbow)",
+     "hi": "कूर्पर (कोहनी)"
+    },
+    {
+     "sa": "कक्षधर",
+     "iast": "kakṣadhara",
+     "en": "Kakṣadhara",
+     "hi": "कक्षधर"
+    },
+    {
+     "sa": "जत्रुणः ऊर्ध्वम्",
+     "iast": "jatruṇaḥ ūrdhvam",
+     "en": "above the clavicle",
+     "hi": "जत्रु (हँसली) के ऊपर"
+    },
+    {
+     "sa": "चतस्रः धमन्यः",
+     "iast": "catasraḥ dhamanyaḥ",
+     "en": "four dhamanīs (2 Nīlā, 2 Manyā)",
+     "hi": "चार धमनियाँ (2 नीला, 2 मन्या)"
+    },
+    {
+     "sa": "अष्टौ मातृकाः",
+     "iast": "aṣṭau mātṛkāḥ",
+     "en": "eight Mātṛkās",
+     "hi": "आठ मातृका"
+    },
+    {
+     "sa": "द्वे कृकाटिके",
+     "iast": "dve kṛkāṭike",
+     "en": "two Kṛkāṭikās",
+     "hi": "दो कृकाटिका"
+    },
+    {
+     "sa": "द्वे विधुरे",
+     "iast": "dve vidhure",
+     "en": "two Vidhuras",
+     "hi": "दो विधुर"
+    },
+    {
+     "sa": "द्वे फणे",
+     "iast": "dve phaṇe",
+     "en": "two Phaṇas",
+     "hi": "दो फण"
+    },
+    {
+     "sa": "द्वौ अपाङ्गौ",
+     "iast": "dvau apāṅgau",
+     "en": "two Apāṅgas",
+     "hi": "दो अपाङ्ग"
+    },
+    {
+     "sa": "द्वौ आवर्तौ",
+     "iast": "dvau āvartau",
+     "en": "two Āvartas",
+     "hi": "दो आवर्त"
+    },
+    {
+     "sa": "द्वौ उत्क्षेपौ",
+     "iast": "dvau utkṣepau",
+     "en": "two Utkṣepas",
+     "hi": "दो उत्क्षेप"
+    },
+    {
+     "sa": "द्वौ शङ्खौ",
+     "iast": "dvau śaṅkhau",
+     "en": "two Śaṅkhas (temples)",
+     "hi": "दो शङ्ख"
+    },
+    {
+     "sa": "एका स्थपनी",
+     "iast": "ekā sthapanī",
+     "en": "one Sthapanī",
+     "hi": "एक स्थपनी"
+    },
+    {
+     "sa": "पञ्च सीमन्ताः",
+     "iast": "pañca sīmantāḥ",
+     "en": "five Sīmantas (skull sutures)",
+     "hi": "पाँच सीमन्त"
+    },
+    {
+     "sa": "चत्वारि शृङ्गाटकानि",
+     "iast": "catvāri śṛṅgāṭakāni",
+     "en": "four Śṛṅgāṭakas",
+     "hi": "चार शृङ्गाटक"
+    },
+    {
+     "sa": "एकः अधिपतिः",
+     "iast": "ekaḥ adhipatiḥ",
+     "en": "one Adhipati",
+     "hi": "एक अधिपति"
+    }
+   ],
+   "english": "The marmas of the lower limb are Kṣipra, Talahṛdaya, Kūrca, Kūrcaśiras, Gulpha, Indrabasti, Jānu, Āṇi, Ūrvī, Lohitākṣa and Viṭapa; by this the other lower limb is explained. Those of the abdomen and chest are Guda, Basti, Nābhi, Hṛdaya, Stanamūla, Stanarohita, Apalāpa and the two Apastambhas. The marmas of the back are Kaṭīkataruṇa, Kukundara, Nitamba, Pārśvasandhi, Bṛhatī, Aṃsaphalaka and the two Aṃsas. The marmas of the arm are Kṣipra, Talahṛdaya, Kūrca, Kūrcaśiras, Maṇibandha, Indrabasti, Kūrpara, Āṇi, Ūrvī, Lohitākṣa and Kakṣadhara; by this the other arm is explained. Above the clavicle there are four dhamanīs, eight Mātṛkās, two Kṛkāṭikās, two Vidhuras, two Phaṇas, two Apāṅgas, two Āvartas, two Utkṣepas, two Śaṅkhas, one Sthapanī, five Sīmantas, four Śṛṅgāṭakas and one Adhipati.",
+   "hindi": "पैर के मर्म हैं: क्षिप्र, तलहृदय, कूर्च, कूर्चशिर, गुल्फ, इन्द्रबस्ति, जानु, आणि, ऊर्वी, लोहिताक्ष और विटप; इसी से दूसरे पैर का वर्णन भी हो गया। उदर और छाती के मर्म हैं: गुद, बस्ति, नाभि, हृदय, स्तनमूल, स्तनरोहित, अपलाप और दोनों अपस्तम्भ। पीठ के मर्म हैं: कटीकतरुण, कुकुन्दर, नितम्ब, पार्श्वसन्धि, बृहती, अंसफलक और दोनों अंस। भुजा के मर्म हैं: क्षिप्र, तलहृदय, कूर्च, कूर्चशिर, मणिबन्ध, इन्द्रबस्ति, कूर्पर, आणि, ऊर्वी, लोहिताक्ष और कक्षधर; इसी से दूसरी भुजा का भी वर्णन हो गया। जत्रु (हँसली) के ऊपर चार धमनियाँ, आठ मातृका, दो कृकाटिका, दो विधुर, दो फण, दो अपाङ्ग, दो आवर्त, दो उत्क्षेप, दो शङ्ख, एक स्थपनी, पाँच सीमन्त, चार शृङ्गाटक और एक अधिपति हैं।",
+   "explanation_en": "This verse names every marma region by region. The leg and arm lists are identical except that the leg has Gulpha, Jānu and Viṭapa where the arm has Maṇibandha, Kūrpara and Kakṣadhara. The four dhamanīs above the clavicle are the two Nīlā and two Manyā (named in verse 27). Count check: trunk-front 1+1+1+1+2+2+2+2 = 12; back 7 pairs = 14; head-neck 4+8+2×7+1+5+4+1 = 37. Learn the leg list in order from toe to groin; it follows the limb upwards.",
+   "explanation_hi": "यह श्लोक हर क्षेत्र के सभी मर्मों के नाम देता है। पैर और भुजा की सूचियाँ एक-सी हैं; केवल पैर के गुल्फ, जानु और विटप के स्थान पर भुजा में मणिबन्ध, कूर्पर और कक्षधर हैं। जत्रु के ऊपर की चार धमनियाँ दो नीला और दो मन्या हैं (श्लोक 27)। गिनती: उदर-उर 1+1+1+1+2+2+2+2 = 12; पीठ 7 जोड़े = 14; सिर-गर्दन 4+8+2×7+1+5+4+1 = 37। पैर की सूची अंगूठे से जाँघ की जड़ तक क्रम से है, ऐसे ही याद करें।",
+   "modern_correlation": null,
+   "key_terms": [
+    "kṣipra",
+    "talahṛdaya",
+    "kūrca",
+    "gulpha",
+    "indrabasti",
+    "jānu",
+    "āṇi",
+    "ūrvī",
+    "lohitākṣa",
+    "viṭapa",
+    "hṛdaya",
+    "adhipati",
+    "śṛṅgāṭaka",
+    "sīmanta"
+   ],
+   "tags": [
+    "marma",
+    "names",
+    "regional distribution",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Leg, toe to groin: 'Kṣipra Tala Kūrca Kūrcaśira, Gulpha Indra Jānu Āṇi, Ūrvī Lohita Viṭapa' (arm: swap in Maṇibandha, Kūrpara, Kakṣadhara)",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sharira.6.7",
+   "word_meanings": [
+    {
+     "sa": "तल(हृदय)",
+     "iast": "tala(hṛdaya)",
+     "en": "Talahṛdaya",
+     "hi": "तलहृदय"
+    },
+    {
+     "sa": "इन्द्रबस्ति",
+     "iast": "indrabasti",
+     "en": "Indrabasti",
+     "hi": "इन्द्रबस्ति"
+    },
+    {
+     "sa": "गुद",
+     "iast": "guda",
+     "en": "Guda",
+     "hi": "गुद"
+    },
+    {
+     "sa": "स्तनरोहितानि",
+     "iast": "stanarohitāni",
+     "en": "and Stanarohita",
+     "hi": "और स्तनरोहित"
+    },
+    {
+     "sa": "मांसमर्माणि",
+     "iast": "māṃsamarmāṇi",
+     "en": "are muscle marmas",
+     "hi": "मांस मर्म हैं"
+    },
+    {
+     "sa": "नीला",
+     "iast": "nīlā",
+     "en": "Nīlā",
+     "hi": "नीला"
+    },
+    {
+     "sa": "धमनी (मन्या)",
+     "iast": "dhamanī (manyā)",
+     "en": "the dhamanī marmas (Manyā)",
+     "hi": "धमनी (मन्या)"
+    },
+    {
+     "sa": "मातृका",
+     "iast": "mātṛkā",
+     "en": "Mātṛkā",
+     "hi": "मातृका"
+    },
+    {
+     "sa": "शृङ्गाटक",
+     "iast": "śṛṅgāṭaka",
+     "en": "Śṛṅgāṭaka",
+     "hi": "शृङ्गाटक"
+    },
+    {
+     "sa": "अपाङ्ग",
+     "iast": "apāṅga",
+     "en": "Apāṅga",
+     "hi": "अपाङ्ग"
+    },
+    {
+     "sa": "स्थपनी",
+     "iast": "sthapanī",
+     "en": "Sthapanī",
+     "hi": "स्थपनी"
+    },
+    {
+     "sa": "फण",
+     "iast": "phaṇa",
+     "en": "Phaṇa",
+     "hi": "फण"
+    },
+    {
+     "sa": "स्तनमूल",
+     "iast": "stanamūla",
+     "en": "Stanamūla",
+     "hi": "स्तनमूल"
+    },
+    {
+     "sa": "अपलाप",
+     "iast": "apalāpa",
+     "en": "Apalāpa",
+     "hi": "अपलाप"
+    },
+    {
+     "sa": "अपस्तम्भ",
+     "iast": "apastambha",
+     "en": "Apastambha",
+     "hi": "अपस्तम्भ"
+    },
+    {
+     "sa": "हृदय",
+     "iast": "hṛdaya",
+     "en": "Hṛdaya",
+     "hi": "हृदय"
+    },
+    {
+     "sa": "नाभि",
+     "iast": "nābhi",
+     "en": "Nābhi",
+     "hi": "नाभि"
+    },
+    {
+     "sa": "पार्श्वसन्धि",
+     "iast": "pārśvasandhi",
+     "en": "Pārśvasandhi",
+     "hi": "पार्श्वसन्धि"
+    },
+    {
+     "sa": "बृहती",
+     "iast": "bṛhatī",
+     "en": "Bṛhatī",
+     "hi": "बृहती"
+    },
+    {
+     "sa": "लोहिताक्ष",
+     "iast": "lohitākṣa",
+     "en": "Lohitākṣa",
+     "hi": "लोहिताक्ष"
+    },
+    {
+     "sa": "ऊर्व्यः",
+     "iast": "ūrvyaḥ",
+     "en": "and the Ūrvīs",
+     "hi": "और ऊर्वी"
+    },
+    {
+     "sa": "सिरामर्माणि",
+     "iast": "sirāmarmāṇi",
+     "en": "are vessel marmas",
+     "hi": "सिरा मर्म हैं"
+    },
+    {
+     "sa": "आणी",
+     "iast": "āṇī",
+     "en": "Āṇi",
+     "hi": "आणि"
+    },
+    {
+     "sa": "विटप",
+     "iast": "viṭapa",
+     "en": "Viṭapa",
+     "hi": "विटप"
+    },
+    {
+     "sa": "कक्षधर",
+     "iast": "kakṣadhara",
+     "en": "Kakṣadhara",
+     "hi": "कक्षधर"
+    },
+    {
+     "sa": "कूर्च",
+     "iast": "kūrca",
+     "en": "Kūrca",
+     "hi": "कूर्च"
+    },
+    {
+     "sa": "कूर्चशिरः",
+     "iast": "kūrcaśiraḥ",
+     "en": "Kūrcaśiras",
+     "hi": "कूर्चशिर"
+    },
+    {
+     "sa": "बस्ति",
+     "iast": "basti",
+     "en": "Basti",
+     "hi": "बस्ति"
+    },
+    {
+     "sa": "क्षिप्र",
+     "iast": "kṣipra",
+     "en": "Kṣipra",
+     "hi": "क्षिप्र"
+    },
+    {
+     "sa": "अंस",
+     "iast": "aṃsa",
+     "en": "Aṃsa",
+     "hi": "अंस"
+    },
+    {
+     "sa": "विधुर",
+     "iast": "vidhura",
+     "en": "Vidhura",
+     "hi": "विधुर"
+    },
+    {
+     "sa": "उत्क्षेपाः",
+     "iast": "utkṣepāḥ",
+     "en": "and the Utkṣepas",
+     "hi": "और उत्क्षेप"
+    },
+    {
+     "sa": "स्नायुमर्माणि",
+     "iast": "snāyumarmāṇi",
+     "en": "are ligament marmas",
+     "hi": "स्नायु मर्म हैं"
+    },
+    {
+     "sa": "कटीकतरुण",
+     "iast": "kaṭīkataruṇa",
+     "en": "Kaṭīkataruṇa",
+     "hi": "कटीकतरुण"
+    },
+    {
+     "sa": "नितम्ब",
+     "iast": "nitamba",
+     "en": "Nitamba",
+     "hi": "नितम्ब"
+    },
+    {
+     "sa": "अंसफलक",
+     "iast": "aṃsaphalaka",
+     "en": "Aṃsaphalaka",
+     "hi": "अंसफलक"
+    },
+    {
+     "sa": "शङ्खाः",
+     "iast": "śaṅkhāḥ",
+     "en": "and the Śaṅkhas",
+     "hi": "और शङ्ख"
+    },
+    {
+     "sa": "अस्थिमर्माणि",
+     "iast": "asthimarmāṇi",
+     "en": "are bone marmas",
+     "hi": "अस्थि मर्म हैं"
+    },
+    {
+     "sa": "जानु",
+     "iast": "jānu",
+     "en": "Jānu",
+     "hi": "जानु"
+    },
+    {
+     "sa": "कूर्पर",
+     "iast": "kūrpara",
+     "en": "Kūrpara",
+     "hi": "कूर्पर"
+    },
+    {
+     "sa": "सीमन्त",
+     "iast": "sīmanta",
+     "en": "Sīmanta",
+     "hi": "सीमन्त"
+    },
+    {
+     "sa": "अधिपति",
+     "iast": "adhipati",
+     "en": "Adhipati",
+     "hi": "अधिपति"
+    },
+    {
+     "sa": "गुल्फ",
+     "iast": "gulpha",
+     "en": "Gulpha",
+     "hi": "गुल्फ"
+    },
+    {
+     "sa": "मणिबन्ध",
+     "iast": "maṇibandha",
+     "en": "Maṇibandha",
+     "hi": "मणिबन्ध"
+    },
+    {
+     "sa": "कुकुन्दर",
+     "iast": "kukundara",
+     "en": "Kukundara",
+     "hi": "कुकुन्दर"
+    },
+    {
+     "sa": "आवर्त",
+     "iast": "āvarta",
+     "en": "Āvarta",
+     "hi": "आवर्त"
+    },
+    {
+     "sa": "कृकाटिकाः",
+     "iast": "kṛkāṭikāḥ",
+     "en": "and the Kṛkāṭikās",
+     "hi": "और कृकाटिका"
+    },
+    {
+     "sa": "सन्धिमर्माणि",
+     "iast": "sandhimarmāṇi",
+     "en": "are joint marmas",
+     "hi": "सन्धि मर्म हैं"
+    }
+   ],
+   "english": "Of these, Talahṛdaya, Indrabasti, Guda and Stanarohita are muscle marmas. Nīlā, the dhamanīs (Manyā), Mātṛkā, Śṛṅgāṭaka, Apāṅga, Sthapanī, Phaṇa, Stanamūla, Apalāpa, Apastambha, Hṛdaya, Nābhi, Pārśvasandhi, Bṛhatī, Lohitākṣa and Ūrvī are vessel marmas. Āṇi, Viṭapa, Kakṣadhara, Kūrca, Kūrcaśiras, Basti, Kṣipra, Aṃsa, Vidhura and Utkṣepa are ligament marmas. Kaṭīkataruṇa, Nitamba, Aṃsaphalaka and Śaṅkha are bone marmas. Jānu, Kūrpara, Sīmanta, Adhipati, Gulpha, Maṇibandha, Kukundara, Āvarta and Kṛkāṭikā are joint marmas.",
+   "hindi": "इनमें तलहृदय, इन्द्रबस्ति, गुद और स्तनरोहित मांस मर्म हैं। नीला, धमनी (मन्या), मातृका, शृङ्गाटक, अपाङ्ग, स्थपनी, फण, स्तनमूल, अपलाप, अपस्तम्भ, हृदय, नाभि, पार्श्वसन्धि, बृहती, लोहिताक्ष और ऊर्वी सिरा मर्म हैं। आणि, विटप, कक्षधर, कूर्च, कूर्चशिर, बस्ति, क्षिप्र, अंस, विधुर और उत्क्षेप स्नायु मर्म हैं। कटीकतरुण, नितम्ब, अंसफलक और शङ्ख अस्थि मर्म हैं। जानु, कूर्पर, सीमन्त, अधिपति, गुल्फ, मणिबन्ध, कुकुन्दर, आवर्त और कृकाटिका सन्धि मर्म हैं।",
+   "explanation_en": "This verse assigns each named marma to its structural group. Count check: māṃsa 4+4+1+2 = 11; sirā 2+2+8+4+2+1+2+2+2+2+1+1+2+2+4+4 = 41; snāyu 4+2+2+4+4+1+4+2+2+2 = 27; asthi 2+2+2+2 = 8; sandhi 2+2+5+1+2+2+2+2+2 = 20. Some surprises worth remembering: Hṛdaya and Nābhi are sirā-marmas, Basti is a snāyu-marma, and Adhipati and Sīmanta are sandhi-marmas.",
+   "explanation_hi": "यह श्लोक हर मर्म को उसके रचना-वर्ग में रखता है। गिनती: मांस 4+4+1+2 = 11; सिरा 2+2+8+4+2+1+2+2+2+2+1+1+2+2+4+4 = 41; स्नायु 4+2+2+4+4+1+4+2+2+2 = 27; अस्थि 2+2+2+2 = 8; सन्धि 2+2+5+1+2+2+2+2+2 = 20। याद रखने योग्य बातें: हृदय और नाभि सिरा मर्म हैं, बस्ति स्नायु मर्म है, और अधिपति तथा सीमन्त सन्धि मर्म हैं।",
+   "modern_correlation": {
+    "en": "Several 'sirā-marmas' lie over major vessels in modern terms, e.g. Mātṛkā and Nīlā/Manyā in the neck near the carotid arteries and jugular veins, Lohitākṣa near the femoral or axillary vessels, Ūrvī over the mid-thigh/arm vessels. 'Bone' and 'joint' marmas correspond to sites such as the temporal region (Śaṅkha) and skull sutures (Sīmanta). These are approximate correlations and opinions differ among authors.",
+    "hi": "कई 'सिरा मर्म' आधुनिक दृष्टि से बड़ी रक्तवाहिनियों के ऊपर हैं, जैसे गर्दन में मातृका और नीला/मन्या (कैरोटिड धमनी और जुगुलर शिरा के पास), लोहिताक्ष (फीमोरल या एक्सिलरी वाहिकाओं के पास), ऊर्वी (जाँघ/बाँह के मध्य की वाहिकाएँ)। अस्थि और सन्धि मर्म जैसे शङ्ख (टेम्पोरल क्षेत्र) और सीमन्त (खोपड़ी के सूचर) से तुलना किए जाते हैं। ये अनुमानित तुलनाएँ हैं और विद्वानों में मतभेद है।"
+   },
+   "key_terms": [
+    "māṃsa marma",
+    "sirā marma",
+    "snāyu marma",
+    "asthi marma",
+    "sandhi marma"
+   ],
+   "tags": [
+    "marma",
+    "classification",
+    "structure",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Māṃsa = 'TIGS': Tala, Indrabasti, Guda, Stanarohita; Asthi = 'KNAŚ': Kaṭīkataruṇa, Nitamba, Aṃsaphalaka, Śaṅkha",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sharira.6.8",
+   "word_meanings": [
+    {
+     "sa": "तानि एतानि",
+     "iast": "tāni etāni",
+     "en": "these same",
+     "hi": "ये ही"
+    },
+    {
+     "sa": "पञ्चविकल्पानि",
+     "iast": "pañcavikalpāni",
+     "en": "of five varieties (by effect)",
+     "hi": "पाँच प्रकार के"
+    },
+    {
+     "sa": "सद्यःप्राणहराणि",
+     "iast": "sadyaḥprāṇaharāṇi",
+     "en": "those that take life at once",
+     "hi": "तुरन्त प्राण हरने वाले"
+    },
+    {
+     "sa": "कालान्तरप्राणहराणि",
+     "iast": "kālāntaraprāṇaharāṇi",
+     "en": "those that take life after an interval",
+     "hi": "कुछ समय बाद प्राण हरने वाले"
+    },
+    {
+     "sa": "विशल्यघ्नानि",
+     "iast": "viśalyaghnāni",
+     "en": "those that kill on removal of the foreign body",
+     "hi": "शल्य निकालने पर मारने वाले"
+    },
+    {
+     "sa": "वैकल्यकराणि",
+     "iast": "vaikalyakarāṇi",
+     "en": "those that cause deformity/disability",
+     "hi": "विकलता (अपंगता) करने वाले"
+    },
+    {
+     "sa": "रुजाकराणि",
+     "iast": "rujākarāṇi",
+     "en": "those that cause pain",
+     "hi": "पीड़ा करने वाले"
+    },
+    {
+     "sa": "एकोनविंशतिः",
+     "iast": "ekonaviṃśatiḥ",
+     "en": "nineteen",
+     "hi": "उन्नीस"
+    },
+    {
+     "sa": "त्रयस्त्रिंशत्",
+     "iast": "trayastriṃśat",
+     "en": "thirty-three",
+     "hi": "तैंतीस"
+    },
+    {
+     "sa": "त्रीणि",
+     "iast": "trīṇi",
+     "en": "three",
+     "hi": "तीन"
+    },
+    {
+     "sa": "चतुश्चत्वारिंशत्",
+     "iast": "catuścatvāriṃśat",
+     "en": "forty-four",
+     "hi": "चवालीस"
+    },
+    {
+     "sa": "अष्टौ",
+     "iast": "aṣṭau",
+     "en": "eight",
+     "hi": "आठ"
+    }
+   ],
+   "english": "These same marmas are of five varieties: sadyaḥprāṇahara (fatal at once), kālāntaraprāṇahara (fatal after an interval), viśalyaghna (fatal on removal of the foreign body), vaikalyakara (causing disability) and rujākara (causing pain). Of these, the immediately fatal are nineteen, the fatal-after-time thirty-three, the viśalyaghna three, the disabling forty-four, and the painful eight.",
+   "hindi": "ये मर्म (परिणाम के आधार पर) पाँच प्रकार के हैं: सद्यःप्राणहर (तुरन्त मारने वाले), कालान्तरप्राणहर (कुछ समय बाद मारने वाले), विशल्यघ्न (शल्य निकालते ही मारने वाले), वैकल्यकर (अपंगता करने वाले) और रुजाकर (पीड़ा करने वाले)। इनमें सद्यःप्राणहर उन्नीस (19), कालान्तरप्राणहर तैंतीस (33), विशल्यघ्न तीन (3), वैकल्यकर चवालीस (44) और रुजाकर आठ (8) हैं।",
+   "explanation_en": "This is the second and most important classification, by the result of injury (pariṇāma-bheda), which is really a classification by prognosis. 19 + 33 + 3 + 44 + 8 = 107. Note the order runs from most to least dangerous. This list with its numbers is asked in almost every Rachana Sharira paper.",
+   "explanation_hi": "यह दूसरा और सबसे महत्त्वपूर्ण वर्गीकरण है, चोट के परिणाम (परिणाम-भेद) के अनुसार, जो वास्तव में साध्यासाध्यता (प्रोग्नोसिस) का वर्गीकरण है। 19 + 33 + 3 + 44 + 8 = 107। क्रम सबसे खतरनाक से सबसे कम खतरनाक तक है। यह सूची और संख्याएँ लगभग हर रचना शारीर प्रश्नपत्र में पूछी जाती हैं।",
+   "modern_correlation": {
+    "en": "Grading injuries by outcome resembles modern trauma triage and injury-severity scoring, which separate immediately life-threatening injuries (e.g. to heart, great vessels, brainstem) from those with delayed mortality (e.g. slow haemorrhage, sepsis) and from those causing disability or pain. The parallel is conceptual, not a one-to-one match.",
+    "hi": "परिणाम के आधार पर चोटों का श्रेणीकरण आधुनिक ट्रॉमा ट्राइएज और इंजरी-सीवेरिटी स्कोरिंग से मिलता-जुलता है, जो तुरन्त जानलेवा चोटों (जैसे हृदय, बड़ी वाहिकाएँ, ब्रेनस्टेम) को देर से मृत्यु वाली चोटों (जैसे धीमा रक्तस्राव, संक्रमण) तथा अपंगता या पीड़ा देने वाली चोटों से अलग करते हैं। यह समानता वैचारिक है, एक-एक का मिलान नहीं।"
+   },
+   "key_terms": [
+    "sadyaḥprāṇahara",
+    "kālāntaraprāṇahara",
+    "viśalyaghna",
+    "vaikalyakara",
+    "rujākara"
+   ],
+   "tags": [
+    "marma",
+    "classification",
+    "prognosis",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "19-33-3-44-8: 'Sadyo Kāla Viśalya Vaikalya Rujā' (S-K-V-V-R)",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sharira.6.9",
+   "word_meanings": [
+    {
+     "sa": "भवन्ति च अत्र",
+     "iast": "bhavanti ca atra",
+     "en": "and here there are (verses)",
+     "hi": "यहाँ (श्लोक) हैं"
+    },
+    {
+     "sa": "शृङ्गाटकानि",
+     "iast": "śṛṅgāṭakāni",
+     "en": "the Śṛṅgāṭakas",
+     "hi": "शृङ्गाटक"
+    },
+    {
+     "sa": "अधिपतिः",
+     "iast": "adhipatiḥ",
+     "en": "Adhipati",
+     "hi": "अधिपति"
+    },
+    {
+     "sa": "शङ्खौ",
+     "iast": "śaṅkhau",
+     "en": "the two Śaṅkhas",
+     "hi": "दोनों शङ्ख"
+    },
+    {
+     "sa": "कण्ठसिराः",
+     "iast": "kaṇṭhasirāḥ",
+     "en": "the neck vessels (Mātṛkās)",
+     "hi": "कण्ठ की सिराएँ (मातृका)"
+    },
+    {
+     "sa": "गुदम्",
+     "iast": "gudam",
+     "en": "Guda",
+     "hi": "गुद"
+    },
+    {
+     "sa": "हृदयम्",
+     "iast": "hṛdayam",
+     "en": "Hṛdaya",
+     "hi": "हृदय"
+    },
+    {
+     "sa": "बस्तिनाभी",
+     "iast": "bastinābhī",
+     "en": "Basti and Nābhi",
+     "hi": "बस्ति और नाभि"
+    },
+    {
+     "sa": "घ्नन्ति",
+     "iast": "ghnanti",
+     "en": "kill",
+     "hi": "मारते हैं"
+    },
+    {
+     "sa": "सद्यः",
+     "iast": "sadyaḥ",
+     "en": "immediately",
+     "hi": "तुरन्त"
+    },
+    {
+     "sa": "हतानि",
+     "iast": "hatāni",
+     "en": "when injured",
+     "hi": "चोट लगने पर"
+    }
+   ],
+   "english": "Here are the verses: the Śṛṅgāṭakas, Adhipati, the two Śaṅkhas, the neck vessels, Guda, Hṛdaya, Basti and Nābhi kill immediately when injured.",
+   "hindi": "यहाँ श्लोक हैं: शृङ्गाटक, अधिपति, दोनों शङ्ख, कण्ठ की सिराएँ (मातृका), गुद, हृदय, बस्ति और नाभि, चोट लगने पर तुरन्त मार देते हैं।",
+   "explanation_en": "These are the 19 sadyaḥprāṇahara marmas: Śṛṅgāṭaka 4 + Adhipati 1 + Śaṅkha 2 + Mātṛkā (kaṇṭhasirā) 8 + Guda 1 + Hṛdaya 1 + Basti 1 + Nābhi 1 = 19. Notice that the trunk contributes the 'trimarma' of Caraka (hṛdaya, basti, and the head through Adhipati/Śṛṅgāṭaka) plus guda and nābhi. Memorise the 4-1-2-8-1-1-1-1 pattern.",
+   "explanation_hi": "ये 19 सद्यःप्राणहर मर्म हैं: शृङ्गाटक 4 + अधिपति 1 + शङ्ख 2 + मातृका (कण्ठसिरा) 8 + गुद 1 + हृदय 1 + बस्ति 1 + नाभि 1 = 19। ध्यान दें कि इनमें चरक के त्रिमर्म (हृदय, बस्ति, शिर) से जुड़े मर्म भी हैं, साथ में गुद और नाभि। 4-1-2-8-1-1-1-1 का क्रम याद करें।",
+   "modern_correlation": {
+    "en": "These sites are often compared to regions where injury can be rapidly fatal: the heart, major neck vessels (carotid/jugular), the temple (thin skull over the middle meningeal artery), the vertex and skull base regions (brain and brainstem), and the pelvis/abdomen (bladder, rectum and large vessels near the umbilicus) through haemorrhage, shock or peritonitis. These are interpretive correlations.",
+    "hi": "इन स्थानों की तुलना उन क्षेत्रों से की जाती है जहाँ चोट शीघ्र घातक हो सकती है: हृदय, गर्दन की बड़ी वाहिकाएँ (कैरोटिड/जुगुलर), कनपटी (पतली हड्डी के नीचे मिडिल मेनिन्जियल धमनी), शीर्ष और खोपड़ी का आधार (मस्तिष्क और ब्रेनस्टेम), तथा श्रोणि/उदर (मूत्राशय, मलाशय, नाभि के पास बड़ी वाहिकाएँ), जहाँ रक्तस्राव, शॉक या पेरिटोनाइटिस हो सकता है। ये व्याख्यात्मक तुलनाएँ हैं।"
+   },
+   "key_terms": [
+    "sadyaḥprāṇahara",
+    "śṛṅgāṭaka",
+    "adhipati",
+    "śaṅkha",
+    "mātṛkā",
+    "hṛdaya",
+    "basti",
+    "nābhi",
+    "guda"
+   ],
+   "tags": [
+    "marma",
+    "prognosis",
+    "sadyaḥprāṇahara",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "'Śṛṅga-Adhi-Śaṅkha-Kaṇṭha, Guda-Hṛd-Basti-Nābhi' = 19",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sharira.6.10",
+   "word_meanings": [
+    {
+     "sa": "वक्षोमर्माणि",
+     "iast": "vakṣomarmāṇi",
+     "en": "the chest marmas",
+     "hi": "वक्ष (छाती) के मर्म"
+    },
+    {
+     "sa": "सीमन्त",
+     "iast": "sīmanta",
+     "en": "Sīmantas",
+     "hi": "सीमन्त"
+    },
+    {
+     "sa": "तल",
+     "iast": "tala",
+     "en": "Talahṛdayas",
+     "hi": "तलहृदय"
+    },
+    {
+     "sa": "क्षिप्र",
+     "iast": "kṣipra",
+     "en": "Kṣipras",
+     "hi": "क्षिप्र"
+    },
+    {
+     "sa": "इन्द्रबस्तयः",
+     "iast": "indrabastayaḥ",
+     "en": "and Indrabastis",
+     "hi": "और इन्द्रबस्ति"
+    },
+    {
+     "sa": "कटीकतरुणे",
+     "iast": "kaṭīkataruṇe",
+     "en": "the two Kaṭīkataruṇas",
+     "hi": "दोनों कटीकतरुण"
+    },
+    {
+     "sa": "सन्धी पार्श्वजौ",
+     "iast": "sandhī pārśvajau",
+     "en": "the two side joints (Pārśvasandhis)",
+     "hi": "दोनों पार्श्वसन्धि"
+    },
+    {
+     "sa": "बृहती च या",
+     "iast": "bṛhatī ca yā",
+     "en": "and the Bṛhatīs",
+     "hi": "और बृहती"
+    }
+   ],
+   "english": "The chest marmas, the Sīmantas, Talahṛdayas, Kṣipras and Indrabastis, the two Kaṭīkataruṇas, the two Pārśvasandhis and the Bṛhatīs,",
+   "hindi": "वक्ष (छाती) के मर्म, सीमन्त, तलहृदय, क्षिप्र और इन्द्रबस्ति, दोनों कटीकतरुण, दोनों पार्श्वसन्धि और बृहती,",
+   "explanation_en": "This verse begins the list of the 33 kālāntaraprāṇahara marmas, completed in the next verse. 'Chest marmas' here means the eight in the chest: Stanamūla 2, Stanarohita 2, Apalāpa 2 and Apastambha 2. Together: chest 8 + Sīmanta 5 + Talahṛdaya 4 + Kṣipra 4 + Indrabasti 4 + Kaṭīkataruṇa 2 + Pārśvasandhi 2 + Bṛhatī 2 + Nitamba 2 = 33.",
+   "explanation_hi": "यह श्लोक 33 कालान्तरप्राणहर मर्मों की सूची शुरू करता है, जो अगले श्लोक में पूरी होती है। यहाँ 'वक्षोमर्म' का अर्थ छाती के आठ मर्म हैं: स्तनमूल 2, स्तनरोहित 2, अपलाप 2, अपस्तम्भ 2। कुल: वक्ष 8 + सीमन्त 5 + तलहृदय 4 + क्षिप्र 4 + इन्द्रबस्ति 4 + कटीकतरुण 2 + पार्श्वसन्धि 2 + बृहती 2 + नितम्ब 2 = 33।",
+   "modern_correlation": null,
+   "key_terms": [
+    "kālāntaraprāṇahara",
+    "vakṣomarma",
+    "sīmanta",
+    "talahṛdaya",
+    "kṣipra",
+    "indrabasti"
+   ],
+   "tags": [
+    "marma",
+    "prognosis",
+    "kālāntaraprāṇahara",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "33 = Chest 8 + Sīmanta 5 + (Tala, Kṣipra, Indrabasti) 4 each + 4 back pairs",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sharira.6.11",
+   "word_meanings": [
+    {
+     "sa": "नितम्बौ",
+     "iast": "nitambau",
+     "en": "the two Nitambas",
+     "hi": "दोनों नितम्ब"
+    },
+    {
+     "sa": "इति च एतानि",
+     "iast": "iti ca etāni",
+     "en": "and these",
+     "hi": "और ये"
+    },
+    {
+     "sa": "कालान्तरहराणि",
+     "iast": "kālāntaraharāṇi",
+     "en": "kill after an interval",
+     "hi": "कुछ समय बाद मारने वाले"
+    },
+    {
+     "sa": "उत्क्षेपौ",
+     "iast": "utkṣepau",
+     "en": "the two Utkṣepas",
+     "hi": "दोनों उत्क्षेप"
+    },
+    {
+     "sa": "स्थपनी",
+     "iast": "sthapanī",
+     "en": "Sthapanī",
+     "hi": "स्थपनी"
+    },
+    {
+     "sa": "विशल्यघ्नानि",
+     "iast": "viśalyaghnāni",
+     "en": "fatal on removal of the foreign body",
+     "hi": "शल्य निकालने पर मारने वाले"
+    },
+    {
+     "sa": "निर्दिशेत्",
+     "iast": "nirdiśet",
+     "en": "one should declare",
+     "hi": "बताना चाहिए"
+    }
+   ],
+   "english": "and the two Nitambas: these kill after an interval. The two Utkṣepas and the Sthapanī should be declared viśalyaghna (fatal when the foreign body is removed).",
+   "hindi": "और दोनों नितम्ब: ये कालान्तरप्राणहर हैं। दोनों उत्क्षेप और स्थपनी को विशल्यघ्न (शल्य निकालने पर मारने वाले) बताना चाहिए।",
+   "explanation_en": "This completes the 33 kālāntaraprāṇahara marmas with the Nitambas and gives the three viśalyaghna marmas: Utkṣepa 2 + Sthapanī 1 = 3. All three viśalyaghna marmas are on the head (above the temple and between the eyebrows). The reason they kill when the object is pulled out is given in verse 16.",
+   "explanation_hi": "यह नितम्ब के साथ 33 कालान्तरप्राणहर मर्म पूरे करता है और तीन विशल्यघ्न मर्म बताता है: उत्क्षेप 2 + स्थपनी 1 = 3। तीनों विशल्यघ्न मर्म सिर पर हैं (कनपटी के ऊपर और भौंहों के बीच)। शल्य निकालने पर मृत्यु क्यों होती है, यह श्लोक 16 में बताया गया है।",
+   "modern_correlation": {
+    "en": "The rule of leaving an impaled object in place until definitive care is still taught in modern first aid and trauma care, because the object may be tamponading (plugging) a bleeding vessel or a wound; Suśruta's viśalyaghna category is often compared to this principle.",
+    "hi": "आधुनिक प्राथमिक चिकित्सा और ट्रॉमा केयर में भी सिखाया जाता है कि शरीर में धँसी वस्तु को निश्चित उपचार तक न निकालें, क्योंकि वह रक्तस्रावी वाहिका या घाव को दबाकर बन्द (टैम्पोनेड) रख सकती है; सुश्रुत के विशल्यघ्न वर्ग की तुलना इसी सिद्धान्त से की जाती है।"
+   },
+   "key_terms": [
+    "kālāntaraprāṇahara",
+    "nitamba",
+    "viśalyaghna",
+    "utkṣepa",
+    "sthapanī"
+   ],
+   "tags": [
+    "marma",
+    "prognosis",
+    "viśalyaghna",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Viśalyaghna = 3 'U-U-S': Utkṣepa, Utkṣepa, Sthapanī",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sharira.6.12",
+   "word_meanings": [
+    {
+     "sa": "लोहिताक्ष",
+     "iast": "lohitākṣa",
+     "en": "Lohitākṣas",
+     "hi": "लोहिताक्ष"
+    },
+    {
+     "sa": "आणि",
+     "iast": "āṇi",
+     "en": "Āṇis",
+     "hi": "आणि"
+    },
+    {
+     "sa": "जानु",
+     "iast": "jānu",
+     "en": "Jānus",
+     "hi": "जानु"
+    },
+    {
+     "sa": "ऊर्वी",
+     "iast": "ūrvī",
+     "en": "Ūrvīs",
+     "hi": "ऊर्वी"
+    },
+    {
+     "sa": "कूर्च",
+     "iast": "kūrca",
+     "en": "Kūrcas",
+     "hi": "कूर्च"
+    },
+    {
+     "sa": "विटप",
+     "iast": "viṭapa",
+     "en": "Viṭapas",
+     "hi": "विटप"
+    },
+    {
+     "sa": "कूर्पराः",
+     "iast": "kūrparāḥ",
+     "en": "and Kūrparas",
+     "hi": "और कूर्पर"
+    },
+    {
+     "sa": "कुकुन्दरे",
+     "iast": "kukundare",
+     "en": "the two Kukundaras",
+     "hi": "दोनों कुकुन्दर"
+    },
+    {
+     "sa": "कक्षधरे",
+     "iast": "kakṣadhare",
+     "en": "the two Kakṣadharas",
+     "hi": "दोनों कक्षधर"
+    },
+    {
+     "sa": "विधुरे",
+     "iast": "vidhure",
+     "en": "the two Vidhuras",
+     "hi": "दोनों विधुर"
+    },
+    {
+     "sa": "सकृकाटिके",
+     "iast": "sakṛkāṭike",
+     "en": "together with the two Kṛkāṭikās",
+     "hi": "दोनों कृकाटिका सहित"
+    }
+   ],
+   "english": "The Lohitākṣas, Āṇis, Jānus, Ūrvīs, Kūrcas, Viṭapas and Kūrparas, the two Kukundaras, the two Kakṣadharas, the two Vidhuras together with the two Kṛkāṭikās,",
+   "hindi": "लोहिताक्ष, आणि, जानु, ऊर्वी, कूर्च, विटप और कूर्पर, दोनों कुकुन्दर, दोनों कक्षधर, दोनों विधुर और दोनों कृकाटिका,",
+   "explanation_en": "This verse begins the list of the 44 vaikalyakara (disabling) marmas. 'Lohitākṣāṇi' is a compound of Lohitākṣa and Āṇi. Counting so far: Lohitākṣa 4, Āṇi 4, Jānu 2, Ūrvī 4, Kūrca 4, Viṭapa 2, Kūrpara 2, Kukundara 2, Kakṣadhara 2, Vidhura 2, Kṛkāṭikā 2 = 30; the remaining 14 follow in the next verse.",
+   "explanation_hi": "यह श्लोक 44 वैकल्यकर (अपंगता करने वाले) मर्मों की सूची शुरू करता है। 'लोहिताक्षाणि' में लोहिताक्ष और आणि दोनों हैं। अब तक गिनती: लोहिताक्ष 4, आणि 4, जानु 2, ऊर्वी 4, कूर्च 4, विटप 2, कूर्पर 2, कुकुन्दर 2, कक्षधर 2, विधुर 2, कृकाटिका 2 = 30; शेष 14 अगले श्लोक में।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vaikalyakara",
+    "lohitākṣa",
+    "āṇi",
+    "jānu",
+    "ūrvī",
+    "viṭapa",
+    "kakṣadhara"
+   ],
+   "tags": [
+    "marma",
+    "prognosis",
+    "vaikalyakara",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sharira.6.13",
+   "word_meanings": [
+    {
+     "sa": "अंस",
+     "iast": "aṃsa",
+     "en": "Aṃsas",
+     "hi": "अंस"
+    },
+    {
+     "sa": "अंसफलक",
+     "iast": "aṃsaphalaka",
+     "en": "Aṃsaphalakas",
+     "hi": "अंसफलक"
+    },
+    {
+     "sa": "अपाङ्गाः",
+     "iast": "apāṅgāḥ",
+     "en": "and Apāṅgas",
+     "hi": "और अपाङ्ग"
+    },
+    {
+     "sa": "नीले",
+     "iast": "nīle",
+     "en": "the two Nīlās",
+     "hi": "दोनों नीला"
+    },
+    {
+     "sa": "मन्ये",
+     "iast": "manye",
+     "en": "the two Manyās",
+     "hi": "दोनों मन्या"
+    },
+    {
+     "sa": "फणौ",
+     "iast": "phaṇau",
+     "en": "the two Phaṇas",
+     "hi": "दोनों फण"
+    },
+    {
+     "sa": "तथा",
+     "iast": "tathā",
+     "en": "likewise",
+     "hi": "तथा"
+    },
+    {
+     "sa": "वैकल्यकरणानि",
+     "iast": "vaikalyakaraṇāni",
+     "en": "causing disability",
+     "hi": "विकलता करने वाले"
+    },
+    {
+     "sa": "आहुः",
+     "iast": "āhuḥ",
+     "en": "they call",
+     "hi": "कहते हैं"
+    },
+    {
+     "sa": "आवर्तौ द्वौ",
+     "iast": "āvartau dvau",
+     "en": "the two Āvartas",
+     "hi": "दोनों आवर्त"
+    }
+   ],
+   "english": "the Aṃsas, Aṃsaphalakas and Apāṅgas, the two Nīlās, the two Manyās and the two Phaṇas, and likewise the two Āvartas: these are called vaikalyakara (causing disability).",
+   "hindi": "अंस, अंसफलक और अपाङ्ग, दोनों नीला, दोनों मन्या, दोनों फण, और इसी प्रकार दोनों आवर्त: इन्हें वैकल्यकर (अपंगता करने वाले) कहते हैं।",
+   "explanation_en": "This completes the 44 vaikalyakara marmas: the 30 of the previous verse + Aṃsa 2 + Aṃsaphalaka 2 + Apāṅga 2 + Nīlā 2 + Manyā 2 + Phaṇa 2 + Āvarta 2 = 44. Most limb joints and the sense-organ marmas of the face are in this group, which fits their typical result: loss of function rather than death.",
+   "explanation_hi": "यह 44 वैकल्यकर मर्म पूरे करता है: पिछले श्लोक के 30 + अंस 2 + अंसफलक 2 + अपाङ्ग 2 + नीला 2 + मन्या 2 + फण 2 + आवर्त 2 = 44। शाखाओं के अधिकतर जोड़ और चेहरे के इन्द्रिय-सम्बन्धी मर्म इसी वर्ग में हैं, क्योंकि इनकी चोट से सामान्यतः मृत्यु नहीं बल्कि कार्य-हानि होती है।",
+   "modern_correlation": {
+    "en": "Injuries at these sites are often compared to those that cause lasting functional loss: joint and ligament damage (knee, elbow, shoulder), injury to the femoral/axillary neurovascular bundles, and injury near the eye or nose affecting vision or smell. The correlation is interpretive.",
+    "hi": "इन स्थानों की चोटों की तुलना उन चोटों से की जाती है जो स्थायी कार्य-हानि करती हैं: जोड़ और लिगामेंट की क्षति (घुटना, कोहनी, कन्धा), फीमोरल/एक्सिलरी न्यूरोवैस्कुलर बंडल की चोट, और आँख या नाक के पास की चोट जिससे दृष्टि या गन्ध प्रभावित हो। यह व्याख्यात्मक तुलना है।"
+   },
+   "key_terms": [
+    "vaikalyakara",
+    "aṃsa",
+    "aṃsaphalaka",
+    "apāṅga",
+    "nīlā",
+    "manyā",
+    "phaṇa",
+    "āvarta"
+   ],
+   "tags": [
+    "marma",
+    "prognosis",
+    "vaikalyakara",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Vaikalyakara = 44, the largest group, same number as the limb marmas (44), but not the same list",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sharira.6.14",
+   "word_meanings": [
+    {
+     "sa": "गुल्फौ द्वौ",
+     "iast": "gulphau dvau",
+     "en": "the two Gulphas (ankles)",
+     "hi": "दोनों गुल्फ"
+    },
+    {
+     "sa": "मणिबन्धौ द्वौ",
+     "iast": "maṇibandhau dvau",
+     "en": "the two Maṇibandhas (wrists)",
+     "hi": "दोनों मणिबन्ध"
+    },
+    {
+     "sa": "द्वे द्वे कूर्चशिरांसि",
+     "iast": "dve dve kūrcaśirāṃsi",
+     "en": "the Kūrcaśiras, two and two",
+     "hi": "दो-दो कूर्चशिर"
+    },
+    {
+     "sa": "रुजाकराणि",
+     "iast": "rujākarāṇi",
+     "en": "causing pain",
+     "hi": "पीड़ा करने वाले"
+    },
+    {
+     "sa": "जानीयात्",
+     "iast": "jānīyāt",
+     "en": "should know",
+     "hi": "जानना चाहिए"
+    },
+    {
+     "sa": "अष्टौ एतानि",
+     "iast": "aṣṭau etāni",
+     "en": "these eight",
+     "hi": "ये आठ"
+    },
+    {
+     "sa": "बुद्धिमान्",
+     "iast": "buddhimān",
+     "en": "the wise one",
+     "hi": "बुद्धिमान्"
+    },
+    {
+     "sa": "क्षिप्राणि",
+     "iast": "kṣiprāṇi",
+     "en": "the Kṣipras",
+     "hi": "क्षिप्र"
+    },
+    {
+     "sa": "विद्धमात्राणि",
+     "iast": "viddhamātrāṇi",
+     "en": "as soon as pierced",
+     "hi": "बिंधते ही"
+    },
+    {
+     "sa": "घ्नन्ति",
+     "iast": "ghnanti",
+     "en": "kill",
+     "hi": "मारते हैं"
+    },
+    {
+     "sa": "कालान्तरेण च",
+     "iast": "kālāntareṇa ca",
+     "en": "or after an interval",
+     "hi": "या कुछ समय बाद"
+    }
+   ],
+   "english": "The wise should know these eight as rujākara (causing pain): the two Gulphas, the two Maṇibandhas and the Kūrcaśiras, two in the feet and two in the hands. The Kṣipras kill either as soon as they are pierced or after an interval.",
+   "hindi": "बुद्धिमान् को ये आठ रुजाकर (पीड़ा करने वाले) मर्म जानने चाहिए: दोनों गुल्फ, दोनों मणिबन्ध और दो-दो (पैरों और हाथों के) कूर्चशिर। क्षिप्र मर्म बिंधते ही, या कुछ समय बाद, मार देते हैं।",
+   "explanation_en": "The 8 rujākara marmas are Gulpha 2 + Maṇibandha 2 + Kūrcaśiras 4. The last line is a special note: Kṣipra, though counted among kālāntaraprāṇahara, can sometimes kill quickly (repeated in verse 23). In the text, death from Kṣipra injury is attributed to ākṣepaka (convulsions), which many compare to tetanus after a puncture wound of the hand or foot.",
+   "explanation_hi": "8 रुजाकर मर्म: गुल्फ 2 + मणिबन्ध 2 + कूर्चशिर 4। अन्तिम पंक्ति विशेष सूचना है: क्षिप्र कालान्तरप्राणहर में गिना जाता है, फिर भी कभी-कभी शीघ्र मार सकता है (श्लोक 23 में फिर कहा गया)। क्षिप्र की चोट से मृत्यु का कारण आक्षेपक (ऐंठन) बताया गया है, जिसकी तुलना कई लोग हाथ-पैर के भेदक घाव के बाद टिटनेस से करते हैं।",
+   "modern_correlation": {
+    "en": "Wrist and ankle injuries are typically very painful because these regions are crowded with ligaments, tendons and nerves. The note on Kṣipra (web between thumb/great toe and the next digit) killing through convulsions is often compared to tetanus following penetrating wounds of the hand or foot; this is an interpretation, not a claim made in the text.",
+    "hi": "कलाई और टखने की चोटें प्रायः बहुत पीड़ादायक होती हैं, क्योंकि यहाँ लिगामेंट, टेंडन और नसें घनी होती हैं। क्षिप्र (अंगूठे और अगली अंगुली के बीच) की चोट से ऐंठन द्वारा मृत्यु की तुलना अक्सर हाथ-पैर के भेदक घाव के बाद होने वाले टिटनेस से की जाती है; यह व्याख्या है, ग्रन्थ का दावा नहीं।"
+   },
+   "key_terms": [
+    "rujākara",
+    "gulpha",
+    "maṇibandha",
+    "kūrcaśiras",
+    "kṣipra"
+   ],
+   "tags": [
+    "marma",
+    "prognosis",
+    "rujākara",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Rujākara 8 = 'GMK': Gulpha 2, Maṇibandha 2, Kūrcaśiras 4",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sharira.6.15",
+   "word_meanings": [
+    {
+     "sa": "मर्माणि नाम",
+     "iast": "marmāṇi nāma",
+     "en": "marmas are (by definition)",
+     "hi": "मर्म (परिभाषा से)"
+    },
+    {
+     "sa": "मांससिरास्नाय्वस्थिसन्धिसंनिपाताः",
+     "iast": "māṃsasirāsnāyvasthisandhisaṃnipātāḥ",
+     "en": "meeting points of muscle, vessel, ligament, bone and joint",
+     "hi": "मांस, सिरा, स्नायु, अस्थि और सन्धि के संगम-स्थान"
+    },
+    {
+     "sa": "तेषु",
+     "iast": "teṣu",
+     "en": "in them",
+     "hi": "उनमें"
+    },
+    {
+     "sa": "स्वभावतः एव",
+     "iast": "svabhāvataḥ eva",
+     "en": "by their very nature",
+     "hi": "स्वभाव से ही"
+    },
+    {
+     "sa": "विशेषेण",
+     "iast": "viśeṣeṇa",
+     "en": "especially",
+     "hi": "विशेष रूप से"
+    },
+    {
+     "sa": "प्राणाः",
+     "iast": "prāṇāḥ",
+     "en": "the vital forces, life",
+     "hi": "प्राण"
+    },
+    {
+     "sa": "तिष्ठन्ति",
+     "iast": "tiṣṭhanti",
+     "en": "reside",
+     "hi": "रहते हैं"
+    },
+    {
+     "sa": "तस्मात्",
+     "iast": "tasmāt",
+     "en": "therefore",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "मर्मसु",
+     "iast": "marmasu",
+     "en": "in marmas",
+     "hi": "मर्मों में"
+    },
+    {
+     "sa": "अभिहताः",
+     "iast": "abhihatāḥ",
+     "en": "those injured",
+     "hi": "चोट खाए हुए (व्यक्ति)"
+    },
+    {
+     "sa": "तान् तान् भावान्",
+     "iast": "tān tān bhāvān",
+     "en": "those respective conditions",
+     "hi": "वे-वे अवस्थाएँ"
+    },
+    {
+     "sa": "आपद्यन्ते",
+     "iast": "āpadyante",
+     "en": "attain, suffer",
+     "hi": "प्राप्त होते हैं"
+    }
+   ],
+   "english": "Marmas are the meeting points (saṃnipāta) of muscle, vessel, ligament, bone and joint. In them, by their very nature, the prāṇas (vital forces) reside in a special way. Therefore those injured at the marmas suffer those respective conditions (death, disability or pain).",
+   "hindi": "मर्म मांस, सिरा, स्नायु, अस्थि और सन्धि के संनिपात (संगम-स्थान) हैं। इनमें स्वभाव से ही विशेष रूप से प्राण रहते हैं। इसलिए मर्मों पर चोट लगने से व्यक्ति उन-उन अवस्थाओं (मृत्यु, अपंगता या पीड़ा) को प्राप्त होता है।",
+   "explanation_en": "This is Suśruta's classical definition of marma, frequently asked word for word. Two parts: structurally, a marma is a saṃnipāta (confluence) of the five structures; functionally, it is a special seat of prāṇa. So the structural classification of verse 3 only names the dominant tissue; all five are present at every marma. Write both parts in an answer.",
+   "explanation_hi": "यह मर्म की सुश्रुतोक्त शास्त्रीय परिभाषा है, जो शब्दशः पूछी जाती है। इसके दो भाग हैं: रचना की दृष्टि से मर्म पाँच रचनाओं का संनिपात है; क्रिया की दृष्टि से यह प्राण का विशेष स्थान है। इसलिए श्लोक 3 का रचना-वर्गीकरण केवल प्रधान रचना बताता है; हर मर्म में पाँचों रचनाएँ होती हैं। उत्तर में दोनों भाग लिखें।",
+   "modern_correlation": {
+    "en": "Anatomically, many marma sites are neurovascular junctions where vessels, nerves, tendons, ligaments and bone lie close together, which is why trauma there can damage several structures at once. 'Prāṇa residing' in them is often interpreted as concentration of vital function (blood supply, nerve conduction). This is a conceptual parallel.",
+    "hi": "शरीर-रचना की दृष्टि से कई मर्म स्थान न्यूरोवैस्कुलर संगम हैं, जहाँ वाहिकाएँ, नसें, टेंडन, लिगामेंट और हड्डी पास-पास होते हैं, इसलिए वहाँ की चोट एक साथ कई रचनाओं को क्षति पहुँचा सकती है। 'प्राण का रहना' प्रायः जीवन-क्रियाओं (रक्त-आपूर्ति, तन्त्रिका-संवहन) की सघनता के रूप में समझा जाता है। यह वैचारिक समानता है।"
+   },
+   "key_terms": [
+    "marma",
+    "saṃnipāta",
+    "prāṇa",
+    "definition"
+   ],
+   "tags": [
+    "marma",
+    "definition",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Marma = 'Saṃnipāta + Prāṇa-sthāna' (meeting point + seat of life)",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sharira.6.16",
+   "word_meanings": [
+    {
+     "sa": "सद्यःप्राणहराणि",
+     "iast": "sadyaḥprāṇaharāṇi",
+     "en": "immediately fatal (marmas)",
+     "hi": "सद्यःप्राणहर"
+    },
+    {
+     "sa": "आग्नेयानि",
+     "iast": "āgneyāni",
+     "en": "are of the nature of fire",
+     "hi": "आग्नेय (अग्नि-प्रधान)"
+    },
+    {
+     "sa": "अग्निगुणेषु",
+     "iast": "agniguṇeṣu",
+     "en": "the qualities of fire",
+     "hi": "अग्नि के गुण"
+    },
+    {
+     "sa": "आशु क्षीणेषु",
+     "iast": "āśu kṣīṇeṣu",
+     "en": "being quickly depleted",
+     "hi": "शीघ्र क्षीण होने पर"
+    },
+    {
+     "sa": "क्षपयन्ति",
+     "iast": "kṣapayanti",
+     "en": "destroy (life)",
+     "hi": "नष्ट करते हैं"
+    },
+    {
+     "sa": "सौम्याग्नेयानि",
+     "iast": "saumyāgneyāni",
+     "en": "of the nature of soma and fire",
+     "hi": "सौम्य-आग्नेय"
+    },
+    {
+     "sa": "क्रमेण",
+     "iast": "krameṇa",
+     "en": "gradually",
+     "hi": "क्रम से"
+    },
+    {
+     "sa": "सोमगुणेषु",
+     "iast": "somaguṇeṣu",
+     "en": "the qualities of soma (cool, stable)",
+     "hi": "सोम के गुण"
+    },
+    {
+     "sa": "कालान्तरेण",
+     "iast": "kālāntareṇa",
+     "en": "after some time",
+     "hi": "कुछ समय बाद"
+    },
+    {
+     "sa": "विशल्यप्राणहराणि",
+     "iast": "viśalyaprāṇaharāṇi",
+     "en": "fatal on removing the foreign body",
+     "hi": "शल्य निकालने पर मारने वाले"
+    },
+    {
+     "sa": "वायव्यानि",
+     "iast": "vāyavyāni",
+     "en": "of the nature of air",
+     "hi": "वायव्य (वायु-प्रधान)"
+    },
+    {
+     "sa": "शल्यमुखावरुद्धः",
+     "iast": "śalyamukhāvaruddhaḥ",
+     "en": "blocked by the tip of the foreign body",
+     "hi": "शल्य के मुख से रुका हुआ"
+    },
+    {
+     "sa": "यावत्",
+     "iast": "yāvat",
+     "en": "as long as",
+     "hi": "जब तक"
+    },
+    {
+     "sa": "अन्तः वायुः",
+     "iast": "antaḥ vāyuḥ",
+     "en": "the air inside",
+     "hi": "भीतर की वायु"
+    },
+    {
+     "sa": "तावत् जीवति",
+     "iast": "tāvat jīvati",
+     "en": "so long he lives",
+     "hi": "तब तक जीवित रहता है"
+    },
+    {
+     "sa": "उद्धृतमात्रे शल्ये",
+     "iast": "uddhṛtamātre śalye",
+     "en": "as soon as the foreign body is pulled out",
+     "hi": "शल्य निकालते ही"
+    },
+    {
+     "sa": "मर्मस्थानाश्रितः",
+     "iast": "marmasthānāśritaḥ",
+     "en": "lodged in the marma site",
+     "hi": "मर्म-स्थान में स्थित"
+    },
+    {
+     "sa": "निष्क्रामति",
+     "iast": "niṣkrāmati",
+     "en": "escapes",
+     "hi": "निकल जाती है"
+    },
+    {
+     "sa": "सशल्यः",
+     "iast": "saśalyaḥ",
+     "en": "with the foreign body in place",
+     "hi": "शल्य सहित"
+    },
+    {
+     "sa": "उद्धृतशल्यः",
+     "iast": "uddhṛtaśalyaḥ",
+     "en": "with the foreign body removed",
+     "hi": "शल्य निकाले हुए"
+    },
+    {
+     "sa": "म्रियते",
+     "iast": "mriyate",
+     "en": "dies",
+     "hi": "मरता है"
+    },
+    {
+     "sa": "पाकात्",
+     "iast": "pākāt",
+     "en": "after suppuration",
+     "hi": "पकने के बाद"
+    },
+    {
+     "sa": "पतितशल्यः",
+     "iast": "patitaśalyaḥ",
+     "en": "with the object fallen out (by itself)",
+     "hi": "अपने आप गिरे शल्य वाला"
+    },
+    {
+     "sa": "वैकल्यकराणि",
+     "iast": "vaikalyakarāṇi",
+     "en": "disabling (marmas)",
+     "hi": "वैकल्यकर"
+    },
+    {
+     "sa": "सौम्यानि",
+     "iast": "saumyāni",
+     "en": "of the nature of soma",
+     "hi": "सौम्य"
+    },
+    {
+     "sa": "स्थिरत्वात्",
+     "iast": "sthiratvāt",
+     "en": "because of stability",
+     "hi": "स्थिरता के कारण"
+    },
+    {
+     "sa": "शैत्यात्",
+     "iast": "śaityāt",
+     "en": "because of coolness",
+     "hi": "शीतलता के कारण"
+    },
+    {
+     "sa": "त्राणावलम्बनम्",
+     "iast": "trāṇāvalambanam",
+     "en": "protection and support (of life)",
+     "hi": "रक्षा और आधार"
+    },
+    {
+     "sa": "रुजाकराणि",
+     "iast": "rujākarāṇi",
+     "en": "pain-causing (marmas)",
+     "hi": "रुजाकर"
+    },
+    {
+     "sa": "अग्निवायुगुणभूयिष्ठानि",
+     "iast": "agnivāyuguṇabhūyiṣṭhāni",
+     "en": "predominant in qualities of fire and air",
+     "hi": "अग्नि और वायु गुण-प्रधान"
+    },
+    {
+     "sa": "पाञ्चभौतिकीम्",
+     "iast": "pāñcabhautikīm",
+     "en": "arising from all five elements",
+     "hi": "पाञ्चभौतिक"
+    },
+    {
+     "sa": "रुजाम्",
+     "iast": "rujām",
+     "en": "pain",
+     "hi": "पीड़ा को"
+    },
+    {
+     "sa": "एके",
+     "iast": "eke",
+     "en": "some (authorities)",
+     "hi": "कुछ (आचार्य)"
+    }
+   ],
+   "english": "Of these, the immediately fatal marmas are āgneya (fiery): when the qualities of fire are quickly depleted, they destroy life. The fatal-after-time marmas are saumya-āgneya (of soma and fire): the fire qualities are depleted quickly and the soma qualities gradually, so they kill after some time. The viśalyaprāṇahara marmas are vāyavya (airy): as long as the air within remains blocked by the tip of the foreign body, the person lives; but as soon as the object is pulled out, the vāyu lodged at the marma escapes. Hence he lives with the object in place and dies when it is extracted, or he may live if it falls out after suppuration. The disabling marmas are saumya, for soma, by its stability and coolness, gives protection and support to life. The pain-causing marmas are predominant in the qualities of fire and air, and these two especially cause pain; some say pain is pāñcabhautika (arising from all five elements).",
+   "hindi": "सद्यःप्राणहर मर्म आग्नेय (अग्नि-प्रधान) हैं: अग्नि के गुण शीघ्र क्षीण होने से ये प्राण हर लेते हैं। कालान्तरप्राणहर मर्म सौम्य-आग्नेय हैं: अग्नि के गुण शीघ्र और सोम के गुण धीरे-धीरे क्षीण होते हैं, इसलिए ये कुछ समय बाद मारते हैं। विशल्यप्राणहर मर्म वायव्य हैं: जब तक भीतर की वायु शल्य के मुख से रुकी रहती है, तब तक व्यक्ति जीवित रहता है; शल्य निकालते ही मर्म-स्थान की वायु निकल जाती है। इसलिए शल्य रहते वह जीता है, शल्य निकालने पर मर जाता है, या पकने के बाद शल्य अपने आप गिर जाए तो जी सकता है। वैकल्यकर मर्म सौम्य हैं, क्योंकि सोम अपनी स्थिरता और शीतलता से जीवन की रक्षा और आधार करता है। रुजाकर मर्म अग्नि और वायु गुण-प्रधान हैं, और ये दोनों विशेष रूप से पीड़ा करते हैं; कुछ आचार्य पीड़ा को पाञ्चभौतिक कहते हैं।",
+   "explanation_en": "This verse explains the five prognostic groups through the bhūtas (elements): sadyaḥ = āgneya, kālāntara = saumya-āgneya, viśalyaghna = vāyavya, vaikalyakara = saumya, rujākara = āgneya-vāyavya. The viśalyaghna explanation is a practical surgical rule: do not pull out an impacted object at these sites; wait for it to loosen after suppuration. This element-mapping is a favourite short-note question.",
+   "explanation_hi": "यह श्लोक पाँच परिणाम-वर्गों को भूतों से समझाता है: सद्यः = आग्नेय, कालान्तर = सौम्य-आग्नेय, विशल्यघ्न = वायव्य, वैकल्यकर = सौम्य, रुजाकर = आग्नेय-वायव्य। विशल्यघ्न की व्याख्या एक व्यावहारिक शल्य-नियम है: इन स्थानों में धँसे शल्य को खींचकर न निकालें; पकने के बाद ढीला होकर गिरने दें। यह भूत-सम्बन्ध लघु प्रश्न में बहुत पूछा जाता है।",
+   "modern_correlation": {
+    "en": "The viśalyaghna rule parallels the modern teaching that an impaled object should not be removed in the field, since it may be plugging a vessel or, in the skull, its removal may cause haemorrhage or loss of cerebrospinal fluid. The elemental explanations are Ayurvedic theory and have no direct modern equivalent.",
+    "hi": "विशल्यघ्न का नियम आधुनिक शिक्षा से मिलता है कि धँसी वस्तु को घटना-स्थल पर नहीं निकालना चाहिए, क्योंकि वह वाहिका को बन्द किए हो सकती है, या खोपड़ी में निकालने पर रक्तस्राव अथवा मस्तिष्क-द्रव (CSF) का रिसाव हो सकता है। भूतों वाली व्याख्या आयुर्वेदीय सिद्धान्त है, इसका सीधा आधुनिक समकक्ष नहीं।"
+   },
+   "key_terms": [
+    "āgneya",
+    "saumya",
+    "vāyavya",
+    "viśalyaghna",
+    "pāñcabhautika",
+    "rujā"
+   ],
+   "tags": [
+    "marma",
+    "prognosis",
+    "pañcamahābhūta",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Sadyo-Agni, Kāla-Soma+Agni, Viśalya-Vāyu, Vaikalya-Soma, Rujā-Agni+Vāyu",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sharira.6.17",
+   "word_meanings": [
+    {
+     "sa": "केचित्",
+     "iast": "kecit",
+     "en": "some",
+     "hi": "कुछ लोग"
+    },
+    {
+     "sa": "आहुः",
+     "iast": "āhuḥ",
+     "en": "say",
+     "hi": "कहते हैं"
+    },
+    {
+     "sa": "मांसादीनाम्",
+     "iast": "māṃsādīnām",
+     "en": "of muscle and the rest",
+     "hi": "मांस आदि का"
+    },
+    {
+     "sa": "पञ्चानाम्",
+     "iast": "pañcānām",
+     "en": "of the five",
+     "hi": "पाँचों का"
+    },
+    {
+     "sa": "समस्तानाम्",
+     "iast": "samastānām",
+     "en": "all together",
+     "hi": "सब मिलकर"
+    },
+    {
+     "sa": "विवृद्धानाम्",
+     "iast": "vivṛddhānām",
+     "en": "abundant",
+     "hi": "बढ़े हुए (अधिक)"
+    },
+    {
+     "sa": "समवायात्",
+     "iast": "samavāyāt",
+     "en": "from the combination",
+     "hi": "संयोग से"
+    },
+    {
+     "sa": "एकहीनानाम्",
+     "iast": "ekahīnānām",
+     "en": "when one is lacking",
+     "hi": "एक कम होने पर"
+    },
+    {
+     "sa": "अल्पानाम्",
+     "iast": "alpānām",
+     "en": "when scanty",
+     "hi": "कम मात्रा में होने पर"
+    },
+    {
+     "sa": "द्विहीनानाम्",
+     "iast": "dvihīnānām",
+     "en": "when two are lacking",
+     "hi": "दो कम होने पर"
+    },
+    {
+     "sa": "त्रिहीनानाम्",
+     "iast": "trihīnānām",
+     "en": "when three are lacking",
+     "hi": "तीन कम होने पर"
+    },
+    {
+     "sa": "एकस्मिन् एव",
+     "iast": "ekasmin eva",
+     "en": "in only one",
+     "hi": "केवल एक में"
+    },
+    {
+     "sa": "न एवम्",
+     "iast": "na evam",
+     "en": "not so",
+     "hi": "ऐसा नहीं"
+    },
+    {
+     "sa": "यतः",
+     "iast": "yataḥ",
+     "en": "because",
+     "hi": "क्योंकि"
+    },
+    {
+     "sa": "अस्थिमर्मसु अपि",
+     "iast": "asthimarmasu api",
+     "en": "even in bone marmas",
+     "hi": "अस्थि मर्मों में भी"
+    },
+    {
+     "sa": "अभिहतेषु",
+     "iast": "abhihateṣu",
+     "en": "when injured",
+     "hi": "चोट लगने पर"
+    },
+    {
+     "sa": "शोणितागमनम्",
+     "iast": "śoṇitāgamanam",
+     "en": "flow of blood",
+     "hi": "रक्त का निकलना"
+    }
+   ],
+   "english": "Some say: where all five (muscle and the rest) are present together and abundant, the marmas are immediately fatal; where one is lacking or they are scanty, fatal after time; where two are lacking, viśalyaprāṇahara; where three are lacking, disabling; and where only one is present, pain-causing. It is not so, because even when bone marmas are injured, bleeding occurs.",
+   "hindi": "कुछ लोग कहते हैं: जहाँ मांस आदि पाँचों साथ-साथ और अधिक मात्रा में हों, वे मर्म सद्यःप्राणहर हैं; एक कम हो या सब अल्प हों तो कालान्तरप्राणहर; दो कम हों तो विशल्यप्राणहर; तीन कम हों तो वैकल्यकर; और केवल एक हो तो रुजाकर। यह मत ठीक नहीं, क्योंकि अस्थि मर्मों पर चोट लगने पर भी रक्त निकलता है।",
+   "explanation_en": "Suśruta reports and rejects a rival theory that ranks marma danger by the number of tissues present. His argument: even a 'bone' marma bleeds when hit, so vessels (and other tissues) are present at every marma; the number of tissues cannot explain the prognosis. This supports his own definition of marma as a meeting point of all five structures (verse 15).",
+   "explanation_hi": "सुश्रुत एक दूसरे मत को बताकर उसका खण्डन करते हैं, जो मर्म के खतरे को उपस्थित रचनाओं की संख्या से जोड़ता है। उनका तर्क: 'अस्थि' मर्म पर चोट से भी रक्त निकलता है, अर्थात् हर मर्म में सिरा (और अन्य रचनाएँ) हैं; इसलिए रचनाओं की संख्या से परिणाम नहीं समझाया जा सकता। इससे उनकी अपनी परिभाषा (श्लोक 15) पुष्ट होती है।",
+   "modern_correlation": {
+    "en": "The observation that injury to a 'bone' site still bleeds matches the modern fact that bone is a highly vascular tissue, and fractures can bleed heavily (for example pelvic or femoral fractures).",
+    "hi": "'अस्थि' स्थान की चोट से भी रक्त निकलने का अवलोकन आधुनिक तथ्य से मेल खाता है कि हड्डी अत्यधिक रक्तवाहिनी-युक्त ऊतक है, और अस्थिभंग में बहुत रक्तस्राव हो सकता है (जैसे श्रोणि या फीमर का अस्थिभंग)।"
+   },
+   "key_terms": [
+    "samavāya",
+    "asthi marma",
+    "śoṇita",
+    "pūrvapakṣa"
+   ],
+   "tags": [
+    "marma",
+    "debate",
+    "prognosis"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sharira.6.18",
+   "word_meanings": [
+    {
+     "sa": "चतुर्विधाः",
+     "iast": "caturvidhāḥ",
+     "en": "of four kinds",
+     "hi": "चार प्रकार की"
+    },
+    {
+     "sa": "याः तु सिराः",
+     "iast": "yāḥ tu sirāḥ",
+     "en": "the vessels which",
+     "hi": "जो सिराएँ"
+    },
+    {
+     "sa": "शरीरे",
+     "iast": "śarīre",
+     "en": "in the body",
+     "hi": "शरीर में"
+    },
+    {
+     "sa": "प्रायेण",
+     "iast": "prāyeṇa",
+     "en": "mostly",
+     "hi": "प्रायः"
+    },
+    {
+     "sa": "ताः",
+     "iast": "tāḥ",
+     "en": "they",
+     "hi": "वे"
+    },
+    {
+     "sa": "मर्मसु",
+     "iast": "marmasu",
+     "en": "in the marmas",
+     "hi": "मर्मों में"
+    },
+    {
+     "sa": "संनिविष्टाः",
+     "iast": "saṃniviṣṭāḥ",
+     "en": "are situated",
+     "hi": "स्थित हैं"
+    },
+    {
+     "sa": "स्नाय्वस्थिमांसानि",
+     "iast": "snāyvasthimāṃsāni",
+     "en": "ligaments, bones and muscles",
+     "hi": "स्नायु, अस्थि और मांस को"
+    },
+    {
+     "sa": "तथा एव सन्धीन्",
+     "iast": "tathā eva sandhīn",
+     "en": "and likewise the joints",
+     "hi": "और वैसे ही सन्धियों को"
+    },
+    {
+     "sa": "संतर्प्य",
+     "iast": "saṃtarpya",
+     "en": "nourishing",
+     "hi": "पोषण करके"
+    },
+    {
+     "sa": "देहम्",
+     "iast": "deham",
+     "en": "the body",
+     "hi": "शरीर को"
+    },
+    {
+     "sa": "प्रतिपालयन्ति",
+     "iast": "pratipālayanti",
+     "en": "sustain",
+     "hi": "पालन करती हैं"
+    }
+   ],
+   "english": "Here are the verses: The four kinds of vessels (sirā) in the body are mostly situated in the marmas. Nourishing the ligaments, bones, muscles and joints, they sustain the body.",
+   "hindi": "यहाँ श्लोक हैं: शरीर में जो चार प्रकार की सिराएँ हैं, वे प्रायः मर्मों में स्थित हैं। वे स्नायु, अस्थि, मांस और सन्धियों का पोषण करके शरीर का पालन करती हैं।",
+   "explanation_en": "The four kinds of sirā are those carrying vāta, pitta, kapha and rakta (described in Śārīrasthāna 7). Because these nourishing vessels gather at marmas, injury there cuts off nourishment and life-support to the tissues. This sets up the mechanism of marma injury explained in the next two verses.",
+   "explanation_hi": "चार प्रकार की सिराएँ वात, पित्त, कफ और रक्त वहन करने वाली हैं (शारीरस्थान 7 में वर्णित)। ये पोषक सिराएँ मर्मों पर एकत्र होती हैं, इसलिए वहाँ की चोट से ऊतकों का पोषण और जीवन-आधार कट जाता है। अगले दो श्लोकों में मर्माघात की प्रक्रिया इसी आधार पर बताई गई है।",
+   "modern_correlation": {
+    "en": "Modern anatomy also describes neurovascular bundles running together at many of these sites, supplying muscles, bones, joints and ligaments; damage to them interrupts blood supply and innervation.",
+    "hi": "आधुनिक शरीर-रचना भी बताती है कि इनमें से कई स्थानों पर न्यूरोवैस्कुलर बंडल साथ-साथ चलते हैं, जो मांसपेशियों, हड्डियों, जोड़ों और लिगामेंट को रक्त और तन्त्रिका-आपूर्ति देते हैं; उनकी क्षति से यह आपूर्ति बाधित होती है।"
+   },
+   "key_terms": [
+    "sirā",
+    "caturvidha sirā",
+    "saṃtarpaṇa"
+   ],
+   "tags": [
+    "marma",
+    "sira",
+    "pathophysiology"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sharira.6.19",
+   "word_meanings": [
+    {
+     "sa": "ततः",
+     "iast": "tataḥ",
+     "en": "then",
+     "hi": "तब"
+    },
+    {
+     "sa": "क्षते मर्मणि",
+     "iast": "kṣate marmaṇi",
+     "en": "when a marma is injured",
+     "hi": "मर्म के क्षत होने पर"
+    },
+    {
+     "sa": "ताः",
+     "iast": "tāḥ",
+     "en": "those (vessels)",
+     "hi": "उन (सिराओं) को"
+    },
+    {
+     "sa": "प्रवृद्धः",
+     "iast": "pravṛddhaḥ",
+     "en": "aggravated",
+     "hi": "बढ़ी हुई"
+    },
+    {
+     "sa": "समन्ततः",
+     "iast": "samantataḥ",
+     "en": "all around",
+     "hi": "चारों ओर से"
+    },
+    {
+     "sa": "वायुः",
+     "iast": "vāyuḥ",
+     "en": "vāta",
+     "hi": "वायु"
+    },
+    {
+     "sa": "अभिस्तृणोति",
+     "iast": "abhistṛṇoti",
+     "en": "spreads over, covers",
+     "hi": "ढक लेती है, फैल जाती है"
+    },
+    {
+     "sa": "विवर्धमानः",
+     "iast": "vivardhamānaḥ",
+     "en": "increasing",
+     "hi": "बढ़ती हुई"
+    },
+    {
+     "sa": "मातरिश्वा",
+     "iast": "mātariśvā",
+     "en": "wind (vāyu)",
+     "hi": "वायु"
+    },
+    {
+     "sa": "रुजः",
+     "iast": "rujaḥ",
+     "en": "pains",
+     "hi": "पीड़ाएँ"
+    },
+    {
+     "sa": "सुतीव्राः",
+     "iast": "sutīvrāḥ",
+     "en": "very intense",
+     "hi": "अत्यन्त तीव्र"
+    },
+    {
+     "sa": "प्रतनोति",
+     "iast": "pratanoti",
+     "en": "spreads, produces",
+     "hi": "फैलाती है"
+    },
+    {
+     "sa": "काये",
+     "iast": "kāye",
+     "en": "in the body",
+     "hi": "शरीर में"
+    }
+   ],
+   "english": "Then, when a marma is injured, aggravated vāyu spreads over those vessels from all sides; and that wind, increasing further, produces very intense pains throughout the body.",
+   "hindi": "तब मर्म पर चोट लगने पर बढ़ी हुई वायु उन सिराओं को चारों ओर से घेर लेती है; और वह वायु और बढ़कर पूरे शरीर में अत्यन्त तीव्र पीड़ा उत्पन्न करती है।",
+   "explanation_en": "Suśruta explains marma injury through vāta: trauma provokes vāyu, which spreads along the vessels and causes severe pain. Vāta is the doṣa responsible for pain (rujā) in Ayurveda, so this links marma trauma to the general principle 'no pain without vāta'.",
+   "explanation_hi": "सुश्रुत मर्माघात को वात के माध्यम से समझाते हैं: चोट से वायु कुपित होकर सिराओं में फैलती है और तीव्र पीड़ा करती है। आयुर्वेद में पीड़ा (रुजा) का मुख्य कारण वात है, इसलिए यह मर्माघात को 'वात के बिना शूल नहीं' सिद्धान्त से जोड़ता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vāyu",
+    "mātariśvan",
+    "rujā",
+    "marmābhighāta"
+   ],
+   "tags": [
+    "marma",
+    "pathophysiology",
+    "vata"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sharira.6.20",
+   "word_meanings": [
+    {
+     "sa": "रुजाभिभूतम्",
+     "iast": "rujābhibhūtam",
+     "en": "overwhelmed by pain",
+     "hi": "पीड़ा से अभिभूत"
+    },
+    {
+     "sa": "ततः",
+     "iast": "tataḥ",
+     "en": "then",
+     "hi": "तब"
+    },
+    {
+     "sa": "शरीरम्",
+     "iast": "śarīram",
+     "en": "the body",
+     "hi": "शरीर"
+    },
+    {
+     "sa": "प्रलीयते",
+     "iast": "pralīyate",
+     "en": "collapses, dissolves",
+     "hi": "शिथिल होकर गिर जाता है"
+    },
+    {
+     "sa": "नश्यति",
+     "iast": "naśyati",
+     "en": "is lost",
+     "hi": "नष्ट हो जाती है"
+    },
+    {
+     "sa": "च अस्य संज्ञा",
+     "iast": "ca asya saṃjñā",
+     "en": "and his consciousness",
+     "hi": "और उसकी चेतना"
+    },
+    {
+     "sa": "अतः हि",
+     "iast": "ataḥ hi",
+     "en": "therefore indeed",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "शल्यम्",
+     "iast": "śalyam",
+     "en": "the foreign body",
+     "hi": "शल्य को"
+    },
+    {
+     "sa": "विनिहर्तुम् इच्छन्",
+     "iast": "vinihartum icchan",
+     "en": "wishing to remove",
+     "hi": "निकालना चाहता हुआ"
+    },
+    {
+     "sa": "मर्माणि",
+     "iast": "marmāṇi",
+     "en": "the marmas",
+     "hi": "मर्मों को"
+    },
+    {
+     "sa": "यत्नेन",
+     "iast": "yatnena",
+     "en": "carefully",
+     "hi": "सावधानी से"
+    },
+    {
+     "sa": "परीक्ष्य",
+     "iast": "parīkṣya",
+     "en": "having examined",
+     "hi": "परीक्षा करके"
+    },
+    {
+     "sa": "कर्षेत्",
+     "iast": "karṣet",
+     "en": "should pull out",
+     "hi": "निकाले"
+    }
+   ],
+   "english": "Then the body, overwhelmed by pain, collapses and the person loses consciousness. Therefore, one who wishes to remove a foreign body should first examine the marmas carefully and then extract it.",
+   "hindi": "तब पीड़ा से अभिभूत शरीर शिथिल होकर गिर जाता है और व्यक्ति की चेतना नष्ट हो जाती है। इसलिए जो शल्य निकालना चाहे, वह पहले सावधानी से मर्मों की परीक्षा करके फिर उसे निकाले।",
+   "explanation_en": "The sequence of marma injury is: vāyu aggravation → severe pain → collapse → loss of consciousness. The practical conclusion is a surgical rule: before extracting any śalya (foreign body, arrowhead), check whether it lies in or near a marma. Śalyatantra (surgery) is the main purpose of marma knowledge for Suśruta.",
+   "explanation_hi": "मर्माघात का क्रम: वायु-प्रकोप → तीव्र पीड़ा → शरीर का गिरना → चेतना-नाश। इससे व्यावहारिक शल्य-नियम निकलता है: कोई भी शल्य (बाण आदि) निकालने से पहले देखें कि वह मर्म में या उसके पास तो नहीं है। सुश्रुत के लिए मर्म-ज्ञान का मुख्य उद्देश्य शल्यतन्त्र ही है।",
+   "modern_correlation": {
+    "en": "Collapse and loss of consciousness after severe trauma are often compared to neurogenic or haemorrhagic shock. Careful assessment of nearby vital structures before removing a foreign body remains a basic surgical principle.",
+    "hi": "गम्भीर चोट के बाद शरीर का गिरना और बेहोशी की तुलना प्रायः न्यूरोजेनिक या हेमरेजिक शॉक से की जाती है। किसी बाहरी वस्तु को निकालने से पहले पास की महत्त्वपूर्ण रचनाओं का सावधानी से आकलन आज भी शल्यचिकित्सा का मूल सिद्धान्त है।"
+   },
+   "key_terms": [
+    "śalya",
+    "saṃjñānāśa",
+    "marmaparīkṣā"
+   ],
+   "tags": [
+    "marma",
+    "surgery",
+    "shalya"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sharira.6.21",
+   "word_meanings": [
+    {
+     "sa": "एतेन",
+     "iast": "etena",
+     "en": "by this",
+     "hi": "इससे"
+    },
+    {
+     "sa": "शेषम्",
+     "iast": "śeṣam",
+     "en": "the rest",
+     "hi": "शेष"
+    },
+    {
+     "sa": "व्याख्यातम्",
+     "iast": "vyākhyātam",
+     "en": "is explained",
+     "hi": "व्याख्यात हो गया"
+    }
+   ],
+   "english": "By this, the rest is explained.",
+   "hindi": "इससे शेष (विषय) की भी व्याख्या हो गई।",
+   "explanation_en": "A short connecting line: the principles just given about marma injury and foreign-body removal apply in the same way to other cases not separately described. Such 'etena śeṣaṃ vyākhyātam' lines are typical of Suśruta's concise style.",
+   "explanation_hi": "यह एक छोटी जोड़ने वाली पंक्ति है: मर्माघात और शल्य निकालने के जो सिद्धान्त अभी बताए गए, वे अन्य अनकहे प्रसंगों पर भी इसी प्रकार लागू होते हैं। 'एतेन शेषं व्याख्यातम्' जैसी पंक्तियाँ सुश्रुत की संक्षिप्त शैली की विशेषता हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "tantrayukti"
+   ],
+   "tags": [
+    "marma",
+    "connector"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sharira.6.22",
+   "word_meanings": [
+    {
+     "sa": "सद्यःप्राणहरम्",
+     "iast": "sadyaḥprāṇaharam",
+     "en": "an immediately fatal marma",
+     "hi": "सद्यःप्राणहर मर्म"
+    },
+    {
+     "sa": "अन्ते",
+     "iast": "ante",
+     "en": "at its edge/margin",
+     "hi": "किनारे पर"
+    },
+    {
+     "sa": "विद्धम्",
+     "iast": "viddham",
+     "en": "pierced",
+     "hi": "बिंधा हुआ"
+    },
+    {
+     "sa": "कालान्तरेण",
+     "iast": "kālāntareṇa",
+     "en": "after some time",
+     "hi": "कुछ समय बाद"
+    },
+    {
+     "sa": "मारयति",
+     "iast": "mārayati",
+     "en": "kills",
+     "hi": "मारता है"
+    },
+    {
+     "sa": "कालान्तरप्राणहरम्",
+     "iast": "kālāntaraprāṇaharam",
+     "en": "a fatal-after-time marma",
+     "hi": "कालान्तरप्राणहर मर्म"
+    },
+    {
+     "sa": "वैकल्यम्",
+     "iast": "vaikalyam",
+     "en": "disability",
+     "hi": "विकलता"
+    },
+    {
+     "sa": "आपादयति",
+     "iast": "āpādayati",
+     "en": "causes",
+     "hi": "उत्पन्न करता है"
+    },
+    {
+     "sa": "विशल्यप्राणहरम्",
+     "iast": "viśalyaprāṇaharam",
+     "en": "a viśalyaghna marma",
+     "hi": "विशल्यप्राणहर मर्म"
+    },
+    {
+     "sa": "वैकल्यकरम्",
+     "iast": "vaikalyakaram",
+     "en": "a disabling marma",
+     "hi": "वैकल्यकर मर्म"
+    },
+    {
+     "sa": "कालान्तरम्",
+     "iast": "kālāntaram",
+     "en": "for some time",
+     "hi": "कुछ समय तक"
+    },
+    {
+     "sa": "क्लेशयति",
+     "iast": "kleśayati",
+     "en": "troubles",
+     "hi": "कष्ट देता है"
+    },
+    {
+     "sa": "रुजाम्",
+     "iast": "rujām",
+     "en": "pain",
+     "hi": "पीड़ा"
+    },
+    {
+     "sa": "करोति",
+     "iast": "karoti",
+     "en": "causes",
+     "hi": "करता है"
+    },
+    {
+     "sa": "रुजाकरम्",
+     "iast": "rujākaram",
+     "en": "a painful marma",
+     "hi": "रुजाकर मर्म"
+    },
+    {
+     "sa": "अतीव्रवेदनम्",
+     "iast": "atīvravedanam",
+     "en": "not severely painful",
+     "hi": "अधिक पीड़ा न देने वाला"
+    }
+   ],
+   "english": "An immediately fatal marma pierced at its margin kills after some time; a fatal-after-time marma pierced at its margin causes disability; a viśalyaprāṇahara or a disabling marma pierced at its margin troubles the person for some time and causes pain; and a pain-causing marma pierced at its margin produces pain that is not severe.",
+   "hindi": "सद्यःप्राणहर मर्म किनारे पर बिंधे तो कुछ समय बाद मारता है; कालान्तरप्राणहर मर्म किनारे पर बिंधे तो विकलता (अपंगता) करता है; विशल्यप्राणहर और वैकल्यकर मर्म किनारे पर बिंधें तो कुछ समय तक कष्ट और पीड़ा देते हैं; और रुजाकर मर्म किनारे पर बिंधे तो अधिक तीव्र पीड़ा नहीं होती।",
+   "explanation_en": "This is the principle of marginal injury (marma-anta-viddha): an injury at the edge of a marma produces the effect of the next lower group. Sadyaḥ → kālāntara, kālāntara → vaikalya, viśalya/vaikalya → temporary pain, rujā → mild pain. It shows that the severity depends on how directly the marma is hit, a useful point for long answers.",
+   "explanation_hi": "यह किनारे पर चोट (मर्मान्त-विद्ध) का सिद्धान्त है: मर्म के किनारे की चोट अगले निचले वर्ग जैसा परिणाम देती है। सद्यः → कालान्तर, कालान्तर → वैकल्य, विशल्य/वैकल्य → अस्थायी पीड़ा, रुजा → हल्की पीड़ा। इससे पता चलता है कि परिणाम इस पर निर्भर है कि मर्म पर चोट कितनी सीधी है; दीर्घ उत्तर के लिए उपयोगी बिन्दु।",
+   "modern_correlation": {
+    "en": "This graded idea resembles the modern understanding that the outcome of trauma depends on how directly a vital structure is hit: a near-miss to a major vessel or organ often causes delayed complications or morbidity instead of immediate death.",
+    "hi": "यह क्रमिक विचार आधुनिक समझ से मिलता है कि चोट का परिणाम इस पर निर्भर है कि महत्त्वपूर्ण रचना पर कितनी सीधी चोट लगी: बड़ी वाहिका या अंग के पास से निकली चोट तुरन्त मृत्यु के बजाय प्रायः बाद की जटिलताएँ या रुग्णता उत्पन्न करती है।"
+   },
+   "key_terms": [
+    "marmānta-viddha",
+    "sadyaḥprāṇahara",
+    "kālāntaraprāṇahara",
+    "vaikalyakara",
+    "rujākara"
+   ],
+   "tags": [
+    "marma",
+    "prognosis",
+    "marginal injury",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Edge injury = 'one step down' the prognostic ladder",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sharira.6.23",
+   "word_meanings": [
+    {
+     "sa": "सप्तरात्राभ्यन्तरात्",
+     "iast": "saptarātrābhyantarāt",
+     "en": "within seven nights",
+     "hi": "सात रातों के भीतर"
+    },
+    {
+     "sa": "मारयति",
+     "iast": "mārayati",
+     "en": "kill",
+     "hi": "मारते हैं"
+    },
+    {
+     "sa": "पक्षात्",
+     "iast": "pakṣāt",
+     "en": "within a fortnight",
+     "hi": "एक पक्ष (पन्द्रह दिन) में"
+    },
+    {
+     "sa": "मासात् वा",
+     "iast": "māsāt vā",
+     "en": "or within a month",
+     "hi": "या एक मास में"
+    },
+    {
+     "sa": "तेषु अपि",
+     "iast": "teṣu api",
+     "en": "even among them",
+     "hi": "उनमें भी"
+    },
+    {
+     "sa": "क्षिप्राणि",
+     "iast": "kṣiprāṇi",
+     "en": "the Kṣipras",
+     "hi": "क्षिप्र"
+    },
+    {
+     "sa": "कदाचित्",
+     "iast": "kadācit",
+     "en": "sometimes",
+     "hi": "कभी-कभी"
+    },
+    {
+     "sa": "आशु",
+     "iast": "āśu",
+     "en": "quickly",
+     "hi": "शीघ्र"
+    },
+    {
+     "sa": "अत्यभिहतानि",
+     "iast": "atyabhihatāni",
+     "en": "when very severely struck",
+     "hi": "बहुत अधिक चोट लगने पर"
+    }
+   ],
+   "english": "Of these, the immediately fatal marmas kill within seven nights, and the fatal-after-time marmas within a fortnight or a month; even among them, the Kṣipras sometimes kill quickly. The viśalyaprāṇahara and disabling marmas sometimes kill when very severely struck.",
+   "hindi": "इनमें सद्यःप्राणहर मर्म सात रातों के भीतर मारते हैं, और कालान्तरप्राणहर मर्म एक पक्ष (पन्द्रह दिन) या एक मास में; इनमें भी क्षिप्र मर्म कभी-कभी शीघ्र मार देते हैं। विशल्यप्राणहर और वैकल्यकर मर्म भी बहुत अधिक चोट लगने पर कभी-कभी मार देते हैं।",
+   "explanation_en": "This verse gives the time-frame of fatality: sadyaḥ = within 7 days (so 'immediate' does not always mean on the spot), kālāntara = 15 days to 1 month. It also notes exceptions: Kṣipra can kill quickly, and even vaikalyakara or viśalyaghna marmas can be fatal if the blow is severe. Time limits (7 days / fortnight / month) are often asked.",
+   "explanation_hi": "यह श्लोक मृत्यु की समय-सीमा बताता है: सद्यः = 7 दिन के भीतर (अर्थात् 'तुरन्त' का अर्थ हमेशा घटना-स्थल पर नहीं), कालान्तर = 15 दिन से 1 मास। अपवाद भी बताए गए: क्षिप्र शीघ्र मार सकता है, और वैकल्यकर या विशल्यघ्न मर्म भी तीव्र चोट से घातक हो सकते हैं। समय-सीमा (7 दिन / पक्ष / मास) अक्सर पूछी जाती है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sadyaḥprāṇahara",
+    "kālāntaraprāṇahara",
+    "kṣipra",
+    "saptarātra"
+   ],
+   "tags": [
+    "marma",
+    "prognosis",
+    "time-frame",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Sadyaḥ = 7 nights; Kālāntara = 15-30 days",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sharira.6.24",
+   "word_meanings": [
+    {
+     "sa": "अतः ऊर्ध्वम्",
+     "iast": "ataḥ ūrdhvam",
+     "en": "hereafter",
+     "hi": "इसके बाद"
+    },
+    {
+     "sa": "प्रत्येकशः",
+     "iast": "pratyekaśaḥ",
+     "en": "one by one",
+     "hi": "एक-एक करके"
+    },
+    {
+     "sa": "मर्मस्थानानि",
+     "iast": "marmasthānāni",
+     "en": "the sites of marmas",
+     "hi": "मर्मों के स्थान"
+    },
+    {
+     "sa": "पादस्य",
+     "iast": "pādasya",
+     "en": "of the foot",
+     "hi": "पैर के"
+    },
+    {
+     "sa": "अङ्गुष्ठाङ्गुल्योः मध्ये",
+     "iast": "aṅguṣṭhāṅgulyoḥ madhye",
+     "en": "between the great toe and the (next) toe",
+     "hi": "अंगूठे और (दूसरी) अंगुली के बीच"
+    },
+    {
+     "sa": "विद्धस्य",
+     "iast": "viddhasya",
+     "en": "of one pierced",
+     "hi": "बिंधे हुए का"
+    },
+    {
+     "sa": "आक्षेपकेण",
+     "iast": "ākṣepakeṇa",
+     "en": "by convulsions",
+     "hi": "आक्षेपक (ऐंठन) से"
+    },
+    {
+     "sa": "मरणम्",
+     "iast": "maraṇam",
+     "en": "death",
+     "hi": "मृत्यु"
+    },
+    {
+     "sa": "मध्यमाङ्गुलीम् अनुपूर्वेण",
+     "iast": "madhyamāṅgulīm anupūrveṇa",
+     "en": "in line with the middle toe",
+     "hi": "मध्यमा अंगुली की सीध में"
+    },
+    {
+     "sa": "पादतलस्य मध्ये",
+     "iast": "pādatalasya madhye",
+     "en": "in the middle of the sole",
+     "hi": "तलवे के बीच में"
+    },
+    {
+     "sa": "रुजाभिः",
+     "iast": "rujābhiḥ",
+     "en": "from pains",
+     "hi": "पीड़ा से"
+    },
+    {
+     "sa": "क्षिप्रस्य उपरिष्टात्",
+     "iast": "kṣiprasya upariṣṭāt",
+     "en": "above Kṣipra",
+     "hi": "क्षिप्र के ऊपर"
+    },
+    {
+     "sa": "उभयतः",
+     "iast": "ubhayataḥ",
+     "en": "on both sides",
+     "hi": "दोनों ओर"
+    },
+    {
+     "sa": "भ्रमणवेपने",
+     "iast": "bhramaṇavepane",
+     "en": "turning (deviation) and trembling",
+     "hi": "घूमना (टेढ़ा होना) और काँपना"
+    },
+    {
+     "sa": "गुल्फसन्धेः अधः",
+     "iast": "gulphasandheḥ adhaḥ",
+     "en": "below the ankle joint",
+     "hi": "टखने की सन्धि के नीचे"
+    },
+    {
+     "sa": "रुजाशोफौ",
+     "iast": "rujāśophau",
+     "en": "pain and swelling",
+     "hi": "पीड़ा और सूजन"
+    },
+    {
+     "sa": "पादजङ्घयोः संधाने",
+     "iast": "pādajaṅghayoḥ saṃdhāne",
+     "en": "at the junction of foot and leg",
+     "hi": "पैर और पिंडली के जोड़ पर"
+    },
+    {
+     "sa": "स्तब्धपादता",
+     "iast": "stabdhapādatā",
+     "en": "stiffness of the foot",
+     "hi": "पैर की जकड़न"
+    },
+    {
+     "sa": "खञ्जता",
+     "iast": "khañjatā",
+     "en": "lameness",
+     "hi": "लँगड़ापन"
+    },
+    {
+     "sa": "पार्ष्णिं प्रति",
+     "iast": "pārṣṇiṃ prati",
+     "en": "in line with the heel",
+     "hi": "एड़ी की सीध में"
+    },
+    {
+     "sa": "जङ्घामध्ये",
+     "iast": "jaṅghāmadhye",
+     "en": "in the middle of the calf",
+     "hi": "पिंडली के बीच में"
+    },
+    {
+     "sa": "शोणितक्षयेण",
+     "iast": "śoṇitakṣayeṇa",
+     "en": "by loss of blood",
+     "hi": "रक्त-क्षय से"
+    },
+    {
+     "sa": "जङ्घोर्वोः संधाने",
+     "iast": "jaṅghorvoḥ saṃdhāne",
+     "en": "at the junction of leg and thigh",
+     "hi": "पिंडली और जाँघ के जोड़ पर"
+    },
+    {
+     "sa": "जानुनः ऊर्ध्वम्",
+     "iast": "jānunaḥ ūrdhvam",
+     "en": "above the knee",
+     "hi": "घुटने के ऊपर"
+    },
+    {
+     "sa": "त्र्यङ्गुलम्",
+     "iast": "tryaṅgulam",
+     "en": "three finger-breadths",
+     "hi": "तीन अंगुल"
+    },
+    {
+     "sa": "शोफाभिवृद्धिः",
+     "iast": "śophābhivṛddhiḥ",
+     "en": "increase of swelling",
+     "hi": "सूजन का बढ़ना"
+    },
+    {
+     "sa": "स्तब्धसक्थिता",
+     "iast": "stabdhasakthitā",
+     "en": "stiffness of the lower limb",
+     "hi": "पैर की जकड़न"
+    },
+    {
+     "sa": "ऊरुमध्ये",
+     "iast": "ūrumadhye",
+     "en": "in the middle of the thigh",
+     "hi": "जाँघ के बीच में"
+    },
+    {
+     "sa": "सक्थिशोषः",
+     "iast": "sakthiśoṣaḥ",
+     "en": "wasting of the lower limb",
+     "hi": "पैर का सूखना"
+    },
+    {
+     "sa": "वङ्क्षणसंधेः अधः",
+     "iast": "vaṅkṣaṇasaṃdheḥ adhaḥ",
+     "en": "below the inguinal joint",
+     "hi": "वंक्षण (ग्रोइन) सन्धि के नीचे"
+    },
+    {
+     "sa": "ऊरुमूले",
+     "iast": "ūrumūle",
+     "en": "at the root of the thigh",
+     "hi": "जाँघ की जड़ में"
+    },
+    {
+     "sa": "लोहितक्षयेण",
+     "iast": "lohitakṣayeṇa",
+     "en": "by loss of blood",
+     "hi": "रक्त-क्षय से"
+    },
+    {
+     "sa": "पक्षाघातः",
+     "iast": "pakṣāghātaḥ",
+     "en": "paralysis of one side (or limb)",
+     "hi": "पक्षाघात (लकवा)"
+    },
+    {
+     "sa": "वङ्क्षणवृषणयोः अन्तरे",
+     "iast": "vaṅkṣaṇavṛṣaṇayoḥ antare",
+     "en": "between groin and scrotum",
+     "hi": "वंक्षण और वृषण के बीच"
+    },
+    {
+     "sa": "षाण्ढ्यम्",
+     "iast": "ṣāṇḍhyam",
+     "en": "impotence",
+     "hi": "नपुंसकता"
+    },
+    {
+     "sa": "अल्पशुक्रता",
+     "iast": "alpaśukratā",
+     "en": "scanty semen",
+     "hi": "शुक्र की कमी"
+    },
+    {
+     "sa": "विशेषतः तु",
+     "iast": "viśeṣataḥ tu",
+     "en": "but specifically",
+     "hi": "परन्तु विशेष रूप से"
+    },
+    {
+     "sa": "बाहौ",
+     "iast": "bāhau",
+     "en": "in the arm",
+     "hi": "भुजा में"
+    },
+    {
+     "sa": "वक्षःकक्षयोः मध्ये",
+     "iast": "vakṣaḥkakṣayoḥ madhye",
+     "en": "between chest and axilla",
+     "hi": "छाती और काँख के बीच"
+    },
+    {
+     "sa": "उपद्रवाः",
+     "iast": "upadravāḥ",
+     "en": "complications",
+     "hi": "उपद्रव"
+    },
+    {
+     "sa": "कुण्ठता",
+     "iast": "kuṇṭhatā",
+     "en": "loss of hand function",
+     "hi": "हाथ की क्रिया-हीनता"
+    },
+    {
+     "sa": "कुणिः",
+     "iast": "kuṇiḥ",
+     "en": "crooked, crippled arm",
+     "hi": "टेढ़ा/लुंज हाथ"
+    },
+    {
+     "sa": "चतुश्चत्वारिंशत्",
+     "iast": "catuścatvāriṃśat",
+     "en": "forty-four",
+     "hi": "चवालीस"
+    },
+    {
+     "sa": "शाखासु",
+     "iast": "śākhāsu",
+     "en": "in the limbs",
+     "hi": "शाखाओं (हाथ-पैर) में"
+    }
+   ],
+   "english": "Hereafter we shall describe the sites of the marmas one by one. Between the great toe and the next toe of the foot is the marma called Kṣipra; one pierced there dies of ākṣepaka (convulsions). In line with the middle toe, in the middle of the sole, is Talahṛdaya; there too death from pain. Above Kṣipra on both sides is Kūrca; there the foot turns (deviates) and trembles. Below the ankle joint on both sides is Kūrcaśiras; there pain and swelling. At the junction of foot and leg is Gulpha; there pain, stiffness of the foot or lameness. In the middle of the calf, in line with the heel, is Indrabasti; there death from loss of blood. At the junction of leg and thigh is Jānu; there lameness. Three finger-breadths above the knee on both sides is Āṇi; there increase of swelling and stiffness of the limb. In the middle of the thigh is Ūrvī; there wasting of the limb from loss of blood. Above Ūrvī, below the inguinal joint, at the root of the thigh is Lohitākṣa; there, from loss of blood, paralysis (pakṣāghāta) or wasting of the limb. Between the groin and the scrotum is Viṭapa; there impotence or scanty semen. Thus the eleven marmas of the lower limb are explained. By this the other lower limb and the arms are explained. Specifically, what are Gulpha, Jānu and Viṭapa in the leg are Maṇibandha, Kūrpara and Kakṣadhara in the arm: just as Viṭapa is between groin and scrotum, so Kakṣadhara is between chest and axilla, and when it is pierced the same complications arise. Specifically, injury to Maṇibandha causes loss of hand function (kuṇṭhatā), to Kūrpara a crippled arm (kuṇi), and to Kakṣadhara paralysis. Thus the forty-four marmas of the limbs are explained.",
+   "hindi": "इसके बाद हम मर्मों के स्थान एक-एक करके बताएँगे। पैर के अंगूठे और दूसरी अंगुली के बीच 'क्षिप्र' नाम का मर्म है; वहाँ बिंधने पर आक्षेपक (ऐंठन) से मृत्यु होती है। मध्यमा अंगुली की सीध में तलवे के बीच 'तलहृदय' है; वहाँ भी पीड़ा से मृत्यु होती है। क्षिप्र के ऊपर दोनों ओर 'कूर्च' है; वहाँ पैर घूम जाता (टेढ़ा हो जाता) है और काँपता है। गुल्फ-सन्धि के नीचे दोनों ओर 'कूर्चशिर' है; वहाँ पीड़ा और सूजन होती है। पैर और पिंडली के जोड़ पर 'गुल्फ' है; वहाँ पीड़ा, पैर की जकड़न या लँगड़ापन होता है। एड़ी की सीध में पिंडली के बीच 'इन्द्रबस्ति' है; वहाँ रक्त-क्षय से मृत्यु होती है। पिंडली और जाँघ के जोड़ पर 'जानु' है; वहाँ लँगड़ापन होता है। घुटने से तीन अंगुल ऊपर दोनों ओर 'आणि' है; वहाँ सूजन बढ़ती है और पैर जकड़ जाता है। जाँघ के बीच 'ऊर्वी' है; वहाँ रक्त-क्षय से पैर सूख जाता है। ऊर्वी के ऊपर, वंक्षण-सन्धि के नीचे, जाँघ की जड़ में 'लोहिताक्ष' है; वहाँ रक्त-क्षय से पक्षाघात या पैर का सूखना होता है। वंक्षण और वृषण के बीच 'विटप' है; वहाँ नपुंसकता या शुक्र की कमी होती है। इस प्रकार पैर के ग्यारह मर्म बताए गए। इसी से दूसरे पैर और भुजाओं का वर्णन भी हो गया। विशेष यह है कि पैर में जो गुल्फ, जानु और विटप हैं, वे भुजा में मणिबन्ध, कूर्पर और कक्षधर हैं: जैसे विटप वंक्षण और वृषण के बीच है, वैसे ही कक्षधर छाती और काँख के बीच है, और उसके बिंधने पर वही उपद्रव होते हैं। विशेष रूप से मणिबन्ध में हाथ की क्रिया-हीनता (कुण्ठता), कूर्पर में हाथ टेढ़ा/लुंज (कुणि), और कक्षधर में पक्षाघात होता है। इस प्रकार शाखाओं के चवालीस मर्म बताए गए।",
+   "explanation_en": "This long passage gives the exact site and the result of injury for each limb marma, moving from toe to groin. The arm marmas mirror the leg marmas; only Maṇibandha, Kūrpara and Kakṣadhara differ. Learn each marma as a pair 'site + effect', e.g. Kṣipra → ākṣepaka, Indrabasti → death from blood loss, Lohitākṣa → pakṣāghāta, Viṭapa → ṣāṇḍhya. The measuring unit 'aṅgula' is the patient's own finger-breadth (svāṅgula).",
+   "explanation_hi": "यह लम्बा गद्य-भाग शाखाओं के हर मर्म का ठीक स्थान और चोट का परिणाम बताता है, अंगूठे से जाँघ की जड़ तक। भुजा के मर्म पैर जैसे ही हैं; केवल मणिबन्ध, कूर्पर और कक्षधर अलग हैं। हर मर्म को 'स्थान + परिणाम' के जोड़े में याद करें, जैसे क्षिप्र → आक्षेपक, इन्द्रबस्ति → रक्त-क्षय से मृत्यु, लोहिताक्ष → पक्षाघात, विटप → षाण्ढ्य। 'अंगुल' रोगी की अपनी अंगुली की चौड़ाई (स्वाङ्गुल) है।",
+   "modern_correlation": {
+    "en": "Commonly proposed correlations (approximate, and authors differ): Kṣipra, the first web space with the first dorsal metatarsal/ first digital vessels (puncture wounds here are a classic tetanus risk); Talahṛdaya, the plantar (or palmar) arch region; Kūrcaśiras, ankle ligaments; Gulpha and Jānu, the ankle and knee joints; Indrabasti, the mid-calf with the posterior tibial vessels; Āṇi, the suprapatellar quadriceps tendon region; Ūrvī, the femoral vessels in the adductor canal; Lohitākṣa, the femoral artery and vein in the femoral triangle (in the arm, the axillary vessels); Viṭapa, the inguinal canal and spermatic cord; Kakṣadhara, the axillary region with the brachial plexus. Injury to the femoral vessels can cause severe haemorrhage and limb ischaemia, which matches the effects described.",
+    "hi": "प्रचलित तुलनाएँ (अनुमानित, विद्वानों में मतभेद): क्षिप्र, पहला वेब-स्पेस और फर्स्ट डॉर्सल मेटाटार्सल/डिजिटल वाहिकाएँ (यहाँ के भेदक घाव टिटनेस का पुराना जोखिम हैं); तलहृदय, प्लान्टर (या पामर) आर्च क्षेत्र; कूर्चशिर, टखने के लिगामेंट; गुल्फ और जानु, टखना और घुटने का जोड़; इन्द्रबस्ति, पिंडली के बीच पोस्टीरियर टिबियल वाहिकाएँ; आणि, घुटने के ऊपर क्वाड्रिसेप्स टेंडन क्षेत्र; ऊर्वी, एडक्टर कैनाल में फीमोरल वाहिकाएँ; लोहिताक्ष, फीमोरल ट्रायंगल में फीमोरल धमनी-शिरा (भुजा में एक्सिलरी वाहिकाएँ); विटप, इंग्वाइनल कैनाल और स्पर्मेटिक कॉर्ड; कक्षधर, ब्रैकियल प्लेक्सस सहित काँख क्षेत्र। फीमोरल वाहिकाओं की चोट से भारी रक्तस्राव और अंग की इस्कीमिया हो सकती है, जो वर्णित परिणामों से मेल खाता है।"
+   },
+   "key_terms": [
+    "kṣipra",
+    "talahṛdaya",
+    "kūrca",
+    "kūrcaśiras",
+    "gulpha",
+    "indrabasti",
+    "jānu",
+    "āṇi",
+    "ūrvī",
+    "lohitākṣa",
+    "viṭapa",
+    "maṇibandha",
+    "kūrpara",
+    "kakṣadhara",
+    "ākṣepaka",
+    "pakṣāghāta"
+   ],
+   "tags": [
+    "marma",
+    "location",
+    "śākhā marma",
+    "effects",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Kṣipra-convulsion, Tala-pain, Indrabasti-bleed, Lohitākṣa-paralysis, Viṭapa-impotence",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sharira.6.25",
+   "word_meanings": [
+    {
+     "sa": "उदरोरसोः",
+     "iast": "udarorasoḥ",
+     "en": "of abdomen and chest",
+     "hi": "उदर और छाती के"
+    },
+    {
+     "sa": "अनुव्याख्यास्यामः",
+     "iast": "anuvyākhyāsyāmaḥ",
+     "en": "we shall next explain",
+     "hi": "आगे बताएँगे"
+    },
+    {
+     "sa": "वातवर्चोनिरसनम्",
+     "iast": "vātavarconirasanam",
+     "en": "expelling flatus and faeces",
+     "hi": "वायु और मल को निकालने वाला"
+    },
+    {
+     "sa": "स्थूलान्त्रप्रतिबद्धम्",
+     "iast": "sthūlāntrapratibaddham",
+     "en": "attached to the large intestine",
+     "hi": "बड़ी आँत से जुड़ा"
+    },
+    {
+     "sa": "गुदम्",
+     "iast": "gudam",
+     "en": "Guda (anorectum)",
+     "hi": "गुद"
+    },
+    {
+     "sa": "सद्योमरणम्",
+     "iast": "sadyomaraṇam",
+     "en": "immediate death",
+     "hi": "तुरन्त मृत्यु"
+    },
+    {
+     "sa": "अल्पमांसशोणितः",
+     "iast": "alpamāṃsaśoṇitaḥ",
+     "en": "with little muscle and blood",
+     "hi": "कम मांस और रक्त वाला"
+    },
+    {
+     "sa": "अभ्यन्तरतः कट्याम्",
+     "iast": "abhyantarataḥ kaṭyām",
+     "en": "inside the pelvis",
+     "hi": "कटि (श्रोणि) के भीतर"
+    },
+    {
+     "sa": "मूत्राशयः",
+     "iast": "mūtrāśayaḥ",
+     "en": "receptacle of urine",
+     "hi": "मूत्र का आशय"
+    },
+    {
+     "sa": "बस्तिः",
+     "iast": "bastiḥ",
+     "en": "Basti (urinary bladder)",
+     "hi": "बस्ति (मूत्राशय)"
+    },
+    {
+     "sa": "अश्मरीव्रणात् ऋते",
+     "iast": "aśmarīvraṇāt ṛte",
+     "en": "except in the wound for (removal of) stone",
+     "hi": "अश्मरी (पथरी) के शल्य-व्रण को छोड़कर"
+    },
+    {
+     "sa": "उभयतः भिन्ने",
+     "iast": "ubhayataḥ bhinne",
+     "en": "when pierced through on both sides",
+     "hi": "दोनों ओर से भिन्न (फटने) पर"
+    },
+    {
+     "sa": "न जीवति",
+     "iast": "na jīvati",
+     "en": "does not live",
+     "hi": "जीवित नहीं रहता"
+    },
+    {
+     "sa": "एकतः भिन्ने",
+     "iast": "ekataḥ bhinne",
+     "en": "when pierced on one side",
+     "hi": "एक ओर से भिन्न होने पर"
+    },
+    {
+     "sa": "मूत्रस्रावी व्रणः",
+     "iast": "mūtrasrāvī vraṇaḥ",
+     "en": "a urine-discharging wound (fistula)",
+     "hi": "मूत्र बहाने वाला व्रण"
+    },
+    {
+     "sa": "यत्नेन उपक्रान्तः",
+     "iast": "yatnena upakrāntaḥ",
+     "en": "treated with care",
+     "hi": "सावधानी से उपचार करने पर"
+    },
+    {
+     "sa": "रोहति",
+     "iast": "rohati",
+     "en": "heals",
+     "hi": "भर जाता है"
+    },
+    {
+     "sa": "पक्वामाशययोः मध्ये",
+     "iast": "pakvāmāśayayoḥ madhye",
+     "en": "between the large and small (upper) gut",
+     "hi": "पक्वाशय और आमाशय के बीच"
+    },
+    {
+     "sa": "सिराप्रभवा",
+     "iast": "sirāprabhavā",
+     "en": "origin of the vessels",
+     "hi": "सिराओं का उद्गम"
+    },
+    {
+     "sa": "नाभिः",
+     "iast": "nābhiḥ",
+     "en": "Nābhi (umbilicus)",
+     "hi": "नाभि"
+    },
+    {
+     "sa": "स्तनयोः मध्यम्",
+     "iast": "stanayoḥ madhyam",
+     "en": "between the two breasts",
+     "hi": "दोनों स्तनों के बीच"
+    },
+    {
+     "sa": "अधिष्ठाय उरसि",
+     "iast": "adhiṣṭhāya urasi",
+     "en": "located in the chest",
+     "hi": "छाती में स्थित"
+    },
+    {
+     "sa": "आमाशयद्वारम्",
+     "iast": "āmāśayadvāram",
+     "en": "the gateway of the āmāśaya",
+     "hi": "आमाशय का द्वार"
+    },
+    {
+     "sa": "सत्त्वरजस्तमसाम् अधिष्ठानम्",
+     "iast": "sattvarajastamasām adhiṣṭhānam",
+     "en": "seat of sattva, rajas and tamas",
+     "hi": "सत्त्व, रज और तम का आश्रय"
+    },
+    {
+     "sa": "स्तनयोः अधस्तात्",
+     "iast": "stanayoḥ adhastāt",
+     "en": "below the breasts",
+     "hi": "स्तनों के नीचे"
+    },
+    {
+     "sa": "द्व्यङ्गुलम्",
+     "iast": "dvyaṅgulam",
+     "en": "two finger-breadths",
+     "hi": "दो अंगुल"
+    },
+    {
+     "sa": "कफपूर्णकोष्ठतया",
+     "iast": "kaphapūrṇakoṣṭhatayā",
+     "en": "by the chest cavity being filled with kapha",
+     "hi": "कोष्ठ के कफ से भर जाने से"
+    },
+    {
+     "sa": "स्तनचूचुकयोः ऊर्ध्वम्",
+     "iast": "stanacūcukayoḥ ūrdhvam",
+     "en": "above the nipples",
+     "hi": "स्तन-चूचुकों के ऊपर"
+    },
+    {
+     "sa": "लोहितपूर्णकोष्ठतया",
+     "iast": "lohitapūrṇakoṣṭhatayā",
+     "en": "by the cavity being filled with blood",
+     "hi": "कोष्ठ के रक्त से भर जाने से"
+    },
+    {
+     "sa": "कासश्वासाभ्याम्",
+     "iast": "kāsaśvāsābhyām",
+     "en": "from cough and dyspnoea",
+     "hi": "खाँसी और श्वास (साँस फूलना) से"
+    },
+    {
+     "sa": "अंसकूटयोः अधस्तात्",
+     "iast": "aṃsakūṭayoḥ adhastāt",
+     "en": "below the shoulder tips",
+     "hi": "कन्धों के शिखर के नीचे"
+    },
+    {
+     "sa": "पार्श्वोपरिभागयोः",
+     "iast": "pārśvoparibhāgayoḥ",
+     "en": "at the upper part of the sides",
+     "hi": "पार्श्व के ऊपरी भाग में"
+    },
+    {
+     "sa": "रक्तेन पूयभावं गतेन",
+     "iast": "raktena pūyabhāvaṃ gatena",
+     "en": "by blood turning into pus",
+     "hi": "रक्त के पूय (मवाद) बनने से"
+    },
+    {
+     "sa": "उरसः नाड्यौ",
+     "iast": "urasaḥ nāḍyau",
+     "en": "two tubes of the chest",
+     "hi": "छाती की दो नाड़ियाँ"
+    },
+    {
+     "sa": "वातवहे",
+     "iast": "vātavahe",
+     "en": "carrying vāta (air)",
+     "hi": "वायु वहन करने वाली"
+    },
+    {
+     "sa": "वातपूर्णकोष्ठतया",
+     "iast": "vātapūrṇakoṣṭhatayā",
+     "en": "by the cavity being filled with air",
+     "hi": "कोष्ठ के वायु से भर जाने से"
+    }
+   ],
+   "english": "Hereafter we shall describe the marmas of the abdomen and chest. Attached to the large intestine, serving to expel flatus and faeces, is the marma called Guda; there death is immediate. Inside the pelvis, with little muscle and blood, is the receptacle of urine, Basti; there too death is immediate, except in the wound made for removing a stone (aśmarī); even then, if it is pierced through on both sides the person does not live, while if pierced on one side a urine-discharging wound forms, which heals if treated with care. Between the pakvāśaya and āmāśaya is Nābhi, the origin of the vessels; there too death is immediate. Located in the chest between the breasts, the gateway of the āmāśaya and the seat of sattva, rajas and tamas, is Hṛdaya; there too death is immediate. Two finger-breadths below the breasts on both sides is Stanamūla; there one dies because the chest cavity fills with kapha. Two finger-breadths above the nipples on both sides is Stanarohita; there one dies because the cavity fills with blood, and from cough and breathlessness. Below the shoulder tips, at the upper part of the sides, are the Apalāpas; there death occurs from blood turning into pus. On both sides of the chest are two vāta-carrying tubes, the Apastambhas; there death occurs because the cavity fills with air, and from cough and breathlessness. Thus the twelve marmas of the abdomen and chest are explained.",
+   "hindi": "इसके बाद हम उदर और छाती के मर्म बताएँगे। बड़ी आँत से जुड़ा, वायु और मल को निकालने वाला 'गुद' नाम का मर्म है; वहाँ तुरन्त मृत्यु होती है। कटि (श्रोणि) के भीतर, कम मांस और रक्त वाला, मूत्र का आशय 'बस्ति' है; वहाँ भी तुरन्त मृत्यु होती है, केवल अश्मरी (पथरी) निकालने के व्रण को छोड़कर; उसमें भी यदि दोनों ओर से फट जाए तो व्यक्ति नहीं बचता, और एक ओर से फटे तो मूत्र बहाने वाला व्रण बनता है, जो सावधानी से उपचार करने पर भर जाता है। पक्वाशय और आमाशय के बीच सिराओं का उद्गम 'नाभि' है; वहाँ भी तुरन्त मृत्यु होती है। छाती में दोनों स्तनों के बीच स्थित, आमाशय का द्वार और सत्त्व, रज, तम का आश्रय 'हृदय' है; वहाँ भी तुरन्त मृत्यु होती है। स्तनों से दो अंगुल नीचे दोनों ओर 'स्तनमूल' है; वहाँ कोष्ठ के कफ से भर जाने से मृत्यु होती है। चूचुकों से दो अंगुल ऊपर दोनों ओर 'स्तनरोहित' है; वहाँ कोष्ठ के रक्त से भर जाने से, तथा खाँसी और श्वास से मृत्यु होती है। कन्धों के शिखर के नीचे, पार्श्व के ऊपरी भाग में 'अपलाप' हैं; वहाँ रक्त के पूय (मवाद) बनने से मृत्यु होती है। छाती के दोनों ओर वायु वहन करने वाली दो नाड़ियाँ 'अपस्तम्भ' हैं; वहाँ कोष्ठ के वायु से भर जाने से, तथा खाँसी और श्वास से मृत्यु होती है। इस प्रकार उदर और छाती के बारह मर्म बताए गए।",
+   "explanation_en": "Here the site and effect of each trunk marma is given. Note the striking surgical detail on Basti: the bladder is normally a sadyaḥprāṇahara marma, yet in lithotomy (aśmarī surgery) a one-sided incision heals, while a through-and-through wound is fatal. Hṛdaya is called the seat of the three mental qualities (sattva, rajas, tamas), showing its role as seat of consciousness. Stanamūla, Stanarohita and Apastambha kill by filling the koṣṭha (chest cavity) with kapha, blood and air respectively, a useful triad to remember.",
+   "explanation_hi": "यहाँ धड़ के हर मर्म का स्थान और परिणाम दिया है। बस्ति के बारे में शल्य-सम्बन्धी विशेष बात: मूत्राशय सामान्यतः सद्यःप्राणहर मर्म है, परन्तु अश्मरी-शल्यकर्म में एक ओर का चीरा भर जाता है, जबकि आर-पार का घाव घातक है। हृदय को सत्त्व, रज, तम का आश्रय कहा गया है, जो उसे चेतना का स्थान बताता है। स्तनमूल, स्तनरोहित और अपस्तम्भ क्रमशः कफ, रक्त और वायु से कोष्ठ भरने से मारते हैं; यह त्रयी याद रखें।",
+   "modern_correlation": {
+    "en": "These descriptions are often compared to modern thoracic and abdominal trauma: Guda and Basti to rectal and bladder injuries (an intraperitoneal bladder rupture causes urinary peritonitis, while an extraperitoneal or surgical cystotomy wound can heal, sometimes after a temporary urinary fistula); Nābhi to the region overlying the abdominal aorta and mesenteric vessels; Hṛdaya to cardiac injury; Stanarohita (cavity filled with blood) to haemothorax; Apastambha (cavity filled with air, with breathlessness) to pneumothorax, the 'vāta-carrying tubes' being compared to the bronchi; Stanamūla (filled with kapha) to pleural fluid collection; Apalāpa (blood turning to pus) to empyema or abscess. These are interpretive parallels.",
+    "hi": "इन वर्णनों की तुलना प्रायः आधुनिक वक्ष और उदर-ट्रॉमा से की जाती है: गुद और बस्ति की मलाशय और मूत्राशय की चोट से (इंट्रापेरिटोनियल ब्लैडर रप्चर से मूत्र-जनित पेरिटोनाइटिस होता है, जबकि एक्स्ट्रापेरिटोनियल या शल्यक सिस्टोटॉमी का घाव, कभी अस्थायी मूत्र-फिस्टुला के बाद, भर सकता है); नाभि की उदर-महाधमनी (एओर्टा) और मेसेन्टेरिक वाहिकाओं के ऊपर के क्षेत्र से; हृदय की कार्डियक चोट से; स्तनरोहित (कोष्ठ में रक्त) की हीमोथोरैक्स से; अपस्तम्भ (कोष्ठ में वायु, साँस फूलना) की न्यूमोथोरैक्स से, और 'वातवह नाड़ियों' की ब्रॉन्काई से; स्तनमूल (कफ से भरना) की प्लूरल द्रव-संग्रह से; अपलाप (रक्त का पूय बनना) की एम्पाइमा या फोड़े से। ये व्याख्यात्मक समानताएँ हैं।"
+   },
+   "key_terms": [
+    "guda",
+    "basti",
+    "nābhi",
+    "hṛdaya",
+    "stanamūla",
+    "stanarohita",
+    "apalāpa",
+    "apastambha",
+    "aśmarī",
+    "koṣṭha"
+   ],
+   "tags": [
+    "marma",
+    "location",
+    "trunk",
+    "effects",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Stanamūla-Kapha, Stanarohita-Rakta, Apastambha-Vāta fill the koṣṭha",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sharira.6.26",
+   "word_meanings": [
+    {
+     "sa": "पृष्ठमर्माणि",
+     "iast": "pṛṣṭhamarmāṇi",
+     "en": "marmas of the back",
+     "hi": "पीठ के मर्म"
+    },
+    {
+     "sa": "पृष्ठवंशम् उभयतः",
+     "iast": "pṛṣṭhavaṃśam ubhayataḥ",
+     "en": "on both sides of the vertebral column",
+     "hi": "मेरुदण्ड के दोनों ओर"
+    },
+    {
+     "sa": "प्रतिश्रोणिकाण्डम्",
+     "iast": "pratiśroṇikāṇḍam",
+     "en": "in relation to the hip bones",
+     "hi": "श्रोणि-अस्थियों के पास"
+    },
+    {
+     "sa": "अस्थिनी",
+     "iast": "asthinī",
+     "en": "two bones",
+     "hi": "दो अस्थियाँ"
+    },
+    {
+     "sa": "पाण्डुः",
+     "iast": "pāṇḍuḥ",
+     "en": "pale",
+     "hi": "पीला (फीका)"
+    },
+    {
+     "sa": "विवर्णः",
+     "iast": "vivarṇaḥ",
+     "en": "discoloured",
+     "hi": "विवर्ण"
+    },
+    {
+     "sa": "हीनरूपः",
+     "iast": "hīnarūpaḥ",
+     "en": "deformed, emaciated",
+     "hi": "क्षीण रूप वाला"
+    },
+    {
+     "sa": "पार्श्वजघनबहिर्भागे",
+     "iast": "pārśvajaghanabahirbhāge",
+     "en": "on the outer side of the flanks of the hips",
+     "hi": "कूल्हे के पार्श्व के बाहरी भाग में"
+    },
+    {
+     "sa": "स्पर्शाज्ञानम्",
+     "iast": "sparśājñānam",
+     "en": "loss of touch sensation",
+     "hi": "स्पर्श का ज्ञान न होना"
+    },
+    {
+     "sa": "अधःकाये",
+     "iast": "adhaḥkāye",
+     "en": "in the lower body",
+     "hi": "निचले शरीर में"
+    },
+    {
+     "sa": "चेष्टोपघातः",
+     "iast": "ceṣṭopaghātaḥ",
+     "en": "impairment of movement",
+     "hi": "गति (क्रिया) की हानि"
+    },
+    {
+     "sa": "श्रोणीकाण्डयोः उपरि",
+     "iast": "śroṇīkāṇḍayoḥ upari",
+     "en": "above the hip bones",
+     "hi": "श्रोणि-अस्थियों के ऊपर"
+    },
+    {
+     "sa": "आशयाच्छादनौ",
+     "iast": "āśayācchādanau",
+     "en": "covering the viscera",
+     "hi": "आशयों को ढकने वाले"
+    },
+    {
+     "sa": "पार्श्वान्तरप्रतिबद्धौ",
+     "iast": "pārśvāntarapratibaddhau",
+     "en": "attached to the inner sides of the flanks",
+     "hi": "पार्श्व के भीतरी भाग से जुड़े"
+    },
+    {
+     "sa": "अधःकायशोषः",
+     "iast": "adhaḥkāyaśoṣaḥ",
+     "en": "wasting of the lower body",
+     "hi": "निचले शरीर का सूखना"
+    },
+    {
+     "sa": "दौर्बल्यात्",
+     "iast": "daurbalyāt",
+     "en": "from weakness",
+     "hi": "दुर्बलता से"
+    },
+    {
+     "sa": "जघनपार्श्वमध्ययोः",
+     "iast": "jaghanapārśvamadhyayoḥ",
+     "en": "between the hips and the flanks",
+     "hi": "कूल्हे और पार्श्व के बीच"
+    },
+    {
+     "sa": "तिर्यक् ऊर्ध्वम्",
+     "iast": "tiryak ūrdhvam",
+     "en": "obliquely upward",
+     "hi": "तिरछे ऊपर"
+    },
+    {
+     "sa": "स्तनमूलात् ऋजु",
+     "iast": "stanamūlāt ṛju",
+     "en": "straight (in line) from the Stanamūla",
+     "hi": "स्तनमूल की सीध में"
+    },
+    {
+     "sa": "शोणितातिप्रवृत्तिनिमित्तैः",
+     "iast": "śoṇitātipravṛttinimittaiḥ",
+     "en": "caused by excessive bleeding",
+     "hi": "अधिक रक्तस्राव से उत्पन्न"
+    },
+    {
+     "sa": "उपद्रवैः",
+     "iast": "upadravaiḥ",
+     "en": "by complications",
+     "hi": "उपद्रवों से"
+    },
+    {
+     "sa": "पृष्ठोपरि",
+     "iast": "pṛṣṭhopari",
+     "en": "on the upper back",
+     "hi": "पीठ के ऊपरी भाग में"
+    },
+    {
+     "sa": "त्रिकसम्बद्धे",
+     "iast": "trikasambaddhe",
+     "en": "connected with the trika",
+     "hi": "त्रिक से जुड़े"
+    },
+    {
+     "sa": "बाह्वोः स्वापशोषौ",
+     "iast": "bāhvoḥ svāpaśoṣau",
+     "en": "numbness and wasting of the arms",
+     "hi": "भुजाओं में सुन्नपन और सूखना"
+    },
+    {
+     "sa": "बाहुमूर्धग्रीवामध्ये",
+     "iast": "bāhumūrdhagrīvāmadhye",
+     "en": "between the top of the arm and the neck",
+     "hi": "भुजा के शिखर और गर्दन के बीच"
+    },
+    {
+     "sa": "अंसपीठस्कन्धनिबन्धनौ",
+     "iast": "aṃsapīṭhaskandhanibandhanau",
+     "en": "binding the shoulder socket to the shoulder",
+     "hi": "अंसपीठ और स्कन्ध को बाँधने वाले"
+    },
+    {
+     "sa": "स्तब्धबाहुता",
+     "iast": "stabdhabāhutā",
+     "en": "stiffness of the arm",
+     "hi": "भुजा की जकड़न"
+    }
+   ],
+   "english": "Hereafter we shall describe the marmas of the back. On both sides of the vertebral column, in relation to the hip bones, are the two bone-marmas Kaṭīkataruṇa; there, from loss of blood, the person becomes pale, discoloured and wasted, and dies. On the outer side of the flanks of the hips, on both sides of the vertebral column, are the Kukundaras; there, loss of touch sensation and impaired movement in the lower body. Above the hip bones, covering the viscera and attached to the inner sides of the flanks, are the Nitambas; there wasting of the lower body and death from weakness. Lower down, attached to the sides, between the hips and the flanks, obliquely upward from the hips, are the Pārśvasandhis; there one dies because the cavity fills with blood. In line with the Stanamūla, on both sides of the vertebral column, are the Bṛhatīs; there one dies of complications caused by excessive bleeding. On the upper back, on both sides of the vertebral column, connected with the trika, are the Aṃsaphalakas; there numbness and wasting of the arms. Between the top of the arm and the neck, binding the shoulder socket to the shoulder, are the Aṃsas; there stiffness of the arm. Thus the fourteen marmas of the back are explained.",
+   "hindi": "इसके बाद हम पीठ के मर्म बताएँगे। मेरुदण्ड के दोनों ओर, श्रोणि-अस्थियों के पास, 'कटीकतरुण' नाम के दो अस्थि-मर्म हैं; वहाँ रक्त-क्षय से व्यक्ति पीला, विवर्ण और क्षीण होकर मर जाता है। कूल्हे के पार्श्व के बाहरी भाग में, मेरुदण्ड के दोनों ओर 'कुकुन्दर' हैं; वहाँ निचले शरीर में स्पर्श का ज्ञान नहीं रहता और गति नष्ट होती है। श्रोणि-अस्थियों के ऊपर, आशयों को ढकने वाले, पार्श्व के भीतरी भाग से जुड़े 'नितम्ब' हैं; वहाँ निचला शरीर सूख जाता है और दुर्बलता से मृत्यु होती है। नीचे पार्श्व से जुड़े, कूल्हे और पार्श्व के बीच, कूल्हे से तिरछे ऊपर 'पार्श्वसन्धि' हैं; वहाँ कोष्ठ के रक्त से भर जाने से मृत्यु होती है। स्तनमूल की सीध में, मेरुदण्ड के दोनों ओर 'बृहती' हैं; वहाँ अधिक रक्तस्राव से होने वाले उपद्रवों से मृत्यु होती है। पीठ के ऊपरी भाग में, मेरुदण्ड के दोनों ओर, त्रिक से जुड़े 'अंसफलक' हैं; वहाँ भुजाओं में सुन्नपन और सूखना होता है। भुजा के शिखर और गर्दन के बीच, अंसपीठ और स्कन्ध को बाँधने वाले 'अंस' हैं; वहाँ भुजा जकड़ जाती है। इस प्रकार पीठ के चौदह मर्म बताए गए।",
+   "explanation_en": "The fourteen back marmas are seven pairs, described from the pelvis upwards: Kaṭīkataruṇa, Kukundara, Nitamba, Pārśvasandhi, Bṛhatī, Aṃsaphalaka, Aṃsa. Three of them (Kaṭīkataruṇa, Pārśvasandhi, Bṛhatī) kill through bleeding; Kukundara affects sensation and movement of the lower body; Aṃsaphalaka and Aṃsa affect the arms. 'Trika' here is the region where the shoulder girdle meets the spine (commentators also use it for the sacral region).",
+   "explanation_hi": "पीठ के चौदह मर्म सात जोड़े हैं, श्रोणि से ऊपर की ओर: कटीकतरुण, कुकुन्दर, नितम्ब, पार्श्वसन्धि, बृहती, अंसफलक, अंस। इनमें तीन (कटीकतरुण, पार्श्वसन्धि, बृहती) रक्तस्राव से मारते हैं; कुकुन्दर निचले शरीर की संवेदना और गति प्रभावित करता है; अंसफलक और अंस भुजाओं को प्रभावित करते हैं। यहाँ 'त्रिक' कन्धे की मेखला और मेरुदण्ड के मिलन का क्षेत्र है (टीकाकार इसे त्रिकास्थि क्षेत्र के लिए भी प्रयोग करते हैं)।",
+   "modern_correlation": {
+    "en": "Approximate correlations proposed by authors (with differences of opinion): Kaṭīkataruṇa, the sacroiliac/iliac region, where pelvic fractures can bleed heavily; Kukundara, the posterior superior iliac spine region near the sacral plexus and sciatic nerve outflow, matching the sensory-motor loss described; Pārśvasandhi, the loin, where retroperitoneal (renal, lumbar) haemorrhage can occur; Bṛhatī, the paravertebral thoracic region near the intercostal and posterior thoracic vessels; Aṃsaphalaka, the scapula with the suprascapular nerve; Aṃsa, the shoulder and trapezius region.",
+    "hi": "विद्वानों द्वारा प्रस्तावित अनुमानित तुलनाएँ (मतभेद सहित): कटीकतरुण, सैक्रोइलियक/इलियक क्षेत्र, जहाँ श्रोणि-अस्थिभंग में भारी रक्तस्राव हो सकता है; कुकुन्दर, पोस्टीरियर सुपीरियर इलियक स्पाइन क्षेत्र, सैक्रल प्लेक्सस और साइटिक नस के पास, जो वर्णित संवेदना-गति हानि से मेल खाता है; पार्श्वसन्धि, कमर (लॉइन) क्षेत्र, जहाँ रेट्रोपेरिटोनियल (गुर्दे, लम्बर) रक्तस्राव हो सकता है; बृहती, वक्षीय मेरुदण्ड के पास इंटरकोस्टल और पश्च वक्षीय वाहिकाएँ; अंसफलक, स्कैपुला और सुप्रास्कैपुलर नस; अंस, कन्धा और ट्रेपेज़ियस क्षेत्र।"
+   },
+   "key_terms": [
+    "kaṭīkataruṇa",
+    "kukundara",
+    "nitamba",
+    "pārśvasandhi",
+    "bṛhatī",
+    "aṃsaphalaka",
+    "aṃsa",
+    "pṛṣṭhavaṃśa",
+    "trika"
+   ],
+   "tags": [
+    "marma",
+    "location",
+    "back",
+    "effects",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Back, bottom to top: 'Kaṭī-Kuku-Nita-Pārśva-Bṛhatī-Aṃsaphalaka-Aṃsa'",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sharira.6.27",
+   "word_meanings": [
+    {
+     "sa": "ऊर्ध्वजत्रुगतानि",
+     "iast": "ūrdhvajatrugatāni",
+     "en": "those above the clavicle",
+     "hi": "जत्रु के ऊपर स्थित"
+    },
+    {
+     "sa": "कण्ठनाडीम् उभयतः",
+     "iast": "kaṇṭhanāḍīm ubhayataḥ",
+     "en": "on both sides of the windpipe",
+     "hi": "कण्ठनाड़ी (श्वासनली) के दोनों ओर"
+    },
+    {
+     "sa": "चतस्रः धमन्यः",
+     "iast": "catasraḥ dhamanyaḥ",
+     "en": "four dhamanīs",
+     "hi": "चार धमनियाँ"
+    },
+    {
+     "sa": "द्वे नीले",
+     "iast": "dve nīle",
+     "en": "two Nīlās",
+     "hi": "दो नीला"
+    },
+    {
+     "sa": "द्वे मन्ये",
+     "iast": "dve manye",
+     "en": "two Manyās",
+     "hi": "दो मन्या"
+    },
+    {
+     "sa": "व्यत्यासेन",
+     "iast": "vyatyāsena",
+     "en": "alternately",
+     "hi": "बारी-बारी से (एक के बाद एक)"
+    },
+    {
+     "sa": "मूकता",
+     "iast": "mūkatā",
+     "en": "dumbness",
+     "hi": "गूँगापन"
+    },
+    {
+     "sa": "स्वरवैकृतम्",
+     "iast": "svaravaikṛtam",
+     "en": "alteration of voice",
+     "hi": "स्वर-विकार"
+    },
+    {
+     "sa": "अरसग्राहिता",
+     "iast": "arasagrāhitā",
+     "en": "inability to perceive taste",
+     "hi": "स्वाद न आना"
+    },
+    {
+     "sa": "ग्रीवायाम्",
+     "iast": "grīvāyām",
+     "en": "in the neck",
+     "hi": "गर्दन में"
+    },
+    {
+     "sa": "मातृकाः",
+     "iast": "mātṛkāḥ",
+     "en": "Mātṛkās",
+     "hi": "मातृका"
+    },
+    {
+     "sa": "शिरोग्रीवयोः संधाने",
+     "iast": "śirogrīvayoḥ saṃdhāne",
+     "en": "at the junction of head and neck",
+     "hi": "सिर और गर्दन के जोड़ पर"
+    },
+    {
+     "sa": "चलमूर्धता",
+     "iast": "calamūrdhatā",
+     "en": "unsteadiness of the head",
+     "hi": "सिर का हिलते रहना (अस्थिरता)"
+    },
+    {
+     "sa": "कर्णपृष्ठतः अधःसंश्रिते",
+     "iast": "karṇapṛṣṭhataḥ adhaḥsaṃśrite",
+     "en": "behind and below the ears",
+     "hi": "कान के पीछे नीचे"
+    },
+    {
+     "sa": "बाधिर्यम्",
+     "iast": "bādhiryam",
+     "en": "deafness",
+     "hi": "बहरापन"
+    },
+    {
+     "sa": "घ्राणमार्गम् उभयतः",
+     "iast": "ghrāṇamārgam ubhayataḥ",
+     "en": "on both sides of the nasal passage",
+     "hi": "नासा-मार्ग के दोनों ओर"
+    },
+    {
+     "sa": "स्रोतोमार्गप्रतिबद्धे",
+     "iast": "srotomārgapratibaddhe",
+     "en": "connected with the channels",
+     "hi": "स्रोतों के मार्ग से जुड़े"
+    },
+    {
+     "sa": "गन्धाज्ञानम्",
+     "iast": "gandhājñānam",
+     "en": "loss of smell",
+     "hi": "गन्ध का ज्ञान न होना"
+    },
+    {
+     "sa": "भ्रूपुच्छान्तयोः अधः",
+     "iast": "bhrūpucchāntayoḥ adhaḥ",
+     "en": "below the tail-ends of the eyebrows",
+     "hi": "भौंहों के पूँछ-सिरों के नीचे"
+    },
+    {
+     "sa": "अक्ष्णोः बाह्यतः",
+     "iast": "akṣṇoḥ bāhyataḥ",
+     "en": "at the outer side of the eyes",
+     "hi": "आँखों के बाहरी ओर"
+    },
+    {
+     "sa": "आन्ध्यम्",
+     "iast": "āndhyam",
+     "en": "blindness",
+     "hi": "अन्धापन"
+    },
+    {
+     "sa": "दृष्ट्युपघातः",
+     "iast": "dṛṣṭyupaghātaḥ",
+     "en": "impairment of vision",
+     "hi": "दृष्टि की हानि"
+    },
+    {
+     "sa": "भ्रुवोः उपरि निम्नयोः",
+     "iast": "bhruvoḥ upari nimnayoḥ",
+     "en": "in the depressions above the eyebrows",
+     "hi": "भौंहों के ऊपर गड्ढों में"
+    },
+    {
+     "sa": "कर्णललाटयोः मध्ये",
+     "iast": "karṇalalāṭayoḥ madhye",
+     "en": "between ear and forehead",
+     "hi": "कान और ललाट के बीच"
+    },
+    {
+     "sa": "केशान्ते",
+     "iast": "keśānte",
+     "en": "at the hairline",
+     "hi": "केशों की सीमा पर"
+    },
+    {
+     "sa": "सशल्यः जीवति",
+     "iast": "saśalyaḥ jīvati",
+     "en": "lives with the foreign body in place",
+     "hi": "शल्य सहित जीवित रहता है"
+    },
+    {
+     "sa": "न उद्धृतशल्यः",
+     "iast": "na uddhṛtaśalyaḥ",
+     "en": "not if the foreign body is pulled out",
+     "hi": "शल्य निकालने पर नहीं"
+    },
+    {
+     "sa": "भ्रुवोः मध्ये",
+     "iast": "bhruvoḥ madhye",
+     "en": "between the eyebrows",
+     "hi": "भौंहों के बीच"
+    },
+    {
+     "sa": "पञ्च सन्धयः",
+     "iast": "pañca sandhayaḥ",
+     "en": "five joints (sutures)",
+     "hi": "पाँच सन्धियाँ"
+    },
+    {
+     "sa": "शिरसि विभक्ताः",
+     "iast": "śirasi vibhaktāḥ",
+     "en": "dividing the skull",
+     "hi": "सिर में विभक्त"
+    },
+    {
+     "sa": "उन्मादभयचित्तनाशैः",
+     "iast": "unmādabhayacittanāśaiḥ",
+     "en": "by insanity, fear and loss of mind",
+     "hi": "उन्माद, भय और चित्तनाश से"
+    },
+    {
+     "sa": "घ्राणश्रोत्राक्षिजिह्वासंतर्पणीनाम्",
+     "iast": "ghrāṇaśrotrākṣijihvāsaṃtarpaṇīnām",
+     "en": "nourishing the nose, ears, eyes and tongue",
+     "hi": "नाक, कान, आँख और जीभ को पोषण देने वाली"
+    },
+    {
+     "sa": "सिरासन्निपातः",
+     "iast": "sirāsannipātaḥ",
+     "en": "confluence of vessels",
+     "hi": "सिराओं का संगम"
+    },
+    {
+     "sa": "मस्तकाभ्यन्तरतः उपरिष्टात्",
+     "iast": "mastakābhyantarataḥ upariṣṭāt",
+     "en": "inside the head, at the top",
+     "hi": "मस्तक के भीतर ऊपर"
+    },
+    {
+     "sa": "सिरासंधिसन्निपातः",
+     "iast": "sirāsaṃdhisannipātaḥ",
+     "en": "confluence of vessels and joints",
+     "hi": "सिराओं और सन्धियों का संगम"
+    },
+    {
+     "sa": "रोमावर्तः",
+     "iast": "romāvartaḥ",
+     "en": "the whorl of hair",
+     "hi": "बालों का भँवर"
+    }
+   ],
+   "english": "Hereafter we shall describe those above the clavicle. On both sides of the windpipe are four dhamanīs, two Nīlā and two Manyā, placed alternately; there, dumbness, alteration of voice and inability to perceive taste. On each side of the neck are four vessels, the Mātṛkās; there death is immediate. At the junction of head and neck are the Kṛkāṭikās; there the head becomes unsteady. Behind and below the ears are the Vidhuras; there deafness. On both sides of the nasal passage, inside, connected with the channels, are the Phaṇas; there loss of smell. Below the tail-ends of the eyebrows, at the outer side of the eyes, are the Apāṅgas; there blindness or impaired vision. Above the eyebrows, in the depressions, are the Āvartas; there too blindness or impaired vision. Above the tail-ends of the eyebrows, between ear and forehead, are the Śaṅkhas; there death is immediate. Above the Śaṅkhas, at the hairline, are the Utkṣepas; there the person lives with the foreign body in place, or if it falls out after suppuration, but not if it is pulled out. Between the eyebrows is the Sthapanī; there it is as with Utkṣepa. The five joints dividing the skull are the Sīmantas; there death occurs through insanity, fear and loss of mind. Amid the vessels that nourish the nose, ears, eyes and tongue is a confluence of vessels, the Śṛṅgāṭakas; these are four marmas, and there too death is immediate. Inside the head, at the top, is the confluence of vessels and joints, the whorl of hair, Adhipati; there too death is immediate. Thus the thirty-seven marmas above the clavicle are explained.",
+   "hindi": "इसके बाद हम जत्रु (हँसली) के ऊपर के मर्म बताएँगे। कण्ठनाड़ी के दोनों ओर चार धमनियाँ हैं, दो नीला और दो मन्या, बारी-बारी से स्थित; वहाँ गूँगापन, स्वर-विकार और स्वाद का ज्ञान न होना होता है। गर्दन में दोनों ओर चार-चार सिराएँ 'मातृका' हैं; वहाँ तुरन्त मृत्यु होती है। सिर और गर्दन के जोड़ पर 'कृकाटिका' हैं; वहाँ सिर अस्थिर (हिलता) रहता है। कान के पीछे नीचे 'विधुर' हैं; वहाँ बहरापन होता है। नासा-मार्ग के दोनों ओर भीतर, स्रोतों से जुड़े 'फण' हैं; वहाँ गन्ध का ज्ञान नहीं रहता। भौंहों के पूँछ-सिरों के नीचे, आँखों के बाहरी ओर 'अपाङ्ग' हैं; वहाँ अन्धापन या दृष्टि की हानि होती है। भौंहों के ऊपर गड्ढों में 'आवर्त' हैं; वहाँ भी अन्धापन या दृष्टि-हानि होती है। भौंहों के पूँछ-सिरों के ऊपर, कान और ललाट के बीच 'शङ्ख' हैं; वहाँ तुरन्त मृत्यु होती है। शङ्खों के ऊपर केशों की सीमा पर 'उत्क्षेप' हैं; वहाँ शल्य सहित व्यक्ति जीवित रहता है, या पकने पर शल्य अपने आप गिर जाए तो भी, पर शल्य निकालने पर नहीं। भौंहों के बीच 'स्थपनी' है; वहाँ उत्क्षेप जैसा ही होता है। सिर को विभाजित करने वाली पाँच सन्धियाँ 'सीमन्त' हैं; वहाँ उन्माद, भय और चित्तनाश से मृत्यु होती है। नाक, कान, आँख और जीभ को पोषण देने वाली सिराओं के बीच सिराओं का संगम 'शृङ्गाटक' है; ये चार मर्म हैं, वहाँ भी तुरन्त मृत्यु होती है। मस्तक के भीतर ऊपर सिराओं और सन्धियों का संगम, बालों का भँवर, 'अधिपति' है; वहाँ भी तुरन्त मृत्यु होती है। इस प्रकार जत्रु के ऊपर के सैंतीस मर्म बताए गए।",
+   "explanation_en": "This passage locates the 37 head and neck marmas. Many affect a sense organ: Nīlā/Manyā → voice and taste, Vidhura → hearing, Phaṇa → smell, Apāṅga and Āvarta → vision. The sadyaḥprāṇahara group here is Mātṛkā, Śaṅkha, Śṛṅgāṭaka and Adhipati; the viśalyaghna group is Utkṣepa and Sthapanī. Śṛṅgāṭaka is defined functionally as the meeting place of vessels supplying four sense organs, a frequently asked point.",
+   "explanation_hi": "यह भाग सिर और गर्दन के 37 मर्मों का स्थान बताता है। कई मर्म इन्द्रियों को प्रभावित करते हैं: नीला/मन्या → स्वर और स्वाद, विधुर → श्रवण, फण → गन्ध, अपाङ्ग और आवर्त → दृष्टि। यहाँ सद्यःप्राणहर हैं मातृका, शङ्ख, शृङ्गाटक और अधिपति; विशल्यघ्न हैं उत्क्षेप और स्थपनी। शृङ्गाटक की परिभाषा, चार इन्द्रियों को पोषण देने वाली सिराओं का संगम, अक्सर पूछी जाती है।",
+   "modern_correlation": {
+    "en": "Commonly proposed correlations (approximate, with differences of opinion): Nīlā and Manyā, the jugular veins and carotid region, close to the vagus, recurrent laryngeal, glossopharyngeal and hypoglossal nerves, injury to which can affect voice, swallowing and taste; Mātṛkā, the carotid arteries and jugular veins, injury to which can cause rapidly fatal haemorrhage or air embolism; Kṛkāṭikā, the atlanto-occipital joint; Vidhura, the mastoid region near the ear; Śaṅkha, the temple (pterion), where the thin skull overlies the middle meningeal artery and an extradural haematoma may follow a blow; Sīmanta, the skull sutures; Śṛṅgāṭaka, often compared to the region of the cavernous sinus or the arterial circle at the base of the brain; Adhipati, the vertex, overlying the superior sagittal sinus and brain.",
+    "hi": "प्रचलित अनुमानित तुलनाएँ (मतभेद सहित): नीला और मन्या, जुगुलर शिराएँ और कैरोटिड क्षेत्र, जिनके पास वेगस, रिकरेंट लैरिन्जियल, ग्लोसोफैरिन्जियल और हाइपोग्लॉसल नसें हैं, जिनकी चोट से स्वर, निगलना और स्वाद प्रभावित हो सकते हैं; मातृका, कैरोटिड धमनियाँ और जुगुलर शिराएँ, जिनकी चोट से शीघ्र घातक रक्तस्राव या एयर एम्बोलिज़्म हो सकता है; कृकाटिका, एटलांटो-ऑक्सिपिटल जोड़; विधुर, कान के पास मैस्टॉयड क्षेत्र; शङ्ख, कनपटी (टेरियन), जहाँ पतली हड्डी के नीचे मिडिल मेनिन्जियल धमनी है और चोट से एक्स्ट्राड्यूरल हीमेटोमा हो सकता है; सीमन्त, खोपड़ी के सूचर; शृङ्गाटक, कैवर्नस साइनस या मस्तिष्क-आधार के धमनी-चक्र के क्षेत्र से तुलना; अधिपति, शीर्ष (वर्टेक्स), जिसके नीचे सुपीरियर सैजिटल साइनस और मस्तिष्क है।"
+   },
+   "key_terms": [
+    "nīlā",
+    "manyā",
+    "mātṛkā",
+    "kṛkāṭikā",
+    "vidhura",
+    "phaṇa",
+    "apāṅga",
+    "āvarta",
+    "śaṅkha",
+    "utkṣepa",
+    "sthapanī",
+    "sīmanta",
+    "śṛṅgāṭaka",
+    "adhipati"
+   ],
+   "tags": [
+    "marma",
+    "location",
+    "head and neck",
+    "effects",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Senses: Nīlā/Manyā-voice, Vidhura-ear, Phaṇa-nose, Apāṅga/Āvarta-eye; Killers: Mātṛkā, Śaṅkha, Śṛṅgāṭaka, Adhipati",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sharira.6.28",
+   "word_meanings": [
+    {
+     "sa": "ऊर्व्यः",
+     "iast": "ūrvyaḥ",
+     "en": "the Ūrvīs",
+     "hi": "ऊर्वी"
+    },
+    {
+     "sa": "शिरांसि",
+     "iast": "śirāṃsi",
+     "en": "the (Kūrca)śiras",
+     "hi": "कूर्चशिर"
+    },
+    {
+     "sa": "विटपे",
+     "iast": "viṭape",
+     "en": "the two Viṭapas",
+     "hi": "दोनों विटप"
+    },
+    {
+     "sa": "सकक्षपार्श्वे",
+     "iast": "sakakṣapārśve",
+     "en": "with Kakṣadhara and Pārśvasandhi",
+     "hi": "कक्षधर और पार्श्वसन्धि सहित"
+    },
+    {
+     "sa": "एकैकम्",
+     "iast": "ekaikam",
+     "en": "each one",
+     "hi": "हर एक"
+    },
+    {
+     "sa": "अङ्गुलमितम्",
+     "iast": "aṅgulamitam",
+     "en": "measuring one finger-breadth",
+     "hi": "एक अंगुल परिमाण"
+    },
+    {
+     "sa": "स्तनपूर्वमूलम्",
+     "iast": "stanapūrvamūlam",
+     "en": "the Stanamūla",
+     "hi": "स्तनमूल"
+    },
+    {
+     "sa": "विद्धि",
+     "iast": "viddhi",
+     "en": "know",
+     "hi": "जानो"
+    },
+    {
+     "sa": "अङ्गुलद्वयमितम्",
+     "iast": "aṅguladvayamitam",
+     "en": "measuring two finger-breadths",
+     "hi": "दो अंगुल परिमाण"
+    },
+    {
+     "sa": "मणिबन्धगुल्फम्",
+     "iast": "maṇibandhagulpham",
+     "en": "Maṇibandha and Gulpha",
+     "hi": "मणिबन्ध और गुल्फ"
+    },
+    {
+     "sa": "त्रीणि एव",
+     "iast": "trīṇi eva",
+     "en": "three (finger-breadths)",
+     "hi": "तीन (अंगुल)"
+    },
+    {
+     "sa": "जानु",
+     "iast": "jānu",
+     "en": "Jānu",
+     "hi": "जानु"
+    },
+    {
+     "sa": "सह कूर्पराभ्याम्",
+     "iast": "saha kūrparābhyām",
+     "en": "together with the two Kūrparas",
+     "hi": "दोनों कूर्पर सहित"
+    }
+   ],
+   "english": "Here are the verses: The Ūrvīs, the Kūrcaśiras, the Viṭapas, together with Kakṣadhara and Pārśvasandhi, and the Stanamūla each measure one finger-breadth (aṅgula). Know that Maṇibandha and Gulpha measure two finger-breadths, and Jānu together with the two Kūrparas measures three.",
+   "hindi": "यहाँ श्लोक हैं: ऊर्वी, कूर्चशिर, विटप, कक्षधर और पार्श्वसन्धि के साथ, तथा स्तनमूल, ये हर एक एक अंगुल परिमाण के हैं। मणिबन्ध और गुल्फ को दो अंगुल का जानो, और जानु तथा दोनों कूर्पर तीन अंगुल के हैं।",
+   "explanation_en": "Verses 28-29 give the size (pramāṇa) of the marmas, measured in the patient's own finger-breadths. One aṅgula: Ūrvī, Kūrcaśiras, Viṭapa, Kakṣadhara, Pārśvasandhi, Stanamūla; two aṅgula: Maṇibandha, Gulpha; three aṅgula: Jānu, Kūrpara. The size tells the surgeon how wide an area to avoid. The reading 'saparam' in the last line is unclear; the meaning 'Jānu with Kūrpara' follows the usual interpretation.",
+   "explanation_hi": "श्लोक 28-29 मर्मों का परिमाण (प्रमाण) रोगी के अपने अंगुल से बताते हैं। एक अंगुल: ऊर्वी, कूर्चशिर, विटप, कक्षधर, पार्श्वसन्धि, स्तनमूल; दो अंगुल: मणिबन्ध, गुल्फ; तीन अंगुल: जानु, कूर्पर। परिमाण से शल्यचिकित्सक को पता चलता है कि कितना क्षेत्र बचाना है। अन्तिम पंक्ति का 'सपरम्' पाठ अस्पष्ट है; 'जानु और कूर्पर' का अर्थ प्रचलित व्याख्या के अनुसार लिया गया है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "marma pramāṇa",
+    "aṅgula",
+    "svāṅgula"
+   ],
+   "tags": [
+    "marma",
+    "measurement",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "1 aṅgula: 'ŪŚVKPS'; 2: wrist & ankle; 3: knee & elbow",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sharira.6.29",
+   "word_meanings": [
+    {
+     "sa": "हृत्",
+     "iast": "hṛt",
+     "en": "Hṛdaya",
+     "hi": "हृदय"
+    },
+    {
+     "sa": "बस्ति",
+     "iast": "basti",
+     "en": "Basti",
+     "hi": "बस्ति"
+    },
+    {
+     "sa": "कूर्च",
+     "iast": "kūrca",
+     "en": "Kūrca",
+     "hi": "कूर्च"
+    },
+    {
+     "sa": "गुद",
+     "iast": "guda",
+     "en": "Guda",
+     "hi": "गुद"
+    },
+    {
+     "sa": "नाभि",
+     "iast": "nābhi",
+     "en": "Nābhi",
+     "hi": "नाभि"
+    },
+    {
+     "sa": "वदन्ति",
+     "iast": "vadanti",
+     "en": "they say",
+     "hi": "कहते हैं"
+    },
+    {
+     "sa": "मूर्ध्नि",
+     "iast": "mūrdhni",
+     "en": "in the head",
+     "hi": "सिर में"
+    },
+    {
+     "sa": "चत्वारि",
+     "iast": "catvāri",
+     "en": "four (Śṛṅgāṭakas)",
+     "hi": "चार (शृङ्गाटक)"
+    },
+    {
+     "sa": "पञ्च",
+     "iast": "pañca",
+     "en": "five (Sīmantas)",
+     "hi": "पाँच (सीमन्त)"
+    },
+    {
+     "sa": "गले",
+     "iast": "gale",
+     "en": "in the neck",
+     "hi": "गले में"
+    },
+    {
+     "sa": "दश यानि च द्वे",
+     "iast": "daśa yāni ca dve",
+     "en": "those which are ten and two (twelve)",
+     "hi": "जो दस और दो (बारह) हैं"
+    },
+    {
+     "sa": "स्वपाणितलकुञ्चितसंमितानि",
+     "iast": "svapāṇitalakuñcitasaṃmitāni",
+     "en": "equal to one's own cupped palm",
+     "hi": "अपनी मुड़ी हुई हथेली के बराबर"
+    },
+    {
+     "sa": "शेषाणि",
+     "iast": "śeṣāṇi",
+     "en": "the remaining",
+     "hi": "शेष"
+    },
+    {
+     "sa": "अवेहि",
+     "iast": "avehi",
+     "en": "know",
+     "hi": "जानो"
+    },
+    {
+     "sa": "परिविस्तरतः",
+     "iast": "parivistarataḥ",
+     "en": "in extent",
+     "hi": "विस्तार में"
+    },
+    {
+     "sa": "अङ्गुलार्धम्",
+     "iast": "aṅgulārdham",
+     "en": "half a finger-breadth",
+     "hi": "आधा अंगुल"
+    }
+   ],
+   "english": "They say Hṛdaya, Basti, Kūrca, Guda and Nābhi, the four (Śṛṅgāṭakas) and five (Sīmantas) in the head, and the twelve in the neck measure the size of one's own cupped palm. Know that the remaining ones are half a finger-breadth in extent.",
+   "hindi": "हृदय, बस्ति, कूर्च, गुद और नाभि, सिर के चार (शृङ्गाटक) और पाँच (सीमन्त), और गले के बारह (मातृका 8 तथा नीला-मन्या 4), ये अपनी मुड़ी हुई हथेली के बराबर बताए गए हैं। शेष मर्मों को विस्तार में आधा अंगुल जानो।",
+   "explanation_en": "This completes the marma sizes. Palm-sized (svapāṇitala): Hṛdaya, Basti, Kūrca, Guda, Nābhi, Śṛṅgāṭaka 4, Sīmanta 5 and the 12 neck marmas (Mātṛkā 8 + Nīlā 2 + Manyā 2). All the rest are half an aṅgula. Note that most of the palm-sized marmas are sadyaḥprāṇahara, i.e. the most dangerous marmas also cover the largest area.",
+   "explanation_hi": "यह मर्म-परिमाण पूरा करता है। हथेली-परिमाण (स्वपाणितल): हृदय, बस्ति, कूर्च, गुद, नाभि, शृङ्गाटक 4, सीमन्त 5 और गले के 12 मर्म (मातृका 8 + नीला 2 + मन्या 2)। शेष सब आधा अंगुल। ध्यान दें कि हथेली-परिमाण वाले अधिकतर मर्म सद्यःप्राणहर हैं, अर्थात् सबसे खतरनाक मर्म सबसे बड़ा क्षेत्र भी घेरते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "marma pramāṇa",
+    "pāṇitala",
+    "aṅgulārdha"
+   ],
+   "tags": [
+    "marma",
+    "measurement",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Palm-sized: 'Hṛd-Basti-Kūrca-Guda-Nābhi + 4 + 5 + 12'; rest = ½ aṅgula",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sharira.6.30",
+   "word_meanings": [
+    {
+     "sa": "एतत् प्रमाणम्",
+     "iast": "etat pramāṇam",
+     "en": "this measurement",
+     "hi": "यह परिमाण"
+    },
+    {
+     "sa": "अभिवीक्ष्य",
+     "iast": "abhivīkṣya",
+     "en": "having considered",
+     "hi": "देखकर"
+    },
+    {
+     "sa": "वदन्ति",
+     "iast": "vadanti",
+     "en": "say",
+     "hi": "कहते हैं"
+    },
+    {
+     "sa": "तज्ज्ञाः",
+     "iast": "tajjñāḥ",
+     "en": "the experts",
+     "hi": "उसके ज्ञाता"
+    },
+    {
+     "sa": "शस्त्रेण",
+     "iast": "śastreṇa",
+     "en": "with the knife",
+     "hi": "शस्त्र से"
+    },
+    {
+     "sa": "कर्मकरणम्",
+     "iast": "karmakaraṇam",
+     "en": "surgical procedure",
+     "hi": "शल्यकर्म"
+    },
+    {
+     "sa": "परिहृत्य",
+     "iast": "parihṛtya",
+     "en": "avoiding (the marma)",
+     "hi": "बचाकर"
+    },
+    {
+     "sa": "कार्यम्",
+     "iast": "kāryam",
+     "en": "should be done",
+     "hi": "करना चाहिए"
+    },
+    {
+     "sa": "पार्श्वाभिघातितम्",
+     "iast": "pārśvābhighātitam",
+     "en": "struck at its side",
+     "hi": "पास (किनारे) से चोट खाया"
+    },
+    {
+     "sa": "अपि",
+     "iast": "api",
+     "en": "even",
+     "hi": "भी"
+    },
+    {
+     "sa": "निहन्ति",
+     "iast": "nihanti",
+     "en": "kills",
+     "hi": "मारता है"
+    },
+    {
+     "sa": "मर्म",
+     "iast": "marma",
+     "en": "a marma",
+     "hi": "मर्म"
+    },
+    {
+     "sa": "तस्मात्",
+     "iast": "tasmāt",
+     "en": "therefore",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "मर्मसदनम्",
+     "iast": "marmasadanam",
+     "en": "the marma region",
+     "hi": "मर्म का स्थान"
+    },
+    {
+     "sa": "परिवर्जनीयम्",
+     "iast": "parivarjanīyam",
+     "en": "should be avoided",
+     "hi": "छोड़ देना चाहिए"
+    }
+   ],
+   "english": "Keeping these measurements in view, the experts say that surgical work with the knife should be done while avoiding the marmas; for a marma kills even when struck at its side. Therefore the marma region must be avoided.",
+   "hindi": "इन परिमाणों को ध्यान में रखकर विशेषज्ञ कहते हैं कि शस्त्र से शल्यकर्म मर्मों को बचाकर करना चाहिए; क्योंकि मर्म पास (किनारे) से चोट लगने पर भी मार सकता है। इसलिए मर्म-स्थान को छोड़ देना चाहिए।",
+   "explanation_en": "This states the main practical purpose of marma sizes: to define 'no-cut zones' for surgery. Even a lateral injury (pārśvābhighāta) can be fatal, which links to verse 22 on marginal injury. A good line to quote when asked 'Why is marma knowledge important for a surgeon?'",
+   "explanation_hi": "यह मर्म-परिमाण का मुख्य व्यावहारिक उद्देश्य बताता है: शल्यकर्म में 'न काटने के क्षेत्र' तय करना। पास से लगी चोट (पार्श्वाभिघात) भी घातक हो सकती है, जो श्लोक 22 (किनारे की चोट) से जुड़ता है। 'शल्यचिकित्सक के लिए मर्म-ज्ञान क्यों आवश्यक है?' प्रश्न में यह पंक्ति उद्धृत करें।",
+   "modern_correlation": {
+    "en": "The idea of 'safe zones' and 'danger zones' is central to modern surgical anatomy, where incisions are planned to avoid major vessels and nerves.",
+    "hi": "'सुरक्षित क्षेत्र' और 'खतरे के क्षेत्र' का विचार आधुनिक सर्जिकल एनाटॉमी में भी केन्द्रीय है, जहाँ चीरे बड़ी वाहिकाओं और नसों को बचाकर योजनाबद्ध किए जाते हैं।"
+   },
+   "key_terms": [
+    "marma pramāṇa",
+    "pārśvābhighāta",
+    "śastrakarma"
+   ],
+   "tags": [
+    "marma",
+    "surgery",
+    "exam"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sharira.6.31",
+   "word_meanings": [
+    {
+     "sa": "छिन्नेषु",
+     "iast": "chinneṣu",
+     "en": "when cut off",
+     "hi": "कट जाने पर"
+    },
+    {
+     "sa": "पाणिचरणेषु",
+     "iast": "pāṇicaraṇeṣu",
+     "en": "hands and feet",
+     "hi": "हाथ-पैर"
+    },
+    {
+     "sa": "सिराः",
+     "iast": "sirāḥ",
+     "en": "vessels",
+     "hi": "सिराएँ"
+    },
+    {
+     "sa": "नराणाम्",
+     "iast": "narāṇām",
+     "en": "of men",
+     "hi": "मनुष्यों की"
+    },
+    {
+     "sa": "संकोचम्",
+     "iast": "saṃkocam",
+     "en": "contraction",
+     "hi": "सिकुड़न"
+    },
+    {
+     "sa": "ईयुः",
+     "iast": "īyuḥ",
+     "en": "undergo",
+     "hi": "प्राप्त होती हैं"
+    },
+    {
+     "sa": "असृक्",
+     "iast": "asṛk",
+     "en": "blood",
+     "hi": "रक्त"
+    },
+    {
+     "sa": "अल्पम्",
+     "iast": "alpam",
+     "en": "little",
+     "hi": "थोड़ा"
+    },
+    {
+     "sa": "अतः",
+     "iast": "ataḥ",
+     "en": "hence",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "निरेति",
+     "iast": "nireti",
+     "en": "flows out",
+     "hi": "निकलता है"
+    },
+    {
+     "sa": "प्राप्य",
+     "iast": "prāpya",
+     "en": "having met",
+     "hi": "पाकर"
+    },
+    {
+     "sa": "अमितव्यसनम्",
+     "iast": "amitavyasanam",
+     "en": "immense calamity",
+     "hi": "अत्यधिक विपत्ति"
+    },
+    {
+     "sa": "उग्रम्",
+     "iast": "ugram",
+     "en": "severe",
+     "hi": "भयंकर"
+    },
+    {
+     "sa": "मनुष्याः",
+     "iast": "manuṣyāḥ",
+     "en": "people",
+     "hi": "मनुष्य"
+    },
+    {
+     "sa": "संछिन्नशाखतरुवत्",
+     "iast": "saṃchinnaśākhataruvat",
+     "en": "like a tree whose branches are cut",
+     "hi": "कटी शाखाओं वाले वृक्ष के समान"
+    },
+    {
+     "sa": "निधनम्",
+     "iast": "nidhanam",
+     "en": "death",
+     "hi": "मृत्यु"
+    },
+    {
+     "sa": "न यान्ति",
+     "iast": "na yānti",
+     "en": "do not reach",
+     "hi": "प्राप्त नहीं होते"
+    }
+   ],
+   "english": "When the hands or feet of men are cut off, the vessels contract, so only a little blood flows out. Hence people, though meeting an immense and terrible calamity, do not die, just like a tree whose branches are cut off.",
+   "hindi": "जब मनुष्यों के हाथ या पैर कट जाते हैं, तो सिराएँ सिकुड़ जाती हैं, इसलिए थोड़ा ही रक्त निकलता है। इसी कारण मनुष्य भयंकर और बड़ी विपत्ति पाकर भी नहीं मरते, जैसे शाखाएँ कटने पर भी वृक्ष नहीं मरता।",
+   "explanation_en": "This verse contrasts a clean amputation of a limb, which is often survivable, with injury to certain marmas, which can be fatal (next verse). The explanation offered is contraction of the cut vessels, which limits bleeding. The tree simile (branches cut, tree survives; roots cut, tree dies) is easy to remember.",
+   "explanation_hi": "यह श्लोक बताता है कि शाखा (हाथ-पैर) का पूरा कट जाना प्रायः जीवित रहने योग्य है, जबकि कुछ मर्मों की चोट घातक हो सकती है (अगला श्लोक)। कारण बताया गया है कि कटी सिराएँ सिकुड़ जाती हैं, जिससे रक्तस्राव कम होता है। वृक्ष की उपमा (शाखा कटे तो वृक्ष बचता है; जड़ कटे तो मरता है) याद रखना आसान है।",
+   "modern_correlation": {
+    "en": "Modern physiology describes a similar phenomenon: a completely transected artery tends to retract and constrict (vasospasm), so it often bleeds less than a partially torn artery, which cannot retract. This is why some complete traumatic amputations bleed surprisingly little.",
+    "hi": "आधुनिक शरीर-क्रिया भी ऐसी ही घटना बताती है: पूरी तरह कटी धमनी पीछे खिंचकर सिकुड़ जाती है (वैसोस्पाज़्म), इसलिए वह प्रायः आंशिक रूप से फटी धमनी से कम रक्त बहाती है, जो सिकुड़ नहीं पाती। इसी कारण कुछ पूर्ण आघातज विच्छेदनों (एम्प्यूटेशन) में आश्चर्यजनक रूप से कम रक्तस्राव होता है।"
+   },
+   "key_terms": [
+    "sirāsaṃkoca",
+    "śākhā",
+    "chinna"
+   ],
+   "tags": [
+    "marma",
+    "surgery",
+    "haemorrhage"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sharira.6.32",
+   "word_meanings": [
+    {
+     "sa": "क्षिप्रेषु",
+     "iast": "kṣipreṣu",
+     "en": "in the Kṣipras",
+     "hi": "क्षिप्र मर्मों में"
+    },
+    {
+     "sa": "सतलेषु",
+     "iast": "sataleṣu",
+     "en": "together with the Talahṛdayas",
+     "hi": "तलहृदय सहित"
+    },
+    {
+     "sa": "हतेषु",
+     "iast": "hateṣu",
+     "en": "when injured",
+     "hi": "चोट लगने पर"
+    },
+    {
+     "sa": "रक्तम्",
+     "iast": "raktam",
+     "en": "blood",
+     "hi": "रक्त"
+    },
+    {
+     "sa": "गच्छति अतीव",
+     "iast": "gacchati atīva",
+     "en": "flows profusely",
+     "hi": "बहुत अधिक बहता है"
+    },
+    {
+     "sa": "पवनः",
+     "iast": "pavanaḥ",
+     "en": "vāyu",
+     "hi": "वायु"
+    },
+    {
+     "sa": "रुजम्",
+     "iast": "rujam",
+     "en": "pain",
+     "hi": "पीड़ा"
+    },
+    {
+     "sa": "करोति",
+     "iast": "karoti",
+     "en": "causes",
+     "hi": "करती है"
+    },
+    {
+     "sa": "विनाशम्",
+     "iast": "vināśam",
+     "en": "destruction, death",
+     "hi": "विनाश"
+    },
+    {
+     "sa": "उपयान्ति",
+     "iast": "upayānti",
+     "en": "reach",
+     "hi": "प्राप्त होते हैं"
+    },
+    {
+     "sa": "विद्धाः",
+     "iast": "viddhāḥ",
+     "en": "those pierced",
+     "hi": "बिंधे हुए"
+    },
+    {
+     "sa": "वृक्षाः इव",
+     "iast": "vṛkṣāḥ iva",
+     "en": "like trees",
+     "hi": "वृक्षों की तरह"
+    },
+    {
+     "sa": "आयुधविघातनिकृत्तमूलाः",
+     "iast": "āyudhavighātanikṛttamūlāḥ",
+     "en": "whose roots are cut by blows of a weapon",
+     "hi": "जिनकी जड़ें शस्त्र के प्रहार से कट गई हों"
+    }
+   ],
+   "english": "But when the Kṣipras and the Talahṛdayas are injured, blood flows out profusely and vāyu causes pain. Thus those pierced there perish, like trees whose roots have been cut by blows of a weapon.",
+   "hindi": "परन्तु जब क्षिप्र और तलहृदय मर्मों पर चोट लगती है, तो रक्त बहुत अधिक बहता है और वायु पीड़ा करती है। इस प्रकार वहाँ बिंधे व्यक्ति नष्ट हो जाते हैं, जैसे शस्त्र से जड़ कटे वृक्ष।",
+   "explanation_en": "Unlike a clean amputation (previous verse), injury to Kṣipra and Talahṛdaya in the hand or foot can be fatal because of profuse bleeding and severe pain. The root-cut tree simile completes the image of verse 31. This explains why these small-looking hand and foot points are classed as kālāntaraprāṇahara.",
+   "explanation_hi": "साफ विच्छेदन (पिछला श्लोक) के विपरीत, हाथ-पैर के क्षिप्र और तलहृदय की चोट अधिक रक्तस्राव और तीव्र पीड़ा से घातक हो सकती है। जड़ कटे वृक्ष की उपमा श्लोक 31 का चित्र पूरा करती है। इससे समझ आता है कि छोटे दिखने वाले ये हाथ-पैर के बिन्दु कालान्तरप्राणहर क्यों हैं।",
+   "modern_correlation": {
+    "en": "The palm and sole contain arterial arches fed from both ends, so a lacerated arch can bleed briskly from both directions and be difficult to control; this is often cited as a modern parallel to Talahṛdaya. Deep puncture wounds of the hand and foot also carry infection risks such as tetanus.",
+    "hi": "हथेली और तलवे में धमनी-चाप (आर्च) हैं जिन्हें दोनों सिरों से रक्त मिलता है, इसलिए कटा हुआ आर्च दोनों ओर से तेज़ी से बह सकता है और रोकना कठिन होता है; इसे तलहृदय की आधुनिक समानता के रूप में बताया जाता है। हाथ-पैर के गहरे भेदक घावों में टिटनेस जैसे संक्रमण का जोखिम भी रहता है।"
+   },
+   "key_terms": [
+    "kṣipra",
+    "talahṛdaya",
+    "raktasrāva"
+   ],
+   "tags": [
+    "marma",
+    "haemorrhage",
+    "simile"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sharira.6.33",
+   "word_meanings": [
+    {
+     "sa": "तस्मात्",
+     "iast": "tasmāt",
+     "en": "therefore",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "तयोः",
+     "iast": "tayoḥ",
+     "en": "of those two",
+     "hi": "उन दोनों में"
+    },
+    {
+     "sa": "अभिहतस्य",
+     "iast": "abhihatasya",
+     "en": "of one injured",
+     "hi": "चोट खाए व्यक्ति का"
+    },
+    {
+     "sa": "पाणिपादम्",
+     "iast": "pāṇipādam",
+     "en": "hand or foot",
+     "hi": "हाथ या पैर"
+    },
+    {
+     "sa": "छेत्तव्यम्",
+     "iast": "chettavyam",
+     "en": "should be amputated",
+     "hi": "काट देना चाहिए"
+    },
+    {
+     "sa": "आशु",
+     "iast": "āśu",
+     "en": "quickly",
+     "hi": "शीघ्र"
+    },
+    {
+     "sa": "मणिबन्धनगुल्फदेशे",
+     "iast": "maṇibandhanagulphadeśe",
+     "en": "at the region of wrist or ankle",
+     "hi": "कलाई या टखने के स्थान पर"
+    },
+    {
+     "sa": "मर्माणि",
+     "iast": "marmāṇi",
+     "en": "marmas",
+     "hi": "मर्म"
+    },
+    {
+     "sa": "शल्यविषयार्धम्",
+     "iast": "śalyaviṣayārdham",
+     "en": "half of the subject of surgery",
+     "hi": "शल्यतन्त्र का आधा विषय"
+    },
+    {
+     "sa": "उदाहरन्ति",
+     "iast": "udāharanti",
+     "en": "they declare",
+     "hi": "कहते हैं"
+    },
+    {
+     "sa": "यस्मात्",
+     "iast": "yasmāt",
+     "en": "because",
+     "hi": "क्योंकि"
+    },
+    {
+     "sa": "मर्मसु हताः",
+     "iast": "marmasu hatāḥ",
+     "en": "those struck at marmas",
+     "hi": "मर्मों में चोट खाए"
+    },
+    {
+     "sa": "न भवन्ति",
+     "iast": "na bhavanti",
+     "en": "do not survive",
+     "hi": "नहीं बचते"
+    },
+    {
+     "sa": "सद्यः",
+     "iast": "sadyaḥ",
+     "en": "at once",
+     "hi": "तुरन्त"
+    }
+   ],
+   "english": "Therefore, in one injured at either of these two, the hand or foot should be amputated quickly at the region of the wrist or ankle. The experts declare marmas to be half the subject of surgery, because those struck at the marmas do not survive at once.",
+   "hindi": "इसलिए इन दोनों में से किसी पर चोट लगी हो तो हाथ या पैर को शीघ्र कलाई या टखने के स्थान पर काट देना चाहिए (यह शास्त्रीय विधान है)। विद्वान मर्मों को शल्यतन्त्र का आधा विषय कहते हैं, क्योंकि मर्मों में चोट खाए व्यक्ति तुरन्त नहीं बचते।",
+   "explanation_en": "Suśruta's classical instruction here reflects battlefield surgery of his time: converting a dangerous Kṣipra/Talahṛdaya injury into a 'clean' amputation, which he considered survivable (verse 31). The famous phrase 'marmāṇi śalyaviṣayārdham' (marmas are half of surgery) is often quoted in exams to show the importance of marma knowledge. This is historical teaching, not a modern management guideline.",
+   "explanation_hi": "यहाँ सुश्रुत का शास्त्रीय निर्देश उनके समय की युद्ध-शल्यचिकित्सा को दर्शाता है: क्षिप्र/तलहृदय की खतरनाक चोट को 'साफ' विच्छेदन में बदलना, जिसे वे जीवित रहने योग्य मानते थे (श्लोक 31)। प्रसिद्ध वाक्य 'मर्माणि शल्यविषयार्धम्' (मर्म शल्यतन्त्र का आधा भाग हैं) मर्म-ज्ञान का महत्त्व बताने के लिए परीक्षा में अक्सर उद्धृत होता है। यह ऐतिहासिक शिक्षा है, आधुनिक उपचार-निर्देश नहीं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "śalyaviṣayārdha",
+    "chedana",
+    "maṇibandha",
+    "gulpha"
+   ],
+   "tags": [
+    "marma",
+    "surgery",
+    "history",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "'Marmāṇi śalyaviṣayārdham': marma = half of śalyatantra",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sharira.6.34",
+   "word_meanings": [
+    {
+     "sa": "जीवन्ति",
+     "iast": "jīvanti",
+     "en": "survive",
+     "hi": "जीवित रहते हैं"
+    },
+    {
+     "sa": "तत्र",
+     "iast": "tatra",
+     "en": "there (after marma injury)",
+     "hi": "वहाँ (मर्माघात में)"
+    },
+    {
+     "sa": "यदि",
+     "iast": "yadi",
+     "en": "if",
+     "hi": "यदि"
+    },
+    {
+     "sa": "वैद्यगुणेन",
+     "iast": "vaidyaguṇena",
+     "en": "by the skill of the physician",
+     "hi": "वैद्य की कुशलता से"
+    },
+    {
+     "sa": "केचित्",
+     "iast": "kecit",
+     "en": "some",
+     "hi": "कुछ"
+    },
+    {
+     "sa": "ते",
+     "iast": "te",
+     "en": "they",
+     "hi": "वे"
+    },
+    {
+     "sa": "प्राप्नुवन्ति",
+     "iast": "prāpnuvanti",
+     "en": "attain",
+     "hi": "प्राप्त करते हैं"
+    },
+    {
+     "sa": "विकलत्वम्",
+     "iast": "vikalatvam",
+     "en": "disability",
+     "hi": "विकलता"
+    },
+    {
+     "sa": "असंशयम्",
+     "iast": "asaṃśayam",
+     "en": "without doubt",
+     "hi": "निःसन्देह"
+    },
+    {
+     "sa": "संभिन्नजर्जरितकोष्ठशिरःकपालाः",
+     "iast": "saṃbhinnajarjaritakoṣṭhaśiraḥkapālāḥ",
+     "en": "those with trunk, head and skull broken and shattered",
+     "hi": "जिनका कोष्ठ, सिर और कपाल टूटा-फूटा हो"
+    },
+    {
+     "sa": "जीवन्ति",
+     "iast": "jīvanti",
+     "en": "live",
+     "hi": "जीवित रहते हैं"
+    },
+    {
+     "sa": "शस्त्रविहतैः",
+     "iast": "śastravihataiḥ",
+     "en": "wounded by weapons",
+     "hi": "शस्त्र से घायल"
+    },
+    {
+     "sa": "शरीरदेशैः",
+     "iast": "śarīradeśaiḥ",
+     "en": "with parts of the body",
+     "hi": "शरीर के अंगों के साथ"
+    }
+   ],
+   "english": "If some survive marma injury through the skill of the physician, they certainly end up with some disability. Yet people whose trunk, head and skull are broken and shattered still live, as do those with body parts wounded by weapons,",
+   "hindi": "यदि मर्माघात में कुछ लोग वैद्य की कुशलता से बच भी जाएँ, तो वे निःसन्देह विकलता (अपंगता) को प्राप्त होते हैं। फिर भी जिनका कोष्ठ, सिर और कपाल टूट-फूट गया हो, वे भी जीवित रहते हैं, और जिनके शरीर के अंग शस्त्र से घायल हों वे भी,",
+   "explanation_en": "The first half stresses that survivors of marma injury usually remain disabled. The second half (continued in the next verse) makes the contrast: even very severe wounds of the trunk, skull or limbs can be survived if no marma is hit. So it is the marma, not the size of the wound, that decides the outcome.",
+   "explanation_hi": "पहला भाग कहता है कि मर्माघात से बचने वाले प्रायः विकल रहते हैं। दूसरा भाग (अगले श्लोक में जारी) विरोध दिखाता है: धड़, खोपड़ी या शाखाओं के बहुत गम्भीर घाव भी, यदि मर्म पर चोट न हो, तो सहे जा सकते हैं। अर्थात् परिणाम घाव के आकार से नहीं, मर्म से तय होता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vikalatva",
+    "vaidyaguṇa",
+    "marmābhighāta"
+   ],
+   "tags": [
+    "marma",
+    "prognosis"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sharira.6.35",
+   "word_meanings": [
+    {
+     "sa": "छिन्नैः",
+     "iast": "chinnaiḥ",
+     "en": "cut off",
+     "hi": "कटे हुए"
+    },
+    {
+     "sa": "सक्थिभुजपादकरैः",
+     "iast": "sakthibhujapādakaraiḥ",
+     "en": "with thighs, arms, feet and hands",
+     "hi": "जाँघ, भुजा, पैर और हाथ के साथ"
+    },
+    {
+     "sa": "अशेषैः",
+     "iast": "aśeṣaiḥ",
+     "en": "entirely",
+     "hi": "पूरी तरह"
+    },
+    {
+     "sa": "येषाम्",
+     "iast": "yeṣām",
+     "en": "those whose",
+     "hi": "जिनके"
+    },
+    {
+     "sa": "न मर्मपतिताः",
+     "iast": "na marmapatitāḥ",
+     "en": "not fallen on marmas",
+     "hi": "मर्म पर न पड़े"
+    },
+    {
+     "sa": "विविधाः प्रहाराः",
+     "iast": "vividhāḥ prahārāḥ",
+     "en": "various blows",
+     "hi": "विविध प्रहार"
+    },
+    {
+     "sa": "सोममारुततेजांसि",
+     "iast": "somamārutatejāṃsi",
+     "en": "soma, vāyu and tejas (agni)",
+     "hi": "सोम, वायु और तेज (अग्नि)"
+    },
+    {
+     "sa": "रजःसत्त्वतमांसि",
+     "iast": "rajaḥsattvatamāṃsi",
+     "en": "rajas, sattva and tamas",
+     "hi": "रज, सत्त्व और तम"
+    },
+    {
+     "sa": "मर्मसु",
+     "iast": "marmasu",
+     "en": "in the marmas",
+     "hi": "मर्मों में"
+    },
+    {
+     "sa": "प्रायशः",
+     "iast": "prāyaśaḥ",
+     "en": "mostly",
+     "hi": "प्रायः"
+    },
+    {
+     "sa": "पुंसाम्",
+     "iast": "puṃsām",
+     "en": "of human beings",
+     "hi": "मनुष्यों के"
+    },
+    {
+     "sa": "भूतात्मा",
+     "iast": "bhūtātmā",
+     "en": "the embodied self (jīvātmā)",
+     "hi": "भूतात्मा (जीवात्मा)"
+    },
+    {
+     "sa": "अवतिष्ठते",
+     "iast": "avatiṣṭhate",
+     "en": "resides",
+     "hi": "स्थित रहता है"
+    }
+   ],
+   "english": "and with thighs, arms, feet and hands entirely cut off: these are the people on whom the various blows did not fall on the marmas. Soma, vāyu and tejas, rajas, sattva and tamas, and the embodied self (bhūtātmā) mostly reside in the marmas of human beings.",
+   "hindi": "और जिनकी जाँघें, भुजाएँ, पैर और हाथ पूरी तरह कट गए हों: ये वे लोग हैं जिन पर विविध प्रहार मर्मों पर नहीं पड़े। मनुष्यों के मर्मों में प्रायः सोम, वायु और तेज (अग्नि), रज, सत्त्व और तम, तथा भूतात्मा (जीवात्मा) स्थित रहते हैं।",
+   "explanation_en": "The first line completes the previous verse: survival after even major injuries is possible if the marmas are spared. The second part (a separate verse in many editions, combined in this corpus) explains why marmas are vital: they are the seats of soma, vāyu and agni (the bodily counterparts of kapha, vāta and pitta), the three mental guṇas and the bhūtātmā (life principle). This is the 'functional' definition of marma and is often asked.",
+   "explanation_hi": "पहली पंक्ति पिछले श्लोक को पूरा करती है: यदि मर्म बचे रहें तो बड़ी चोटों के बाद भी जीवन सम्भव है। दूसरा भाग (कई संस्करणों में अलग श्लोक, यहाँ एक साथ) बताता है कि मर्म प्राण-स्थान क्यों हैं: इनमें सोम, वायु और अग्नि (कफ, वात, पित्त के शारीरिक रूप), तीन मानस गुण और भूतात्मा (जीवन-तत्त्व) रहते हैं। यह मर्म की 'क्रियात्मक' परिभाषा है और अक्सर पूछी जाती है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "soma",
+    "māruta",
+    "tejas",
+    "sattva",
+    "rajas",
+    "tamas",
+    "bhūtātmā",
+    "prāṇa"
+   ],
+   "tags": [
+    "marma",
+    "definition",
+    "prana",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Marma holds 3 + 3 + 1: Soma-Vāyu-Tejas, Sattva-Rajas-Tamas, Bhūtātmā",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sharira.6.36",
+   "word_meanings": [
+    {
+     "sa": "मर्मसु",
+     "iast": "marmasu",
+     "en": "in the marmas",
+     "hi": "मर्मों में"
+    },
+    {
+     "sa": "अभिहताः",
+     "iast": "abhihatāḥ",
+     "en": "struck",
+     "hi": "चोट खाए"
+    },
+    {
+     "sa": "तस्मात्",
+     "iast": "tasmāt",
+     "en": "therefore",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "न जीवन्ति",
+     "iast": "na jīvanti",
+     "en": "do not live",
+     "hi": "जीवित नहीं रहते"
+    },
+    {
+     "sa": "शरीरिणः",
+     "iast": "śarīriṇaḥ",
+     "en": "embodied beings",
+     "hi": "देहधारी"
+    },
+    {
+     "sa": "इन्द्रियार्थेषु",
+     "iast": "indriyārtheṣu",
+     "en": "in the sense objects",
+     "hi": "इन्द्रियों के विषयों में"
+    },
+    {
+     "sa": "असंप्राप्तिः",
+     "iast": "asaṃprāptiḥ",
+     "en": "non-perception",
+     "hi": "ग्रहण न होना"
+    },
+    {
+     "sa": "मनोबुद्धिविपर्ययः",
+     "iast": "manobuddhiviparyayaḥ",
+     "en": "derangement of mind and intellect",
+     "hi": "मन और बुद्धि का विपर्यय"
+    }
+   ],
+   "english": "Therefore embodied beings struck at the marmas do not live. Non-perception of the sense objects and derangement of mind and intellect,",
+   "hindi": "इसलिए मर्मों में चोट खाए देहधारी जीवित नहीं रहते। इन्द्रियों के विषयों का ग्रहण न होना, मन और बुद्धि का विपर्यय (भ्रम),",
+   "explanation_en": "Because marmas are seats of life (previous verse), serious injury there is fatal. The verse then begins listing the features of injury to a quickly fatal marma: loss of sense perception and disturbance of mind and intellect, continued in the next verse.",
+   "explanation_hi": "मर्म प्राण-स्थान हैं (पिछला श्लोक), इसलिए वहाँ की गम्भीर चोट घातक है। फिर यह श्लोक शीघ्र-घातक मर्म की चोट के लक्षण बताना शुरू करता है: इन्द्रियों का विषय-ग्रहण न होना और मन-बुद्धि का विकार; अगले श्लोक में जारी।",
+   "modern_correlation": {
+    "en": "Loss of sensory perception and confusion after severe injury are often compared to altered consciousness in head injury or shock, which are recognised signs of serious, possibly life-threatening trauma.",
+    "hi": "गम्भीर चोट के बाद इन्द्रिय-ग्रहण का खोना और भ्रम की तुलना प्रायः सिर की चोट या शॉक में चेतना के बदलाव से की जाती है, जो गम्भीर, सम्भवतः जानलेवा चोट के मान्य लक्षण हैं।"
+   },
+   "key_terms": [
+    "marmābhighāta lakṣaṇa",
+    "indriyārtha",
+    "manobuddhiviparyaya"
+   ],
+   "tags": [
+    "marma",
+    "signs",
+    "prognosis"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sharira.6.37",
+   "word_meanings": [
+    {
+     "sa": "रुजः",
+     "iast": "rujaḥ",
+     "en": "pains",
+     "hi": "पीड़ाएँ"
+    },
+    {
+     "sa": "विविधाः",
+     "iast": "vividhāḥ",
+     "en": "various",
+     "hi": "विविध"
+    },
+    {
+     "sa": "तीव्राः",
+     "iast": "tīvrāḥ",
+     "en": "intense",
+     "hi": "तीव्र"
+    },
+    {
+     "sa": "भवन्ति",
+     "iast": "bhavanti",
+     "en": "occur",
+     "hi": "होती हैं"
+    },
+    {
+     "sa": "आशुहरे",
+     "iast": "āśuhare",
+     "en": "in a quickly fatal (marma)",
+     "hi": "शीघ्र मारने वाले (मर्म) में"
+    },
+    {
+     "sa": "हते",
+     "iast": "hate",
+     "en": "when struck",
+     "hi": "चोट लगने पर"
+    },
+    {
+     "sa": "कालान्तरघ्ने",
+     "iast": "kālāntaraghne",
+     "en": "in a fatal-after-time (marma)",
+     "hi": "कालान्तर में मारने वाले में"
+    },
+    {
+     "sa": "ध्रुवः",
+     "iast": "dhruvaḥ",
+     "en": "certain",
+     "hi": "निश्चित"
+    },
+    {
+     "sa": "धातुक्षयः",
+     "iast": "dhātukṣayaḥ",
+     "en": "depletion of the dhātus (body tissues)",
+     "hi": "धातुओं का क्षय"
+    },
+    {
+     "sa": "नृणाम्",
+     "iast": "nṛṇām",
+     "en": "of men",
+     "hi": "मनुष्यों का"
+    }
+   ],
+   "english": "and various intense pains occur when a quickly fatal (sadyaḥprāṇahara) marma is struck. When a fatal-after-time (kālāntaraprāṇahara) marma is struck, depletion of the dhātus (body tissues) is certain.",
+   "hindi": "और विविध तीव्र पीड़ाएँ होती हैं, जब शीघ्र मारने वाले (सद्यःप्राणहर) मर्म पर चोट लगे। कालान्तरप्राणहर मर्म पर चोट लगने से मनुष्यों में धातुओं का क्षय निश्चित होता है।",
+   "explanation_en": "Verses 36-40 give the features (lakṣaṇa) of injury to each prognostic group. Sadyaḥprāṇahara: sensory loss, mental derangement and intense pain. Kālāntaraprāṇahara: progressive dhātukṣaya (tissue wasting), which is why death is delayed. Linking each group to its key sign helps in writing structured answers.",
+   "explanation_hi": "श्लोक 36-40 हर परिणाम-वर्ग की चोट के लक्षण बताते हैं। सद्यःप्राणहर: इन्द्रिय-हानि, मानसिक विकार और तीव्र पीड़ा। कालान्तरप्राणहर: क्रमशः धातुक्षय, इसलिए मृत्यु देर से होती है। हर वर्ग को उसके मुख्य लक्षण से जोड़कर याद करने से उत्तर व्यवस्थित लिखा जा सकता है।",
+   "modern_correlation": {
+    "en": "Delayed death through progressive 'tissue depletion' is often compared to slow haemorrhage, sepsis and catabolic wasting after trauma.",
+    "hi": "क्रमिक 'धातुक्षय' से विलम्बित मृत्यु की तुलना प्रायः चोट के बाद धीमे रक्तस्राव, सेप्सिस और कैटाबोलिक क्षय से की जाती है।"
+   },
+   "key_terms": [
+    "āśuhara",
+    "kālāntaraghna",
+    "dhātukṣaya",
+    "rujā"
+   ],
+   "tags": [
+    "marma",
+    "signs",
+    "prognosis",
+    "exam"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sharira.6.38",
+   "word_meanings": [
+    {
+     "sa": "ततः",
+     "iast": "tataḥ",
+     "en": "then",
+     "hi": "फिर"
+    },
+    {
+     "sa": "धातुक्षयात्",
+     "iast": "dhātukṣayāt",
+     "en": "from depletion of dhātus",
+     "hi": "धातुक्षय से"
+    },
+    {
+     "sa": "जन्तुः",
+     "iast": "jantuḥ",
+     "en": "the creature, person",
+     "hi": "प्राणी"
+    },
+    {
+     "sa": "वेदनाभिः च",
+     "iast": "vedanābhiḥ ca",
+     "en": "and through pains",
+     "hi": "और पीड़ाओं से"
+    },
+    {
+     "sa": "नश्यति",
+     "iast": "naśyati",
+     "en": "perishes",
+     "hi": "नष्ट होता है"
+    },
+    {
+     "sa": "हते",
+     "iast": "hate",
+     "en": "when struck",
+     "hi": "चोट लगने पर"
+    },
+    {
+     "sa": "वैकल्यजनने",
+     "iast": "vaikalyajanane",
+     "en": "in a disability-causing (marma)",
+     "hi": "विकलता उत्पन्न करने वाले में"
+    },
+    {
+     "sa": "केवलम्",
+     "iast": "kevalam",
+     "en": "only",
+     "hi": "केवल"
+    },
+    {
+     "sa": "वैद्यनैपुणात्",
+     "iast": "vaidyanaipuṇāt",
+     "en": "by the expertise of the physician",
+     "hi": "वैद्य की निपुणता से"
+    }
+   ],
+   "english": "Then, from the depletion of dhātus and from pain, the person perishes. When a disability-causing marma is struck, only through the expertise of the physician",
+   "hindi": "फिर धातुक्षय और पीड़ाओं से व्यक्ति नष्ट हो जाता है। वैकल्यकर मर्म पर चोट लगने पर केवल वैद्य की निपुणता से ही",
+   "explanation_en": "The first line completes the description of kālāntaraprāṇahara injury: dhātukṣaya plus pain lead to death. The second line begins the vaikalyakara group, continued in the next verse: with skilled treatment the patient survives, but with deformity.",
+   "explanation_hi": "पहली पंक्ति कालान्तरप्राणहर चोट का वर्णन पूरा करती है: धातुक्षय और पीड़ा से मृत्यु। दूसरी पंक्ति वैकल्यकर वर्ग शुरू करती है, अगले श्लोक में जारी: कुशल चिकित्सा से रोगी बचता है, पर विकलता के साथ।",
+   "modern_correlation": null,
+   "key_terms": [
+    "dhātukṣaya",
+    "vaikalyakara",
+    "vaidyanaipuṇya"
+   ],
+   "tags": [
+    "marma",
+    "prognosis"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sharira.6.39",
+   "word_meanings": [
+    {
+     "sa": "शरीरम्",
+     "iast": "śarīram",
+     "en": "the body",
+     "hi": "शरीर"
+    },
+    {
+     "sa": "क्रियया युक्तम्",
+     "iast": "kriyayā yuktam",
+     "en": "when given treatment",
+     "hi": "चिकित्सा से युक्त होने पर"
+    },
+    {
+     "sa": "विकलत्वम्",
+     "iast": "vikalatvam",
+     "en": "disability",
+     "hi": "विकलता"
+    },
+    {
+     "sa": "अवाप्नुयात्",
+     "iast": "avāpnuyāt",
+     "en": "would attain",
+     "hi": "प्राप्त करता है"
+    },
+    {
+     "sa": "विशल्यघ्नेषु",
+     "iast": "viśalyaghneṣu",
+     "en": "in the viśalyaghna (marmas)",
+     "hi": "विशल्यघ्न मर्मों में"
+    },
+    {
+     "sa": "विज्ञेयम्",
+     "iast": "vijñeyam",
+     "en": "should be understood",
+     "hi": "जानना चाहिए"
+    },
+    {
+     "sa": "पूर्वोक्तम्",
+     "iast": "pūrvoktam",
+     "en": "stated earlier",
+     "hi": "पहले कहा गया"
+    },
+    {
+     "sa": "यत् च कारणम्",
+     "iast": "yat ca kāraṇam",
+     "en": "the reason which",
+     "hi": "जो कारण"
+    }
+   ],
+   "english": "does the body, when properly treated, end up only with disability (instead of death). For the viśalyaghna marmas, the reason stated earlier should be understood.",
+   "hindi": "शरीर, उचित चिकित्सा मिलने पर, (मृत्यु के बजाय) केवल विकलता को प्राप्त होता है। विशल्यघ्न मर्मों के लिए पहले बताया गया कारण ही जानना चाहिए।",
+   "explanation_en": "Vaikalyakara injury: even with good treatment the result is disability, not full recovery. For viśalyaghna marmas the text refers back to verse 16: the vāyu held in by the impacted object escapes when it is pulled out. Such cross-references are common in Suśruta.",
+   "explanation_hi": "वैकल्यकर चोट: अच्छी चिकित्सा पर भी परिणाम विकलता है, पूर्ण स्वास्थ्य नहीं। विशल्यघ्न मर्मों के लिए ग्रन्थ श्लोक 16 का सन्दर्भ देता है: धँसे शल्य से रुकी वायु उसे निकालते ही निकल जाती है। ऐसे सन्दर्भ सुश्रुत में आम हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vaikalyakara",
+    "viśalyaghna",
+    "kriyā"
+   ],
+   "tags": [
+    "marma",
+    "prognosis"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sharira.6.40",
+   "word_meanings": [
+    {
+     "sa": "रुजाकराणि",
+     "iast": "rujākarāṇi",
+     "en": "the pain-causing",
+     "hi": "रुजाकर"
+    },
+    {
+     "sa": "मर्माणि",
+     "iast": "marmāṇi",
+     "en": "marmas",
+     "hi": "मर्म"
+    },
+    {
+     "sa": "क्षतानि",
+     "iast": "kṣatāni",
+     "en": "when wounded",
+     "hi": "घायल होने पर"
+    },
+    {
+     "sa": "विविधाः रुजः",
+     "iast": "vividhāḥ rujaḥ",
+     "en": "various pains",
+     "hi": "विविध पीड़ाएँ"
+    },
+    {
+     "sa": "कुर्वन्ति",
+     "iast": "kurvanti",
+     "en": "cause",
+     "hi": "करते हैं"
+    },
+    {
+     "sa": "अन्ते",
+     "iast": "ante",
+     "en": "in the end",
+     "hi": "अन्त में"
+    },
+    {
+     "sa": "वैकल्यम्",
+     "iast": "vaikalyam",
+     "en": "disability",
+     "hi": "विकलता"
+    },
+    {
+     "sa": "कुवैद्यवशगः",
+     "iast": "kuvaidyavaśagaḥ",
+     "en": "in the hands of an incompetent physician",
+     "hi": "अयोग्य वैद्य के वश में"
+    },
+    {
+     "sa": "यदि",
+     "iast": "yadi",
+     "en": "if",
+     "hi": "यदि"
+    }
+   ],
+   "english": "The pain-causing marmas, when wounded, cause various pains, and in the end disability if the patient falls into the hands of an incompetent physician.",
+   "hindi": "रुजाकर मर्म घायल होने पर विविध पीड़ाएँ करते हैं, और यदि रोगी अयोग्य वैद्य के हाथ पड़ जाए तो अन्त में विकलता भी।",
+   "explanation_en": "Even the least dangerous group (rujākara) can lead to permanent disability if mismanaged. This shows that the prognosis of a marma injury is not fixed: skilled care can move it up a level, and poor care down a level.",
+   "explanation_hi": "सबसे कम खतरनाक वर्ग (रुजाकर) भी गलत चिकित्सा से स्थायी विकलता दे सकता है। इससे पता चलता है कि मर्माघात का परिणाम स्थिर नहीं है: कुशल चिकित्सा उसे सुधार सकती है और खराब चिकित्सा बिगाड़ सकती है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "rujākara",
+    "kuvaidya",
+    "vaikalya"
+   ],
+   "tags": [
+    "marma",
+    "prognosis"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sharira.6.41",
+   "word_meanings": [
+    {
+     "sa": "छेदभेदाभिघातेभ्यः",
+     "iast": "chedabhedābhighātebhyaḥ",
+     "en": "from cutting, piercing and blunt blows",
+     "hi": "छेदन, भेदन और आघात से"
+    },
+    {
+     "sa": "दहनात्",
+     "iast": "dahanāt",
+     "en": "from burning",
+     "hi": "जलने से"
+    },
+    {
+     "sa": "दारणात् अपि",
+     "iast": "dāraṇāt api",
+     "en": "and from tearing",
+     "hi": "और फटने से भी"
+    },
+    {
+     "sa": "उपघातम्",
+     "iast": "upaghātam",
+     "en": "injury",
+     "hi": "क्षति"
+    },
+    {
+     "sa": "विजानीयात्",
+     "iast": "vijānīyāt",
+     "en": "one should know",
+     "hi": "जानना चाहिए"
+    },
+    {
+     "sa": "मर्मणाम्",
+     "iast": "marmaṇām",
+     "en": "of the marmas",
+     "hi": "मर्मों की"
+    },
+    {
+     "sa": "तुल्यलक्षणम्",
+     "iast": "tulyalakṣaṇam",
+     "en": "having the same features",
+     "hi": "समान लक्षणों वाली"
+    }
+   ],
+   "english": "Whether from cutting, piercing, blunt blows, burning or tearing, one should know that injury to the marmas has the same features.",
+   "hindi": "छेदन (काटना), भेदन (बेधना), अभिघात (कुचलने वाली चोट), दहन (जलना) या दारण (फटना), किसी से भी हो, मर्मों की क्षति के लक्षण समान ही होते हैं।",
+   "explanation_en": "The result of marma injury depends on the marma, not on the type of trauma. Five modes are named: cheda (cutting), bheda (piercing), abhighāta (blunt injury), dahana (burns) and dāraṇa (tearing). A useful point in answers on 'marmābhighāta'.",
+   "explanation_hi": "मर्माघात का परिणाम मर्म पर निर्भर है, चोट के प्रकार पर नहीं। पाँच प्रकार बताए गए: छेद (काटना), भेद (बेधना), अभिघात (कुचलने वाली चोट), दहन (जलना) और दारण (फटना)। 'मर्माघात' के उत्तर में उपयोगी बिन्दु।",
+   "modern_correlation": {
+    "en": "Modern trauma care similarly notes that the anatomical structure involved often matters more for outcome than whether the mechanism was sharp, blunt or thermal, although mechanism still affects the pattern of damage.",
+    "hi": "आधुनिक ट्रॉमा केयर भी मानती है कि परिणाम के लिए प्रायः यह अधिक महत्त्वपूर्ण है कि कौन-सी रचना प्रभावित हुई, बजाय इसके कि चोट धारदार, कुचलने वाली या ताप से हुई; यद्यपि चोट का प्रकार क्षति के स्वरूप को प्रभावित करता है।"
+   },
+   "key_terms": [
+    "cheda",
+    "bheda",
+    "abhighāta",
+    "dahana",
+    "dāraṇa",
+    "marmopaghāta"
+   ],
+   "tags": [
+    "marma",
+    "trauma types"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sharira.6.42",
+   "word_meanings": [
+    {
+     "sa": "मर्माभिघातः",
+     "iast": "marmābhighātaḥ",
+     "en": "marma injury",
+     "hi": "मर्माघात"
+    },
+    {
+     "sa": "कश्चित् अस्ति",
+     "iast": "kaścit asti",
+     "en": "there is some",
+     "hi": "कोई-कोई होता है"
+    },
+    {
+     "sa": "यः",
+     "iast": "yaḥ",
+     "en": "which",
+     "hi": "जो"
+    },
+    {
+     "sa": "अल्पात्ययः",
+     "iast": "alpātyayaḥ",
+     "en": "of little danger",
+     "hi": "अल्प खतरे वाला"
+    },
+    {
+     "sa": "निरत्ययः",
+     "iast": "niratyayaḥ",
+     "en": "without danger",
+     "hi": "बिना खतरे का"
+    },
+    {
+     "sa": "प्रायेण",
+     "iast": "prāyeṇa",
+     "en": "mostly",
+     "hi": "प्रायः"
+    },
+    {
+     "sa": "मर्मसु",
+     "iast": "marmasu",
+     "en": "in the marmas",
+     "hi": "मर्मों में"
+    },
+    {
+     "sa": "अभिताडिताः",
+     "iast": "abhitāḍitāḥ",
+     "en": "those struck",
+     "hi": "चोट खाए"
+    },
+    {
+     "sa": "वैकल्यम्",
+     "iast": "vaikalyam",
+     "en": "disability",
+     "hi": "विकलता"
+    },
+    {
+     "sa": "ऋच्छन्ति",
+     "iast": "ṛcchanti",
+     "en": "attain",
+     "hi": "प्राप्त होते हैं"
+    },
+    {
+     "sa": "अथवा म्रियन्ते",
+     "iast": "athavā mriyante",
+     "en": "or they die",
+     "hi": "या मर जाते हैं"
+    }
+   ],
+   "english": "There is indeed some marma injury that carries little danger or none at all; but mostly those struck at the marmas end up disabled or die.",
+   "hindi": "कोई-कोई मर्माघात ऐसा भी होता है जो कम खतरे वाला या बिल्कुल बिना खतरे का हो; परन्तु प्रायः मर्मों में चोट खाए व्यक्ति विकल हो जाते हैं या मर जाते हैं।",
+   "explanation_en": "A balanced, realistic statement: not every marma injury is serious (e.g. a light or marginal blow), but as a rule marma trauma leads to disability or death. This qualifies the stricter statements of verses 33-36.",
+   "explanation_hi": "यह सन्तुलित और यथार्थ कथन है: हर मर्माघात गम्भीर नहीं होता (जैसे हल्की या किनारे की चोट), पर सामान्य नियम से मर्माघात विकलता या मृत्यु देता है। यह श्लोक 33-36 के कठोर कथनों को सीमित करता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "marmābhighāta",
+    "alpātyaya",
+    "niratyaya"
+   ],
+   "tags": [
+    "marma",
+    "prognosis"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sharira.6.43",
+   "word_meanings": [
+    {
+     "sa": "मर्माणि",
+     "iast": "marmāṇi",
+     "en": "the marmas",
+     "hi": "मर्मों को"
+    },
+    {
+     "sa": "अधिष्ठाय",
+     "iast": "adhiṣṭhāya",
+     "en": "having settled in",
+     "hi": "आश्रय बनाकर"
+    },
+    {
+     "sa": "हि",
+     "iast": "hi",
+     "en": "indeed",
+     "hi": "निश्चय ही"
+    },
+    {
+     "sa": "ये विकाराः",
+     "iast": "ye vikārāḥ",
+     "en": "the diseases which",
+     "hi": "जो रोग"
+    },
+    {
+     "sa": "मूर्छन्ति",
+     "iast": "mūrchanti",
+     "en": "grow, arise",
+     "hi": "बढ़ते हैं, उत्पन्न होते हैं"
+    },
+    {
+     "sa": "काये",
+     "iast": "kāye",
+     "en": "in the body",
+     "hi": "शरीर में"
+    },
+    {
+     "sa": "विविधाः",
+     "iast": "vividhāḥ",
+     "en": "various",
+     "hi": "विविध"
+    },
+    {
+     "sa": "नराणाम्",
+     "iast": "narāṇām",
+     "en": "of men",
+     "hi": "मनुष्यों के"
+    },
+    {
+     "sa": "प्रायेण",
+     "iast": "prāyeṇa",
+     "en": "mostly",
+     "hi": "प्रायः"
+    },
+    {
+     "sa": "ते",
+     "iast": "te",
+     "en": "they",
+     "hi": "वे"
+    },
+    {
+     "sa": "कृच्छ्रतमाः",
+     "iast": "kṛcchratamāḥ",
+     "en": "most difficult (to cure)",
+     "hi": "अत्यन्त कष्टसाध्य"
+    },
+    {
+     "sa": "भवन्ति",
+     "iast": "bhavanti",
+     "en": "are",
+     "hi": "होते हैं"
+    },
+    {
+     "sa": "नरस्य",
+     "iast": "narasya",
+     "en": "of a person",
+     "hi": "मनुष्य के"
+    },
+    {
+     "sa": "यत्नैः अपि",
+     "iast": "yatnaiḥ api",
+     "en": "even with efforts",
+     "hi": "प्रयत्न करने पर भी"
+    },
+    {
+     "sa": "साध्यमानाः",
+     "iast": "sādhyamānāḥ",
+     "en": "being treated",
+     "hi": "चिकित्सा किए जाने पर"
+    }
+   ],
+   "english": "The various diseases that arise in the human body by settling in the marmas are mostly the most difficult to cure, even when treated with great effort.",
+   "hindi": "मनुष्यों के शरीर में जो विविध रोग मर्मों को आश्रय बनाकर उत्पन्न होते हैं, वे प्रायः प्रयत्नपूर्वक चिकित्सा करने पर भी अत्यन्त कष्टसाध्य होते हैं।",
+   "explanation_en": "The chapter ends by extending marma knowledge from trauma to disease: any disorder located at a marma (e.g. a swelling, abscess or tumour) has a worse prognosis. This is why marma involvement is listed among signs of difficult curability (kṛcchrasādhyatā) in many diseases. A useful concluding point for essay answers.",
+   "explanation_hi": "अध्याय मर्म-ज्ञान को चोट से रोग तक बढ़ाकर समाप्त होता है: मर्म पर स्थित कोई भी रोग (जैसे शोथ, विद्रधि या अर्बुद) अधिक कष्टसाध्य होता है। इसीलिए अनेक रोगों में मर्म-सम्बन्ध को कृच्छ्रसाध्यता का लक्षण माना जाता है। निबन्ध-उत्तर का अच्छा समापन बिन्दु।",
+   "modern_correlation": {
+    "en": "Modern medicine similarly recognises that lesions near critical structures (for example tumours encasing major vessels, or infections near the heart or brain) are harder to treat and carry a worse prognosis.",
+    "hi": "आधुनिक चिकित्सा भी मानती है कि महत्त्वपूर्ण रचनाओं के पास के विकार (जैसे बड़ी वाहिकाओं को घेरे अर्बुद, या हृदय या मस्तिष्क के पास संक्रमण) का उपचार कठिन और परिणाम खराब होता है।"
+   },
+   "key_terms": [
+    "marmāśrita vikāra",
+    "kṛcchrasādhya",
+    "sādhyāsādhyatā"
+   ],
+   "tags": [
+    "marma",
+    "prognosis",
+    "disease"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  }
+ ]
+}

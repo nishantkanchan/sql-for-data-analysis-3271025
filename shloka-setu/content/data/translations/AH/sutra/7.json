@@ -271,8 +271,8 @@
    ],
    "english": "Its steam is like the colour of a peacock's neck; it causes confusion, fainting and salivation; it loses its colour, smell and so on; and it becomes slimy and covered with moon-like (shining) spots.",
    "hindi": "उसकी भाप मोर की गर्दन जैसी (नीली-हरी) होती है; वह मोह, मूर्छा और लार गिरना करता है; उसका रंग, गंध आदि नष्ट हो जाते हैं; और वह चिपचिपा होकर चमकीले धब्बों से भर जाता है।",
-   "explanation_en": "More signs of poisoned rice. The 'peacock-neck' colour of steam or flame recurs as a key sign of poison (see also verse 14). The next verse begins with a variant reading of 'candrikā-citaḥ'.",
-   "explanation_hi": "विषयुक्त भात के और लक्षण। भाप या लौ का 'मोर की गर्दन' जैसा रंग विष का मुख्य लक्षण है जो बार-बार आता है (श्लोक 14 भी देखें)। अगला श्लोक 'चन्द्रिकाचितः' के पाठान्तर से शुरू होता है।",
+   "explanation_en": "More signs of poisoned rice. The 'peacock-neck' colour of steam or flame recurs as a key sign of poison (see also verse 14). A variant reading of the last word is 'candrakānvitaḥ' (with spots).",
+   "explanation_hi": "विषयुक्त भात के और लक्षण। भाप या लौ का 'मोर की गर्दन' जैसा रंग विष का मुख्य लक्षण है जो बार-बार आता है (श्लोक 14 भी देखें)। अन्तिम शब्द का पाठान्तर 'चन्द्रकान्वितः' (धब्बों वाला) है।",
    "modern_correlation": null,
    "key_terms": [
     "viṣa lakṣaṇa",
@@ -288,12 +288,6 @@
   {
    "id": "AH.sutra.7.5",
    "word_meanings": [
-    {
-     "sa": "क्लिद्यते चन्द्रकान्वितः",
-     "iast": "klidyate candrakānvitaḥ",
-     "en": "(variant of v.4d: 'becomes slimy, with spots')",
-     "hi": "(श्लोक 4 का पाठान्तर)"
-    },
     {
      "sa": "व्यञ्जनानि",
      "iast": "vyañjanāni",
@@ -331,10 +325,10 @@
      "hi": "या दिखाई ही न दे"
     }
    ],
-   "english": "[Variant of v.4d.] Side dishes [when poisoned] dry up quickly and their liquid becomes dark; and one's reflection in them appears diminished, enlarged or distorted, or is not seen at all.",
-   "hindi": "[श्लोक 4 का पाठान्तर।] विषयुक्त व्यंजन जल्दी सूख जाते हैं और उनका रस काला पड़ जाता है; उनमें अपनी परछाईं कम, बड़ी या विकृत दिखती है, या बिलकुल नहीं दिखती।",
-   "explanation_en": "Signs in curries and liquids. Looking at one's reflection (chāyā) in a liquid was a classical test for poison. The corpus text begins with an editorial variant marker carried over from verse 4.",
-   "explanation_hi": "व्यंजनों और तरल पदार्थों में विष के लक्षण। तरल में अपनी परछाईं (छाया) देखना विष की शास्त्रीय परीक्षा थी। मूल पाठ की शुरुआत में श्लोक 4 का एक पाठान्तर-चिह्न आ गया है।",
+   "english": "Side dishes [when poisoned] dry up quickly and their liquid becomes dark; and one's reflection in them appears diminished, enlarged or distorted, or is not seen at all.",
+   "hindi": "विषयुक्त व्यंजन जल्दी सूख जाते हैं और उनका रस काला पड़ जाता है; उनमें अपनी परछाईं कम, बड़ी या विकृत दिखती है, या बिलकुल नहीं दिखती।",
+   "explanation_en": "Signs in curries and liquids. Looking at one's reflection (chāyā) in a liquid was a classical test for poison. A variant reading of the last quarter is 'chāyā dṛśyeta vā na vā' (the reflection may or may not be seen).",
+   "explanation_hi": "व्यंजनों और तरल पदार्थों में विष के लक्षण। तरल में अपनी परछाईं (छाया) देखना विष की शास्त्रीय परीक्षा थी। अन्तिम चरण का पाठान्तर 'छाया दृश्येत वा न वा' (परछाईं दिखे या न दिखे) है।",
    "modern_correlation": null,
    "key_terms": [
     "viṣa lakṣaṇa",

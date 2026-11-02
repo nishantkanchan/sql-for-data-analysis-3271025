@@ -292,10 +292,8 @@ export default function Scan() {
               textAlignVertical: 'top',
             }}
           />
-          <Row>
-            <Button testID="paste-search" kind="primary" icon="search" label={t('searchOffline')} onPress={runSearch} loading={searching} style={{ flex: 1 }} disabled={!query.trim()} />
-            <Button testID="paste-explain" kind="secondary" icon="sparkles-outline" label={t('explainOnline')} onPress={explain} loading={explaining} style={{ flex: 1 }} disabled={!query.trim()} />
-          </Row>
+          <Button testID="paste-search" kind="primary" icon="search" label={t('searchOffline')} onPress={runSearch} loading={searching} disabled={!query.trim()} />
+          <Button testID="paste-explain" kind="secondary" icon="sparkles-outline" label={t('explainOnline')} onPress={explain} loading={explaining} disabled={!query.trim()} />
         </View>
       </Card>
 

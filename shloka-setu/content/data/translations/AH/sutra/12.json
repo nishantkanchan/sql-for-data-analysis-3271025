@@ -1,0 +1,6982 @@
+{
+ "chapter": {
+  "id": "AH.sutra.12",
+  "text": "ashtanga_hridaya",
+  "sthana": "sutra",
+  "chapter": 12,
+  "title_iast": "Doṣabhedīya Adhyāya",
+  "title_devanagari": "दोषभेदीयोऽध्यायः",
+  "title_en": "The chapter on the divisions of the doṣas",
+  "title_hi": "दोषभेदीय अध्याय (दोषों के भेद)",
+  "summary_en": "This chapter is the core Ayurvedic account of doṣa physiology and the general principles of pathology. It lists the seats (sthāna) of vāta, pitta and kapha with their principal sites (pakvāśaya, nābhi, uras), and describes the five subtypes of each: prāṇa, udāna, vyāna, samāna, apāna; pācaka, rañjaka, sādhaka, ālocaka, bhrājaka; avalambaka, kledaka, bodhaka, tarpaka, śleṣaka, with their locations and functions. It explains caya, prakopa and praśama through combinations of qualities and the seasonal cycle of each doṣa. It declares the doṣas the sole cause of all diseases and gives the three root causes of their aggravation (asātmyendriyārtha-saṃyoga, kāla, karma), each as hīna, ati and mithyā yoga. It describes the three pathways of disease (bāhya, ābhyantara, madhyama), the pathological signs of each doṣa, and classifies diseases as doṣaja, karmaja and doṣa-karmaja, and as svatantra or paratantra (pūrvarūpa and upadrava). It teaches how to manage unnamed diseases, lists the factors to examine before treatment (dūṣya, deśa, bala, kāla, agni, prakṛti, vayas, sattva, sātmya, āhāra, avasthā), warns against under- and over-treatment, and ends with the 62 combinations of doṣa vṛddhi and kṣaya. It is one of the most heavily examined chapters for Kriyā Śārīra, Roga Nidāna and Saṃhitā.",
+  "summary_hi": "यह अध्याय दोष शरीर-क्रिया और विकृति विज्ञान के सामान्य सिद्धांतों का मूल आयुर्वेदीय वर्णन है। इसमें वात, पित्त और कफ के स्थान और उनके मुख्य स्थान (पक्वाशय, नाभि, उर) दिए गए हैं, और हर दोष के पाँच भेद: प्राण, उदान, व्यान, समान, अपान; पाचक, रंजक, साधक, आलोचक, भ्राजक; अवलम्बक, क्लेदक, बोधक, तर्पक, श्लेषक, उनके स्थान और कर्म सहित। गुणों के मेल और ऋतु चक्र से चय, प्रकोप और प्रशम समझाए गए हैं। दोषों को सभी रोगों का एकमात्र कारण बताया गया है, और उनके प्रकोप के तीन मूल कारण (असात्म्येंद्रियार्थ संयोग, काल, कर्म), हर एक हीन, अति और मिथ्या योग सहित। तीन रोग मार्ग (बाह्य, आभ्यंतर, मध्यम), हर दोष के विकृत लक्षण, और रोगों का दोषज, कर्मज, दोष-कर्मज तथा स्वतंत्र-परतंत्र (पूर्वरूप और उपद्रव) वर्गीकरण दिया गया है। बिना नाम वाले रोगों की चिकित्सा, चिकित्सा से पहले परीक्षा योग्य कारक (दूष्य, देश, बल, काल, अग्नि, प्रकृति, वय, सत्त्व, सात्म्य, आहार, अवस्था), कम और अधिक चिकित्सा की चेतावनी, और अंत में दोष वृद्धि-क्षय के 62 संयोग बताए गए हैं। क्रिया शारीर, रोग निदान और संहिता के लिए यह सबसे ज़्यादा पूछे जाने वाले अध्यायों में है।",
+  "key_concepts": [
+   "doṣa-sthāna",
+   "pañca-vāta",
+   "pañca-pitta",
+   "pañca-kapha",
+   "caya-prakopa-praśama",
+   "ṛtu-doṣa-cycle",
+   "trividha-hetu",
+   "hīna-ati-mithyā-yoga",
+   "rogamārga",
+   "doṣa-lakṣaṇa",
+   "svatantra-paratantra",
+   "upadrava",
+   "anukta-vyādhi",
+   "parīkṣya-bhāva",
+   "62-doṣa-bheda"
+  ],
+  "exam_focus_en": [
+   "Seats of the three doṣas and their principal sites: pakvāśaya (vāta), nābhi (pitta), uras (kapha) (12.1-3)",
+   "Five subtypes of vāta, pitta and kapha with location and function; rañjaka pitta in āmāśaya per AH (12.4-18)",
+   "Definitions of caya, prakopa, praśama and the seasonal doṣa cycle (12.19-28)",
+   "Trividha hetu with hīna, ati and mithyā yoga; three rogamārgas with examples (12.35-49)",
+   "Classification of diseases: doṣaja, karmaja, doṣa-karmaja; svatantra and paratantra; management of upadrava; anukta vyādhi (12.57-66)",
+   "Parīkṣya bhāvas (dūṣya, deśa, bala ...) and the 62 doṣa-bhedas (12.67-78)"
+  ],
+  "exam_focus_hi": [
+   "तीनों दोषों के स्थान और मुख्य स्थान: पक्वाशय (वात), नाभि (पित्त), उर (कफ) (12.1-3)",
+   "वात, पित्त, कफ के पाँच-पाँच भेद, स्थान और कर्म; अष्टांगहृदय के अनुसार रंजक पित्त आमाशय में (12.4-18)",
+   "चय, प्रकोप, प्रशम की परिभाषा और ऋतु अनुसार दोष चक्र (12.19-28)",
+   "त्रिविध हेतु और हीन, अति, मिथ्या योग; तीन रोग मार्ग उदाहरण सहित (12.35-49)",
+   "रोग वर्गीकरण: दोषज, कर्मज, दोष-कर्मज; स्वतंत्र और परतंत्र; उपद्रव की चिकित्सा; अनुक्त व्याधि (12.57-66)",
+   "परीक्ष्य भाव (दूष्य, देश, बल ...) और 62 दोष भेद (12.67-78)"
+  ],
+  "syllabus_refs": [
+   "AyUG-SA1"
+  ],
+  "review_status": "ai_draft"
+ },
+ "verses": [
+  {
+   "id": "AH.sutra.12.1",
+   "word_meanings": [
+    {
+     "sa": "पक्वाशय",
+     "iast": "pakvāśaya",
+     "en": "large intestine (colon)",
+     "hi": "पक्वाशय (बड़ी आँत)"
+    },
+    {
+     "sa": "कटी",
+     "iast": "kaṭī",
+     "en": "waist, lumbar region",
+     "hi": "कमर"
+    },
+    {
+     "sa": "सक्थि",
+     "iast": "sakthi",
+     "en": "thighs",
+     "hi": "जाँघें"
+    },
+    {
+     "sa": "श्रोत्र",
+     "iast": "śrotra",
+     "en": "ears",
+     "hi": "कान"
+    },
+    {
+     "sa": "अस्थि",
+     "iast": "asthi",
+     "en": "bones",
+     "hi": "हड्डियाँ"
+    },
+    {
+     "sa": "स्पर्शनेन्द्रियम्",
+     "iast": "sparśanendriyam",
+     "en": "the organ of touch (skin)",
+     "hi": "स्पर्शेंद्रिय (त्वचा)"
+    },
+    {
+     "sa": "स्थानम्",
+     "iast": "sthānam",
+     "en": "seat",
+     "hi": "स्थान"
+    },
+    {
+     "sa": "वातस्य",
+     "iast": "vātasya",
+     "en": "of vāta",
+     "hi": "वात का"
+    },
+    {
+     "sa": "तत्र अपि",
+     "iast": "tatra api",
+     "en": "even among these",
+     "hi": "इनमें भी"
+    },
+    {
+     "sa": "पक्वाधानम्",
+     "iast": "pakvādhānam",
+     "en": "the colon",
+     "hi": "पक्वाशय"
+    },
+    {
+     "sa": "विशेषतः",
+     "iast": "viśeṣataḥ",
+     "en": "especially",
+     "hi": "विशेष रूप से"
+    }
+   ],
+   "english": "The colon (pakvāśaya), waist, thighs, ears, bones and the organ of touch (skin) are the seats of vāta; among these, the colon is the principal seat.",
+   "hindi": "पक्वाशय (बड़ी आँत), कमर, जाँघें, कान, हड्डियाँ और स्पर्शेंद्रिय (त्वचा) वात के स्थान हैं; इनमें भी पक्वाशय वात का विशेष (मुख्य) स्थान है।",
+   "explanation_en": "The chapter title Doṣabhedīya means 'on the divisions of the doṣas'. Verses 1-3 give doṣa-sthāna (seats), a top exam topic. The principal seat explains therapy: basti (colon) is best for vāta, virecana (around the navel/small intestine) for pitta, vamana (chest/stomach) for kapha.",
+   "explanation_hi": "अध्याय का नाम दोषभेदीय यानी 'दोषों के भेद'। श्लोक 1-3 में दोष स्थान हैं, जो शीर्ष परीक्षा विषय है। मुख्य स्थान से चिकित्सा समझ आती है: वात के लिए बस्ति (पक्वाशय), पित्त के लिए विरेचन (नाभि/छोटी आँत), कफ के लिए वमन (उर/आमाशय)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vāta-sthāna",
+    "pakvāśaya",
+    "doṣa-sthāna"
+   ],
+   "tags": [
+    "dosha",
+    "dosha-sthana",
+    "vata"
+   ],
+   "importance": "high",
+   "mnemonic": "Vāta's home = Pakvāśaya; Pitta's = Nābhi; Kapha's = Uras",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.2",
+   "word_meanings": [
+    {
+     "sa": "नाभिः",
+     "iast": "nābhiḥ",
+     "en": "navel region",
+     "hi": "नाभि"
+    },
+    {
+     "sa": "आमाशयः",
+     "iast": "āmāśayaḥ",
+     "en": "stomach/upper digestive tract",
+     "hi": "आमाशय"
+    },
+    {
+     "sa": "स्वेदः",
+     "iast": "svedaḥ",
+     "en": "sweat",
+     "hi": "पसीना"
+    },
+    {
+     "sa": "लसीका",
+     "iast": "lasīkā",
+     "en": "lymph, serous fluid",
+     "hi": "लसीका"
+    },
+    {
+     "sa": "रुधिरम्",
+     "iast": "rudhiram",
+     "en": "blood",
+     "hi": "रक्त"
+    },
+    {
+     "sa": "रसः",
+     "iast": "rasaḥ",
+     "en": "rasa dhātu",
+     "hi": "रस"
+    },
+    {
+     "sa": "दृक्",
+     "iast": "dṛk",
+     "en": "eyes",
+     "hi": "आँखें"
+    },
+    {
+     "sa": "स्पर्शनम्",
+     "iast": "sparśanam",
+     "en": "skin",
+     "hi": "त्वचा"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "पित्तस्य",
+     "iast": "pittasya",
+     "en": "of pitta",
+     "hi": "पित्त के"
+    },
+    {
+     "sa": "नाभिः",
+     "iast": "nābhiḥ",
+     "en": "navel",
+     "hi": "नाभि"
+    },
+    {
+     "sa": "अत्र",
+     "iast": "atra",
+     "en": "here",
+     "hi": "इनमें"
+    },
+    {
+     "sa": "विशेषतः",
+     "iast": "viśeṣataḥ",
+     "en": "especially",
+     "hi": "विशेष रूप से"
+    }
+   ],
+   "english": "The navel region, āmāśaya, sweat, lymph (lasīkā), blood, rasa, eyes and skin are the seats of pitta; among these, the navel region is the principal seat.",
+   "hindi": "नाभि, आमाशय, पसीना, लसीका, रक्त, रस, आँखें और त्वचा पित्त के स्थान हैं; इनमें नाभि पित्त का विशेष (मुख्य) स्थान है।",
+   "explanation_en": "Pitta-sthāna. Note that āmāśaya and rasa are seats of both pitta and kapha (verse 3), and skin is shared with vāta. 'Nābhi' here refers to the region of the grahaṇī/small intestine.",
+   "explanation_hi": "पित्त स्थान। ध्यान दें कि आमाशय और रस पित्त और कफ (श्लोक 3) दोनों के स्थान हैं, और त्वचा वात के साथ साझा है। यहाँ 'नाभि' से ग्रहणी/छोटी आँत का क्षेत्र अभिप्रेत है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "pitta-sthāna",
+    "nābhi",
+    "doṣa-sthāna"
+   ],
+   "tags": [
+    "dosha",
+    "dosha-sthana",
+    "pitta"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.3",
+   "word_meanings": [
+    {
+     "sa": "उरः",
+     "iast": "uraḥ",
+     "en": "chest",
+     "hi": "छाती"
+    },
+    {
+     "sa": "कण्ठ",
+     "iast": "kaṇṭha",
+     "en": "throat",
+     "hi": "कंठ"
+    },
+    {
+     "sa": "शिरः",
+     "iast": "śiraḥ",
+     "en": "head",
+     "hi": "सिर"
+    },
+    {
+     "sa": "क्लोम",
+     "iast": "kloma",
+     "en": "kloma (an organ near the heart; variously identified)",
+     "hi": "क्लोम"
+    },
+    {
+     "sa": "पर्वाणि",
+     "iast": "parvāṇi",
+     "en": "joints",
+     "hi": "जोड़"
+    },
+    {
+     "sa": "आमाशयः",
+     "iast": "āmāśayaḥ",
+     "en": "stomach",
+     "hi": "आमाशय"
+    },
+    {
+     "sa": "रसः",
+     "iast": "rasaḥ",
+     "en": "rasa dhātu",
+     "hi": "रस"
+    },
+    {
+     "sa": "मेदः",
+     "iast": "medaḥ",
+     "en": "fat",
+     "hi": "मेद"
+    },
+    {
+     "sa": "घ्राणम्",
+     "iast": "ghrāṇam",
+     "en": "nose",
+     "hi": "नाक"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "जिह्वा",
+     "iast": "jihvā",
+     "en": "tongue",
+     "hi": "जीभ"
+    },
+    {
+     "sa": "कफस्य",
+     "iast": "kaphasya",
+     "en": "of kapha",
+     "hi": "कफ के"
+    },
+    {
+     "sa": "सुतराम्",
+     "iast": "sutarām",
+     "en": "especially",
+     "hi": "विशेष रूप से"
+    },
+    {
+     "sa": "उरः",
+     "iast": "uraḥ",
+     "en": "the chest",
+     "hi": "छाती"
+    }
+   ],
+   "english": "The chest, throat, head, kloma, joints, āmāśaya, rasa, fat (medas), nose and tongue are the seats of kapha; the chest is its principal seat.",
+   "hindi": "छाती, कंठ, सिर, क्लोम, जोड़, आमाशय, रस, मेद, नाक और जीभ कफ के स्थान हैं; इनमें छाती कफ का विशेष (मुख्य) स्थान है।",
+   "explanation_en": "Kapha-sthāna. 'Kloma' is identified differently by scholars (pancreas, trachea, right lung or gall bladder have all been suggested). Doṣa-sthāna lists are frequently asked as MCQs ('principal seat of pitta?' → nābhi).",
+   "explanation_hi": "कफ स्थान। 'क्लोम' की पहचान विद्वान अलग-अलग करते हैं (अग्न्याशय, श्वासनली, दायाँ फेफड़ा या पित्ताशय सुझाए गए हैं)। दोष स्थान सूचियाँ MCQ के रूप में अक्सर पूछी जाती हैं ('पित्त का मुख्य स्थान?' → नाभि)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "kapha-sthāna",
+    "uras",
+    "kloma",
+    "doṣa-sthāna"
+   ],
+   "tags": [
+    "dosha",
+    "dosha-sthana",
+    "kapha"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.4",
+   "word_meanings": [
+    {
+     "sa": "प्राणादिभेदात्",
+     "iast": "prāṇādi-bhedāt",
+     "en": "by division into prāṇa etc.",
+     "hi": "प्राण आदि भेदों से"
+    },
+    {
+     "sa": "पञ्चात्मा",
+     "iast": "pañcātmā",
+     "en": "fivefold",
+     "hi": "पाँच प्रकार का"
+    },
+    {
+     "sa": "वायुः",
+     "iast": "vāyuḥ",
+     "en": "vāta",
+     "hi": "वायु"
+    },
+    {
+     "sa": "प्राणः",
+     "iast": "prāṇaḥ",
+     "en": "prāṇa vāyu",
+     "hi": "प्राण वायु"
+    },
+    {
+     "sa": "अत्र",
+     "iast": "atra",
+     "en": "here",
+     "hi": "इनमें"
+    },
+    {
+     "sa": "मूर्धगः",
+     "iast": "mūrdha-gaḥ",
+     "en": "situated in the head",
+     "hi": "सिर में स्थित"
+    },
+    {
+     "sa": "उरःकण्ठचरः",
+     "iast": "uraḥ-kaṇṭha-caraḥ",
+     "en": "moving in the chest and throat",
+     "hi": "छाती और कंठ में घूमने वाला"
+    },
+    {
+     "sa": "बुद्धि",
+     "iast": "buddhi",
+     "en": "intellect",
+     "hi": "बुद्धि"
+    },
+    {
+     "sa": "हृदय",
+     "iast": "hṛdaya",
+     "en": "heart",
+     "hi": "हृदय"
+    },
+    {
+     "sa": "इन्द्रिय",
+     "iast": "indriya",
+     "en": "senses",
+     "hi": "इंद्रियाँ"
+    },
+    {
+     "sa": "चित्त",
+     "iast": "citta",
+     "en": "mind",
+     "hi": "चित्त (मन)"
+    },
+    {
+     "sa": "धृक्",
+     "iast": "dhṛk",
+     "en": "sustaining",
+     "hi": "धारण करने वाला"
+    }
+   ],
+   "english": "Vāta is fivefold by division into prāṇa and the others. Of these, prāṇa is situated in the head, moves in the chest and throat, and sustains the intellect, heart, senses and mind;",
+   "hindi": "वात प्राण आदि भेदों से पाँच प्रकार का है। इनमें प्राण वायु सिर में स्थित है, छाती और कंठ में घूमता है, और बुद्धि, हृदय, इंद्रियों तथा मन को धारण करता है;",
+   "explanation_en": "Verses 4-9 describe the five types of vāta (prāṇa, udāna, vyāna, samāna, apāna) with sthāna and karma. Among the most important verses for Kriyā Śārīra. Prāṇa's seat is mūrdhā (head) in AH.",
+   "explanation_hi": "श्लोक 4-9 में वात के पाँच भेद (प्राण, उदान, व्यान, समान, अपान) स्थान और कर्म सहित हैं। क्रिया शारीर के सबसे महत्वपूर्ण श्लोकों में। अष्टांगहृदय में प्राण का स्थान मूर्धा (सिर) है।",
+   "modern_correlation": {
+    "en": "Prāṇa vāyu's functions (sustaining mind and senses, respiration, swallowing) are often compared to the activity of the brain and brainstem centres controlling respiration, deglutition and sensory integration.",
+    "hi": "प्राण वायु के कर्म (मन और इंद्रियों को धारण करना, श्वसन, निगलना) की तुलना अक्सर मस्तिष्क और ब्रेनस्टेम के उन केंद्रों से की जाती है जो श्वसन, निगलने और संवेदी समन्वय को नियंत्रित करते हैं।"
+   },
+   "key_terms": [
+    "pañca-vāta",
+    "prāṇa-vāyu",
+    "mūrdhā"
+   ],
+   "tags": [
+    "dosha",
+    "vata-bheda",
+    "prana"
+   ],
+   "importance": "high",
+   "mnemonic": "PUVSA: Prāṇa-head, Udāna-chest, Vyāna-heart, Samāna-near agni, Apāna-anal region",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.5",
+   "word_meanings": [
+    {
+     "sa": "ष्ठीवन",
+     "iast": "ṣṭhīvana",
+     "en": "spitting",
+     "hi": "थूकना"
+    },
+    {
+     "sa": "क्षवथु",
+     "iast": "kṣavathu",
+     "en": "sneezing",
+     "hi": "छींकना"
+    },
+    {
+     "sa": "उद्गार",
+     "iast": "udgāra",
+     "en": "belching",
+     "hi": "डकार"
+    },
+    {
+     "sa": "निःश्वास",
+     "iast": "niḥśvāsa",
+     "en": "breathing",
+     "hi": "श्वास"
+    },
+    {
+     "sa": "अन्नप्रवेशकृत्",
+     "iast": "anna-praveśa-kṛt",
+     "en": "swallowing food",
+     "hi": "भोजन को अंदर ले जाने वाला"
+    },
+    {
+     "sa": "उरः",
+     "iast": "uraḥ",
+     "en": "chest",
+     "hi": "छाती"
+    },
+    {
+     "sa": "स्थानम्",
+     "iast": "sthānam",
+     "en": "seat",
+     "hi": "स्थान"
+    },
+    {
+     "sa": "उदानस्य",
+     "iast": "udānasya",
+     "en": "of udāna",
+     "hi": "उदान का"
+    },
+    {
+     "sa": "नासानाभिगलान्",
+     "iast": "nāsā-nābhi-galān",
+     "en": "nose, navel and throat",
+     "hi": "नाक, नाभि और गले में"
+    },
+    {
+     "sa": "चरेत्",
+     "iast": "caret",
+     "en": "moves",
+     "hi": "घूमता है"
+    }
+   ],
+   "english": "...it carries out spitting, sneezing, belching, breathing and swallowing of food. The chest is the seat of udāna; it moves in the nose, navel and throat;",
+   "hindi": "...यह थूकना, छींकना, डकार, श्वास और भोजन निगलने का काम करता है। उदान वायु का स्थान छाती है; यह नाक, नाभि और गले में घूमता है;",
+   "explanation_en": "Prāṇa karma: ṣṭhīvana, kṣavathu, udgāra, niḥśvāsa, anna-praveśa. Udāna: sthāna uras, moves in nāsā, nābhi, gala. Its functions follow in verse 6.",
+   "explanation_hi": "प्राण कर्म: ष्ठीवन, क्षवथु, उद्गार, निःश्वास, अन्न प्रवेश। उदान: स्थान उर, संचार नासा, नाभि, गला। इसके कर्म श्लोक 6 में।",
+   "modern_correlation": null,
+   "key_terms": [
+    "prāṇa-karma",
+    "udāna-vāyu"
+   ],
+   "tags": [
+    "dosha",
+    "vata-bheda",
+    "prana",
+    "udana"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.6",
+   "word_meanings": [
+    {
+     "sa": "वाक्प्रवृत्ति",
+     "iast": "vāk-pravṛtti",
+     "en": "initiation of speech",
+     "hi": "वाणी की प्रवृत्ति"
+    },
+    {
+     "sa": "प्रयत्न",
+     "iast": "prayatna",
+     "en": "effort",
+     "hi": "प्रयत्न"
+    },
+    {
+     "sa": "ऊर्जा",
+     "iast": "ūrjā",
+     "en": "energy, enthusiasm",
+     "hi": "ऊर्जा"
+    },
+    {
+     "sa": "बल",
+     "iast": "bala",
+     "en": "strength",
+     "hi": "बल"
+    },
+    {
+     "sa": "वर्ण",
+     "iast": "varṇa",
+     "en": "complexion",
+     "hi": "वर्ण"
+    },
+    {
+     "sa": "स्मृति",
+     "iast": "smṛti",
+     "en": "memory",
+     "hi": "स्मृति"
+    },
+    {
+     "sa": "क्रियः",
+     "iast": "kriyaḥ",
+     "en": "whose functions are",
+     "hi": "जिसके कर्म हैं"
+    },
+    {
+     "sa": "व्यानः",
+     "iast": "vyānaḥ",
+     "en": "vyāna vāyu",
+     "hi": "व्यान वायु"
+    },
+    {
+     "sa": "हृदि",
+     "iast": "hṛdi",
+     "en": "in the heart",
+     "hi": "हृदय में"
+    },
+    {
+     "sa": "स्थितः",
+     "iast": "sthitaḥ",
+     "en": "situated",
+     "hi": "स्थित"
+    },
+    {
+     "sa": "कृत्स्नदेहचारी",
+     "iast": "kṛtsna-deha-cārī",
+     "en": "moving through the whole body",
+     "hi": "पूरे शरीर में घूमने वाला"
+    },
+    {
+     "sa": "महाजवः",
+     "iast": "mahā-javaḥ",
+     "en": "very swift",
+     "hi": "अत्यंत वेगवान"
+    }
+   ],
+   "english": "...its functions are initiation of speech, effort, energy, strength, complexion and memory. Vyāna is situated in the heart, moves through the whole body and is extremely swift;",
+   "hindi": "...उदान के कर्म हैं: वाणी की प्रवृत्ति, प्रयत्न, ऊर्जा, बल, वर्ण और स्मृति। व्यान वायु हृदय में स्थित है, पूरे शरीर में घूमता है और अत्यंत वेगवान है;",
+   "explanation_en": "Udāna karma: vāk-pravṛtti, prayatna, ūrjā, bala, varṇa, smṛti. Vyāna: sthāna hṛdaya, sañcāra whole body, mahājava. Vyāna's circulation-like role is a key point.",
+   "explanation_hi": "उदान कर्म: वाक् प्रवृत्ति, प्रयत्न, ऊर्जा, बल, वर्ण, स्मृति। व्यान: स्थान हृदय, संचार पूरा शरीर, महाजव। व्यान की परिसंचरण जैसी भूमिका मुख्य बिंदु है।",
+   "modern_correlation": {
+    "en": "Udāna's role in speech and effort is often compared to expiratory airflow and laryngeal function in phonation; vyāna, seated in the heart and moving through the whole body, is often compared to the circulatory system and somatic motor activity.",
+    "hi": "वाणी और प्रयत्न में उदान की भूमिका की तुलना अक्सर बोलने में निःश्वास वायु प्रवाह और स्वरयंत्र के कार्य से की जाती है; हृदय में स्थित और पूरे शरीर में घूमने वाले व्यान की तुलना अक्सर रक्त परिसंचरण तंत्र और शारीरिक गति से की जाती है।"
+   },
+   "key_terms": [
+    "udāna-karma",
+    "vyāna-vāyu",
+    "smṛti"
+   ],
+   "tags": [
+    "dosha",
+    "vata-bheda",
+    "udana",
+    "vyana"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.7",
+   "word_meanings": [
+    {
+     "sa": "गति",
+     "iast": "gati",
+     "en": "walking, movement",
+     "hi": "चलना"
+    },
+    {
+     "sa": "अपक्षेपण",
+     "iast": "apakṣepaṇa",
+     "en": "downward movement (of limbs)",
+     "hi": "नीचे फेंकना"
+    },
+    {
+     "sa": "उत्क्षेप",
+     "iast": "utkṣepa",
+     "en": "upward movement",
+     "hi": "ऊपर उठाना"
+    },
+    {
+     "sa": "निमेष",
+     "iast": "nimeṣa",
+     "en": "closing of eyelids",
+     "hi": "पलक बंद करना"
+    },
+    {
+     "sa": "उन्मेषण",
+     "iast": "unmeṣaṇa",
+     "en": "opening of eyelids",
+     "hi": "पलक खोलना"
+    },
+    {
+     "sa": "आदिकाः",
+     "iast": "ādikāḥ",
+     "en": "and the like",
+     "hi": "आदि"
+    },
+    {
+     "sa": "प्रायः",
+     "iast": "prāyaḥ",
+     "en": "almost",
+     "hi": "प्रायः"
+    },
+    {
+     "sa": "सर्वाः",
+     "iast": "sarvāḥ",
+     "en": "all",
+     "hi": "सभी"
+    },
+    {
+     "sa": "क्रियाः",
+     "iast": "kriyāḥ",
+     "en": "actions",
+     "hi": "क्रियाएँ"
+    },
+    {
+     "sa": "तस्मिन्",
+     "iast": "tasmin",
+     "en": "on it",
+     "hi": "उस पर"
+    },
+    {
+     "sa": "प्रतिबद्धाः",
+     "iast": "pratibaddhāḥ",
+     "en": "depend",
+     "hi": "निर्भर हैं"
+    },
+    {
+     "sa": "शरीरिणाम्",
+     "iast": "śarīriṇām",
+     "en": "of embodied beings",
+     "hi": "प्राणियों की"
+    }
+   ],
+   "english": "...walking, downward and upward movements (of limbs), closing and opening of the eyelids and the like: almost all actions of living beings depend on it.",
+   "hindi": "...चलना, अंगों को नीचे और ऊपर करना, पलक झपकाना और खोलना आदि: प्राणियों की लगभग सभी क्रियाएँ व्यान पर निर्भर हैं।",
+   "explanation_en": "Vyāna karma: gati, apakṣepaṇa, utkṣepaṇa, nimeṣa, unmeṣa; 'almost all actions' depend on it. Caraka adds rasa-saṃvahana (circulation of rasa) to vyāna, useful to add in answers.",
+   "explanation_hi": "व्यान कर्म: गति, अपक्षेपण, उत्क्षेपण, निमेष, उन्मेष; 'लगभग सभी क्रियाएँ' इस पर निर्भर। चरक व्यान में रस संवहन (परिसंचरण) भी जोड़ते हैं, उत्तर में लिखना उपयोगी।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vyāna-karma",
+    "gati",
+    "nimeṣa-unmeṣa"
+   ],
+   "tags": [
+    "dosha",
+    "vata-bheda",
+    "vyana"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.8",
+   "word_meanings": [
+    {
+     "sa": "समानः",
+     "iast": "samānaḥ",
+     "en": "samāna vāyu",
+     "hi": "समान वायु"
+    },
+    {
+     "sa": "अग्निसमीपस्थः",
+     "iast": "agni-samīpa-sthaḥ",
+     "en": "situated near the digestive fire",
+     "hi": "अग्नि के पास स्थित"
+    },
+    {
+     "sa": "कोष्ठे",
+     "iast": "koṣṭhe",
+     "en": "in the alimentary tract",
+     "hi": "कोष्ठ में"
+    },
+    {
+     "sa": "चरति",
+     "iast": "carati",
+     "en": "moves",
+     "hi": "घूमता है"
+    },
+    {
+     "sa": "सर्वतः",
+     "iast": "sarvataḥ",
+     "en": "everywhere",
+     "hi": "सब ओर"
+    },
+    {
+     "sa": "अन्नम्",
+     "iast": "annam",
+     "en": "food",
+     "hi": "भोजन को"
+    },
+    {
+     "sa": "गृह्णाति",
+     "iast": "gṛhṇāti",
+     "en": "receives, holds",
+     "hi": "ग्रहण करता है"
+    },
+    {
+     "sa": "पचति",
+     "iast": "pacati",
+     "en": "digests",
+     "hi": "पचाता है"
+    },
+    {
+     "sa": "विवेचयति",
+     "iast": "vivecayati",
+     "en": "separates (essence and waste)",
+     "hi": "अलग करता है (सार और मल)"
+    },
+    {
+     "sa": "मुञ्चति",
+     "iast": "muñcati",
+     "en": "releases",
+     "hi": "छोड़ता है"
+    }
+   ],
+   "english": "Samāna, situated near the digestive fire, moves throughout the alimentary tract (koṣṭha); it receives the food, digests it, separates (essence from waste) and releases (the waste).",
+   "hindi": "समान वायु अग्नि के पास स्थित है और पूरे कोष्ठ (पाचन तंत्र) में घूमता है; यह भोजन को ग्रहण करता है, पचाता है, सार और मल को अलग करता है, और मल को आगे छोड़ता है।",
+   "explanation_en": "Samāna karma: four verbs, gṛhṇāti, pacati, vivecayati, muñcati. Its location near agni explains its role as the 'fan' of the digestive fire.",
+   "explanation_hi": "समान कर्म: चार क्रियाएँ, ग्रहण, पचन, विवेचन, मुंचन। अग्नि के पास इसका स्थान इसे पाचक अग्नि की 'धौंकनी' बनाता है।",
+   "modern_correlation": {
+    "en": "Samāna's functions are often compared to gastrointestinal motility and the coordination of digestive secretions (enteric nervous system), which hold, mix, propel and separate food contents.",
+    "hi": "समान वायु के कर्मों की तुलना अक्सर पाचन तंत्र की गति और पाचक स्रावों के समन्वय (एंटेरिक नर्वस सिस्टम) से की जाती है, जो भोजन को रोकते, मिलाते, आगे बढ़ाते और अलग करते हैं।"
+   },
+   "key_terms": [
+    "samāna-vāyu",
+    "koṣṭha",
+    "agni"
+   ],
+   "tags": [
+    "dosha",
+    "vata-bheda",
+    "samana"
+   ],
+   "importance": "high",
+   "mnemonic": "Samāna: Grasp, Digest, Divide, Discharge",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.9",
+   "word_meanings": [
+    {
+     "sa": "अपानः",
+     "iast": "apānaḥ",
+     "en": "apāna vāyu",
+     "hi": "अपान वायु"
+    },
+    {
+     "sa": "अपानगः",
+     "iast": "apāna-gaḥ",
+     "en": "situated in the anal region",
+     "hi": "अपान (गुदा) क्षेत्र में स्थित"
+    },
+    {
+     "sa": "श्रोणि",
+     "iast": "śroṇi",
+     "en": "pelvis",
+     "hi": "श्रोणि"
+    },
+    {
+     "sa": "वस्ति",
+     "iast": "vasti",
+     "en": "bladder",
+     "hi": "मूत्राशय"
+    },
+    {
+     "sa": "मेढ्र",
+     "iast": "meḍhra",
+     "en": "penis/genitals",
+     "hi": "जननेंद्रिय"
+    },
+    {
+     "sa": "ऊरु",
+     "iast": "ūru",
+     "en": "thighs",
+     "hi": "जाँघें"
+    },
+    {
+     "sa": "गोचरः",
+     "iast": "gocaraḥ",
+     "en": "moving in",
+     "hi": "घूमने वाला"
+    },
+    {
+     "sa": "शुक्र",
+     "iast": "śukra",
+     "en": "semen",
+     "hi": "शुक्र"
+    },
+    {
+     "sa": "आर्तव",
+     "iast": "ārtava",
+     "en": "menstrual fluid",
+     "hi": "आर्तव"
+    },
+    {
+     "sa": "शकृत्",
+     "iast": "śakṛt",
+     "en": "faeces",
+     "hi": "मल"
+    },
+    {
+     "sa": "मूत्र",
+     "iast": "mūtra",
+     "en": "urine",
+     "hi": "मूत्र"
+    },
+    {
+     "sa": "गर्भ",
+     "iast": "garbha",
+     "en": "fetus",
+     "hi": "गर्भ"
+    },
+    {
+     "sa": "निष्क्रमणक्रियः",
+     "iast": "niṣkramaṇa-kriyaḥ",
+     "en": "whose function is expulsion",
+     "hi": "बाहर निकालने का कर्म करने वाला"
+    }
+   ],
+   "english": "Apāna is situated in the anal region and moves in the pelvis, bladder, genitals and thighs; its function is the expulsion of semen, menstrual fluid, faeces, urine and the fetus.",
+   "hindi": "अपान वायु गुदा क्षेत्र में स्थित है और श्रोणि, मूत्राशय, जननेंद्रिय और जाँघों में घूमता है; इसका कर्म शुक्र, आर्तव, मल, मूत्र और गर्भ को बाहर निकालना है।",
+   "explanation_en": "Apāna karma: expulsion of śukra, ārtava, śakṛt, mūtra, garbha. Remember five things expelled. Its disturbance is central in constipation, dysuria and obstructed labour.",
+   "explanation_hi": "अपान कर्म: शुक्र, आर्तव, मल, मूत्र और गर्भ का निष्क्रमण। पाँच चीज़ें याद रखें। इसकी विकृति कब्ज़, मूत्रकृच्छ्र और कठिन प्रसव में मुख्य है।",
+   "modern_correlation": {
+    "en": "Apāna's functions are often compared to the pelvic autonomic and somatic control of defecation, micturition, ejaculation, menstruation and parturition.",
+    "hi": "अपान वायु के कर्मों की तुलना अक्सर मल त्याग, मूत्र त्याग, वीर्य स्खलन, मासिक धर्म और प्रसव के श्रोणि क्षेत्र के स्वायत्त और ऐच्छिक नियंत्रण से की जाती है।"
+   },
+   "key_terms": [
+    "apāna-vāyu",
+    "niṣkramaṇa"
+   ],
+   "tags": [
+    "dosha",
+    "vata-bheda",
+    "apana"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.10",
+   "word_meanings": [
+    {
+     "sa": "पित्तम्",
+     "iast": "pittam",
+     "en": "pitta",
+     "hi": "पित्त"
+    },
+    {
+     "sa": "पञ्चात्मकम्",
+     "iast": "pañcātmakam",
+     "en": "fivefold",
+     "hi": "पाँच प्रकार का"
+    },
+    {
+     "sa": "तत्र",
+     "iast": "tatra",
+     "en": "among these",
+     "hi": "इनमें"
+    },
+    {
+     "sa": "पक्वामाशयमध्यगम्",
+     "iast": "pakvāmāśaya-madhya-gam",
+     "en": "situated between the colon and the stomach",
+     "hi": "पक्वाशय और आमाशय के बीच स्थित"
+    },
+    {
+     "sa": "पञ्चभूतात्मकत्वे अपि",
+     "iast": "pañca-bhūtātmakatve api",
+     "en": "although composed of five elements",
+     "hi": "पंचभौतिक होने पर भी"
+    },
+    {
+     "sa": "यत्",
+     "iast": "yat",
+     "en": "which",
+     "hi": "जो"
+    },
+    {
+     "sa": "तैजसगुणोदयात्",
+     "iast": "taijasa-guṇodayāt",
+     "en": "due to predominance of the fire quality",
+     "hi": "तेज गुण की अधिकता से"
+    }
+   ],
+   "english": "Pitta is fivefold. Among these, the one situated between the colon and the stomach (i.e. in the small intestine), although composed of all five elements, owing to the predominance of the fire (taijasa) quality,...",
+   "hindi": "पित्त पाँच प्रकार का है। इनमें जो पक्वाशय और आमाशय के बीच (ग्रहणी/छोटी आँत में) स्थित है, वह पंचभौतिक होने पर भी तेज गुण की अधिकता के कारण,...",
+   "explanation_en": "Verses 10-14 describe the five pittas: pācaka, rañjaka, sādhaka, ālocaka, bhrājaka. Pācaka pitta is located in the grahaṇī region between āmāśaya and pakvāśaya.",
+   "explanation_hi": "श्लोक 10-14 में पाँच पित्त हैं: पाचक, रंजक, साधक, आलोचक, भ्राजक। पाचक पित्त आमाशय और पक्वाशय के बीच ग्रहणी क्षेत्र में स्थित है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "pañca-pitta",
+    "pācaka-pitta",
+    "taijasa"
+   ],
+   "tags": [
+    "dosha",
+    "pitta-bheda",
+    "pachaka"
+   ],
+   "importance": "high",
+   "mnemonic": "PRSAB: Pācaka, Rañjaka, Sādhaka, Ālocaka, Bhrājaka",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.11",
+   "word_meanings": [
+    {
+     "sa": "त्यक्तद्रवत्वम्",
+     "iast": "tyakta-dravatvam",
+     "en": "having given up liquidity",
+     "hi": "द्रवता छोड़ चुका"
+    },
+    {
+     "sa": "पाकादिकर्मणा",
+     "iast": "pākādi-karmaṇā",
+     "en": "by its function of digestion etc.",
+     "hi": "पाक आदि कर्म के कारण"
+    },
+    {
+     "sa": "अनलशब्दितम्",
+     "iast": "anala-śabditam",
+     "en": "is called anala (fire)",
+     "hi": "अनल (अग्नि) कहलाता है"
+    },
+    {
+     "sa": "पचति",
+     "iast": "pacati",
+     "en": "digests",
+     "hi": "पचाता है"
+    },
+    {
+     "sa": "अन्नम्",
+     "iast": "annam",
+     "en": "food",
+     "hi": "भोजन को"
+    },
+    {
+     "sa": "विभजते",
+     "iast": "vibhajate",
+     "en": "separates",
+     "hi": "अलग करता है"
+    },
+    {
+     "sa": "सारकिट्टौ",
+     "iast": "sāra-kiṭṭau",
+     "en": "essence and waste",
+     "hi": "सार और किट्ट (मल)"
+    },
+    {
+     "sa": "पृथक्",
+     "iast": "pṛthak",
+     "en": "separately",
+     "hi": "अलग-अलग"
+    },
+    {
+     "sa": "तथा",
+     "iast": "tathā",
+     "en": "also",
+     "hi": "तथा"
+    }
+   ],
+   "english": "...having given up its liquid nature, is called anala (fire) because of its function of digestion and so on. It digests food and separates the essence (sāra) and the waste (kiṭṭa);",
+   "hindi": "...अपनी द्रवता छोड़ चुका है, और पाचन आदि कर्मों के कारण 'अनल' (अग्नि) कहलाता है। यह भोजन को पचाता है और सार (पोषक भाग) तथा किट्ट (मल भाग) को अलग करता है;",
+   "explanation_en": "Pācaka pitta = jāṭharāgni. 'Tyakta-dravatva' (having given up liquidity) explains how a liquid doṣa can be called 'fire': its function is heat-like transformation. Key karma: pacana and sāra-kiṭṭa vibhajana.",
+   "explanation_hi": "पाचक पित्त = जठराग्नि। 'त्यक्तद्रवत्व' बताता है कि एक द्रव दोष को 'अग्नि' क्यों कहा जाता है: इसका कर्म अग्नि जैसा परिवर्तन है। मुख्य कर्म: पचन और सार-किट्ट विभाजन।",
+   "modern_correlation": {
+    "en": "Pācaka pitta is often compared to the digestive enzymes and secretions (gastric, pancreatic, intestinal and bile) that break down food and allow separation of absorbable nutrients from residue.",
+    "hi": "पाचक पित्त की तुलना अक्सर उन पाचक एंज़ाइमों और स्रावों (आमाशय, अग्न्याशय, आँतों के रस और पित्त) से की जाती है जो भोजन को तोड़ते हैं और अवशोषण योग्य पोषक तत्वों को शेष भाग से अलग करते हैं।"
+   },
+   "key_terms": [
+    "pācaka-pitta",
+    "anala",
+    "sāra-kiṭṭa"
+   ],
+   "tags": [
+    "dosha",
+    "pitta-bheda",
+    "pachaka",
+    "agni"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.12",
+   "word_meanings": [
+    {
+     "sa": "तत्रस्थम्",
+     "iast": "tatra-stham",
+     "en": "remaining there",
+     "hi": "वहीं रहकर"
+    },
+    {
+     "sa": "एव",
+     "iast": "eva",
+     "en": "itself",
+     "hi": "ही"
+    },
+    {
+     "sa": "पित्तानाम्",
+     "iast": "pittānām",
+     "en": "of the pittas",
+     "hi": "पित्तों का"
+    },
+    {
+     "sa": "शेषाणाम्",
+     "iast": "śeṣāṇām",
+     "en": "of the remaining",
+     "hi": "शेष"
+    },
+    {
+     "sa": "अपि",
+     "iast": "api",
+     "en": "also",
+     "hi": "भी"
+    },
+    {
+     "sa": "अनुग्रहम्",
+     "iast": "anugraham",
+     "en": "support",
+     "hi": "अनुग्रह (सहायता)"
+    },
+    {
+     "sa": "करोति",
+     "iast": "karoti",
+     "en": "does",
+     "hi": "करता है"
+    },
+    {
+     "sa": "बलदानेन",
+     "iast": "bala-dānena",
+     "en": "by giving strength",
+     "hi": "बल देकर"
+    },
+    {
+     "sa": "पाचकम्",
+     "iast": "pācakam",
+     "en": "pācaka",
+     "hi": "पाचक"
+    },
+    {
+     "sa": "नाम",
+     "iast": "nāma",
+     "en": "by name",
+     "hi": "नामक"
+    },
+    {
+     "sa": "तत्",
+     "iast": "tat",
+     "en": "that",
+     "hi": "वह"
+    },
+    {
+     "sa": "स्मृतम्",
+     "iast": "smṛtam",
+     "en": "is known",
+     "hi": "कहा जाता है"
+    }
+   ],
+   "english": "...and, remaining there itself, it supports the remaining pittas by giving them strength. It is known as pācaka (the digester).",
+   "hindi": "...और वहीं रहते हुए शेष पित्तों को बल देकर उनकी सहायता करता है। इसे 'पाचक पित्त' कहते हैं।",
+   "explanation_en": "Pācaka is the chief pitta, supporting the other four, just as jāṭharāgni supports bhūtāgnis and dhātvagnis (compare 11.34).",
+   "explanation_hi": "पाचक मुख्य पित्त है जो अन्य चारों को सहारा देता है, जैसे जठराग्नि भूताग्नि और धात्वग्नियों को (11.34 देखें)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "pācaka-pitta",
+    "anugraha"
+   ],
+   "tags": [
+    "dosha",
+    "pitta-bheda",
+    "pachaka"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.13",
+   "word_meanings": [
+    {
+     "sa": "आमाशयाश्रयम्",
+     "iast": "āmāśayāśrayam",
+     "en": "located in the āmāśaya",
+     "hi": "आमाशय में स्थित"
+    },
+    {
+     "sa": "पित्तम्",
+     "iast": "pittam",
+     "en": "pitta",
+     "hi": "पित्त"
+    },
+    {
+     "sa": "रञ्जकम्",
+     "iast": "rañjakam",
+     "en": "rañjaka (colouring)",
+     "hi": "रंजक"
+    },
+    {
+     "sa": "रसरञ्जनात्",
+     "iast": "rasa-rañjanāt",
+     "en": "because it colours rasa",
+     "hi": "रस को रंग देने से"
+    },
+    {
+     "sa": "बुद्धि",
+     "iast": "buddhi",
+     "en": "intellect",
+     "hi": "बुद्धि"
+    },
+    {
+     "sa": "मेधा",
+     "iast": "medhā",
+     "en": "retentive intelligence",
+     "hi": "मेधा"
+    },
+    {
+     "sa": "अभिमान",
+     "iast": "abhimāna",
+     "en": "self-esteem",
+     "hi": "अभिमान"
+    },
+    {
+     "sa": "आद्यैः",
+     "iast": "ādyaiḥ",
+     "en": "and others",
+     "hi": "आदि से"
+    },
+    {
+     "sa": "अभिप्रेतार्थसाधनात्",
+     "iast": "abhipretārtha-sādhanāt",
+     "en": "because it accomplishes desired goals",
+     "hi": "इच्छित उद्देश्यों को सिद्ध करने से"
+    }
+   ],
+   "english": "The pitta located in the āmāśaya is rañjaka, because it colours the rasa (making it into blood). (The pitta that,) through intellect, retentive intelligence, self-esteem and the like, accomplishes one's desired goals...",
+   "hindi": "आमाशय में स्थित पित्त 'रंजक' है, क्योंकि यह रस को रंग देता है (रक्त बनाता है)। (वह पित्त जो) बुद्धि, मेधा, अभिमान आदि द्वारा इच्छित उद्देश्यों को सिद्ध करता है...",
+   "explanation_en": "Note: AH places rañjaka pitta in the āmāśaya, whereas Suśruta places it in yakṛt and plīhā (liver and spleen). This difference is a favourite exam question. Sādhaka pitta (second line) is completed in verse 14.",
+   "explanation_hi": "ध्यान दें: अष्टांगहृदय रंजक पित्त को आमाशय में रखता है, जबकि सुश्रुत इसे यकृत और प्लीहा में बताते हैं। यह अंतर परीक्षा का प्रिय प्रश्न है। साधक पित्त (दूसरी पंक्ति) श्लोक 14 में पूरा होता है।",
+   "modern_correlation": {
+    "en": "Rañjaka pitta, which 'colours rasa into blood', is often compared to the processes of erythropoiesis and haemoglobin formation, which depend on iron absorption in the upper gut and on the liver, spleen and marrow.",
+    "hi": "रस को रक्त में 'रंगने' वाले रंजक पित्त की तुलना अक्सर लाल रक्त कोशिका निर्माण और हीमोग्लोबिन बनने की प्रक्रिया से की जाती है, जो ऊपरी आँत में लोहे के अवशोषण और यकृत, प्लीहा तथा मज्जा पर निर्भर है।"
+   },
+   "key_terms": [
+    "rañjaka-pitta",
+    "sādhaka-pitta",
+    "rasa-rañjana"
+   ],
+   "tags": [
+    "dosha",
+    "pitta-bheda",
+    "ranjaka",
+    "sadhaka"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.14",
+   "word_meanings": [
+    {
+     "sa": "साधकम्",
+     "iast": "sādhakam",
+     "en": "sādhaka (accomplisher)",
+     "hi": "साधक"
+    },
+    {
+     "sa": "हृद्गतम्",
+     "iast": "hṛd-gatam",
+     "en": "located in the heart",
+     "hi": "हृदय में स्थित"
+    },
+    {
+     "sa": "पित्तम्",
+     "iast": "pittam",
+     "en": "pitta",
+     "hi": "पित्त"
+    },
+    {
+     "sa": "रूपालोचनतः",
+     "iast": "rūpālocanataḥ",
+     "en": "because of perceiving forms",
+     "hi": "रूप देखने के कारण"
+    },
+    {
+     "sa": "स्मृतम्",
+     "iast": "smṛtam",
+     "en": "is known",
+     "hi": "कहा जाता है"
+    },
+    {
+     "sa": "दृक्स्थम्",
+     "iast": "dṛk-stham",
+     "en": "located in the eyes",
+     "hi": "आँखों में स्थित"
+    },
+    {
+     "sa": "आलोचकम्",
+     "iast": "ālocakam",
+     "en": "ālocaka (seer)",
+     "hi": "आलोचक"
+    },
+    {
+     "sa": "त्वक्स्थम्",
+     "iast": "tvak-stham",
+     "en": "located in the skin",
+     "hi": "त्वचा में स्थित"
+    },
+    {
+     "sa": "भ्राजकम्",
+     "iast": "bhrājakam",
+     "en": "bhrājaka (illuminator)",
+     "hi": "भ्राजक"
+    },
+    {
+     "sa": "भ्राजनात्",
+     "iast": "bhrājanāt",
+     "en": "because it brightens",
+     "hi": "चमकाने के कारण"
+    },
+    {
+     "sa": "त्वचः",
+     "iast": "tvacaḥ",
+     "en": "of the skin",
+     "hi": "त्वचा को"
+    }
+   ],
+   "english": "...is the sādhaka pitta located in the heart. The pitta located in the eyes is known as ālocaka because it perceives forms; and the pitta in the skin is bhrājaka because it gives lustre to the skin.",
+   "hindi": "...वह हृदय में स्थित 'साधक पित्त' है। आँखों में स्थित पित्त रूप (दृश्य) को देखने के कारण 'आलोचक' कहलाता है; और त्वचा में स्थित पित्त त्वचा को चमक देने के कारण 'भ्राजक' कहलाता है।",
+   "explanation_en": "Five pittas with seats: pācaka (between āmāśaya and pakvāśaya), rañjaka (āmāśaya), sādhaka (hṛdaya), ālocaka (dṛk), bhrājaka (tvak). Each name is explained by its function (nirukti), so learn name → function → seat.",
+   "explanation_hi": "पाँच पित्त और उनके स्थान: पाचक (आमाशय-पक्वाशय के बीच), रंजक (आमाशय), साधक (हृदय), आलोचक (नेत्र), भ्राजक (त्वचा)। हर नाम उसके कर्म से समझाया गया है (निरुक्ति), इसलिए नाम → कर्म → स्थान याद करें।",
+   "modern_correlation": {
+    "en": "Ālocaka pitta is often compared to the photochemical processes of the retina that convert light into neural signals, and bhrājaka pitta to skin pigmentation and the skin's role in heat exchange and absorption of applied substances.",
+    "hi": "आलोचक पित्त की तुलना अक्सर रेटिना की उन प्रकाश-रासायनिक प्रक्रियाओं से की जाती है जो प्रकाश को तंत्रिका संकेत में बदलती हैं, और भ्राजक पित्त की तुलना त्वचा के रंग (पिगमेंटेशन) और ताप-विनिमय व लगाए गए पदार्थों के अवशोषण से।"
+   },
+   "key_terms": [
+    "sādhaka-pitta",
+    "ālocaka-pitta",
+    "bhrājaka-pitta"
+   ],
+   "tags": [
+    "dosha",
+    "pitta-bheda",
+    "sadhaka",
+    "alochaka",
+    "bhrajaka"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.15",
+   "word_meanings": [
+    {
+     "sa": "श्लेष्मा",
+     "iast": "śleṣmā",
+     "en": "kapha",
+     "hi": "कफ"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "now",
+     "hi": "अब"
+    },
+    {
+     "sa": "पञ्चधा",
+     "iast": "pañcadhā",
+     "en": "fivefold",
+     "hi": "पाँच प्रकार का"
+    },
+    {
+     "sa": "उरःस्थः",
+     "iast": "uraḥ-sthaḥ",
+     "en": "located in the chest",
+     "hi": "छाती में स्थित"
+    },
+    {
+     "sa": "सः",
+     "iast": "saḥ",
+     "en": "it",
+     "hi": "वह"
+    },
+    {
+     "sa": "त्रिकस्य",
+     "iast": "trikasya",
+     "en": "of the trika (sacral/upper back region)",
+     "hi": "त्रिक का"
+    },
+    {
+     "sa": "स्ववीर्यतः",
+     "iast": "sva-vīryataḥ",
+     "en": "by its own potency",
+     "hi": "अपनी शक्ति से"
+    },
+    {
+     "sa": "हृदयस्य",
+     "iast": "hṛdayasya",
+     "en": "of the heart",
+     "hi": "हृदय का"
+    },
+    {
+     "sa": "अन्नवीर्यात्",
+     "iast": "anna-vīryāt",
+     "en": "by the potency of food (rasa)",
+     "hi": "अन्न (रस) की शक्ति से"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "तत्स्थः",
+     "iast": "tat-sthaḥ",
+     "en": "remaining there",
+     "hi": "वहीं रहकर"
+    },
+    {
+     "sa": "एव",
+     "iast": "eva",
+     "en": "itself",
+     "hi": "ही"
+    },
+    {
+     "sa": "अम्बुकर्मणा",
+     "iast": "ambu-karmaṇā",
+     "en": "by its water-like action",
+     "hi": "जल के समान कर्म से"
+    }
+   ],
+   "english": "Kapha is fivefold. The one located in the chest, by its own potency (supports) the trika, and by the potency of food (the essence of food) the heart; and, remaining there itself, by its water-like action...",
+   "hindi": "कफ पाँच प्रकार का है। छाती में स्थित कफ अपनी शक्ति से त्रिक (पीठ के ऊपरी भाग/कंधों के जोड़) को, और अन्न रस की शक्ति से हृदय को सहारा देता है; और वहीं रहते हुए जल जैसे कर्म से...",
+   "explanation_en": "Verses 15-18 describe the five kaphas: avalambaka, kledaka, bodhaka, tarpaka, śleṣaka. Avalambaka (in the chest) supports trika and heart, and the other kapha seats (verse 16).",
+   "explanation_hi": "श्लोक 15-18 में पाँच कफ हैं: अवलम्बक, क्लेदक, बोधक, तर्पक, श्लेषक। अवलम्बक (छाती में) त्रिक, हृदय और अन्य कफ स्थानों को सहारा देता है (श्लोक 16)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "pañca-kapha",
+    "avalambaka-kapha",
+    "trika"
+   ],
+   "tags": [
+    "dosha",
+    "kapha-bheda",
+    "avalambaka"
+   ],
+   "importance": "high",
+   "mnemonic": "AKBTŚ: Avalambaka, Kledaka, Bodhaka, Tarpaka, Śleṣaka",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.16",
+   "word_meanings": [
+    {
+     "sa": "कफधाम्नाम्",
+     "iast": "kapha-dhāmnām",
+     "en": "of the seats of kapha",
+     "hi": "कफ के स्थानों का"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "शेषाणाम्",
+     "iast": "śeṣāṇām",
+     "en": "of the remaining",
+     "hi": "शेष"
+    },
+    {
+     "sa": "यत्",
+     "iast": "yat",
+     "en": "since",
+     "hi": "क्योंकि"
+    },
+    {
+     "sa": "करोति",
+     "iast": "karoti",
+     "en": "does",
+     "hi": "करता है"
+    },
+    {
+     "sa": "अवलम्बनम्",
+     "iast": "avalambanam",
+     "en": "support",
+     "hi": "अवलम्बन (सहारा)"
+    },
+    {
+     "sa": "अतः",
+     "iast": "ataḥ",
+     "en": "hence",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "अवलम्बकः",
+     "iast": "avalambakaḥ",
+     "en": "avalambaka (supporter)",
+     "hi": "अवलम्बक"
+    },
+    {
+     "sa": "श्लेष्मा",
+     "iast": "śleṣmā",
+     "en": "kapha",
+     "hi": "कफ"
+    },
+    {
+     "sa": "यः",
+     "iast": "yaḥ",
+     "en": "which",
+     "hi": "जो"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "परंतु"
+    },
+    {
+     "sa": "आमाशयसंस्थितः",
+     "iast": "āmāśaya-saṃsthitaḥ",
+     "en": "located in the āmāśaya",
+     "hi": "आमाशय में स्थित"
+    }
+   ],
+   "english": "...supports the remaining seats of kapha; hence it is called avalambaka (the supporter) kapha. The kapha located in the āmāśaya...",
+   "hindi": "...शेष कफ स्थानों को सहारा देता है; इसलिए इसे 'अवलम्बक कफ' कहते हैं। जो कफ आमाशय में स्थित है...",
+   "explanation_en": "Avalambaka is to kapha what pācaka is to pitta: the chief, supporting the others. Kledaka begins (completed in verse 17).",
+   "explanation_hi": "अवलम्बक कफ के लिए वैसा ही है जैसा पित्त के लिए पाचक: मुख्य, जो अन्य को सहारा देता है। क्लेदक शुरू होता है (श्लोक 17 में पूरा)।",
+   "modern_correlation": {
+    "en": "Avalambaka kapha in the chest is sometimes compared to the pleural and pericardial fluids and the structural support and lubrication they provide to the lungs and heart.",
+    "hi": "छाती के अवलम्बक कफ की तुलना कभी-कभी प्लूरल और पेरिकार्डियल द्रव से की जाती है, जो फेफड़ों और हृदय को सहारा और चिकनाई देते हैं।"
+   },
+   "key_terms": [
+    "avalambaka-kapha",
+    "kledaka-kapha"
+   ],
+   "tags": [
+    "dosha",
+    "kapha-bheda",
+    "avalambaka"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.17",
+   "word_meanings": [
+    {
+     "sa": "क्लेदकः",
+     "iast": "kledakaḥ",
+     "en": "kledaka (moistener)",
+     "hi": "क्लेदक"
+    },
+    {
+     "sa": "सः",
+     "iast": "saḥ",
+     "en": "it",
+     "hi": "वह"
+    },
+    {
+     "sa": "अन्नसंघातक्लेदनात्",
+     "iast": "anna-saṃghāta-kledanāt",
+     "en": "because it moistens the food mass",
+     "hi": "भोजन के गोले को गीला करने से"
+    },
+    {
+     "sa": "रसबोधनात्",
+     "iast": "rasa-bodhanāt",
+     "en": "because it makes taste perceptible",
+     "hi": "रस (स्वाद) का बोध कराने से"
+    },
+    {
+     "sa": "बोधकः",
+     "iast": "bodhakaḥ",
+     "en": "bodhaka (perceiver)",
+     "hi": "बोधक"
+    },
+    {
+     "sa": "रसनास्थायी",
+     "iast": "rasanā-sthāyī",
+     "en": "residing in the tongue",
+     "hi": "जीभ में स्थित"
+    },
+    {
+     "sa": "शिरःसंस्थः",
+     "iast": "śiraḥ-saṃsthaḥ",
+     "en": "located in the head",
+     "hi": "सिर में स्थित"
+    },
+    {
+     "sa": "अक्षतर्पणात्",
+     "iast": "akṣa-tarpaṇāt",
+     "en": "because it nourishes the senses",
+     "hi": "इंद्रियों को तृप्त करने से"
+    }
+   ],
+   "english": "...is kledaka because it moistens the compact food mass. The kapha residing in the tongue is bodhaka because it makes taste perceptible. The kapha located in the head, because it nourishes the senses,...",
+   "hindi": "...भोजन के गोले को गीला करने के कारण 'क्लेदक' है। जीभ में स्थित कफ स्वाद का बोध कराने के कारण 'बोधक' है। सिर में स्थित कफ इंद्रियों को तृप्त करने के कारण...",
+   "explanation_en": "Kledaka (āmāśaya): moistens food; bodhaka (rasanā): taste perception; tarpaka (śiras): nourishes the senses (named in verse 18).",
+   "explanation_hi": "क्लेदक (आमाशय): भोजन को गीला करना; बोधक (रसना): स्वाद बोध; तर्पक (सिर): इंद्रियों का तर्पण (नाम श्लोक 18 में)।",
+   "modern_correlation": {
+    "en": "Kledaka kapha is often compared to the protective mucus of the stomach, and bodhaka kapha to saliva, which dissolves food substances so that taste receptors can detect them.",
+    "hi": "क्लेदक कफ की तुलना अक्सर आमाशय की सुरक्षात्मक श्लेष्मा (म्यूकस) से, और बोधक कफ की तुलना लार से की जाती है, जो भोजन पदार्थों को घोलती है ताकि स्वाद ग्राही उन्हें पहचान सकें।"
+   },
+   "key_terms": [
+    "kledaka-kapha",
+    "bodhaka-kapha",
+    "tarpaka-kapha"
+   ],
+   "tags": [
+    "dosha",
+    "kapha-bheda",
+    "kledaka",
+    "bodhaka"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.18",
+   "word_meanings": [
+    {
+     "sa": "तर्पकः",
+     "iast": "tarpakaḥ",
+     "en": "tarpaka (nourisher)",
+     "hi": "तर्पक"
+    },
+    {
+     "sa": "संधिसंश्लेषात्",
+     "iast": "saṃdhi-saṃśleṣāt",
+     "en": "because it binds the joints",
+     "hi": "जोड़ों को जोड़ने से"
+    },
+    {
+     "sa": "श्लेषकः",
+     "iast": "śleṣakaḥ",
+     "en": "śleṣaka (binder)",
+     "hi": "श्लेषक"
+    },
+    {
+     "sa": "संधिषु",
+     "iast": "saṃdhiṣu",
+     "en": "in the joints",
+     "hi": "जोड़ों में"
+    },
+    {
+     "sa": "स्थितः",
+     "iast": "sthitaḥ",
+     "en": "located",
+     "hi": "स्थित"
+    },
+    {
+     "sa": "इति",
+     "iast": "iti",
+     "en": "thus",
+     "hi": "इस प्रकार"
+    },
+    {
+     "sa": "प्रायेण",
+     "iast": "prāyeṇa",
+     "en": "mostly",
+     "hi": "प्रायः"
+    },
+    {
+     "sa": "दोषाणाम्",
+     "iast": "doṣāṇām",
+     "en": "of the doṣas",
+     "hi": "दोषों के"
+    },
+    {
+     "sa": "स्थानानि",
+     "iast": "sthānāni",
+     "en": "seats",
+     "hi": "स्थान"
+    },
+    {
+     "sa": "अविकृतात्मनाम्",
+     "iast": "avikṛtātmanām",
+     "en": "in their unvitiated state",
+     "hi": "अविकृत (सामान्य) अवस्था में"
+    }
+   ],
+   "english": "...is tarpaka. The kapha located in the joints is śleṣaka because it binds the joints together. These, in general, are the seats of the doṣas in their unvitiated state.",
+   "hindi": "...'तर्पक' है। जोड़ों में स्थित कफ जोड़ों को आपस में बाँधने के कारण 'श्लेषक' है। ये सामान्यतः अविकृत (सामान्य) दोषों के स्थान हैं।",
+   "explanation_en": "Śleṣaka kapha in the joints is a classic MCQ. Note 'avikṛtātmanām': these seats and functions describe normal physiology; vitiated doṣas can move anywhere.",
+   "explanation_hi": "जोड़ों में श्लेषक कफ प्रसिद्ध MCQ है। 'अविकृतात्मनाम्' पर ध्यान दें: ये स्थान और कर्म सामान्य शरीर क्रिया के हैं; विकृत दोष कहीं भी जा सकते हैं।",
+   "modern_correlation": {
+    "en": "Śleṣaka kapha in the joints is commonly compared to synovial fluid, which lubricates joint surfaces and reduces friction.",
+    "hi": "जोड़ों के श्लेषक कफ की तुलना प्रायः साइनोवियल द्रव से की जाती है, जो जोड़ों की सतह को चिकना रखता है और घर्षण कम करता है।"
+   },
+   "key_terms": [
+    "tarpaka-kapha",
+    "śleṣaka-kapha",
+    "sandhi"
+   ],
+   "tags": [
+    "dosha",
+    "kapha-bheda",
+    "tarpaka",
+    "shleshaka"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.19",
+   "word_meanings": [
+    {
+     "sa": "व्यापिनाम्",
+     "iast": "vyāpinām",
+     "en": "of the pervasive (doṣas)",
+     "hi": "सर्वव्यापी (दोषों) के"
+    },
+    {
+     "sa": "अपि",
+     "iast": "api",
+     "en": "although",
+     "hi": "होने पर भी"
+    },
+    {
+     "sa": "जानीयात्",
+     "iast": "jānīyāt",
+     "en": "should know",
+     "hi": "जानना चाहिए"
+    },
+    {
+     "sa": "कर्माणि",
+     "iast": "karmāṇi",
+     "en": "functions",
+     "hi": "कर्म"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "पृथक् पृथक्",
+     "iast": "pṛthak pṛthak",
+     "en": "separately",
+     "hi": "अलग-अलग"
+    },
+    {
+     "sa": "उष्णेन",
+     "iast": "uṣṇena",
+     "en": "with heat",
+     "hi": "उष्णता के साथ"
+    },
+    {
+     "sa": "युक्ताः",
+     "iast": "yuktāḥ",
+     "en": "combined",
+     "hi": "युक्त"
+    },
+    {
+     "sa": "रूक्षाद्याः",
+     "iast": "rūkṣādyāḥ",
+     "en": "dry and the other (qualities)",
+     "hi": "रूक्ष आदि (गुण)"
+    },
+    {
+     "sa": "वायोः",
+     "iast": "vāyoḥ",
+     "en": "of vāta",
+     "hi": "वात का"
+    },
+    {
+     "sa": "कुर्वन्ति",
+     "iast": "kurvanti",
+     "en": "cause",
+     "hi": "करते हैं"
+    },
+    {
+     "sa": "संचयम्",
+     "iast": "saṃcayam",
+     "en": "accumulation",
+     "hi": "संचय"
+    }
+   ],
+   "english": "Although the doṣas pervade the whole body, one should know their (seats and) functions separately. Dry (rūkṣa) and the related qualities, when combined with heat, cause accumulation (saṃcaya) of vāta;",
+   "hindi": "यद्यपि दोष पूरे शरीर में व्याप्त हैं, फिर भी उनके (स्थान और) कर्म अलग-अलग जानने चाहिए। रूक्ष आदि गुण जब उष्णता के साथ मिलते हैं, तो वात का संचय करते हैं;",
+   "explanation_en": "Verses 19-22 explain caya (accumulation), prakopa (aggravation) and praśama (pacification) by combinations of qualities. Vāta: rūkṣa etc. + uṣṇa → caya; + śīta → prakopa; snigdha etc. + uṣṇa → praśama. This underlies the seasonal cycle in verses 24-28.",
+   "explanation_hi": "श्लोक 19-22 गुणों के मेल से चय (संचय), प्रकोप और प्रशम समझाते हैं। वात: रूक्ष आदि + उष्ण → चय; + शीत → प्रकोप; स्निग्ध आदि + उष्ण → प्रशम। यही श्लोक 24-28 के ऋतु चक्र का आधार है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "caya",
+    "vāta",
+    "rūkṣa",
+    "uṣṇa"
+   ],
+   "tags": [
+    "dosha",
+    "chaya-prakopa",
+    "kriyakala"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.20",
+   "word_meanings": [
+    {
+     "sa": "शीतेन",
+     "iast": "śītena",
+     "en": "with cold",
+     "hi": "शीत के साथ"
+    },
+    {
+     "sa": "कोपम्",
+     "iast": "kopam",
+     "en": "aggravation",
+     "hi": "प्रकोप"
+    },
+    {
+     "sa": "उष्णेन",
+     "iast": "uṣṇena",
+     "en": "with heat",
+     "hi": "उष्णता के साथ"
+    },
+    {
+     "sa": "शमम्",
+     "iast": "śamam",
+     "en": "pacification",
+     "hi": "शमन"
+    },
+    {
+     "sa": "स्निग्धादयः",
+     "iast": "snigdhādayaḥ",
+     "en": "unctuous and the others",
+     "hi": "स्निग्ध आदि"
+    },
+    {
+     "sa": "गुणाः",
+     "iast": "guṇāḥ",
+     "en": "qualities",
+     "hi": "गुण"
+    },
+    {
+     "sa": "शीतेन",
+     "iast": "śītena",
+     "en": "with cold",
+     "hi": "शीत के साथ"
+    },
+    {
+     "sa": "युक्ताः",
+     "iast": "yuktāḥ",
+     "en": "combined",
+     "hi": "युक्त"
+    },
+    {
+     "sa": "तीक्ष्णाद्याः",
+     "iast": "tīkṣṇādyāḥ",
+     "en": "sharp and the others",
+     "hi": "तीक्ष्ण आदि"
+    },
+    {
+     "sa": "चयम्",
+     "iast": "cayam",
+     "en": "accumulation",
+     "hi": "संचय"
+    },
+    {
+     "sa": "पित्तस्य",
+     "iast": "pittasya",
+     "en": "of pitta",
+     "hi": "पित्त का"
+    },
+    {
+     "sa": "कुर्वते",
+     "iast": "kurvate",
+     "en": "cause",
+     "hi": "करते हैं"
+    }
+   ],
+   "english": "...(combined) with cold they cause its aggravation (prakopa); unctuous and related qualities combined with heat cause its pacification. Sharp (tīkṣṇa) and related qualities combined with cold cause accumulation of pitta;",
+   "hindi": "...शीत के साथ मिलकर ये वात का प्रकोप करते हैं; स्निग्ध आदि गुण उष्णता के साथ मिलकर वात का शमन करते हैं। तीक्ष्ण आदि गुण शीत के साथ मिलकर पित्त का संचय करते हैं;",
+   "explanation_en": "Pitta: tīkṣṇa etc. + śīta → caya (as in varṣā: the acid-vipāka water accumulates pitta but cold weather prevents its spread). Continue to verse 21.",
+   "explanation_hi": "पित्त: तीक्ष्ण आदि + शीत → चय (जैसे वर्षा में: अम्ल विपाक जल पित्त संचित करता है पर ठंडा मौसम उसे फैलने नहीं देता)। श्लोक 21 में जारी।",
+   "modern_correlation": null,
+   "key_terms": [
+    "prakopa",
+    "praśama",
+    "pitta-caya"
+   ],
+   "tags": [
+    "dosha",
+    "chaya-prakopa",
+    "kriyakala"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.21",
+   "word_meanings": [
+    {
+     "sa": "उष्णेन",
+     "iast": "uṣṇena",
+     "en": "with heat",
+     "hi": "उष्णता के साथ"
+    },
+    {
+     "sa": "कोपम्",
+     "iast": "kopam",
+     "en": "aggravation",
+     "hi": "प्रकोप"
+    },
+    {
+     "sa": "मन्दाद्याः",
+     "iast": "mandādyāḥ",
+     "en": "slow and the others",
+     "hi": "मंद आदि"
+    },
+    {
+     "sa": "शमम्",
+     "iast": "śamam",
+     "en": "pacification",
+     "hi": "शमन"
+    },
+    {
+     "sa": "शीतोपसंहिताः",
+     "iast": "śītopasaṃhitāḥ",
+     "en": "combined with cold",
+     "hi": "शीत से युक्त"
+    },
+    {
+     "sa": "शीतेन",
+     "iast": "śītena",
+     "en": "with cold",
+     "hi": "शीत के साथ"
+    },
+    {
+     "sa": "युक्ताः",
+     "iast": "yuktāḥ",
+     "en": "combined",
+     "hi": "युक्त"
+    },
+    {
+     "sa": "स्निग्धाद्याः",
+     "iast": "snigdhādyāḥ",
+     "en": "unctuous and the others",
+     "hi": "स्निग्ध आदि"
+    },
+    {
+     "sa": "कुर्वते",
+     "iast": "kurvate",
+     "en": "cause",
+     "hi": "करते हैं"
+    },
+    {
+     "sa": "श्लेष्मणः",
+     "iast": "śleṣmaṇaḥ",
+     "en": "of kapha",
+     "hi": "कफ का"
+    },
+    {
+     "sa": "चयम्",
+     "iast": "cayam",
+     "en": "accumulation",
+     "hi": "संचय"
+    }
+   ],
+   "english": "...with heat, its aggravation; slow (manda) and related qualities combined with cold cause its pacification. Unctuous and related qualities combined with cold cause accumulation of kapha;",
+   "hindi": "...उष्णता के साथ मिलकर पित्त का प्रकोप; मंद आदि गुण शीत के साथ मिलकर पित्त का शमन करते हैं। स्निग्ध आदि गुण शीत के साथ मिलकर कफ का संचय करते हैं;",
+   "explanation_en": "Pitta: tīkṣṇa + uṣṇa → prakopa; manda + śīta → praśama. Kapha: snigdha + śīta → caya. The temperature factor (śīta/uṣṇa) decides whether an accumulated doṣa stays put or spreads.",
+   "explanation_hi": "पित्त: तीक्ष्ण + उष्ण → प्रकोप; मंद + शीत → प्रशम। कफ: स्निग्ध + शीत → चय। तापमान कारक (शीत/उष्ण) तय करता है कि संचित दोष टिका रहेगा या फैलेगा।",
+   "modern_correlation": null,
+   "key_terms": [
+    "pitta-prakopa",
+    "kapha-caya"
+   ],
+   "tags": [
+    "dosha",
+    "chaya-prakopa",
+    "kriyakala"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.22",
+   "word_meanings": [
+    {
+     "sa": "उष्णेन",
+     "iast": "uṣṇena",
+     "en": "with heat",
+     "hi": "उष्णता के साथ"
+    },
+    {
+     "sa": "कोपम्",
+     "iast": "kopam",
+     "en": "aggravation",
+     "hi": "प्रकोप"
+    },
+    {
+     "sa": "तेन एव",
+     "iast": "tena eva",
+     "en": "with that same (heat)",
+     "hi": "उसी (उष्णता) के साथ"
+    },
+    {
+     "sa": "गुणाः",
+     "iast": "guṇāḥ",
+     "en": "qualities",
+     "hi": "गुण"
+    },
+    {
+     "sa": "रूक्षादयः",
+     "iast": "rūkṣādayaḥ",
+     "en": "dry and the others",
+     "hi": "रूक्ष आदि"
+    },
+    {
+     "sa": "शमम्",
+     "iast": "śamam",
+     "en": "pacification",
+     "hi": "शमन"
+    },
+    {
+     "sa": "चयः",
+     "iast": "cayaḥ",
+     "en": "accumulation",
+     "hi": "चय"
+    },
+    {
+     "sa": "वृद्धिः",
+     "iast": "vṛddhiḥ",
+     "en": "increase",
+     "hi": "वृद्धि"
+    },
+    {
+     "sa": "स्वधाम्नि",
+     "iast": "sva-dhāmni",
+     "en": "in its own seat",
+     "hi": "अपने स्थान में"
+    },
+    {
+     "sa": "एव",
+     "iast": "eva",
+     "en": "only",
+     "hi": "ही"
+    },
+    {
+     "sa": "प्रद्वेषः",
+     "iast": "pradveṣaḥ",
+     "en": "aversion",
+     "hi": "अरुचि (द्वेष)"
+    },
+    {
+     "sa": "वृद्धिहेतुषु",
+     "iast": "vṛddhi-hetuṣu",
+     "en": "to the causes of increase",
+     "hi": "वृद्धि के कारणों के प्रति"
+    }
+   ],
+   "english": "...with heat, its aggravation; dry and related qualities combined with that same heat, its pacification. Caya (accumulation) is increase (of a doṣa) in its own seat only, with aversion to the causes of (further) increase,...",
+   "hindi": "...उष्णता के साथ मिलकर कफ का प्रकोप; रूक्ष आदि गुण उसी उष्णता के साथ मिलकर कफ का शमन करते हैं। 'चय' का अर्थ है दोष की अपने ही स्थान में वृद्धि, जिसमें वृद्धि के कारणों के प्रति अरुचि होती है,...",
+   "explanation_en": "Definition of caya: sva-sthāna vṛddhi + aversion to similar causes + desire for opposite qualities (verse 23). Caya is the first of the kriyākālas; recognising it early allows easy treatment.",
+   "explanation_hi": "चय की परिभाषा: स्वस्थान में वृद्धि + समान कारणों से अरुचि + विपरीत गुणों की इच्छा (श्लोक 23)। चय पहला क्रियाकाल है; इसे जल्दी पहचानने से चिकित्सा आसान होती है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "caya",
+    "kapha-prakopa",
+    "kriyākāla"
+   ],
+   "tags": [
+    "dosha",
+    "chaya-prakopa",
+    "kriyakala",
+    "definitions"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.23",
+   "word_meanings": [
+    {
+     "sa": "विपरीतगुणेच्छा",
+     "iast": "viparīta-guṇecchā",
+     "en": "desire for opposite qualities",
+     "hi": "विपरीत गुणों की इच्छा"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "कोपः",
+     "iast": "kopaḥ",
+     "en": "aggravation",
+     "hi": "प्रकोप"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "तो"
+    },
+    {
+     "sa": "उन्मार्गगामिता",
+     "iast": "unmārga-gāmitā",
+     "en": "moving into wrong paths",
+     "hi": "गलत मार्ग में जाना"
+    },
+    {
+     "sa": "लिङ्गानाम्",
+     "iast": "liṅgānām",
+     "en": "of the signs",
+     "hi": "लक्षणों का"
+    },
+    {
+     "sa": "दर्शनम्",
+     "iast": "darśanam",
+     "en": "appearance",
+     "hi": "दिखना"
+    },
+    {
+     "sa": "स्वेषाम्",
+     "iast": "sveṣām",
+     "en": "its own",
+     "hi": "अपने"
+    },
+    {
+     "sa": "अस्वास्थ्यम्",
+     "iast": "asvāsthyam",
+     "en": "ill health",
+     "hi": "अस्वस्थता"
+    },
+    {
+     "sa": "रोगसंभवः",
+     "iast": "roga-saṃbhavaḥ",
+     "en": "onset of disease",
+     "hi": "रोग की उत्पत्ति"
+    }
+   ],
+   "english": "...and desire for things of opposite qualities. Kopa (aggravation) is the movement (of the doṣa) into wrong paths, appearance of its own signs, ill health and the onset of disease.",
+   "hindi": "...और विपरीत गुणों की इच्छा होती है। 'प्रकोप' का अर्थ है दोष का गलत मार्ग में जाना, उसके अपने लक्षणों का दिखना, अस्वस्थता और रोग की उत्पत्ति।",
+   "explanation_en": "Definition of prakopa: unmārga-gamana (leaving its seat), sva-liṅga-darśana, asvāsthya, roga-saṃbhava. Compare with Suśruta's six kriyākālas (sañcaya, prakopa, prasara, sthānasaṃśraya, vyakti, bheda); AH merges prasara onwards into prakopa here.",
+   "explanation_hi": "प्रकोप की परिभाषा: उन्मार्ग गमन (अपना स्थान छोड़ना), स्वलिंग दर्शन, अस्वास्थ्य, रोग संभव। सुश्रुत के छह क्रियाकालों (संचय, प्रकोप, प्रसर, स्थानसंश्रय, व्यक्ति, भेद) से तुलना करें; यहाँ अष्टांगहृदय प्रसर आदि को प्रकोप में ही समाहित करता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "prakopa",
+    "unmārga-gamana",
+    "kriyākāla"
+   ],
+   "tags": [
+    "dosha",
+    "chaya-prakopa",
+    "kriyakala",
+    "definitions"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.24",
+   "word_meanings": [
+    {
+     "sa": "स्वस्थानस्थस्य",
+     "iast": "sva-sthāna-sthasya",
+     "en": "of (the doṣa) residing in its own seat",
+     "hi": "अपने स्थान में स्थित (दोष) की"
+    },
+    {
+     "sa": "समता",
+     "iast": "samatā",
+     "en": "balance",
+     "hi": "समता"
+    },
+    {
+     "sa": "विकारासंभवः",
+     "iast": "vikārāsaṃbhavaḥ",
+     "en": "absence of disease",
+     "hi": "विकार का न होना"
+    },
+    {
+     "sa": "शमः",
+     "iast": "śamaḥ",
+     "en": "pacification",
+     "hi": "प्रशम"
+    },
+    {
+     "sa": "चयप्रकोपप्रशमाः",
+     "iast": "caya-prakopa-praśamāḥ",
+     "en": "accumulation, aggravation and pacification",
+     "hi": "चय, प्रकोप और प्रशम"
+    },
+    {
+     "sa": "वायोः",
+     "iast": "vāyoḥ",
+     "en": "of vāta",
+     "hi": "वात के"
+    },
+    {
+     "sa": "ग्रीष्मादिषु",
+     "iast": "grīṣmādiṣu",
+     "en": "in summer and the following",
+     "hi": "ग्रीष्म आदि में"
+    },
+    {
+     "sa": "त्रिषु",
+     "iast": "triṣu",
+     "en": "three (seasons)",
+     "hi": "तीन (ऋतुओं) में"
+    }
+   ],
+   "english": "Śama (pacification) is the balanced state of a doṣa residing in its own seat, with no disease. The accumulation, aggravation and pacification of vāta occur in the three seasons beginning with summer (grīṣma, varṣā, śarad, respectively);",
+   "hindi": "'प्रशम' का अर्थ है दोष का अपने स्थान में सम अवस्था में रहना और कोई विकार न होना। वात का चय, प्रकोप और प्रशम क्रम से ग्रीष्म, वर्षा और शरद, इन तीन ऋतुओं में होता है;",
+   "explanation_en": "Seasonal doṣa cycle (very high-yield): vāta: caya-grīṣma, prakopa-varṣā, praśama-śarad; pitta: varṣā, śarad, hemanta; kapha: śiśira, vasanta, grīṣma (verse 25).",
+   "explanation_hi": "ऋतु अनुसार दोष चक्र (बहुत महत्वपूर्ण): वात: चय-ग्रीष्म, प्रकोप-वर्षा, प्रशम-शरद; पित्त: वर्षा, शरद, हेमंत; कफ: शिशिर, वसंत, ग्रीष्म (श्लोक 25)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "praśama",
+    "ṛtu",
+    "caya-prakopa-praśama"
+   ],
+   "tags": [
+    "dosha",
+    "chaya-prakopa",
+    "ritu",
+    "kriyakala"
+   ],
+   "importance": "high",
+   "mnemonic": "Vāta: Grīṣma-Varṣā-Śarad; Pitta: Varṣā-Śarad-Hemanta; Kapha: Śiśira-Vasanta-Grīṣma",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.25",
+   "word_meanings": [
+    {
+     "sa": "वर्षादिषु",
+     "iast": "varṣādiṣu",
+     "en": "in the rainy season and the following",
+     "hi": "वर्षा आदि में"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "पित्तस्य",
+     "iast": "pittasya",
+     "en": "of pitta",
+     "hi": "पित्त का"
+    },
+    {
+     "sa": "श्लेष्मणः",
+     "iast": "śleṣmaṇaḥ",
+     "en": "of kapha",
+     "hi": "कफ का"
+    },
+    {
+     "sa": "शिशिरादिषु",
+     "iast": "śiśirādiṣu",
+     "en": "in late winter and the following",
+     "hi": "शिशिर आदि में"
+    },
+    {
+     "sa": "चीयते",
+     "iast": "cīyate",
+     "en": "accumulates",
+     "hi": "संचित होता है"
+    },
+    {
+     "sa": "लघुरूक्षाभिः",
+     "iast": "laghu-rūkṣābhiḥ",
+     "en": "by light and dry",
+     "hi": "हल्की और रूखी"
+    },
+    {
+     "sa": "ओषधिभिः",
+     "iast": "oṣadhibhiḥ",
+     "en": "plants",
+     "hi": "वनस्पतियों से"
+    },
+    {
+     "sa": "समीरणः",
+     "iast": "samīraṇaḥ",
+     "en": "vāta",
+     "hi": "वात"
+    }
+   ],
+   "english": "...those of pitta in the three seasons beginning with the rains (varṣā, śarad, hemanta), and those of kapha in the three beginning with late winter (śiśira, vasanta, grīṣma). Vāta accumulates (in summer) through plants (foods) that are light and dry,...",
+   "hindi": "...पित्त का चय, प्रकोप, प्रशम वर्षा, शरद और हेमंत में, और कफ का शिशिर, वसंत और ग्रीष्म में होता है। (ग्रीष्म में) हल्की और रूखी वनस्पतियों (आहार) से वात संचित होता है,...",
+   "explanation_en": "Completes the seasonal table. Verses 25-28 explain why the doṣa accumulates but does not spread in its caya season: the season's opposite temperature holds it in check.",
+   "explanation_hi": "ऋतु तालिका पूरी। श्लोक 25-28 समझाते हैं कि दोष अपनी चय ऋतु में संचित तो होता है पर फैलता क्यों नहीं: ऋतु का विपरीत तापमान उसे रोके रखता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "ṛtu",
+    "caya",
+    "pitta",
+    "kapha"
+   ],
+   "tags": [
+    "dosha",
+    "chaya-prakopa",
+    "ritu"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.26",
+   "word_meanings": [
+    {
+     "sa": "तद्विधः",
+     "iast": "tad-vidhaḥ",
+     "en": "of the same nature",
+     "hi": "वैसे ही स्वभाव का"
+    },
+    {
+     "sa": "तद्विधे",
+     "iast": "tad-vidhe",
+     "en": "of similar nature",
+     "hi": "वैसे ही"
+    },
+    {
+     "sa": "देहे",
+     "iast": "dehe",
+     "en": "in the body",
+     "hi": "शरीर में"
+    },
+    {
+     "sa": "कालस्य",
+     "iast": "kālasya",
+     "en": "of the season",
+     "hi": "ऋतु की"
+    },
+    {
+     "sa": "औष्ण्यात्",
+     "iast": "auṣṇyāt",
+     "en": "because of the heat",
+     "hi": "उष्णता के कारण"
+    },
+    {
+     "sa": "न कुप्यति",
+     "iast": "na kupyati",
+     "en": "is not aggravated",
+     "hi": "कुपित नहीं होता"
+    },
+    {
+     "sa": "अद्भिः",
+     "iast": "adbhiḥ",
+     "en": "by waters",
+     "hi": "जल से"
+    },
+    {
+     "sa": "अम्लविपाकाभिः",
+     "iast": "amla-vipākābhiḥ",
+     "en": "of sour post-digestive effect",
+     "hi": "अम्ल विपाक वाले"
+    },
+    {
+     "sa": "ओषधिभिः",
+     "iast": "oṣadhibhiḥ",
+     "en": "plants",
+     "hi": "वनस्पतियों से"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "तादृशम्",
+     "iast": "tādṛśam",
+     "en": "similar",
+     "hi": "वैसा ही"
+    }
+   ],
+   "english": "...in a body that has likewise become light and dry; but because of the heat of the season it is not aggravated. Through waters and plants of sour vipāka, (pitta accumulates) in a body of similar nature,...",
+   "hindi": "...ऐसे शरीर में जो स्वयं भी हल्का और रूखा हो गया हो; पर ऋतु की उष्णता के कारण वात कुपित नहीं होता। अम्ल विपाक वाले जल और वनस्पतियों से (वर्षा ऋतु में) वैसे ही शरीर में पित्त...",
+   "explanation_en": "Vāta in grīṣma: accumulated by light, dry food, but held back by the heat (uṣṇa opposes vāta's śīta). Pitta in varṣā: water and plants become amla-vipāka (sour), accumulating pitta.",
+   "explanation_hi": "ग्रीष्म में वात: हल्के, रूखे आहार से संचित, पर गर्मी से रुका रहता है (उष्ण, वात के शीत गुण का विरोधी)। वर्षा में पित्त: जल और वनस्पतियाँ अम्ल विपाक हो जाती हैं, जिससे पित्त संचित होता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vāta-caya",
+    "grīṣma",
+    "amla-vipāka"
+   ],
+   "tags": [
+    "dosha",
+    "chaya-prakopa",
+    "ritu"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.27",
+   "word_meanings": [
+    {
+     "sa": "पित्तम्",
+     "iast": "pittam",
+     "en": "pitta",
+     "hi": "पित्त"
+    },
+    {
+     "sa": "याति",
+     "iast": "yāti",
+     "en": "attains",
+     "hi": "प्राप्त होता है"
+    },
+    {
+     "sa": "चयम्",
+     "iast": "cayam",
+     "en": "accumulation",
+     "hi": "संचय"
+    },
+    {
+     "sa": "कोपम्",
+     "iast": "kopam",
+     "en": "aggravation",
+     "hi": "प्रकोप"
+    },
+    {
+     "sa": "न तु",
+     "iast": "na tu",
+     "en": "but not",
+     "hi": "परंतु नहीं"
+    },
+    {
+     "sa": "कालस्य",
+     "iast": "kālasya",
+     "en": "of the season",
+     "hi": "ऋतु की"
+    },
+    {
+     "sa": "शैत्यतः",
+     "iast": "śaityataḥ",
+     "en": "because of the coldness",
+     "hi": "शीतलता के कारण"
+    },
+    {
+     "sa": "चीयते",
+     "iast": "cīyate",
+     "en": "accumulates",
+     "hi": "संचित होता है"
+    },
+    {
+     "sa": "स्निग्धशीताभिः",
+     "iast": "snigdha-śītābhiḥ",
+     "en": "by unctuous and cold",
+     "hi": "स्निग्ध और शीत"
+    },
+    {
+     "sa": "उदकौषधिभिः",
+     "iast": "udakauṣadhibhiḥ",
+     "en": "waters and plants",
+     "hi": "जल और वनस्पतियों से"
+    },
+    {
+     "sa": "कफः",
+     "iast": "kaphaḥ",
+     "en": "kapha",
+     "hi": "कफ"
+    }
+   ],
+   "english": "...pitta accumulates, but is not aggravated because of the coldness of the season. Kapha accumulates (in late winter) through unctuous and cold waters and plants,...",
+   "hindi": "...पित्त संचित होता है, पर ऋतु की ठंडक के कारण कुपित नहीं होता। (शिशिर में) स्निग्ध और शीत जल तथा वनस्पतियों से कफ संचित होता है,...",
+   "explanation_en": "Pitta in varṣā: caya but no prakopa, as the cool rainy weather opposes pitta's heat. Kapha in śiśira accumulates through cold, unctuous water and food.",
+   "explanation_hi": "वर्षा में पित्त: चय होता है पर प्रकोप नहीं, क्योंकि ठंडा वर्षा मौसम पित्त की उष्णता का विरोधी है। शिशिर में कफ ठंडे, स्निग्ध जल और आहार से संचित होता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "pitta-caya",
+    "varṣā",
+    "kapha-caya",
+    "śiśira"
+   ],
+   "tags": [
+    "dosha",
+    "chaya-prakopa",
+    "ritu"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.28",
+   "word_meanings": [
+    {
+     "sa": "तुल्ये अपि",
+     "iast": "tulye api",
+     "en": "even when similar",
+     "hi": "समान होने पर भी"
+    },
+    {
+     "sa": "काले",
+     "iast": "kāle",
+     "en": "the season",
+     "hi": "ऋतु"
+    },
+    {
+     "sa": "देहे",
+     "iast": "dehe",
+     "en": "the body",
+     "hi": "शरीर"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "स्कन्नत्वात्",
+     "iast": "skannatvāt",
+     "en": "because of being congealed",
+     "hi": "जमे हुए होने के कारण"
+    },
+    {
+     "sa": "न प्रकुप्यति",
+     "iast": "na prakupyati",
+     "en": "is not aggravated",
+     "hi": "कुपित नहीं होता"
+    },
+    {
+     "sa": "इति",
+     "iast": "iti",
+     "en": "thus",
+     "hi": "इस प्रकार"
+    },
+    {
+     "sa": "कालस्वभावः",
+     "iast": "kāla-svabhāvaḥ",
+     "en": "the nature of the season",
+     "hi": "ऋतु का स्वभाव"
+    },
+    {
+     "sa": "अयम्",
+     "iast": "ayam",
+     "en": "this",
+     "hi": "यह"
+    },
+    {
+     "sa": "आहारादिवशात्",
+     "iast": "āhārādi-vaśāt",
+     "en": "due to diet etc.",
+     "hi": "आहार आदि के कारण"
+    },
+    {
+     "sa": "पुनः",
+     "iast": "punaḥ",
+     "en": "however",
+     "hi": "परंतु"
+    }
+   ],
+   "english": "...and even though the season and the body are of similar (cold) nature, it is not aggravated because it is congealed (skanna). This is the natural course according to season; however, due to diet and other factors,...",
+   "hindi": "...और यद्यपि ऋतु और शरीर दोनों समान (शीत) स्वभाव के हैं, फिर भी कफ जम जाने (स्कन्न होने) के कारण कुपित नहीं होता। यह ऋतु का स्वाभाविक क्रम है; परंतु आहार आदि के कारण...",
+   "explanation_en": "Kapha in śiśira: caya without prakopa because cold makes it solid (skanna); it liquefies and spreads in vasanta when the sun's heat increases. The second line introduces an exception: diet and conduct can override the seasonal pattern (verse 29).",
+   "explanation_hi": "शिशिर में कफ: चय होता है पर प्रकोप नहीं, क्योंकि ठंड से वह जम (स्कन्न) जाता है; वसंत में सूर्य की गर्मी बढ़ने पर पिघलकर फैलता है। दूसरी पंक्ति अपवाद बताती है: आहार और आचरण ऋतु क्रम को बदल सकते हैं (श्लोक 29)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "kapha-caya",
+    "skanna",
+    "kāla-svabhāva"
+   ],
+   "tags": [
+    "dosha",
+    "chaya-prakopa",
+    "ritu"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.29",
+   "word_meanings": [
+    {
+     "sa": "चयादीन्",
+     "iast": "cayādīn",
+     "en": "accumulation etc.",
+     "hi": "चय आदि को"
+    },
+    {
+     "sa": "यान्ति",
+     "iast": "yānti",
+     "en": "undergo",
+     "hi": "प्राप्त होते हैं"
+    },
+    {
+     "sa": "सद्यः",
+     "iast": "sadyaḥ",
+     "en": "immediately",
+     "hi": "तुरंत"
+    },
+    {
+     "sa": "अपि",
+     "iast": "api",
+     "en": "even",
+     "hi": "भी"
+    },
+    {
+     "sa": "दोषाः",
+     "iast": "doṣāḥ",
+     "en": "doṣas",
+     "hi": "दोष"
+    },
+    {
+     "sa": "काले",
+     "iast": "kāle",
+     "en": "in (their) season",
+     "hi": "(अपनी) ऋतु में"
+    },
+    {
+     "sa": "अपि",
+     "iast": "api",
+     "en": "even",
+     "hi": "भी"
+    },
+    {
+     "sa": "वा",
+     "iast": "vā",
+     "en": "or",
+     "hi": "या"
+    },
+    {
+     "sa": "न तु",
+     "iast": "na tu",
+     "en": "not",
+     "hi": "नहीं"
+    },
+    {
+     "sa": "व्याप्नोति",
+     "iast": "vyāpnoti",
+     "en": "pervades",
+     "hi": "व्याप्त कर लेता है"
+    },
+    {
+     "sa": "सहसा",
+     "iast": "sahasā",
+     "en": "suddenly",
+     "hi": "अचानक"
+    },
+    {
+     "sa": "देहम्",
+     "iast": "deham",
+     "en": "the body",
+     "hi": "शरीर को"
+    },
+    {
+     "sa": "आपादतलमस्तकम्",
+     "iast": "ā-pāda-tala-mastakam",
+     "en": "from the soles of the feet to the head",
+     "hi": "पैर के तलवे से सिर तक"
+    }
+   ],
+   "english": "...the doṣas may undergo accumulation and the rest immediately, or may not do so even in their (proper) season. An aggravated doṣa suddenly pervades the body from the soles of the feet to the head,...",
+   "hindi": "...दोष तुरंत भी चय आदि को प्राप्त हो सकते हैं, या अपनी ऋतु में भी नहीं। कुपित दोष अचानक पैर के तलवों से सिर तक पूरे शरीर में फैल जाता है,...",
+   "explanation_en": "Seasonal rules are tendencies, not laws: diet and lifestyle can cause sudden caya-prakopa or prevent it. Verse 30 adds the flood simile.",
+   "explanation_hi": "ऋतु नियम प्रवृत्तियाँ हैं, अटल नियम नहीं: आहार और जीवनशैली अचानक चय-प्रकोप कर सकते हैं या रोक सकते हैं। श्लोक 30 में बाढ़ की उपमा है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "caya",
+    "prakopa",
+    "āhāra"
+   ],
+   "tags": [
+    "dosha",
+    "chaya-prakopa"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.30",
+   "word_meanings": [
+    {
+     "sa": "निवर्तते",
+     "iast": "nivartate",
+     "en": "recedes",
+     "hi": "लौटता है (शांत होता है)"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "परंतु"
+    },
+    {
+     "sa": "कुपितः",
+     "iast": "kupitaḥ",
+     "en": "aggravated",
+     "hi": "कुपित"
+    },
+    {
+     "sa": "मलः",
+     "iast": "malaḥ",
+     "en": "doṣa",
+     "hi": "दोष (मल)"
+    },
+    {
+     "sa": "अल्पाल्पम्",
+     "iast": "alpālpam",
+     "en": "little by little",
+     "hi": "धीरे-धीरे"
+    },
+    {
+     "sa": "जलौघवत्",
+     "iast": "jalaugha-vat",
+     "en": "like a flood of water",
+     "hi": "पानी की बाढ़ की तरह"
+    },
+    {
+     "sa": "नानारूपैः",
+     "iast": "nānā-rūpaiḥ",
+     "en": "of various forms",
+     "hi": "अनेक रूपों वाले"
+    },
+    {
+     "sa": "असंख्येयैः",
+     "iast": "asaṃkhyeyaiḥ",
+     "en": "countless",
+     "hi": "असंख्य"
+    },
+    {
+     "sa": "विकारैः",
+     "iast": "vikāraiḥ",
+     "en": "by diseases",
+     "hi": "विकारों से"
+    },
+    {
+     "sa": "कुपिताः",
+     "iast": "kupitāḥ",
+     "en": "aggravated",
+     "hi": "कुपित"
+    },
+    {
+     "sa": "मलाः",
+     "iast": "malāḥ",
+     "en": "doṣas",
+     "hi": "दोष"
+    }
+   ],
+   "english": "...but recedes only little by little, like a flood of water. The aggravated doṣas (here called malas), through countless diseases of various forms,...",
+   "hindi": "...परंतु बाढ़ के पानी की तरह धीरे-धीरे ही उतरता है। कुपित दोष अनेक रूपों वाले असंख्य विकारों से...",
+   "explanation_en": "The flood simile (jalaugha-vat): doṣa aggravation is quick, recovery is slow, so treatment and diet must continue patiently. Here 'mala' is used for doṣa because vitiated doṣas soil the body.",
+   "explanation_hi": "बाढ़ की उपमा (जलौघवत्): दोष प्रकोप जल्दी होता है, ठीक होना धीरे; इसलिए चिकित्सा और पथ्य धैर्य से जारी रखने चाहिए। यहाँ 'मल' शब्द दोष के लिए है क्योंकि विकृत दोष शरीर को मलिन करते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "prakopa",
+    "jalaugha",
+    "mala"
+   ],
+   "tags": [
+    "dosha",
+    "chaya-prakopa",
+    "simile"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.31",
+   "word_meanings": [
+    {
+     "sa": "तापयन्ति",
+     "iast": "tāpayanti",
+     "en": "afflict",
+     "hi": "पीड़ित करते हैं"
+    },
+    {
+     "sa": "तनुम्",
+     "iast": "tanum",
+     "en": "the body",
+     "hi": "शरीर को"
+    },
+    {
+     "sa": "तस्मात्",
+     "iast": "tasmāt",
+     "en": "therefore",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "तद्धेत्वाकृतिसाधनम्",
+     "iast": "tad-dhetv-ākṛti-sādhanam",
+     "en": "their causes, forms and treatments",
+     "hi": "उनके कारण, स्वरूप और चिकित्सा"
+    },
+    {
+     "sa": "शक्यम्",
+     "iast": "śakyam",
+     "en": "possible",
+     "hi": "संभव"
+    },
+    {
+     "sa": "न",
+     "iast": "na",
+     "en": "not",
+     "hi": "नहीं"
+    },
+    {
+     "sa": "एकैकशः",
+     "iast": "ekaikaśaḥ",
+     "en": "one by one",
+     "hi": "एक-एक करके"
+    },
+    {
+     "sa": "वक्तुम्",
+     "iast": "vaktum",
+     "en": "to describe",
+     "hi": "बताना"
+    },
+    {
+     "sa": "अतः",
+     "iast": "ataḥ",
+     "en": "hence",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "सामान्यम्",
+     "iast": "sāmānyam",
+     "en": "general (principles)",
+     "hi": "सामान्य (सिद्धांत)"
+    },
+    {
+     "sa": "उच्यते",
+     "iast": "ucyate",
+     "en": "is stated",
+     "hi": "कहा जाता है"
+    }
+   ],
+   "english": "...afflict the body. Therefore it is not possible to describe their causes, forms and treatments one by one; hence the general principles are stated.",
+   "hindi": "...शरीर को पीड़ित करते हैं। इसलिए हर रोग के कारण, स्वरूप और चिकित्सा को एक-एक करके बताना संभव नहीं है; इसलिए सामान्य सिद्धांत बताए जाते हैं।",
+   "explanation_en": "A methodological statement: since diseases are innumerable, Ayurveda teaches general principles (doṣa-based reasoning) rather than an exhaustive catalogue. Leads to the famous verse 32.",
+   "explanation_hi": "एक पद्धतिगत कथन: क्योंकि रोग असंख्य हैं, आयुर्वेद पूरी सूची के बजाय सामान्य सिद्धांत (दोष आधारित तर्क) सिखाता है। यह प्रसिद्ध श्लोक 32 की ओर ले जाता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sāmānya",
+    "vyādhi"
+   ],
+   "tags": [
+    "dosha",
+    "principle"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.32",
+   "word_meanings": [
+    {
+     "sa": "दोषाः",
+     "iast": "doṣāḥ",
+     "en": "the doṣas",
+     "hi": "दोष"
+    },
+    {
+     "sa": "एव",
+     "iast": "eva",
+     "en": "alone",
+     "hi": "ही"
+    },
+    {
+     "sa": "हि",
+     "iast": "hi",
+     "en": "indeed",
+     "hi": "वास्तव में"
+    },
+    {
+     "sa": "सर्वेषाम्",
+     "iast": "sarveṣām",
+     "en": "of all",
+     "hi": "सभी"
+    },
+    {
+     "sa": "रोगाणाम्",
+     "iast": "rogāṇām",
+     "en": "diseases",
+     "hi": "रोगों का"
+    },
+    {
+     "sa": "एककारणम्",
+     "iast": "eka-kāraṇam",
+     "en": "the sole cause",
+     "hi": "एकमात्र कारण"
+    },
+    {
+     "sa": "यथा",
+     "iast": "yathā",
+     "en": "just as",
+     "hi": "जैसे"
+    },
+    {
+     "sa": "पक्षी",
+     "iast": "pakṣī",
+     "en": "a bird",
+     "hi": "पक्षी"
+    },
+    {
+     "sa": "परिपतन्",
+     "iast": "paripatan",
+     "en": "flying about",
+     "hi": "उड़ता हुआ"
+    },
+    {
+     "sa": "सर्वतः",
+     "iast": "sarvataḥ",
+     "en": "everywhere",
+     "hi": "सब ओर"
+    },
+    {
+     "sa": "सर्वम्",
+     "iast": "sarvam",
+     "en": "the whole",
+     "hi": "पूरा"
+    },
+    {
+     "sa": "अपि",
+     "iast": "api",
+     "en": "even",
+     "hi": "भी"
+    },
+    {
+     "sa": "अहः",
+     "iast": "ahaḥ",
+     "en": "day",
+     "hi": "दिन"
+    }
+   ],
+   "english": "The doṣas alone are indeed the sole cause of all diseases. Just as a bird, flying about everywhere the whole day,...",
+   "hindi": "वास्तव में दोष ही सभी रोगों का एकमात्र कारण हैं। जैसे कोई पक्षी पूरे दिन सब ओर उड़ता हुआ भी,...",
+   "explanation_en": "'Doṣā eva hi sarveṣāṃ rogāṇām ekakāraṇam' is a central doctrine and very frequently quoted. The bird-and-shadow simile follows in verse 33.",
+   "explanation_hi": "'दोषा एव हि सर्वेषां रोगाणामेककारणम्' एक मूल सिद्धांत है और बहुत उद्धृत होता है। पक्षी और छाया की उपमा श्लोक 33 में है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "doṣa",
+    "roga-kāraṇa"
+   ],
+   "tags": [
+    "dosha",
+    "nidana",
+    "quotable"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.33",
+   "word_meanings": [
+    {
+     "sa": "छायाम्",
+     "iast": "chāyām",
+     "en": "shadow",
+     "hi": "छाया को"
+    },
+    {
+     "sa": "अत्येति",
+     "iast": "atyeti",
+     "en": "goes beyond",
+     "hi": "पार करता है"
+    },
+    {
+     "sa": "न",
+     "iast": "na",
+     "en": "not",
+     "hi": "नहीं"
+    },
+    {
+     "sa": "आत्मीयाम्",
+     "iast": "ātmīyām",
+     "en": "its own",
+     "hi": "अपनी"
+    },
+    {
+     "sa": "यथा वा",
+     "iast": "yathā vā",
+     "en": "or just as",
+     "hi": "या जैसे"
+    },
+    {
+     "sa": "कृत्स्नम्",
+     "iast": "kṛtsnam",
+     "en": "whole",
+     "hi": "संपूर्ण"
+    },
+    {
+     "sa": "अपि",
+     "iast": "api",
+     "en": "even",
+     "hi": "भी"
+    },
+    {
+     "sa": "अदः",
+     "iast": "adaḥ",
+     "en": "this",
+     "hi": "यह"
+    },
+    {
+     "sa": "विकारजातम्",
+     "iast": "vikāra-jātam",
+     "en": "the array of modifications",
+     "hi": "विकारों (परिवर्तनों) का समूह"
+    },
+    {
+     "sa": "विविधम्",
+     "iast": "vividham",
+     "en": "various",
+     "hi": "विविध"
+    },
+    {
+     "sa": "त्रीन्",
+     "iast": "trīn",
+     "en": "three",
+     "hi": "तीन"
+    },
+    {
+     "sa": "गुणान्",
+     "iast": "guṇān",
+     "en": "guṇas (sattva, rajas, tamas)",
+     "hi": "गुणों (सत्त्व, रज, तम) को"
+    },
+    {
+     "sa": "न अतिवर्तते",
+     "iast": "na ativartate",
+     "en": "does not go beyond",
+     "hi": "पार नहीं करता"
+    }
+   ],
+   "english": "...does not go beyond its own shadow; or just as this whole varied creation does not go beyond the three guṇas (sattva, rajas, tamas),...",
+   "hindi": "...अपनी छाया को पार नहीं कर पाता; या जैसे यह संपूर्ण विविध सृष्टि तीन गुणों (सत्त्व, रज, तम) से बाहर नहीं जाती,...",
+   "explanation_en": "Two similes: the bird and its shadow, and creation and the three guṇas (from Sāṃkhya). Just so, every disease stays within the three doṣas (verse 34).",
+   "explanation_hi": "दो उपमाएँ: पक्षी और उसकी छाया, और सृष्टि तथा तीन गुण (सांख्य दर्शन से)। इसी प्रकार हर रोग तीन दोषों की सीमा में रहता है (श्लोक 34)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "triguṇa",
+    "doṣa",
+    "simile"
+   ],
+   "tags": [
+    "dosha",
+    "nidana",
+    "simile"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.34",
+   "word_meanings": [
+    {
+     "sa": "तथा",
+     "iast": "tathā",
+     "en": "so too",
+     "hi": "उसी प्रकार"
+    },
+    {
+     "sa": "स्वधातुवैषम्यनिमित्तम्",
+     "iast": "sva-dhātu-vaiṣamya-nimittam",
+     "en": "caused by imbalance of one's own tissues",
+     "hi": "अपनी धातुओं की विषमता से उत्पन्न"
+    },
+    {
+     "sa": "अपि",
+     "iast": "api",
+     "en": "even",
+     "hi": "भी"
+    },
+    {
+     "sa": "सर्वदा",
+     "iast": "sarvadā",
+     "en": "always",
+     "hi": "सदा"
+    },
+    {
+     "sa": "विकारजातम्",
+     "iast": "vikāra-jātam",
+     "en": "the whole range of diseases",
+     "hi": "रोगों का समूह"
+    },
+    {
+     "sa": "त्रीन् दोषान्",
+     "iast": "trīn doṣān",
+     "en": "the three doṣas",
+     "hi": "तीनों दोषों को"
+    },
+    {
+     "sa": "तेषाम्",
+     "iast": "teṣām",
+     "en": "of them",
+     "hi": "उनके"
+    },
+    {
+     "sa": "कोपे",
+     "iast": "kope",
+     "en": "in aggravation",
+     "hi": "प्रकोप में"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "now",
+     "hi": "अब"
+    },
+    {
+     "sa": "कारणम्",
+     "iast": "kāraṇam",
+     "en": "cause",
+     "hi": "कारण"
+    }
+   ],
+   "english": "...so too the whole range of diseases, even when caused by imbalance of one's own dhātus, never goes beyond the three doṣas. Now, the cause of their aggravation:",
+   "hindi": "...उसी प्रकार सभी रोग, चाहे वे अपनी धातुओं की विषमता से उत्पन्न हों, कभी भी तीन दोषों से बाहर नहीं जाते। अब उनके प्रकोप का कारण:",
+   "explanation_en": "Even dhātu-vaiṣamya diseases are ultimately doṣa-mediated. The next verses give the three root causes of doṣa aggravation (trividha hetu).",
+   "explanation_hi": "धातु वैषम्य से होने वाले रोग भी अंततः दोषों के माध्यम से ही होते हैं। अगले श्लोकों में दोष प्रकोप के तीन मूल कारण (त्रिविध हेतु) हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "dhātu-vaiṣamya",
+    "tridoṣa"
+   ],
+   "tags": [
+    "dosha",
+    "nidana"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.35",
+   "word_meanings": [
+    {
+     "sa": "अर्थैः",
+     "iast": "arthaiḥ",
+     "en": "with sense objects",
+     "hi": "इंद्रिय विषयों से"
+    },
+    {
+     "sa": "असात्म्यैः",
+     "iast": "asātmyaiḥ",
+     "en": "unwholesome",
+     "hi": "असात्म्य (अनुचित)"
+    },
+    {
+     "sa": "संयोगः",
+     "iast": "saṃyogaḥ",
+     "en": "contact",
+     "hi": "संयोग"
+    },
+    {
+     "sa": "कालः",
+     "iast": "kālaḥ",
+     "en": "time, season",
+     "hi": "काल"
+    },
+    {
+     "sa": "कर्म",
+     "iast": "karma",
+     "en": "action",
+     "hi": "कर्म"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "दुष्कृतम्",
+     "iast": "duṣkṛtam",
+     "en": "wrongly done",
+     "hi": "गलत किया हुआ"
+    },
+    {
+     "sa": "हीनातिमिथ्यायोगेन",
+     "iast": "hīnāti-mithyā-yogena",
+     "en": "by deficient, excessive and wrong use",
+     "hi": "हीन, अति और मिथ्या योग से"
+    },
+    {
+     "sa": "भिद्यते",
+     "iast": "bhidyate",
+     "en": "is divided",
+     "hi": "बँटता है"
+    },
+    {
+     "sa": "तत्",
+     "iast": "tat",
+     "en": "that",
+     "hi": "वह"
+    },
+    {
+     "sa": "पुनः",
+     "iast": "punaḥ",
+     "en": "again",
+     "hi": "फिर"
+    },
+    {
+     "sa": "त्रिधा",
+     "iast": "tridhā",
+     "en": "threefold",
+     "hi": "तीन प्रकार से"
+    }
+   ],
+   "english": "...unwholesome contact with sense objects (asātmyendriyārtha-saṃyoga), time (kāla, i.e. the seasons) and wrongly performed action (karma). Each of these is again divided into three by deficient (hīna), excessive (ati) and wrong (mithyā) use.",
+   "hindi": "...इंद्रियों का असात्म्य विषयों से संयोग, काल (ऋतु) और गलत किया गया कर्म। इनमें से हर एक फिर हीन योग, अति योग और मिथ्या योग से तीन प्रकार का होता है।",
+   "explanation_en": "Trividha roga-hetu: asātmyendriyārtha-saṃyoga, pariṇāma (kāla) and prajñāparādha (duṣkṛta karma), each × hīna/ati/mithyā yoga. This is among the most asked concepts in Nidāna and Samhitā papers. Verses 36-43 define each.",
+   "explanation_hi": "त्रिविध रोग हेतु: असात्म्येंद्रियार्थ संयोग, परिणाम (काल) और प्रज्ञापराध (दुष्कृत कर्म), हर एक × हीन/अति/मिथ्या योग। यह निदान और संहिता प्रश्नपत्रों की सबसे पूछी जाने वाली अवधारणाओं में है। श्लोक 36-43 में हर एक की परिभाषा है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "trividha-hetu",
+    "asātmyendriyārtha-saṃyoga",
+    "kāla",
+    "prajñāparādha",
+    "hīna-ati-mithyā-yoga"
+   ],
+   "tags": [
+    "nidana",
+    "trividha-hetu"
+   ],
+   "importance": "high",
+   "mnemonic": "A-K-K: Artha (senses), Kāla (time), Karma (action) × Hīna, Ati, Mithyā",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.36",
+   "word_meanings": [
+    {
+     "sa": "हीनः",
+     "iast": "hīnaḥ",
+     "en": "deficient (use)",
+     "hi": "हीन योग"
+    },
+    {
+     "sa": "अर्थेन",
+     "iast": "arthena",
+     "en": "with its object",
+     "hi": "अपने विषय के साथ"
+    },
+    {
+     "sa": "इन्द्रियस्य",
+     "iast": "indriyasya",
+     "en": "of a sense organ",
+     "hi": "इंद्रिय का"
+    },
+    {
+     "sa": "अल्पः",
+     "iast": "alpaḥ",
+     "en": "little",
+     "hi": "थोड़ा"
+    },
+    {
+     "sa": "संयोगः",
+     "iast": "saṃyogaḥ",
+     "en": "contact",
+     "hi": "संयोग"
+    },
+    {
+     "sa": "स्वेन",
+     "iast": "svena",
+     "en": "with its own",
+     "hi": "अपने (विषय) के साथ"
+    },
+    {
+     "sa": "न एव वा",
+     "iast": "na eva vā",
+     "en": "or none at all",
+     "hi": "या बिल्कुल नहीं"
+    },
+    {
+     "sa": "अतियोगः",
+     "iast": "atiyogaḥ",
+     "en": "excessive use",
+     "hi": "अति योग"
+    },
+    {
+     "sa": "अतिसंसर्गः",
+     "iast": "ati-saṃsargaḥ",
+     "en": "excessive contact",
+     "hi": "अधिक संपर्क"
+    },
+    {
+     "sa": "सूक्ष्म",
+     "iast": "sūkṣma",
+     "en": "very minute",
+     "hi": "अति सूक्ष्म"
+    },
+    {
+     "sa": "भासुर",
+     "iast": "bhāsura",
+     "en": "very bright",
+     "hi": "अति चमकीला"
+    },
+    {
+     "sa": "भैरवम्",
+     "iast": "bhairavam",
+     "en": "terrifying",
+     "hi": "भयानक"
+    }
+   ],
+   "english": "Deficient use (hīnayoga) is little or no contact of a sense organ with its own object; excessive use (atiyoga) is excessive contact. (Looking at) very minute, very bright or terrifying (objects),...",
+   "hindi": "इंद्रिय का अपने विषय से बहुत कम या बिल्कुल संपर्क न होना 'हीन योग' है; अधिक संपर्क 'अति योग' है। अति सूक्ष्म, अति चमकीली या भयानक वस्तुओं को देखना,...",
+   "explanation_en": "Definitions for indriyārtha: hīnayoga = too little/no contact; atiyoga = too much (e.g. staring at the sun). Mithyāyoga examples for the eye continue in verse 37.",
+   "explanation_hi": "इंद्रियार्थ के लिए परिभाषाएँ: हीन योग = बहुत कम/कोई संपर्क नहीं; अति योग = बहुत अधिक (जैसे सूर्य को देखना)। आँख के मिथ्या योग के उदाहरण श्लोक 37 में जारी।",
+   "modern_correlation": null,
+   "key_terms": [
+    "hīnayoga",
+    "atiyoga",
+    "indriyārtha"
+   ],
+   "tags": [
+    "nidana",
+    "trividha-hetu"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.37",
+   "word_meanings": [
+    {
+     "sa": "अत्यासन्न",
+     "iast": "aty-āsanna",
+     "en": "too near",
+     "hi": "बहुत पास"
+    },
+    {
+     "sa": "अतिदूरस्थम्",
+     "iast": "ati-dūra-stham",
+     "en": "too far",
+     "hi": "बहुत दूर"
+    },
+    {
+     "sa": "विप्रियम्",
+     "iast": "vipriyam",
+     "en": "unpleasant",
+     "hi": "अप्रिय"
+    },
+    {
+     "sa": "विकृतादि",
+     "iast": "vikṛtādi",
+     "en": "deformed etc.",
+     "hi": "विकृत आदि"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "यत्",
+     "iast": "yat",
+     "en": "which",
+     "hi": "जो"
+    },
+    {
+     "sa": "अक्ष्णा",
+     "iast": "akṣṇā",
+     "en": "with the eye",
+     "hi": "आँख से"
+    },
+    {
+     "sa": "वीक्ष्यते",
+     "iast": "vīkṣyate",
+     "en": "is seen",
+     "hi": "देखा जाता है"
+    },
+    {
+     "sa": "रूपम्",
+     "iast": "rūpam",
+     "en": "form",
+     "hi": "रूप"
+    },
+    {
+     "sa": "मिथ्यायोगः",
+     "iast": "mithyā-yogaḥ",
+     "en": "wrong use",
+     "hi": "मिथ्या योग"
+    },
+    {
+     "sa": "सः",
+     "iast": "saḥ",
+     "en": "that",
+     "hi": "वह"
+    },
+    {
+     "sa": "दारुणः",
+     "iast": "dāruṇaḥ",
+     "en": "harmful",
+     "hi": "हानिकारक"
+    }
+   ],
+   "english": "...too near, too far, unpleasant or deformed and the like: such forms seen with the eye constitute mithyāyoga (wrong use), which is harmful.",
+   "hindi": "...बहुत पास, बहुत दूर, अप्रिय या विकृत आदि रूप जो आँख से देखे जाते हैं, वह 'मिथ्या योग' है, जो हानिकारक है।",
+   "explanation_en": "Mithyāyoga of the eye: viewing objects that are too minute, too bright, terrifying, too near, too far, unpleasant or deformed. The same logic applies to other senses (verse 38).",
+   "explanation_hi": "आँख का मिथ्या योग: बहुत सूक्ष्म, बहुत चमकीली, भयानक, बहुत पास, बहुत दूर, अप्रिय या विकृत वस्तुएँ देखना। यही तर्क अन्य इंद्रियों पर लागू होता है (श्लोक 38)।",
+   "modern_correlation": {
+    "en": "Viewing objects at very close distance for long periods, looking at very bright light, or straining to see very small or distant objects are recognised modern causes of eye strain and, in the case of intense light, retinal damage.",
+    "hi": "बहुत पास की वस्तुओं को लंबे समय तक देखना, बहुत तेज़ रोशनी देखना, या बहुत छोटी या दूर की वस्तुओं को देखने के लिए ज़ोर लगाना, आधुनिक दृष्टि से आँखों पर तनाव और तेज़ रोशनी के मामले में रेटिना क्षति के कारण हैं।"
+   },
+   "key_terms": [
+    "mithyāyoga",
+    "cakṣurindriya"
+   ],
+   "tags": [
+    "nidana",
+    "trividha-hetu"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.38",
+   "word_meanings": [
+    {
+     "sa": "एवम्",
+     "iast": "evam",
+     "en": "in the same way",
+     "hi": "इसी प्रकार"
+    },
+    {
+     "sa": "अत्युच्च",
+     "iast": "aty-ucca",
+     "en": "very loud",
+     "hi": "बहुत तेज़ (आवाज़)"
+    },
+    {
+     "sa": "पूति",
+     "iast": "pūti",
+     "en": "putrid",
+     "hi": "सड़ी (गंध)"
+    },
+    {
+     "sa": "आदीन्",
+     "iast": "ādīn",
+     "en": "and others",
+     "hi": "आदि"
+    },
+    {
+     "sa": "इन्द्रियार्थान्",
+     "iast": "indriyārthān",
+     "en": "objects of the senses",
+     "hi": "इंद्रियों के विषयों को"
+    },
+    {
+     "sa": "यथायथम्",
+     "iast": "yathā-yatham",
+     "en": "appropriately",
+     "hi": "यथायोग्य"
+    },
+    {
+     "sa": "विद्यात्",
+     "iast": "vidyāt",
+     "en": "should understand",
+     "hi": "समझना चाहिए"
+    },
+    {
+     "sa": "कालः",
+     "iast": "kālaḥ",
+     "en": "time, season",
+     "hi": "काल"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "now",
+     "hi": "अब"
+    },
+    {
+     "sa": "शीतोष्णवर्षाभेदात्",
+     "iast": "śītoṣṇa-varṣā-bhedāt",
+     "en": "by division into cold, heat and rain",
+     "hi": "शीत, उष्ण और वर्षा के भेद से"
+    },
+    {
+     "sa": "त्रिधा",
+     "iast": "tridhā",
+     "en": "threefold",
+     "hi": "तीन प्रकार का"
+    },
+    {
+     "sa": "मतः",
+     "iast": "mataḥ",
+     "en": "is considered",
+     "hi": "माना गया है"
+    }
+   ],
+   "english": "In the same way, one should understand (the wrong use of) other sense objects, such as very loud sounds, putrid smells and so on. Time (kāla) is considered threefold, divided into cold, hot and rainy (seasons).",
+   "hindi": "इसी प्रकार अन्य इंद्रिय विषयों, जैसे बहुत तेज़ आवाज़, सड़ी गंध आदि के मिथ्या योग को भी समझना चाहिए। काल तीन प्रकार का माना गया है: शीत, उष्ण और वर्षा।",
+   "explanation_en": "Extends the hīna/ati/mithyā analysis to sound, smell, taste and touch. Second line: kāla is threefold (śīta, uṣṇa, varṣā), whose hīna/ati/mithyā yoga is defined in verse 39.",
+   "explanation_hi": "हीन/अति/मिथ्या विश्लेषण शब्द, गंध, रस और स्पर्श पर भी लागू। दूसरी पंक्ति: काल तीन प्रकार का (शीत, उष्ण, वर्षा), जिसका हीन/अति/मिथ्या योग श्लोक 39 में परिभाषित है।",
+   "modern_correlation": {
+    "en": "Chronic exposure to very loud sound is a recognised modern cause of noise-induced hearing loss, in line with the idea of atiyoga of the ear.",
+    "hi": "बहुत तेज़ आवाज़ के लगातार संपर्क को आधुनिक चिकित्सा में शोर से होने वाली बधिरता का कारण माना जाता है, जो कान के अतियोग के विचार से मेल खाता है।"
+   },
+   "key_terms": [
+    "indriyārtha",
+    "kāla",
+    "ṛtu"
+   ],
+   "tags": [
+    "nidana",
+    "trividha-hetu"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.39",
+   "word_meanings": [
+    {
+     "sa": "सः",
+     "iast": "saḥ",
+     "en": "that (season)",
+     "hi": "वह (काल)"
+    },
+    {
+     "sa": "हीनः",
+     "iast": "hīnaḥ",
+     "en": "deficient",
+     "hi": "हीन"
+    },
+    {
+     "sa": "हीनशीतादिः",
+     "iast": "hīna-śītādiḥ",
+     "en": "with deficient cold etc.",
+     "hi": "कम ठंड आदि वाला"
+    },
+    {
+     "sa": "अतियोगः",
+     "iast": "atiyogaḥ",
+     "en": "excessive",
+     "hi": "अति योग"
+    },
+    {
+     "sa": "अतिलक्षणः",
+     "iast": "ati-lakṣaṇaḥ",
+     "en": "with excessive features",
+     "hi": "अधिक लक्षणों वाला"
+    },
+    {
+     "sa": "मिथ्यायोगः",
+     "iast": "mithyā-yogaḥ",
+     "en": "wrong",
+     "hi": "मिथ्या योग"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "तो"
+    },
+    {
+     "sa": "निर्दिष्टः",
+     "iast": "nirdiṣṭaḥ",
+     "en": "is described",
+     "hi": "बताया गया है"
+    },
+    {
+     "sa": "विपरीतस्वलक्षणः",
+     "iast": "viparīta-sva-lakṣaṇaḥ",
+     "en": "with features opposite to its own",
+     "hi": "अपने लक्षणों के विपरीत"
+    }
+   ],
+   "english": "Hīnayoga of time is when the season shows deficient cold (heat, rain) etc.; atiyoga is when its features are excessive; and mithyāyoga is described as the season showing features opposite to its own.",
+   "hindi": "काल का हीन योग वह है जब ऋतु में ठंड (गर्मी, वर्षा) आदि कम हो; अति योग जब उसके लक्षण अधिक हों; और मिथ्या योग वह है जब ऋतु अपने लक्षणों के विपरीत लक्षण दिखाए।",
+   "explanation_en": "Example: a winter that is too mild (hīna), too severe (ati), or hot (mithyā). Such abnormal seasons are linked in Caraka to epidemics (janapadodhvaṃsa).",
+   "explanation_hi": "उदाहरण: बहुत हल्की सर्दी (हीन), बहुत कड़ी सर्दी (अति), या सर्दी में गर्मी (मिथ्या)। चरक में ऐसी असामान्य ऋतुओं को महामारी (जनपदोध्वंस) से जोड़ा गया है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "kāla",
+    "hīnayoga",
+    "atiyoga",
+    "mithyāyoga"
+   ],
+   "tags": [
+    "nidana",
+    "trividha-hetu",
+    "ritu"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.40",
+   "word_meanings": [
+    {
+     "sa": "कायवाक्चित्तभेदेन",
+     "iast": "kāya-vāk-citta-bhedena",
+     "en": "by division into body, speech and mind",
+     "hi": "शरीर, वाणी और मन के भेद से"
+    },
+    {
+     "sa": "कर्म",
+     "iast": "karma",
+     "en": "action",
+     "hi": "कर्म"
+    },
+    {
+     "sa": "अपि",
+     "iast": "api",
+     "en": "also",
+     "hi": "भी"
+    },
+    {
+     "sa": "विभजेत्",
+     "iast": "vibhajet",
+     "en": "one should divide",
+     "hi": "बाँटना चाहिए"
+    },
+    {
+     "sa": "त्रिधा",
+     "iast": "tridhā",
+     "en": "threefold",
+     "hi": "तीन प्रकार से"
+    },
+    {
+     "sa": "कायादिकर्मणः",
+     "iast": "kāyādi-karmaṇaḥ",
+     "en": "of bodily and other actions",
+     "hi": "शरीर आदि के कर्मों की"
+    },
+    {
+     "sa": "हीना",
+     "iast": "hīnā",
+     "en": "deficient",
+     "hi": "कम"
+    },
+    {
+     "sa": "प्रवृत्तिः",
+     "iast": "pravṛttiḥ",
+     "en": "activity",
+     "hi": "प्रवृत्ति"
+    },
+    {
+     "sa": "हीनसंज्ञकः",
+     "iast": "hīna-saṃjñakaḥ",
+     "en": "is called hīna(yoga)",
+     "hi": "हीन योग कहलाती है"
+    }
+   ],
+   "english": "Action (karma) too should be divided threefold, as bodily, verbal and mental. Deficient activity of body, speech and mind is called hīnayoga.",
+   "hindi": "कर्म को भी शरीर, वाणी और मन के भेद से तीन प्रकार का मानना चाहिए। शरीर, वाणी और मन की कम प्रवृत्ति (गतिविधि) 'हीन योग' कहलाती है।",
+   "explanation_en": "Karma (prajñāparādha) is threefold: kāyika, vācika, mānasika. Hīnayoga = under-activity (e.g. sedentary life).",
+   "explanation_hi": "कर्म (प्रज्ञापराध) तीन प्रकार का है: कायिक, वाचिक, मानसिक। हीन योग = कम गतिविधि (जैसे बैठे रहने वाली जीवनशैली)।",
+   "modern_correlation": {
+    "en": "Physical inactivity (hīnayoga of bodily action) is recognised in modern medicine as a major risk factor for cardiovascular disease, diabetes and obesity.",
+    "hi": "शारीरिक निष्क्रियता (शारीरिक कर्म का हीन योग) को आधुनिक चिकित्सा में हृदय रोग, मधुमेह और मोटापे का प्रमुख जोखिम कारक माना जाता है।"
+   },
+   "key_terms": [
+    "karma",
+    "kāyika",
+    "vācika",
+    "mānasika",
+    "hīnayoga"
+   ],
+   "tags": [
+    "nidana",
+    "trividha-hetu",
+    "prajnaparadha"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.41",
+   "word_meanings": [
+    {
+     "sa": "अतियोगः",
+     "iast": "atiyogaḥ",
+     "en": "excessive use",
+     "hi": "अति योग"
+    },
+    {
+     "sa": "अतिवृत्तिः",
+     "iast": "ati-vṛttiḥ",
+     "en": "excessive activity",
+     "hi": "अधिक प्रवृत्ति"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "तो"
+    },
+    {
+     "sa": "वेगोदीरणधारणम्",
+     "iast": "vegodīraṇa-dhāraṇam",
+     "en": "forcing or suppressing natural urges",
+     "hi": "वेगों को ज़बरदस्ती निकालना या रोकना"
+    },
+    {
+     "sa": "विषमाङ्गक्रियारम्भ",
+     "iast": "viṣamāṅga-kriyārambha",
+     "en": "undertaking actions in improper postures",
+     "hi": "गलत मुद्रा में कार्य करना"
+    },
+    {
+     "sa": "पतन",
+     "iast": "patana",
+     "en": "falling",
+     "hi": "गिरना"
+    },
+    {
+     "sa": "स्खलन",
+     "iast": "skhalana",
+     "en": "slipping",
+     "hi": "फिसलना"
+    },
+    {
+     "sa": "आदिकम्",
+     "iast": "ādikam",
+     "en": "and the like",
+     "hi": "आदि"
+    }
+   ],
+   "english": "Atiyoga is excessive activity. (Mithyāyoga of bodily action includes) forcing or suppressing natural urges, undertaking actions in awkward postures, falling, slipping and the like;",
+   "hindi": "अधिक प्रवृत्ति 'अति योग' है। (शारीरिक कर्म के मिथ्या योग में) वेगों को ज़बरदस्ती निकालना या रोकना, गलत मुद्रा में कार्य शुरू करना, गिरना, फिसलना आदि आते हैं;",
+   "explanation_en": "Mithyāyoga of kāyika karma: vegodīraṇa and vegadhāraṇa (both forcing and suppressing urges are wrong), viṣama posture, falls and slips. Verse 42 adds vācika and mānasika examples.",
+   "explanation_hi": "कायिक कर्म का मिथ्या योग: वेगोदीरण और वेगधारण (वेगों को ज़बरदस्ती निकालना और रोकना दोनों गलत), विषम मुद्रा, गिरना-फिसलना। श्लोक 42 में वाचिक और मानसिक उदाहरण हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "atiyoga",
+    "mithyāyoga",
+    "vega-dhāraṇa",
+    "vegodīraṇa"
+   ],
+   "tags": [
+    "nidana",
+    "trividha-hetu",
+    "prajnaparadha"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.42",
+   "word_meanings": [
+    {
+     "sa": "भाषणम्",
+     "iast": "bhāṣaṇam",
+     "en": "speaking",
+     "hi": "बोलना"
+    },
+    {
+     "sa": "सामिभुक्तस्य",
+     "iast": "sāmi-bhuktasya",
+     "en": "of one with half-eaten food (in the mouth)",
+     "hi": "आधा खाया हुआ (मुँह में) रखकर"
+    },
+    {
+     "sa": "राग",
+     "iast": "rāga",
+     "en": "passion, attachment",
+     "hi": "राग"
+    },
+    {
+     "sa": "द्वेष",
+     "iast": "dveṣa",
+     "en": "hatred",
+     "hi": "द्वेष"
+    },
+    {
+     "sa": "भय",
+     "iast": "bhaya",
+     "en": "fear",
+     "hi": "भय"
+    },
+    {
+     "sa": "आदि",
+     "iast": "ādi",
+     "en": "and the like",
+     "hi": "आदि"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "कर्म",
+     "iast": "karma",
+     "en": "actions",
+     "hi": "कर्म"
+    },
+    {
+     "sa": "प्राणातिपातादि",
+     "iast": "prāṇātipātādi",
+     "en": "killing and the like",
+     "hi": "हिंसा आदि"
+    },
+    {
+     "sa": "दशधा",
+     "iast": "daśadhā",
+     "en": "tenfold",
+     "hi": "दस प्रकार के"
+    },
+    {
+     "sa": "यत्",
+     "iast": "yat",
+     "en": "which",
+     "hi": "जो"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "निन्दितम्",
+     "iast": "ninditam",
+     "en": "condemned",
+     "hi": "निंदित"
+    }
+   ],
+   "english": "...speaking with half-eaten food in the mouth (verbal); passion, hatred, fear and the like (mental); and the tenfold condemned actions beginning with killing,...",
+   "hindi": "...मुँह में आधा खाया भोजन रखकर बोलना (वाचिक); राग, द्वेष, भय आदि (मानसिक); और हिंसा आदि दस प्रकार के निंदित कर्म,...",
+   "explanation_en": "The ten pāpa-karmas (described in AH Sū. 2) are: three bodily (killing, stealing, illicit sex), four verbal (slander, harsh speech, lying, idle talk) and three mental (malice, envy, wrong belief). Together these form mithyāyoga of karma (verse 43).",
+   "explanation_hi": "दस पाप कर्म (अष्टांगहृदय सू. 2 में वर्णित): तीन कायिक (हिंसा, चोरी, अवैध संबंध), चार वाचिक (चुगली, कठोर वचन, झूठ, असंबद्ध बातें) और तीन मानसिक (द्वेष, ईर्ष्या, मिथ्या दृष्टि)। ये मिलकर कर्म का मिथ्या योग हैं (श्लोक 43)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "mithyāyoga",
+    "daśavidha-pāpa",
+    "prajñāparādha"
+   ],
+   "tags": [
+    "nidana",
+    "trividha-hetu",
+    "prajnaparadha",
+    "sadvritta"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.43",
+   "word_meanings": [
+    {
+     "sa": "मिथ्यायोगः",
+     "iast": "mithyā-yogaḥ",
+     "en": "wrong use",
+     "hi": "मिथ्या योग"
+    },
+    {
+     "sa": "समस्तः",
+     "iast": "samastaḥ",
+     "en": "all",
+     "hi": "संपूर्ण"
+    },
+    {
+     "sa": "असौ",
+     "iast": "asau",
+     "en": "this",
+     "hi": "यह"
+    },
+    {
+     "sa": "इह",
+     "iast": "iha",
+     "en": "here (in this life)",
+     "hi": "इस जन्म में"
+    },
+    {
+     "sa": "वा",
+     "iast": "vā",
+     "en": "or",
+     "hi": "या"
+    },
+    {
+     "sa": "अमुत्र",
+     "iast": "amutra",
+     "en": "there (in a previous life)",
+     "hi": "पूर्व जन्म में"
+    },
+    {
+     "sa": "वा",
+     "iast": "vā",
+     "en": "or",
+     "hi": "या"
+    },
+    {
+     "sa": "कृतम्",
+     "iast": "kṛtam",
+     "en": "done",
+     "hi": "किया गया"
+    },
+    {
+     "sa": "निदानम्",
+     "iast": "nidānam",
+     "en": "cause",
+     "hi": "निदान (कारण)"
+    },
+    {
+     "sa": "एतत्",
+     "iast": "etat",
+     "en": "this",
+     "hi": "यह"
+    },
+    {
+     "sa": "दोषाणाम्",
+     "iast": "doṣāṇām",
+     "en": "of the doṣas",
+     "hi": "दोषों का"
+    },
+    {
+     "sa": "कुपिताः",
+     "iast": "kupitāḥ",
+     "en": "aggravated",
+     "hi": "कुपित"
+    },
+    {
+     "sa": "तेन",
+     "iast": "tena",
+     "en": "by this",
+     "hi": "इससे"
+    },
+    {
+     "sa": "न एकधा",
+     "iast": "na ekadhā",
+     "en": "in many ways",
+     "hi": "अनेक प्रकार से"
+    }
+   ],
+   "english": "...all this is mithyāyoga (of action), whether done in this life or in a previous one. This is the cause (nidāna) of the doṣas; aggravated by it in many ways,...",
+   "hindi": "...यह सब (कर्म का) मिथ्या योग है, चाहे इस जन्म में किया गया हो या पूर्व जन्म में। यही दोषों का निदान (कारण) है; इससे अनेक प्रकार से कुपित होकर,...",
+   "explanation_en": "Karma may be of this life (dṛṣṭa) or a past life (adṛṣṭa), linking to the classification of diseases by origin in verses 57-59. The three hetus together are the nidāna of doṣa-prakopa.",
+   "explanation_hi": "कर्म इस जन्म का (दृष्ट) या पूर्व जन्म का (अदृष्ट) हो सकता है, जो श्लोक 57-59 के उत्पत्ति अनुसार रोग वर्गीकरण से जुड़ता है। तीनों हेतु मिलकर दोष प्रकोप का निदान हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "mithyāyoga",
+    "nidāna",
+    "pūrvajanma-karma"
+   ],
+   "tags": [
+    "nidana",
+    "trividha-hetu"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.44",
+   "word_meanings": [
+    {
+     "sa": "कुर्वन्ति",
+     "iast": "kurvanti",
+     "en": "produce",
+     "hi": "उत्पन्न करते हैं"
+    },
+    {
+     "sa": "विविधान्",
+     "iast": "vividhān",
+     "en": "various",
+     "hi": "विविध"
+    },
+    {
+     "sa": "व्याधीन्",
+     "iast": "vyādhīn",
+     "en": "diseases",
+     "hi": "रोगों को"
+    },
+    {
+     "sa": "शाखाकोष्ठास्थिसंधिषु",
+     "iast": "śākhā-koṣṭhāsthi-saṃdhiṣu",
+     "en": "in the periphery, the alimentary tract, and bones and joints",
+     "hi": "शाखा, कोष्ठ और अस्थि-संधि में"
+    },
+    {
+     "sa": "शाखाः",
+     "iast": "śākhāḥ",
+     "en": "the periphery",
+     "hi": "शाखा"
+    },
+    {
+     "sa": "रक्तादयः",
+     "iast": "raktādayaḥ",
+     "en": "blood and the other (tissues)",
+     "hi": "रक्त आदि (धातुएँ)"
+    },
+    {
+     "sa": "त्वक्",
+     "iast": "tvak",
+     "en": "skin",
+     "hi": "त्वचा"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "बाह्यरोगायनम्",
+     "iast": "bāhya-rogāyanam",
+     "en": "the external pathway of disease",
+     "hi": "बाह्य रोग मार्ग"
+    },
+    {
+     "sa": "हि",
+     "iast": "hi",
+     "en": "indeed",
+     "hi": "ही"
+    },
+    {
+     "sa": "तत्",
+     "iast": "tat",
+     "en": "that",
+     "hi": "वह"
+    }
+   ],
+   "english": "...(the doṣas) produce various diseases in the periphery (śākhā), the alimentary tract (koṣṭha), and the bones and joints. The periphery consists of the blood and other dhātus, and the skin; it is the external pathway of disease (bāhya rogamārga).",
+   "hindi": "...दोष शाखा, कोष्ठ और अस्थि-संधि में विविध रोग उत्पन्न करते हैं। रक्त आदि धातुएँ और त्वचा 'शाखा' हैं; यह बाह्य रोग मार्ग है।",
+   "explanation_en": "Three rogamārgas (pathways of disease): bāhya (śākhā: rakta etc. dhātus + tvak), ābhyantara (koṣṭha, verse 46), madhyama (marma, asthi-sandhi, verses 47-48). A very commonly asked topic.",
+   "explanation_hi": "तीन रोग मार्ग: बाह्य (शाखा: रक्त आदि धातु + त्वचा), आभ्यंतर (कोष्ठ, श्लोक 46), मध्यम (मर्म, अस्थि-संधि, श्लोक 47-48)। बहुत पूछा जाने वाला विषय।",
+   "modern_correlation": null,
+   "key_terms": [
+    "rogamārga",
+    "śākhā",
+    "bāhya-rogamārga"
+   ],
+   "tags": [
+    "nidana",
+    "rogamarga"
+   ],
+   "importance": "high",
+   "mnemonic": "Bāhya = skin + blood etc.; Ābhyantara = gut; Madhyama = marma, bones, joints",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.45",
+   "word_meanings": [
+    {
+     "sa": "तदाश्रयाः",
+     "iast": "tad-āśrayāḥ",
+     "en": "located in it",
+     "hi": "उसमें होने वाले"
+    },
+    {
+     "sa": "मष",
+     "iast": "maṣa",
+     "en": "moles",
+     "hi": "मस्सा (तिल)"
+    },
+    {
+     "sa": "व्यङ्ग",
+     "iast": "vyaṅga",
+     "en": "facial pigmentation",
+     "hi": "झाइयाँ"
+    },
+    {
+     "sa": "गण्ड",
+     "iast": "gaṇḍa",
+     "en": "glandular swelling",
+     "hi": "गण्ड"
+    },
+    {
+     "sa": "अलजी",
+     "iast": "alajī",
+     "en": "a boil/pustule",
+     "hi": "अलजी (फुंसी)"
+    },
+    {
+     "sa": "अर्बुद",
+     "iast": "arbuda",
+     "en": "tumour",
+     "hi": "अर्बुद"
+    },
+    {
+     "sa": "आदयः",
+     "iast": "ādayaḥ",
+     "en": "and others",
+     "hi": "आदि"
+    },
+    {
+     "sa": "बहिर्भागाः",
+     "iast": "bahir-bhāgāḥ",
+     "en": "external forms",
+     "hi": "बाहरी भाग वाले"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "दुर्नाम",
+     "iast": "durnāma",
+     "en": "haemorrhoids (arśas)",
+     "hi": "अर्श (बवासीर)"
+    },
+    {
+     "sa": "गुल्म",
+     "iast": "gulma",
+     "en": "abdominal lump",
+     "hi": "गुल्म"
+    },
+    {
+     "sa": "शोफ",
+     "iast": "śopha",
+     "en": "swelling",
+     "hi": "शोथ"
+    },
+    {
+     "sa": "आदयः",
+     "iast": "ādayaḥ",
+     "en": "and others",
+     "hi": "आदि"
+    },
+    {
+     "sa": "गदाः",
+     "iast": "gadāḥ",
+     "en": "diseases",
+     "hi": "रोग"
+    }
+   ],
+   "english": "Diseases located there (in the external pathway) are moles, facial pigmentation, glandular swellings, alajī, tumours and the like, and the external forms of haemorrhoids (durnāma), gulma, swelling and the like.",
+   "hindi": "बाह्य मार्ग में होने वाले रोग हैं: मस्सा, झाइयाँ, गण्ड, अलजी, अर्बुद आदि, और अर्श (बवासीर), गुल्म, शोथ आदि के बाहरी रूप।",
+   "explanation_en": "Examples of bāhya rogamārga diseases. Note that arśas, gulma, śopha (also visarpa, vidradhi in verse 47) have both external and internal forms.",
+   "explanation_hi": "बाह्य रोग मार्ग के रोगों के उदाहरण। ध्यान दें कि अर्श, गुल्म, शोथ (और श्लोक 47 में विसर्प, विद्रधि) के बाहरी और भीतरी दोनों रूप होते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "bāhya-rogamārga",
+    "arśas",
+    "gulma"
+   ],
+   "tags": [
+    "nidana",
+    "rogamarga"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.46",
+   "word_meanings": [
+    {
+     "sa": "अन्तः",
+     "iast": "antaḥ",
+     "en": "internal",
+     "hi": "भीतरी"
+    },
+    {
+     "sa": "कोष्ठः",
+     "iast": "koṣṭhaḥ",
+     "en": "the alimentary tract",
+     "hi": "कोष्ठ"
+    },
+    {
+     "sa": "महास्रोतः",
+     "iast": "mahā-srotaḥ",
+     "en": "the great channel",
+     "hi": "महास्रोतस"
+    },
+    {
+     "sa": "आमपक्वाशयाश्रयः",
+     "iast": "āma-pakvāśayāśrayaḥ",
+     "en": "comprising the stomach and intestines",
+     "hi": "आमाशय और पक्वाशय वाला"
+    },
+    {
+     "sa": "तत्स्थानाः",
+     "iast": "tat-sthānāḥ",
+     "en": "located there",
+     "hi": "वहाँ होने वाले"
+    },
+    {
+     "sa": "छर्दि",
+     "iast": "chardi",
+     "en": "vomiting",
+     "hi": "उल्टी"
+    },
+    {
+     "sa": "अतीसार",
+     "iast": "atīsāra",
+     "en": "diarrhoea",
+     "hi": "अतिसार"
+    },
+    {
+     "sa": "कास",
+     "iast": "kāsa",
+     "en": "cough",
+     "hi": "खाँसी"
+    },
+    {
+     "sa": "श्वास",
+     "iast": "śvāsa",
+     "en": "dyspnoea",
+     "hi": "श्वास"
+    },
+    {
+     "sa": "उदर",
+     "iast": "udara",
+     "en": "abdominal enlargement (ascites etc.)",
+     "hi": "उदर रोग"
+    },
+    {
+     "sa": "ज्वराः",
+     "iast": "jvarāḥ",
+     "en": "fevers",
+     "hi": "ज्वर"
+    }
+   ],
+   "english": "The internal (pathway) is the koṣṭha, the great channel (mahāsrotas) comprising the āmāśaya and pakvāśaya. Diseases located there are vomiting, diarrhoea, cough, dyspnoea, udara (abdominal enlargement), fever,...",
+   "hindi": "आभ्यंतर (भीतरी) मार्ग कोष्ठ है, यानी आमाशय और पक्वाशय वाला महास्रोतस। वहाँ होने वाले रोग हैं: उल्टी, अतिसार, खाँसी, श्वास, उदर रोग, ज्वर,...",
+   "explanation_en": "Ābhyantara rogamārga = koṣṭha = mahāsrotas (the whole digestive tract). Interesting: kāsa, śvāsa and jvara are listed here because their origin is traced to the āmāśaya.",
+   "explanation_hi": "आभ्यंतर रोग मार्ग = कोष्ठ = महास्रोतस (पूरा पाचन तंत्र)। रोचक: कास, श्वास और ज्वर यहाँ हैं क्योंकि इनकी उत्पत्ति आमाशय से मानी जाती है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "ābhyantara-rogamārga",
+    "koṣṭha",
+    "mahāsrotas"
+   ],
+   "tags": [
+    "nidana",
+    "rogamarga"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.47",
+   "word_meanings": [
+    {
+     "sa": "अन्तर्भागम्",
+     "iast": "antar-bhāgam",
+     "en": "internal forms",
+     "hi": "भीतरी भाग वाले"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "शोफ",
+     "iast": "śopha",
+     "en": "swelling",
+     "hi": "शोथ"
+    },
+    {
+     "sa": "अर्शः",
+     "iast": "arśaḥ",
+     "en": "haemorrhoids",
+     "hi": "अर्श"
+    },
+    {
+     "sa": "गुल्म",
+     "iast": "gulma",
+     "en": "abdominal lump",
+     "hi": "गुल्म"
+    },
+    {
+     "sa": "विसर्प",
+     "iast": "visarpa",
+     "en": "erysipelas",
+     "hi": "विसर्प"
+    },
+    {
+     "sa": "विद्रधि",
+     "iast": "vidradhi",
+     "en": "abscess",
+     "hi": "विद्रधि"
+    },
+    {
+     "sa": "शिरः",
+     "iast": "śiraḥ",
+     "en": "head",
+     "hi": "सिर"
+    },
+    {
+     "sa": "हृदय",
+     "iast": "hṛdaya",
+     "en": "heart",
+     "hi": "हृदय"
+    },
+    {
+     "sa": "वस्ति",
+     "iast": "vasti",
+     "en": "bladder",
+     "hi": "बस्ति"
+    },
+    {
+     "sa": "आदि",
+     "iast": "ādi",
+     "en": "etc.",
+     "hi": "आदि"
+    },
+    {
+     "sa": "मर्माणि",
+     "iast": "marmāṇi",
+     "en": "vital points",
+     "hi": "मर्म"
+    },
+    {
+     "sa": "अस्थ्नाम्",
+     "iast": "asthnām",
+     "en": "of bones",
+     "hi": "हड्डियों के"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "संधयः",
+     "iast": "saṃdhayaḥ",
+     "en": "joints",
+     "hi": "जोड़"
+    }
+   ],
+   "english": "...and the internal forms of swelling, haemorrhoids, gulma, erysipelas and abscess. The vital points (marma) such as the head, heart and bladder, and the joints of the bones,...",
+   "hindi": "...और शोथ, अर्श, गुल्म, विसर्प तथा विद्रधि के भीतरी रूप। सिर, हृदय, बस्ति आदि मर्म, और हड्डियों के जोड़,...",
+   "explanation_en": "End of ābhyantara diseases; madhyama rogamārga begins: marma (trimarma: śiras, hṛdaya, basti), asthi-sandhi, and the structures attached to them (verse 48).",
+   "explanation_hi": "आभ्यंतर रोग समाप्त; मध्यम रोग मार्ग शुरू: मर्म (त्रिमर्म: शिर, हृदय, बस्ति), अस्थि-संधि, और उनसे जुड़ी संरचनाएँ (श्लोक 48)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "ābhyantara-rogamārga",
+    "madhyama-rogamārga",
+    "trimarma"
+   ],
+   "tags": [
+    "nidana",
+    "rogamarga",
+    "marma"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.48",
+   "word_meanings": [
+    {
+     "sa": "तन्निबद्धाः",
+     "iast": "tan-nibaddhāḥ",
+     "en": "attached to them",
+     "hi": "उनसे जुड़ी"
+    },
+    {
+     "sa": "सिरा",
+     "iast": "sirā",
+     "en": "vessels",
+     "hi": "सिराएँ"
+    },
+    {
+     "sa": "स्नायु",
+     "iast": "snāyu",
+     "en": "ligaments",
+     "hi": "स्नायु"
+    },
+    {
+     "sa": "कण्डरा",
+     "iast": "kaṇḍarā",
+     "en": "tendons",
+     "hi": "कंडरा"
+    },
+    {
+     "sa": "आद्याः",
+     "iast": "ādyāḥ",
+     "en": "and others",
+     "hi": "आदि"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "मध्यमः",
+     "iast": "madhyamaḥ",
+     "en": "the middle",
+     "hi": "मध्यम"
+    },
+    {
+     "sa": "रोगमार्गः",
+     "iast": "roga-mārgaḥ",
+     "en": "pathway of disease",
+     "hi": "रोग मार्ग"
+    },
+    {
+     "sa": "स्थिताः",
+     "iast": "sthitāḥ",
+     "en": "located",
+     "hi": "स्थित"
+    },
+    {
+     "sa": "तत्र",
+     "iast": "tatra",
+     "en": "there",
+     "hi": "वहाँ"
+    },
+    {
+     "sa": "यक्ष्म",
+     "iast": "yakṣma",
+     "en": "consumption (rājayakṣmā)",
+     "hi": "यक्ष्मा (राजयक्ष्मा)"
+    },
+    {
+     "sa": "पक्षवध",
+     "iast": "pakṣavadha",
+     "en": "hemiplegia",
+     "hi": "पक्षाघात"
+    },
+    {
+     "sa": "अर्दिताः",
+     "iast": "arditāḥ",
+     "en": "facial palsy",
+     "hi": "अर्दित"
+    }
+   ],
+   "english": "...and the vessels, ligaments, tendons and the like attached to them form the middle pathway of disease (madhyama rogamārga). Located there are consumption (yakṣmā), hemiplegia (pakṣavadha), facial palsy (ardita),...",
+   "hindi": "...और उनसे जुड़ी सिराएँ, स्नायु, कंडराएँ आदि 'मध्यम रोग मार्ग' हैं। वहाँ होने वाले रोग हैं: यक्ष्मा (राजयक्ष्मा), पक्षाघात, अर्दित (मुख का लकवा),...",
+   "explanation_en": "Madhyama rogamārga = marma + asthi-sandhi + sirā, snāyu, kaṇḍarā. Diseases here are generally hard to cure (kṛcchrasādhya), e.g. pakṣavadha and ardita.",
+   "explanation_hi": "मध्यम रोग मार्ग = मर्म + अस्थि-संधि + सिरा, स्नायु, कंडरा। यहाँ के रोग सामान्यतः कष्टसाध्य होते हैं, जैसे पक्षाघात और अर्दित।",
+   "modern_correlation": {
+    "en": "Pakṣavadha and ardita are often compared to hemiplegia (commonly after stroke) and facial nerve palsy respectively.",
+    "hi": "पक्षवध और अर्दित की तुलना क्रमशः हेमिप्लेजिया (अक्सर स्ट्रोक के बाद) और फ़ेशियल नर्व पाल्सी से की जाती है।"
+   },
+   "key_terms": [
+    "madhyama-rogamārga",
+    "pakṣavadha",
+    "ardita",
+    "yakṣmā"
+   ],
+   "tags": [
+    "nidana",
+    "rogamarga"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.49",
+   "word_meanings": [
+    {
+     "sa": "मूर्धादिरोगाः",
+     "iast": "mūrdhādi-rogāḥ",
+     "en": "diseases of the head etc.",
+     "hi": "सिर आदि के रोग"
+    },
+    {
+     "sa": "संध्यस्थित्रिकशूलग्रहादयः",
+     "iast": "saṃdhy-asthi-trika-śūla-grahādayaḥ",
+     "en": "pain and stiffness in joints, bones, trika etc.",
+     "hi": "संधि, अस्थि, त्रिक में शूल और जकड़न आदि"
+    },
+    {
+     "sa": "स्रंस",
+     "iast": "sraṃsa",
+     "en": "displacement, looseness",
+     "hi": "स्रंस (खिसकना)"
+    },
+    {
+     "sa": "व्यास",
+     "iast": "vyāsa",
+     "en": "dilatation",
+     "hi": "व्यास (फैलना)"
+    },
+    {
+     "sa": "व्यध",
+     "iast": "vyadha",
+     "en": "piercing pain",
+     "hi": "व्यध (चुभन)"
+    },
+    {
+     "sa": "स्वाप",
+     "iast": "svāpa",
+     "en": "numbness",
+     "hi": "स्वाप (सुन्नता)"
+    },
+    {
+     "sa": "साद",
+     "iast": "sāda",
+     "en": "weakness",
+     "hi": "साद (शिथिलता)"
+    },
+    {
+     "sa": "रुक्",
+     "iast": "ruk",
+     "en": "pain",
+     "hi": "रुक् (दर्द)"
+    },
+    {
+     "sa": "तोद",
+     "iast": "toda",
+     "en": "pricking pain",
+     "hi": "तोद"
+    },
+    {
+     "sa": "भेदनम्",
+     "iast": "bhedanam",
+     "en": "breaking pain",
+     "hi": "भेदन"
+    }
+   ],
+   "english": "...diseases of the head and the like, and pain and stiffness of the joints, bones, trika and so on. (The actions of vāta are:) displacement (sraṃsa), dilatation (vyāsa), piercing pain, numbness, weakness, pain, pricking pain, breaking pain,...",
+   "hindi": "...सिर आदि के रोग, और संधि, अस्थि, त्रिक आदि में दर्द और जकड़न। (वात के कर्म हैं:) स्रंस (खिसकना), व्यास (फैलना), व्यध (चुभन), स्वाप (सुन्नता), साद (शिथिलता), रुक् (दर्द), तोद (सुई जैसी चुभन), भेदन (फटने जैसा दर्द),...",
+   "explanation_en": "First line ends the madhyama rogamārga list. Second line starts the list of vikṛta karmas (pathological actions) of vāta, continued in verses 50-51. These help identify the doṣa in any disease (verse 54).",
+   "explanation_hi": "पहली पंक्ति मध्यम रोग मार्ग सूची पूरी करती है। दूसरी पंक्ति वात के विकृत कर्मों की सूची शुरू करती है, जो श्लोक 50-51 में जारी है। इनसे किसी भी रोग में दोष की पहचान होती है (श्लोक 54)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "madhyama-rogamārga",
+    "vāta-vikṛta-karma"
+   ],
+   "tags": [
+    "nidana",
+    "rogamarga",
+    "vata"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.50",
+   "word_meanings": [
+    {
+     "sa": "सङ्ग",
+     "iast": "saṅga",
+     "en": "obstruction",
+     "hi": "संग (रुकावट)"
+    },
+    {
+     "sa": "अङ्गभङ्ग",
+     "iast": "aṅga-bhaṅga",
+     "en": "body ache, breaking pain in limbs",
+     "hi": "अंगों का टूटना"
+    },
+    {
+     "sa": "संकोच",
+     "iast": "saṃkoca",
+     "en": "contraction",
+     "hi": "संकोच"
+    },
+    {
+     "sa": "वर्त",
+     "iast": "varta",
+     "en": "twisting, rolling",
+     "hi": "वर्त (ऐंठन/गोली बनना)"
+    },
+    {
+     "sa": "हर्षण",
+     "iast": "harṣaṇa",
+     "en": "horripilation, tingling",
+     "hi": "हर्षण (रोमांच)"
+    },
+    {
+     "sa": "तर्पणम्",
+     "iast": "tarpaṇam",
+     "en": "tarpaṇa (most editions: tarṣaṇa, thirst)",
+     "hi": "तर्पण (अधिकतर संस्करणों में तर्षण, प्यास)"
+    },
+    {
+     "sa": "कम्प",
+     "iast": "kampa",
+     "en": "tremor",
+     "hi": "कंपन"
+    },
+    {
+     "sa": "पारुष्य",
+     "iast": "pāruṣya",
+     "en": "roughness",
+     "hi": "कर्कशता"
+    },
+    {
+     "sa": "सौषिर्य",
+     "iast": "sauṣirya",
+     "en": "porosity, hollowness",
+     "hi": "सौषिर्य (खोखलापन)"
+    },
+    {
+     "sa": "शोष",
+     "iast": "śoṣa",
+     "en": "drying, wasting",
+     "hi": "शोष"
+    },
+    {
+     "sa": "स्पन्दन",
+     "iast": "spandana",
+     "en": "throbbing",
+     "hi": "स्पंदन (फड़कना)"
+    },
+    {
+     "sa": "वेष्टनम्",
+     "iast": "veṣṭanam",
+     "en": "cramping, constricting",
+     "hi": "वेष्टन (ऐंठन)"
+    }
+   ],
+   "english": "...obstruction, aching of the limbs, contraction, twisting, tingling, tarpaṇa (most editions read tarṣaṇa, thirst), tremor, roughness, porosity, drying, throbbing, cramping,...",
+   "hindi": "...रुकावट, अंगों में टूटन, संकोच, ऐंठन, रोमांच (झुनझुनी), तर्पण (अधिकतर संस्करणों में 'तर्षण' यानी प्यास), कंपन, कर्कशता, खोखलापन, सूखना, फड़कना, ऐंठन,...",
+   "explanation_en": "Vāta karmas continued. The corpus reads 'tarpaṇam', which does not fit vāta (tarpaṇa means nourishing); the commonly accepted reading is 'tarṣaṇa' (thirst). Many of these words describe types of pain and abnormal movement, the hallmark of vāta.",
+   "explanation_hi": "वात कर्म जारी। इस पाठ में 'तर्पणम्' है, जो वात के अनुकूल नहीं (तर्पण = पोषण); सामान्यतः स्वीकृत पाठ 'तर्षण' (प्यास) है। इनमें से कई शब्द दर्द के प्रकार और असामान्य गति बताते हैं, जो वात की पहचान है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vāta-vikṛta-karma",
+    "kampa",
+    "śoṣa"
+   ],
+   "tags": [
+    "dosha",
+    "vata",
+    "dosha-lakshana"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.51",
+   "word_meanings": [
+    {
+     "sa": "स्तम्भः",
+     "iast": "stambhaḥ",
+     "en": "stiffness",
+     "hi": "जकड़न"
+    },
+    {
+     "sa": "कषायरसता",
+     "iast": "kaṣāya-rasatā",
+     "en": "astringent taste (in the mouth)",
+     "hi": "मुँह में कषाय स्वाद"
+    },
+    {
+     "sa": "वर्णः",
+     "iast": "varṇaḥ",
+     "en": "colour",
+     "hi": "वर्ण"
+    },
+    {
+     "sa": "श्यावः",
+     "iast": "śyāvaḥ",
+     "en": "dusky, bluish-black",
+     "hi": "श्याव (काला-नीला)"
+    },
+    {
+     "sa": "अरुणः",
+     "iast": "aruṇaḥ",
+     "en": "reddish",
+     "hi": "अरुण (लालिमा युक्त)"
+    },
+    {
+     "sa": "अपि वा",
+     "iast": "api vā",
+     "en": "or",
+     "hi": "या"
+    },
+    {
+     "sa": "कर्माणि",
+     "iast": "karmāṇi",
+     "en": "actions",
+     "hi": "कर्म"
+    },
+    {
+     "sa": "वायोः",
+     "iast": "vāyoḥ",
+     "en": "of vāta",
+     "hi": "वात के"
+    },
+    {
+     "sa": "पित्तस्य",
+     "iast": "pittasya",
+     "en": "of pitta",
+     "hi": "पित्त के"
+    },
+    {
+     "sa": "दाह",
+     "iast": "dāha",
+     "en": "burning",
+     "hi": "जलन"
+    },
+    {
+     "sa": "राग",
+     "iast": "rāga",
+     "en": "redness",
+     "hi": "लाली"
+    },
+    {
+     "sa": "ऊष्म",
+     "iast": "ūṣma",
+     "en": "heat",
+     "hi": "गर्मी"
+    },
+    {
+     "sa": "पाकिताः",
+     "iast": "pākitāḥ",
+     "en": "suppuration",
+     "hi": "पाक (पकना)"
+    }
+   ],
+   "english": "...stiffness, astringent taste in the mouth, and dusky or reddish discolouration: these are the actions of vāta. The actions of pitta are burning, redness, heat, suppuration,...",
+   "hindi": "...जकड़न, मुँह में कषाय स्वाद, और श्याव (काला-नीला) या अरुण (लालिमा युक्त) रंग: ये वात के कर्म हैं। पित्त के कर्म हैं: जलन, लाली, गर्मी, पकना (पाक),...",
+   "explanation_en": "Vāta signature: śyāva/aruṇa colour, kaṣāya taste. Pitta karmas begin: dāha, rāga, ūṣmā, pāka, continued in verse 52.",
+   "explanation_hi": "वात की पहचान: श्याव/अरुण वर्ण, कषाय स्वाद। पित्त कर्म शुरू: दाह, राग, ऊष्मा, पाक, जो श्लोक 52 में जारी हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vāta-vikṛta-karma",
+    "pitta-vikṛta-karma",
+    "śyāva"
+   ],
+   "tags": [
+    "dosha",
+    "vata",
+    "pitta",
+    "dosha-lakshana"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.52",
+   "word_meanings": [
+    {
+     "sa": "स्वेदः",
+     "iast": "svedaḥ",
+     "en": "sweating",
+     "hi": "पसीना"
+    },
+    {
+     "sa": "क्लेदः",
+     "iast": "kledaḥ",
+     "en": "moistness",
+     "hi": "क्लेद"
+    },
+    {
+     "sa": "स्रुतिः",
+     "iast": "srutiḥ",
+     "en": "discharge",
+     "hi": "स्राव"
+    },
+    {
+     "sa": "कोथः",
+     "iast": "kothaḥ",
+     "en": "putrefaction",
+     "hi": "सड़न"
+    },
+    {
+     "sa": "सदनम्",
+     "iast": "sadanam",
+     "en": "weakness",
+     "hi": "शिथिलता"
+    },
+    {
+     "sa": "मूर्छनम्",
+     "iast": "mūrchanam",
+     "en": "fainting",
+     "hi": "मूर्छा"
+    },
+    {
+     "sa": "मदः",
+     "iast": "madaḥ",
+     "en": "intoxication",
+     "hi": "मद"
+    },
+    {
+     "sa": "कटुकाम्लौ",
+     "iast": "kaṭukāmlau",
+     "en": "pungent and sour",
+     "hi": "कटु और अम्ल"
+    },
+    {
+     "sa": "रसौ",
+     "iast": "rasau",
+     "en": "tastes",
+     "hi": "रस"
+    },
+    {
+     "sa": "वर्णः",
+     "iast": "varṇaḥ",
+     "en": "colour",
+     "hi": "वर्ण"
+    },
+    {
+     "sa": "पाण्डुरारुणवर्जितः",
+     "iast": "pāṇḍurāruṇa-varjitaḥ",
+     "en": "other than pale and reddish",
+     "hi": "पाण्डु और अरुण को छोड़कर"
+    }
+   ],
+   "english": "...sweating, moistness, discharge, putrefaction, weakness, fainting, intoxication, pungent and sour tastes (in the mouth), and any colour except pale and reddish.",
+   "hindi": "...पसीना, क्लेद (गीलापन), स्राव, सड़न, शिथिलता, मूर्छा, मद (नशे जैसी अवस्था), मुँह में कटु और अम्ल स्वाद, और पाण्डु (पीला-सफ़ेद) तथा अरुण को छोड़कर कोई भी रंग।",
+   "explanation_en": "Pitta signature: kaṭu and amla taste in the mouth, colours other than pāṇḍu and aruṇa (i.e. yellow, red, green etc.). Pāṇḍu belongs to kapha's white side and aruṇa to vāta.",
+   "explanation_hi": "पित्त की पहचान: मुँह में कटु और अम्ल स्वाद, पाण्डु और अरुण के अलावा रंग (पीला, लाल, हरा आदि)। पाण्डु कफ के सफ़ेद पक्ष का और अरुण वात का है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "pitta-vikṛta-karma",
+    "koṭha",
+    "mūrchā"
+   ],
+   "tags": [
+    "dosha",
+    "pitta",
+    "dosha-lakshana"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.53",
+   "word_meanings": [
+    {
+     "sa": "श्लेष्मणः",
+     "iast": "śleṣmaṇaḥ",
+     "en": "of kapha",
+     "hi": "कफ के"
+    },
+    {
+     "sa": "स्नेह",
+     "iast": "sneha",
+     "en": "unctuousness",
+     "hi": "स्निग्धता"
+    },
+    {
+     "sa": "काठिन्य",
+     "iast": "kāṭhinya",
+     "en": "hardness",
+     "hi": "कठोरता"
+    },
+    {
+     "sa": "कण्डू",
+     "iast": "kaṇḍū",
+     "en": "itching",
+     "hi": "खुजली"
+    },
+    {
+     "sa": "शीतत्व",
+     "iast": "śītatva",
+     "en": "coldness",
+     "hi": "ठंडक"
+    },
+    {
+     "sa": "गौरवम्",
+     "iast": "gauravam",
+     "en": "heaviness",
+     "hi": "भारीपन"
+    },
+    {
+     "sa": "बन्ध",
+     "iast": "bandha",
+     "en": "obstruction",
+     "hi": "रुकावट"
+    },
+    {
+     "sa": "उपलेप",
+     "iast": "upalepa",
+     "en": "coating",
+     "hi": "लेप (परत)"
+    },
+    {
+     "sa": "स्तैमित्य",
+     "iast": "staimitya",
+     "en": "sluggishness, feeling of wet cloth",
+     "hi": "स्तैमित्य (गीलापन/जड़ता)"
+    },
+    {
+     "sa": "शोफ",
+     "iast": "śopha",
+     "en": "swelling",
+     "hi": "सूजन"
+    },
+    {
+     "sa": "अपक्ति",
+     "iast": "apakti",
+     "en": "indigestion",
+     "hi": "अपच"
+    },
+    {
+     "sa": "अतिनिद्रताः",
+     "iast": "ati-nidratāḥ",
+     "en": "excessive sleep",
+     "hi": "अधिक नींद"
+    }
+   ],
+   "english": "The actions of kapha are unctuousness, hardness, itching, coldness, heaviness, obstruction, coating, sluggishness (staimitya), swelling, indigestion, excessive sleep,...",
+   "hindi": "कफ के कर्म हैं: स्निग्धता, कठोरता, खुजली, ठंडक, भारीपन, रुकावट, लेप (परत जमना), स्तैमित्य (गीले कपड़े जैसी जड़ता), सूजन, अपच, अधिक नींद,...",
+   "explanation_en": "Kapha vikṛta karmas. 'Staimitya' is a feeling as if the body were covered with a wet cloth. Continue to verse 54 for colour and taste.",
+   "explanation_hi": "कफ के विकृत कर्म। 'स्तैमित्य' ऐसी अनुभूति है मानो शरीर गीले कपड़े से ढका हो। रंग और स्वाद के लिए श्लोक 54 देखें।",
+   "modern_correlation": null,
+   "key_terms": [
+    "kapha-vikṛta-karma",
+    "staimitya",
+    "kaṇḍū"
+   ],
+   "tags": [
+    "dosha",
+    "kapha",
+    "dosha-lakshana"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.54",
+   "word_meanings": [
+    {
+     "sa": "वर्णः",
+     "iast": "varṇaḥ",
+     "en": "colour",
+     "hi": "वर्ण"
+    },
+    {
+     "sa": "श्वेतः",
+     "iast": "śvetaḥ",
+     "en": "white",
+     "hi": "सफ़ेद"
+    },
+    {
+     "sa": "रसौ",
+     "iast": "rasau",
+     "en": "tastes",
+     "hi": "रस"
+    },
+    {
+     "sa": "स्वादुलवणौ",
+     "iast": "svādu-lavaṇau",
+     "en": "sweet and salty",
+     "hi": "मधुर और लवण"
+    },
+    {
+     "sa": "चिरकारिता",
+     "iast": "cira-kāritā",
+     "en": "slowness, chronicity",
+     "hi": "देर से असर (दीर्घकालिकता)"
+    },
+    {
+     "sa": "इति",
+     "iast": "iti",
+     "en": "thus",
+     "hi": "इस प्रकार"
+    },
+    {
+     "sa": "अशेषामयव्यापि",
+     "iast": "aśeṣāmaya-vyāpi",
+     "en": "pervading all diseases",
+     "hi": "सभी रोगों में व्याप्त"
+    },
+    {
+     "sa": "यत्",
+     "iast": "yat",
+     "en": "which",
+     "hi": "जो"
+    },
+    {
+     "sa": "उक्तम्",
+     "iast": "uktam",
+     "en": "has been stated",
+     "hi": "कहा गया है"
+    },
+    {
+     "sa": "दोषलक्षणम्",
+     "iast": "doṣa-lakṣaṇam",
+     "en": "the signs of the doṣas",
+     "hi": "दोषों के लक्षण"
+    }
+   ],
+   "english": "...white colour, sweet and salty tastes (in the mouth), and slowness (chronicity). Thus have been stated the signs of the doṣas, which pervade all diseases.",
+   "hindi": "...सफ़ेद रंग, मुँह में मधुर और लवण स्वाद, और देर से असर करना (दीर्घकालिकता)। इस प्रकार दोषों के लक्षण बताए गए, जो सभी रोगों में व्याप्त हैं।",
+   "explanation_en": "Kapha signature: śveta colour, madhura and lavaṇa taste, cirakāritā (slow, chronic course). These general doṣa-lakṣaṇas let the physician identify the doṣa even in an unnamed disease (see verse 64).",
+   "explanation_hi": "कफ की पहचान: श्वेत वर्ण, मधुर और लवण स्वाद, चिरकारिता (धीमी, दीर्घकालिक प्रगति)। इन सामान्य दोष लक्षणों से वैद्य बिना नाम वाले रोग में भी दोष पहचान सकता है (श्लोक 64 देखें)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "kapha-vikṛta-karma",
+    "doṣa-lakṣaṇa",
+    "cirakāritā"
+   ],
+   "tags": [
+    "dosha",
+    "kapha",
+    "dosha-lakshana"
+   ],
+   "importance": "high",
+   "mnemonic": "Taste in mouth: Vāta-astringent, Pitta-pungent/sour, Kapha-sweet/salty",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.55",
+   "word_meanings": [
+    {
+     "sa": "दर्शनाद्यैः",
+     "iast": "darśanādyaiḥ",
+     "en": "by inspection and other (methods)",
+     "hi": "दर्शन आदि (परीक्षा) से"
+    },
+    {
+     "sa": "अवहितः",
+     "iast": "avahitaḥ",
+     "en": "attentive",
+     "hi": "सावधान"
+    },
+    {
+     "sa": "तत्",
+     "iast": "tat",
+     "en": "that",
+     "hi": "उसे"
+    },
+    {
+     "sa": "सम्यक्",
+     "iast": "samyak",
+     "en": "properly",
+     "hi": "अच्छी तरह"
+    },
+    {
+     "sa": "उपलक्षयेत्",
+     "iast": "upalakṣayet",
+     "en": "should identify",
+     "hi": "पहचाने"
+    },
+    {
+     "sa": "व्याध्यवस्थाविभागज्ञः",
+     "iast": "vyādhy-avasthā-vibhāga-jñaḥ",
+     "en": "knowing the stages of disease",
+     "hi": "रोग की अवस्थाओं को जानने वाला"
+    },
+    {
+     "sa": "पश्यन्",
+     "iast": "paśyan",
+     "en": "observing",
+     "hi": "देखते हुए"
+    },
+    {
+     "sa": "आर्तान्",
+     "iast": "ārtān",
+     "en": "patients",
+     "hi": "रोगियों को"
+    },
+    {
+     "sa": "प्रतिक्षणम्",
+     "iast": "prati-kṣaṇam",
+     "en": "constantly",
+     "hi": "निरंतर"
+    }
+   ],
+   "english": "An attentive physician who knows the different stages of disease, observing patients constantly, should properly identify these (doṣa signs) by inspection (darśana) and the other methods of examination.",
+   "hindi": "सावधान वैद्य, जो रोग की विभिन्न अवस्थाओं को जानता हो और रोगियों को निरंतर देखता रहे, उसे दर्शन आदि (दर्शन, स्पर्शन, प्रश्न) परीक्षा विधियों से इन दोष लक्षणों को अच्छी तरह पहचानना चाहिए।",
+   "explanation_en": "'Darśanādi' refers to trividha parīkṣā (darśana, sparśana, praśna) given in AH Sū. 1. The stress is on constant clinical observation.",
+   "explanation_hi": "'दर्शनादि' अष्टांगहृदय सू. 1 में दी गई त्रिविध परीक्षा (दर्शन, स्पर्शन, प्रश्न) की ओर संकेत है। ज़ोर निरंतर नैदानिक अवलोकन पर है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "trividha-parīkṣā",
+    "darśana",
+    "vyādhy-avasthā"
+   ],
+   "tags": [
+    "diagnosis",
+    "pariksha"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.56",
+   "word_meanings": [
+    {
+     "sa": "अभ्यासात्",
+     "iast": "abhyāsāt",
+     "en": "by practice",
+     "hi": "अभ्यास से"
+    },
+    {
+     "sa": "प्राप्यते",
+     "iast": "prāpyate",
+     "en": "is obtained",
+     "hi": "प्राप्त होती है"
+    },
+    {
+     "sa": "दृष्टिः",
+     "iast": "dṛṣṭiḥ",
+     "en": "insight",
+     "hi": "दृष्टि"
+    },
+    {
+     "sa": "कर्मसिद्धिप्रकाशिनी",
+     "iast": "karma-siddhi-prakāśinī",
+     "en": "which illuminates success in action",
+     "hi": "कर्म में सफलता दिखाने वाली"
+    },
+    {
+     "sa": "रत्नादिसदसज्ज्ञानम्",
+     "iast": "ratnādi-sad-asaj-jñānam",
+     "en": "knowledge of genuine and false gems etc.",
+     "hi": "रत्न आदि के असली-नकली का ज्ञान"
+    },
+    {
+     "sa": "न",
+     "iast": "na",
+     "en": "not",
+     "hi": "नहीं"
+    },
+    {
+     "sa": "शास्त्रात् एव",
+     "iast": "śāstrāt eva",
+     "en": "from books alone",
+     "hi": "केवल शास्त्र से"
+    },
+    {
+     "sa": "जायते",
+     "iast": "jāyate",
+     "en": "arises",
+     "hi": "उत्पन्न होता है"
+    }
+   ],
+   "english": "By practice one gains the insight (dṛṣṭi) that reveals success in practical work; just as the ability to tell genuine gems from false ones does not arise from books alone.",
+   "hindi": "अभ्यास से ही वह दृष्टि प्राप्त होती है जो कार्य में सफलता दिलाती है; जैसे रत्नों के असली और नकली होने का ज्ञान केवल शास्त्र पढ़ने से नहीं होता।",
+   "explanation_en": "A favourite quote on clinical training: theory must be joined with practice. Good for an essay introduction on the importance of clinical exposure.",
+   "explanation_hi": "नैदानिक प्रशिक्षण पर प्रिय उद्धरण: सिद्धांत को अभ्यास से जोड़ना आवश्यक है। नैदानिक अनुभव के महत्व पर निबंध की भूमिका के लिए उपयुक्त।",
+   "modern_correlation": null,
+   "key_terms": [
+    "abhyāsa",
+    "śāstra",
+    "karmābhyāsa"
+   ],
+   "tags": [
+    "clinical-practice",
+    "quotable"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.57",
+   "word_meanings": [
+    {
+     "sa": "दृष्टापचारजः",
+     "iast": "dṛṣṭāpacāra-jaḥ",
+     "en": "born of seen (present) misconduct",
+     "hi": "दृष्ट (इस जन्म के) अपचार से उत्पन्न"
+    },
+    {
+     "sa": "कश्चित्",
+     "iast": "kaścit",
+     "en": "some",
+     "hi": "कोई"
+    },
+    {
+     "sa": "कश्चित्",
+     "iast": "kaścit",
+     "en": "some",
+     "hi": "कोई"
+    },
+    {
+     "sa": "पूर्वापराधजः",
+     "iast": "pūrvāparādha-jaḥ",
+     "en": "born of past misdeeds",
+     "hi": "पूर्व अपराध (पूर्व कर्म) से उत्पन्न"
+    },
+    {
+     "sa": "तत्संकरात्",
+     "iast": "tat-saṃkarāt",
+     "en": "from their combination",
+     "hi": "उनके मिश्रण से"
+    },
+    {
+     "sa": "भवति",
+     "iast": "bhavati",
+     "en": "arises",
+     "hi": "होता है"
+    },
+    {
+     "sa": "अन्यः",
+     "iast": "anyaḥ",
+     "en": "another",
+     "hi": "अन्य"
+    },
+    {
+     "sa": "व्याधिः",
+     "iast": "vyādhiḥ",
+     "en": "disease",
+     "hi": "रोग"
+    },
+    {
+     "sa": "एवम्",
+     "iast": "evam",
+     "en": "thus",
+     "hi": "इस प्रकार"
+    },
+    {
+     "sa": "त्रिधा",
+     "iast": "tridhā",
+     "en": "threefold",
+     "hi": "तीन प्रकार का"
+    },
+    {
+     "sa": "स्मृतः",
+     "iast": "smṛtaḥ",
+     "en": "is known",
+     "hi": "माना गया है"
+    }
+   ],
+   "english": "Some diseases are born of visible (present-life) misconduct (dṛṣṭāpacāra), some of past misdeeds (pūrvāparādha, i.e. karma), and another kind arises from their combination; thus disease is known to be threefold.",
+   "hindi": "कुछ रोग इस जन्म के दिखने वाले गलत आचरण (दृष्टापचार) से होते हैं, कुछ पूर्व जन्म के अपराध (कर्म) से, और कुछ इन दोनों के मिश्रण से; इस प्रकार रोग तीन प्रकार का माना गया है।",
+   "explanation_en": "Three types of disease by origin: doṣaja (dṛṣṭāpacāraja), karmaja (pūrvāparādhaja), doṣa-karmaja. Verses 58-59 give their features and how each subsides. A frequently asked classification.",
+   "explanation_hi": "उत्पत्ति के अनुसार रोग के तीन प्रकार: दोषज (दृष्टापचारज), कर्मज (पूर्वापराधज), दोष-कर्मज। श्लोक 58-59 में उनकी विशेषताएँ और शांत होने का तरीका है। अक्सर पूछा जाने वाला वर्गीकरण।",
+   "modern_correlation": null,
+   "key_terms": [
+    "doṣaja",
+    "karmaja",
+    "doṣa-karmaja",
+    "vyādhi-bheda"
+   ],
+   "tags": [
+    "nidana",
+    "vyadhi-classification"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.58",
+   "word_meanings": [
+    {
+     "sa": "यथानिदानम्",
+     "iast": "yathā-nidānam",
+     "en": "in proportion to its cause",
+     "hi": "कारण के अनुसार"
+    },
+    {
+     "sa": "दोषोत्थः",
+     "iast": "doṣotthaḥ",
+     "en": "doṣa-born",
+     "hi": "दोषज"
+    },
+    {
+     "sa": "कर्मजः",
+     "iast": "karma-jaḥ",
+     "en": "karma-born",
+     "hi": "कर्मज"
+    },
+    {
+     "sa": "हेतुभिः विना",
+     "iast": "hetubhiḥ vinā",
+     "en": "without (apparent) causes",
+     "hi": "बिना (दिखने वाले) कारणों के"
+    },
+    {
+     "sa": "महारम्भः",
+     "iast": "mahārambhaḥ",
+     "en": "of great onset (severe)",
+     "hi": "बड़ा (गंभीर)"
+    },
+    {
+     "sa": "अल्पके हेतौ",
+     "iast": "alpake hetau",
+     "en": "from a slight cause",
+     "hi": "थोड़े कारण से"
+    },
+    {
+     "sa": "आतङ्कः",
+     "iast": "ātaṅkaḥ",
+     "en": "disease",
+     "hi": "रोग"
+    },
+    {
+     "sa": "दोषकर्मजः",
+     "iast": "doṣa-karma-jaḥ",
+     "en": "born of doṣa and karma",
+     "hi": "दोष-कर्मज"
+    }
+   ],
+   "english": "A doṣa-born disease corresponds to its causes; a karma-born disease arises without (apparent) causes; and a disease born of both doṣa and karma is severe even from a slight cause.",
+   "hindi": "दोषज रोग अपने कारण के अनुपात में होता है; कर्मज रोग बिना किसी (दिखने वाले) कारण के होता है; और दोष-कर्मज रोग थोड़े से कारण से भी गंभीर होता है।",
+   "explanation_en": "Clinical recognition: doṣaja = cause and severity match; karmaja = no detectable cause; doṣa-karmaja = mild cause but severe disease. Useful for viva.",
+   "explanation_hi": "नैदानिक पहचान: दोषज = कारण और गंभीरता मेल खाते हैं; कर्मज = कोई पता लगने योग्य कारण नहीं; दोष-कर्मज = हल्का कारण पर गंभीर रोग। मौखिक परीक्षा में उपयोगी।",
+   "modern_correlation": null,
+   "key_terms": [
+    "doṣaja",
+    "karmaja",
+    "doṣa-karmaja"
+   ],
+   "tags": [
+    "nidana",
+    "vyadhi-classification"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.59",
+   "word_meanings": [
+    {
+     "sa": "विपक्षशीलनात्",
+     "iast": "vipakṣa-śīlanāt",
+     "en": "by practising the opposite",
+     "hi": "विपरीत (उपचार) के सेवन से"
+    },
+    {
+     "sa": "पूर्वः",
+     "iast": "pūrvaḥ",
+     "en": "the first (doṣaja)",
+     "hi": "पहला (दोषज)"
+    },
+    {
+     "sa": "कर्मजः",
+     "iast": "karma-jaḥ",
+     "en": "karma-born",
+     "hi": "कर्मज"
+    },
+    {
+     "sa": "कर्मसंक्षयात्",
+     "iast": "karma-saṃkṣayāt",
+     "en": "by exhaustion of the karma",
+     "hi": "कर्म के क्षय से"
+    },
+    {
+     "sa": "गच्छति",
+     "iast": "gacchati",
+     "en": "goes",
+     "hi": "जाता है"
+    },
+    {
+     "sa": "उभयजन्मा",
+     "iast": "ubhaya-janmā",
+     "en": "born of both",
+     "hi": "दोनों से उत्पन्न"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "परंतु"
+    },
+    {
+     "sa": "दोषकर्मक्षयात्",
+     "iast": "doṣa-karma-kṣayāt",
+     "en": "by destruction of doṣa and karma",
+     "hi": "दोष और कर्म दोनों के क्षय से"
+    },
+    {
+     "sa": "क्षयम्",
+     "iast": "kṣayam",
+     "en": "to an end",
+     "hi": "अंत को"
+    }
+   ],
+   "english": "The first (doṣa-born) subsides by habitual use of opposites (to the doṣa); the karma-born subsides when the karma is exhausted; and that born of both comes to an end when both the doṣa and the karma are destroyed.",
+   "hindi": "दोषज रोग दोष के विपरीत उपचार के नियमित सेवन से शांत होता है; कर्मज रोग कर्म के क्षय होने पर शांत होता है; और दोनों से उत्पन्न रोग तब समाप्त होता है जब दोष और कर्म दोनों नष्ट हों।",
+   "explanation_en": "Treatment logic: doṣaja → yukti-vyapāśraya (rational therapy); karmaja → daiva-vyapāśraya (spiritual measures, or awaiting exhaustion of karma); doṣa-karmaja → both.",
+   "explanation_hi": "चिकित्सा तर्क: दोषज → युक्तिव्यपाश्रय (तर्कसंगत चिकित्सा); कर्मज → दैवव्यपाश्रय (आध्यात्मिक उपाय, या कर्म क्षय की प्रतीक्षा); दोष-कर्मज → दोनों।",
+   "modern_correlation": null,
+   "key_terms": [
+    "doṣaja",
+    "karmaja",
+    "daiva-vyapāśraya",
+    "yukti-vyapāśraya"
+   ],
+   "tags": [
+    "chikitsa",
+    "vyadhi-classification"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.60",
+   "word_meanings": [
+    {
+     "sa": "द्विधा",
+     "iast": "dvidhā",
+     "en": "twofold",
+     "hi": "दो प्रकार के"
+    },
+    {
+     "sa": "स्वपरतन्त्रत्वात्",
+     "iast": "sva-para-tantratvāt",
+     "en": "by being independent or dependent",
+     "hi": "स्वतंत्र या परतंत्र होने से"
+    },
+    {
+     "sa": "व्याधयः",
+     "iast": "vyādhayaḥ",
+     "en": "diseases",
+     "hi": "रोग"
+    },
+    {
+     "sa": "अन्त्याः",
+     "iast": "antyāḥ",
+     "en": "the latter (dependent)",
+     "hi": "बाद वाले (परतंत्र)"
+    },
+    {
+     "sa": "पुनः",
+     "iast": "punaḥ",
+     "en": "again",
+     "hi": "फिर"
+    },
+    {
+     "sa": "द्विधा",
+     "iast": "dvidhā",
+     "en": "twofold",
+     "hi": "दो प्रकार के"
+    },
+    {
+     "sa": "पूर्वजाः",
+     "iast": "pūrva-jāḥ",
+     "en": "those arising before",
+     "hi": "पहले उत्पन्न होने वाले"
+    },
+    {
+     "sa": "पूर्वरूपाख्याः",
+     "iast": "pūrvarūpākhyāḥ",
+     "en": "called prodromal signs (pūrvarūpa)",
+     "hi": "पूर्वरूप कहलाते हैं"
+    },
+    {
+     "sa": "जाताः पश्चात्",
+     "iast": "jātāḥ paścāt",
+     "en": "those arising afterwards",
+     "hi": "बाद में उत्पन्न होने वाले"
+    },
+    {
+     "sa": "उपद्रवाः",
+     "iast": "upadravāḥ",
+     "en": "complications",
+     "hi": "उपद्रव"
+    }
+   ],
+   "english": "Diseases are twofold, being independent (svatantra) or dependent (paratantra). The dependent ones are again twofold: those arising before (the main disease) are called pūrvarūpa (prodromal features), and those arising afterwards are upadrava (complications).",
+   "hindi": "रोग दो प्रकार के हैं: स्वतंत्र और परतंत्र। परतंत्र रोग फिर दो प्रकार के हैं: जो मुख्य रोग से पहले होते हैं वे 'पूर्वरूप' कहलाते हैं, और जो बाद में होते हैं वे 'उपद्रव'।",
+   "explanation_en": "Svatantra vs paratantra vyādhi; paratantra = pūrvarūpa (before) + upadrava (after). A neat, frequently asked classification.",
+   "explanation_hi": "स्वतंत्र बनाम परतंत्र व्याधि; परतंत्र = पूर्वरूप (पहले) + उपद्रव (बाद में)। साफ़ और अक्सर पूछा जाने वाला वर्गीकरण।",
+   "modern_correlation": {
+    "en": "This broadly parallels the modern distinction between a primary disease, its prodromal symptoms, and its secondary complications.",
+    "hi": "यह आधुनिक चिकित्सा में प्राथमिक रोग, उसके प्रोड्रोमल (पूर्व) लक्षणों और उसकी द्वितीयक जटिलताओं के अंतर से मिलता है।"
+   },
+   "key_terms": [
+    "svatantra-vyādhi",
+    "paratantra-vyādhi",
+    "pūrvarūpa",
+    "upadrava"
+   ],
+   "tags": [
+    "nidana",
+    "vyadhi-classification"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.61",
+   "word_meanings": [
+    {
+     "sa": "यथास्वजन्मोपशयाः",
+     "iast": "yathā-sva-janmopaśayāḥ",
+     "en": "with their own causes and relieving factors",
+     "hi": "अपने कारण और उपशय वाले"
+    },
+    {
+     "sa": "स्वतन्त्राः",
+     "iast": "svatantrāḥ",
+     "en": "independent",
+     "hi": "स्वतंत्र"
+    },
+    {
+     "sa": "स्पष्टलक्षणाः",
+     "iast": "spaṣṭa-lakṣaṇāḥ",
+     "en": "with clear signs",
+     "hi": "स्पष्ट लक्षणों वाले"
+    },
+    {
+     "sa": "विपरीताः",
+     "iast": "viparītāḥ",
+     "en": "opposite",
+     "hi": "विपरीत"
+    },
+    {
+     "sa": "ततः",
+     "iast": "tataḥ",
+     "en": "to these",
+     "hi": "इनसे"
+    },
+    {
+     "sa": "अन्ये",
+     "iast": "anye",
+     "en": "the others",
+     "hi": "अन्य"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "परंतु"
+    },
+    {
+     "sa": "विद्यात्",
+     "iast": "vidyāt",
+     "en": "should know",
+     "hi": "जानें"
+    },
+    {
+     "sa": "एवम्",
+     "iast": "evam",
+     "en": "likewise",
+     "hi": "इसी प्रकार"
+    },
+    {
+     "sa": "मलान्",
+     "iast": "malān",
+     "en": "doṣas",
+     "hi": "दोषों को"
+    },
+    {
+     "sa": "अपि",
+     "iast": "api",
+     "en": "also",
+     "hi": "भी"
+    }
+   ],
+   "english": "Independent diseases have their own causes and relieving factors (upaśaya) and clear signs; the others (dependent) are the opposite. Know the doṣas (malas) too in the same way (as independent or dependent).",
+   "hindi": "स्वतंत्र रोगों के अपने कारण, अपने उपशय (राहत देने वाले उपाय) और स्पष्ट लक्षण होते हैं; परतंत्र रोग इनके विपरीत होते हैं। दोषों को भी इसी प्रकार (स्वतंत्र या परतंत्र) समझें।",
+   "explanation_en": "Svatantra: own nidāna, own upaśaya, clear lakṣaṇa. Paratantra: lacks these, depends on the main disease. Likewise a doṣa can be primary (pradhāna) or secondary (anubandhya).",
+   "explanation_hi": "स्वतंत्र: अपना निदान, अपना उपशय, स्पष्ट लक्षण। परतंत्र: इनका अभाव, मुख्य रोग पर निर्भर। इसी प्रकार दोष भी प्रधान या अनुबंध्य (गौण) हो सकता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "svatantra",
+    "paratantra",
+    "upaśaya"
+   ],
+   "tags": [
+    "nidana",
+    "vyadhi-classification"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.62",
+   "word_meanings": [
+    {
+     "sa": "तान्",
+     "iast": "tān",
+     "en": "them",
+     "hi": "उन्हें"
+    },
+    {
+     "sa": "लक्षयेत्",
+     "iast": "lakṣayet",
+     "en": "should observe",
+     "hi": "पहचानें"
+    },
+    {
+     "sa": "अवहितः",
+     "iast": "avahitaḥ",
+     "en": "attentive",
+     "hi": "सावधान"
+    },
+    {
+     "sa": "विकुर्वाणान्",
+     "iast": "vikurvāṇān",
+     "en": "manifesting",
+     "hi": "प्रकट होते हुए"
+    },
+    {
+     "sa": "प्रतिज्वरम्",
+     "iast": "prati-jvaram",
+     "en": "in each fever (each disease)",
+     "hi": "हर ज्वर (रोग) में"
+    },
+    {
+     "sa": "तेषाम्",
+     "iast": "teṣām",
+     "en": "of them",
+     "hi": "उनका"
+    },
+    {
+     "sa": "प्रधानप्रशमे",
+     "iast": "pradhāna-praśame",
+     "en": "on pacification of the principal",
+     "hi": "प्रधान (रोग) के शांत होने पर"
+    },
+    {
+     "sa": "प्रशमः",
+     "iast": "praśamaḥ",
+     "en": "pacification",
+     "hi": "शांति"
+    },
+    {
+     "sa": "अशाम्यतः",
+     "iast": "aśāmyataḥ",
+     "en": "of one not subsiding",
+     "hi": "शांत न होने वाले का"
+    },
+    {
+     "sa": "तथा",
+     "iast": "tathā",
+     "en": "then",
+     "hi": "तब"
+    }
+   ],
+   "english": "The attentive physician should observe them (the dependent features) as they manifest in each fever (disease). They subside when the principal disease is pacified; if one does not subside,...",
+   "hindi": "सावधान वैद्य को हर ज्वर (रोग) में प्रकट होने वाले इन परतंत्र लक्षणों को पहचानना चाहिए। प्रधान रोग के शांत होने पर ये भी शांत हो जाते हैं; यदि कोई शांत न हो,...",
+   "explanation_en": "Treat the main disease and the dependent ones usually resolve. 'Jvara' here stands for disease in general (as jvara is the chief disease). Verse 63 gives the exception.",
+   "explanation_hi": "मुख्य रोग की चिकित्सा करें, परतंत्र लक्षण प्रायः स्वयं ठीक हो जाते हैं। यहाँ 'ज्वर' सामान्य रोग का प्रतीक है (क्योंकि ज्वर प्रधान रोग है)। श्लोक 63 में अपवाद है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "paratantra",
+    "pradhāna-vyādhi",
+    "upadrava"
+   ],
+   "tags": [
+    "chikitsa",
+    "vyadhi-classification"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.63",
+   "word_meanings": [
+    {
+     "sa": "पश्चात्",
+     "iast": "paścāt",
+     "en": "afterwards",
+     "hi": "बाद में"
+    },
+    {
+     "sa": "चिकित्सेत्",
+     "iast": "cikitset",
+     "en": "should treat",
+     "hi": "चिकित्सा करें"
+    },
+    {
+     "sa": "तूर्णम्",
+     "iast": "tūrṇam",
+     "en": "quickly",
+     "hi": "शीघ्र"
+    },
+    {
+     "sa": "वा",
+     "iast": "vā",
+     "en": "or",
+     "hi": "या"
+    },
+    {
+     "sa": "बलवन्तम्",
+     "iast": "balavantam",
+     "en": "strong",
+     "hi": "प्रबल"
+    },
+    {
+     "sa": "उपद्रवम्",
+     "iast": "upadravam",
+     "en": "complication",
+     "hi": "उपद्रव"
+    },
+    {
+     "sa": "व्याधिक्लिष्टशरीरस्य",
+     "iast": "vyādhi-kliṣṭa-śarīrasya",
+     "en": "of one whose body is afflicted by disease",
+     "hi": "रोग से पीड़ित शरीर वाले का"
+    },
+    {
+     "sa": "पीडाकरतरः",
+     "iast": "pīḍā-karataraḥ",
+     "en": "more distressing",
+     "hi": "अधिक कष्टदायक"
+    },
+    {
+     "sa": "हि",
+     "iast": "hi",
+     "en": "for",
+     "hi": "क्योंकि"
+    },
+    {
+     "sa": "सः",
+     "iast": "saḥ",
+     "en": "it",
+     "hi": "वह"
+    }
+   ],
+   "english": "...it should be treated afterwards; or a strong complication should be treated quickly, for it is more distressing to a body already afflicted by disease.",
+   "hindi": "...तो उसकी चिकित्सा बाद में करें; या कोई प्रबल उपद्रव हो तो उसकी चिकित्सा तुरंत करें, क्योंकि रोग से पहले से पीड़ित शरीर के लिए वह अधिक कष्टदायक होता है।",
+   "explanation_en": "Rule for upadrava: usually treat the main disease first, but a strong (balavān) complication must be treated urgently. Commonly asked in the context of jvara and other diseases.",
+   "explanation_hi": "उपद्रव का नियम: सामान्यतः पहले मुख्य रोग की चिकित्सा, पर प्रबल (बलवान) उपद्रव की चिकित्सा तुरंत करनी चाहिए। ज्वर आदि रोगों के संदर्भ में अक्सर पूछा जाता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "upadrava",
+    "cikitsā-krama"
+   ],
+   "tags": [
+    "chikitsa",
+    "upadrava"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.64",
+   "word_meanings": [
+    {
+     "sa": "विकारनामाकुशलः",
+     "iast": "vikāra-nāmākuśalaḥ",
+     "en": "one not knowing the name of a disease",
+     "hi": "रोग का नाम न जानने वाला"
+    },
+    {
+     "sa": "न जिह्रीयात्",
+     "iast": "na jihrīyāt",
+     "en": "should not be ashamed",
+     "hi": "लज्जित न हो"
+    },
+    {
+     "sa": "कदाचन",
+     "iast": "kadācana",
+     "en": "ever",
+     "hi": "कभी भी"
+    },
+    {
+     "sa": "न हि",
+     "iast": "na hi",
+     "en": "for not",
+     "hi": "क्योंकि नहीं"
+    },
+    {
+     "sa": "सर्वविकाराणाम्",
+     "iast": "sarva-vikārāṇām",
+     "en": "of all diseases",
+     "hi": "सभी रोगों की"
+    },
+    {
+     "sa": "नामतः",
+     "iast": "nāmataḥ",
+     "en": "by name",
+     "hi": "नाम से"
+    },
+    {
+     "sa": "अस्ति",
+     "iast": "asti",
+     "en": "is",
+     "hi": "है"
+    },
+    {
+     "sa": "ध्रुवा",
+     "iast": "dhruvā",
+     "en": "fixed",
+     "hi": "निश्चित"
+    },
+    {
+     "sa": "स्थितिः",
+     "iast": "sthitiḥ",
+     "en": "standard",
+     "hi": "स्थिति"
+    }
+   ],
+   "english": "A physician who does not know the name of a disease should never be ashamed, for there is no fixed naming for all diseases.",
+   "hindi": "जो वैद्य किसी रोग का नाम नहीं जानता, उसे कभी लज्जित नहीं होना चाहिए, क्योंकि सभी रोगों के नाम की कोई निश्चित व्यवस्था नहीं है।",
+   "explanation_en": "Famous principle ('anukta vyādhi'): diagnose and treat by doṣa, dūṣya, site and cause even when the disease has no name. Parallels Caraka Sū. 18.44. Frequently quoted in viva.",
+   "explanation_hi": "प्रसिद्ध सिद्धांत ('अनुक्त व्याधि'): जब रोग का कोई नाम न हो, तब भी दोष, दूष्य, स्थान और कारण से निदान और चिकित्सा करें। चरक सू. 18.44 से समानता। मौखिक परीक्षा में अक्सर उद्धृत।",
+   "modern_correlation": null,
+   "key_terms": [
+    "anukta-vyādhi",
+    "vikāra-nāma"
+   ],
+   "tags": [
+    "chikitsa-siddhanta",
+    "quotable"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.65",
+   "word_meanings": [
+    {
+     "sa": "सः एव",
+     "iast": "saḥ eva",
+     "en": "that very",
+     "hi": "वही"
+    },
+    {
+     "sa": "कुपितः",
+     "iast": "kupitaḥ",
+     "en": "aggravated",
+     "hi": "कुपित"
+    },
+    {
+     "sa": "दोषः",
+     "iast": "doṣaḥ",
+     "en": "doṣa",
+     "hi": "दोष"
+    },
+    {
+     "sa": "समुत्थानविशेषतः",
+     "iast": "samutthāna-viśeṣataḥ",
+     "en": "according to the specific cause",
+     "hi": "कारण की विशेषता के अनुसार"
+    },
+    {
+     "sa": "स्थानान्तराणि",
+     "iast": "sthānāntarāṇi",
+     "en": "different sites",
+     "hi": "अलग-अलग स्थान"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "प्राप्य",
+     "iast": "prāpya",
+     "en": "having reached",
+     "hi": "पहुँचकर"
+    },
+    {
+     "sa": "विकारान्",
+     "iast": "vikārān",
+     "en": "diseases",
+     "hi": "विकारों को"
+    },
+    {
+     "sa": "कुरुते",
+     "iast": "kurute",
+     "en": "produces",
+     "hi": "करता है"
+    },
+    {
+     "sa": "बहून्",
+     "iast": "bahūn",
+     "en": "many",
+     "hi": "अनेक"
+    }
+   ],
+   "english": "The same aggravated doṣa, according to the specific causes and on reaching different sites, produces many diseases.",
+   "hindi": "वही कुपित दोष कारण की विशेषता के अनुसार और अलग-अलग स्थानों में पहुँचकर अनेक रोग उत्पन्न करता है।",
+   "explanation_en": "Explains why naming is less important than understanding: one doṣa, different causes and sites → many diseases. This leads to the essential triad of verse 66: vikāra-prakṛti, adhiṣṭhāna, hetu.",
+   "explanation_hi": "समझाता है कि नाम से ज़्यादा समझ क्यों महत्वपूर्ण है: एक दोष, अलग कारण और स्थान → अनेक रोग। यह श्लोक 66 के त्रिक की ओर ले जाता है: विकार प्रकृति, अधिष्ठान, हेतु।",
+   "modern_correlation": null,
+   "key_terms": [
+    "doṣa",
+    "sthāna-saṃśraya",
+    "samutthāna"
+   ],
+   "tags": [
+    "nidana",
+    "chikitsa-siddhanta"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.66",
+   "word_meanings": [
+    {
+     "sa": "तस्मात्",
+     "iast": "tasmāt",
+     "en": "therefore",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "विकारप्रकृतीः",
+     "iast": "vikāra-prakṛtīḥ",
+     "en": "the nature of the disease (its doṣa)",
+     "hi": "रोग की प्रकृति (दोष)"
+    },
+    {
+     "sa": "अधिष्ठानान्तराणि",
+     "iast": "adhiṣṭhānāntarāṇi",
+     "en": "the different sites",
+     "hi": "विभिन्न अधिष्ठान (स्थान)"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "बुद्ध्वा",
+     "iast": "buddhvā",
+     "en": "having understood",
+     "hi": "समझकर"
+    },
+    {
+     "sa": "हेतुविशेषान्",
+     "iast": "hetu-viśeṣān",
+     "en": "the specific causes",
+     "hi": "विशेष कारणों को"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "शीघ्रम्",
+     "iast": "śīghram",
+     "en": "quickly",
+     "hi": "शीघ्र"
+    },
+    {
+     "sa": "कुर्यात्",
+     "iast": "kuryāt",
+     "en": "should begin",
+     "hi": "करे"
+    },
+    {
+     "sa": "उपक्रमम्",
+     "iast": "upakramam",
+     "en": "treatment",
+     "hi": "उपचार"
+    }
+   ],
+   "english": "Therefore, having understood the nature of the disease (vikāra-prakṛti), its different sites (adhiṣṭhāna) and the specific causes (hetu), one should quickly begin treatment.",
+   "hindi": "इसलिए रोग की प्रकृति (विकार प्रकृति), उसके विभिन्न स्थान (अधिष्ठान) और विशेष कारण (हेतु) को समझकर शीघ्र चिकित्सा शुरू करनी चाहिए।",
+   "explanation_en": "The triad vikāra-prakṛti, adhiṣṭhāna, samutthāna-viśeṣa (from Caraka Sū. 18) is the basis for treating unnamed diseases. Learn the three terms.",
+   "explanation_hi": "त्रिक विकार प्रकृति, अधिष्ठान, समुत्थान विशेष (चरक सू. 18 से) बिना नाम वाले रोगों की चिकित्सा का आधार है। तीनों शब्द याद करें।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vikāra-prakṛti",
+    "adhiṣṭhāna",
+    "samutthāna-viśeṣa"
+   ],
+   "tags": [
+    "chikitsa-siddhanta",
+    "diagnosis"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.67",
+   "word_meanings": [
+    {
+     "sa": "दूष्यम्",
+     "iast": "dūṣyam",
+     "en": "the affected tissue",
+     "hi": "दूष्य"
+    },
+    {
+     "sa": "देशम्",
+     "iast": "deśam",
+     "en": "habitat, region",
+     "hi": "देश"
+    },
+    {
+     "sa": "बलम्",
+     "iast": "balam",
+     "en": "strength",
+     "hi": "बल"
+    },
+    {
+     "sa": "कालम्",
+     "iast": "kālam",
+     "en": "time, season",
+     "hi": "काल"
+    },
+    {
+     "sa": "अनलम्",
+     "iast": "analam",
+     "en": "digestive fire",
+     "hi": "अग्नि"
+    },
+    {
+     "sa": "प्रकृतिम्",
+     "iast": "prakṛtim",
+     "en": "constitution",
+     "hi": "प्रकृति"
+    },
+    {
+     "sa": "वयः",
+     "iast": "vayaḥ",
+     "en": "age",
+     "hi": "आयु"
+    },
+    {
+     "sa": "सत्त्वम्",
+     "iast": "sattvam",
+     "en": "mental strength",
+     "hi": "सत्त्व"
+    },
+    {
+     "sa": "सात्म्यम्",
+     "iast": "sātmyam",
+     "en": "habituation",
+     "hi": "सात्म्य"
+    },
+    {
+     "sa": "तथा",
+     "iast": "tathā",
+     "en": "also",
+     "hi": "तथा"
+    },
+    {
+     "sa": "आहारम्",
+     "iast": "āhāram",
+     "en": "diet",
+     "hi": "आहार"
+    },
+    {
+     "sa": "अवस्थाः",
+     "iast": "avasthāḥ",
+     "en": "states, stages",
+     "hi": "अवस्थाएँ"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "पृथग्विधाः",
+     "iast": "pṛthag-vidhāḥ",
+     "en": "of various kinds",
+     "hi": "विविध प्रकार की"
+    }
+   ],
+   "english": "The affected tissue (dūṣya), habitat (deśa), strength (bala), time (kāla), digestive fire (anala), constitution (prakṛti), age (vayas), mental strength (sattva), habituation (sātmya), diet (āhāra) and the various stages (avasthā) (of disease and patient),...",
+   "hindi": "दूष्य, देश, बल, काल, अग्नि, प्रकृति, आयु, सत्त्व, सात्म्य, आहार और (रोग तथा रोगी की) विविध अवस्थाएँ,...",
+   "explanation_en": "This list of factors to examine before treatment (often called daśavidha/dvādaśa parīkṣya bhāva in AH) is a top exam topic. Remember them as: dūṣya, deśa, bala, kāla, agni, prakṛti, vayas, sattva, sātmya, āhāra, avasthā.",
+   "explanation_hi": "चिकित्सा से पहले परीक्षा योग्य कारकों की यह सूची (अष्टांगहृदय में दशविध/द्वादश परीक्ष्य भाव कहलाती है) शीर्ष परीक्षा विषय है। याद रखें: दूष्य, देश, बल, काल, अग्नि, प्रकृति, वय, सत्त्व, सात्म्य, आहार, अवस्था।",
+   "modern_correlation": {
+    "en": "This list broadly parallels a modern holistic patient assessment: affected tissue, environment, physical capacity, timing, digestive and metabolic status, constitution, age, psychological state, habits, diet and disease stage.",
+    "hi": "यह सूची आधुनिक समग्र रोगी मूल्यांकन से मिलती है: प्रभावित ऊतक, पर्यावरण, शारीरिक क्षमता, समय, पाचन और चयापचय स्थिति, शारीरिक बनावट, आयु, मानसिक स्थिति, आदतें, आहार और रोग की अवस्था।"
+   },
+   "key_terms": [
+    "dūṣya",
+    "deśa",
+    "bala",
+    "kāla",
+    "prakṛti",
+    "sattva",
+    "sātmya",
+    "parīkṣya-bhāva"
+   ],
+   "tags": [
+    "diagnosis",
+    "pariksha",
+    "chikitsa-siddhanta"
+   ],
+   "importance": "high",
+   "mnemonic": "Dū-De-Ba-Kā-A-Pra-Va-Sa-Sā-Ā-Ava",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.68",
+   "word_meanings": [
+    {
+     "sa": "सूक्ष्मसूक्ष्माः",
+     "iast": "sūkṣma-sūkṣmāḥ",
+     "en": "in their finest details",
+     "hi": "अति सूक्ष्म रूप से"
+    },
+    {
+     "sa": "समीक्ष्य",
+     "iast": "samīkṣya",
+     "en": "having examined",
+     "hi": "परखकर"
+    },
+    {
+     "sa": "एषाम्",
+     "iast": "eṣām",
+     "en": "of these",
+     "hi": "इनको"
+    },
+    {
+     "sa": "दोषौषधनिरूपणे",
+     "iast": "doṣauṣadha-nirūpaṇe",
+     "en": "in determining the doṣa and the medicine",
+     "hi": "दोष और औषधि के निर्धारण में"
+    },
+    {
+     "sa": "यः",
+     "iast": "yaḥ",
+     "en": "who",
+     "hi": "जो"
+    },
+    {
+     "sa": "वर्तते",
+     "iast": "vartate",
+     "en": "proceeds",
+     "hi": "प्रवृत्त होता है"
+    },
+    {
+     "sa": "चिकित्सायाम्",
+     "iast": "cikitsāyām",
+     "en": "in treatment",
+     "hi": "चिकित्सा में"
+    },
+    {
+     "sa": "न",
+     "iast": "na",
+     "en": "not",
+     "hi": "नहीं"
+    },
+    {
+     "sa": "सः",
+     "iast": "saḥ",
+     "en": "he",
+     "hi": "वह"
+    },
+    {
+     "sa": "स्खलति",
+     "iast": "skhalati",
+     "en": "errs",
+     "hi": "चूकता है"
+    },
+    {
+     "sa": "जातुचित्",
+     "iast": "jātucit",
+     "en": "ever",
+     "hi": "कभी भी"
+    }
+   ],
+   "english": "...whoever proceeds in treatment after examining these in their finest details when determining the doṣa and the medicine never errs.",
+   "hindi": "...जो वैद्य दोष और औषधि का निर्धारण करते समय इन सबको अति सूक्ष्म रूप से परखकर चिकित्सा करता है, वह कभी नहीं चूकता।",
+   "explanation_en": "Completes the examination list with its benefit: careful assessment prevents therapeutic error. A useful conclusion for any essay on parīkṣā.",
+   "explanation_hi": "परीक्षा सूची उसके लाभ के साथ पूरी: सावधान मूल्यांकन चिकित्सा की गलती से बचाता है। परीक्षा पर किसी भी निबंध के लिए उपयोगी निष्कर्ष।",
+   "modern_correlation": null,
+   "key_terms": [
+    "parīkṣā",
+    "doṣa-nirūpaṇa"
+   ],
+   "tags": [
+    "diagnosis",
+    "pariksha"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.69",
+   "word_meanings": [
+    {
+     "sa": "गुर्वल्पव्याधिसंस्थानम्",
+     "iast": "gurv-alpa-vyādhi-saṃsthānam",
+     "en": "the severe or mild state of disease",
+     "hi": "रोग की गंभीर या हल्की स्थिति"
+    },
+    {
+     "sa": "सत्त्वदेहबलाबलात्",
+     "iast": "sattva-deha-balābalāt",
+     "en": "due to strength or weakness of mind and body",
+     "hi": "मन और शरीर के बल-अबल से"
+    },
+    {
+     "sa": "दृश्यते",
+     "iast": "dṛśyate",
+     "en": "appears",
+     "hi": "दिखती है"
+    },
+    {
+     "sa": "अपि",
+     "iast": "api",
+     "en": "even",
+     "hi": "भी"
+    },
+    {
+     "sa": "अन्यथाकारम्",
+     "iast": "anyathā-kāram",
+     "en": "otherwise",
+     "hi": "अलग प्रकार की"
+    },
+    {
+     "sa": "तस्मिन्",
+     "iast": "tasmin",
+     "en": "in that",
+     "hi": "उसमें"
+    },
+    {
+     "sa": "अवहितः",
+     "iast": "avahitaḥ",
+     "en": "attentive",
+     "hi": "सावधान"
+    },
+    {
+     "sa": "भवेत्",
+     "iast": "bhavet",
+     "en": "should be",
+     "hi": "रहना चाहिए"
+    }
+   ],
+   "english": "The severity or mildness of a disease may appear otherwise owing to the strength or weakness of the patient's mind and body; one should be attentive to this.",
+   "hindi": "मन और शरीर के बल या दुर्बलता के कारण रोग की गंभीरता या हल्कापन अलग दिखाई दे सकता है; वैद्य को इसमें सावधान रहना चाहिए।",
+   "explanation_en": "A strong-minded, robust patient may make a serious disease look mild, and a weak, anxious patient may make a mild disease look serious. Verses 70-72 describe the errors that follow.",
+   "explanation_hi": "दृढ़ मन वाला, बलवान रोगी गंभीर रोग को हल्का दिखा सकता है, और दुर्बल, चिंतित रोगी हल्के रोग को गंभीर। श्लोक 70-72 इससे होने वाली गलतियाँ बताते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sattva",
+    "bala",
+    "vyādhi-bala"
+   ],
+   "tags": [
+    "diagnosis",
+    "clinical-practice"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.70",
+   "word_meanings": [
+    {
+     "sa": "गुरुम्",
+     "iast": "gurum",
+     "en": "a severe",
+     "hi": "गंभीर"
+    },
+    {
+     "sa": "लघुम्",
+     "iast": "laghum",
+     "en": "as mild",
+     "hi": "हल्का"
+    },
+    {
+     "sa": "इति",
+     "iast": "iti",
+     "en": "thus",
+     "hi": "इस प्रकार"
+    },
+    {
+     "sa": "व्याधिम्",
+     "iast": "vyādhim",
+     "en": "disease",
+     "hi": "रोग को"
+    },
+    {
+     "sa": "कल्पयन्",
+     "iast": "kalpayan",
+     "en": "judging",
+     "hi": "मानते हुए"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "परंतु"
+    },
+    {
+     "sa": "भिषग्ब्रुवः",
+     "iast": "bhiṣag-bruvaḥ",
+     "en": "a pseudo-physician",
+     "hi": "नाम मात्र का वैद्य"
+    },
+    {
+     "sa": "अल्पदोषाकलनया",
+     "iast": "alpa-doṣākalanayā",
+     "en": "by estimating the doṣa as slight",
+     "hi": "दोष को कम आँककर"
+    },
+    {
+     "sa": "पथ्ये",
+     "iast": "pathye",
+     "en": "in the regimen",
+     "hi": "पथ्य (उपचार) में"
+    },
+    {
+     "sa": "विप्रतिपद्यते",
+     "iast": "vipratipadyate",
+     "en": "goes wrong",
+     "hi": "गलती करता है"
+    }
+   ],
+   "english": "A pseudo-physician (bhiṣag-bruva), judging a severe disease to be mild and estimating the doṣa to be slight, goes wrong in the choice of regimen.",
+   "hindi": "नाम मात्र का वैद्य (भिषग्ब्रुव) गंभीर रोग को हल्का मानकर और दोष को कम आँककर उपचार के चुनाव में गलती करता है।",
+   "explanation_en": "Bhiṣag-bruva (one who merely calls himself a physician) is contrasted with the skilled vaidya. Misjudging severity leads to under-treatment (verse 71) or over-treatment (verse 72).",
+   "explanation_hi": "भिषग्ब्रुव (जो केवल स्वयं को वैद्य कहता है) की तुलना कुशल वैद्य से की गई है। गंभीरता का गलत आकलन कम चिकित्सा (श्लोक 71) या अधिक चिकित्सा (श्लोक 72) की ओर ले जाता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "bhiṣag-bruva",
+    "vyādhi-bala"
+   ],
+   "tags": [
+    "clinical-practice",
+    "chikitsa-siddhanta"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.71",
+   "word_meanings": [
+    {
+     "sa": "ततः",
+     "iast": "tataḥ",
+     "en": "then",
+     "hi": "तब"
+    },
+    {
+     "sa": "अल्पम्",
+     "iast": "alpam",
+     "en": "small (dose)",
+     "hi": "कम (मात्रा)"
+    },
+    {
+     "sa": "अल्पवीर्यम्",
+     "iast": "alpa-vīryam",
+     "en": "weak in potency",
+     "hi": "कम शक्ति वाली"
+    },
+    {
+     "sa": "वा",
+     "iast": "vā",
+     "en": "or",
+     "hi": "या"
+    },
+    {
+     "sa": "गुरुव्याधौ",
+     "iast": "guru-vyādhau",
+     "en": "in a severe disease",
+     "hi": "गंभीर रोग में"
+    },
+    {
+     "sa": "प्रयोजितम्",
+     "iast": "prayojitam",
+     "en": "administered",
+     "hi": "दी गई"
+    },
+    {
+     "sa": "उदीरयेत्तराम्",
+     "iast": "udīrayet-tarām",
+     "en": "aggravates even more",
+     "hi": "और अधिक भड़का देती है"
+    },
+    {
+     "sa": "रोगान्",
+     "iast": "rogān",
+     "en": "diseases",
+     "hi": "रोगों को"
+    },
+    {
+     "sa": "संशोधनम्",
+     "iast": "saṃśodhanam",
+     "en": "purification therapy",
+     "hi": "शोधन"
+    },
+    {
+     "sa": "अयोगतः",
+     "iast": "ayogataḥ",
+     "en": "by inadequate action",
+     "hi": "अयोग (अपर्याप्त प्रभाव) से"
+    }
+   ],
+   "english": "Then, medicine in a small dose or of weak potency, given in a severe disease, aggravates the disease even more; and so does purification therapy that acts inadequately (ayoga).",
+   "hindi": "तब गंभीर रोग में दी गई कम मात्रा या कम शक्ति वाली औषधि रोग को और अधिक भड़का देती है; और अपर्याप्त प्रभाव (अयोग) वाला शोधन भी ऐसा ही करता है।",
+   "explanation_en": "Under-treatment danger: inadequate śodhana (ayoga) only stirs up doṣas without removing them, worsening disease. Links to the ayoga/atiyoga/samyak-yoga signs of pañcakarma (AH Sū. 18).",
+   "explanation_hi": "कम चिकित्सा का खतरा: अपर्याप्त शोधन (अयोग) दोषों को केवल हिलाता है, निकालता नहीं, जिससे रोग बढ़ता है। पंचकर्म के अयोग/अतियोग/सम्यक् योग लक्षणों से जुड़ता है (अष्टांगहृदय सू. 18)।",
+   "modern_correlation": {
+    "en": "Under-dosing a serious illness, which may leave it inadequately controlled and allow it to progress, is a recognised problem in modern therapeutics too.",
+    "hi": "गंभीर रोग में कम मात्रा में दवा देना, जिससे रोग पर्याप्त नियंत्रित न हो और बढ़ जाए, आधुनिक चिकित्सा में भी एक मान्य समस्या है।"
+   },
+   "key_terms": [
+    "ayoga",
+    "saṃśodhana",
+    "guru-vyādhi"
+   ],
+   "tags": [
+    "chikitsa-siddhanta",
+    "panchakarma"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.72",
+   "word_meanings": [
+    {
+     "sa": "शोधनम्",
+     "iast": "śodhanam",
+     "en": "purification",
+     "hi": "शोधन"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "परंतु"
+    },
+    {
+     "sa": "अतियोगेन",
+     "iast": "atiyogena",
+     "en": "by excess",
+     "hi": "अतियोग से"
+    },
+    {
+     "sa": "विपरीतम्",
+     "iast": "viparītam",
+     "en": "opposite",
+     "hi": "विपरीत"
+    },
+    {
+     "sa": "विपर्यये",
+     "iast": "viparyaye",
+     "en": "in the reverse case",
+     "hi": "उलटी स्थिति में"
+    },
+    {
+     "sa": "क्षिणुयात्",
+     "iast": "kṣiṇuyāt",
+     "en": "would deplete",
+     "hi": "क्षीण करता है"
+    },
+    {
+     "sa": "न",
+     "iast": "na",
+     "en": "not",
+     "hi": "नहीं"
+    },
+    {
+     "sa": "मलान् एव",
+     "iast": "malān eva",
+     "en": "only the doṣas",
+     "hi": "केवल दोषों को"
+    },
+    {
+     "sa": "केवलम्",
+     "iast": "kevalam",
+     "en": "merely",
+     "hi": "केवल"
+    },
+    {
+     "sa": "वपुः",
+     "iast": "vapuḥ",
+     "en": "the body",
+     "hi": "शरीर को"
+    },
+    {
+     "sa": "अस्यति",
+     "iast": "asyati",
+     "en": "destroys, casts off",
+     "hi": "नष्ट कर देता है"
+    }
+   ],
+   "english": "In the reverse case (a mild disease judged severe), purification acting in excess (atiyoga) has the opposite (harmful) effect: it does not deplete the doṣas alone, it destroys the body itself.",
+   "hindi": "उलटी स्थिति में (हल्के रोग को गंभीर मान लेने पर) अतियोग वाला शोधन विपरीत (हानिकारक) प्रभाव करता है: यह केवल दोषों को ही नहीं घटाता, बल्कि शरीर को ही नष्ट कर देता है।",
+   "explanation_en": "Over-treatment danger: excessive śodhana depletes dhātus and can be life-threatening. Verses 70-72 together teach that dose must match disease strength.",
+   "explanation_hi": "अधिक चिकित्सा का खतरा: अधिक शोधन धातुओं को क्षीण करता है और जानलेवा हो सकता है। श्लोक 70-72 मिलकर सिखाते हैं कि मात्रा रोग के बल के अनुसार होनी चाहिए।",
+   "modern_correlation": null,
+   "key_terms": [
+    "atiyoga",
+    "śodhana",
+    "dhātu-kṣaya"
+   ],
+   "tags": [
+    "chikitsa-siddhanta",
+    "panchakarma"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.73",
+   "word_meanings": [
+    {
+     "sa": "अतः",
+     "iast": "ataḥ",
+     "en": "therefore",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "अभियुक्तः",
+     "iast": "abhiyuktaḥ",
+     "en": "diligent",
+     "hi": "सजग"
+    },
+    {
+     "sa": "सततम्",
+     "iast": "satatam",
+     "en": "always",
+     "hi": "सदा"
+    },
+    {
+     "sa": "सर्वम्",
+     "iast": "sarvam",
+     "en": "everything",
+     "hi": "सब कुछ"
+    },
+    {
+     "sa": "आलोच्य",
+     "iast": "ālocya",
+     "en": "having considered",
+     "hi": "विचार करके"
+    },
+    {
+     "sa": "सर्वथा",
+     "iast": "sarvathā",
+     "en": "in every way",
+     "hi": "हर प्रकार से"
+    },
+    {
+     "sa": "तथा",
+     "iast": "tathā",
+     "en": "in such a way",
+     "hi": "उस प्रकार"
+    },
+    {
+     "sa": "युञ्जीत",
+     "iast": "yuñjīta",
+     "en": "should apply",
+     "hi": "प्रयोग करे"
+    },
+    {
+     "sa": "भैषज्यम्",
+     "iast": "bhaiṣajyam",
+     "en": "medicine",
+     "hi": "औषधि"
+    },
+    {
+     "sa": "आरोग्याय",
+     "iast": "ārogyāya",
+     "en": "for health",
+     "hi": "आरोग्य के लिए"
+    },
+    {
+     "sa": "यथा",
+     "iast": "yathā",
+     "en": "so that",
+     "hi": "जिससे"
+    },
+    {
+     "sa": "ध्रुवम्",
+     "iast": "dhruvam",
+     "en": "certainly",
+     "hi": "निश्चित रूप से"
+    }
+   ],
+   "english": "Therefore, always diligent and considering everything in every way, one should apply medicine in such a manner that health is certainly achieved.",
+   "hindi": "इसलिए सदा सजग रहकर, हर प्रकार से सब कुछ विचार करके, औषधि का प्रयोग इस प्रकार करना चाहिए कि आरोग्य निश्चित रूप से प्राप्त हो।",
+   "explanation_en": "The concluding advice of the clinical section. Next (verses 74-78) the text counts the 62 combinations of doṣa vṛddhi and kṣaya.",
+   "explanation_hi": "नैदानिक भाग का समापन उपदेश। आगे (श्लोक 74-78) दोष वृद्धि और क्षय के 62 संयोगों की गणना है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "yukti",
+    "ārogya"
+   ],
+   "tags": [
+    "chikitsa-siddhanta"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.74",
+   "word_meanings": [
+    {
+     "sa": "वक्ष्यन्ते",
+     "iast": "vakṣyante",
+     "en": "will be described",
+     "hi": "बताए जाएँगे"
+    },
+    {
+     "sa": "अतः परम्",
+     "iast": "ataḥ param",
+     "en": "after this",
+     "hi": "इसके बाद"
+    },
+    {
+     "sa": "दोषाः",
+     "iast": "doṣāḥ",
+     "en": "the doṣas",
+     "hi": "दोष"
+    },
+    {
+     "sa": "वृद्धिक्षयविभेदतः",
+     "iast": "vṛddhi-kṣaya-vibhedataḥ",
+     "en": "by divisions of increase and decrease",
+     "hi": "वृद्धि और क्षय के भेद से"
+    },
+    {
+     "sa": "पृथक्",
+     "iast": "pṛthak",
+     "en": "singly",
+     "hi": "अलग-अलग"
+    },
+    {
+     "sa": "त्रीन्",
+     "iast": "trīn",
+     "en": "three",
+     "hi": "तीन"
+    },
+    {
+     "sa": "विद्धि",
+     "iast": "viddhi",
+     "en": "know",
+     "hi": "जानो"
+    },
+    {
+     "sa": "संसर्गः",
+     "iast": "saṃsargaḥ",
+     "en": "combination of two",
+     "hi": "दो का संयोग (संसर्ग)"
+    },
+    {
+     "sa": "त्रिधा",
+     "iast": "tridhā",
+     "en": "threefold",
+     "hi": "तीन प्रकार का"
+    },
+    {
+     "sa": "तत्र",
+     "iast": "tatra",
+     "en": "there",
+     "hi": "उसमें"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "परंतु"
+    },
+    {
+     "sa": "तान् नव",
+     "iast": "tān nava",
+     "en": "those as nine",
+     "hi": "उन्हें नौ"
+    }
+   ],
+   "english": "After this, the doṣas will be described by their divisions of increase and decrease. Know three (when increased) singly. The combinations of two (saṃsarga) are threefold, and in them (by degree) there are nine.",
+   "hindi": "इसके बाद दोषों का वृद्धि और क्षय के भेदों के अनुसार वर्णन किया जाएगा। अकेले बढ़े हुए दोष तीन हैं। दो दोषों के संयोग (संसर्ग) तीन प्रकार के हैं, और उनमें (मात्रा के भेद से) नौ भेद होते हैं।",
+   "explanation_en": "Verses 74-78 count the 62 doṣa-bhedas (plus the 63rd, balance = health). Vṛddhi: 3 single + 9 saṃsarga + 13 sannipāta = 25.",
+   "explanation_hi": "श्लोक 74-78 में 62 दोष भेद गिनाए गए हैं (और 63वाँ, साम्य = स्वास्थ्य)। वृद्धि: 3 एकल + 9 संसर्ग + 13 सन्निपात = 25।",
+   "modern_correlation": null,
+   "key_terms": [
+    "doṣa-bheda",
+    "saṃsarga",
+    "vṛddhi"
+   ],
+   "tags": [
+    "dosha",
+    "dosha-bheda-62"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.75",
+   "word_meanings": [
+    {
+     "sa": "त्रीन् एव",
+     "iast": "trīn eva",
+     "en": "three",
+     "hi": "तीन"
+    },
+    {
+     "sa": "समया वृद्ध्या",
+     "iast": "samayā vṛddhyā",
+     "en": "with equal increase",
+     "hi": "समान वृद्धि से"
+    },
+    {
+     "sa": "षट्",
+     "iast": "ṣaṭ",
+     "en": "six",
+     "hi": "छह"
+    },
+    {
+     "sa": "एकस्य अतिशायने",
+     "iast": "ekasya atiśāyane",
+     "en": "with one exceeding",
+     "hi": "एक के अधिक होने पर"
+    },
+    {
+     "sa": "त्रयोदश",
+     "iast": "trayo-daśa",
+     "en": "thirteen",
+     "hi": "तेरह"
+    },
+    {
+     "sa": "समस्तेषु",
+     "iast": "samasteṣu",
+     "en": "when all three are involved",
+     "hi": "तीनों के संयोग में"
+    },
+    {
+     "sa": "षट्",
+     "iast": "ṣaṭ",
+     "en": "six",
+     "hi": "छह"
+    },
+    {
+     "sa": "द्व्येकातिशयेन",
+     "iast": "dvy-ekātiśayena",
+     "en": "by excess of two or one",
+     "hi": "दो या एक की अधिकता से"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "परंतु"
+    }
+   ],
+   "english": "(The nine are:) three with equal increase (of the two), and six where one exceeds the other. When all three are involved (sannipāta), there are thirteen: six by the excess of two or of one,...",
+   "hindi": "(नौ भेद इस प्रकार:) तीन जिनमें दोनों दोष समान बढ़े हों, और छह जिनमें एक दोष दूसरे से अधिक हो। तीनों दोषों के संयोग (सन्निपात) में तेरह भेद हैं: छह जिनमें दो या एक दोष अधिक हो,...",
+   "explanation_en": "Saṃsarga 9 = 3 equal + 6 unequal. Sannipāta 13 = 6 (one or two dominant: 3 + 3) + 1 equal + 6 graded (verse 76).",
+   "explanation_hi": "संसर्ग 9 = 3 समान + 6 असमान। सन्निपात 13 = 6 (एक या दो प्रधान: 3 + 3) + 1 समान + 6 क्रमिक (श्लोक 76)।",
+   "modern_correlation": {
+    "en": "The counts follow simple combinatorics: 3 pairs × 3 patterns (equal, A>B, B>A) = 9; for three doṣas, 3 (one dominant) + 3 (two dominant) + 1 (all equal) + 6 (strict orderings, 3!) = 13.",
+    "hi": "ये संख्याएँ सरल संयोजन गणित से आती हैं: 3 जोड़े × 3 रूप (समान, A>B, B>A) = 9; तीन दोषों के लिए 3 (एक प्रधान) + 3 (दो प्रधान) + 1 (सब समान) + 6 (क्रमबद्ध, 3!) = 13।"
+   },
+   "key_terms": [
+    "saṃsarga",
+    "sannipāta",
+    "doṣa-bheda"
+   ],
+   "tags": [
+    "dosha",
+    "dosha-bheda-62"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.76",
+   "word_meanings": [
+    {
+     "sa": "एकम्",
+     "iast": "ekam",
+     "en": "one",
+     "hi": "एक"
+    },
+    {
+     "sa": "तुल्याधिकैः",
+     "iast": "tulyādhikaiḥ",
+     "en": "with all equally increased",
+     "hi": "सब समान रूप से बढ़े हुए"
+    },
+    {
+     "sa": "षट्",
+     "iast": "ṣaṭ",
+     "en": "six",
+     "hi": "छह"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "तारतम्यविकल्पनात्",
+     "iast": "tāratamya-vikalpanāt",
+     "en": "by gradation (more, most)",
+     "hi": "तारतम्य (अधिक, अधिकतम) के भेद से"
+    },
+    {
+     "sa": "पञ्चविंशतिम्",
+     "iast": "pañca-viṃśatim",
+     "en": "twenty-five",
+     "hi": "पच्चीस"
+    },
+    {
+     "sa": "इति",
+     "iast": "iti",
+     "en": "thus",
+     "hi": "इस प्रकार"
+    },
+    {
+     "sa": "एवम्",
+     "iast": "evam",
+     "en": "so",
+     "hi": "ऐसे"
+    },
+    {
+     "sa": "वृद्धैः",
+     "iast": "vṛddhaiḥ",
+     "en": "by the increased",
+     "hi": "बढ़े हुए (दोषों) से"
+    },
+    {
+     "sa": "क्षीणैः",
+     "iast": "kṣīṇaiḥ",
+     "en": "by the decreased",
+     "hi": "घटे हुए से"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "तावतः",
+     "iast": "tāvataḥ",
+     "en": "as many",
+     "hi": "उतने ही"
+    }
+   ],
+   "english": "...one with all three equally increased, and six by gradation (one most, one more, one less). Thus there are twenty-five varieties by increase, and as many by decrease.",
+   "hindi": "...एक जिसमें तीनों समान बढ़े हों, और छह तारतम्य (एक सबसे अधिक, एक उससे कम, एक सबसे कम) से। इस प्रकार वृद्धि के 25 भेद हैं, और उतने ही (25) क्षय के।",
+   "explanation_en": "Vṛddhi 25 (3 + 9 + 13) and kṣaya 25 (same pattern) = 50. The remaining 12 mixed states follow in verse 77.",
+   "explanation_hi": "वृद्धि 25 (3 + 9 + 13) और क्षय 25 (उसी प्रकार) = 50। शेष 12 मिश्रित अवस्थाएँ श्लोक 77 में हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "doṣa-bheda",
+    "vṛddhi",
+    "kṣaya",
+    "tāratamya"
+   ],
+   "tags": [
+    "dosha",
+    "dosha-bheda-62"
+   ],
+   "importance": "medium",
+   "mnemonic": "25 vṛddhi + 25 kṣaya + 12 mixed = 62; + 1 sāmya = 63",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.77",
+   "word_meanings": [
+    {
+     "sa": "एकैकवृद्धिसमताक्षयैः",
+     "iast": "ekaika-vṛddhi-samatā-kṣayaiḥ",
+     "en": "by one increased, one normal, one decreased",
+     "hi": "एक बढ़ा, एक सम, एक घटा"
+    },
+    {
+     "sa": "षट्",
+     "iast": "ṣaṭ",
+     "en": "six",
+     "hi": "छह"
+    },
+    {
+     "sa": "ते",
+     "iast": "te",
+     "en": "they",
+     "hi": "वे"
+    },
+    {
+     "sa": "पुनः",
+     "iast": "punaḥ",
+     "en": "again",
+     "hi": "फिर"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "षट्",
+     "iast": "ṣaṭ",
+     "en": "six",
+     "hi": "छह"
+    },
+    {
+     "sa": "एकक्षयद्वन्द्ववृद्ध्या",
+     "iast": "eka-kṣaya-dvandva-vṛddhyā",
+     "en": "by one decreased and two increased",
+     "hi": "एक घटा और दो बढ़े"
+    },
+    {
+     "sa": "सविपर्ययया",
+     "iast": "sa-viparyayayā",
+     "en": "together with its reverse",
+     "hi": "उसके उलट सहित"
+    },
+    {
+     "sa": "अपि",
+     "iast": "api",
+     "en": "also",
+     "hi": "भी"
+    },
+    {
+     "sa": "ते",
+     "iast": "te",
+     "en": "they",
+     "hi": "वे"
+    }
+   ],
+   "english": "With one increased, one normal and one decreased, there are six; and again six with one decreased and two increased, together with its reverse (one increased and two decreased).",
+   "hindi": "एक दोष बढ़ा, एक सम और एक घटा हो, ऐसे छह भेद हैं; और फिर छह भेद एक घटा और दो बढ़े, तथा इसके उलट (एक बढ़ा और दो घटे) से।",
+   "explanation_en": "Mixed states: 6 (one ↑, one =, one ↓: 3! permutations) + 3 (one ↓, two ↑) + 3 (one ↑, two ↓) = 12. Total 25 + 25 + 12 = 62.",
+   "explanation_hi": "मिश्रित अवस्थाएँ: 6 (एक ↑, एक =, एक ↓: 3! क्रमचय) + 3 (एक ↓, दो ↑) + 3 (एक ↑, दो ↓) = 12। कुल 25 + 25 + 12 = 62।",
+   "modern_correlation": null,
+   "key_terms": [
+    "doṣa-bheda",
+    "vṛddhi-kṣaya"
+   ],
+   "tags": [
+    "dosha",
+    "dosha-bheda-62"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.12.78",
+   "word_meanings": [
+    {
+     "sa": "भेदाः",
+     "iast": "bhedāḥ",
+     "en": "varieties",
+     "hi": "भेद"
+    },
+    {
+     "sa": "द्विषष्टिः",
+     "iast": "dvi-ṣaṣṭiḥ",
+     "en": "sixty-two",
+     "hi": "बासठ"
+    },
+    {
+     "sa": "निर्दिष्टाः",
+     "iast": "nirdiṣṭāḥ",
+     "en": "are described",
+     "hi": "बताए गए हैं"
+    },
+    {
+     "sa": "त्रिषष्टिः",
+     "iast": "tri-ṣaṣṭiḥ",
+     "en": "the sixty-third",
+     "hi": "तिरसठवाँ"
+    },
+    {
+     "sa": "स्वास्थ्यकारणम्",
+     "iast": "svāsthya-kāraṇam",
+     "en": "the cause of health",
+     "hi": "स्वास्थ्य का कारण"
+    },
+    {
+     "sa": "संसर्गात्",
+     "iast": "saṃsargāt",
+     "en": "by association",
+     "hi": "संयोग से"
+    },
+    {
+     "sa": "रसरुधिरादिभिः",
+     "iast": "rasa-rudhirādibhiḥ",
+     "en": "with rasa, blood and the other (tissues)",
+     "hi": "रस, रक्त आदि (धातुओं) के साथ"
+    },
+    {
+     "sa": "तथा",
+     "iast": "tathā",
+     "en": "also",
+     "hi": "तथा"
+    },
+    {
+     "sa": "एषाम्",
+     "iast": "eṣām",
+     "en": "of these",
+     "hi": "इनके"
+    },
+    {
+     "sa": "दोषान्",
+     "iast": "doṣān",
+     "en": "the doṣas",
+     "hi": "दोषों को"
+    },
+    {
+     "sa": "क्षयसमताविवृद्धिभेदैः",
+     "iast": "kṣaya-samatā-vivṛddhi-bhedaiḥ",
+     "en": "by divisions of decrease, balance and increase",
+     "hi": "क्षय, समता और वृद्धि के भेदों से"
+    },
+    {
+     "sa": "आनन्त्यम्",
+     "iast": "ānantyam",
+     "en": "infinity",
+     "hi": "अनंतता"
+    },
+    {
+     "sa": "तरतमयोगतः",
+     "iast": "tara-tama-yogataḥ",
+     "en": "by degrees of gradation",
+     "hi": "तारतम्य के योग से"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "यातान्",
+     "iast": "yātān",
+     "en": "having reached",
+     "hi": "प्राप्त हुए"
+    },
+    {
+     "sa": "जानीयात्",
+     "iast": "jānīyāt",
+     "en": "should know",
+     "hi": "जानना चाहिए"
+    },
+    {
+     "sa": "अवहितमानसः",
+     "iast": "avahita-mānasaḥ",
+     "en": "with attentive mind",
+     "hi": "सावधान मन से"
+    },
+    {
+     "sa": "यथास्वम्",
+     "iast": "yathā-svam",
+     "en": "each by its own (features)",
+     "hi": "अपने-अपने लक्षणों से"
+    }
+   ],
+   "english": "Sixty-two varieties have been described; the sixty-third (all three in balance) is the cause of health. Further, by their association with rasa, blood and the other dhātus, and by the divisions of decrease, balance and increase with their degrees of gradation, the doṣas become infinite; the physician, with an attentive mind, should understand each by its own features.",
+   "hindi": "बासठ भेद बताए गए हैं; तिरसठवाँ (तीनों दोषों की समता) स्वास्थ्य का कारण है। साथ ही, रस, रक्त आदि धातुओं के संयोग से, और क्षय, समता तथा वृद्धि के भेदों और उनके तारतम्य से दोष अनंत हो जाते हैं; वैद्य को सावधान मन से हर एक को उसके अपने लक्षणों से समझना चाहिए।",
+   "explanation_en": "The chapter ends: 62 doṣa-bhedas + 1 (sāmya) = 63, and with dhātu involvement and degrees they are infinite. Note the parallel with chapter 10, where tastes also number 63 but are ultimately countless. 'Doṣa bheda 62' is a common MCQ.",
+   "explanation_hi": "अध्याय का समापन: 62 दोष भेद + 1 (साम्य) = 63, और धातुओं के संयोग तथा तारतम्य से ये अनंत हैं। अध्याय 10 से समानता देखें, जहाँ रस भी 63 हैं पर अंततः अनगिनत। 'दोष भेद 62' आम MCQ है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "doṣa-bheda",
+    "62-bheda",
+    "sāmya",
+    "svāsthya"
+   ],
+   "tags": [
+    "dosha",
+    "dosha-bheda-62"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  }
+ ]
+}

@@ -5,13 +5,20 @@ import { DarkTheme, DefaultTheme, Stack, ThemeProvider } from 'expo-router';
 import * as SplashScreen from 'expo-splash-screen';
 import { StatusBar } from 'expo-status-bar';
 import React, { useEffect } from 'react';
-import { View } from 'react-native';
+import { Platform, View } from 'react-native';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 
 import { usePalette } from '@/hooks';
 import { StoreProvider, useStore } from '@/state/store';
 
 SplashScreen.preventAutoHideAsync().catch(() => {});
+
+// Web only: inputs already show a border; hide the default browser focus ring.
+if (Platform.OS === 'web' && typeof document !== 'undefined') {
+  const style = document.createElement('style');
+  style.textContent = 'input:focus, textarea:focus { outline: none; }';
+  document.head.appendChild(style);
+}
 
 function Shell() {
   const p = usePalette();

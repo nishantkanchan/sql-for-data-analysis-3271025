@@ -83,6 +83,7 @@ def parse_ah() -> list[dict]:
     chapter_counter: dict[str, int] = {}
     buf: list[str] = []
     started = False
+    prev_variant = False
     for raw in lines:
         line = raw.rstrip()
         stripped = line.strip()
@@ -100,9 +101,15 @@ def parse_ah() -> list[dict]:
         if mv:
             if verses:
                 verses[-1]["variants"].append({"pada": mv.group(3), "reading": mv.group(4).strip()})
+            prev_variant = True
             continue
         if raw.startswith(" ") or raw.startswith("\t"):
             continue
+        # A variant note that wrapped onto the next line has no danda; keep it with the variant.
+        if prev_variant and "|" not in stripped and verses and verses[-1]["variants"]:
+            verses[-1]["variants"][-1]["reading"] += " " + stripped
+            continue
+        prev_variant = False
         buf.append(stripped)
         m = AH_VERSE_END.search(stripped)
         if m:
@@ -112,7 +119,9 @@ def parse_ah() -> list[dict]:
             ch = chapter_counter[sthana_key]
             text_iast = "\n".join(buf)
             # merge split verses like 78ab, 78c, 78d ... into a single record
-            if part and part[0] != "a" and verses and verses[-1]["chapter"] == ch and verses[-1]["sthana"] == key and verses[-1]["verse"] == num:
+            same_as_last = bool(verses) and verses[-1]["chapter"] == ch and verses[-1]["sthana"] == key and verses[-1]["verse"] == num
+            # merge split verses (78ab, 78c, ...) and accidental duplicate numbers into one record
+            if same_as_last and (not part or part[0] != "a"):
                 verses[-1]["iast"] += "\n" + text_iast
                 verses[-1]["devanagari"] = to_devanagari(verses[-1]["iast"])
             else:

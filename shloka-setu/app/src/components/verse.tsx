@@ -13,7 +13,7 @@ import { AiDraftBadge, Card, Chip, Row, Segmented, T } from './ui';
 export type MaskMode = 'full' | 'some' | 'most' | 'first' | 'lines';
 
 const MARKS = /[ऀ-ःऺ-ॏ॑-ॗॢॣ]/;
-const PUNCT = /^[।॥|\d०-९()\[\]\-–—.,;:'"]+$/;
+const PUNCT = /^[।॥|\d०-९()\[\]\-–—.,;:'"\u00A0]+$/;
 
 /** First akṣara of a Devanagari (or Latin) word, for "first letters" memorisation. */
 export function firstAkshara(word: string): string {
@@ -47,47 +47,50 @@ export function ShlokaText({ devanagari, iast, showIast, mode = 'full', revealed
   const [revealed, setRevealed] = useState<Set<string>>(new Set());
   useEffect(() => setRevealed(new Set()), [mode, devanagari]);
   const text = showIast ? iast : devanagari;
-  const lines = useMemo(() => text.split('\n').filter((l) => l.trim().length > 0), [text]);
+  const lines = useMemo(() => text.split('\n').filter((l) => l.trim().length > 0).map(glueMarks), [text]);
   const fontSize = showIast ? Math.round(size * 0.72) : size;
   const lineHeight = Math.round(fontSize * (showIast ? 1.55 : 1.75));
 
   return (
-    <View style={{ gap: 2 }} testID="shloka-text">
+    <View style={{ gap: 8 }} testID="shloka-text">
       {lines.map((line, li) => {
         const lineHidden = mode === 'lines' && li >= revealedLines;
-        const words = line.split(/(\s+)/);
+        const words = line.split(/( +)/);
         let wi = 0;
         return (
-          <Text
-            key={li}
-            style={{ fontFamily: fonts.sanskrit, fontSize, lineHeight, color: p.text, textAlign: 'center' }}>
+          <Text key={li} style={{ fontFamily: fonts.sanskrit, fontSize, lineHeight, color: p.text, textAlign: 'center' }}>
             {words.map((w, k) => {
-              if (/^\s+$/.test(w) || w.length === 0) return w;
+              if (w.length === 0 || /^ +$/.test(w)) return w;
               const idx = wi++;
               const key = `${li}:${idx}`;
-              const isPunct = PUNCT.test(w);
-              let hide = false;
-              let shown = w;
-              if (!isPunct && !revealed.has(key)) {
-                if (lineHidden) hide = true;
-                else if (mode === 'some') hide = idx % 3 === 1;
-                else if (mode === 'most') hide = idx % 3 !== 0;
-                else if (mode === 'first') shown = firstAkshara(w) + '…';
+              // split off trailing dandas / verse number so they are never hidden
+              const m = /^(.*?)((?:\u00A0)?[।॥|].*)?$/.exec(w)!;
+              const core = m[1];
+              const tail = m[2] ?? '';
+              if (!core || PUNCT.test(core) || revealed.has(key) || mode === 'full' || (mode === 'lines' && !lineHidden)) {
+                return <Text key={k}>{w}</Text>;
               }
+              const reveal = () => setRevealed((s) => new Set(s).add(key));
+              let hide = lineHidden;
+              if (!hide && mode === 'some') hide = idx % 3 === 1;
+              if (!hide && mode === 'most') hide = idx % 3 !== 0;
               if (hide) {
                 return (
-                  <Text
-                    key={k}
-                    onPress={() => setRevealed((s) => new Set(s).add(key))}
-                    style={{ color: 'transparent', backgroundColor: p.surfaceAlt, borderRadius: 6 }}>
-                    {w}
+                  <Text key={k}>
+                    <Text onPress={reveal} style={{ color: 'transparent', backgroundColor: p.surfaceAlt, borderRadius: 6 }}>
+                      {core}
+                    </Text>
+                    {tail}
                   </Text>
                 );
               }
-              if (shown !== w) {
+              if (mode === 'first') {
                 return (
-                  <Text key={k} onPress={() => setRevealed((s) => new Set(s).add(key))} style={{ color: p.textMuted }}>
-                    {shown}
+                  <Text key={k}>
+                    <Text onPress={reveal} style={{ color: p.textMuted }}>
+                      {firstAkshara(core) + '…'}
+                    </Text>
+                    {tail}
                   </Text>
                 );
               }
@@ -98,6 +101,13 @@ export function ShlokaText({ devanagari, iast, showIast, mode = 'full', revealed
       })}
     </View>
   );
+}
+
+/** Keep dandas and "॥ ६ ॥" verse numbers attached to the preceding word so they never wrap alone. */
+export function glueMarks(line: string): string {
+  return line
+    .replace(/ *([।॥|]+) *([०-९\d]+) *([।॥|]+)/g, '\u00A0$1\u00A0$2\u00A0$3')
+    .replace(/ +([।॥|]+)/g, '\u00A0$1');
 }
 
 export function SpeakButton({ devanagari, testID }: { devanagari: string; testID?: string }) {

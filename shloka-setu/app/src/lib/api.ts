@@ -46,12 +46,15 @@ const json = (body: unknown): RequestInit => ({
   body: JSON.stringify(body),
 });
 
+/** The server accepts en | hi | hinglish and always returns both English and Hindi fields. */
+const apiLang = (lang: 'en' | 'hi' | 'both') => (lang === 'hi' ? 'hi' : 'en');
+
 export function scanImage(base: string, imageBase64: string, mediaType: string, lang: 'en' | 'hi' | 'both') {
-  return request<ScanResult>(base, '/v1/scan', json({ imageBase64, mediaType, lang }), 60_000);
+  return request<ScanResult>(base, '/v1/scan', json({ imageBase64, mediaType, lang: apiLang(lang) }), 60_000);
 }
 
 export function explainText(base: string, text: string, lang: 'en' | 'hi' | 'both') {
-  return request<ScanResult>(base, '/v1/explain', json({ text, lang }), 45_000);
+  return request<ScanResult>(base, '/v1/explain', json({ text, lang: apiLang(lang) }), 45_000);
 }
 
 export function askTutor(base: string, messages: TutorMessage[], verseId?: string) {

@@ -12039,6 +12039,778 @@
         "bhishak"
       ],
       "review_status": "ai_draft"
+    },
+    {
+      "id": "panchakarma",
+      "devanagari": "पञ्चकर्म",
+      "iast": "pañcakarma",
+      "simple": "Panchakarma",
+      "en": "The five purification procedures. Caraka: vamana, virecana, nirūha (āsthāpana) basti, anuvāsana basti and nasya (śirovirecana). Suśruta counts basti as one and includes raktamokṣaṇa. Performed with pūrvakarma and paścātkarma.",
+      "hi": "पञ्चकर्म - पाँच शोधन कर्म; चरक: वमन, विरेचन, निरूह, अनुवासन, नस्य; सुश्रुत: बस्ति एक, रक्तमोक्षण सम्मिलित।",
+      "modern": "Comparable to structured elimination/detoxification protocols; evidence varies by procedure.",
+      "category": "panchakarma",
+      "source_refs": [
+        "CS.siddhi.1",
+        "CS.sutra.2",
+        "AH.sutra.14.5"
+      ],
+      "related": [
+        "purvakarma",
+        "pradhanakarma",
+        "pashchatkarma",
+        "vamana",
+        "virechana",
+        "basti-karma",
+        "nasya",
+        "raktamokshana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "purvakarma",
+      "devanagari": "पूर्वकर्म",
+      "iast": "pūrvakarma",
+      "simple": "Purvakarma",
+      "en": "Preparatory procedures before main śodhana: dīpana-pācana (to digest āma), snehana and svedana, which loosen doṣas and bring them from the periphery (śākhā) to the koṣṭha.",
+      "hi": "पूर्वकर्म - शोधन से पहले: दीपन-पाचन, स्नेहन, स्वेदन; दोषों को शाखा से कोष्ठ में लाना।",
+      "modern": "Preparatory phase.",
+      "category": "panchakarma",
+      "source_refs": [
+        "CS.sutra.13",
+        "CS.sutra.14"
+      ],
+      "related": [
+        "snehana",
+        "svedana",
+        "pradhanakarma"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "pradhanakarma",
+      "devanagari": "प्रधानकर्म",
+      "iast": "pradhānakarma",
+      "simple": "Pradhanakarma",
+      "en": "The main procedure itself (vamana, virecana, basti, nasya or raktamokṣaṇa).",
+      "hi": "प्रधानकर्म - मुख्य शोधन कर्म।",
+      "modern": "Main procedure.",
+      "category": "panchakarma",
+      "source_refs": [],
+      "related": [
+        "purvakarma",
+        "pashchatkarma",
+        "panchakarma"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "pashchatkarma",
+      "devanagari": "पश्चात्कर्म",
+      "iast": "paścātkarma",
+      "simple": "Pashchatkarma",
+      "en": "Post-procedure care: dhūmapāna (after vamana), saṃsarjana krama (graded diet), rasāyana and avoidance of the eight strainful activities (parihārya viṣaya).",
+      "hi": "पश्चात्कर्म - शोधन के बाद: धूमपान, संसर्जन क्रम, रसायन, परिहार्य विषयों का त्याग।",
+      "modern": "Post-procedure care.",
+      "category": "panchakarma",
+      "source_refs": [
+        "CS.siddhi.1"
+      ],
+      "related": [
+        "samsarjana-krama"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "snehana",
+      "devanagari": "स्नेहन",
+      "iast": "snehana",
+      "simple": "Snehana",
+      "en": "Oleation therapy producing unctuousness, softness and moistness: internal (snehapāna) and external (abhyaṅga etc.). The four mahāsnehas are sarpis (ghee), majjā, vasā and taila; ghee is the best.",
+      "hi": "स्नेहन - शरीर में स्निग्धता लाने वाली चिकित्सा; आभ्यन्तर (स्नेहपान) और बाह्य (अभ्यंग); चार महास्नेह, घृत श्रेष्ठ।",
+      "modern": "Oleation (internal intake of medicated fats and external oil application).",
+      "category": "panchakarma",
+      "source_refs": [
+        "AH.sutra.16.1",
+        "AH.sutra.16.2",
+        "CS.sutra.13"
+      ],
+      "related": [
+        "snehapana",
+        "abhyanga",
+        "ghrita",
+        "taila",
+        "shadupakrama"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "snehapana",
+      "devanagari": "स्नेहपान",
+      "iast": "snehapāna",
+      "simple": "Snehapana",
+      "en": "Internal intake of sneha. Types by purpose: śodhanāṅga (before śodhana, in increasing doses), śamana (for pacification, before food when hungry) and bṛṃhaṇa (with food). Acchapāna is sneha taken alone.",
+      "hi": "स्नेहपान - स्नेह का पान; शोधनाङ्ग (वर्धमान मात्रा), शमन, बृंहण; अच्छपान = केवल स्नेह।",
+      "modern": "",
+      "category": "panchakarma",
+      "source_refs": [
+        "AH.sutra.16",
+        "CS.sutra.13"
+      ],
+      "related": [
+        "snehana",
+        "achchhapana",
+        "samyak-snigdha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "achchhapana",
+      "devanagari": "अच्छपान",
+      "iast": "acchapāna",
+      "simple": "Achchhapana",
+      "en": "Drinking pure sneha without mixing it with food (vicāraṇā); the best form of snehapāna for śodhana preparation.",
+      "hi": "अच्छपान - बिना अन्न मिलाए केवल स्नेह पीना; शोधन हेतु श्रेष्ठ।",
+      "modern": "",
+      "category": "panchakarma",
+      "source_refs": [
+        "AH.sutra.16",
+        "CS.sutra.13"
+      ],
+      "related": [
+        "snehapana",
+        "vicharana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "vicharana",
+      "devanagari": "विचारणा",
+      "iast": "vicāraṇā",
+      "simple": "Vicharana Sneha",
+      "en": "Sneha given mixed with food or other preparations (e.g. in rice, soups, milk), for those who cannot take pure sneha; Caraka lists 24 such forms.",
+      "hi": "विचारणा स्नेह - अन्न आदि में मिलाकर दिया गया स्नेह; चरक 24 प्रकार।",
+      "modern": "",
+      "category": "panchakarma",
+      "source_refs": [
+        "CS.sutra.13"
+      ],
+      "related": [
+        "achchhapana",
+        "snehapana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "samyak-snigdha",
+      "devanagari": "सम्यक् स्निग्ध लक्षण",
+      "iast": "samyak snigdha lakṣaṇa",
+      "simple": "Samyak Snigdha Lakshana",
+      "en": "Signs of proper oleation: vāta moving downward (anulomana), good appetite, unctuous and unformed stools, softness and unctuousness of the body, and aversion to sneha with tiredness.",
+      "hi": "सम्यक् स्निग्ध लक्षण - वातानुलोमन, दीप्त अग्नि, स्निग्ध-असंहत मल, अंगों में मृदुता-स्निग्धता, स्नेह से अरुचि।",
+      "modern": "",
+      "category": "panchakarma",
+      "source_refs": [
+        "CS.sutra.13",
+        "AH.sutra.16"
+      ],
+      "related": [
+        "snehapana",
+        "samyak-yoga"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "svedana",
+      "devanagari": "स्वेदन",
+      "iast": "svedana",
+      "simple": "Svedana",
+      "en": "Sudation therapy that relieves stiffness, heaviness and cold and induces sweating. Caraka: 13 sāgni (with fire) and 10 niragni (without fire) types; Vāgbhaṭa: four types - tāpa, upanāha, ūṣma and drava.",
+      "hi": "स्वेदन - स्तम्भ, गौरव, शीत दूर कर पसीना लाने वाली चिकित्सा; चरक: 13 साग्नि, 10 निरग्नि; वाग्भट: ताप, उपनाह, ऊष्म, द्रव।",
+      "modern": "Comparable to thermal therapy/fomentation (heat increases circulation and relieves muscle spasm).",
+      "category": "panchakarma",
+      "source_refs": [
+        "AH.sutra.17.1",
+        "CS.sutra.14"
+      ],
+      "related": [
+        "sagni-sveda",
+        "niragni-sveda",
+        "nadi-sveda",
+        "pinda-sveda",
+        "shadupakrama"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "sagni-sveda",
+      "devanagari": "साग्नि स्वेद",
+      "iast": "sāgni sveda",
+      "simple": "Sagni Sveda",
+      "en": "Sudation using fire/heat; Caraka's 13 types: saṅkara, prastara, nāḍī, pariṣeka, avagāha, jentāka, aśmaghna, karṣū, kuṭī, bhū, kumbhī, kūpa and holāka.",
+      "hi": "साग्नि स्वेद - अग्नि द्वारा स्वेद; 13 प्रकार: सङ्कर, प्रस्तर, नाडी, परिषेक, अवगाह, जेन्ताक आदि।",
+      "modern": "",
+      "category": "panchakarma",
+      "source_refs": [
+        "CS.sutra.14"
+      ],
+      "related": [
+        "svedana",
+        "niragni-sveda",
+        "nadi-sveda"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "niragni-sveda",
+      "devanagari": "निरग्नि स्वेद",
+      "iast": "niragni sveda",
+      "simple": "Niragni Sveda",
+      "en": "Sudation without fire; Caraka's 10 means: vyāyāma (exercise), uṣṇa sadana (warm room), guru prāvaraṇa (heavy covering), kṣudhā (hunger), bahupāna (much drinking), bhaya (fear), krodha (anger), upanāha (poultice), āhava (fighting) and ātapa (sunlight).",
+      "hi": "निरग्नि स्वेद - बिना अग्नि; 10 प्रकार: व्यायाम, उष्ण सदन, गुरु प्रावरण, क्षुधा, बहुपान, भय, क्रोध, उपनाह, आहव, आतप।",
+      "modern": "",
+      "category": "panchakarma",
+      "source_refs": [
+        "CS.sutra.14"
+      ],
+      "related": [
+        "svedana",
+        "sagni-sveda"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "nadi-sveda",
+      "devanagari": "नाडी स्वेद",
+      "iast": "nāḍī sveda",
+      "simple": "Nadi Sveda",
+      "en": "Steam directed through a tube (nāḍī) from a vessel of boiling decoction onto a body part.",
+      "hi": "नाडी स्वेद - नली द्वारा क्वाथ की भाप शरीर के भाग पर देना।",
+      "modern": "Localised steam therapy.",
+      "category": "panchakarma",
+      "source_refs": [
+        "CS.sutra.14"
+      ],
+      "related": [
+        "sagni-sveda"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "pinda-sveda",
+      "devanagari": "पिण्ड स्वेद",
+      "iast": "piṇḍa sveda",
+      "simple": "Pinda Sveda",
+      "en": "Sudation with heated boluses (piṇḍa/poṭṭalī) of herbs, sand, leaves (patra piṇḍa) or rice cooked in milk and decoction (ṣaṣṭika-śāli piṇḍa sveda, njavarakizhi); a form of saṅkara sveda.",
+      "hi": "पिण्ड स्वेद - गरम पोटली से स्वेद (पत्र पिण्ड, षष्टिकशालि पिण्ड स्वेद)।",
+      "modern": "Bolus fomentation.",
+      "category": "panchakarma",
+      "source_refs": [
+        "CS.sutra.14"
+      ],
+      "related": [
+        "sagni-sveda",
+        "nirgundi"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "vamana",
+      "devanagari": "वमन",
+      "iast": "vamana",
+      "simple": "Vamana",
+      "en": "Therapeutic emesis: expulsion of doṣas, chiefly kapha, through the mouth; best treatment for kapha (e.g. kāsa, śvāsa, kuṣṭha with kapha). Śuddhi graded by vegas: 8 pravara, 6 madhyama, 4 avara.",
+      "hi": "वमन - मुख द्वारा दोष (मुख्यतः कफ) का निष्कासन; कफ की श्रेष्ठ चिकित्सा; वेग: 8 प्रवर, 6 मध्यम, 4 अवर।",
+      "modern": "Therapeutic emesis.",
+      "category": "panchakarma",
+      "source_refs": [
+        "AH.sutra.18.1",
+        "CS.siddhi.1",
+        "CS.kalpa.1"
+      ],
+      "related": [
+        "vamaka",
+        "madanaphala",
+        "shuddhi",
+        "panchakarma"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "virechana",
+      "devanagari": "विरेचन",
+      "iast": "virecana",
+      "simple": "Virechana",
+      "en": "Therapeutic purgation: expulsion of doṣas, chiefly pitta, through the anus; best treatment for pitta. Śuddhi graded by vegas: 30 pravara, 20 madhyama, 10 avara.",
+      "hi": "विरेचन - गुदा द्वारा दोष (मुख्यतः पित्त) का निष्कासन; पित्त की श्रेष्ठ चिकित्सा; वेग: 30, 20, 10।",
+      "modern": "Therapeutic purgation.",
+      "category": "panchakarma",
+      "source_refs": [
+        "AH.sutra.18",
+        "CS.siddhi.1"
+      ],
+      "related": [
+        "rechana",
+        "trivrit",
+        "koshtha",
+        "shuddhi",
+        "panchakarma"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "basti-karma",
+      "devanagari": "बस्ति कर्म",
+      "iast": "basti karma",
+      "simple": "Basti Karma",
+      "en": "Medicated enema given through the anus (also urethra/vagina as uttara basti); the best treatment for vāta and called 'half of all treatment' (ardha-cikitsā) by Caraka. Main types: nirūha (decoction) and anuvāsana (oil).",
+      "hi": "बस्ति कर्म - गुदा मार्ग से औषध प्रवेश (एनिमा); वात की श्रेष्ठ चिकित्सा; अर्धचिकित्सा; निरूह और अनुवासन।",
+      "modern": "Medicated enema; rectal absorption allows local and systemic effects.",
+      "category": "panchakarma",
+      "source_refs": [
+        "AH.sutra.19.1",
+        "CS.siddhi.1"
+      ],
+      "related": [
+        "niruha",
+        "anuvasana",
+        "matra-basti",
+        "uttara-basti",
+        "basti",
+        "panchakarma"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "niruha",
+      "devanagari": "निरूह",
+      "iast": "nirūha",
+      "simple": "Niruha Basti",
+      "en": "Decoction-based cleansing enema (also āsthāpana, 'that which establishes life/age'), prepared by mixing in order honey, salt, sneha, kalka and kvātha.",
+      "hi": "निरूह (आस्थापन) बस्ति - क्वाथ प्रधान शोधन बस्ति; क्रम: मधु, सैन्धव, स्नेह, कल्क, क्वाथ।",
+      "modern": "Decoction enema.",
+      "category": "panchakarma",
+      "source_refs": [
+        "AH.sutra.19",
+        "CS.siddhi.3"
+      ],
+      "related": [
+        "basti-karma",
+        "anuvasana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "anuvasana",
+      "devanagari": "अनुवासन",
+      "iast": "anuvāsana",
+      "simple": "Anuvasana Basti",
+      "en": "Oil-based enema that can remain in the body without harm ('anuvasan' = staying); given after food, it nourishes and pacifies vāta.",
+      "hi": "अनुवासन बस्ति - स्नेह प्रधान बस्ति, शरीर में रुक सके; भोजन के बाद।",
+      "modern": "Oil enema.",
+      "category": "panchakarma",
+      "source_refs": [
+        "AH.sutra.19",
+        "CS.siddhi.4"
+      ],
+      "related": [
+        "basti-karma",
+        "niruha",
+        "matra-basti"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "matra-basti",
+      "devanagari": "मात्रा बस्ति",
+      "iast": "mātrā basti",
+      "simple": "Matra Basti",
+      "en": "A small-dose anuvāsana basti (equal to the minimum dose of snehapāna) that can be given daily to children, the elderly and the weak without strict restrictions.",
+      "hi": "मात्रा बस्ति - अल्प मात्रा अनुवासन; बालक, वृद्ध, दुर्बल को प्रतिदिन; विशेष परहेज़ नहीं।",
+      "modern": "Small-volume oil enema.",
+      "category": "panchakarma",
+      "source_refs": [
+        "CS.siddhi.4",
+        "AH.sutra.19"
+      ],
+      "related": [
+        "anuvasana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "uttara-basti",
+      "devanagari": "उत्तर बस्ति",
+      "iast": "uttara basti",
+      "simple": "Uttara Basti",
+      "en": "Basti given through the urethra (in men and women) or vagina (in women), used for urinary and genital disorders.",
+      "hi": "उत्तर बस्ति - मूत्रमार्ग या योनिमार्ग से बस्ति; मूत्र-जनन विकारों में।",
+      "modern": "Comparable to intravesical/intrauterine instillation.",
+      "category": "panchakarma",
+      "source_refs": [
+        "CS.siddhi.9",
+        "SS.chikitsa.37"
+      ],
+      "related": [
+        "basti-karma",
+        "yonivyapad"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "karma-basti",
+      "devanagari": "कर्म बस्ति",
+      "iast": "karma basti",
+      "simple": "Karma / Kala / Yoga Basti",
+      "en": "Basti courses alternating anuvāsana and nirūha: karma basti 30 (18 anuvāsana + 12 nirūha), kāla basti 16 (10 + 6; Caraka's verse calls it half of karma basti) and yoga basti 8 (5 + 3).",
+      "hi": "कर्म बस्ति 30 (18 अनुवासन + 12 निरूह), काल बस्ति 16 (10+6), योग बस्ति 8 (5+3)।",
+      "modern": "",
+      "category": "panchakarma",
+      "source_refs": [
+        "CS.siddhi.1"
+      ],
+      "related": [
+        "basti-karma",
+        "niruha",
+        "anuvasana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "nasya",
+      "devanagari": "नस्य",
+      "iast": "nasya",
+      "simple": "Nasya",
+      "en": "Administration of medicine through the nose, the gateway to the head, for diseases above the clavicle (ūrdhvajatru). Vāgbhaṭa: virecana, bṛṃhaṇa and śamana by action; marśa and pratimarśa by dose; also avapīḍa and dhmāna/pradhamana.",
+      "hi": "नस्य - नासा (शिर का द्वार) से औषध; ऊर्ध्वजत्रु रोगों में; विरेचन, बृंहण, शमन; मर्श, प्रतिमर्श, अवपीड, प्रधमन।",
+      "modern": "Intranasal drug administration.",
+      "category": "panchakarma",
+      "source_refs": [
+        "AH.sutra.20.1",
+        "AH.sutra.20.2",
+        "AH.sutra.20.3",
+        "CS.siddhi.9"
+      ],
+      "related": [
+        "pratimarsha",
+        "avapida",
+        "pradhamana",
+        "shirovirechana",
+        "panchakarma"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "shirovirechana",
+      "devanagari": "शिरोविरेचन",
+      "iast": "śirovirecana",
+      "simple": "Shirovirechana",
+      "en": "Purgation of the head: nasya with sharp drugs to expel kapha and doṣas from the head; Caraka's name for nasya among the pañcakarma.",
+      "hi": "शिरोविरेचन - तीक्ष्ण द्रव्यों से शिर के दोषों का निष्कासन।",
+      "modern": "",
+      "category": "panchakarma",
+      "source_refs": [
+        "CS.sutra.2",
+        "AH.sutra.20.2"
+      ],
+      "related": [
+        "nasya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "pratimarsha",
+      "devanagari": "प्रतिमर्श",
+      "iast": "pratimarśa",
+      "simple": "Pratimarsha Nasya",
+      "en": "Low-dose oil nasya (about two drops) that can be used daily at any age and season without complications; contrasted with marśa (high dose).",
+      "hi": "प्रतिमर्श नस्य - अल्प मात्रा (लगभग दो बूँद) स्नेह नस्य; प्रतिदिन, किसी भी आयु में।",
+      "modern": "",
+      "category": "panchakarma",
+      "source_refs": [
+        "AH.sutra.20",
+        "AH.sutra.2"
+      ],
+      "related": [
+        "nasya",
+        "dinacharya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "avapida",
+      "devanagari": "अवपीड",
+      "iast": "avapīḍa",
+      "simple": "Avapida Nasya",
+      "en": "Nasya with juice squeezed from a paste (kalka) of drugs into the nostrils; used for loss of consciousness, epilepsy and similar states.",
+      "hi": "अवपीड नस्य - कल्क निचोड़कर रस को नासा में डालना।",
+      "modern": "",
+      "category": "panchakarma",
+      "source_refs": [
+        "AH.sutra.20",
+        "SS.chikitsa.40"
+      ],
+      "related": [
+        "nasya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "pradhamana",
+      "devanagari": "प्रधमन",
+      "iast": "pradhamana",
+      "simple": "Pradhamana Nasya",
+      "en": "Blowing fine powder into the nose through a tube (dhmāna); strongly cleansing.",
+      "hi": "प्रधमन नस्य - नली से चूर्ण को नासा में फूँकना।",
+      "modern": "",
+      "category": "panchakarma",
+      "source_refs": [
+        "AH.sutra.20",
+        "SS.chikitsa.40"
+      ],
+      "related": [
+        "nasya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "raktamokshana",
+      "devanagari": "रक्तमोक्षण",
+      "iast": "raktamokṣaṇa",
+      "simple": "Raktamokshana",
+      "en": "Therapeutic bloodletting for diseases of rakta and pitta: by instruments (śastra: pracchāna and sirāvyadha) or without (aśastra: jalaukā, śṛṅga, alābu, ghaṭī). Suśruta lists śṛṅga for vāta, jalaukā for pitta and alābu for kapha.",
+      "hi": "रक्तमोक्षण - दुष्ट रक्त निकालना; शस्त्र (प्रच्छान, सिरावेध) और अशस्त्र (जलौका, शृङ्ग, अलाबु)।",
+      "modern": "Therapeutic phlebotomy/leech therapy.",
+      "category": "panchakarma",
+      "source_refs": [
+        "SS.sutra.13",
+        "SS.sutra.14",
+        "AH.sutra.27"
+      ],
+      "related": [
+        "jalaukavacharana",
+        "siravyadha",
+        "prachchhana",
+        "panchakarma"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "jalaukavacharana",
+      "devanagari": "जलौकावचारण",
+      "iast": "jalaukāvacāraṇa",
+      "simple": "Jalaukavacharana",
+      "en": "Leech therapy; Suśruta describes 12 kinds of leeches (6 poisonous, 6 non-poisonous) and their use, especially for pitta-type blood disorders and in delicate patients.",
+      "hi": "जलौकावचारण - जोंक द्वारा रक्तमोक्षण; 12 प्रकार (6 सविष, 6 निर्विष)।",
+      "modern": "Leech therapy (hirudotherapy); leech saliva contains anticoagulants such as hirudin.",
+      "category": "panchakarma",
+      "source_refs": [
+        "SS.sutra.13"
+      ],
+      "related": [
+        "raktamokshana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "siravyadha",
+      "devanagari": "सिरावेध",
+      "iast": "sirāvedha / sirāvyadha",
+      "simple": "Siravyadha",
+      "en": "Venesection: puncturing a vein to let out vitiated blood; Suśruta calls it 'half of surgical treatment' (ardha-cikitsā in śalya).",
+      "hi": "सिरावेध - सिरा का वेधन कर दुष्ट रक्त निकालना; शल्य में अर्धचिकित्सा।",
+      "modern": "Venesection (phlebotomy).",
+      "category": "panchakarma",
+      "source_refs": [
+        "SS.sharira.8",
+        "AH.sutra.27"
+      ],
+      "related": [
+        "raktamokshana",
+        "sira"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "prachchhana",
+      "devanagari": "प्रच्छान",
+      "iast": "pracchāna",
+      "simple": "Prachchhana",
+      "en": "Bloodletting by multiple superficial scratches/incisions over a localised area.",
+      "hi": "प्रच्छान - छोटे-छोटे सतही चीरे लगाकर रक्तमोक्षण।",
+      "modern": "Scarification.",
+      "category": "panchakarma",
+      "source_refs": [
+        "SS.sutra.14"
+      ],
+      "related": [
+        "raktamokshana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "samsarjana-krama",
+      "devanagari": "संसर्जन क्रम",
+      "iast": "saṃsarjana krama",
+      "simple": "Samsarjana Krama",
+      "en": "Graded diet after śodhana to rekindle agni: peyā, vilepī, akṛta yūṣa, kṛta yūṣa, akṛta māṃsarasa and kṛta māṃsarasa, then normal food; duration depends on the grade of purification (pravara, madhyama, avara).",
+      "hi": "संसर्जन क्रम - शोधन के बाद क्रमिक आहार: पेया, विलेपी, अकृत-कृत यूष, अकृत-कृत मांसरस; शुद्धि अनुसार अवधि।",
+      "modern": "Comparable to graded refeeding after a procedure.",
+      "category": "panchakarma",
+      "source_refs": [
+        "CS.siddhi.1",
+        "AH.sutra.18"
+      ],
+      "related": [
+        "pashchatkarma",
+        "peya",
+        "shuddhi"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "shuddhi",
+      "devanagari": "शुद्धि",
+      "iast": "śuddhi",
+      "simple": "Shuddhi",
+      "en": "Degree of purification after śodhana: pravara (best), madhyama (medium) and avara (minimum), judged by vegas, quantity of output, end-point (anta) and features (laiṅgikī).",
+      "hi": "शुद्धि - शोधन की मात्रा: प्रवर, मध्यम, अवर; वैगिकी, मानिकी, आन्तिकी, लैङ्गिकी।",
+      "modern": "",
+      "category": "panchakarma",
+      "source_refs": [
+        "CS.siddhi.1"
+      ],
+      "related": [
+        "vamana",
+        "virechana",
+        "samsarjana-krama"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "samyak-yoga",
+      "devanagari": "सम्यग्योग",
+      "iast": "samyagyoga",
+      "simple": "Samyak Yoga",
+      "en": "Proper response to a procedure; ayoga is insufficient response and atiyoga excessive response, each with specific signs and complications (vyāpat).",
+      "hi": "सम्यग्योग - उचित प्रभाव; अयोग (कम) और अतियोग (अधिक) के लक्षण।",
+      "modern": "",
+      "category": "panchakarma",
+      "source_refs": [
+        "CS.siddhi.6",
+        "CS.siddhi.1"
+      ],
+      "related": [
+        "ayoga-atiyoga",
+        "vyapat"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "ayoga-atiyoga",
+      "devanagari": "अयोग-अतियोग",
+      "iast": "ayoga-atiyoga",
+      "simple": "Ayoga / Atiyoga",
+      "en": "Inadequate (ayoga) and excessive (atiyoga) effect of a therapy. For example, atiyoga of virecana can cause bleeding, fainting and dehydration.",
+      "hi": "अयोग-अतियोग - चिकित्सा का कम या अधिक प्रभाव।",
+      "modern": "Under-response and over-response (adverse effect).",
+      "category": "panchakarma",
+      "source_refs": [
+        "CS.siddhi.6"
+      ],
+      "related": [
+        "samyak-yoga",
+        "vyapat"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "vyapat",
+      "devanagari": "व्यापद्",
+      "iast": "vyāpad",
+      "simple": "Vyapat",
+      "en": "Complication of a procedure or disease; Caraka describes the complications of vamana-virecana (CS.siddhi.6) and basti (CS.siddhi.7).",
+      "hi": "व्यापद् - कर्म के उपद्रव (वमन-विरेचन व्यापद्, बस्ति व्यापद्)।",
+      "modern": "Procedural complications/adverse events.",
+      "category": "panchakarma",
+      "source_refs": [
+        "CS.siddhi.6",
+        "CS.siddhi.7"
+      ],
+      "related": [
+        "ayoga-atiyoga"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "shirodhara",
+      "devanagari": "शिरोधारा",
+      "iast": "śirodhārā",
+      "simple": "Shirodhara",
+      "en": "Continuous pouring of medicated oil, milk, buttermilk (takradhārā) or decoction in a stream on the forehead; a form of mūrdhni taila (pariṣeka) popularised in Kerala practice for insomnia, stress and headache.",
+      "hi": "शिरोधारा - माथे पर औषधीय तैल, दूध, तक्र या क्वाथ की निरन्तर धारा; अनिद्रा, तनाव में।",
+      "modern": "Studied as a relaxation therapy; evidence is limited.",
+      "category": "panchakarma",
+      "source_refs": [],
+      "related": [
+        "murdhni-taila"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "murdhni-taila",
+      "devanagari": "मूर्धतैल",
+      "iast": "mūrdhatāila",
+      "simple": "Murdhni Taila",
+      "en": "Oil applied to the head, four types in increasing efficacy: śiro-abhyaṅga, pariṣeka (pouring, e.g. śirodhārā), picu (oil-soaked cotton) and śirobasti (oil retained in a cap on the head).",
+      "hi": "मूर्धतैल - सिर पर तैल के चार प्रकार: शिरोभ्यंग, परिषेक (शिरोधारा), पिचु, शिरोबस्ति।",
+      "modern": "",
+      "category": "panchakarma",
+      "source_refs": [
+        "AH.sutra.22.23",
+        "AH.sutra.22.24"
+      ],
+      "related": [
+        "shirodhara",
+        "shirobasti",
+        "abhyanga"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "shirobasti",
+      "devanagari": "शिरोबस्ति",
+      "iast": "śirobasti",
+      "simple": "Shirobasti",
+      "en": "Medicated oil retained on the scalp inside a leather or rexine cap fixed around the head; the strongest form of mūrdhni taila, used in vāta disorders of the head, insomnia and facial palsy.",
+      "hi": "शिरोबस्ति - सिर पर टोपी बाँधकर उसमें तैल रोकना; मूर्धतैल का सबसे प्रभावी रूप।",
+      "modern": "",
+      "category": "panchakarma",
+      "source_refs": [
+        "AH.sutra.22"
+      ],
+      "related": [
+        "murdhni-taila"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "udvartana",
+      "devanagari": "उद्वर्तन",
+      "iast": "udvartana",
+      "simple": "Udvartana",
+      "en": "Dry powder massage against the direction of hair; reduces kapha and medas, firms the body and improves skin.",
+      "hi": "उद्वर्तन - रोमों के विपरीत दिशा में चूर्ण मर्दन; कफ-मेद कम करता है।",
+      "modern": "Powder massage.",
+      "category": "panchakarma",
+      "source_refs": [
+        "AH.sutra.2.15"
+      ],
+      "related": [
+        "rukshana",
+        "sthaulya",
+        "abhyanga"
+      ],
+      "review_status": "ai_draft"
     }
   ]
 }

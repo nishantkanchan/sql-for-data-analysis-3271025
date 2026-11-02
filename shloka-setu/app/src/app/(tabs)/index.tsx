@@ -4,6 +4,7 @@ import React, { useMemo } from 'react';
 import { Pressable, Text, View } from 'react-native';
 
 import { Logo } from '@/components/Logo';
+import { glueMarks } from '@/components/verse';
 import { Card, ProgressBar, Row, Screen, SectionTitle, T, type IconName } from '@/components/ui';
 import { verseLabel, getVerse, shlokaOfTheDay, isTranslated } from '@/content';
 import { deckIds } from '@/content/deck';
@@ -15,7 +16,7 @@ import { useStore } from '@/state/store';
 import { fonts, radius, space } from '@/theme';
 
 function firstLines(text: string, n = 2) {
-  return text.split('\n').slice(0, n).join('\n');
+  return text.split('\n').slice(0, n).map(glueMarks).join('\n');
 }
 
 function QuickAction({ icon, label, onPress, tint, testID }: { icon: IconName; label: string; onPress: () => void; tint: string; testID: string }) {

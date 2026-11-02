@@ -1,0 +1,2223 @@
+{
+  "subject_id": "AyUG-SL",
+  "questions": [
+    {
+      "id": "AyUG-SL-0001",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-intro",
+      "topic_en": "Introduction to Śālākya",
+      "topic_hi": "शालाक्य परिचय",
+      "type": "mcq",
+      "question_en": "Śālākya tantra gets its name from which instrument used widely in its procedures?",
+      "question_hi": "शालाक्य तन्त्र का नाम उसकी क्रियाओं में प्रयुक्त किस उपकरण से पड़ा है?",
+      "options": [
+        {
+          "en": "Śastra (knife)",
+          "hi": "शस्त्र"
+        },
+        {
+          "en": "Śalākā (probe/rod)",
+          "hi": "शलाका"
+        },
+        {
+          "en": "Yantra (blunt instrument)",
+          "hi": "यन्त्र"
+        },
+        {
+          "en": "Jalaukā (leech)",
+          "hi": "जलौका"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "Śālākya deals with diseases above the clavicles (ūrdhvajatrugata) — eye, ear, nose, mouth and head — where the śalākā (rod/probe) is the main instrument, e.g. for añjana and couching.",
+      "explanation_hi": "शालाक्य जत्रु से ऊपर के रोगों (ऊर्ध्वजत्रुगत) - नेत्र, कर्ण, नासा, मुख और शिर - से संबंधित है, जहाँ शलाका मुख्य उपकरण है, जैसे अञ्जन और लिङ्गनाश वेधन में।",
+      "reference": "SS.sutra.1",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0002",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-intro",
+      "topic_en": "Introduction to Śālākya",
+      "topic_hi": "शालाक्य परिचय",
+      "type": "mcq",
+      "question_en": "Which king is traditionally regarded as the pioneer (ādi ācārya) of Śālākya tantra?",
+      "question_hi": "परम्परा से किस राजा को शालाक्य तन्त्र का आदि आचार्य माना जाता है?",
+      "options": [
+        {
+          "en": "Divodāsa, king of Kāśī",
+          "hi": "काशी के राजा दिवोदास"
+        },
+        {
+          "en": "Janaka",
+          "hi": "जनक"
+        },
+        {
+          "en": "Kaśyapa",
+          "hi": "कश्यप"
+        },
+        {
+          "en": "Nimi, king of Videha",
+          "hi": "विदेह के राजा निमि"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "Videhādhipati Nimi is regarded as the founder of Śālākya; his teachings are quoted in Suśruta Uttaratantra. Divodāsa Dhanvantari taught śalya to Suśruta; Kaśyapa is linked with Kaumārabhṛtya.",
+      "explanation_hi": "विदेहाधिपति निमि को शालाक्य का प्रवर्तक माना जाता है; सुश्रुत उत्तरतन्त्र में उनके उपदेश उद्धृत हैं। दिवोदास धन्वन्तरि ने सुश्रुत को शल्य सिखाया; कश्यप कौमारभृत्य से जुड़े हैं।",
+      "reference": "SS.uttara.1",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0003",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-netra-sharira",
+      "topic_en": "Netra śārīra (anatomy of the eye)",
+      "topic_hi": "नेत्र शारीर",
+      "type": "mcq",
+      "question_en": "According to Suśruta, how many maṇḍalas, sandhis and paṭalas does the eye have?",
+      "question_hi": "सुश्रुत के अनुसार नेत्र में कितने मण्डल, सन्धि और पटल होते हैं?",
+      "options": [
+        {
+          "en": "6 maṇḍala, 5 sandhi, 4 paṭala",
+          "hi": "6 मण्डल, 5 सन्धि, 4 पटल"
+        },
+        {
+          "en": "5 maṇḍala, 6 sandhi, 6 paṭala",
+          "hi": "5 मण्डल, 6 सन्धि, 6 पटल"
+        },
+        {
+          "en": "5 maṇḍala, 5 sandhi, 5 paṭala",
+          "hi": "5 मण्डल, 5 सन्धि, 5 पटल"
+        },
+        {
+          "en": "4 maṇḍala, 6 sandhi, 2 paṭala",
+          "hi": "4 मण्डल, 6 सन्धि, 2 पटल"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "SS Utt 1.14: five maṇḍalas (pakṣma, vartma, śveta, kṛṣṇa, dṛṣṭi), six sandhis and six paṭalas (two of the eyelid and four of the eyeball).",
+      "explanation_hi": "सुश्रुत उत्तर 1.14: पाँच मण्डल (पक्ष्म, वर्त्म, श्वेत, कृष्ण, दृष्टि), छह सन्धि और छह पटल (दो वर्त्म के और चार नेत्रगोलक के)।",
+      "reference": "SS.uttara.1.14",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0004",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-netra-sharira",
+      "topic_en": "Netra śārīra (anatomy of the eye)",
+      "topic_hi": "नेत्र शारीर",
+      "type": "mcq",
+      "question_en": "According to Suśruta's pañcabhautika description of the eye, the kṛṣṇa maṇḍala (black part) is derived from which mahābhūta?",
+      "question_hi": "सुश्रुत के पाञ्चभौतिक वर्णन में नेत्र का कृष्ण मण्डल किस महाभूत से बना है?",
+      "options": [
+        {
+          "en": "Agni",
+          "hi": "अग्नि"
+        },
+        {
+          "en": "Vāyu",
+          "hi": "वायु"
+        },
+        {
+          "en": "Jala",
+          "hi": "जल"
+        },
+        {
+          "en": "Pṛthvī",
+          "hi": "पृथ्वी"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "SS Utt 1.11–12: flesh (pala) from pṛthvī, blood (rakta) from agni, the black part (kṛṣṇa) from vāyu, the white part (sita) from jala, and the tear passages from ākāśa.",
+      "explanation_hi": "सुश्रुत उत्तर 1.11-12: मांस (पल) पृथ्वी से, रक्त अग्नि से, कृष्ण भाग वायु से, श्वेत भाग जल से, और अश्रुमार्ग आकाश से।",
+      "reference": "SS.uttara.1.11",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0005",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-netra-sharira",
+      "topic_en": "Netra śārīra (anatomy of the eye)",
+      "topic_hi": "नेत्र शारीर",
+      "type": "mcq",
+      "question_en": "Of the six paṭalas of the eye described by Suśruta, how many belong to the eyelids (vartma)?",
+      "question_hi": "सुश्रुत द्वारा बताए गए नेत्र के छह पटलों में से कितने वर्त्म (पलक) के हैं?",
+      "options": [
+        {
+          "en": "Four",
+          "hi": "चार"
+        },
+        {
+          "en": "Two",
+          "hi": "दो"
+        },
+        {
+          "en": "One",
+          "hi": "एक"
+        },
+        {
+          "en": "Three",
+          "hi": "तीन"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "SS Utt 1.17: two vartma paṭalas and four akṣi paṭalas. Timira arises in the four ocular paṭalas — the first resting on tejas and jala, then on māṃsa, medas and asthi respectively.",
+      "explanation_hi": "सुश्रुत उत्तर 1.17: दो वर्त्म पटल और चार अक्षि पटल। तिमिर इन चार नेत्र पटलों में होता है - पहला तेज और जल पर, फिर क्रमशः मांस, मेद और अस्थि पर आश्रित।",
+      "reference": "SS.uttara.1.17",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0006",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-netra-roga",
+      "topic_en": "Netra roga (eye diseases)",
+      "topic_hi": "नेत्र रोग",
+      "type": "mcq",
+      "question_en": "What is the total number of netra rogas (eye diseases) described by Suśruta?",
+      "question_hi": "सुश्रुत के अनुसार नेत्र रोगों की कुल संख्या कितनी है?",
+      "options": [
+        {
+          "en": "94",
+          "hi": "94"
+        },
+        {
+          "en": "65",
+          "hi": "65"
+        },
+        {
+          "en": "76",
+          "hi": "76"
+        },
+        {
+          "en": "31",
+          "hi": "31"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "SS Utt 1.29: 76 netra rogas. 94 is Vāgbhaṭa's count, 65 is the number of mukha rogas and 31 of nāsā rogas (both per Suśruta).",
+      "explanation_hi": "सुश्रुत उत्तर 1.29: 76 नेत्र रोग। 94 वाग्भट की संख्या है, 65 मुख रोगों की और 31 नासा रोगों की (दोनों सुश्रुत के अनुसार)।",
+      "reference": "SS.uttara.1.29",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0007",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-netra-roga",
+      "topic_en": "Netra roga (eye diseases)",
+      "topic_hi": "नेत्र रोग",
+      "type": "mcq",
+      "question_en": "In Suśruta's doṣa-wise classification of the 76 eye diseases, which group is the largest?",
+      "question_hi": "सुश्रुत के 76 नेत्र रोगों के दोषानुसार वर्गीकरण में कौन-सा वर्ग सबसे बड़ा है?",
+      "options": [
+        {
+          "en": "Raktaja (16)",
+          "hi": "रक्तज (16)"
+        },
+        {
+          "en": "Kaphaja (13)",
+          "hi": "कफज (13)"
+        },
+        {
+          "en": "Sannipātaja (25)",
+          "hi": "सन्निपातज (25)"
+        },
+        {
+          "en": "Vātaja (10)",
+          "hi": "वातज (10)"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "SS Utt 1: vātaja 10, pittaja 10, kaphaja 13, raktaja 16, sannipātaja (sarvaja) 25 and bāhya (traumatic) 2 = 76.",
+      "explanation_hi": "सुश्रुत उत्तर 1: वातज 10, पित्तज 10, कफज 13, रक्तज 16, सन्निपातज (सर्वज) 25 और बाह्य (आगन्तुज) 2 = 76।",
+      "reference": "SS.uttara.1.29",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0008",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-netra-roga",
+      "topic_en": "Netra roga (eye diseases)",
+      "topic_hi": "नेत्र रोग",
+      "type": "mcq",
+      "question_en": "By location (adhiṣṭhāna), how many eye diseases does Suśruta assign to the vartma (eyelids)?",
+      "question_hi": "स्थान के अनुसार सुश्रुत वर्त्म (पलक) में कितने नेत्र रोग बताते हैं?",
+      "options": [
+        {
+          "en": "9",
+          "hi": "9"
+        },
+        {
+          "en": "11",
+          "hi": "11"
+        },
+        {
+          "en": "21",
+          "hi": "21"
+        },
+        {
+          "en": "17",
+          "hi": "17"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "SS Utt 1.44–45: sandhigata 9, vartmagata 21, śuklagata 11, kṛṣṇagata 4, sarvagata 17, dṛṣṭigata 12 and bāhya 2 — total 76.",
+      "explanation_hi": "सुश्रुत उत्तर 1.44-45: सन्धिगत 9, वर्त्मगत 21, शुक्लगत 11, कृष्णगत 4, सर्वगत 17, दृष्टिगत 12 और बाह्य 2 - कुल 76।",
+      "reference": "SS.uttara.1.44",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0009",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-netra-roga",
+      "topic_en": "Netra roga (eye diseases)",
+      "topic_hi": "नेत्र रोग",
+      "type": "mcq",
+      "question_en": "According to Suśruta, how many eye diseases are located in the kṛṣṇa maṇḍala (black part)?",
+      "question_hi": "सुश्रुत के अनुसार कृष्ण मण्डल में कितने नेत्र रोग होते हैं?",
+      "options": [
+        {
+          "en": "11",
+          "hi": "11"
+        },
+        {
+          "en": "12",
+          "hi": "12"
+        },
+        {
+          "en": "4",
+          "hi": "4"
+        },
+        {
+          "en": "9",
+          "hi": "9"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "SS Utt 1.44: only four diseases are kṛṣṇagata (e.g. savraṇa śukra, avraṇa śukra, akṣipākātyaya, ajakājāta). Eleven are in the śukla, twelve in dṛṣṭi and nine in the sandhis.",
+      "explanation_hi": "सुश्रुत उत्तर 1.44: केवल चार रोग कृष्णगत हैं (जैसे सव्रण शुक्र, अव्रण शुक्र, अक्षिपाकात्यय, अजकाजात)। ग्यारह शुक्ल में, बारह दृष्टि में और नौ सन्धियों में हैं।",
+      "reference": "SS.uttara.1.44",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0010",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-netra-roga",
+      "topic_en": "Netra roga (eye diseases)",
+      "topic_hi": "नेत्र रोग",
+      "type": "mcq",
+      "question_en": "Suśruta says that most eye diseases have which condition as their root cause, so it must be treated promptly?",
+      "question_hi": "सुश्रुत के अनुसार अधिकांश नेत्र रोगों का मूल कारण कौन-सा रोग है, इसलिए उसकी शीघ्र चिकित्सा करनी चाहिए?",
+      "options": [
+        {
+          "en": "Abhiṣyanda",
+          "hi": "अभिष्यन्द"
+        },
+        {
+          "en": "Adhimantha",
+          "hi": "अधिमन्थ"
+        },
+        {
+          "en": "Timira",
+          "hi": "तिमिर"
+        },
+        {
+          "en": "Arma",
+          "hi": "अर्म"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "SS Utt 6.5: 'prāyeṇa sarve nayanāmayās tu bhavanty abhiṣyanda-nimitta-mūlāḥ' — almost all eye diseases have abhiṣyanda (conjunctivitis-like inflammation) at their root. Neglected abhiṣyanda can progress to adhimantha.",
+      "explanation_hi": "सुश्रुत उत्तर 6.5: 'प्रायेण सर्वे नयनामयास्तु भवन्त्यभिष्यन्दनिमित्तमूलाः' - लगभग सभी नेत्र रोगों के मूल में अभिष्यन्द (नेत्राभिष्यन्द/कंजंक्टिवाइटिस जैसा) होता है। उपेक्षित अभिष्यन्द अधिमन्थ में बदल सकता है।",
+      "reference": "SS.uttara.6.5",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0011",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-netra-roga",
+      "topic_en": "Netra roga (eye diseases)",
+      "topic_hi": "नेत्र रोग",
+      "type": "mcq",
+      "question_en": "When the doṣa reaches the fourth paṭala and completely obstructs vision, the disease is called:",
+      "question_hi": "जब दोष चौथे पटल तक पहुँचकर दृष्टि को पूर्णतः रोक देता है, तो वह रोग कहलाता है:",
+      "options": [
+        {
+          "en": "Timira",
+          "hi": "तिमिर"
+        },
+        {
+          "en": "Liṅganāśa",
+          "hi": "लिङ्गनाश"
+        },
+        {
+          "en": "Kāca",
+          "hi": "काच"
+        },
+        {
+          "en": "Abhiṣyanda",
+          "hi": "अभिष्यन्द"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "SS Utt 7: doṣa in the first paṭala causes blurred vision (timira), in the second and third increasing defects (kāca), and in the fourth complete loss of vision — liṅganāśa. Kaphaja liṅganāśa correlates with mature cataract.",
+      "explanation_hi": "सुश्रुत उत्तर 7: प्रथम पटल में दोष से धुँधला दिखना (तिमिर), दूसरे-तीसरे में बढ़ते विकार (काच), और चौथे में पूर्ण दृष्टिनाश - लिङ्गनाश। कफज लिङ्गनाश का सहसंबंध परिपक्व मोतियाबिंद से है।",
+      "reference": "SS.uttara.7",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0012",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-netra-roga",
+      "topic_en": "Netra roga (eye diseases)",
+      "topic_hi": "नेत्र रोग",
+      "type": "true_false",
+      "question_en": "True or False: Suśruta describes a surgical procedure (vedhana with a śalākā) for kaphaja liṅganāśa.",
+      "question_hi": "सत्य या असत्य: सुश्रुत ने कफज लिङ्गनाश के लिए शलाका से वेधन की शस्त्रक्रिया बताई है।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "True. SS Utt 17.55 onward describes the operation for ślaiṣmika liṅganāśa — the classical couching of cataract with a śalākā through the daivakṛta chidra.",
+      "explanation_hi": "सत्य। सुश्रुत उत्तर 17.55 से आगे श्लैष्मिक लिङ्गनाश की शस्त्रक्रिया का वर्णन है - दैवकृत छिद्र से शलाका द्वारा मोतियाबिंद का शास्त्रीय वेधन (कोचिंग)।",
+      "reference": "SS.uttara.17.55",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0013",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-netra-roga",
+      "topic_en": "Netra roga (eye diseases)",
+      "topic_hi": "नेत्र रोग",
+      "type": "mcq",
+      "question_en": "Night blindness (naktāndhya) results, according to Suśruta, when the dṛṣṭi is affected by which doṣa ('vidagdha dṛṣṭi')?",
+      "question_hi": "सुश्रुत के अनुसार रतौंधी (नक्तान्ध्य) तब होती है जब दृष्टि किस दोष से विदग्ध हो?",
+      "options": [
+        {
+          "en": "Pitta (pitta-vidagdha dṛṣṭi)",
+          "hi": "पित्त (पित्तविदग्ध दृष्टि)"
+        },
+        {
+          "en": "Vāta",
+          "hi": "वात"
+        },
+        {
+          "en": "Rakta",
+          "hi": "रक्त"
+        },
+        {
+          "en": "Kapha (śleṣma-vidagdha dṛṣṭi)",
+          "hi": "कफ (श्लेष्मविदग्ध दृष्टि)"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "SS Utt 7.37–38: in śleṣma-vidagdha dṛṣṭi, kapha in the paṭalas causes naktāndhya; by day the person sees because the sun reduces kapha. Pitta-vidagdha dṛṣṭi causes difficulty seeing by day (day blindness). Modern correlate: vitamin A deficiency.",
+      "explanation_hi": "सुश्रुत उत्तर 7.37-38: श्लेष्मविदग्ध दृष्टि में पटलों में स्थित कफ नक्तान्ध्य करता है; दिन में सूर्य के प्रभाव से कफ घटने पर दिखाई देता है। पित्तविदग्ध दृष्टि में दिन में देखने में कठिनाई होती है। आधुनिक सहसंबंध: विटामिन A की कमी।",
+      "reference": "SS.uttara.7.38",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0014",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-netra-roga",
+      "topic_en": "Netra roga (eye diseases)",
+      "topic_hi": "नेत्र रोग",
+      "type": "mcq",
+      "question_en": "Arma, a śuklagata roga, is commonly correlated with:",
+      "question_hi": "शुक्लगत रोग अर्म का सामान्य सहसंबंध किससे है?",
+      "options": [
+        {
+          "en": "Stye",
+          "hi": "गुहेरी (स्टाई)"
+        },
+        {
+          "en": "Trachoma",
+          "hi": "ट्रेकोमा"
+        },
+        {
+          "en": "Glaucoma",
+          "hi": "ग्लूकोमा"
+        },
+        {
+          "en": "Pterygium",
+          "hi": "टेरिजियम"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "Arma is a fleshy growth on the white of the eye spreading toward the black part — pterygium. Stye corresponds to añjananāmikā, trachoma to pothakī, and glaucoma to adhimantha.",
+      "explanation_hi": "अर्म नेत्र के श्वेत भाग पर मांसल वृद्धि है जो कृष्ण भाग की ओर बढ़ती है - टेरिजियम। गुहेरी अञ्जननामिका, ट्रेकोमा पोथकी और ग्लूकोमा अधिमन्थ से मेल खाते हैं।",
+      "reference": "SS.uttara.4",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0015",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-netra-roga",
+      "topic_en": "Netra roga (eye diseases)",
+      "topic_hi": "नेत्र रोग",
+      "type": "mcq",
+      "question_en": "Pothakī, a vartmagata kaphaja disease with red, mustard-like granules and itching, is correlated with:",
+      "question_hi": "पोथकी, जो लाल सरसों जैसे दानों और खुजली वाला वर्त्मगत कफज रोग है, किससे सहसंबंधित है?",
+      "options": [
+        {
+          "en": "Chalazion",
+          "hi": "कलेज़ियन"
+        },
+        {
+          "en": "Blepharitis",
+          "hi": "ब्लेफेराइटिस"
+        },
+        {
+          "en": "Trachoma",
+          "hi": "ट्रेकोमा"
+        },
+        {
+          "en": "Ptosis",
+          "hi": "टोसिस"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "Pothakī shows red, hard, mustard-seed-like eruptions inside the lid with discharge, itching and pain — matching trachoma follicles. Chalazion corresponds to kumbhīkā/granthi types; ptosis to vartmasaṅkoca-like conditions.",
+      "explanation_hi": "पोथकी में पलक के भीतर लाल, कठोर, सरसों जैसे दाने, स्राव, खुजली और पीड़ा होती है - जो ट्रेकोमा के फॉलिकल से मेल खाता है।",
+      "reference": "SS.uttara.3",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0016",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-netra-roga",
+      "topic_en": "Netra roga (eye diseases)",
+      "topic_hi": "नेत्र रोग",
+      "type": "mcq",
+      "question_en": "Añjananāmikā, a vartmagata disease, corresponds to:",
+      "question_hi": "वर्त्मगत रोग अञ्जननामिका किससे मेल खाता है?",
+      "options": [
+        {
+          "en": "Hordeolum externum (stye)",
+          "hi": "बाह्य होर्डियोलम (गुहेरी)"
+        },
+        {
+          "en": "Pterygium",
+          "hi": "टेरिजियम"
+        },
+        {
+          "en": "Cataract",
+          "hi": "मोतियाबिंद"
+        },
+        {
+          "en": "Dacryocystitis",
+          "hi": "डैक्रियोसिस्टाइटिस"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "Añjananāmikā is a small, painful, copper-coloured eruption on the lid margin — the stye (hordeolum externum). Dacryocystitis is closer to the sandhigata disease pūyālasa.",
+      "explanation_hi": "अञ्जननामिका पलक के किनारे पर छोटी, पीड़ादायक, ताम्रवर्ण पिडका है - गुहेरी (होर्डियोलम)। डैक्रियोसिस्टाइटिस सन्धिगत रोग पूयालस के निकट है।",
+      "reference": "SS.uttara.3",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0017",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-kriyakalpa",
+      "topic_en": "Kriyākalpa (ocular therapeutics)",
+      "topic_hi": "क्रियाकल्प",
+      "type": "mcq",
+      "question_en": "Which of the following is NOT one of the five kriyākalpas listed by Suśruta?",
+      "question_hi": "इनमें से कौन-सा सुश्रुत द्वारा बताए गए पाँच क्रियाकल्पों में नहीं है?",
+      "options": [
+        {
+          "en": "Tarpaṇa",
+          "hi": "तर्पण"
+        },
+        {
+          "en": "Puṭapāka",
+          "hi": "पुटपाक"
+        },
+        {
+          "en": "Āścyotana",
+          "hi": "आश्च्योतन"
+        },
+        {
+          "en": "Piṇḍī",
+          "hi": "पिण्डी"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "SS Utt 18.4: tarpaṇa, puṭapāka, seka, āścyotana and añjana. Later authors (e.g. Śārṅgadhara) add piṇḍī and viḍālaka, making seven.",
+      "explanation_hi": "सुश्रुत उत्तर 18.4: तर्पण, पुटपाक, सेक, आश्च्योतन और अञ्जन। बाद के आचार्य (जैसे शार्ङ्गधर) पिण्डी और विडालक जोड़कर सात बताते हैं।",
+      "reference": "SS.uttara.18.4",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0018",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-kriyakalpa",
+      "topic_en": "Kriyākalpa (ocular therapeutics)",
+      "topic_hi": "क्रियाकल्प",
+      "type": "mcq",
+      "question_en": "In netra tarpaṇa, the wall (āḍhāra) around the eye to hold the medicated ghee is made of:",
+      "question_hi": "नेत्र तर्पण में औषधीय घृत रोकने के लिए आँख के चारों ओर की दीवार (आधार) किससे बनाई जाती है?",
+      "options": [
+        {
+          "en": "Moistened black gram (māṣa) flour",
+          "hi": "भीगे उड़द (माष) के आटे से"
+        },
+        {
+          "en": "Wax",
+          "hi": "मोम से"
+        },
+        {
+          "en": "Clay",
+          "hi": "मिट्टी से"
+        },
+        {
+          "en": "Cotton",
+          "hi": "रुई से"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "SS Utt 18.6–7: firm, even rings of moistened māṣa flour are built around the eye sockets, and melted ghee (ghṛta-maṇḍa) is poured in up to the eyelashes.",
+      "explanation_hi": "सुश्रुत उत्तर 18.6-7: भीगे माष चूर्ण से नेत्रकोशों के चारों ओर दृढ़, समान घेरे बनाए जाते हैं और पिघला घृत (घृतमण्ड) पलकों के अग्रभाग तक भरा जाता है।",
+      "reference": "SS.uttara.18.6",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0019",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-kriyakalpa",
+      "topic_en": "Kriyākalpa (ocular therapeutics)",
+      "topic_hi": "क्रियाकल्प",
+      "type": "mcq",
+      "question_en": "According to Suśruta, for how long is tarpaṇa retained in pitta disorders?",
+      "question_hi": "सुश्रुत के अनुसार पित्त विकारों में तर्पण कितने समय तक धारण किया जाता है?",
+      "options": [
+        {
+          "en": "500 vāk-mātrā",
+          "hi": "500 वाक् मात्रा"
+        },
+        {
+          "en": "600 vāk-mātrā",
+          "hi": "600 वाक् मात्रा"
+        },
+        {
+          "en": "1000 vāk-mātrā",
+          "hi": "1000 वाक् मात्रा"
+        },
+        {
+          "en": "800 vāk-mātrā",
+          "hi": "800 वाक् मात्रा"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "SS Utt 18.8: 500 in a healthy eye, 600 in kapha, 800 in pitta and 1000 in vāta (vāk-śata units).",
+      "explanation_hi": "सुश्रुत उत्तर 18.8: स्वस्थ नेत्र में 500, कफ में 600, पित्त में 800 और वात में 1000 (वाक्शत इकाई)।",
+      "reference": "SS.uttara.18.8",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0020",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-kriyakalpa",
+      "topic_en": "Kriyākalpa (ocular therapeutics)",
+      "topic_hi": "क्रियाकल्प",
+      "type": "mcq",
+      "question_en": "Suśruta classifies puṭapāka into three types. They are:",
+      "question_hi": "सुश्रुत ने पुटपाक के तीन प्रकार बताए हैं। वे हैं:",
+      "options": [
+        {
+          "en": "Virecana, bṛṃhaṇa, śamana",
+          "hi": "विरेचन, बृंहण, शमन"
+        },
+        {
+          "en": "Guṭikā, rasakriyā, cūrṇa",
+          "hi": "गुटिका, रसक्रिया, चूर्ण"
+        },
+        {
+          "en": "Mṛdu, madhya, tīkṣṇa",
+          "hi": "मृदु, मध्य, तीक्ष्ण"
+        },
+        {
+          "en": "Snehana, lekhana, ropaṇa",
+          "hi": "स्नेहन, लेखन, रोपण"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "SS Utt 18.21: puṭapāka is snehana, lekhana or ropaṇa. Guṭikā-rasakriyā-cūrṇa are the forms of añjana; virecana-bṛṃhaṇa-śamana is Vāgbhaṭa's classification of nasya.",
+      "explanation_hi": "सुश्रुत उत्तर 18.21: पुटपाक स्नेहन, लेखन या रोपण होता है। गुटिका-रसक्रिया-चूर्ण अञ्जन के रूप हैं; विरेचन-बृंहण-शमन वाग्भट का नस्य वर्गीकरण है।",
+      "reference": "SS.uttara.18.21",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0021",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-kriyakalpa",
+      "topic_en": "Kriyākalpa (ocular therapeutics)",
+      "topic_hi": "क्रियाकल्प",
+      "type": "mcq",
+      "question_en": "According to Suśruta, how long is ropaṇa puṭapāka retained in the eye?",
+      "question_hi": "सुश्रुत के अनुसार रोपण पुटपाक नेत्र में कितने समय तक धारण किया जाता है?",
+      "options": [
+        {
+          "en": "300 vāk-mātrā (three times lekhana)",
+          "hi": "300 वाक् मात्रा (लेखन का तिगुना)"
+        },
+        {
+          "en": "100 vāk-mātrā",
+          "hi": "100 वाक् मात्रा"
+        },
+        {
+          "en": "200 vāk-mātrā",
+          "hi": "200 वाक् मात्रा"
+        },
+        {
+          "en": "1000 vāk-mātrā",
+          "hi": "1000 वाक् मात्रा"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "SS Utt 18.23–26: snehana puṭapāka 200, lekhana 100, and ropaṇa three times lekhana, i.e. 300 vāk-mātrā.",
+      "explanation_hi": "सुश्रुत उत्तर 18.23-26: स्नेहन पुटपाक 200, लेखन 100, और रोपण लेखन का तिगुना, अर्थात् 300 वाक् मात्रा।",
+      "reference": "SS.uttara.18.26",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0022",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-kriyakalpa",
+      "topic_en": "Kriyākalpa (ocular therapeutics)",
+      "topic_hi": "क्रियाकल्प",
+      "type": "mcq",
+      "question_en": "According to Suśruta, how many drops are instilled in ropaṇa āścyotana?",
+      "question_hi": "सुश्रुत के अनुसार रोपण आश्च्योतन में कितनी बूँदें डाली जाती हैं?",
+      "options": [
+        {
+          "en": "10",
+          "hi": "10"
+        },
+        {
+          "en": "12",
+          "hi": "12"
+        },
+        {
+          "en": "7–8",
+          "hi": "7-8"
+        },
+        {
+          "en": "2",
+          "hi": "2"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "SS Utt 18.45–46: lekhana āścyotana 7 or 8 drops, snehana 10 drops and ropaṇa 12 drops.",
+      "explanation_hi": "सुश्रुत उत्तर 18.45-46: लेखन आश्च्योतन में 7 या 8 बूँदें, स्नेहन में 10 और रोपण में 12 बूँदें।",
+      "reference": "SS.uttara.18.46",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0023",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-kriyakalpa",
+      "topic_en": "Kriyākalpa (ocular therapeutics)",
+      "topic_hi": "क्रियाकल्प",
+      "type": "mcq",
+      "question_en": "Suśruta describes three forms of añjana. Which form is the most potent?",
+      "question_hi": "सुश्रुत ने अञ्जन के तीन रूप बताए हैं। इनमें सबसे प्रभावी कौन-सा है?",
+      "options": [
+        {
+          "en": "Rasakriyā (semi-solid)",
+          "hi": "रसक्रिया"
+        },
+        {
+          "en": "Cūrṇa (powder)",
+          "hi": "चूर्ण"
+        },
+        {
+          "en": "Guṭikā (pill/stick)",
+          "hi": "गुटिका (वर्ति)"
+        },
+        {
+          "en": "All are equal",
+          "hi": "सभी समान"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "SS Utt 18.58: 'guṭikā-rasa-cūrṇāni trividhāny añjanāni tu, yathāpūrvaṃ balaṃ teṣām' — the strength is in the order listed, so guṭikā is strongest, then rasakriyā, then cūrṇa.",
+      "explanation_hi": "सुश्रुत उत्तर 18.58: 'गुटिकारसचूर्णानि त्रिविधान्यञ्जनानि तु, यथापूर्वं बलं तेषाम्' - बल क्रम से घटता है, इसलिए गुटिका सबसे बलवान, फिर रसक्रिया, फिर चूर्ण।",
+      "reference": "SS.uttara.18.58",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0024",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-kriyakalpa",
+      "topic_en": "Kriyākalpa (ocular therapeutics)",
+      "topic_hi": "क्रियाकल्प",
+      "type": "mcq",
+      "question_en": "By action, Suśruta classifies añjana into which three types?",
+      "question_hi": "कर्म के आधार पर सुश्रुत अञ्जन के कौन-से तीन प्रकार बताते हैं?",
+      "options": [
+        {
+          "en": "Lekhana, ropaṇa, prasādana",
+          "hi": "लेखन, रोपण, प्रसादन"
+        },
+        {
+          "en": "Snehana, svedana, stambhana",
+          "hi": "स्नेहन, स्वेदन, स्तम्भन"
+        },
+        {
+          "en": "Marśa, pratimarśa, avapīḍa",
+          "hi": "मर्श, प्रतिमर्श, अवपीड"
+        },
+        {
+          "en": "Śodhana, śamana, bṛṃhaṇa",
+          "hi": "शोधन, शमन, बृंहण"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "SS Utt 18.52: añjana may be lekhana (scraping), ropaṇa (healing) or prasādana (clarifying/soothing). Marśa-pratimarśa-avapīḍa are nasya forms.",
+      "explanation_hi": "सुश्रुत उत्तर 18.52: अञ्जन लेखन (कर्षण), रोपण (व्रण भरना) या प्रसादन (निर्मल/शान्त करना) होता है। मर्श-प्रतिमर्श-अवपीड नस्य के रूप हैं।",
+      "reference": "SS.uttara.18.52",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0025",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-kriyakalpa",
+      "topic_en": "Kriyākalpa (ocular therapeutics)",
+      "topic_hi": "क्रियाकल्प",
+      "type": "true_false",
+      "question_en": "True or False: Seka is considered more powerful than āścyotana, according to Suśruta.",
+      "question_hi": "सत्य या असत्य: सुश्रुत के अनुसार सेक, आश्च्योतन से अधिक बलवान है।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "True. SS Utt 18.44: āścyotana cures diseases that are not very strong, while seka is more powerful (balavattaram). Both are used in three ways like puṭapāka.",
+      "explanation_hi": "सत्य। सुश्रुत उत्तर 18.44: आश्च्योतन कम बलवान रोगों को शान्त करता है, जबकि सेक अधिक बलवान (बलवत्तरम्) है। दोनों पुटपाक की तरह तीन प्रकार से प्रयुक्त होते हैं।",
+      "reference": "SS.uttara.18.44",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0026",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-kriyakalpa",
+      "topic_en": "Kriyākalpa (ocular therapeutics)",
+      "topic_hi": "क्रियाकल्प",
+      "type": "true_false",
+      "question_en": "True or False: Tarpaṇa can be done safely in an eye with acute, unsubsided complications (aśānta upadrava).",
+      "question_hi": "सत्य या असत्य: तीव्र, अशान्त उपद्रव वाले नेत्र में तर्पण सुरक्षित रूप से किया जा सकता है।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "False. SS Utt 18.19: tarpaṇa (and puṭapāka) is not advised in an eye whose complications have not subsided; first the doṣas are pacified.",
+      "explanation_hi": "असत्य। सुश्रुत उत्तर 18.19: जिस नेत्र के उपद्रव शान्त न हुए हों, उसमें तर्पण (और पुटपाक) नहीं करना चाहिए; पहले दोषों का शमन किया जाता है।",
+      "reference": "SS.uttara.18.19",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0027",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-karna",
+      "topic_en": "Karṇa roga (ear diseases)",
+      "topic_hi": "कर्ण रोग",
+      "type": "mcq",
+      "question_en": "How many karṇa rogas (ear diseases) are described by Suśruta?",
+      "question_hi": "सुश्रुत ने कितने कर्ण रोग बताए हैं?",
+      "options": [
+        {
+          "en": "31",
+          "hi": "31"
+        },
+        {
+          "en": "28",
+          "hi": "28"
+        },
+        {
+          "en": "18",
+          "hi": "18"
+        },
+        {
+          "en": "11",
+          "hi": "11"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "SS Utt 20.5: 28 diseases of the ear (including 7 types of karṇārbuda and 4 of karṇa śopha). 31 is the count of nāsā rogas; 11 of śirorogas.",
+      "explanation_hi": "सुश्रुत उत्तर 20.5: कर्ण के 28 रोग (7 प्रकार के कर्णार्बुद और 4 प्रकार के कर्ण शोफ सहित)। 31 नासा रोगों की संख्या है; 11 शिरोरोगों की।",
+      "reference": "SS.uttara.20.5",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0028",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-karna",
+      "topic_en": "Karṇa roga (ear diseases)",
+      "topic_hi": "कर्ण रोग",
+      "type": "mcq",
+      "question_en": "Karṇanāda corresponds to which symptom?",
+      "question_hi": "कर्णनाद किस लक्षण से मेल खाता है?",
+      "options": [
+        {
+          "en": "Ear discharge",
+          "hi": "कान से स्राव"
+        },
+        {
+          "en": "Tinnitus (ringing/noises in the ear)",
+          "hi": "टिनिटस (कान में आवाज़ें)"
+        },
+        {
+          "en": "Ear pain",
+          "hi": "कान का दर्द"
+        },
+        {
+          "en": "Deafness",
+          "hi": "बहरापन"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "In karṇanāda, vāta in the sound-carrying channels makes the person hear various sounds without any source (AH Utt 17.9) — tinnitus. Discharge is karṇasrāva, pain is karṇaśūla and deafness is bādhirya.",
+      "explanation_hi": "कर्णनाद में शब्दवाही स्रोतों में स्थित वात के कारण बिना स्रोत के विविध ध्वनियाँ सुनाई देती हैं (अष्टाङ्गहृदय उत्तर 17.9) - टिनिटस। स्राव कर्णस्राव, पीड़ा कर्णशूल और बहरापन बाधिर्य है।",
+      "reference": "AH.uttara.17.9",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0029",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-karna",
+      "topic_en": "Karṇa roga (ear diseases)",
+      "topic_hi": "कर्ण रोग",
+      "type": "mcq",
+      "question_en": "How many types of karṇa-bandha (ear-lobe repair patterns) are described by Suśruta?",
+      "question_hi": "सुश्रुत ने कर्णबन्ध (कर्णपाली सन्धान) की कितनी आकृतियाँ बताई हैं?",
+      "options": [
+        {
+          "en": "15",
+          "hi": "15"
+        },
+        {
+          "en": "10",
+          "hi": "10"
+        },
+        {
+          "en": "20",
+          "hi": "20"
+        },
+        {
+          "en": "8",
+          "hi": "8"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "SS Sū 16.10: in brief there are fifteen karṇa-bandha ākṛtis, such as nemisandhānaka, utpalabhedyaka, vallūraka, āsaṅgima, gaṇḍakarṇa, āhārya etc. Suśruta also describes repairing a missing lobe with a flap from the cheek (16.14).",
+      "explanation_hi": "सुश्रुत सूत्र 16.10: संक्षेप में पन्द्रह कर्णबन्ध आकृतियाँ हैं, जैसे नेमिसन्धानक, उत्पलभेद्यक, वल्लूरक, आसङ्गिम, गण्डकर्ण, आहार्य आदि। सुश्रुत कपोल से पल्लव लेकर अनुपस्थित कर्णपाली बनाने का भी वर्णन करते हैं (16.14)।",
+      "reference": "SS.sutra.16.10",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0030",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-karna",
+      "topic_en": "Karṇa roga (ear diseases)",
+      "topic_hi": "कर्ण रोग",
+      "type": "true_false",
+      "question_en": "True or False: In karṇapūraṇa, Vāgbhaṭa advises keeping the oil in the ear for 100 mātrā when there is no pain.",
+      "question_hi": "सत्य या असत्य: कर्णपूरण में वाग्भट कहते हैं कि पीड़ा न हो तो तैल को कान में 100 मात्रा तक रखें।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "True. AH Sū 22.32: the oil is held in the ear while massaging the root of the ear, until the pain softens, and for 100 mātrā when there is no pain.",
+      "explanation_hi": "सत्य। अष्टाङ्गहृदय सूत्र 22.32: कर्णमूल का मर्दन करते हुए तैल कान में रखा जाता है, पीड़ा कम होने तक, और पीड़ा न हो तो 100 मात्रा तक।",
+      "reference": "AH.sutra.22.32",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0031",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-nasa",
+      "topic_en": "Nāsā roga (nasal diseases)",
+      "topic_hi": "नासा रोग",
+      "type": "mcq",
+      "question_en": "How many nāsā rogas (nasal diseases) are described by Suśruta?",
+      "question_hi": "सुश्रुत ने कितने नासा रोग बताए हैं?",
+      "options": [
+        {
+          "en": "28",
+          "hi": "28"
+        },
+        {
+          "en": "18",
+          "hi": "18"
+        },
+        {
+          "en": "65",
+          "hi": "65"
+        },
+        {
+          "en": "31",
+          "hi": "31"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "SS Utt 22.5: 31 nāsā rogas, including 4 arśas, 4 śophas, 7 arbudas and 5 pratiśyāyas. 28 is the count of ear diseases; 65 of mouth diseases.",
+      "explanation_hi": "सुश्रुत उत्तर 22.5: 31 नासा रोग, जिनमें 4 अर्श, 4 शोफ, 7 अर्बुद और 5 प्रतिश्याय शामिल हैं। 28 कर्ण रोगों की और 65 मुख रोगों की संख्या है।",
+      "reference": "SS.uttara.22.5",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0032",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-nasa",
+      "topic_en": "Nāsā roga (nasal diseases)",
+      "topic_hi": "नासा रोग",
+      "type": "mcq",
+      "question_en": "How many types of pratiśyāya (coryza) are described by Suśruta?",
+      "question_hi": "सुश्रुत ने प्रतिश्याय के कितने प्रकार बताए हैं?",
+      "options": [
+        {
+          "en": "Three",
+          "hi": "तीन"
+        },
+        {
+          "en": "Four",
+          "hi": "चार"
+        },
+        {
+          "en": "Five",
+          "hi": "पाँच"
+        },
+        {
+          "en": "Seven",
+          "hi": "सात"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "SS Utt 22.5 and 24: five pratiśyāyas — vātaja, pittaja, kaphaja, sannipātaja and raktaja. Neglected pratiśyāya can lead to complications like pīnasa and loss of smell.",
+      "explanation_hi": "सुश्रुत उत्तर 22.5 और 24: पाँच प्रतिश्याय - वातज, पित्तज, कफज, सन्निपातज और रक्तज। उपेक्षित प्रतिश्याय पीनस और गन्धज्ञान नाश जैसे उपद्रव कर सकता है।",
+      "reference": "SS.uttara.24.4",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0033",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-nasa",
+      "topic_en": "Nāsā roga (nasal diseases)",
+      "topic_hi": "नासा रोग",
+      "type": "mcq",
+      "question_en": "Nāsārśa is the classical counterpart of:",
+      "question_hi": "नासार्श का आधुनिक समकक्ष क्या है?",
+      "options": [
+        {
+          "en": "Epistaxis",
+          "hi": "नकसीर"
+        },
+        {
+          "en": "Deviated nasal septum",
+          "hi": "नासा पट का टेढ़ापन"
+        },
+        {
+          "en": "Nasal polyp",
+          "hi": "नासा पॉलिप"
+        },
+        {
+          "en": "Nasal foreign body",
+          "hi": "नाक में बाह्य वस्तु"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "Nāsārśa (pile-like fleshy growths in the nose) correlates with nasal polyps. Epistaxis corresponds to nāsāgata raktapitta.",
+      "explanation_hi": "नासार्श (नाक में अर्श जैसी मांसल वृद्धि) का सहसंबंध नासा पॉलिप से है। नकसीर नासागत रक्तपित्त से मेल खाती है।",
+      "reference": "SS.uttara.22",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0034",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-nasa",
+      "topic_en": "Nāsā roga (nasal diseases)",
+      "topic_hi": "नासा रोग",
+      "type": "mcq",
+      "question_en": "Kṣavathu refers to:",
+      "question_hi": "क्षवथु का अर्थ है:",
+      "options": [
+        {
+          "en": "Loss of smell",
+          "hi": "गन्धज्ञान नाश"
+        },
+        {
+          "en": "Nasal obstruction",
+          "hi": "नाक बंद होना"
+        },
+        {
+          "en": "Sneezing",
+          "hi": "छींक"
+        },
+        {
+          "en": "Nasal bleeding",
+          "hi": "नाक से रक्तस्राव"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "Kṣavathu is (pathological) sneezing, listed among nāsā rogas; Suśruta notes it is caused by vitiated vāta with kapha irritating the nasal passages. Loss of smell is ghrāṇanāśa.",
+      "explanation_hi": "क्षवथु (रोगजन्य) छींक है, जो नासा रोगों में गिनी गई है; सुश्रुत के अनुसार कफयुक्त वात नासा मार्ग को उत्तेजित कर इसे उत्पन्न करता है। गन्धज्ञान का नाश घ्राणनाश है।",
+      "reference": "SS.uttara.22",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0035",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-mukha-danta",
+      "topic_en": "Mukha and danta roga (oral and dental diseases)",
+      "topic_hi": "मुख और दन्त रोग",
+      "type": "mcq",
+      "question_en": "Suśruta describes 65 mukha rogas in seven sites. Which site has the largest number?",
+      "question_hi": "सुश्रुत ने सात स्थानों में 65 मुख रोग बताए हैं। किस स्थान पर सबसे अधिक रोग हैं?",
+      "options": [
+        {
+          "en": "Kaṇṭha (throat) – 17",
+          "hi": "कण्ठ - 17"
+        },
+        {
+          "en": "Dantamūla (gums) – 15",
+          "hi": "दन्तमूल - 15"
+        },
+        {
+          "en": "Tālu (palate) – 9",
+          "hi": "तालु - 9"
+        },
+        {
+          "en": "Oṣṭha (lips) – 8",
+          "hi": "ओष्ठ - 8"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "SS Ni 16.3: oṣṭha 8, dantamūla 15, danta 8, jihvā 5, tālu 9, kaṇṭha 17 and sarvasara (whole mouth) 3 = 65.",
+      "explanation_hi": "सुश्रुत निदान 16.3: ओष्ठ 8, दन्तमूल 15, दन्त 8, जिह्वा 5, तालु 9, कण्ठ 17 और सर्वसर (पूरा मुख) 3 = 65।",
+      "reference": "SS.nidana.16.3",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0036",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-mukha-danta",
+      "topic_en": "Mukha and danta roga (oral and dental diseases)",
+      "topic_hi": "मुख और दन्त रोग",
+      "type": "mcq",
+      "question_en": "How many types of rohiṇī (a dangerous throat disease) are described by Suśruta?",
+      "question_hi": "सुश्रुत ने रोहिणी (गले का घातक रोग) के कितने प्रकार बताए हैं?",
+      "options": [
+        {
+          "en": "Five",
+          "hi": "पाँच"
+        },
+        {
+          "en": "Three",
+          "hi": "तीन"
+        },
+        {
+          "en": "Four",
+          "hi": "चार"
+        },
+        {
+          "en": "Seven",
+          "hi": "सात"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "SS Ni 16.46–47: five rohiṇīs — vātaja, pittaja, kaphaja, sannipātaja and raktaja — with fleshy growths that obstruct the throat and can kill quickly. Rohiṇī is commonly correlated with diphtheria.",
+      "explanation_hi": "सुश्रुत निदान 16.46-47: पाँच रोहिणी - वातज, पित्तज, कफज, सन्निपातज और रक्तज - जिनमें मांसाङ्कुर गले को रोकते हैं और शीघ्र प्राण हर सकते हैं। रोहिणी का सामान्य सहसंबंध डिप्थीरिया से है।",
+      "reference": "SS.nidana.16.46",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0037",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-mukha-danta",
+      "topic_en": "Mukha and danta roga (oral and dental diseases)",
+      "topic_hi": "मुख और दन्त रोग",
+      "type": "mcq",
+      "question_en": "Krimidantaka corresponds to:",
+      "question_hi": "कृमिदन्तक किससे मेल खाता है?",
+      "options": [
+        {
+          "en": "Gingivitis",
+          "hi": "मसूड़ों की सूजन"
+        },
+        {
+          "en": "Malocclusion",
+          "hi": "दाँतों का गलत संरेखण"
+        },
+        {
+          "en": "Tooth sensitivity",
+          "hi": "दाँतों की संवेदनशीलता"
+        },
+        {
+          "en": "Dental caries",
+          "hi": "दन्त क्षय (कैरीज़)"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "Krimidantaka is a blackened, perforated, mobile, discharging and very painful tooth (SS Ni 16.29) — dental caries. Tooth sensitivity is dantaharṣa.",
+      "explanation_hi": "कृमिदन्तक में दाँत काला, छिद्रयुक्त, हिलता, स्रावयुक्त और अत्यंत पीड़ादायक होता है (सुश्रुत निदान 16.29) - दन्त क्षय। दाँतों की संवेदनशीलता दन्तहर्ष है।",
+      "reference": "SS.nidana.16.29",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0038",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-mukha-danta",
+      "topic_en": "Mukha and danta roga (oral and dental diseases)",
+      "topic_hi": "मुख और दन्त रोग",
+      "type": "mcq",
+      "question_en": "Which of the following is a dantamūlagata (gum) disease according to Suśruta?",
+      "question_hi": "सुश्रुत के अनुसार इनमें से कौन-सा दन्तमूलगत (मसूड़ों का) रोग है?",
+      "options": [
+        {
+          "en": "Śītāda",
+          "hi": "शीताद"
+        },
+        {
+          "en": "Krimidantaka",
+          "hi": "कृमिदन्तक"
+        },
+        {
+          "en": "Dantaharṣa",
+          "hi": "दन्तहर्ष"
+        },
+        {
+          "en": "Kapālikā",
+          "hi": "कपालिका"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "SS Ni 16.13 lists dantamūla diseases: śītāda, dantapuppuṭaka, dantaveṣṭaka, śauṣira, mahāśauṣira, paridara, upakuśa, dantavaidarbha, vardhana, adhimāṃsa and five nāḍīs. Krimidantaka, dantaharṣa and kapālikā are diseases of the teeth (danta).",
+      "explanation_hi": "सुश्रुत निदान 16.13 में दन्तमूल रोग: शीताद, दन्तपुप्पुटक, दन्तवेष्टक, शौषिर, महाशौषिर, परिदर, उपकुश, दन्तवैदर्भ, वर्धन, अधिमांस और पाँच नाडी। कृमिदन्तक, दन्तहर्ष और कपालिका दन्त (दाँत) के रोग हैं।",
+      "reference": "SS.nidana.16.13",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0039",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-mukha-danta",
+      "topic_en": "Mukha and danta roga (oral and dental diseases)",
+      "topic_hi": "मुख और दन्त रोग",
+      "type": "mcq",
+      "question_en": "Dantaharṣa is best correlated with:",
+      "question_hi": "दन्तहर्ष का सबसे उपयुक्त सहसंबंध है:",
+      "options": [
+        {
+          "en": "Dental abscess",
+          "hi": "दन्त विद्रधि"
+        },
+        {
+          "en": "Dentine hypersensitivity",
+          "hi": "दाँतों की अतिसंवेदनशीलता"
+        },
+        {
+          "en": "Tooth fracture",
+          "hi": "दाँत टूटना"
+        },
+        {
+          "en": "Halitosis",
+          "hi": "मुख दुर्गन्ध"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "In dantaharṣa (a vātaja danta roga), the teeth cannot bear cold, hot or sour contact — dentine hypersensitivity.",
+      "explanation_hi": "दन्तहर्ष (वातज दन्त रोग) में दाँत ठंडा, गरम या खट्टा स्पर्श सहन नहीं कर पाते - दाँतों की अतिसंवेदनशीलता।",
+      "reference": "SS.nidana.16",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0040",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-siroroga",
+      "topic_en": "Śiroroga (diseases of the head)",
+      "topic_hi": "शिरोरोग",
+      "type": "mcq",
+      "question_en": "How many śirorogas are described by Suśruta?",
+      "question_hi": "सुश्रुत ने कितने शिरोरोग बताए हैं?",
+      "options": [
+        {
+          "en": "Eleven",
+          "hi": "ग्यारह"
+        },
+        {
+          "en": "Five",
+          "hi": "पाँच"
+        },
+        {
+          "en": "Nine",
+          "hi": "नौ"
+        },
+        {
+          "en": "Twenty",
+          "hi": "बीस"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "SS Utt 25.4: eleven śirorogas, including sūryāvarta, anantavāta, ardhāvabhedaka and śaṅkhaka. Caraka (Sū 17) describes five.",
+      "explanation_hi": "सुश्रुत उत्तर 25.4: ग्यारह शिरोरोग, जिनमें सूर्यावर्त, अनन्तवात, अर्धावभेदक और शङ्खक शामिल हैं। चरक (सूत्र 17) पाँच बताते हैं।",
+      "reference": "SS.uttara.25.4",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0041",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-siroroga",
+      "topic_en": "Śiroroga (diseases of the head)",
+      "topic_hi": "शिरोरोग",
+      "type": "mcq",
+      "question_en": "A headache that increases as the sun rises and subsides as the day ends is called:",
+      "question_hi": "सूर्य के चढ़ने के साथ बढ़ने और दिन ढलने पर शान्त होने वाला शिरःशूल क्या कहलाता है?",
+      "options": [
+        {
+          "en": "Sūryāvarta",
+          "hi": "सूर्यावर्त"
+        },
+        {
+          "en": "Ardhāvabhedaka",
+          "hi": "अर्धावभेदक"
+        },
+        {
+          "en": "Śaṅkhaka",
+          "hi": "शङ्खक"
+        },
+        {
+          "en": "Anantavāta",
+          "hi": "अनन्तवात"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "CS Si 9.81 and SS Utt 25: in sūryāvarta, pain rises with the sun and subsides at sunset. Ardhāvabhedaka is half-sided headache (migraine-like); śaṅkhaka involves the temples.",
+      "explanation_hi": "चरक सिद्धि 9.81 और सुश्रुत उत्तर 25: सूर्यावर्त में पीड़ा सूर्य के साथ बढ़ती है और सूर्यास्त पर शान्त होती है। अर्धावभेदक आधे सिर का दर्द (माइग्रेन जैसा) है; शङ्खक में कनपटी प्रभावित होती है।",
+      "reference": "CS.siddhi.9.81",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0042",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-siroroga",
+      "topic_en": "Śiroroga (diseases of the head)",
+      "topic_hi": "शिरोरोग",
+      "type": "mcq",
+      "question_en": "Ardhāvabhedaka is commonly correlated with:",
+      "question_hi": "अर्धावभेदक का सामान्य सहसंबंध किससे है?",
+      "options": [
+        {
+          "en": "Cluster headache",
+          "hi": "क्लस्टर सिरदर्द"
+        },
+        {
+          "en": "Tension-type headache",
+          "hi": "तनावजन्य सिरदर्द"
+        },
+        {
+          "en": "Migraine",
+          "hi": "माइग्रेन"
+        },
+        {
+          "en": "Temporal arteritis",
+          "hi": "टेम्पोरल आर्टेराइटिस"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "Ardhāvabhedaka is a recurrent, intense, one-sided headache (CS Si 9; SS Utt 25) — closest to migraine. Śaṅkhaka is sometimes compared with temporal arteritis.",
+      "explanation_hi": "अर्धावभेदक बार-बार होने वाला, तीव्र, आधे सिर का दर्द है (चरक सिद्धि 9; सुश्रुत उत्तर 25) - माइग्रेन के सबसे निकट। शङ्खक की तुलना कभी-कभी टेम्पोरल आर्टेराइटिस से की जाती है।",
+      "reference": "CS.siddhi.9",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0043",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-gandusa",
+      "topic_en": "Gaṇḍūṣa and kavala",
+      "topic_hi": "गण्डूष और कवल",
+      "type": "mcq",
+      "question_en": "What is the difference between gaṇḍūṣa and kavala?",
+      "question_hi": "गण्डूष और कवल में क्या अंतर है?",
+      "options": [
+        {
+          "en": "Gaṇḍūṣa uses powder, kavala uses oil",
+          "hi": "गण्डूष में चूर्ण, कवल में तैल"
+        },
+        {
+          "en": "In gaṇḍūṣa the mouth is filled and the fluid held without moving; in kavala a smaller amount is swished around",
+          "hi": "गण्डूष में मुख भरकर द्रव बिना हिलाए रखा जाता है; कवल में कम मात्रा मुख में घुमाई जाती है"
+        },
+        {
+          "en": "Gaṇḍūṣa is swallowed, kavala is spat out",
+          "hi": "गण्डूष निगला जाता है, कवल थूका जाता है"
+        },
+        {
+          "en": "There is no difference",
+          "hi": "कोई अंतर नहीं"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "AH Sū 22: in gaṇḍūṣa the mouth is filled fully so the fluid cannot be moved; in kavala a comfortable quantity is moved around the mouth. Neither is swallowed.",
+      "explanation_hi": "अष्टाङ्गहृदय सूत्र 22: गण्डूष में मुख पूरा भरा जाता है जिससे द्रव हिल न सके; कवल में सुविधाजनक मात्रा मुख में घुमाई जाती है। दोनों में से कोई निगला नहीं जाता।",
+      "reference": "AH.sutra.22",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0044",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-gandusa",
+      "topic_en": "Gaṇḍūṣa and kavala",
+      "topic_hi": "गण्डूष और कवल",
+      "type": "mcq",
+      "question_en": "Vāgbhaṭa describes four types of gaṇḍūṣa. Which set is correct?",
+      "question_hi": "वाग्भट ने गण्डूष के चार प्रकार बताए हैं। सही समूह कौन-सा है?",
+      "options": [
+        {
+          "en": "Lekhana, ropaṇa, prasādana, snehana",
+          "hi": "लेखन, रोपण, प्रसादन, स्नेहन"
+        },
+        {
+          "en": "Vāta, pitta, kapha, rakta",
+          "hi": "वात, पित्त, कफ, रक्त"
+        },
+        {
+          "en": "Taila, ghṛta, kṣīra, madhu",
+          "hi": "तैल, घृत, क्षीर, मधु"
+        },
+        {
+          "en": "Snigdha, śamana, śodhana, ropaṇa",
+          "hi": "स्निग्ध, शमन, शोधन, रोपण"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "AH Sū 22.1: gaṇḍūṣa is snigdha (unctuous, for vāta), śamana (for pitta), śodhana (for kapha) and ropaṇa (healing, for ulcers).",
+      "explanation_hi": "अष्टाङ्गहृदय सूत्र 22.1: गण्डूष स्निग्ध (वात में), शमन (पित्त में), शोधन (कफ में) और रोपण (व्रण भरने के लिए) होता है।",
+      "reference": "AH.sutra.22.1",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0045",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-modern-eye",
+      "topic_en": "Ophthalmology basics",
+      "topic_hi": "नेत्र विज्ञान (आधुनिक)",
+      "type": "mcq",
+      "question_en": "What is the normal range of intraocular pressure (IOP)?",
+      "question_hi": "सामान्य अन्तःनेत्र दाब (IOP) की सीमा क्या है?",
+      "options": [
+        {
+          "en": "25–35 mm Hg",
+          "hi": "25-35 mm Hg"
+        },
+        {
+          "en": "0–5 mm Hg",
+          "hi": "0-5 mm Hg"
+        },
+        {
+          "en": "40–60 mm Hg",
+          "hi": "40-60 mm Hg"
+        },
+        {
+          "en": "10–21 mm Hg",
+          "hi": "10-21 mm Hg"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "Normal IOP is about 10–21 mm Hg (mean around 16). Persistently higher pressure with optic disc cupping and field loss suggests glaucoma, often compared with adhimantha.",
+      "explanation_hi": "सामान्य IOP लगभग 10-21 mm Hg (औसत लगभग 16) है। लगातार अधिक दाब के साथ ऑप्टिक डिस्क कपिंग और दृष्टि क्षेत्र हानि ग्लूकोमा दर्शाते हैं, जिसकी तुलना अधिमन्थ से की जाती है।",
+      "reference": "Khurana – Comprehensive Ophthalmology",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0046",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-modern-eye",
+      "topic_en": "Ophthalmology basics",
+      "topic_hi": "नेत्र विज्ञान (आधुनिक)",
+      "type": "mcq",
+      "question_en": "Myopia is corrected with which type of lens?",
+      "question_hi": "मायोपिया (निकट दृष्टि) किस लेंस से ठीक किया जाता है?",
+      "options": [
+        {
+          "en": "Convex (plus) lens",
+          "hi": "उत्तल (प्लस) लेंस"
+        },
+        {
+          "en": "Concave (minus) lens",
+          "hi": "अवतल (माइनस) लेंस"
+        },
+        {
+          "en": "Cylindrical lens only",
+          "hi": "केवल सिलिंड्रिकल लेंस"
+        },
+        {
+          "en": "Prism",
+          "hi": "प्रिज़्म"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "In myopia parallel rays focus in front of the retina, so a concave (diverging) lens is used. Hypermetropia needs a convex lens; astigmatism a cylindrical lens.",
+      "explanation_hi": "मायोपिया में समानांतर किरणें रेटिना के आगे फोकस होती हैं, इसलिए अवतल (अपसारी) लेंस दिया जाता है। हाइपरमेट्रोपिया में उत्तल और एस्टिग्मैटिज़्म में सिलिंड्रिकल लेंस।",
+      "reference": "Khurana – Comprehensive Ophthalmology",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0047",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-modern-eye",
+      "topic_en": "Ophthalmology basics",
+      "topic_hi": "नेत्र विज्ञान (आधुनिक)",
+      "type": "mcq",
+      "question_en": "Bitot's spots on the conjunctiva are a sign of:",
+      "question_hi": "कंजंक्टाइवा पर बिटॉट के धब्बे किसका संकेत हैं?",
+      "options": [
+        {
+          "en": "Vitamin A deficiency",
+          "hi": "विटामिन A की कमी"
+        },
+        {
+          "en": "Vitamin C deficiency",
+          "hi": "विटामिन C की कमी"
+        },
+        {
+          "en": "Trachoma",
+          "hi": "ट्रेकोमा"
+        },
+        {
+          "en": "Diabetic retinopathy",
+          "hi": "डायबिटिक रेटिनोपैथी"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "Bitot's spots (foamy triangular patches on the bulbar conjunctiva) are part of xerophthalmia due to vitamin A deficiency, together with night blindness (cf. naktāndhya).",
+      "explanation_hi": "बिटॉट के धब्बे (बल्बर कंजंक्टाइवा पर झागदार त्रिकोणीय धब्बे) विटामिन A की कमी से होने वाले ज़ेरोफ्थैल्मिया का भाग हैं, रतौंधी (नक्तान्ध्य) के साथ।",
+      "reference": "Khurana – Comprehensive Ophthalmology",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0048",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-modern-eye",
+      "topic_en": "Ophthalmology basics",
+      "topic_hi": "नेत्र विज्ञान (आधुनिक)",
+      "type": "mcq",
+      "question_en": "Trachoma is caused by:",
+      "question_hi": "ट्रेकोमा किसके कारण होता है?",
+      "options": [
+        {
+          "en": "Chlamydia trachomatis",
+          "hi": "क्लैमिडिया ट्रेकोमैटिस"
+        },
+        {
+          "en": "Staphylococcus aureus",
+          "hi": "स्टैफ़िलोकोकस ऑरियस"
+        },
+        {
+          "en": "Adenovirus",
+          "hi": "एडेनोवायरस"
+        },
+        {
+          "en": "Neisseria gonorrhoeae",
+          "hi": "नाइसेरिया गोनोरिया"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "Trachoma is a chronic keratoconjunctivitis caused by Chlamydia trachomatis (serotypes A–C). WHO's SAFE strategy: Surgery, Antibiotics, Facial cleanliness, Environmental improvement.",
+      "explanation_hi": "ट्रेकोमा क्लैमिडिया ट्रेकोमैटिस (सीरोटाइप A-C) से होने वाला दीर्घकालिक केराटोकंजंक्टिवाइटिस है। WHO की SAFE रणनीति: सर्जरी, एंटीबायोटिक, चेहरे की सफाई, पर्यावरण सुधार।",
+      "reference": "Khurana – Comprehensive Ophthalmology",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0049",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-modern-eye",
+      "topic_en": "Ophthalmology basics",
+      "topic_hi": "नेत्र विज्ञान (आधुनिक)",
+      "type": "mcq",
+      "question_en": "In acute angle-closure glaucoma, the pupil is typically:",
+      "question_hi": "तीव्र एंगल-क्लोज़र ग्लूकोमा में पुतली सामान्यतः कैसी होती है?",
+      "options": [
+        {
+          "en": "Constricted and irregular",
+          "hi": "सिकुड़ी और अनियमित"
+        },
+        {
+          "en": "Normal and briskly reactive",
+          "hi": "सामान्य और तुरंत प्रतिक्रियाशील"
+        },
+        {
+          "en": "Mid-dilated, vertically oval and non-reactive",
+          "hi": "मध्यम फैली, ऊर्ध्वाधर अंडाकार और प्रकाश पर अप्रतिक्रियाशील"
+        },
+        {
+          "en": "White (leukocoria)",
+          "hi": "सफेद (ल्यूकोकोरिया)"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "Acute angle closure gives a red, painful eye with corneal oedema, very high IOP and a fixed, mid-dilated, vertically oval pupil. A small irregular pupil suggests iridocyclitis; leukocoria suggests cataract or retinoblastoma.",
+      "explanation_hi": "तीव्र एंगल-क्लोज़र में लाल, पीड़ादायक नेत्र, कॉर्निया शोथ, अत्यधिक IOP और स्थिर, मध्यम फैली, ऊर्ध्वाधर अंडाकार पुतली होती है। छोटी अनियमित पुतली इरिडोसाइक्लाइटिस और ल्यूकोकोरिया मोतियाबिंद या रेटिनोब्लास्टोमा दर्शाती है।",
+      "reference": "Khurana – Comprehensive Ophthalmology",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0050",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-modern-ent",
+      "topic_en": "ENT basics",
+      "topic_hi": "कान-नाक-गला (आधुनिक)",
+      "type": "mcq",
+      "question_en": "In unilateral conductive deafness, Weber's test lateralises to:",
+      "question_hi": "एकतरफा प्रवाहकीय बहरापन में वेबर परीक्षण की ध्वनि किस ओर जाती है?",
+      "options": [
+        {
+          "en": "The normal ear",
+          "hi": "सामान्य कान की ओर"
+        },
+        {
+          "en": "The affected ear",
+          "hi": "प्रभावित कान की ओर"
+        },
+        {
+          "en": "The midline",
+          "hi": "मध्य रेखा में"
+        },
+        {
+          "en": "Neither ear",
+          "hi": "किसी भी कान में नहीं"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "In conductive loss, Weber lateralises to the affected (worse) ear and Rinne is negative (BC > AC) on that side. In sensorineural loss Weber goes to the better ear.",
+      "explanation_hi": "प्रवाहकीय हानि में वेबर प्रभावित (खराब) कान की ओर जाता है और उस ओर रिन्ने नेगेटिव (BC > AC) होता है। संवेदी-तंत्रिका हानि में वेबर अच्छे कान की ओर जाता है।",
+      "reference": "Dhingra – Diseases of Ear, Nose and Throat",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0051",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-modern-ent",
+      "topic_en": "ENT basics",
+      "topic_hi": "कान-नाक-गला (आधुनिक)",
+      "type": "mcq",
+      "question_en": "The most common site of anterior epistaxis is:",
+      "question_hi": "अग्र नकसीर का सबसे सामान्य स्थान कौन-सा है?",
+      "options": [
+        {
+          "en": "Little's area (Kiesselbach's plexus)",
+          "hi": "लिटिल का क्षेत्र (किसेलबाख़ प्लेक्सस)"
+        },
+        {
+          "en": "Woodruff's plexus",
+          "hi": "वुडरफ़ प्लेक्सस"
+        },
+        {
+          "en": "Inferior turbinate",
+          "hi": "निचला टर्बिनेट"
+        },
+        {
+          "en": "Nasopharynx",
+          "hi": "नेज़ोफ़ैरिंक्स"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "About 90% of nosebleeds arise from Little's area on the anterior-inferior nasal septum, where Kiesselbach's plexus lies. Woodruff's plexus is a source of posterior epistaxis.",
+      "explanation_hi": "लगभग 90% नकसीर नासा पट के अग्र-निचले भाग पर लिटिल के क्षेत्र से होती है, जहाँ किसेलबाख़ प्लेक्सस होता है। वुडरफ़ प्लेक्सस पश्च नकसीर का स्रोत है।",
+      "reference": "Dhingra – Diseases of Ear, Nose and Throat",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0052",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-modern-ent",
+      "topic_en": "ENT basics",
+      "topic_hi": "कान-नाक-गला (आधुनिक)",
+      "type": "mcq",
+      "question_en": "Quinsy is another name for:",
+      "question_hi": "क्विंसी किसका दूसरा नाम है?",
+      "options": [
+        {
+          "en": "Retropharyngeal abscess",
+          "hi": "रेट्रोफ़ैरिंजियल फोड़ा"
+        },
+        {
+          "en": "Acute epiglottitis",
+          "hi": "तीव्र एपिग्लॉटाइटिस"
+        },
+        {
+          "en": "Peritonsillar abscess",
+          "hi": "पेरिटॉन्सिलर फोड़ा"
+        },
+        {
+          "en": "Ludwig's angina",
+          "hi": "लुडविग एंजाइना"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "Quinsy is a collection of pus between the tonsil capsule and the superior constrictor, presenting with trismus, 'hot potato' voice and uvula deviated to the opposite side.",
+      "explanation_hi": "क्विंसी टॉन्सिल कैप्सूल और सुपीरियर कंस्ट्रिक्टर के बीच मवाद का संग्रह है, जिसमें मुँह खोलने में कठिनाई, 'हॉट पोटेटो' आवाज़ और काकलक (यूवुला) का विपरीत ओर हटना होता है।",
+      "reference": "Dhingra – Diseases of Ear, Nose and Throat",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0053",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-modern-dental",
+      "topic_en": "Dentistry basics",
+      "topic_hi": "दन्त चिकित्सा (आधुनिक)",
+      "type": "mcq",
+      "question_en": "How many teeth are there in the deciduous (milk) dentition?",
+      "question_hi": "दूध के दाँतों (अस्थायी दन्त) की संख्या कितनी होती है?",
+      "options": [
+        {
+          "en": "32",
+          "hi": "32"
+        },
+        {
+          "en": "28",
+          "hi": "28"
+        },
+        {
+          "en": "20",
+          "hi": "20"
+        },
+        {
+          "en": "24",
+          "hi": "24"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "Deciduous dentition has 20 teeth (no premolars, no third molars); permanent dentition has 32.",
+      "explanation_hi": "दूध के दाँत 20 होते हैं (प्रीमोलर और तीसरी दाढ़ नहीं); स्थायी दाँत 32 होते हैं।",
+      "reference": "Standard dental anatomy",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0054",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-modern-dental",
+      "topic_en": "Dentistry basics",
+      "topic_hi": "दन्त चिकित्सा (आधुनिक)",
+      "type": "mcq",
+      "question_en": "The first permanent tooth to erupt, at about 6 years, is usually the:",
+      "question_hi": "लगभग 6 वर्ष की आयु में निकलने वाला पहला स्थायी दाँत सामान्यतः कौन-सा है?",
+      "options": [
+        {
+          "en": "Central incisor",
+          "hi": "मध्य कृन्तक"
+        },
+        {
+          "en": "First molar",
+          "hi": "पहली दाढ़ (प्रथम मोलर)"
+        },
+        {
+          "en": "Canine",
+          "hi": "रदनक (कैनाइन)"
+        },
+        {
+          "en": "First premolar",
+          "hi": "प्रथम प्रीमोलर"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "The permanent first molar erupts at about 6 years behind the milk teeth (often called the 'six-year molar'), usually just before or with the lower central incisors.",
+      "explanation_hi": "स्थायी पहली दाढ़ लगभग 6 वर्ष की आयु में दूध के दाँतों के पीछे निकलती है ('सिक्स-ईयर मोलर'), प्रायः निचले मध्य कृन्तकों से ठीक पहले या साथ।",
+      "reference": "Standard dental anatomy",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0055",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-modern-dental",
+      "topic_en": "Dentistry basics",
+      "topic_hi": "दन्त चिकित्सा (आधुनिक)",
+      "type": "true_false",
+      "question_en": "True or False: Streptococcus mutans is the principal bacterium associated with dental caries.",
+      "question_hi": "सत्य या असत्य: स्ट्रेप्टोकोकस म्यूटन्स दन्त क्षय (कैरीज़) से जुड़ा प्रमुख जीवाणु है।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "True. S. mutans ferments dietary sugars to acid, demineralising enamel; lactobacilli contribute to progression. Classical correlate: krimidantaka.",
+      "explanation_hi": "सत्य। स्ट्रेप्टोकोकस म्यूटन्स आहार की शर्करा को अम्ल में बदलकर इनेमल का खनिज घटाता है; लैक्टोबैसिलाई रोग बढ़ाने में योगदान करते हैं। शास्त्रीय सहसंबंध: कृमिदन्तक।",
+      "reference": "Ananthanarayan & Paniker's Microbiology",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0056",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-modern-ent",
+      "topic_en": "ENT basics",
+      "topic_hi": "कान-नाक-गला (आधुनिक)",
+      "type": "true_false",
+      "question_en": "True or False: Attico-antral (squamosal) CSOM with cholesteatoma is considered the 'safe' type of chronic otitis media.",
+      "question_hi": "सत्य या असत्य: कोलेस्टीटोमा युक्त एटिको-एंट्रल (स्क्वैमोसल) CSOM को 'सुरक्षित' प्रकार का दीर्घकालिक मध्यकर्ण शोथ माना जाता है।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "False. Attico-antral disease with cholesteatoma is the 'unsafe' type, because cholesteatoma erodes bone and can cause intracranial complications. The tubotympanic (mucosal) type with central perforation is the 'safe' type.",
+      "explanation_hi": "असत्य। कोलेस्टीटोमा युक्त एटिको-एंट्रल रोग 'असुरक्षित' प्रकार है, क्योंकि कोलेस्टीटोमा अस्थि को नष्ट करता है और अन्तःकपाल जटिलताएँ कर सकता है। सेंट्रल परफ़ोरेशन वाला ट्यूबोटिम्पैनिक (म्यूकोसल) प्रकार 'सुरक्षित' है।",
+      "reference": "Dhingra – Diseases of Ear, Nose and Throat",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0057",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-modern-eye",
+      "topic_en": "Ophthalmology basics",
+      "topic_hi": "नेत्र विज्ञान (आधुनिक)",
+      "type": "mcq",
+      "question_en": "Distance visual acuity with a Snellen chart is tested at a distance of:",
+      "question_hi": "स्नेलन चार्ट से दूर की दृष्टि की जाँच कितनी दूरी पर की जाती है?",
+      "options": [
+        {
+          "en": "1 metre",
+          "hi": "1 मीटर"
+        },
+        {
+          "en": "6 metres",
+          "hi": "6 मीटर"
+        },
+        {
+          "en": "33 cm",
+          "hi": "33 से.मी."
+        },
+        {
+          "en": "12 metres",
+          "hi": "12 मीटर"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "Snellen distance acuity is tested at 6 m (20 feet), where rays are practically parallel and accommodation is relaxed. Near vision is tested at about 33–40 cm.",
+      "explanation_hi": "स्नेलन चार्ट से दूर दृष्टि 6 मीटर (20 फीट) पर जाँची जाती है, जहाँ किरणें लगभग समानांतर होती हैं और समंजन विश्राम में रहता है। निकट दृष्टि लगभग 33-40 से.मी. पर जाँची जाती है।",
+      "reference": "Khurana – Comprehensive Ophthalmology",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0058",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-karna",
+      "topic_en": "Karṇa roga (ear diseases)",
+      "topic_hi": "कर्ण रोग",
+      "type": "mcq",
+      "question_en": "Bādhirya refers to:",
+      "question_hi": "बाधिर्य का अर्थ है:",
+      "options": [
+        {
+          "en": "Ear discharge",
+          "hi": "कान से स्राव"
+        },
+        {
+          "en": "Tinnitus",
+          "hi": "कान में आवाज़"
+        },
+        {
+          "en": "Ear wax",
+          "hi": "कान का मैल"
+        },
+        {
+          "en": "Deafness",
+          "hi": "बहरापन"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "Bādhirya is deafness, caused mainly by vāta (often with kapha) obstructing the śabdavaha srotas. Tinnitus is karṇanāda, discharge karṇasrāva, and impacted wax karṇagūtha / karṇapratināha.",
+      "explanation_hi": "बाधिर्य बहरापन है, जो मुख्यतः वात (प्रायः कफ के साथ) द्वारा शब्दवह स्रोतस के अवरोध से होता है। कान में आवाज़ कर्णनाद, स्राव कर्णस्राव, और कठोर मैल कर्णगूथ/कर्णप्रतिनाह है।",
+      "reference": "SS.uttara.20",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0059",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-netra-roga",
+      "topic_en": "Netra roga (eye diseases)",
+      "topic_hi": "नेत्र रोग",
+      "type": "mcq",
+      "question_en": "Per Suśruta, how many eye diseases are located in the sandhis (junctions) of the eye?",
+      "question_hi": "सुश्रुत के अनुसार नेत्र की सन्धियों में कितने रोग होते हैं?",
+      "options": [
+        {
+          "en": "6",
+          "hi": "6"
+        },
+        {
+          "en": "12",
+          "hi": "12"
+        },
+        {
+          "en": "21",
+          "hi": "21"
+        },
+        {
+          "en": "9",
+          "hi": "9"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "SS Utt 1.44: nine sandhigata diseases (e.g. pūyālasa, upanāha, srāvas, parvaṇī, alajī, krimigranthi). Six is the number of sandhis themselves, 12 the dṛṣṭigata diseases and 21 the vartmagata.",
+      "explanation_hi": "सुश्रुत उत्तर 1.44: नौ सन्धिगत रोग (जैसे पूयालस, उपनाह, स्राव, पर्वणी, अलजी, कृमिग्रन्थि)। छह स्वयं सन्धियों की संख्या है, 12 दृष्टिगत और 21 वर्त्मगत रोगों की।",
+      "reference": "SS.uttara.1.44",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SL-0060",
+      "subject_id": "AyUG-SL",
+      "topic_id": "sl-netra-roga",
+      "topic_en": "Netra roga (eye diseases)",
+      "topic_hi": "नेत्र रोग",
+      "type": "mcq",
+      "question_en": "According to Suśruta, the kṛṣṇa maṇḍala measures one-third of the eye, and the dṛṣṭi (pupil) measures what fraction of the kṛṣṇa maṇḍala?",
+      "question_hi": "सुश्रुत के अनुसार कृष्ण मण्डल नेत्र का एक-तिहाई है, और दृष्टि (पुतली) कृष्ण मण्डल का कितना भाग है?",
+      "options": [
+        {
+          "en": "One-third",
+          "hi": "तीसरा भाग"
+        },
+        {
+          "en": "One-half",
+          "hi": "आधा"
+        },
+        {
+          "en": "One-fifth",
+          "hi": "पाँचवाँ भाग"
+        },
+        {
+          "en": "One-seventh",
+          "hi": "सातवाँ भाग"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "SS Utt 1.13: the kṛṣṇa maṇḍala is one-third of the length of the eye, and the experts consider the dṛṣṭi to be one-seventh of the kṛṣṇa maṇḍala.",
+      "explanation_hi": "सुश्रुत उत्तर 1.13: कृष्ण मण्डल नेत्र की लम्बाई का एक-तिहाई है, और विशेषज्ञ दृष्टि को कृष्ण मण्डल का सातवाँ भाग मानते हैं।",
+      "reference": "SS.uttara.1.13",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    }
+  ]
+}
