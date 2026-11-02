@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.expo/
+web-build/
+*.log
+.env
+.DS_Store
+__pycache__/
