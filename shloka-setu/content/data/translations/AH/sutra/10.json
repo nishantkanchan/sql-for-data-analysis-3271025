@@ -1,0 +1,4153 @@
+{
+ "chapter": {
+  "id": "AH.sutra.10",
+  "text": "ashtanga_hridaya",
+  "sthana": "sutra",
+  "chapter": 10,
+  "title_iast": "Rasabhedīya Adhyāya",
+  "title_devanagari": "रसभेदीयोऽध्यायः",
+  "title_en": "The chapter on the varieties of taste",
+  "title_hi": "रसभेदीय अध्याय (रसों के भेद)",
+  "summary_en": "This chapter is the classical account of the six tastes (ṣaḍrasa). It begins with the pāñcabhautika origin of each taste from a pair of predominant elements, then gives the features by which each taste is recognised in the mouth (rasa-lakṣaṇa). The core of the chapter describes the actions (karma), qualities and effects of overuse (atiyoga) of madhura, amla, lavaṇa, tikta, kaṭu and kaṣāya rasa. It lists representative drugs and foods of each taste group, and then states the important exceptions: sweet things that do not increase kapha, sour things that do not increase pitta, the salt that is good for the eyes, bitter and pungent drugs that are not vāta-provoking, and the astringent drug that is not constipating. Graded comparisons of the tastes by heat, cold, dryness, unctuousness, heaviness and lightness follow. The chapter ends with the 57 combinations and 63 formulations of tastes and notes that, counting anurasa and degrees, they are innumerable. Rasa-karma, atiyoga and the exceptions are among the most frequently asked topics in BAMS Dravyaguṇa and AIAPGET.",
+  "summary_hi": "यह अध्याय छह रसों (षड्रस) का शास्त्रीय वर्णन है। शुरुआत में हर रस की दो प्रधान महाभूतों से पांचभौतिक उत्पत्ति, फिर मुँह में हर रस की पहचान (रस लक्षण) बताई गई है। अध्याय के मुख्य भाग में मधुर, अम्ल, लवण, तिक्त, कटु और कषाय रस के कर्म, गुण और अतियोग के दुष्प्रभाव हैं। हर रस वर्ग के प्रतिनिधि द्रव्य और आहार दिए गए हैं, और फिर महत्वपूर्ण अपवाद: कफ न बढ़ाने वाले मधुर द्रव्य, पित्त न बढ़ाने वाले अम्ल द्रव्य, आँखों के लिए हितकर लवण, वात न बढ़ाने वाले तिक्त-कटु द्रव्य, और स्तम्भक न होने वाला कषाय द्रव्य। इसके बाद रसों की उष्णता, शीतता, रूक्षता, स्निग्धता, गुरुता और लघुता के अनुसार तुलनात्मक क्रम है। अंत में रसों के 57 संयोग और 63 कल्पनाएँ बताई गई हैं, और कहा गया है कि अनुरस और तारतम्य से ये अनगिनत हैं। रस कर्म, अतियोग और अपवाद BAMS द्रव्यगुण और AIAPGET में सबसे ज़्यादा पूछे जाने वाले विषयों में हैं।",
+  "key_concepts": [
+   "ṣaḍrasa",
+   "rasa-utpatti",
+   "rasa-lakṣaṇa",
+   "rasa-karma",
+   "atiyoga",
+   "rasa-skandha",
+   "apavāda",
+   "tāratamya",
+   "rasa-saṃyoga",
+   "63-kalpanā"
+  ],
+  "exam_focus_en": [
+   "Pāñcabhautika composition of the six rasas (10.1)",
+   "Rasa-lakṣaṇa: how each taste is identified in the mouth (10.2-6)",
+   "Karma, guṇa and atiyoga effects of each rasa, e.g. madhura → sthaulya/prameha; lavaṇa → khālitya/pālitya (10.6-22)",
+   "Exceptions: old śāli, mudga, honey (madhura not kapha-kara); dāḍima, āmalaka; saindhava; guḍūcī, paṭola, śuṇṭhī, pippalī, rasona; harītakī (10.33-36)",
+   "Gradation of rasas by uṣṇa, śīta, rūkṣa, snigdha, guru and laghu (10.36-39)",
+   "57 rasa combinations and 63 kalpanā (10.39-43)"
+  ],
+  "exam_focus_hi": [
+   "छह रसों की पांचभौतिक रचना (10.1)",
+   "रस लक्षण: मुँह में हर रस की पहचान (10.2-6)",
+   "हर रस के कर्म, गुण और अतियोग, जैसे मधुर → स्थौल्य/प्रमेह; लवण → खालित्य/पालित्य (10.6-22)",
+   "अपवाद: पुराना शाली, मूँग, शहद (मधुर पर कफकर नहीं); अनार, आँवला; सैंधव; गिलोय, परवल, सोंठ, पिप्पली, लहसुन; हरड़ (10.33-36)",
+   "उष्ण, शीत, रूक्ष, स्निग्ध, गुरु, लघु के अनुसार रसों का तारतम्य (10.36-39)",
+   "57 रस संयोग और 63 कल्पनाएँ (10.39-43)"
+  ],
+  "syllabus_refs": [
+   "AyUG-SA1"
+  ],
+  "review_status": "ai_draft"
+ },
+ "verses": [
+  {
+   "id": "AH.sutra.10.1",
+   "word_meanings": [
+    {
+     "sa": "क्ष्माम्भः",
+     "iast": "kṣmāmbhaḥ",
+     "en": "earth and water",
+     "hi": "पृथ्वी और जल"
+    },
+    {
+     "sa": "अग्निक्ष्मा",
+     "iast": "agni-kṣmā",
+     "en": "fire and earth",
+     "hi": "अग्नि और पृथ्वी"
+    },
+    {
+     "sa": "अम्बुतेजः",
+     "iast": "ambu-tejaḥ",
+     "en": "water and fire",
+     "hi": "जल और अग्नि"
+    },
+    {
+     "sa": "खवायु",
+     "iast": "kha-vāyu",
+     "en": "space and air",
+     "hi": "आकाश और वायु"
+    },
+    {
+     "sa": "अग्न्यनिल",
+     "iast": "agny-anila",
+     "en": "fire and air",
+     "hi": "अग्नि और वायु"
+    },
+    {
+     "sa": "गो-अनिलैः",
+     "iast": "go-'nilaiḥ",
+     "en": "earth and air",
+     "hi": "पृथ्वी और वायु"
+    },
+    {
+     "sa": "द्वयोल्बणैः",
+     "iast": "dvayolbaṇaiḥ",
+     "en": "with two (elements) predominant",
+     "hi": "दो महाभूतों की अधिकता वाले"
+    },
+    {
+     "sa": "क्रमात्",
+     "iast": "kramāt",
+     "en": "in order",
+     "hi": "क्रम से"
+    },
+    {
+     "sa": "भूतैः",
+     "iast": "bhūtaiḥ",
+     "en": "by the elements",
+     "hi": "महाभूतों से"
+    },
+    {
+     "sa": "मधुरादिरसोद्भवः",
+     "iast": "madhurādi-rasodbhavaḥ",
+     "en": "origin of sweet and the other tastes",
+     "hi": "मधुर आदि रसों की उत्पत्ति"
+    }
+   ],
+   "english": "The tastes, sweet and the rest, arise in order from the elements with two of them predominant: earth and water (sweet), fire and earth (sour), water and fire (salty), space and air (bitter), fire and air (pungent), earth and air (astringent).",
+   "hindi": "मधुर आदि छह रस क्रम से दो-दो महाभूतों की अधिकता से बनते हैं: पृथ्वी + जल से मधुर, अग्नि + पृथ्वी से अम्ल, जल + अग्नि से लवण, आकाश + वायु से तिक्त, अग्नि + वायु से कटु, और पृथ्वी + वायु से कषाय।",
+   "explanation_en": "The chapter title Rasabhedīya means 'on the divisions of taste'. This verse gives the pāñcabhautika composition of the six rasas, one of the most asked questions in Dravyaguṇa. Note: 'go' here means earth. Caraka (Sū. 26) gives essentially the same pairs; a few minor variant views exist in other authorities, so quote the text you are examined on.",
+   "explanation_hi": "अध्याय का नाम रसभेदीय यानी 'रसों के भेद'। यह श्लोक छह रसों की पांचभौतिक रचना बताता है, जो द्रव्यगुण का बहुत पूछा जाने वाला प्रश्न है। ध्यान दें: यहाँ 'गो' का अर्थ पृथ्वी है। चरक (सू. 26) में भी लगभग यही जोड़े हैं; कुछ अन्य आचार्यों के मत थोड़े अलग हैं, इसलिए जिस ग्रंथ से प्रश्न हो उसी का उत्तर दें।",
+   "modern_correlation": null,
+   "key_terms": [
+    "ṣaḍrasa",
+    "pañcamahābhūta",
+    "rasa-utpatti"
+   ],
+   "tags": [
+    "rasa",
+    "panchabhautika",
+    "dravyaguna"
+   ],
+   "importance": "high",
+   "mnemonic": "M-PJ, A-PA, L-JA, T-AV, K-AgV, Ks-PV (P=earth, J=water, A=fire, V=air, Ā=space)",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.10.2",
+   "word_meanings": [
+    {
+     "sa": "तेषाम्",
+     "iast": "teṣām",
+     "en": "of these",
+     "hi": "इनमें"
+    },
+    {
+     "sa": "विद्यात्",
+     "iast": "vidyāt",
+     "en": "one should know",
+     "hi": "जानें"
+    },
+    {
+     "sa": "रसम्",
+     "iast": "rasam",
+     "en": "taste",
+     "hi": "रस"
+    },
+    {
+     "sa": "स्वादुम्",
+     "iast": "svādum",
+     "en": "sweet",
+     "hi": "मधुर"
+    },
+    {
+     "sa": "यः",
+     "iast": "yaḥ",
+     "en": "which",
+     "hi": "जो"
+    },
+    {
+     "sa": "वक्त्रम्",
+     "iast": "vaktram",
+     "en": "the mouth",
+     "hi": "मुँह को"
+    },
+    {
+     "sa": "अनुलिम्पति",
+     "iast": "anulimpati",
+     "en": "coats",
+     "hi": "लेप कर देता है"
+    },
+    {
+     "sa": "आस्वाद्यमानः",
+     "iast": "āsvādyamānaḥ",
+     "en": "while being tasted",
+     "hi": "चखते समय"
+    },
+    {
+     "sa": "देहस्य",
+     "iast": "dehasya",
+     "en": "of the body",
+     "hi": "शरीर को"
+    },
+    {
+     "sa": "ह्लादनः",
+     "iast": "hlādanaḥ",
+     "en": "delighting",
+     "hi": "आनंद देने वाला"
+    },
+    {
+     "sa": "अक्षप्रसादनः",
+     "iast": "akṣa-prasādanaḥ",
+     "en": "pleasing the senses",
+     "hi": "इंद्रियों को प्रसन्न करने वाला"
+    }
+   ],
+   "english": "Of these, know that the sweet (svādu, madhura) taste is the one that coats the mouth, and that while being tasted delights the body and pleases the senses,...",
+   "hindi": "इनमें मधुर रस वह है जो मुँह में लेप सा कर देता है, और चखते समय शरीर को आनंद देता है तथा इंद्रियों को प्रसन्न करता है,...",
+   "explanation_en": "Verses 2-6 give the rasa-lakṣaṇa: how each taste is identified by its effect in the mouth. This is a classic exam question ('describe the lakṣaṇas of the six rasas').",
+   "explanation_hi": "श्लोक 2-6 में रस लक्षण हैं: मुँह में प्रभाव से हर रस की पहचान। यह परीक्षा का प्रसिद्ध प्रश्न है ('छह रसों के लक्षण लिखें')।",
+   "modern_correlation": null,
+   "key_terms": [
+    "madhura",
+    "rasa-lakṣaṇa"
+   ],
+   "tags": [
+    "rasa",
+    "rasa-lakshana"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.10.3",
+   "word_meanings": [
+    {
+     "sa": "प्रियः",
+     "iast": "priyaḥ",
+     "en": "dear",
+     "hi": "प्रिय"
+    },
+    {
+     "sa": "पिपीलिकादीनाम्",
+     "iast": "pipīlikādīnām",
+     "en": "to ants and others",
+     "hi": "चींटियों आदि को"
+    },
+    {
+     "sa": "अम्लः",
+     "iast": "amlaḥ",
+     "en": "sour",
+     "hi": "अम्ल"
+    },
+    {
+     "sa": "क्षालयते",
+     "iast": "kṣālayate",
+     "en": "washes (makes watery)",
+     "hi": "धोता है (पानी लाता है)"
+    },
+    {
+     "sa": "मुखम्",
+     "iast": "mukham",
+     "en": "the mouth",
+     "hi": "मुँह को"
+    },
+    {
+     "sa": "हर्षणः",
+     "iast": "harṣaṇaḥ",
+     "en": "causes thrill/setting on edge",
+     "hi": "रोमांच करने वाला"
+    },
+    {
+     "sa": "रोमदन्तानाम्",
+     "iast": "roma-dantānām",
+     "en": "of hair and teeth",
+     "hi": "रोम और दाँतों का"
+    },
+    {
+     "sa": "अक्षिभ्रुवनिकोचनः",
+     "iast": "akṣi-bhruva-nikocanaḥ",
+     "en": "causes contraction of eyes and brows",
+     "hi": "आँख और भौंहों को सिकोड़ने वाला"
+    }
+   ],
+   "english": "...and is liked by ants and similar creatures. The sour (amla) taste makes the mouth water, causes horripilation and sets the teeth on edge, and makes one squeeze the eyes and brows.",
+   "hindi": "...और चींटियों आदि को प्रिय होता है। अम्ल रस मुँह में पानी लाता है, रोंगटे खड़े करता है और दाँत खट्टे करता है, तथा आँखें और भौंहें सिकुड़ जाती हैं।",
+   "explanation_en": "Easy self-test: taste a lemon and observe salivation, teeth set on edge and screwing up of the eyes. 'Dear to ants' is the folk test for sweetness.",
+   "explanation_hi": "आसान परीक्षण: नींबू चखें और देखें कि मुँह में पानी आता है, दाँत खट्टे होते हैं और आँखें सिकुड़ती हैं। 'चींटियों को प्रिय' मिठास की लोक-परीक्षा है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "amla",
+    "rasa-lakṣaṇa"
+   ],
+   "tags": [
+    "rasa",
+    "rasa-lakshana"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.10.4",
+   "word_meanings": [
+    {
+     "sa": "लवणः",
+     "iast": "lavaṇaḥ",
+     "en": "salty",
+     "hi": "लवण"
+    },
+    {
+     "sa": "स्यन्दयति",
+     "iast": "syandayati",
+     "en": "makes flow",
+     "hi": "बहाता है"
+    },
+    {
+     "sa": "आस्यम्",
+     "iast": "āsyam",
+     "en": "the mouth",
+     "hi": "मुँह को"
+    },
+    {
+     "sa": "कपोलगलदाहकृत्",
+     "iast": "kapola-gala-dāha-kṛt",
+     "en": "causes burning in cheeks and throat",
+     "hi": "गाल और गले में जलन करने वाला"
+    },
+    {
+     "sa": "तिक्तः",
+     "iast": "tiktaḥ",
+     "en": "bitter",
+     "hi": "तिक्त"
+    },
+    {
+     "sa": "विशदयति",
+     "iast": "viśadayati",
+     "en": "cleans, clears",
+     "hi": "साफ़ करता है"
+    },
+    {
+     "sa": "आस्यम्",
+     "iast": "āsyam",
+     "en": "the mouth",
+     "hi": "मुँह को"
+    },
+    {
+     "sa": "रसनम्",
+     "iast": "rasanam",
+     "en": "taste perception",
+     "hi": "स्वाद ज्ञान को"
+    },
+    {
+     "sa": "प्रतिहन्ति",
+     "iast": "pratihanti",
+     "en": "obstructs",
+     "hi": "रोकता है"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    }
+   ],
+   "english": "The salty (lavaṇa) taste makes the mouth flow with saliva and causes burning in the cheeks and throat. The bitter (tikta) taste clears the mouth and blunts the perception of (other) tastes.",
+   "hindi": "लवण रस मुँह में लार बहाता है और गालों तथा गले में जलन करता है। तिक्त रस मुँह को साफ़ (विशद) करता है और दूसरे स्वादों की अनुभूति को रोकता है।",
+   "explanation_en": "Note the difference: sour 'washes' the mouth (kṣālana), salt makes it 'flow' (syandana) with burning. Bitter leaves the mouth clean but dulls the tongue.",
+   "explanation_hi": "अंतर देखें: अम्ल मुँह को 'धोता' है (क्षालन), लवण जलन के साथ 'बहाता' है (स्यन्दन)। तिक्त मुँह को साफ़ करता है पर जीभ को सुन्न-सा करता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "lavaṇa",
+    "tikta",
+    "rasa-lakṣaṇa"
+   ],
+   "tags": [
+    "rasa",
+    "rasa-lakshana"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.10.5",
+   "word_meanings": [
+    {
+     "sa": "उद्वेजयति",
+     "iast": "udvejayati",
+     "en": "irritates",
+     "hi": "उत्तेजित करता है"
+    },
+    {
+     "sa": "जिह्वाग्रम्",
+     "iast": "jihvāgram",
+     "en": "the tip of the tongue",
+     "hi": "जीभ की नोक को"
+    },
+    {
+     "sa": "कुर्वन्",
+     "iast": "kurvan",
+     "en": "producing",
+     "hi": "करते हुए"
+    },
+    {
+     "sa": "चिमिचिमाम्",
+     "iast": "cimicimām",
+     "en": "a tingling sensation",
+     "hi": "चिमचिमाहट"
+    },
+    {
+     "sa": "कटुः",
+     "iast": "kaṭuḥ",
+     "en": "pungent",
+     "hi": "कटु"
+    },
+    {
+     "sa": "स्रावयति",
+     "iast": "srāvayati",
+     "en": "causes discharge from",
+     "hi": "बहाता है"
+    },
+    {
+     "sa": "अक्षिनासास्यम्",
+     "iast": "akṣi-nāsāsyam",
+     "en": "eyes, nose and mouth",
+     "hi": "आँख, नाक और मुँह से"
+    },
+    {
+     "sa": "कपोलम्",
+     "iast": "kapolam",
+     "en": "the cheek",
+     "hi": "गाल को"
+    },
+    {
+     "sa": "दहति इव",
+     "iast": "dahati iva",
+     "en": "as if burns",
+     "hi": "जैसे जलाता है"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    }
+   ],
+   "english": "The pungent (kaṭu) taste irritates the tip of the tongue with a tingling sensation (cimicimā), causes discharge from the eyes, nose and mouth, and seems to burn the cheeks.",
+   "hindi": "कटु रस जीभ की नोक पर चिमचिमाहट करके उसे उत्तेजित करता है, आँख, नाक और मुँह से पानी बहाता है, और गालों को जैसे जलाता है।",
+   "explanation_en": "Think of chilli or black pepper: tingling tongue, watering eyes and runny nose. 'Cimicimā' is an onomatopoeic word for that tingling.",
+   "explanation_hi": "मिर्च या काली मिर्च को सोचें: जीभ पर चिमचिमाहट, आँखों से पानी और नाक बहना। 'चिमिचिमा' उस चुभन का ध्वन्यात्मक शब्द है।",
+   "modern_correlation": {
+    "en": "The pungent sensation of substances such as capsaicin (chilli) and piperine (pepper) is mediated by TRPV1 and related receptors that signal heat and pain, often producing tearing and nasal secretion; this broadly matches the classical description.",
+    "hi": "मिर्च के कैप्सैसिन और काली मिर्च के पिपेरिन जैसे पदार्थों की तीखी अनुभूति TRPV1 जैसे रिसेप्टरों से होती है जो गर्मी और दर्द का संकेत देते हैं, जिससे आँसू और नाक बहना होता है; यह शास्त्रीय वर्णन से मिलता है।"
+   },
+   "key_terms": [
+    "kaṭu",
+    "rasa-lakṣaṇa"
+   ],
+   "tags": [
+    "rasa",
+    "rasa-lakshana"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.10.6",
+   "word_meanings": [
+    {
+     "sa": "कषायः",
+     "iast": "kaṣāyaḥ",
+     "en": "astringent",
+     "hi": "कषाय"
+    },
+    {
+     "sa": "जडयेत्",
+     "iast": "jaḍayet",
+     "en": "numbs",
+     "hi": "जड़ (सुन्न) कर देता है"
+    },
+    {
+     "sa": "जिह्वाम्",
+     "iast": "jihvām",
+     "en": "the tongue",
+     "hi": "जीभ को"
+    },
+    {
+     "sa": "कण्ठस्रोतोविबन्धकृत्",
+     "iast": "kaṇṭha-sroto-vibandha-kṛt",
+     "en": "obstructs the throat and channels",
+     "hi": "गले और स्रोतसों में रुकावट करने वाला"
+    },
+    {
+     "sa": "रसानाम्",
+     "iast": "rasānām",
+     "en": "of the tastes",
+     "hi": "रसों के"
+    },
+    {
+     "sa": "इति",
+     "iast": "iti",
+     "en": "thus",
+     "hi": "ये"
+    },
+    {
+     "sa": "रूपाणि",
+     "iast": "rūpāṇi",
+     "en": "features",
+     "hi": "लक्षण"
+    },
+    {
+     "sa": "कर्माणि",
+     "iast": "karmāṇi",
+     "en": "actions",
+     "hi": "कर्म"
+    },
+    {
+     "sa": "मधुरः",
+     "iast": "madhuraḥ",
+     "en": "sweet",
+     "hi": "मधुर"
+    },
+    {
+     "sa": "रसः",
+     "iast": "rasaḥ",
+     "en": "taste",
+     "hi": "रस"
+    }
+   ],
+   "english": "The astringent (kaṣāya) taste numbs the tongue and causes a sense of obstruction in the throat and channels. These are the identifying features of the tastes. Now their actions: the sweet taste,...",
+   "hindi": "कषाय रस जीभ को जड़ (सुन्न) कर देता है और गले तथा स्रोतसों में रुकावट-सी पैदा करता है। ये रसों के लक्षण हैं। अब उनके कर्म: मधुर रस,...",
+   "explanation_en": "Astringency (e.g. unripe banana, harītakī) dries and puckers the mouth. From here the text gives rasa-karma: actions and the effects of overuse (atiyoga) of each taste (verses 6-22). These are the most heavily examined verses of the chapter.",
+   "explanation_hi": "कषाय रस (जैसे कच्चा केला, हरड़) मुँह को सुखाता और सिकोड़ता है। यहाँ से हर रस के कर्म और अतियोग के दुष्प्रभाव बताए गए हैं (श्लोक 6-22)। ये इस अध्याय के सबसे ज़्यादा पूछे जाने वाले श्लोक हैं।",
+   "modern_correlation": {
+    "en": "Astringency is caused largely by tannins and similar polyphenols that bind salivary proteins, producing a dry, puckering mouthfeel; this broadly parallels the classical 'numbing and obstructing' description.",
+    "hi": "कषायता मुख्यतः टैनिन जैसे पॉलीफ़ेनॉल से होती है जो लार के प्रोटीन से जुड़कर मुँह में सूखापन और सिकुड़न पैदा करते हैं; यह शास्त्रीय वर्णन से मिलता है।"
+   },
+   "key_terms": [
+    "kaṣāya",
+    "rasa-lakṣaṇa",
+    "rasa-karma"
+   ],
+   "tags": [
+    "rasa",
+    "rasa-lakshana"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.10.7",
+   "word_meanings": [
+    {
+     "sa": "आजन्मसात्म्यात्",
+     "iast": "ā-janma-sātmyāt",
+     "en": "being wholesome from birth",
+     "hi": "जन्म से सात्म्य होने के कारण"
+    },
+    {
+     "sa": "कुरुते",
+     "iast": "kurute",
+     "en": "produces",
+     "hi": "करता है"
+    },
+    {
+     "sa": "धातूनाम्",
+     "iast": "dhātūnām",
+     "en": "of the tissues",
+     "hi": "धातुओं का"
+    },
+    {
+     "sa": "प्रबलम्",
+     "iast": "prabalam",
+     "en": "great",
+     "hi": "अधिक"
+    },
+    {
+     "sa": "बलम्",
+     "iast": "balam",
+     "en": "strength",
+     "hi": "बल"
+    },
+    {
+     "sa": "बाल",
+     "iast": "bāla",
+     "en": "children",
+     "hi": "बालक"
+    },
+    {
+     "sa": "वृद्ध",
+     "iast": "vṛddha",
+     "en": "elderly",
+     "hi": "वृद्ध"
+    },
+    {
+     "sa": "क्षत",
+     "iast": "kṣata",
+     "en": "injured",
+     "hi": "घायल"
+    },
+    {
+     "sa": "क्षीण",
+     "iast": "kṣīṇa",
+     "en": "emaciated",
+     "hi": "क्षीण"
+    },
+    {
+     "sa": "वर्ण",
+     "iast": "varṇa",
+     "en": "complexion",
+     "hi": "वर्ण"
+    },
+    {
+     "sa": "केश",
+     "iast": "keśa",
+     "en": "hair",
+     "hi": "बाल"
+    },
+    {
+     "sa": "इन्द्रिय",
+     "iast": "indriya",
+     "en": "senses",
+     "hi": "इंद्रियाँ"
+    },
+    {
+     "sa": "ओजसाम्",
+     "iast": "ojasām",
+     "en": "and ojas",
+     "hi": "ओज के लिए"
+    }
+   ],
+   "english": "...being wholesome (sātmya) from birth, produces great strength in the tissues (dhātu). For children, the elderly, the injured and the emaciated, and for complexion, hair, senses and ojas,...",
+   "hindi": "...जन्म से ही शरीर के लिए अनुकूल (सात्म्य) होने के कारण धातुओं को अधिक बल देता है। बच्चों, बूढ़ों, घायलों और क्षीण लोगों के लिए, तथा वर्ण, बाल, इंद्रियों और ओज के लिए,...",
+   "explanation_en": "Madhura is 'ājanma-sātmya' because the first food, breast milk, is sweet. It is therefore the most nourishing taste and best for the weak, the young and the old. Continue to verse 8 for the full list of actions.",
+   "explanation_hi": "मधुर रस 'आजन्म सात्म्य' है क्योंकि पहला भोजन, माँ का दूध, मीठा होता है। इसलिए यह सबसे पोषक रस है और कमज़ोर, बच्चों और बूढ़ों के लिए सबसे अच्छा है। पूरे कर्म श्लोक 8 में हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "madhura",
+    "ājanma-sātmya",
+    "dhātu",
+    "ojas"
+   ],
+   "tags": [
+    "rasa",
+    "rasa-karma",
+    "madhura"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.10.8",
+   "word_meanings": [
+    {
+     "sa": "प्रशस्तः",
+     "iast": "praśastaḥ",
+     "en": "is praised",
+     "hi": "उत्तम है"
+    },
+    {
+     "sa": "बृंहणः",
+     "iast": "bṛṃhaṇaḥ",
+     "en": "nourishing, bulk-promoting",
+     "hi": "बृंहण (पोषण करने वाला)"
+    },
+    {
+     "sa": "कण्ठ्यः",
+     "iast": "kaṇṭhyaḥ",
+     "en": "good for the throat/voice",
+     "hi": "कंठ के लिए हितकर"
+    },
+    {
+     "sa": "स्तन्यसंधानकृत्",
+     "iast": "stanya-saṃdhāna-kṛt",
+     "en": "promotes breast milk and union (of tissues)",
+     "hi": "स्तन्य (दूध) बढ़ाने और जोड़ने वाला"
+    },
+    {
+     "sa": "गुरुः",
+     "iast": "guruḥ",
+     "en": "heavy",
+     "hi": "गुरु"
+    },
+    {
+     "sa": "आयुष्यः",
+     "iast": "āyuṣyaḥ",
+     "en": "promotes longevity",
+     "hi": "आयु बढ़ाने वाला"
+    },
+    {
+     "sa": "जीवनः",
+     "iast": "jīvanaḥ",
+     "en": "life-giving",
+     "hi": "जीवनीय"
+    },
+    {
+     "sa": "स्निग्धः",
+     "iast": "snigdhaḥ",
+     "en": "unctuous",
+     "hi": "स्निग्ध"
+    },
+    {
+     "sa": "पित्तानिलविषापहः",
+     "iast": "pittānila-viṣāpahaḥ",
+     "en": "removes pitta, vāta and poison",
+     "hi": "पित्त, वात और विष नाशक"
+    }
+   ],
+   "english": "...it is excellent. It is nourishing (bṛṃhaṇa), good for the throat, promotes breast milk and the union of tissues (sandhāna), is heavy, promotes longevity, is life-giving, unctuous, and removes pitta, vāta and poison.",
+   "hindi": "...यह उत्तम है। यह शरीर का पोषण (बृंहण) करता है, कंठ के लिए हितकर है, माँ का दूध बढ़ाता है और टूटे ऊतकों को जोड़ता है, भारी है, आयु बढ़ाता है, जीवन देता है, स्निग्ध है, और पित्त, वात तथा विष को नष्ट करता है।",
+   "explanation_en": "Madhura karma in short: bṛṃhaṇa, kaṇṭhya, stanyakara, sandhānakara, āyuṣya, jīvana; guṇa: guru, snigdha; doṣa effect: pacifies pitta and vāta (increases kapha). Verse 9 gives the effects of overuse.",
+   "explanation_hi": "मधुर कर्म संक्षेप में: बृंहण, कंठ्य, स्तन्यकर, संधानकर, आयुष्य, जीवन; गुण: गुरु, स्निग्ध; दोष प्रभाव: पित्त-वात शामक (कफ वर्धक)। श्लोक 9 में अतियोग के प्रभाव हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "madhura",
+    "bṛṃhaṇa",
+    "sandhāna",
+    "stanya"
+   ],
+   "tags": [
+    "rasa",
+    "rasa-karma",
+    "madhura"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.10.9",
+   "word_meanings": [
+    {
+     "sa": "कुरुते",
+     "iast": "kurute",
+     "en": "produces",
+     "hi": "करता है"
+    },
+    {
+     "sa": "अत्युपयोगेन",
+     "iast": "aty-upayogena",
+     "en": "by excessive use",
+     "hi": "अधिक उपयोग से"
+    },
+    {
+     "sa": "सः",
+     "iast": "saḥ",
+     "en": "it",
+     "hi": "वह"
+    },
+    {
+     "sa": "मेदःश्लेष्मजान्",
+     "iast": "medaḥ-śleṣma-jān",
+     "en": "arising from fat and kapha",
+     "hi": "मेद और कफ से उत्पन्न"
+    },
+    {
+     "sa": "गदान्",
+     "iast": "gadān",
+     "en": "diseases",
+     "hi": "रोग"
+    },
+    {
+     "sa": "स्थौल्य",
+     "iast": "sthaulya",
+     "en": "obesity",
+     "hi": "मोटापा"
+    },
+    {
+     "sa": "अग्निसाद",
+     "iast": "agni-sāda",
+     "en": "weak digestion",
+     "hi": "अग्निमांद्य"
+    },
+    {
+     "sa": "संन्यास",
+     "iast": "saṃnyāsa",
+     "en": "coma",
+     "hi": "संन्यास (बेहोशी)"
+    },
+    {
+     "sa": "मेह",
+     "iast": "meha",
+     "en": "prameha (urinary disorders including diabetes)",
+     "hi": "प्रमेह"
+    },
+    {
+     "sa": "गण्ड",
+     "iast": "gaṇḍa",
+     "en": "goitre/glandular swellings",
+     "hi": "गण्ड (गलगंड)"
+    },
+    {
+     "sa": "अर्बुद",
+     "iast": "arbuda",
+     "en": "tumours",
+     "hi": "अर्बुद (गाँठ)"
+    },
+    {
+     "sa": "आदिकान्",
+     "iast": "ādikān",
+     "en": "and others",
+     "hi": "आदि"
+    }
+   ],
+   "english": "When used in excess, it produces diseases arising from fat (medas) and kapha, such as obesity, weak digestion, coma (saṃnyāsa), prameha, glandular swellings (gaṇḍa) and tumours (arbuda).",
+   "hindi": "अधिक मात्रा में सेवन करने पर मधुर रस मेद और कफ से होने वाले रोग पैदा करता है, जैसे मोटापा, अग्निमांद्य, संन्यास (गहरी बेहोशी), प्रमेह, गलगंड और अर्बुद (गाँठें)।",
+   "explanation_en": "Madhura atiyoga: medo-kapha disorders. 'Sthaulya, prameha' from excess sweet is a favourite exam link.",
+   "explanation_hi": "मधुर अतियोग: मेद-कफ जन्य रोग। अधिक मीठे से 'स्थौल्य, प्रमेह' का संबंध परीक्षा में बहुत पूछा जाता है।",
+   "modern_correlation": {
+    "en": "Excess intake of sugars and energy-dense sweet foods is linked in modern medicine to obesity, type 2 diabetes and metabolic syndrome, which broadly parallels this verse.",
+    "hi": "आधुनिक चिकित्सा में ज़्यादा शक्कर और ऊर्जा-घने मीठे भोजन को मोटापा, टाइप 2 मधुमेह और मेटाबॉलिक सिंड्रोम से जोड़ा जाता है, जो इस श्लोक से मेल खाता है।"
+   },
+   "key_terms": [
+    "madhura",
+    "atiyoga",
+    "sthaulya",
+    "prameha"
+   ],
+   "tags": [
+    "rasa",
+    "atiyoga",
+    "madhura"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.10.10",
+   "word_meanings": [
+    {
+     "sa": "अम्लः",
+     "iast": "amlaḥ",
+     "en": "sour",
+     "hi": "अम्ल"
+    },
+    {
+     "sa": "अग्निदीप्तिकृत्",
+     "iast": "agni-dīpti-kṛt",
+     "en": "kindles agni",
+     "hi": "अग्नि दीप्त करने वाला"
+    },
+    {
+     "sa": "स्निग्धः",
+     "iast": "snigdhaḥ",
+     "en": "unctuous",
+     "hi": "स्निग्ध"
+    },
+    {
+     "sa": "हृद्यः",
+     "iast": "hṛdyaḥ",
+     "en": "pleasing to the heart",
+     "hi": "हृद्य"
+    },
+    {
+     "sa": "पाचनरोचनः",
+     "iast": "pācana-rocanaḥ",
+     "en": "digestive and appetising",
+     "hi": "पाचक और रुचिकर"
+    },
+    {
+     "sa": "उष्णवीर्यः",
+     "iast": "uṣṇa-vīryaḥ",
+     "en": "hot in potency",
+     "hi": "उष्ण वीर्य"
+    },
+    {
+     "sa": "हिमस्पर्शः",
+     "iast": "hima-sparśaḥ",
+     "en": "cold to touch",
+     "hi": "छूने में ठंडा"
+    },
+    {
+     "sa": "प्रीणनः",
+     "iast": "prīṇanaḥ",
+     "en": "refreshing, satisfying",
+     "hi": "तृप्ति देने वाला"
+    },
+    {
+     "sa": "क्लेदनः",
+     "iast": "kledanaḥ",
+     "en": "moistening",
+     "hi": "क्लेद करने वाला"
+    },
+    {
+     "sa": "लघुः",
+     "iast": "laghuḥ",
+     "en": "light",
+     "hi": "लघु"
+    }
+   ],
+   "english": "The sour (amla) taste kindles agni, is unctuous, pleasing to the heart, digestive and appetising; it is hot in potency but cold to touch, refreshing, moistening and light.",
+   "hindi": "अम्ल रस अग्नि को दीप्त करता है, स्निग्ध है, हृदय को प्रिय है, पाचक और रुचिकर है; यह उष्ण वीर्य है पर छूने में ठंडा है, तृप्ति देता है, क्लेद (नमी) करता है और लघु है।",
+   "explanation_en": "Note the paradox 'uṣṇa-vīrya, hima-sparśa' (hot in potency, cold to touch), a common MCQ. Amla karma: dīpana, pācana, rocana, hṛdya, prīṇana, kledana.",
+   "explanation_hi": "विरोधाभास याद रखें: 'उष्णवीर्य, हिमस्पर्श' (वीर्य में गरम, छूने में ठंडा), यह आम MCQ है। अम्ल कर्म: दीपन, पाचन, रोचन, हृद्य, प्रीणन, क्लेदन।",
+   "modern_correlation": {
+    "en": "Sour foods stimulate salivation and gastric secretion and can increase appetite, broadly paralleling the classical description of amla as appetising and digestive.",
+    "hi": "खट्टे पदार्थ लार और आमाशय रस का स्राव बढ़ाते हैं और भूख बढ़ा सकते हैं, जो अम्ल के रुचिकर और पाचक होने के शास्त्रीय वर्णन से मिलता है।"
+   },
+   "key_terms": [
+    "amla",
+    "dīpana",
+    "pācana",
+    "uṣṇa-vīrya"
+   ],
+   "tags": [
+    "rasa",
+    "rasa-karma",
+    "amla"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.10.11",
+   "word_meanings": [
+    {
+     "sa": "करोति",
+     "iast": "karoti",
+     "en": "increases",
+     "hi": "बढ़ाता है"
+    },
+    {
+     "sa": "कफपित्तास्रम्",
+     "iast": "kapha-pittāsram",
+     "en": "kapha, pitta and blood",
+     "hi": "कफ, पित्त और रक्त को"
+    },
+    {
+     "sa": "मूढवातानुलोमनः",
+     "iast": "mūḍha-vātānulomanaḥ",
+     "en": "moves obstructed vāta downward",
+     "hi": "रुके हुए वात का अनुलोमन करने वाला"
+    },
+    {
+     "sa": "सः",
+     "iast": "saḥ",
+     "en": "it",
+     "hi": "वह"
+    },
+    {
+     "sa": "अत्यभ्यस्तः",
+     "iast": "aty-abhyastaḥ",
+     "en": "when used too much",
+     "hi": "अधिक सेवन करने पर"
+    },
+    {
+     "sa": "तनोः",
+     "iast": "tanoḥ",
+     "en": "of the body",
+     "hi": "शरीर की"
+    },
+    {
+     "sa": "कुर्यात्",
+     "iast": "kuryāt",
+     "en": "causes",
+     "hi": "करता है"
+    },
+    {
+     "sa": "शैथिल्यम्",
+     "iast": "śaithilyam",
+     "en": "laxity",
+     "hi": "शिथिलता"
+    },
+    {
+     "sa": "तिमिरम्",
+     "iast": "timiram",
+     "en": "dimness of vision",
+     "hi": "तिमिर (दृष्टि दोष)"
+    },
+    {
+     "sa": "भ्रमम्",
+     "iast": "bhramam",
+     "en": "giddiness",
+     "hi": "चक्कर"
+    }
+   ],
+   "english": "It increases kapha, pitta and blood, and moves obstructed vāta in its proper downward direction. Used excessively, it causes laxity of the body, dimness of vision (timira), giddiness,...",
+   "hindi": "यह कफ, पित्त और रक्त को बढ़ाता है, और रुके हुए वात को सही दिशा (नीचे) में चलाता है। अधिक सेवन करने पर यह शरीर में शिथिलता, तिमिर (आँखों के आगे अँधेरा), चक्कर,...",
+   "explanation_en": "Amla increases kapha and pitta, pacifies vāta. Its atiyoga list continues into verse 12 (itching, pallor, vīsarpa, swelling, blisters, thirst, fever), mostly pitta-rakta disorders.",
+   "explanation_hi": "अम्ल कफ और पित्त बढ़ाता है, वात शांत करता है। इसके अतियोग की सूची श्लोक 12 में जारी है (खुजली, पाण्डु, विसर्प, सूजन, फफोले, प्यास, बुखार), जो अधिकतर पित्त-रक्त विकार हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "amla",
+    "atiyoga",
+    "vātānulomana"
+   ],
+   "tags": [
+    "rasa",
+    "atiyoga",
+    "amla"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.10.12",
+   "word_meanings": [
+    {
+     "sa": "कण्डू",
+     "iast": "kaṇḍū",
+     "en": "itching",
+     "hi": "खुजली"
+    },
+    {
+     "sa": "पाण्डुत्व",
+     "iast": "pāṇḍutva",
+     "en": "pallor, anaemia",
+     "hi": "पाण्डु"
+    },
+    {
+     "sa": "वीसर्प",
+     "iast": "vīsarpa",
+     "en": "erysipelas, spreading skin inflammation",
+     "hi": "विसर्प"
+    },
+    {
+     "sa": "शोफ",
+     "iast": "śopha",
+     "en": "swelling",
+     "hi": "सूजन"
+    },
+    {
+     "sa": "विस्फोट",
+     "iast": "visphoṭa",
+     "en": "blisters",
+     "hi": "फफोले"
+    },
+    {
+     "sa": "तृट्",
+     "iast": "tṛṭ",
+     "en": "thirst",
+     "hi": "प्यास"
+    },
+    {
+     "sa": "ज्वरान्",
+     "iast": "jvarān",
+     "en": "fevers",
+     "hi": "बुखार"
+    },
+    {
+     "sa": "लवणः",
+     "iast": "lavaṇaḥ",
+     "en": "salty",
+     "hi": "लवण"
+    },
+    {
+     "sa": "स्तम्भसंघातबन्धविध्मापनः",
+     "iast": "stambha-saṃghāta-bandha-vidhmāpanaḥ",
+     "en": "dispels stiffness, accumulation and obstruction",
+     "hi": "जकड़न, जमाव और रुकावट को दूर करने वाला"
+    },
+    {
+     "sa": "अग्निकृत्",
+     "iast": "agni-kṛt",
+     "en": "kindles agni",
+     "hi": "अग्नि बढ़ाने वाला"
+    }
+   ],
+   "english": "...itching, pallor (pāṇḍu), erysipelas (vīsarpa), swelling, blisters, thirst and fever. The salty (lavaṇa) taste dispels stiffness, accumulation and obstruction, and kindles agni,...",
+   "hindi": "...खुजली, पाण्डु (खून की कमी), विसर्प, सूजन, फफोले, प्यास और बुखार। लवण रस जकड़न, जमाव (संघात) और रुकावट को दूर करता है, और अग्नि बढ़ाता है,...",
+   "explanation_en": "End of amla atiyoga; lavaṇa karma begins. Lavaṇa is the taste that loosens and dissolves (vidhmāpana). Continue with verse 13.",
+   "explanation_hi": "अम्ल अतियोग समाप्त; लवण कर्म शुरू। लवण रस वह है जो ढीला करता और घोलता है (विध्मापन)। श्लोक 13 में जारी।",
+   "modern_correlation": null,
+   "key_terms": [
+    "amla",
+    "lavaṇa",
+    "vīsarpa",
+    "vidhmāpana"
+   ],
+   "tags": [
+    "rasa",
+    "atiyoga",
+    "lavana"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.10.13",
+   "word_meanings": [
+    {
+     "sa": "स्नेहनः",
+     "iast": "snehanaḥ",
+     "en": "oleating",
+     "hi": "स्नेहन करने वाला"
+    },
+    {
+     "sa": "स्वेदनः",
+     "iast": "svedanaḥ",
+     "en": "sudorific",
+     "hi": "स्वेद लाने वाला"
+    },
+    {
+     "sa": "तीक्ष्णः",
+     "iast": "tīkṣṇaḥ",
+     "en": "sharp",
+     "hi": "तीक्ष्ण"
+    },
+    {
+     "sa": "रोचनः",
+     "iast": "rocanaḥ",
+     "en": "appetising",
+     "hi": "रुचिकर"
+    },
+    {
+     "sa": "छेदभेदकृत्",
+     "iast": "cheda-bheda-kṛt",
+     "en": "cutting and breaking up",
+     "hi": "छेदन-भेदन करने वाला"
+    },
+    {
+     "sa": "सः",
+     "iast": "saḥ",
+     "en": "it",
+     "hi": "वह"
+    },
+    {
+     "sa": "अतियुक्तः",
+     "iast": "ati-yuktaḥ",
+     "en": "used excessively",
+     "hi": "अधिक प्रयोग करने पर"
+    },
+    {
+     "sa": "अस्रपवनम्",
+     "iast": "asra-pavanam",
+     "en": "(vitiates) blood and vāta / vātarakta",
+     "hi": "रक्त और वात (वातरक्त)"
+    },
+    {
+     "sa": "खलतिम्",
+     "iast": "khalatim",
+     "en": "baldness",
+     "hi": "गंजापन"
+    },
+    {
+     "sa": "पलितम्",
+     "iast": "palitam",
+     "en": "greying of hair",
+     "hi": "बाल सफ़ेद होना"
+    },
+    {
+     "sa": "वलीम्",
+     "iast": "valīm",
+     "en": "wrinkles",
+     "hi": "झुर्रियाँ"
+    }
+   ],
+   "english": "...is oleating, sudorific, sharp, appetising, and cuts and breaks up (accumulations). Used excessively, it vitiates blood and vāta, and causes baldness, greying of hair, wrinkles,...",
+   "hindi": "...स्नेहन करता है, पसीना लाता है, तीक्ष्ण है, रुचि बढ़ाता है, और जमे हुए पदार्थों का छेदन-भेदन करता है। अधिक प्रयोग करने पर यह रक्त और वात को दूषित करता है, गंजापन, बाल सफ़ेद होना, झुर्रियाँ,...",
+   "explanation_en": "Lavaṇa atiyoga: premature ageing signs (khālitya, pālitya, vali), vātarakta, and in verse 14 thirst, skin disease, poison effects, vīsarpa and loss of strength. 'Salt causes greying and baldness' is a common MCQ.",
+   "explanation_hi": "लवण अतियोग: समय से पहले बुढ़ापे के लक्षण (खालित्य, पालित्य, वली), वातरक्त, और श्लोक 14 में प्यास, कुष्ठ, विष, विसर्प और बल की कमी। 'नमक से बाल सफ़ेद और गंजापन' आम MCQ है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "lavaṇa",
+    "atiyoga",
+    "khālitya",
+    "pālitya"
+   ],
+   "tags": [
+    "rasa",
+    "atiyoga",
+    "lavana"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.10.14",
+   "word_meanings": [
+    {
+     "sa": "तृट्",
+     "iast": "tṛṭ",
+     "en": "thirst",
+     "hi": "प्यास"
+    },
+    {
+     "sa": "कुष्ठ",
+     "iast": "kuṣṭha",
+     "en": "skin diseases",
+     "hi": "कुष्ठ (त्वचा रोग)"
+    },
+    {
+     "sa": "विष",
+     "iast": "viṣa",
+     "en": "poisoning effects",
+     "hi": "विष"
+    },
+    {
+     "sa": "वीसर्पान्",
+     "iast": "vīsarpān",
+     "en": "erysipelas",
+     "hi": "विसर्प"
+    },
+    {
+     "sa": "जनयेत्",
+     "iast": "janayet",
+     "en": "produces",
+     "hi": "उत्पन्न करता है"
+    },
+    {
+     "sa": "क्षपयेत्",
+     "iast": "kṣapayet",
+     "en": "reduces",
+     "hi": "घटाता है"
+    },
+    {
+     "sa": "बलम्",
+     "iast": "balam",
+     "en": "strength",
+     "hi": "बल"
+    },
+    {
+     "sa": "तिक्तः",
+     "iast": "tiktaḥ",
+     "en": "bitter",
+     "hi": "तिक्त"
+    },
+    {
+     "sa": "स्वयम्",
+     "iast": "svayam",
+     "en": "itself",
+     "hi": "स्वयं"
+    },
+    {
+     "sa": "अरोचिष्णुः",
+     "iast": "arociṣṇuḥ",
+     "en": "unpalatable",
+     "hi": "अरुचिकर"
+    },
+    {
+     "sa": "अरुचिम्",
+     "iast": "arucim",
+     "en": "anorexia",
+     "hi": "अरुचि"
+    },
+    {
+     "sa": "कृमि",
+     "iast": "kṛmi",
+     "en": "worms",
+     "hi": "कृमि"
+    },
+    {
+     "sa": "तृट्",
+     "iast": "tṛṭ",
+     "en": "thirst",
+     "hi": "प्यास"
+    },
+    {
+     "sa": "विषम्",
+     "iast": "viṣam",
+     "en": "poison",
+     "hi": "विष"
+    }
+   ],
+   "english": "...thirst, skin diseases, poisoning effects and erysipelas, and diminishes strength. The bitter (tikta) taste, though itself unpalatable, (cures) anorexia, worms, thirst, poison,...",
+   "hindi": "...प्यास, कुष्ठ (त्वचा रोग), विष के लक्षण और विसर्प पैदा करता है, तथा बल घटाता है। तिक्त रस स्वयं अरुचिकर होते हुए भी अरुचि, कृमि, प्यास, विष,...",
+   "explanation_en": "End of lavaṇa atiyoga. Tikta's paradox: although itself unpleasant (arociṣṇu), it cures aruci (anorexia). Its list of actions continues in verses 15-16.",
+   "explanation_hi": "लवण अतियोग समाप्त। तिक्त का विरोधाभास: स्वयं अरुचिकर होते हुए भी अरुचि को दूर करता है। इसके कर्मों की सूची श्लोक 15-16 में जारी है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "lavaṇa",
+    "tikta",
+    "aruci",
+    "kṛmighna"
+   ],
+   "tags": [
+    "rasa",
+    "atiyoga",
+    "tikta"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.10.15",
+   "word_meanings": [
+    {
+     "sa": "कुष्ठ",
+     "iast": "kuṣṭha",
+     "en": "skin disease",
+     "hi": "कुष्ठ"
+    },
+    {
+     "sa": "मूर्छा",
+     "iast": "mūrchā",
+     "en": "fainting",
+     "hi": "मूर्छा"
+    },
+    {
+     "sa": "ज्वर",
+     "iast": "jvara",
+     "en": "fever",
+     "hi": "ज्वर"
+    },
+    {
+     "sa": "उत्क्लेश",
+     "iast": "utkleśa",
+     "en": "nausea",
+     "hi": "जी मिचलाना"
+    },
+    {
+     "sa": "दाह",
+     "iast": "dāha",
+     "en": "burning",
+     "hi": "दाह"
+    },
+    {
+     "sa": "पित्तकफान्",
+     "iast": "pitta-kaphān",
+     "en": "pitta and kapha",
+     "hi": "पित्त और कफ को"
+    },
+    {
+     "sa": "जयेत्",
+     "iast": "jayet",
+     "en": "conquers",
+     "hi": "जीतता है"
+    },
+    {
+     "sa": "क्लेद",
+     "iast": "kleda",
+     "en": "moisture",
+     "hi": "क्लेद"
+    },
+    {
+     "sa": "मेदः",
+     "iast": "medaḥ",
+     "en": "fat",
+     "hi": "मेद"
+    },
+    {
+     "sa": "वसा",
+     "iast": "vasā",
+     "en": "muscle fat",
+     "hi": "वसा"
+    },
+    {
+     "sa": "मज्जा",
+     "iast": "majjā",
+     "en": "marrow",
+     "hi": "मज्जा"
+    },
+    {
+     "sa": "शकृत्",
+     "iast": "śakṛt",
+     "en": "faeces",
+     "hi": "मल"
+    },
+    {
+     "sa": "मूत्र",
+     "iast": "mūtra",
+     "en": "urine",
+     "hi": "मूत्र"
+    },
+    {
+     "sa": "उपशोषणः",
+     "iast": "upaśoṣaṇaḥ",
+     "en": "drying up",
+     "hi": "सुखाने वाला"
+    }
+   ],
+   "english": "...skin diseases, fainting, fever, nausea, burning, and pitta and kapha; it dries up moisture (kleda), fat, muscle-fat (vasā), marrow, faeces and urine;",
+   "hindi": "...कुष्ठ, मूर्छा, ज्वर, जी मिचलाना, जलन, और पित्त तथा कफ को जीतता है; यह क्लेद, मेद, वसा, मज्जा, मल और मूत्र को सुखाता है;",
+   "explanation_en": "Tikta is the main taste for fever (jvara), skin disease (kuṣṭha) and pitta-kapha disorders (think nimba, guḍūcī, kaṭukā). Its drying action (upaśoṣaṇa) explains its use in excess fat and moisture.",
+   "explanation_hi": "तिक्त रस ज्वर, कुष्ठ और पित्त-कफ रोगों का मुख्य रस है (नीम, गिलोय, कुटकी सोचें)। इसका सुखाने वाला कर्म (उपशोषण) मेद और क्लेद की अधिकता में इसके उपयोग को समझाता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "tikta",
+    "jvaraghna",
+    "kuṣṭhaghna",
+    "upaśoṣaṇa"
+   ],
+   "tags": [
+    "rasa",
+    "rasa-karma",
+    "tikta"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.10.16",
+   "word_meanings": [
+    {
+     "sa": "लघुः",
+     "iast": "laghuḥ",
+     "en": "light",
+     "hi": "लघु"
+    },
+    {
+     "sa": "मेध्यः",
+     "iast": "medhyaḥ",
+     "en": "promotes intellect",
+     "hi": "मेधा बढ़ाने वाला"
+    },
+    {
+     "sa": "हिमः",
+     "iast": "himaḥ",
+     "en": "cold",
+     "hi": "शीत"
+    },
+    {
+     "sa": "रूक्षः",
+     "iast": "rūkṣaḥ",
+     "en": "dry",
+     "hi": "रूक्ष"
+    },
+    {
+     "sa": "स्तन्यकण्ठविशोधनः",
+     "iast": "stanya-kaṇṭha-viśodhanaḥ",
+     "en": "purifies breast milk and throat",
+     "hi": "स्तन्य (दूध) और कंठ का शोधन करने वाला"
+    },
+    {
+     "sa": "धातुक्षय",
+     "iast": "dhātu-kṣaya",
+     "en": "depletion of tissues",
+     "hi": "धातु क्षय"
+    },
+    {
+     "sa": "अनिलव्याधीन्",
+     "iast": "anila-vyādhīn",
+     "en": "vāta diseases",
+     "hi": "वात रोग"
+    },
+    {
+     "sa": "अतियोगात्",
+     "iast": "atiyogāt",
+     "en": "by excessive use",
+     "hi": "अतियोग से"
+    },
+    {
+     "sa": "करोति",
+     "iast": "karoti",
+     "en": "causes",
+     "hi": "करता है"
+    },
+    {
+     "sa": "सः",
+     "iast": "saḥ",
+     "en": "it",
+     "hi": "वह"
+    }
+   ],
+   "english": "...it is light, promotes intellect (medhya), cold, dry, and purifies breast milk and the throat. By excessive use it causes depletion of tissues and vāta disorders.",
+   "hindi": "...यह लघु, मेध्य (बुद्धि बढ़ाने वाला), शीत और रूक्ष है, तथा माँ के दूध और कंठ को शुद्ध करता है। अधिक सेवन से यह धातु क्षय और वात रोग पैदा करता है।",
+   "explanation_en": "Tikta guṇa: laghu, śīta, rūkṣa. Note 'stanya-viśodhana' (purifies milk) vs madhura 'stanyakara' (increases milk). Atiyoga: dhātukṣaya and vāta-vyādhi, which follows logically from its light, dry, cold nature.",
+   "explanation_hi": "तिक्त गुण: लघु, शीत, रूक्ष। अंतर: तिक्त 'स्तन्य शोधन' (दूध शुद्ध करना), मधुर 'स्तन्यकर' (दूध बढ़ाना)। अतियोग: धातुक्षय और वात व्याधि, जो इसके लघु, रूक्ष, शीत स्वभाव से स्वाभाविक है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "tikta",
+    "medhya",
+    "stanya-śodhana",
+    "atiyoga"
+   ],
+   "tags": [
+    "rasa",
+    "atiyoga",
+    "tikta"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.10.17",
+   "word_meanings": [
+    {
+     "sa": "कटुः",
+     "iast": "kaṭuḥ",
+     "en": "pungent",
+     "hi": "कटु"
+    },
+    {
+     "sa": "गलामय",
+     "iast": "galāmaya",
+     "en": "throat diseases",
+     "hi": "गले के रोग"
+    },
+    {
+     "sa": "उदर्द",
+     "iast": "udarda",
+     "en": "urticaria",
+     "hi": "उदर्द (पित्ती)"
+    },
+    {
+     "sa": "कुष्ठ",
+     "iast": "kuṣṭha",
+     "en": "skin diseases",
+     "hi": "कुष्ठ"
+    },
+    {
+     "sa": "अलसक",
+     "iast": "alasaka",
+     "en": "alasaka",
+     "hi": "अलसक"
+    },
+    {
+     "sa": "शोफ",
+     "iast": "śopha",
+     "en": "swelling",
+     "hi": "शोथ"
+    },
+    {
+     "sa": "जित्",
+     "iast": "jit",
+     "en": "conquers",
+     "hi": "जीतने वाला"
+    },
+    {
+     "sa": "व्रणावसादनः",
+     "iast": "vraṇāvasādanaḥ",
+     "en": "reduces (cleans and settles) wounds",
+     "hi": "व्रण को शांत/साफ़ करने वाला"
+    },
+    {
+     "sa": "स्नेहमेदःक्लेदोपशोषणः",
+     "iast": "sneha-medaḥ-kledopaśoṣaṇaḥ",
+     "en": "dries up unctuousness, fat and moisture",
+     "hi": "स्नेह, मेद और क्लेद को सुखाने वाला"
+    }
+   ],
+   "english": "The pungent (kaṭu) taste cures throat diseases, urticaria (udarda), skin diseases, alasaka and swelling; it reduces (excess granulation of) wounds, and dries up unctuousness, fat and moisture;",
+   "hindi": "कटु रस गले के रोग, उदर्द (पित्ती), कुष्ठ, अलसक और सूजन को दूर करता है; यह घाव को शांत (साफ़) करता है, और स्नेह, मेद तथा क्लेद को सुखाता है;",
+   "explanation_en": "Kaṭu is the chief kapha-reducing taste. 'Vraṇāvasādana' is interpreted as reducing swelling or overgrowth in wounds. Verse 18 continues its actions (dīpana, pācana, srotoviśodhana).",
+   "explanation_hi": "कटु रस मुख्य कफनाशक रस है। 'व्रणावसादन' का अर्थ घाव की सूजन या अधिक बढ़ाव को कम करना माना जाता है। श्लोक 18 में इसके कर्म जारी हैं (दीपन, पाचन, स्रोतोविशोधन)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "kaṭu",
+    "udarda",
+    "vraṇāvasādana",
+    "lekhana"
+   ],
+   "tags": [
+    "rasa",
+    "rasa-karma",
+    "katu"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.10.18",
+   "word_meanings": [
+    {
+     "sa": "दीपनः",
+     "iast": "dīpanaḥ",
+     "en": "kindles digestion",
+     "hi": "दीपन"
+    },
+    {
+     "sa": "पाचनः",
+     "iast": "pācanaḥ",
+     "en": "digests āma",
+     "hi": "पाचन"
+    },
+    {
+     "sa": "रुच्यः",
+     "iast": "rucyaḥ",
+     "en": "appetising",
+     "hi": "रुचिकर"
+    },
+    {
+     "sa": "शोधनः",
+     "iast": "śodhanaḥ",
+     "en": "purifying",
+     "hi": "शोधन"
+    },
+    {
+     "sa": "अन्नस्य",
+     "iast": "annasya",
+     "en": "of food",
+     "hi": "भोजन का"
+    },
+    {
+     "sa": "शोषणः",
+     "iast": "śoṣaṇaḥ",
+     "en": "drying",
+     "hi": "सुखाने वाला"
+    },
+    {
+     "sa": "छिनत्ति",
+     "iast": "chinatti",
+     "en": "breaks",
+     "hi": "तोड़ता है"
+    },
+    {
+     "sa": "बन्धान्",
+     "iast": "bandhān",
+     "en": "obstructions",
+     "hi": "रुकावटों को"
+    },
+    {
+     "sa": "स्रोतांसि",
+     "iast": "srotāṃsi",
+     "en": "channels",
+     "hi": "स्रोतसों को"
+    },
+    {
+     "sa": "विवृणोति",
+     "iast": "vivṛṇoti",
+     "en": "opens",
+     "hi": "खोलता है"
+    },
+    {
+     "sa": "कफापहः",
+     "iast": "kaphāpahaḥ",
+     "en": "removes kapha",
+     "hi": "कफ नाशक"
+    }
+   ],
+   "english": "...it kindles digestion (dīpana), digests āma (pācana), is appetising and purifying, dries up (the moisture of) food, breaks up obstructions, opens the channels (srotas) and removes kapha.",
+   "hindi": "...यह दीपन (भूख बढ़ाना), पाचन (आम पचाना), रुचिकर और शोधन करने वाला है, भोजन की नमी सुखाता है, रुकावटें तोड़ता है, स्रोतसों को खोलता है और कफ को नष्ट करता है।",
+   "explanation_en": "Kaṭu karma summary: dīpana, pācana, rocana, śodhana, srotoviśodhana, kaphaghna. Think trikaṭu (śuṇṭhī, marica, pippalī). 'Srotāṃsi vivṛṇoti' is a frequently quoted phrase.",
+   "explanation_hi": "कटु कर्म सार: दीपन, पाचन, रोचन, शोधन, स्रोतोविशोधन, कफघ्न। त्रिकटु (सोंठ, काली मिर्च, पिप्पली) सोचें। 'स्रोतांसि विवृणोति' प्रसिद्ध वाक्यांश है।",
+   "modern_correlation": {
+    "en": "Pungent spices such as ginger and pepper are known to increase salivary and gastric secretions and promote gut motility, broadly in line with their classical description as dīpana and pācana.",
+    "hi": "अदरक और काली मिर्च जैसे तीखे मसाले लार और आमाशय रस का स्राव तथा आँतों की गति बढ़ाते हैं, जो उनके दीपन और पाचन होने के शास्त्रीय वर्णन से मिलता है।"
+   },
+   "key_terms": [
+    "kaṭu",
+    "dīpana",
+    "pācana",
+    "srotas",
+    "kaphaghna"
+   ],
+   "tags": [
+    "rasa",
+    "rasa-karma",
+    "katu"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.10.19",
+   "word_meanings": [
+    {
+     "sa": "कुरुते",
+     "iast": "kurute",
+     "en": "produces",
+     "hi": "करता है"
+    },
+    {
+     "sa": "सः",
+     "iast": "saḥ",
+     "en": "it",
+     "hi": "वह"
+    },
+    {
+     "sa": "अतियोगेन",
+     "iast": "atiyogena",
+     "en": "by excessive use",
+     "hi": "अतियोग से"
+    },
+    {
+     "sa": "तृष्णाम्",
+     "iast": "tṛṣṇām",
+     "en": "thirst",
+     "hi": "प्यास"
+    },
+    {
+     "sa": "शुक्रबलक्षयम्",
+     "iast": "śukra-bala-kṣayam",
+     "en": "loss of semen and strength",
+     "hi": "शुक्र और बल का क्षय"
+    },
+    {
+     "sa": "मूर्छाम्",
+     "iast": "mūrchām",
+     "en": "fainting",
+     "hi": "मूर्छा"
+    },
+    {
+     "sa": "आकुञ्चनम्",
+     "iast": "ākuñcanam",
+     "en": "contractures",
+     "hi": "अंगों का सिकुड़ना"
+    },
+    {
+     "sa": "कम्पम्",
+     "iast": "kampam",
+     "en": "tremors",
+     "hi": "कंपन"
+    },
+    {
+     "sa": "कटीपृष्ठादिषु",
+     "iast": "kaṭī-pṛṣṭhādiṣu",
+     "en": "in the waist, back etc.",
+     "hi": "कमर, पीठ आदि में"
+    },
+    {
+     "sa": "व्यथाम्",
+     "iast": "vyathām",
+     "en": "pain",
+     "hi": "पीड़ा"
+    }
+   ],
+   "english": "By excessive use it produces thirst, loss of semen and strength, fainting, contractures, tremors, and pain in the waist, back and other parts.",
+   "hindi": "अधिक सेवन से कटु रस प्यास, शुक्र और बल का क्षय, मूर्छा, अंगों का सिकुड़ना, कंपन, और कमर, पीठ आदि में दर्द पैदा करता है।",
+   "explanation_en": "Kaṭu atiyoga: mostly vāta signs (ākuñcana, kampa, back pain) plus śukra-kṣaya. Compare verse 35: kaṭu and tikta are generally avṛṣya (anti-aphrodisiac).",
+   "explanation_hi": "कटु अतियोग: अधिकतर वात के लक्षण (आकुंचन, कंपन, कमर दर्द) और शुक्रक्षय। श्लोक 35 से तुलना करें: कटु और तिक्त सामान्यतः अवृष्य हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "kaṭu",
+    "atiyoga",
+    "śukra-kṣaya"
+   ],
+   "tags": [
+    "rasa",
+    "atiyoga",
+    "katu"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.10.20",
+   "word_meanings": [
+    {
+     "sa": "कषायः",
+     "iast": "kaṣāyaḥ",
+     "en": "astringent",
+     "hi": "कषाय"
+    },
+    {
+     "sa": "पित्तकफहा",
+     "iast": "pitta-kapha-hā",
+     "en": "removes pitta and kapha",
+     "hi": "पित्त और कफ नाशक"
+    },
+    {
+     "sa": "गुरुः",
+     "iast": "guruḥ",
+     "en": "heavy",
+     "hi": "गुरु"
+    },
+    {
+     "sa": "अस्रविशोधनः",
+     "iast": "asra-viśodhanaḥ",
+     "en": "purifies blood",
+     "hi": "रक्त शोधक"
+    },
+    {
+     "sa": "पीडनः",
+     "iast": "pīḍanaḥ",
+     "en": "compressing (wound-squeezing)",
+     "hi": "पीडन (दबाने वाला)"
+    },
+    {
+     "sa": "रोपणः",
+     "iast": "ropaṇaḥ",
+     "en": "healing",
+     "hi": "रोपण (घाव भरने वाला)"
+    },
+    {
+     "sa": "शीतः",
+     "iast": "śītaḥ",
+     "en": "cold",
+     "hi": "शीत"
+    },
+    {
+     "sa": "क्लेदमेदोविशोषणः",
+     "iast": "kleda-medo-viśoṣaṇaḥ",
+     "en": "dries moisture and fat",
+     "hi": "क्लेद और मेद को सुखाने वाला"
+    }
+   ],
+   "english": "The astringent (kaṣāya) taste removes pitta and kapha, is heavy, purifies blood, compresses and heals (wounds), is cold, and dries up moisture and fat;",
+   "hindi": "कषाय रस पित्त और कफ को दूर करता है, गुरु है, रक्त को शुद्ध करता है, घाव को दबाकर भरता है (पीडन, रोपण), शीत है, और क्लेद तथा मेद को सुखाता है;",
+   "explanation_en": "Kaṣāya karma: pitta-kapha-hara, rakta-śodhana, pīḍana, ropaṇa (wound healing), kleda-medo-śoṣaṇa. Its wound-healing role is a key exam point (think khadira, triphalā).",
+   "explanation_hi": "कषाय कर्म: पित्त-कफ हर, रक्त शोधन, पीडन, रोपण (घाव भरना), क्लेद-मेद शोषण। घाव भरने की भूमिका मुख्य परीक्षा बिंदु है (खदिर, त्रिफला सोचें)।",
+   "modern_correlation": {
+    "en": "Astringent tannin-rich substances can precipitate surface proteins and reduce exudation, which is one reason they are traditionally used on wounds and for diarrhoea; this broadly parallels the classical ropaṇa and grāhī actions.",
+    "hi": "टैनिन युक्त कषाय पदार्थ सतह के प्रोटीन को जमा कर स्राव कम कर सकते हैं, इसलिए परंपरागत रूप से घाव और दस्त में इनका उपयोग होता है; यह शास्त्रीय रोपण और ग्राही कर्म से मिलता है।"
+   },
+   "key_terms": [
+    "kaṣāya",
+    "ropaṇa",
+    "rakta-śodhana"
+   ],
+   "tags": [
+    "rasa",
+    "rasa-karma",
+    "kashaya"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.10.21",
+   "word_meanings": [
+    {
+     "sa": "आमसंस्तम्भनः",
+     "iast": "āma-saṃstambhanaḥ",
+     "en": "arrests (the flow of) āma",
+     "hi": "आम को रोकने वाला"
+    },
+    {
+     "sa": "ग्राही",
+     "iast": "grāhī",
+     "en": "absorbent, binding (stools)",
+     "hi": "ग्राही (मल बाँधने वाला)"
+    },
+    {
+     "sa": "रूक्षः",
+     "iast": "rūkṣaḥ",
+     "en": "dry",
+     "hi": "रूक्ष"
+    },
+    {
+     "sa": "अति",
+     "iast": "ati",
+     "en": "very",
+     "hi": "अत्यधिक"
+    },
+    {
+     "sa": "त्वक्प्रसादनः",
+     "iast": "tvak-prasādanaḥ",
+     "en": "clarifies the skin",
+     "hi": "त्वचा को निखारने वाला"
+    },
+    {
+     "sa": "करोति",
+     "iast": "karoti",
+     "en": "causes",
+     "hi": "करता है"
+    },
+    {
+     "sa": "शीलितः",
+     "iast": "śīlitaḥ",
+     "en": "habitually used",
+     "hi": "आदतन सेवन करने पर"
+    },
+    {
+     "sa": "सः",
+     "iast": "saḥ",
+     "en": "it",
+     "hi": "वह"
+    },
+    {
+     "sa": "अति",
+     "iast": "ati",
+     "en": "excessively",
+     "hi": "अधिक"
+    },
+    {
+     "sa": "विष्टम्भ",
+     "iast": "viṣṭambha",
+     "en": "constipation, obstruction",
+     "hi": "विष्टम्भ (कब्ज़)"
+    },
+    {
+     "sa": "आध्मान",
+     "iast": "ādhmāna",
+     "en": "flatulent distension",
+     "hi": "अफारा"
+    },
+    {
+     "sa": "हृद्रुजः",
+     "iast": "hṛd-rujaḥ",
+     "en": "chest/heart pain",
+     "hi": "हृदय में पीड़ा"
+    }
+   ],
+   "english": "...it arrests (loose motions due to) āma, is binding (grāhī), very dry, and clarifies the skin. Used habitually in excess, it causes constipation, flatulent distension, chest pain,...",
+   "hindi": "...यह आम (के कारण होने वाले दस्त) को रोकता है, ग्राही (मल बाँधने वाला) है, बहुत रूक्ष है, और त्वचा को निखारता है। आदतन अधिक सेवन से यह कब्ज़, अफारा, हृदय में दर्द,...",
+   "explanation_en": "Kaṣāya is grāhī (absorbs fluid, binds stools), hence used in diarrhoea. Its atiyoga, continued in verse 22, is dominated by obstruction and vāta (viṣṭambha, ādhmāna, srotorodha).",
+   "explanation_hi": "कषाय ग्राही है (तरल सोखकर मल बाँधता है), इसलिए दस्त में प्रयुक्त होता है। इसका अतियोग (श्लोक 22 में जारी) रुकावट और वात प्रधान है (विष्टम्भ, आध्मान, स्रोतोरोध)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "kaṣāya",
+    "grāhī",
+    "stambhana",
+    "atiyoga"
+   ],
+   "tags": [
+    "rasa",
+    "atiyoga",
+    "kashaya"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.10.22",
+   "word_meanings": [
+    {
+     "sa": "तृट्",
+     "iast": "tṛṭ",
+     "en": "thirst",
+     "hi": "प्यास"
+    },
+    {
+     "sa": "कार्श्य",
+     "iast": "kārśya",
+     "en": "emaciation",
+     "hi": "कृशता"
+    },
+    {
+     "sa": "पौरुषभ्रंश",
+     "iast": "pauruṣa-bhraṃśa",
+     "en": "loss of virility",
+     "hi": "पौरुष (पुंसत्व) की हानि"
+    },
+    {
+     "sa": "स्रोतोरोध",
+     "iast": "sroto-rodha",
+     "en": "obstruction of channels",
+     "hi": "स्रोतसों की रुकावट"
+    },
+    {
+     "sa": "मलग्रहान्",
+     "iast": "mala-grahān",
+     "en": "retention of excreta",
+     "hi": "मल का रुकना"
+    },
+    {
+     "sa": "घृत",
+     "iast": "ghṛta",
+     "en": "ghee",
+     "hi": "घी"
+    },
+    {
+     "sa": "हेम",
+     "iast": "hema",
+     "en": "gold",
+     "hi": "सोना"
+    },
+    {
+     "sa": "गुड",
+     "iast": "guḍa",
+     "en": "jaggery",
+     "hi": "गुड़"
+    },
+    {
+     "sa": "अक्षोट",
+     "iast": "akṣoṭa",
+     "en": "walnut",
+     "hi": "अखरोट"
+    },
+    {
+     "sa": "मोच",
+     "iast": "moca",
+     "en": "banana",
+     "hi": "केला"
+    },
+    {
+     "sa": "चोच",
+     "iast": "coca",
+     "en": "coca fruit",
+     "hi": "चोच"
+    },
+    {
+     "sa": "परूषकम्",
+     "iast": "parūṣakam",
+     "en": "phālsā",
+     "hi": "फालसा"
+    }
+   ],
+   "english": "...thirst, emaciation, loss of virility, obstruction of the channels and retention of excreta. (The sweet group:) ghee, gold, jaggery, walnut, banana, coca, phālsā (parūṣaka),...",
+   "hindi": "...प्यास, कृशता, पुंसत्व की हानि, स्रोतसों में रुकावट और मल का रुकना पैदा करता है। (मधुर वर्ग:) घी, सोना, गुड़, अखरोट, केला, चोच, फालसा,...",
+   "explanation_en": "End of kaṣāya atiyoga. From here (verses 22-32) the text lists representative drugs of each taste group (rasa-skandha). Keep the lists for reference; examiners usually ask for 3-5 examples per rasa.",
+   "explanation_hi": "कषाय अतियोग समाप्त। यहाँ से (श्लोक 22-32) हर रस वर्ग (रस स्कंध) के प्रतिनिधि द्रव्य दिए गए हैं। परीक्षा में प्रायः हर रस के 3-5 उदाहरण पूछे जाते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "kaṣāya",
+    "atiyoga",
+    "madhura-skandha"
+   ],
+   "tags": [
+    "rasa",
+    "atiyoga",
+    "drug-list"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.10.23",
+   "word_meanings": [
+    {
+     "sa": "अभीरु",
+     "iast": "abhīru",
+     "en": "śatāvarī",
+     "hi": "शतावरी"
+    },
+    {
+     "sa": "वीरा",
+     "iast": "vīrā",
+     "en": "vīrā (kṣīrakākolī)",
+     "hi": "वीरा"
+    },
+    {
+     "sa": "पनस",
+     "iast": "panasa",
+     "en": "jackfruit",
+     "hi": "कटहल"
+    },
+    {
+     "sa": "राजादन",
+     "iast": "rājādana",
+     "en": "khirnī",
+     "hi": "खिरनी"
+    },
+    {
+     "sa": "बलात्रयम्",
+     "iast": "balā-trayam",
+     "en": "the three balās",
+     "hi": "तीनों बला"
+    },
+    {
+     "sa": "मेदे",
+     "iast": "mede",
+     "en": "the two medās (medā, mahāmedā)",
+     "hi": "मेदा, महामेदा"
+    },
+    {
+     "sa": "चतस्रः पर्णिन्यः",
+     "iast": "catasraḥ parṇinyaḥ",
+     "en": "the four parṇīs",
+     "hi": "चारों पर्णी"
+    },
+    {
+     "sa": "जीवन्ती",
+     "iast": "jīvantī",
+     "en": "jīvantī",
+     "hi": "जीवन्ती"
+    },
+    {
+     "sa": "जीवकर्षभौ",
+     "iast": "jīvakarṣabhau",
+     "en": "jīvaka and ṛṣabhaka",
+     "hi": "जीवक और ऋषभक"
+    }
+   ],
+   "english": "...śatāvarī (abhīru), vīrā, jackfruit, khirnī (rājādana), the three balās, the two medās, the four parṇīs (śālaparṇī, pṛśniparṇī, mudgaparṇī, māṣaparṇī), jīvantī, jīvaka and ṛṣabhaka,...",
+   "hindi": "...शतावरी, वीरा, कटहल, खिरनी, तीनों बला, दोनों मेदा, चारों पर्णी (शालपर्णी, पृश्निपर्णी, मुद्गपर्णी, माषपर्णी), जीवन्ती, जीवक और ऋषभक,...",
+   "explanation_en": "Many of these belong to the jīvanīya group and the aṣṭavarga (jīvaka, ṛṣabhaka, medā, mahāmedā etc.), known for nourishing, rejuvenating action consistent with madhura rasa.",
+   "explanation_hi": "इनमें से कई जीवनीय गण और अष्टवर्ग (जीवक, ऋषभक, मेदा, महामेदा आदि) के हैं, जो मधुर रस के अनुरूप पोषक और रसायन कर्म के लिए प्रसिद्ध हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "madhura-skandha",
+    "aṣṭavarga",
+    "jīvanīya"
+   ],
+   "tags": [
+    "drug-list",
+    "madhura"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.10.24",
+   "word_meanings": [
+    {
+     "sa": "मधूकम्",
+     "iast": "madhūkam",
+     "en": "mahua",
+     "hi": "महुआ"
+    },
+    {
+     "sa": "मधुकम्",
+     "iast": "madhukam",
+     "en": "liquorice",
+     "hi": "मुलेठी"
+    },
+    {
+     "sa": "बिम्बी",
+     "iast": "bimbī",
+     "en": "ivy gourd",
+     "hi": "कुंदरू (बिम्बी)"
+    },
+    {
+     "sa": "विदारी",
+     "iast": "vidārī",
+     "en": "vidārī",
+     "hi": "विदारी कंद"
+    },
+    {
+     "sa": "श्रावणीयुगम्",
+     "iast": "śrāvaṇī-yugam",
+     "en": "the two śrāvaṇīs",
+     "hi": "दोनों श्रावणी (मुण्डी)"
+    },
+    {
+     "sa": "क्षीरशुक्ला",
+     "iast": "kṣīraśuklā",
+     "en": "kṣīraśuklā",
+     "hi": "क्षीरशुक्ला"
+    },
+    {
+     "sa": "तुकाक्षीरी",
+     "iast": "tukākṣīrī",
+     "en": "bamboo manna (vaṃśalocana)",
+     "hi": "वंशलोचन"
+    },
+    {
+     "sa": "क्षीरिण्यौ",
+     "iast": "kṣīriṇyau",
+     "en": "the two kṣīriṇīs",
+     "hi": "दोनों क्षीरिणी"
+    },
+    {
+     "sa": "काश्मरी",
+     "iast": "kāśmarī",
+     "en": "gambhārī",
+     "hi": "गम्भारी"
+    },
+    {
+     "sa": "सहे",
+     "iast": "sahe",
+     "en": "the two sahās",
+     "hi": "दोनों सहा"
+    }
+   ],
+   "english": "...mahua (madhūka), liquorice (madhuka), bimbī, vidārī, the two śrāvaṇīs, kṣīraśuklā, bamboo manna (tukākṣīrī), the two kṣīriṇīs, gambhārī (kāśmarī), the two sahās,...",
+   "hindi": "...महुआ, मुलेठी, बिम्बी, विदारी, दोनों श्रावणी, क्षीरशुक्ला, वंशलोचन, दोनों क्षीरिणी, गम्भारी, दोनों सहा,...",
+   "explanation_en": "Do not confuse madhūka (mahua, Madhuca) with madhuka (yaṣṭimadhu, liquorice); both appear here. A classic spelling trap in Dravyaguṇa exams.",
+   "explanation_hi": "मधूक (महुआ) और मधुक (मुलेठी) में भ्रम न करें; दोनों यहाँ हैं। द्रव्यगुण परीक्षा का प्रसिद्ध वर्तनी जाल।",
+   "modern_correlation": null,
+   "key_terms": [
+    "madhura-skandha",
+    "madhūka",
+    "madhuka"
+   ],
+   "tags": [
+    "drug-list",
+    "madhura"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.10.25",
+   "word_meanings": [
+    {
+     "sa": "क्षीर",
+     "iast": "kṣīra",
+     "en": "milk",
+     "hi": "दूध"
+    },
+    {
+     "sa": "इक्षु",
+     "iast": "ikṣu",
+     "en": "sugarcane",
+     "hi": "गन्ना"
+    },
+    {
+     "sa": "गोक्षुर",
+     "iast": "gokṣura",
+     "en": "gokṣura",
+     "hi": "गोखरू"
+    },
+    {
+     "sa": "क्षौद्र",
+     "iast": "kṣaudra",
+     "en": "honey",
+     "hi": "शहद"
+    },
+    {
+     "sa": "द्राक्षा",
+     "iast": "drākṣā",
+     "en": "grapes",
+     "hi": "अंगूर/मुनक्का"
+    },
+    {
+     "sa": "आदिः",
+     "iast": "ādiḥ",
+     "en": "and others",
+     "hi": "आदि"
+    },
+    {
+     "sa": "मधुरः गणः",
+     "iast": "madhuraḥ gaṇaḥ",
+     "en": "the sweet group",
+     "hi": "मधुर वर्ग"
+    },
+    {
+     "sa": "अम्लः",
+     "iast": "amlaḥ",
+     "en": "sour (group)",
+     "hi": "अम्ल वर्ग"
+    },
+    {
+     "sa": "धात्रीफल",
+     "iast": "dhātrī-phala",
+     "en": "āmalaka fruit",
+     "hi": "आँवला"
+    },
+    {
+     "sa": "अम्लीका",
+     "iast": "amlīkā",
+     "en": "tamarind",
+     "hi": "इमली"
+    },
+    {
+     "sa": "मातुलुङ्ग",
+     "iast": "mātuluṅga",
+     "en": "citron",
+     "hi": "बिजौरा नींबू"
+    },
+    {
+     "sa": "अम्लवेतसम्",
+     "iast": "amla-vetasam",
+     "en": "amlavetasa",
+     "hi": "अम्लवेतस"
+    }
+   ],
+   "english": "...milk, sugarcane, gokṣura, honey, grapes and others form the sweet group. The sour group: āmalaka (dhātrī) fruit, tamarind, citron (mātuluṅga), amlavetasa,...",
+   "hindi": "...दूध, गन्ना, गोखरू, शहद, अंगूर आदि मधुर वर्ग हैं। अम्ल वर्ग: आँवला, इमली, बिजौरा नींबू, अम्लवेतस,...",
+   "explanation_en": "End of the madhura list; the amla list begins. Note that honey is placed here among sweets although its anurasa is kaṣāya, and it also appears in the kaṣāya list (verse 31).",
+   "explanation_hi": "मधुर सूची समाप्त; अम्ल सूची शुरू। ध्यान दें कि शहद यहाँ मधुर में है, पर उसका अनुरस कषाय है और वह कषाय सूची में भी है (श्लोक 31)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "madhura-skandha",
+    "amla-skandha"
+   ],
+   "tags": [
+    "drug-list",
+    "madhura",
+    "amla"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.10.26",
+   "word_meanings": [
+    {
+     "sa": "दाडिमम्",
+     "iast": "dāḍimam",
+     "en": "pomegranate",
+     "hi": "अनार"
+    },
+    {
+     "sa": "रजतम्",
+     "iast": "rajatam",
+     "en": "silver",
+     "hi": "चाँदी"
+    },
+    {
+     "sa": "तक्रम्",
+     "iast": "takram",
+     "en": "buttermilk",
+     "hi": "छाछ"
+    },
+    {
+     "sa": "चुक्रम्",
+     "iast": "cukram",
+     "en": "cukra (sour fermented liquid)",
+     "hi": "चुक्र (सिरका जैसा)"
+    },
+    {
+     "sa": "पालेवतम्",
+     "iast": "pālevatam",
+     "en": "pālevata (a fruit)",
+     "hi": "पालेवत"
+    },
+    {
+     "sa": "दधि",
+     "iast": "dadhi",
+     "en": "curd",
+     "hi": "दही"
+    },
+    {
+     "sa": "आम्रम्",
+     "iast": "āmram",
+     "en": "(unripe) mango",
+     "hi": "आम (कच्चा)"
+    },
+    {
+     "sa": "आम्रातकम्",
+     "iast": "āmrātakam",
+     "en": "hog plum",
+     "hi": "अम्बाड़ा"
+    },
+    {
+     "sa": "भव्यम्",
+     "iast": "bhavyam",
+     "en": "elephant apple",
+     "hi": "भव्य (कमरख/चालता)"
+    },
+    {
+     "sa": "कपित्थम्",
+     "iast": "kapittham",
+     "en": "wood apple",
+     "hi": "कैथ"
+    },
+    {
+     "sa": "करमर्दकम्",
+     "iast": "karamardakam",
+     "en": "karonda",
+     "hi": "करौंदा"
+    }
+   ],
+   "english": "...pomegranate, silver, buttermilk, cukra, pālevata, curd, mango, hog plum (āmrātaka), bhavya, wood apple (kapittha) and karonda (karamardaka),...",
+   "hindi": "...अनार, चाँदी, छाछ, चुक्र, पालेवत, दही, आम, अम्बाड़ा, भव्य, कैथ और करौंदा,...",
+   "explanation_en": "Amla group continued. Note the inclusion of metals (rajata, silver) in taste groups: classical texts assign tastes to minerals by their effects.",
+   "explanation_hi": "अम्ल वर्ग जारी। ध्यान दें कि धातुएँ (रजत, चाँदी) भी रस वर्गों में हैं: शास्त्र खनिजों को भी उनके प्रभाव से रस देते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "amla-skandha"
+   ],
+   "tags": [
+    "drug-list",
+    "amla"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.10.27",
+   "word_meanings": [
+    {
+     "sa": "वृक्षाम्ल",
+     "iast": "vṛkṣāmla",
+     "en": "kokum (vṛkṣāmla)",
+     "hi": "वृक्षाम्ल (कोकम)"
+    },
+    {
+     "sa": "कोल",
+     "iast": "kola",
+     "en": "jujube",
+     "hi": "बेर"
+    },
+    {
+     "sa": "लिकुच",
+     "iast": "likuca",
+     "en": "monkey jack",
+     "hi": "लकुच (बड़हल)"
+    },
+    {
+     "sa": "कोशाम्र-आम्लातक",
+     "iast": "kośāmlātaka",
+     "en": "kośāmra and related sour fruits",
+     "hi": "कोशाम्र आदि खट्टे फल"
+    },
+    {
+     "sa": "धन्वनम्",
+     "iast": "dhanvanam",
+     "en": "dhanvana",
+     "hi": "धन्वन"
+    },
+    {
+     "sa": "मस्तु",
+     "iast": "mastu",
+     "en": "whey",
+     "hi": "मस्तु"
+    },
+    {
+     "sa": "धान्याम्ल",
+     "iast": "dhānyāmla",
+     "en": "fermented grain gruel (kāñjika)",
+     "hi": "धान्याम्ल (कांजी)"
+    },
+    {
+     "sa": "मद्यानि",
+     "iast": "madyāni",
+     "en": "alcoholic drinks",
+     "hi": "मद्य"
+    },
+    {
+     "sa": "जम्बीरम्",
+     "iast": "jambīram",
+     "en": "lemon",
+     "hi": "जम्बीर नींबू"
+    },
+    {
+     "sa": "तिलकण्टकम्",
+     "iast": "tila-kaṇṭakam",
+     "en": "tilakaṇṭaka",
+     "hi": "तिलकंटक"
+    },
+    {
+     "sa": "वरम्",
+     "iast": "varam",
+     "en": "the best (saindhava)",
+     "hi": "श्रेष्ठ (सैंधव)"
+    },
+    {
+     "sa": "सौवर्चलम्",
+     "iast": "sauvarcalam",
+     "en": "sauvarcala salt",
+     "hi": "सौवर्चल नमक"
+    },
+    {
+     "sa": "कृष्णम्",
+     "iast": "kṛṣṇam",
+     "en": "black salt",
+     "hi": "काला नमक"
+    },
+    {
+     "sa": "विडम्",
+     "iast": "viḍam",
+     "en": "viḍa salt",
+     "hi": "विड लवण"
+    },
+    {
+     "sa": "सामुद्रम्",
+     "iast": "sāmudram",
+     "en": "sea salt",
+     "hi": "समुद्री नमक"
+    },
+    {
+     "sa": "औद्भिदम्",
+     "iast": "audbhidam",
+     "en": "earth-efflorescence salt",
+     "hi": "औद्भिद लवण"
+    },
+    {
+     "sa": "रोमकम्",
+     "iast": "romakam",
+     "en": "romaka (lake salt)",
+     "hi": "रोमक लवण"
+    },
+    {
+     "sa": "पांसुजम्",
+     "iast": "pāṃsu-jam",
+     "en": "salt from saline soil",
+     "hi": "पांसुज लवण"
+    },
+    {
+     "sa": "सीसम्",
+     "iast": "sīsam",
+     "en": "lead",
+     "hi": "सीसा"
+    },
+    {
+     "sa": "क्षारः",
+     "iast": "kṣāraḥ",
+     "en": "alkali",
+     "hi": "क्षार"
+    },
+    {
+     "sa": "लवणः गणः",
+     "iast": "lavaṇaḥ gaṇaḥ",
+     "en": "the salty group",
+     "hi": "लवण वर्ग"
+    }
+   ],
+   "english": "...kokum (vṛkṣāmla), jujube (kola), likuca, kośāmra and related sour fruits, dhanvana, whey, fermented grain gruel, alcoholic drinks, lemon (jambīra) and tilakaṇṭaka (complete the sour group). The salty group: the best one (saindhava), sauvarcala, black salt, viḍa, sea salt, audbhida, romaka, pāṃsuja, lead and alkali (kṣāra).",
+   "hindi": "...कोकम, बेर, लकुच, कोशाम्र आदि खट्टे फल, धन्वन, मस्तु, कांजी, मद्य, जम्बीर नींबू और तिलकंटक (अम्ल वर्ग पूरा)। लवण वर्ग: श्रेष्ठ (सैंधव), सौवर्चल, काला नमक, विड, समुद्री नमक, औद्भिद, रोमक, पांसुज, सीसा और क्षार।",
+   "explanation_en": "This corpus verse joins an extra half-verse (26+1, end of the amla list) with verse 27 (the lavaṇa list). 'Varam' is usually taken to mean saindhava, the best of salts (see verse 34). Some names in the sour list (kośāmlātaka, tilakaṇṭaka) are identified differently by commentators.",
+   "explanation_hi": "यह श्लोक एक अतिरिक्त आधा श्लोक (26+1, अम्ल सूची का अंत) और श्लोक 27 (लवण सूची) को जोड़ता है। 'वरम्' को प्रायः सैंधव माना जाता है, जो नमकों में श्रेष्ठ है (श्लोक 34)। अम्ल सूची के कुछ नामों (कोशाम्लातक, तिलकंटक) की पहचान टीकाकार अलग-अलग करते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "amla-skandha",
+    "lavaṇa-skandha",
+    "saindhava",
+    "pañcalavaṇa"
+   ],
+   "tags": [
+    "drug-list",
+    "amla",
+    "lavana"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.10.28",
+   "word_meanings": [
+    {
+     "sa": "तिक्तः",
+     "iast": "tiktaḥ",
+     "en": "bitter (group)",
+     "hi": "तिक्त वर्ग"
+    },
+    {
+     "sa": "पटोली",
+     "iast": "paṭolī",
+     "en": "pointed gourd",
+     "hi": "परवल"
+    },
+    {
+     "sa": "त्रायन्ती",
+     "iast": "trāyantī",
+     "en": "trāyamāṇā",
+     "hi": "त्रायमाण"
+    },
+    {
+     "sa": "वालक",
+     "iast": "vālaka",
+     "en": "hrībera",
+     "hi": "सुगंधबाला"
+    },
+    {
+     "sa": "उशीर",
+     "iast": "uśīra",
+     "en": "vetiver",
+     "hi": "खस"
+    },
+    {
+     "sa": "चन्दनम्",
+     "iast": "candanam",
+     "en": "sandalwood",
+     "hi": "चंदन"
+    },
+    {
+     "sa": "भूनिम्ब",
+     "iast": "bhūnimba",
+     "en": "kirāta-tikta (chirayata)",
+     "hi": "चिरायता"
+    },
+    {
+     "sa": "निम्ब",
+     "iast": "nimba",
+     "en": "neem",
+     "hi": "नीम"
+    },
+    {
+     "sa": "कटुका",
+     "iast": "kaṭukā",
+     "en": "kuṭakī",
+     "hi": "कुटकी"
+    },
+    {
+     "sa": "तगर",
+     "iast": "tagara",
+     "en": "Indian valerian",
+     "hi": "तगर"
+    },
+    {
+     "sa": "अगुरु",
+     "iast": "aguru",
+     "en": "agarwood",
+     "hi": "अगरु"
+    },
+    {
+     "sa": "वत्सकम्",
+     "iast": "vatsakam",
+     "en": "kuṭaja",
+     "hi": "कुटज"
+    }
+   ],
+   "english": "The bitter group: pointed gourd (paṭolī), trāyamāṇā, vālaka, vetiver (uśīra), sandalwood, chirayata (bhūnimba), neem, kuṭakī, tagara, agarwood (aguru), kuṭaja (vatsaka),...",
+   "hindi": "तिक्त वर्ग: परवल, त्रायमाण, सुगंधबाला, खस, चंदन, चिरायता, नीम, कुटकी, तगर, अगरु, कुटज,...",
+   "explanation_en": "Typical tikta drugs, many used in fever and skin diseases (nimba, bhūnimba, kaṭukā, paṭola). Good examples for 'give examples of tikta rasa dravya'.",
+   "explanation_hi": "विशिष्ट तिक्त द्रव्य, जिनमें से कई ज्वर और त्वचा रोगों में प्रयुक्त होते हैं (नीम, चिरायता, कुटकी, परवल)। 'तिक्त रस द्रव्यों के उदाहरण' के लिए अच्छे।",
+   "modern_correlation": null,
+   "key_terms": [
+    "tikta-skandha",
+    "nimba",
+    "kaṭukā"
+   ],
+   "tags": [
+    "drug-list",
+    "tikta"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.10.29",
+   "word_meanings": [
+    {
+     "sa": "नक्तमाल",
+     "iast": "naktamāla",
+     "en": "karañja",
+     "hi": "करंज"
+    },
+    {
+     "sa": "द्विरजनी",
+     "iast": "dvi-rajanī",
+     "en": "the two turmerics (haridrā, dāruharidrā)",
+     "hi": "हल्दी और दारुहल्दी"
+    },
+    {
+     "sa": "मुस्त",
+     "iast": "musta",
+     "en": "nut grass",
+     "hi": "मोथा"
+    },
+    {
+     "sa": "मूर्वा",
+     "iast": "mūrvā",
+     "en": "mūrvā",
+     "hi": "मूर्वा"
+    },
+    {
+     "sa": "आटरूषकम्",
+     "iast": "āṭarūṣakam",
+     "en": "vāsā (Malabar nut)",
+     "hi": "अडूसा (वासा)"
+    },
+    {
+     "sa": "पाठा",
+     "iast": "pāṭhā",
+     "en": "pāṭhā",
+     "hi": "पाठा"
+    },
+    {
+     "sa": "अपामार्ग",
+     "iast": "apāmārga",
+     "en": "prickly chaff flower",
+     "hi": "अपामार्ग (चिरचिटा)"
+    },
+    {
+     "sa": "कांस्य",
+     "iast": "kāṃsya",
+     "en": "bronze",
+     "hi": "काँसा"
+    },
+    {
+     "sa": "अयः",
+     "iast": "ayaḥ",
+     "en": "iron",
+     "hi": "लोहा"
+    },
+    {
+     "sa": "गुडूची",
+     "iast": "guḍūcī",
+     "en": "guḍūcī",
+     "hi": "गिलोय"
+    },
+    {
+     "sa": "धन्वयासकम्",
+     "iast": "dhanvayāsakam",
+     "en": "dhanvayāsa",
+     "hi": "धन्वयास (दुरालभा)"
+    }
+   ],
+   "english": "...karañja (naktamāla), the two turmerics, nut grass (musta), mūrvā, vāsā (āṭarūṣaka), pāṭhā, apāmārga, bronze, iron, guḍūcī, dhanvayāsa,...",
+   "hindi": "...करंज, हल्दी और दारुहल्दी, मोथा, मूर्वा, अडूसा, पाठा, अपामार्ग, काँसा, लोहा, गिलोय, धन्वयास,...",
+   "explanation_en": "Tikta list continued. Note that guḍūcī is tikta yet, by exception, not vāta-provoking (verse 35).",
+   "explanation_hi": "तिक्त सूची जारी। ध्यान दें कि गिलोय तिक्त होते हुए भी, अपवाद के रूप में, वात नहीं बढ़ाती (श्लोक 35)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "tikta-skandha",
+    "guḍūcī",
+    "vāsā"
+   ],
+   "tags": [
+    "drug-list",
+    "tikta"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.10.30",
+   "word_meanings": [
+    {
+     "sa": "पञ्चमूलम् महत्",
+     "iast": "pañca-mūlam mahat",
+     "en": "the greater five roots (bṛhat pañcamūla)",
+     "hi": "बृहत् पंचमूल"
+    },
+    {
+     "sa": "व्याघ्र्यौ",
+     "iast": "vyāghryau",
+     "en": "the two vyāghrīs (kaṇṭakārī, bṛhatī)",
+     "hi": "कंटकारी और बृहती"
+    },
+    {
+     "sa": "विशाला",
+     "iast": "viśālā",
+     "en": "indravāruṇī",
+     "hi": "इन्द्रवारुणी"
+    },
+    {
+     "sa": "अतिविषा",
+     "iast": "ativiṣā",
+     "en": "ativiṣā",
+     "hi": "अतीस"
+    },
+    {
+     "sa": "वचा",
+     "iast": "vacā",
+     "en": "sweet flag",
+     "hi": "वच"
+    },
+    {
+     "sa": "कटुकः",
+     "iast": "kaṭukaḥ",
+     "en": "pungent (group)",
+     "hi": "कटु वर्ग"
+    },
+    {
+     "sa": "हिङ्गु",
+     "iast": "hiṅgu",
+     "en": "asafoetida",
+     "hi": "हींग"
+    },
+    {
+     "sa": "मरिच",
+     "iast": "marica",
+     "en": "black pepper",
+     "hi": "काली मिर्च"
+    },
+    {
+     "sa": "कृमिजित्",
+     "iast": "kṛmijit",
+     "en": "viḍaṅga",
+     "hi": "विडंग"
+    },
+    {
+     "sa": "पञ्चकोलकम्",
+     "iast": "pañcakolakam",
+     "en": "the five pungents (pañcakola)",
+     "hi": "पंचकोल"
+    }
+   ],
+   "english": "...the greater five roots (bṛhat pañcamūla), the two vyāghrīs, indravāruṇī (viśālā), ativiṣā and vacā (complete the bitter group). The pungent group: asafoetida, black pepper, viḍaṅga (kṛmijit), pañcakola,...",
+   "hindi": "...बृहत् पंचमूल, कंटकारी और बृहती, इन्द्रवारुणी, अतीस और वच (तिक्त वर्ग पूरा)। कटु वर्ग: हींग, काली मिर्च, विडंग, पंचकोल,...",
+   "explanation_en": "Pañcakola = pippalī, pippalīmūla, cavya, citraka, nāgara (śuṇṭhī). Bṛhat pañcamūla = bilva, agnimantha, śyonāka, pāṭalā, gambhārī. Both groups are common definitions in exams.",
+   "explanation_hi": "पंचकोल = पिप्पली, पिप्पलीमूल, चव्य, चित्रक, नागर (सोंठ)। बृहत् पंचमूल = बिल्व, अग्निमंथ, श्योनाक, पाटला, गम्भारी। दोनों परिभाषाएँ परीक्षा में आम हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "tikta-skandha",
+    "kaṭu-skandha",
+    "pañcakola",
+    "bṛhat-pañcamūla"
+   ],
+   "tags": [
+    "drug-list",
+    "tikta",
+    "katu"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.10.31",
+   "word_meanings": [
+    {
+     "sa": "कुठेराद्याः",
+     "iast": "kuṭherādyāḥ",
+     "en": "kuṭhera and others",
+     "hi": "कुठेर आदि"
+    },
+    {
+     "sa": "हरितकाः",
+     "iast": "haritakāḥ",
+     "en": "green leafy herbs",
+     "hi": "हरी पत्तेदार सब्ज़ियाँ"
+    },
+    {
+     "sa": "पित्तम्",
+     "iast": "pittam",
+     "en": "bile",
+     "hi": "पित्त (पशु पित्त)"
+    },
+    {
+     "sa": "मूत्रम्",
+     "iast": "mūtram",
+     "en": "urine",
+     "hi": "मूत्र"
+    },
+    {
+     "sa": "अरुष्करम्",
+     "iast": "aruṣkaram",
+     "en": "bhallātaka",
+     "hi": "भल्लातक (भिलावा)"
+    },
+    {
+     "sa": "वर्गः कषायः",
+     "iast": "vargaḥ kaṣāyaḥ",
+     "en": "the astringent group",
+     "hi": "कषाय वर्ग"
+    },
+    {
+     "sa": "पथ्या",
+     "iast": "pathyā",
+     "en": "harītakī",
+     "hi": "हरड़"
+    },
+    {
+     "sa": "अक्षम्",
+     "iast": "akṣam",
+     "en": "vibhītaka",
+     "hi": "बहेड़ा"
+    },
+    {
+     "sa": "शिरीषः",
+     "iast": "śirīṣaḥ",
+     "en": "śirīṣa",
+     "hi": "सिरस"
+    },
+    {
+     "sa": "खदिरः",
+     "iast": "khadiraḥ",
+     "en": "khadira (catechu)",
+     "hi": "खैर"
+    },
+    {
+     "sa": "मधु",
+     "iast": "madhu",
+     "en": "honey",
+     "hi": "शहद"
+    }
+   ],
+   "english": "...the green herbs such as kuṭhera, (animal) bile, urine and bhallātaka (aruṣkara) (complete the pungent group). The astringent group: harītakī (pathyā), vibhītaka (akṣa), śirīṣa, khadira, honey,...",
+   "hindi": "...कुठेर आदि हरी सब्ज़ियाँ, पशु पित्त, मूत्र और भिलावा (कटु वर्ग पूरा)। कषाय वर्ग: हरड़, बहेड़ा, सिरस, खैर, शहद,...",
+   "explanation_en": "End of the kaṭu list, start of kaṣāya. Harītakī is kaṣāya-dominant but, by exception, not cold or constipating (verse 36).",
+   "explanation_hi": "कटु सूची समाप्त, कषाय शुरू। हरड़ कषाय प्रधान है पर अपवाद के रूप में शीत या स्तम्भक नहीं है (श्लोक 36)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "kaṭu-skandha",
+    "kaṣāya-skandha",
+    "harītakī"
+   ],
+   "tags": [
+    "drug-list",
+    "katu",
+    "kashaya"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.10.32",
+   "word_meanings": [
+    {
+     "sa": "कदम्ब",
+     "iast": "kadamba",
+     "en": "kadamba",
+     "hi": "कदम्ब"
+    },
+    {
+     "sa": "उदुम्बरम्",
+     "iast": "udumbaram",
+     "en": "cluster fig",
+     "hi": "गूलर"
+    },
+    {
+     "sa": "मुक्ता",
+     "iast": "muktā",
+     "en": "pearl",
+     "hi": "मोती"
+    },
+    {
+     "sa": "प्रवाल",
+     "iast": "pravāla",
+     "en": "coral",
+     "hi": "मूँगा"
+    },
+    {
+     "sa": "अञ्जन",
+     "iast": "añjana",
+     "en": "collyrium (antimony/stibnite)",
+     "hi": "अंजन (सुरमा)"
+    },
+    {
+     "sa": "गैरिकम्",
+     "iast": "gairikam",
+     "en": "red ochre",
+     "hi": "गेरू"
+    },
+    {
+     "sa": "बालम् कपित्थम्",
+     "iast": "bālam kapittham",
+     "en": "unripe wood apple",
+     "hi": "कच्चा कैथ"
+    },
+    {
+     "sa": "खर्जूरम्",
+     "iast": "kharjūram",
+     "en": "date",
+     "hi": "खजूर"
+    },
+    {
+     "sa": "बिस",
+     "iast": "bisa",
+     "en": "lotus stalk",
+     "hi": "कमल नाल"
+    },
+    {
+     "sa": "पद्म",
+     "iast": "padma",
+     "en": "lotus",
+     "hi": "कमल"
+    },
+    {
+     "sa": "उत्पल",
+     "iast": "utpala",
+     "en": "water lily",
+     "hi": "नीलकमल"
+    },
+    {
+     "sa": "आदि",
+     "iast": "ādi",
+     "en": "and others",
+     "hi": "आदि"
+    }
+   ],
+   "english": "...kadamba, cluster fig (udumbara), pearl, coral, collyrium (añjana), red ochre (gairika), unripe wood apple, dates, lotus stalk, lotus, water lily and others.",
+   "hindi": "...कदम्ब, गूलर, मोती, मूँगा, अंजन (सुरमा), गेरू, कच्चा कैथ, खजूर, कमल नाल, कमल, नीलकमल आदि।",
+   "explanation_en": "End of the drug lists. Note kapittha: ripe is sour (verse 26), unripe (bāla) is astringent. Taste changes with ripeness, a useful exam observation.",
+   "explanation_hi": "द्रव्य सूचियाँ समाप्त। कैथ पर ध्यान दें: पका हुआ अम्ल (श्लोक 26), कच्चा कषाय। पकने के साथ रस बदलता है, यह उपयोगी परीक्षा बिंदु है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "kaṣāya-skandha",
+    "kapittha"
+   ],
+   "tags": [
+    "drug-list",
+    "kashaya"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.10.33",
+   "word_meanings": [
+    {
+     "sa": "मधुरम्",
+     "iast": "madhuram",
+     "en": "sweet",
+     "hi": "मधुर"
+    },
+    {
+     "sa": "श्लेष्मलम्",
+     "iast": "śleṣmalam",
+     "en": "kapha-increasing",
+     "hi": "कफ बढ़ाने वाला"
+    },
+    {
+     "sa": "प्रायः",
+     "iast": "prāyaḥ",
+     "en": "generally",
+     "hi": "प्रायः"
+    },
+    {
+     "sa": "जीर्णात्",
+     "iast": "jīrṇāt",
+     "en": "old",
+     "hi": "पुराने"
+    },
+    {
+     "sa": "शालियवात्",
+     "iast": "śāli-yavāt",
+     "en": "śāli rice and barley",
+     "hi": "शाली चावल और जौ"
+    },
+    {
+     "sa": "ऋते",
+     "iast": "ṛte",
+     "en": "except",
+     "hi": "को छोड़कर"
+    },
+    {
+     "sa": "मुद्गात्",
+     "iast": "mudgāt",
+     "en": "green gram",
+     "hi": "मूँग"
+    },
+    {
+     "sa": "गोधूमतः",
+     "iast": "godhūmataḥ",
+     "en": "wheat",
+     "hi": "गेहूँ"
+    },
+    {
+     "sa": "क्षौद्रात्",
+     "iast": "kṣaudrāt",
+     "en": "honey",
+     "hi": "शहद"
+    },
+    {
+     "sa": "सितायाः",
+     "iast": "sitāyāḥ",
+     "en": "sugar candy",
+     "hi": "मिश्री"
+    },
+    {
+     "sa": "जाङ्गलामिषात्",
+     "iast": "jāṅgalāmiṣāt",
+     "en": "meat of dry-land animals",
+     "hi": "जांगल मांस"
+    }
+   ],
+   "english": "Sweet substances generally increase kapha, except old śāli rice and old barley, green gram, wheat, honey, sugar candy (sitā) and meat of dry-land animals.",
+   "hindi": "मधुर द्रव्य प्रायः कफ बढ़ाते हैं, सिवाय पुराने शाली चावल और पुराने जौ, मूँग, गेहूँ, शहद, मिश्री और जांगल मांस के।",
+   "explanation_en": "Verses 33-36 give the exceptions (apavāda) to the general rules of rasa. These are very popular MCQs: e.g. 'which sweet substance does not increase kapha? → honey / old rice / mudga'.",
+   "explanation_hi": "श्लोक 33-36 में रस के सामान्य नियमों के अपवाद हैं। ये बहुत लोकप्रिय MCQ हैं: जैसे 'कौन सा मधुर द्रव्य कफ नहीं बढ़ाता? → शहद / पुराना चावल / मूँग'।",
+   "modern_correlation": null,
+   "key_terms": [
+    "madhura",
+    "apavāda",
+    "kapha"
+   ],
+   "tags": [
+    "rasa",
+    "exceptions"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.10.34",
+   "word_meanings": [
+    {
+     "sa": "प्रायः",
+     "iast": "prāyaḥ",
+     "en": "generally",
+     "hi": "प्रायः"
+    },
+    {
+     "sa": "अम्लम्",
+     "iast": "amlam",
+     "en": "sour",
+     "hi": "अम्ल"
+    },
+    {
+     "sa": "पित्तजननम्",
+     "iast": "pitta-jananam",
+     "en": "produces pitta",
+     "hi": "पित्त उत्पन्न करने वाला"
+    },
+    {
+     "sa": "दाडिमामलकात्",
+     "iast": "dāḍimāmalakāt",
+     "en": "pomegranate and āmalaka",
+     "hi": "अनार और आँवला"
+    },
+    {
+     "sa": "ऋते",
+     "iast": "ṛte",
+     "en": "except",
+     "hi": "को छोड़कर"
+    },
+    {
+     "sa": "अपथ्यम्",
+     "iast": "apathyam",
+     "en": "unwholesome",
+     "hi": "अहितकर"
+    },
+    {
+     "sa": "लवणम्",
+     "iast": "lavaṇam",
+     "en": "salt",
+     "hi": "लवण"
+    },
+    {
+     "sa": "प्रायः",
+     "iast": "prāyaḥ",
+     "en": "generally",
+     "hi": "प्रायः"
+    },
+    {
+     "sa": "चक्षुषः",
+     "iast": "cakṣuṣaḥ",
+     "en": "for the eyes",
+     "hi": "आँखों के लिए"
+    },
+    {
+     "sa": "अन्यत्र",
+     "iast": "anyatra",
+     "en": "except",
+     "hi": "को छोड़कर"
+    },
+    {
+     "sa": "सैन्धवात्",
+     "iast": "saindhavāt",
+     "en": "rock salt",
+     "hi": "सेंधा नमक"
+    }
+   ],
+   "english": "Sour substances generally produce pitta, except pomegranate and āmalaka. Salt is generally unwholesome for the eyes, except rock salt (saindhava).",
+   "hindi": "अम्ल द्रव्य प्रायः पित्त बढ़ाते हैं, सिवाय अनार और आँवले के। लवण प्रायः आँखों के लिए अहितकर है, सिवाय सेंधा नमक के।",
+   "explanation_en": "Exceptions: amla but not pitta-increasing → dāḍima, āmalaka; lavaṇa but good for eyes → saindhava. High-yield one-liners.",
+   "explanation_hi": "अपवाद: अम्ल पर पित्त नहीं बढ़ाते → अनार, आँवला; लवण पर आँखों के लिए हितकर → सैंधव। महत्वपूर्ण एक-पंक्ति तथ्य।",
+   "modern_correlation": null,
+   "key_terms": [
+    "amla",
+    "lavaṇa",
+    "saindhava",
+    "āmalaka",
+    "apavāda"
+   ],
+   "tags": [
+    "rasa",
+    "exceptions"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.10.35",
+   "word_meanings": [
+    {
+     "sa": "तिक्तम्",
+     "iast": "tiktam",
+     "en": "bitter",
+     "hi": "तिक्त"
+    },
+    {
+     "sa": "कटु",
+     "iast": "kaṭu",
+     "en": "pungent",
+     "hi": "कटु"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "भूयिष्ठम्",
+     "iast": "bhūyiṣṭham",
+     "en": "mostly",
+     "hi": "अधिकतर"
+    },
+    {
+     "sa": "अवृष्यम्",
+     "iast": "avṛṣyam",
+     "en": "anti-aphrodisiac",
+     "hi": "अवृष्य (वीर्य घटाने वाला)"
+    },
+    {
+     "sa": "वातकोपनम्",
+     "iast": "vāta-kopanam",
+     "en": "provokes vāta",
+     "hi": "वात बढ़ाने वाला"
+    },
+    {
+     "sa": "ऋते",
+     "iast": "ṛte",
+     "en": "except",
+     "hi": "को छोड़कर"
+    },
+    {
+     "sa": "अमृतापटोलीभ्याम्",
+     "iast": "amṛtā-paṭolībhyām",
+     "en": "guḍūcī and paṭola",
+     "hi": "गिलोय और परवल"
+    },
+    {
+     "sa": "शुण्ठीकृष्णारसोनतः",
+     "iast": "śuṇṭhī-kṛṣṇā-rasonataḥ",
+     "en": "dry ginger, long pepper and garlic",
+     "hi": "सोंठ, पिप्पली और लहसुन"
+    }
+   ],
+   "english": "Bitter and pungent substances are mostly anti-aphrodisiac and provoke vāta, except guḍūcī (amṛtā) and paṭola (among bitters), and dry ginger, long pepper (kṛṣṇā) and garlic (among pungents).",
+   "hindi": "तिक्त और कटु द्रव्य अधिकतर अवृष्य (वीर्य घटाने वाले) और वात बढ़ाने वाले होते हैं, सिवाय गिलोय और परवल (तिक्त में), तथा सोंठ, पिप्पली और लहसुन (कटु में) के।",
+   "explanation_en": "Exceptions: tikta but not vāta-provoking/avṛṣya → guḍūcī, paṭola; kaṭu but not → śuṇṭhī, pippalī, rasona. A favourite MCQ: 'Which pungent drug is vṛṣya? → pippalī / garlic'.",
+   "explanation_hi": "अपवाद: तिक्त पर वात नहीं बढ़ाते → गिलोय, परवल; कटु पर नहीं → सोंठ, पिप्पली, लहसुन। प्रिय MCQ: 'कौन सा कटु द्रव्य वृष्य है? → पिप्पली / लहसुन'।",
+   "modern_correlation": null,
+   "key_terms": [
+    "tikta",
+    "kaṭu",
+    "avṛṣya",
+    "apavāda",
+    "guḍūcī"
+   ],
+   "tags": [
+    "rasa",
+    "exceptions"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.10.36",
+   "word_meanings": [
+    {
+     "sa": "कषायम्",
+     "iast": "kaṣāyam",
+     "en": "astringent",
+     "hi": "कषाय"
+    },
+    {
+     "sa": "प्रायशः",
+     "iast": "prāyaśaḥ",
+     "en": "generally",
+     "hi": "प्रायः"
+    },
+    {
+     "sa": "शीतम्",
+     "iast": "śītam",
+     "en": "cold",
+     "hi": "शीत"
+    },
+    {
+     "sa": "स्तम्भनम्",
+     "iast": "stambhanam",
+     "en": "constipating, arresting",
+     "hi": "स्तम्भन"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "अभयाम्",
+     "iast": "abhayām",
+     "en": "harītakī",
+     "hi": "हरड़"
+    },
+    {
+     "sa": "विना",
+     "iast": "vinā",
+     "en": "except",
+     "hi": "को छोड़कर"
+    },
+    {
+     "sa": "रसाः",
+     "iast": "rasāḥ",
+     "en": "tastes",
+     "hi": "रस"
+    },
+    {
+     "sa": "कट्वम्ललवणाः",
+     "iast": "kaṭv-amla-lavaṇāḥ",
+     "en": "pungent, sour, salty",
+     "hi": "कटु, अम्ल, लवण"
+    },
+    {
+     "sa": "वीर्येण",
+     "iast": "vīryeṇa",
+     "en": "in potency",
+     "hi": "वीर्य में"
+    },
+    {
+     "sa": "उष्णाः",
+     "iast": "uṣṇāḥ",
+     "en": "hot",
+     "hi": "उष्ण"
+    },
+    {
+     "sa": "यथोत्तरम्",
+     "iast": "yathottaram",
+     "en": "in increasing order",
+     "hi": "क्रमशः अधिक"
+    }
+   ],
+   "english": "Astringent substances are generally cold and constipating, except harītakī (abhayā). Pungent, sour and salty tastes are hot in potency, each successively more so;",
+   "hindi": "कषाय द्रव्य प्रायः शीत और स्तम्भक होते हैं, सिवाय हरड़ के। कटु, अम्ल और लवण रस वीर्य में उष्ण हैं, और क्रम से एक-दूसरे से अधिक उष्ण;",
+   "explanation_en": "Second line starts the gradation tables (verses 36-39). Uṣṇa order: kaṭu < amla < lavaṇa (salt hottest). 'Yathottaram' means each later item has more of the quality, so in this text lavaṇa is the most uṣṇa; check the order used by your own syllabus text, as authorities differ.",
+   "explanation_hi": "दूसरी पंक्ति से तारतम्य तालिकाएँ (श्लोक 36-39) शुरू होती हैं। उष्ण क्रम: कटु < अम्ल < लवण (लवण सबसे उष्ण)। 'यथोत्तरम्' का अर्थ है हर अगले में गुण अधिक, इसलिए इस ग्रंथ में लवण सबसे उष्ण है; अपने पाठ्य ग्रंथ का क्रम भी देखें, क्योंकि आचार्यों में मतभेद है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "kaṣāya",
+    "harītakī",
+    "uṣṇa",
+    "tāratamya"
+   ],
+   "tags": [
+    "rasa",
+    "exceptions",
+    "gradation"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.10.37",
+   "word_meanings": [
+    {
+     "sa": "तिक्तः",
+     "iast": "tiktaḥ",
+     "en": "bitter",
+     "hi": "तिक्त"
+    },
+    {
+     "sa": "कषायः",
+     "iast": "kaṣāyaḥ",
+     "en": "astringent",
+     "hi": "कषाय"
+    },
+    {
+     "sa": "मधुरः",
+     "iast": "madhuraḥ",
+     "en": "sweet",
+     "hi": "मधुर"
+    },
+    {
+     "sa": "तद्वत्",
+     "iast": "tadvat",
+     "en": "in the same way",
+     "hi": "उसी प्रकार"
+    },
+    {
+     "sa": "एव",
+     "iast": "eva",
+     "en": "indeed",
+     "hi": "ही"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "शीतलाः",
+     "iast": "śītalāḥ",
+     "en": "cold",
+     "hi": "शीत"
+    },
+    {
+     "sa": "तिक्तः",
+     "iast": "tiktaḥ",
+     "en": "bitter",
+     "hi": "तिक्त"
+    },
+    {
+     "sa": "कटुः",
+     "iast": "kaṭuḥ",
+     "en": "pungent",
+     "hi": "कटु"
+    },
+    {
+     "sa": "कषायः",
+     "iast": "kaṣāyaḥ",
+     "en": "astringent",
+     "hi": "कषाय"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "रूक्षाः",
+     "iast": "rūkṣāḥ",
+     "en": "dry",
+     "hi": "रूक्ष"
+    },
+    {
+     "sa": "बद्धमलाः",
+     "iast": "baddha-malāḥ",
+     "en": "binding the excreta",
+     "hi": "मल को बाँधने वाले"
+    },
+    {
+     "sa": "तथा",
+     "iast": "tathā",
+     "en": "likewise",
+     "hi": "तथा"
+    }
+   ],
+   "english": "...bitter, astringent and sweet are likewise cold, each successively more so. Bitter, pungent and astringent are dry and bind the excreta (constipating);",
+   "hindi": "...तिक्त, कषाय और मधुर उसी प्रकार शीत हैं, क्रम से एक-दूसरे से अधिक शीत। तिक्त, कटु और कषाय रूक्ष हैं और मल को बाँधते हैं;",
+   "explanation_en": "Śīta order: tikta < kaṣāya < madhura (sweet is coldest). Rūkṣa order (by yathottaram): tikta < kaṭu < kaṣāya, so kaṣāya is the driest. These graded lists are standard MCQ material.",
+   "explanation_hi": "शीत क्रम: तिक्त < कषाय < मधुर (मधुर सबसे शीत)। रूक्ष क्रम: तिक्त < कटु < कषाय, यानी कषाय सबसे रूक्ष। ये क्रमबद्ध सूचियाँ MCQ की मानक सामग्री हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "śīta",
+    "rūkṣa",
+    "tāratamya"
+   ],
+   "tags": [
+    "rasa",
+    "gradation"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.10.38",
+   "word_meanings": [
+    {
+     "sa": "पट्वम्लमधुराः",
+     "iast": "paṭv-amla-madhurāḥ",
+     "en": "salty, sour and sweet",
+     "hi": "लवण, अम्ल, मधुर"
+    },
+    {
+     "sa": "स्निग्धाः",
+     "iast": "snigdhāḥ",
+     "en": "unctuous",
+     "hi": "स्निग्ध"
+    },
+    {
+     "sa": "सृष्टविण्मूत्रमारुताः",
+     "iast": "sṛṣṭa-viṇ-mūtra-mārutāḥ",
+     "en": "releasing faeces, urine and flatus",
+     "hi": "मल, मूत्र और वायु को निकालने वाले"
+    },
+    {
+     "sa": "पटोः",
+     "iast": "paṭoḥ",
+     "en": "than salty",
+     "hi": "लवण से"
+    },
+    {
+     "sa": "कषायः",
+     "iast": "kaṣāyaḥ",
+     "en": "astringent",
+     "hi": "कषाय"
+    },
+    {
+     "sa": "तस्मात्",
+     "iast": "tasmāt",
+     "en": "than that",
+     "hi": "उससे"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "मधुरः",
+     "iast": "madhuraḥ",
+     "en": "sweet",
+     "hi": "मधुर"
+    },
+    {
+     "sa": "परमम्",
+     "iast": "paramam",
+     "en": "most",
+     "hi": "सबसे"
+    },
+    {
+     "sa": "गुरुः",
+     "iast": "guruḥ",
+     "en": "heavy",
+     "hi": "गुरु"
+    }
+   ],
+   "english": "...salty, sour and sweet are unctuous and promote the release of faeces, urine and flatus. Astringent is heavier than salty, and sweet is heavier than astringent, being the heaviest of all;",
+   "hindi": "...लवण, अम्ल और मधुर स्निग्ध हैं और मल, मूत्र तथा वायु को निकालते हैं। कषाय लवण से भारी है, और मधुर कषाय से भी भारी, यानी सबसे भारी है;",
+   "explanation_en": "Snigdha order: lavaṇa < amla < madhura (sweet most unctuous). Guru order: lavaṇa < kaṣāya < madhura (sweet heaviest). Light order follows in verse 39.",
+   "explanation_hi": "स्निग्ध क्रम: लवण < अम्ल < मधुर (मधुर सबसे स्निग्ध)। गुरु क्रम: लवण < कषाय < मधुर (मधुर सबसे भारी)। लघु क्रम श्लोक 39 में है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "snigdha",
+    "guru",
+    "tāratamya"
+   ],
+   "tags": [
+    "rasa",
+    "gradation"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.10.39",
+   "word_meanings": [
+    {
+     "sa": "लघुः",
+     "iast": "laghuḥ",
+     "en": "light",
+     "hi": "लघु"
+    },
+    {
+     "sa": "अम्लः",
+     "iast": "amlaḥ",
+     "en": "sour",
+     "hi": "अम्ल"
+    },
+    {
+     "sa": "कटुः",
+     "iast": "kaṭuḥ",
+     "en": "pungent",
+     "hi": "कटु"
+    },
+    {
+     "sa": "तस्मात्",
+     "iast": "tasmāt",
+     "en": "than that",
+     "hi": "उससे"
+    },
+    {
+     "sa": "तस्मात् अपि",
+     "iast": "tasmāt api",
+     "en": "even than that",
+     "hi": "उससे भी"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "तिक्तकः",
+     "iast": "tiktakaḥ",
+     "en": "bitter",
+     "hi": "तिक्त"
+    },
+    {
+     "sa": "संयोगाः",
+     "iast": "saṃyogāḥ",
+     "en": "combinations",
+     "hi": "संयोग"
+    },
+    {
+     "sa": "सप्तपञ्चाशत्",
+     "iast": "sapta-pañcāśat",
+     "en": "fifty-seven",
+     "hi": "सत्तावन"
+    },
+    {
+     "sa": "कल्पना",
+     "iast": "kalpanā",
+     "en": "formulations",
+     "hi": "कल्पना"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "परंतु"
+    },
+    {
+     "sa": "त्रिषष्टिधा",
+     "iast": "tri-ṣaṣṭi-dhā",
+     "en": "sixty-three kinds",
+     "hi": "तिरसठ प्रकार"
+    }
+   ],
+   "english": "...sour is light, pungent lighter than that, and bitter lighter still. The combinations (of tastes) are fifty-seven, but the formulations (kalpanā, including the six single tastes) are sixty-three.",
+   "hindi": "...अम्ल लघु है, कटु उससे अधिक लघु, और तिक्त उससे भी अधिक लघु। रसों के संयोग सत्तावन हैं, पर कल्पनाएँ (छह अकेले रस मिलाकर) तिरसठ प्रकार की हैं।",
+   "explanation_en": "Laghu order: amla < kaṭu < tikta (bitter lightest). 57 combinations = 15 (pairs) + 20 (triads) + 15 (tetrads) + 6 (pentads) + 1 (all six); adding the 6 single rasas gives 63. 'Rasa saṃyoga 57, kalpanā 63' is a top MCQ.",
+   "explanation_hi": "लघु क्रम: अम्ल < कटु < तिक्त (तिक्त सबसे हल्का)। 57 संयोग = 15 (दो-दो) + 20 (तीन-तीन) + 15 (चार-चार) + 6 (पाँच-पाँच) + 1 (छहों); 6 अकेले रस जोड़कर 63। 'रस संयोग 57, कल्पना 63' शीर्ष MCQ है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "laghu",
+    "tāratamya",
+    "rasa-saṃyoga",
+    "63-kalpanā"
+   ],
+   "tags": [
+    "rasa",
+    "gradation",
+    "rasa-combinations"
+   ],
+   "importance": "high",
+   "mnemonic": "15 + 20 + 15 + 6 + 1 = 57; + 6 single = 63",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.10.40",
+   "word_meanings": [
+    {
+     "sa": "लवणात्",
+     "iast": "lavaṇāt",
+     "en": "after salty",
+     "hi": "लवण के बाद"
+    },
+    {
+     "sa": "अम्लमधुरौ",
+     "iast": "amla-madhurau",
+     "en": "sour and sweet",
+     "hi": "अम्ल और मधुर"
+    },
+    {
+     "sa": "कार्यौ",
+     "iast": "kāryau",
+     "en": "should be given",
+     "hi": "देने चाहिए"
+    },
+    {
+     "sa": "यथाक्रमम्",
+     "iast": "yathā-kramam",
+     "en": "in order",
+     "hi": "क्रम से"
+    },
+    {
+     "sa": "वायोः",
+     "iast": "vāyoḥ",
+     "en": "of vāta",
+     "hi": "वात के"
+    },
+    {
+     "sa": "निरनुबन्धस्य",
+     "iast": "niranubandhasya",
+     "en": "unassociated (with other doṣas)",
+     "hi": "अनुबंध रहित (अकेले)"
+    },
+    {
+     "sa": "पाकशान्तिप्रवृत्तये",
+     "iast": "pāka-śānti-pravṛttaye",
+     "en": "for digestion, pacification and normal movement",
+     "hi": "पाक, शांति और प्रवृत्ति के लिए"
+    },
+    {
+     "sa": "प्राक्",
+     "iast": "prāk",
+     "en": "first",
+     "hi": "पहले"
+    },
+    {
+     "sa": "तिक्तः",
+     "iast": "tiktaḥ",
+     "en": "bitter",
+     "hi": "तिक्त"
+    },
+    {
+     "sa": "मधुरः",
+     "iast": "madhuraḥ",
+     "en": "sweet",
+     "hi": "मधुर"
+    },
+    {
+     "sa": "पश्चात्",
+     "iast": "paścāt",
+     "en": "afterwards",
+     "hi": "बाद में"
+    },
+    {
+     "sa": "कषायः",
+     "iast": "kaṣāyaḥ",
+     "en": "astringent",
+     "hi": "कषाय"
+    },
+    {
+     "sa": "अन्ते",
+     "iast": "ante",
+     "en": "at the end",
+     "hi": "अंत में"
+    },
+    {
+     "sa": "विधीयते",
+     "iast": "vidhīyate",
+     "en": "is prescribed",
+     "hi": "बताया गया है"
+    },
+    {
+     "sa": "पित्तम्",
+     "iast": "pittam",
+     "en": "pitta",
+     "hi": "पित्त"
+    },
+    {
+     "sa": "शमम् अभ्येति",
+     "iast": "śamam abhyeti",
+     "en": "becomes pacified",
+     "hi": "शांत होता है"
+    },
+    {
+     "sa": "पक्वाच्छीकृतपिण्डितम्",
+     "iast": "pakvācchī-kṛta-piṇḍitam",
+     "en": "being digested, clarified and consolidated",
+     "hi": "पका, स्वच्छ और संगठित होकर"
+    },
+    {
+     "sa": "कटुः",
+     "iast": "kaṭuḥ",
+     "en": "pungent",
+     "hi": "कटु"
+    },
+    {
+     "sa": "श्लेष्मा",
+     "iast": "śleṣmā",
+     "en": "kapha",
+     "hi": "कफ"
+    },
+    {
+     "sa": "यौगिकत्वेन",
+     "iast": "yaugikatvena",
+     "en": "by way of combination",
+     "hi": "संयोग के अनुसार"
+    },
+    {
+     "sa": "यथास्थूलम्",
+     "iast": "yathā-sthūlam",
+     "en": "broadly",
+     "hi": "मोटे तौर पर"
+    },
+    {
+     "sa": "विभज्यते",
+     "iast": "vibhajyate",
+     "en": "is divided",
+     "hi": "बाँटा जाता है"
+    },
+    {
+     "sa": "एकैकहीनाः",
+     "iast": "ekaika-hīnāḥ",
+     "en": "each one less",
+     "hi": "एक-एक कम होते हुए"
+    },
+    {
+     "sa": "पञ्चदश",
+     "iast": "pañca-daśa",
+     "en": "fifteen",
+     "hi": "पंद्रह"
+    },
+    {
+     "sa": "द्विके",
+     "iast": "dvike",
+     "en": "in pairs",
+     "hi": "दो-दो के संयोग में"
+    }
+   ],
+   "english": "For unassociated (pure) vāta, salty, sour and sweet should be given in that order, for its digestion, pacification and normal movement. For pitta, bitter is prescribed first, sweet afterwards and astringent at the end; by these pitta is digested, clarified and consolidated, and so pacified. For kapha, pungent first, bitter afterwards and astringent at the end; by these kapha is digested, clarified and consolidated, and so pacified. The tastes are broadly divided according to their combinations: taken in pairs, with each successive taste having one partner less, they make fifteen.",
+   "hindi": "केवल (दूसरे दोष से न जुड़े) वात के लिए क्रम से लवण, अम्ल और मधुर देने चाहिए, जिससे उसका पाक, शमन और सही गति हो। पित्त के लिए पहले तिक्त, फिर मधुर और अंत में कषाय दिया जाता है; इनसे पित्त पककर, स्वच्छ और संगठित होकर शांत होता है। कफ के लिए पहले कटु, फिर तिक्त और अंत में कषाय; इनसे कफ पककर, स्वच्छ और संगठित होकर शांत होता है। रसों का मोटे तौर पर संयोग के अनुसार विभाजन होता है: दो-दो के संयोग में, हर अगला रस एक साथी कम लेता है, और कुल पंद्रह बनते हैं।",
+   "explanation_en": "This corpus verse includes three extra verses (39.1+1 to +3) giving a therapeutic sequence of tastes for each doṣa (vāta: lavaṇa → amla → madhura; pitta: tikta → madhura → kaṣāya; kapha: kaṭu → tikta → kaṣāya), followed by verse 40 starting the arithmetic of combinations. The sequence for doṣas is less commonly examined; the count of 15 pairs is commonly asked.",
+   "explanation_hi": "यह श्लोक तीन अतिरिक्त श्लोक (39.1+1 से +3) शामिल करता है, जो हर दोष के लिए रसों का चिकित्सा क्रम देते हैं (वात: लवण → अम्ल → मधुर; पित्त: तिक्त → मधुर → कषाय; कफ: कटु → तिक्त → कषाय), फिर श्लोक 40 से संयोगों की गणना शुरू होती है। दोष क्रम कम पूछा जाता है; 15 द्विक संयोग अक्सर पूछे जाते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "rasa-saṃyoga",
+    "dvika",
+    "doṣa-śamana-krama"
+   ],
+   "tags": [
+    "rasa",
+    "rasa-combinations"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.10.41",
+   "word_meanings": [
+    {
+     "sa": "स्वादुः",
+     "iast": "svāduḥ",
+     "en": "sweet",
+     "hi": "मधुर"
+    },
+    {
+     "sa": "द्विकेषु",
+     "iast": "dvikeṣu",
+     "en": "among pairs",
+     "hi": "दो-दो के संयोग में"
+    },
+    {
+     "sa": "पञ्च",
+     "iast": "pañca",
+     "en": "five",
+     "hi": "पाँच"
+    },
+    {
+     "sa": "अम्लः",
+     "iast": "amlaḥ",
+     "en": "sour",
+     "hi": "अम्ल"
+    },
+    {
+     "sa": "चतुरः",
+     "iast": "caturaḥ",
+     "en": "four",
+     "hi": "चार"
+    },
+    {
+     "sa": "लवणः",
+     "iast": "lavaṇaḥ",
+     "en": "salty",
+     "hi": "लवण"
+    },
+    {
+     "sa": "त्रयम्",
+     "iast": "trayam",
+     "en": "three",
+     "hi": "तीन"
+    },
+    {
+     "sa": "द्वौ",
+     "iast": "dvau",
+     "en": "two",
+     "hi": "दो"
+    },
+    {
+     "sa": "तिक्तः",
+     "iast": "tiktaḥ",
+     "en": "bitter",
+     "hi": "तिक्त"
+    },
+    {
+     "sa": "कटुकः",
+     "iast": "kaṭukaḥ",
+     "en": "pungent",
+     "hi": "कटु"
+    },
+    {
+     "sa": "एकम्",
+     "iast": "ekam",
+     "en": "one",
+     "hi": "एक"
+    },
+    {
+     "sa": "याति",
+     "iast": "yāti",
+     "en": "goes to (forms)",
+     "hi": "बनाता है"
+    },
+    {
+     "sa": "पञ्चदश",
+     "iast": "pañca-daśa",
+     "en": "fifteen",
+     "hi": "पंद्रह"
+    },
+    {
+     "sa": "त्रिके",
+     "iast": "trike",
+     "en": "among triads",
+     "hi": "तीन-तीन के संयोग में"
+    },
+    {
+     "sa": "दश",
+     "iast": "daśa",
+     "en": "ten",
+     "hi": "दस"
+    },
+    {
+     "sa": "षट्",
+     "iast": "ṣaṭ",
+     "en": "six",
+     "hi": "छह"
+    },
+    {
+     "sa": "त्रीन्",
+     "iast": "trīn",
+     "en": "three",
+     "hi": "तीन"
+    },
+    {
+     "sa": "पटुः",
+     "iast": "paṭuḥ",
+     "en": "salty",
+     "hi": "लवण"
+    },
+    {
+     "sa": "एककम्",
+     "iast": "ekakam",
+     "en": "one",
+     "hi": "एक"
+    },
+    {
+     "sa": "चतुष्केषु",
+     "iast": "catuṣkeṣu",
+     "en": "among tetrads",
+     "hi": "चार-चार के संयोग में"
+    },
+    {
+     "sa": "सकृत्",
+     "iast": "sakṛt",
+     "en": "once",
+     "hi": "एक बार"
+    }
+   ],
+   "english": "Among pairs, sweet forms five, sour four, salty three, bitter two and pungent one, thus fifteen. Among triads, sweet forms ten, sour six, salty three and bitter one (twenty). Among tetrads, sweet forms ten, sour four and salty one (fifteen).",
+   "hindi": "दो-दो के संयोग में मधुर पाँच, अम्ल चार, लवण तीन, तिक्त दो और कटु एक संयोग बनाता है, यानी पंद्रह। तीन-तीन में मधुर दस, अम्ल छह, लवण तीन और तिक्त एक (बीस)। चार-चार में मधुर दस, अम्ल चार और लवण एक (पंद्रह)।",
+   "explanation_en": "This corpus verse joins an extra half-verse (40+1) with verse 41. It is simply the arithmetic of combinations (6C2 = 15, 6C3 = 20, 6C4 = 15), counted by the first taste in the series madhura, amla, lavaṇa, tikta, kaṭu, kaṣāya.",
+   "explanation_hi": "यह श्लोक एक अतिरिक्त आधा श्लोक (40+1) और श्लोक 41 को जोड़ता है। यह केवल संयोगों का गणित है (6C2 = 15, 6C3 = 20, 6C4 = 15), जिसे मधुर, अम्ल, लवण, तिक्त, कटु, कषाय क्रम में पहले रस के अनुसार गिना गया है।",
+   "modern_correlation": {
+    "en": "The counts match the combinatorial formula for choosing r items from six (nCr): 15 pairs, 20 triads and 15 tetrads.",
+    "hi": "ये संख्याएँ छह में से r वस्तुएँ चुनने के संयोजन सूत्र (nCr) से मेल खाती हैं: 15 जोड़े, 20 त्रिक और 15 चतुष्क।"
+   },
+   "key_terms": [
+    "rasa-saṃyoga",
+    "dvika",
+    "trika",
+    "catuṣka"
+   ],
+   "tags": [
+    "rasa",
+    "rasa-combinations"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.10.42",
+   "word_meanings": [
+    {
+     "sa": "पञ्चकेषु",
+     "iast": "pañcakeṣu",
+     "en": "among pentads",
+     "hi": "पाँच-पाँच के संयोग में"
+    },
+    {
+     "sa": "एकम्",
+     "iast": "ekam",
+     "en": "one",
+     "hi": "एक"
+    },
+    {
+     "sa": "एव",
+     "iast": "eva",
+     "en": "only",
+     "hi": "ही"
+    },
+    {
+     "sa": "अम्लः",
+     "iast": "amlaḥ",
+     "en": "sour",
+     "hi": "अम्ल"
+    },
+    {
+     "sa": "मधुरः",
+     "iast": "madhuraḥ",
+     "en": "sweet",
+     "hi": "मधुर"
+    },
+    {
+     "sa": "पञ्च",
+     "iast": "pañca",
+     "en": "five",
+     "hi": "पाँच"
+    },
+    {
+     "sa": "सेवते",
+     "iast": "sevate",
+     "en": "forms",
+     "hi": "बनाता है"
+    },
+    {
+     "sa": "द्रव्यम्",
+     "iast": "dravyam",
+     "en": "substance",
+     "hi": "द्रव्य"
+    },
+    {
+     "sa": "एकम्",
+     "iast": "ekam",
+     "en": "one",
+     "hi": "एक"
+    },
+    {
+     "sa": "षडास्वादम्",
+     "iast": "ṣaḍ-āsvādam",
+     "en": "having six tastes",
+     "hi": "छह स्वाद वाला"
+    },
+    {
+     "sa": "असंयुक्ताः",
+     "iast": "asaṃyuktāḥ",
+     "en": "uncombined",
+     "hi": "असंयुक्त"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "षट्",
+     "iast": "ṣaṭ",
+     "en": "six",
+     "hi": "छह"
+    },
+    {
+     "sa": "रसाः",
+     "iast": "rasāḥ",
+     "en": "tastes",
+     "hi": "रस"
+    }
+   ],
+   "english": "Among pentads, sour forms only one and sweet five. There is one substance with all six tastes, and the six uncombined (single) tastes.",
+   "hindi": "पाँच-पाँच के संयोग में अम्ल केवल एक और मधुर पाँच बनाता है (कुल छह)। एक द्रव्य छहों रसों वाला है, और छह रस असंयुक्त (अकेले) हैं।",
+   "explanation_en": "Pentads = 6 (6C5), one six-taste combination (6C6 = 1), and 6 single tastes. Total 15 + 20 + 15 + 6 + 1 + 6 = 63 (summarised in verse 43).",
+   "explanation_hi": "पंचक = 6 (6C5), एक छह-रस संयोग (6C6 = 1), और 6 अकेले रस। कुल 15 + 20 + 15 + 6 + 1 + 6 = 63 (श्लोक 43 में सारांश)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "rasa-saṃyoga",
+    "pañcaka",
+    "ṣaḍrasa"
+   ],
+   "tags": [
+    "rasa",
+    "rasa-combinations"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.10.43",
+   "word_meanings": [
+    {
+     "sa": "षट्",
+     "iast": "ṣaṭ",
+     "en": "six",
+     "hi": "छह"
+    },
+    {
+     "sa": "पञ्चकाः",
+     "iast": "pañcakāḥ",
+     "en": "pentads",
+     "hi": "पंचक"
+    },
+    {
+     "sa": "षट्",
+     "iast": "ṣaṭ",
+     "en": "six",
+     "hi": "छह"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "पृथक्",
+     "iast": "pṛthak",
+     "en": "separate",
+     "hi": "अलग-अलग"
+    },
+    {
+     "sa": "रसाः",
+     "iast": "rasāḥ",
+     "en": "tastes",
+     "hi": "रस"
+    },
+    {
+     "sa": "स्युः",
+     "iast": "syuḥ",
+     "en": "are",
+     "hi": "हैं"
+    },
+    {
+     "sa": "चतुर्द्विकौ",
+     "iast": "catur-dvikau",
+     "en": "tetrads and pairs",
+     "hi": "चतुष्क और द्विक"
+    },
+    {
+     "sa": "पञ्चदशप्रकारौ",
+     "iast": "pañca-daśa-prakārau",
+     "en": "of fifteen kinds each",
+     "hi": "पंद्रह-पंद्रह प्रकार के"
+    },
+    {
+     "sa": "भेदाः",
+     "iast": "bhedāḥ",
+     "en": "varieties",
+     "hi": "भेद"
+    },
+    {
+     "sa": "त्रिकाः",
+     "iast": "trikāḥ",
+     "en": "triads",
+     "hi": "त्रिक"
+    },
+    {
+     "sa": "विंशतिः",
+     "iast": "viṃśatiḥ",
+     "en": "twenty",
+     "hi": "बीस"
+    },
+    {
+     "sa": "एकम्",
+     "iast": "ekam",
+     "en": "one",
+     "hi": "एक"
+    },
+    {
+     "sa": "एव",
+     "iast": "eva",
+     "en": "only",
+     "hi": "ही"
+    },
+    {
+     "sa": "द्रव्यम्",
+     "iast": "dravyam",
+     "en": "substance",
+     "hi": "द्रव्य"
+    },
+    {
+     "sa": "षडास्वादम्",
+     "iast": "ṣaḍ-āsvādam",
+     "en": "with six tastes",
+     "hi": "छह रसों वाला"
+    },
+    {
+     "sa": "इति",
+     "iast": "iti",
+     "en": "thus",
+     "hi": "इस प्रकार"
+    },
+    {
+     "sa": "त्रिषष्टिः",
+     "iast": "tri-ṣaṣṭiḥ",
+     "en": "sixty-three",
+     "hi": "तिरसठ"
+    }
+   ],
+   "english": "Six pentads and six separate tastes; tetrads and pairs of fifteen kinds each; triads of twenty varieties; and only one substance with all six tastes: thus sixty-three.",
+   "hindi": "छह पंचक और छह अलग-अलग रस; चतुष्क और द्विक पंद्रह-पंद्रह प्रकार के; त्रिक बीस प्रकार के; और केवल एक द्रव्य छहों रसों वाला: इस प्रकार कुल तिरसठ।",
+   "explanation_en": "A summary verse in a different metre, easy to memorise for the 63 rasa-kalpanā. Write it as: 6 + 15 + 20 + 15 + 6 + 1 = 63.",
+   "explanation_hi": "अलग छंद में सारांश श्लोक, 63 रस कल्पनाओं को याद करने में आसान। इसे लिखें: 6 + 15 + 20 + 15 + 6 + 1 = 63।",
+   "modern_correlation": null,
+   "key_terms": [
+    "63-kalpanā",
+    "rasa-saṃyoga"
+   ],
+   "tags": [
+    "rasa",
+    "rasa-combinations"
+   ],
+   "importance": "high",
+   "mnemonic": "6 single + 15 + 20 + 15 + 6 + 1 = 63",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.10.44",
+   "word_meanings": [
+    {
+     "sa": "ते",
+     "iast": "te",
+     "en": "those",
+     "hi": "वे"
+    },
+    {
+     "sa": "रसानुरसतः",
+     "iast": "rasānurasataḥ",
+     "en": "by rasa and anurasa",
+     "hi": "रस और अनुरस के अनुसार"
+    },
+    {
+     "sa": "रसभेदाः",
+     "iast": "rasa-bhedāḥ",
+     "en": "divisions of taste",
+     "hi": "रसों के भेद"
+    },
+    {
+     "sa": "तारतम्यपरिकल्पनया",
+     "iast": "tāratamya-parikalpanayā",
+     "en": "by assessment of gradations of degree",
+     "hi": "तारतम्य (कम-अधिक की मात्रा) की कल्पना से"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "संभवन्ति",
+     "iast": "saṃbhavanti",
+     "en": "become",
+     "hi": "हो जाते हैं"
+    },
+    {
+     "sa": "गणनाम्",
+     "iast": "gaṇanām",
+     "en": "counting",
+     "hi": "गिनती"
+    },
+    {
+     "sa": "समतीताः",
+     "iast": "samatītāḥ",
+     "en": "beyond",
+     "hi": "से परे"
+    },
+    {
+     "sa": "दोषभेषजवशात्",
+     "iast": "doṣa-bheṣaja-vaśāt",
+     "en": "according to doṣa and medicine",
+     "hi": "दोष और औषधि के अनुसार"
+    },
+    {
+     "sa": "उपयोज्याः",
+     "iast": "upayojyāḥ",
+     "en": "should be employed",
+     "hi": "प्रयोग करने चाहिए"
+    }
+   ],
+   "english": "Those divisions of taste, when further distinguished by rasa and anurasa and by gradations of degree (tāratamya), become countless; they should be employed according to the doṣa (to be treated) and the medicine.",
+   "hindi": "रसों के ये भेद जब रस-अनुरस और तारतम्य (कम-ज़्यादा की मात्रा) के आधार पर और बाँटे जाएँ, तो अनगिनत हो जाते हैं; इन्हें दोष और औषधि के अनुसार प्रयोग करना चाहिए।",
+   "explanation_en": "The closing message: 63 is only a broad count; in reality taste combinations are innumerable because of anurasa and degrees of intensity. The physician must choose by the doṣa and the need, not by memorised numbers.",
+   "explanation_hi": "समापन संदेश: 63 केवल मोटी गिनती है; वास्तव में अनुरस और तीव्रता के अंशों के कारण रस संयोग अनगिनत हैं। वैद्य को दोष और आवश्यकता के अनुसार चुनना चाहिए, केवल याद की गई संख्याओं से नहीं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "anurasa",
+    "tāratamya",
+    "rasa-bheda"
+   ],
+   "tags": [
+    "rasa",
+    "rasa-combinations"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  }
+ ]
+}

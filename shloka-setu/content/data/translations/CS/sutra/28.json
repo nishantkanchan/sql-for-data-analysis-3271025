@@ -1,0 +1,3996 @@
+{
+ "chapter": {
+  "id": "CS.sutra.28",
+  "text": "charaka_samhita",
+  "sthana": "sutra",
+  "chapter": 28,
+  "title_iast": "Vividhāśitapītīya Adhyāya",
+  "title_devanagari": "विविधाशितपीतीयोऽध्यायः",
+  "title_en": "The chapter on the various kinds of food and drink",
+  "title_hi": "विविधाशितपीतीय अध्याय (विविध खाद्य-पेय का अध्याय)",
+  "summary_en": "This chapter explains how food that is eaten, drunk, licked and chewed, when properly digested by agni, nourishes the body and its tissues. Digestion yields two products: the essence (prasāda, called rasa) and the waste (kiṭṭa, mala). The prasāda nourishes the seven dhātus (rasa, rakta, māṃsa, medas, asthi, majjā, śukra) and ojas, while the kiṭṭa nourishes the malas (sweat, faeces, urine, the doṣas and the excretions of the sense orifices) and structures such as hair and nails. Agniveśa asks why some people who eat wholesome food fall ill while some who eat unwholesome food stay well; Ātreya answers that other causes (time, prajñāparādha, unwholesome contact of the senses) also produce disease, and that the effect of unwholesome food depends on the food, the doṣa and the body. The chapter then lists the diseases arising from vitiation of each dhātu and their lines of treatment, describes the movement of doṣas between koṣṭha and śākhā, and contrasts the wise person (parīkṣaka) who chooses what is wholesome with the ordinary person (laukika) who chooses what is pleasant. It is a key chapter for dhātu physiology, dhātu-pradoṣaja vikāras and the doṣa-gati concept.",
+  "summary_hi": "यह अध्याय बताता है कि खाया, पिया, चाटा और चबाया गया आहार जब अग्नि द्वारा ठीक से पचता है तो शरीर और धातुओं का पोषण करता है। पाचन से दो भाग बनते हैं: प्रसाद (सार, जिसे रस कहते हैं) और किट्ट (मल)। प्रसाद से सात धातुएँ (रस, रक्त, मांस, मेद, अस्थि, मज्जा, शुक्र) और ओज पुष्ट होते हैं, और किट्ट से मल (स्वेद, पुरीष, मूत्र, दोष, इन्द्रिय-छिद्रों के मल) तथा केश, नख आदि अवयव पुष्ट होते हैं। अग्निवेश पूछते हैं कि हितकर आहार खाने वाले भी रोगी और अहितकर खाने वाले भी स्वस्थ क्यों दिखते हैं; आत्रेय उत्तर देते हैं कि काल-विपर्यय, प्रज्ञापराध और असात्म्य इन्द्रियार्थ-संयोग भी रोग के कारण हैं, और अहित आहार का प्रभाव आहार, दोष और शरीर पर निर्भर है। फिर प्रत्येक धातु की दुष्टि से होने वाले रोग और उनकी चिकित्सा, कोष्ठ और शाखा के बीच दोषों की गति, और हितकर चुनने वाले परीक्षक तथा प्रिय चुनने वाले लौकिक व्यक्ति का अन्तर बताया गया है। धातु-शरीरक्रिया, धातुप्रदोषज विकार और दोषगति के लिए यह मुख्य अध्याय है।",
+  "key_concepts": [
+   "āhāra pariṇāma (prasāda and kiṭṭa)",
+   "dhātu poṣaṇa",
+   "mala formation",
+   "dhātupradoṣaja vikāra",
+   "nija and other causes of disease (kālaviparyaya, prajñāparādha, asātmyendriyārtha)",
+   "vyādhikṣamatva",
+   "koṣṭha-śākhā doṣa gati",
+   "parīkṣaka vs laukika"
+  ],
+  "exam_focus_en": [
+   "Products of digestion: āhāra-prasāda (rasa) nourishes dhātus and ojas; kiṭṭa nourishes malas, hair, nails etc. (Su 28.3-4).",
+   "'Dhātavo hi dhātvāhārāḥ' and 'deho hy āhārasaṃbhavaḥ' - the body is made of food (Su 28.3, 28.41).",
+   "Dhātupradoṣaja vikāras: rasa (aśraddhā, aruci, jvara, pāṇḍu...), rakta (kuṣṭha, visarpa, raktapitta, kāmalā...), māṃsa (arbuda, galaśālūka...), medas (prameha pūrvarūpa), asthi, majjā, śukra (Su 28.9-19) - very frequently asked.",
+   "Lines of treatment for each dhātu disorder (Su 28.25-28): laṅghana for rasaja, saṃśodhana/śastra for māṃsaja, tikta kṣīra-sarpis and basti for asthija, etc.",
+   "Causes of movement of doṣas from koṣṭha to śākhā (vyāyāma, ūṣmā, ahita, vāyu) and back (vṛddhi, viṣyandana, pāka, srotomukha-viśodhana, vāyu-nigraha) (Su 28.31-33).",
+   "Vyādhikṣamatva (immunity): factors making bodies avyādhisaha (Su 28.7); parīkṣaka vs laukika and prajñāparādha (Su 28.36-41)."
+  ],
+  "exam_focus_hi": [
+   "पाचन के परिणाम: आहार-प्रसाद (रस) धातुओं और ओज का पोषण करता है; किट्ट मल, केश, नख आदि का पोषण करता है (सू. 28.3-4)।",
+   "'धातवो हि धात्वाहाराः' और 'देहो ह्याहारसंभवः' - शरीर आहार से बना है (सू. 28.3, 28.41)।",
+   "धातुप्रदोषज विकार: रस (अश्रद्धा, अरुचि, ज्वर, पाण्डु...), रक्त (कुष्ठ, विसर्प, रक्तपित्त, कामला...), मांस (अर्बुद, गलशालूक...), मेद (प्रमेह पूर्वरूप), अस्थि, मज्जा, शुक्र (सू. 28.9-19) - बहुत पूछे जाते हैं।",
+   "प्रत्येक धातु-विकार की चिकित्सा (सू. 28.25-28): रसज में लंघन, मांसज में संशोधन/शस्त्र, अस्थिज में तिक्त क्षीर-सर्पि और बस्ति आदि।",
+   "दोषों के कोष्ठ से शाखा में जाने के कारण (व्यायाम, ऊष्मा, अहित, वायु) और शाखा से कोष्ठ में आने के कारण (वृद्धि, विष्यन्दन, पाक, स्रोतोमुख-विशोधन, वायु-निग्रह) (सू. 28.31-33)।",
+   "व्याधिक्षमत्व: अव्याधिसह शरीर के लक्षण (सू. 28.7); परीक्षक बनाम लौकिक और प्रज्ञापराध (सू. 28.36-41)।"
+  ],
+  "syllabus_refs": [
+   "AyUG-SA2"
+  ],
+  "review_status": "ai_draft"
+ },
+ "verses": [
+  {
+   "id": "CS.sutra.28.1",
+   "word_meanings": [
+    {
+     "sa": "अथ",
+     "iast": "atha",
+     "en": "now",
+     "hi": "अब"
+    },
+    {
+     "sa": "अतः",
+     "iast": "ataḥ",
+     "en": "therefore",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "विविधाशितपीतीयम्",
+     "iast": "vividhāśitapītīyam",
+     "en": "named 'Vividhāśitapītīya' (on various foods and drinks)",
+     "hi": "विविधाशितपीतीय नामक"
+    },
+    {
+     "sa": "अध्यायम्",
+     "iast": "adhyāyam",
+     "en": "chapter",
+     "hi": "अध्याय की"
+    },
+    {
+     "sa": "व्याख्यास्यामः",
+     "iast": "vyākhyāsyāmaḥ",
+     "en": "we shall explain",
+     "hi": "व्याख्या करेंगे"
+    }
+   ],
+   "english": "Now we shall explain the chapter named Vividhāśitapītīya, 'on the various kinds of food eaten and drunk'.",
+   "hindi": "अब हम 'विविधाशितपीतीय' (विविध खाए-पिए आहार संबंधी) नामक अध्याय की व्याख्या करेंगे।",
+   "explanation_en": "Standard opening. The chapter name comes from its first words 'vividham aśitaṃ pītam'. It follows Su 27 (Annapānavidhi), which listed foods; this chapter explains what happens to food in the body and how it nourishes or harms.",
+   "explanation_hi": "मानक आरम्भ। अध्याय का नाम पहले शब्दों 'विविधमशितं पीतम्' से है। यह सू. 27 (अन्नपानविधि) के बाद आता है जिसमें आहार-द्रव्यों की सूची थी; यह अध्याय बताता है कि आहार शरीर में जाकर क्या करता है और कैसे पोषण या हानि करता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "āhāra"
+   ],
+   "tags": [
+    "chapter-opening"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.2",
+   "word_meanings": [
+    {
+     "sa": "इति",
+     "iast": "iti",
+     "en": "thus",
+     "hi": "इस प्रकार"
+    },
+    {
+     "sa": "ह स्म आह",
+     "iast": "ha sma āha",
+     "en": "indeed said",
+     "hi": "कहा"
+    },
+    {
+     "sa": "भगवान्",
+     "iast": "bhagavān",
+     "en": "the revered",
+     "hi": "भगवान"
+    },
+    {
+     "sa": "आत्रेयः",
+     "iast": "ātreyaḥ",
+     "en": "Ātreya",
+     "hi": "आत्रेय ने"
+    }
+   ],
+   "english": "Thus said the revered Ātreya.",
+   "hindi": "ऐसा भगवान आत्रेय ने कहा।",
+   "explanation_en": "Standard attribution to Punarvasu Ātreya.",
+   "explanation_hi": "पुनर्वसु आत्रेय को उपदेश का श्रेय देने वाली मानक पंक्ति।",
+   "modern_correlation": null,
+   "key_terms": [
+    "Ātreya"
+   ],
+   "tags": [
+    "chapter-opening"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.3",
+   "word_meanings": [
+    {
+     "sa": "विविधम्",
+     "iast": "vividham",
+     "en": "various",
+     "hi": "विविध"
+    },
+    {
+     "sa": "अशितम्",
+     "iast": "aśitam",
+     "en": "eaten",
+     "hi": "खाया हुआ (अशित)"
+    },
+    {
+     "sa": "पीतम्",
+     "iast": "pītam",
+     "en": "drunk",
+     "hi": "पिया हुआ"
+    },
+    {
+     "sa": "लीढम्",
+     "iast": "līḍham",
+     "en": "licked",
+     "hi": "चाटा हुआ"
+    },
+    {
+     "sa": "खादितम्",
+     "iast": "khāditam",
+     "en": "chewed",
+     "hi": "चबाया हुआ"
+    },
+    {
+     "sa": "जन्तोः",
+     "iast": "jantoḥ",
+     "en": "of a living being",
+     "hi": "प्राणी के लिए"
+    },
+    {
+     "sa": "हितम्",
+     "iast": "hitam",
+     "en": "wholesome",
+     "hi": "हितकर"
+    },
+    {
+     "sa": "अन्तरग्नि",
+     "iast": "antaragni",
+     "en": "internal fire, digestive fire",
+     "hi": "अन्तराग्नि (जठराग्नि)"
+    },
+    {
+     "sa": "संधुक्षितबलेन",
+     "iast": "saṃdhukṣitabalena",
+     "en": "whose strength is kindled (by it)",
+     "hi": "जिसके बल से प्रदीप्त"
+    },
+    {
+     "sa": "यथास्वेन ऊष्मणा",
+     "iast": "yathāsvena ūṣmaṇā",
+     "en": "by the respective heat (of each dhātu)",
+     "hi": "अपनी-अपनी ऊष्मा (धात्वग्नि) से"
+    },
+    {
+     "sa": "सम्यक् विपच्यमानम्",
+     "iast": "samyak vipacyamānam",
+     "en": "being properly digested",
+     "hi": "ठीक से पचता हुआ"
+    },
+    {
+     "sa": "कालवत्",
+     "iast": "kālavat",
+     "en": "at the right time, regularly",
+     "hi": "यथासमय"
+    },
+    {
+     "sa": "अनवस्थितसर्वधातुपाकम्",
+     "iast": "anavasthita-sarvadhātu-pākam",
+     "en": "allowing continuous metabolism of all dhātus",
+     "hi": "सब धातुओं का निरन्तर पाक कराता हुआ"
+    },
+    {
+     "sa": "अनुपहत",
+     "iast": "anupahata",
+     "en": "unimpaired",
+     "hi": "अविकृत"
+    },
+    {
+     "sa": "सर्वधातुऊष्ममारुतस्रोतः",
+     "iast": "sarvadhātu-ūṣma-māruta-srotaḥ",
+     "en": "the heat, vāyu and channels of all dhātus",
+     "hi": "सब धातुओं की ऊष्मा, वायु और स्रोतस्"
+    },
+    {
+     "sa": "केवलम् शरीरम्",
+     "iast": "kevalam śarīram",
+     "en": "the whole body",
+     "hi": "सम्पूर्ण शरीर को"
+    },
+    {
+     "sa": "उपचय",
+     "iast": "upacaya",
+     "en": "growth, bulk",
+     "hi": "पुष्टि"
+    },
+    {
+     "sa": "बल",
+     "iast": "bala",
+     "en": "strength",
+     "hi": "बल"
+    },
+    {
+     "sa": "वर्ण",
+     "iast": "varṇa",
+     "en": "complexion",
+     "hi": "वर्ण"
+    },
+    {
+     "sa": "सुख",
+     "iast": "sukha",
+     "en": "happiness",
+     "hi": "सुख"
+    },
+    {
+     "sa": "आयुषा",
+     "iast": "āyuṣā",
+     "en": "with life",
+     "hi": "आयु से"
+    },
+    {
+     "sa": "योजयति",
+     "iast": "yojayati",
+     "en": "endows",
+     "hi": "युक्त करता है"
+    },
+    {
+     "sa": "शरीरधातून्",
+     "iast": "śarīradhātūn",
+     "en": "the body tissues",
+     "hi": "शरीर की धातुओं को"
+    },
+    {
+     "sa": "ऊर्जयति",
+     "iast": "ūrjayati",
+     "en": "invigorates",
+     "hi": "बल देता है"
+    },
+    {
+     "sa": "धातवः हि धात्वाहाराः",
+     "iast": "dhātavaḥ hi dhātvāhārāḥ",
+     "en": "for the dhātus have dhātus (food-derived elements) as their nourishment",
+     "hi": "क्योंकि धातुओं का आहार धातु ही हैं"
+    },
+    {
+     "sa": "प्रकृतिम् अनुवर्तन्ते",
+     "iast": "prakṛtim anuvartante",
+     "en": "maintain their normal state",
+     "hi": "अपनी प्रकृति (सम अवस्था) में रहते हैं"
+    }
+   ],
+   "english": "Various kinds of wholesome food, eaten, drunk, licked or chewed, when properly digested by the respective heat (of each dhātu) whose strength is kindled by the internal (digestive) fire, regularly bring about the continuous metabolism of all the dhātus, keep unimpaired the heat, vāyu and channels of all the dhātus, endow the whole body with growth, strength, complexion, happiness and long life, and invigorate the body tissues. For the dhātus, being nourished by (food-derived) dhātus, maintain their normal state.",
+   "hindi": "विविध प्रकार का हितकर आहार, जो खाया, पिया, चाटा या चबाया जाता है, जब अन्तराग्नि (जठराग्नि) से बल पाकर प्रत्येक धातु की अपनी ऊष्मा (धात्वग्नि) द्वारा ठीक से पचता है, तब वह यथासमय सब धातुओं का निरन्तर पाक कराता है, सब धातुओं की ऊष्मा, वायु और स्रोतों को अविकृत रखता है, पूरे शरीर को पुष्टि, बल, वर्ण, सुख और आयु से युक्त करता है और धातुओं को ऊर्जा देता है। क्योंकि आहार से बनी धातुओं से पोषित होकर ही धातुएँ अपनी सम अवस्था में रहती हैं।",
+   "explanation_en": "This prose passage gives the core physiology of nutrition. Four ways of taking food are named (aśita, pīta, līḍha, khādita), which are the four 'āhāra-kalpanā' types. Digestion happens at two levels: the central digestive fire (antaragni/jāṭharāgni) kindles the dhātvagnis ('yathāsvena ūṣmaṇā') in each tissue. Healthy digestion keeps the channels (srotas), heat and vāyu of the tissues intact. 'Dhātavo hi dhātvāhārāḥ' means the tissues are nourished by nutrient material of the same kind derived from food. Learn this passage for questions on āhāra-pariṇāma and dhātu-poṣaṇa.",
+   "explanation_hi": "यह गद्य भाग पोषण की मूल शरीरक्रिया बताता है। आहार लेने के चार तरीके बताए गए हैं (अशित, पीत, लीढ, खादित)। पाचन दो स्तरों पर होता है: केन्द्रीय जठराग्नि (अन्तराग्नि) प्रत्येक धातु की धात्वग्नि ('यथास्वेनोष्मणा') को बल देती है। स्वस्थ पाचन धातुओं के स्रोतों, ऊष्मा और वायु को ठीक रखता है। 'धातवो हि धात्वाहाराः' का अर्थ है कि धातुएँ आहार से बने अपने समान पोषक अंश से पुष्ट होती हैं। आहार-परिणाम और धातु-पोषण के प्रश्नों के लिए यह अंश याद करें।",
+   "modern_correlation": {
+    "en": "The two-level model (a central digestive fire and tissue-level 'fires') is often compared with digestion in the gut followed by cellular metabolism in the tissues, where absorbed nutrients are used for energy and building tissue. The parallel is broad and should not be read as a one-to-one mapping of dhātvagni onto specific enzymes.",
+    "hi": "दो-स्तरीय मॉडल (केन्द्रीय जठराग्नि और ऊतक-स्तर की 'अग्नियाँ') की तुलना प्रायः आँत में पाचन और फिर ऊतकों में सेलुलर मेटाबॉलिज़्म से की जाती है, जहाँ अवशोषित पोषक तत्त्व ऊर्जा और ऊतक-निर्माण में प्रयुक्त होते हैं। यह व्यापक समानता है; धात्वग्नि को किसी विशेष एंजाइम के बराबर नहीं मानना चाहिए।"
+   },
+   "key_terms": [
+    "aśita",
+    "pīta",
+    "līḍha",
+    "khādita",
+    "antaragni",
+    "dhātvagni",
+    "dhātupāka",
+    "srotas"
+   ],
+   "tags": [
+    "ahara",
+    "dhatu",
+    "physiology",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "4 ways of eating: Aśita (eaten), Pīta (drunk), Līḍha (licked), Khādita (chewed)",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.4",
+   "word_meanings": [
+    {
+     "sa": "तत्र",
+     "iast": "tatra",
+     "en": "there (in digestion)",
+     "hi": "वहाँ (पाचन में)"
+    },
+    {
+     "sa": "आहारप्रसादाख्यः रसः",
+     "iast": "āhāraprasādākhyaḥ rasaḥ",
+     "en": "the essence of food called rasa",
+     "hi": "आहार-प्रसाद नामक रस"
+    },
+    {
+     "sa": "किट्टम् च मलाख्यम्",
+     "iast": "kiṭṭam ca malākhyam",
+     "en": "and the residue called mala",
+     "hi": "और मल नामक किट्ट"
+    },
+    {
+     "sa": "अभिनिर्वर्तते",
+     "iast": "abhinirvartate",
+     "en": "is produced",
+     "hi": "बनता है"
+    },
+    {
+     "sa": "किट्टात्",
+     "iast": "kiṭṭāt",
+     "en": "from the residue",
+     "hi": "किट्ट से"
+    },
+    {
+     "sa": "स्वेद",
+     "iast": "sveda",
+     "en": "sweat",
+     "hi": "स्वेद (पसीना)"
+    },
+    {
+     "sa": "पुरीष",
+     "iast": "purīṣa",
+     "en": "faeces",
+     "hi": "पुरीष (मल)"
+    },
+    {
+     "sa": "वातपित्तश्लेष्माणः",
+     "iast": "vāta-pitta-śleṣmāṇaḥ",
+     "en": "vāta, pitta and kapha",
+     "hi": "वात, पित्त, कफ"
+    },
+    {
+     "sa": "कर्णअक्षिनासिकाआस्यलोमकूपप्रजननमलाः",
+     "iast": "karṇa-akṣi-nāsikā-āsya-lomakūpa-prajanana-malāḥ",
+     "en": "excretions of ears, eyes, nose, mouth, hair follicles and genitals",
+     "hi": "कान, आँख, नाक, मुँह, रोमकूप और जननेन्द्रिय के मल"
+    },
+    {
+     "sa": "केशश्मश्रुलोमनख",
+     "iast": "keśa-śmaśru-loma-nakha",
+     "en": "hair of head, beard, body hair, nails",
+     "hi": "केश, दाढ़ी-मूँछ, रोम, नख"
+    },
+    {
+     "sa": "पुष्यन्ति",
+     "iast": "puṣyanti",
+     "en": "are nourished",
+     "hi": "पुष्ट होते हैं"
+    },
+    {
+     "sa": "आहाररसात्",
+     "iast": "āhārarasāt",
+     "en": "from the essence of food",
+     "hi": "आहार-रस से"
+    },
+    {
+     "sa": "रसरुधिरमांसमेदोअस्थिमज्जशुक्रओजांसि",
+     "iast": "rasa-rudhira-māṃsa-medo-asthi-majja-śukra-ojāṃsi",
+     "en": "rasa, blood, muscle, fat, bone, marrow, semen and ojas",
+     "hi": "रस, रक्त, मांस, मेद, अस्थि, मज्जा, शुक्र और ओज"
+    },
+    {
+     "sa": "पञ्चेन्द्रियद्रव्याणि",
+     "iast": "pañcendriyadravyāṇi",
+     "en": "the material of the five senses",
+     "hi": "पाँचों इन्द्रियों के द्रव्य"
+    },
+    {
+     "sa": "धातुप्रसादसंज्ञकानि",
+     "iast": "dhātuprasādasaṃjñakāni",
+     "en": "called the essence-dhātus",
+     "hi": "धातु-प्रसाद कहलाने वाले"
+    },
+    {
+     "sa": "शरीरसंधिबन्धपिच्छ",
+     "iast": "śarīra-saṃdhi-bandha-piccha",
+     "en": "body joints, ligaments, slimy fluids",
+     "hi": "शरीर की सन्धियाँ, बन्धन, पिच्छा (स्नेहक द्रव)"
+    },
+    {
+     "sa": "स्वं मानम् अनुवर्तन्ते",
+     "iast": "svaṃ mānam anuvartante",
+     "en": "maintain their own measure",
+     "hi": "अपने प्रमाण में रहते हैं"
+    },
+    {
+     "sa": "यथावयःशरीरम्",
+     "iast": "yathāvayaḥśarīram",
+     "en": "according to age and body",
+     "hi": "आयु और शरीर के अनुसार"
+    },
+    {
+     "sa": "धातुसाम्यम्",
+     "iast": "dhātusāmyam",
+     "en": "equilibrium of dhātus",
+     "hi": "धातु-साम्य"
+    },
+    {
+     "sa": "क्षीणवृद्धानाम्",
+     "iast": "kṣīṇavṛddhānām",
+     "en": "of decreased and increased",
+     "hi": "क्षीण और वृद्ध"
+    },
+    {
+     "sa": "वृद्धिक्षयाभ्याम्",
+     "iast": "vṛddhikṣayābhyām",
+     "en": "by increase and decrease",
+     "hi": "वृद्धि और क्षय से"
+    },
+    {
+     "sa": "आहारमूलाभ्याम्",
+     "iast": "āhāramūlābhyām",
+     "en": "rooted in food",
+     "hi": "आहार पर आधारित"
+    },
+    {
+     "sa": "साम्यम् उत्पादयति",
+     "iast": "sāmyam utpādayati",
+     "en": "produces equilibrium",
+     "hi": "साम्य उत्पन्न करता है"
+    },
+    {
+     "sa": "स्वमानातिरिक्ताः",
+     "iast": "svamānātiriktāḥ",
+     "en": "exceeding their own measure",
+     "hi": "अपने प्रमाण से अधिक"
+    },
+    {
+     "sa": "उत्सर्गिणः",
+     "iast": "utsargiṇaḥ",
+     "en": "to be eliminated",
+     "hi": "निकालने योग्य"
+    },
+    {
+     "sa": "शीतोष्णपर्यायगुणैः",
+     "iast": "śītoṣṇa-paryāya-guṇaiḥ",
+     "en": "by alternating cold and hot qualities",
+     "hi": "शीत और उष्ण गुणों के क्रमिक प्रयोग से"
+    }
+   ],
+   "english": "In that (digestion), the essence of food called rasa and the residue called mala are produced. From the residue (kiṭṭa) are nourished sweat, faeces, urine, vāta, pitta and kapha, the excretions of the ears, eyes, nose, mouth, hair follicles and genitals, and parts such as the hair of the head, beard, body hair and nails. From the essence of food (āhāra-rasa) are nourished rasa, blood, muscle, fat, bone, marrow, semen and ojas, the material substrate of the five senses, which are called 'essence-dhātus' (dhātu-prasāda), and parts such as the joints, ligaments and lubricating fluids of the body. All these dhātus, whether called mala or prasāda, being nourished by rasa and mala, maintain their proper measure according to age and body. Thus rasa and mala, remaining in their proper quantity, maintain the equilibrium of dhātus in a person whose dhātus are balanced. When for some reason the essence-dhātus become decreased or increased, rasa restores their balance, for health, by food-based increase or decrease; and kiṭṭa does the same for the malas. Malas exceeding their proper measure are to be eliminated; and when treated with alternating cold and hot measures, the malas are seen to help maintain the equilibrium of the body's dhātus.",
+   "hindi": "उस पाचन में आहार-प्रसाद नामक 'रस' और 'मल' नामक किट्ट बनते हैं। किट्ट से स्वेद, पुरीष, मूत्र, वात, पित्त, कफ, कान-आँख-नाक-मुँह-रोमकूप-जननेन्द्रिय के मल, तथा केश, दाढ़ी-मूँछ, रोम, नख आदि अवयव पुष्ट होते हैं। आहार-रस से रस, रक्त, मांस, मेद, अस्थि, मज्जा, शुक्र और ओज, पाँचों इन्द्रियों के द्रव्य (जिन्हें धातु-प्रसाद कहते हैं), और शरीर की सन्धियाँ, बन्धन, पिच्छा आदि अवयव पुष्ट होते हैं। मल और प्रसाद नाम वाली ये सब धातुएँ रस और मल से पोषित होकर आयु और शरीर के अनुसार अपने प्रमाण में रहती हैं। इस प्रकार अपने प्रमाण में स्थित रस और मल सम-धातु वाले व्यक्ति में धातु-साम्य बनाए रखते हैं। किसी कारण से प्रसाद-धातुएँ क्षीण या वृद्ध हो जाएँ तो रस आहार-आधारित वृद्धि या क्षय द्वारा आरोग्य के लिए उनका साम्य फिर स्थापित करता है; और किट्ट मलों के लिए यही करता है। अपने प्रमाण से अधिक बढ़े मलों को निकाल देना चाहिए; और शीत-उष्ण गुणों के क्रमिक उपचार से मल शरीर-धातुओं का साम्य बनाए रखने वाले पाए जाते हैं।",
+   "explanation_en": "This is the classic description of āhāra-pariṇāma (transformation of food). Digestion yields two parts: prasāda (essence) and kiṭṭa (waste). Notice that the three doṣas are listed among the products of kiṭṭa, showing that doṣas in their normal quantity are a natural by-product of metabolism. Prasāda nourishes the seven dhātus plus ojas and the substrate of the senses. Both 'mala-dhātus' and 'prasāda-dhātus' are needed in their proper measure (svamāna); excess malas must be eliminated. This passage is the source for questions like 'enumerate the products of āhāra-rasa and kiṭṭa' and for the concept of dhātu-sāmya.",
+   "explanation_hi": "यह आहार-परिणाम का प्रसिद्ध वर्णन है। पाचन से दो भाग बनते हैं: प्रसाद (सार) और किट्ट (मल)। ध्यान दें कि तीनों दोष किट्ट से बनने वालों में गिने गए हैं, अर्थात् अपनी सामान्य मात्रा में दोष चयापचय के प्राकृतिक उत्पाद हैं। प्रसाद से सात धातुएँ, ओज और इन्द्रियों के द्रव्य पुष्ट होते हैं। 'मल-धातु' और 'प्रसाद-धातु' दोनों अपने प्रमाण (स्वमान) में आवश्यक हैं; अधिक मल को निकालना चाहिए। 'आहार-रस और किट्ट के उत्पाद गिनाइए' जैसे प्रश्नों और धातु-साम्य की अवधारणा का यही स्रोत है।",
+   "modern_correlation": {
+    "en": "The division of digested food into a nutritive part (absorbed nutrients) and a waste part (faeces and other excreta) broadly matches modern physiology of absorption and excretion. The idea that tissue levels are kept within a normal range and that excess waste must be eliminated resembles homeostasis. Listing doṣas and hair as products of kiṭṭa reflects the Ayurvedic framework and has no direct modern equivalent.",
+    "hi": "पचे आहार का पोषक भाग (अवशोषित पोषक तत्त्व) और अपशिष्ट भाग (मल और अन्य उत्सर्जन) में विभाजन आधुनिक अवशोषण और उत्सर्जन की शरीरक्रिया से मोटे तौर पर मेल खाता है। ऊतकों को सामान्य सीमा में रखने और अधिक अपशिष्ट निकालने का विचार होमियोस्टेसिस जैसा है। दोषों और केशों को किट्ट का उत्पाद मानना आयुर्वेदिक ढाँचे की बात है, इसका सीधा आधुनिक समकक्ष नहीं।"
+   },
+   "key_terms": [
+    "āhāra-prasāda",
+    "kiṭṭa",
+    "mala",
+    "saptadhātu",
+    "ojas",
+    "dhātu-sāmya",
+    "svamāna"
+   ],
+   "tags": [
+    "ahara",
+    "dhatu",
+    "mala",
+    "physiology",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Prasāda → 7 dhātus + ojas + indriya; Kiṭṭa → sweat, stool, urine, 3 doṣas, orifice malas, hair, nails",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.5",
+   "word_meanings": [
+    {
+     "sa": "तेषाम्",
+     "iast": "teṣām",
+     "en": "of those",
+     "hi": "उन"
+    },
+    {
+     "sa": "मलप्रसादाख्यानाम् धातूनाम्",
+     "iast": "malaprasādākhyānām dhātūnām",
+     "en": "dhātus called mala and prasāda",
+     "hi": "मल और प्रसाद नामक धातुओं के"
+    },
+    {
+     "sa": "स्रोतांसि",
+     "iast": "srotāṃsi",
+     "en": "channels",
+     "hi": "स्रोतस्"
+    },
+    {
+     "sa": "अयनमुखानि",
+     "iast": "ayanamukhāni",
+     "en": "pathways and openings",
+     "hi": "मार्ग और मुख"
+    },
+    {
+     "sa": "यथाविभागेन",
+     "iast": "yathāvibhāgena",
+     "en": "according to division",
+     "hi": "विभाग के अनुसार"
+    },
+    {
+     "sa": "यथास्वम्",
+     "iast": "yathāsvam",
+     "en": "each its own",
+     "hi": "अपनी-अपनी"
+    },
+    {
+     "sa": "आपूरयन्ति",
+     "iast": "āpūrayanti",
+     "en": "fill, supply",
+     "hi": "भरते हैं, पहुँचाते हैं"
+    },
+    {
+     "sa": "अशितपीतलीढखादितप्रभवम्",
+     "iast": "aśita-pīta-līḍha-khādita-prabhavam",
+     "en": "arising from what is eaten, drunk, licked and chewed",
+     "hi": "खाए, पिए, चाटे और चबाए से उत्पन्न"
+    },
+    {
+     "sa": "व्याधयः",
+     "iast": "vyādhayaḥ",
+     "en": "diseases",
+     "hi": "रोग"
+    },
+    {
+     "sa": "हिताहितोपयोगविशेषाः",
+     "iast": "hitāhitopayogaviśeṣāḥ",
+     "en": "the particular use of wholesome or unwholesome (food)",
+     "hi": "हितकर या अहितकर के सेवन का भेद"
+    },
+    {
+     "sa": "शुभाशुभविशेषकराः",
+     "iast": "śubhāśubhaviśeṣakarāḥ",
+     "en": "cause the difference between good and bad (health)",
+     "hi": "शुभ और अशुभ (स्वास्थ्य-रोग) का भेद करने वाले"
+    }
+   ],
+   "english": "The channels (srotas) are the pathways and openings of these dhātus called mala and prasāda. According to their division, they supply each dhātu with its own (nourishment). Thus this body arises from what is eaten, drunk, licked and chewed; and the diseases in this body also arise from what is eaten, drunk, licked and chewed. The difference between wholesome and unwholesome use (of food) here makes the difference between good and bad (health and disease).",
+   "hindi": "मल और प्रसाद नामक इन धातुओं के मार्ग और मुख स्रोतस् हैं। वे अपने विभाग के अनुसार प्रत्येक धातु को उसका पोषण पहुँचाते हैं। इस प्रकार यह शरीर खाए, पिए, चाटे और चबाए आहार से बना है; और इस शरीर में रोग भी खाए, पिए, चाटे और चबाए आहार से ही होते हैं। यहाँ हितकर और अहितकर सेवन का भेद ही शुभ (स्वास्थ्य) और अशुभ (रोग) का भेद करता है।",
+   "explanation_en": "Two key ideas: (1) srotas are the channels through which each dhātu receives its specific nourishment (detailed in Vi 5); (2) food is the source of both the body and its diseases, so the choice between hita and ahita āhāra decides health or disease. This sets up Agniveśa's objection in the next verse.",
+   "explanation_hi": "दो मुख्य विचार: (1) स्रोतस् वे मार्ग हैं जिनसे प्रत्येक धातु को उसका विशेष पोषण मिलता है (विस्तार वि. 5 में); (2) आहार ही शरीर और रोग दोनों का स्रोत है, इसलिए हित और अहित आहार का चुनाव स्वास्थ्य या रोग तय करता है। इससे अगले श्लोक में अग्निवेश की आपत्ति आती है।",
+   "modern_correlation": {
+    "en": "The view that body tissues are built from diet and that many diseases are diet-related parallels modern nutrition science and the recognised role of diet in conditions such as obesity, type 2 diabetes and cardiovascular disease. Srotas as transport channels are sometimes compared with vascular, lymphatic and cellular transport pathways; this is an interpretive comparison.",
+    "hi": "यह मत कि शरीर के ऊतक आहार से बनते हैं और अनेक रोग आहार से जुड़े हैं, आधुनिक पोषण विज्ञान से मेल खाता है, जो मोटापा, टाइप 2 डायबिटीज़ और हृदय रोगों में आहार की भूमिका मानता है। परिवहन-मार्ग के रूप में स्रोतस् की तुलना कभी-कभी रक्तवाहिका, लसीका और कोशिकीय परिवहन मार्गों से की जाती है; यह व्याख्यात्मक तुलना है।"
+   },
+   "key_terms": [
+    "srotas",
+    "hitāhāra",
+    "ahitāhāra"
+   ],
+   "tags": [
+    "ahara",
+    "srotas",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.6",
+   "word_meanings": [
+    {
+     "sa": "एवंवादिनम्",
+     "iast": "evaṃvādinam",
+     "en": "speaking thus",
+     "hi": "ऐसा कहने वाले"
+    },
+    {
+     "sa": "भगवन्तम् आत्रेयम्",
+     "iast": "bhagavantam ātreyam",
+     "en": "to the revered Ātreya",
+     "hi": "भगवान आत्रेय से"
+    },
+    {
+     "sa": "अग्निवेशः उवाच",
+     "iast": "agniveśaḥ uvāca",
+     "en": "Agniveśa said",
+     "hi": "अग्निवेश ने कहा"
+    },
+    {
+     "sa": "दृश्यन्ते",
+     "iast": "dṛśyante",
+     "en": "are seen",
+     "hi": "देखे जाते हैं"
+    },
+    {
+     "sa": "हितसमाख्यातम्",
+     "iast": "hitasamākhyātam",
+     "en": "known as wholesome",
+     "hi": "हितकर कहे जाने वाले"
+    },
+    {
+     "sa": "आहारम् उपयुञ्जानाः",
+     "iast": "āhāram upayuñjānāḥ",
+     "en": "those consuming food",
+     "hi": "आहार का सेवन करने वाले"
+    },
+    {
+     "sa": "व्याधिमन्तः",
+     "iast": "vyādhimantaḥ",
+     "en": "diseased",
+     "hi": "रोगी"
+    },
+    {
+     "sa": "अगदाः",
+     "iast": "agadāḥ",
+     "en": "healthy",
+     "hi": "निरोग"
+    },
+    {
+     "sa": "अहितसमाख्यातम्",
+     "iast": "ahitasamākhyātam",
+     "en": "known as unwholesome",
+     "hi": "अहितकर कहा जाने वाला"
+    },
+    {
+     "sa": "एवं दृष्टे",
+     "iast": "evaṃ dṛṣṭe",
+     "en": "this being observed",
+     "hi": "ऐसा देखे जाने पर"
+    },
+    {
+     "sa": "कथम्",
+     "iast": "katham",
+     "en": "how",
+     "hi": "कैसे"
+    },
+    {
+     "sa": "उपलभामहे",
+     "iast": "upalabhāmahe",
+     "en": "can we accept",
+     "hi": "मानें"
+    }
+   ],
+   "english": "When the revered Ātreya had spoken thus, Agniveśa said: 'Sir, we see people who eat food known to be wholesome who are diseased, and others who are healthy; likewise among those who eat food known to be unwholesome. This being observed, how can we accept that the difference between health and disease is due to the difference between wholesome and unwholesome food?'",
+   "hindi": "भगवान आत्रेय के ऐसा कहने पर अग्निवेश ने कहा: 'भगवन्, हितकर कहे जाने वाले आहार का सेवन करने वाले लोग भी रोगी और निरोग दोनों दिखते हैं; इसी प्रकार अहितकर आहार लेने वाले भी। ऐसा देखते हुए हम कैसे मानें कि स्वास्थ्य और रोग का भेद हित और अहित आहार के भेद से ही होता है?'",
+   "explanation_en": "Agniveśa raises an empirical objection based on observation: diet alone does not seem to decide health. This kind of question-answer method (praśna-uttara) is typical of Caraka and trains students in critical thinking. The answer in verse 7 is a key passage on multifactorial causation.",
+   "explanation_hi": "अग्निवेश प्रत्यक्ष अनुभव पर आधारित आपत्ति उठाते हैं: केवल आहार स्वास्थ्य तय करता नहीं दिखता। यह प्रश्नोत्तर पद्धति चरक की विशेषता है और विद्यार्थी में तर्कशक्ति विकसित करती है। श्लोक 7 का उत्तर रोग के बहु-कारणीय सिद्धान्त का मुख्य अंश है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "hitāhāra",
+    "praśnottara"
+   ],
+   "tags": [
+    "ahara",
+    "etiology"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.7",
+   "word_meanings": [
+    {
+     "sa": "न",
+     "iast": "na",
+     "en": "not",
+     "hi": "नहीं"
+    },
+    {
+     "sa": "हिताहारोपयोगिनाम्",
+     "iast": "hitāhāropayoginām",
+     "en": "of those using wholesome food",
+     "hi": "हित आहार सेवन करने वालों के"
+    },
+    {
+     "sa": "तन्निमित्ताः",
+     "iast": "tannimittāḥ",
+     "en": "caused by that",
+     "hi": "उसके कारण"
+    },
+    {
+     "sa": "व्याधयः जायन्ते",
+     "iast": "vyādhayaḥ jāyante",
+     "en": "diseases arise",
+     "hi": "रोग होते हैं"
+    },
+    {
+     "sa": "न च केवलम्",
+     "iast": "na ca kevalam",
+     "en": "nor merely",
+     "hi": "और न केवल"
+    },
+    {
+     "sa": "सर्वव्याधिभयम् अतिक्रान्तम्",
+     "iast": "sarvavyādhibhayam atikrāntam",
+     "en": "freedom from fear of all disease",
+     "hi": "सब रोगों के भय से मुक्ति"
+    },
+    {
+     "sa": "अन्याः रोगप्रकृतयः",
+     "iast": "anyāḥ rogaprakṛtayaḥ",
+     "en": "other causes of disease",
+     "hi": "रोग के अन्य कारण"
+    },
+    {
+     "sa": "कालविपर्ययः",
+     "iast": "kālaviparyayaḥ",
+     "en": "abnormality of time/season",
+     "hi": "काल का विपर्यय"
+    },
+    {
+     "sa": "प्रज्ञापराधः",
+     "iast": "prajñāparādhaḥ",
+     "en": "error of judgement, intellectual transgression",
+     "hi": "प्रज्ञापराध"
+    },
+    {
+     "sa": "शब्दस्पर्शरूपरसगन्धाः असात्म्याः",
+     "iast": "śabda-sparśa-rūpa-rasa-gandhāḥ asātmyāḥ",
+     "en": "unwholesome sounds, touches, sights, tastes and smells",
+     "hi": "असात्म्य शब्द, स्पर्श, रूप, रस, गन्ध"
+    },
+    {
+     "sa": "न सद्यः दोषवान् भवति अपचारः",
+     "iast": "na sadyaḥ doṣavān bhavati apacāraḥ",
+     "en": "dietary error does not immediately become harmful",
+     "hi": "अपचार तुरन्त दोषकारक नहीं होता"
+    },
+    {
+     "sa": "न सर्वाणि अपथ्यानि तुल्यदोषाणि",
+     "iast": "na sarvāṇi apathyāni tulyadoṣāṇi",
+     "en": "not all unwholesome things are equally harmful",
+     "hi": "सब अपथ्य समान दोष वाले नहीं"
+    },
+    {
+     "sa": "न सर्वे दोषाः तुल्यबलाः",
+     "iast": "na sarve doṣāḥ tulyabalāḥ",
+     "en": "nor are all doṣas equally strong",
+     "hi": "न सब दोष समान बलवान"
+    },
+    {
+     "sa": "व्याधिक्षमत्वे",
+     "iast": "vyādhikṣamatve",
+     "en": "in resisting disease",
+     "hi": "रोग-प्रतिरोध में"
+    },
+    {
+     "sa": "देशकालसंयोगवीर्यप्रमाणअतियोगात्",
+     "iast": "deśa-kāla-saṃyoga-vīrya-pramāṇa-atiyogāt",
+     "en": "by excess of place, time, combination, potency and quantity",
+     "hi": "देश, काल, संयोग, वीर्य और प्रमाण की अधिकता से"
+    },
+    {
+     "sa": "संसृष्टयोनिः",
+     "iast": "saṃsṛṣṭayoniḥ",
+     "en": "of combined origin",
+     "hi": "संसृष्ट (मिश्रित) कारण वाला"
+    },
+    {
+     "sa": "विरुद्धोपक्रमः",
+     "iast": "viruddhopakramaḥ",
+     "en": "having contradictory treatments",
+     "hi": "विरुद्ध चिकित्सा वाला"
+    },
+    {
+     "sa": "गम्भीरानुगतः",
+     "iast": "gambhīrānugataḥ",
+     "en": "deep-seated",
+     "hi": "गम्भीर धातुओं में गया हुआ"
+    },
+    {
+     "sa": "चिरस्थितः",
+     "iast": "cirasthitaḥ",
+     "en": "chronic",
+     "hi": "पुराना"
+    },
+    {
+     "sa": "प्राणायतनसमुत्थः",
+     "iast": "prāṇāyatanasamutthaḥ",
+     "en": "arising in a vital seat",
+     "hi": "प्राणायतन में उत्पन्न"
+    },
+    {
+     "sa": "मर्मोपघाती",
+     "iast": "marmopaghātī",
+     "en": "injuring vital points",
+     "hi": "मर्म को हानि पहुँचाने वाला"
+    },
+    {
+     "sa": "क्षिप्रकारितमः",
+     "iast": "kṣiprakāritamaḥ",
+     "en": "most rapidly acting",
+     "hi": "अति शीघ्रकारी"
+    },
+    {
+     "sa": "अतिस्थूलानि",
+     "iast": "atisthūlāni",
+     "en": "very obese",
+     "hi": "अति स्थूल"
+    },
+    {
+     "sa": "अतिकृशानि",
+     "iast": "atikṛśāni",
+     "en": "very emaciated",
+     "hi": "अति कृश"
+    },
+    {
+     "sa": "अनिविष्टमांसशोणितअस्थीनि",
+     "iast": "aniviṣṭa-māṃsa-śoṇita-asthīni",
+     "en": "with ill-formed muscle, blood and bone",
+     "hi": "अपुष्ट मांस, रक्त और अस्थि वाले"
+    },
+    {
+     "sa": "दुर्बलानि",
+     "iast": "durbalāni",
+     "en": "weak",
+     "hi": "दुर्बल"
+    },
+    {
+     "sa": "असात्म्याहारोपचितानि",
+     "iast": "asātmyāhāropacitāni",
+     "en": "nourished on unsuitable food",
+     "hi": "असात्म्य आहार से पले"
+    },
+    {
+     "sa": "अल्पाहाराणि",
+     "iast": "alpāhārāṇi",
+     "en": "eating little",
+     "hi": "अल्प आहार करने वाले"
+    },
+    {
+     "sa": "अल्पसत्त्वानि",
+     "iast": "alpasattvāni",
+     "en": "of weak mind",
+     "hi": "अल्प सत्त्व वाले"
+    },
+    {
+     "sa": "अव्याधिसहानि",
+     "iast": "avyādhisahāni",
+     "en": "unable to resist disease",
+     "hi": "रोग सहन न कर पाने वाले"
+    },
+    {
+     "sa": "व्याधिसहानि",
+     "iast": "vyādhisahāni",
+     "en": "able to resist disease",
+     "hi": "रोग सहने में समर्थ"
+    },
+    {
+     "sa": "मृदवः दारुणाः",
+     "iast": "mṛdavaḥ dāruṇāḥ",
+     "en": "mild and severe",
+     "hi": "मृदु और दारुण"
+    },
+    {
+     "sa": "क्षिप्रसमुत्थाः चिरकारिणः",
+     "iast": "kṣiprasamutthāḥ cirakāriṇaḥ",
+     "en": "acute and chronic",
+     "hi": "शीघ्र उत्पन्न और देर से होने वाले"
+    },
+    {
+     "sa": "स्थानविशेषे प्रकुपिताः",
+     "iast": "sthānaviśeṣe prakupitāḥ",
+     "en": "aggravated in particular sites",
+     "hi": "विशेष स्थानों में कुपित"
+    }
+   ],
+   "english": "The revered Ātreya replied: 'Agniveśa, diseases do not arise because of wholesome food in those who take it; but taking wholesome food alone does not free one from the danger of all diseases. For there are other causes of disease besides unwholesome food, namely abnormality of time (kālaviparyaya), intellectual error (prajñāparādha), and unwholesome contact with sounds, touches, sights, tastes and smells. These causes bring harm even to a person who takes food properly; that is why even those who eat wholesome food are seen to be ill. As for those who eat unwholesome food, their dietary error does not immediately become harmful, for certain reasons: not all unwholesome things are equally harmful, not all doṣas are equally strong, and not all bodies are equally capable of resisting disease. The same unwholesome food becomes more harmful through excess related to place, time, combination, potency or quantity. The same doṣa becomes most troublesome and quickest to act when it has a combined origin, needs contradictory treatments, has gone deep, is chronic, arises in a vital seat (prāṇāyatana) or injures a marma. Bodies that are very obese, very emaciated, with ill-formed muscle, blood and bone, weak, nourished on unsuitable food, eating little, or of weak mind, cannot resist disease (avyādhisaha); those of the opposite kind can resist disease. Owing to these differences in unwholesome food, doṣa and body, diseases are mild or severe, acute or chronic. In this way, Agniveśa, vāta, pitta and kapha, aggravated in particular sites, produce particular diseases.'",
+   "hindi": "भगवान आत्रेय ने उत्तर दिया: 'अग्निवेश, हितकर आहार लेने वालों को उस आहार के कारण रोग नहीं होते; पर केवल हितकर आहार लेने से सब रोगों के भय से मुक्ति भी नहीं मिलती। क्योंकि अहित आहार के अतिरिक्त भी रोग के अन्य कारण हैं, जैसे काल-विपर्यय, प्रज्ञापराध, और असात्म्य शब्द, स्पर्श, रूप, रस, गन्ध। ये कारण ठीक आहार लेने वाले व्यक्ति को भी हानि पहुँचाते हैं; इसीलिए हितकर आहार लेने वाले भी रोगी दिखते हैं। अहित आहार लेने वालों का अपचार कुछ कारणों से तुरन्त हानिकारक नहीं होता: सब अपथ्य समान हानिकारक नहीं, सब दोष समान बलवान नहीं, और सब शरीर रोग-प्रतिरोध में समान समर्थ नहीं। वही अपथ्य देश, काल, संयोग, वीर्य या प्रमाण की अधिकता से और अधिक अपथ्य हो जाता है। वही दोष जब मिश्रित कारण वाला, विरुद्ध चिकित्सा वाला, गहरी धातुओं में गया, पुराना, प्राणायतन में उत्पन्न या मर्म को हानि पहुँचाने वाला हो, तो अत्यन्त कष्टदायी और अति शीघ्रकारी हो जाता है। अति स्थूल, अति कृश, अपुष्ट मांस-रक्त-अस्थि वाले, दुर्बल, असात्म्य आहार से पले, अल्पाहारी और अल्प सत्त्व वाले शरीर रोग सहन नहीं कर पाते (अव्याधिसह); इनके विपरीत शरीर रोग सह सकते हैं। अपथ्य आहार, दोष और शरीर के इन भेदों से रोग मृदु या दारुण, शीघ्र या देर से होने वाले होते हैं। इस प्रकार, अग्निवेश, वात, पित्त और कफ विशेष स्थानों में कुपित होकर विशेष रोग उत्पन्न करते हैं।'",
+   "explanation_en": "A very important passage on multifactorial causation and host resistance. (1) Besides diet, three general causes of disease exist: kālaviparyaya (seasonal/time abnormality), prajñāparādha (intellectual error) and asātmya-indriyārtha-saṃyoga (unwholesome sense contact), the trividha hetu of Su 11.43. (2) Unwholesome food does not always cause disease immediately; outcome depends on the strength of the food, the doṣa and the body. (3) The list of avyādhisaha bodies is the classical description of poor vyādhikṣamatva (immunity). (4) Features making a doṣa dangerous (saṃsṛṣṭayoni, viruddhopakrama, gambhīra, cirasthita, prāṇāyatana, marmopaghātī) are useful for prognosis. Common question: 'Describe vyādhikṣamatva and the types of bodies that cannot resist disease.'",
+   "explanation_hi": "रोग के बहु-कारणीय सिद्धान्त और रोग-प्रतिरोध पर यह बहुत महत्त्वपूर्ण अंश है। (1) आहार के अतिरिक्त रोग के तीन सामान्य कारण हैं: काल-विपर्यय, प्रज्ञापराध और असात्म्य-इन्द्रियार्थ-संयोग, जो सू. 11.43 के त्रिविध हेतु हैं। (2) अहित आहार हमेशा तुरन्त रोग नहीं करता; परिणाम आहार, दोष और शरीर के बल पर निर्भर है। (3) अव्याधिसह शरीरों की सूची व्याधिक्षमत्व की कमी का प्रसिद्ध वर्णन है। (4) दोष को खतरनाक बनाने वाले लक्षण (संसृष्टयोनि, विरुद्धोपक्रम, गम्भीर, चिरस्थित, प्राणायतन, मर्मोपघाती) साध्यासाध्यता में उपयोगी हैं। सामान्य प्रश्न: 'व्याधिक्षमत्व और रोग सहन न कर सकने वाले शरीरों का वर्णन कीजिए।'",
+   "modern_correlation": {
+    "en": "The idea that disease results from an interaction of exposure, dose, timing and host susceptibility resembles the modern epidemiological triad (agent, host, environment) and the concept of variable host resistance. Factors listed for avyādhisaha bodies (extreme obesity or underweight, poor nutrition, weakness) are recognised today as associated with poorer resistance to illness. Vyādhikṣamatva is often compared with immunity in a broad sense.",
+    "hi": "यह विचार कि रोग कारक, मात्रा, समय और व्यक्ति की संवेदनशीलता की परस्पर क्रिया से होता है, आधुनिक एपिडेमियोलॉजिकल ट्रायड (एजेंट, होस्ट, पर्यावरण) और अलग-अलग होस्ट-प्रतिरोध की अवधारणा से मिलता है। अव्याधिसह शरीर के कारक (अत्यधिक मोटापा या कम वजन, कुपोषण, दुर्बलता) आज भी कम रोग-प्रतिरोध से जुड़े माने जाते हैं। व्याधिक्षमत्व की तुलना व्यापक अर्थ में इम्युनिटी से की जाती है।"
+   },
+   "key_terms": [
+    "kālaviparyaya",
+    "prajñāparādha",
+    "asātmyendriyārtha saṃyoga",
+    "vyādhikṣamatva",
+    "avyādhisaha",
+    "marma",
+    "prāṇāyatana"
+   ],
+   "tags": [
+    "etiology",
+    "immunity",
+    "exam",
+    "long-answer"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.8",
+   "word_meanings": [
+    {
+     "sa": "तत्र",
+     "iast": "tatra",
+     "en": "there",
+     "hi": "वहाँ"
+    },
+    {
+     "sa": "रसादिषु स्थानेषु",
+     "iast": "rasādiṣu sthāneṣu",
+     "en": "in the sites such as rasa",
+     "hi": "रस आदि स्थानों में"
+    },
+    {
+     "sa": "प्रकुपितानाम् दोषाणाम्",
+     "iast": "prakupitānām doṣāṇām",
+     "en": "of the aggravated doṣas",
+     "hi": "कुपित दोषों के"
+    },
+    {
+     "sa": "यस्मिन् स्थाने",
+     "iast": "yasmin sthāne",
+     "en": "in which site",
+     "hi": "जिस स्थान में"
+    },
+    {
+     "sa": "ये ये व्याधयः",
+     "iast": "ye ye vyādhayaḥ",
+     "en": "whichever diseases",
+     "hi": "जो-जो रोग"
+    },
+    {
+     "sa": "सम्भवन्ति",
+     "iast": "sambhavanti",
+     "en": "arise",
+     "hi": "उत्पन्न होते हैं"
+    },
+    {
+     "sa": "तान् तान्",
+     "iast": "tān tān",
+     "en": "those",
+     "hi": "उन-उन को"
+    },
+    {
+     "sa": "यथावत्",
+     "iast": "yathāvat",
+     "en": "properly",
+     "hi": "यथावत्"
+    },
+    {
+     "sa": "अनुव्याख्यास्यामः",
+     "iast": "anuvyākhyāsyāmaḥ",
+     "en": "we shall explain",
+     "hi": "हम बताएँगे"
+    }
+   ],
+   "english": "Now we shall properly explain which diseases arise in which site when the doṣas are aggravated in the sites beginning with rasa.",
+   "hindi": "अब हम ठीक-ठीक बताएँगे कि रस आदि स्थानों में कुपित दोषों से किस स्थान में कौन-कौन से रोग उत्पन्न होते हैं।",
+   "explanation_en": "This introduces the list of dhātu-pradoṣaja vikāras (diseases due to vitiation of each dhātu) in verses 9-22. The 'sites' (sthāna) here are the dhātus, the sense organs, the snāyu-sirā-kaṇḍarā and the malas. This list is one of the most frequently asked topics in Kriyā Śārīra and Roga Nidāna.",
+   "explanation_hi": "यह श्लोक 9-22 की धातुप्रदोषज विकारों (प्रत्येक धातु की दुष्टि से होने वाले रोग) की सूची का परिचय है। यहाँ 'स्थान' का अर्थ धातुएँ, इन्द्रियाँ, स्नायु-सिरा-कण्डरा और मल हैं। यह सूची क्रिया शारीर और रोग निदान में सबसे अधिक पूछे जाने वाले विषयों में से है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "dhātupradoṣaja vikāra",
+    "sthāna"
+   ],
+   "tags": [
+    "dhatu",
+    "pathology",
+    "exam"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.9",
+   "word_meanings": [
+    {
+     "sa": "अश्रद्धा",
+     "iast": "aśraddhā",
+     "en": "lack of desire for food",
+     "hi": "अश्रद्धा (खाने की इच्छा न होना)"
+    },
+    {
+     "sa": "अरुचिः",
+     "iast": "aruciḥ",
+     "en": "anorexia, distaste",
+     "hi": "अरुचि"
+    },
+    {
+     "sa": "आस्यवैरस्यम्",
+     "iast": "āsyavairasyam",
+     "en": "altered taste in mouth",
+     "hi": "मुख का विरस होना"
+    },
+    {
+     "sa": "अरसज्ञता",
+     "iast": "arasajñatā",
+     "en": "inability to perceive taste",
+     "hi": "स्वाद का ज्ञान न होना"
+    },
+    {
+     "sa": "हृल्लासः",
+     "iast": "hṛllāsaḥ",
+     "en": "nausea",
+     "hi": "हृल्लास (जी मिचलाना)"
+    },
+    {
+     "sa": "गौरवम्",
+     "iast": "gauravam",
+     "en": "heaviness",
+     "hi": "भारीपन"
+    },
+    {
+     "sa": "तन्द्रा",
+     "iast": "tandrā",
+     "en": "drowsiness",
+     "hi": "तन्द्रा"
+    },
+    {
+     "sa": "साङ्गमर्दः",
+     "iast": "sāṅgamardaḥ",
+     "en": "with body ache",
+     "hi": "अंगमर्द सहित"
+    },
+    {
+     "sa": "ज्वरः",
+     "iast": "jvaraḥ",
+     "en": "fever",
+     "hi": "ज्वर"
+    },
+    {
+     "sa": "तमः",
+     "iast": "tamaḥ",
+     "en": "feeling of darkness, fainting",
+     "hi": "तम (आँखों के आगे अँधेरा)"
+    }
+   ],
+   "english": "Lack of desire for food (aśraddhā), anorexia (aruci), bad taste in the mouth, inability to perceive taste, nausea, heaviness, drowsiness, fever with body ache, a feeling of darkness before the eyes,",
+   "hindi": "अश्रद्धा (भोजन की इच्छा न होना), अरुचि, मुख का विरस होना, स्वाद न पहचानना, जी मिचलाना, भारीपन, तन्द्रा, अंगमर्द सहित ज्वर, आँखों के आगे अँधेरा,",
+   "explanation_en": "Verses 9-11a list the rasa-pradoṣaja vikāras (disorders of vitiated rasa dhātu). Many are digestive and systemic symptoms, reflecting rasa's close link with digestion and its circulation throughout the body. Note: aśraddhā is lack of desire to eat although hungry, while aruci is inability to eat even when food is present. Jvara is listed here because Caraka considers fever a disease of rasa.",
+   "explanation_hi": "श्लोक 9-11 का प्रारम्भ रसप्रदोषज विकार बताता है। इनमें कई पाचन और सर्वदैहिक लक्षण हैं, क्योंकि रस धातु पाचन से निकट जुड़ी है और पूरे शरीर में घूमती है। ध्यान दें: अश्रद्धा = भूख होते हुए भी खाने की इच्छा न होना, अरुचि = भोजन सामने हो फिर भी न खा पाना। ज्वर यहाँ इसलिए है क्योंकि चरक ज्वर को रस का रोग मानते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "rasapradoṣaja vikāra",
+    "aśraddhā",
+    "aruci",
+    "jvara"
+   ],
+   "tags": [
+    "dhatu",
+    "rasa",
+    "pathology",
+    "exam",
+    "list"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.10",
+   "word_meanings": [
+    {
+     "sa": "पाण्डुत्वम्",
+     "iast": "pāṇḍutvam",
+     "en": "pallor, anaemia",
+     "hi": "पाण्डुता"
+    },
+    {
+     "sa": "स्रोतसाम् रोधः",
+     "iast": "srotasām rodhaḥ",
+     "en": "obstruction of channels",
+     "hi": "स्रोतों का अवरोध"
+    },
+    {
+     "sa": "क्लैब्यम्",
+     "iast": "klaibyam",
+     "en": "impotence",
+     "hi": "क्लैब्य (नपुंसकता)"
+    },
+    {
+     "sa": "सादः",
+     "iast": "sādaḥ",
+     "en": "fatigue, weakness of limbs",
+     "hi": "अंगों में शिथिलता"
+    },
+    {
+     "sa": "कृशाङ्गता",
+     "iast": "kṛśāṅgatā",
+     "en": "emaciation",
+     "hi": "कृशता"
+    },
+    {
+     "sa": "नाशः अग्नेः",
+     "iast": "nāśaḥ agneḥ",
+     "en": "loss of digestive fire",
+     "hi": "अग्नि का नाश"
+    },
+    {
+     "sa": "अयथाकालम्",
+     "iast": "ayathākālam",
+     "en": "untimely, premature",
+     "hi": "असमय"
+    },
+    {
+     "sa": "वलयः",
+     "iast": "valayaḥ",
+     "en": "wrinkles",
+     "hi": "झुर्रियाँ"
+    },
+    {
+     "sa": "पलितानि",
+     "iast": "palitāni",
+     "en": "grey hair",
+     "hi": "पलित (सफेद बाल)"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    }
+   ],
+   "english": "pallor (pāṇḍu), obstruction of the channels, impotence, fatigue, emaciation, loss of digestive power, and premature wrinkles and greying of hair:",
+   "hindi": "पाण्डुता, स्रोतों में अवरोध, नपुंसकता, अंगों की शिथिलता, कृशता, अग्नि का नाश, असमय झुर्रियाँ और बाल सफेद होना:",
+   "explanation_en": "The rasa-pradoṣaja list continues. Pāṇḍu appears here because rasa is the precursor of rakta. Premature wrinkles and greying show poor nourishment of the later dhātus. A useful exam trick: rasa disorders are 'digestive + nourishment failure' symptoms.",
+   "explanation_hi": "रसप्रदोषज सूची जारी है। पाण्डु यहाँ इसलिए है क्योंकि रस से ही रक्त बनता है। असमय झुर्रियाँ और सफेद बाल आगे की धातुओं के पोषण की कमी दिखाते हैं। परीक्षा टिप: रस विकार = 'पाचन + पोषण की विफलता' वाले लक्षण।",
+   "modern_correlation": {
+    "en": "Several listed features (anorexia, nausea, fatigue, pallor, weight loss) are non-specific signs of systemic illness and malnutrition in modern medicine. Pāṇḍu is often compared with anaemia. Such matches are at the level of clinical features.",
+    "hi": "सूचीबद्ध कई लक्षण (भूख न लगना, जी मिचलाना, थकान, पीलापन, वजन घटना) आधुनिक चिकित्सा में सर्वदैहिक रोग और कुपोषण के अविशिष्ट लक्षण हैं। पाण्डु की तुलना प्रायः एनीमिया से की जाती है। यह मेल केवल लक्षणों के स्तर पर है।"
+   },
+   "key_terms": [
+    "pāṇḍu",
+    "srotorodha",
+    "agnināśa",
+    "palita"
+   ],
+   "tags": [
+    "dhatu",
+    "rasa",
+    "pathology",
+    "exam",
+    "list"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.11",
+   "word_meanings": [
+    {
+     "sa": "रसप्रदोषजाः रोगाः",
+     "iast": "rasapradoṣajāḥ rogāḥ",
+     "en": "diseases from vitiated rasa",
+     "hi": "रस-दुष्टि से होने वाले रोग"
+    },
+    {
+     "sa": "वक्ष्यन्ते",
+     "iast": "vakṣyante",
+     "en": "will be told",
+     "hi": "बताए जाएँगे"
+    },
+    {
+     "sa": "रक्तदोषजाः",
+     "iast": "raktadoṣajāḥ",
+     "en": "those from vitiated blood",
+     "hi": "रक्त-दुष्टि से होने वाले"
+    },
+    {
+     "sa": "कुष्ठ",
+     "iast": "kuṣṭha",
+     "en": "skin disease",
+     "hi": "कुष्ठ (त्वचा रोग)"
+    },
+    {
+     "sa": "वीसर्प",
+     "iast": "vīsarpa",
+     "en": "erysipelas-like spreading inflammation",
+     "hi": "विसर्प"
+    },
+    {
+     "sa": "पिडकाः",
+     "iast": "piḍakāḥ",
+     "en": "pimples, boils",
+     "hi": "पिडका (फुंसियाँ)"
+    },
+    {
+     "sa": "रक्तपित्तम्",
+     "iast": "raktapittam",
+     "en": "bleeding disorder",
+     "hi": "रक्तपित्त"
+    },
+    {
+     "sa": "असृग्दरः",
+     "iast": "asṛgdaraḥ",
+     "en": "menorrhagia",
+     "hi": "असृग्दर (अति रजःस्राव)"
+    }
+   ],
+   "english": "these are the diseases due to vitiation of rasa. Now the diseases due to vitiation of rakta (blood) will be told: kuṣṭha (skin diseases), visarpa (spreading inflammatory lesions), piḍakā (boils), raktapitta (bleeding disorders), asṛgdara (excessive menstrual bleeding),",
+   "hindi": "ये रसप्रदोषज रोग हैं। अब रक्तप्रदोषज रोग बताए जाते हैं: कुष्ठ (त्वचा रोग), विसर्प, पिडका (फुंसियाँ), रक्तपित्त (रक्तस्राव विकार), असृग्दर (अति मासिक स्राव),",
+   "explanation_en": "The rakta-pradoṣaja list begins (continues to verse 13). Notice that most are skin diseases, bleeding disorders and inflammatory conditions, since rakta is closely related to pitta and to the skin. Remember the treatment reference in verse 25: Vidhiśoṇitīya (Su 24).",
+   "explanation_hi": "रक्तप्रदोषज सूची शुरू होती है (श्लोक 13 तक)। अधिकतर त्वचा रोग, रक्तस्राव विकार और शोथ-जन्य रोग हैं, क्योंकि रक्त पित्त और त्वचा से निकट जुड़ा है। चिकित्सा का सन्दर्भ श्लोक 25 में है: विधिशोणितीय अध्याय (सू. 24)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "raktapradoṣaja vikāra",
+    "kuṣṭha",
+    "visarpa",
+    "raktapitta",
+    "asṛgdara"
+   ],
+   "tags": [
+    "dhatu",
+    "rakta",
+    "pathology",
+    "exam",
+    "list"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.12",
+   "word_meanings": [
+    {
+     "sa": "गुदमेढ्रआस्यपाकः",
+     "iast": "guda-meḍhra-āsya-pākaḥ",
+     "en": "inflammation/ulceration of anus, penis and mouth",
+     "hi": "गुदा, लिंग और मुख का पाक"
+    },
+    {
+     "sa": "प्लीहा",
+     "iast": "plīhā",
+     "en": "splenic disorder, splenomegaly",
+     "hi": "प्लीहा रोग"
+    },
+    {
+     "sa": "गुल्मः",
+     "iast": "gulmaḥ",
+     "en": "abdominal lump",
+     "hi": "गुल्म"
+    },
+    {
+     "sa": "विद्रधिः",
+     "iast": "vidradhiḥ",
+     "en": "abscess",
+     "hi": "विद्रधि"
+    },
+    {
+     "sa": "नीलिका",
+     "iast": "nīlikā",
+     "en": "bluish patches",
+     "hi": "नीलिका"
+    },
+    {
+     "sa": "कामला",
+     "iast": "kāmalā",
+     "en": "jaundice",
+     "hi": "कामला"
+    },
+    {
+     "sa": "व्यङ्गः",
+     "iast": "vyaṅgaḥ",
+     "en": "facial pigmentation",
+     "hi": "व्यंग (झाँई)"
+    },
+    {
+     "sa": "पिप्प्लवः",
+     "iast": "pipplavaḥ",
+     "en": "moles, blemishes",
+     "hi": "पिप्लु (तिल जैसे दाग)"
+    },
+    {
+     "sa": "तिलकालकाः",
+     "iast": "tilakālakāḥ",
+     "en": "black mole-like spots",
+     "hi": "तिलकालक"
+    }
+   ],
+   "english": "inflammation and ulceration of the anus, penis and mouth, spleen enlargement, gulma (abdominal lump), abscess (vidradhi), bluish patches (nīlikā), jaundice (kāmalā), facial pigmentation (vyaṅga), blemishes (piplu), black moles (tilakālaka),",
+   "hindi": "गुदा, लिंग और मुख में पाक (सूजन व घाव), प्लीहा वृद्धि, गुल्म, विद्रधि, नीलिका (नीले दाग), कामला (पीलिया), व्यंग (चेहरे की झाँई), पिप्लु और तिलकालक (काले तिल जैसे दाग),",
+   "explanation_en": "Rakta-pradoṣaja vikāras continue. Plīhā is included because the spleen (with the liver) is the root of raktavaha srotas (Vi 5.8). Kāmalā (jaundice) is a raktaja disease here, linked with pitta. Many pigmentation disorders are listed, reflecting the relation of rakta to complexion.",
+   "explanation_hi": "रक्तप्रदोषज विकार जारी। प्लीहा इसलिए है क्योंकि यकृत और प्लीहा रक्तवह स्रोतस् के मूल हैं (वि. 5.8)। कामला यहाँ रक्तज रोग है, पित्त से जुड़ा। कई वर्ण-विकार दिए गए हैं, क्योंकि रक्त का सम्बन्ध वर्ण से है।",
+   "modern_correlation": {
+    "en": "Jaundice, splenomegaly and pigmentary skin changes are linked in modern medicine with blood and liver disorders (e.g. haemolysis, hepatic disease), which gives a loose parallel to grouping them under rakta. This is a clinical-feature correlation.",
+    "hi": "पीलिया, प्लीहा वृद्धि और त्वचा के वर्ण-परिवर्तन आधुनिक चिकित्सा में रक्त और यकृत विकारों (जैसे हीमोलाइसिस, यकृत रोग) से जुड़े हैं, जिससे इन्हें रक्त के अन्तर्गत रखने की ढीली समानता बनती है। यह लक्षण-स्तर की तुलना है।"
+   },
+   "key_terms": [
+    "plīhā",
+    "gulma",
+    "vidradhi",
+    "kāmalā",
+    "vyaṅga"
+   ],
+   "tags": [
+    "dhatu",
+    "rakta",
+    "pathology",
+    "exam",
+    "list"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.13",
+   "word_meanings": [
+    {
+     "sa": "दद्रुः",
+     "iast": "dadruḥ",
+     "en": "ringworm-like lesion",
+     "hi": "दद्रु"
+    },
+    {
+     "sa": "चर्मदलम्",
+     "iast": "carmadalam",
+     "en": "cracking/peeling of skin",
+     "hi": "चर्मदल"
+    },
+    {
+     "sa": "श्वित्रम्",
+     "iast": "śvitram",
+     "en": "leucoderma, white patches",
+     "hi": "श्वित्र"
+    },
+    {
+     "sa": "पामा",
+     "iast": "pāmā",
+     "en": "scabies-like eruption",
+     "hi": "पामा"
+    },
+    {
+     "sa": "कोठ",
+     "iast": "koṭha",
+     "en": "urticarial rash",
+     "hi": "कोठ"
+    },
+    {
+     "sa": "अस्रमण्डलम्",
+     "iast": "asramaṇḍalam",
+     "en": "red circular patches",
+     "hi": "रक्तमण्डल"
+    },
+    {
+     "sa": "रक्तप्रदोषात् जायन्ते",
+     "iast": "raktapradoṣāt jāyante",
+     "en": "arise from vitiation of blood",
+     "hi": "रक्त-दुष्टि से होते हैं"
+    },
+    {
+     "sa": "शृणु",
+     "iast": "śṛṇu",
+     "en": "listen",
+     "hi": "सुनो"
+    },
+    {
+     "sa": "मांसप्रदोषजान्",
+     "iast": "māṃsapradoṣajān",
+     "en": "diseases of vitiated muscle",
+     "hi": "मांस-दुष्टि से होने वाले"
+    }
+   ],
+   "english": "dadru (ringworm-like lesions), carmadala (cracking of skin), śvitra (leucoderma), pāmā (itchy eruptions), koṭha (urticaria) and red circular patches: these arise from vitiation of blood. Now hear the diseases due to vitiation of māṃsa (muscle tissue):",
+   "hindi": "दद्रु, चर्मदल (त्वचा फटना), श्वित्र (सफेद दाग), पामा (खुजली वाले दाने), कोठ (पित्ती) और लाल गोल चकत्ते: ये रक्त-दुष्टि से होते हैं। अब मांसप्रदोषज रोग सुनो:",
+   "explanation_en": "The rakta list ends with more skin conditions. Śvitra (leucoderma/vitiligo) is listed here among raktaja disorders. Exam tip: if asked 'raktapradoṣaja vikāra', group them as skin, bleeding, inflammatory/suppurative, pigmentary and spleen/liver disorders.",
+   "explanation_hi": "रक्त-सूची और त्वचा रोगों के साथ समाप्त होती है। श्वित्र (सफेद दाग) यहाँ रक्तज विकारों में है। परीक्षा टिप: 'रक्तप्रदोषज विकार' पूछे जाएँ तो उन्हें त्वचा, रक्तस्राव, शोथ/पाक, वर्ण-विकार और प्लीहा/यकृत समूहों में लिखें।",
+   "modern_correlation": null,
+   "key_terms": [
+    "dadru",
+    "śvitra",
+    "pāmā",
+    "koṭha"
+   ],
+   "tags": [
+    "dhatu",
+    "rakta",
+    "pathology",
+    "exam",
+    "list"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.14",
+   "word_meanings": [
+    {
+     "sa": "अधिमांस",
+     "iast": "adhimāṃsa",
+     "en": "excess muscle growth",
+     "hi": "अधिमांस"
+    },
+    {
+     "sa": "अर्बुदम्",
+     "iast": "arbudam",
+     "en": "tumour",
+     "hi": "अर्बुद"
+    },
+    {
+     "sa": "कीलम्",
+     "iast": "kīlam",
+     "en": "wart-like growth",
+     "hi": "कील"
+    },
+    {
+     "sa": "गलशालूक",
+     "iast": "galaśālūka",
+     "en": "growth in throat (tonsillar)",
+     "hi": "गलशालूक"
+    },
+    {
+     "sa": "शुण्डिके",
+     "iast": "śuṇḍike",
+     "en": "uvular swelling",
+     "hi": "गलशुण्डिका"
+    },
+    {
+     "sa": "पूतिमांस",
+     "iast": "pūtimāṃsa",
+     "en": "putrefying flesh, gangrene",
+     "hi": "पूतिमांस"
+    },
+    {
+     "sa": "अलजी",
+     "iast": "alajī",
+     "en": "a boil type",
+     "hi": "अलजी"
+    },
+    {
+     "sa": "गण्ड",
+     "iast": "gaṇḍa",
+     "en": "goitre, swelling",
+     "hi": "गण्ड"
+    },
+    {
+     "sa": "गण्डमाला",
+     "iast": "gaṇḍamālā",
+     "en": "cervical lymphadenitis",
+     "hi": "गण्डमाला"
+    },
+    {
+     "sa": "उपजिह्विकाः",
+     "iast": "upajihvikāḥ",
+     "en": "swelling below the tongue",
+     "hi": "उपजिह्विका"
+    }
+   ],
+   "english": "adhimāṃsa (overgrowth of flesh), arbuda (tumour), kīla (warts), galaśālūka (tonsillar growth), galaśuṇḍikā (uvulitis), pūtimāṃsa (putrefying flesh), alajī (a type of boil), gaṇḍa (goitre), gaṇḍamālā (cervical gland swellings) and upajihvikā (swelling under the tongue),",
+   "hindi": "अधिमांस (मांस की अतिवृद्धि), अर्बुद (गाँठ, ट्यूमर), कील (मस्से), गलशालूक, गलशुण्डिका, पूतिमांस (सड़ता मांस), अलजी, गण्ड (घेंघा), गण्डमाला और उपजिह्विका (जीभ के नीचे सूजन),",
+   "explanation_en": "The māṃsa-pradoṣaja vikāras are mostly growths and swellings of flesh, since māṃsa forms the bulk tissue. Arbuda (tumour) and gaṇḍamālā are important for later study in Śalya. Treatment (verse 26): saṃśodhana, śastra, kṣāra and agni karma.",
+   "explanation_hi": "मांसप्रदोषज विकार अधिकतर मांस की वृद्धि और सूजन हैं, क्योंकि मांस शरीर का मुख्य ऊतक है। अर्बुद और गण्डमाला शल्य तन्त्र में आगे महत्त्वपूर्ण हैं। चिकित्सा (श्लोक 26): संशोधन, शस्त्र, क्षार और अग्निकर्म।",
+   "modern_correlation": null,
+   "key_terms": [
+    "māṃsapradoṣaja vikāra",
+    "arbuda",
+    "gaṇḍamālā",
+    "adhimāṃsa"
+   ],
+   "tags": [
+    "dhatu",
+    "mamsa",
+    "pathology",
+    "exam",
+    "list"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.15",
+   "word_meanings": [
+    {
+     "sa": "वेद्यात्",
+     "iast": "vedyāt",
+     "en": "one should know",
+     "hi": "जानना चाहिए"
+    },
+    {
+     "sa": "मांसाश्रयान्",
+     "iast": "māṃsāśrayān",
+     "en": "as located in māṃsa",
+     "hi": "मांस में आश्रित"
+    },
+    {
+     "sa": "मेदःसंश्रयान्",
+     "iast": "medaḥsaṃśrayān",
+     "en": "those located in medas",
+     "hi": "मेद में आश्रित"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "और"
+    },
+    {
+     "sa": "प्रचक्ष्महे",
+     "iast": "pracakṣmahe",
+     "en": "we declare",
+     "hi": "हम कहते हैं"
+    },
+    {
+     "sa": "निन्दितानि",
+     "iast": "ninditāni",
+     "en": "the censured (conditions)",
+     "hi": "निन्दित (आठ निन्दित पुरुष के लक्षण)"
+    },
+    {
+     "sa": "प्रमेहाणाम् पूर्वरूपाणि",
+     "iast": "pramehāṇām pūrvarūpāṇi",
+     "en": "prodromal symptoms of prameha",
+     "hi": "प्रमेह के पूर्वरूप"
+    },
+    {
+     "sa": "यानि च",
+     "iast": "yāni ca",
+     "en": "and which",
+     "hi": "और जो"
+    }
+   ],
+   "english": "these should be known as disorders located in māṃsa. As disorders located in medas (fat tissue) we declare the 'censured' conditions (of Su 21) and the prodromal symptoms of prameha.",
+   "hindi": "इन्हें मांस में आश्रित रोग जानना चाहिए। मेद में आश्रित रोगों के रूप में हम निन्दित (सू. 21 के) लक्षणों और प्रमेह के पूर्वरूपों को बताते हैं।",
+   "explanation_en": "Medo-pradoṣaja vikāras are referred to other chapters rather than listed: the 'nindita' conditions of Aṣṭauninditīya (Su 21, especially atisthaulya) and the pūrvarūpa of prameha (Ni 4.47, e.g. sweet taste in mouth, matted hair, excess sweating, burning of hands and feet). Remember that prameha is closely related to medas.",
+   "explanation_hi": "मेदप्रदोषज विकार यहाँ गिनाए नहीं गए, बल्कि दूसरे अध्यायों का सन्दर्भ दिया गया है: अष्टौनिन्दितीय (सू. 21) के निन्दित लक्षण (विशेषकर अतिस्थौल्य) और प्रमेह के पूर्वरूप (नि. 4.47, जैसे मुख में मधुरता, जटिल केश, अधिक पसीना, हाथ-पैरों में जलन)। याद रखें कि प्रमेह का मेद से निकट सम्बन्ध है।",
+   "modern_correlation": {
+    "en": "Linking obesity-related features with the prodrome of prameha broadly anticipates the modern association between excess adiposity and type 2 diabetes and metabolic syndrome. This is a parallel of clinical observation, not of mechanism.",
+    "hi": "मोटापे से जुड़े लक्षणों को प्रमेह के पूर्वरूप से जोड़ना मोटे तौर पर आधुनिक ज्ञान से मिलता है कि अधिक वसा टाइप 2 डायबिटीज़ और मेटाबोलिक सिंड्रोम से जुड़ी है। यह नैदानिक अवलोकन की समानता है, क्रिया-तन्त्र की नहीं।"
+   },
+   "key_terms": [
+    "medopradoṣaja vikāra",
+    "prameha pūrvarūpa",
+    "aṣṭau nindita",
+    "sthaulya"
+   ],
+   "tags": [
+    "dhatu",
+    "meda",
+    "pathology",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.16",
+   "word_meanings": [
+    {
+     "sa": "अध्यस्थि",
+     "iast": "adhyasthi",
+     "en": "extra bone growth",
+     "hi": "अध्यस्थि"
+    },
+    {
+     "sa": "अधिदन्तौ",
+     "iast": "adhidantau",
+     "en": "extra tooth",
+     "hi": "अधिदन्त"
+    },
+    {
+     "sa": "दन्तभेद",
+     "iast": "dantabheda",
+     "en": "cracking of teeth",
+     "hi": "दन्तभेद"
+    },
+    {
+     "sa": "अस्थिभेदशूलम्",
+     "iast": "asthibhedaśūlam",
+     "en": "breaking pain in bones",
+     "hi": "अस्थियों में भेदने जैसी पीड़ा"
+    },
+    {
+     "sa": "विवर्णता",
+     "iast": "vivarṇatā",
+     "en": "discoloration",
+     "hi": "विवर्णता"
+    },
+    {
+     "sa": "केशलोमनखश्मश्रुदोषाः",
+     "iast": "keśa-loma-nakha-śmaśru-doṣāḥ",
+     "en": "disorders of hair, body hair, nails and beard",
+     "hi": "केश, रोम, नख, दाढ़ी-मूँछ के विकार"
+    },
+    {
+     "sa": "अस्थिप्रदोषजाः",
+     "iast": "asthipradoṣajāḥ",
+     "en": "from vitiation of bone",
+     "hi": "अस्थि-दुष्टि से होने वाले"
+    }
+   ],
+   "english": "Adhyasthi (extra bone growth), adhidanta (extra tooth), cracking of teeth, breaking pain in bones, discoloration, and disorders of the hair, body hair, nails and beard are due to vitiation of asthi (bone).",
+   "hindi": "अध्यस्थि (अतिरिक्त अस्थि), अधिदन्त (अतिरिक्त दाँत), दाँतों का टूटना, अस्थियों में भेदने जैसी पीड़ा, विवर्णता, और केश, रोम, नख तथा दाढ़ी-मूँछ के विकार अस्थिप्रदोषज हैं।",
+   "explanation_en": "Asthi-pradoṣaja vikāras include disorders of teeth, hair and nails because in Ayurveda these are upadhātus or malas related to asthi (hair and nails are the mala of asthi; teeth are its upadhātu per Śārṅgadhara). Treatment (verse 27): pañcakarma, especially basti, with milk and ghee processed with bitter drugs.",
+   "explanation_hi": "अस्थिप्रदोषज विकारों में दाँत, केश और नख के विकार इसलिए हैं क्योंकि आयुर्वेद में ये अस्थि से सम्बद्ध हैं (केश और नख अस्थि के मल हैं; शार्ङ्गधर के अनुसार दन्त अस्थि की उपधातु हैं)। चिकित्सा (श्लोक 27): पञ्चकर्म, विशेषकर बस्ति, और तिक्त द्रव्यों से सिद्ध दूध व घी।",
+   "modern_correlation": null,
+   "key_terms": [
+    "asthipradoṣaja vikāra",
+    "adhyasthi",
+    "adhidanta"
+   ],
+   "tags": [
+    "dhatu",
+    "asthi",
+    "pathology",
+    "exam",
+    "list"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.17",
+   "word_meanings": [
+    {
+     "sa": "रुक् पर्वणाम्",
+     "iast": "ruk parvaṇām",
+     "en": "pain in the joints",
+     "hi": "पर्वों (जोड़ों) में पीड़ा"
+    },
+    {
+     "sa": "भ्रमः",
+     "iast": "bhramaḥ",
+     "en": "giddiness",
+     "hi": "भ्रम (चक्कर)"
+    },
+    {
+     "sa": "मूर्छा",
+     "iast": "mūrchā",
+     "en": "fainting",
+     "hi": "मूर्च्छा"
+    },
+    {
+     "sa": "दर्शनम् तमसः",
+     "iast": "darśanam tamasaḥ",
+     "en": "seeing darkness",
+     "hi": "अँधेरा दिखना"
+    },
+    {
+     "sa": "अरुषाम्",
+     "iast": "aruṣām",
+     "en": "of deep ulcers",
+     "hi": "अरुषिका (गहरे व्रण) का"
+    },
+    {
+     "sa": "स्थूलमूलानाम्",
+     "iast": "sthūlamūlānām",
+     "en": "with broad bases",
+     "hi": "मोटी जड़ वाले"
+    },
+    {
+     "sa": "पर्वजानाम्",
+     "iast": "parvajānām",
+     "en": "arising at the joints",
+     "hi": "पर्वों में होने वाले"
+    },
+    {
+     "sa": "दर्शनम्",
+     "iast": "darśanam",
+     "en": "appearance",
+     "hi": "दिखना"
+    }
+   ],
+   "english": "Pain in the joints, giddiness, fainting, seeing darkness, and the appearance of deep, broad-based sores at the joints",
+   "hindi": "जोड़ों में पीड़ा, चक्कर, मूर्च्छा, आँखों के आगे अँधेरा, और जोड़ों पर मोटी जड़ वाले गहरे व्रण दिखना",
+   "explanation_en": "This verse gives the majjā-pradoṣaja vikāras (completed in verse 18a). Majjā (marrow) fills bones and, per Ayurveda, nourishes the brain region; hence giddiness, fainting and darkness before the eyes. Cakrapāṇi reads 'aruṣām' as deep-rooted ulcers in the joints.",
+   "explanation_hi": "यह श्लोक मज्जाप्रदोषज विकार बताता है (श्लोक 18 के पहले भाग तक)। मज्जा अस्थियों को भरती है और आयुर्वेद के अनुसार मस्तिष्क-प्रदेश का पोषण करती है; इसलिए चक्कर, मूर्च्छा और अँधेरा दिखना। चक्रपाणि 'अरुषाम्' को जोड़ों के गहरे व्रण मानते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "majjāpradoṣaja vikāra",
+    "bhrama",
+    "mūrchā"
+   ],
+   "tags": [
+    "dhatu",
+    "majja",
+    "pathology",
+    "exam",
+    "list"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.18",
+   "word_meanings": [
+    {
+     "sa": "मज्जप्रदोषात्",
+     "iast": "majjapradoṣāt",
+     "en": "from vitiation of majjā",
+     "hi": "मज्जा-दुष्टि से"
+    },
+    {
+     "sa": "शुक्रस्य दोषात्",
+     "iast": "śukrasya doṣāt",
+     "en": "from vitiation of semen",
+     "hi": "शुक्र-दुष्टि से"
+    },
+    {
+     "sa": "क्लैब्यम्",
+     "iast": "klaibyam",
+     "en": "impotence",
+     "hi": "क्लैब्य"
+    },
+    {
+     "sa": "अहर्षणम्",
+     "iast": "aharṣaṇam",
+     "en": "lack of sexual arousal",
+     "hi": "अहर्षण (उत्तेजना न होना)"
+    },
+    {
+     "sa": "रोगि",
+     "iast": "rogi",
+     "en": "diseased",
+     "hi": "रोगी"
+    },
+    {
+     "sa": "क्लीबम्",
+     "iast": "klībam",
+     "en": "impotent",
+     "hi": "नपुंसक"
+    },
+    {
+     "sa": "अल्पायुः",
+     "iast": "alpāyuḥ",
+     "en": "short-lived",
+     "hi": "अल्पायु"
+    },
+    {
+     "sa": "विरूपम्",
+     "iast": "virūpam",
+     "en": "deformed",
+     "hi": "विकृत रूप वाला"
+    },
+    {
+     "sa": "प्रजायते",
+     "iast": "prajāyate",
+     "en": "is born",
+     "hi": "उत्पन्न होता है"
+    }
+   ],
+   "english": "arise from vitiation of majjā (marrow). From vitiation of śukra (semen) arise impotence and lack of sexual arousal; or the offspring born is diseased, impotent, short-lived or deformed;",
+   "hindi": "ये मज्जा-दुष्टि से होते हैं। शुक्र-दुष्टि से नपुंसकता और कामोत्तेजना का अभाव होता है; या उत्पन्न सन्तान रोगी, नपुंसक, अल्पायु या विकृत रूप वाली होती है;",
+   "explanation_en": "Śukra-pradoṣaja vikāras affect both the man and his offspring, showing that Ayurveda considered the quality of the seed (bīja) important for the health of the child (compare Śārīra 4). Treatment (verse 28): sweet and bitter drugs and food, regulated sexual activity and exercise, and purification.",
+   "explanation_hi": "शुक्रप्रदोषज विकार पुरुष और उसकी सन्तान दोनों को प्रभावित करते हैं, अर्थात् आयुर्वेद सन्तान के स्वास्थ्य के लिए बीज (शुक्र) की गुणवत्ता को महत्त्वपूर्ण मानता है (शारीर 4 से तुलना करें)। चिकित्सा (श्लोक 28): मधुर और तिक्त औषध व आहार, नियमित मैथुन और व्यायाम, तथा शोधन।",
+   "modern_correlation": {
+    "en": "The idea that paternal factors influence fertility and offspring health is consistent with modern findings on male infertility and on how sperm quality, including genetic and epigenetic factors, can affect pregnancy outcome. The parallel is general.",
+    "hi": "यह विचार कि पिता के कारक प्रजनन क्षमता और सन्तान के स्वास्थ्य को प्रभावित करते हैं, पुरुष बाँझपन और शुक्राणु की गुणवत्ता (जेनेटिक और एपिजेनेटिक कारकों सहित) के गर्भ-परिणाम पर प्रभाव सम्बन्धी आधुनिक निष्कर्षों से मेल खाता है। यह सामान्य समानता है।"
+   },
+   "key_terms": [
+    "śukrapradoṣaja vikāra",
+    "klaibya"
+   ],
+   "tags": [
+    "dhatu",
+    "shukra",
+    "pathology",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.19",
+   "word_meanings": [
+    {
+     "sa": "न च अस्य जायते गर्भः",
+     "iast": "na ca asya jāyate garbhaḥ",
+     "en": "and no conception occurs for him",
+     "hi": "और उसका गर्भ नहीं ठहरता"
+    },
+    {
+     "sa": "पतति",
+     "iast": "patati",
+     "en": "miscarries",
+     "hi": "गिर जाता है"
+    },
+    {
+     "sa": "प्रस्रवति अपि",
+     "iast": "prasravati api",
+     "en": "or is aborted (flows out)",
+     "hi": "या स्रवित हो जाता है"
+    },
+    {
+     "sa": "शुक्रम् हि दुष्टम्",
+     "iast": "śukram hi duṣṭam",
+     "en": "vitiated semen indeed",
+     "hi": "दूषित शुक्र"
+    },
+    {
+     "sa": "सापत्यम्",
+     "iast": "sāpatyam",
+     "en": "along with offspring",
+     "hi": "सन्तान सहित"
+    },
+    {
+     "sa": "सदारम्",
+     "iast": "sadāram",
+     "en": "along with wife",
+     "hi": "पत्नी सहित"
+    },
+    {
+     "sa": "बाधते",
+     "iast": "bādhate",
+     "en": "afflicts",
+     "hi": "पीड़ित करता है"
+    },
+    {
+     "sa": "नरम्",
+     "iast": "naram",
+     "en": "the man",
+     "hi": "पुरुष को"
+    }
+   ],
+   "english": "or no conception takes place, or the pregnancy is lost by miscarriage or abortion. Vitiated semen afflicts the man together with his wife and offspring.",
+   "hindi": "या गर्भ ठहरता ही नहीं, या गर्भ गिर जाता है अथवा स्रवित हो जाता है। दूषित शुक्र पुरुष को उसकी पत्नी और सन्तान सहित पीड़ित करता है।",
+   "explanation_en": "This completes the śukra-pradoṣaja list. The point that defective semen affects the whole family (man, wife, child) emphasises male responsibility in infertility, an important clinical message. Garbhasrāva/pāta here are attributed to the male factor.",
+   "explanation_hi": "यह शुक्रप्रदोषज सूची पूरी करता है। यह बात कि दूषित शुक्र पूरे परिवार (पुरुष, पत्नी, सन्तान) को प्रभावित करता है, बाँझपन में पुरुष के उत्तरदायित्व पर जोर देती है, जो महत्त्वपूर्ण चिकित्सकीय सन्देश है। यहाँ गर्भस्राव/पात को पुरुष-कारक से जोड़ा गया है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "śukradoṣa",
+    "garbhasrāva",
+    "garbhapāta"
+   ],
+   "tags": [
+    "dhatu",
+    "shukra",
+    "pathology"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.20",
+   "word_meanings": [
+    {
+     "sa": "इन्द्रियाणि",
+     "iast": "indriyāṇi",
+     "en": "the sense organs",
+     "hi": "इन्द्रियों में"
+    },
+    {
+     "sa": "समाश्रित्य",
+     "iast": "samāśritya",
+     "en": "having lodged in",
+     "hi": "आश्रित होकर"
+    },
+    {
+     "sa": "प्रकुप्यन्ति",
+     "iast": "prakupyanti",
+     "en": "become aggravated",
+     "hi": "कुपित होते हैं"
+    },
+    {
+     "sa": "यदा",
+     "iast": "yadā",
+     "en": "when",
+     "hi": "जब"
+    },
+    {
+     "sa": "मलाः",
+     "iast": "malāḥ",
+     "en": "the doṣas (here called malas)",
+     "hi": "दोष (मल)"
+    },
+    {
+     "sa": "उपघात",
+     "iast": "upaghāta",
+     "en": "loss of function",
+     "hi": "उपघात (कार्य-नाश)"
+    },
+    {
+     "sa": "उपतापाभ्याम्",
+     "iast": "upatāpābhyām",
+     "en": "and affliction (inflammation)",
+     "hi": "और उपताप (पीड़ा, जलन)"
+    },
+    {
+     "sa": "योजयन्ति",
+     "iast": "yojayanti",
+     "en": "afflict with",
+     "hi": "युक्त करते हैं"
+    },
+    {
+     "sa": "इन्द्रियाणि",
+     "iast": "indriyāṇi",
+     "en": "the sense organs",
+     "hi": "इन्द्रियों को"
+    },
+    {
+     "sa": "ते",
+     "iast": "te",
+     "en": "they",
+     "hi": "वे"
+    }
+   ],
+   "english": "When the doṣas (malas) become aggravated after lodging in the sense organs, they afflict the sense organs with loss of function (upaghāta) and with painful inflammation (upatāpa).",
+   "hindi": "जब दोष इन्द्रियों में आश्रित होकर कुपित होते हैं, तो वे इन्द्रियों को उपघात (कार्य-नाश) और उपताप (पीड़ा, जलन) से युक्त करते हैं।",
+   "explanation_en": "Here the doṣas are called 'malas' because, when vitiated, they pollute the body. Disorders of the sense organs are of two kinds: upaghāta (loss or impairment of function, e.g. blindness, deafness) and upatāpa (painful inflammation). Treatment is referred to the Trimarmīya chapter (Ci 26) in verse 29.",
+   "explanation_hi": "यहाँ दोषों को 'मल' कहा गया क्योंकि विकृत होकर वे शरीर को दूषित करते हैं। इन्द्रिय विकार दो प्रकार के हैं: उपघात (कार्य का नाश या कमी, जैसे अन्धापन, बहरापन) और उपताप (पीड़ायुक्त शोथ)। चिकित्सा का सन्दर्भ श्लोक 29 में त्रिमर्मीय (चि. 26) है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "indriya",
+    "upaghāta",
+    "upatāpa",
+    "mala"
+   ],
+   "tags": [
+    "pathology",
+    "indriya"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.21",
+   "word_meanings": [
+    {
+     "sa": "स्नायौ",
+     "iast": "snāyau",
+     "en": "in ligaments/tendons",
+     "hi": "स्नायु में"
+    },
+    {
+     "sa": "सिराकण्डराभ्यः",
+     "iast": "sirā-kaṇḍarābhyaḥ",
+     "en": "in vessels and large tendons",
+     "hi": "सिरा और कण्डरा में"
+    },
+    {
+     "sa": "दुष्टाः",
+     "iast": "duṣṭāḥ",
+     "en": "vitiated (doṣas)",
+     "hi": "दूषित दोष"
+    },
+    {
+     "sa": "क्लिश्नन्ति",
+     "iast": "kliśnanti",
+     "en": "afflict",
+     "hi": "कष्ट देते हैं"
+    },
+    {
+     "sa": "मानवम्",
+     "iast": "mānavam",
+     "en": "a person",
+     "hi": "मनुष्य को"
+    },
+    {
+     "sa": "स्तम्भ",
+     "iast": "stambha",
+     "en": "stiffness",
+     "hi": "स्तम्भ (जकड़न)"
+    },
+    {
+     "sa": "संकोच",
+     "iast": "saṃkoca",
+     "en": "contracture",
+     "hi": "संकोच"
+    },
+    {
+     "sa": "खल्लीभिः",
+     "iast": "khallībhiḥ",
+     "en": "with cramps",
+     "hi": "खल्ली (ऐंठन) से"
+    },
+    {
+     "sa": "ग्रन्थि",
+     "iast": "granthi",
+     "en": "nodules, cysts",
+     "hi": "ग्रन्थि"
+    },
+    {
+     "sa": "स्फुरण",
+     "iast": "sphuraṇa",
+     "en": "twitching",
+     "hi": "स्फुरण (फड़कना)"
+    },
+    {
+     "sa": "सुप्तिभिः",
+     "iast": "suptibhiḥ",
+     "en": "with numbness",
+     "hi": "सुप्ति (सुन्नता) से"
+    }
+   ],
+   "english": "Vitiated doṣas in the snāyu (ligaments), sirā (vessels) and kaṇḍarā (large tendons) afflict a person with stiffness, contractures, cramps, nodules (granthi), twitching and numbness.",
+   "hindi": "स्नायु, सिरा और कण्डरा में दूषित दोष मनुष्य को स्तम्भ (जकड़न), संकोच, खल्ली (ऐंठन), ग्रन्थि, स्फुरण (फड़कन) और सुप्ति (सुन्नता) से कष्ट देते हैं।",
+   "explanation_en": "Disorders of snāyu, sirā and kaṇḍarā are mostly neuromuscular symptoms that are characteristic of vāta; hence treatment is referred to the Vātavyādhi chapter (Ci 28) in verse 29. Granthi (cystic swelling, e.g. sirāgranthi) is also included.",
+   "explanation_hi": "स्नायु, सिरा और कण्डरा के विकार अधिकतर तन्त्रिका-पेशीय लक्षण हैं जो वात के विशेष हैं; इसलिए श्लोक 29 में चिकित्सा का सन्दर्भ वातव्याधि (चि. 28) अध्याय है। ग्रन्थि (जैसे सिराग्रन्थि) भी शामिल है।",
+   "modern_correlation": {
+    "en": "Stiffness, contractures, cramps, twitching and numbness are common in modern neuromuscular and peripheral nerve disorders, and in tendon and ligament injuries. This matches the Ayurvedic attribution of these symptoms to vāta at the level of clinical features.",
+    "hi": "जकड़न, संकोच, ऐंठन, फड़कन और सुन्नता आधुनिक न्यूरोमस्कुलर और परिधीय तन्त्रिका विकारों तथा टेंडन-लिगामेंट चोटों में आम हैं। यह लक्षणों के स्तर पर इन्हें वात से जोड़ने के आयुर्वेदिक मत से मेल खाता है।"
+   },
+   "key_terms": [
+    "snāyu",
+    "sirā",
+    "kaṇḍarā",
+    "stambha",
+    "saṃkoca",
+    "supti"
+   ],
+   "tags": [
+    "pathology",
+    "vata"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.22",
+   "word_meanings": [
+    {
+     "sa": "मलान् आश्रित्य",
+     "iast": "malān āśritya",
+     "en": "lodging in the malas (wastes)",
+     "hi": "मलों में आश्रित होकर"
+    },
+    {
+     "sa": "कुपिताः",
+     "iast": "kupitāḥ",
+     "en": "aggravated",
+     "hi": "कुपित"
+    },
+    {
+     "sa": "भेद",
+     "iast": "bheda",
+     "en": "breaking, loosening",
+     "hi": "भेद"
+    },
+    {
+     "sa": "शोष",
+     "iast": "śoṣa",
+     "en": "drying",
+     "hi": "शोष"
+    },
+    {
+     "sa": "प्रदूषणम्",
+     "iast": "pradūṣaṇam",
+     "en": "vitiation",
+     "hi": "दूषण"
+    },
+    {
+     "sa": "दोषाः",
+     "iast": "doṣāḥ",
+     "en": "doṣas",
+     "hi": "दोष"
+    },
+    {
+     "sa": "मलानाम्",
+     "iast": "malānām",
+     "en": "of the wastes",
+     "hi": "मलों का"
+    },
+    {
+     "sa": "कुर्वन्ति",
+     "iast": "kurvanti",
+     "en": "cause",
+     "hi": "करते हैं"
+    },
+    {
+     "sa": "सङ्ग",
+     "iast": "saṅga",
+     "en": "retention",
+     "hi": "संग (रुकावट)"
+    },
+    {
+     "sa": "उत्सर्गौ",
+     "iast": "utsargau",
+     "en": "and excess elimination",
+     "hi": "और उत्सर्ग (अधिक निकलना)"
+    },
+    {
+     "sa": "अतीव",
+     "iast": "atīva",
+     "en": "excessively",
+     "hi": "अत्यधिक"
+    }
+   ],
+   "english": "Doṣas aggravated in the malas (wastes such as faeces, urine and sweat) cause their breaking up (loosening), drying, vitiation, and their excessive retention or excessive elimination.",
+   "hindi": "मलों (पुरीष, मूत्र, स्वेद) में आश्रित होकर कुपित दोष उनका भेद (पतला होना), शोष (सूखना), दूषण, तथा अत्यधिक रुकावट या अत्यधिक निकलना करते हैं।",
+   "explanation_en": "Disorders of malas: changes in consistency (bheda, śoṣa), quality (pradūṣaṇa) and quantity of excretion (saṅga, atisarga). Examples: constipation, diarrhoea, anuria, polyuria, anhidrosis, hyperhidrosis. Treatment is referred to Navegāndhāraṇīya (Su 7) and other places (verse 30).",
+   "explanation_hi": "मल विकार: स्थिरता में परिवर्तन (भेद, शोष), गुणवत्ता में दोष (प्रदूषण) और मात्रा में परिवर्तन (संग, अतिसर्ग)। उदाहरण: कब्ज, अतिसार, मूत्र रुकना, बहुमूत्र, पसीना न आना या अधिक पसीना। चिकित्सा का सन्दर्भ नवेगान्धारणीय (सू. 7) और अन्य स्थानों में है (श्लोक 30)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "mala",
+    "saṅga",
+    "atisarga",
+    "bheda",
+    "śoṣa"
+   ],
+   "tags": [
+    "pathology",
+    "mala"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.23",
+   "word_meanings": [
+    {
+     "sa": "विविधात्",
+     "iast": "vividhāt",
+     "en": "from various",
+     "hi": "विविध"
+    },
+    {
+     "sa": "अशितात्",
+     "iast": "aśitāt",
+     "en": "eaten",
+     "hi": "खाए गए"
+    },
+    {
+     "sa": "पीतात्",
+     "iast": "pītāt",
+     "en": "drunk",
+     "hi": "पिए गए"
+    },
+    {
+     "sa": "अहितात्",
+     "iast": "ahitāt",
+     "en": "unwholesome",
+     "hi": "अहितकर"
+    },
+    {
+     "sa": "लीढखादितात्",
+     "iast": "līḍha-khāditāt",
+     "en": "licked and chewed",
+     "hi": "चाटे और चबाए गए"
+    },
+    {
+     "sa": "भवन्ति",
+     "iast": "bhavanti",
+     "en": "arise",
+     "hi": "होते हैं"
+    },
+    {
+     "sa": "एते",
+     "iast": "ete",
+     "en": "these",
+     "hi": "ये"
+    },
+    {
+     "sa": "मनुष्याणाम्",
+     "iast": "manuṣyāṇām",
+     "en": "of human beings",
+     "hi": "मनुष्यों के"
+    },
+    {
+     "sa": "विकाराः",
+     "iast": "vikārāḥ",
+     "en": "disorders",
+     "hi": "विकार"
+    },
+    {
+     "sa": "ये उदाहृताः",
+     "iast": "ye udāhṛtāḥ",
+     "en": "which have been described",
+     "hi": "जो बताए गए हैं"
+    }
+   ],
+   "english": "The disorders described above arise in human beings from various kinds of unwholesome food that is eaten, drunk, licked and chewed.",
+   "hindi": "ऊपर बताए गए ये विकार मनुष्यों में विविध प्रकार के अहितकर खाए, पिए, चाटे और चबाए आहार से होते हैं।",
+   "explanation_en": "This verse closes the dhātu-pradoṣaja list by restating its root cause, unwholesome diet, linking back to the chapter's opening (verse 3).",
+   "explanation_hi": "यह श्लोक धातुप्रदोषज सूची को उसके मूल कारण, अहित आहार, को दोहराकर समाप्त करता है और अध्याय के आरम्भ (श्लोक 3) से जोड़ता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "ahitāhāra",
+    "vikāra"
+   ],
+   "tags": [
+    "ahara",
+    "pathology"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.24",
+   "word_meanings": [
+    {
+     "sa": "तेषाम्",
+     "iast": "teṣām",
+     "en": "of them",
+     "hi": "उनकी"
+    },
+    {
+     "sa": "इच्छन् अनुत्पत्तिम्",
+     "iast": "icchan anutpattim",
+     "en": "wishing their non-occurrence",
+     "hi": "उत्पत्ति न हो, ऐसी इच्छा करते हुए"
+    },
+    {
+     "sa": "सेवेत",
+     "iast": "seveta",
+     "en": "should use",
+     "hi": "सेवन करे"
+    },
+    {
+     "sa": "मतिमान्",
+     "iast": "matimān",
+     "en": "the wise",
+     "hi": "बुद्धिमान"
+    },
+    {
+     "sa": "सदा",
+     "iast": "sadā",
+     "en": "always",
+     "hi": "सदा"
+    },
+    {
+     "sa": "हितानि एव",
+     "iast": "hitāni eva",
+     "en": "only wholesome",
+     "hi": "हितकर ही"
+    },
+    {
+     "sa": "अशितादीनि",
+     "iast": "aśitādīni",
+     "en": "foods eaten etc.",
+     "hi": "अशित आदि"
+    },
+    {
+     "sa": "न स्युः",
+     "iast": "na syuḥ",
+     "en": "would not occur",
+     "hi": "न होंगे"
+    },
+    {
+     "sa": "तज्जाः",
+     "iast": "tajjāḥ",
+     "en": "born of them",
+     "hi": "उनसे होने वाले"
+    },
+    {
+     "sa": "तथा आमयाः",
+     "iast": "tathā āmayāḥ",
+     "en": "thus diseases",
+     "hi": "इस प्रकार रोग"
+    }
+   ],
+   "english": "A wise person who wishes these diseases not to arise should always take only wholesome food and drink; then diseases born of (unwholesome) food will not occur.",
+   "hindi": "जो बुद्धिमान व्यक्ति चाहता है कि ये रोग न हों, उसे सदा हितकर आहार-पान का ही सेवन करना चाहिए; तब आहार से होने वाले रोग नहीं होंगे।",
+   "explanation_en": "Prevention through wholesome diet is the first line of defence, consistent with the svasthasya svāsthya rakṣaṇa aim of Āyurveda. This leads into the line of treatment for each group of disorders.",
+   "explanation_hi": "हितकर आहार द्वारा रोकथाम पहला बचाव है, जो आयुर्वेद के 'स्वस्थस्य स्वास्थ्यरक्षणम्' उद्देश्य से मेल खाता है। इसके बाद प्रत्येक विकार-समूह की चिकित्सा बताई गई है।",
+   "modern_correlation": {
+    "en": "Primary prevention through a healthy diet is a central principle of modern preventive medicine and public health nutrition.",
+    "hi": "स्वस्थ आहार द्वारा प्राथमिक रोकथाम आधुनिक निवारक चिकित्सा और जनस्वास्थ्य पोषण का केन्द्रीय सिद्धान्त है।"
+   },
+   "key_terms": [
+    "hitāhāra",
+    "prevention"
+   ],
+   "tags": [
+    "ahara",
+    "prevention"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.25",
+   "word_meanings": [
+    {
+     "sa": "रसजानाम् विकाराणाम्",
+     "iast": "rasajānām vikārāṇām",
+     "en": "for disorders of rasa",
+     "hi": "रसज विकारों की"
+    },
+    {
+     "sa": "सर्वम् लङ्घनम्",
+     "iast": "sarvam laṅghanam",
+     "en": "all forms of laṅghana (lightening therapy)",
+     "hi": "सब प्रकार का लंघन"
+    },
+    {
+     "sa": "औषधम्",
+     "iast": "auṣadham",
+     "en": "medicine, treatment",
+     "hi": "औषध"
+    },
+    {
+     "sa": "विधिशोणितिके अध्याये",
+     "iast": "vidhiśoṇitike adhyāye",
+     "en": "in the Vidhiśoṇitīya chapter",
+     "hi": "विधिशोणितीय अध्याय में"
+    },
+    {
+     "sa": "रक्तजानाम्",
+     "iast": "raktajānām",
+     "en": "of disorders of blood",
+     "hi": "रक्तज विकारों की"
+    },
+    {
+     "sa": "भिषग्जितम्",
+     "iast": "bhiṣagjitam",
+     "en": "treatment",
+     "hi": "चिकित्सा"
+    }
+   ],
+   "english": "For disorders of rasa, all forms of laṅghana (lightening therapy) are the treatment. The treatment of disorders of rakta is given in the Vidhiśoṇitīya chapter (Su 24).",
+   "hindi": "रसज विकारों की औषध सब प्रकार का लंघन है। रक्तज विकारों की चिकित्सा विधिशोणितीय अध्याय (सू. 24) में बताई गई है।",
+   "explanation_en": "Verses 25-30 give the line of treatment for each group. Rasaja disorders are treated with laṅghana (the ten types listed in Su 22: vamana, virecana, nirūha, nasya, thirst, wind, sun, digestives, fasting, exercise) because rasa disorders are closely linked with āma and weak agni. Rakta disorders: Su 24 (virecana, upavāsa, raktamokṣaṇa). A frequently asked table: dhātu → line of treatment.",
+   "explanation_hi": "श्लोक 25-30 प्रत्येक समूह की चिकित्सा बताते हैं। रसज विकारों में लंघन (सू. 22 के दस प्रकार: वमन, विरेचन, निरूह, नस्य, पिपासा, मारुत, आतप, पाचन, उपवास, व्यायाम) क्योंकि रस विकार आम और मन्द अग्नि से जुड़े हैं। रक्त विकार: सू. 24 (विरेचन, उपवास, रक्तमोक्षण)। धातु → चिकित्सा की तालिका बहुत पूछी जाती है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "laṅghana",
+    "rasaja vikāra",
+    "raktaja vikāra",
+    "Vidhiśoṇitīya"
+   ],
+   "tags": [
+    "dhatu",
+    "treatment",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.26",
+   "word_meanings": [
+    {
+     "sa": "मांसजानाम्",
+     "iast": "māṃsajānām",
+     "en": "of disorders of māṃsa",
+     "hi": "मांसज विकारों की"
+    },
+    {
+     "sa": "संशुद्धिः",
+     "iast": "saṃśuddhiḥ",
+     "en": "purification therapy",
+     "hi": "संशोधन"
+    },
+    {
+     "sa": "शस्त्र",
+     "iast": "śastra",
+     "en": "surgery",
+     "hi": "शस्त्रकर्म"
+    },
+    {
+     "sa": "क्षार",
+     "iast": "kṣāra",
+     "en": "alkali therapy",
+     "hi": "क्षारकर्म"
+    },
+    {
+     "sa": "अग्निकर्म",
+     "iast": "agnikarma",
+     "en": "thermal cautery",
+     "hi": "अग्निकर्म"
+    },
+    {
+     "sa": "अष्टौनिन्दितिके अध्याये",
+     "iast": "aṣṭauninditike adhyāye",
+     "en": "in the Aṣṭauninditīya chapter",
+     "hi": "अष्टौनिन्दितीय अध्याय में"
+    },
+    {
+     "sa": "मेदोजानाम्",
+     "iast": "medojānām",
+     "en": "of disorders of medas",
+     "hi": "मेदज विकारों की"
+    },
+    {
+     "sa": "चिकित्सितम्",
+     "iast": "cikitsitam",
+     "en": "treatment",
+     "hi": "चिकित्सा"
+    }
+   ],
+   "english": "For disorders of māṃsa, the treatment is purification (saṃśodhana), surgery, alkali application (kṣāra) and cautery (agnikarma). The treatment of disorders of medas is given in the Aṣṭauninditīya chapter (Su 21).",
+   "hindi": "मांसज विकारों की चिकित्सा संशोधन, शस्त्रकर्म, क्षारकर्म और अग्निकर्म है। मेदज विकारों की चिकित्सा अष्टौनिन्दितीय अध्याय (सू. 21) में बताई गई है।",
+   "explanation_en": "Māṃsaja growths (arbuda, adhimāṃsa, gaṇḍamālā) often need local procedures: śastra, kṣāra and agni karma, the three para-surgical methods. Medoja disorders are treated as described for sthaulya in Su 21 (guru and apatarpaṇa diet, rūkṣa udvartana, exercise, etc.).",
+   "explanation_hi": "मांसज वृद्धियों (अर्बुद, अधिमांस, गण्डमाला) में प्रायः स्थानीय प्रक्रियाएँ आवश्यक होती हैं: शस्त्र, क्षार और अग्निकर्म। मेदज विकारों की चिकित्सा सू. 21 में स्थौल्य के लिए बताए अनुसार है (गुरु और अपतर्पण आहार, रूक्ष उद्वर्तन, व्यायाम आदि)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "saṃśodhana",
+    "śastrakarma",
+    "kṣārakarma",
+    "agnikarma",
+    "Aṣṭauninditīya"
+   ],
+   "tags": [
+    "dhatu",
+    "treatment",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.27",
+   "word_meanings": [
+    {
+     "sa": "अस्थ्याश्रयाणाम् व्याधीनाम्",
+     "iast": "asthyāśrayāṇām vyādhīnām",
+     "en": "for diseases located in bone",
+     "hi": "अस्थि में आश्रित रोगों की"
+    },
+    {
+     "sa": "पञ्चकर्माणि",
+     "iast": "pañcakarmāṇi",
+     "en": "the five purification procedures",
+     "hi": "पञ्चकर्म"
+    },
+    {
+     "sa": "भेषजम्",
+     "iast": "bheṣajam",
+     "en": "treatment",
+     "hi": "चिकित्सा"
+    },
+    {
+     "sa": "वस्तयः",
+     "iast": "vastayaḥ",
+     "en": "enemas",
+     "hi": "बस्तियाँ"
+    },
+    {
+     "sa": "क्षीरसर्पींषि",
+     "iast": "kṣīrasarpīṃṣi",
+     "en": "milk and ghee",
+     "hi": "दूध और घी"
+    },
+    {
+     "sa": "तिक्तकोपहितानि",
+     "iast": "tiktakopahitāni",
+     "en": "processed with bitter drugs",
+     "hi": "तिक्त द्रव्यों से युक्त"
+    }
+   ],
+   "english": "For diseases located in asthi (bone), the treatment is pañcakarma, enemas (basti), and milk and ghee prepared with bitter drugs.",
+   "hindi": "अस्थि में आश्रित रोगों की चिकित्सा पञ्चकर्म, बस्ति, और तिक्त द्रव्यों से सिद्ध दूध व घी है।",
+   "explanation_en": "A well-known exam point: asthi-gata disorders are treated with basti and tikta kṣīra-sarpis. The reasoning given by commentators is that asthi and vāta share a seat (āśraya-āśrayī bhāva: vāta resides in asthi), so basti, the best treatment for vāta, is used; bitter drugs are used together with unctuous milk and ghee. This is often quoted as an example of a principle being applied with an apparent exception (tikta is normally vāta-aggravating).",
+   "explanation_hi": "प्रसिद्ध परीक्षा बिन्दु: अस्थिगत विकारों में बस्ति और तिक्त क्षीर-सर्पि। टीकाकारों का तर्क है कि अस्थि और वात का आश्रय-आश्रयी भाव है (वात अस्थि में रहता है), इसलिए वात की श्रेष्ठ चिकित्सा बस्ति प्रयोग की जाती है; तिक्त द्रव्य स्निग्ध दूध-घी के साथ दिए जाते हैं। इसे प्रायः ऐसे उदाहरण के रूप में दिया जाता है जहाँ सिद्धान्त अपवाद सहित लागू होता है (तिक्त सामान्यतः वातवर्धक है)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "asthigata vikāra",
+    "basti",
+    "tiktaka kṣīra sarpis",
+    "āśraya-āśrayī bhāva"
+   ],
+   "tags": [
+    "dhatu",
+    "treatment",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.28",
+   "word_meanings": [
+    {
+     "sa": "मज्जशुक्रसमुत्थानाम्",
+     "iast": "majja-śukra-samutthānām",
+     "en": "of disorders arising from marrow and semen",
+     "hi": "मज्जा और शुक्र से उत्पन्न विकारों की"
+    },
+    {
+     "sa": "औषधम्",
+     "iast": "auṣadham",
+     "en": "treatment",
+     "hi": "औषध"
+    },
+    {
+     "sa": "स्वादुतिक्तकम्",
+     "iast": "svādu-tiktakam",
+     "en": "sweet and bitter (drugs)",
+     "hi": "मधुर और तिक्त"
+    },
+    {
+     "sa": "अन्नम्",
+     "iast": "annam",
+     "en": "food",
+     "hi": "अन्न"
+    },
+    {
+     "sa": "व्यवाय",
+     "iast": "vyavāya",
+     "en": "sexual activity",
+     "hi": "व्यवाय (मैथुन)"
+    },
+    {
+     "sa": "व्यायामौ",
+     "iast": "vyāyāmau",
+     "en": "and exercise",
+     "hi": "और व्यायाम"
+    },
+    {
+     "sa": "शुद्धिः",
+     "iast": "śuddhiḥ",
+     "en": "purification",
+     "hi": "शोधन"
+    },
+    {
+     "sa": "काले",
+     "iast": "kāle",
+     "en": "at the proper time",
+     "hi": "उचित समय पर"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "मात्रया",
+     "iast": "mātrayā",
+     "en": "in proper measure",
+     "hi": "उचित मात्रा में"
+    }
+   ],
+   "english": "For disorders arising from majjā and śukra, the treatment is food and drugs of sweet and bitter taste, sexual activity and exercise, and purification, each at the proper time and in proper measure.",
+   "hindi": "मज्जा और शुक्र से उत्पन्न विकारों की चिकित्सा मधुर और तिक्त रस वाले आहार व औषध, मैथुन और व्यायाम, तथा शोधन है, सब उचित समय पर और उचित मात्रा में।",
+   "explanation_en": "Sweet substances nourish majjā and śukra; bitter ones are added (as for asthi). Regulated sexual activity and exercise are therapeutic only 'kāle ca mātrayā', at the right time and dose; this qualifier is a common exam point.",
+   "explanation_hi": "मधुर द्रव्य मज्जा और शुक्र का पोषण करते हैं; तिक्त भी (अस्थि की तरह) जोड़े गए हैं। मैथुन और व्यायाम तभी चिकित्सा हैं जब 'काले च मात्रया', उचित समय और मात्रा में हों; यह शर्त परीक्षा में पूछी जाती है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "majjā",
+    "śukra",
+    "madhura",
+    "tikta",
+    "vyavāya",
+    "vyāyāma"
+   ],
+   "tags": [
+    "dhatu",
+    "treatment",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.29",
+   "word_meanings": [
+    {
+     "sa": "शान्तिः",
+     "iast": "śāntiḥ",
+     "en": "pacification, cure",
+     "hi": "शान्ति (चिकित्सा)"
+    },
+    {
+     "sa": "इन्द्रियजानाम्",
+     "iast": "indriyajānām",
+     "en": "of disorders of the sense organs",
+     "hi": "इन्द्रियज विकारों की"
+    },
+    {
+     "sa": "त्रिमर्मीये",
+     "iast": "trimarmīye",
+     "en": "in the Trimarmīya chapter",
+     "hi": "त्रिमर्मीय अध्याय में"
+    },
+    {
+     "sa": "प्रवक्ष्यते",
+     "iast": "pravakṣyate",
+     "en": "will be explained",
+     "hi": "बताई जाएगी"
+    },
+    {
+     "sa": "स्नाय्वादिजानाम्",
+     "iast": "snāyvādijānām",
+     "en": "of disorders of snāyu etc.",
+     "hi": "स्नायु आदि के विकारों का"
+    },
+    {
+     "sa": "प्रशमः",
+     "iast": "praśamaḥ",
+     "en": "cure",
+     "hi": "प्रशमन"
+    },
+    {
+     "sa": "वातरोगिके",
+     "iast": "vātarogike",
+     "en": "in the chapter on vāta diseases",
+     "hi": "वातरोग अध्याय में"
+    }
+   ],
+   "english": "The cure of disorders of the sense organs will be explained in the Trimarmīya chapter (Ci 26), and the cure of disorders of snāyu etc. in the chapter on vāta diseases (Vātavyādhi, Ci 28).",
+   "hindi": "इन्द्रिय-विकारों की चिकित्सा त्रिमर्मीय अध्याय (चि. 26) में और स्नायु आदि के विकारों की चिकित्सा वातव्याधि अध्याय (चि. 28) में बताई जाएगी।",
+   "explanation_en": "Cross-references to the Cikitsāsthāna. Trimarmīya Cikitsā deals with diseases of the three vital organs (head, heart, bladder) including the sense organs of the head; Vātavyādhi Cikitsā covers neuromuscular disorders.",
+   "explanation_hi": "चिकित्सास्थान के सन्दर्भ। त्रिमर्मीय चिकित्सा तीन मर्मों (शिर, हृदय, बस्ति) के रोगों से सम्बन्धित है, जिसमें शिर की इन्द्रियाँ भी आती हैं; वातव्याधि चिकित्सा तन्त्रिका-पेशीय विकारों से।",
+   "modern_correlation": null,
+   "key_terms": [
+    "Trimarmīya",
+    "Vātavyādhi"
+   ],
+   "tags": [
+    "treatment",
+    "cross-reference"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.30",
+   "word_meanings": [
+    {
+     "sa": "नवेगान्धारणे अध्याये",
+     "iast": "navegāndhāraṇe adhyāye",
+     "en": "in the Navegāndhāraṇīya chapter",
+     "hi": "नवेगान्धारणीय अध्याय में"
+    },
+    {
+     "sa": "चिकित्सितसंग्रहः",
+     "iast": "cikitsitasaṃgrahaḥ",
+     "en": "summary of treatment",
+     "hi": "चिकित्सा का संक्षेप"
+    },
+    {
+     "sa": "कृतः",
+     "iast": "kṛtaḥ",
+     "en": "has been made",
+     "hi": "किया गया है"
+    },
+    {
+     "sa": "मलजानाम् विकाराणाम्",
+     "iast": "malajānām vikārāṇām",
+     "en": "of disorders of malas",
+     "hi": "मलज विकारों की"
+    },
+    {
+     "sa": "सिद्धिः",
+     "iast": "siddhiḥ",
+     "en": "successful treatment",
+     "hi": "सिद्धि (चिकित्सा)"
+    },
+    {
+     "sa": "उक्ता",
+     "iast": "uktā",
+     "en": "has been stated",
+     "hi": "कही गई है"
+    },
+    {
+     "sa": "क्वचित् क्वचित्",
+     "iast": "kvacit kvacit",
+     "en": "here and there",
+     "hi": "यत्र-तत्र"
+    }
+   ],
+   "english": "A summary of the treatment of disorders of the malas has been given in the Navegāndhāraṇīya chapter (Su 7), and their treatment is also stated here and there (in other places).",
+   "hindi": "मलज विकारों की चिकित्सा का संक्षेप नवेगान्धारणीय अध्याय (सू. 7) में दिया गया है, और यत्र-तत्र (अन्य स्थानों पर) भी उनकी चिकित्सा कही गई है।",
+   "explanation_en": "Mala disorders are linked with suppression of natural urges (vega-dhāraṇa) in Su 7, where the treatment of each suppressed urge is given. This completes the treatment section.",
+   "explanation_hi": "मल-विकार सू. 7 में वेगधारण (प्राकृतिक वेगों को रोकने) से जुड़े हैं, जहाँ प्रत्येक रुके वेग की चिकित्सा दी गई है। यहाँ चिकित्सा भाग पूरा होता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "Navegāndhāraṇīya",
+    "vegadhāraṇa",
+    "mala"
+   ],
+   "tags": [
+    "treatment",
+    "cross-reference"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.31",
+   "word_meanings": [
+    {
+     "sa": "व्यायामात्",
+     "iast": "vyāyāmāt",
+     "en": "due to exercise",
+     "hi": "व्यायाम से"
+    },
+    {
+     "sa": "ऊष्मणः तैक्ष्ण्यात्",
+     "iast": "ūṣmaṇaḥ taikṣṇyāt",
+     "en": "due to intensity of heat",
+     "hi": "ऊष्मा की तीक्ष्णता से"
+    },
+    {
+     "sa": "हितस्य अनवचारणात्",
+     "iast": "hitasya anavacāraṇāt",
+     "en": "due to not following what is wholesome",
+     "hi": "हितकर का पालन न करने से"
+    },
+    {
+     "sa": "कोष्ठात्",
+     "iast": "koṣṭhāt",
+     "en": "from the koṣṭha (alimentary tract/trunk)",
+     "hi": "कोष्ठ से"
+    },
+    {
+     "sa": "शाखाः",
+     "iast": "śākhāḥ",
+     "en": "to the śākhā (peripheral tissues)",
+     "hi": "शाखाओं में"
+    },
+    {
+     "sa": "मलाः",
+     "iast": "malāḥ",
+     "en": "doṣas",
+     "hi": "दोष (मल)"
+    },
+    {
+     "sa": "यान्ति",
+     "iast": "yānti",
+     "en": "go",
+     "hi": "जाते हैं"
+    },
+    {
+     "sa": "द्रुतत्वात्",
+     "iast": "drutatvāt",
+     "en": "due to quickness",
+     "hi": "शीघ्रगामिता से"
+    },
+    {
+     "sa": "मारुतस्य",
+     "iast": "mārutasya",
+     "en": "of vāyu",
+     "hi": "वायु की"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    }
+   ],
+   "english": "Because of exercise, intensity of (body) heat, failure to follow what is wholesome, and the quick movement of vāyu, the doṣas move from the koṣṭha (central alimentary tract) to the śākhā (peripheral tissues).",
+   "hindi": "व्यायाम, ऊष्मा की तीक्ष्णता, हितकर आचरण का पालन न करने और वायु की शीघ्र गति के कारण दोष कोष्ठ से शाखाओं (परिधीय धातुओं) में चले जाते हैं।",
+   "explanation_en": "Verses 31-33 describe doṣa-gati between koṣṭha and śākhā, a classic exam topic. Koṣṭha is the central tract (mahāsrotas); śākhā here refers to the peripheral tissues, i.e. rakta and the other dhātus with the skin (bāhya roga-mārga). Four causes for moving outward: vyāyāma, ūṣmā-taikṣṇya, ahita ācaraṇa, vāyu-drutatva. Learn both lists (31 and 33) together.",
+   "explanation_hi": "श्लोक 31-33 कोष्ठ और शाखा के बीच दोष-गति बताते हैं, जो प्रसिद्ध परीक्षा विषय है। कोष्ठ = केन्द्रीय मार्ग (महास्रोतस्); शाखा = परिधीय धातुएँ, अर्थात् रक्तादि धातुएँ और त्वचा (बाह्य रोगमार्ग)। बाहर जाने के चार कारण: व्यायाम, ऊष्मा की तीक्ष्णता, अहित आचरण, वायु की शीघ्रता। दोनों सूचियाँ (31 और 33) साथ याद करें।",
+   "modern_correlation": null,
+   "key_terms": [
+    "doṣagati",
+    "koṣṭha",
+    "śākhā",
+    "vyāyāma",
+    "ūṣmā"
+   ],
+   "tags": [
+    "dosha-gati",
+    "pathology",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Out to śākhā: 'VUHV' - Vyāyāma, Ūṣmā, Hita-neglect, Vāyu",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.32",
+   "word_meanings": [
+    {
+     "sa": "तत्रस्थाः",
+     "iast": "tatrasthāḥ",
+     "en": "staying there",
+     "hi": "वहाँ रहते हुए"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "विलम्बन्ते",
+     "iast": "vilambante",
+     "en": "linger, remain dormant",
+     "hi": "रुके रहते हैं"
+    },
+    {
+     "sa": "कदाचित्",
+     "iast": "kadācit",
+     "en": "sometimes",
+     "hi": "कभी"
+    },
+    {
+     "sa": "न समीरिताः",
+     "iast": "na samīritāḥ",
+     "en": "not stimulated",
+     "hi": "प्रेरित न होने पर"
+    },
+    {
+     "sa": "न अदेशकाले",
+     "iast": "na adeśakāle",
+     "en": "not at the wrong place and time",
+     "hi": "अनुचित देश-काल में नहीं"
+    },
+    {
+     "sa": "कुप्यन्ति",
+     "iast": "kupyanti",
+     "en": "become aggravated",
+     "hi": "कुपित होते हैं"
+    },
+    {
+     "sa": "भूयः",
+     "iast": "bhūyaḥ",
+     "en": "again",
+     "hi": "फिर"
+    },
+    {
+     "sa": "हेतुप्रतीक्षिणः",
+     "iast": "hetupratīkṣiṇaḥ",
+     "en": "awaiting a (further) cause",
+     "hi": "कारण की प्रतीक्षा करते हुए"
+    }
+   ],
+   "english": "Staying there, they sometimes linger without being provoked; they do not become aggravated at an unsuitable place and time, but wait for a further cause to become aggravated again.",
+   "hindi": "वहाँ रहते हुए वे कभी-कभी बिना प्रेरित हुए रुके रहते हैं; अनुकूल देश-काल न होने पर वे कुपित नहीं होते, बल्कि फिर से कुपित होने के लिए किसी कारण की प्रतीक्षा करते हैं।",
+   "explanation_en": "This describes a latent or dormant state of doṣas in the śākhā (līna doṣa). They flare up only when a suitable cause, season or place arrives, explaining recurrent and seasonal diseases. It is useful for explaining why some diseases relapse.",
+   "explanation_hi": "यह शाखा में दोषों की सुप्त अवस्था (लीन दोष) बताता है। उचित कारण, ऋतु या स्थान आने पर ही वे भड़कते हैं; इससे बार-बार होने वाले और ऋतुजन्य रोग समझ आते हैं। कुछ रोगों के पुनः होने को समझाने में उपयोगी।",
+   "modern_correlation": {
+    "en": "The idea of a cause lying latent and flaring up with a trigger is loosely comparable to latency and relapse in some modern conditions (for example latent infections or triggered flares of chronic inflammatory disease). The comparison is descriptive only.",
+    "hi": "किसी कारण का सुप्त रहकर किसी ट्रिगर से भड़कने का विचार कुछ आधुनिक स्थितियों में लेटेंसी और रिलैप्स (जैसे सुप्त संक्रमण या दीर्घकालिक शोथ रोगों का भड़कना) से ढीली समानता रखता है। यह केवल वर्णनात्मक तुलना है।"
+   },
+   "key_terms": [
+    "līna doṣa",
+    "hetu",
+    "deśa",
+    "kāla"
+   ],
+   "tags": [
+    "dosha-gati",
+    "pathology",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.33",
+   "word_meanings": [
+    {
+     "sa": "वृद्ध्या",
+     "iast": "vṛddhyā",
+     "en": "by increase",
+     "hi": "वृद्धि से"
+    },
+    {
+     "sa": "विष्यन्दनात्",
+     "iast": "viṣyandanāt",
+     "en": "by liquefaction",
+     "hi": "विष्यन्दन (द्रवीभवन) से"
+    },
+    {
+     "sa": "पाकात्",
+     "iast": "pākāt",
+     "en": "by maturation, digestion",
+     "hi": "पाक से"
+    },
+    {
+     "sa": "स्रोतोमुखविशोधनात्",
+     "iast": "srotomukhaviśodhanāt",
+     "en": "by clearing the openings of channels",
+     "hi": "स्रोतों के मुख की शुद्धि से"
+    },
+    {
+     "sa": "शाखाः मुक्त्वा",
+     "iast": "śākhāḥ muktvā",
+     "en": "leaving the śākhā",
+     "hi": "शाखाओं को छोड़कर"
+    },
+    {
+     "sa": "मलाः",
+     "iast": "malāḥ",
+     "en": "doṣas",
+     "hi": "दोष"
+    },
+    {
+     "sa": "कोष्ठम् यान्ति",
+     "iast": "koṣṭham yānti",
+     "en": "come to the koṣṭha",
+     "hi": "कोष्ठ में आते हैं"
+    },
+    {
+     "sa": "वायोः च निग्रहात्",
+     "iast": "vāyoḥ ca nigrahāt",
+     "en": "and by control of vāyu",
+     "hi": "और वायु के नियन्त्रण से"
+    }
+   ],
+   "english": "By (their) increase, by liquefaction, by maturation (pāka), by clearing of the openings of the channels, and by control of vāyu, the doṣas leave the śākhā and come back to the koṣṭha.",
+   "hindi": "वृद्धि, विष्यन्दन (द्रवीभवन), पाक, स्रोतों के मुख की शुद्धि और वायु के नियन्त्रण से दोष शाखाओं को छोड़कर कोष्ठ में आ जाते हैं।",
+   "explanation_en": "Five factors bring doṣas back from śākhā to koṣṭha. This is the theoretical basis of pañcakarma: snehana and svedana liquefy (viṣyandana) and mobilise doṣas, dīpana-pācana mature them (pāka), and clearing of channels and control of vāyu bring them to the koṣṭha, from where vamana or virecana can remove them. A very frequently asked question.",
+   "explanation_hi": "पाँच कारण दोषों को शाखा से कोष्ठ में लाते हैं। यही पञ्चकर्म का सैद्धान्तिक आधार है: स्नेहन और स्वेदन दोषों को द्रवित (विष्यन्दन) और गतिशील करते हैं, दीपन-पाचन उन्हें पकाते हैं (पाक), और स्रोतोमुख-शुद्धि व वायु-नियन्त्रण उन्हें कोष्ठ में लाते हैं, जहाँ से वमन या विरेचन द्वारा निकाला जाता है। बहुत पूछा जाने वाला प्रश्न।",
+   "modern_correlation": null,
+   "key_terms": [
+    "śākhā to koṣṭha",
+    "viṣyandana",
+    "pāka",
+    "srotomukha viśodhana",
+    "vāyunigraha",
+    "pañcakarma"
+   ],
+   "tags": [
+    "dosha-gati",
+    "panchakarma",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Back to koṣṭha: 'VVPSV' - Vṛddhi, Viṣyandana, Pāka, Srotomukha-śodhana, Vāyu-nigraha",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.34",
+   "word_meanings": [
+    {
+     "sa": "अजातानाम्",
+     "iast": "ajātānām",
+     "en": "of those not yet arisen",
+     "hi": "जो उत्पन्न नहीं हुए"
+    },
+    {
+     "sa": "अनुत्पत्तौ",
+     "iast": "anutpattau",
+     "en": "for non-occurrence",
+     "hi": "उत्पन्न न होने के लिए"
+    },
+    {
+     "sa": "जातानाम्",
+     "iast": "jātānām",
+     "en": "of those arisen",
+     "hi": "जो उत्पन्न हो गए"
+    },
+    {
+     "sa": "विनिवृत्तये",
+     "iast": "vinivṛttaye",
+     "en": "for removal",
+     "hi": "निवारण के लिए"
+    },
+    {
+     "sa": "रोगाणाम्",
+     "iast": "rogāṇām",
+     "en": "of diseases",
+     "hi": "रोगों के"
+    },
+    {
+     "sa": "यः विधिः दृष्टः",
+     "iast": "yaḥ vidhiḥ dṛṣṭaḥ",
+     "en": "whatever method has been seen (prescribed)",
+     "hi": "जो विधि बताई गई है"
+    },
+    {
+     "sa": "सुखार्थी",
+     "iast": "sukhārthī",
+     "en": "one who desires happiness",
+     "hi": "सुख चाहने वाला"
+    },
+    {
+     "sa": "तम् समाचरेत्",
+     "iast": "tam samācaret",
+     "en": "should follow it",
+     "hi": "उसका पालन करे"
+    }
+   ],
+   "english": "One who desires happiness should follow the regimen that has been laid down for preventing diseases that have not yet arisen and for curing those that have arisen.",
+   "hindi": "सुख चाहने वाले को उस विधि का पालन करना चाहिए जो अनुत्पन्न रोगों को रोकने और उत्पन्न रोगों को दूर करने के लिए बताई गई है।",
+   "explanation_en": "Restates the twofold aim of Āyurveda (prevention and cure). It also begins the final section on conduct and the role of wisdom (verses 34-44).",
+   "explanation_hi": "आयुर्वेद के दोहरे उद्देश्य (रोकथाम और चिकित्सा) को दोहराता है। इससे आचरण और बुद्धि की भूमिका वाला अन्तिम भाग (श्लोक 34-44) शुरू होता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "prevention",
+    "cure"
+   ],
+   "tags": [
+    "prevention",
+    "principles"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.35",
+   "word_meanings": [
+    {
+     "sa": "सुखार्थाः",
+     "iast": "sukhārthāḥ",
+     "en": "aimed at happiness",
+     "hi": "सुख के लिए"
+    },
+    {
+     "sa": "सर्वभूतानाम्",
+     "iast": "sarvabhūtānām",
+     "en": "of all beings",
+     "hi": "सब प्राणियों की"
+    },
+    {
+     "sa": "मताः",
+     "iast": "matāḥ",
+     "en": "are considered",
+     "hi": "मानी गई हैं"
+    },
+    {
+     "sa": "सर्वाः प्रवृत्तयः",
+     "iast": "sarvāḥ pravṛttayaḥ",
+     "en": "all activities",
+     "hi": "सब प्रवृत्तियाँ"
+    },
+    {
+     "sa": "ज्ञानअज्ञानविशेषात्",
+     "iast": "jñāna-ajñāna-viśeṣāt",
+     "en": "owing to difference of knowledge and ignorance",
+     "hi": "ज्ञान और अज्ञान के भेद से"
+    },
+    {
+     "sa": "मार्गअमार्गप्रवृत्तयः",
+     "iast": "mārga-amārga-pravṛttayaḥ",
+     "en": "activities on the right or wrong path",
+     "hi": "सही या गलत मार्ग पर प्रवृत्तियाँ"
+    }
+   ],
+   "english": "All activities of all beings are considered to be aimed at happiness; but because of the difference between knowledge and ignorance, people act on the right path or the wrong one.",
+   "hindi": "सब प्राणियों की सब प्रवृत्तियाँ सुख के लिए मानी जाती हैं; परन्तु ज्ञान और अज्ञान के भेद से लोग सही या गलत मार्ग पर चलते हैं।",
+   "explanation_en": "Everyone seeks happiness; what differs is knowledge. This sets up the contrast between the wise examiner (parīkṣaka) and the ordinary person (laukika) in the next verse.",
+   "explanation_hi": "हर कोई सुख चाहता है; अन्तर ज्ञान का है। इससे अगले श्लोक में परीक्षक (विचारशील) और लौकिक (साधारण) व्यक्ति का अन्तर आता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sukha",
+    "jñāna",
+    "ajñāna"
+   ],
+   "tags": [
+    "conduct",
+    "psychology"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.36",
+   "word_meanings": [
+    {
+     "sa": "हितम् एव",
+     "iast": "hitam eva",
+     "en": "only the wholesome",
+     "hi": "हितकर को ही"
+    },
+    {
+     "sa": "अनुरुध्यन्ते",
+     "iast": "anurudhyante",
+     "en": "pursue",
+     "hi": "अपनाते हैं"
+    },
+    {
+     "sa": "प्रपरीक्ष्य",
+     "iast": "praparīkṣya",
+     "en": "after careful examination",
+     "hi": "भली-भाँति परखकर"
+    },
+    {
+     "sa": "परीक्षकाः",
+     "iast": "parīkṣakāḥ",
+     "en": "the discerning, examiners",
+     "hi": "परीक्षक (विवेकी)"
+    },
+    {
+     "sa": "रजोमोहआवृतआत्मानः",
+     "iast": "rajo-moha-āvṛta-ātmānaḥ",
+     "en": "whose minds are covered by rajas and delusion",
+     "hi": "रज और मोह से ढके मन वाले"
+    },
+    {
+     "sa": "प्रियम् एव",
+     "iast": "priyam eva",
+     "en": "only the pleasant",
+     "hi": "प्रिय को ही"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "परन्तु"
+    },
+    {
+     "sa": "लौकिकाः",
+     "iast": "laukikāḥ",
+     "en": "ordinary people",
+     "hi": "लौकिक (साधारण) लोग"
+    }
+   ],
+   "english": "The discerning (parīkṣaka), after careful examination, pursue only what is wholesome; but ordinary people (laukika), whose minds are clouded by rajas and delusion, pursue only what is pleasant.",
+   "hindi": "परीक्षक (विवेकी) लोग भली-भाँति परखकर केवल हितकर को अपनाते हैं; परन्तु लौकिक (साधारण) लोग, जिनका मन रज और मोह से ढका है, केवल प्रिय को अपनाते हैं।",
+   "explanation_en": "A memorable contrast: hita (wholesome) versus priya (pleasant). Ayurvedic dietetics and lifestyle advice depend on this discernment. Compare the Kaṭha Upaniṣad's śreyas vs preyas. Often asked: 'Differentiate parīkṣaka and laukika.'",
+   "explanation_hi": "याद रखने योग्य अन्तर: हित (लाभकारी) बनाम प्रिय (अच्छा लगने वाला)। आयुर्वेद का आहार-विहार उपदेश इसी विवेक पर टिका है। कठोपनिषद् के श्रेय और प्रेय से तुलना करें। प्रश्न: 'परीक्षक और लौकिक में अन्तर बताइए।'",
+   "modern_correlation": {
+    "en": "The contrast between choosing what is healthy and what is immediately pleasant parallels modern behavioural science on health behaviour, self-control and present bias (preferring immediate rewards over long-term benefits).",
+    "hi": "स्वस्थ और तुरन्त सुखद के बीच चुनाव का यह अन्तर स्वास्थ्य-व्यवहार, आत्म-नियन्त्रण और 'प्रेज़ेंट बायस' (दीर्घकालिक लाभ की बजाय तुरन्त पुरस्कार को प्राथमिकता) पर आधुनिक व्यवहार विज्ञान से मेल खाता है।"
+   },
+   "key_terms": [
+    "parīkṣaka",
+    "laukika",
+    "hita",
+    "priya",
+    "rajas",
+    "moha"
+   ],
+   "tags": [
+    "conduct",
+    "psychology",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.37",
+   "word_meanings": [
+    {
+     "sa": "श्रुतम्",
+     "iast": "śrutam",
+     "en": "learning",
+     "hi": "शास्त्र-ज्ञान"
+    },
+    {
+     "sa": "बुद्धिः",
+     "iast": "buddhiḥ",
+     "en": "intellect",
+     "hi": "बुद्धि"
+    },
+    {
+     "sa": "स्मृतिः",
+     "iast": "smṛtiḥ",
+     "en": "memory",
+     "hi": "स्मृति"
+    },
+    {
+     "sa": "दाक्ष्यम्",
+     "iast": "dākṣyam",
+     "en": "skill",
+     "hi": "दक्षता"
+    },
+    {
+     "sa": "धृतिः",
+     "iast": "dhṛtiḥ",
+     "en": "steadiness",
+     "hi": "धृति"
+    },
+    {
+     "sa": "हितनिषेवणम्",
+     "iast": "hitaniṣevaṇam",
+     "en": "practice of wholesome things",
+     "hi": "हितकर का सेवन"
+    },
+    {
+     "sa": "वाग्विशुद्धिः",
+     "iast": "vāgviśuddhiḥ",
+     "en": "purity of speech",
+     "hi": "वाणी की शुद्धता"
+    },
+    {
+     "sa": "शमः",
+     "iast": "śamaḥ",
+     "en": "calmness",
+     "hi": "शम"
+    },
+    {
+     "sa": "धैर्यम्",
+     "iast": "dhairyam",
+     "en": "courage, patience",
+     "hi": "धैर्य"
+    },
+    {
+     "sa": "आश्रयन्ति",
+     "iast": "āśrayanti",
+     "en": "resort to",
+     "hi": "आश्रय लेते हैं"
+    },
+    {
+     "sa": "परीक्षकम्",
+     "iast": "parīkṣakam",
+     "en": "the discerning person",
+     "hi": "परीक्षक का"
+    }
+   ],
+   "english": "Learning, intellect, memory, skill, steadiness, the practice of what is wholesome, purity of speech, calmness and courage reside in the discerning person.",
+   "hindi": "शास्त्र-ज्ञान, बुद्धि, स्मृति, दक्षता, धृति, हितकर का सेवन, वाणी की शुद्धता, शम और धैर्य परीक्षक व्यक्ति में रहते हैं।",
+   "explanation_en": "Nine qualities of the discerning person, which are also qualities expected of a good physician and student.",
+   "explanation_hi": "परीक्षक व्यक्ति के नौ गुण, जो अच्छे वैद्य और विद्यार्थी में भी अपेक्षित हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "parīkṣaka",
+    "śruta",
+    "buddhi",
+    "smṛti",
+    "dhṛti",
+    "śama"
+   ],
+   "tags": [
+    "conduct",
+    "psychology"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.38",
+   "word_meanings": [
+    {
+     "sa": "लौकिकम्",
+     "iast": "laukikam",
+     "en": "the ordinary person",
+     "hi": "लौकिक व्यक्ति का"
+    },
+    {
+     "sa": "न आश्रयन्ति",
+     "iast": "na āśrayanti",
+     "en": "do not resort to",
+     "hi": "आश्रय नहीं लेते"
+    },
+    {
+     "sa": "एते गुणाः",
+     "iast": "ete guṇāḥ",
+     "en": "these qualities",
+     "hi": "ये गुण"
+    },
+    {
+     "sa": "मोहरजःश्रितम्",
+     "iast": "moha-rajaḥ-śritam",
+     "en": "who is under delusion and rajas",
+     "hi": "मोह और रज के अधीन"
+    },
+    {
+     "sa": "तन्मूलाः",
+     "iast": "tanmūlāḥ",
+     "en": "rooted in that",
+     "hi": "उसी पर आधारित"
+    },
+    {
+     "sa": "बहवः",
+     "iast": "bahavaḥ",
+     "en": "many",
+     "hi": "अनेक"
+    },
+    {
+     "sa": "यान्ति",
+     "iast": "yānti",
+     "en": "arise",
+     "hi": "होते हैं"
+    },
+    {
+     "sa": "रोगाः",
+     "iast": "rogāḥ",
+     "en": "diseases",
+     "hi": "रोग"
+    },
+    {
+     "sa": "शारीरमानसाः",
+     "iast": "śārīra-mānasāḥ",
+     "en": "physical and mental",
+     "hi": "शारीरिक और मानसिक"
+    }
+   ],
+   "english": "These qualities do not reside in the ordinary person, who is under the sway of delusion and rajas; and many physical and mental diseases arise rooted in that (lack).",
+   "hindi": "ये गुण मोह और रज के अधीन लौकिक व्यक्ति में नहीं रहते; और इसी कमी के कारण अनेक शारीरिक और मानसिक रोग उत्पन्न होते हैं।",
+   "explanation_en": "Lack of these qualities leads to both bodily and mental disease. This introduces prajñāparādha in the next verse as a root cause of disease.",
+   "explanation_hi": "इन गुणों की कमी से शारीरिक और मानसिक दोनों रोग होते हैं। इससे अगले श्लोक में प्रज्ञापराध को रोग के मूल कारण के रूप में बताया गया है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "laukika",
+    "rajas",
+    "moha",
+    "śārīra roga",
+    "mānasa roga"
+   ],
+   "tags": [
+    "conduct",
+    "psychology"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.39",
+   "word_meanings": [
+    {
+     "sa": "प्रज्ञापराधात्",
+     "iast": "prajñāparādhāt",
+     "en": "due to intellectual error",
+     "hi": "प्रज्ञापराध से"
+    },
+    {
+     "sa": "हि",
+     "iast": "hi",
+     "en": "indeed",
+     "hi": "निश्चय ही"
+    },
+    {
+     "sa": "अहितान् अर्थान् पञ्च",
+     "iast": "ahitān arthān pañca",
+     "en": "the five unwholesome sense objects",
+     "hi": "पाँच अहितकर इन्द्रियार्थों का"
+    },
+    {
+     "sa": "निषेवते",
+     "iast": "niṣevate",
+     "en": "indulges in",
+     "hi": "सेवन करता है"
+    },
+    {
+     "sa": "संधारयति",
+     "iast": "saṃdhārayati",
+     "en": "suppresses",
+     "hi": "रोकता है"
+    },
+    {
+     "sa": "वेगान्",
+     "iast": "vegān",
+     "en": "natural urges",
+     "hi": "वेगों को"
+    },
+    {
+     "sa": "सेवते",
+     "iast": "sevate",
+     "en": "indulges in",
+     "hi": "करता है"
+    },
+    {
+     "sa": "साहसानि",
+     "iast": "sāhasāni",
+     "en": "rash acts, overexertion",
+     "hi": "साहस (अति कर्म)"
+    }
+   ],
+   "english": "Because of intellectual error (prajñāparādha), a person indulges in the five unwholesome sense objects, suppresses natural urges and undertakes rash acts.",
+   "hindi": "प्रज्ञापराध के कारण मनुष्य पाँच अहितकर इन्द्रियार्थों का सेवन करता है, वेगों को रोकता है और साहस (शक्ति से अधिक कार्य) करता है।",
+   "explanation_en": "Prajñāparādha (failure of dhī, dhṛti and smṛti, defined in Śā 1.102) is shown as the root of other causes: misuse of the senses, suppression of urges (Su 7) and rash acts. Exam point: prajñāparādha is one of the trividha hetu of disease.",
+   "explanation_hi": "प्रज्ञापराध (धी, धृति और स्मृति का भ्रंश, शा. 1.102 में परिभाषित) को अन्य कारणों का मूल बताया गया है: इन्द्रियों का दुरुपयोग, वेगधारण (सू. 7) और साहस। परीक्षा बिन्दु: प्रज्ञापराध रोग के त्रिविध हेतुओं में से एक है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "prajñāparādha",
+    "vegadhāraṇa",
+    "sāhasa",
+    "asātmyendriyārtha"
+   ],
+   "tags": [
+    "etiology",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.40",
+   "word_meanings": [
+    {
+     "sa": "तदात्वसुखसंज्ञेषु",
+     "iast": "tadātva-sukha-saṃjñeṣu",
+     "en": "in things pleasant only for the moment",
+     "hi": "तात्कालिक सुख देने वाले"
+    },
+    {
+     "sa": "भावेषु",
+     "iast": "bhāveṣu",
+     "en": "objects",
+     "hi": "पदार्थों में"
+    },
+    {
+     "sa": "अज्ञः",
+     "iast": "ajñaḥ",
+     "en": "the ignorant",
+     "hi": "अज्ञानी"
+    },
+    {
+     "sa": "अनुरज्यते",
+     "iast": "anurajyate",
+     "en": "becomes attached",
+     "hi": "आसक्त होता है"
+    },
+    {
+     "sa": "रज्यते न",
+     "iast": "rajyate na",
+     "en": "is not attached",
+     "hi": "आसक्त नहीं होता"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "परन्तु"
+    },
+    {
+     "sa": "विज्ञाता",
+     "iast": "vijñātā",
+     "en": "the knowing person",
+     "hi": "ज्ञानी"
+    },
+    {
+     "sa": "विज्ञाने अमलीकृते",
+     "iast": "vijñāne amalīkṛte",
+     "en": "his knowledge having been purified",
+     "hi": "ज्ञान के निर्मल होने पर"
+    }
+   ],
+   "english": "The ignorant become attached to things that give only momentary pleasure; but the knowing person, whose understanding has been purified, does not become attached to them.",
+   "hindi": "अज्ञानी तात्कालिक सुख देने वाले पदार्थों में आसक्त होता है; परन्तु जिसका ज्ञान निर्मल हो गया है, वह ज्ञानी उनमें आसक्त नहीं होता।",
+   "explanation_en": "Continues the parīkṣaka-laukika contrast: momentary pleasure versus lasting benefit. Purified knowledge (vijñāna) protects against harmful attachment.",
+   "explanation_hi": "परीक्षक-लौकिक अन्तर जारी: तात्कालिक सुख बनाम स्थायी लाभ। निर्मल ज्ञान हानिकारक आसक्ति से बचाता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "tadātva sukha",
+    "vijñāna"
+   ],
+   "tags": [
+    "conduct",
+    "psychology"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.41",
+   "word_meanings": [
+    {
+     "sa": "न रागात्",
+     "iast": "na rāgāt",
+     "en": "not out of attachment (craving)",
+     "hi": "राग (लालसा) से नहीं"
+    },
+    {
+     "sa": "न अपि अविज्ञानात्",
+     "iast": "na api avijñānāt",
+     "en": "nor out of ignorance",
+     "hi": "न अज्ञान से"
+    },
+    {
+     "sa": "आहारान्",
+     "iast": "āhārān",
+     "en": "foods",
+     "hi": "आहार का"
+    },
+    {
+     "sa": "उपयोजयेत्",
+     "iast": "upayojayet",
+     "en": "one should use",
+     "hi": "सेवन करे"
+    },
+    {
+     "sa": "परीक्ष्य",
+     "iast": "parīkṣya",
+     "en": "after examining",
+     "hi": "परखकर"
+    },
+    {
+     "sa": "हितम्",
+     "iast": "hitam",
+     "en": "wholesome",
+     "hi": "हितकर"
+    },
+    {
+     "sa": "अश्नीयात्",
+     "iast": "aśnīyāt",
+     "en": "should eat",
+     "hi": "खाए"
+    },
+    {
+     "sa": "देहः",
+     "iast": "dehaḥ",
+     "en": "the body",
+     "hi": "शरीर"
+    },
+    {
+     "sa": "हि",
+     "iast": "hi",
+     "en": "because",
+     "hi": "क्योंकि"
+    },
+    {
+     "sa": "आहारसंभवः",
+     "iast": "āhārasaṃbhavaḥ",
+     "en": "is born of food",
+     "hi": "आहार से उत्पन्न"
+    }
+   ],
+   "english": "One should not take food out of craving or out of ignorance; one should eat what is wholesome after examining it, for the body is born of food.",
+   "hindi": "राग (लालसा) या अज्ञान से आहार का सेवन नहीं करना चाहिए; परखकर हितकर ही खाना चाहिए, क्योंकि शरीर आहार से ही बना है।",
+   "explanation_en": "A key quotation: 'deho hy āhārasaṃbhavaḥ' (the body arises from food). It summarises the chapter's teaching. Very commonly cited in answers on the importance of āhāra.",
+   "explanation_hi": "मुख्य उद्धरण: 'देहो ह्याहारसंभवः' (शरीर आहार से बनता है)। यह अध्याय की शिक्षा का सार है। आहार के महत्त्व वाले उत्तरों में बहुत उद्धृत होता है।",
+   "modern_correlation": {
+    "en": "The statement that the body is built from food agrees with the basic fact of nutrition science that body tissues are synthesised from dietary nutrients, and that informed food choices matter for health.",
+    "hi": "यह कथन कि शरीर आहार से बनता है, पोषण विज्ञान के मूल तथ्य से मेल खाता है कि शरीर के ऊतक आहार के पोषक तत्त्वों से बनते हैं, और सोच-समझकर आहार चुनना स्वास्थ्य के लिए महत्त्वपूर्ण है।"
+   },
+   "key_terms": [
+    "āhāra",
+    "deha",
+    "rāga",
+    "parīkṣā"
+   ],
+   "tags": [
+    "ahara",
+    "quotable",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.42",
+   "word_meanings": [
+    {
+     "sa": "आहारस्य विधौ",
+     "iast": "āhārasya vidhau",
+     "en": "in the method of taking food",
+     "hi": "आहार की विधि में"
+    },
+    {
+     "sa": "अष्टौ विशेषाः",
+     "iast": "aṣṭau viśeṣāḥ",
+     "en": "eight special factors",
+     "hi": "आठ विशेष"
+    },
+    {
+     "sa": "हेतुसंज्ञकाः",
+     "iast": "hetusaṃjñakāḥ",
+     "en": "called causes",
+     "hi": "हेतु कहलाने वाले"
+    },
+    {
+     "sa": "शुभअशुभसमुत्पत्तौ",
+     "iast": "śubha-aśubha-samutpattau",
+     "en": "in producing good and bad results",
+     "hi": "शुभ और अशुभ फल की उत्पत्ति में"
+    },
+    {
+     "sa": "तान् परीक्ष्य",
+     "iast": "tān parīkṣya",
+     "en": "having examined them",
+     "hi": "उन्हें परखकर"
+    },
+    {
+     "sa": "प्रयोजयेत्",
+     "iast": "prayojayet",
+     "en": "one should use (food)",
+     "hi": "प्रयोग करे"
+    }
+   ],
+   "english": "In the method of taking food there are eight special factors, called the causes of good and bad results; one should take food after examining them.",
+   "hindi": "आहार-विधि में आठ विशेष (आहारविधि-विशेषायतन) हैं, जिन्हें शुभ और अशुभ फल का हेतु कहा जाता है; उन्हें परखकर ही आहार का प्रयोग करना चाहिए।",
+   "explanation_en": "The eight factors are the 'aṣṭa āhāravidhi viśeṣāyatana' described in Vimāna 1.21: prakṛti (nature of food), karaṇa (processing), saṃyoga (combination), rāśi (quantity), deśa (place), kāla (time), upayoga-saṃsthā (rules of eating) and upayoktā (the consumer). This is one of the most frequently asked questions.",
+   "explanation_hi": "ये आठ 'अष्ट आहारविधि विशेषायतन' हैं जो विमान 1.21 में बताए गए हैं: प्रकृति, करण (संस्कार), संयोग, राशि (मात्रा), देश, काल, उपयोगसंस्था (भोजन के नियम) और उपयोक्ता (खाने वाला)। यह बहुत पूछा जाने वाला प्रश्न है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "aṣṭa āhāravidhi viśeṣāyatana",
+    "prakṛti",
+    "karaṇa",
+    "saṃyoga",
+    "rāśi",
+    "deśa",
+    "kāla",
+    "upayogasaṃsthā",
+    "upayoktā"
+   ],
+   "tags": [
+    "ahara",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "'PKS-RDK-UU': Prakṛti, Karaṇa, Saṃyoga, Rāśi, Deśa, Kāla, Upayogasaṃsthā, Upayoktā",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.43",
+   "word_meanings": [
+    {
+     "sa": "परिहार्याणि",
+     "iast": "parihāryāṇi",
+     "en": "to be avoided",
+     "hi": "त्यागने योग्य"
+    },
+    {
+     "sa": "अपथ्यानि",
+     "iast": "apathyāni",
+     "en": "unwholesome things",
+     "hi": "अपथ्य"
+    },
+    {
+     "sa": "सदा",
+     "iast": "sadā",
+     "en": "always",
+     "hi": "सदा"
+    },
+    {
+     "sa": "परिहरन्",
+     "iast": "pariharan",
+     "en": "avoiding",
+     "hi": "त्यागते हुए"
+    },
+    {
+     "sa": "नरः",
+     "iast": "naraḥ",
+     "en": "a person",
+     "hi": "मनुष्य"
+    },
+    {
+     "sa": "भवति",
+     "iast": "bhavati",
+     "en": "becomes",
+     "hi": "होता है"
+    },
+    {
+     "sa": "अनृणताम् प्राप्तः",
+     "iast": "anṛṇatām prāptaḥ",
+     "en": "freed from debt",
+     "hi": "ऋण से मुक्त"
+    },
+    {
+     "sa": "साधूनाम्",
+     "iast": "sādhūnām",
+     "en": "to the good (sages)",
+     "hi": "सज्जनों (ऋषियों) के"
+    },
+    {
+     "sa": "इह",
+     "iast": "iha",
+     "en": "here",
+     "hi": "यहाँ"
+    },
+    {
+     "sa": "पण्डितः",
+     "iast": "paṇḍitaḥ",
+     "en": "wise",
+     "hi": "विद्वान"
+    }
+   ],
+   "english": "A wise person who always avoids the unwholesome things that ought to be avoided becomes free of his debt to the good (the sages who taught this).",
+   "hindi": "जो विद्वान मनुष्य त्यागने योग्य अपथ्यों का सदा त्याग करता है, वह सज्जनों (इस ज्ञान के उपदेशक ऋषियों) के ऋण से मुक्त हो जाता है।",
+   "explanation_en": "Following wholesome advice is described as repaying a debt to the sages. Cakrapāṇi says that by avoiding apathya one is free from blame by the wise, having done one's part.",
+   "explanation_hi": "हितकर उपदेश का पालन ऋषियों का ऋण चुकाने जैसा बताया गया है। चक्रपाणि कहते हैं कि अपथ्य त्यागकर व्यक्ति अपना कर्तव्य पूरा करता है और विद्वानों की निन्दा से मुक्त रहता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "apathya",
+    "parihāra"
+   ],
+   "tags": [
+    "conduct"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.44",
+   "word_meanings": [
+    {
+     "sa": "यत् तु",
+     "iast": "yat tu",
+     "en": "but that which",
+     "hi": "परन्तु जो"
+    },
+    {
+     "sa": "रोगसमुत्थानम्",
+     "iast": "rogasamutthānam",
+     "en": "cause of disease",
+     "hi": "रोग का कारण"
+    },
+    {
+     "sa": "अशक्यम्",
+     "iast": "aśakyam",
+     "en": "impossible",
+     "hi": "असम्भव"
+    },
+    {
+     "sa": "इह",
+     "iast": "iha",
+     "en": "here",
+     "hi": "यहाँ"
+    },
+    {
+     "sa": "केनचित्",
+     "iast": "kenacit",
+     "en": "by anyone",
+     "hi": "किसी के द्वारा"
+    },
+    {
+     "sa": "परिहर्तुम्",
+     "iast": "parihartum",
+     "en": "to avoid",
+     "hi": "टालना"
+    },
+    {
+     "sa": "न तत् प्राप्य",
+     "iast": "na tat prāpya",
+     "en": "not on getting that",
+     "hi": "उसके आने पर नहीं"
+    },
+    {
+     "sa": "शोचितव्यम्",
+     "iast": "śocitavyam",
+     "en": "should grieve",
+     "hi": "शोक करना चाहिए"
+    },
+    {
+     "sa": "मनीषिभिः",
+     "iast": "manīṣibhiḥ",
+     "en": "by the wise",
+     "hi": "बुद्धिमानों द्वारा"
+    }
+   ],
+   "english": "But the wise should not grieve on meeting a cause of disease that nobody in this world can avoid.",
+   "hindi": "परन्तु जिस रोग-कारण को इस संसार में कोई टाल नहीं सकता, उसके आ जाने पर बुद्धिमानों को शोक नहीं करना चाहिए।",
+   "explanation_en": "Some causes (e.g. ageing, natural death, unavoidable seasonal and fate-related factors) cannot be avoided by anyone. The wise accept them calmly rather than grieving. This balances the emphasis on personal responsibility in the previous verses.",
+   "explanation_hi": "कुछ कारण (जैसे वृद्धावस्था, स्वाभाविक मृत्यु, अपरिहार्य ऋतु या दैव सम्बन्धी कारण) कोई भी नहीं टाल सकता। बुद्धिमान उन्हें शान्ति से स्वीकारते हैं। यह पिछले श्लोकों में व्यक्तिगत उत्तरदायित्व पर दिए जोर को सन्तुलित करता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "svabhāva",
+    "aparihārya hetu"
+   ],
+   "tags": [
+    "conduct"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.45",
+   "word_meanings": [
+    {
+     "sa": "आहारसंभवम्",
+     "iast": "āhārasaṃbhavam",
+     "en": "(the body) born of food",
+     "hi": "आहार से उत्पन्न (शरीर)"
+    },
+    {
+     "sa": "यः तु",
+     "iast": "yaḥ tu",
+     "en": "which",
+     "hi": "जो"
+    },
+    {
+     "sa": "रोगाः च आहारसंभवाः",
+     "iast": "rogāḥ ca āhārasaṃbhavāḥ",
+     "en": "and diseases born of food",
+     "hi": "और आहार से उत्पन्न रोग"
+    },
+    {
+     "sa": "हिताहितविशेषान्",
+     "iast": "hitāhitaviśeṣān",
+     "en": "distinctions of wholesome and unwholesome",
+     "hi": "हित-अहित के भेद"
+    },
+    {
+     "sa": "विशेषः सुखदुःखयोः",
+     "iast": "viśeṣaḥ sukhaduḥkhayoḥ",
+     "en": "difference of happiness and unhappiness",
+     "hi": "सुख-दुःख का भेद"
+    }
+   ],
+   "english": "(Summary:) How the body arises from food and how diseases arise from food; the distinctions of wholesome and unwholesome (food); the difference of happiness and unhappiness (health and disease);",
+   "hindi": "(सारांश:) शरीर आहार से कैसे बनता है और रोग आहार से कैसे होते हैं; हित-अहित आहार के भेद; सुख-दुःख (स्वास्थ्य-रोग) का भेद;",
+   "explanation_en": "Verses 45-48 are the summary (saṃgraha) of the chapter, listing its topics. Useful for quick revision.",
+   "explanation_hi": "श्लोक 45-48 अध्याय का सारांश (संग्रह) हैं, जिनमें विषयों की सूची है। शीघ्र दोहराने के लिए उपयोगी।",
+   "modern_correlation": null,
+   "key_terms": [
+    "saṃgraha"
+   ],
+   "tags": [
+    "summary"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.46",
+   "word_meanings": [
+    {
+     "sa": "सहत्वे च असहत्वे च",
+     "iast": "sahatve ca asahatve ca",
+     "en": "in tolerance and intolerance",
+     "hi": "सहनशीलता और असहनशीलता में"
+    },
+    {
+     "sa": "दुःखानाम्",
+     "iast": "duḥkhānām",
+     "en": "of sufferings (diseases)",
+     "hi": "दुःखों (रोगों) की"
+    },
+    {
+     "sa": "देहसत्त्वयोः",
+     "iast": "deha-sattvayoḥ",
+     "en": "of body and mind",
+     "hi": "शरीर और मन की"
+    },
+    {
+     "sa": "विशेषः",
+     "iast": "viśeṣaḥ",
+     "en": "distinction",
+     "hi": "भेद"
+    },
+    {
+     "sa": "रोगसंघाः",
+     "iast": "rogasaṃghāḥ",
+     "en": "groups of diseases",
+     "hi": "रोगों के समूह"
+    },
+    {
+     "sa": "धातुजाः",
+     "iast": "dhātujāḥ",
+     "en": "arising from dhātus",
+     "hi": "धातुओं से उत्पन्न"
+    },
+    {
+     "sa": "पृथक् पृथक्",
+     "iast": "pṛthak pṛthak",
+     "en": "separately",
+     "hi": "अलग-अलग"
+    }
+   ],
+   "english": "the difference between bodies and minds that can and cannot resist disease; the groups of diseases arising separately from each dhātu;",
+   "hindi": "रोगों को सहन कर सकने और न कर सकने वाले शरीर और मन का भेद; प्रत्येक धातु से अलग-अलग उत्पन्न होने वाले रोग-समूह;",
+   "explanation_en": "Summary continues: vyādhikṣamatva (verse 7) and dhātu-pradoṣaja vikāras (verses 9-22).",
+   "explanation_hi": "सारांश जारी: व्याधिक्षमत्व (श्लोक 7) और धातुप्रदोषज विकार (श्लोक 9-22)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "saṃgraha",
+    "vyādhikṣamatva"
+   ],
+   "tags": [
+    "summary"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.47",
+   "word_meanings": [
+    {
+     "sa": "तेषाम् च एव प्रशमनम्",
+     "iast": "teṣām ca eva praśamanam",
+     "en": "and their treatment",
+     "hi": "और उनका शमन"
+    },
+    {
+     "sa": "कोष्ठात् शाखाः उपेत्य",
+     "iast": "koṣṭhāt śākhāḥ upetya",
+     "en": "moving from koṣṭha to śākhā",
+     "hi": "कोष्ठ से शाखाओं में जाकर"
+    },
+    {
+     "sa": "दोषाः यथा प्रकुप्यन्ति",
+     "iast": "doṣāḥ yathā prakupyanti",
+     "en": "how the doṣas become aggravated",
+     "hi": "दोष कैसे कुपित होते हैं"
+    },
+    {
+     "sa": "शाखाभ्यः कोष्ठम् एत्य",
+     "iast": "śākhābhyaḥ koṣṭham etya",
+     "en": "returning from śākhā to koṣṭha",
+     "hi": "शाखाओं से कोष्ठ में आकर"
+    }
+   ],
+   "english": "their treatment; how the doṣas move from the koṣṭha to the śākhā and become aggravated, and how they come back from the śākhā to the koṣṭha;",
+   "hindi": "उनकी चिकित्सा; दोष कोष्ठ से शाखाओं में जाकर कैसे कुपित होते हैं, और शाखाओं से कोष्ठ में कैसे लौटते हैं;",
+   "explanation_en": "Summary continues: treatment (verses 25-30) and doṣa-gati (verses 31-33).",
+   "explanation_hi": "सारांश जारी: चिकित्सा (श्लोक 25-30) और दोषगति (श्लोक 31-33)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "saṃgraha",
+    "doṣagati"
+   ],
+   "tags": [
+    "summary"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.48",
+   "word_meanings": [
+    {
+     "sa": "प्राज्ञअज्ञयोः विशेषः",
+     "iast": "prājña-ajñayoḥ viśeṣaḥ",
+     "en": "the difference between the wise and the ignorant",
+     "hi": "बुद्धिमान और अज्ञानी का भेद"
+    },
+    {
+     "sa": "स्वस्थआतुरहितम्",
+     "iast": "svastha-ātura-hitam",
+     "en": "what is beneficial for the healthy and the sick",
+     "hi": "स्वस्थ और रोगी के लिए हितकर"
+    },
+    {
+     "sa": "च यत्",
+     "iast": "ca yat",
+     "en": "and which",
+     "hi": "और जो"
+    },
+    {
+     "sa": "विविधाशितपीतीये",
+     "iast": "vividhāśitapītīye",
+     "en": "in the Vividhāśitapītīya chapter",
+     "hi": "विविधाशितपीतीय अध्याय में"
+    },
+    {
+     "sa": "तत् सर्वम्",
+     "iast": "tat sarvam",
+     "en": "all that",
+     "hi": "वह सब"
+    },
+    {
+     "sa": "संप्रकाशितम्",
+     "iast": "saṃprakāśitam",
+     "en": "has been explained",
+     "hi": "स्पष्ट किया गया है"
+    }
+   ],
+   "english": "the difference between the wise and the ignorant; and what is beneficial for the healthy and the sick: all this has been explained in the Vividhāśitapītīya chapter.",
+   "hindi": "बुद्धिमान और अज्ञानी का भेद; और स्वस्थ तथा रोगी के लिए जो हितकर है: यह सब विविधाशितपीतीय अध्याय में बताया गया है।",
+   "explanation_en": "End of the summary: the parīkṣaka-laukika contrast (verses 35-41) and wholesome practice for healthy and sick.",
+   "explanation_hi": "सारांश का अन्त: परीक्षक-लौकिक का अन्तर (श्लोक 35-41) और स्वस्थ व रोगी के लिए हितकर आचरण।",
+   "modern_correlation": null,
+   "key_terms": [
+    "saṃgraha",
+    "parīkṣaka"
+   ],
+   "tags": [
+    "summary"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.28.49",
+   "word_meanings": [
+    {
+     "sa": "इति",
+     "iast": "iti",
+     "en": "thus",
+     "hi": "इस प्रकार"
+    },
+    {
+     "sa": "अग्निवेशकृते तन्त्रे",
+     "iast": "agniveśakṛte tantre",
+     "en": "in the treatise composed by Agniveśa",
+     "hi": "अग्निवेश द्वारा रचित तन्त्र में"
+    },
+    {
+     "sa": "चरकप्रतिसंस्कृते",
+     "iast": "carakapratisaṃskṛte",
+     "en": "redacted by Caraka",
+     "hi": "चरक द्वारा प्रतिसंस्कृत"
+    },
+    {
+     "sa": "सूत्रस्थाने",
+     "iast": "sūtrasthāne",
+     "en": "in the Sūtrasthāna",
+     "hi": "सूत्रस्थान में"
+    },
+    {
+     "sa": "विविधाशितपीतीयः नाम",
+     "iast": "vividhāśitapītīyaḥ nāma",
+     "en": "named Vividhāśitapītīya",
+     "hi": "विविधाशितपीतीय नामक"
+    },
+    {
+     "sa": "अष्टाविंशः अध्यायः",
+     "iast": "aṣṭāviṃśaḥ adhyāyaḥ",
+     "en": "the twenty-eighth chapter",
+     "hi": "अट्ठाईसवाँ अध्याय"
+    }
+   ],
+   "english": "Thus ends the twenty-eighth chapter, named Vividhāśitapītīya, in the Sūtrasthāna of the treatise composed by Agniveśa and redacted by Caraka.",
+   "hindi": "इस प्रकार अग्निवेश द्वारा रचित और चरक द्वारा प्रतिसंस्कृत तन्त्र के सूत्रस्थान में विविधाशितपीतीय नामक अट्ठाईसवाँ अध्याय समाप्त हुआ।",
+   "explanation_en": "The colophon. It reminds us that the text is Agniveśa's tantra redacted (pratisaṃskṛta) by Caraka. Su 28 is the last chapter of the Annapāna catuṣka (Su 25-28).",
+   "explanation_hi": "यह समाप्ति-वाक्य (पुष्पिका) है। यह याद दिलाता है कि ग्रन्थ अग्निवेश का तन्त्र है जिसका चरक ने प्रतिसंस्कार किया। सू. 28 अन्नपान चतुष्क (सू. 25-28) का अन्तिम अध्याय है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "colophon",
+    "pratisaṃskāra"
+   ],
+   "tags": [
+    "colophon"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  }
+ ]
+}

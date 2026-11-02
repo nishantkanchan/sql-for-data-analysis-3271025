@@ -1,0 +1,33 @@
+{
+ "chapter": {
+  "id": "AH.sutra.12",
+  "chapter": 12,
+  "title_en": "Doṣa-bhedīya"
+ },
+ "verses": [
+  {
+   "id": "AH.sutra.12.1",
+   "word_meanings": [
+    {
+     "sa": "पक्वाशय",
+     "iast": "pakvāśaya",
+     "en": "large intestine / colon",
+     "hi": "पक्वाशय"
+    }
+   ],
+   "english": "The colon, waist, thighs, ears, bones and the organ of touch are the seats of Vāta; among these the colon is its principal seat.",
+   "hindi": "पक्वाशय, कटि, सक्थि, कान, अस्थि और स्पर्शनेन्द्रिय वात के स्थान हैं; इनमें पक्वाशय विशेष स्थान है।",
+   "explanation_en": "Fixture: seats of vāta.",
+   "explanation_hi": "",
+   "modern_correlation": null,
+   "key_terms": [
+    "vāta",
+    "pakvāśaya"
+   ],
+   "tags": [
+    "seats of vata"
+   ],
+   "importance": "high"
+  }
+ ]
+}

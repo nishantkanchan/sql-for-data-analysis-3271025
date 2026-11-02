@@ -1,0 +1,2234 @@
+{
+  "subject_id": "AyUG-PK",
+  "questions": [
+    {
+      "id": "AyUG-PK-0001",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-snehana",
+      "topic_en": "Snehana (oleation)",
+      "topic_hi": "स्नेहन",
+      "type": "mcq",
+      "question_en": "Which of the following is considered the best (uttama) among the four mahāsnehas?",
+      "question_hi": "चार महास्नेहों में किसे सर्वश्रेष्ठ माना गया है?",
+      "options": [
+        {
+          "en": "Taila (oil)",
+          "hi": "तैल"
+        },
+        {
+          "en": "Sarpi (ghee)",
+          "hi": "सर्पि (घृत)"
+        },
+        {
+          "en": "Vasā (muscle fat)",
+          "hi": "वसा"
+        },
+        {
+          "en": "Majjā (marrow)",
+          "hi": "मज्जा"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "CS Sū 13: the four mahāsnehas are sarpi, taila, vasā and majjā; ghee is the best because it takes on the properties of the drugs processed with it (saṃskārānuvartana) without losing its own. Taila is best for vāta and for strengthening, but ghee is ranked first overall.",
+      "explanation_hi": "चरक सूत्र 13: चार महास्नेह हैं - सर्पि, तैल, वसा और मज्जा; घृत श्रेष्ठ है क्योंकि यह अपने गुण छोड़े बिना संस्कारित द्रव्यों के गुण ग्रहण कर लेता है। तैल वात में उत्तम है, पर समग्र रूप से घृत प्रथम है।",
+      "reference": "CS.sutra.13",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0002",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-snehana",
+      "topic_en": "Snehana (oleation)",
+      "topic_hi": "स्नेहन",
+      "type": "mcq",
+      "question_en": "What is 'acchapāna' in snehana?",
+      "question_hi": "स्नेहन में 'अच्छपान' क्या है?",
+      "options": [
+        {
+          "en": "Sneha mixed with rice gruel",
+          "hi": "पेया में मिला स्नेह"
+        },
+        {
+          "en": "Sneha given as enema",
+          "hi": "बस्ति द्वारा स्नेह"
+        },
+        {
+          "en": "Sneha applied externally",
+          "hi": "बाह्य स्नेह प्रयोग"
+        },
+        {
+          "en": "Drinking pure sneha without mixing it with food",
+          "hi": "बिना आहार मिलाए शुद्ध स्नेह पीना"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "Acchapāna (accha = pure, clear) means taking sneha alone, not mixed with food. It is the strongest mode of internal oleation and is used for śodhanārtha snehapāna. Sneha mixed with food is called vicāraṇā.",
+      "explanation_hi": "अच्छपान (अच्छ = शुद्ध) का अर्थ है केवल स्नेह पीना, आहार में मिलाए बिना। यह आभ्यन्तर स्नेहन का सबसे प्रभावी तरीका है और शोधनार्थ स्नेहपान में प्रयुक्त होता है। आहार में मिलाकर दिया स्नेह 'विचारणा' कहलाता है।",
+      "reference": "CS.sutra.13",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0003",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-snehana",
+      "topic_en": "Snehana (oleation)",
+      "topic_hi": "स्नेहन",
+      "type": "mcq",
+      "question_en": "A combination of three of the four snehas is called:",
+      "question_hi": "चार स्नेहों में से तीन के मिश्रण को क्या कहते हैं?",
+      "options": [
+        {
+          "en": "Yamaka sneha",
+          "hi": "यमक स्नेह"
+        },
+        {
+          "en": "Mahā sneha",
+          "hi": "महा स्नेह"
+        },
+        {
+          "en": "Trivṛt sneha",
+          "hi": "त्रिवृत् स्नेह"
+        },
+        {
+          "en": "Accha sneha",
+          "hi": "अच्छ स्नेह"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "Two snehas together = yamaka, three = trivṛt, all four = mahāsneha (AH Sū 16). Accha refers to pure sneha drunk alone.",
+      "explanation_hi": "दो स्नेह मिलाकर = यमक, तीन = त्रिवृत्, चारों = महास्नेह (अष्टाङ्गहृदय सूत्र 16)। अच्छ का अर्थ अकेले पिया गया शुद्ध स्नेह है।",
+      "reference": "AH.sutra.16",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0004",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-snehana",
+      "topic_en": "Snehana (oleation)",
+      "topic_hi": "स्नेहन",
+      "type": "mcq",
+      "question_en": "According to Vāgbhaṭa, for how many days is acchapāna continued in a person with krūra koṣṭha (hard bowel)?",
+      "question_hi": "वाग्भट के अनुसार क्रूर कोष्ठ वाले व्यक्ति में अच्छपान कितने दिन तक किया जाता है?",
+      "options": [
+        {
+          "en": "Up to seven days",
+          "hi": "सात दिन तक"
+        },
+        {
+          "en": "Three days",
+          "hi": "तीन दिन"
+        },
+        {
+          "en": "One day",
+          "hi": "एक दिन"
+        },
+        {
+          "en": "Fourteen days",
+          "hi": "चौदह दिन"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "AH Sū 16.29: 'tryaham acchaṃ mṛdau koṣṭhe krūre saptadinaṃ pibet' — three days in mṛdu koṣṭha, seven days in krūra koṣṭha, or until samyak snigdha signs appear. Beyond seven days sneha becomes habituated (sātmya) and loses its effect.",
+      "explanation_hi": "अष्टाङ्गहृदय सूत्र 16.29: 'त्र्यहमच्छं मृदौ कोष्ठे क्रूरे सप्तदिनं पिबेत्' - मृदु कोष्ठ में तीन दिन, क्रूर कोष्ठ में सात दिन, या सम्यक् स्निग्ध लक्षण आने तक। सात दिन के बाद स्नेह सात्म्य हो जाता है और प्रभाव घटता है।",
+      "reference": "AH.sutra.16.29",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0005",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-snehana",
+      "topic_en": "Snehana (oleation)",
+      "topic_hi": "स्नेहन",
+      "type": "mcq",
+      "question_en": "Which of the following is a sign of proper oleation (samyak snigdha lakṣaṇa)?",
+      "question_hi": "इनमें से कौन-सा सम्यक् स्निग्ध लक्षण है?",
+      "options": [
+        {
+          "en": "Hard, dry stools",
+          "hi": "कठोर, रूखा मल"
+        },
+        {
+          "en": "Oily, unformed stools (snigdha, asaṃhata varcas)",
+          "hi": "स्निग्ध, असंहत मल"
+        },
+        {
+          "en": "Pallor, heaviness and nausea",
+          "hi": "पाण्डुता, गौरव और उत्क्लेश"
+        },
+        {
+          "en": "Burning in chest and thirst",
+          "hi": "छाती में दाह और प्यास"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "AH Sū 16.30: vātānulomana, kindled agni, oily and unformed stools, softness of body and aversion to sneha indicate samyak snigdha. Hard dry stools mean inadequate oleation; pallor, heaviness and nausea are signs of excess (atisnigdha).",
+      "explanation_hi": "अष्टाङ्गहृदय सूत्र 16.30: वातानुलोमन, दीप्त अग्नि, स्निग्ध असंहत मल, शरीर की मृदुता और स्नेह से अरुचि सम्यक् स्निग्ध के लक्षण हैं। कठोर रूखा मल अपूर्ण स्नेहन दर्शाता है; पाण्डुता, गौरव, उत्क्लेश अतिस्निग्ध के लक्षण हैं।",
+      "reference": "AH.sutra.16.30",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0006",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-snehana",
+      "topic_en": "Snehana (oleation)",
+      "topic_hi": "स्नेहन",
+      "type": "mcq",
+      "question_en": "Per Caraka, the uttama (maximum) dose of snehapāna is the quantity that digests in:",
+      "question_hi": "चरक के अनुसार स्नेहपान की उत्तम मात्रा वह है जो कितने समय में पचे?",
+      "options": [
+        {
+          "en": "Half a day (about 6 hours)",
+          "hi": "आधा दिन (लगभग 6 घंटे)"
+        },
+        {
+          "en": "One day (about 12 hours)",
+          "hi": "एक दिन (लगभग 12 घंटे)"
+        },
+        {
+          "en": "One full day and night (24 hours)",
+          "hi": "एक अहोरात्र (24 घंटे)"
+        },
+        {
+          "en": "Two days",
+          "hi": "दो दिन"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "CS Sū 13: the uttama mātrā digests in an ahorātra (24 h), madhyama in a day (about 12 h) and hrasva in half a day (about 6 h). A smaller trial dose (hrasīyasī) is given first to assess agni.",
+      "explanation_hi": "चरक सूत्र 13: उत्तम मात्रा एक अहोरात्र (24 घंटे) में, मध्यम एक दिन (लगभग 12 घंटे) में और ह्रस्व आधे दिन (लगभग 6 घंटे) में पचती है। अग्नि जाँचने के लिए पहले छोटी परीक्षण मात्रा (ह्रसीयसी) दी जाती है।",
+      "reference": "CS.sutra.13",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0007",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-svedana",
+      "topic_en": "Svedana (sudation)",
+      "topic_hi": "स्वेदन",
+      "type": "mcq",
+      "question_en": "How many types of sāgni (with fire) sveda are described by Caraka?",
+      "question_hi": "चरक ने साग्नि स्वेद के कितने प्रकार बताए हैं?",
+      "options": [
+        {
+          "en": "Ten",
+          "hi": "दस"
+        },
+        {
+          "en": "Four",
+          "hi": "चार"
+        },
+        {
+          "en": "Thirteen",
+          "hi": "तेरह"
+        },
+        {
+          "en": "Eight",
+          "hi": "आठ"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "CS Sū 14 describes 13 sāgni svedas (saṅkara, prastara, nāḍī, pariṣeka, avagāha, jentāka, aśmaghana, karṣū, kuṭī, bhū, kumbhī, kūpa, holāka) and 10 niragni svedas. Four is Suśruta's classification.",
+      "explanation_hi": "चरक सूत्र 14 में 13 साग्नि स्वेद (संकर, प्रस्तर, नाडी, परिषेक, अवगाह, जेन्ताक, अश्मघन, कर्षू, कुटी, भू, कुम्भी, कूप, होलाक) और 10 निरग्नि स्वेद हैं। चार सुश्रुत का वर्गीकरण है।",
+      "reference": "CS.sutra.14",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0008",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-svedana",
+      "topic_en": "Svedana (sudation)",
+      "topic_hi": "स्वेदन",
+      "type": "mcq",
+      "question_en": "Which of the following is a niragni (without fire) sveda per Caraka?",
+      "question_hi": "चरक के अनुसार इनमें से कौन-सा निरग्नि स्वेद है?",
+      "options": [
+        {
+          "en": "Nāḍī sveda",
+          "hi": "नाडी स्वेद"
+        },
+        {
+          "en": "Vyāyāma (exercise)",
+          "hi": "व्यायाम"
+        },
+        {
+          "en": "Prastara sveda",
+          "hi": "प्रस्तर स्वेद"
+        },
+        {
+          "en": "Kumbhī sveda",
+          "hi": "कुम्भी स्वेद"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "The ten niragni svedas include vyāyāma, uṣṇa sadana (warm room), guru prāvaraṇa (heavy covering), kṣudhā, bahupāna, bhaya, krodha, upanāha, āhava (fighting) and ātapa (sun). Nāḍī, prastara and kumbhī need fire, so they are sāgni.",
+      "explanation_hi": "दस निरग्नि स्वेदों में व्यायाम, उष्ण सदन, गुरु प्रावरण, क्षुधा, बहुपान, भय, क्रोध, उपनाह, आहव (युद्ध) और आतप आते हैं। नाडी, प्रस्तर और कुम्भी में अग्नि चाहिए, इसलिए ये साग्नि हैं।",
+      "reference": "CS.sutra.14",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0009",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-svedana",
+      "topic_en": "Svedana (sudation)",
+      "topic_hi": "स्वेदन",
+      "type": "mcq",
+      "question_en": "Suśruta classifies sveda into four types. Which is NOT one of them?",
+      "question_hi": "सुश्रुत ने स्वेद के चार प्रकार बताए हैं। इनमें से कौन-सा उनमें नहीं है?",
+      "options": [
+        {
+          "en": "Tāpa",
+          "hi": "ताप"
+        },
+        {
+          "en": "Jentāka",
+          "hi": "जेन्ताक"
+        },
+        {
+          "en": "Ūṣma",
+          "hi": "ऊष्म"
+        },
+        {
+          "en": "Upanāha",
+          "hi": "उपनाह"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "SS Ci 32: tāpa, ūṣma, upanāha and drava sveda. Jentāka (a sweat-house) is one of Caraka's 13 sāgni svedas.",
+      "explanation_hi": "सुश्रुत चिकित्सा 32: ताप, ऊष्म, उपनाह और द्रव स्वेद। जेन्ताक (स्वेद-गृह) चरक के 13 साग्नि स्वेदों में से एक है।",
+      "reference": "SS.chikitsa.32",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0010",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-svedana",
+      "topic_en": "Svedana (sudation)",
+      "topic_hi": "स्वेदन",
+      "type": "mcq",
+      "question_en": "During svedana, which organ does Caraka advise protecting by placing cold articles over it?",
+      "question_hi": "स्वेदन के समय चरक किस अंग पर शीतल वस्तुएँ रखकर उसकी रक्षा करने को कहते हैं?",
+      "options": [
+        {
+          "en": "Abdomen",
+          "hi": "उदर"
+        },
+        {
+          "en": "Back",
+          "hi": "पीठ"
+        },
+        {
+          "en": "Heart (hṛdaya)",
+          "hi": "हृदय"
+        },
+        {
+          "en": "Knees",
+          "hi": "घुटने"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "CS Sū 14: the eyes should be covered and the heart protected with cold articles (cold pearls, lotus, cold vessels) during sudation; the scrotum also needs protection. These organs are harmed by heat.",
+      "explanation_hi": "चरक सूत्र 14: स्वेदन के समय आँखों को ढकना चाहिए और हृदय पर शीतल वस्तुएँ (मोती, कमल, ठंडे पात्र) रखनी चाहिए; वृषण की भी रक्षा करनी चाहिए। ये अंग ताप से हानि पाते हैं।",
+      "reference": "CS.sutra.14",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0011",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-svedana",
+      "topic_en": "Svedana (sudation)",
+      "topic_hi": "स्वेदन",
+      "type": "true_false",
+      "question_en": "True or False: Relief of cold and pain, relief of stiffness and heaviness, softness and appearance of sweat are signs of proper sudation (samyak svinna).",
+      "question_hi": "सत्य या असत्य: शीत और शूल का शमन, स्तम्भ और गौरव का शमन, मृदुता और पसीना आना सम्यक् स्विन्न के लक्षण हैं।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "True. CS Sū 14 lists śīta-śūla vyuparama, stambha-gaurava nigraha, mārdava and sveda prādurbhāva as signs of samyak svedana.",
+      "explanation_hi": "सत्य। चरक सूत्र 14 में शीत-शूल व्युपरम, स्तम्भ-गौरव निग्रह, मार्दव और स्वेद प्रादुर्भाव को सम्यक् स्वेदन के लक्षण बताया गया है।",
+      "reference": "CS.sutra.14",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0012",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-vamana",
+      "topic_en": "Vamana (therapeutic emesis)",
+      "topic_hi": "वमन",
+      "type": "mcq",
+      "question_en": "Which drug is declared by Caraka as the best for vamana?",
+      "question_hi": "चरक ने वमन के लिए किस द्रव्य को श्रेष्ठ बताया है?",
+      "options": [
+        {
+          "en": "Trivṛt",
+          "hi": "त्रिवृत्"
+        },
+        {
+          "en": "Madanaphala",
+          "hi": "मदनफल"
+        },
+        {
+          "en": "Āragvadha",
+          "hi": "आरग्वध"
+        },
+        {
+          "en": "Snuhī",
+          "hi": "स्नुही"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "CS Ka 1: madanaphala is the best emetic because it is harmless (anapāyitva). Trivṛt, āragvadha and snuhī are virecana drugs.",
+      "explanation_hi": "चरक कल्प 1: मदनफल सर्वश्रेष्ठ वमन द्रव्य है क्योंकि यह निरापद (अनपायी) है। त्रिवृत्, आरग्वध और स्नुही विरेचन द्रव्य हैं।",
+      "reference": "CS.kalpa.1",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0013",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-vamana",
+      "topic_en": "Vamana (therapeutic emesis)",
+      "topic_hi": "वमन",
+      "type": "mcq",
+      "question_en": "In vaigikī (by number of bouts) assessment, how many vegas indicate pravara (best) śuddhi in vamana?",
+      "question_hi": "वैगिकी परीक्षा में वमन के कितने वेग प्रवर शुद्धि दर्शाते हैं?",
+      "options": [
+        {
+          "en": "Six",
+          "hi": "छह"
+        },
+        {
+          "en": "Four",
+          "hi": "चार"
+        },
+        {
+          "en": "Thirty",
+          "hi": "तीस"
+        },
+        {
+          "en": "Eight",
+          "hi": "आठ"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "Vamana: pravara 8, madhyama 6, avara 4 vegas. Thirty vegas is pravara śuddhi for virecana, not vamana.",
+      "explanation_hi": "वमन में: प्रवर 8, मध्यम 6, अवर 4 वेग। तीस वेग विरेचन की प्रवर शुद्धि है, वमन की नहीं।",
+      "reference": "CS.siddhi.1 (Cakrapāṇi)",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0014",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-vamana",
+      "topic_en": "Vamana (therapeutic emesis)",
+      "topic_hi": "वमन",
+      "type": "mcq",
+      "question_en": "What is the laiṅgikī (end-point) sign of proper vamana?",
+      "question_hi": "सम्यक् वमन का लैङ्गिकी (अन्त-लक्षण) संकेत क्या है?",
+      "options": [
+        {
+          "en": "Kaphānta – ending with kapha",
+          "hi": "कफान्त - अन्त में कफ आना"
+        },
+        {
+          "en": "Appearance of blood",
+          "hi": "रक्त आना"
+        },
+        {
+          "en": "Pittānta – ending with the appearance of pitta",
+          "hi": "पित्तान्त - अन्त में पित्त का आना"
+        },
+        {
+          "en": "Appearance of food particles only",
+          "hi": "केवल अन्न कण आना"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "Vamana is complete when, after kapha, pitta appears (pittānta). Kaphānta is the end-point of virecana. Blood in vomitus indicates atiyoga (excess).",
+      "explanation_hi": "वमन तब पूर्ण माना जाता है जब कफ के बाद पित्त आए (पित्तान्त)। कफान्त विरेचन का अन्त-लक्षण है। वमन में रक्त आना अतियोग का लक्षण है।",
+      "reference": "CS.siddhi.1",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0015",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-vamana",
+      "topic_en": "Vamana (therapeutic emesis)",
+      "topic_hi": "वमन",
+      "type": "mcq",
+      "question_en": "In mānikī (by volume) assessment, what quantity of vomitus indicates pravara śuddhi in vamana?",
+      "question_hi": "मानिकी परीक्षा में वमन की कितनी मात्रा प्रवर शुद्धि दर्शाती है?",
+      "options": [
+        {
+          "en": "2 prastha",
+          "hi": "2 प्रस्थ"
+        },
+        {
+          "en": "1 prastha",
+          "hi": "1 प्रस्थ"
+        },
+        {
+          "en": "1.5 prastha",
+          "hi": "1.5 प्रस्थ"
+        },
+        {
+          "en": "4 prastha",
+          "hi": "4 प्रस्थ"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "Mānikī vamana: pravara 2 prastha, madhyama 1.5 prastha, avara 1 prastha. For virecana the values are 4, 3 and 2 prastha respectively.",
+      "explanation_hi": "मानिकी वमन: प्रवर 2 प्रस्थ, मध्यम 1.5 प्रस्थ, अवर 1 प्रस्थ। विरेचन में ये मान क्रमशः 4, 3 और 2 प्रस्थ हैं।",
+      "reference": "CS.siddhi.1 (Cakrapāṇi)",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0016",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-vamana",
+      "topic_en": "Vamana (therapeutic emesis)",
+      "topic_hi": "वमन",
+      "type": "mcq",
+      "question_en": "For which doṣa is vamana considered the best śodhana?",
+      "question_hi": "वमन किस दोष के लिए श्रेष्ठ शोधन माना गया है?",
+      "options": [
+        {
+          "en": "Pitta",
+          "hi": "पित्त"
+        },
+        {
+          "en": "Vāta",
+          "hi": "वात"
+        },
+        {
+          "en": "Kapha",
+          "hi": "कफ"
+        },
+        {
+          "en": "Rakta",
+          "hi": "रक्त"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "CS Sū 25 (agrya): vamana is best for kapha, virecana for pitta and basti for vāta. Raktamokṣaṇa is used for rakta-pitta disorders.",
+      "explanation_hi": "चरक सूत्र 25 (अग्र्य): कफ के लिए वमन, पित्त के लिए विरेचन और वात के लिए बस्ति श्रेष्ठ है। रक्त विकार में रक्तमोक्षण किया जाता है।",
+      "reference": "CS.sutra.25",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0017",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-virecana",
+      "topic_en": "Virecana (therapeutic purgation)",
+      "topic_hi": "विरेचन",
+      "type": "mcq",
+      "question_en": "According to Caraka's agrya list, which drug is best for sukha virecana (comfortable purgation)?",
+      "question_hi": "चरक की अग्र्य सूची के अनुसार सुख विरेचन के लिए कौन-सा द्रव्य श्रेष्ठ है?",
+      "options": [
+        {
+          "en": "Trivṛt",
+          "hi": "त्रिवृत्"
+        },
+        {
+          "en": "Āragvadha (Caturaṅgula)",
+          "hi": "आरग्वध (चतुरङ्गुल)"
+        },
+        {
+          "en": "Snuhī kṣīra",
+          "hi": "स्नुही क्षीर"
+        },
+        {
+          "en": "Eraṇḍa taila",
+          "hi": "एरण्ड तैल"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "CS Sū 25: trivṛt is best for sukha virecana, caturaṅgula (āragvadha) for mṛdu virecana and snuhī latex for tīkṣṇa virecana. Eraṇḍa taila is praised for vāta disorders and as a purgative but is not the agrya for sukha virecana.",
+      "explanation_hi": "चरक सूत्र 25: सुख विरेचन में त्रिवृत्, मृदु विरेचन में चतुरङ्गुल (आरग्वध) और तीक्ष्ण विरेचन में स्नुही क्षीर श्रेष्ठ है। एरण्ड तैल वात विकारों में प्रशंसित है, पर सुख विरेचन का अग्र्य नहीं।",
+      "reference": "CS.sutra.25",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0018",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-virecana",
+      "topic_en": "Virecana (therapeutic purgation)",
+      "topic_hi": "विरेचन",
+      "type": "mcq",
+      "question_en": "What is the laiṅgikī (end-point) sign of proper virecana?",
+      "question_hi": "सम्यक् विरेचन का लैङ्गिकी (अन्त-लक्षण) संकेत क्या है?",
+      "options": [
+        {
+          "en": "Pittānta – ending with pitta",
+          "hi": "पित्तान्त - अन्त में पित्त"
+        },
+        {
+          "en": "Kaphānta – ending with kapha",
+          "hi": "कफान्त - अन्त में कफ"
+        },
+        {
+          "en": "Appearance of blood",
+          "hi": "रक्त आना"
+        },
+        {
+          "en": "Vātānta – ending with flatus",
+          "hi": "वातान्त - अन्त में वायु"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "In virecana, stool is followed by pitta, then by kapha; appearance of kapha marks the end (kaphānta). Pittānta is the end-point of vamana. Blood indicates atiyoga.",
+      "explanation_hi": "विरेचन में मल के बाद पित्त और फिर कफ आता है; कफ का आना अन्त का संकेत है (कफान्त)। पित्तान्त वमन का अन्त-लक्षण है। रक्त आना अतियोग दर्शाता है।",
+      "reference": "CS.siddhi.1",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0019",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-virecana",
+      "topic_en": "Virecana (therapeutic purgation)",
+      "topic_hi": "विरेचन",
+      "type": "mcq",
+      "question_en": "How many vegas indicate pravara śuddhi in virecana (vaigikī)?",
+      "question_hi": "वैगिकी परीक्षा में विरेचन के कितने वेग प्रवर शुद्धि दर्शाते हैं?",
+      "options": [
+        {
+          "en": "Twenty",
+          "hi": "बीस"
+        },
+        {
+          "en": "Ten",
+          "hi": "दस"
+        },
+        {
+          "en": "Eight",
+          "hi": "आठ"
+        },
+        {
+          "en": "Thirty",
+          "hi": "तीस"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "Virecana: pravara 30, madhyama 20, avara 10 vegas. Eight vegas is pravara for vamana.",
+      "explanation_hi": "विरेचन में: प्रवर 30, मध्यम 20, अवर 10 वेग। आठ वेग वमन की प्रवर शुद्धि है।",
+      "reference": "CS.siddhi.1 (Cakrapāṇi)",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0020",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-virecana",
+      "topic_en": "Virecana (therapeutic purgation)",
+      "topic_hi": "विरेचन",
+      "type": "true_false",
+      "question_en": "True or False: Virecana is the best śodhana for kapha doṣa.",
+      "question_hi": "सत्य या असत्य: विरेचन कफ दोष के लिए श्रेष्ठ शोधन है।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "False. Virecana is best for pitta; vamana is best for kapha and basti for vāta (CS Sū 25).",
+      "explanation_hi": "असत्य। विरेचन पित्त के लिए श्रेष्ठ है; कफ के लिए वमन और वात के लिए बस्ति श्रेष्ठ है (चरक सूत्र 25)।",
+      "reference": "CS.sutra.25",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0021",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-samsarjana",
+      "topic_en": "Saṃsarjana krama (post-śodhana diet)",
+      "topic_hi": "संसर्जन क्रम",
+      "type": "mcq",
+      "question_en": "What is the first food given in saṃsarjana krama after vamana or virecana?",
+      "question_hi": "वमन या विरेचन के बाद संसर्जन क्रम में सबसे पहले कौन-सा आहार दिया जाता है?",
+      "options": [
+        {
+          "en": "Vilepī (thick gruel)",
+          "hi": "विलेपी (गाढ़ी यवागू)"
+        },
+        {
+          "en": "Kṛta yūṣa",
+          "hi": "कृत यूष"
+        },
+        {
+          "en": "Māṃsa rasa",
+          "hi": "मांस रस"
+        },
+        {
+          "en": "Peyā (thin rice gruel)",
+          "hi": "पेया (पतली यवागू)"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "CS Si 1.11: saṃsarjana starts with peyā, then vilepī, then akṛta and kṛta yūṣa, then akṛta and kṛta māṃsa rasa, gradually restoring agni like a small fire fed with straw before logs.",
+      "explanation_hi": "चरक सिद्धि 1.11: संसर्जन पेया से आरम्भ होता है, फिर विलेपी, फिर अकृत और कृत यूष, फिर अकृत और कृत मांस रस - जैसे छोटी आग को पहले तिनकों से फिर लकड़ी से बढ़ाया जाता है।",
+      "reference": "CS.siddhi.1.11",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0022",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-samsarjana",
+      "topic_en": "Saṃsarjana krama (post-śodhana diet)",
+      "topic_hi": "संसर्जन क्रम",
+      "type": "mcq",
+      "question_en": "After pravara (best) śuddhi, saṃsarjana krama extends over how many annakālas (meal times)?",
+      "question_hi": "प्रवर शुद्धि के बाद संसर्जन क्रम कितने अन्नकाल (भोजन समय) तक चलता है?",
+      "options": [
+        {
+          "en": "Eight",
+          "hi": "आठ"
+        },
+        {
+          "en": "Four",
+          "hi": "चार"
+        },
+        {
+          "en": "Sixteen",
+          "hi": "सोलह"
+        },
+        {
+          "en": "Twelve",
+          "hi": "बारह"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "Following CS Si 1.11, each diet stage is given for three annakālas in pravara, two in madhyama and one in avara śuddhi — commonly counted as 12, 8 and 4 annakālas (about 7, 5 and 3 days).",
+      "explanation_hi": "चरक सिद्धि 1.11 के अनुसार प्रवर शुद्धि में प्रत्येक आहार चरण तीन अन्नकाल, मध्यम में दो और अवर में एक अन्नकाल दिया जाता है - सामान्यतः 12, 8 और 4 अन्नकाल (लगभग 7, 5 और 3 दिन)।",
+      "reference": "CS.siddhi.1.11",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0023",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-vamana",
+      "topic_en": "Vamana (therapeutic emesis)",
+      "topic_hi": "वमन",
+      "type": "mcq",
+      "question_en": "Caraka (Siddhi 6) describes how many complications (vyāpad) common to vamana and virecana?",
+      "question_hi": "चरक (सिद्धि 6) ने वमन और विरेचन की कितनी व्यापद् (जटिलताएँ) बताई हैं?",
+      "options": [
+        {
+          "en": "Twelve",
+          "hi": "बारह"
+        },
+        {
+          "en": "Eight",
+          "hi": "आठ"
+        },
+        {
+          "en": "Fifteen",
+          "hi": "पंद्रह"
+        },
+        {
+          "en": "Ten",
+          "hi": "दस"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "CS Si 6 lists ten vyāpads of vamana-virecana: ādhmāna, parikartikā, parisrāva, hṛdayopasaraṇa (hṛdgraha), aṅgagraha, jīvādāna, vibhraṃśa, stambha, klama and upadrava. Twelve is the number of basti vyāpads in Si 7.",
+      "explanation_hi": "चरक सिद्धि 6 में वमन-विरेचन की दस व्यापद् हैं: आध्मान, परिकर्तिका, परिस्राव, हृदयोपसरण (हृद्ग्रह), अङ्गग्रह, जीवादान, विभ्रंश, स्तम्भ, क्लम और उपद्रव। बारह सिद्धि 7 में बस्ति व्यापद् की संख्या है।",
+      "reference": "CS.siddhi.6",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0024",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-vamana",
+      "topic_en": "Vamana (therapeutic emesis)",
+      "topic_hi": "वमन",
+      "type": "mcq",
+      "question_en": "In the vyāpad 'jīvādāna' following excessive śodhana, what is lost?",
+      "question_hi": "अति शोधन के बाद होने वाली 'जीवादान' व्यापद् में क्या निकलता है?",
+      "options": [
+        {
+          "en": "Only water",
+          "hi": "केवल जल"
+        },
+        {
+          "en": "Undigested food",
+          "hi": "अपक्व अन्न"
+        },
+        {
+          "en": "Only kapha",
+          "hi": "केवल कफ"
+        },
+        {
+          "en": "Blood (jīva-rakta)",
+          "hi": "रक्त (जीव रक्त)"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "Jīvādāna is a severe atiyoga complication in which jīva-rakta (blood, the 'life') is expelled. Caraka gives a test: the blood is examined (e.g. soaking a cloth in it, or offering it mixed with food to a dog) to distinguish it from raktapitta. Plain water or kapha loss would not have this name.",
+      "explanation_hi": "जीवादान अतियोग की गंभीर जटिलता है जिसमें जीव-रक्त निकलता है। चरक इसे रक्तपित्त से अलग पहचानने के लिए परीक्षा बताते हैं (जैसे उसमें वस्त्र भिगोकर देखना, या भोजन में मिलाकर कुत्ते को देना)। केवल जल या कफ निकलना इस नाम से नहीं जाना जाता।",
+      "reference": "CS.siddhi.6",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0025",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-snehana",
+      "topic_en": "Snehana (oleation)",
+      "topic_hi": "स्नेहन",
+      "type": "true_false",
+      "question_en": "True or False: Taila is considered the best sneha for vāta and for strengthening (balya), even though ghee is ranked first overall.",
+      "question_hi": "सत्य या असत्य: तैल को वात और बल के लिए श्रेष्ठ स्नेह माना गया है, यद्यपि समग्र रूप से घृत प्रथम है।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "True. CS Sū 13 calls ghee the best sneha overall, while taila (sesame oil) is best for vāta, for strength and firmness, and for those with excess kapha-medas. Vasā and majjā are used in specific conditions such as injury and bone pain.",
+      "explanation_hi": "सत्य। चरक सूत्र 13 घृत को समग्र रूप से श्रेष्ठ स्नेह कहता है, जबकि तैल (तिल तैल) वात, बल-दृढ़ता और कफ-मेद अधिकता वालों के लिए श्रेष्ठ है। वसा और मज्जा अभिघात, अस्थि-पीड़ा आदि में प्रयुक्त होते हैं।",
+      "reference": "CS.sutra.13",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0026",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-virecana",
+      "topic_en": "Virecana (therapeutic purgation)",
+      "topic_hi": "विरेचन",
+      "type": "mcq",
+      "question_en": "Which drug does Caraka recommend as mṛdu virecana suitable even for children, the elderly and the delicate?",
+      "question_hi": "चरक बच्चों, वृद्धों और सुकुमारों के लिए भी उपयुक्त मृदु विरेचन के रूप में किस द्रव्य को बताते हैं?",
+      "options": [
+        {
+          "en": "Snuhī",
+          "hi": "स्नुही"
+        },
+        {
+          "en": "Dantī",
+          "hi": "दन्ती"
+        },
+        {
+          "en": "Jayapāla",
+          "hi": "जयपाल"
+        },
+        {
+          "en": "Āragvadha (Caturaṅgula)",
+          "hi": "आरग्वध (चतुरङ्गुल)"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "CS Ka 8 (Caturaṅgula kalpa) describes āragvadha as mṛdu (mild) and safe even for children, the old, the weak and those with injuries. Snuhī and dantī are tīkṣṇa purgatives; jayapāla (croton) is very drastic.",
+      "explanation_hi": "चरक कल्प 8 (चतुरङ्गुल कल्प) में आरग्वध को मृदु और बच्चों, वृद्धों, दुर्बलों व क्षतयुक्त लोगों के लिए भी सुरक्षित बताया गया है। स्नुही और दन्ती तीक्ष्ण विरेचक हैं; जयपाल अत्यंत तीव्र है।",
+      "reference": "CS.kalpa.8",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0027",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-basti",
+      "topic_en": "Basti (medicated enema)",
+      "topic_hi": "बस्ति",
+      "type": "mcq",
+      "question_en": "Caraka calls basti 'ardha-cikitsā'. What does this mean?",
+      "question_hi": "चरक बस्ति को 'अर्ध-चिकित्सा' कहते हैं। इसका क्या अर्थ है?",
+      "options": [
+        {
+          "en": "It is only half as effective as vamana",
+          "hi": "यह वमन से आधी प्रभावी है"
+        },
+        {
+          "en": "It is given in half dose",
+          "hi": "यह आधी मात्रा में दी जाती है"
+        },
+        {
+          "en": "It constitutes half of all treatment",
+          "hi": "यह सम्पूर्ण चिकित्सा का आधा भाग है"
+        },
+        {
+          "en": "It treats only half the body",
+          "hi": "यह केवल आधे शरीर का उपचार करती है"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "CS Si 1.39–40: basti is called ardha-cikitsā (some say the whole of cikitsā) because it controls vāta, the prime mover of the other doṣas and dhātus, and has the widest range of action.",
+      "explanation_hi": "चरक सिद्धि 1.39-40: बस्ति को अर्ध-चिकित्सा (कुछ आचार्य सम्पूर्ण चिकित्सा) कहा गया है, क्योंकि यह वात को नियंत्रित करती है, जो अन्य दोषों और धातुओं का प्रेरक है, और इसका कार्यक्षेत्र सबसे व्यापक है।",
+      "reference": "CS.siddhi.1.39",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0028",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-basti",
+      "topic_en": "Basti (medicated enema)",
+      "topic_hi": "बस्ति",
+      "type": "mcq",
+      "question_en": "Karma basti consists of 30 bastis. How many of them are anuvāsana and how many nirūha?",
+      "question_hi": "कर्म बस्ति में 30 बस्तियाँ होती हैं। इनमें कितनी अनुवासन और कितनी निरूह हैं?",
+      "options": [
+        {
+          "en": "15 anuvāsana + 15 nirūha",
+          "hi": "15 अनुवासन + 15 निरूह"
+        },
+        {
+          "en": "12 anuvāsana + 18 nirūha",
+          "hi": "12 अनुवासन + 18 निरूह"
+        },
+        {
+          "en": "20 anuvāsana + 10 nirūha",
+          "hi": "20 अनुवासन + 10 निरूह"
+        },
+        {
+          "en": "18 anuvāsana + 12 nirūha",
+          "hi": "18 अनुवासन + 12 निरूह"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "CS Si 1: karma basti = 30 (12 nirūha + 18 anuvāsana), kāla basti = 16 (6 nirūha + 10 anuvāsana), yoga basti = 8 (3 nirūha + 5 anuvāsana). In all three, anuvāsana bastis outnumber nirūha.",
+      "explanation_hi": "चरक सिद्धि 1: कर्म बस्ति = 30 (12 निरूह + 18 अनुवासन), काल बस्ति = 16 (6 निरूह + 10 अनुवासन), योग बस्ति = 8 (3 निरूह + 5 अनुवासन)। तीनों में अनुवासन बस्तियाँ निरूह से अधिक हैं।",
+      "reference": "CS.siddhi.1",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0029",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-basti",
+      "topic_en": "Basti (medicated enema)",
+      "topic_hi": "बस्ति",
+      "type": "mcq",
+      "question_en": "How many bastis make up a kāla basti schedule?",
+      "question_hi": "काल बस्ति में कुल कितनी बस्तियाँ होती हैं?",
+      "options": [
+        {
+          "en": "Thirty",
+          "hi": "तीस"
+        },
+        {
+          "en": "Eight",
+          "hi": "आठ"
+        },
+        {
+          "en": "Sixteen",
+          "hi": "सोलह"
+        },
+        {
+          "en": "Twelve",
+          "hi": "बारह"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "Kāla basti = 16 (10 anuvāsana + 6 nirūha). Karma basti = 30 and yoga basti = 8.",
+      "explanation_hi": "काल बस्ति = 16 (10 अनुवासन + 6 निरूह)। कर्म बस्ति = 30 और योग बस्ति = 8।",
+      "reference": "CS.siddhi.1",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0030",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-basti",
+      "topic_en": "Basti (medicated enema)",
+      "topic_hi": "बस्ति",
+      "type": "mcq",
+      "question_en": "The dose of anuvāsana basti is generally what fraction of nirūha basti?",
+      "question_hi": "अनुवासन बस्ति की मात्रा सामान्यतः निरूह बस्ति का कितना भाग होती है?",
+      "options": [
+        {
+          "en": "One-fourth",
+          "hi": "एक-चौथाई"
+        },
+        {
+          "en": "One-half",
+          "hi": "आधी"
+        },
+        {
+          "en": "Equal",
+          "hi": "बराबर"
+        },
+        {
+          "en": "One-eighth",
+          "hi": "आठवाँ भाग"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "Anuvāsana (sneha) basti is given in one-fourth the quantity of nirūha (kaṣāya) basti (SS Ci 37). Mātrā basti is smaller still — equal to the hrasva dose of snehapāna.",
+      "explanation_hi": "अनुवासन (स्नेह) बस्ति निरूह (कषाय) बस्ति की एक-चौथाई मात्रा में दी जाती है (सुश्रुत चिकित्सा 37)। मात्रा बस्ति इससे भी छोटी है - स्नेहपान की ह्रस्व मात्रा के बराबर।",
+      "reference": "SS.chikitsa.37",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0031",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-basti",
+      "topic_en": "Basti (medicated enema)",
+      "topic_hi": "बस्ति",
+      "type": "mcq",
+      "question_en": "The dose of mātrā basti is equal to:",
+      "question_hi": "मात्रा बस्ति की मात्रा किसके बराबर होती है?",
+      "options": [
+        {
+          "en": "The hrasva (minimum) dose of snehapāna",
+          "hi": "स्नेहपान की ह्रस्व मात्रा"
+        },
+        {
+          "en": "The uttama dose of snehapāna",
+          "hi": "स्नेहपान की उत्तम मात्रा"
+        },
+        {
+          "en": "Half of nirūha",
+          "hi": "निरूह की आधी"
+        },
+        {
+          "en": "One prastha of oil",
+          "hi": "एक प्रस्थ तैल"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "CS Si 4: mātrā basti is given in the dose of hrasva snehapāna mātrā. Being small and harmless, it can be given at any time, to anyone (children, elderly, the weak) without strict restrictions.",
+      "explanation_hi": "चरक सिद्धि 4: मात्रा बस्ति स्नेहपान की ह्रस्व मात्रा के बराबर दी जाती है। छोटी और निरापद होने से यह किसी भी समय, किसी को भी (बच्चे, वृद्ध, दुर्बल) बिना कठोर परहेज के दी जा सकती है।",
+      "reference": "CS.siddhi.4",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0032",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-basti",
+      "topic_en": "Basti (medicated enema)",
+      "topic_hi": "बस्ति",
+      "type": "mcq",
+      "question_en": "What is the classical order of mixing ingredients while preparing nirūha basti?",
+      "question_hi": "निरूह बस्ति बनाते समय द्रव्यों को मिलाने का शास्त्रीय क्रम क्या है?",
+      "options": [
+        {
+          "en": "Kvātha → kalka → sneha → saindhava → madhu",
+          "hi": "क्वाथ → कल्क → स्नेह → सैन्धव → मधु"
+        },
+        {
+          "en": "Madhu → saindhava → sneha → kalka → kvātha",
+          "hi": "मधु → सैन्धव → स्नेह → कल्क → क्वाथ"
+        },
+        {
+          "en": "Sneha → madhu → kvātha → kalka → saindhava",
+          "hi": "स्नेह → मधु → क्वाथ → कल्क → सैन्धव"
+        },
+        {
+          "en": "Saindhava → kvātha → madhu → kalka → sneha",
+          "hi": "सैन्धव → क्वाथ → मधु → कल्क → स्नेह"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "Honey is taken first, saindhava is added and mixed, then sneha, then kalka, and finally kvātha, churning to a uniform emulsion. The reverse order is a common trap.",
+      "explanation_hi": "पहले मधु लिया जाता है, फिर सैन्धव मिलाया जाता है, फिर स्नेह, फिर कल्क और अंत में क्वाथ, और मथकर एकरस मिश्रण बनाया जाता है। उलटा क्रम प्रायः भ्रम पैदा करता है।",
+      "reference": "SS.chikitsa.38",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0033",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-basti",
+      "topic_en": "Basti (medicated enema)",
+      "topic_hi": "बस्ति",
+      "type": "true_false",
+      "question_en": "True or False: Anuvāsana basti is given on an empty stomach, while nirūha basti is given after food.",
+      "question_hi": "सत्य या असत्य: अनुवासन बस्ति खाली पेट और निरूह बस्ति भोजन के बाद दी जाती है।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "False. It is the reverse: anuvāsana (sneha) basti is given after a light meal, and nirūha (kaṣāya) basti on an empty stomach.",
+      "explanation_hi": "असत्य। उलटा है: अनुवासन (स्नेह) बस्ति हल्के भोजन के बाद दी जाती है और निरूह (कषाय) बस्ति खाली पेट।",
+      "reference": "CS.siddhi.1",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0034",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-basti",
+      "topic_en": "Basti (medicated enema)",
+      "topic_hi": "बस्ति",
+      "type": "mcq",
+      "question_en": "According to Vāgbhaṭa, what is the length of the basti netra for a person above 20 years?",
+      "question_hi": "वाग्भट के अनुसार 20 वर्ष से अधिक आयु के व्यक्ति के लिए बस्ति नेत्र की लम्बाई कितनी है?",
+      "options": [
+        {
+          "en": "6 aṅgula",
+          "hi": "6 अङ्गुल"
+        },
+        {
+          "en": "8 aṅgula",
+          "hi": "8 अङ्गुल"
+        },
+        {
+          "en": "16 aṅgula",
+          "hi": "16 अङ्गुल"
+        },
+        {
+          "en": "12 aṅgula",
+          "hi": "12 अङ्गुल"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "AH Sū 19.10–11: the netra is 5 aṅgula under one year, 6 aṅgula up to 7 years, then increases with age (7, 8, 9) and is 12 aṅgula after 20 years, measured by the patient's own finger.",
+      "explanation_hi": "अष्टाङ्गहृदय सूत्र 19.10-11: एक वर्ष से कम में नेत्र 5 अङ्गुल, 7 वर्ष तक 6 अङ्गुल, फिर आयु के साथ (7, 8, 9) बढ़ता है और 20 वर्ष के बाद 12 अङ्गुल होता है - रोगी की अपनी अङ्गुलि से नापा जाता है।",
+      "reference": "AH.sutra.19.11",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0035",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-basti",
+      "topic_en": "Basti (medicated enema)",
+      "topic_hi": "बस्ति",
+      "type": "mcq",
+      "question_en": "Caraka's Siddhi sthāna chapter 7 describes how many basti vyāpads (complications)?",
+      "question_hi": "चरक सिद्धि स्थान अध्याय 7 में बस्ति की कितनी व्यापद् बताई गई हैं?",
+      "options": [
+        {
+          "en": "Twelve",
+          "hi": "बारह"
+        },
+        {
+          "en": "Ten",
+          "hi": "दस"
+        },
+        {
+          "en": "Eight",
+          "hi": "आठ"
+        },
+        {
+          "en": "Six",
+          "hi": "छह"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "CS Si 7 describes 12 basti vyāpads, including ayoga, atiyoga, klama, ādhmāna, hikkā, hṛtprāpti, ūrdhvatā, pravāhikā, śiro-arti, aṅgārti, parikartikā and parisrāva. Ten is the count of vamana-virecana vyāpads (Si 6).",
+      "explanation_hi": "चरक सिद्धि 7 में 12 बस्ति व्यापद् हैं, जैसे अयोग, अतियोग, क्लम, आध्मान, हिक्का, हृत्प्राप्ति, ऊर्ध्वता, प्रवाहिका, शिरोऽर्ति, अङ्गार्ति, परिकर्तिका और परिस्राव। दस वमन-विरेचन व्यापद् की संख्या है (सिद्धि 6)।",
+      "reference": "CS.siddhi.7",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0036",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-basti",
+      "topic_en": "Basti (medicated enema)",
+      "topic_hi": "बस्ति",
+      "type": "mcq",
+      "question_en": "Uttara basti is administered through which route?",
+      "question_hi": "उत्तर बस्ति किस मार्ग से दी जाती है?",
+      "options": [
+        {
+          "en": "Anal route",
+          "hi": "गुद मार्ग"
+        },
+        {
+          "en": "Nasal route",
+          "hi": "नासा मार्ग"
+        },
+        {
+          "en": "Through a wound",
+          "hi": "व्रण मार्ग"
+        },
+        {
+          "en": "Urethral or vaginal (uterine) route",
+          "hi": "मूत्रमार्ग या योनि (गर्भाशय) मार्ग"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "Uttara basti is given through the urethra in men and the urethra or vagina/uterus in women (CS Si 12; SS Ci 37). The anal route is used for nirūha and anuvāsana.",
+      "explanation_hi": "उत्तर बस्ति पुरुषों में मूत्रमार्ग से और स्त्रियों में मूत्रमार्ग या योनि/गर्भाशय से दी जाती है (चरक सिद्धि 12; सुश्रुत चिकित्सा 37)। गुद मार्ग निरूह और अनुवासन के लिए है।",
+      "reference": "CS.siddhi.12",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0037",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-nasya",
+      "topic_en": "Nasya (nasal therapy)",
+      "topic_hi": "नस्य",
+      "type": "mcq",
+      "question_en": "According to Vāgbhaṭa, what is the dose of pratimarśa nasya?",
+      "question_hi": "वाग्भट के अनुसार प्रतिमर्श नस्य की मात्रा कितनी है?",
+      "options": [
+        {
+          "en": "6 drops",
+          "hi": "6 बिन्दु"
+        },
+        {
+          "en": "8 drops",
+          "hi": "8 बिन्दु"
+        },
+        {
+          "en": "2 drops (bindu)",
+          "hi": "2 बिन्दु"
+        },
+        {
+          "en": "10 drops",
+          "hi": "10 बिन्दु"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "AH Sū 20.29: pratimarśa is two drops (dvibinduka). Marśa nasya is larger: 10, 8 and 6 drops for uttama, madhyama and hīna doses.",
+      "explanation_hi": "अष्टाङ्गहृदय सूत्र 20.29: प्रतिमर्श दो बिन्दु (द्विबिन्दुक) है। मर्श नस्य की मात्रा अधिक है: उत्तम, मध्यम और हीन में 10, 8 और 6 बिन्दु।",
+      "reference": "AH.sutra.20.29",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0038",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-nasya",
+      "topic_en": "Nasya (nasal therapy)",
+      "topic_hi": "नस्य",
+      "type": "mcq",
+      "question_en": "Which nasya can be used daily from birth till death, according to Vāgbhaṭa?",
+      "question_hi": "वाग्भट के अनुसार कौन-सा नस्य जन्म से मृत्यु तक प्रतिदिन लिया जा सकता है?",
+      "options": [
+        {
+          "en": "Marśa",
+          "hi": "मर्श"
+        },
+        {
+          "en": "Pratimarśa",
+          "hi": "प्रतिमर्श"
+        },
+        {
+          "en": "Avapīḍa",
+          "hi": "अवपीड"
+        },
+        {
+          "en": "Pradhamana",
+          "hi": "प्रधमन"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "AH Sū 20.32: 'ājanmamaraṇaṃ śastaḥ pratimarśaḥ' — pratimarśa, being only two drops, is safe throughout life, like mātrā basti. Marśa, avapīḍa and pradhamana need indications and precautions.",
+      "explanation_hi": "अष्टाङ्गहृदय सूत्र 20.32: 'आजन्ममरणं शस्तः प्रतिमर्शः' - केवल दो बिन्दु होने से प्रतिमर्श जीवन भर सुरक्षित है, मात्रा बस्ति की तरह। मर्श, अवपीड और प्रधमन के लिए संकेत और सावधानियाँ आवश्यक हैं।",
+      "reference": "AH.sutra.20.32",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0039",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-nasya",
+      "topic_en": "Nasya (nasal therapy)",
+      "topic_hi": "नस्य",
+      "type": "true_false",
+      "question_en": "True or False: According to Vāgbhaṭa, (marśa) nasya should not be given to a child below 7 years or to a person above 80 years.",
+      "question_hi": "सत्य या असत्य: वाग्भट के अनुसार (मर्श) नस्य 7 वर्ष से कम आयु के बच्चे या 80 वर्ष से अधिक आयु के व्यक्ति को नहीं देना चाहिए।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "True. AH Sū 20.30: 'na nasyam ūnasaptābde nātītāśītivatsare'. Pratimarśa is the exception and can be used at any age.",
+      "explanation_hi": "सत्य। अष्टाङ्गहृदय सूत्र 20.30: 'न नस्यमूनसप्ताब्दे नातीताशीतिवत्सरे'। प्रतिमर्श इसका अपवाद है और किसी भी आयु में दिया जा सकता है।",
+      "reference": "AH.sutra.20.30",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0040",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-nasya",
+      "topic_en": "Nasya (nasal therapy)",
+      "topic_hi": "नस्य",
+      "type": "mcq",
+      "question_en": "Pradhamana nasya is administered as:",
+      "question_hi": "प्रधमन नस्य किस रूप में दिया जाता है?",
+      "options": [
+        {
+          "en": "Juice squeezed from a paste",
+          "hi": "कल्क से निचोड़ा गया रस"
+        },
+        {
+          "en": "Two drops of oil",
+          "hi": "दो बिन्दु तैल"
+        },
+        {
+          "en": "Fine powder blown into the nose through a tube",
+          "hi": "नली द्वारा नाक में फूँका गया सूक्ष्म चूर्ण"
+        },
+        {
+          "en": "Medicated smoke",
+          "hi": "औषधीय धूम"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "Pradhamana (dhmāpana) is a śodhana nasya in which fine powder is blown into the nostril through a tube (nāḍī). Juice squeezed from a paste is avapīḍa; two drops of oil is pratimarśa.",
+      "explanation_hi": "प्रधमन (ध्मापन) शोधन नस्य है जिसमें सूक्ष्म चूर्ण नली (नाडी) द्वारा नासा में फूँका जाता है। कल्क से निचोड़ा रस अवपीड है; दो बिन्दु तैल प्रतिमर्श है।",
+      "reference": "SS.chikitsa.40",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0041",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-nasya",
+      "topic_en": "Nasya (nasal therapy)",
+      "topic_hi": "नस्य",
+      "type": "mcq",
+      "question_en": "Vāgbhaṭa classifies nasya by action into three types. Which set is correct?",
+      "question_hi": "वाग्भट ने कर्म के आधार पर नस्य के तीन प्रकार बताए हैं। सही समूह कौन-सा है?",
+      "options": [
+        {
+          "en": "Marśa, pratimarśa, avapīḍa",
+          "hi": "मर्श, प्रतिमर्श, अवपीड"
+        },
+        {
+          "en": "Virecana, bṛṃhaṇa, śamana",
+          "hi": "विरेचन, बृंहण, शमन"
+        },
+        {
+          "en": "Snehana, lekhana, ropaṇa",
+          "hi": "स्नेहन, लेखन, रोपण"
+        },
+        {
+          "en": "Navana, dhmāpana, dhūma",
+          "hi": "नवन, ध्मापन, धूम"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "AH Sū 20 divides nasya into virecana (cleansing), bṛṃhaṇa (nourishing) and śamana (palliative). Marśa/pratimarśa/avapīḍa are forms of administration; snehana-lekhana-ropaṇa is the classification of puṭapāka; navana/dhmāpana/dhūma are from Caraka's five-fold list.",
+      "explanation_hi": "अष्टाङ्गहृदय सूत्र 20 में नस्य के तीन प्रकार हैं: विरेचन, बृंहण और शमन। मर्श/प्रतिमर्श/अवपीड देने के रूप हैं; स्नेहन-लेखन-रोपण पुटपाक का वर्गीकरण है; नवन/ध्मापन/धूम चरक की पाँच प्रकार की सूची से हैं।",
+      "reference": "AH.sutra.20",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0042",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-nasya",
+      "topic_en": "Nasya (nasal therapy)",
+      "topic_hi": "नस्य",
+      "type": "mcq",
+      "question_en": "According to Vāgbhaṭa, what is the uttama (maximum) dose of marśa nasya?",
+      "question_hi": "वाग्भट के अनुसार मर्श नस्य की उत्तम मात्रा कितनी है?",
+      "options": [
+        {
+          "en": "10 drops",
+          "hi": "10 बिन्दु"
+        },
+        {
+          "en": "8 drops",
+          "hi": "8 बिन्दु"
+        },
+        {
+          "en": "6 drops",
+          "hi": "6 बिन्दु"
+        },
+        {
+          "en": "2 drops",
+          "hi": "2 बिन्दु"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "Marśa nasya: uttama 10, madhyama 8 and hīna 6 drops (AH Sū 20). Two drops is pratimarśa.",
+      "explanation_hi": "मर्श नस्य: उत्तम 10, मध्यम 8 और हीन 6 बिन्दु (अष्टाङ्गहृदय सूत्र 20)। दो बिन्दु प्रतिमर्श है।",
+      "reference": "AH.sutra.20",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0043",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-raktamoksana",
+      "topic_en": "Raktamokṣaṇa and Jalaukāvacaraṇa",
+      "topic_hi": "रक्तमोक्षण और जलौकावचारण",
+      "type": "mcq",
+      "question_en": "According to Suśruta, how many types of jalaukā (leeches) are there, and how many are non-poisonous?",
+      "question_hi": "सुश्रुत के अनुसार जलौका कितने प्रकार की हैं और उनमें कितनी निर्विष हैं?",
+      "options": [
+        {
+          "en": "12 types; 6 non-poisonous",
+          "hi": "12 प्रकार; 6 निर्विष"
+        },
+        {
+          "en": "12 types; 4 non-poisonous",
+          "hi": "12 प्रकार; 4 निर्विष"
+        },
+        {
+          "en": "8 types; 4 non-poisonous",
+          "hi": "8 प्रकार; 4 निर्विष"
+        },
+        {
+          "en": "6 types; 3 non-poisonous",
+          "hi": "6 प्रकार; 3 निर्विष"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "SS Sū 13: 12 jalaukās — 6 saviṣa (kṛṣṇā, karburā, alagardā, indrāyudhā, sāmudrikā, gocandanā) and 6 nirviṣa (kapilā, piṅgalā, śaṅkumukhī, mūṣikā, puṇḍarīkamukhī, sāvarikā).",
+      "explanation_hi": "सुश्रुत सूत्र 13: 12 जलौका - 6 सविष (कृष्णा, कर्बुरा, अलगर्दा, इन्द्रायुधा, सामुद्रिका, गोचन्दना) और 6 निर्विष (कपिला, पिङ्गला, शङ्कुमुखी, मूषिका, पुण्डरीकमुखी, सावरिका)।",
+      "reference": "SS.sutra.13",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0044",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-raktamoksana",
+      "topic_en": "Raktamokṣaṇa and Jalaukāvacaraṇa",
+      "topic_hi": "रक्तमोक्षण और जलौकावचारण",
+      "type": "mcq",
+      "question_en": "Which of the following is a nirviṣa (non-poisonous) jalaukā fit for therapeutic use?",
+      "question_hi": "इनमें से कौन-सी निर्विष जलौका चिकित्सा के लिए उपयुक्त है?",
+      "options": [
+        {
+          "en": "Kṛṣṇā",
+          "hi": "कृष्णा"
+        },
+        {
+          "en": "Karburā",
+          "hi": "कर्बुरा"
+        },
+        {
+          "en": "Kapilā",
+          "hi": "कपिला"
+        },
+        {
+          "en": "Indrāyudhā",
+          "hi": "इन्द्रायुधा"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "Kapilā is one of the six nirviṣa leeches. Kṛṣṇā, karburā and indrāyudhā are saviṣa and must not be used (SS Sū 13).",
+      "explanation_hi": "कपिला छह निर्विष जलौकाओं में से है। कृष्णा, कर्बुरा और इन्द्रायुधा सविष हैं और इनका प्रयोग नहीं करना चाहिए (सुश्रुत सूत्र 13)।",
+      "reference": "SS.sutra.13",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0045",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-raktamoksana",
+      "topic_en": "Raktamokṣaṇa and Jalaukāvacaraṇa",
+      "topic_hi": "रक्तमोक्षण और जलौकावचारण",
+      "type": "mcq",
+      "question_en": "Matching the doṣa with the aśastra method of bloodletting (Suśruta/Vāgbhaṭa), which pair is correct?",
+      "question_hi": "दोष के अनुसार अशस्त्र रक्तमोक्षण विधि (सुश्रुत/वाग्भट) का कौन-सा युग्म सही है?",
+      "options": [
+        {
+          "en": "Vāta – alābu",
+          "hi": "वात - अलाबु"
+        },
+        {
+          "en": "Pitta – jalaukā",
+          "hi": "पित्त - जलौका"
+        },
+        {
+          "en": "Kapha – śṛṅga",
+          "hi": "कफ - शृङ्ग"
+        },
+        {
+          "en": "Pitta – śṛṅga",
+          "hi": "पित्त - शृङ्ग"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "Śṛṅga (horn) for vāta-vitiated blood, jalaukā (leech, cold-natured) for pitta, and alābu (gourd, used with a flame) for kapha (SS Sū 13; AH Sū 26.55).",
+      "explanation_hi": "वात दूषित रक्त में शृङ्ग, पित्त में जलौका (शीत स्वभाव) और कफ में अलाबु (अग्नि के साथ प्रयुक्त) (सुश्रुत सूत्र 13; अष्टाङ्गहृदय सूत्र 26.55)।",
+      "reference": "AH.sutra.26.55",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0046",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-raktamoksana",
+      "topic_en": "Raktamokṣaṇa and Jalaukāvacaraṇa",
+      "topic_hi": "रक्तमोक्षण और जलौकावचारण",
+      "type": "mcq",
+      "question_en": "According to Vāgbhaṭa, for vitiated blood that is deep-seated (avagāḍha), which method of raktamokṣaṇa is preferred?",
+      "question_hi": "वाग्भट के अनुसार गहराई में स्थित (अवगाढ) दूषित रक्त के लिए कौन-सी रक्तमोक्षण विधि उपयुक्त है?",
+      "options": [
+        {
+          "en": "Pracchāna",
+          "hi": "प्रच्छान"
+        },
+        {
+          "en": "Alābu / ghaṭī / śṛṅga",
+          "hi": "अलाबु / घटी / शृङ्ग"
+        },
+        {
+          "en": "Sirāvyadha",
+          "hi": "सिराव्यध"
+        },
+        {
+          "en": "Jalaukā",
+          "hi": "जलौका"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "AH Sū 26.54: pracchāna for localised (piṇḍita) blood, jalaukā for deep-seated (avagāḍha), alābu/ghaṭī/śṛṅga for blood in the skin (tvakstha), and sirāvyadha when vitiated blood is spread through the body (vyāpaka).",
+      "explanation_hi": "अष्टाङ्गहृदय सूत्र 26.54: एक स्थान पर जमे (पिण्डित) रक्त में प्रच्छान, गहरे (अवगाढ) में जलौका, त्वचा में स्थित (त्वक्स्थ) में अलाबु/घटी/शृङ्ग, और पूरे शरीर में फैले (व्यापक) दूषित रक्त में सिराव्यध।",
+      "reference": "AH.sutra.26.54",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0047",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-raktamoksana",
+      "topic_en": "Raktamokṣaṇa and Jalaukāvacaraṇa",
+      "topic_hi": "रक्तमोक्षण और जलौकावचारण",
+      "type": "mcq",
+      "question_en": "If a leech does not detach after sucking blood, what is sprinkled at its mouth?",
+      "question_hi": "रक्त चूसने के बाद यदि जलौका स्वयं न छूटे तो उसके मुख पर क्या छिड़का जाता है?",
+      "options": [
+        {
+          "en": "Sugar",
+          "hi": "शर्करा"
+        },
+        {
+          "en": "Honey",
+          "hi": "मधु"
+        },
+        {
+          "en": "Ghee",
+          "hi": "घृत"
+        },
+        {
+          "en": "Saindhava (rock salt) powder",
+          "hi": "सैन्धव (सेंधा नमक) चूर्ण"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "SS Sū 13: when the leech does not let go, saindhava powder is sprinkled on its mouth. Pulling it off forcibly can leave its teeth in the wound. Honey, sugar or ghee would not make it detach.",
+      "explanation_hi": "सुश्रुत सूत्र 13: जलौका न छूटे तो उसके मुख पर सैन्धव चूर्ण छिड़का जाता है। ज़बरदस्ती खींचने से उसके दाँत व्रण में रह सकते हैं। मधु, शर्करा या घृत से वह नहीं छूटती।",
+      "reference": "SS.sutra.13",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0048",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-raktamoksana",
+      "topic_en": "Raktamokṣaṇa and Jalaukāvacaraṇa",
+      "topic_hi": "रक्तमोक्षण और जलौकावचारण",
+      "type": "true_false",
+      "question_en": "True or False: Suśruta regards sirāvyadha as 'ardha-cikitsā' (half of all treatment) in Śalya tantra.",
+      "question_hi": "सत्य या असत्य: सुश्रुत शल्य तन्त्र में सिराव्यध को 'अर्ध-चिकित्सा' मानते हैं।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "True. SS Śā 8.23 says sirāvyadha is half of the treatment in śalya tantra, just as basti is called ardha-cikitsā in kāyacikitsā.",
+      "explanation_hi": "सत्य। सुश्रुत शारीर 8.23 के अनुसार शल्य तन्त्र में सिराव्यध आधी चिकित्सा है, जैसे कायचिकित्सा में बस्ति को अर्ध-चिकित्सा कहा जाता है।",
+      "reference": "SS.sharira.8.23",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0049",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-keraliya",
+      "topic_en": "Kerala procedures and mūrdhni taila",
+      "topic_hi": "केरलीय क्रियाएँ और मूर्ध्नि तैल",
+      "type": "mcq",
+      "question_en": "Vāgbhaṭa describes four types of mūrdhni taila. Which is the most potent (uttarottara best)?",
+      "question_hi": "वाग्भट ने मूर्ध्नि तैल के चार प्रकार बताए हैं। इनमें सबसे प्रभावी (उत्तरोत्तर श्रेष्ठ) कौन-सा है?",
+      "options": [
+        {
+          "en": "Śirobasti",
+          "hi": "शिरोबस्ति"
+        },
+        {
+          "en": "Śiro-abhyaṅga",
+          "hi": "शिरोभ्यङ्ग"
+        },
+        {
+          "en": "Pariṣeka (dhārā)",
+          "hi": "परिषेक (धारा)"
+        },
+        {
+          "en": "Śiro-picu",
+          "hi": "शिरोपिचु"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "AH Sū 22.23–24: abhyaṅga, seka (pariṣeka), picu and basti — each one is more effective than the one before it, so śirobasti is the most potent.",
+      "explanation_hi": "अष्टाङ्गहृदय सूत्र 22.23-24: अभ्यङ्ग, सेक (परिषेक), पिचु और बस्ति - प्रत्येक पिछले से अधिक प्रभावी है, इसलिए शिरोबस्ति सबसे प्रभावी है।",
+      "reference": "AH.sutra.22.23",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0050",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-keraliya",
+      "topic_en": "Kerala procedures and mūrdhni taila",
+      "topic_hi": "केरलीय क्रियाएँ और मूर्ध्नि तैल",
+      "type": "mcq",
+      "question_en": "According to Vāgbhaṭa, for how long is oil retained in śirobasti in vāta disorders?",
+      "question_hi": "वाग्भट के अनुसार वात विकारों में शिरोबस्ति में तैल कितने समय तक रखा जाता है?",
+      "options": [
+        {
+          "en": "8,000 mātrā",
+          "hi": "8,000 मात्रा"
+        },
+        {
+          "en": "10,000 mātrā",
+          "hi": "10,000 मात्रा"
+        },
+        {
+          "en": "6,000 mātrā",
+          "hi": "6,000 मात्रा"
+        },
+        {
+          "en": "1,000 mātrā",
+          "hi": "1,000 मात्रा"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "AH Sū 22.30–31: 10,000 mātrā in vāta, 8,000 in pitta, 6,000 in kapha and 1,000 in a healthy person — or until discharge appears from mouth and nose.",
+      "explanation_hi": "अष्टाङ्गहृदय सूत्र 22.30-31: वात में 10,000 मात्रा, पित्त में 8,000, कफ में 6,000 और स्वस्थ व्यक्ति में 1,000 - या मुख व नासा से स्राव आने तक।",
+      "reference": "AH.sutra.22.30",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0051",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-keraliya",
+      "topic_en": "Kerala procedures and mūrdhni taila",
+      "topic_hi": "केरलीय क्रियाएँ और मूर्ध्नि तैल",
+      "type": "mcq",
+      "question_en": "Ṣaṣṭika śāli piṇḍa sveda (Navarakizhi) uses ṣaṣṭika rice cooked in:",
+      "question_hi": "षष्टिक शालि पिण्ड स्वेद (नवरकिऴि) में षष्टिक चावल किसमें पकाया जाता है?",
+      "options": [
+        {
+          "en": "Buttermilk",
+          "hi": "तक्र"
+        },
+        {
+          "en": "Kāñjī (sour gruel)",
+          "hi": "काञ्जी"
+        },
+        {
+          "en": "Milk and balāmūla decoction",
+          "hi": "दूध और बलामूल क्वाथ"
+        },
+        {
+          "en": "Plain water with rock salt",
+          "hi": "सेंधा नमक मिला जल"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "In Navarakizhi, ṣaṣṭika rice is cooked in milk and balāmūla kvātha, tied in boluses and applied warm. It is a snigdha, bṛṃhaṇa sveda used in vāta disorders and wasting. Kāñjī and buttermilk are used in rūkṣa procedures like dhānyāmla dhārā and takradhārā.",
+      "explanation_hi": "नवरकिऴि में षष्टिक चावल दूध और बलामूल क्वाथ में पकाकर पोटली में बाँधा जाता है और गरम लगाया जाता है। यह स्निग्ध, बृंहण स्वेद है, वात विकार और क्षीणता में प्रयुक्त। काञ्जी और तक्र रूक्ष क्रियाओं (धान्याम्ल धारा, तक्रधारा) में प्रयुक्त होते हैं।",
+      "reference": "Kerala Pañcakarma tradition",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0052",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-keraliya",
+      "topic_en": "Kerala procedures and mūrdhni taila",
+      "topic_hi": "केरलीय क्रियाएँ और मूर्ध्नि तैल",
+      "type": "mcq",
+      "question_en": "Piṇḍa sveda of the Kerala tradition corresponds to which of Caraka's 13 sāgni svedas?",
+      "question_hi": "केरल परम्परा का पिण्ड स्वेद चरक के 13 साग्नि स्वेदों में से किसके समान है?",
+      "options": [
+        {
+          "en": "Prastara sveda",
+          "hi": "प्रस्तर स्वेद"
+        },
+        {
+          "en": "Saṅkara sveda",
+          "hi": "संकर स्वेद"
+        },
+        {
+          "en": "Nāḍī sveda",
+          "hi": "नाडी स्वेद"
+        },
+        {
+          "en": "Avagāha sveda",
+          "hi": "अवगाह स्वेद"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "Saṅkara sveda (CS Sū 14) is sudation with heated boluses (piṇḍa) of drugs tied in cloth or applied directly — the basis of all piṇḍa svedas. Prastara is lying on a heated bed of grains; nāḍī uses steam through a tube; avagāha is a tub bath.",
+      "explanation_hi": "संकर स्वेद (चरक सूत्र 14) में औषधियों की गरम पोटली (पिण्ड) से स्वेदन होता है - यही सभी पिण्ड स्वेदों का आधार है। प्रस्तर में गरम धान्य की शय्या पर लेटना, नाडी में नली से भाप, और अवगाह में टब स्नान होता है।",
+      "reference": "CS.sutra.14",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0053",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-keraliya",
+      "topic_en": "Kerala procedures and mūrdhni taila",
+      "topic_hi": "केरलीय क्रियाएँ और मूर्ध्नि तैल",
+      "type": "mcq",
+      "question_en": "Udvartana is best described as:",
+      "question_hi": "उद्वर्तन का सबसे सही वर्णन क्या है?",
+      "options": [
+        {
+          "en": "Dry powder massage against the direction of hair, reducing kapha and medas",
+          "hi": "रोमों की विपरीत दिशा में रूक्ष चूर्ण से मर्दन, कफ-मेद घटाने वाला"
+        },
+        {
+          "en": "Oil massage in the direction of hair",
+          "hi": "रोमों की दिशा में तैल मर्दन"
+        },
+        {
+          "en": "Continuous pouring of oil on the forehead",
+          "hi": "माथे पर तैल की निरंतर धारा"
+        },
+        {
+          "en": "Retaining oil inside a cap on the head",
+          "hi": "सिर पर टोपी में तैल रखना"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "Udvartana is a rūkṣa (dry) powder massage done in pratiloma direction. It reduces kapha and medas, opens channels and firms the body (AH Sū 2). The other options describe abhyaṅga, śirodhārā and śirobasti.",
+      "explanation_hi": "उद्वर्तन प्रतिलोम दिशा में रूक्ष चूर्ण से किया गया मर्दन है। यह कफ और मेद घटाता है, स्रोतों को खोलता है और शरीर को दृढ़ बनाता है (अष्टाङ्गहृदय सूत्र 2)। अन्य विकल्प अभ्यङ्ग, शिरोधारा और शिरोबस्ति के हैं।",
+      "reference": "AH.sutra.2",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0054",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-keraliya",
+      "topic_en": "Kerala procedures and mūrdhni taila",
+      "topic_hi": "केरलीय क्रियाएँ और मूर्ध्नि तैल",
+      "type": "mcq",
+      "question_en": "Takradhārā is a form of śirodhārā in which the liquid used is:",
+      "question_hi": "तक्रधारा शिरोधारा का वह प्रकार है जिसमें प्रयुक्त द्रव है:",
+      "options": [
+        {
+          "en": "Medicated milk",
+          "hi": "औषधसिद्ध दूध"
+        },
+        {
+          "en": "Medicated buttermilk",
+          "hi": "औषधसिद्ध तक्र (छाछ)"
+        },
+        {
+          "en": "Medicated oil",
+          "hi": "औषधसिद्ध तैल"
+        },
+        {
+          "en": "Plain warm water",
+          "hi": "सादा गरम जल"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "Takradhārā uses buttermilk medicated with drugs such as āmalaka and musta. Kṣīradhārā uses milk and tailadhārā uses oil.",
+      "explanation_hi": "तक्रधारा में आमलक, मुस्ता आदि से सिद्ध तक्र प्रयुक्त होता है। क्षीरधारा में दूध और तैलधारा में तैल प्रयोग होता है।",
+      "reference": "Kerala Pañcakarma tradition",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0055",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-dhumapana",
+      "topic_en": "Dhūmapāna",
+      "topic_hi": "धूमपान",
+      "type": "mcq",
+      "question_en": "Caraka describes three types of dhūmapāna. Which set is correct?",
+      "question_hi": "चरक ने धूमपान के तीन प्रकार बताए हैं। सही समूह कौन-सा है?",
+      "options": [
+        {
+          "en": "Prāyogika, snaihika, vairecanika",
+          "hi": "प्रायोगिक, स्नैहिक, वैरेचनिक"
+        },
+        {
+          "en": "Śamana, bṛṃhaṇa, lekhana",
+          "hi": "शमन, बृंहण, लेखन"
+        },
+        {
+          "en": "Mṛdu, madhya, tīkṣṇa",
+          "hi": "मृदु, मध्य, तीक्ष्ण"
+        },
+        {
+          "en": "Kāsaghna, vāmanīya, vraṇadhūpana",
+          "hi": "कासघ्न, वामनीय, व्रणधूपन"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "CS Sū 5: prāyogika (routine), snaihika (unctuous) and vairecanika (cleansing). Suśruta lists five types including kāsaghna and vāmanīya.",
+      "explanation_hi": "चरक सूत्र 5: प्रायोगिक (दैनिक), स्नैहिक (स्निग्ध) और वैरेचनिक (शोधक)। सुश्रुत पाँच प्रकार बताते हैं, जिनमें कासघ्न और वामनीय भी हैं।",
+      "reference": "CS.sutra.5",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0056",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-dhumapana",
+      "topic_en": "Dhūmapāna",
+      "topic_hi": "धूमपान",
+      "type": "mcq",
+      "question_en": "According to Caraka, what is the length of the dhūmanetra (smoking pipe) for vairecanika dhūma?",
+      "question_hi": "चरक के अनुसार वैरेचनिक धूम के लिए धूमनेत्र की लम्बाई कितनी है?",
+      "options": [
+        {
+          "en": "24 aṅgula",
+          "hi": "24 अङ्गुल"
+        },
+        {
+          "en": "32 aṅgula",
+          "hi": "32 अङ्गुल"
+        },
+        {
+          "en": "36 aṅgula",
+          "hi": "36 अङ्गुल"
+        },
+        {
+          "en": "12 aṅgula",
+          "hi": "12 अङ्गुल"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "CS Sū 5: dhūmanetra is 36 aṅgula for prāyogika, 32 for snaihika and 24 for vairecanika. The shorter pipe delivers stronger smoke for cleansing.",
+      "explanation_hi": "चरक सूत्र 5: धूमनेत्र प्रायोगिक के लिए 36 अङ्गुल, स्नैहिक के लिए 32 और वैरेचनिक के लिए 24 अङ्गुल। छोटा नेत्र शोधन के लिए तीव्र धूम देता है।",
+      "reference": "CS.sutra.5",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0057",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-basti",
+      "topic_en": "Basti (medicated enema)",
+      "topic_hi": "बस्ति",
+      "type": "mcq",
+      "question_en": "Which type of basti, containing both sneha and kaṣāya qualities, can be given at any time and is described as 'yāpana'?",
+      "question_hi": "किस प्रकार की बस्ति, जिसमें स्नेह और कषाय दोनों गुण होते हैं, किसी भी समय दी जा सकती है और 'यापन' कहलाती है?",
+      "options": [
+        {
+          "en": "Mādhutailika basti",
+          "hi": "माधुतैलिक बस्ति"
+        },
+        {
+          "en": "Piccha basti",
+          "hi": "पिच्छा बस्ति"
+        },
+        {
+          "en": "Lekhana basti",
+          "hi": "लेखन बस्ति"
+        },
+        {
+          "en": "Uttara basti",
+          "hi": "उत्तर बस्ति"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "Mādhutailika basti (honey and oil predominant, SS Ci 38) is a type of yāpana basti — mild, combining nirūha and anuvāsana actions, and usable at any time without strict restrictions. Piccha basti is for bleeding diarrhoea; lekhana basti is scraping.",
+      "explanation_hi": "माधुतैलिक बस्ति (मधु और तैल प्रधान, सुश्रुत चिकित्सा 38) एक प्रकार की यापन बस्ति है - मृदु, निरूह और अनुवासन दोनों के कर्म वाली, और बिना कठोर परहेज के किसी भी समय दी जा सकती है। पिच्छा बस्ति रक्तातिसार में और लेखन बस्ति कर्षण के लिए है।",
+      "reference": "SS.chikitsa.38",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0058",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-basti",
+      "topic_en": "Basti (medicated enema)",
+      "topic_hi": "बस्ति",
+      "type": "mcq",
+      "question_en": "Which of the following is NOT one of Caraka's pañcakarma?",
+      "question_hi": "इनमें से कौन-सा चरक के पञ्चकर्म में शामिल नहीं है?",
+      "options": [
+        {
+          "en": "Raktamokṣaṇa",
+          "hi": "रक्तमोक्षण"
+        },
+        {
+          "en": "Vamana",
+          "hi": "वमन"
+        },
+        {
+          "en": "Anuvāsana basti",
+          "hi": "अनुवासन बस्ति"
+        },
+        {
+          "en": "Nasya",
+          "hi": "नस्य"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "Caraka's pañcakarma are vamana, virecana, nirūha (āsthāpana) basti, anuvāsana basti and nasya (śirovirecana). Suśruta, as a surgeon, counts basti as one karma and adds raktamokṣaṇa to make five.",
+      "explanation_hi": "चरक के पञ्चकर्म हैं: वमन, विरेचन, निरूह (आस्थापन) बस्ति, अनुवासन बस्ति और नस्य (शिरोविरेचन)। शल्य चिकित्सक होने के नाते सुश्रुत बस्ति को एक कर्म गिनते हैं और रक्तमोक्षण जोड़कर पाँच बनाते हैं।",
+      "reference": "CS.siddhi.2",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0059",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-keraliya",
+      "topic_en": "Kerala procedures and mūrdhni taila",
+      "topic_hi": "केरलीय क्रियाएँ और मूर्ध्नि तैल",
+      "type": "mcq",
+      "question_en": "In kaṭi basti, the ring that holds warm oil over the lumbar region is made of:",
+      "question_hi": "कटि बस्ति में कमर पर गरम तैल रोकने वाला घेरा किससे बनाया जाता है?",
+      "options": [
+        {
+          "en": "Leather strip",
+          "hi": "चमड़े की पट्टी"
+        },
+        {
+          "en": "Dough of black gram (māṣa) flour",
+          "hi": "उड़द (माष) के आटे का गूँथा हुआ घेरा"
+        },
+        {
+          "en": "Cotton cloth",
+          "hi": "सूती वस्त्र"
+        },
+        {
+          "en": "Clay of an anthill",
+          "hi": "वल्मीक मृत्तिका"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "Kaṭi basti, jānu basti and grīvā basti use a ring of māṣa (black gram) dough to pool warm medicated oil over the part. The leather cap is used in śirobasti, where the joint is sealed with māṣa paste (AH Sū 22.28–29).",
+      "explanation_hi": "कटि बस्ति, जानु बस्ति और ग्रीवा बस्ति में उड़द (माष) के आटे के घेरे में गरम औषधीय तैल रोका जाता है। चमड़े की टोपी शिरोबस्ति में प्रयुक्त होती है, जिसकी संधि माष कल्क से बंद की जाती है (अष्टाङ्गहृदय सूत्र 22.28-29)।",
+      "reference": "Kerala Pañcakarma tradition",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-PK-0060",
+      "subject_id": "AyUG-PK",
+      "topic_id": "pk-basti",
+      "topic_en": "Basti (medicated enema)",
+      "topic_hi": "बस्ति",
+      "type": "mcq",
+      "question_en": "Within what time should nirūha basti ideally be evacuated?",
+      "question_hi": "निरूह बस्ति आदर्श रूप से कितने समय में बाहर आ जानी चाहिए?",
+      "options": [
+        {
+          "en": "Three yāma (about 9 hours)",
+          "hi": "तीन याम (लगभग 9 घंटे)"
+        },
+        {
+          "en": "24 hours",
+          "hi": "24 घंटे"
+        },
+        {
+          "en": "One muhūrta (about 48 minutes)",
+          "hi": "एक मुहूर्त (लगभग 48 मिनट)"
+        },
+        {
+          "en": "Immediately, within one minute",
+          "hi": "तुरन्त, एक मिनट में"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "Nirūha basti should come out within about one muhūrta (48 minutes); if retained longer it can cause complications, and measures like a stronger basti or phalavarti are used. Anuvāsana, by contrast, is meant to be retained much longer.",
+      "explanation_hi": "निरूह बस्ति लगभग एक मुहूर्त (48 मिनट) में बाहर आनी चाहिए; अधिक देर रुकने पर जटिलताएँ हो सकती हैं और तीक्ष्ण बस्ति या फलवर्ति जैसे उपाय किए जाते हैं। इसके विपरीत अनुवासन बस्ति अधिक समय तक रुकने के लिए दी जाती है।",
+      "reference": "SS.chikitsa.38",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    }
+  ]
+}

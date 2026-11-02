@@ -1,0 +1,11 @@
+# BuildKit uses this file (next to the Dockerfile) instead of a root .dockerignore.
+.git
+**/node_modules
+**/.env
+**/*.log
+server/dist
+server/test
+server/coverage
+content/raw
+content/scripts
+app

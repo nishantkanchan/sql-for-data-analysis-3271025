@@ -27,7 +27,7 @@ import type {
   Syllabus,
 } from '../types/content';
 import { buildIndex, entriesFromIndexFile, search, type SearchHit, type SearchIndex } from '../lib/search';
-import { foldLatin, skeleton } from '../lib/normalize';
+import { devanagariToIast, foldLatin, skeleton } from '../lib/normalize';
 import { daySeed } from '../lib/dates';
 
 /* ---------------------------------------------------------------- texts */
@@ -78,7 +78,24 @@ export function getChapter(chapterId: string): BundleChapter | null {
   if (hit) return hit;
   const loader = chapterLoaders[chapterId];
   if (!loader) return null;
-  const ch = loader();
+  const file = loader();
+  const ch: BundleChapter = {
+    id: file.id,
+    text: file.text,
+    sthana: file.sthana,
+    chapter: file.chapter,
+    translated: file.translated,
+    meta: file.meta,
+    verses:
+      file.verses ??
+      (file.compact ?? []).map(([verse, devanagari, ref]) => ({
+        id: `${file.id}.${verse}`,
+        verse,
+        devanagari,
+        iast: devanagariToIast(devanagari),
+        ...(ref ? { ref } : {}),
+      })),
+  };
   chapterCache.set(chapterId, ch);
   return ch;
 }
@@ -131,6 +148,21 @@ export function neighbours(ref: VerseRef): { prev: Neighbour | null; next: Neigh
     if (nc && nc.text === chapter.text && nc.verses.length) next = { id: nc.verses[0].id, index: 0 };
   }
   return { prev, next };
+}
+
+/** Verse number as printed: "2.41" for Ca. Ci. 1.2.41 (pāda-encoded ids), else the plain number. */
+export function displayVerseNumber(v: BundleVerse): string {
+  if (v.ref) {
+    const nums = v.ref.trim().split(/\s+/).pop() ?? '';
+    const parts = nums.split('.');
+    if (parts.length >= 2) return parts.slice(1).join('.');
+  }
+  return String(v.verse);
+}
+
+/** Display reference: the corpus `ref` when present ("Ca. Ci. 1.2.41"), else a label built from the id. */
+export function verseRef(v: BundleVerse): string {
+  return v.ref ?? shortVerseLabel(v.id);
 }
 
 export function isTranslated(v: BundleVerse): boolean {

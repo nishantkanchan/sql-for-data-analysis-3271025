@@ -52,7 +52,7 @@ const EnvSchema = z.object({
   JSON_BODY_LIMIT_BYTES: int(256 * 1024),
   MAX_IMAGE_BYTES: int(5 * 1024 * 1024),
 
-  MATCH_STRONG_THRESHOLD: num(0.72),
+  MATCH_STRONG_THRESHOLD: num(0.65),
   TUTOR_MAX_HISTORY: int(12),
 });
 

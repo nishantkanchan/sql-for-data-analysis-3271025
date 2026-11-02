@@ -1,0 +1,24 @@
+{
+ "terms": [
+  {
+   "id": "dosha",
+   "devanagari": "दोष",
+   "iast": "doṣa",
+   "simple": "Dosha",
+   "en": "Functional bio-regulatory principle.",
+   "hi": "दोष",
+   "modern": "Often compared to regulatory systems.",
+   "category": "siddhanta",
+   "source_refs": [
+    "AH.sutra.1.6"
+   ],
+   "related": [
+    "vata"
+   ],
+   "review_status": "ai_draft"
+  },
+  {
+   "bad": "term"
+  }
+ ]
+}

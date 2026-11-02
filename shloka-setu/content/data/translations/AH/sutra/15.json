@@ -1,0 +1,4054 @@
+{
+ "chapter": {
+  "id": "AH.sutra.15",
+  "text": "ashtanga_hridaya",
+  "sthana": "sutra",
+  "chapter": 15,
+  "title_iast": "Śodhanādigaṇasaṃgraha Adhyāya",
+  "title_devanagari": "शोधनादिगणसंग्रहोऽध्यायः",
+  "title_en": "The chapter on the collection of drug groups for purification and other purposes",
+  "title_hi": "शोधनादिगणसंग्रह अध्याय (शोधन आदि के लिए द्रव्य गणों का संग्रह)",
+  "summary_en": "This chapter is a compendium of drug groups (gaṇa). It begins with the five śodhana groups needed for purification: emetics (vamana), purgatives (virecana), drugs for nirūha enema and drugs for śirovirecana (nasal purification). It then gives doṣa-wise groups that pacify vāta, pitta and kapha, followed by named groups such as jīvanīya, vidāryādi, śārivādi, padmakādi, āragvadhādi, asanādi, varuṇādi, ūṣakādi, vīratarādi, lodhrādi, arkādi, surasādi, muṣkakādi, vatsakādi, vacādi, haridrādi, priyaṅgvādi, ambaṣṭhādi, mustādi, nyagrodhādi, elādi and śyāmādi, each with its main actions. In all, thirty-three groups are described. The chapter closes with the rule of substitution (pratinidhi) for unavailable drugs and explains that the groups are used in different dosage forms and routes after assessing doṣa and dūṣya. For exams, the jīvanīya gaṇa, the 33 gaṇa count, pañcakola, and the contrast between groups for āmātisāra and pakvātisāra are especially useful.",
+  "summary_hi": "यह अध्याय द्रव्य गणों (समूहों) का संग्रह है। इसकी शुरुआत शोधन के लिए आवश्यक गणों से होती है: वमन, विरेचन, निरूह बस्ति और शिरोविरेचन (नस्य) के द्रव्य। फिर दोषों के अनुसार वात, पित्त और कफ को शांत करने वाले गण दिए गए हैं, और उसके बाद नामित गण जैसे जीवनीय, विदार्यादि, शारिवादि, पद्मकादि, आरग्वधादि, असनादि, वरुणादि, ऊषकादि, वीरतरादि, लोध्रादि, अर्कादि, सुरसादि, मुष्ककादि, वत्सकादि, वचादि, हरिद्रादि, प्रियंग्वादि, अम्बष्ठादि, मुस्तादि, न्यग्रोधादि, एलादि और श्यामादि, प्रत्येक के मुख्य कर्मों सहित। कुल तैंतीस गण बताए गए हैं। अध्याय के अंत में न मिलने वाले द्रव्य के स्थान पर प्रतिनिधि द्रव्य का नियम है, और बताया गया है कि दोष-दूष्य का विचार करके गणों को विभिन्न कल्पनाओं और मार्गों से प्रयोग किया जाता है। परीक्षा के लिए जीवनीय गण, 33 गणों की संख्या, पंचकोल, और आमातिसार व पक्वातिसार के गणों का अंतर विशेष उपयोगी है।",
+  "key_concepts": [
+   "gaṇa",
+   "vamana gaṇa",
+   "virecana gaṇa",
+   "nirūhaṇa gaṇa",
+   "śirovirecana gaṇa",
+   "jīvanīya gaṇa",
+   "vidāryādi gaṇa",
+   "nyagrodhādi gaṇa",
+   "pañcakola",
+   "pratinidhi dravya"
+  ],
+  "exam_focus_en": [
+   "The five śodhana groups: vamana, virecana, nirūha and śirovirecana drugs (verses 1-4).",
+   "Doṣa-wise groups: vātahara, pittahara and the seven kaphahara gaṇas (verses 5-7).",
+   "Jīvanīya gaṇa (ten drugs, mostly aṣṭavarga) and the padmakādi group that contains it (verses 8, 12).",
+   "Groups for āmātisāra (vacādi, haridrādi) versus pakvātisāra (priyaṅgvādi, ambaṣṭhādi) (verses 36, 39).",
+   "Pañcakola, vīratarādi (urinary stone) and nyagrodhādi (wounds, fractures, bleeding) groups (verses 25, 34, 42).",
+   "Total of 33 gaṇas and the principle of pratinidhi (substitute) drugs (verse 46)."
+  ],
+  "exam_focus_hi": [
+   "पाँच शोधन गण: वमन, विरेचन, निरूह और शिरोविरेचन द्रव्य (श्लोक 1-4)।",
+   "दोषों के अनुसार गण: वातहर, पित्तहर और सात कफहर गण (श्लोक 5-7)।",
+   "जीवनीय गण (दस द्रव्य, अधिकतर अष्टवर्ग) और उसे सम्मिलित करने वाला पद्मकादि गण (श्लोक 8, 12)।",
+   "आमातिसार (वचादि, हरिद्रादि) और पक्वातिसार (प्रियंग्वादि, अम्बष्ठादि) के गण (श्लोक 36, 39)।",
+   "पंचकोल, वीरतरादि (अश्मरी) और न्यग्रोधादि (व्रण, भग्न, रक्तस्राव) गण (श्लोक 25, 34, 42)।",
+   "कुल 33 गण और प्रतिनिधि द्रव्य का सिद्धांत (श्लोक 46)।"
+  ],
+  "syllabus_refs": [
+   "AyUG-SA1"
+  ],
+  "review_status": "ai_draft"
+ },
+ "verses": [
+  {
+   "id": "AH.sutra.15.2",
+   "word_meanings": [
+    {
+     "sa": "मदन",
+     "iast": "madana",
+     "en": "madanaphala (Randia dumetorum)",
+     "hi": "मदनफल (मैनफल)"
+    },
+    {
+     "sa": "मधुक",
+     "iast": "madhuka",
+     "en": "yaṣṭimadhu, liquorice (Glycyrrhiza glabra)",
+     "hi": "मुलेठी"
+    },
+    {
+     "sa": "लम्बा",
+     "iast": "lambā",
+     "en": "bitter bottle gourd (Lagenaria siceraria, bitter variety)",
+     "hi": "कड़वी तुम्बी"
+    },
+    {
+     "sa": "निम्ब",
+     "iast": "nimba",
+     "en": "neem (Azadirachta indica)",
+     "hi": "नीम"
+    },
+    {
+     "sa": "बिम्बी",
+     "iast": "bimbī",
+     "en": "ivy gourd (Coccinia grandis)",
+     "hi": "बिम्बी (कुंदरू)"
+    },
+    {
+     "sa": "विशाला",
+     "iast": "viśālā",
+     "en": "indravāruṇī (Citrullus colocynthis)",
+     "hi": "इन्द्रायण"
+    },
+    {
+     "sa": "त्रपुस",
+     "iast": "trapusa",
+     "en": "cucumber (Cucumis sativus)",
+     "hi": "खीरा (त्रपुस)"
+    },
+    {
+     "sa": "कुटज",
+     "iast": "kuṭaja",
+     "en": "Holarrhena pubescens",
+     "hi": "कुटज"
+    },
+    {
+     "sa": "मूर्वा",
+     "iast": "mūrvā",
+     "en": "Marsdenia tenacissima",
+     "hi": "मूर्वा"
+    },
+    {
+     "sa": "देवदाली",
+     "iast": "devadālī",
+     "en": "Luffa echinata",
+     "hi": "देवदाली (बंदाल)"
+    },
+    {
+     "sa": "कृमिघ्नम्",
+     "iast": "kṛmighnam",
+     "en": "viḍaṅga (Embelia ribes)",
+     "hi": "वायविडंग"
+    },
+    {
+     "sa": "विदुल",
+     "iast": "vidula",
+     "en": "vetasa (identity debated)",
+     "hi": "विदुल (वेतस)"
+    },
+    {
+     "sa": "दहन",
+     "iast": "dahana",
+     "en": "citraka (Plumbago zeylanica)",
+     "hi": "चित्रक"
+    },
+    {
+     "sa": "चित्राः",
+     "iast": "citrāḥ",
+     "en": "citrā (identity debated; often taken as dantī)",
+     "hi": "चित्रा"
+    },
+    {
+     "sa": "कोशवत्यौ",
+     "iast": "kośavatyau",
+     "en": "the two kośātakīs (ridge gourds, Luffa spp.)",
+     "hi": "दोनों कोशातकी (तोरई)"
+    },
+    {
+     "sa": "करञ्जः",
+     "iast": "karañjaḥ",
+     "en": "Pongamia pinnata",
+     "hi": "करंज"
+    },
+    {
+     "sa": "कणा",
+     "iast": "kaṇā",
+     "en": "pippalī, long pepper",
+     "hi": "पिप्पली"
+    },
+    {
+     "sa": "लवण",
+     "iast": "lavaṇa",
+     "en": "salt",
+     "hi": "लवण"
+    },
+    {
+     "sa": "वचा",
+     "iast": "vacā",
+     "en": "Acorus calamus",
+     "hi": "वचा (बच)"
+    },
+    {
+     "sa": "एला",
+     "iast": "elā",
+     "en": "cardamom",
+     "hi": "इलायची"
+    },
+    {
+     "sa": "सर्षपाः",
+     "iast": "sarṣapāḥ",
+     "en": "mustard",
+     "hi": "सरसों"
+    },
+    {
+     "sa": "छर्दनानि",
+     "iast": "chardanāni",
+     "en": "emetics",
+     "hi": "वमनकारक (वमन द्रव्य)"
+    },
+    {
+     "sa": "निकुम्भ",
+     "iast": "nikumbha",
+     "en": "dantī (Baliospermum montanum)",
+     "hi": "दन्ती"
+    },
+    {
+     "sa": "कुम्भ",
+     "iast": "kumbha",
+     "en": "trivṛt variety (as commonly glossed)",
+     "hi": "कुम्भ (त्रिवृत् भेद)"
+    },
+    {
+     "sa": "त्रि-फला",
+     "iast": "tri-phalā",
+     "en": "the three myrobalans",
+     "hi": "त्रिफला"
+    },
+    {
+     "sa": "गवाक्षी",
+     "iast": "gavākṣī",
+     "en": "a colocynth variety (Cucumis/Citrullus sp.)",
+     "hi": "गवाक्षी"
+    },
+    {
+     "sa": "स्नुक्",
+     "iast": "snuk",
+     "en": "Euphorbia neriifolia",
+     "hi": "स्नुही (थूहर)"
+    },
+    {
+     "sa": "शङ्खिनी",
+     "iast": "śaṅkhinī",
+     "en": "śaṅkhinī (identity debated)",
+     "hi": "शंखिनी"
+    },
+    {
+     "sa": "नीलिनी",
+     "iast": "nīlinī",
+     "en": "indigo (Indigofera tinctoria)",
+     "hi": "नीलिनी (नील)"
+    },
+    {
+     "sa": "तिल्वकानि",
+     "iast": "tilvakāni",
+     "en": "tilvaka (a lodhra variety)",
+     "hi": "तिल्वक"
+    },
+    {
+     "sa": "शम्याक",
+     "iast": "śamyāka",
+     "en": "āragvadha (Cassia fistula)",
+     "hi": "आरग्वध (अमलतास)"
+    },
+    {
+     "sa": "कम्पिल्लक",
+     "iast": "kampillaka",
+     "en": "Mallotus philippensis",
+     "hi": "कम्पिल्लक (कबीला)"
+    },
+    {
+     "sa": "हेमदुग्धा",
+     "iast": "hemadugdhā",
+     "en": "svarṇakṣīrī",
+     "hi": "स्वर्णक्षीरी"
+    },
+    {
+     "sa": "दुग्धम्",
+     "iast": "dugdham",
+     "en": "milk (of animals)",
+     "hi": "दूध"
+    },
+    {
+     "sa": "मूत्रम्",
+     "iast": "mūtram",
+     "en": "urine (of animals)",
+     "hi": "मूत्र"
+    },
+    {
+     "sa": "विरेचनानि",
+     "iast": "virecanāni",
+     "en": "purgatives",
+     "hi": "विरेचन द्रव्य"
+    }
+   ],
+   "english": "[Verse 1:] Madana (madanaphala), madhuka (liquorice), lambā (bitter gourd), nimba (neem), bimbī, viśālā (colocynth), trapusa (cucumber), kuṭaja, mūrvā, devadālī, kṛmighna (viḍaṅga), vidula, dahana (citraka), citrā, the two kośavatīs (ridge gourds), karañja, kaṇā (long pepper), salt, vacā, cardamom and mustard are emetics (chardana). [Verse 2:] Nikumbha (dantī), kumbha, triphalā, gavākṣī, snuk (Euphorbia), śaṅkhinī, nīlinī (indigo), tilvaka, śamyāka (Cassia fistula), kampillaka, hemadugdhā, milk and urine are purgatives (virecana).",
+   "hindi": "[श्लोक 1:] मदनफल, मुलेठी, कड़वी तुम्बी, नीम, बिम्बी, इन्द्रायण, खीरा, कुटज, मूर्वा, देवदाली, वायविडंग, विदुल, चित्रक, चित्रा, दोनों कोशातकी, करंज, पिप्पली, लवण, वचा, इलायची और सरसों: ये वमन कराने वाले द्रव्य हैं। [श्लोक 2:] दन्ती, कुम्भ, त्रिफला, गवाक्षी, स्नुही (थूहर), शंखिनी, नीलिनी, तिल्वक, अमलतास, कम्पिल्लक, स्वर्णक्षीरी, दूध और मूत्र: ये विरेचन द्रव्य हैं।",
+   "explanation_en": "This entry contains the first two verses of the chapter: the vamana-gaṇa (emetic group) and the virecana-gaṇa (purgative group). Madanaphala is the best emetic (vamana-śreṣṭha) and trivṛt and āragvadha are key purgatives; these are often asked. Identifications of a few plants (vidula, citrā, kumbha, śaṅkhinī) differ among commentators.",
+   "explanation_hi": "इस प्रविष्टि में अध्याय के पहले दो श्लोक हैं: वमन गण (वमन कराने वाले द्रव्य) और विरेचन गण (विरेचन कराने वाले द्रव्य)। मदनफल श्रेष्ठ वमन द्रव्य है, और त्रिवृत् तथा आरग्वध मुख्य विरेचन द्रव्य हैं; ये अक्सर पूछे जाते हैं। कुछ पौधों (विदुल, चित्रा, कुम्भ, शंखिनी) की पहचान पर टीकाकारों में मतभेद है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vamana gaṇa",
+    "virecana gaṇa",
+    "madanaphala",
+    "dantī",
+    "āragvadha"
+   ],
+   "tags": [
+    "gana",
+    "vamana",
+    "virecana",
+    "dravya"
+   ],
+   "importance": "high",
+   "mnemonic": "Vamana king: Madana; Virecana stars: Trivṛt, Dantī, Āragvadha.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.15.3",
+   "word_meanings": [
+    {
+     "sa": "मदन",
+     "iast": "madana",
+     "en": "madanaphala",
+     "hi": "मदनफल"
+    },
+    {
+     "sa": "कुटज",
+     "iast": "kuṭaja",
+     "en": "Holarrhena pubescens",
+     "hi": "कुटज"
+    },
+    {
+     "sa": "कुष्ठ",
+     "iast": "kuṣṭha",
+     "en": "Saussurea costus",
+     "hi": "कुष्ठ (कूठ)"
+    },
+    {
+     "sa": "देवदाली",
+     "iast": "devadālī",
+     "en": "Luffa echinata",
+     "hi": "देवदाली"
+    },
+    {
+     "sa": "मधुक",
+     "iast": "madhuka",
+     "en": "liquorice",
+     "hi": "मुलेठी"
+    },
+    {
+     "sa": "वचा",
+     "iast": "vacā",
+     "en": "Acorus calamus",
+     "hi": "वचा"
+    },
+    {
+     "sa": "दश-मूल",
+     "iast": "daśa-mūla",
+     "en": "the ten roots",
+     "hi": "दशमूल"
+    },
+    {
+     "sa": "दारु",
+     "iast": "dāru",
+     "en": "devadāru (Cedrus deodara)",
+     "hi": "देवदारु"
+    },
+    {
+     "sa": "रास्नाः",
+     "iast": "rāsnāḥ",
+     "en": "rāsnā (Pluchea lanceolata, as commonly used)",
+     "hi": "रास्ना"
+    },
+    {
+     "sa": "यव",
+     "iast": "yava",
+     "en": "barley",
+     "hi": "जौ"
+    },
+    {
+     "sa": "मिशि",
+     "iast": "miśi",
+     "en": "śatāhvā / fennel-like seed (Foeniculum or Anethum)",
+     "hi": "मिशि (सौंफ/सोआ)"
+    },
+    {
+     "sa": "कृतवेधनम्",
+     "iast": "kṛtavedhanam",
+     "en": "kṛtavedhana (a bitter Luffa)",
+     "hi": "कृतवेधन"
+    },
+    {
+     "sa": "कुलत्थाः",
+     "iast": "kulatthāḥ",
+     "en": "horse gram",
+     "hi": "कुलथी"
+    },
+    {
+     "sa": "मधु",
+     "iast": "madhu",
+     "en": "honey",
+     "hi": "शहद"
+    },
+    {
+     "sa": "लवणम्",
+     "iast": "lavaṇam",
+     "en": "salt",
+     "hi": "लवण"
+    },
+    {
+     "sa": "त्रिवृता",
+     "iast": "trivṛtā",
+     "en": "trivṛt (Operculina turpethum)",
+     "hi": "त्रिवृत् (निशोथ)"
+    },
+    {
+     "sa": "निरूहणानि",
+     "iast": "nirūhaṇāni",
+     "en": "drugs for nirūha (decoction) enema",
+     "hi": "निरूहण (निरूह बस्ति के) द्रव्य"
+    }
+   ],
+   "english": "Madana, kuṭaja, kuṣṭha, devadālī, madhuka, vacā, daśamūla, devadāru, rāsnā, barley, miśi, kṛtavedhana, horse gram, honey, salt and trivṛt are drugs for nirūha (decoction enema).",
+   "hindi": "मदनफल, कुटज, कूठ, देवदाली, मुलेठी, वचा, दशमूल, देवदारु, रास्ना, जौ, मिशि, कृतवेधन, कुलथी, शहद, लवण और निशोथ: ये निरूह बस्ति के द्रव्य हैं।",
+   "explanation_en": "This is the nirūhaṇa gaṇa. Honey and salt are standard components of nirūha vasti (along with sneha, kalka and kvātha), so their mention here is easy to link with the vasti chapter. The file records a variant 'kulattho' (singular), same meaning.",
+   "explanation_hi": "यह निरूहण गण है। शहद और लवण निरूह बस्ति के मानक घटक हैं (स्नेह, कल्क और क्वाथ के साथ), इसलिए इसे बस्ति अध्याय से जोड़कर याद रखना आसान है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "nirūha",
+    "nirūhaṇa gaṇa",
+    "daśamūla",
+    "madhu",
+    "saindhava"
+   ],
+   "tags": [
+    "gana",
+    "vasti",
+    "dravya"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.15.5",
+   "word_meanings": [
+    {
+     "sa": "वेल्ला",
+     "iast": "vellā",
+     "en": "viḍaṅga",
+     "hi": "विडंग"
+    },
+    {
+     "sa": "अपामार्ग",
+     "iast": "apāmārga",
+     "en": "Achyranthes aspera",
+     "hi": "अपामार्ग (चिरचिटा)"
+    },
+    {
+     "sa": "व्योष",
+     "iast": "vyoṣa",
+     "en": "trikaṭu",
+     "hi": "व्योष (त्रिकटु)"
+    },
+    {
+     "sa": "दार्वी",
+     "iast": "dārvī",
+     "en": "dāruharidrā (Berberis aristata)",
+     "hi": "दारुहल्दी"
+    },
+    {
+     "sa": "सुराला",
+     "iast": "surālā",
+     "en": "resin (commonly glossed as sāla resin)",
+     "hi": "सुराला (राल)"
+    },
+    {
+     "sa": "बीजम् शैरीषम्",
+     "iast": "bījam śairīṣam",
+     "en": "seeds of śirīṣa (Albizia lebbeck)",
+     "hi": "शिरीष के बीज"
+    },
+    {
+     "sa": "बार्हतम्",
+     "iast": "bārhatam",
+     "en": "(seeds) of bṛhatī",
+     "hi": "बृहती के बीज"
+    },
+    {
+     "sa": "शैग्रवम्",
+     "iast": "śaigravam",
+     "en": "(seeds) of śigru (drumstick)",
+     "hi": "सहजन के बीज"
+    },
+    {
+     "sa": "सारः माधूकः",
+     "iast": "sāraḥ mādhūkaḥ",
+     "en": "heartwood of madhūka (Madhuca longifolia)",
+     "hi": "महुआ का सार"
+    },
+    {
+     "sa": "सैन्धवम्",
+     "iast": "saindhavam",
+     "en": "rock salt",
+     "hi": "सेंधा नमक"
+    },
+    {
+     "sa": "तार्क्ष्य-शैलम्",
+     "iast": "tārkṣya-śailam",
+     "en": "rasāñjana (extract of Berberis)",
+     "hi": "तार्क्ष्यशैल (रसांजन)"
+    },
+    {
+     "sa": "त्रुट्यौ",
+     "iast": "truṭyau",
+     "en": "the two cardamoms",
+     "hi": "दोनों इलायची"
+    },
+    {
+     "sa": "पृथ्वीका",
+     "iast": "pṛthvīkā",
+     "en": "pṛthvīkā (often taken as Nigella / large cardamom)",
+     "hi": "पृथ्वीका"
+    },
+    {
+     "sa": "शोधयन्ति उत्तम-अङ्गम्",
+     "iast": "śodhayanti uttama-aṅgam",
+     "en": "purify the head",
+     "hi": "सिर का शोधन करते हैं"
+    },
+    {
+     "sa": "भद्रदारु",
+     "iast": "bhadradāru",
+     "en": "devadāru",
+     "hi": "देवदारु"
+    },
+    {
+     "sa": "नतम्",
+     "iast": "natam",
+     "en": "tagara (Valeriana wallichii)",
+     "hi": "तगर"
+    },
+    {
+     "sa": "कुष्ठम्",
+     "iast": "kuṣṭham",
+     "en": "Saussurea costus",
+     "hi": "कूठ"
+    },
+    {
+     "sa": "बला-द्वयम्",
+     "iast": "balā-dvayam",
+     "en": "the two balās (balā, atibalā)",
+     "hi": "दोनों बला"
+    },
+    {
+     "sa": "वायुम्",
+     "iast": "vāyum",
+     "en": "vāta",
+     "hi": "वात को"
+    },
+    {
+     "sa": "वीरतर-आदिः",
+     "iast": "vīratara-ādiḥ",
+     "en": "the vīratarādi group",
+     "hi": "वीरतरादि गण"
+    },
+    {
+     "sa": "विदारी-आदिः",
+     "iast": "vidārī-ādiḥ",
+     "en": "the vidāryādi group",
+     "hi": "विदार्यादि गण"
+    },
+    {
+     "sa": "नाशयेत्",
+     "iast": "nāśayet",
+     "en": "destroy",
+     "hi": "नष्ट करते हैं"
+    }
+   ],
+   "english": "[Verse 4:] Vellā (viḍaṅga), apāmārga, vyoṣa (trikaṭu), dārvī, surālā, seeds of śirīṣa, bṛhatī and śigru, heartwood of madhūka, rock salt, tārkṣyaśaila (rasāñjana), the two cardamoms and pṛthvīkā purify the head (śirovirecana). [Verse 5:] Bhadradāru (devadāru), nata (tagara), kuṣṭha, daśamūla, the two balās, and the vīratarādi and vidāryādi groups destroy vāta.",
+   "hindi": "[श्लोक 4:] वायविडंग, अपामार्ग, त्रिकटु, दारुहल्दी, सुराला, शिरीष, बृहती और सहजन के बीज, महुए का सार, सेंधा नमक, रसांजन, दोनों इलायची और पृथ्वीका सिर का शोधन (शिरोविरेचन) करते हैं। [श्लोक 5:] देवदारु, तगर, कूठ, दशमूल, दोनों बला, तथा वीरतरादि और विदार्यादि गण वात को नष्ट करते हैं।",
+   "explanation_en": "Verse 4 is the śirovirecana gaṇa (drugs for nasal purification), completing the five śodhana groups (vamana, virecana, nirūha, śirovirecana; raktamokṣaṇa needs no drug group). Verse 5 begins the doṣa-wise groups with the vāta-hara list. The file notes variants 'balā-trayam' (three balās) and 'vidāry-ādiś ca śodhayet'.",
+   "explanation_hi": "श्लोक 4 शिरोविरेचन गण है, जिससे पाँच शोधन गण पूरे होते हैं (वमन, विरेचन, निरूह, शिरोविरेचन; रक्तमोक्षण के लिए द्रव्य गण नहीं चाहिए)। श्लोक 5 से दोषों के अनुसार गण शुरू होते हैं, पहले वातहर गण।",
+   "modern_correlation": null,
+   "key_terms": [
+    "śirovirecana gaṇa",
+    "vātahara gaṇa",
+    "apāmārga",
+    "daśamūla",
+    "balā"
+   ],
+   "tags": [
+    "gana",
+    "nasya",
+    "vata",
+    "dravya"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.15.6",
+   "word_meanings": [
+    {
+     "sa": "दूर्वा",
+     "iast": "dūrvā",
+     "en": "Cynodon dactylon",
+     "hi": "दूर्वा (दूब)"
+    },
+    {
+     "sa": "अनन्ता",
+     "iast": "anantā",
+     "en": "śārivā (Hemidesmus indicus)",
+     "hi": "अनन्ता (अनंतमूल)"
+    },
+    {
+     "sa": "निम्ब",
+     "iast": "nimba",
+     "en": "neem",
+     "hi": "नीम"
+    },
+    {
+     "sa": "वासा",
+     "iast": "vāsā",
+     "en": "Adhatoda vasica",
+     "hi": "वासा (अडूसा)"
+    },
+    {
+     "sa": "आत्मगुप्ता",
+     "iast": "ātmaguptā",
+     "en": "Mucuna pruriens",
+     "hi": "आत्मगुप्ता (कौंच)"
+    },
+    {
+     "sa": "गुन्द्रा",
+     "iast": "gundrā",
+     "en": "Typha (bulrush)",
+     "hi": "गुन्द्रा (पटेर)"
+    },
+    {
+     "sa": "अभीरुः",
+     "iast": "abhīruḥ",
+     "en": "śatāvarī (Asparagus racemosus)",
+     "hi": "अभीरु (शतावरी)"
+    },
+    {
+     "sa": "शीतपाकी",
+     "iast": "śītapākī",
+     "en": "śītapākī (identity debated)",
+     "hi": "शीतपाकी"
+    },
+    {
+     "sa": "प्रियङ्गुः",
+     "iast": "priyaṅguḥ",
+     "en": "Callicarpa macrophylla",
+     "hi": "प्रियंगु"
+    },
+    {
+     "sa": "न्यग्रोध-आदिः",
+     "iast": "nyagrodha-ādiḥ",
+     "en": "the nyagrodhādi group",
+     "hi": "न्यग्रोधादि गण"
+    },
+    {
+     "sa": "पद्मक-आदिः",
+     "iast": "padmaka-ādiḥ",
+     "en": "the padmakādi group",
+     "hi": "पद्मकादि गण"
+    },
+    {
+     "sa": "स्थिरे द्वे",
+     "iast": "sthire dve",
+     "en": "the two sthirās (śālaparṇī, pṛśniparṇī)",
+     "hi": "दोनों स्थिरा (शालपर्णी, पृश्निपर्णी)"
+    },
+    {
+     "sa": "पद्मम्",
+     "iast": "padmam",
+     "en": "lotus",
+     "hi": "कमल"
+    },
+    {
+     "sa": "वन्यम्",
+     "iast": "vanyam",
+     "en": "vanya (a fragrant grass / musta variety)",
+     "hi": "वन्य"
+    },
+    {
+     "sa": "शारिवा-आदिः",
+     "iast": "śārivā-ādiḥ",
+     "en": "the śārivādi group",
+     "hi": "शारिवादि गण"
+    },
+    {
+     "sa": "पित्तम्",
+     "iast": "pittam",
+     "en": "(destroy) pitta",
+     "hi": "पित्त को (नष्ट करते हैं)"
+    }
+   ],
+   "english": "Dūrvā, anantā, nimba, vāsā, ātmaguptā, gundrā, abhīru (śatāvarī), śītapākī, priyaṅgu, the nyagrodhādi and padmakādi groups, the two sthirās, lotus, vanya and the śārivādi group (destroy) pitta.",
+   "hindi": "दूब, अनंतमूल, नीम, अडूसा, कौंच, पटेर, शतावरी, शीतपाकी, प्रियंगु, न्यग्रोधादि और पद्मकादि गण, दोनों स्थिरा, कमल, वन्य और शारिवादि गण: ये पित्त को नष्ट करते हैं।",
+   "explanation_en": "This is the pittahara gaṇa. Most members are cooling, sweet or bitter. Notice how it refers to other named groups (nyagrodhādi, padmakādi, śārivādi), which are described later in the chapter.",
+   "explanation_hi": "यह पित्तहर गण है। इसके अधिकांश द्रव्य शीतल, मधुर या तिक्त हैं। ध्यान दें कि इसमें दूसरे गणों (न्यग्रोधादि, पद्मकादि, शारिवादि) के नाम हैं, जिनका वर्णन अध्याय में आगे है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "pittahara gaṇa",
+    "dūrvā",
+    "śārivā",
+    "śatāvarī"
+   ],
+   "tags": [
+    "gana",
+    "pitta",
+    "dravya"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.15.7",
+   "word_meanings": [
+    {
+     "sa": "आरग्वध-आदिः",
+     "iast": "āragvadha-ādiḥ",
+     "en": "the āragvadhādi group",
+     "hi": "आरग्वधादि गण"
+    },
+    {
+     "sa": "अर्क-आदिः",
+     "iast": "arka-ādiḥ",
+     "en": "the arkādi group",
+     "hi": "अर्कादि गण"
+    },
+    {
+     "sa": "मुष्कक-आद्यः",
+     "iast": "muṣkaka-ādyaḥ",
+     "en": "the muṣkakādi group",
+     "hi": "मुष्ककादि गण"
+    },
+    {
+     "sa": "असन-आदिकः",
+     "iast": "asana-ādikaḥ",
+     "en": "the asanādi group",
+     "hi": "असनादि गण"
+    },
+    {
+     "sa": "सुरस-आदिः",
+     "iast": "surasa-ādiḥ",
+     "en": "the surasādi group",
+     "hi": "सुरसादि गण"
+    },
+    {
+     "sa": "स-मुस्ता-आदिः",
+     "iast": "sa-mustā-ādiḥ",
+     "en": "with the mustādi group",
+     "hi": "मुस्तादि गण सहित"
+    },
+    {
+     "sa": "वत्सक-आदिः",
+     "iast": "vatsaka-ādiḥ",
+     "en": "the vatsakādi group",
+     "hi": "वत्सकादि गण"
+    },
+    {
+     "sa": "बलास-जित्",
+     "iast": "balāsa-jit",
+     "en": "conquer kapha",
+     "hi": "कफ को जीतते हैं"
+    }
+   ],
+   "english": "The āragvadhādi, arkādi, muṣkakādi, asanādi, surasādi, mustādi and vatsakādi groups conquer kapha (balāsa).",
+   "hindi": "आरग्वधादि, अर्कादि, मुष्ककादि, असनादि, सुरसादि, मुस्तादि और वत्सकादि गण कफ को जीतते हैं।",
+   "explanation_en": "This is the kaphahara gaṇa, given only as a list of seven named groups. A quick way to recall: there are 3 doṣa-hara lists (verses 5, 6, 7), and the kapha list contains seven groups.",
+   "explanation_hi": "यह कफहर गण है, जो केवल सात गणों के नामों की सूची है। याद रखने का तरीका: तीन दोषहर सूचियाँ हैं (श्लोक 5, 6, 7), और कफ वाली सूची में सात गण हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "kaphahara gaṇa",
+    "āragvadhādi",
+    "arkādi",
+    "surasādi"
+   ],
+   "tags": [
+    "gana",
+    "kapha"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.15.8",
+   "word_meanings": [
+    {
+     "sa": "जीवन्ती",
+     "iast": "jīvantī",
+     "en": "Leptadenia reticulata",
+     "hi": "जीवन्ती"
+    },
+    {
+     "sa": "काकोल्यौ",
+     "iast": "kākolyau",
+     "en": "the two kākolīs (kākolī, kṣīrakākolī)",
+     "hi": "दोनों काकोली"
+    },
+    {
+     "sa": "मेदे द्वे",
+     "iast": "mede dve",
+     "en": "the two medās (medā, mahāmedā)",
+     "hi": "दोनों मेदा"
+    },
+    {
+     "sa": "मुद्ग-माषपर्ण्यौ",
+     "iast": "mudga-māṣaparṇyau",
+     "en": "mudgaparṇī and māṣaparṇī (wild green gram and black gram)",
+     "hi": "मुद्गपर्णी और माषपर्णी"
+    },
+    {
+     "sa": "ऋषभक",
+     "iast": "ṛṣabhaka",
+     "en": "ṛṣabhaka",
+     "hi": "ऋषभक"
+    },
+    {
+     "sa": "जीवक",
+     "iast": "jīvaka",
+     "en": "jīvaka",
+     "hi": "जीवक"
+    },
+    {
+     "sa": "मधुकम्",
+     "iast": "madhukam",
+     "en": "liquorice",
+     "hi": "मुलेठी"
+    },
+    {
+     "sa": "गणः जीवनीय-आख्यः",
+     "iast": "gaṇaḥ jīvanīya-ākhyaḥ",
+     "en": "the group called jīvanīya (vitalising)",
+     "hi": "जीवनीय नामक गण"
+    }
+   ],
+   "english": "Jīvantī, the two kākolīs, the two medās, mudgaparṇī, māṣaparṇī, ṛṣabhaka, jīvaka and madhuka: this is the group called jīvanīya (vitalising).",
+   "hindi": "जीवन्ती, दोनों काकोली, दोनों मेदा, मुद्गपर्णी, माषपर्णी, ऋषभक, जीवक और मुलेठी: यह जीवनीय नामक गण है।",
+   "explanation_en": "The jīvanīya gaṇa (ten vitalising drugs) is very important for exams and includes most members of the aṣṭavarga (jīvaka, ṛṣabhaka, medā, mahāmedā, kākolī, kṣīrakākolī). Many aṣṭavarga plants are rare today and substitutes are used; this links to verse 46 on substitution.",
+   "explanation_hi": "जीवनीय गण (दस जीवनदायक द्रव्य) परीक्षा के लिए बहुत महत्वपूर्ण है और इसमें अष्टवर्ग के अधिकांश द्रव्य (जीवक, ऋषभक, मेदा, महामेदा, काकोली, क्षीरकाकोली) आते हैं। अष्टवर्ग के कई पौधे आज दुर्लभ हैं और उनके प्रतिनिधि द्रव्य प्रयोग होते हैं; यह श्लोक 46 (प्रतिनिधि) से जुड़ता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "jīvanīya gaṇa",
+    "aṣṭavarga",
+    "jīvaka",
+    "ṛṣabhaka",
+    "medā",
+    "kākolī"
+   ],
+   "tags": [
+    "gana",
+    "jivaniya",
+    "ashtavarga"
+   ],
+   "importance": "high",
+   "mnemonic": "Jīvanīya 10: 'J-KK-MM-MM-RJ-M' = Jīvantī, Kākolī x2, Medā x2, Mudga/Māṣaparṇī, Ṛṣabhaka, Jīvaka, Madhuka.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.15.9",
+   "word_meanings": [
+    {
+     "sa": "विदारि",
+     "iast": "vidāri",
+     "en": "Pueraria tuberosa",
+     "hi": "विदारी (विदारीकंद)"
+    },
+    {
+     "sa": "पञ्चाङ्गुल",
+     "iast": "pañcāṅgula",
+     "en": "castor (eraṇḍa, Ricinus communis)",
+     "hi": "पंचांगुल (एरंड)"
+    },
+    {
+     "sa": "वृश्चिकाली",
+     "iast": "vṛścikālī",
+     "en": "vṛścikālī (identity debated)",
+     "hi": "वृश्चिकाली"
+    },
+    {
+     "sa": "वृश्चीव",
+     "iast": "vṛścīva",
+     "en": "punarnavā (Boerhavia diffusa)",
+     "hi": "वृश्चीव (पुनर्नवा)"
+    },
+    {
+     "sa": "देवाह्वय",
+     "iast": "devāhvaya",
+     "en": "devadāru",
+     "hi": "देवदारु"
+    },
+    {
+     "sa": "शूर्पपर्ण्यः",
+     "iast": "śūrpaparṇyaḥ",
+     "en": "the śūrpaparṇīs (mudgaparṇī and māṣaparṇī)",
+     "hi": "शूर्पपर्णी (मुद्गपर्णी, माषपर्णी)"
+    },
+    {
+     "sa": "कण्डूकरी",
+     "iast": "kaṇḍūkarī",
+     "en": "kapikacchu (Mucuna pruriens)",
+     "hi": "कण्डूकरी (कौंच)"
+    },
+    {
+     "sa": "जीवन-ह्रस्व-संज्ञे द्वे पञ्चके",
+     "iast": "jīvana-hrasva-saṃjñe dve pañcake",
+     "en": "the two pentads called jīvana and hrasva (laghu) pañcamūla",
+     "hi": "जीवन और ह्रस्व (लघु) नाम के दोनों पंचमूल"
+    },
+    {
+     "sa": "गोपसुता",
+     "iast": "gopasutā",
+     "en": "śārivā",
+     "hi": "गोपसुता (सारिवा)"
+    },
+    {
+     "sa": "त्रिपादी",
+     "iast": "tripādī",
+     "en": "haṃsapādī (Adiantum lunulatum)",
+     "hi": "त्रिपादी (हंसपादी)"
+    }
+   ],
+   "english": "Vidārī, pañcāṅgula (castor), vṛścikālī, vṛścīva (punarnavā), devāhvaya (devadāru), the śūrpaparṇīs, kaṇḍūkarī (kapikacchu), the two pentads called jīvana and hrasva (the vitalising and the small pañcamūla), gopasutā (śārivā) and tripādī (haṃsapādī)...",
+   "hindi": "विदारी, एरंड, वृश्चिकाली, पुनर्नवा, देवदारु, दोनों शूर्पपर्णी, कौंच, जीवन और ह्रस्व (लघु) नाम के दोनों पंचमूल, सारिवा और हंसपादी...",
+   "explanation_en": "This lists the vidāryādi gaṇa; its actions follow in verse 10. Laghu (hrasva) pañcamūla = śālaparṇī, pṛśniparṇī, bṛhatī, kaṇṭakārī, gokṣura. Jīvana pañcamūla consists of jīvaka, ṛṣabhaka, jīvantī, śatāvarī and related drugs. The file records variant readings in the second and fourth quarters.",
+   "explanation_hi": "यह विदार्यादि गण की सूची है; इसके कर्म श्लोक 10 में हैं। लघु (ह्रस्व) पंचमूल = शालपर्णी, पृश्निपर्णी, बृहती, कंटकारी, गोक्षुर। जीवन पंचमूल में जीवक, ऋषभक, जीवन्ती, शतावरी आदि आते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vidāryādi gaṇa",
+    "laghu pañcamūla",
+    "jīvana pañcamūla",
+    "punarnavā"
+   ],
+   "tags": [
+    "gana",
+    "vidaryadi",
+    "dravya"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.15.10",
+   "word_meanings": [
+    {
+     "sa": "विदारी-आदिः अयम्",
+     "iast": "vidārī-ādiḥ ayam",
+     "en": "this vidāryādi (group)",
+     "hi": "यह विदार्यादि गण"
+    },
+    {
+     "sa": "हृद्यः",
+     "iast": "hṛdyaḥ",
+     "en": "good for the heart",
+     "hi": "हृदय के लिए हितकर"
+    },
+    {
+     "sa": "बृंहणः",
+     "iast": "bṛṃhaṇaḥ",
+     "en": "nourishing",
+     "hi": "बृंहण (पोषक)"
+    },
+    {
+     "sa": "वात-पित्त-हा",
+     "iast": "vāta-pitta-hā",
+     "en": "destroys vāta and pitta",
+     "hi": "वात और पित्त को नष्ट करने वाला"
+    },
+    {
+     "sa": "शोष",
+     "iast": "śoṣa",
+     "en": "wasting, consumption",
+     "hi": "शोष (क्षय)"
+    },
+    {
+     "sa": "गुल्म",
+     "iast": "gulma",
+     "en": "abdominal lump",
+     "hi": "गुल्म"
+    },
+    {
+     "sa": "अङ्ग-मर्द",
+     "iast": "aṅga-marda",
+     "en": "body ache",
+     "hi": "अंगमर्द (बदन दर्द)"
+    },
+    {
+     "sa": "ऊर्ध्व-श्वास",
+     "iast": "ūrdhva-śvāsa",
+     "en": "upward breathing (a type of dyspnoea)",
+     "hi": "ऊर्ध्व श्वास"
+    },
+    {
+     "sa": "कास-हरः गणः",
+     "iast": "kāsa-haraḥ gaṇaḥ",
+     "en": "the group that removes cough",
+     "hi": "खाँसी हरने वाला गण"
+    }
+   ],
+   "english": "This vidāryādi group is good for the heart, nourishing (bṛṃhaṇa), and removes vāta and pitta; it cures wasting (śoṣa), gulma (abdominal lump), body ache, ūrdhvaśvāsa (a form of dyspnoea) and cough.",
+   "hindi": "यह विदार्यादि गण हृदय के लिए हितकर, बृंहण (पोषक) और वात-पित्त नाशक है; यह शोष, गुल्म, अंगमर्द, ऊर्ध्व श्वास और खाँसी को दूर करता है।",
+   "explanation_en": "Remember the vidāryādi gaṇa as a nourishing, vāta-pitta pacifying group, useful in wasting conditions. It is also one of the two groups named in verse 5 as vāta-hara. The file notes the variant 'aṅga-sāda' (weakness of limbs) for 'aṅga-marda'.",
+   "explanation_hi": "विदार्यादि गण को पोषक, वात-पित्त शामक गण के रूप में याद रखें, जो क्षय रोगों में उपयोगी है। यह श्लोक 5 में वातहर बताए गए दो गणों में से एक है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vidāryādi gaṇa",
+    "bṛṃhaṇa",
+    "hṛdya",
+    "śoṣa"
+   ],
+   "tags": [
+    "gana",
+    "vidaryadi",
+    "brimhana"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.15.11",
+   "word_meanings": [
+    {
+     "sa": "शारिवा",
+     "iast": "śārivā",
+     "en": "Hemidesmus indicus",
+     "hi": "सारिवा (अनंतमूल)"
+    },
+    {
+     "sa": "उशीर",
+     "iast": "uśīra",
+     "en": "vetiver",
+     "hi": "उशीर (खस)"
+    },
+    {
+     "sa": "काश्मर्य",
+     "iast": "kāśmarya",
+     "en": "gambhārī (Gmelina arborea)",
+     "hi": "काश्मर्य (गम्भारी)"
+    },
+    {
+     "sa": "मधूक",
+     "iast": "madhūka",
+     "en": "Madhuca longifolia",
+     "hi": "मधूक (महुआ)"
+    },
+    {
+     "sa": "शिशिर-द्वयम्",
+     "iast": "śiśira-dvayam",
+     "en": "the two cooling ones (white and red sandalwood)",
+     "hi": "दोनों शिशिर (श्वेत और रक्त चंदन)"
+    },
+    {
+     "sa": "यष्टी",
+     "iast": "yaṣṭī",
+     "en": "liquorice",
+     "hi": "यष्टी (मुलेठी)"
+    },
+    {
+     "sa": "परूषकम्",
+     "iast": "parūṣakam",
+     "en": "Grewia asiatica",
+     "hi": "परूषक (फालसा)"
+    },
+    {
+     "sa": "हन्ति",
+     "iast": "hanti",
+     "en": "destroys",
+     "hi": "नष्ट करता है"
+    },
+    {
+     "sa": "दाह-पित्त-अस्र-तृट्-ज्वरान्",
+     "iast": "dāha-pitta-asra-tṛṭ-jvarān",
+     "en": "burning, raktapitta, thirst and fever",
+     "hi": "दाह, रक्तपित्त, प्यास और ज्वर को"
+    }
+   ],
+   "english": "Śārivā, uśīra, kāśmarya, madhūka, the two cooling sandalwoods (white and red), yaṣṭī and parūṣaka (the śārivādi group) destroy burning sensation, raktapitta (bleeding disorders), thirst and fever.",
+   "hindi": "सारिवा, खस, गम्भारी, महुआ, दोनों चंदन (श्वेत और रक्त), मुलेठी और फालसा (शारिवादि गण) दाह, रक्तपित्त, प्यास और ज्वर को नष्ट करते हैं।",
+   "explanation_en": "This is the śārivādi gaṇa, a cooling, pitta-rakta pacifying group. It is named in the pittahara list (verse 6).",
+   "explanation_hi": "यह शारिवादि गण है, जो शीतल और पित्त-रक्त शामक है। इसका नाम पित्तहर सूची (श्लोक 6) में आता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "śārivādi gaṇa",
+    "raktapitta",
+    "dāha"
+   ],
+   "tags": [
+    "gana",
+    "pitta"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.15.12",
+   "word_meanings": [
+    {
+     "sa": "पद्मक",
+     "iast": "padmaka",
+     "en": "Prunus cerasoides",
+     "hi": "पद्मक (पद्माख)"
+    },
+    {
+     "sa": "पुण्ड्रौ",
+     "iast": "puṇḍrau",
+     "en": "the two puṇḍras (prapauṇḍarīka varieties)",
+     "hi": "दोनों पुण्ड्र (प्रपौण्डरीक)"
+    },
+    {
+     "sa": "वृद्धि",
+     "iast": "vṛddhi",
+     "en": "vṛddhi (aṣṭavarga drug)",
+     "hi": "वृद्धि"
+    },
+    {
+     "sa": "तुगा",
+     "iast": "tugā",
+     "en": "vaṃśalocana (bamboo manna)",
+     "hi": "तुगा (वंशलोचन)"
+    },
+    {
+     "sa": "ऋद्ध्यः",
+     "iast": "ṛddhyaḥ",
+     "en": "ṛddhi (aṣṭavarga drug)",
+     "hi": "ऋद्धि"
+    },
+    {
+     "sa": "शृङ्गी",
+     "iast": "śṛṅgī",
+     "en": "karkaṭaśṛṅgī (Pistacia integerrima galls)",
+     "hi": "काकड़ासिंगी"
+    },
+    {
+     "sa": "अमृता",
+     "iast": "amṛtā",
+     "en": "guḍūcī",
+     "hi": "अमृता (गिलोय)"
+    },
+    {
+     "sa": "दश जीवन-संज्ञाः",
+     "iast": "daśa jīvana-saṃjñāḥ",
+     "en": "the ten called jīvana (the jīvanīya group)",
+     "hi": "जीवन नाम के दस (जीवनीय गण)"
+    },
+    {
+     "sa": "स्तन्य-कराः",
+     "iast": "stanya-karāḥ",
+     "en": "galactagogue",
+     "hi": "स्तन्य (दूध) बढ़ाने वाले"
+    },
+    {
+     "sa": "घ्नन्ति ईरण-पित्तम्",
+     "iast": "ghnanti īraṇa-pittam",
+     "en": "destroy vāta (īraṇa) and pitta",
+     "hi": "वात और पित्त को नष्ट करते हैं"
+    },
+    {
+     "sa": "प्रीणन-जीवन-बृंहण-वृष्याः",
+     "iast": "prīṇana-jīvana-bṛṃhaṇa-vṛṣyāḥ",
+     "en": "satisfying, vitalising, nourishing and aphrodisiac",
+     "hi": "प्रीणन, जीवन, बृंहण और वृष्य"
+    }
+   ],
+   "english": "Padmaka, the two puṇḍras, vṛddhi, tugā (vaṃśalocana), ṛddhi, śṛṅgī, amṛtā (guḍūcī) and the ten called jīvana (the jīvanīya group): (this padmakādi group) increases breast milk, destroys vāta (īraṇa) and pitta, and is satisfying, vitalising, nourishing and aphrodisiac.",
+   "hindi": "पद्मक, दोनों पुण्ड्र, वृद्धि, वंशलोचन, ऋद्धि, काकड़ासिंगी, गिलोय और जीवन नाम के दस द्रव्य (जीवनीय गण): यह पद्मकादि गण स्तन्य (माँ का दूध) बढ़ाता है, वात और पित्त को नष्ट करता है, तथा प्रीणन, जीवन, बृंहण और वृष्य है।",
+   "explanation_en": "The padmakādi gaṇa includes the whole jīvanīya group (verse 8) plus a few more drugs, which is why it shares the same nourishing actions. 'Īraṇa' is a synonym of vāta (literally 'the mover').",
+   "explanation_hi": "पद्मकादि गण में पूरा जीवनीय गण (श्लोक 8) और कुछ अन्य द्रव्य आते हैं, इसीलिए इसके कर्म भी वैसे ही पोषक हैं। 'ईरण' वात का पर्याय है (अर्थ: चलाने वाला)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "padmakādi gaṇa",
+    "jīvanīya",
+    "stanyajanana",
+    "vṛṣya"
+   ],
+   "tags": [
+    "gana",
+    "padmakadi",
+    "brimhana"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.15.13",
+   "word_meanings": [
+    {
+     "sa": "परूषकम्",
+     "iast": "parūṣakam",
+     "en": "Grewia asiatica",
+     "hi": "फालसा"
+    },
+    {
+     "sa": "वरा",
+     "iast": "varā",
+     "en": "triphalā",
+     "hi": "त्रिफला"
+    },
+    {
+     "sa": "द्राक्षा",
+     "iast": "drākṣā",
+     "en": "grapes",
+     "hi": "द्राक्षा (मुनक्का)"
+    },
+    {
+     "sa": "कट्फलम्",
+     "iast": "kaṭphalam",
+     "en": "Myrica esculenta",
+     "hi": "कट्फल (कायफल)"
+    },
+    {
+     "sa": "कतकात् फलम्",
+     "iast": "katakāt phalam",
+     "en": "fruit of kataka (Strychnos potatorum, clearing nut)",
+     "hi": "कतक (निर्मली) का फल"
+    },
+    {
+     "sa": "राजाह्वम्",
+     "iast": "rājāhvam",
+     "en": "rājādana (Manilkara hexandra)",
+     "hi": "राजादन (खिरनी)"
+    },
+    {
+     "sa": "दाडिमम्",
+     "iast": "dāḍimam",
+     "en": "pomegranate",
+     "hi": "अनार"
+    },
+    {
+     "sa": "शाकम्",
+     "iast": "śākam",
+     "en": "teak (Tectona grandis)",
+     "hi": "शाक (सागौन)"
+    },
+    {
+     "sa": "तृट्-मूत्र-आमय-वात-जित्",
+     "iast": "tṛṭ-mūtra-āmaya-vāta-jit",
+     "en": "conquer thirst, urinary diseases and vāta",
+     "hi": "प्यास, मूत्र रोग और वात को जीतते हैं"
+    }
+   ],
+   "english": "Parūṣaka, varā (triphalā), drākṣā (grapes), kaṭphala, the fruit of kataka, rājādana, pomegranate and śāka (teak) (the parūṣakādi group) overcome thirst, urinary diseases and vāta.",
+   "hindi": "फालसा, त्रिफला, मुनक्का, कायफल, निर्मली का फल, खिरनी, अनार और सागौन (परूषकादि गण) प्यास, मूत्र रोग और वात को दूर करते हैं।",
+   "explanation_en": "The parūṣakādi gaṇa consists mostly of fruits. Kataka (clearing nut) is well known in Ayurveda for clarifying water, a fact often asked in MCQs on jala.",
+   "explanation_hi": "परूषकादि गण में अधिकतर फल हैं। कतक (निर्मली) आयुर्वेद में पानी साफ़ करने के लिए प्रसिद्ध है, जो जल से संबंधित MCQ में पूछा जाता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "parūṣakādi gaṇa",
+    "kataka",
+    "drākṣā"
+   ],
+   "tags": [
+    "gana",
+    "dravya"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.15.14",
+   "word_meanings": [
+    {
+     "sa": "अञ्जनम्",
+     "iast": "añjanam",
+     "en": "añjana (collyrium mineral, e.g. stibnite/galena)",
+     "hi": "अंजन (सुरमा)"
+    },
+    {
+     "sa": "फलिनी",
+     "iast": "phalinī",
+     "en": "priyaṅgu",
+     "hi": "फलिनी (प्रियंगु)"
+    },
+    {
+     "sa": "मांसी",
+     "iast": "māṃsī",
+     "en": "jaṭāmāṃsī (Nardostachys jatamansi)",
+     "hi": "जटामांसी"
+    },
+    {
+     "sa": "पद्म",
+     "iast": "padma",
+     "en": "lotus (Nelumbo nucifera)",
+     "hi": "कमल"
+    },
+    {
+     "sa": "उत्पल",
+     "iast": "utpala",
+     "en": "water lily (Nymphaea sp.)",
+     "hi": "उत्पल (नीलकमल)"
+    },
+    {
+     "sa": "रसाञ्जनम्",
+     "iast": "rasāñjanam",
+     "en": "rasāñjana",
+     "hi": "रसांजन"
+    },
+    {
+     "sa": "स-एला",
+     "iast": "sa-elā",
+     "en": "with cardamom",
+     "hi": "इलायची सहित"
+    },
+    {
+     "sa": "मधुक",
+     "iast": "madhuka",
+     "en": "liquorice",
+     "hi": "मुलेठी"
+    },
+    {
+     "sa": "नागाह्वम्",
+     "iast": "nāgāhvam",
+     "en": "nāgakesara (Mesua ferrea)",
+     "hi": "नागकेसर"
+    },
+    {
+     "sa": "विष-अन्तर्-दाह-पित्त-नुत्",
+     "iast": "viṣa-antar-dāha-pitta-nut",
+     "en": "removes poison, internal burning and pitta",
+     "hi": "विष, आंतरिक दाह और पित्त को दूर करने वाला"
+    }
+   ],
+   "english": "Añjana, phalinī (priyaṅgu), māṃsī, padma, utpala, rasāñjana, elā, madhuka and nāgāhva (nāgakesara) (the añjanādi group) remove poison, internal burning and pitta.",
+   "hindi": "सुरमा, प्रियंगु, जटामांसी, कमल, नीलकमल, रसांजन, इलायची, मुलेठी और नागकेसर (अंजनादि गण) विष, आंतरिक जलन और पित्त को दूर करते हैं।",
+   "explanation_en": "The añjanādi gaṇa is cooling and anti-toxic. It includes a mineral (añjana), showing that the gaṇas combine plant and mineral drugs. The file notes variants '-pitta-jit' and '-pitta-hṛt' with the same meaning.",
+   "explanation_hi": "अंजनादि गण शीतल और विषनाशक है। इसमें एक खनिज (अंजन) भी है, जिससे पता चलता है कि गणों में वनस्पति और खनिज दोनों द्रव्य होते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "añjanādi gaṇa",
+    "viṣaghna",
+    "dāha"
+   ],
+   "tags": [
+    "gana",
+    "pitta",
+    "visha"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.15.15",
+   "word_meanings": [
+    {
+     "sa": "पटोल",
+     "iast": "paṭola",
+     "en": "pointed gourd (Trichosanthes dioica)",
+     "hi": "पटोल (परवल)"
+    },
+    {
+     "sa": "कटु-रोहिणी",
+     "iast": "kaṭu-rohiṇī",
+     "en": "kaṭukī (Picrorhiza kurroa)",
+     "hi": "कटुरोहिणी (कुटकी)"
+    },
+    {
+     "sa": "चन्दनम्",
+     "iast": "candanam",
+     "en": "sandalwood",
+     "hi": "चंदन"
+    },
+    {
+     "sa": "मधुस्रव",
+     "iast": "madhusrava",
+     "en": "mūrvā",
+     "hi": "मधुस्रवा (मूर्वा)"
+    },
+    {
+     "sa": "गुडूचि",
+     "iast": "guḍūci",
+     "en": "Tinospora cordifolia",
+     "hi": "गुडूची (गिलोय)"
+    },
+    {
+     "sa": "पाठा-अन्वितम्",
+     "iast": "pāṭhā-anvitam",
+     "en": "together with pāṭhā (Cissampelos pareira)",
+     "hi": "पाठा सहित"
+    },
+    {
+     "sa": "निहन्ति",
+     "iast": "nihanti",
+     "en": "destroys",
+     "hi": "नष्ट करता है"
+    },
+    {
+     "sa": "कफ-पित्त-कुष्ठ-ज्वरान्",
+     "iast": "kapha-pitta-kuṣṭha-jvarān",
+     "en": "kapha, pitta, skin diseases and fever",
+     "hi": "कफ, पित्त, कुष्ठ और ज्वर"
+    },
+    {
+     "sa": "विषम् वमिम् अरोचकम् कामलाम्",
+     "iast": "viṣam vamim arocakam kāmalām",
+     "en": "poison, vomiting, anorexia and jaundice",
+     "hi": "विष, उल्टी, अरुचि और पीलिया"
+    }
+   ],
+   "english": "Paṭola, kaṭurohiṇī, candana, madhusrava (mūrvā), guḍūcī and pāṭhā (the paṭolādi group) destroy kapha, pitta, kuṣṭha (skin diseases) and fever, as well as poison, vomiting, anorexia and jaundice (kāmalā).",
+   "hindi": "परवल, कुटकी, चंदन, मूर्वा, गिलोय और पाठा (पटोलादि गण) कफ, पित्त, कुष्ठ और ज्वर, तथा विष, उल्टी, अरुचि और पीलिया को नष्ट करते हैं।",
+   "explanation_en": "The paṭolādi gaṇa is bitter (tikta) in nature and therefore good for kapha-pitta conditions, skin diseases and jaundice. Paṭola and kaṭukī are commonly used in liver and skin disorders in classical practice.",
+   "explanation_hi": "पटोलादि गण तिक्त रस प्रधान है, इसलिए कफ-पित्त रोगों, कुष्ठ और कामला में हितकर है। शास्त्रीय चिकित्सा में परवल और कुटकी यकृत और त्वचा रोगों में बहुत प्रयोग होते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "paṭolādi gaṇa",
+    "kaṭukī",
+    "kāmalā",
+    "kuṣṭha"
+   ],
+   "tags": [
+    "gana",
+    "kapha",
+    "pitta"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.15.16",
+   "word_meanings": [
+    {
+     "sa": "गुडूची",
+     "iast": "guḍūcī",
+     "en": "Tinospora cordifolia",
+     "hi": "गुडूची"
+    },
+    {
+     "sa": "पद्मक",
+     "iast": "padmaka",
+     "en": "Prunus cerasoides",
+     "hi": "पद्मक"
+    },
+    {
+     "sa": "अरिष्ट",
+     "iast": "ariṣṭa",
+     "en": "neem (nimba)",
+     "hi": "अरिष्ट (नीम)"
+    },
+    {
+     "sa": "धानका",
+     "iast": "dhānakā",
+     "en": "coriander",
+     "hi": "धान्यक (धनिया)"
+    },
+    {
+     "sa": "रक्त-चन्दनम्",
+     "iast": "rakta-candanam",
+     "en": "red sandalwood (Pterocarpus santalinus)",
+     "hi": "रक्तचंदन"
+    },
+    {
+     "sa": "पित्त-श्लेष्म-ज्वर-छर्दि-दाह-तृष्णा-घ्नम्",
+     "iast": "pitta-śleṣma-jvara-chardi-dāha-tṛṣṇā-ghnam",
+     "en": "destroys pitta-kapha fever, vomiting, burning and thirst",
+     "hi": "पित्त-कफ ज्वर, उल्टी, जलन और प्यास का नाशक"
+    },
+    {
+     "sa": "अग्नि-कृत्",
+     "iast": "agni-kṛt",
+     "en": "kindles agni",
+     "hi": "अग्नि बढ़ाने वाला"
+    }
+   ],
+   "english": "Guḍūcī, padmaka, ariṣṭa (neem), dhānakā (coriander) and red sandalwood (the guḍūcyādi group) destroy pitta-kapha fever, vomiting, burning sensation and thirst, and kindle agni.",
+   "hindi": "गिलोय, पद्माख, नीम, धनिया और रक्तचंदन (गुडूच्यादि गण) पित्त-कफ ज्वर, उल्टी, जलन और प्यास को नष्ट करते हैं और अग्नि को बढ़ाते हैं।",
+   "explanation_en": "The guḍūcyādi gaṇa is a small fever group. Coriander and guḍūcī together are cooling yet appetising, a useful combination in pitta fevers. The file records spelling variants of 'dhānakā'.",
+   "explanation_hi": "गुडूच्यादि गण एक छोटा ज्वरनाशक गण है। धनिया और गिलोय शीतल होते हुए भी अग्नि बढ़ाते हैं, जो पित्त ज्वर में उपयोगी है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "guḍūcyādi gaṇa",
+    "jvara",
+    "dīpana"
+   ],
+   "tags": [
+    "gana",
+    "jvara"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.15.18",
+   "word_meanings": [
+    {
+     "sa": "आरग्वध",
+     "iast": "āragvadha",
+     "en": "Cassia fistula",
+     "hi": "आरग्वध (अमलतास)"
+    },
+    {
+     "sa": "इन्द्रयव",
+     "iast": "indrayava",
+     "en": "seeds of kuṭaja",
+     "hi": "इन्द्रयव"
+    },
+    {
+     "sa": "पाटलि",
+     "iast": "pāṭali",
+     "en": "Stereospermum suaveolens",
+     "hi": "पाटला"
+    },
+    {
+     "sa": "काकतिक्ता",
+     "iast": "kākatiktā",
+     "en": "kākatiktā (identity debated)",
+     "hi": "काकतिक्ता"
+    },
+    {
+     "sa": "निम्ब",
+     "iast": "nimba",
+     "en": "neem",
+     "hi": "नीम"
+    },
+    {
+     "sa": "अमृता",
+     "iast": "amṛtā",
+     "en": "guḍūcī",
+     "hi": "गिलोय"
+    },
+    {
+     "sa": "मधुरसा",
+     "iast": "madhurasā",
+     "en": "mūrvā",
+     "hi": "मधुरसा (मूर्वा)"
+    },
+    {
+     "sa": "स्रुव-वृक्ष",
+     "iast": "sruva-vṛkṣa",
+     "en": "vikaṅkata (Flacourtia indica)",
+     "hi": "स्रुववृक्ष (विकंकत)"
+    },
+    {
+     "sa": "पाठाः",
+     "iast": "pāṭhāḥ",
+     "en": "Cissampelos pareira",
+     "hi": "पाठा"
+    },
+    {
+     "sa": "भूनिम्ब",
+     "iast": "bhūnimba",
+     "en": "Andrographis paniculata",
+     "hi": "भूनिम्ब (कालमेघ)"
+    },
+    {
+     "sa": "सैर्यक",
+     "iast": "sairyaka",
+     "en": "Barleria sp.",
+     "hi": "सैर्यक (कटसरैया)"
+    },
+    {
+     "sa": "पटोल",
+     "iast": "paṭola",
+     "en": "pointed gourd",
+     "hi": "परवल"
+    },
+    {
+     "sa": "करञ्ज-युग्म",
+     "iast": "karañja-yugma",
+     "en": "the two karañjas",
+     "hi": "दोनों करंज"
+    },
+    {
+     "sa": "सप्तच्छद",
+     "iast": "saptacchada",
+     "en": "Alstonia scholaris",
+     "hi": "सप्तच्छद (सप्तपर्ण)"
+    },
+    {
+     "sa": "अग्नि",
+     "iast": "agni",
+     "en": "citraka",
+     "hi": "चित्रक"
+    },
+    {
+     "sa": "सुषवी",
+     "iast": "suṣavī",
+     "en": "bitter gourd (Momordica charantia)",
+     "hi": "सुषवी (करेला)"
+    },
+    {
+     "sa": "फल",
+     "iast": "phala",
+     "en": "madanaphala",
+     "hi": "फल (मदनफल)"
+    },
+    {
+     "sa": "बाण",
+     "iast": "bāṇa",
+     "en": "bāṇa (a Barleria variety)",
+     "hi": "बाण"
+    },
+    {
+     "sa": "घोण्टाः",
+     "iast": "ghoṇṭāḥ",
+     "en": "ghoṇṭā (identity debated)",
+     "hi": "घोण्टा"
+    },
+    {
+     "sa": "जयति",
+     "iast": "jayati",
+     "en": "conquers",
+     "hi": "जीतता है"
+    },
+    {
+     "sa": "छर्दि-कुष्ठ-विष-ज्वरान्",
+     "iast": "chardi-kuṣṭha-viṣa-jvarān",
+     "en": "vomiting, skin disease, poison and fever",
+     "hi": "उल्टी, कुष्ठ, विष और ज्वर"
+    },
+    {
+     "sa": "कफम् कण्डूम् प्रमेहम् च",
+     "iast": "kapham kaṇḍūm prameham ca",
+     "en": "kapha, itching and prameha",
+     "hi": "कफ, खुजली और प्रमेह"
+    },
+    {
+     "sa": "दुष्ट-व्रण-विशोधनः",
+     "iast": "duṣṭa-vraṇa-viśodhanaḥ",
+     "en": "cleanses chronic (infected) wounds",
+     "hi": "दूषित घावों को शुद्ध करने वाला"
+    }
+   ],
+   "english": "[Verse 17:] Āragvadha, indrayava, pāṭalī, kākatiktā, nimba, amṛtā, madhurasā (mūrvā), sruvavṛkṣa, pāṭhā, bhūnimba, sairyaka, paṭola, the two karañjas, saptacchada, agni (citraka), suṣavī, phala (madanaphala), bāṇa and ghoṇṭā. [Verse 18:] The āragvadhādi group overcomes vomiting, kuṣṭha (skin diseases), poison and fever, kapha, itching and prameha, and cleanses chronic wounds (duṣṭa-vraṇa).",
+   "hindi": "[श्लोक 17:] अमलतास, इन्द्रयव, पाटला, काकतिक्ता, नीम, गिलोय, मूर्वा, विकंकत, पाठा, कालमेघ, सैर्यक, परवल, दोनों करंज, सप्तपर्ण, चित्रक, करेला, मदनफल, बाण और घोण्टा। [श्लोक 18:] यह आरग्वधादि गण उल्टी, कुष्ठ, विष, ज्वर, कफ, खुजली और प्रमेह को जीतता है और दूषित घावों को शुद्ध करता है।",
+   "explanation_en": "The āragvadhādi gaṇa is a large bitter group, the first of the kaphahara groups listed in verse 7. Its uses in skin disease, prameha and wound cleansing make it important in practice. The corpus entry begins with a stray variant line belonging to verse 16 ('-dhanikā-rakta-candanam'), and records a variant 'medodara-viśodhanaḥ' in the last quarter.",
+   "explanation_hi": "आरग्वधादि गण एक बड़ा तिक्त गण है, जो श्लोक 7 के कफहर गणों में पहला है। कुष्ठ, प्रमेह और घाव शोधन में उपयोग के कारण यह व्यवहार में महत्वपूर्ण है। इस प्रविष्टि की शुरुआत में श्लोक 16 का एक पाठभेद छपा है, जो इस श्लोक का भाग नहीं है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "āragvadhādi gaṇa",
+    "kuṣṭha",
+    "prameha",
+    "vraṇa-śodhana"
+   ],
+   "tags": [
+    "gana",
+    "kapha",
+    "kushtha"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.15.20",
+   "word_meanings": [
+    {
+     "sa": "असन",
+     "iast": "asana",
+     "en": "Pterocarpus marsupium",
+     "hi": "असन (विजयसार)"
+    },
+    {
+     "sa": "तिनिश",
+     "iast": "tiniśa",
+     "en": "Ougeinia oojeinensis",
+     "hi": "तिनिश"
+    },
+    {
+     "sa": "भूर्ज",
+     "iast": "bhūrja",
+     "en": "Himalayan birch (Betula utilis)",
+     "hi": "भूर्ज (भोजपत्र)"
+    },
+    {
+     "sa": "श्वेतवाह",
+     "iast": "śvetavāha",
+     "en": "śvetavāha (often taken as arjuna)",
+     "hi": "श्वेतवाह"
+    },
+    {
+     "sa": "प्रकीर्याः",
+     "iast": "prakīryāḥ",
+     "en": "pūtīkarañja",
+     "hi": "प्रकीर्या (पूतिकरंज)"
+    },
+    {
+     "sa": "खदिर",
+     "iast": "khadira",
+     "en": "Acacia catechu",
+     "hi": "खदिर (खैर)"
+    },
+    {
+     "sa": "कदर",
+     "iast": "kadara",
+     "en": "white khadira",
+     "hi": "कदर (श्वेत खदिर)"
+    },
+    {
+     "sa": "भण्डी",
+     "iast": "bhaṇḍī",
+     "en": "bhaṇḍī (identity debated)",
+     "hi": "भण्डी"
+    },
+    {
+     "sa": "शिंशिपा",
+     "iast": "śiṃśipā",
+     "en": "Dalbergia sissoo",
+     "hi": "शिंशपा (शीशम)"
+    },
+    {
+     "sa": "मेषशृङ्ग्यः",
+     "iast": "meṣaśṛṅgyaḥ",
+     "en": "Gymnema sylvestre",
+     "hi": "मेषशृंगी (गुड़मार)"
+    },
+    {
+     "sa": "त्रि-हिम",
+     "iast": "tri-hima",
+     "en": "the three sandalwoods",
+     "hi": "तीनों चंदन"
+    },
+    {
+     "sa": "तल",
+     "iast": "tala",
+     "en": "palmyra palm (Borassus flabellifer)",
+     "hi": "ताल"
+    },
+    {
+     "sa": "पलाशाः",
+     "iast": "palāśāḥ",
+     "en": "Butea monosperma",
+     "hi": "पलाश (ढाक)"
+    },
+    {
+     "sa": "जोङ्गकः",
+     "iast": "joṅgakaḥ",
+     "en": "aguru (agarwood)",
+     "hi": "जोंगक (अगुरु)"
+    },
+    {
+     "sa": "शाक-शालौ",
+     "iast": "śāka-śālau",
+     "en": "teak and sāla (Shorea robusta)",
+     "hi": "सागौन और साल"
+    },
+    {
+     "sa": "क्रमुक",
+     "iast": "kramuka",
+     "en": "areca",
+     "hi": "क्रमुक (सुपारी)"
+    },
+    {
+     "sa": "धव",
+     "iast": "dhava",
+     "en": "Anogeissus latifolia",
+     "hi": "धव"
+    },
+    {
+     "sa": "कलिङ्ग",
+     "iast": "kaliṅga",
+     "en": "indrayava",
+     "hi": "कलिंग (इन्द्रयव)"
+    },
+    {
+     "sa": "छागकर्ण-अश्वकर्णाः",
+     "iast": "chāgakarṇa-aśvakarṇāḥ",
+     "en": "chāgakarṇa and aśvakarṇa (sāla varieties)",
+     "hi": "छागकर्ण और अश्वकर्ण"
+    },
+    {
+     "sa": "विजयते",
+     "iast": "vijayate",
+     "en": "conquers",
+     "hi": "जीतता है"
+    },
+    {
+     "sa": "श्वित्र-कुष्ठ-कफ-क्रिमीन्",
+     "iast": "śvitra-kuṣṭha-kapha-krimīn",
+     "en": "leucoderma, skin disease, kapha and worms",
+     "hi": "श्वित्र, कुष्ठ, कफ और कृमि"
+    },
+    {
+     "sa": "पाण्डु-रोगम् प्रमेहम् च",
+     "iast": "pāṇḍu-rogam prameham ca",
+     "en": "anaemia and prameha",
+     "hi": "पांडु रोग और प्रमेह"
+    },
+    {
+     "sa": "मेदः-दोष-निबर्हणः",
+     "iast": "medaḥ-doṣa-nibarhaṇaḥ",
+     "en": "removes disorders of fat",
+     "hi": "मेद दोष को दूर करने वाला"
+    }
+   ],
+   "english": "[Verse 19:] Asana, tiniśa, bhūrja, śvetavāha, prakīrya, khadira, kadara, bhaṇḍī, śiṃśipā, meṣaśṛṅgī, the three sandalwoods, tāla, palāśa, joṅgaka, śāka (teak), śāla, kramuka, dhava, kaliṅga, chāgakarṇa and aśvakarṇa. [Verse 20:] The asanādi group overcomes śvitra (leucoderma), kuṣṭha, kapha and worms, as well as pāṇḍu (anaemia) and prameha, and removes disorders of fat (medas).",
+   "hindi": "[श्लोक 19:] विजयसार, तिनिश, भोजपत्र, श्वेतवाह, पूतिकरंज, खैर, श्वेत खदिर, भण्डी, शीशम, गुड़मार, तीनों चंदन, ताल, पलाश, अगुरु, सागौन, साल, सुपारी, धव, इन्द्रयव, छागकर्ण और अश्वकर्ण। [श्लोक 20:] यह असनादि गण श्वित्र, कुष्ठ, कफ, कृमि, पांडु रोग और प्रमेह को जीतता है तथा मेद दोष को दूर करता है।",
+   "explanation_en": "The asanādi gaṇa is mostly made of heartwoods (sāra) of trees, which are astringent and kapha-medohara. Asana (vijayasāra) and meṣaśṛṅgī (gurmar) are well known in prameha. The file gives a variant 'śvitra-kuṣṭha-vami-krimīn' (with vomiting).",
+   "explanation_hi": "असनादि गण अधिकतर पेड़ों के सार (हार्टवुड) से बना है, जो कषाय और कफ-मेदोहर होते हैं। प्रमेह में विजयसार और गुड़मार प्रसिद्ध हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "asanādi gaṇa",
+    "prameha",
+    "śvitra",
+    "medohara",
+    "sāra"
+   ],
+   "tags": [
+    "gana",
+    "kapha",
+    "prameha"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.15.21",
+   "word_meanings": [
+    {
+     "sa": "वरुण",
+     "iast": "varuṇa",
+     "en": "Crateva nurvala",
+     "hi": "वरुण"
+    },
+    {
+     "sa": "सैर्यक-युग्म",
+     "iast": "sairyaka-yugma",
+     "en": "the two sairyakas (Barleria spp.)",
+     "hi": "दोनों सैर्यक"
+    },
+    {
+     "sa": "शतावरी",
+     "iast": "śatāvarī",
+     "en": "Asparagus racemosus",
+     "hi": "शतावरी"
+    },
+    {
+     "sa": "दहन",
+     "iast": "dahana",
+     "en": "citraka",
+     "hi": "चित्रक"
+    },
+    {
+     "sa": "मोरट",
+     "iast": "moraṭa",
+     "en": "moraṭa (often taken as mūrvā)",
+     "hi": "मोरट"
+    },
+    {
+     "sa": "बिल्व",
+     "iast": "bilva",
+     "en": "bael (Aegle marmelos)",
+     "hi": "बिल्व (बेल)"
+    },
+    {
+     "sa": "विषाणिकाः",
+     "iast": "viṣāṇikāḥ",
+     "en": "viṣāṇikā (meṣaśṛṅgī / ajaśṛṅgī)",
+     "hi": "विषाणिका"
+    },
+    {
+     "sa": "द्वि-बृहती",
+     "iast": "dvi-bṛhatī",
+     "en": "the two bṛhatīs",
+     "hi": "दोनों बृहती"
+    },
+    {
+     "sa": "द्वि-करञ्ज",
+     "iast": "dvi-karañja",
+     "en": "the two karañjas",
+     "hi": "दोनों करंज"
+    },
+    {
+     "sa": "जया-द्वयम्",
+     "iast": "jayā-dvayam",
+     "en": "the two jayās (jayā and vijayā; identity debated)",
+     "hi": "दोनों जया"
+    },
+    {
+     "sa": "बहलपल्लव",
+     "iast": "bahalapallava",
+     "en": "śigru (drumstick)",
+     "hi": "बहलपल्लव (सहजन)"
+    },
+    {
+     "sa": "दर्भ",
+     "iast": "darbha",
+     "en": "darbha grass (Desmostachya bipinnata)",
+     "hi": "दर्भ (कुश)"
+    },
+    {
+     "sa": "रुजाकराः",
+     "iast": "rujākarāḥ",
+     "en": "rujākara (identity uncertain)",
+     "hi": "रुजाकर"
+    }
+   ],
+   "english": "Varuṇa, the two sairyakas, śatāvarī, dahana (citraka), moraṭa, bilva, viṣāṇikā, the two bṛhatīs, the two karañjas, the two jayās, bahalapallava (śigru), darbha and rujākara (form the varuṇādi group).",
+   "hindi": "वरुण, दोनों सैर्यक, शतावरी, चित्रक, मोरट, बेल, विषाणिका, दोनों बृहती, दोनों करंज, दोनों जया, सहजन, दर्भ और रुजाकर (वरुणादि गण बनाते हैं)।",
+   "explanation_en": "This lists the varuṇādi gaṇa; its actions are in verse 22. Varuṇa is a well-known drug for urinary stones and internal swellings. The identity of 'rujākara' and the two 'jayās' varies among commentators. The file records a variant spelling 'varaṇa'.",
+   "explanation_hi": "यह वरुणादि गण की सूची है; इसके कर्म श्लोक 22 में हैं। वरुण पथरी और आंतरिक सूजन के लिए प्रसिद्ध द्रव्य है। 'रुजाकर' और दोनों 'जया' की पहचान पर टीकाकारों में मतभेद है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "varuṇādi gaṇa",
+    "varuṇa",
+    "bilva"
+   ],
+   "tags": [
+    "gana",
+    "dravya"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.15.22",
+   "word_meanings": [
+    {
+     "sa": "वरुण-आदिः",
+     "iast": "varuṇa-ādiḥ",
+     "en": "the varuṇādi group",
+     "hi": "वरुणादि गण"
+    },
+    {
+     "sa": "कफम् मेदः",
+     "iast": "kapham medaḥ",
+     "en": "kapha and fat",
+     "hi": "कफ और मेद"
+    },
+    {
+     "sa": "मन्द-अग्नित्वम्",
+     "iast": "manda-agnitvam",
+     "en": "weak digestion",
+     "hi": "मंदाग्नि"
+    },
+    {
+     "sa": "नियच्छति",
+     "iast": "niyacchati",
+     "en": "controls",
+     "hi": "नियंत्रित करता है"
+    },
+    {
+     "sa": "आढ्य-वातम्",
+     "iast": "āḍhya-vātam",
+     "en": "āḍhyavāta (ūrustambha, stiffness of thighs)",
+     "hi": "आढ्यवात (ऊरुस्तम्भ)"
+    },
+    {
+     "sa": "शिरः-शूलम्",
+     "iast": "śiraḥ-śūlam",
+     "en": "headache",
+     "hi": "सिरदर्द"
+    },
+    {
+     "sa": "गुल्मम् च अन्तः स-विद्रधिम्",
+     "iast": "gulmam ca antaḥ sa-vidradhim",
+     "en": "and internal gulma along with abscess",
+     "hi": "और आंतरिक गुल्म तथा विद्रधि"
+    }
+   ],
+   "english": "The varuṇādi group controls kapha, fat (medas) and weak digestion, as well as āḍhyavāta (stiffness of the thighs), headache, and internal gulma along with abscess (vidradhi).",
+   "hindi": "वरुणादि गण कफ, मेद और मंदाग्नि को नियंत्रित करता है, तथा आढ्यवात (ऊरुस्तम्भ), सिरदर्द, आंतरिक गुल्म और विद्रधि को भी दूर करता है।",
+   "explanation_en": "Āḍhyavāta (literally 'vāta of the wealthy') is a synonym of ūrustambha, a condition linked to excess kapha and medas. The file records a variant 'adho-vātaṃ' (flatus) in place of 'āḍhya-vātaṃ'.",
+   "explanation_hi": "आढ्यवात (शाब्दिक अर्थ 'धनवानों का वात') ऊरुस्तम्भ का पर्याय है, जो कफ और मेद की अधिकता से होता है। फ़ाइल में 'आढ्यवातं' के स्थान पर 'अधोवातं' पाठभेद भी है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "varuṇādi gaṇa",
+    "āḍhyavāta",
+    "ūrustambha",
+    "vidradhi",
+    "mandāgni"
+   ],
+   "tags": [
+    "gana",
+    "kapha",
+    "medas"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.15.23",
+   "word_meanings": [
+    {
+     "sa": "ऊषकः",
+     "iast": "ūṣakaḥ",
+     "en": "saline earth",
+     "hi": "ऊषक (खारी मिट्टी)"
+    },
+    {
+     "sa": "तुत्थकम्",
+     "iast": "tutthakam",
+     "en": "copper sulphate (blue vitriol)",
+     "hi": "तुत्थ (नीला थोथा)"
+    },
+    {
+     "sa": "हिङ्गु",
+     "iast": "hiṅgu",
+     "en": "asafoetida",
+     "hi": "हींग"
+    },
+    {
+     "sa": "कासीस-द्वय",
+     "iast": "kāsīsa-dvaya",
+     "en": "the two kāsīsas (ferrous sulphate varieties)",
+     "hi": "दोनों कासीस"
+    },
+    {
+     "sa": "सैन्धवम्",
+     "iast": "saindhavam",
+     "en": "rock salt",
+     "hi": "सेंधा नमक"
+    },
+    {
+     "sa": "स-शिलाजतु",
+     "iast": "sa-śilājatu",
+     "en": "with śilājatu",
+     "hi": "शिलाजीत सहित"
+    },
+    {
+     "sa": "कृच्छ्र-अश्म-गुल्म-मेदः-कफ-अपहम्",
+     "iast": "kṛcchra-aśma-gulma-medaḥ-kapha-apaham",
+     "en": "removes dysuria, stone, gulma, fat and kapha",
+     "hi": "मूत्रकृच्छ्र, अश्मरी, गुल्म, मेद और कफ को दूर करने वाला"
+    }
+   ],
+   "english": "Ūṣaka (saline earth), tutthaka (blue vitriol), hiṅgu, the two kāsīsas, rock salt and śilājatu (the ūṣakādi group) remove dysuria, urinary stone (aśmarī), gulma, fat and kapha.",
+   "hindi": "खारी मिट्टी, नीला थोथा, हींग, दोनों कासीस, सेंधा नमक और शिलाजीत (ऊषकादि गण) मूत्रकृच्छ्र, पथरी, गुल्म, मेद और कफ को दूर करते हैं।",
+   "explanation_en": "The ūṣakādi gaṇa is notable because it is made mostly of minerals and salts. Minerals like tuttha and kāsīsa are always used only after proper purification (śodhana) in Rasaśāstra. The file gives a variant '-meha-' (prameha) for '-medaḥ-'.",
+   "explanation_hi": "ऊषकादि गण इसलिए विशेष है क्योंकि यह अधिकतर खनिजों और लवणों से बना है। रसशास्त्र में तुत्थ और कासीस जैसे खनिज सदा उचित शोधन के बाद ही प्रयोग होते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "ūṣakādi gaṇa",
+    "tuttha",
+    "kāsīsa",
+    "śilājatu",
+    "aśmarī"
+   ],
+   "tags": [
+    "gana",
+    "mineral",
+    "ashmari"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.15.25",
+   "word_meanings": [
+    {
+     "sa": "वेल्लन्तर",
+     "iast": "vellantara",
+     "en": "Dichrostachys cinerea",
+     "hi": "वेल्लन्तर"
+    },
+    {
+     "sa": "अरणिक",
+     "iast": "araṇika",
+     "en": "agnimantha",
+     "hi": "अरणिक (अग्निमंथ)"
+    },
+    {
+     "sa": "बूक",
+     "iast": "būka",
+     "en": "būka (identity debated)",
+     "hi": "बूक"
+    },
+    {
+     "sa": "वृष",
+     "iast": "vṛṣa",
+     "en": "vāsā",
+     "hi": "वृष (अडूसा)"
+    },
+    {
+     "sa": "अश्मभेद",
+     "iast": "aśmabheda",
+     "en": "pāṣāṇabheda (Bergenia ligulata)",
+     "hi": "अश्मभेद (पाषाणभेद)"
+    },
+    {
+     "sa": "गोकण्टक",
+     "iast": "gokaṇṭaka",
+     "en": "gokṣura (Tribulus terrestris)",
+     "hi": "गोकण्टक (गोखरू)"
+    },
+    {
+     "sa": "इत्कट",
+     "iast": "itkaṭa",
+     "en": "itkaṭa (a reed)",
+     "hi": "इत्कट"
+    },
+    {
+     "sa": "सहचर",
+     "iast": "sahacara",
+     "en": "Barleria prionitis",
+     "hi": "सहचर"
+    },
+    {
+     "sa": "बाण",
+     "iast": "bāṇa",
+     "en": "bāṇa",
+     "hi": "बाण"
+    },
+    {
+     "sa": "काशाः",
+     "iast": "kāśāḥ",
+     "en": "Saccharum spontaneum",
+     "hi": "काश"
+    },
+    {
+     "sa": "वृक्षादनी",
+     "iast": "vṛkṣādanī",
+     "en": "vandāka (Dendrophthoe falcata)",
+     "hi": "वृक्षादनी (बांदा)"
+    },
+    {
+     "sa": "नल",
+     "iast": "nala",
+     "en": "reed (Arundo / Phragmites)",
+     "hi": "नल"
+    },
+    {
+     "sa": "कुश-द्वय",
+     "iast": "kuśa-dvaya",
+     "en": "the two kuśas",
+     "hi": "दोनों कुश"
+    },
+    {
+     "sa": "गुण्ठ",
+     "iast": "guṇṭha",
+     "en": "guṇṭha (a grass)",
+     "hi": "गुण्ठ"
+    },
+    {
+     "sa": "गुन्द्रा",
+     "iast": "gundrā",
+     "en": "Typha",
+     "hi": "गुन्द्रा"
+    },
+    {
+     "sa": "भल्लूक",
+     "iast": "bhallūka",
+     "en": "śyonāka (Oroxylum indicum)",
+     "hi": "भल्लूक (श्योनाक)"
+    },
+    {
+     "sa": "मोरट",
+     "iast": "moraṭa",
+     "en": "moraṭa",
+     "hi": "मोरट"
+    },
+    {
+     "sa": "कुरण्ट",
+     "iast": "kuraṇṭa",
+     "en": "yellow Barleria",
+     "hi": "कुरण्ट"
+    },
+    {
+     "sa": "करम्भ",
+     "iast": "karambha",
+     "en": "karambha (identity debated)",
+     "hi": "करम्भ"
+    },
+    {
+     "sa": "पार्थाः",
+     "iast": "pārthāḥ",
+     "en": "arjuna (Terminalia arjuna)",
+     "hi": "पार्थ (अर्जुन)"
+    },
+    {
+     "sa": "वर्गः वीरतर-आद्यः",
+     "iast": "vargaḥ vīratara-ādyaḥ",
+     "en": "the vīratarādi group",
+     "hi": "वीरतरादि वर्ग"
+    },
+    {
+     "sa": "हन्ति वात-कृतान् गदान्",
+     "iast": "hanti vāta-kṛtān gadān",
+     "en": "destroys diseases caused by vāta",
+     "hi": "वात से होने वाले रोगों को नष्ट करता है"
+    },
+    {
+     "sa": "अश्मरी-शर्करा-मूत्र-कृच्छ्र-आघात-रुजा-हरः",
+     "iast": "aśmarī-śarkarā-mūtra-kṛcchra-āghāta-rujā-haraḥ",
+     "en": "removes pain of stone, gravel, dysuria and urinary obstruction",
+     "hi": "अश्मरी, शर्करा, मूत्रकृच्छ्र और मूत्राघात की पीड़ा हरने वाला"
+    }
+   ],
+   "english": "[Verse 24:] Vellantara, araṇika, būka, vṛṣa, aśmabheda, gokaṇṭaka (gokṣura), itkaṭa, sahacara, bāṇa, kāśa, vṛkṣādanī, nala, the two kuśas, guṇṭha, gundrā, bhallūka, moraṭa, kuraṇṭa, karambha and pārtha (arjuna). [Verse 25:] This vīratarādi group destroys diseases caused by vāta and removes the pain of urinary stone (aśmarī), gravel (śarkarā), dysuria (mūtrakṛcchra) and urinary obstruction (mūtrāghāta).",
+   "hindi": "[श्लोक 24:] वेल्लन्तर, अग्निमंथ, बूक, अडूसा, पाषाणभेद, गोखरू, इत्कट, सहचर, बाण, काश, बांदा, नल, दोनों कुश, गुण्ठ, गुन्द्रा, श्योनाक, मोरट, कुरण्ट, करम्भ और अर्जुन। [श्लोक 25:] यह वीरतरादि वर्ग वात रोगों को नष्ट करता है और अश्मरी, शर्करा, मूत्रकृच्छ्र तथा मूत्राघात की पीड़ा दूर करता है।",
+   "explanation_en": "The vīratarādi gaṇa (named after vīratara, i.e. vellantara) is the main urinary-stone group, together with pāṣāṇabheda and gokṣura. It is one of the vātahara groups named in verse 5. The corpus entry for this verse contains several repeated variant lines for the third quarter ('guntha', 'guccha'); these are manuscript variants, not separate verses.",
+   "explanation_hi": "वीरतरादि गण (वीरतर अर्थात् वेल्लन्तर के नाम पर) पाषाणभेद और गोखरू सहित मुख्य अश्मरीनाशक गण है। यह श्लोक 5 के वातहर गणों में से एक है। इस प्रविष्टि में तीसरे चरण के कई पाठभेद ('गुन्थ', 'गुच्छ') दोहराए गए हैं; ये पांडुलिपियों के पाठभेद हैं, अलग श्लोक नहीं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vīratarādi gaṇa",
+    "aśmarī",
+    "mūtrakṛcchra",
+    "pāṣāṇabheda",
+    "gokṣura"
+   ],
+   "tags": [
+    "gana",
+    "vata",
+    "ashmari",
+    "mutravaha"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.15.26",
+   "word_meanings": [
+    {
+     "sa": "लोध्र",
+     "iast": "lodhra",
+     "en": "Symplocos racemosa",
+     "hi": "लोध्र (लोध)"
+    },
+    {
+     "sa": "शाबरक-लोध्र",
+     "iast": "śābaraka-lodhra",
+     "en": "śābara lodhra (another lodhra variety)",
+     "hi": "शाबर लोध्र"
+    },
+    {
+     "sa": "पलाशाः",
+     "iast": "palāśāḥ",
+     "en": "Butea monosperma",
+     "hi": "पलाश"
+    },
+    {
+     "sa": "जिङ्गिनी",
+     "iast": "jiṅginī",
+     "en": "Lannea coromandelica",
+     "hi": "जिंगिनी"
+    },
+    {
+     "sa": "सरल",
+     "iast": "sarala",
+     "en": "chir pine (Pinus roxburghii)",
+     "hi": "सरल (चीड़)"
+    },
+    {
+     "sa": "कट्फल-युक्ताः",
+     "iast": "kaṭphala-yuktāḥ",
+     "en": "with kaṭphala",
+     "hi": "कायफल सहित"
+    },
+    {
+     "sa": "कुत्सिताम्ब",
+     "iast": "kutsitāmba",
+     "en": "kutsitāmba (identity debated)",
+     "hi": "कुत्सिताम्ब"
+    },
+    {
+     "sa": "कदली",
+     "iast": "kadalī",
+     "en": "banana",
+     "hi": "कदली (केला)"
+    },
+    {
+     "sa": "गतशोकाः",
+     "iast": "gataśokāḥ",
+     "en": "aśoka (Saraca asoca)",
+     "hi": "गतशोक (अशोक)"
+    },
+    {
+     "sa": "एलवालु",
+     "iast": "elavālu",
+     "en": "elavāluka",
+     "hi": "एलवालुक"
+    },
+    {
+     "sa": "परिपेलव",
+     "iast": "paripelava",
+     "en": "a fragrant grass / musta variety",
+     "hi": "परिपेलव"
+    },
+    {
+     "sa": "मोचाः",
+     "iast": "mocāḥ",
+     "en": "śālmalī (silk-cotton tree)",
+     "hi": "मोचा (सेमल)"
+    }
+   ],
+   "english": "Lodhra, śābara lodhra, (another) lodhra, palāśa, jiṅginī, sarala and kaṭphala, kutsitāmba, kadalī, gataśoka (aśoka), elavālu, paripelava and mocā (form the lodhrādi group).",
+   "hindi": "लोध, शाबर लोध, (दूसरा) लोध, पलाश, जिंगिनी, चीड़, कायफल, कुत्सिताम्ब, केला, अशोक, एलवालुक, परिपेलव और सेमल (लोध्रादि गण बनाते हैं)।",
+   "explanation_en": "This lists the lodhrādi gaṇa; actions follow in verse 27. The repetition of 'lodhra' in the file's reading is probably a transmission issue; the recorded variant reads 'lodhra-śābara-kadamba', which adds kadamba instead.",
+   "explanation_hi": "यह लोध्रादि गण की सूची है; कर्म श्लोक 27 में हैं। फ़ाइल के पाठ में 'लोध्र' दो बार आना संभवतः पाठ-परंपरा की त्रुटि है; पाठभेद 'लोध्र-शाबर-कदम्ब' में दूसरे लोध्र की जगह कदम्ब है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "lodhrādi gaṇa",
+    "lodhra",
+    "aśoka"
+   ],
+   "tags": [
+    "gana",
+    "dravya"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.15.27",
+   "word_meanings": [
+    {
+     "sa": "एषः लोध्र-आदिकः नाम",
+     "iast": "eṣaḥ lodhra-ādikaḥ nāma",
+     "en": "this is the one named lodhrādi",
+     "hi": "यह लोध्रादि नामक"
+    },
+    {
+     "sa": "मेदः-कफ-हरः गणः",
+     "iast": "medaḥ-kapha-haraḥ gaṇaḥ",
+     "en": "group that removes fat and kapha",
+     "hi": "मेद और कफ हरने वाला गण"
+    },
+    {
+     "sa": "योनि-दोष-हरः",
+     "iast": "yoni-doṣa-haraḥ",
+     "en": "removes disorders of the female genital tract",
+     "hi": "योनि दोषों को दूर करने वाला"
+    },
+    {
+     "sa": "स्तम्भी",
+     "iast": "stambhī",
+     "en": "checks discharges (astringent)",
+     "hi": "स्तम्भन करने वाला"
+    },
+    {
+     "sa": "वर्ण्यः",
+     "iast": "varṇyaḥ",
+     "en": "improves complexion",
+     "hi": "वर्ण्य (रंग निखारने वाला)"
+    },
+    {
+     "sa": "विष-विनाशनः",
+     "iast": "viṣa-vināśanaḥ",
+     "en": "destroys poison",
+     "hi": "विष का नाश करने वाला"
+    }
+   ],
+   "english": "This is the group named lodhrādi: it removes fat and kapha, cures disorders of the female genital tract (yoni-doṣa), checks discharges (stambhī), improves complexion and destroys poison.",
+   "hindi": "यह लोध्रादि नामक गण है: यह मेद और कफ को दूर करता है, योनि दोषों को ठीक करता है, स्राव को रोकता है (स्तम्भन), रंग निखारता है और विष का नाश करता है।",
+   "explanation_en": "Lodhra and aśoka are classical drugs for gynaecological disorders, and this group is known for its astringent (stambhana) property. A good link for Prasūti-tantra studies.",
+   "explanation_hi": "लोध्र और अशोक स्त्री रोगों के प्रसिद्ध शास्त्रीय द्रव्य हैं, और यह गण स्तम्भन गुण के लिए जाना जाता है। प्रसूति तंत्र की पढ़ाई से इसे जोड़ना उपयोगी है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "lodhrādi gaṇa",
+    "yonidoṣa",
+    "stambhana",
+    "varṇya"
+   ],
+   "tags": [
+    "gana",
+    "kapha",
+    "yoni-roga"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.15.28",
+   "word_meanings": [
+    {
+     "sa": "अर्क-अलर्कौ",
+     "iast": "arka-alarkau",
+     "en": "the two arkas (Calotropis procera and C. gigantea)",
+     "hi": "अर्क और अलर्क (दोनों आक)"
+    },
+    {
+     "sa": "नागदन्ती",
+     "iast": "nāgadantī",
+     "en": "nāgadantī (identity debated)",
+     "hi": "नागदन्ती"
+    },
+    {
+     "sa": "विशल्या",
+     "iast": "viśalyā",
+     "en": "viśalyā (often taken as lāṅgalī)",
+     "hi": "विशल्या"
+    },
+    {
+     "sa": "भार्गी",
+     "iast": "bhārgī",
+     "en": "Clerodendrum serratum",
+     "hi": "भार्गी"
+    },
+    {
+     "sa": "रास्ना",
+     "iast": "rāsnā",
+     "en": "rāsnā",
+     "hi": "रास्ना"
+    },
+    {
+     "sa": "वृश्चिकाली",
+     "iast": "vṛścikālī",
+     "en": "vṛścikālī",
+     "hi": "वृश्चिकाली"
+    },
+    {
+     "sa": "प्रकीर्या",
+     "iast": "prakīryā",
+     "en": "pūtīkarañja",
+     "hi": "पूतिकरंज"
+    },
+    {
+     "sa": "प्रत्यक्पुष्पी",
+     "iast": "pratyakpuṣpī",
+     "en": "apāmārga",
+     "hi": "प्रत्यक्पुष्पी (अपामार्ग)"
+    },
+    {
+     "sa": "पीततैल",
+     "iast": "pītataila",
+     "en": "jyotiṣmatī (Celastrus paniculatus)",
+     "hi": "पीततैल (ज्योतिष्मती)"
+    },
+    {
+     "sa": "उदकीर्या",
+     "iast": "udakīryā",
+     "en": "udakīryā (a karañja variety)",
+     "hi": "उदकीर्या"
+    },
+    {
+     "sa": "श्वेता-युग्मम्",
+     "iast": "śvetā-yugmam",
+     "en": "the two śvetās (white aparājitā varieties)",
+     "hi": "दोनों श्वेता"
+    },
+    {
+     "sa": "तापसानाम् च वृक्षः",
+     "iast": "tāpasānām ca vṛkṣaḥ",
+     "en": "and the tree of ascetics (iṅgudī, Balanites aegyptiaca)",
+     "hi": "और तापसवृक्ष (इंगुदी)"
+    }
+   ],
+   "english": "Arka and alarka (the two Calotropis), nāgadantī, viśalyā, bhārgī, rāsnā, vṛścikālī, prakīryā, pratyakpuṣpī (apāmārga), pītataila (jyotiṣmatī), udakīryā, the two śvetās and the tree of ascetics (iṅgudī) (form the arkādi group).",
+   "hindi": "अर्क और अलर्क (दोनों आक), नागदन्ती, विशल्या, भार्गी, रास्ना, वृश्चिकाली, पूतिकरंज, अपामार्ग, ज्योतिष्मती, उदकीर्या, दोनों श्वेता और तापसवृक्ष (इंगुदी) (अर्कादि गण बनाते हैं)।",
+   "explanation_en": "This lists the arkādi gaṇa, one of the kaphahara groups of verse 7. 'Tāpasa-vṛkṣa' (tree of ascetics) is iṅgudī, whose oil was traditionally used by forest hermits.",
+   "explanation_hi": "यह अर्कादि गण की सूची है, जो श्लोक 7 के कफहर गणों में से एक है। 'तापसवृक्ष' इंगुदी है, जिसका तेल वनवासी तपस्वी प्रयोग करते थे।",
+   "modern_correlation": null,
+   "key_terms": [
+    "arkādi gaṇa",
+    "arka",
+    "apāmārga",
+    "jyotiṣmatī"
+   ],
+   "tags": [
+    "gana",
+    "kapha"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.15.29",
+   "word_meanings": [
+    {
+     "sa": "अयम् अर्क-आदिकः वर्गः",
+     "iast": "ayam arka-ādikaḥ vargaḥ",
+     "en": "this arkādi group",
+     "hi": "यह अर्कादि वर्ग"
+    },
+    {
+     "sa": "कफ-मेदः-विष-अपहः",
+     "iast": "kapha-medaḥ-viṣa-apahaḥ",
+     "en": "removes kapha, fat and poison",
+     "hi": "कफ, मेद और विष को दूर करने वाला"
+    },
+    {
+     "sa": "कृमि-कुष्ठ-प्रशमनः",
+     "iast": "kṛmi-kuṣṭha-praśamanaḥ",
+     "en": "pacifies worms and skin diseases",
+     "hi": "कृमि और कुष्ठ को शांत करने वाला"
+    },
+    {
+     "sa": "विशेषात् व्रण-शोधनः",
+     "iast": "viśeṣāt vraṇa-śodhanaḥ",
+     "en": "especially cleanses wounds",
+     "hi": "विशेष रूप से घाव को शुद्ध करने वाला"
+    }
+   ],
+   "english": "This arkādi group removes kapha, fat and poison, pacifies worms and skin diseases, and especially cleanses wounds.",
+   "hindi": "यह अर्कादि वर्ग कफ, मेद और विष को दूर करता है, कृमि और कुष्ठ को शांत करता है, और विशेष रूप से घावों को शुद्ध करता है।",
+   "explanation_en": "Note 'viśeṣād vraṇa-śodhana': the arkādi group is especially valued as a wound cleanser. The corpus entry also records variant readings for verse 30 (surasādi) in its variant list; these belong to the next group.",
+   "explanation_hi": "'विशेषाद् व्रणशोधनः' पर ध्यान दें: अर्कादि गण विशेष रूप से घाव शोधक के रूप में महत्वपूर्ण है। इस प्रविष्टि की पाठभेद सूची में श्लोक 30 (सुरसादि) के पाठभेद भी दर्ज हैं, जो अगले गण के हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "arkādi gaṇa",
+    "vraṇa-śodhana",
+    "kṛmi",
+    "kuṣṭha"
+   ],
+   "tags": [
+    "gana",
+    "kapha",
+    "vrana"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.15.31",
+   "word_meanings": [
+    {
+     "sa": "सुरस-युग",
+     "iast": "surasa-yuga",
+     "en": "the two surasās (two kinds of holy basil, Ocimum tenuiflorum)",
+     "hi": "दोनों सुरसा (दोनों तुलसी)"
+    },
+    {
+     "sa": "फणिज्जम्",
+     "iast": "phaṇijjam",
+     "en": "marubaka (Origanum majorana)",
+     "hi": "फणिज्जक (मरुवा)"
+    },
+    {
+     "sa": "कालमाला",
+     "iast": "kālamālā",
+     "en": "kālamālā (a dark basil variety)",
+     "hi": "कालमाला"
+    },
+    {
+     "sa": "विडङ्गम्",
+     "iast": "viḍaṅgam",
+     "en": "Embelia ribes",
+     "hi": "वायविडंग"
+    },
+    {
+     "sa": "खरबुस",
+     "iast": "kharabusa",
+     "en": "kharabusa (identity debated)",
+     "hi": "खरबुस"
+    },
+    {
+     "sa": "वृषकर्णी",
+     "iast": "vṛṣakarṇī",
+     "en": "ākhuparṇī (identity debated)",
+     "hi": "वृषकर्णी"
+    },
+    {
+     "sa": "कट्फलम्",
+     "iast": "kaṭphalam",
+     "en": "Myrica esculenta",
+     "hi": "कायफल"
+    },
+    {
+     "sa": "कासमर्दः",
+     "iast": "kāsamardaḥ",
+     "en": "Cassia occidentalis",
+     "hi": "कासमर्द (कसौंदी)"
+    },
+    {
+     "sa": "क्षवक",
+     "iast": "kṣavaka",
+     "en": "Centipeda minima",
+     "hi": "क्षवक (नकछिकनी)"
+    },
+    {
+     "sa": "सरसी",
+     "iast": "sarasī",
+     "en": "sarasī (a basil variety)",
+     "hi": "सरसी"
+    },
+    {
+     "sa": "भार्गी",
+     "iast": "bhārgī",
+     "en": "Clerodendrum serratum",
+     "hi": "भार्गी"
+    },
+    {
+     "sa": "कार्मुकाः",
+     "iast": "kārmukāḥ",
+     "en": "kārmuka (identity debated)",
+     "hi": "कार्मुक"
+    },
+    {
+     "sa": "काकमाची",
+     "iast": "kākamācī",
+     "en": "Solanum nigrum",
+     "hi": "काकमाची (मकोय)"
+    },
+    {
+     "sa": "कुलहल",
+     "iast": "kulahala",
+     "en": "kulahala (muṇḍī, Sphaeranthus indicus, as commonly glossed)",
+     "hi": "कुलहल (मुण्डी)"
+    },
+    {
+     "sa": "विषमुष्टी",
+     "iast": "viṣamuṣṭī",
+     "en": "viṣamuṣṭī (identity debated)",
+     "hi": "विषमुष्टी"
+    },
+    {
+     "sa": "भूस्तृणः",
+     "iast": "bhūstṛṇaḥ",
+     "en": "Cymbopogon sp. (lemon grass type)",
+     "hi": "भूस्तृण"
+    },
+    {
+     "sa": "भूतकेशी",
+     "iast": "bhūtakeśī",
+     "en": "bhūtakeśī (identity debated)",
+     "hi": "भूतकेशी"
+    },
+    {
+     "sa": "सुरस-आदिः गणः",
+     "iast": "surasa-ādiḥ gaṇaḥ",
+     "en": "the surasādi group",
+     "hi": "सुरसादि गण"
+    },
+    {
+     "sa": "श्लेष्म-मेदः-कृमि-निषूदनः",
+     "iast": "śleṣma-medaḥ-kṛmi-niṣūdanaḥ",
+     "en": "destroys kapha, fat and worms",
+     "hi": "कफ, मेद और कृमि का नाशक"
+    },
+    {
+     "sa": "प्रतिश्याय-अरुचि-श्वास-कास-घ्नः",
+     "iast": "pratiśyāya-aruci-śvāsa-kāsa-ghnaḥ",
+     "en": "destroys coryza, anorexia, dyspnoea and cough",
+     "hi": "प्रतिश्याय, अरुचि, श्वास और खाँसी का नाशक"
+    },
+    {
+     "sa": "व्रण-शोधनः",
+     "iast": "vraṇa-śodhanaḥ",
+     "en": "cleanses wounds",
+     "hi": "घाव शोधक"
+    }
+   ],
+   "english": "[Verse 30:] The two surasās (tulasī), phaṇijjaka, kālamālā, viḍaṅga, kharabusa, vṛṣakarṇī, kaṭphala, kāsamarda, kṣavaka, sarasī, bhārgī, kārmuka, kākamācī, kulahala, viṣamuṣṭī, bhūstṛṇa and bhūtakeśī. [Verse 31:] The surasādi group destroys kapha, fat and worms, cures coryza (pratiśyāya), anorexia, dyspnoea and cough, and cleanses wounds.",
+   "hindi": "[श्लोक 30:] दोनों तुलसी, मरुवा, कालमाला, वायविडंग, खरबुस, वृषकर्णी, कायफल, कसौंदी, नकछिकनी, सरसी, भार्गी, कार्मुक, मकोय, मुण्डी, विषमुष्टी, भूस्तृण और भूतकेशी। [श्लोक 31:] सुरसादि गण कफ, मेद और कृमि को नष्ट करता है, प्रतिश्याय (जुकाम), अरुचि, श्वास और खाँसी को दूर करता है, और घावों को शुद्ध करता है।",
+   "explanation_en": "The surasādi gaṇa (tulasī group) is the classical group for respiratory kapha disorders such as coryza, cough and dyspnoea. The corpus entry contains several lines of variant readings for the second and third quarters of verse 30 (kharabusa / kharamukha, kṣavaka-surasi etc.); they are manuscript variants, not extra verses.",
+   "explanation_hi": "सुरसादि गण (तुलसी गण) जुकाम, खाँसी और श्वास जैसे कफज श्वसन रोगों का शास्त्रीय गण है। इस प्रविष्टि में श्लोक 30 के दूसरे और तीसरे चरण के कई पाठभेद (खरबुस/खरमुख आदि) छपे हैं; ये पांडुलिपियों के पाठभेद हैं, अतिरिक्त श्लोक नहीं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "surasādi gaṇa",
+    "tulasī",
+    "pratiśyāya",
+    "kāsa",
+    "śvāsa"
+   ],
+   "tags": [
+    "gana",
+    "kapha",
+    "pranavaha"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.15.32",
+   "word_meanings": [
+    {
+     "sa": "मुष्कक",
+     "iast": "muṣkaka",
+     "en": "Schrebera swietenioides",
+     "hi": "मुष्कक (मोखा)"
+    },
+    {
+     "sa": "स्नुक्",
+     "iast": "snuk",
+     "en": "Euphorbia neriifolia",
+     "hi": "स्नुही"
+    },
+    {
+     "sa": "वरा",
+     "iast": "varā",
+     "en": "triphalā",
+     "hi": "त्रिफला"
+    },
+    {
+     "sa": "द्वीपि",
+     "iast": "dvīpi",
+     "en": "citraka",
+     "hi": "द्वीपी (चित्रक)"
+    },
+    {
+     "sa": "पलाश",
+     "iast": "palāśa",
+     "en": "Butea monosperma",
+     "hi": "पलाश"
+    },
+    {
+     "sa": "धव",
+     "iast": "dhava",
+     "en": "Anogeissus latifolia",
+     "hi": "धव"
+    },
+    {
+     "sa": "शिंशिपाः",
+     "iast": "śiṃśipāḥ",
+     "en": "Dalbergia sissoo",
+     "hi": "शीशम"
+    },
+    {
+     "sa": "गुल्म-मेह-अश्मरी-पाण्डु-मेदः-अर्शः-कफ-शुक्र-जित्",
+     "iast": "gulma-meha-aśmarī-pāṇḍu-medaḥ-arśaḥ-kapha-śukra-jit",
+     "en": "conquers gulma, prameha, stone, anaemia, fat, haemorrhoids, kapha and disorders of semen",
+     "hi": "गुल्म, प्रमेह, अश्मरी, पांडु, मेद, अर्श, कफ और शुक्र दोष को जीतने वाला"
+    }
+   ],
+   "english": "Muṣkaka, snuk, varā (triphalā), dvīpī (citraka), palāśa, dhava and śiṃśipā (the muṣkakādi group) overcome gulma, prameha, urinary stone, pāṇḍu (anaemia), fat, haemorrhoids (arśas), kapha and disorders of semen (śukra).",
+   "hindi": "मोखा, स्नुही, त्रिफला, चित्रक, पलाश, धव और शीशम (मुष्ककादि गण) गुल्म, प्रमेह, पथरी, पांडु, मेद, बवासीर, कफ और शुक्र दोष को जीतते हैं।",
+   "explanation_en": "The muṣkakādi gaṇa is a kaphahara group (verse 7) whose ashes are used to prepare kṣāra (alkalis) in classical practice; muṣkaka is a principal kṣāra drug. 'Śukra-jit' is understood as curing disorders of śukra.",
+   "explanation_hi": "मुष्ककादि गण एक कफहर गण (श्लोक 7) है, जिसकी भस्म से शास्त्रीय रूप से क्षार बनाया जाता है; मुष्कक मुख्य क्षार द्रव्य है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "muṣkakādi gaṇa",
+    "kṣāra",
+    "gulma",
+    "arśas"
+   ],
+   "tags": [
+    "gana",
+    "kapha",
+    "kshara"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.15.33",
+   "word_meanings": [
+    {
+     "sa": "वत्सक",
+     "iast": "vatsaka",
+     "en": "kuṭaja",
+     "hi": "वत्सक (कुटज)"
+    },
+    {
+     "sa": "मूर्वा",
+     "iast": "mūrvā",
+     "en": "Marsdenia tenacissima",
+     "hi": "मूर्वा"
+    },
+    {
+     "sa": "भार्गी",
+     "iast": "bhārgī",
+     "en": "Clerodendrum serratum",
+     "hi": "भार्गी"
+    },
+    {
+     "sa": "कटुकाः",
+     "iast": "kaṭukāḥ",
+     "en": "kaṭukī",
+     "hi": "कटुका (कुटकी)"
+    },
+    {
+     "sa": "मरीचम्",
+     "iast": "marīcam",
+     "en": "black pepper",
+     "hi": "मरिच (काली मिर्च)"
+    },
+    {
+     "sa": "घुणप्रिया",
+     "iast": "ghuṇapriyā",
+     "en": "ativiṣā",
+     "hi": "घुणप्रिया (अतीस)"
+    },
+    {
+     "sa": "गण्डीरम्",
+     "iast": "gaṇḍīram",
+     "en": "gaṇḍīra (identity debated)",
+     "hi": "गण्डीर"
+    },
+    {
+     "sa": "एला",
+     "iast": "elā",
+     "en": "cardamom",
+     "hi": "इलायची"
+    },
+    {
+     "sa": "पाठा",
+     "iast": "pāṭhā",
+     "en": "Cissampelos pareira",
+     "hi": "पाठा"
+    },
+    {
+     "sa": "अजाजी",
+     "iast": "ajājī",
+     "en": "cumin",
+     "hi": "अजाजी (जीरा)"
+    },
+    {
+     "sa": "कट्वङ्ग-फल",
+     "iast": "kaṭvaṅga-phala",
+     "en": "fruit of śyonāka",
+     "hi": "श्योनाक का फल"
+    },
+    {
+     "sa": "अजमोद",
+     "iast": "ajamoda",
+     "en": "Trachyspermum roxburghianum (ajmoda)",
+     "hi": "अजमोदा"
+    },
+    {
+     "sa": "सिद्धार्थ",
+     "iast": "siddhārtha",
+     "en": "white mustard",
+     "hi": "सिद्धार्थ (सफ़ेद सरसों)"
+    },
+    {
+     "sa": "वचाः",
+     "iast": "vacāḥ",
+     "en": "Acorus calamus",
+     "hi": "वचा"
+    }
+   ],
+   "english": "Vatsaka (kuṭaja), mūrvā, bhārgī, kaṭukā, marica (black pepper), ghuṇapriyā (ativiṣā), gaṇḍīra, elā, pāṭhā, ajājī, the fruit of kaṭvaṅga (śyonāka), ajamoda, siddhārtha (white mustard), vacā,...",
+   "hindi": "कुटज, मूर्वा, भार्गी, कुटकी, काली मिर्च, अतीस, गण्डीर, इलायची, पाठा, जीरा, श्योनाक का फल, अजमोदा, सफ़ेद सरसों, वचा,...",
+   "explanation_en": "This begins the vatsakādi gaṇa, which continues in verse 34. Most of its drugs are pungent and digestive, which explains its use in vāta-kapha conditions.",
+   "explanation_hi": "यहाँ से वत्सकादि गण शुरू होता है, जो श्लोक 34 में आगे है। इसके अधिकांश द्रव्य कटु और पाचक हैं, इसलिए यह वात-कफ रोगों में प्रयोग होता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vatsakādi gaṇa",
+    "kuṭaja",
+    "ativiṣā"
+   ],
+   "tags": [
+    "gana",
+    "kapha"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.15.34",
+   "word_meanings": [
+    {
+     "sa": "जीरक",
+     "iast": "jīraka",
+     "en": "cumin",
+     "hi": "जीरा"
+    },
+    {
+     "sa": "हिङ्गु",
+     "iast": "hiṅgu",
+     "en": "asafoetida",
+     "hi": "हींग"
+    },
+    {
+     "sa": "विडङ्गम्",
+     "iast": "viḍaṅgam",
+     "en": "Embelia ribes",
+     "hi": "वायविडंग"
+    },
+    {
+     "sa": "पशुगन्धा",
+     "iast": "paśugandhā",
+     "en": "ajagandhā (Cleome gynandra)",
+     "hi": "पशुगन्धा (अजगन्धा)"
+    },
+    {
+     "sa": "पञ्च-कोलकम्",
+     "iast": "pañca-kolakam",
+     "en": "the five pungents (pippalī, pippalīmūla, cavya, citraka, nāgara)",
+     "hi": "पंचकोल"
+    },
+    {
+     "sa": "हन्ति",
+     "iast": "hanti",
+     "en": "destroys",
+     "hi": "नष्ट करता है"
+    },
+    {
+     "sa": "चल-कफ-मेदः",
+     "iast": "cala-kapha-medaḥ",
+     "en": "vāta (cala), kapha and fat",
+     "hi": "वात, कफ और मेद"
+    },
+    {
+     "sa": "पीनस",
+     "iast": "pīnasa",
+     "en": "chronic rhinitis",
+     "hi": "पीनस"
+    },
+    {
+     "sa": "गुल्म-ज्वर-शूल",
+     "iast": "gulma-jvara-śūla",
+     "en": "gulma, fever and colic",
+     "hi": "गुल्म, ज्वर और शूल"
+    },
+    {
+     "sa": "दुर्नाम्नः",
+     "iast": "durnāmnaḥ",
+     "en": "haemorrhoids",
+     "hi": "दुर्नाम (बवासीर)"
+    }
+   ],
+   "english": "...jīraka, hiṅgu, viḍaṅga, paśugandhā and pañcakola (complete the vatsakādi group). It destroys vāta (cala), kapha and fat, chronic rhinitis (pīnasa), gulma, fever, colic (śūla) and haemorrhoids.",
+   "hindi": "...जीरा, हींग, वायविडंग, अजगन्धा और पंचकोल (वत्सकादि गण पूरा करते हैं)। यह वात, कफ, मेद, पीनस, गुल्म, ज्वर, शूल और बवासीर को नष्ट करता है।",
+   "explanation_en": "Pañcakola (five pungents) is a frequently asked group: pippalī, pippalīmūla, cavya, citraka and nāgara (śuṇṭhī). 'Cala' (the moving one) is a synonym of vāta. 'Durnāman' (the ill-named) is a classical euphemism for arśas.",
+   "explanation_hi": "पंचकोल अक्सर पूछा जाने वाला समूह है: पिप्पली, पिप्पलीमूल, चव्य, चित्रक और नागर (सोंठ)। 'चल' वात का पर्याय है। 'दुर्नाम' अर्श (बवासीर) का शास्त्रीय नाम है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vatsakādi gaṇa",
+    "pañcakola",
+    "pīnasa",
+    "arśas"
+   ],
+   "tags": [
+    "gana",
+    "kapha",
+    "vata"
+   ],
+   "importance": "medium",
+   "mnemonic": "Pañcakola: 'PP-C-C-N' = Pippalī, Pippalīmūla, Cavya, Citraka, Nāgara.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.15.35",
+   "word_meanings": [
+    {
+     "sa": "वचा",
+     "iast": "vacā",
+     "en": "Acorus calamus",
+     "hi": "वचा"
+    },
+    {
+     "sa": "जलद",
+     "iast": "jalada",
+     "en": "musta (Cyperus rotundus)",
+     "hi": "जलद (मुस्ता)"
+    },
+    {
+     "sa": "देवाह्व",
+     "iast": "devāhva",
+     "en": "devadāru",
+     "hi": "देवदारु"
+    },
+    {
+     "sa": "नागर",
+     "iast": "nāgara",
+     "en": "dry ginger",
+     "hi": "नागर (सोंठ)"
+    },
+    {
+     "sa": "अतिविषा",
+     "iast": "ativiṣā",
+     "en": "Aconitum heterophyllum",
+     "hi": "अतीस"
+    },
+    {
+     "sa": "अभयाः",
+     "iast": "abhayāḥ",
+     "en": "harītakī",
+     "hi": "अभया (हरड़)"
+    },
+    {
+     "sa": "हरिद्रा-द्वय",
+     "iast": "haridrā-dvaya",
+     "en": "the two haridrās (turmeric and tree turmeric)",
+     "hi": "दोनों हल्दी (हल्दी और दारुहल्दी)"
+    },
+    {
+     "sa": "यष्ट्याह्व",
+     "iast": "yaṣṭyāhva",
+     "en": "liquorice",
+     "hi": "यष्ट्याह्व (मुलेठी)"
+    },
+    {
+     "sa": "कलशी",
+     "iast": "kalaśī",
+     "en": "pṛśniparṇī (Uraria picta)",
+     "hi": "कलशी (पृश्निपर्णी)"
+    },
+    {
+     "sa": "कुटज-उद्भवाः",
+     "iast": "kuṭaja-udbhavāḥ",
+     "en": "indrayava (seeds of kuṭaja)",
+     "hi": "कुटज से उत्पन्न (इन्द्रयव)"
+    }
+   ],
+   "english": "Vacā, jalada (musta), devāhva (devadāru), nāgara, ativiṣā and abhayā (form the vacādi group); the two haridrās, yaṣṭyāhva, kalaśī and kuṭajodbhava (indrayava) (form the haridrādi group).",
+   "hindi": "वचा, मुस्ता, देवदारु, सोंठ, अतीस और हरड़ (वचादि गण); दोनों हल्दी, मुलेठी, पृश्निपर्णी और इन्द्रयव (हरिद्रादि गण)।",
+   "explanation_en": "This verse lists two small groups, vacādi and haridrādi, whose shared actions are given in verse 36.",
+   "explanation_hi": "इस श्लोक में दो छोटे गण हैं, वचादि और हरिद्रादि, जिनके समान कर्म श्लोक 36 में हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vacādi gaṇa",
+    "haridrādi gaṇa",
+    "musta",
+    "ativiṣā"
+   ],
+   "tags": [
+    "gana",
+    "dravya"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.15.36",
+   "word_meanings": [
+    {
+     "sa": "वचा-हरिद्रा-आदि-गणौ",
+     "iast": "vacā-haridrā-ādi-gaṇau",
+     "en": "the vacādi and haridrādi groups",
+     "hi": "वचादि और हरिद्रादि गण"
+    },
+    {
+     "sa": "आम-अतीसार-नाशनौ",
+     "iast": "āma-atīsāra-nāśanau",
+     "en": "destroy diarrhoea with āma",
+     "hi": "आमातिसार का नाश करने वाले"
+    },
+    {
+     "sa": "मेदः-कफ-आढ्य-पवन",
+     "iast": "medaḥ-kapha-āḍhya-pavana",
+     "en": "fat, kapha and āḍhyavāta",
+     "hi": "मेद, कफ और आढ्यवात"
+    },
+    {
+     "sa": "स्तन्य-दोष-निबर्हणौ",
+     "iast": "stanya-doṣa-nibarhaṇau",
+     "en": "remove disorders of breast milk",
+     "hi": "स्तन्य (दूध) के दोषों को दूर करने वाले"
+    }
+   ],
+   "english": "The vacādi and haridrādi groups destroy diarrhoea with āma (āmātisāra) and remove disorders of fat, kapha, āḍhyavāta (ūrustambha) and breast milk.",
+   "hindi": "वचादि और हरिद्रादि गण आमातिसार (आम युक्त दस्त) का नाश करते हैं और मेद, कफ, आढ्यवात (ऊरुस्तम्भ) तथा स्तन्य (माँ के दूध) के दोषों को दूर करते हैं।",
+   "explanation_en": "Āmātisāra (diarrhoea with undigested matter) is treated first with pācana drugs like musta, ativiṣā and śuṇṭhī, which are members of these groups. Contrast with the priyaṅgvādi and ambaṣṭhādi groups (verse 39), which are used for pakvātisāra. The file records a variant 'āmātīsāra-pācanau'.",
+   "explanation_hi": "आमातिसार (अपक्व मल वाले दस्त) में पहले मुस्ता, अतीस और सोंठ जैसे पाचन द्रव्य दिए जाते हैं, जो इन गणों में हैं। इसकी तुलना प्रियंग्वादि और अम्बष्ठादि गणों (श्लोक 39) से करें, जो पक्वातिसार में प्रयोग होते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "āmātisāra",
+    "vacādi gaṇa",
+    "haridrādi gaṇa",
+    "stanyadoṣa"
+   ],
+   "tags": [
+    "gana",
+    "atisara",
+    "ama"
+   ],
+   "importance": "medium",
+   "mnemonic": "Āma-atisāra: Vacā & Haridrā groups; Pakva-atisāra: Priyaṅgu & Ambaṣṭhā groups.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.15.37",
+   "word_meanings": [
+    {
+     "sa": "प्रियङ्गु",
+     "iast": "priyaṅgu",
+     "en": "Callicarpa macrophylla",
+     "hi": "प्रियंगु"
+    },
+    {
+     "sa": "पुष्पाञ्जन",
+     "iast": "puṣpāñjana",
+     "en": "puṣpāñjana (a mineral collyrium, often zinc calx)",
+     "hi": "पुष्पांजन"
+    },
+    {
+     "sa": "अञ्जन-युग्म",
+     "iast": "añjana-yugma",
+     "en": "the two añjanas",
+     "hi": "दोनों अंजन"
+    },
+    {
+     "sa": "पद्माः",
+     "iast": "padmāḥ",
+     "en": "lotus",
+     "hi": "कमल"
+    },
+    {
+     "sa": "पद्मात् रजः",
+     "iast": "padmāt rajaḥ",
+     "en": "lotus pollen",
+     "hi": "कमल का पराग"
+    },
+    {
+     "sa": "योजनवल्ली",
+     "iast": "yojanavallī",
+     "en": "mañjiṣṭhā (Rubia cordifolia)",
+     "hi": "योजनवल्ली (मंजिष्ठा)"
+    },
+    {
+     "sa": "अनन्ता",
+     "iast": "anantā",
+     "en": "śārivā",
+     "hi": "अनन्ता (सारिवा)"
+    },
+    {
+     "sa": "मानद्रुमः",
+     "iast": "mānadrumaḥ",
+     "en": "mānadruma (identity debated)",
+     "hi": "मानद्रुम"
+    },
+    {
+     "sa": "मोच-रसः",
+     "iast": "moca-rasaḥ",
+     "en": "gum of śālmalī (mocarasa)",
+     "hi": "मोचरस"
+    },
+    {
+     "sa": "समङ्गा",
+     "iast": "samaṅgā",
+     "en": "lajjālu (Mimosa pudica)",
+     "hi": "समंगा (लाजवंती)"
+    },
+    {
+     "sa": "पुन्नाग",
+     "iast": "punnāga",
+     "en": "Calophyllum inophyllum",
+     "hi": "पुन्नाग"
+    },
+    {
+     "sa": "शीतम्",
+     "iast": "śītam",
+     "en": "sandalwood (the cool one)",
+     "hi": "शीत (चंदन)"
+    },
+    {
+     "sa": "मदनीय-हेतुः",
+     "iast": "madanīya-hetuḥ",
+     "en": "the cause of intoxication (dhātakī flowers, Woodfordia fruticosa)",
+     "hi": "मदनीयहेतु (धातकी)"
+    }
+   ],
+   "english": "Priyaṅgu, puṣpāñjana, the two añjanas, padma, lotus pollen, yojanavallī (mañjiṣṭhā), anantā, mānadruma, mocarasa, samaṅgā (lajjālu), punnāga, śīta (sandalwood) and madanīya-hetu (dhātakī) (form the priyaṅgvādi group).",
+   "hindi": "प्रियंगु, पुष्पांजन, दोनों अंजन, कमल, कमल का पराग, मंजिष्ठा, सारिवा, मानद्रुम, मोचरस, लाजवंती, पुन्नाग, चंदन और धातकी (प्रियंग्वादि गण बनाते हैं)।",
+   "explanation_en": "'Madanīya-hetu' (the cause of intoxication) is understood as dhātakī, whose flowers are used to start fermentation in āsava-ariṣṭa preparation. The file records variants 'sāradruma' and 'punnāma'.",
+   "explanation_hi": "'मदनीयहेतु' (मद का कारण) को धातकी माना जाता है, जिसके फूल आसव-अरिष्ट बनाने में किण्वन (फर्मेंटेशन) शुरू करने के लिए डाले जाते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "priyaṅgvādi gaṇa",
+    "mañjiṣṭhā",
+    "mocarasa",
+    "dhātakī"
+   ],
+   "tags": [
+    "gana",
+    "dravya"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.15.38",
+   "word_meanings": [
+    {
+     "sa": "अम्बष्ठा",
+     "iast": "ambaṣṭhā",
+     "en": "pāṭhā (Cissampelos pareira)",
+     "hi": "अम्बष्ठा (पाठा)"
+    },
+    {
+     "sa": "मधुकम्",
+     "iast": "madhukam",
+     "en": "liquorice",
+     "hi": "मुलेठी"
+    },
+    {
+     "sa": "नमस्करी",
+     "iast": "namaskarī",
+     "en": "lajjālu (Mimosa pudica)",
+     "hi": "नमस्करी (लाजवंती)"
+    },
+    {
+     "sa": "नन्दीवृक्ष",
+     "iast": "nandīvṛkṣa",
+     "en": "nandīvṛkṣa (identity debated)",
+     "hi": "नन्दीवृक्ष"
+    },
+    {
+     "sa": "पलाश",
+     "iast": "palāśa",
+     "en": "Butea monosperma",
+     "hi": "पलाश"
+    },
+    {
+     "sa": "कच्छुराः",
+     "iast": "kacchurāḥ",
+     "en": "durālabhā (as commonly glossed)",
+     "hi": "कच्छुरा (दुरालभा)"
+    },
+    {
+     "sa": "लोध्रम्",
+     "iast": "lodhram",
+     "en": "Symplocos racemosa",
+     "hi": "लोध्र"
+    },
+    {
+     "sa": "धातकि",
+     "iast": "dhātaki",
+     "en": "Woodfordia fruticosa",
+     "hi": "धातकी"
+    },
+    {
+     "sa": "बिल्व-पेशिके",
+     "iast": "bilva-peśike",
+     "en": "pulp of (unripe) bael",
+     "hi": "बेल का गूदा"
+    },
+    {
+     "sa": "कट्वङ्गः",
+     "iast": "kaṭvaṅgaḥ",
+     "en": "śyonāka",
+     "hi": "कट्वंग (श्योनाक)"
+    },
+    {
+     "sa": "कमल-उद्भवम् रजः",
+     "iast": "kamala-udbhavam rajaḥ",
+     "en": "pollen of lotus",
+     "hi": "कमल का पराग"
+    }
+   ],
+   "english": "Ambaṣṭhā (pāṭhā), madhuka, namaskarī (lajjālu), nandīvṛkṣa, palāśa, kacchurā, lodhra, dhātakī, bilva pulp, kaṭvaṅga (śyonāka) and lotus pollen (form the ambaṣṭhādi group).",
+   "hindi": "पाठा, मुलेठी, लाजवंती, नन्दीवृक्ष, पलाश, दुरालभा, लोध्र, धातकी, बेल का गूदा, श्योनाक और कमल का पराग (अम्बष्ठादि गण बनाते हैं)।",
+   "explanation_en": "The ambaṣṭhādi gaṇa is mostly astringent (kaṣāya). The corpus entry begins with a stray fragment 'madanīya-hetuḥ', which belongs to the end of verse 37; it is not part of this verse.",
+   "explanation_hi": "अम्बष्ठादि गण अधिकतर कषाय रस प्रधान है। इस प्रविष्टि की शुरुआत में 'मदनीयहेतुः' अंश छपा है, जो श्लोक 37 के अंत का है, इस श्लोक का भाग नहीं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "ambaṣṭhādi gaṇa",
+    "lodhra",
+    "dhātakī",
+    "bilva"
+   ],
+   "tags": [
+    "gana",
+    "dravya"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.15.39",
+   "word_meanings": [
+    {
+     "sa": "गणौ प्रियङ्गु-अम्बष्ठा-आदी",
+     "iast": "gaṇau priyaṅgu-ambaṣṭhā-ādī",
+     "en": "the priyaṅgvādi and ambaṣṭhādi groups",
+     "hi": "प्रियंग्वादि और अम्बष्ठादि गण"
+    },
+    {
+     "sa": "पक्व-अतीसार-नाशनौ",
+     "iast": "pakva-atīsāra-nāśanau",
+     "en": "destroy diarrhoea without āma (pakvātisāra)",
+     "hi": "पक्वातिसार का नाश करने वाले"
+    },
+    {
+     "sa": "संधानीयौ",
+     "iast": "saṃdhānīyau",
+     "en": "promoting union (of tissues, fractures and wounds)",
+     "hi": "संधानीय (जोड़ने वाले)"
+    },
+    {
+     "sa": "हितौ पित्ते",
+     "iast": "hitau pitte",
+     "en": "beneficial in pitta",
+     "hi": "पित्त में हितकर"
+    },
+    {
+     "sa": "व्रणानाम् अपि रोपणौ",
+     "iast": "vraṇānām api ropaṇau",
+     "en": "also heal wounds",
+     "hi": "घावों को भरने वाले भी"
+    }
+   ],
+   "english": "The priyaṅgvādi and ambaṣṭhādi groups destroy diarrhoea in its ripe stage (pakvātisāra), promote the joining of tissues (sandhānīya), are beneficial in pitta, and also heal wounds (ropaṇa).",
+   "hindi": "प्रियंग्वादि और अम्बष्ठादि गण पक्वातिसार (आम रहित दस्त) का नाश करते हैं, टूटे ऊतकों को जोड़ते हैं (संधानीय), पित्त में हितकर हैं और घावों को भी भरते हैं।",
+   "explanation_en": "These two astringent groups are used only after āma has been digested (pakvātisāra); using astringents in āmātisāra would trap the doṣas (see chapter 13 on not stopping sāma doṣas). This contrast with verse 36 is a good exam point.",
+   "explanation_hi": "ये दोनों कषाय गण आम पचने के बाद ही (पक्वातिसार में) प्रयोग होते हैं; आमातिसार में स्तम्भक द्रव्य देने से दोष भीतर रुक जाते हैं (अध्याय 13 देखें)। श्लोक 36 से यह तुलना परीक्षा का अच्छा बिंदु है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "pakvātisāra",
+    "sandhānīya",
+    "ropaṇa",
+    "priyaṅgvādi gaṇa",
+    "ambaṣṭhādi gaṇa"
+   ],
+   "tags": [
+    "gana",
+    "atisara",
+    "vrana"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.15.40",
+   "word_meanings": [
+    {
+     "sa": "मुस्ता",
+     "iast": "mustā",
+     "en": "Cyperus rotundus",
+     "hi": "मुस्ता (नागरमोथा)"
+    },
+    {
+     "sa": "वचा",
+     "iast": "vacā",
+     "en": "Acorus calamus",
+     "hi": "वचा"
+    },
+    {
+     "sa": "अग्नि",
+     "iast": "agni",
+     "en": "citraka",
+     "hi": "अग्नि (चित्रक)"
+    },
+    {
+     "sa": "द्वि-निशा",
+     "iast": "dvi-niśā",
+     "en": "the two haridrās",
+     "hi": "दोनों हल्दी"
+    },
+    {
+     "sa": "द्वि-तिक्ता",
+     "iast": "dvi-tiktā",
+     "en": "the two bitters (kaṭukī and another tiktā)",
+     "hi": "दोनों तिक्ता (कुटकी आदि)"
+    },
+    {
+     "sa": "भल्लात",
+     "iast": "bhallāta",
+     "en": "Semecarpus anacardium",
+     "hi": "भल्लातक (भिलावा)"
+    },
+    {
+     "sa": "पाठा",
+     "iast": "pāṭhā",
+     "en": "Cissampelos pareira",
+     "hi": "पाठा"
+    },
+    {
+     "sa": "त्रि-फला",
+     "iast": "tri-phalā",
+     "en": "the three myrobalans",
+     "hi": "त्रिफला"
+    },
+    {
+     "sa": "विषाख्याः",
+     "iast": "viṣākhyāḥ",
+     "en": "ativiṣā",
+     "hi": "विषा (अतीस)"
+    },
+    {
+     "sa": "कुष्ठम्",
+     "iast": "kuṣṭham",
+     "en": "Saussurea costus",
+     "hi": "कूठ"
+    },
+    {
+     "sa": "त्रुटी",
+     "iast": "truṭī",
+     "en": "small cardamom",
+     "hi": "त्रुटि (छोटी इलायची)"
+    },
+    {
+     "sa": "हैमवती",
+     "iast": "haimavatī",
+     "en": "white vacā",
+     "hi": "हैमवती (श्वेत वचा)"
+    },
+    {
+     "sa": "योनि-स्तन्य-आमय-घ्नाः",
+     "iast": "yoni-stanya-āmaya-ghnāḥ",
+     "en": "destroy diseases of the female genital tract and of breast milk",
+     "hi": "योनि और स्तन्य के रोगों के नाशक"
+    },
+    {
+     "sa": "मल-पाचनाः च",
+     "iast": "mala-pācanāḥ ca",
+     "en": "and digest the doṣas (malas)",
+     "hi": "और मलों (दोषों) को पचाने वाले"
+    }
+   ],
+   "english": "Mustā, vacā, agni (citraka), the two niśās (turmerics), the two tiktās, bhallātaka, pāṭhā, triphalā, viṣā (ativiṣā), kuṣṭha, truṭī (cardamom) and haimavatī (the mustādi group) destroy diseases of the female genital tract and of breast milk, and digest the malas (doṣas).",
+   "hindi": "नागरमोथा, वचा, चित्रक, दोनों हल्दी, दोनों तिक्ता, भिलावा, पाठा, त्रिफला, अतीस, कूठ, छोटी इलायची और श्वेत वचा (मुस्तादि गण) योनि और स्तन्य के रोगों को नष्ट करते हैं और दोषों का पाचन करते हैं।",
+   "explanation_en": "The mustādi gaṇa is the last of the seven kaphahara groups of verse 7. Its pācana action makes it useful in disorders where āma vitiates breast milk or the reproductive tract. The variant list of this entry also contains a reading for verse 41 (nyagrodhādi).",
+   "explanation_hi": "मुस्तादि गण श्लोक 7 के सात कफहर गणों में अंतिम है। इसका पाचन कर्म उन रोगों में उपयोगी है जहाँ आम स्तन्य या प्रजनन अंगों को दूषित करता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "mustādi gaṇa",
+    "stanyadoṣa",
+    "yoniroga",
+    "pācana"
+   ],
+   "tags": [
+    "gana",
+    "kapha",
+    "stanya"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.15.42",
+   "word_meanings": [
+    {
+     "sa": "न्यग्रोध",
+     "iast": "nyagrodha",
+     "en": "banyan (Ficus benghalensis)",
+     "hi": "न्यग्रोध (बरगद)"
+    },
+    {
+     "sa": "पिप्पल",
+     "iast": "pippala",
+     "en": "peepal (Ficus religiosa)",
+     "hi": "पिप्पल (पीपल)"
+    },
+    {
+     "sa": "सदाफल",
+     "iast": "sadāphala",
+     "en": "udumbara (Ficus racemosa)",
+     "hi": "सदाफल (गूलर)"
+    },
+    {
+     "sa": "लोध्र-युग्मम्",
+     "iast": "lodhra-yugmam",
+     "en": "the two lodhras",
+     "hi": "दोनों लोध्र"
+    },
+    {
+     "sa": "जम्बू-द्वय",
+     "iast": "jambū-dvaya",
+     "en": "the two jambūs (Syzygium spp.)",
+     "hi": "दोनों जामुन"
+    },
+    {
+     "sa": "अर्जुन",
+     "iast": "arjuna",
+     "en": "Terminalia arjuna",
+     "hi": "अर्जुन"
+    },
+    {
+     "sa": "कपीतन",
+     "iast": "kapītana",
+     "en": "pārīṣa (Thespesia populnea, as commonly glossed)",
+     "hi": "कपीतन (पारिस पीपल)"
+    },
+    {
+     "sa": "सोमवल्काः",
+     "iast": "somavalkāḥ",
+     "en": "somavalka (white khadira, as commonly glossed)",
+     "hi": "सोमवल्क"
+    },
+    {
+     "sa": "प्लक्ष",
+     "iast": "plakṣa",
+     "en": "Ficus virens / F. lacor",
+     "hi": "प्लक्ष (पाकड़)"
+    },
+    {
+     "sa": "आम्र",
+     "iast": "āmra",
+     "en": "mango",
+     "hi": "आम"
+    },
+    {
+     "sa": "वञ्जुल",
+     "iast": "vañjula",
+     "en": "vetasa (Salix sp.) / aśoka (debated)",
+     "hi": "वञ्जुल (वेतस)"
+    },
+    {
+     "sa": "पियाल",
+     "iast": "piyāla",
+     "en": "Buchanania lanzan",
+     "hi": "पियाल (चिरौंजी)"
+    },
+    {
+     "sa": "पलाश",
+     "iast": "palāśa",
+     "en": "Butea monosperma",
+     "hi": "पलाश"
+    },
+    {
+     "sa": "नन्दी",
+     "iast": "nandī",
+     "en": "nandīvṛkṣa",
+     "hi": "नन्दी"
+    },
+    {
+     "sa": "कोली",
+     "iast": "kolī",
+     "en": "badara (jujube)",
+     "hi": "कोली (बेर)"
+    },
+    {
+     "sa": "कदम्ब",
+     "iast": "kadamba",
+     "en": "Neolamarckia cadamba",
+     "hi": "कदम्ब"
+    },
+    {
+     "sa": "विरला",
+     "iast": "viralā",
+     "en": "viralā (often taken as tinduka)",
+     "hi": "विरला"
+    },
+    {
+     "sa": "मधुकम्",
+     "iast": "madhukam",
+     "en": "liquorice",
+     "hi": "मुलेठी"
+    },
+    {
+     "sa": "मधूकम्",
+     "iast": "madhūkam",
+     "en": "Madhuca longifolia",
+     "hi": "महुआ"
+    },
+    {
+     "sa": "न्यग्रोध-आदिः गणः",
+     "iast": "nyagrodha-ādiḥ gaṇaḥ",
+     "en": "the nyagrodhādi group",
+     "hi": "न्यग्रोधादि गण"
+    },
+    {
+     "sa": "व्रण्यः",
+     "iast": "vraṇyaḥ",
+     "en": "good for wounds",
+     "hi": "व्रण के लिए हितकर"
+    },
+    {
+     "sa": "संग्राही",
+     "iast": "saṃgrāhī",
+     "en": "astringent, binding",
+     "hi": "संग्राही (मल बाँधने वाला)"
+    },
+    {
+     "sa": "भग्न-साधनः",
+     "iast": "bhagna-sādhanaḥ",
+     "en": "heals fractures",
+     "hi": "भग्न (हड्डी टूटने) को ठीक करने वाला"
+    },
+    {
+     "sa": "मेदः-पित्त-अस्र-तृट्-दाह-योनि-रोग-निबर्हणः",
+     "iast": "medaḥ-pitta-asra-tṛṭ-dāha-yoni-roga-nibarhaṇaḥ",
+     "en": "removes fat, raktapitta, thirst, burning and diseases of the female genital tract",
+     "hi": "मेद, रक्तपित्त, प्यास, जलन और योनि रोगों को दूर करने वाला"
+    }
+   ],
+   "english": "[Verse 41:] Nyagrodha, pippala, sadāphala (udumbara), the two lodhras, the two jambūs, arjuna, kapītana, somavalka, plakṣa, āmra, vañjula, piyāla, palāśa, nandī, kolī, kadamba, viralā, madhuka and madhūka. [Verse 42:] The nyagrodhādi group is good for wounds, binding (saṃgrāhī) and heals fractures; it removes excess fat, raktapitta (bleeding disorders), thirst, burning and diseases of the female genital tract.",
+   "hindi": "[श्लोक 41:] बरगद, पीपल, गूलर, दोनों लोध्र, दोनों जामुन, अर्जुन, कपीतन, सोमवल्क, पाकड़, आम, वेतस, चिरौंजी, पलाश, नन्दी, बेर, कदम्ब, विरला, मुलेठी और महुआ। [श्लोक 42:] न्यग्रोधादि गण घावों के लिए हितकर, संग्राही और भग्न (टूटी हड्डी) को जोड़ने वाला है; यह मेद, रक्तपित्त, प्यास, जलन और योनि रोगों को दूर करता है।",
+   "explanation_en": "The nyagrodhādi gaṇa is built around the kṣīrī vṛkṣa (latex-bearing Ficus trees) and other astringent barks. It is a major group for wound healing and bleeding disorders and is named in the pittahara list (verse 6). The corpus repeats a fragment of verse 41's second quarter as a stray line; the variants 'varṇyaḥ' and '-yoni-doṣa-' are also recorded.",
+   "explanation_hi": "न्यग्रोधादि गण क्षीरीवृक्षों (दूध वाले फ़ाइकस पेड़ों) और अन्य कषाय छालों से बना है। यह घाव भरने और रक्तस्राव रोगों का मुख्य गण है और पित्तहर सूची (श्लोक 6) में आता है। इस प्रविष्टि में श्लोक 41 के दूसरे चरण का एक अंश अलग पंक्ति के रूप में दोहराया गया है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "nyagrodhādi gaṇa",
+    "kṣīrī vṛkṣa",
+    "vraṇya",
+    "saṃgrāhī",
+    "bhagna"
+   ],
+   "tags": [
+    "gana",
+    "pitta",
+    "vrana",
+    "bhagna"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.15.43",
+   "word_meanings": [
+    {
+     "sa": "एला-युग्म",
+     "iast": "elā-yugma",
+     "en": "the two cardamoms",
+     "hi": "दोनों इलायची"
+    },
+    {
+     "sa": "तुरुष्क",
+     "iast": "turuṣka",
+     "en": "storax (silhaka)",
+     "hi": "तुरुष्क (सिल्हक)"
+    },
+    {
+     "sa": "कुष्ठ",
+     "iast": "kuṣṭha",
+     "en": "Saussurea costus",
+     "hi": "कूठ"
+    },
+    {
+     "sa": "फलिनी",
+     "iast": "phalinī",
+     "en": "priyaṅgu",
+     "hi": "प्रियंगु"
+    },
+    {
+     "sa": "मांसी",
+     "iast": "māṃsī",
+     "en": "jaṭāmāṃsī",
+     "hi": "जटामांसी"
+    },
+    {
+     "sa": "जल",
+     "iast": "jala",
+     "en": "hrībera (Pavonia odorata)",
+     "hi": "जल (सुगंधबाला)"
+    },
+    {
+     "sa": "ध्यामकम्",
+     "iast": "dhyāmakam",
+     "en": "rohiṣa grass (Cymbopogon sp.)",
+     "hi": "ध्यामक (रोहिष घास)"
+    },
+    {
+     "sa": "स्पृक्का",
+     "iast": "spṛkkā",
+     "en": "spṛkkā (identity debated)",
+     "hi": "स्पृक्का"
+    },
+    {
+     "sa": "चोरक",
+     "iast": "coraka",
+     "en": "coraka (Angelica glauca, as commonly glossed)",
+     "hi": "चोरक"
+    },
+    {
+     "sa": "चोच",
+     "iast": "coca",
+     "en": "cinnamon bark (tvak)",
+     "hi": "चोच (दालचीनी)"
+    },
+    {
+     "sa": "पत्त्र",
+     "iast": "pattra",
+     "en": "tejpatra (Cinnamomum tamala)",
+     "hi": "पत्र (तेजपात)"
+    },
+    {
+     "sa": "तगर",
+     "iast": "tagara",
+     "en": "Valeriana wallichii",
+     "hi": "तगर"
+    },
+    {
+     "sa": "स्थौणेय",
+     "iast": "sthauṇeya",
+     "en": "sthauṇeyaka (identity debated)",
+     "hi": "स्थौणेय"
+    },
+    {
+     "sa": "जाती-रसाः",
+     "iast": "jātī-rasāḥ",
+     "en": "bola / myrrh (as commonly glossed)",
+     "hi": "जातीरस (बोल)"
+    },
+    {
+     "sa": "शुक्तिः",
+     "iast": "śuktiḥ",
+     "en": "śukti (a shell-derived perfume material)",
+     "hi": "शुक्ति"
+    },
+    {
+     "sa": "व्याघ्रनखः",
+     "iast": "vyāghranakhaḥ",
+     "en": "nakha (operculum used as perfume)",
+     "hi": "व्याघ्रनख (नख)"
+    },
+    {
+     "sa": "अमराह्वम्",
+     "iast": "amarāhvam",
+     "en": "devadāru",
+     "hi": "अमराह्व (देवदारु)"
+    },
+    {
+     "sa": "अगुरुः",
+     "iast": "aguruḥ",
+     "en": "agarwood (Aquilaria agallocha)",
+     "hi": "अगुरु"
+    },
+    {
+     "sa": "श्रीवासकः",
+     "iast": "śrīvāsakaḥ",
+     "en": "pine resin (śrīveṣṭaka)",
+     "hi": "श्रीवासक (गंधाबिरोजा)"
+    },
+    {
+     "sa": "कुङ्कुमम्",
+     "iast": "kuṅkumam",
+     "en": "saffron (Crocus sativus)",
+     "hi": "कुंकुम (केसर)"
+    },
+    {
+     "sa": "चण्डा",
+     "iast": "caṇḍā",
+     "en": "caṇḍā (a fragrant drug; identity debated)",
+     "hi": "चण्डा"
+    },
+    {
+     "sa": "गुग्गुलु",
+     "iast": "guggulu",
+     "en": "Commiphora wightii resin",
+     "hi": "गुग्गुलु"
+    },
+    {
+     "sa": "देव-धूप",
+     "iast": "deva-dhūpa",
+     "en": "sāla resin (sarjarasa / rāla)",
+     "hi": "देवधूप (राल)"
+    },
+    {
+     "sa": "खपुराः",
+     "iast": "khapurāḥ",
+     "en": "khapura (identity debated)",
+     "hi": "खपुर"
+    },
+    {
+     "sa": "पुन्नाग",
+     "iast": "punnāga",
+     "en": "Calophyllum inophyllum",
+     "hi": "पुन्नाग"
+    },
+    {
+     "sa": "नागाह्वयम्",
+     "iast": "nāgāhvayam",
+     "en": "nāgakesara",
+     "hi": "नागकेसर"
+    }
+   ],
+   "english": "The two cardamoms, turuṣka (storax), kuṣṭha, phalinī (priyaṅgu), māṃsī, jala (hrībera), dhyāmaka, spṛkkā, coraka, coca (cinnamon), pattra (tejpatra), tagara, sthauṇeya, jātīrasa, śukti, vyāghranakha, amarāhva (devadāru), aguru, śrīvāsaka, kuṅkuma (saffron), caṇḍā, guggulu, devadhūpa, khapura, punnāga and nāgāhva (nāgakesara) (form the elādi group).",
+   "hindi": "दोनों इलायची, सिल्हक, कूठ, प्रियंगु, जटामांसी, सुगंधबाला, रोहिष घास, स्पृक्का, चोरक, दालचीनी, तेजपात, तगर, स्थौणेय, जातीरस, शुक्ति, नख, देवदारु, अगुरु, गंधाबिरोजा, केसर, चण्डा, गुग्गुलु, राल, खपुर, पुन्नाग और नागकेसर (एलादि गण बनाते हैं)।",
+   "explanation_en": "The elādi gaṇa is the aromatic group, consisting of perfumes, resins and fragrant woods; it is written in a long metre (four quarters 43a-d in the file). Several identifications (spṛkkā, sthauṇeya, caṇḍā, khapura) are debated. The file records variant readings in quarters b and c.",
+   "explanation_hi": "एलादि गण सुगंधित द्रव्यों का गण है, जिसमें इत्र, राल और सुगंधित लकड़ियाँ हैं; यह लंबे छंद में लिखा है (फ़ाइल में चार चरण 43a-d)। कई द्रव्यों (स्पृक्का, स्थौणेय, चण्डा, खपुर) की पहचान पर मतभेद है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "elādi gaṇa",
+    "sugandha dravya",
+    "aguru",
+    "kuṅkuma"
+   ],
+   "tags": [
+    "gana",
+    "dravya",
+    "aromatic"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.15.44",
+   "word_meanings": [
+    {
+     "sa": "एला-आदिकः",
+     "iast": "elā-ādikaḥ",
+     "en": "the elādi group",
+     "hi": "एलादि गण"
+    },
+    {
+     "sa": "वात-कफौ विषम् च",
+     "iast": "vāta-kaphau viṣam ca",
+     "en": "vāta, kapha and poison",
+     "hi": "वात, कफ और विष"
+    },
+    {
+     "sa": "विनियच्छति",
+     "iast": "viniyacchati",
+     "en": "controls",
+     "hi": "नियंत्रित करता है"
+    },
+    {
+     "sa": "वर्ण-प्रसादनः",
+     "iast": "varṇa-prasādanaḥ",
+     "en": "brightens the complexion",
+     "hi": "वर्ण को निखारने वाला"
+    },
+    {
+     "sa": "कण्डू-पिटिका-कोठ-नाशनः",
+     "iast": "kaṇḍū-piṭikā-koṭha-nāśanaḥ",
+     "en": "destroys itching, pimples and urticarial rashes",
+     "hi": "खुजली, फुंसी और कोठ (चकत्ते) का नाशक"
+    }
+   ],
+   "english": "The elādi group controls vāta, kapha and poison, brightens the complexion and destroys itching, pimples (piṭikā) and urticarial rashes (koṭha).",
+   "hindi": "एलादि गण वात, कफ और विष को नियंत्रित करता है, त्वचा का रंग निखारता है और खुजली, फुंसियों और कोठ (पित्ती जैसे चकत्ते) को नष्ट करता है।",
+   "explanation_en": "Because it is aromatic, the elādi group is used externally in pastes and oils for the skin, and in cosmetic preparations. The file records a variant 'varṇyaḥ prasādanaḥ'.",
+   "explanation_hi": "सुगंधित होने के कारण एलादि गण त्वचा के लिए लेप और तेलों में तथा सौंदर्य प्रसाधनों में बाहरी रूप से प्रयोग होता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "elādi gaṇa",
+    "varṇya",
+    "koṭha",
+    "kaṇḍū"
+   ],
+   "tags": [
+    "gana",
+    "skin",
+    "vata",
+    "kapha"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.15.45",
+   "word_meanings": [
+    {
+     "sa": "श्यामा",
+     "iast": "śyāmā",
+     "en": "black trivṛt",
+     "hi": "श्यामा (काली निशोथ)"
+    },
+    {
+     "sa": "दन्ती",
+     "iast": "dantī",
+     "en": "Baliospermum montanum",
+     "hi": "दन्ती"
+    },
+    {
+     "sa": "द्रवन्ती",
+     "iast": "dravantī",
+     "en": "dravantī (a dantī variety)",
+     "hi": "द्रवन्ती"
+    },
+    {
+     "sa": "क्रमुक",
+     "iast": "kramuka",
+     "en": "kramuka (identity debated here)",
+     "hi": "क्रमुक"
+    },
+    {
+     "sa": "कुटरणा",
+     "iast": "kuṭaraṇā",
+     "en": "kuṭaraṇā (a trivṛt variety, as commonly glossed)",
+     "hi": "कुटरणा"
+    },
+    {
+     "sa": "शङ्खिनी",
+     "iast": "śaṅkhinī",
+     "en": "śaṅkhinī",
+     "hi": "शंखिनी"
+    },
+    {
+     "sa": "चर्म-साह्वा",
+     "iast": "carma-sāhvā",
+     "en": "saptalā / carmakaṣā (identity debated)",
+     "hi": "चर्मसाह्वा"
+    },
+    {
+     "sa": "स्वर्णक्षीरी",
+     "iast": "svarṇakṣīrī",
+     "en": "svarṇakṣīrī",
+     "hi": "स्वर्णक्षीरी"
+    },
+    {
+     "sa": "गवाक्षी",
+     "iast": "gavākṣī",
+     "en": "gavākṣī",
+     "hi": "गवाक्षी"
+    },
+    {
+     "sa": "शिखरि",
+     "iast": "śikhari",
+     "en": "apāmārga",
+     "hi": "शिखरी (अपामार्ग)"
+    },
+    {
+     "sa": "रजनक",
+     "iast": "rajanaka",
+     "en": "kampillaka (as commonly glossed)",
+     "hi": "रजनक"
+    },
+    {
+     "sa": "छिन्नरोहा",
+     "iast": "chinnarohā",
+     "en": "guḍūcī",
+     "hi": "छिन्नरुहा (गिलोय)"
+    },
+    {
+     "sa": "करञ्जाः",
+     "iast": "karañjāḥ",
+     "en": "karañja",
+     "hi": "करंज"
+    },
+    {
+     "sa": "बस्तान्त्री",
+     "iast": "bastāntrī",
+     "en": "bastāntrī (identity debated)",
+     "hi": "बस्तान्त्री"
+    },
+    {
+     "sa": "व्याधिघातः",
+     "iast": "vyādhighātaḥ",
+     "en": "āragvadha",
+     "hi": "व्याधिघात (अमलतास)"
+    },
+    {
+     "sa": "बहल",
+     "iast": "bahala",
+     "en": "bahala (identity debated)",
+     "hi": "बहल"
+    },
+    {
+     "sa": "बहु-रसः",
+     "iast": "bahu-rasaḥ",
+     "en": "bahurasa (often taken as sugarcane)",
+     "hi": "बहुरस"
+    },
+    {
+     "sa": "तीक्ष्णवृक्षात् फलानि",
+     "iast": "tīkṣṇavṛkṣāt phalāni",
+     "en": "fruits of tīkṣṇavṛkṣa (pīlu, Salvadora persica)",
+     "hi": "तीक्ष्णवृक्ष (पीलु) के फल"
+    },
+    {
+     "sa": "श्यामा-आद्यः",
+     "iast": "śyāmā-ādyaḥ",
+     "en": "the śyāmādi group",
+     "hi": "श्यामादि गण"
+    },
+    {
+     "sa": "हन्ति गुल्मम्",
+     "iast": "hanti gulmam",
+     "en": "destroys gulma",
+     "hi": "गुल्म को नष्ट करता है"
+    },
+    {
+     "sa": "विषम् अरुचि-कफौ",
+     "iast": "viṣam aruci-kaphau",
+     "en": "poison, anorexia and kapha",
+     "hi": "विष, अरुचि और कफ"
+    },
+    {
+     "sa": "हृत्-रुजम्",
+     "iast": "hṛt-rujam",
+     "en": "heart pain",
+     "hi": "हृदय की पीड़ा"
+    },
+    {
+     "sa": "मूत्र-कृच्छ्रम्",
+     "iast": "mūtra-kṛcchram",
+     "en": "dysuria",
+     "hi": "मूत्रकृच्छ्र"
+    }
+   ],
+   "english": "Śyāmā, dantī, dravantī, kramuka, kuṭaraṇā, śaṅkhinī, carmasāhvā, svarṇakṣīrī, gavākṣī, śikharī (apāmārga), rajanaka, chinnaruhā (guḍūcī), karañja, bastāntrī, vyādhighāta (āragvadha), bahala, bahurasa and the fruits of tīkṣṇavṛkṣa (pīlu): the śyāmādi group destroys gulma, poison, anorexia, kapha, heart pain and dysuria.",
+   "hindi": "काली निशोथ, दन्ती, द्रवन्ती, क्रमुक, कुटरणा, शंखिनी, चर्मसाह्वा, स्वर्णक्षीरी, गवाक्षी, अपामार्ग, रजनक, गिलोय, करंज, बस्तान्त्री, अमलतास, बहल, बहुरस और पीलु के फल: यह श्यामादि गण गुल्म, विष, अरुचि, कफ, हृदय की पीड़ा और मूत्रकृच्छ्र को नष्ट करता है।",
+   "explanation_en": "The śyāmādi gaṇa is largely a purgative group (trivṛt, dantī, āragvadha, svarṇakṣīrī), which explains its use in gulma. It is the last named group of the chapter. The file records variant spellings (kuṭaraṇī, bahula).",
+   "explanation_hi": "श्यामादि गण मुख्यतः विरेचक गण है (निशोथ, दन्ती, अमलतास, स्वर्णक्षीरी), इसीलिए गुल्म में उपयोगी है। यह अध्याय का अंतिम नामित गण है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "śyāmādi gaṇa",
+    "trivṛt",
+    "dantī",
+    "gulma"
+   ],
+   "tags": [
+    "gana",
+    "virechana",
+    "gulma"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.15.46",
+   "word_meanings": [
+    {
+     "sa": "त्रयः-त्रिंशत्",
+     "iast": "trayaḥ-triṃśat",
+     "en": "thirty-three",
+     "hi": "तैंतीस"
+    },
+    {
+     "sa": "इति प्रोक्ताः वर्गाः",
+     "iast": "iti proktāḥ vargāḥ",
+     "en": "thus the groups have been described",
+     "hi": "इस प्रकार वर्ग (गण) कहे गए"
+    },
+    {
+     "sa": "तेषु तु अलाभतः",
+     "iast": "teṣu tu alābhataḥ",
+     "en": "but if (a drug) among them is unavailable",
+     "hi": "पर उनमें से (कोई द्रव्य) न मिले तो"
+    },
+    {
+     "sa": "युञ्ज्यात् तत्-विधम् अन्यत् च द्रव्यम्",
+     "iast": "yuñjyāt tat-vidham anyat ca dravyam",
+     "en": "one should use another drug of similar kind",
+     "hi": "उसी प्रकार का दूसरा द्रव्य प्रयोग करे"
+    },
+    {
+     "sa": "जह्यात् अयौगिकम्",
+     "iast": "jahyāt ayaugikam",
+     "en": "should leave out one that is unsuitable",
+     "hi": "अनुपयुक्त (द्रव्य) को छोड़ दे"
+    }
+   ],
+   "english": "Thus thirty-three groups have been described. If any drug among them is not available, one should use another drug of similar properties, and should leave out any drug that is unsuitable (for the case).",
+   "hindi": "इस प्रकार तैंतीस वर्ग (गण) बताए गए। यदि इनमें से कोई द्रव्य न मिले तो उसी प्रकार के गुण वाला दूसरा द्रव्य प्रयोग करें, और जो द्रव्य (उस रोग के लिए) अनुपयुक्त हो उसे छोड़ दें।",
+   "explanation_en": "Two points are commonly asked: AH describes 33 gaṇas in this chapter, and the principle of pratinidhi dravya (substitution of unavailable drugs with similar ones) is stated here. Equally important is the instruction to omit an unsuitable drug from a group, showing that gaṇas are flexible, not rigid formulas.",
+   "explanation_hi": "दो बातें अक्सर पूछी जाती हैं: इस अध्याय में अष्टांगहृदय 33 गण बताता है, और यहाँ प्रतिनिधि द्रव्य (न मिलने वाले द्रव्य के स्थान पर समान द्रव्य) का सिद्धांत दिया गया है। उतना ही महत्वपूर्ण यह निर्देश है कि अनुपयुक्त द्रव्य को गण से हटा दें, अर्थात् गण कठोर नुस्ख़े नहीं, लचीले समूह हैं।",
+   "modern_correlation": {
+    "en": "The principle of substituting an unavailable drug with one of similar action broadly parallels the modern idea of therapeutic substitution within a drug class; the classical basis is similarity of guṇa and karma.",
+    "hi": "न मिलने वाली औषधि के स्थान पर समान कर्म वाली औषधि देने का सिद्धांत मोटे तौर पर आधुनिक 'एक ही वर्ग की दवाओं में चिकित्सीय प्रतिस्थापन' से मिलता है; शास्त्रीय आधार गुण और कर्म की समानता है।"
+   },
+   "key_terms": [
+    "gaṇa",
+    "pratinidhi dravya",
+    "ayaugika"
+   ],
+   "tags": [
+    "gana",
+    "pratinidhi",
+    "enumeration"
+   ],
+   "importance": "high",
+   "mnemonic": "33 gaṇas in AH Sū 15; missing drug? use a pratinidhi.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.15.47",
+   "word_meanings": [
+    {
+     "sa": "एते वर्गाः",
+     "iast": "ete vargāḥ",
+     "en": "these groups",
+     "hi": "ये वर्ग"
+    },
+    {
+     "sa": "दोष-दूष्य-आदि अपेक्ष्य",
+     "iast": "doṣa-dūṣya-ādi apekṣya",
+     "en": "considering doṣa, dūṣya etc.",
+     "hi": "दोष, दूष्य आदि का विचार करके"
+    },
+    {
+     "sa": "कल्क-क्वाथ-स्नेह-लेह-आदि-युक्ताः",
+     "iast": "kalka-kvātha-sneha-leha-ādi-yuktāḥ",
+     "en": "prepared as paste, decoction, medicated fat, linctus etc.",
+     "hi": "कल्क, क्वाथ, स्नेह, लेह आदि रूप में बनाकर"
+    },
+    {
+     "sa": "पाने",
+     "iast": "pāne",
+     "en": "in drinks",
+     "hi": "पीने में"
+    },
+    {
+     "sa": "नस्ये",
+     "iast": "nasye",
+     "en": "in nasal administration",
+     "hi": "नस्य में"
+    },
+    {
+     "sa": "अन्वासने",
+     "iast": "anvāsane",
+     "en": "in unctuous enema",
+     "hi": "अनुवासन में"
+    },
+    {
+     "sa": "अन्तः बहिः वा",
+     "iast": "antaḥ bahiḥ vā",
+     "en": "internally or externally",
+     "hi": "भीतर या बाहर"
+    },
+    {
+     "sa": "लेप-अभ्यङ्गैः",
+     "iast": "lepa-abhyaṅgaiḥ",
+     "en": "by pastes and oil massage",
+     "hi": "लेप और अभ्यंग से"
+    },
+    {
+     "sa": "घ्नन्ति रोगान् सुकृच्छ्रान्",
+     "iast": "ghnanti rogān sukṛcchrān",
+     "en": "destroy very difficult diseases",
+     "hi": "अत्यंत कठिन रोगों को नष्ट करते हैं"
+    }
+   ],
+   "english": "These groups, used after considering the doṣa, dūṣya and other factors, and prepared as paste (kalka), decoction (kvātha), medicated fat (sneha), linctus (leha) and so on, given as drinks, nasal drops (nasya) or unctuous enema (anuvāsana), internally or externally as pastes (lepa) and oil massage (abhyaṅga), destroy even very difficult diseases.",
+   "hindi": "ये वर्ग दोष, दूष्य आदि का विचार करके, कल्क, क्वाथ, स्नेह, लेह आदि रूपों में बनाकर, पीने, नस्य या अनुवासन बस्ति में, भीतर या बाहर लेप और अभ्यंग के रूप में प्रयोग करने पर अत्यंत कठिन रोगों को भी नष्ट करते हैं।",
+   "explanation_en": "The chapter closes by explaining how gaṇas are actually used: the physician selects a group by doṣa and dūṣya and converts it into suitable dosage forms (kalpanā) for different routes. This connects the gaṇa lists to practical pharmaceutics (bhaiṣajya kalpanā). The file records variants 'sekālepair' and 'svedābhyaṅgair' in the last quarter.",
+   "explanation_hi": "अध्याय यह बताकर समाप्त होता है कि गणों का वास्तविक प्रयोग कैसे करें: वैद्य दोष और दूष्य के अनुसार गण चुनता है और उसे विभिन्न मार्गों के लिए उपयुक्त कल्पना (औषधि रूप) में बदलता है। इससे गण सूचियाँ भैषज्य कल्पना से जुड़ती हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "gaṇa",
+    "kalpanā",
+    "kalka",
+    "kvātha",
+    "sneha",
+    "leha",
+    "doṣa-dūṣya"
+   ],
+   "tags": [
+    "gana",
+    "bhaishajya-kalpana"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  }
+ ]
+}

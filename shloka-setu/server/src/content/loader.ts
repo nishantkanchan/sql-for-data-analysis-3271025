@@ -196,7 +196,9 @@ export function loadContent(paths: ContentPaths, log?: Logger): Content {
     log?.warn("content_file_skipped", { file, reason });
   };
 
-  // 1. Corpus
+  // 1. Corpus. When two files cover the same text code (e.g. charaka_selected.json and the later,
+  // complete charaka_samhita.json), only the largest one is used: mixing them would mix numbering schemes.
+  const parsedCorpus: { file: string; code: string; meta: ReturnType<typeof CorpusMetaSchema.parse>; verses: CorpusVerse[]; invalid: number }[] = [];
   for (const file of listJsonFiles(paths.corpusDir, false)) {
     const r = readJson(file);
     if (!r.ok) {
@@ -208,22 +210,35 @@ export function loadContent(paths: ContentPaths, log?: Logger): Content {
       skip(file, "no `verses` array");
       continue;
     }
-    content.stats.corpus_files++;
-    const meta = CorpusMetaSchema.parse(data.meta ?? {});
-    let bad = 0;
-    let dup = 0;
+    const verses: CorpusVerse[] = [];
+    let invalid = 0;
     for (const raw of data.verses) {
       const p = CorpusVerseSchema.safeParse(raw);
-      if (!p.success) {
-        bad++;
-        continue;
-      }
-      if (!content.addVerse(p.data)) dup++;
-      else if (!content.textTitles.has(textCode(p.data.id)) && meta.title) {
-        content.textTitles.set(textCode(p.data.id), meta.title);
-      }
+      if (p.success) verses.push(p.data);
+      else invalid++;
     }
-    if (bad || dup) log?.warn("corpus_records_skipped", { file, invalid: bad, duplicate_ids: dup });
+    if (verses.length === 0) {
+      skip(file, "no valid verses");
+      continue;
+    }
+    parsedCorpus.push({ file, code: textCode(verses[0]!.id), meta: CorpusMetaSchema.parse(data.meta ?? {}), verses, invalid });
+  }
+  const bestByCode = new Map<string, (typeof parsedCorpus)[number]>();
+  for (const pc of parsedCorpus) {
+    const cur = bestByCode.get(pc.code);
+    if (!cur || pc.verses.length > cur.verses.length) bestByCode.set(pc.code, pc);
+  }
+  for (const pc of parsedCorpus) {
+    const best = bestByCode.get(pc.code)!;
+    if (best !== pc) {
+      skip(pc.file, `superseded by ${path.basename(best.file)} (same text ${pc.code}, more verses)`);
+      continue;
+    }
+    content.stats.corpus_files++;
+    if (pc.meta.title) content.textTitles.set(pc.code, pc.meta.title);
+    let dup = 0;
+    for (const v of pc.verses) if (!content.addVerse(v)) dup++;
+    if (pc.invalid || dup) log?.warn("corpus_records_skipped", { file: pc.file, invalid: pc.invalid, duplicate_ids: dup });
   }
 
   // 2. Translations: translations/<TEXT>/<sthana>/<chapter>.json

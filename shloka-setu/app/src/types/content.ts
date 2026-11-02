@@ -41,6 +41,11 @@ export interface CorpusVerse {
   iast: string;
   devanagari: string;
   variants?: { pada: string; reading: string }[];
+  /** Traditional display reference, e.g. "Ca. Ci. 1.2.41". Prefer it over the id when shown. */
+  ref?: string;
+  source?: string;
+  pada?: number;
+  verse_in_pada?: number;
 }
 
 export interface CorpusFile {
@@ -250,6 +255,7 @@ export interface BundleVerse extends Partial<Omit<TranslationVerse, 'id'>> {
   verse: number;
   devanagari: string;
   iast: string;
+  ref?: string;
 }
 
 export interface BundleChapter {
@@ -260,6 +266,19 @@ export interface BundleChapter {
   translated: boolean;
   meta: TranslationChapterMeta | null;
   verses: BundleVerse[];
+}
+
+/** On-disk chapter file: translated chapters carry `verses`, untranslated ones only `compact` [verse, devanagari] tuples. */
+export interface BundleChapterFile {
+  id: string;
+  text: TextCode;
+  sthana: string;
+  chapter: number;
+  translated: boolean;
+  meta: TranslationChapterMeta | null;
+  verses?: BundleVerse[];
+  /** [verse, devanagari, ref?] */
+  compact?: ([number, string] | [number, string, string])[];
 }
 
 export interface BundleChapterSummary {

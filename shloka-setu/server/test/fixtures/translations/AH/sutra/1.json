@@ -1,0 +1,87 @@
+{
+ "chapter": {
+  "id": "AH.sutra.1",
+  "text": "ashtanga_hridaya",
+  "sthana": "sutra",
+  "chapter": 1,
+  "title_iast": "Āyuṣkāmīya Adhyāya",
+  "title_devanagari": "आयुष्कामीयोऽध्यायः",
+  "title_en": "The chapter on the desire for long life",
+  "title_hi": "आयुष्कामीय अध्याय",
+  "summary_en": "Test fixture summary.",
+  "summary_hi": "परीक्षण सारांश।",
+  "key_concepts": [
+   "tridoṣa"
+  ],
+  "exam_focus_en": [
+   "The eight branches"
+  ],
+  "exam_focus_hi": [
+   "आठ अंग"
+  ],
+  "syllabus_refs": [],
+  "review_status": "ai_draft"
+ },
+ "verses": [
+  {
+   "id": "AH.sutra.1.6",
+   "anvaya": "tasya aṣṭau aṅgāni āhuḥ ...",
+   "word_meanings": [
+    {
+     "sa": "अष्टौ",
+     "iast": "aṣṭau",
+     "en": "eight",
+     "hi": "आठ"
+    },
+    {
+     "sa": "अङ्गानि",
+     "iast": "aṅgāni",
+     "en": "branches",
+     "hi": "अंग"
+    },
+    {
+     "sa": "दोषाः",
+     "iast": "doṣāḥ",
+     "en": "doṣas",
+     "hi": "दोष"
+    }
+   ],
+   "english": "These are said to be its eight branches, on which treatment rests. Vāyu, Pitta and Kapha are, in brief, the three doṣas.",
+   "hindi": "इन्हें आयुर्वेद के आठ अंग कहा गया है जिन पर चिकित्सा आधारित है। संक्षेप में वायु, पित्त और कफ तीन दोष हैं।",
+   "explanation_en": "Fixture explanation: introduces the tridoṣa.",
+   "explanation_hi": "परीक्षण व्याख्या।",
+   "modern_correlation": {
+    "en": "Often compared to regulatory systems.",
+    "hi": "नियामक तंत्रों से तुलना।"
+   },
+   "key_terms": [
+    "doṣa",
+    "vāta",
+    "pitta",
+    "kapha"
+   ],
+   "tags": [
+    "tridosha",
+    "definitions"
+   ],
+   "importance": "high",
+   "mnemonic": "8 branches, 3 doshas",
+   "review_status": "expert_reviewed"
+  },
+  {
+   "id": "AH.sutra.1.7",
+   "english": "",
+   "hindi": "",
+   "word_meanings": []
+  },
+  {
+   "id": "AH.sutra.99.99",
+   "english": "verse that does not exist in the corpus"
+  },
+  "garbage record",
+  {
+   "id": "AH.sutra.1.8",
+   "english": "Partial record: only an English translation so far."
+  }
+ ]
+}

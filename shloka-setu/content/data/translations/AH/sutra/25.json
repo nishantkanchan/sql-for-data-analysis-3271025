@@ -1,0 +1,3334 @@
+{
+ "chapter": {
+  "id": "AH.sutra.25",
+  "text": "ashtanga_hridaya",
+  "sthana": "sutra",
+  "chapter": 25,
+  "title_iast": "Yantravidhi Adhyāya",
+  "title_devanagari": "यन्त्रविधिरध्यायः",
+  "title_en": "The chapter on blunt surgical instruments (yantra)",
+  "title_hi": "यन्त्रविधि अध्याय (यन्त्रों का वर्णन)",
+  "summary_en": "This chapter defines yantra as any blunt device used to extract foreign bodies (śalya), to inspect diseased parts, to assist in applying śastra, kṣāra and agni, to protect healthy tissue, and to deliver procedures like vasti. Vāgbhaṭa stresses that instruments are countless and that the physician should design them by intelligence, but describes the main groups in outline: svastika yantras (cross-shaped, 18 aṅgula, named after animal mouths such as kaṅka and siṃha) for bone-embedded objects; saṃdaṃśa (tongs, 16 and 6 aṅgula) and mucuṇḍī for soft tissue, cilia and pterygium remnants; tāla yantras (12 aṅgula) for the ear and sinuses; nāḍī yantras (hollow tubes) including the arśo-yantra (proctoscope-like), aṅgulītrāṇaka, the four-bladed yonivraṇekṣaṇa (speculum-like), wound-irrigation tubes, the udakodara tube, and the suction devices śṛṅga, alābu and ghaṭī; śalākā yantras such as eṣaṇī (probe), śaṅku, garbhaśaṅku, aśmaryāharaṇa, dantapātana, cotton-tipped rods, karṇaśodhana and kṣāra/agni rods; and finally anuyantras like the magnet, hands, teeth, time and suppuration. Instrument names, sizes and uses are among the most frequently examined topics of Śalya in the Sūtrasthāna.",
+  "summary_hi": "यह अध्याय यन्त्र की परिभाषा देता है: हर वह कुंद साधन जो शल्य निकालने, रोगग्रस्त अंग देखने, शस्त्र-क्षार-अग्नि के प्रयोग में मदद करने, स्वस्थ ऊतक की रक्षा करने और वस्ति जैसी क्रियाओं में काम आता है। वाग्भट कहते हैं कि यन्त्र अनगिनत हैं और वैद्य को बुद्धि से उन्हें बनाना चाहिए, फिर भी मुख्य वर्ग बताते हैं: स्वस्तिक यन्त्र (क्रॉस आकार, 18 अंगुल, कंक-सिंह आदि के मुख वाले) हड्डी में फँसे शल्य के लिए; संदंश (16 और 6 अंगुल) और मुचुण्डी कोमल ऊतक, उपपक्ष्म और अर्म के लिए; ताल यन्त्र (12 अंगुल) कान और नाड़ी के लिए; नाड़ी यन्त्र (खोखली नलियाँ), जिनमें अर्शोयन्त्र (प्रॉक्टोस्कोप जैसा), अंगुलीत्राणक, चार पत्तियों वाला योनिव्रणेक्षण (स्पेकुलम जैसा), व्रण धोने की नली, जलोदर की नली और चूषण यन्त्र शृङ्ग, अलाबु, घटी हैं; शलाका यन्त्र जैसे एषणी (प्रोब), शङ्कु, गर्भशङ्कु, अश्मर्याहरण, दन्तपातन, रुई वाली शलाकाएँ, कर्णशोधन और क्षार/अग्नि शलाकाएँ; और अन्त में अनुयन्त्र जैसे चुम्बक, हाथ, दाँत, काल और पाक। यन्त्रों के नाम, माप और उपयोग सूत्रस्थान के शल्य भाग के सबसे अधिक पूछे जाने वाले विषय हैं।",
+  "key_concepts": [
+   "yantra",
+   "svastika-yantra",
+   "saṃdaṃśa-yantra",
+   "tāla-yantra",
+   "nāḍī-yantra",
+   "śalākā-yantra",
+   "anuyantra",
+   "arśo-yantra",
+   "śṛṅga",
+   "alābu",
+   "ghaṭī",
+   "eṣaṇī"
+  ],
+  "exam_focus_en": [
+   "Definition of yantra and its functions (śalya-āharaṇa, darśana, assisting śastra/kṣāra/agni, śeṣāṅga-parirakṣā, vasti etc.).",
+   "Classification with lengths: svastika 18 aṅgula, saṃdaṃśa 16 and 6 aṅgula, tāla 12 aṅgula, nāḍī as per srotas, śalākā as per use.",
+   "Arśo-yantra: gostana shape, 4 aṅgula long, circumference 5 (men) / 6 (women) aṅgula, two holes for darśana and one for karma; śamī and bhagandara variants.",
+   "Suction devices śṛṅga, alābu and ghaṭī with their dimensions and doṣa-wise use.",
+   "Important śalākā yantras: eṣaṇī, śaṅku, garbhaśaṅku, aśmaryāharaṇa, dantapātana, karṇaśodhana; and the yonivraṇekṣaṇa yantra.",
+   "Anuyantras, especially ayaskānta (magnet), kāla and pāka."
+  ],
+  "exam_focus_hi": [
+   "यन्त्र की परिभाषा और कार्य (शल्य-आहरण, दर्शन, शस्त्र/क्षार/अग्नि में सहायता, शेषाङ्ग-परिरक्षा, वस्ति आदि)।",
+   "लम्बाई सहित वर्गीकरण: स्वस्तिक 18 अंगुल, संदंश 16 और 6 अंगुल, ताल 12 अंगुल, नाड़ी स्रोत के अनुसार, शलाका उपयोग के अनुसार।",
+   "अर्शोयन्त्र: गोस्तन आकार, 4 अंगुल लम्बा, परिधि 5 (पुरुष) / 6 (स्त्री) अंगुल, दर्शन के लिए दो छेद और कर्म के लिए एक; शमी और भगन्दर यन्त्र।",
+   "चूषण यन्त्र शृङ्ग, अलाबु और घटी: उनके माप और दोष के अनुसार प्रयोग।",
+   "महत्वपूर्ण शलाका यन्त्र: एषणी, शङ्कु, गर्भशङ्कु, अश्मर्याहरण, दन्तपातन, कर्णशोधन; और योनिव्रणेक्षण यन्त्र।",
+   "अनुयन्त्र, विशेषकर अयस्कान्त (चुम्बक), काल और पाक।"
+  ],
+  "syllabus_refs": [
+   "AyUG-SA1"
+  ],
+  "review_status": "ai_draft"
+ },
+ "verses": [
+  {
+   "id": "AH.sutra.25.1",
+   "word_meanings": [
+    {
+     "sa": "नानाविधानाम्",
+     "iast": "nānā-vidhānām",
+     "en": "of various kinds",
+     "hi": "अनेक प्रकार के"
+    },
+    {
+     "sa": "शल्यानाम्",
+     "iast": "śalyānām",
+     "en": "of foreign bodies (śalya)",
+     "hi": "शल्यों (बाहरी पदार्थ) का"
+    },
+    {
+     "sa": "नानादेशप्रबोधिनाम्",
+     "iast": "nānā-deśa-prabodhinām",
+     "en": "lodged in various places",
+     "hi": "अलग-अलग स्थानों में स्थित"
+    },
+    {
+     "sa": "आहर्तुम्",
+     "iast": "āhartum",
+     "en": "to extract",
+     "hi": "निकालने के लिए"
+    },
+    {
+     "sa": "अभ्युपायः",
+     "iast": "abhyupāyaḥ",
+     "en": "means, device",
+     "hi": "उपाय/साधन"
+    },
+    {
+     "sa": "यः",
+     "iast": "yaḥ",
+     "en": "which",
+     "hi": "जो"
+    },
+    {
+     "sa": "तत्",
+     "iast": "tat",
+     "en": "that",
+     "hi": "वह"
+    },
+    {
+     "sa": "यन्त्रम्",
+     "iast": "yantram",
+     "en": "a blunt instrument (yantra)",
+     "hi": "यन्त्र"
+    },
+    {
+     "sa": "यत्",
+     "iast": "yat",
+     "en": "that which",
+     "hi": "जो"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "also",
+     "hi": "भी"
+    },
+    {
+     "sa": "दर्शने",
+     "iast": "darśane",
+     "en": "for inspection",
+     "hi": "देखने (परीक्षण) के लिए"
+    }
+   ],
+   "english": "The device that serves to extract foreign bodies (śalya) of many kinds, lodged in various parts of the body, is called yantra (blunt instrument); so also is the device used for inspection (darśana)",
+   "hindi": "अनेक प्रकार के शल्यों (शरीर में घुसे बाहरी पदार्थ), जो शरीर के विभिन्न स्थानों में फँसे हों, को निकालने का जो साधन है, वह यन्त्र कहलाता है; और जो साधन (अंगों को) देखने में काम आता है, वह भी यन्त्र है,",
+   "explanation_en": "This is the definition of yantra, a classic exam question. Yantras are blunt instruments, as opposed to śastras (sharp instruments) of the next chapter. Their two main uses are extraction of śalya and inspection (darśana); verse 2 adds more uses.",
+   "explanation_hi": "यह यन्त्र की परिभाषा है, जो परीक्षा का प्रसिद्ध प्रश्न है। यन्त्र कुंद (बिना धार के) उपकरण हैं, जबकि अगले अध्याय के शस्त्र धारदार होते हैं। इनके दो मुख्य उपयोग हैं: शल्य निकालना और देखना (परीक्षण); श्लोक 2 में और उपयोग जोड़े गए हैं।",
+   "modern_correlation": {
+    "en": "Yantras broadly correspond to the blunt instruments of modern surgery, such as forceps, specula, retractors, probes and cannulas, which grasp, hold, open or allow inspection rather than cut.",
+    "hi": "यन्त्रों की तुलना आधुनिक शल्य-चिकित्सा के कुंद उपकरणों से की जाती है, जैसे फोरसेप्स, स्पेकुलम, रिट्रैक्टर, प्रोब और कैनुला, जो काटते नहीं बल्कि पकड़ते, खोलते या देखने में मदद करते हैं।"
+   },
+   "key_terms": [
+    "yantra",
+    "śalya",
+    "darśana"
+   ],
+   "tags": [
+    "yantra",
+    "surgical-instruments",
+    "definitions"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.25.2",
+   "word_meanings": [
+    {
+     "sa": "अर्शः",
+     "iast": "arśaḥ",
+     "en": "haemorrhoids",
+     "hi": "अर्श (बवासीर)"
+    },
+    {
+     "sa": "भगन्दर",
+     "iast": "bhagandara",
+     "en": "fistula-in-ano",
+     "hi": "भगन्दर"
+    },
+    {
+     "sa": "आदीनाम्",
+     "iast": "ādīnām",
+     "en": "and others",
+     "hi": "आदि का"
+    },
+    {
+     "sa": "शस्त्र",
+     "iast": "śastra",
+     "en": "sharp instrument",
+     "hi": "शस्त्र"
+    },
+    {
+     "sa": "क्षार",
+     "iast": "kṣāra",
+     "en": "caustic alkali",
+     "hi": "क्षार"
+    },
+    {
+     "sa": "अग्नि",
+     "iast": "agni",
+     "en": "cautery",
+     "hi": "अग्निकर्म"
+    },
+    {
+     "sa": "योजने",
+     "iast": "yojane",
+     "en": "in applying",
+     "hi": "प्रयोग में"
+    },
+    {
+     "sa": "शेषाङ्गपरिरक्षायाम्",
+     "iast": "śeṣāṅga-parirakṣāyām",
+     "en": "in protecting the remaining (healthy) parts",
+     "hi": "बाकी (स्वस्थ) अंगों की रक्षा में"
+    },
+    {
+     "sa": "तथा",
+     "iast": "tathā",
+     "en": "likewise",
+     "hi": "तथा"
+    },
+    {
+     "sa": "वस्त्यादिकर्मणि",
+     "iast": "vasty-ādi-karmaṇi",
+     "en": "in vasti and other procedures",
+     "hi": "वस्ति आदि कर्मों में"
+    }
+   ],
+   "english": "of haemorrhoids, fistula and the like; [and the device used] in applying sharp instruments, caustic alkali (kṣāra) and cautery (agni), in protecting the remaining healthy parts, and likewise in vasti (enema) and other procedures.",
+   "hindi": "जैसे अर्श, भगन्दर आदि को देखने के लिए; तथा शस्त्र, क्षार और अग्निकर्म के प्रयोग में, बाकी स्वस्थ अंगों की रक्षा में, और वस्ति आदि कर्मों में जो साधन काम आता है (वह भी यन्त्र है)।",
+   "explanation_en": "The definition is completed: yantras also help apply śastra, kṣāra and agni, shield healthy tissue (for example during kṣāra application in piles), and deliver therapies like vasti. So a yantra is any instrument that assists, not only one that extracts.",
+   "explanation_hi": "परिभाषा पूरी होती है: यन्त्र शस्त्र, क्षार और अग्नि के प्रयोग में मदद करते हैं, स्वस्थ ऊतक की रक्षा करते हैं (जैसे अर्श में क्षार लगाते समय), और वस्ति जैसी चिकित्सा देने में काम आते हैं। अर्थात् यन्त्र हर सहायक उपकरण है, केवल निकालने वाला नहीं।",
+   "modern_correlation": {
+    "en": "Using an instrument to shield surrounding healthy tissue during caustic or thermal treatment broadly parallels the modern use of protective retractors, guards and specula during cautery.",
+    "hi": "क्षार या अग्नि के समय आसपास के स्वस्थ ऊतक को उपकरण से बचाना, आधुनिक कॉटरी के दौरान सुरक्षा देने वाले रिट्रैक्टर, गार्ड और स्पेकुलम के प्रयोग से मिलता है।"
+   },
+   "key_terms": [
+    "yantra",
+    "arśas",
+    "bhagandara",
+    "kṣāra",
+    "agnikarma",
+    "vasti"
+   ],
+   "tags": [
+    "yantra",
+    "surgical-instruments",
+    "definitions"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.25.3",
+   "word_meanings": [
+    {
+     "sa": "घटिका",
+     "iast": "ghaṭikā",
+     "en": "cupping pot",
+     "hi": "घटिका (घड़ा)"
+    },
+    {
+     "sa": "अलाबु",
+     "iast": "alābu",
+     "en": "bottle gourd",
+     "hi": "अलाबु (तुम्बी)"
+    },
+    {
+     "sa": "शृङ्गम्",
+     "iast": "śṛṅgam",
+     "en": "horn",
+     "hi": "शृङ्ग (सींग)"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "जाम्बवौष्ठ",
+     "iast": "jāmbavauṣṭha",
+     "en": "rod with a jamun-fruit-shaped tip",
+     "hi": "जामुन के आकार के सिरे वाली शलाका"
+    },
+    {
+     "sa": "आदिकानि",
+     "iast": "ādikāni",
+     "en": "and the like",
+     "hi": "आदि"
+    },
+    {
+     "sa": "अनेकरूप",
+     "iast": "aneka-rūpa",
+     "en": "of many shapes",
+     "hi": "अनेक आकार के"
+    },
+    {
+     "sa": "कार्याणि",
+     "iast": "kāryāṇi",
+     "en": "and functions",
+     "hi": "और कार्यों वाले"
+    },
+    {
+     "sa": "यन्त्राणि",
+     "iast": "yantrāṇi",
+     "en": "instruments",
+     "hi": "यन्त्र"
+    },
+    {
+     "sa": "विविधानि",
+     "iast": "vividhāni",
+     "en": "various",
+     "hi": "विविध"
+    },
+    {
+     "sa": "अतः",
+     "iast": "ataḥ",
+     "en": "therefore",
+     "hi": "इसलिए"
+    }
+   ],
+   "english": "The cupping pot (ghaṭikā), gourd (alābu), horn (śṛṅga), the jāmbavauṣṭha (rod with a jamun-shaped tip) and others: yantras are of many shapes and functions, and so they are various.",
+   "hindi": "घटिका (घड़ा), अलाबु (तुम्बी), शृङ्ग (सींग), जाम्बवौष्ठ (जामुन के आकार के सिरे वाली शलाका) आदि: यन्त्र अनेक आकार और कार्य वाले होते हैं, इसलिए वे विविध हैं।",
+   "explanation_en": "Vāgbhaṭa admits that yantras cannot be strictly counted because their forms and uses are so many. Unlike Suśruta, who gives the number 101, Vāgbhaṭa emphasises flexibility. Note the examples: suction devices (ghaṭikā, alābu, śṛṅga) and the jāmbavauṣṭha used for cautery.",
+   "explanation_hi": "वाग्भट मानते हैं कि यन्त्रों को सख्ती से गिना नहीं जा सकता, क्योंकि उनके रूप और उपयोग बहुत हैं। सुश्रुत 101 यन्त्र बताते हैं, जबकि वाग्भट लचीलेपन पर जोर देते हैं। उदाहरण देखें: चूषण यन्त्र (घटिका, अलाबु, शृङ्ग) और अग्निकर्म में प्रयुक्त जाम्बवौष्ठ।",
+   "modern_correlation": null,
+   "key_terms": [
+    "ghaṭikā",
+    "alābu",
+    "śṛṅga",
+    "jāmbavauṣṭha"
+   ],
+   "tags": [
+    "yantra",
+    "surgical-instruments",
+    "classification"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.25.4",
+   "word_meanings": [
+    {
+     "sa": "विकल्प्य",
+     "iast": "vikalpya",
+     "en": "having considered alternatives",
+     "hi": "विचार करके"
+    },
+    {
+     "sa": "कल्पयेत्",
+     "iast": "kalpayet",
+     "en": "should devise",
+     "hi": "बनाए"
+    },
+    {
+     "sa": "बुद्ध्या",
+     "iast": "buddhyā",
+     "en": "with intelligence",
+     "hi": "बुद्धि से"
+    },
+    {
+     "sa": "यथास्थूलम्",
+     "iast": "yathā-sthūlam",
+     "en": "in broad outline",
+     "hi": "मोटे तौर पर"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "परन्तु"
+    },
+    {
+     "sa": "वक्ष्यते",
+     "iast": "vakṣyate",
+     "en": "will be described",
+     "hi": "बताया जाएगा"
+    },
+    {
+     "sa": "तुल्यानि",
+     "iast": "tulyāni",
+     "en": "resembling",
+     "hi": "समान"
+    },
+    {
+     "sa": "कङ्क",
+     "iast": "kaṅka",
+     "en": "heron",
+     "hi": "कंक (बगुला)"
+    },
+    {
+     "sa": "सिंह",
+     "iast": "siṃha",
+     "en": "lion",
+     "hi": "सिंह"
+    },
+    {
+     "sa": "ऋक्ष",
+     "iast": "ṛkṣa",
+     "en": "bear",
+     "hi": "भालू"
+    },
+    {
+     "sa": "काक",
+     "iast": "kāka",
+     "en": "crow",
+     "hi": "कौआ"
+    },
+    {
+     "sa": "आदि",
+     "iast": "ādi",
+     "en": "etc.",
+     "hi": "आदि"
+    },
+    {
+     "sa": "मृगपक्षिणाम्",
+     "iast": "mṛga-pakṣiṇām",
+     "en": "of animals and birds",
+     "hi": "पशु-पक्षियों के"
+    }
+   ],
+   "english": "[Therefore] the physician should devise them with his own intelligence, considering the alternatives; but they will be described here in broad outline. Resembling [the mouths] of animals and birds such as the heron (kaṅka), lion, bear and crow,",
+   "hindi": "इसलिए वैद्य अपनी बुद्धि से विचार करके यन्त्र बनाए; परन्तु यहाँ उनका मोटे तौर पर वर्णन किया जाएगा। कंक (बगुला), सिंह, भालू, कौआ आदि पशु-पक्षियों के मुख के समान,",
+   "explanation_en": "An important principle: the surgeon may design new instruments according to need (yukti). The second half begins the naming rule completed in verse 5: instruments are named after the animal whose mouth they resemble (e.g., kaṅkamukha, siṃhamukha).",
+   "explanation_hi": "महत्वपूर्ण सिद्धान्त: शल्य-चिकित्सक आवश्यकता के अनुसार नए यन्त्र बना सकता है (युक्ति)। दूसरी पंक्ति नामकरण का नियम शुरू करती है जो श्लोक 5 में पूरा होता है: यन्त्रों के नाम उस पशु के नाम पर हैं जिसके मुख जैसे वे दिखते हैं (जैसे कंकमुख, सिंहमुख)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "yantra",
+    "kaṅkamukha",
+    "siṃhamukha",
+    "yukti"
+   ],
+   "tags": [
+    "yantra",
+    "surgical-instruments",
+    "svastika-yantra"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.25.5",
+   "word_meanings": [
+    {
+     "sa": "मुखैः",
+     "iast": "mukhaiḥ",
+     "en": "with mouths",
+     "hi": "मुखों से"
+    },
+    {
+     "sa": "मुखानि",
+     "iast": "mukhāni",
+     "en": "the mouths (tips)",
+     "hi": "मुख (सिरे)"
+    },
+    {
+     "sa": "यन्त्राणाम्",
+     "iast": "yantrāṇām",
+     "en": "of instruments",
+     "hi": "यन्त्रों के"
+    },
+    {
+     "sa": "कुर्यात्",
+     "iast": "kuryāt",
+     "en": "should make",
+     "hi": "बनाए"
+    },
+    {
+     "sa": "तत्संज्ञकानि",
+     "iast": "tat-saṃjñakāni",
+     "en": "named after them",
+     "hi": "उन्हीं के नाम वाले"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "अष्टादशाङ्गुलायामानि",
+     "iast": "aṣṭādaśāṅgulāyāmāni",
+     "en": "eighteen aṅgula long",
+     "hi": "अठारह अंगुल लम्बे"
+    },
+    {
+     "sa": "आयसानि",
+     "iast": "āyasāni",
+     "en": "made of iron",
+     "hi": "लोहे के"
+    },
+    {
+     "sa": "भूरिशः",
+     "iast": "bhūriśaḥ",
+     "en": "mostly",
+     "hi": "प्रायः"
+    }
+   ],
+   "english": "one should make the tips of the instruments with [such] mouths, and name them accordingly. They are eighteen aṅgula long and mostly made of iron,",
+   "hindi": "यन्त्रों के सिरे ऐसे ही मुखों जैसे बनाने चाहिए और उनका नाम भी उन्हीं के अनुसार रखना चाहिए। ये अठारह अंगुल लम्बे और प्रायः लोहे के बने होते हैं,",
+   "explanation_en": "These are the svastika yantras (cross-shaped instruments), whose description finishes in verse 6. Length 18 aṅgula and iron as the usual material are commonly asked. Remember: 'svastika = 18 aṅgula'.",
+   "explanation_hi": "ये स्वस्तिक यन्त्र (क्रॉस आकार के उपकरण) हैं, जिनका वर्णन श्लोक 6 में पूरा होता है। लम्बाई 18 अंगुल और सामान्य धातु लोहा, यह अक्सर पूछा जाता है। याद रखें: 'स्वस्तिक = 18 अंगुल'।",
+   "modern_correlation": null,
+   "key_terms": [
+    "svastika-yantra",
+    "aṅgula",
+    "āyasa"
+   ],
+   "tags": [
+    "yantra",
+    "surgical-instruments",
+    "svastika-yantra"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.25.6",
+   "word_meanings": [
+    {
+     "sa": "मसूराकारपर्यन्तैः",
+     "iast": "masūrākāra-paryantaiḥ",
+     "en": "with lentil-shaped heads",
+     "hi": "मसूर के आकार के सिरों वाली"
+    },
+    {
+     "sa": "कण्ठे",
+     "iast": "kaṇṭhe",
+     "en": "at the neck (joint)",
+     "hi": "कण्ठ (जोड़) पर"
+    },
+    {
+     "sa": "बद्धानि",
+     "iast": "baddhāni",
+     "en": "fastened",
+     "hi": "बँधे हुए"
+    },
+    {
+     "sa": "कीलकैः",
+     "iast": "kīlakaiḥ",
+     "en": "with a rivet (pin)",
+     "hi": "कील से"
+    },
+    {
+     "sa": "विद्यात्",
+     "iast": "vidyāt",
+     "en": "one should know",
+     "hi": "जाने"
+    },
+    {
+     "sa": "स्वस्तिकयन्त्राणि",
+     "iast": "svastika-yantrāṇi",
+     "en": "as svastika (cross-shaped) instruments",
+     "hi": "स्वस्तिक यन्त्र"
+    },
+    {
+     "sa": "मूले",
+     "iast": "mūle",
+     "en": "at the base (handle)",
+     "hi": "मूल (हत्थे) पर"
+    },
+    {
+     "sa": "अङ्कुशनतानि",
+     "iast": "aṅkuśa-natāni",
+     "en": "bent like a goad (hook)",
+     "hi": "अंकुश की तरह मुड़े हुए"
+    }
+   ],
+   "english": "fastened at the neck with a rivet whose head is shaped like a lentil, and bent like an elephant goad (aṅkuśa) at the handle: these should be known as svastika yantras.",
+   "hindi": "जिनके जोड़ पर मसूर के आकार के सिर वाली कील लगी हो, और हत्थे पर अंकुश की तरह मुड़े हों: इन्हें स्वस्तिक यन्त्र जानना चाहिए।",
+   "explanation_en": "The structure is like a pair of crossed blades held by a pivot pin, with curved handles for grip. This pivoted, cross-shaped design is why they are called svastika. Their use follows in verse 7.",
+   "explanation_hi": "इनकी बनावट कैंची की तरह दो क्रॉस किए हुए भागों की है, जो बीच में एक कील से जुड़े हैं, और पकड़ के लिए हत्थे मुड़े हुए हैं। इसी क्रॉस आकार के कारण इन्हें स्वस्तिक कहते हैं। इनका उपयोग श्लोक 7 में है।",
+   "modern_correlation": {
+    "en": "Svastika yantras, with crossed limbs joined by a pivot, are often compared to modern hinged (box-joint) forceps such as artery forceps, bone-holding forceps and other cross-action forceps.",
+    "hi": "स्वस्तिक यन्त्र, जिनके दोनों भाग एक कील पर क्रॉस होते हैं, की तुलना अक्सर आधुनिक जोड़दार फोरसेप्स से की जाती है, जैसे आर्टरी फोरसेप्स, बोन-होल्डिंग फोरसेप्स और अन्य क्रॉस-एक्शन फोरसेप्स।"
+   },
+   "key_terms": [
+    "svastika-yantra",
+    "kīla",
+    "aṅkuśa"
+   ],
+   "tags": [
+    "yantra",
+    "surgical-instruments",
+    "svastika-yantra"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.25.7",
+   "word_meanings": [
+    {
+     "sa": "तैः",
+     "iast": "taiḥ",
+     "en": "with them",
+     "hi": "उनसे"
+    },
+    {
+     "sa": "दृढैः",
+     "iast": "dṛḍhaiḥ",
+     "en": "strong",
+     "hi": "मजबूत"
+    },
+    {
+     "sa": "अस्थिसंलग्न",
+     "iast": "asthi-saṃlagna",
+     "en": "stuck to bone",
+     "hi": "हड्डी में फँसे"
+    },
+    {
+     "sa": "शल्याहरणम्",
+     "iast": "śalyāharaṇam",
+     "en": "extraction of foreign body",
+     "hi": "शल्य निकालना"
+    },
+    {
+     "sa": "इष्यते",
+     "iast": "iṣyate",
+     "en": "is recommended",
+     "hi": "माना गया है"
+    },
+    {
+     "sa": "कीलबद्ध",
+     "iast": "kīla-baddha",
+     "en": "joined with a rivet",
+     "hi": "कील से जुड़े"
+    },
+    {
+     "sa": "विमुक्ताग्रौ",
+     "iast": "vimuktāgrau",
+     "en": "with free ends",
+     "hi": "खुले सिरों वाले"
+    },
+    {
+     "sa": "संदंशौ",
+     "iast": "saṃdaṃśau",
+     "en": "two kinds of tongs (saṃdaṃśa)",
+     "hi": "दो संदंश (चिमटे)"
+    },
+    {
+     "sa": "षोडशाङ्गुलौ",
+     "iast": "ṣoḍaśāṅgulau",
+     "en": "sixteen aṅgula long",
+     "hi": "सोलह अंगुल लम्बे"
+    }
+   ],
+   "english": "With these strong instruments the extraction of foreign bodies stuck in bone is recommended. The saṃdaṃśa (tongs) are of two kinds, one joined with a rivet and one with free ends, each sixteen aṅgula long,",
+   "hindi": "इन मजबूत (स्वस्तिक) यन्त्रों से हड्डी में फँसे शल्य को निकालना चाहिए। संदंश (चिमटे) दो प्रकार के हैं, एक कील से जुड़ा और एक खुले सिरों वाला, दोनों सोलह अंगुल लम्बे,",
+   "explanation_en": "Svastika yantras are strong enough for bone-embedded objects. Then the second group, saṃdaṃśa (tongs), is introduced: sa-nigraha (with a pivot) and a-nigraha (free, like tweezers), 16 aṅgula. Their use in soft tissue follows in verse 8.",
+   "explanation_hi": "स्वस्तिक यन्त्र हड्डी में फँसी वस्तुओं के लिए पर्याप्त मजबूत हैं। फिर दूसरा समूह, संदंश, बताया गया है: एक कील वाला (सनिग्रह) और एक बिना कील का (अनिग्रह, चिमटी जैसा), 16 अंगुल। कोमल ऊतक में इनका उपयोग श्लोक 8 में है।",
+   "modern_correlation": {
+    "en": "The free-ended saṃdaṃśa is often compared to modern thumb (dissecting) forceps, and the pivoted one to hinged tissue forceps.",
+    "hi": "खुले सिरे वाले संदंश की तुलना अक्सर आधुनिक थम्ब (डिसेक्टिंग) फोरसेप्स से, और कील वाले संदंश की जोड़दार टिश्यू फोरसेप्स से की जाती है।"
+   },
+   "key_terms": [
+    "svastika-yantra",
+    "saṃdaṃśa-yantra",
+    "śalyāharaṇa"
+   ],
+   "tags": [
+    "yantra",
+    "surgical-instruments",
+    "samdamsha-yantra"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.25.8",
+   "word_meanings": [
+    {
+     "sa": "त्वक्",
+     "iast": "tvak",
+     "en": "skin",
+     "hi": "त्वचा"
+    },
+    {
+     "sa": "सिरा",
+     "iast": "sirā",
+     "en": "vessel",
+     "hi": "सिरा"
+    },
+    {
+     "sa": "स्नायु",
+     "iast": "snāyu",
+     "en": "ligament, tendon",
+     "hi": "स्नायु"
+    },
+    {
+     "sa": "पिशित",
+     "iast": "piśita",
+     "en": "muscle",
+     "hi": "मांस"
+    },
+    {
+     "sa": "लग्न",
+     "iast": "lagna",
+     "en": "stuck in",
+     "hi": "फँसे"
+    },
+    {
+     "sa": "शल्यापकर्षणौ",
+     "iast": "śalyāpakarṣaṇau",
+     "en": "for pulling out foreign bodies",
+     "hi": "शल्य खींचने वाले"
+    },
+    {
+     "sa": "षडङ्गुलः",
+     "iast": "ṣaḍ-aṅgulaḥ",
+     "en": "six aṅgula long",
+     "hi": "छह अंगुल का"
+    },
+    {
+     "sa": "अन्यः",
+     "iast": "anyaḥ",
+     "en": "another",
+     "hi": "दूसरा"
+    },
+    {
+     "sa": "हरणे",
+     "iast": "haraṇe",
+     "en": "for removing",
+     "hi": "निकालने में"
+    },
+    {
+     "sa": "सूक्ष्मशल्य",
+     "iast": "sūkṣma-śalya",
+     "en": "tiny foreign bodies",
+     "hi": "छोटे शल्य"
+    },
+    {
+     "sa": "उपपक्ष्मणाम्",
+     "iast": "upa-pakṣmaṇām",
+     "en": "extra (misdirected) eyelashes",
+     "hi": "अतिरिक्त बरौनियों (उपपक्ष्म) का"
+    }
+   ],
+   "english": "used for pulling out foreign bodies stuck in skin, vessels, ligaments and muscle. Another [tongs], six aṅgula long, is for removing tiny foreign bodies and extra (misdirected) eyelashes (upapakṣma).",
+   "hindi": "जो त्वचा, सिरा, स्नायु और मांस में फँसे शल्य को खींचने के काम आते हैं। एक और छह अंगुल का संदंश छोटे शल्यों और अतिरिक्त बरौनियों (उपपक्ष्म) को निकालने के लिए है।",
+   "explanation_en": "Saṃdaṃśas work in soft tissue, while svastikas work in bone. The small 6-aṅgula tongs is for delicate work like plucking upapakṣma (a disease of misdirected lashes described in the Uttarasthāna). Make a table: instrument, length, use.",
+   "explanation_hi": "संदंश कोमल ऊतक में काम करते हैं, जबकि स्वस्तिक हड्डी में। छोटा 6 अंगुल का संदंश नाजुक काम के लिए है, जैसे उपपक्ष्म (उलटी बरौनियों का रोग, उत्तरस्थान में वर्णित) उखाड़ना। तालिका बनाएँ: यन्त्र, लम्बाई, उपयोग।",
+   "modern_correlation": {
+    "en": "The small tongs for eyelashes broadly parallels modern epilation forceps used to remove misdirected lashes in trichiasis.",
+    "hi": "बरौनियों के लिए छोटा संदंश, ट्राइकियासिस (उलटी बरौनियाँ) में बरौनी निकालने वाले आधुनिक एपिलेशन फोरसेप्स से मिलता-जुलता है।"
+   },
+   "key_terms": [
+    "saṃdaṃśa-yantra",
+    "upapakṣma",
+    "sūkṣma-śalya"
+   ],
+   "tags": [
+    "yantra",
+    "surgical-instruments",
+    "samdamsha-yantra"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.25.9",
+   "word_meanings": [
+    {
+     "sa": "मुचुण्डी",
+     "iast": "mucuṇḍī",
+     "en": "mucuṇḍī (toothed forceps)",
+     "hi": "मुचुण्डी"
+    },
+    {
+     "sa": "सूक्ष्मदन्ता",
+     "iast": "sūkṣma-dantā",
+     "en": "with fine teeth",
+     "hi": "बारीक दाँतों वाली"
+    },
+    {
+     "sa": "ऋजुः",
+     "iast": "ṛjuḥ",
+     "en": "straight",
+     "hi": "सीधी"
+    },
+    {
+     "sa": "मूले",
+     "iast": "mūle",
+     "en": "at the base",
+     "hi": "मूल पर"
+    },
+    {
+     "sa": "रुचकभूषणा",
+     "iast": "rucaka-bhūṣaṇā",
+     "en": "fitted with a ring",
+     "hi": "छल्ले से युक्त"
+    },
+    {
+     "sa": "गम्भीरव्रणमांसानाम्",
+     "iast": "gambhīra-vraṇa-māṃsānām",
+     "en": "of flesh in deep wounds",
+     "hi": "गहरे घाव के मांस का"
+    },
+    {
+     "sa": "अर्मणः",
+     "iast": "armaṇaḥ",
+     "en": "of pterygium (arma)",
+     "hi": "अर्म (नेत्र रोग) का"
+    },
+    {
+     "sa": "शेषितस्य",
+     "iast": "śeṣitasya",
+     "en": "of the remnant",
+     "hi": "बचे हुए भाग का"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    }
+   ],
+   "english": "The mucuṇḍī is straight, with fine teeth, and fitted with a ring at the base; it is used [to grasp] flesh in deep wounds and the remnant of an arma (pterygium).",
+   "hindi": "मुचुण्डी सीधी, बारीक दाँतों वाली और मूल पर छल्ले से युक्त होती है; यह गहरे घाव के मांस को और अर्म (नेत्र रोग) के बचे हुए भाग को पकड़ने के काम आती है।",
+   "explanation_en": "Mucuṇḍī is a specialised toothed grasping instrument, counted among the saṃdaṃśa group by many authors. The teeth give a firm grip on slippery tissue. Commonly asked as 'name the instrument used for arma'.",
+   "explanation_hi": "मुचुण्डी एक विशेष दाँतेदार पकड़ने वाला यन्त्र है, जिसे कई आचार्य संदंश वर्ग में गिनते हैं। दाँत फिसलने वाले ऊतक पर मजबूत पकड़ देते हैं। 'अर्म में प्रयुक्त यन्त्र' के रूप में यह पूछा जाता है।",
+   "modern_correlation": {
+    "en": "The mucuṇḍī is often compared to modern toothed tissue-grasping forceps (for example Allis-type forceps), which hold tissue firmly with fine interlocking teeth.",
+    "hi": "मुचुण्डी की तुलना अक्सर आधुनिक दाँतेदार टिश्यू फोरसेप्स (जैसे एलिस फोरसेप्स) से की जाती है, जो बारीक दाँतों से ऊतक को मजबूती से पकड़ते हैं।"
+   },
+   "key_terms": [
+    "mucuṇḍī",
+    "arma",
+    "gambhīra-vraṇa"
+   ],
+   "tags": [
+    "yantra",
+    "surgical-instruments",
+    "samdamsha-yantra"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.25.10",
+   "word_meanings": [
+    {
+     "sa": "द्वे",
+     "iast": "dve",
+     "en": "two",
+     "hi": "दो"
+    },
+    {
+     "sa": "द्वादशाङ्गुले",
+     "iast": "dvādaśāṅgule",
+     "en": "twelve aṅgula long",
+     "hi": "बारह अंगुल के"
+    },
+    {
+     "sa": "मत्स्यतालवत्",
+     "iast": "matsya-tāla-vat",
+     "en": "like a fish's palate",
+     "hi": "मछली के तालु जैसे"
+    },
+    {
+     "sa": "द्व्येकतालके",
+     "iast": "dvy-eka-tālake",
+     "en": "with two or one jaw (blade)",
+     "hi": "दो या एक ताल (पत्ती) वाले"
+    },
+    {
+     "sa": "तालयन्त्रे",
+     "iast": "tāla-yantre",
+     "en": "the tāla yantras",
+     "hi": "ताल यन्त्र"
+    },
+    {
+     "sa": "स्मृते",
+     "iast": "smṛte",
+     "en": "are known",
+     "hi": "माने गए हैं"
+    },
+    {
+     "sa": "कर्ण",
+     "iast": "karṇa",
+     "en": "ear",
+     "hi": "कान"
+    },
+    {
+     "sa": "नाडी",
+     "iast": "nāḍī",
+     "en": "tubular passage (sinus)",
+     "hi": "नाड़ी (नली जैसा मार्ग)"
+    },
+    {
+     "sa": "शल्यापहारिणी",
+     "iast": "śalyāpahāriṇī",
+     "en": "removing foreign bodies",
+     "hi": "शल्य निकालने वाले"
+    }
+   ],
+   "english": "The two tāla yantras are twelve aṅgula long, shaped like a fish's palate, with two jaws or one jaw; they are used to remove foreign bodies from the ear and from tubular passages (nāḍī).",
+   "hindi": "दो ताल यन्त्र बारह अंगुल लम्बे, मछली के तालु के आकार के, और दो पत्ती या एक पत्ती वाले होते हैं; ये कान और नाड़ी (नली जैसे मार्ग) से शल्य निकालने के काम आते हैं।",
+   "explanation_en": "Tāla yantras are the third group: ekatāla (single-bladed) and dvitāla (double-bladed), 12 aṅgula. Their shallow, spoon-like ends scoop out objects from narrow canals such as the ear. A common 'match the instrument with its use' item.",
+   "explanation_hi": "ताल यन्त्र तीसरा समूह हैं: एकताल (एक पत्ती) और द्विताल (दो पत्ती), 12 अंगुल। इनके उथले, चम्मच जैसे सिरे कान जैसी संकरी नलियों से वस्तुएँ निकालते हैं। 'यन्त्र और उपयोग का मिलान' वाला सामान्य प्रश्न।",
+   "modern_correlation": {
+    "en": "The tāla yantras are often compared to modern ear curettes and foreign-body scoops or crocodile-type forceps used in the ear canal.",
+    "hi": "ताल यन्त्रों की तुलना अक्सर आधुनिक ईयर क्यूरेट, बाहरी वस्तु निकालने वाले स्कूप या कान में प्रयुक्त क्रोकोडाइल फोरसेप्स से की जाती है।"
+   },
+   "key_terms": [
+    "tāla-yantra",
+    "ekatāla",
+    "dvitāla",
+    "karṇa-śalya"
+   ],
+   "tags": [
+    "yantra",
+    "surgical-instruments",
+    "tala-yantra"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.25.11",
+   "word_meanings": [
+    {
+     "sa": "नाडीयन्त्राणि",
+     "iast": "nāḍī-yantrāṇi",
+     "en": "tubular instruments",
+     "hi": "नाड़ी यन्त्र"
+    },
+    {
+     "sa": "सुषिराणि",
+     "iast": "suṣirāṇi",
+     "en": "hollow",
+     "hi": "खोखले"
+    },
+    {
+     "sa": "एकानेकमुखानि",
+     "iast": "ekāneka-mukhāni",
+     "en": "with one or many openings",
+     "hi": "एक या अनेक मुख वाले"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "स्रोतोगतानाम्",
+     "iast": "sroto-gatānām",
+     "en": "lodged in channels",
+     "hi": "स्रोतों में स्थित"
+    },
+    {
+     "sa": "शल्यानाम्",
+     "iast": "śalyānām",
+     "en": "of foreign bodies",
+     "hi": "शल्यों का"
+    },
+    {
+     "sa": "आमयानाम्",
+     "iast": "āmayānām",
+     "en": "of diseases",
+     "hi": "रोगों का"
+    },
+    {
+     "sa": "दर्शने",
+     "iast": "darśane",
+     "en": "for viewing",
+     "hi": "देखने के लिए"
+    }
+   ],
+   "english": "Nāḍī yantras (tubular instruments) are hollow, with one or more openings. [They are made] for viewing foreign bodies and diseases located in the body's channels (srotas),",
+   "hindi": "नाड़ी यन्त्र खोखले होते हैं, जिनमें एक या अनेक मुख होते हैं। ये स्रोतों (शरीर के मार्गों) में स्थित शल्यों और रोगों को देखने के लिए,",
+   "explanation_en": "Nāḍī yantras are the fourth group, the hollow tubes. Their uses are given across verses 11-12: viewing (darśana), making procedures easier, and suction. They are the ancestors of the specula and endoscopic tubes of modern practice.",
+   "explanation_hi": "नाड़ी यन्त्र चौथा समूह हैं, खोखली नलियाँ। इनके उपयोग श्लोक 11-12 में हैं: देखना, क्रिया को आसान बनाना और चूषण। ये आधुनिक स्पेकुलम और नली वाले उपकरणों के पूर्वज माने जा सकते हैं।",
+   "modern_correlation": {
+    "en": "Nāḍī yantras broadly parallel modern tubular instruments such as specula, proctoscopes, cannulas and catheters, which give access to and a view into body cavities.",
+    "hi": "नाड़ी यन्त्र आधुनिक नलीदार उपकरणों से मिलते हैं, जैसे स्पेकुलम, प्रॉक्टोस्कोप, कैनुला और कैथेटर, जो शरीर के अन्दर पहुँचने और देखने में मदद करते हैं।"
+   },
+   "key_terms": [
+    "nāḍī-yantra",
+    "srotas",
+    "darśana"
+   ],
+   "tags": [
+    "yantra",
+    "surgical-instruments",
+    "nadi-yantra"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.25.12",
+   "word_meanings": [
+    {
+     "sa": "क्रियाणाम्",
+     "iast": "kriyāṇām",
+     "en": "of procedures",
+     "hi": "क्रियाओं की"
+    },
+    {
+     "sa": "सुकरत्वाय",
+     "iast": "su-kara-tvāya",
+     "en": "for ease",
+     "hi": "आसानी के लिए"
+    },
+    {
+     "sa": "कुर्यात्",
+     "iast": "kuryāt",
+     "en": "should make",
+     "hi": "बनाए"
+    },
+    {
+     "sa": "आचूषणाय",
+     "iast": "ācūṣaṇāya",
+     "en": "for suction",
+     "hi": "चूषण के लिए"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "तत्",
+     "iast": "tat",
+     "en": "their",
+     "hi": "उनकी"
+    },
+    {
+     "sa": "विस्तार",
+     "iast": "vistāra",
+     "en": "width",
+     "hi": "चौड़ाई"
+    },
+    {
+     "sa": "परीणाह",
+     "iast": "parīṇāha",
+     "en": "circumference",
+     "hi": "परिधि"
+    },
+    {
+     "sa": "दैर्घ्यम्",
+     "iast": "dairghyam",
+     "en": "length",
+     "hi": "लम्बाई"
+    },
+    {
+     "sa": "स्रोतोऽनुरोधतः",
+     "iast": "sroto-'nurodhataḥ",
+     "en": "according to the channel",
+     "hi": "स्रोत के अनुसार"
+    }
+   ],
+   "english": "for making procedures easier, and for suction. Their width, circumference and length should be made according to the channel [in which they are used].",
+   "hindi": "क्रियाओं को आसान बनाने के लिए और चूषण के लिए बनाए जाते हैं। इनकी चौड़ाई, परिधि और लम्बाई उस स्रोत (मार्ग) के अनुसार होनी चाहिए जिसमें इनका प्रयोग हो।",
+   "explanation_en": "The size of a tube must fit the passage (urethra, rectum, nose, ear, throat). This principle of fitting the instrument to the anatomy is repeated throughout the chapter. Exam answer: three uses of nāḍī yantra are darśana, kriyā-saukarya and ācūṣaṇa.",
+   "explanation_hi": "नली का आकार उस मार्ग (मूत्रमार्ग, गुदा, नाक, कान, गला) के अनुकूल होना चाहिए। उपकरण को शरीर-रचना के अनुसार बनाने का यह सिद्धान्त पूरे अध्याय में दोहराया गया है। परीक्षा उत्तर: नाड़ी यन्त्र के तीन उपयोग हैं दर्शन, क्रिया-सौकर्य और आचूषण।",
+   "modern_correlation": {
+    "en": "Choosing tube size to match the passage broadly parallels modern sizing of catheters, specula and endoscopes to the patient's anatomy.",
+    "hi": "मार्ग के अनुसार नली का आकार चुनना, रोगी की शरीर-रचना के अनुसार कैथेटर, स्पेकुलम और एंडोस्कोप का आकार चुनने की आधुनिक पद्धति से मिलता है।"
+   },
+   "key_terms": [
+    "nāḍī-yantra",
+    "ācūṣaṇa",
+    "parīṇāha"
+   ],
+   "tags": [
+    "yantra",
+    "surgical-instruments",
+    "nadi-yantra"
+   ],
+   "importance": "high",
+   "mnemonic": "Nāḍī yantra uses: See, Ease, Suck (darśana, kriyā-saukarya, ācūṣaṇa).",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.25.13",
+   "word_meanings": [
+    {
+     "sa": "दशाङ्गुल",
+     "iast": "daśāṅgula",
+     "en": "ten aṅgula long",
+     "hi": "दस अंगुल लम्बी"
+    },
+    {
+     "sa": "अर्धनाहा",
+     "iast": "ardha-nāhā",
+     "en": "with half that as circumference",
+     "hi": "उसकी आधी परिधि वाली"
+    },
+    {
+     "sa": "अन्तःकण्ठशल्यावलोकिनी",
+     "iast": "antaḥ-kaṇṭha-śalyāvalokinī",
+     "en": "for viewing foreign bodies inside the throat",
+     "hi": "गले के अन्दर के शल्य देखने वाली"
+    },
+    {
+     "sa": "नाडी",
+     "iast": "nāḍī",
+     "en": "tube",
+     "hi": "नाड़ी"
+    },
+    {
+     "sa": "पञ्चमुखच्छिद्रा",
+     "iast": "pañca-mukha-cchidrā",
+     "en": "with five openings",
+     "hi": "पाँच छेदों वाली"
+    },
+    {
+     "sa": "चतुष्कर्णस्य",
+     "iast": "catuṣ-karṇasya",
+     "en": "of a four-barbed (arrowhead)",
+     "hi": "चार काँटों वाले (बाण) के"
+    },
+    {
+     "sa": "संग्रहे",
+     "iast": "saṃgrahe",
+     "en": "for grasping/enclosing",
+     "hi": "पकड़ने में"
+    }
+   ],
+   "english": "A tube ten aṅgula long, with a circumference half that, is used for viewing foreign bodies inside the throat. A tube with five openings is used for enclosing a four-barbed (catuṣkarṇa) arrowhead,",
+   "hindi": "दस अंगुल लम्बी और उसकी आधी (पाँच अंगुल) परिधि वाली नाड़ी गले के अन्दर फँसे शल्य को देखने के लिए है। पाँच छेदों वाली नाड़ी चार काँटों वाले (चतुष्कर्ण) बाण को पकड़ने के लिए है,",
+   "explanation_en": "Specific nāḍī yantras begin: the kaṇṭha-śalya-darśana tube and tubes for barbed arrowheads. The idea is that the tube slides over the arrowhead so its barbs are covered and do not tear the tissue on withdrawal. This reflects the battlefield surgery of the time.",
+   "explanation_hi": "विशिष्ट नाड़ी यन्त्र शुरू होते हैं: गले का शल्य देखने वाली नली और काँटेदार बाण के लिए नलियाँ। विचार यह है कि नली बाण पर चढ़ जाए ताकि उसके काँटे ढक जाएँ और निकालते समय ऊतक न फटे। यह उस समय की युद्ध-शल्य चिकित्सा को दर्शाता है।",
+   "modern_correlation": {
+    "en": "Sliding a tube over a barbed object to shield the barbs during removal is a technique that is still conceptually used in modern foreign-body extraction, for example sheathing sharp objects during endoscopic removal.",
+    "hi": "काँटेदार वस्तु पर नली चढ़ाकर उसके काँटों को ढकना, आज भी बाहरी वस्तु निकालने की तकनीक में प्रयोग होता है, जैसे एंडोस्कोपी से नुकीली वस्तु निकालते समय उसे आवरण (sheath) में ढकना।"
+   },
+   "key_terms": [
+    "nāḍī-yantra",
+    "kaṇṭha-śalya",
+    "catuṣkarṇa"
+   ],
+   "tags": [
+    "yantra",
+    "surgical-instruments",
+    "nadi-yantra"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.25.14",
+   "word_meanings": [
+    {
+     "sa": "वारङ्गस्य",
+     "iast": "vāraṅgasya",
+     "en": "of the tang (shank of an arrowhead)",
+     "hi": "वारङ्ग (बाण के डंडे) का"
+    },
+    {
+     "sa": "द्विकर्णस्य",
+     "iast": "dvi-karṇasya",
+     "en": "two-barbed",
+     "hi": "दो काँटों वाले"
+    },
+    {
+     "sa": "त्रिच्छिद्रा",
+     "iast": "tri-cchidrā",
+     "en": "with three openings",
+     "hi": "तीन छेदों वाली"
+    },
+    {
+     "sa": "तत्प्रमाणतः",
+     "iast": "tat-pramāṇataḥ",
+     "en": "according to its size",
+     "hi": "उसके आकार के अनुसार"
+    },
+    {
+     "sa": "वारङ्गकर्णसंस्थान",
+     "iast": "vāraṅga-karṇa-saṃsthāna",
+     "en": "the shape of tang and barbs",
+     "hi": "वारङ्ग और काँटों की आकृति"
+    },
+    {
+     "sa": "आनाह",
+     "iast": "ānāha",
+     "en": "circumference",
+     "hi": "परिधि"
+    },
+    {
+     "sa": "दैर्घ्य",
+     "iast": "dairghya",
+     "en": "length",
+     "hi": "लम्बाई"
+    },
+    {
+     "sa": "अनुरोधतः",
+     "iast": "anurodhataḥ",
+     "en": "in accordance with",
+     "hi": "के अनुसार"
+    }
+   ],
+   "english": "and one with three openings for a two-barbed tang (vāraṅga); their size is made according to the shape, circumference and length of the tang and barbs.",
+   "hindi": "और तीन छेदों वाली नाड़ी दो काँटों वाले वारङ्ग (बाण के डंडे) के लिए; इनका आकार वारङ्ग और काँटों की आकृति, परिधि और लम्बाई के अनुसार बनाया जाता है।",
+   "explanation_en": "Again the 'fit to purpose' principle: the number of openings matches the number of barbs plus the shaft. These details are rarely examined; just remember that special tubes existed for barbed weapons.",
+   "explanation_hi": "फिर से 'उद्देश्य के अनुसार' सिद्धान्त: छेदों की संख्या काँटों और डंडे के अनुसार है। ये विवरण परीक्षा में कम पूछे जाते हैं; बस याद रखें कि काँटेदार हथियारों के लिए विशेष नलियाँ थीं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "nāḍī-yantra",
+    "vāraṅga",
+    "karṇa"
+   ],
+   "tags": [
+    "yantra",
+    "surgical-instruments",
+    "nadi-yantra"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.25.15",
+   "word_meanings": [
+    {
+     "sa": "नाडीः",
+     "iast": "nāḍīḥ",
+     "en": "tubes",
+     "hi": "नाड़ियाँ"
+    },
+    {
+     "sa": "एवंविधाः",
+     "iast": "evaṃ-vidhāḥ",
+     "en": "of this kind",
+     "hi": "इस प्रकार की"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "अन्याः",
+     "iast": "anyāḥ",
+     "en": "others",
+     "hi": "अन्य"
+    },
+    {
+     "sa": "द्रष्टुम्",
+     "iast": "draṣṭum",
+     "en": "to see",
+     "hi": "देखने के लिए"
+    },
+    {
+     "sa": "शल्यानि",
+     "iast": "śalyāni",
+     "en": "foreign bodies",
+     "hi": "शल्यों को"
+    },
+    {
+     "sa": "कारयेत्",
+     "iast": "kārayet",
+     "en": "should have made",
+     "hi": "बनवाए"
+    },
+    {
+     "sa": "पद्मकर्णिकया",
+     "iast": "padma-karṇikayā",
+     "en": "with a lotus pericarp",
+     "hi": "कमल की कर्णिका (बीजकोश) से"
+    },
+    {
+     "sa": "मूर्ध्नि",
+     "iast": "mūrdhni",
+     "en": "at the top",
+     "hi": "शिखर पर"
+    },
+    {
+     "sa": "सदृशी",
+     "iast": "sadṛśī",
+     "en": "resembling",
+     "hi": "समान"
+    },
+    {
+     "sa": "द्वादशाङ्गुला",
+     "iast": "dvādaśāṅgulā",
+     "en": "twelve aṅgula long",
+     "hi": "बारह अंगुल लम्बी"
+    }
+   ],
+   "english": "One should have other tubes of this kind made for seeing foreign bodies. [A tube] twelve aṅgula long, resembling a lotus pericarp at its top,",
+   "hindi": "शल्यों को देखने के लिए इसी प्रकार की अन्य नाड़ियाँ भी बनवानी चाहिए। बारह अंगुल लम्बी नाड़ी, जिसका सिरा कमल की कर्णिका (बीजकोश) जैसा हो,",
+   "explanation_en": "The first half again permits making new tubes as needed. The second half begins the description of the śalya-nirghātinī tube, completed in verse 16.",
+   "explanation_hi": "पहली पंक्ति फिर से आवश्यकता अनुसार नई नलियाँ बनाने की अनुमति देती है। दूसरी पंक्ति शल्य-निर्घातिनी नाड़ी का वर्णन शुरू करती है, जो श्लोक 16 में पूरा होता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "nāḍī-yantra",
+    "śalya-nirghātinī"
+   ],
+   "tags": [
+    "yantra",
+    "surgical-instruments",
+    "nadi-yantra"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.25.16",
+   "word_meanings": [
+    {
+     "sa": "चतुर्थसुषिरा",
+     "iast": "caturtha-suṣirā",
+     "en": "hollow for a quarter (of its length)",
+     "hi": "चौथाई भाग तक खोखली"
+    },
+    {
+     "sa": "नाडी",
+     "iast": "nāḍī",
+     "en": "tube",
+     "hi": "नाड़ी"
+    },
+    {
+     "sa": "शल्यनिर्घातिनी",
+     "iast": "śalya-nirghātinī",
+     "en": "for knocking out foreign bodies",
+     "hi": "शल्य को ठोककर निकालने वाली"
+    },
+    {
+     "sa": "मता",
+     "iast": "matā",
+     "en": "is considered",
+     "hi": "मानी गई है"
+    },
+    {
+     "sa": "अर्शसाम्",
+     "iast": "arśasām",
+     "en": "for haemorrhoids",
+     "hi": "अर्श के लिए"
+    },
+    {
+     "sa": "गोस्तनाकारम्",
+     "iast": "go-stanākāram",
+     "en": "shaped like a cow's teat",
+     "hi": "गाय के थन के आकार का"
+    },
+    {
+     "sa": "यन्त्रकम्",
+     "iast": "yantrakam",
+     "en": "small instrument",
+     "hi": "यन्त्र"
+    },
+    {
+     "sa": "चतुरङ्गुलम्",
+     "iast": "catur-aṅgulam",
+     "en": "four aṅgula long",
+     "hi": "चार अंगुल लम्बा"
+    }
+   ],
+   "english": "and hollow for a quarter of its length, is known as the śalya-nirghātinī (tube for knocking out foreign bodies). For haemorrhoids there is an instrument shaped like a cow's teat, four aṅgula long,",
+   "hindi": "और जो चौथाई भाग तक खोखली हो, उसे शल्य-निर्घातिनी (शल्य को ठोककर निकालने वाली) नाड़ी माना गया है। अर्श के लिए गाय के थन के आकार का चार अंगुल लम्बा यन्त्र होता है,",
+   "explanation_en": "The meaning of 'caturtha-suṣirā' is interpreted variously (hollow in a quarter of its length, or with a fourth opening). The arśo-yantra (pile instrument) begins here and is one of the most important nāḍī yantras for exams; its details continue to verse 19.",
+   "explanation_hi": "'चतुर्थसुषिरा' का अर्थ अलग-अलग किया जाता है (चौथाई लम्बाई तक खोखली, या चौथा छेद)। यहाँ से अर्शोयन्त्र शुरू होता है, जो परीक्षा के लिए सबसे महत्वपूर्ण नाड़ी यन्त्रों में से एक है; इसका विवरण श्लोक 19 तक चलता है।",
+   "modern_correlation": {
+    "en": "The cow's-teat-shaped arśo-yantra is commonly compared to the modern proctoscope used to examine and treat haemorrhoids.",
+    "hi": "गाय के थन जैसा अर्शोयन्त्र आमतौर पर आधुनिक प्रॉक्टोस्कोप से तुलना किया जाता है, जिससे बवासीर की जाँच और चिकित्सा की जाती है।"
+   },
+   "key_terms": [
+    "arśo-yantra",
+    "śalya-nirghātinī",
+    "gostana"
+   ],
+   "tags": [
+    "yantra",
+    "surgical-instruments",
+    "nadi-yantra",
+    "arsha"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.25.17",
+   "word_meanings": [
+    {
+     "sa": "नाहे",
+     "iast": "nāhe",
+     "en": "in circumference",
+     "hi": "परिधि में"
+    },
+    {
+     "sa": "पञ्चाङ्गुलम्",
+     "iast": "pañcāṅgulam",
+     "en": "five aṅgula",
+     "hi": "पाँच अंगुल"
+    },
+    {
+     "sa": "पुंसाम्",
+     "iast": "puṃsām",
+     "en": "for men",
+     "hi": "पुरुषों के लिए"
+    },
+    {
+     "sa": "प्रमदानाम्",
+     "iast": "pramadānām",
+     "en": "for women",
+     "hi": "स्त्रियों के लिए"
+    },
+    {
+     "sa": "षडङ्गुलम्",
+     "iast": "ṣaḍ-aṅgulam",
+     "en": "six aṅgula",
+     "hi": "छह अंगुल"
+    },
+    {
+     "sa": "द्विच्छिद्रम्",
+     "iast": "dvi-cchidram",
+     "en": "with two openings",
+     "hi": "दो छेदों वाला"
+    },
+    {
+     "sa": "दर्शने",
+     "iast": "darśane",
+     "en": "for inspection",
+     "hi": "देखने के लिए"
+    },
+    {
+     "sa": "व्याधेः",
+     "iast": "vyādheḥ",
+     "en": "of the disease",
+     "hi": "रोग को"
+    },
+    {
+     "sa": "एकच्छिद्रम्",
+     "iast": "eka-cchidram",
+     "en": "with one opening",
+     "hi": "एक छेद वाला"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "परन्तु"
+    },
+    {
+     "sa": "कर्मणि",
+     "iast": "karmaṇi",
+     "en": "for treatment (procedure)",
+     "hi": "कर्म (चिकित्सा) में"
+    }
+   ],
+   "english": "with a circumference of five aṅgula for men and six aṅgula for women. It has two openings when used for inspecting the disease, and one opening when used for treatment.",
+   "hindi": "इसकी परिधि पुरुषों के लिए पाँच अंगुल और स्त्रियों के लिए छह अंगुल होती है। रोग देखने के लिए इसमें दो छेद, और चिकित्सा (क्षार, अग्नि आदि) के लिए एक छेद होता है।",
+   "explanation_en": "Sex-specific sizing and a different design for diagnosis versus treatment are remarkable details. With one window, only the pile mass is exposed for kṣāra or cautery, protecting the rest of the rectal wall (śeṣāṅga-parirakṣā, verse 2). Very commonly asked.",
+   "explanation_hi": "स्त्री-पुरुष के अनुसार अलग माप और निदान व चिकित्सा के लिए अलग बनावट उल्लेखनीय है। एक छेद होने पर केवल बवासीर का मस्सा क्षार या अग्नि के लिए खुला रहता है और गुदा की बाकी दीवार सुरक्षित रहती है (शेषाङ्ग-परिरक्षा, श्लोक 2)। यह बहुत पूछा जाता है।",
+   "modern_correlation": {
+    "en": "A single-window instrument that exposes only the haemorrhoid during treatment broadly parallels modern slotted (fenestrated) proctoscopes used for banding, sclerotherapy or cautery of piles.",
+    "hi": "एक खिड़की वाला यन्त्र जो चिकित्सा के समय केवल मस्से को खुला रखता है, आधुनिक स्लॉटेड (फेनेस्ट्रेटेड) प्रॉक्टोस्कोप से मिलता है, जिनसे बवासीर में बैंडिंग, स्क्लेरोथेरेपी या कॉटरी की जाती है।"
+   },
+   "key_terms": [
+    "arśo-yantra",
+    "parīṇāha",
+    "chidra"
+   ],
+   "tags": [
+    "yantra",
+    "surgical-instruments",
+    "nadi-yantra",
+    "arsha"
+   ],
+   "importance": "high",
+   "mnemonic": "Arśo-yantra: 4 aṅgula long; 5 (men) / 6 (women) around; 2 holes to See, 1 hole to Treat.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.25.18",
+   "word_meanings": [
+    {
+     "sa": "मध्ये",
+     "iast": "madhye",
+     "en": "in the middle",
+     "hi": "बीच में"
+    },
+    {
+     "sa": "अस्य",
+     "iast": "asya",
+     "en": "of it",
+     "hi": "इसके"
+    },
+    {
+     "sa": "त्र्यङ्गुलम्",
+     "iast": "try-aṅgulam",
+     "en": "three aṅgula long",
+     "hi": "तीन अंगुल लम्बा"
+    },
+    {
+     "sa": "छिद्रम्",
+     "iast": "chidram",
+     "en": "opening",
+     "hi": "छेद"
+    },
+    {
+     "sa": "अङ्गुष्ठोदरविस्तृतम्",
+     "iast": "aṅguṣṭhodara-vistṛtam",
+     "en": "as wide as the pulp of the thumb",
+     "hi": "अँगूठे के पेट जितना चौड़ा"
+    },
+    {
+     "sa": "अर्धाङ्गुलोच्छ्रित",
+     "iast": "ardhāṅgulocchrita",
+     "en": "raised by half an aṅgula",
+     "hi": "आधा अंगुल उठी हुई"
+    },
+    {
+     "sa": "उद्वृत्तकर्णिकम्",
+     "iast": "udvṛtta-karṇikam",
+     "en": "with a rounded flange (rim)",
+     "hi": "गोल किनारी (कर्णिका) वाला"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "तदूर्ध्वतः",
+     "iast": "tad-ūrdhvataḥ",
+     "en": "above that",
+     "hi": "उसके ऊपर"
+    }
+   ],
+   "english": "In its middle is an opening three aṅgula long and as wide as the pulp of the thumb; above that is a rounded flange (karṇikā) raised by half an aṅgula.",
+   "hindi": "इसके बीच में तीन अंगुल लम्बा और अँगूठे के पेट जितना चौड़ा छेद होता है; और उसके ऊपर आधा अंगुल उठी हुई गोल किनारी (कर्णिका) होती है।",
+   "explanation_en": "The window is 3 aṅgula long and thumb-wide. The flange (karṇikā) acts as a stop so the instrument cannot slip too far into the rectum. These measurements are asked in detailed questions on arśo-yantra.",
+   "explanation_hi": "छेद 3 अंगुल लम्बा और अँगूठे जितना चौड़ा है। कर्णिका (किनारी) एक रोक का काम करती है ताकि यन्त्र गुदा में बहुत अन्दर न खिसके। अर्शोयन्त्र के विस्तृत प्रश्नों में ये माप पूछे जाते हैं।",
+   "modern_correlation": {
+    "en": "The raised rim that stops over-insertion is often compared to the flange on modern anal specula and proctoscopes.",
+    "hi": "अधिक अन्दर जाने से रोकने वाली उभरी किनारी की तुलना अक्सर आधुनिक एनल स्पेकुलम और प्रॉक्टोस्कोप के फ्लैंज से की जाती है।"
+   },
+   "key_terms": [
+    "arśo-yantra",
+    "karṇikā",
+    "chidra"
+   ],
+   "tags": [
+    "yantra",
+    "surgical-instruments",
+    "nadi-yantra",
+    "arsha"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.25.19",
+   "word_meanings": [
+    {
+     "sa": "शम्याख्यम्",
+     "iast": "śamy-ākhyam",
+     "en": "called śamī",
+     "hi": "शमी नामक"
+    },
+    {
+     "sa": "तादृक्",
+     "iast": "tādṛk",
+     "en": "similar",
+     "hi": "वैसा ही"
+    },
+    {
+     "sa": "अच्छिद्रम्",
+     "iast": "a-cchidram",
+     "en": "without an opening",
+     "hi": "बिना छेद का"
+    },
+    {
+     "sa": "यन्त्रम्",
+     "iast": "yantram",
+     "en": "instrument",
+     "hi": "यन्त्र"
+    },
+    {
+     "sa": "अर्शःप्रपीडनम्",
+     "iast": "arśaḥ-prapīḍanam",
+     "en": "for pressing haemorrhoids",
+     "hi": "अर्श को दबाने वाला"
+    },
+    {
+     "sa": "सर्वथा",
+     "iast": "sarvathā",
+     "en": "completely",
+     "hi": "पूरी तरह"
+    },
+    {
+     "sa": "अपनयेत्",
+     "iast": "apanayet",
+     "en": "should remove",
+     "hi": "हटा दे"
+    },
+    {
+     "sa": "ओष्ठम्",
+     "iast": "oṣṭham",
+     "en": "the lip (wall)",
+     "hi": "ओष्ठ (किनारा)"
+    },
+    {
+     "sa": "छिद्रात्",
+     "iast": "chidrāt",
+     "en": "from the opening",
+     "hi": "छेद से"
+    },
+    {
+     "sa": "ऊर्ध्वम्",
+     "iast": "ūrdhvam",
+     "en": "above",
+     "hi": "ऊपर का"
+    },
+    {
+     "sa": "भगन्दरे",
+     "iast": "bhagandare",
+     "en": "in (the instrument for) fistula",
+     "hi": "भगन्दर (यन्त्र) में"
+    }
+   ],
+   "english": "A similar instrument without an opening, called śamī, is used for pressing haemorrhoids. In the instrument for fistula (bhagandara), the lip (wall) above the opening should be completely removed.",
+   "hindi": "वैसा ही बिना छेद वाला यन्त्र, जिसे शमी कहते हैं, अर्श को दबाने के लिए है। भगन्दर के यन्त्र में छेद के ऊपर का ओष्ठ (दीवार) पूरी तरह हटा दिया जाता है।",
+   "explanation_en": "Two variants of the pile instrument: the śamī yantra (solid, for pressing back piles, for example after treatment) and the bhagandara yantra (with the upper wall cut away, giving a wider open field). These variants are good examples of adapting one design to different needs.",
+   "explanation_hi": "अर्शोयन्त्र के दो रूप: शमी यन्त्र (ठोस, अर्श को दबाने के लिए, जैसे चिकित्सा के बाद) और भगन्दर यन्त्र (ऊपरी दीवार कटी हुई, जिससे खुला क्षेत्र अधिक मिले)। ये एक ही बनावट को अलग-अलग आवश्यकताओं के अनुसार बदलने के अच्छे उदाहरण हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "śamī-yantra",
+    "bhagandara-yantra",
+    "arśo-yantra"
+   ],
+   "tags": [
+    "yantra",
+    "surgical-instruments",
+    "nadi-yantra",
+    "arsha"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.25.20",
+   "word_meanings": [
+    {
+     "sa": "घ्राणार्बुदार्शसाम्",
+     "iast": "ghrāṇārbudārśasām",
+     "en": "for nasal polyps and nasal piles",
+     "hi": "नासा-अर्बुद और नासा-अर्श के लिए"
+    },
+    {
+     "sa": "एकच्छिद्रा",
+     "iast": "eka-cchidrā",
+     "en": "with one opening",
+     "hi": "एक छेद वाली"
+    },
+    {
+     "sa": "नाडी",
+     "iast": "nāḍī",
+     "en": "tube",
+     "hi": "नाड़ी"
+    },
+    {
+     "sa": "अङ्गुलद्वया",
+     "iast": "aṅgula-dvayā",
+     "en": "two aṅgula long",
+     "hi": "दो अंगुल लम्बी"
+    },
+    {
+     "sa": "प्रदेशिनीपरीणाहा",
+     "iast": "pradeśinī-parīṇāhā",
+     "en": "with the circumference of the index finger",
+     "hi": "तर्जनी जितनी परिधि वाली"
+    },
+    {
+     "sa": "स्यात्",
+     "iast": "syāt",
+     "en": "should be",
+     "hi": "हो"
+    },
+    {
+     "sa": "भगन्दरयन्त्रवत्",
+     "iast": "bhagandara-yantra-vat",
+     "en": "like the fistula instrument",
+     "hi": "भगन्दर यन्त्र की तरह"
+    }
+   ],
+   "english": "For nasal polyps (arbuda) and nasal piles, there is a tube with one opening, two aṅgula long, with the circumference of the index finger, made like the fistula instrument.",
+   "hindi": "नाक के अर्बुद (पॉलिप) और नासा-अर्श के लिए एक छेद वाली नाड़ी होती है, जो दो अंगुल लम्बी, तर्जनी अंगुली जितनी परिधि वाली और भगन्दर यन्त्र जैसी होती है।",
+   "explanation_en": "This is the ghrāṇa-arbuda/arśo yantra, a small nasal version of the pile instrument: 2 aṅgula long, index-finger thick. It exposes the nasal growth for kṣāra or cautery while protecting the rest of the nasal wall.",
+   "explanation_hi": "यह नासा-अर्बुद/अर्शोयन्त्र है, अर्शोयन्त्र का छोटा नाक वाला रूप: 2 अंगुल लम्बा, तर्जनी जितना मोटा। यह नाक के मस्से को क्षार या अग्नि के लिए खुला रखता है और बाकी नाक की दीवार की रक्षा करता है।",
+   "modern_correlation": {
+    "en": "This broadly parallels the modern nasal speculum, which opens the nasal passage to view and treat lesions such as polyps.",
+    "hi": "यह आधुनिक नेज़ल स्पेकुलम से मिलता है, जो नाक के मार्ग को खोलकर पॉलिप जैसे घावों को देखने और उपचार करने में मदद करता है।"
+   },
+   "key_terms": [
+    "nāsārśa",
+    "nāsārbuda",
+    "nāḍī-yantra"
+   ],
+   "tags": [
+    "yantra",
+    "surgical-instruments",
+    "nadi-yantra"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.25.21",
+   "word_meanings": [
+    {
+     "sa": "अङ्गुलीत्राणकम्",
+     "iast": "aṅgulī-trāṇakam",
+     "en": "finger guard",
+     "hi": "अंगुली-त्राणक (अंगुली रक्षक)"
+    },
+    {
+     "sa": "दान्तम्",
+     "iast": "dāntam",
+     "en": "made of ivory",
+     "hi": "हाथीदाँत का"
+    },
+    {
+     "sa": "वार्क्षम्",
+     "iast": "vārkṣam",
+     "en": "made of wood",
+     "hi": "लकड़ी का"
+    },
+    {
+     "sa": "वा",
+     "iast": "vā",
+     "en": "or",
+     "hi": "या"
+    },
+    {
+     "sa": "चतुरङ्गुलम्",
+     "iast": "catur-aṅgulam",
+     "en": "four aṅgula long",
+     "hi": "चार अंगुल लम्बा"
+    },
+    {
+     "sa": "द्विच्छिद्रम्",
+     "iast": "dvi-cchidram",
+     "en": "with two openings",
+     "hi": "दो छेदों वाला"
+    },
+    {
+     "sa": "गोस्तनाकारम्",
+     "iast": "go-stanākāram",
+     "en": "shaped like a cow's teat",
+     "hi": "गाय के थन जैसा"
+    },
+    {
+     "sa": "तत्",
+     "iast": "tat",
+     "en": "that",
+     "hi": "वह"
+    },
+    {
+     "sa": "वक्त्रविवृतौ",
+     "iast": "vaktra-vivṛtau",
+     "en": "for keeping the mouth open",
+     "hi": "मुँह खुला रखने में"
+    },
+    {
+     "sa": "सुखम्",
+     "iast": "sukham",
+     "en": "convenient",
+     "hi": "सुविधाजनक"
+    }
+   ],
+   "english": "The finger guard (aṅgulītrāṇaka), made of ivory or wood, four aṅgula long, with two openings and shaped like a cow's teat, is convenient for keeping the mouth open.",
+   "hindi": "अंगुली-त्राणक (अंगुली रक्षक) हाथीदाँत या लकड़ी का, चार अंगुल लम्बा, दो छेदों वाला और गाय के थन जैसा होता है; यह मुँह को खुला रखने में सुविधाजनक है।",
+   "explanation_en": "When the physician puts his finger into the patient's mouth (for example to examine the throat or apply medicine), this guard protects the finger from being bitten and keeps the mouth open. Asked as 'aṅgulītrāṇaka: material, size and use'.",
+   "explanation_hi": "जब वैद्य रोगी के मुँह में अंगुली डालता है (जैसे गले की जाँच या दवा लगाने के लिए), तो यह रक्षक अंगुली को काटे जाने से बचाता है और मुँह खुला रखता है। 'अंगुली-त्राणक: पदार्थ, माप और उपयोग' के रूप में पूछा जाता है।",
+   "modern_correlation": {
+    "en": "The aṅgulītrāṇaka is often compared to modern mouth gags, bite blocks and finger guards used in oral and throat examinations.",
+    "hi": "अंगुली-त्राणक की तुलना अक्सर आधुनिक माउथ गैग, बाइट ब्लॉक और मुँह-गले की जाँच में प्रयुक्त फिंगर गार्ड से की जाती है।"
+   },
+   "key_terms": [
+    "aṅgulītrāṇaka",
+    "nāḍī-yantra"
+   ],
+   "tags": [
+    "yantra",
+    "surgical-instruments",
+    "nadi-yantra"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.25.22",
+   "word_meanings": [
+    {
+     "sa": "योनिव्रणेक्षणम्",
+     "iast": "yoni-vraṇekṣaṇam",
+     "en": "instrument for viewing vaginal wounds",
+     "hi": "योनि के व्रण देखने का यन्त्र"
+    },
+    {
+     "sa": "मध्ये",
+     "iast": "madhye",
+     "en": "in the middle",
+     "hi": "बीच में"
+    },
+    {
+     "sa": "सुषिरम्",
+     "iast": "suṣiram",
+     "en": "hollow",
+     "hi": "खोखला"
+    },
+    {
+     "sa": "षोडशाङ्गुलम्",
+     "iast": "ṣoḍaśāṅgulam",
+     "en": "sixteen aṅgula long",
+     "hi": "सोलह अंगुल लम्बा"
+    },
+    {
+     "sa": "मुद्राबद्धम्",
+     "iast": "mudrā-baddham",
+     "en": "bound with a ring",
+     "hi": "छल्ले से बँधा"
+    },
+    {
+     "sa": "चतुर्भित्तम्",
+     "iast": "catur-bhittam",
+     "en": "four-walled (four-bladed)",
+     "hi": "चार दीवारों (पत्तियों) वाला"
+    },
+    {
+     "sa": "अम्भोजमुकुलाननम्",
+     "iast": "ambhoja-mukulānanam",
+     "en": "with a mouth like a lotus bud",
+     "hi": "कमल की कली जैसे मुख वाला"
+    }
+   ],
+   "english": "The instrument for viewing wounds in the vagina (yonivraṇekṣaṇa) is hollow in the middle, sixteen aṅgula long, bound with a ring, four-walled, with a mouth like a lotus bud,",
+   "hindi": "योनि के व्रण देखने का यन्त्र (योनिव्रणेक्षण) बीच में खोखला, सोलह अंगुल लम्बा, छल्ले से बँधा, चार दीवारों (पत्तियों) वाला और कमल की कली जैसे मुख वाला होता है,",
+   "explanation_en": "This is one of the most remarkable instruments in the chapter. It is closed like a lotus bud on insertion and opens like a flower when its rods are pressed (verse 23). It is a favourite example in discussions of Ayurvedic surgical instruments.",
+   "explanation_hi": "यह इस अध्याय के सबसे उल्लेखनीय यन्त्रों में से एक है। अन्दर डालते समय यह कमल की कली की तरह बंद रहता है, और इसकी छड़ें दबाने पर फूल की तरह खुल जाता है (श्लोक 23)। आयुर्वेदिक शल्य-यन्त्रों की चर्चा में यह प्रिय उदाहरण है।",
+   "modern_correlation": {
+    "en": "The yonivraṇekṣaṇa yantra, a multi-bladed instrument that opens after insertion, is often compared to the modern vaginal speculum, especially multi-bladed self-opening designs.",
+    "hi": "योनिव्रणेक्षण यन्त्र, जो कई पत्तियों वाला है और अन्दर जाकर खुलता है, की तुलना अक्सर आधुनिक वेजाइनल स्पेकुलम से की जाती है, विशेषकर कई पत्तियों वाले स्वयं खुलने वाले प्रकार से।"
+   },
+   "key_terms": [
+    "yonivraṇekṣaṇa-yantra",
+    "nāḍī-yantra",
+    "mudrā"
+   ],
+   "tags": [
+    "yantra",
+    "surgical-instruments",
+    "nadi-yantra",
+    "prasuti"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.25.23",
+   "word_meanings": [
+    {
+     "sa": "चतुःशलाकम्",
+     "iast": "catuḥ-śalākam",
+     "en": "with four rods",
+     "hi": "चार शलाकाओं वाला"
+    },
+    {
+     "sa": "आक्रान्तम्",
+     "iast": "ākrāntam",
+     "en": "when pressed",
+     "hi": "दबाने पर"
+    },
+    {
+     "sa": "मूले",
+     "iast": "mūle",
+     "en": "at the base",
+     "hi": "मूल पर"
+    },
+    {
+     "sa": "तत्",
+     "iast": "tat",
+     "en": "it",
+     "hi": "वह"
+    },
+    {
+     "sa": "विकसेत्",
+     "iast": "vikaset",
+     "en": "opens",
+     "hi": "खिल जाता है (खुल जाता है)"
+    },
+    {
+     "sa": "मुखे",
+     "iast": "mukhe",
+     "en": "at the mouth",
+     "hi": "मुख पर"
+    },
+    {
+     "sa": "यन्त्रे",
+     "iast": "yantre",
+     "en": "two instruments",
+     "hi": "दो यन्त्र"
+    },
+    {
+     "sa": "नाडीव्रण",
+     "iast": "nāḍī-vraṇa",
+     "en": "sinus and wounds",
+     "hi": "नाड़ीव्रण और व्रण"
+    },
+    {
+     "sa": "अभ्यङ्ग",
+     "iast": "abhyaṅga",
+     "en": "anointing",
+     "hi": "लेप/अभ्यङ्ग"
+    },
+    {
+     "sa": "क्षालनाय",
+     "iast": "kṣālanāya",
+     "en": "for washing",
+     "hi": "धोने के लिए"
+    },
+    {
+     "sa": "षडङ्गुले",
+     "iast": "ṣaḍ-aṅgule",
+     "en": "six aṅgula long",
+     "hi": "छह अंगुल लम्बे"
+    }
+   ],
+   "english": "with four rods; when it is pressed at the base, it opens at the mouth. Two instruments, six aṅgula long, are used for anointing and washing sinuses (nāḍīvraṇa) and wounds;",
+   "hindi": "चार शलाकाओं वाला; जब इसे मूल पर दबाया जाता है तो यह मुख पर खुल जाता है। नाड़ीव्रण (साइनस) और व्रणों में दवा लगाने और उन्हें धोने के लिए छह अंगुल के दो यन्त्र होते हैं;",
+   "explanation_en": "The mechanism of the speculum is completed: pressing the base spreads the four blades. The second half introduces the wound-irrigation instruments, described in verse 24.",
+   "explanation_hi": "स्पेकुलम की कार्यविधि पूरी होती है: मूल को दबाने से चारों पत्तियाँ फैल जाती हैं। दूसरी पंक्ति व्रण धोने वाले यन्त्र शुरू करती है, जिनका वर्णन श्लोक 24 में है।",
+   "modern_correlation": {
+    "en": "The base-pressure opening mechanism broadly parallels the lever and screw mechanisms of modern specula. The irrigation instruments that follow are often compared to wound-irrigation syringes.",
+    "hi": "मूल दबाकर खुलने की कार्यविधि आधुनिक स्पेकुलम के लीवर और स्क्रू तन्त्र से मिलती है। आगे बताए गए व्रण धोने वाले यन्त्रों की तुलना घाव धोने वाली सिरिंज से की जाती है।"
+   },
+   "key_terms": [
+    "yonivraṇekṣaṇa-yantra",
+    "nāḍīvraṇa",
+    "vraṇa-kṣālana"
+   ],
+   "tags": [
+    "yantra",
+    "surgical-instruments",
+    "nadi-yantra"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.25.24",
+   "word_meanings": [
+    {
+     "sa": "वस्तियन्त्राकृती",
+     "iast": "vasti-yantrākṛtī",
+     "en": "shaped like an enema nozzle",
+     "hi": "वस्ति यन्त्र जैसी आकृति वाले"
+    },
+    {
+     "sa": "मूले",
+     "iast": "mūle",
+     "en": "at the base",
+     "hi": "मूल पर"
+    },
+    {
+     "sa": "मुखे",
+     "iast": "mukhe",
+     "en": "at the tip",
+     "hi": "मुख पर"
+    },
+    {
+     "sa": "अङ्गुष्ठकलायखे",
+     "iast": "aṅguṣṭha-kalāya-khe",
+     "en": "with openings of thumb size and pea size",
+     "hi": "अँगूठे और मटर के बराबर छेद वाले"
+    },
+    {
+     "sa": "अग्रतः",
+     "iast": "agrataḥ",
+     "en": "at the front",
+     "hi": "आगे"
+    },
+    {
+     "sa": "अकर्णिके",
+     "iast": "a-karṇike",
+     "en": "without a flange",
+     "hi": "बिना कर्णिका के"
+    },
+    {
+     "sa": "मूले",
+     "iast": "mūle",
+     "en": "at the base",
+     "hi": "मूल पर"
+    },
+    {
+     "sa": "निबद्धमृदुचर्मणी",
+     "iast": "nibaddha-mṛdu-carmaṇī",
+     "en": "with a soft leather (bag) tied",
+     "hi": "मुलायम चमड़ा बँधा हुआ"
+    }
+   ],
+   "english": "they are shaped like an enema nozzle (vasti-yantra), with an opening the size of the thumb at the base and of a pea (kalāya) at the tip, without a flange at the front, and with a soft leather bag tied at the base.",
+   "hindi": "ये वस्ति यन्त्र (एनिमा नली) जैसे होते हैं, मूल पर अँगूठे के बराबर और सिरे पर मटर (कलाय) के बराबर छेद वाले, आगे कर्णिका (किनारी) रहित, और मूल पर मुलायम चमड़े की थैली बँधी हुई।",
+   "explanation_en": "The irrigation device is a tapering tube with a leather bag at the base: squeezing the bag pushes the fluid out through the narrow tip into the sinus or wound. No flange is needed because it is not inserted deeply like a vasti nozzle.",
+   "explanation_hi": "धोने वाला यन्त्र एक पतली होती नली है जिसके मूल पर चमड़े की थैली है: थैली दबाने से द्रव पतले सिरे से साइनस या घाव में जाता है। इसमें कर्णिका की जरूरत नहीं क्योंकि यह वस्ति-नली की तरह गहरा नहीं डाला जाता।",
+   "modern_correlation": {
+    "en": "A squeezable bag attached to a tapering nozzle is often compared to modern bulb syringes used for wound and cavity irrigation.",
+    "hi": "पतली नली से जुड़ी दबाने वाली थैली की तुलना अक्सर आधुनिक बल्ब सिरिंज से की जाती है, जिससे घाव और गुहाओं को धोया जाता है।"
+   },
+   "key_terms": [
+    "vasti-yantra",
+    "vraṇa-kṣālana",
+    "kalāya"
+   ],
+   "tags": [
+    "yantra",
+    "surgical-instruments",
+    "nadi-yantra"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.25.25",
+   "word_meanings": [
+    {
+     "sa": "द्विद्वारा",
+     "iast": "dvi-dvārā",
+     "en": "with two openings",
+     "hi": "दो छेदों वाली"
+    },
+    {
+     "sa": "नलिका",
+     "iast": "nalikā",
+     "en": "tube",
+     "hi": "नलिका"
+    },
+    {
+     "sa": "पिच्छनलिका",
+     "iast": "piccha-nalikā",
+     "en": "feather-quill tube",
+     "hi": "पंख की नली"
+    },
+    {
+     "sa": "वा",
+     "iast": "vā",
+     "en": "or",
+     "hi": "या"
+    },
+    {
+     "sa": "उदकोदरे",
+     "iast": "udakodare",
+     "en": "in ascites (udakodara)",
+     "hi": "जलोदर में"
+    },
+    {
+     "sa": "धूम",
+     "iast": "dhūma",
+     "en": "smoke",
+     "hi": "धूम"
+    },
+    {
+     "sa": "वस्ति",
+     "iast": "vasti",
+     "en": "enema",
+     "hi": "वस्ति"
+    },
+    {
+     "sa": "आदि",
+     "iast": "ādi",
+     "en": "etc.",
+     "hi": "आदि"
+    },
+    {
+     "sa": "यन्त्राणि",
+     "iast": "yantrāṇi",
+     "en": "instruments",
+     "hi": "यन्त्र"
+    },
+    {
+     "sa": "निर्दिष्टानि",
+     "iast": "nirdiṣṭāni",
+     "en": "have been described",
+     "hi": "बताए जा चुके हैं"
+    },
+    {
+     "sa": "यथायथम्",
+     "iast": "yathā-yatham",
+     "en": "in their proper places",
+     "hi": "अपने-अपने स्थान पर"
+    }
+   ],
+   "english": "In ascites (udakodara), a tube with two openings or a feather-quill tube [is used to drain the fluid]. The instruments for smoking (dhūma), enema (vasti) and so on have been described in their proper places.",
+   "hindi": "जलोदर (उदकोदर) में पानी निकालने के लिए दो छेदों वाली नलिका या पंख की नली का प्रयोग होता है। धूम, वस्ति आदि के यन्त्र अपने-अपने स्थान (सम्बन्धित अध्यायों) में बताए जा चुके हैं।",
+   "explanation_en": "The udakodara tube drains abdominal fluid, an early description of abdominal paracentesis. The dhūma-netra and vasti-netra were already described in chapters 19-21. Exam tip: 'Which yantra is used in jalodara?' Answer: a two-holed nalikā or a pakṣi-piccha nalikā.",
+   "explanation_hi": "उदकोदर नली पेट का पानी निकालती है, जो उदर-पैरासेन्टेसिस का प्राचीन वर्णन है। धूम-नेत्र और वस्ति-नेत्र अध्याय 19-21 में बताए जा चुके हैं। परीक्षा: 'जलोदर में कौन सा यन्त्र?' उत्तर: दो छेदों वाली नलिका या पक्षी-पिच्छ नलिका।",
+   "modern_correlation": {
+    "en": "Draining ascitic fluid through a fine tube broadly parallels modern abdominal paracentesis with a cannula.",
+    "hi": "पतली नली से जलोदर का पानी निकालना, आधुनिक कैनुला द्वारा उदर पैरासेन्टेसिस से मिलता है।"
+   },
+   "key_terms": [
+    "udakodara",
+    "nalikā",
+    "dhūma-netra",
+    "vasti-netra"
+   ],
+   "tags": [
+    "yantra",
+    "surgical-instruments",
+    "nadi-yantra"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.25.26",
+   "word_meanings": [
+    {
+     "sa": "त्र्यङ्गुलास्यम्",
+     "iast": "try-aṅgulāsyam",
+     "en": "with a mouth three aṅgula wide",
+     "hi": "तीन अंगुल के मुख वाला"
+    },
+    {
+     "sa": "भवेत्",
+     "iast": "bhavet",
+     "en": "should be",
+     "hi": "होना चाहिए"
+    },
+    {
+     "sa": "शृङ्गम्",
+     "iast": "śṛṅgam",
+     "en": "the horn",
+     "hi": "शृङ्ग (सींग)"
+    },
+    {
+     "sa": "चूषणे",
+     "iast": "cūṣaṇe",
+     "en": "for suction",
+     "hi": "चूषण के लिए"
+    },
+    {
+     "sa": "अष्टादशाङ्गुलम्",
+     "iast": "aṣṭādaśāṅgulam",
+     "en": "eighteen aṅgula long",
+     "hi": "अठारह अंगुल लम्बा"
+    },
+    {
+     "sa": "अग्रे",
+     "iast": "agre",
+     "en": "at the tip",
+     "hi": "सिरे पर"
+    },
+    {
+     "sa": "सिद्धार्थकच्छिद्रम्",
+     "iast": "siddhārthaka-cchidram",
+     "en": "with a hole the size of a mustard seed",
+     "hi": "सरसों के दाने जितना छेद"
+    },
+    {
+     "sa": "सुनद्धम्",
+     "iast": "su-naddham",
+     "en": "well tied",
+     "hi": "अच्छी तरह बँधा"
+    },
+    {
+     "sa": "चूचुकाकृति",
+     "iast": "cūcukākṛti",
+     "en": "shaped like a nipple",
+     "hi": "चूचुक (स्तनाग्र) के आकार का"
+    }
+   ],
+   "english": "The horn (śṛṅga) used for suction should have a mouth three aṅgula wide and be eighteen aṅgula long, with a hole the size of a mustard seed at the tip, well tied, and shaped like a nipple.",
+   "hindi": "चूषण के लिए प्रयुक्त शृङ्ग (सींग) का मुख तीन अंगुल चौड़ा और लम्बाई अठारह अंगुल होनी चाहिए; उसके सिरे पर सरसों के दाने जितना छेद हो, जो अच्छी तरह बँधा हो और चूचुक के आकार का हो।",
+   "explanation_en": "The śṛṅga is the first of the suction devices (śṛṅga, alābu, ghaṭī). The physician sucks air out through the small hole at the tip to create negative pressure; it is used for bloodletting mainly in vāta-vitiated blood (see chapter 26). Note the dimensions: 18 aṅgula long, 3 aṅgula mouth.",
+   "explanation_hi": "शृङ्ग चूषण यन्त्रों (शृङ्ग, अलाबु, घटी) में पहला है। वैद्य सिरे के छोटे छेद से हवा खींचकर ऋणात्मक दबाव बनाता है; इसका प्रयोग मुख्यतः वात-दूषित रक्त निकालने में होता है (अध्याय 26 देखें)। माप याद रखें: 18 अंगुल लम्बा, 3 अंगुल मुख।",
+   "modern_correlation": {
+    "en": "The śṛṅga, alābu and ghaṭī are commonly compared to cupping therapy, especially wet cupping (hijama), which uses negative pressure to draw blood or fluid from the skin.",
+    "hi": "शृङ्ग, अलाबु और घटी की तुलना आमतौर पर कपिंग थेरेपी से की जाती है, विशेषकर वेट कपिंग (हिजामा), जिसमें ऋणात्मक दबाव से त्वचा से रक्त या द्रव खींचा जाता है।"
+   },
+   "key_terms": [
+    "śṛṅga",
+    "cūṣaṇa",
+    "raktamokṣaṇa"
+   ],
+   "tags": [
+    "yantra",
+    "surgical-instruments",
+    "raktamokshana",
+    "cupping"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.25.27",
+   "word_meanings": [
+    {
+     "sa": "स्यात्",
+     "iast": "syāt",
+     "en": "should be",
+     "hi": "होना चाहिए"
+    },
+    {
+     "sa": "द्वादशाङ्गुलः",
+     "iast": "dvādaśāṅgulaḥ",
+     "en": "twelve aṅgula long",
+     "hi": "बारह अंगुल लम्बा"
+    },
+    {
+     "sa": "अलाबुः",
+     "iast": "alābuḥ",
+     "en": "the gourd",
+     "hi": "अलाबु (तुम्बी)"
+    },
+    {
+     "sa": "नाहे",
+     "iast": "nāhe",
+     "en": "in circumference",
+     "hi": "परिधि में"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "अष्टादशाङ्गुलः",
+     "iast": "aṣṭādaśāṅgulaḥ",
+     "en": "eighteen aṅgula",
+     "hi": "अठारह अंगुल"
+    },
+    {
+     "sa": "चतुस्त्र्यङ्गुलवृत्तास्यः",
+     "iast": "catus-try-aṅgula-vṛttāsyaḥ",
+     "en": "with a round mouth of four or three aṅgula",
+     "hi": "चार या तीन अंगुल के गोल मुख वाला"
+    },
+    {
+     "sa": "दीप्तः",
+     "iast": "dīptaḥ",
+     "en": "lit (with a flame)",
+     "hi": "जलाई हुई (अग्नि से)"
+    },
+    {
+     "sa": "अन्तः",
+     "iast": "antaḥ",
+     "en": "inside",
+     "hi": "अन्दर"
+    },
+    {
+     "sa": "श्लेष्म",
+     "iast": "śleṣma",
+     "en": "kapha",
+     "hi": "कफ"
+    },
+    {
+     "sa": "रक्त",
+     "iast": "rakta",
+     "en": "blood",
+     "hi": "रक्त"
+    },
+    {
+     "sa": "हृत्",
+     "iast": "hṛt",
+     "en": "removing",
+     "hi": "निकालने वाला"
+    }
+   ],
+   "english": "The gourd (alābu) should be twelve aṅgula long and eighteen aṅgula in circumference, with a round mouth of four or three aṅgula. When a flame is lit inside it, it draws out kapha and blood.",
+   "hindi": "अलाबु (तुम्बी) बारह अंगुल लम्बी और अठारह अंगुल परिधि वाली होनी चाहिए, जिसका गोल मुख चार या तीन अंगुल का हो। इसके अन्दर दीपक/अग्नि जलाने पर यह कफ और रक्त को खींच लेती है।",
+   "explanation_en": "The alābu works by fire: a flame inside consumes oxygen and heats the air, and as it cools, suction develops. It is used in kapha-vitiated blood. Compare: śṛṅga uses mouth suction (vāta), alābu uses fire (kapha).",
+   "explanation_hi": "अलाबु अग्नि से काम करती है: अन्दर की ज्वाला हवा को गरम करती है, और ठंडा होने पर चूषण पैदा होता है। इसका प्रयोग कफ-दूषित रक्त में होता है। तुलना करें: शृङ्ग में मुँह से चूषण (वात), अलाबु में अग्नि से (कफ)।",
+   "modern_correlation": {
+    "en": "Creating suction by heating the air inside a vessel is the same physical principle used in traditional fire cupping in many cultures.",
+    "hi": "बर्तन के अन्दर की हवा गरम करके चूषण बनाना वही भौतिक सिद्धान्त है जो कई संस्कृतियों की पारम्परिक फायर-कपिंग में प्रयोग होता है।"
+   },
+   "key_terms": [
+    "alābu",
+    "cūṣaṇa",
+    "śleṣma",
+    "raktamokṣaṇa"
+   ],
+   "tags": [
+    "yantra",
+    "surgical-instruments",
+    "raktamokshana",
+    "cupping"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.25.28",
+   "word_meanings": [
+    {
+     "sa": "तद्वत्",
+     "iast": "tad-vat",
+     "en": "likewise",
+     "hi": "उसी प्रकार"
+    },
+    {
+     "sa": "घटी",
+     "iast": "ghaṭī",
+     "en": "the pot (ghaṭī)",
+     "hi": "घटी (घड़ा)"
+    },
+    {
+     "sa": "हिता",
+     "iast": "hitā",
+     "en": "is useful",
+     "hi": "हितकर है"
+    },
+    {
+     "sa": "गुल्म",
+     "iast": "gulma",
+     "en": "abdominal lump",
+     "hi": "गुल्म"
+    },
+    {
+     "sa": "विलय",
+     "iast": "vilaya",
+     "en": "dissolving",
+     "hi": "विलय (घुलाना)"
+    },
+    {
+     "sa": "उन्नमने",
+     "iast": "unnamane",
+     "en": "raising (lifting)",
+     "hi": "ऊपर उठाने में"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "सा",
+     "iast": "sā",
+     "en": "it",
+     "hi": "वह"
+    },
+    {
+     "sa": "शलाकाख्यानि",
+     "iast": "śalākākhyāni",
+     "en": "called śalākā (rod-like)",
+     "hi": "शलाका नामक"
+    },
+    {
+     "sa": "यन्त्राणि",
+     "iast": "yantrāṇi",
+     "en": "instruments",
+     "hi": "यन्त्र"
+    },
+    {
+     "sa": "नानाकर्माकृतीनि",
+     "iast": "nānā-karmākṛtīni",
+     "en": "of various functions and shapes",
+     "hi": "अनेक कार्य और आकार वाले"
+    }
+   ],
+   "english": "Likewise the pot (ghaṭī) is useful [for drawing out kapha and blood], and it is also used for dissolving and raising (lifting) a gulma (abdominal lump). The rod-like instruments called śalākā are of various functions and shapes,",
+   "hindi": "उसी प्रकार घटी (घड़ा) भी (कफ और रक्त खींचने में) हितकर है, और इसका प्रयोग गुल्म को घुलाने और ऊपर उठाने में भी होता है। शलाका नामक यन्त्र अनेक कार्यों और आकारों के होते हैं,",
+   "explanation_en": "Ghaṭī works like the alābu but is larger; it is also applied over a gulma. Then the śalākā yantras (rod-shaped instruments) are introduced; they are numerous, so their sizes are 'as needed' (verse 29). This classification (svastika, saṃdaṃśa, tāla, nāḍī, śalākā, upayantra) is a core exam topic.",
+   "explanation_hi": "घटी अलाबु की तरह काम करती है पर बड़ी होती है; इसे गुल्म के ऊपर भी लगाया जाता है। फिर शलाका यन्त्र (छड़ जैसे उपकरण) शुरू होते हैं; ये बहुत हैं, इसलिए इनका माप 'आवश्यकता अनुसार' है (श्लोक 29)। यह वर्गीकरण (स्वस्तिक, संदंश, ताल, नाड़ी, शलाका, उपयन्त्र) परीक्षा का मुख्य विषय है।",
+   "modern_correlation": {
+    "en": "Applying a suction cup over an abdominal swelling has no clear modern equivalent; the general cupping parallel applies only to the suction mechanism, not to the claimed effect on gulma.",
+    "hi": "पेट की गाँठ पर चूषण-कप लगाने का कोई स्पष्ट आधुनिक समकक्ष नहीं है; कपिंग से तुलना केवल चूषण की कार्यविधि तक सीमित है, गुल्म पर बताए गए प्रभाव तक नहीं।"
+   },
+   "key_terms": [
+    "ghaṭī",
+    "gulma",
+    "śalākā-yantra"
+   ],
+   "tags": [
+    "yantra",
+    "surgical-instruments",
+    "cupping",
+    "shalaka-yantra"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.25.29",
+   "word_meanings": [
+    {
+     "sa": "यथायोगप्रमाणानि",
+     "iast": "yathā-yoga-pramāṇāni",
+     "en": "with sizes according to use",
+     "hi": "उपयोग के अनुसार माप वाले"
+    },
+    {
+     "sa": "तेषाम्",
+     "iast": "teṣām",
+     "en": "of them",
+     "hi": "उनमें से"
+    },
+    {
+     "sa": "एषणकर्मणी",
+     "iast": "eṣaṇa-karmaṇī",
+     "en": "the two for probing",
+     "hi": "एषण (खोज) के दो"
+    },
+    {
+     "sa": "उभे",
+     "iast": "ubhe",
+     "en": "both",
+     "hi": "दोनों"
+    },
+    {
+     "sa": "गण्डूपदमुखे",
+     "iast": "gaṇḍū-pada-mukhe",
+     "en": "with earthworm-like tips",
+     "hi": "केंचुए जैसे मुख वाले"
+    },
+    {
+     "sa": "स्रोतोभ्यः",
+     "iast": "srotobhyaḥ",
+     "en": "from channels",
+     "hi": "स्रोतों से"
+    },
+    {
+     "sa": "शल्यहारिणी",
+     "iast": "śalya-hāriṇī",
+     "en": "the two for removing foreign bodies",
+     "hi": "शल्य निकालने वाले दो"
+    }
+   ],
+   "english": "with sizes according to their use. Of these, the two used for probing (eṣaṇa) both have tips like an earthworm (gaṇḍūpada). The two that remove foreign bodies from channels",
+   "hindi": "जिनका माप उपयोग के अनुसार होता है। इनमें से एषण (घाव की गहराई खोजने) के लिए दोनों शलाकाओं के मुख केंचुए जैसे (गोल, कोमल) होते हैं। स्रोतों से शल्य निकालने वाली दो शलाकाएँ",
+   "explanation_en": "The eṣaṇī (probe) has a rounded, earthworm-like tip so that it explores a wound or sinus without injuring it. It is a commonly asked instrument: 'Eṣaṇī: gaṇḍūpada-mukha, used for exploring the track (gati) of a sinus'.",
+   "explanation_hi": "एषणी (प्रोब) का सिरा केंचुए जैसा गोल होता है ताकि यह घाव या साइनस को बिना चोट पहुँचाए खोज सके। यह अक्सर पूछा जाता है: 'एषणी: गण्डूपद-मुख, नाड़ीव्रण की गति (मार्ग) खोजने के लिए'।",
+   "modern_correlation": {
+    "en": "The eṣaṇī with its blunt, rounded tip is widely compared to the modern blunt probe (for example a malleable probe) used to explore sinus and fistula tracks.",
+    "hi": "कुंद, गोल सिरे वाली एषणी की तुलना व्यापक रूप से आधुनिक ब्लंट प्रोब (जैसे मुड़ने वाला प्रोब) से की जाती है, जिससे साइनस और फिस्टुला का मार्ग खोजा जाता है।"
+   },
+   "key_terms": [
+    "eṣaṇī",
+    "gaṇḍūpada",
+    "śalākā-yantra"
+   ],
+   "tags": [
+    "yantra",
+    "surgical-instruments",
+    "shalaka-yantra"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.25.30",
+   "word_meanings": [
+    {
+     "sa": "मसूरदलवक्त्रे",
+     "iast": "masūra-dala-vaktre",
+     "en": "with tips like a split lentil",
+     "hi": "मसूर की दाल जैसे मुख वाली"
+    },
+    {
+     "sa": "द्वे",
+     "iast": "dve",
+     "en": "two",
+     "hi": "दो"
+    },
+    {
+     "sa": "स्याताम्",
+     "iast": "syātām",
+     "en": "should be",
+     "hi": "होनी चाहिए"
+    },
+    {
+     "sa": "अष्टनवाङ्गुले",
+     "iast": "aṣṭa-navāṅgule",
+     "en": "eight and nine aṅgula long",
+     "hi": "आठ और नौ अंगुल की"
+    },
+    {
+     "sa": "शङ्कवः",
+     "iast": "śaṅkavaḥ",
+     "en": "pins/hooks (śaṅku)",
+     "hi": "शङ्कु"
+    },
+    {
+     "sa": "षट्",
+     "iast": "ṣaṭ",
+     "en": "six",
+     "hi": "छह"
+    },
+    {
+     "sa": "उभौ",
+     "iast": "ubhau",
+     "en": "two (of them)",
+     "hi": "दो"
+    },
+    {
+     "sa": "तेषाम्",
+     "iast": "teṣām",
+     "en": "of them",
+     "hi": "उनमें से"
+    },
+    {
+     "sa": "षोडशद्वादशाङ्गुलौ",
+     "iast": "ṣoḍaśa-dvādaśāṅgulau",
+     "en": "sixteen and twelve aṅgula long",
+     "hi": "सोलह और बारह अंगुल के"
+    }
+   ],
+   "english": "have tips like a split lentil (masūra-dala) and are eight and nine aṅgula long. There are six śaṅkus (pins/hooks); two of them, sixteen and twelve aṅgula long,",
+   "hindi": "मसूर की दाल जैसे (चपटे) मुख वाली और आठ व नौ अंगुल लम्बी होती हैं। शङ्कु छह होते हैं; उनमें से दो, सोलह और बारह अंगुल के,",
+   "explanation_en": "The masūra-dala-mukha śalākā is used to scoop foreign bodies out of passages like the nose and ear. Then the six śaṅkus are introduced, grouped into three pairs by function (verse 31). Pairs of different lengths allow work at different depths.",
+   "explanation_hi": "मसूरदल-मुख शलाका से नाक और कान जैसे मार्गों से शल्य निकाले जाते हैं। फिर छह शङ्कु बताए जाते हैं, जो कार्य के अनुसार तीन जोड़ों में हैं (श्लोक 31)। अलग लम्बाई के जोड़े अलग गहराई पर काम करने देते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "masūradala",
+    "śaṅku",
+    "śalākā-yantra"
+   ],
+   "tags": [
+    "yantra",
+    "surgical-instruments",
+    "shalaka-yantra"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.25.31",
+   "word_meanings": [
+    {
+     "sa": "व्यूहने",
+     "iast": "vyūhane",
+     "en": "for drawing apart (retracting)",
+     "hi": "व्यूहन (अलग करने/हटाने) में"
+    },
+    {
+     "sa": "अहिफणावक्त्रौ",
+     "iast": "ahi-phaṇā-vaktrau",
+     "en": "with tips like a snake's hood",
+     "hi": "साँप के फन जैसे मुख वाले"
+    },
+    {
+     "sa": "द्वौ",
+     "iast": "dvau",
+     "en": "two",
+     "hi": "दो"
+    },
+    {
+     "sa": "दशद्वादशाङ्गुलौ",
+     "iast": "daśa-dvādaśāṅgulau",
+     "en": "ten and twelve aṅgula long",
+     "hi": "दस और बारह अंगुल के"
+    },
+    {
+     "sa": "चालने",
+     "iast": "cālane",
+     "en": "for moving (loosening)",
+     "hi": "चालन (हिलाने) में"
+    },
+    {
+     "sa": "शरपुङ्खास्यौ",
+     "iast": "śara-puṅkhāsyau",
+     "en": "with tips like an arrow's feathered end",
+     "hi": "बाण के पुंख जैसे मुख वाले"
+    },
+    {
+     "sa": "आहार्ये",
+     "iast": "āhārye",
+     "en": "for extraction",
+     "hi": "निकालने में"
+    },
+    {
+     "sa": "बडिशाकृती",
+     "iast": "baḍiśākṛtī",
+     "en": "hook-shaped",
+     "hi": "बडिश (काँटे) के आकार के"
+    }
+   ],
+   "english": "have tips like a snake's hood and are used for drawing apart (vyūhana); two, ten and twelve aṅgula long, have tips like the feathered end of an arrow and are used for moving (loosening) objects; and [two] hook-shaped ones are used for extraction.",
+   "hindi": "साँप के फन जैसे मुख वाले होते हैं और व्यूहन (ऊतक को हटाने) के काम आते हैं; दो, दस और बारह अंगुल के, बाण के पुंख जैसे मुख वाले होते हैं और चालन (वस्तु को हिलाने) के काम आते हैं; और (दो) बडिश (काँटे) के आकार के निकालने के काम आते हैं।",
+   "explanation_en": "The six śaṅkus: two for vyūhana (spreading tissue), two for cālana (loosening an embedded object), two for āharaṇa (pulling out). This three-step logic (expose, loosen, extract) mirrors foreign-body removal.",
+   "explanation_hi": "छह शङ्कु: दो व्यूहन (ऊतक फैलाने), दो चालन (फँसी वस्तु हिलाने), दो आहरण (बाहर खींचने) के लिए। यह तीन चरणों का तर्क (खोलना, ढीला करना, निकालना) शल्य निकालने की प्रक्रिया जैसा है।",
+   "modern_correlation": {
+    "en": "The śaṅkus are often compared to modern retractors (for drawing tissue apart) and blunt hooks (for extraction).",
+    "hi": "शङ्कुओं की तुलना अक्सर आधुनिक रिट्रैक्टर (ऊतक हटाने के लिए) और कुंद हुक (निकालने के लिए) से की जाती है।"
+   },
+   "key_terms": [
+    "śaṅku",
+    "vyūhana",
+    "cālana",
+    "āharaṇa",
+    "baḍiśa"
+   ],
+   "tags": [
+    "yantra",
+    "surgical-instruments",
+    "shalaka-yantra"
+   ],
+   "importance": "medium",
+   "mnemonic": "Śaṅku pairs: Spread (snake-hood), Shake (arrow-feather), Snatch (hook).",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.25.32",
+   "word_meanings": [
+    {
+     "sa": "नतः",
+     "iast": "nataḥ",
+     "en": "bent",
+     "hi": "मुड़ा हुआ"
+    },
+    {
+     "sa": "अग्रे",
+     "iast": "agre",
+     "en": "at the tip",
+     "hi": "सिरे पर"
+    },
+    {
+     "sa": "शङ्कुना",
+     "iast": "śaṅkunā",
+     "en": "to a śaṅku",
+     "hi": "शङ्कु के"
+    },
+    {
+     "sa": "तुल्यः",
+     "iast": "tulyaḥ",
+     "en": "similar",
+     "hi": "समान"
+    },
+    {
+     "sa": "गर्भशङ्कुः",
+     "iast": "garbha-śaṅkuḥ",
+     "en": "garbha-śaṅku (fetal hook)",
+     "hi": "गर्भशङ्कु"
+    },
+    {
+     "sa": "इति",
+     "iast": "iti",
+     "en": "thus",
+     "hi": "इस प्रकार"
+    },
+    {
+     "sa": "स्मृतः",
+     "iast": "smṛtaḥ",
+     "en": "is known",
+     "hi": "कहा गया है"
+    },
+    {
+     "sa": "अष्टाङ्गुलायतः",
+     "iast": "aṣṭāṅgulāyataḥ",
+     "en": "eight aṅgula long",
+     "hi": "आठ अंगुल लम्बा"
+    },
+    {
+     "sa": "तेन",
+     "iast": "tena",
+     "en": "with it",
+     "hi": "उससे"
+    },
+    {
+     "sa": "मूढगर्भम्",
+     "iast": "mūḍha-garbham",
+     "en": "an obstructed fetus",
+     "hi": "मूढगर्भ (अटका हुआ गर्भ)"
+    },
+    {
+     "sa": "हरेत्",
+     "iast": "haret",
+     "en": "should extract",
+     "hi": "निकाले"
+    },
+    {
+     "sa": "स्त्रियाः",
+     "iast": "striyāḥ",
+     "en": "from a woman",
+     "hi": "स्त्री से"
+    }
+   ],
+   "english": "An instrument like a śaṅku, bent at the tip and eight aṅgula long, is known as the garbha-śaṅku; with it the obstructed (dead) fetus (mūḍhagarbha) should be extracted from the woman.",
+   "hindi": "शङ्कु जैसा, सिरे पर मुड़ा हुआ और आठ अंगुल लम्बा यन्त्र गर्भशङ्कु कहलाता है; इससे स्त्री के गर्भाशय से मूढगर्भ (अटका हुआ, प्रायः मृत गर्भ) निकाला जाता है।",
+   "explanation_en": "Garbha-śaṅku is a commonly asked instrument in both Śalya and Prasūti tantra. Its use is for mūḍhagarbha (obstructed labour), described in Śārīrasthāna. Remember: 8 aṅgula, bent tip.",
+   "explanation_hi": "गर्भशङ्कु शल्य और प्रसूति तन्त्र दोनों में अक्सर पूछा जाने वाला यन्त्र है। इसका प्रयोग मूढगर्भ (अवरुद्ध प्रसव) में होता है, जिसका वर्णन शारीरस्थान में है। याद रखें: 8 अंगुल, मुड़ा सिरा।",
+   "modern_correlation": {
+    "en": "The garbha-śaṅku is often compared to historical obstetric hooks (such as the crotchet) used for extracting an obstructed or dead fetus before modern caesarean techniques became safe.",
+    "hi": "गर्भशङ्कु की तुलना अक्सर ऐतिहासिक प्रसूति हुक (जैसे क्रोशेट) से की जाती है, जिनसे आधुनिक सिजेरियन के सुरक्षित होने से पहले अटका हुआ या मृत गर्भ निकाला जाता था।"
+   },
+   "key_terms": [
+    "garbhaśaṅku",
+    "mūḍhagarbha",
+    "śaṅku"
+   ],
+   "tags": [
+    "yantra",
+    "surgical-instruments",
+    "shalaka-yantra",
+    "prasuti"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.25.33",
+   "word_meanings": [
+    {
+     "sa": "अश्मर्याहरणम्",
+     "iast": "aśmary-āharaṇam",
+     "en": "stone extractor",
+     "hi": "अश्मरी निकालने का यन्त्र"
+    },
+    {
+     "sa": "सर्पफणावत्",
+     "iast": "sarpa-phaṇā-vat",
+     "en": "like a snake's hood",
+     "hi": "साँप के फन की तरह"
+    },
+    {
+     "sa": "वक्रम्",
+     "iast": "vakram",
+     "en": "curved",
+     "hi": "टेढ़ा"
+    },
+    {
+     "sa": "अग्रतः",
+     "iast": "agrataḥ",
+     "en": "at the tip",
+     "hi": "सिरे पर"
+    },
+    {
+     "sa": "शरपुङ्खमुखम्",
+     "iast": "śara-puṅkha-mukham",
+     "en": "with a tip like an arrow's feathered end",
+     "hi": "बाण के पुंख जैसे मुख वाला"
+    },
+    {
+     "sa": "दन्तपातनम्",
+     "iast": "danta-pātanam",
+     "en": "tooth extractor",
+     "hi": "दाँत निकालने का यन्त्र"
+    },
+    {
+     "sa": "चतुरङ्गुलम्",
+     "iast": "catur-aṅgulam",
+     "en": "four aṅgula long",
+     "hi": "चार अंगुल लम्बा"
+    }
+   ],
+   "english": "The stone extractor (aśmaryāharaṇa) is curved at the tip like a snake's hood. The tooth extractor (dantapātana) has a tip like the feathered end of an arrow and is four aṅgula long.",
+   "hindi": "अश्मरी (पथरी) निकालने का यन्त्र सिरे पर साँप के फन की तरह मुड़ा होता है। दाँत निकालने का यन्त्र (दन्तपातन) बाण के पुंख जैसे मुख वाला और चार अंगुल लम्बा होता है।",
+   "explanation_en": "Two specialised śalākā yantras: one for removing bladder stones during lithotomy (aśmarī surgery is described by Suśruta), and one for loosening and extracting teeth. Both are favourite 'name the instrument' items.",
+   "explanation_hi": "दो विशेष शलाका यन्त्र: एक मूत्राशय की पथरी निकालने के लिए (अश्मरी-शस्त्रकर्म सुश्रुत में वर्णित है), और एक दाँत ढीला करके निकालने के लिए। दोनों 'यन्त्र का नाम बताएँ' वाले प्रिय प्रश्न हैं।",
+   "modern_correlation": {
+    "en": "The aśmaryāharaṇa is often compared to the stone scoop or lithotomy forceps of classical lithotomy, and the dantapātana to a dental elevator.",
+    "hi": "अश्मर्याहरण की तुलना अक्सर पारम्परिक लिथोटॉमी के स्टोन स्कूप या लिथोटॉमी फोरसेप्स से, और दन्तपातन की तुलना डेंटल एलिवेटर से की जाती है।"
+   },
+   "key_terms": [
+    "aśmaryāharaṇa",
+    "dantapātana",
+    "aśmarī"
+   ],
+   "tags": [
+    "yantra",
+    "surgical-instruments",
+    "shalaka-yantra"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.25.34",
+   "word_meanings": [
+    {
+     "sa": "कार्पासविहितोष्णीषाः",
+     "iast": "kārpāsa-vihitoṣṇīṣāḥ",
+     "en": "with tips wrapped in cotton",
+     "hi": "सिरों पर रुई लिपटी हुई"
+    },
+    {
+     "sa": "शलाकाः",
+     "iast": "śalākāḥ",
+     "en": "rods",
+     "hi": "शलाकाएँ"
+    },
+    {
+     "sa": "षट्",
+     "iast": "ṣaṭ",
+     "en": "six",
+     "hi": "छह"
+    },
+    {
+     "sa": "प्रमार्जने",
+     "iast": "pramārjane",
+     "en": "for cleaning (swabbing)",
+     "hi": "पोंछने/साफ करने में"
+    },
+    {
+     "sa": "पायौ",
+     "iast": "pāyau",
+     "en": "in the anus",
+     "hi": "गुदा में"
+    },
+    {
+     "sa": "आसन्नदूरार्थे",
+     "iast": "āsanna-dūrārthe",
+     "en": "for near and far (shallow and deep) parts",
+     "hi": "पास और दूर (उथले-गहरे) भाग के लिए"
+    },
+    {
+     "sa": "द्वे",
+     "iast": "dve",
+     "en": "two",
+     "hi": "दो"
+    },
+    {
+     "sa": "दशद्वादशाङ्गुले",
+     "iast": "daśa-dvādaśāṅgule",
+     "en": "ten and twelve aṅgula long",
+     "hi": "दस और बारह अंगुल की"
+    }
+   ],
+   "english": "Six rods with cotton wrapped around their tips are used for cleaning (pramārjana): for the anus, two of ten and twelve aṅgula, for the near and deeper parts;",
+   "hindi": "पोंछने (प्रमार्जन) के लिए छह शलाकाएँ होती हैं जिनके सिरों पर रुई लिपटी होती है: गुदा के लिए दस और बारह अंगुल की दो, पास और गहरे भाग के लिए;",
+   "explanation_en": "These cotton-tipped rods clean pus, blood or medicine from cavities. They come in pairs for three sites: anus (this verse), nose and ear (verse 35). Easy to remember as 'pairs for pāyu, ghrāṇa, karṇa'.",
+   "explanation_hi": "रुई लिपटी ये शलाकाएँ गुहाओं से मवाद, रक्त या दवा साफ करती हैं। ये तीन स्थानों के लिए जोड़ों में हैं: गुदा (इस श्लोक में), नाक और कान (श्लोक 35)। 'पायु, घ्राण, कर्ण के लिए जोड़े' के रूप में याद रखें।",
+   "modern_correlation": {
+    "en": "Cotton-tipped rods are directly comparable to modern cotton-tipped applicators (swab sticks) used to clean body cavities and apply medicines.",
+    "hi": "रुई लिपटी शलाकाओं की सीधी तुलना आधुनिक कॉटन-टिप्ड एप्लीकेटर (स्वैब स्टिक) से की जा सकती है, जिनसे गुहाएँ साफ की जाती हैं और दवा लगाई जाती है।"
+   },
+   "key_terms": [
+    "pramārjana",
+    "śalākā-yantra",
+    "pāyu"
+   ],
+   "tags": [
+    "yantra",
+    "surgical-instruments",
+    "shalaka-yantra"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.25.35",
+   "word_meanings": [
+    {
+     "sa": "द्वे",
+     "iast": "dve",
+     "en": "two",
+     "hi": "दो"
+    },
+    {
+     "sa": "षट्सप्ताङ्गुले",
+     "iast": "ṣaṭ-saptāṅgule",
+     "en": "six and seven aṅgula long",
+     "hi": "छह और सात अंगुल की"
+    },
+    {
+     "sa": "घ्राणे",
+     "iast": "ghrāṇe",
+     "en": "for the nose",
+     "hi": "नाक के लिए"
+    },
+    {
+     "sa": "कर्णे",
+     "iast": "karṇe",
+     "en": "for the ear",
+     "hi": "कान के लिए"
+    },
+    {
+     "sa": "अष्टनवाङ्गुले",
+     "iast": "aṣṭa-navāṅgule",
+     "en": "eight and nine aṅgula long",
+     "hi": "आठ और नौ अंगुल की"
+    },
+    {
+     "sa": "कर्णशोधनम्",
+     "iast": "karṇa-śodhanam",
+     "en": "ear cleaner",
+     "hi": "कर्णशोधन"
+    },
+    {
+     "sa": "अश्वत्थपत्त्रप्रान्तम्",
+     "iast": "aśvattha-pattra-prāntam",
+     "en": "with an edge like a peepal leaf tip",
+     "hi": "पीपल के पत्ते की नोक जैसे सिरे वाला"
+    },
+    {
+     "sa": "स्रुवाननम्",
+     "iast": "sruvānanam",
+     "en": "with a ladle-shaped mouth",
+     "hi": "स्रुवा (यज्ञ की कलछी) जैसे मुख वाला"
+    }
+   ],
+   "english": "two of six and seven aṅgula for the nose, and two of eight and nine aṅgula for the ear. The ear cleaner (karṇaśodhana) has an end like the tip of a peepal (aśvattha) leaf and a ladle-shaped (sruva) mouth.",
+   "hindi": "नाक के लिए छह और सात अंगुल की दो, और कान के लिए आठ और नौ अंगुल की दो। कर्णशोधन यन्त्र का सिरा पीपल के पत्ते की नोक जैसा और मुख स्रुवा (छोटी कलछी) जैसा होता है।",
+   "explanation_en": "The cleaning rods are completed. The karṇaśodhana is a small spoon-like scoop for removing ear wax and debris. Shapes borrowed from familiar objects (peepal leaf, sacrificial ladle) made them easy to describe and reproduce.",
+   "explanation_hi": "पोंछने वाली शलाकाएँ पूरी हुईं। कर्णशोधन एक छोटा चम्मच जैसा स्कूप है जिससे कान का मैल और गंदगी निकाली जाती है। परिचित वस्तुओं (पीपल का पत्ता, यज्ञ की कलछी) के आकार से इन्हें बताना और बनाना आसान था।",
+   "modern_correlation": {
+    "en": "The karṇaśodhana broadly parallels the modern ear curette or wax scoop (and probes such as the Jobson-Horne type) used to remove ear wax.",
+    "hi": "कर्णशोधन आधुनिक ईयर क्यूरेट या वैक्स स्कूप (और जॉब्सन-हॉर्न जैसे प्रोब) से मिलता है, जिनसे कान का मैल निकाला जाता है।"
+   },
+   "key_terms": [
+    "karṇaśodhana",
+    "pramārjana",
+    "śalākā-yantra"
+   ],
+   "tags": [
+    "yantra",
+    "surgical-instruments",
+    "shalaka-yantra"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.25.36",
+   "word_meanings": [
+    {
+     "sa": "शलाका",
+     "iast": "śalākā",
+     "en": "rods",
+     "hi": "शलाकाएँ"
+    },
+    {
+     "sa": "जाम्बवौष्ठानाम्",
+     "iast": "jāmbavauṣṭhānām",
+     "en": "and jāmbavauṣṭhas",
+     "hi": "और जाम्बवौष्ठ"
+    },
+    {
+     "sa": "क्षारे",
+     "iast": "kṣāre",
+     "en": "for caustic alkali",
+     "hi": "क्षार के लिए"
+    },
+    {
+     "sa": "अग्नौ",
+     "iast": "agnau",
+     "en": "for cautery",
+     "hi": "अग्निकर्म के लिए"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "पृथक्",
+     "iast": "pṛthak",
+     "en": "separately",
+     "hi": "अलग-अलग"
+    },
+    {
+     "sa": "त्रयम्",
+     "iast": "trayam",
+     "en": "three each",
+     "hi": "तीन-तीन"
+    },
+    {
+     "sa": "युञ्ज्यात्",
+     "iast": "yuñjyāt",
+     "en": "should use",
+     "hi": "प्रयोग करे"
+    },
+    {
+     "sa": "स्थूलाणुदीर्घाणाम्",
+     "iast": "sthūlāṇu-dīrghāṇām",
+     "en": "thick, fine and long",
+     "hi": "मोटी, पतली और लम्बी"
+    },
+    {
+     "sa": "शलाकाम्",
+     "iast": "śalākām",
+     "en": "a rod",
+     "hi": "शलाका"
+    },
+    {
+     "sa": "अन्त्रवर्धनि",
+     "iast": "antra-vardhani",
+     "en": "in inguinal hernia (antravṛddhi)",
+     "hi": "अन्त्रवृद्धि (हर्निया) में"
+    }
+   ],
+   "english": "Of śalākās and jāmbavauṣṭhas, three each, thick, fine and long, should be used separately for caustic alkali and for cautery. In inguinal hernia (antravṛddhi), a rod",
+   "hindi": "क्षार और अग्निकर्म के लिए अलग-अलग तीन-तीन शलाकाएँ और जाम्बवौष्ठ, मोटे, पतले और लम्बे, प्रयोग करने चाहिए। अन्त्रवृद्धि (हर्निया) में एक शलाका",
+   "explanation_en": "Instruments for kṣāra-karma and agni-karma come in three sizes for different lesions. The jāmbavauṣṭha (with a rounded tip like a jamun fruit) holds heat well for cautery. The hernia rod is described in verse 37.",
+   "explanation_hi": "क्षारकर्म और अग्निकर्म के यन्त्र अलग-अलग घावों के लिए तीन आकारों में होते हैं। जाम्बवौष्ठ (जामुन जैसे गोल सिरे वाला) अग्निकर्म के लिए गरमी अच्छी तरह रोकता है। हर्निया की शलाका श्लोक 37 में बताई गई है।",
+   "modern_correlation": {
+    "en": "The heated rods for agnikarma broadly parallel cautery irons, the historical forerunners of modern electrocautery.",
+    "hi": "अग्निकर्म की गरम शलाकाएँ कॉटरी आयरन से मिलती हैं, जो आधुनिक इलेक्ट्रोकॉटरी के ऐतिहासिक पूर्वज हैं।"
+   },
+   "key_terms": [
+    "jāmbavauṣṭha",
+    "kṣārakarma",
+    "agnikarma",
+    "antravṛddhi"
+   ],
+   "tags": [
+    "yantra",
+    "surgical-instruments",
+    "shalaka-yantra",
+    "agnikarma"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.25.37",
+   "word_meanings": [
+    {
+     "sa": "मध्योर्ध्ववृत्तदण्डाम्",
+     "iast": "madhyordhva-vṛtta-daṇḍām",
+     "en": "with a shaft rounded in the middle and upper part",
+     "hi": "बीच और ऊपर गोल डंडे वाली"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "मूले",
+     "iast": "mūle",
+     "en": "at the base",
+     "hi": "मूल पर"
+    },
+    {
+     "sa": "अर्धेन्दुसंनिभाम्",
+     "iast": "ardhendu-saṃnibhām",
+     "en": "like a half-moon",
+     "hi": "अर्धचन्द्र जैसी"
+    },
+    {
+     "sa": "कोलास्थिदलतुल्यास्या",
+     "iast": "kolāsthi-dala-tulyāsyā",
+     "en": "with a tip like half a jujube seed",
+     "hi": "बेर की गुठली के आधे भाग जैसे मुख वाली"
+    },
+    {
+     "sa": "नासार्शोऽर्बुददाहकृत्",
+     "iast": "nāsārśo-'rbuda-dāha-kṛt",
+     "en": "for cauterising nasal piles and polyps",
+     "hi": "नासा-अर्श और अर्बुद को जलाने वाली"
+    }
+   ],
+   "english": "with a shaft rounded in the middle and upper part and shaped like a half-moon at the base [should be used]. A rod with a tip like half a jujube (kola) seed is used to cauterise nasal piles and polyps.",
+   "hindi": "जिसका डंडा बीच और ऊपर गोल हो और मूल पर अर्धचन्द्र के आकार का हो (उसका प्रयोग करें)। बेर की गुठली के आधे भाग जैसे मुख वाली शलाका से नासा-अर्श और अर्बुद को जलाया (अग्निकर्म) जाता है।",
+   "explanation_en": "Two cautery rods with special shapes: one for antravṛddhi (half-moon base, perhaps to cauterise in a curved line) and one for nasal growths (small rounded tip). Shapes again match the target area.",
+   "explanation_hi": "विशेष आकार की दो अग्निकर्म शलाकाएँ: एक अन्त्रवृद्धि के लिए (अर्धचन्द्र मूल, सम्भवतः वक्र रेखा में दाह के लिए) और एक नाक के मस्सों के लिए (छोटा गोल सिरा)। फिर से आकार लक्ष्य-स्थान से मेल खाता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "agnikarma",
+    "antravṛddhi",
+    "nāsārśa",
+    "ardhacandra"
+   ],
+   "tags": [
+    "yantra",
+    "surgical-instruments",
+    "shalaka-yantra",
+    "agnikarma"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.25.38",
+   "word_meanings": [
+    {
+     "sa": "अष्टाङ्गुलाः",
+     "iast": "aṣṭāṅgulāḥ",
+     "en": "eight aṅgula long",
+     "hi": "आठ अंगुल की"
+    },
+    {
+     "sa": "निम्नमुखाः",
+     "iast": "nimna-mukhāḥ",
+     "en": "with hollowed (scooped) tips",
+     "hi": "गड्ढेदार मुख वाली"
+    },
+    {
+     "sa": "तिस्रः",
+     "iast": "tisraḥ",
+     "en": "three",
+     "hi": "तीन"
+    },
+    {
+     "sa": "क्षारौषधक्रमे",
+     "iast": "kṣārauṣadha-krame",
+     "en": "for applying caustic alkali",
+     "hi": "क्षार लगाने के लिए"
+    },
+    {
+     "sa": "कनीनी",
+     "iast": "kanīnī",
+     "en": "little finger",
+     "hi": "कनिष्ठिका"
+    },
+    {
+     "sa": "मध्यमा",
+     "iast": "madhyamā",
+     "en": "middle finger",
+     "hi": "मध्यमा"
+    },
+    {
+     "sa": "अनामी",
+     "iast": "anāmī",
+     "en": "ring finger",
+     "hi": "अनामिका"
+    },
+    {
+     "sa": "नखमानसमैः",
+     "iast": "nakha-māna-samaiḥ",
+     "en": "equal to the size of the nail",
+     "hi": "नाखून के माप के बराबर"
+    },
+    {
+     "sa": "मुखैः",
+     "iast": "mukhaiḥ",
+     "en": "with tips",
+     "hi": "मुखों से"
+    }
+   ],
+   "english": "Three rods, eight aṅgula long, with hollowed (scoop-like) tips, are used for applying caustic alkali (kṣāra); their tips are equal in size to the nails of the little, middle and ring fingers.",
+   "hindi": "क्षार लगाने के लिए आठ अंगुल लम्बी, गड्ढेदार (कलछी जैसे) मुख वाली तीन शलाकाएँ होती हैं; इनके मुख क्रम से कनिष्ठिका, मध्यमा और अनामिका अंगुली के नाखून के बराबर होते हैं।",
+   "explanation_en": "Kṣāra is a liquid or paste, so the applicator needs a small scoop to hold it. Three scoop sizes allow dosing for small, medium and large lesions. Useful for a short note on 'kṣāra-karma instruments'.",
+   "explanation_hi": "क्षार द्रव या लेप होता है, इसलिए उसे रखने के लिए शलाका में छोटा गड्ढा चाहिए। तीन आकार के गड्ढे छोटे, मध्यम और बड़े घावों के अनुसार मात्रा देने देते हैं। 'क्षारकर्म के यन्त्र' पर छोटे नोट के लिए उपयोगी।",
+   "modern_correlation": {
+    "en": "These scoop-tipped applicators broadly parallel the small spatulas and applicators used today to place chemical cauterising agents precisely on a lesion.",
+    "hi": "ये गड्ढेदार शलाकाएँ आज प्रयोग होने वाले छोटे स्पैचुला और एप्लीकेटर से मिलती हैं, जिनसे रासायनिक दाहक पदार्थ घाव पर ठीक जगह लगाए जाते हैं।"
+   },
+   "key_terms": [
+    "kṣārakarma",
+    "śalākā-yantra"
+   ],
+   "tags": [
+    "yantra",
+    "surgical-instruments",
+    "shalaka-yantra",
+    "ksharakarma"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.25.39",
+   "word_meanings": [
+    {
+     "sa": "स्वं स्वम्",
+     "iast": "svaṃ svam",
+     "en": "each in its own (place)",
+     "hi": "अपने-अपने (स्थान पर)"
+    },
+    {
+     "sa": "उक्तानि",
+     "iast": "uktāni",
+     "en": "are described",
+     "hi": "बताए गए हैं"
+    },
+    {
+     "sa": "यन्त्राणि",
+     "iast": "yantrāṇi",
+     "en": "instruments",
+     "hi": "यन्त्र"
+    },
+    {
+     "sa": "मेढ्रशुद्धि",
+     "iast": "meḍhra-śuddhi",
+     "en": "cleansing of the urethra (penis)",
+     "hi": "मूत्रमार्ग की शुद्धि"
+    },
+    {
+     "sa": "अञ्जनादिषु",
+     "iast": "añjanādiṣu",
+     "en": "in añjana and others",
+     "hi": "अञ्जन आदि में"
+    },
+    {
+     "sa": "अनुयन्त्राणि",
+     "iast": "anu-yantrāṇi",
+     "en": "accessory instruments",
+     "hi": "अनुयन्त्र (उपयन्त्र)"
+    },
+    {
+     "sa": "अयस्कान्त",
+     "iast": "ayas-kānta",
+     "en": "magnet",
+     "hi": "चुम्बक"
+    },
+    {
+     "sa": "रज्जु",
+     "iast": "rajju",
+     "en": "rope",
+     "hi": "रस्सी"
+    },
+    {
+     "sa": "वस्त्र",
+     "iast": "vastra",
+     "en": "cloth",
+     "hi": "कपड़ा"
+    },
+    {
+     "sa": "अश्म",
+     "iast": "aśma",
+     "en": "stone",
+     "hi": "पत्थर"
+    },
+    {
+     "sa": "मुद्गराः",
+     "iast": "mudgarāḥ",
+     "en": "hammer (mallet)",
+     "hi": "मुद्गर (हथौड़ा)"
+    }
+   ],
+   "english": "The instruments for urethral cleansing (meḍhra-śuddhi, i.e., uttaravasti), añjana and so on are described in their own places. The accessory instruments (anuyantra) are: magnet, rope, cloth, stone, mallet,",
+   "hindi": "मूत्रमार्ग-शुद्धि (उत्तरवस्ति), अञ्जन आदि के यन्त्र अपने-अपने स्थान पर बताए गए हैं। अनुयन्त्र (सहायक यन्त्र) ये हैं: चुम्बक, रस्सी, कपड़ा, पत्थर, मुद्गर (हथौड़ा),",
+   "explanation_en": "Anuyantras (also called upayantras) are everyday objects or body parts that can serve as instruments. The list continues in verse 40. The magnet (ayaskānta) is the best-known example, used to draw out iron foreign bodies; it is frequently asked.",
+   "explanation_hi": "अनुयन्त्र (उपयन्त्र भी कहलाते हैं) रोजमर्रा की वस्तुएँ या शरीर के अंग हैं जो यन्त्र का काम कर सकते हैं। सूची श्लोक 40 में जारी है। चुम्बक (अयस्कान्त) सबसे प्रसिद्ध उदाहरण है, जिससे लोहे के शल्य निकाले जाते हैं; यह अक्सर पूछा जाता है।",
+   "modern_correlation": {
+    "en": "Using a magnet to remove iron foreign bodies is still practised; for example, magnets have been used to extract metallic foreign bodies from the eye and other tissues.",
+    "hi": "लोहे के शल्य निकालने के लिए चुम्बक का प्रयोग आज भी होता है; उदाहरण के लिए, आँख और अन्य ऊतकों से धातु के टुकड़े निकालने में चुम्बक प्रयोग किए गए हैं।"
+   },
+   "key_terms": [
+    "anuyantra",
+    "upayantra",
+    "ayaskānta",
+    "uttaravasti"
+   ],
+   "tags": [
+    "yantra",
+    "surgical-instruments",
+    "anuyantra"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.25.40",
+   "word_meanings": [
+    {
+     "sa": "वध्र",
+     "iast": "vadhra",
+     "en": "leather strap",
+     "hi": "चमड़े का पट्टा"
+    },
+    {
+     "sa": "अन्त्र",
+     "iast": "antra",
+     "en": "intestine (gut string)",
+     "hi": "आँत (ताँत)"
+    },
+    {
+     "sa": "जिह्वा",
+     "iast": "jihvā",
+     "en": "tongue",
+     "hi": "जीभ"
+    },
+    {
+     "sa": "वालाः",
+     "iast": "vālāḥ",
+     "en": "hair",
+     "hi": "बाल"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "शाखा",
+     "iast": "śākhā",
+     "en": "branch (of a tree)",
+     "hi": "पेड़ की शाखा"
+    },
+    {
+     "sa": "नख",
+     "iast": "nakha",
+     "en": "nail",
+     "hi": "नाखून"
+    },
+    {
+     "sa": "मुख",
+     "iast": "mukha",
+     "en": "mouth",
+     "hi": "मुख"
+    },
+    {
+     "sa": "द्विजाः",
+     "iast": "dvi-jāḥ",
+     "en": "teeth",
+     "hi": "दाँत"
+    },
+    {
+     "sa": "कालः",
+     "iast": "kālaḥ",
+     "en": "time",
+     "hi": "समय"
+    },
+    {
+     "sa": "पाकः",
+     "iast": "pākaḥ",
+     "en": "suppuration (ripening)",
+     "hi": "पाक (पकना)"
+    },
+    {
+     "sa": "करः",
+     "iast": "karaḥ",
+     "en": "hand",
+     "hi": "हाथ"
+    },
+    {
+     "sa": "पादः",
+     "iast": "pādaḥ",
+     "en": "foot",
+     "hi": "पैर"
+    },
+    {
+     "sa": "भयम्",
+     "iast": "bhayam",
+     "en": "fear",
+     "hi": "भय"
+    },
+    {
+     "sa": "हर्षः",
+     "iast": "harṣaḥ",
+     "en": "joy (excitement)",
+     "hi": "हर्ष"
+    },
+    {
+     "sa": "तत्क्रियाः",
+     "iast": "tat-kriyāḥ",
+     "en": "doing their (the instruments') work",
+     "hi": "यन्त्र का काम करने वाले"
+    }
+   ],
+   "english": "leather strap, gut (intestine), tongue, hair, tree branch, nail, mouth, teeth, time, suppuration (pāka), hand, foot, fear and joy: these do the work of instruments.",
+   "hindi": "चमड़े का पट्टा, आँत (ताँत), जीभ, बाल, पेड़ की शाखा, नाखून, मुख, दाँत, समय, पाक (पकना), हाथ, पैर, भय और हर्ष: ये सब यन्त्र का काम करते हैं।",
+   "explanation_en": "The list shows practical thinking: a foreign body may come out by itself with time or when the wound suppurates (pāka); sudden fear or joy can make a patient move so that an object dislodges; hands, nails and teeth can grasp. 'Kāla' and 'pāka' as anuyantras are interesting viva points.",
+   "explanation_hi": "यह सूची व्यावहारिक सोच दिखाती है: शल्य समय के साथ या घाव पकने (पाक) पर अपने आप निकल सकता है; अचानक भय या हर्ष से रोगी हिलता है और वस्तु निकल जाती है; हाथ, नाखून और दाँत पकड़ने का काम करते हैं। अनुयन्त्र के रूप में 'काल' और 'पाक' मौखिक परीक्षा के रोचक बिन्दु हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "anuyantra",
+    "kāla",
+    "pāka"
+   ],
+   "tags": [
+    "yantra",
+    "surgical-instruments",
+    "anuyantra"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  }
+ ]
+}

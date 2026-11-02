@@ -171,5 +171,7 @@ export class SearchIndex {
 
 /** Keyword normaliser: Sanskrit words written loosely ("dosha", "doṣa", "दोष") meet in the skeleton. */
 function kwNorm(w: string): string {
-  return skeleton(w);
+  const s = skeleton(w);
+  // crude plural stem so "doshas" meets "doṣa"
+  return s.length > 4 && s.endsWith("s") ? s.slice(0, -1) : s;
 }
