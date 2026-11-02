@@ -6,3 +6,4 @@ web-build/
 .env
 .DS_Store
 __pycache__/
+*.whl
