@@ -219,6 +219,17 @@ def wikisource_chapters(path: Path) -> dict[int, list[str]]:
     return out
 
 
+def split_padas(lines: list[str]) -> dict[int, list[str]]:
+    """Cikitsā 1 and 2 are each made of four pādas that restart their verse numbering;
+    each pāda opens with '... pādaṃ vyākhyāsyāmaḥ 1'."""
+    starts = [i for i, l in enumerate(lines) if "पादं व्याख्यास्यामः" in l]
+    out = {}
+    for k, st in enumerate(starts):
+        end = starts[k + 1] if k + 1 < len(starts) else len(lines)
+        out[k + 1] = lines[st:end]
+    return out
+
+
 def segment_verses(lines: list[str], log: list[str], ctx: str) -> "OrderedDict[int, list[str]]":
     """Group Devanagari lines into verses. A line ending in a Devanagari number closes that
     verse; preceding unnumbered lines belong to it. Colophons are dropped. Numbering typos
@@ -233,9 +244,11 @@ def segment_verses(lines: list[str], log: list[str], ctx: str) -> "OrderedDict[i
             if NUM_END.search(line):
                 in_colophon = False
             continue
-        is_agnivesha = bool(re.match(r"^इत्य[ा]?ग्निवेश", line))
+        is_agnivesha = bool(re.match(r"^इत्य[ा]?ग्निवेशकृते", line))
         if is_agnivesha or re.match(r"^इति .*(ऽध्यायः|स्थान[ंम]? समाप्त|समाप्ता)", line) \
-                or re.match(r"^(समाप्तमिदं|सप्तमं कल्पस्थानं|इति (कल्प|सिद्धि)स्थान)", line):
+                or re.match(r"^(समाप्तमिदं|सप्तमं कल्पस्थानं|इति (कल्प|सिद्धि)स्थान)", line) \
+                or (re.match(r"^(इति|समाप्त|इत्य)", line) and len(line.split()) <= 5
+                    and re.search(r"(चतुष्क[ःो]|ध्यायः)(\s|$)", line)):
             in_colophon = not NUM_END.search(line) and is_agnivesha
             buf = []
             continue
@@ -269,13 +282,18 @@ def segment_verses(lines: list[str], log: list[str], ctx: str) -> "OrderedDict[i
         if nxt is None and n <= m and any(("ऽध्याय" in x or " नाम" in x) for x in ls):
             log.append(f"{ctx}: dropped colophon fragment numbered {n}")
             continue
+        if nxt is None and n <= m and not in_sub:
+            log.append(f"{ctx}: last verse numbered {n} after {m} read as {m + 1} (typo in e-text)")
+            out[m + 1] = pending + ls
+            pending = []
+            break
         if in_sub and n == sub_last + 1 and (n != m + 1 or n in nums[i + 1:i + 80]):
             pending.extend(ls[:-1] + [f"{ls[-1]} ({dev_num(n)})"])
             sub_last = n
             continue
         if n == m + 1:
             main = n
-        elif nxt is not None and nxt == m + 2 and n != m + 2:
+        elif n != 1 and any(i + k < len(nums) and nums[i + k] == m + 1 + k for k in (1, 2, 3)):
             log.append(f"{ctx}: number {n} after {m} read as {m + 1} (typo in e-text)")
             main = m + 1
         elif n <= m:
@@ -372,23 +390,29 @@ def build_caraka(log: list[str]) -> tuple[list[dict], dict]:
             key = f"{st}.{ch}"
             use_dcs = st in ("sutra", "nidana", "vimana", "sharira", "indriya") or (st == "chikitsa" and ch <= 5)
             if use_dcs:
-                padas = [p for (s, c, p) in dcs if s == st and c == ch]
+                padas = sorted((p for (s, c, p) in dcs if s == st and c == ch), key=lambda x: x or 0)
                 for p in padas:
                     dch = dcs[(st, ch, p)]
                     merged: dict[int, tuple[str, list[str]]] = {n: ("dcs", ls) for n, ls in dch.items()}
+                    vr_lines = None
                     if p is None and ch in vr.get(st, {}):
-                        vch = segment_verses(vr[st][ch], log, f"vedicreserve CS {key}")
+                        vr_lines = vr[st][ch]
+                    elif p is not None and ch in vr.get(st, {}):
+                        vr_lines = split_padas(vr[st][ch]).get(p)
+                    if vr_lines:
+                        pkey = key if p is None else f"{key}.pada{p}"
+                        vch = segment_verses(vr_lines, log, f"vedicreserve CS {pkey}")
                         med, n_common = check_alignment(dch, vch)
-                        alignment[key] = {"median_similarity": round(med, 3), "common_verses": n_common,
+                        alignment[pkey] = {"median_similarity": round(med, 3), "common_verses": n_common,
                                           "dcs_max": max(dch), "vedicreserve_max": max(vch) if vch else 0}
                         filled = fill_gaps(dch, vch)
                         for n, ls in filled.items():
                             merged[n] = ("vedicreserve", ls)
                         if filled:
-                            log.append(f"CS {key}: filled {len(filled)} verse(s) missing in DCS from Vedic Reserve: {compress(sorted(filled))}")
+                            log.append(f"CS {pkey}: filled {len(filled)} verse(s) missing in DCS from Vedic Reserve: {compress(sorted(filled))}")
                         missing = [n for n in vch if n not in merged and n <= max(vch)]
                         if missing:
-                            log.append(f"CS {key}: Vedic Reserve has numbers {compress(missing)} not in DCS, but local numbering "
+                            log.append(f"CS {pkey}: Vedic Reserve has numbers {compress(missing)} not in DCS, but local numbering "
                                        "could not be verified; NOT filled")
                     for n in sorted(merged):
                         src, ls = merged[n]

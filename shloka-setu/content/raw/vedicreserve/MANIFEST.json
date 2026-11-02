@@ -1,0 +1,45 @@
+{
+ "source": "Maharishi International University (formerly Maharishi University of Management), Vedic Literature Collection ('Vedic Reserve'), Charaka Saṃhitā",
+ "index_url": "https://vedicreserve.miu.edu/charak_samhita.htm",
+ "fetched": "2026-11-02",
+ "fetch_method": "Firecrawl scrape (rawHtml); direct access blocked in build container. Re-fetch with scripts/fetch_web_sources.py",
+ "license": "No reuse licence stated on the site. Treat as reference only; obtain permission from MIU or verify/re-key against a public-domain printed edition before redistribution.",
+ "edition": "Unicode Devanagari text following the Trikamji Acharya edition numbering (verified against DCS: median similarity 1.0 on overlapping verses).",
+ "files": {
+  "charaka_sutra.html": {
+   "url": "https://vedicreserve.miu.edu/charaka/charaka_sutra_new.html",
+   "bytes": 680172,
+   "sha256": "ccdd076cb17a903ba1a87b2344f2a25ec5c1ace7b831ca7e1649a99e7ed52794"
+  },
+  "charaka_nidana.html": {
+   "url": "https://vedicreserve.miu.edu/charaka/nidana_new.html",
+   "bytes": 135631,
+   "sha256": "7d99ced4794ebb2b7c3d55be2c65113d5e37c526d8a47621e0f0074a8260c9dd"
+  },
+  "charaka_vimana.html": {
+   "url": "https://vedicreserve.miu.edu/charaka/vimana_new.html",
+   "bytes": 270255,
+   "sha256": "d54efe03138e455660f1d0781eb8848aa83e86ba8dc6c8fee4983c68915a7142"
+  },
+  "charaka_sharira.html": {
+   "url": "https://vedicreserve.miu.edu/charaka/sharira_new.html",
+   "bytes": 248163,
+   "sha256": "cce146ef44edf0162e215414c7a18adce472ec5e37affc5ea2265cbf211fa161"
+  },
+  "charaka_indriya.html": {
+   "url": "https://vedicreserve.miu.edu/charaka/Indriya_new.html",
+   "bytes": 107704,
+   "sha256": "e9a99247a07705cf1f64a5352a8d268276222a761526e5ce20be4a09d966a0aa"
+  },
+  "charaka_chikitsa_1-15.html": {
+   "url": "https://vedicreserve.miu.edu/charaka/chikitsa_1-15_new.html",
+   "bytes": 725379,
+   "sha256": "7e8a8e54ce9086af10ddfcfb78ceab28c5f4edfb8e567b9729d1f38238cf220e"
+  },
+  "charaka_chikitsa_16-30.html": {
+   "url": "https://vedicreserve.miu.edu/charaka/chikitsa_16-30_new.html",
+   "bytes": 691008,
+   "sha256": "b11fbc11ecfead411bd15832c36e7f49e00d03aa6da9d0b08e864db5837632e6"
+  }
+ }
+}

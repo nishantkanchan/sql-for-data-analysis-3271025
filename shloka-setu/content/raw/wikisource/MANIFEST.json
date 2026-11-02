@@ -1,0 +1,19 @@
+{
+ "source": "Sanskrit Wikisource (sa.wikisource.org), pages चरकसंहिता/कल्पस्थानम् and चरकसंहिता/सिद्धिस्थानम्",
+ "fetched": "2026-11-02",
+ "fetch_method": "Firecrawl scrape of index.php?action=raw (raw wikitext); direct access blocked in build container. Re-fetch with scripts/fetch_web_sources.py",
+ "license": "Wikisource text: CC BY-SA 4.0 (Wikimedia Terms of Use); the underlying Sanskrit work is public domain. Attribute 'Sanskrit Wikisource contributors'.",
+ "edition": "Plain mūla text, numbering as Trikamji Acharya (Siddhi 12 verified against DCS: median similarity 1.0 on overlapping verses).",
+ "files": {
+  "caraka_kalpasthana.wiki": {
+   "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%9A%E0%A4%B0%E0%A4%95%E0%A4%B8%E0%A4%82%E0%A4%B9%E0%A4%BF%E0%A4%A4%E0%A4%BE/%E0%A4%95%E0%A4%B2%E0%A5%8D%E0%A4%AA%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%E0%A4%AE%E0%A5%8D&action=raw",
+   "bytes": 105683,
+   "sha256": "3aab4a9b3f2de9f7f3ffe2db2f5c98b518e071c7d9fc871cedb7001a7566e8ef"
+  },
+  "caraka_siddhisthana.wiki": {
+   "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%9A%E0%A4%B0%E0%A4%95%E0%A4%B8%E0%A4%82%E0%A4%B9%E0%A4%BF%E0%A4%A4%E0%A4%BE/%E0%A4%B8%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%E0%A4%AE%E0%A5%8D&action=raw",
+   "bytes": 229610,
+   "sha256": "85548bbb31ac560158b9bc0ddf2934e5992bc2839faef74b5b7819c267b31e2b"
+  }
+ }
+}
