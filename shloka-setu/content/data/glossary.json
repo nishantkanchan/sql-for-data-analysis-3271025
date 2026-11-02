@@ -10519,6 +10519,1526 @@
         "vyayama"
       ],
       "review_status": "ai_draft"
+    },
+    {
+      "id": "jvara",
+      "devanagari": "ज्वर",
+      "iast": "jvara",
+      "simple": "Jvara",
+      "en": "Fever, called the 'king of diseases' (rogapati); its cardinal feature is santāpa (raised temperature affecting body and mind). Arises from āma in the āmāśaya obstructing channels and driving agni outward. Eight types by doṣa (3 single, 3 dual, sannipāta, āgantu).",
+      "hi": "ज्वर - रोगों का राजा (रोगपति); मुख्य लक्षण सन्ताप; आम द्वारा स्रोतोरोध से अग्नि बाहर; आठ प्रकार।",
+      "modern": "Fever (a symptom of many diseases); classical jvara also includes some non-infectious and mental states.",
+      "category": "nidana",
+      "source_refs": [
+        "AH.nidana.2.1",
+        "AH.chikitsa.1.1",
+        "CS.nidana.1",
+        "CS.chikitsa.3"
+      ],
+      "related": [
+        "jvarahara",
+        "ama",
+        "vishamajvara"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "vishamajvara",
+      "devanagari": "विषमज्वर",
+      "iast": "viṣamajvara",
+      "simple": "Vishamajvara",
+      "en": "Irregular/intermittent fever with five types: santata, satata, anyedyuṣka, tṛtīyaka and caturthaka.",
+      "hi": "विषमज्वर - अनियमित ज्वर; सन्तत, सतत, अन्येद्युष्क, तृतीयक, चतुर्थक।",
+      "modern": "Often compared to intermittent fevers such as malaria (tṛtīyaka and caturthaka resemble tertian and quartan patterns).",
+      "category": "nidana",
+      "source_refs": [
+        "AH.nidana.2",
+        "CS.chikitsa.3"
+      ],
+      "related": [
+        "jvara"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "atisara",
+      "devanagari": "अतिसार",
+      "iast": "atisāra",
+      "simple": "Atisara",
+      "en": "Diarrhoea: excessive passage of liquid stools. Six types: vātaja, pittaja, kaphaja, sannipātaja, bhayaja and śokaja; sāma and nirāma stages guide treatment.",
+      "hi": "अतिसार - दस्त; छह प्रकार: वातज, पित्तज, कफज, सन्निपातज, भयज, शोकज।",
+      "modern": "Diarrhoea.",
+      "category": "nidana",
+      "source_refs": [
+        "AH.nidana.8.1",
+        "AH.chikitsa.9",
+        "CS.chikitsa.19"
+      ],
+      "related": [
+        "pravahika",
+        "grahani-roga",
+        "kutaja"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "pravahika",
+      "devanagari": "प्रवाहिका",
+      "iast": "pravāhikā",
+      "simple": "Pravahika",
+      "en": "Frequent, painful straining with small stools mixed with mucus (and sometimes blood).",
+      "hi": "प्रवाहिका - बार-बार कुन्थन के साथ थोड़ा, आँव (कभी रक्त) युक्त मल।",
+      "modern": "Often compared to dysentery.",
+      "category": "nidana",
+      "source_refs": [
+        "AH.nidana.8",
+        "SS.uttara.40"
+      ],
+      "related": [
+        "atisara"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "grahani-roga",
+      "devanagari": "ग्रहणी रोग",
+      "iast": "grahaṇī roga",
+      "simple": "Grahani Roga",
+      "en": "Disorder of the grahaṇī due to weak agni: stools alternately loose and hard, undigested food in stool, with indigestion and weakness.",
+      "hi": "ग्रहणी रोग - मन्द अग्नि से ग्रहणी विकार; कभी पतला कभी बद्ध मल, अपक्व अन्न युक्त।",
+      "modern": "Often compared to malabsorption syndromes and irritable bowel syndrome.",
+      "category": "nidana",
+      "source_refs": [
+        "AH.nidana.8",
+        "CS.chikitsa.15"
+      ],
+      "related": [
+        "grahani",
+        "atisara",
+        "parpati"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "arsha",
+      "devanagari": "अर्श",
+      "iast": "arśas",
+      "simple": "Arsha",
+      "en": "Fleshy growths in the anal canal that torment like an enemy (ari). Six types (vātaja, pittaja, kaphaja, raktaja, sannipātaja, sahaja), dry (śuṣka) or bleeding (ārdra/srāvī). Treated by drugs, kṣāra, agni and śastra.",
+      "hi": "अर्श - गुदा में मांसांकुर जो शत्रु की तरह पीड़ा दें; छह प्रकार; शुष्क और स्रावी।",
+      "modern": "Haemorrhoids (piles).",
+      "category": "nidana",
+      "source_refs": [
+        "AH.nidana.7.1",
+        "CS.chikitsa.14",
+        "SS.nidana.2"
+      ],
+      "related": [
+        "guda",
+        "kshara-karma",
+        "bhallataka"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "kasa",
+      "devanagari": "कास",
+      "iast": "kāsa",
+      "simple": "Kasa",
+      "en": "Cough, named for its sound. Five types: vātaja, pittaja, kaphaja, kṣataja (from chest injury) and kṣayaja (from tissue wasting).",
+      "hi": "कास - खाँसी; पाँच प्रकार: वातज, पित्तज, कफज, क्षतज, क्षयज।",
+      "modern": "Cough.",
+      "category": "nidana",
+      "source_refs": [
+        "AH.nidana.3",
+        "CS.chikitsa.18"
+      ],
+      "related": [
+        "kasahara",
+        "shvasa"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "shvasa",
+      "devanagari": "श्वास",
+      "iast": "śvāsa",
+      "simple": "Shvasa",
+      "en": "Dyspnoea/breathlessness. Five types: mahā, ūrdhva, chinna, tamaka and kṣudra; it shares causes with hikkā and arises from the āmāśaya with kapha obstructing vāta.",
+      "hi": "श्वास - साँस फूलना; पाँच प्रकार: महा, ऊर्ध्व, छिन्न, तमक, क्षुद्र।",
+      "modern": "Dyspnoea; tamaka śvāsa is often compared to bronchial asthma.",
+      "category": "nidana",
+      "source_refs": [
+        "AH.nidana.4.1",
+        "AH.nidana.4.4",
+        "CS.chikitsa.17"
+      ],
+      "related": [
+        "tamaka-shvasa",
+        "hikka",
+        "pranavaha-srotas"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "tamaka-shvasa",
+      "devanagari": "तमक श्वास",
+      "iast": "tamaka śvāsa",
+      "simple": "Tamaka Shvasa",
+      "en": "Type of śvāsa with attacks of wheezing (ghurghuraka), worse at night and in cold, cloudy weather, relieved by sitting up and expectoration; considered yāpya.",
+      "hi": "तमक श्वास - घुर्घुर ध्वनि, रात्रि व मेघ-ऋतु में वृद्धि, बैठने व कफ निकलने से आराम; याप्य।",
+      "modern": "Often compared to bronchial asthma.",
+      "category": "nidana",
+      "source_refs": [
+        "AH.nidana.4.7",
+        "CS.chikitsa.17"
+      ],
+      "related": [
+        "shvasa"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "hikka",
+      "devanagari": "हिक्का",
+      "iast": "hikkā",
+      "simple": "Hikka",
+      "en": "Hiccup (also hidhmā). Five types: annajā, yamalā, kṣudrā, gambhīrā and mahatī.",
+      "hi": "हिक्का (हिध्मा) - हिचकी; पाँच प्रकार: अन्नजा, यमला, क्षुद्रा, गम्भीरा, महती।",
+      "modern": "Hiccup (singultus).",
+      "category": "nidana",
+      "source_refs": [
+        "AH.nidana.4",
+        "CS.chikitsa.17"
+      ],
+      "related": [
+        "shvasa"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "rajayakshma",
+      "devanagari": "राजयक्ष्मा",
+      "iast": "rājayakṣmā",
+      "simple": "Rajayakshma",
+      "en": "'King of wasting diseases' (also śoṣa, kṣaya), with progressive depletion of dhātus beginning from blocked channels or loss of śukra and ojas; classically it first afflicted the Moon (king of stars). Cardinal features include cough, fever, emaciation and haemoptysis.",
+      "hi": "राजयक्ष्मा (शोष, क्षय) - धातुओं का क्रमिक क्षय; कास, ज्वर, कृशता, रक्तष्ठीवन।",
+      "modern": "Often compared to pulmonary tuberculosis, but the classical concept is broader (wasting states).",
+      "category": "nidana",
+      "source_refs": [
+        "AH.nidana.5",
+        "CS.chikitsa.8"
+      ],
+      "related": [
+        "shosha",
+        "kasa",
+        "ojas-kshaya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "shosha",
+      "devanagari": "शोष",
+      "iast": "śoṣa",
+      "simple": "Shosha",
+      "en": "Wasting/drying of the body and dhātus; used as a synonym of rājayakṣmā and also for wasting from various causes (e.g. excess sex, grief, ageing, travel, injury).",
+      "hi": "शोष - शरीर व धातुओं का सूखना; राजयक्ष्मा का पर्याय।",
+      "modern": "Wasting/cachexia.",
+      "category": "nidana",
+      "source_refs": [
+        "CS.nidana.6"
+      ],
+      "related": [
+        "rajayakshma",
+        "karshya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "prameha",
+      "devanagari": "प्रमेह",
+      "iast": "prameha",
+      "simple": "Prameha",
+      "en": "Group of 20 urinary disorders with excessive and turbid urination: 10 kaphaja, 6 pittaja and 4 vātaja. Medas, kleda and kapha are the main dūṣyas. Untreated, they become incurable (madhumeha).",
+      "hi": "प्रमेह - अधिक व आविल मूत्र वाले 20 रोग: 10 कफज, 6 पित्तज, 4 वातज।",
+      "modern": "Polyuric metabolic disorders; overlaps with diabetes mellitus and other urinary conditions.",
+      "category": "nidana",
+      "source_refs": [
+        "AH.nidana.10.1",
+        "CS.nidana.4",
+        "CS.chikitsa.6"
+      ],
+      "related": [
+        "madhumeha",
+        "sthaulya",
+        "shilajatu"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "madhumeha",
+      "devanagari": "मधुमेह",
+      "iast": "madhumeha",
+      "simple": "Madhumeha",
+      "en": "A vātaja prameha in which the patient passes honey-like (sweet, astringent, pale, dry) urine and the body also becomes sweet; all pramehas when neglected end as madhumeha. Two causes: dhātu-kṣaya and āvaraṇa (obstruction).",
+      "hi": "मधुमेह - वातज प्रमेह; मधु जैसा मीठा मूत्र; उपेक्षित सभी प्रमेह मधुमेह बनते हैं; धातुक्षय और आवरण से।",
+      "modern": "Often compared to diabetes mellitus.",
+      "category": "nidana",
+      "source_refs": [
+        "AH.nidana.10",
+        "CS.chikitsa.6",
+        "CS.sutra.17"
+      ],
+      "related": [
+        "prameha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "kushtha",
+      "devanagari": "कुष्ठ",
+      "iast": "kuṣṭha",
+      "simple": "Kushtha",
+      "en": "Skin diseases in general ('that which disfigures'), always involving all three doṣas with tvak, rakta, māṃsa and ambu (seven dravyas). Caraka: 7 mahākuṣṭha and 11 kṣudrakuṣṭha (18 total). Not limited to leprosy.",
+      "hi": "कुष्ठ - त्वचा रोग; सात द्रव्य दूषित (त्रिदोष + त्वक्, रक्त, मांस, अम्बु); 7 महाकुष्ठ + 11 क्षुद्रकुष्ठ = 18।",
+      "modern": "Skin diseases broadly (eczema, psoriasis, fungal infections, etc.); some descriptions resemble leprosy but kuṣṭha is not synonymous with it.",
+      "category": "nidana",
+      "source_refs": [
+        "AH.nidana.14",
+        "CS.nidana.5",
+        "CS.chikitsa.7"
+      ],
+      "related": [
+        "kushthaghna",
+        "shvitra",
+        "khadira",
+        "kushtha-herb"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "shvitra",
+      "devanagari": "श्वित्र",
+      "iast": "śvitra",
+      "simple": "Shvitra",
+      "en": "White patches of skin without discharge (also kilāsa); Caraka says it arises from untruthfulness, ingratitude, insulting gods/teachers, sins and viruddha āhāra. Old, hairless patches and those on genitals/palms are hard to cure.",
+      "hi": "श्वित्र (किलास) - त्वचा पर सफेद दाग, स्राव रहित।",
+      "modern": "Often compared to vitiligo.",
+      "category": "nidana",
+      "source_refs": [
+        "AH.nidana.14",
+        "CS.chikitsa.7"
+      ],
+      "related": [
+        "kushtha",
+        "bakuchi"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "pandu",
+      "devanagari": "पाण्डु",
+      "iast": "pāṇḍu",
+      "simple": "Pandu",
+      "en": "Disease characterised by pallor (pāṇḍu = yellowish-white), with weakness, breathlessness and loss of ojas qualities. Five types: vātaja, pittaja, kaphaja, sannipātaja and mṛdbhakṣaṇaja (from eating clay) per Caraka.",
+      "hi": "पाण्डु - पीला-सफेद वर्ण, दुर्बलता, श्वास; पाँच प्रकार (मृद्भक्षणजन्य सहित)।",
+      "modern": "Often compared to anaemia.",
+      "category": "nidana",
+      "source_refs": [
+        "AH.nidana.13.4",
+        "CS.chikitsa.16"
+      ],
+      "related": [
+        "kamala",
+        "lauha-metal",
+        "makshika"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "kamala",
+      "devanagari": "कामला",
+      "iast": "kāmalā",
+      "simple": "Kamala",
+      "en": "Yellow discolouration of eyes, skin, urine and nails due to pitta, often following pāṇḍu. Caraka distinguishes koṣṭhāśrita (bahupittā) and śākhāśrita (rūddhapathā, with pale stools).",
+      "hi": "कामला - पित्त से नेत्र, त्वचा, मूत्र का पीलापन; कोष्ठाश्रित और शाखाश्रित।",
+      "modern": "Often compared to jaundice; śākhāśrita kāmalā resembles obstructive jaundice.",
+      "category": "nidana",
+      "source_refs": [
+        "CS.chikitsa.16",
+        "AH.nidana.13"
+      ],
+      "related": [
+        "pandu",
+        "katuki",
+        "yakrit"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "raktapitta",
+      "devanagari": "रक्तपित्त",
+      "iast": "raktapitta",
+      "simple": "Raktapitta",
+      "en": "Bleeding disorder where aggravated pitta vitiates blood, which escapes through upper orifices (ūrdhvaga, kapha-associated), lower orifices (adhoga, vāta-associated) or both (ubhayaga).",
+      "hi": "रक्तपित्त - पित्त से दूषित रक्त का ऊर्ध्व (मुख-नासा), अधो (गुद-मूत्र) या उभय मार्ग से स्राव।",
+      "modern": "Haemorrhagic disorders (e.g. epistaxis, haemoptysis, bleeding diatheses).",
+      "category": "nidana",
+      "source_refs": [
+        "AH.nidana.3",
+        "CS.chikitsa.4"
+      ],
+      "related": [
+        "vasa-herb",
+        "shonitasthapana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "amlapitta",
+      "devanagari": "अम्लपित्त",
+      "iast": "amlapitta",
+      "simple": "Amlapitta",
+      "en": "Disorder of sour (vidagdha) pitta with sour/bitter belching, burning in throat and chest, nausea and indigestion; ūrdhvaga and adhoga types. Described in detail by Kāśyapa and Mādhava.",
+      "hi": "अम्लपित्त - अम्लोद्गार, कण्ठ-हृदय दाह, उत्क्लेश; ऊर्ध्वग व अधोग।",
+      "modern": "Often compared to gastritis, hyperacidity and gastro-oesophageal reflux disease.",
+      "category": "nidana",
+      "source_refs": [],
+      "related": [
+        "vidahi",
+        "madhava-nidana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "amavata",
+      "devanagari": "आमवात",
+      "iast": "āmavāta",
+      "simple": "Amavata",
+      "en": "Disease in which āma, carried by vāta, lodges in kapha sites, especially joints, causing painful swelling, stiffness, fever and heaviness; pain moves like a scorpion sting. First described as a separate disease by Mādhavakara.",
+      "hi": "आमवात - वात द्वारा वहित आम का सन्धियों में स्थित होना; वृश्चिक-दंश जैसी वेदना, शोथ, जकड़न।",
+      "modern": "Often compared to rheumatoid arthritis.",
+      "category": "nidana",
+      "source_refs": [],
+      "related": [
+        "ama",
+        "madhava-nidana",
+        "eranda",
+        "rasna"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "vatarakta",
+      "devanagari": "वातरक्त",
+      "iast": "vātarakta",
+      "simple": "Vatarakta",
+      "en": "Disease in which aggravated vāta is obstructed by vitiated rakta, starting in the small joints of the feet (or hands), with pain, swelling and discolouration; uttāna (superficial) and gambhīra (deep) types. Also called vātaśoṇita, āḍhyavāta.",
+      "hi": "वातरक्त - दुष्ट रक्त द्वारा वात का अवरोध; पैरों के छोटे जोड़ों से आरम्भ; उत्तान व गम्भीर।",
+      "modern": "Often compared to gout, and sometimes to other inflammatory arthropathies.",
+      "category": "nidana",
+      "source_refs": [
+        "AH.nidana.16",
+        "CS.chikitsa.29"
+      ],
+      "related": [
+        "vata",
+        "rakta-dhatu",
+        "guduchi"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "vatavyadhi",
+      "devanagari": "वातव्याधि",
+      "iast": "vātavyādhi",
+      "simple": "Vatavyadhi",
+      "en": "Diseases caused specifically by vāta (80 nānātmaja types), either from dhātu-kṣaya or mārgāvaraṇa (obstruction); includes pakṣāghāta, ardita, gṛdhrasī, sandhivāta and others.",
+      "hi": "वातव्याधि - वात जन्य रोग (80 नानात्मज); धातुक्षय या मार्गावरण से।",
+      "modern": "Largely neuromuscular and musculoskeletal disorders.",
+      "category": "nidana",
+      "source_refs": [
+        "AH.nidana.15",
+        "CS.chikitsa.28"
+      ],
+      "related": [
+        "vata",
+        "avarana",
+        "pakshaghata",
+        "gridhrasi",
+        "sandhivata",
+        "ardita"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "sandhivata",
+      "devanagari": "सन्धिवात",
+      "iast": "sandhivāta",
+      "simple": "Sandhivata",
+      "en": "Vāta lodged in joints producing swelling that feels like an air-filled bag, pain on movement and restricted flexion/extension; described under vātavyādhi.",
+      "hi": "सन्धिवात - सन्धि में वात; वायु भरी थैली जैसा शोथ, गति में वेदना।",
+      "modern": "Often compared to osteoarthritis.",
+      "category": "nidana",
+      "source_refs": [
+        "CS.chikitsa.28"
+      ],
+      "related": [
+        "vatavyadhi",
+        "shleshaka-kapha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "gridhrasi",
+      "devanagari": "गृध्रसी",
+      "iast": "gṛdhrasī",
+      "simple": "Gridhrasi",
+      "en": "Pain beginning in the buttock and radiating down the back of the thigh, knee and calf to the foot with stiffness; the gait resembles a vulture (gṛdhra). Vātaja and vāta-kaphaja types.",
+      "hi": "गृध्रसी - नितम्ब से पैर तक फैलती वेदना; गिद्ध जैसी चाल; वातज और वात-कफज।",
+      "modern": "Often compared to sciatica.",
+      "category": "nidana",
+      "source_refs": [
+        "CS.chikitsa.28",
+        "SS.nidana.1"
+      ],
+      "related": [
+        "vatavyadhi"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "pakshaghata",
+      "devanagari": "पक्षाघात",
+      "iast": "pakṣāghāta",
+      "simple": "Pakshaghata",
+      "en": "Paralysis of one half of the body (pakṣa) with loss of movement and sensation, caused by vāta (often with āvaraṇa).",
+      "hi": "पक्षाघात - शरीर के एक भाग का लकवा।",
+      "modern": "Often compared to hemiplegia (e.g. after stroke).",
+      "category": "nidana",
+      "source_refs": [
+        "CS.chikitsa.28",
+        "SS.nidana.1"
+      ],
+      "related": [
+        "vatavyadhi",
+        "ardita"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "ardita",
+      "devanagari": "अर्दित",
+      "iast": "ardita",
+      "simple": "Ardita",
+      "en": "Deviation of half of the face, with difficulty in speech, closing the eye and eating; caused by vāta.",
+      "hi": "अर्दित - मुख का आधा भाग टेढ़ा होना।",
+      "modern": "Often compared to facial palsy (e.g. Bell's palsy).",
+      "category": "nidana",
+      "source_refs": [
+        "CS.chikitsa.28",
+        "SS.nidana.1"
+      ],
+      "related": [
+        "vatavyadhi",
+        "pakshaghata"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "kampavata",
+      "devanagari": "कम्पवात",
+      "iast": "kampavāta",
+      "simple": "Kampavata",
+      "en": "Tremor disorder due to vāta (vepathu in the classics; named kampavāta in Basavarājīyam).",
+      "hi": "कम्पवात (वेपथु) - वात से कम्पन।",
+      "modern": "Often compared to Parkinson's disease.",
+      "category": "nidana",
+      "source_refs": [],
+      "related": [
+        "vatavyadhi",
+        "kapikacchu"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "apasmara",
+      "devanagari": "अपस्मार",
+      "iast": "apasmāra",
+      "simple": "Apasmara",
+      "en": "Episodic loss of memory/consciousness (apa-smṛti) with abhorrent movements, due to doṣas affecting the heart, mind and channels of consciousness. Four types: vātaja, pittaja, kaphaja, sannipātaja.",
+      "hi": "अपस्मार - स्मृति का अपगम; दौरे में संज्ञानाश, विकृत चेष्टाएँ; चार प्रकार।",
+      "modern": "Often compared to epilepsy.",
+      "category": "nidana",
+      "source_refs": [
+        "AH.uttara.7.1",
+        "CS.nidana.8",
+        "CS.chikitsa.10"
+      ],
+      "related": [
+        "unmada",
+        "medhya",
+        "brahmi"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "unmada",
+      "devanagari": "उन्माद",
+      "iast": "unmāda",
+      "simple": "Unmada",
+      "en": "Derangement of mind, intellect, consciousness, memory, desires, conduct and behaviour. Six types per Vāgbhaṭa: three doṣaja, sannipātaja, ādhija (grief) and viṣaja; Caraka also describes āgantu (bhūta) unmāda.",
+      "hi": "उन्माद - मन, बुद्धि, संज्ञा, स्मृति, आचार का विभ्रम; छह प्रकार।",
+      "modern": "Often compared to psychotic disorders.",
+      "category": "nidana",
+      "source_refs": [
+        "AH.uttara.6.1",
+        "CS.nidana.7",
+        "CS.chikitsa.9"
+      ],
+      "related": [
+        "apasmara",
+        "manovaha-srotas",
+        "manasa-roga"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "hridroga",
+      "devanagari": "हृद्रोग",
+      "iast": "hṛdroga",
+      "simple": "Hridroga",
+      "en": "Heart disease, five types: vātaja, pittaja, kaphaja, sannipātaja and krimija.",
+      "hi": "हृद्रोग - हृदय रोग; पाँच प्रकार (कृमिज सहित)।",
+      "modern": "Heart disease (broad; correlation of types with specific modern diseases is speculative).",
+      "category": "nidana",
+      "source_refs": [
+        "AH.chikitsa.6",
+        "CS.chikitsa.26"
+      ],
+      "related": [
+        "hridaya",
+        "arjuna"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "udara",
+      "devanagari": "उदर",
+      "iast": "udara",
+      "simple": "Udara (Disease)",
+      "en": "Abdominal enlargement, arising mainly from weak agni and blocked channels; eight types: vātaja, pittaja, kaphaja, sannipātaja (dūṣyodara), plīhodara, baddhodara, kṣatodara and jalodara.",
+      "hi": "उदर रोग - पेट का बढ़ना; मन्दाग्नि मुख्य कारण; आठ प्रकार (जलोदर सहित)।",
+      "modern": "Abdominal distension; jalodara is often compared to ascites.",
+      "category": "nidana",
+      "source_refs": [
+        "AH.nidana.12.1",
+        "CS.chikitsa.13"
+      ],
+      "related": [
+        "mandagni",
+        "pliha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "gulma",
+      "devanagari": "गुल्म",
+      "iast": "gulma",
+      "simple": "Gulma",
+      "en": "A round, mobile or fixed mass in the abdomen between heart and bladder, like a knot of air, without suppuration; five types: three doṣaja, sannipātaja and raktaja (in women).",
+      "hi": "गुल्म - हृदय-बस्ति के बीच गोल, चल या स्थिर गाँठ, पाकरहित; पाँच प्रकार।",
+      "modern": "Abdominal masses or phantom swellings; correlation is uncertain.",
+      "category": "nidana",
+      "source_refs": [
+        "AH.nidana.11",
+        "CS.chikitsa.5"
+      ],
+      "related": [
+        "udara",
+        "vata"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "shotha",
+      "devanagari": "शोथ",
+      "iast": "śotha",
+      "simple": "Shotha",
+      "en": "Swelling (also śvayathu, śopha), local or general, of vātaja, pittaja, kaphaja and other types; nija or āgantuja.",
+      "hi": "शोथ (श्वयथु) - सूजन; स्थानीय या सर्वाङ्ग।",
+      "modern": "Oedema/inflammatory swelling.",
+      "category": "nidana",
+      "source_refs": [
+        "AH.nidana.13",
+        "CS.chikitsa.12"
+      ],
+      "related": [
+        "shothahara",
+        "punarnava",
+        "vrana-shotha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "visarpa",
+      "devanagari": "विसर्प",
+      "iast": "visarpa",
+      "simple": "Visarpa",
+      "en": "Rapidly spreading (visarpaṇa) inflammatory skin condition involving rakta, lasīkā, tvak and māṃsa; seven types (vātaja, pittaja, kaphaja, sannipātaja, agni, granthi, kardama).",
+      "hi": "विसर्प - तेज़ी से फैलने वाला त्वचा-शोथ; सात प्रकार।",
+      "modern": "Often compared to erysipelas and cellulitis; some forms resemble herpes zoster.",
+      "category": "nidana",
+      "source_refs": [
+        "AH.nidana.13",
+        "CS.chikitsa.21"
+      ],
+      "related": [
+        "kushtha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "vidradhi",
+      "devanagari": "विद्रधि",
+      "iast": "vidradhi",
+      "simple": "Vidradhi",
+      "en": "Abscess: a deep, painful, rapidly suppurating swelling, external or internal.",
+      "hi": "विद्रधि - गहरा, पीड़ायुक्त, शीघ्र पकने वाला शोथ (बाह्य/आभ्यन्तर)।",
+      "modern": "Abscess.",
+      "category": "nidana",
+      "source_refs": [
+        "AH.nidana.11",
+        "SS.nidana.9"
+      ],
+      "related": [
+        "vrana-shotha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "mutrakricchra",
+      "devanagari": "मूत्रकृच्छ्र",
+      "iast": "mūtrakṛcchra",
+      "simple": "Mutrakricchra",
+      "en": "Painful and difficult urination; eight types per Caraka.",
+      "hi": "मूत्रकृच्छ्र - कष्टपूर्वक मूत्र त्याग; आठ प्रकार।",
+      "modern": "Dysuria (e.g. urinary tract infection).",
+      "category": "nidana",
+      "source_refs": [
+        "CS.chikitsa.26"
+      ],
+      "related": [
+        "mutraghata",
+        "gokshura"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "mutraghata",
+      "devanagari": "मूत्राघात",
+      "iast": "mūtrāghāta",
+      "simple": "Mutraghata",
+      "en": "Obstruction or suppression of urine (retention), with several types including aṣṭhīlā and mūtrotsaṅga; distinguished from mūtrakṛcchra by obstruction predominating over pain.",
+      "hi": "मूत्राघात - मूत्र का अवरोध/अल्पता।",
+      "modern": "Urinary retention / obstructive uropathy (e.g. prostatic enlargement).",
+      "category": "nidana",
+      "source_refs": [
+        "AH.nidana.9.1",
+        "AH.chikitsa.11"
+      ],
+      "related": [
+        "mutrakricchra",
+        "basti"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "krimi",
+      "devanagari": "कृमि",
+      "iast": "kṛmi",
+      "simple": "Krimi",
+      "en": "Worms and microorganisms: Caraka describes 20 types, external (bāhya: lice etc.) and internal (purīṣaja, śleṣmaja, raktaja).",
+      "hi": "कृमि - कीड़े/सूक्ष्म जीव; 20 प्रकार; बाह्य और आभ्यन्तर।",
+      "modern": "Parasites (helminths, lice) and, for raktaja types, possibly microorganisms.",
+      "category": "nidana",
+      "source_refs": [
+        "CS.vimana.7",
+        "AH.nidana.14"
+      ],
+      "related": [
+        "krimighna",
+        "vidanga"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "chhardi",
+      "devanagari": "छर्दि",
+      "iast": "chardi",
+      "simple": "Chhardi",
+      "en": "Vomiting: five types (vātaja, pittaja, kaphaja, sannipātaja and dviṣṭārtha-saṃyogaja, from disliked objects).",
+      "hi": "छर्दि - वमन (उल्टी); पाँच प्रकार।",
+      "modern": "Vomiting.",
+      "category": "nidana",
+      "source_refs": [
+        "AH.chikitsa.6",
+        "CS.chikitsa.20"
+      ],
+      "related": [
+        "chhardinigrahana",
+        "ela"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "trishna",
+      "devanagari": "तृष्णा",
+      "iast": "tṛṣṇā",
+      "simple": "Trishna",
+      "en": "Morbid thirst, a disease when excessive; Caraka describes five types and Suśruta seven. Normal thirst is a vega that should not be suppressed.",
+      "hi": "तृष्णा - अत्यधिक प्यास (रोग); सामान्य प्यास अधारणीय वेग।",
+      "modern": "Polydipsia/pathological thirst.",
+      "category": "nidana",
+      "source_refs": [
+        "CS.chikitsa.22",
+        "AH.chikitsa.6"
+      ],
+      "related": [
+        "udakavaha-srotas",
+        "vega"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "arochaka",
+      "devanagari": "अरोचक",
+      "iast": "arocaka",
+      "simple": "Arochaka",
+      "en": "Loss of taste/relish for food although hunger may be present (aruci); five types.",
+      "hi": "अरोचक (अरुचि) - भोजन में रुचि न होना।",
+      "modern": "Anorexia / loss of appetite.",
+      "category": "nidana",
+      "source_refs": [],
+      "related": [
+        "dipana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "ajirna",
+      "devanagari": "अजीर्ण",
+      "iast": "ajīrṇa",
+      "simple": "Ajirna",
+      "en": "Indigestion; four main types: āma (kapha), vidagdha (pitta), viṣṭabdha (vāta) and rasaśeṣa. Considered a root of many diseases.",
+      "hi": "अजीर्ण - अपच; चार प्रकार: आम, विदग्ध, विष्टब्ध, रसशेष।",
+      "modern": "Dyspepsia.",
+      "category": "nidana",
+      "source_refs": [
+        "SS.sutra.46",
+        "AH.sutra.8"
+      ],
+      "related": [
+        "ama",
+        "mandagni",
+        "alasaka",
+        "vishuchika"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "vishuchika",
+      "devanagari": "विषूचिका",
+      "iast": "viṣūcikā",
+      "simple": "Vishuchika",
+      "en": "Acute condition from overeating/indigestion with simultaneous vomiting and diarrhoea and piercing pains as if by needles (sūcī).",
+      "hi": "विषूचिका - सुई चुभने जैसी पीड़ा के साथ एक साथ वमन और अतिसार।",
+      "modern": "Often compared to cholera / acute gastroenteritis.",
+      "category": "nidana",
+      "source_refs": [
+        "AH.sutra.8",
+        "CS.vimana.2"
+      ],
+      "related": [
+        "ajirna",
+        "alasaka"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "alasaka",
+      "devanagari": "अलसक",
+      "iast": "alasaka",
+      "simple": "Alasaka",
+      "en": "Indigestion in which food stagnates in the gut without vomiting or purging, with distension and pain; its severe form is daṇḍālasaka.",
+      "hi": "अलसक - अन्न आमाशय में रुका रहे, न वमन न विरेचन; आध्मान।",
+      "modern": "Comparable to acute gastric stasis/ileus-like states.",
+      "category": "nidana",
+      "source_refs": [
+        "AH.sutra.8",
+        "CS.vimana.2"
+      ],
+      "related": [
+        "vishuchika",
+        "ajirna"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "sthaulya",
+      "devanagari": "स्थौल्य",
+      "iast": "sthaulya",
+      "simple": "Sthaulya",
+      "en": "Obesity: excess medas and māṃsa, with pendulous buttocks, abdomen and breasts and reduced enthusiasm; one of Caraka's eight nindita (undesirable) body types; medoroga.",
+      "hi": "स्थौल्य - मोटापा; मेद-मांस की अधिकता; चरक के आठ निन्दित पुरुषों में।",
+      "modern": "Obesity.",
+      "category": "nidana",
+      "source_refs": [
+        "CS.sutra.21"
+      ],
+      "related": [
+        "meda-dhatu",
+        "karshya",
+        "lekhana",
+        "guggulu"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "karshya",
+      "devanagari": "कार्श्य",
+      "iast": "kārśya",
+      "simple": "Karshya",
+      "en": "Emaciation/underweight; Caraka considers excessive thinness worse than obesity in some respects. One of the eight nindita types.",
+      "hi": "कार्श्य - अत्यधिक दुबलापन; आठ निन्दित पुरुषों में।",
+      "modern": "Underweight/undernutrition.",
+      "category": "nidana",
+      "source_refs": [
+        "CS.sutra.21"
+      ],
+      "related": [
+        "sthaulya",
+        "brimhana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "shirahshula",
+      "devanagari": "शिरःशूल",
+      "iast": "śiraḥśūla",
+      "simple": "Shirahshula",
+      "en": "Headache (śiroroga); includes ardhāvabhedaka (half-sided headache) and sūryāvarta (headache waxing and waning with the sun).",
+      "hi": "शिरःशूल - सिरदर्द; अर्धावभेदक, सूर्यावर्त आदि।",
+      "modern": "Headache; ardhāvabhedaka is often compared to migraine.",
+      "category": "nidana",
+      "source_refs": [
+        "AH.uttara.23",
+        "CS.sutra.17"
+      ],
+      "related": [
+        "ardhavabhedaka",
+        "shiras",
+        "nasya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "sannipata",
+      "devanagari": "सन्निपात",
+      "iast": "sannipāta",
+      "simple": "Sannipata",
+      "en": "Simultaneous vitiation of all three doṣas; such diseases are generally severe and hard to cure. Combination of two doṣas is saṃsarga.",
+      "hi": "सन्निपात - तीनों दोषों का एक साथ प्रकोप; दो दोषों का = संसर्ग।",
+      "modern": "",
+      "category": "nidana",
+      "source_refs": [
+        "AH.sutra.1.12"
+      ],
+      "related": [
+        "dosha",
+        "samsarga"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "samsarga",
+      "devanagari": "संसर्ग",
+      "iast": "saṃsarga",
+      "simple": "Samsarga",
+      "en": "Combined vitiation of two doṣas (dvandva).",
+      "hi": "संसर्ग - दो दोषों का एक साथ प्रकोप।",
+      "modern": "",
+      "category": "nidana",
+      "source_refs": [
+        "AH.sutra.1.12",
+        "AH.sutra.12.74"
+      ],
+      "related": [
+        "sannipata"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "chikitsa",
+      "devanagari": "चिकित्सा",
+      "iast": "cikitsā",
+      "simple": "Chikitsa",
+      "en": "Treatment: all measures that restore balance of the dhātus (doṣas, tissues, wastes). Caraka defines it as the effort that brings imbalanced dhātus back to equilibrium; synonyms include bheṣaja, praśamana, prakṛti-sthāpana and hita.",
+      "hi": "चिकित्सा - विषम धातुओं को सम करने वाला प्रयत्न; पर्याय भेषज, प्रशमन, प्रकृतिस्थापन।",
+      "modern": "Therapeutics.",
+      "category": "chikitsa",
+      "source_refs": [
+        "CS.sutra.16",
+        "CS.chikitsa.1"
+      ],
+      "related": [
+        "chikitsa-chatushpada",
+        "samshodhana",
+        "samshamana",
+        "dhatusamya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "chikitsa-chatushpada",
+      "devanagari": "चिकित्सा चतुष्पाद",
+      "iast": "cikitsā catuṣpāda",
+      "simple": "Four Limbs of Treatment",
+      "en": "The four 'feet' of treatment: bhiṣak (physician), dravya (drug), upasthātā (attendant/nurse) and rogī (patient), each with four qualities. The physician is the most important.",
+      "hi": "चिकित्सा चतुष्पाद - भिषक्, द्रव्य, उपस्थाता, रोगी; प्रत्येक के चार गुण; वैद्य प्रधान।",
+      "modern": "",
+      "category": "chikitsa",
+      "source_refs": [
+        "AH.sutra.1.27",
+        "AH.sutra.1.28",
+        "AH.sutra.1.29",
+        "CS.sutra.9"
+      ],
+      "related": [
+        "bhishak",
+        "prashasta-bheshaja",
+        "upasthata"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "bhishak",
+      "devanagari": "भिषक्",
+      "iast": "bhiṣak",
+      "simple": "Bhishak",
+      "en": "Physician (also vaidya). Ideal qualities: dakṣa (skilful), learned from a proper teacher, experienced in practice and pure (śuci).",
+      "hi": "भिषक् (वैद्य) - चिकित्सक; गुण: दक्ष, गुरु से शास्त्र ज्ञान, दृष्टकर्मा, शुचि।",
+      "modern": "Physician.",
+      "category": "chikitsa",
+      "source_refs": [
+        "AH.sutra.1.28",
+        "CS.sutra.9"
+      ],
+      "related": [
+        "chikitsa-chatushpada",
+        "vaidya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "upasthata",
+      "devanagari": "उपस्थाता",
+      "iast": "upasthātā",
+      "simple": "Upasthata",
+      "en": "Attendant/nurse, one of the four limbs of treatment; should be devoted, clean, skilful and intelligent.",
+      "hi": "उपस्थाता (परिचारक) - अनुरक्त, शुचि, दक्ष, बुद्धिमान।",
+      "modern": "Nurse/caregiver.",
+      "category": "chikitsa",
+      "source_refs": [
+        "AH.sutra.1.29",
+        "CS.sutra.9"
+      ],
+      "related": [
+        "chikitsa-chatushpada"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "trividha-aushadha",
+      "devanagari": "त्रिविध औषध",
+      "iast": "trividha auṣadha",
+      "simple": "Three Kinds of Therapy",
+      "en": "Caraka's three approaches to treatment: daivavyapāśraya (spiritual/faith-based), yuktivyapāśraya (rational: diet, drugs, procedures) and sattvāvajaya (control of the mind).",
+      "hi": "त्रिविध औषध - दैवव्यपाश्रय, युक्तिव्यपाश्रय, सत्त्वावजय।",
+      "modern": "",
+      "category": "chikitsa",
+      "source_refs": [
+        "CS.sutra.11"
+      ],
+      "related": [
+        "daivavyapashraya",
+        "yuktivyapashraya",
+        "sattvavajaya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "daivavyapashraya",
+      "devanagari": "दैवव्यपाश्रय",
+      "iast": "daivavyapāśraya",
+      "simple": "Daivavyapashraya",
+      "en": "Faith/spiritual therapy: mantras, auspicious acts, offerings, prayers, gems, fasting, pilgrimage and the like.",
+      "hi": "दैवव्यपाश्रय - मन्त्र, मंगल कर्म, बलि, होम, मणि धारण, उपवास आदि।",
+      "modern": "Comparable to spiritual care and placebo-related healing rituals.",
+      "category": "chikitsa",
+      "source_refs": [
+        "CS.sutra.11"
+      ],
+      "related": [
+        "trividha-aushadha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "yuktivyapashraya",
+      "devanagari": "युक्तिव्यपाश्रय",
+      "iast": "yuktivyapāśraya",
+      "simple": "Yuktivyapashraya",
+      "en": "Rational therapy based on reasoning: appropriate planning of diet and medicines (antaḥparimārjana, bahiḥparimārjana and śastrapraṇidhāna).",
+      "hi": "युक्तिव्यपाश्रय - युक्तिपूर्वक आहार-औषध योजना; अन्तःपरिमार्जन, बहिःपरिमार्जन, शस्त्रप्रणिधान।",
+      "modern": "Rational/pharmacological and procedural medicine.",
+      "category": "chikitsa",
+      "source_refs": [
+        "CS.sutra.11"
+      ],
+      "related": [
+        "trividha-aushadha",
+        "yukti",
+        "antahparimarjana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "sattvavajaya",
+      "devanagari": "सत्त्वावजय",
+      "iast": "sattvāvajaya",
+      "simple": "Sattvavajaya",
+      "en": "'Conquest of the mind': withdrawing the mind from unwholesome objects through knowledge (jñāna), science (vijñāna), courage (dhairya), memory (smṛti) and concentration (samādhi).",
+      "hi": "सत्त्वावजय - अहितकर विषयों से मन को रोकना; ज्ञान, विज्ञान, धैर्य, स्मृति, समाधि द्वारा।",
+      "modern": "Often compared to psychotherapy and counselling.",
+      "category": "chikitsa",
+      "source_refs": [
+        "CS.sutra.11",
+        "CS.sutra.1"
+      ],
+      "related": [
+        "trividha-aushadha",
+        "manasa-roga",
+        "manas"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "antahparimarjana",
+      "devanagari": "अन्तःपरिमार्जन",
+      "iast": "antaḥparimārjana",
+      "simple": "Antahparimarjana",
+      "en": "Internal medication: treatment given inside the body (oral drugs, diet) for diseases due to faulty diet.",
+      "hi": "अन्तःपरिमार्जन - शरीर के भीतर दी जाने वाली चिकित्सा (मुख से औषध, आहार)।",
+      "modern": "Internal (systemic) therapy.",
+      "category": "chikitsa",
+      "source_refs": [
+        "CS.sutra.11"
+      ],
+      "related": [
+        "bahihparimarjana",
+        "shastrapranidhana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "bahihparimarjana",
+      "devanagari": "बहिःपरिमार्जन",
+      "iast": "bahiḥparimārjana",
+      "simple": "Bahihparimarjana",
+      "en": "External therapy through the skin: abhyaṅga, sveda, pradeha, pariṣeka, unmardana and similar.",
+      "hi": "बहिःपरिमार्जन - बाहरी चिकित्सा: अभ्यंग, स्वेद, प्रदेह, परिषेक, उन्मर्दन।",
+      "modern": "External/topical therapy.",
+      "category": "chikitsa",
+      "source_refs": [
+        "CS.sutra.11"
+      ],
+      "related": [
+        "antahparimarjana",
+        "abhyanga"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "shastrapranidhana",
+      "devanagari": "शस्त्रप्रणिधान",
+      "iast": "śastrapraṇidhāna",
+      "simple": "Shastrapranidhana",
+      "en": "Surgical measures: excision, incision, puncture, scraping, extraction, application of leeches and the like.",
+      "hi": "शस्त्रप्रणिधान - शस्त्र कर्म: छेदन, भेदन, व्यधन, लेखन, जलौका आदि।",
+      "modern": "Surgery.",
+      "category": "chikitsa",
+      "source_refs": [
+        "CS.sutra.11"
+      ],
+      "related": [
+        "ashtavidha-shastra-karma"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "langhana",
+      "devanagari": "लंघन",
+      "iast": "laṅghana",
+      "simple": "Langhana",
+      "en": "Reducing (lightening) therapy: anything that produces lightness of the body (apatarpaṇa). Caraka lists ten types: four kinds of purification (vamana, virecana, nirūha, śirovirecana), thirst, wind, sun, pācana, fasting and exercise. Vāgbhaṭa divides it into śodhana (5) and śamana (7).",
+      "hi": "लंघन - शरीर में लघुता लाने वाली चिकित्सा (अपतर्पण); शोधन और शमन रूप।",
+      "modern": "Comparable to fasting and reducing therapies.",
+      "category": "chikitsa",
+      "source_refs": [
+        "AH.sutra.14.1",
+        "AH.sutra.14.2",
+        "AH.sutra.14.4",
+        "CS.sutra.22"
+      ],
+      "related": [
+        "brimhana",
+        "shadupakrama",
+        "upavasa"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "brimhana",
+      "devanagari": "बृंहण",
+      "iast": "bṛṃhaṇa",
+      "simple": "Brimhana",
+      "en": "Nourishing (building) therapy that produces bulk (santarpaṇa), for the emaciated, weak, convalescent, elderly and those exhausted by disease, sorrow or travel.",
+      "hi": "बृंहण - शरीर को पुष्ट करने वाली चिकित्सा (सन्तर्पण); कृश, दुर्बल, क्षीण के लिए।",
+      "modern": "Comparable to nutritional rehabilitation.",
+      "category": "chikitsa",
+      "source_refs": [
+        "AH.sutra.14.1",
+        "AH.sutra.14.2",
+        "AH.sutra.14.8"
+      ],
+      "related": [
+        "langhana",
+        "brimhaniya",
+        "shadupakrama"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "shadupakrama",
+      "devanagari": "षडुपक्रम",
+      "iast": "ṣaḍupakrama",
+      "simple": "Shadupakrama",
+      "en": "The six fundamental therapeutic measures (Caraka): laṅghana, bṛṃhaṇa, rūkṣaṇa, snehana, svedana and stambhana; Vāgbhaṭa reduces them to two (bṛṃhaṇa and laṅghana).",
+      "hi": "षडुपक्रम - छह मूल उपक्रम: लंघन, बृंहण, रूक्षण, स्नेहन, स्वेदन, स्तम्भन।",
+      "modern": "",
+      "category": "chikitsa",
+      "source_refs": [
+        "CS.sutra.22",
+        "AH.sutra.14.3"
+      ],
+      "related": [
+        "langhana",
+        "brimhana",
+        "rukshana",
+        "snehana",
+        "svedana",
+        "stambhana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "rukshana",
+      "devanagari": "रूक्षण",
+      "iast": "rūkṣaṇa",
+      "simple": "Rukshana",
+      "en": "Drying therapy that produces dryness and roughness, e.g. dry powders, udvartana, dry fomentation; used in kapha and medas conditions and before snehana when āma is present.",
+      "hi": "रूक्षण - रूक्षता उत्पन्न करने वाली चिकित्सा; कफ-मेद रोगों में।",
+      "modern": "",
+      "category": "chikitsa",
+      "source_refs": [
+        "CS.sutra.22"
+      ],
+      "related": [
+        "shadupakrama",
+        "ruksha",
+        "udvartana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "upavasa",
+      "devanagari": "उपवास",
+      "iast": "upavāsa",
+      "simple": "Upavasa",
+      "en": "Fasting, a form of laṅghana used for āma, fever and kapha disorders; contraindicated in the weak and in vāta conditions.",
+      "hi": "उपवास - लंघन का प्रकार; आम, ज्वर, कफ में; दुर्बल व वात में निषिद्ध।",
+      "modern": "Therapeutic fasting.",
+      "category": "chikitsa",
+      "source_refs": [
+        "CS.sutra.22"
+      ],
+      "related": [
+        "langhana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "hetu-viparita",
+      "devanagari": "हेतुविपरीत",
+      "iast": "hetuviparīta",
+      "simple": "Hetu Viparita",
+      "en": "Treatment opposite to the cause (e.g. hot, unctuous food for cold-dry causes); one of the upaśaya methods. With vyādhi-viparīta and ubhaya-viparīta it gives the basic logic of treatment.",
+      "hi": "हेतुविपरीत - कारण के विपरीत चिकित्सा; व्याधिविपरीत और उभयविपरीत के साथ।",
+      "modern": "",
+      "category": "chikitsa",
+      "source_refs": [
+        "AH.nidana.1.6"
+      ],
+      "related": [
+        "vyadhi-viparita",
+        "upashaya",
+        "viparitarthakari"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "vyadhi-viparita",
+      "devanagari": "व्याधिविपरीत",
+      "iast": "vyādhiviparīta",
+      "simple": "Vyadhi Viparita",
+      "en": "Treatment that directly opposes the disease regardless of cause, e.g. kuṭaja for diarrhoea.",
+      "hi": "व्याधिविपरीत - सीधे रोग के विपरीत चिकित्सा; जैसे अतिसार में कुटज।",
+      "modern": "Comparable to symptomatic/disease-specific treatment.",
+      "category": "chikitsa",
+      "source_refs": [
+        "AH.nidana.1.6"
+      ],
+      "related": [
+        "hetu-viparita",
+        "upashaya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "viparitarthakari",
+      "devanagari": "विपरीतार्थकारी",
+      "iast": "viparītārthakārī",
+      "simple": "Viparitarthakari",
+      "en": "Treatment that seems similar to the cause or disease but works to relieve it, e.g. emetics in vomiting, or warm fomentation in a pitta-type swelling to hasten suppuration.",
+      "hi": "विपरीतार्थकारी - हेतु या व्याधि के समान दिखकर भी रोग का शमन करने वाली चिकित्सा (जैसे छर्दि में वमन)।",
+      "modern": "Loosely comparable to paradoxical or 'like-treats-like' interventions.",
+      "category": "chikitsa",
+      "source_refs": [
+        "AH.nidana.1.6"
+      ],
+      "related": [
+        "upashaya",
+        "hetu-viparita"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "nidana-parivarjana",
+      "devanagari": "निदानपरिवर्जन",
+      "iast": "nidānaparivarjana",
+      "simple": "Nidana Parivarjana",
+      "en": "Avoidance of causative factors: the first and essential principle of treatment (Suśruta: 'saṅkṣepataḥ kriyāyogo nidānaparivarjanam').",
+      "hi": "निदानपरिवर्जन - रोग के कारणों का त्याग; चिकित्सा का प्रथम सूत्र।",
+      "modern": "Comparable to removing risk factors.",
+      "category": "chikitsa",
+      "source_refs": [
+        "SS.uttara.1"
+      ],
+      "related": [
+        "nidana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "pathya",
+      "devanagari": "पथ्य",
+      "iast": "pathya",
+      "simple": "Pathya",
+      "en": "Wholesome diet and regimen, that which does not harm the 'path' (channels) and is pleasing to the mind; Lolimbarāja says with pathya medicine is hardly needed, without it medicine fails.",
+      "hi": "पथ्य - हितकर आहार-विहार जो स्रोतों को हानि न करे।",
+      "modern": "Comparable to a therapeutic diet/lifestyle prescription.",
+      "category": "chikitsa",
+      "source_refs": [
+        "CS.sutra.25"
+      ],
+      "related": [
+        "apathya",
+        "ahara"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "apathya",
+      "devanagari": "अपथ्य",
+      "iast": "apathya",
+      "simple": "Apathya",
+      "en": "Unwholesome diet and regimen to be avoided in a given disease or state.",
+      "hi": "अपथ्य - अहितकर आहार-विहार।",
+      "modern": "Contraindicated foods/behaviours.",
+      "category": "chikitsa",
+      "source_refs": [
+        "CS.sutra.25"
+      ],
+      "related": [
+        "pathya",
+        "viruddha-ahara"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "aushadha",
+      "devanagari": "औषध",
+      "iast": "auṣadha",
+      "simple": "Aushadha",
+      "en": "Medicine; divided into śodhana (purifying) and śamana (pacifying). Synonym: bheṣaja.",
+      "hi": "औषध (भेषज) - दवा; शोधन और शमन।",
+      "modern": "Medicine.",
+      "category": "chikitsa",
+      "source_refs": [
+        "AH.sutra.1.25"
+      ],
+      "related": [
+        "samshodhana",
+        "samshamana",
+        "bheshaja-kala"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "kamya-rasayana",
+      "devanagari": "काम्य रसायन",
+      "iast": "kāmya rasāyana",
+      "simple": "Kamya Rasayana",
+      "en": "Rasāyana taken by a healthy person for a desired goal: prāṇakāmya (longevity), medhākāmya (intellect) or śrīkāmya (lustre).",
+      "hi": "काम्य रसायन - स्वस्थ व्यक्ति द्वारा इच्छित लक्ष्य हेतु: प्राणकाम्य, मेधाकाम्य, श्रीकाम्य।",
+      "modern": "",
+      "category": "chikitsa",
+      "source_refs": [],
+      "related": [
+        "rasayana",
+        "naimittika-rasayana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "naimittika-rasayana",
+      "devanagari": "नैमित्तिक रसायन",
+      "iast": "naimittika rasāyana",
+      "simple": "Naimittika Rasayana",
+      "en": "Rasāyana given in a particular disease to aid recovery and prevent recurrence, e.g. śilājatu in prameha.",
+      "hi": "नैमित्तिक रसायन - विशेष रोग में दिया जाने वाला रसायन (जैसे प्रमेह में शिलाजतु)।",
+      "modern": "",
+      "category": "chikitsa",
+      "source_refs": [],
+      "related": [
+        "rasayana",
+        "kamya-rasayana",
+        "shilajatu"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "kutipraveshika",
+      "devanagari": "कुटीप्रावेशिक",
+      "iast": "kuṭīprāveśika",
+      "simple": "Kutipraveshika Rasayana",
+      "en": "Indoor method of rasāyana in a specially built three-chambered hut (kuṭī) after śodhana, under strict regimen; contrasted with vātātapika (outdoor) rasāyana for ordinary life.",
+      "hi": "कुटीप्रावेशिक रसायन - शोधन के बाद त्रिगर्भा कुटी में कठोर नियम से; वातातपिक (बाहरी) से भिन्न।",
+      "modern": "",
+      "category": "chikitsa",
+      "source_refs": [
+        "CS.chikitsa.1"
+      ],
+      "related": [
+        "rasayana",
+        "vatatapika"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "vatatapika",
+      "devanagari": "वातातपिक",
+      "iast": "vātātapika",
+      "simple": "Vatatapika Rasayana",
+      "en": "'Wind-and-sun' method: rasāyana taken while continuing normal daily life, with less benefit but more convenience than kuṭīprāveśika.",
+      "hi": "वातातपिक रसायन - सामान्य दिनचर्या जारी रखते हुए रसायन सेवन।",
+      "modern": "",
+      "category": "chikitsa",
+      "source_refs": [
+        "CS.chikitsa.1"
+      ],
+      "related": [
+        "rasayana",
+        "kutipraveshika"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "achara-rasayana",
+      "devanagari": "आचार रसायन",
+      "iast": "ācāra rasāyana",
+      "simple": "Achara Rasayana",
+      "en": "Behavioural rejuvenation: truthfulness, non-anger, non-violence, abstinence from alcohol, calmness, cleanliness, charity, respect for elders and teachers, etc., which yield rasāyana benefits without drugs.",
+      "hi": "आचार रसायन - सत्य, अक्रोध, अहिंसा, शान्ति, शौच, दान, गुरु-वृद्ध सेवा आदि से बिना औषध रसायन लाभ।",
+      "modern": "Comparable to the health benefits of ethical living and psychological well-being.",
+      "category": "chikitsa",
+      "source_refs": [
+        "CS.chikitsa.1"
+      ],
+      "related": [
+        "rasayana",
+        "sadvritta"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "medhya-rasayana",
+      "devanagari": "मेध्य रसायन",
+      "iast": "medhya rasāyana",
+      "simple": "Medhya Rasayana",
+      "en": "Four intellect-promoting rasāyanas of Caraka: maṇḍūkaparṇī svarasa, yaṣṭimadhu cūrṇa with milk, guḍūcī svarasa and śaṅkhapuṣpī kalka; śaṅkhapuṣpī is said to be the best.",
+      "hi": "मेध्य रसायन - मण्डूकपर्णी स्वरस, यष्टिमधु चूर्ण, गुडूची स्वरस, शङ्खपुष्पी कल्क; शङ्खपुष्पी श्रेष्ठ।",
+      "modern": "",
+      "category": "chikitsa",
+      "source_refs": [
+        "CS.chikitsa.1"
+      ],
+      "related": [
+        "medhya",
+        "mandukaparni",
+        "yashtimadhu",
+        "guduchi",
+        "shankhapushpi"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "vaidya",
+      "devanagari": "वैद्य",
+      "iast": "vaidya",
+      "simple": "Vaidya",
+      "en": "Physician; literally 'one who has knowledge (vidyā)'. Caraka calls one with both knowledge and skill a 'prāṇābhisara' (saviour of life).",
+      "hi": "वैद्य - विद्या जानने वाला; चिकित्सक।",
+      "modern": "Physician.",
+      "category": "chikitsa",
+      "source_refs": [
+        "CS.sutra.29"
+      ],
+      "related": [
+        "bhishak"
+      ],
+      "review_status": "ai_draft"
     }
   ]
 }

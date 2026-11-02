@@ -1,0 +1,3935 @@
+{
+ "chapter": {
+  "id": "CS.sutra.8",
+  "text": "charaka_samhita",
+  "sthana": "sutra",
+  "chapter": 8,
+  "title_iast": "Indriyopakramaṇīya Adhyāya",
+  "title_devanagari": "इन्द्रियोपक्रमणीयोऽध्यायः",
+  "title_en": "The chapter on the care of the sense organs",
+  "title_hi": "इन्द्रियोपक्रमणीय अध्याय (इन्द्रियों की देखभाल का अध्याय)",
+  "summary_en": "This chapter completes the Svastha-catuṣka (Su 5-8), the tetrad on preserving health. It first describes the mind (manas, also called sattva or cetas) as atīndriya, one (ekatva) and the controller of the senses, and explains mental constitution by the predominant guṇa. It then sets out the pañca-pañcaka: five sense faculties (indriya), their five elemental substances (indriya-dravya), five seats (adhiṣṭhāna), five objects (artha) and five perceptions (buddhi), which arise from the contact of indriya, artha, manas and ātman. Excessive, deficient and wrong use of the senses and mind causes disorder, while proper use keeps them healthy. The second half is the most detailed account of sadvṛtta (good conduct) in Caraka: personal hygiene, safety, eating, sexual and study conduct, social behaviour and mental discipline. Following sadvṛtta is said to give health and mastery over the senses at the same time, and a long, disease-free life.",
+  "summary_hi": "यह अध्याय स्वस्थ-चतुष्क (सू. 5-8) को पूरा करता है, जो स्वास्थ्य-रक्षा के चार अध्याय हैं। पहले यह मन (जिसे सत्त्व या चेतस् भी कहते हैं) को अतीन्द्रिय, एक (एकत्व) और इन्द्रियों का नियन्ता बताता है, और प्रधान गुण के अनुसार मानस प्रकृति समझाता है। फिर पञ्चपञ्चक बताता है: पाँच इन्द्रियाँ, उनके पाँच महाभूत (इन्द्रिय-द्रव्य), पाँच अधिष्ठान, पाँच अर्थ और पाँच बुद्धियाँ, जो इन्द्रिय, अर्थ, मन और आत्मा के संयोग से उत्पन्न होती हैं। इन्द्रियों और मन के अति, हीन और मिथ्या योग से विकार होते हैं, सम्यक् योग से वे स्वस्थ रहते हैं। दूसरे भाग में चरक का सबसे विस्तृत सद्वृत्त वर्णन है: व्यक्तिगत स्वच्छता, सुरक्षा, भोजन, मैथुन और अध्ययन के नियम, सामाजिक व्यवहार और मानसिक अनुशासन। सद्वृत्त के पालन से आरोग्य और इन्द्रिय-विजय एक साथ मिलते हैं और दीर्घ, रोगरहित जीवन मिलता है।",
+  "key_concepts": [
+   "pañcapañcaka",
+   "manas (sattva, cetas)",
+   "ekatva and atīndriyatva of manas",
+   "mānasa prakṛti",
+   "indriya-buddhi from four-fold sannikarṣa",
+   "atiyoga-ayoga-mithyāyoga of indriyārtha",
+   "sadvṛtta",
+   "ārogya and indriyavijaya"
+  ],
+  "exam_focus_en": [
+   "Pañca-pañcaka (Su 8.8-12): list the 5 indriya, 5 dravya, 5 adhiṣṭhāna, 5 artha and 5 buddhi in a table - very frequently asked.",
+   "Manas: synonyms (sattva, cetas), atīndriya, ekatva proved by non-simultaneous sense function (Su 8.4-5, 8.7).",
+   "Indriya-buddhi arise from sannikarṣa of indriya, artha, sattva and ātman; they are kṣaṇika and niścayātmika (Su 8.12).",
+   "Predominant bhūta in each indriya and the 'like perceives like' principle; indriyas are anumāna-gamya (Su 8.14).",
+   "Sadvṛtta: definition and benefits ('ārogyam indriyavijayaṃ ca', Su 8.18), with examples of physical, social and mental conduct (Su 8.18-29); short note on sadvṛtta is common.",
+   "Three means of keeping the senses healthy and their link to the three causes of disease (Su 8.15-17)."
+  ],
+  "exam_focus_hi": [
+   "पञ्चपञ्चक (सू. 8.8-12): 5 इन्द्रिय, 5 द्रव्य, 5 अधिष्ठान, 5 अर्थ और 5 बुद्धि की तालिका - बहुत पूछा जाता है।",
+   "मन: पर्याय (सत्त्व, चेतस्), अतीन्द्रिय, एकत्व जो इन्द्रियों के एक साथ काम न करने से सिद्ध होता है (सू. 8.4-5, 8.7)।",
+   "इन्द्रिय-बुद्धि इन्द्रिय, अर्थ, सत्त्व और आत्मा के सन्निकर्ष से उत्पन्न होती है; वह क्षणिक और निश्चयात्मक है (सू. 8.12)।",
+   "हर इन्द्रिय में प्रधान महाभूत और 'समान समान को ग्रहण करता है' का सिद्धान्त; इन्द्रियाँ अनुमानगम्य हैं (सू. 8.14)।",
+   "सद्वृत्त: परिभाषा और लाभ ('आरोग्यम् इन्द्रियविजयं च', सू. 8.18), शारीरिक, सामाजिक और मानसिक आचरण के उदाहरण (सू. 8.18-29); सद्वृत्त पर टिप्पणी प्रायः पूछी जाती है।",
+   "इन्द्रियों को स्वस्थ रखने के तीन उपाय और रोग के तीन कारणों से उनका सम्बन्ध (सू. 8.15-17)।"
+  ],
+  "syllabus_refs": [
+   "AyUG-SA2"
+  ],
+  "review_status": "ai_draft"
+ },
+ "verses": [
+  {
+   "id": "CS.sutra.8.1",
+   "word_meanings": [
+    {
+     "sa": "अथ",
+     "iast": "atha",
+     "en": "now, after this",
+     "hi": "अब"
+    },
+    {
+     "sa": "अतः",
+     "iast": "ataḥ",
+     "en": "therefore, hence",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "इन्द्रियोपक्रमणीयम्",
+     "iast": "indriyopakramaṇīyam",
+     "en": "dealing with the care (upakrama) of the sense organs (indriya)",
+     "hi": "इन्द्रियों के उपक्रम (देखभाल/रक्षा) सम्बन्धी"
+    },
+    {
+     "sa": "अध्यायम्",
+     "iast": "adhyāyam",
+     "en": "chapter",
+     "hi": "अध्याय की"
+    },
+    {
+     "sa": "व्याख्यास्यामः",
+     "iast": "vyākhyāsyāmaḥ",
+     "en": "we shall explain",
+     "hi": "व्याख्या करेंगे"
+    }
+   ],
+   "english": "Now we shall explain the chapter named Indriyopakramaṇīya, the chapter on the care and protection of the sense organs (indriya).",
+   "hindi": "अब हम 'इन्द्रियोपक्रमणीय' नामक अध्याय की व्याख्या करेंगे, अर्थात् इन्द्रियों की देखभाल और रक्षा से सम्बन्धित अध्याय।",
+   "explanation_en": "Every chapter of Caraka opens with this formula (athāto ... vyākhyāsyāmaḥ). The chapter title comes from its theme: upakrama means approach, management or care, so the chapter teaches what the sense organs and mind are and how to keep them healthy through good conduct (sadvṛtta). It is the last chapter of the Svastha-catuṣka (Su 5-8), the tetrad on healthy living.",
+   "explanation_hi": "चरक का हर अध्याय इसी सूत्र (अथातो ... व्याख्यास्यामः) से शुरू होता है। उपक्रम का अर्थ है उपाय, व्यवस्था या देखभाल; अतः यह अध्याय बताता है कि इन्द्रियाँ और मन क्या हैं और सद्वृत्त (अच्छे आचरण) से उन्हें स्वस्थ कैसे रखें। यह स्वस्थ-चतुष्क (सू. 5-8) का अन्तिम अध्याय है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "indriya",
+    "upakrama",
+    "adhyāya"
+   ],
+   "tags": [
+    "introduction",
+    "chapter-opening"
+   ],
+   "importance": "low",
+   "mnemonic": "Svastha-catuṣka = Su 5 Mātrāśitīya, 6 Tasyāśitīya, 7 Navegāndhāraṇīya, 8 Indriyopakramaṇīya",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.8.2",
+   "word_meanings": [
+    {
+     "sa": "इति",
+     "iast": "iti",
+     "en": "thus",
+     "hi": "इस प्रकार"
+    },
+    {
+     "sa": "ह स्म आह",
+     "iast": "ha sma āha",
+     "en": "so indeed said",
+     "hi": "ऐसा कहा था"
+    },
+    {
+     "sa": "भगवान्",
+     "iast": "bhagavān",
+     "en": "the revered, venerable",
+     "hi": "भगवान्, पूज्य"
+    },
+    {
+     "sa": "आत्रेयः",
+     "iast": "ātreyaḥ",
+     "en": "Ātreya (Punarvasu Ātreya, the teacher)",
+     "hi": "आत्रेय ने"
+    }
+   ],
+   "english": "Thus said the venerable Ātreya.",
+   "hindi": "ऐसा भगवान् आत्रेय ने कहा।",
+   "explanation_en": "This standard line credits the teaching to Punarvasu Ātreya, the teacher whose words were recorded by his disciple Agniveśa and later redacted by Caraka. Remember the chain: Ātreya (teacher) to Agniveśa (author of the Agniveśa Tantra) to Caraka (redactor) to Dṛḍhabala (completed the missing parts).",
+   "explanation_hi": "यह परम्परागत पंक्ति बताती है कि यह उपदेश पुनर्वसु आत्रेय का है, जिसे उनके शिष्य अग्निवेश ने लिखा और बाद में चरक ने प्रतिसंस्कार किया। क्रम याद रखें: आत्रेय (गुरु) → अग्निवेश (अग्निवेश तन्त्र) → चरक (प्रतिसंस्कर्ता) → दृढबल (पूरक)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "Ātreya"
+   ],
+   "tags": [
+    "introduction",
+    "teacher"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.8.3",
+   "word_meanings": [
+    {
+     "sa": "इह",
+     "iast": "iha",
+     "en": "here, in this science",
+     "hi": "यहाँ, इस शास्त्र में"
+    },
+    {
+     "sa": "खलु",
+     "iast": "khalu",
+     "en": "indeed",
+     "hi": "निश्चय ही"
+    },
+    {
+     "sa": "पञ्च",
+     "iast": "pañca",
+     "en": "five",
+     "hi": "पाँच"
+    },
+    {
+     "sa": "इन्द्रियाणि",
+     "iast": "indriyāṇi",
+     "en": "sense organs (faculties)",
+     "hi": "इन्द्रियाँ"
+    },
+    {
+     "sa": "इन्द्रियद्रव्याणि",
+     "iast": "indriyadravyāṇi",
+     "en": "substances (bhūtas) of the senses",
+     "hi": "इन्द्रिय-द्रव्य (इन्द्रियों के महाभूत)"
+    },
+    {
+     "sa": "इन्द्रियाधिष्ठानानि",
+     "iast": "indriyādhiṣṭhānāni",
+     "en": "seats (physical locations) of the senses",
+     "hi": "इन्द्रियों के अधिष्ठान (स्थान)"
+    },
+    {
+     "sa": "इन्द्रियार्थाः",
+     "iast": "indriyārthāḥ",
+     "en": "objects of the senses",
+     "hi": "इन्द्रियों के अर्थ (विषय)"
+    },
+    {
+     "sa": "इन्द्रियबुद्धयः",
+     "iast": "indriyabuddhayaḥ",
+     "en": "sense perceptions (cognitions)",
+     "hi": "इन्द्रिय-बुद्धियाँ (ज्ञान)"
+    },
+    {
+     "sa": "भवन्ति",
+     "iast": "bhavanti",
+     "en": "are",
+     "hi": "होते हैं"
+    },
+    {
+     "sa": "इति",
+     "iast": "iti",
+     "en": "thus",
+     "hi": "ऐसा"
+    },
+    {
+     "sa": "उक्तम्",
+     "iast": "uktam",
+     "en": "has been said",
+     "hi": "कहा गया है"
+    },
+    {
+     "sa": "इन्द्रियाधिकारे",
+     "iast": "indriyādhikāre",
+     "en": "in the section on the senses",
+     "hi": "इन्द्रियों के प्रकरण में"
+    }
+   ],
+   "english": "Here, indeed, there are five sense organs (indriya), five substances of the senses (indriya-dravya), five seats of the senses (indriya-adhiṣṭhāna), five objects of the senses (indriya-artha) and five sense perceptions (indriya-buddhi); this has been stated in the section on the senses.",
+   "hindi": "यहाँ (इस शास्त्र में) पाँच इन्द्रियाँ, पाँच इन्द्रिय-द्रव्य, पाँच इन्द्रिय-अधिष्ठान, पाँच इन्द्रियार्थ और पाँच इन्द्रिय-बुद्धियाँ होती हैं, ऐसा इन्द्रियों के प्रकरण में कहा गया है।",
+   "explanation_en": "This verse introduces the famous 'pañca-pañcaka' (five groups of five), detailed in verses 8-12. Learn them as a table: 5 indriya, 5 dravya, 5 adhiṣṭhāna, 5 artha, 5 buddhi. 'Indriyādhikāra' is usually taken to refer to the earlier discussion of indriyas (e.g. Su 1 and Śārīrasthāna 1).",
+   "explanation_hi": "यह श्लोक प्रसिद्ध 'पञ्चपञ्चक' (पाँच-पाँच के पाँच समूह) का परिचय देता है, जिनका विस्तार श्लोक 8-12 में है। इसे तालिका की तरह याद करें: 5 इन्द्रिय, 5 द्रव्य, 5 अधिष्ठान, 5 अर्थ, 5 बुद्धि। यह परीक्षा में बहुत पूछा जाता है।",
+   "modern_correlation": {
+    "en": "The pañca-pañcaka resembles the way modern sensory physiology describes each sense: a receptor organ (eye, ear), the adequate stimulus (light, sound), and the resulting perception. The idea of a specific 'substance' for each sense has no direct modern equivalent and belongs to the pañcamahābhūta framework.",
+    "hi": "पञ्चपञ्चक की तुलना आधुनिक संवेदी शरीर-क्रिया विज्ञान से की जाती है, जहाँ हर इन्द्रिय के लिए रिसेप्टर अंग (आँख, कान), उपयुक्त उद्दीपन (प्रकाश, ध्वनि) और परिणामी अनुभूति बताई जाती है। हर इन्द्रिय के विशेष 'द्रव्य' का विचार पञ्चमहाभूत सिद्धान्त का है, इसका सीधा आधुनिक समकक्ष नहीं है।"
+   },
+   "key_terms": [
+    "pañcapañcaka",
+    "indriya",
+    "indriyadravya",
+    "indriyādhiṣṭhāna",
+    "indriyārtha",
+    "indriyabuddhi"
+   ],
+   "tags": [
+    "indriya",
+    "pancha-panchaka",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "I-D-A-A-B: Indriya, Dravya, Adhiṣṭhāna, Artha, Buddhi (\"I Don't Always Ask Big questions\")",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.8.4",
+   "word_meanings": [
+    {
+     "sa": "अतीन्द्रियम्",
+     "iast": "atīndriyam",
+     "en": "beyond the senses, supersensory",
+     "hi": "अतीन्द्रिय (इन्द्रियों से परे)"
+    },
+    {
+     "sa": "पुनः",
+     "iast": "punaḥ",
+     "en": "but, moreover",
+     "hi": "परन्तु"
+    },
+    {
+     "sa": "मनः",
+     "iast": "manaḥ",
+     "en": "mind",
+     "hi": "मन"
+    },
+    {
+     "sa": "सत्त्वसंज्ञकम्",
+     "iast": "sattvasaṃjñakam",
+     "en": "called sattva",
+     "hi": "जिसे 'सत्त्व' कहते हैं"
+    },
+    {
+     "sa": "चेतः",
+     "iast": "cetaḥ",
+     "en": "cetas (consciousness/mind)",
+     "hi": "चेतस्"
+    },
+    {
+     "sa": "इति आहुः एके",
+     "iast": "iti āhuḥ eke",
+     "en": "some call it",
+     "hi": "कुछ लोग कहते हैं"
+    },
+    {
+     "sa": "तद्",
+     "iast": "tad",
+     "en": "its",
+     "hi": "उसकी"
+    },
+    {
+     "sa": "अर्थ",
+     "iast": "artha",
+     "en": "object (of thought)",
+     "hi": "अर्थ (विषय)"
+    },
+    {
+     "sa": "आत्मसंपद्",
+     "iast": "ātmasaṃpad",
+     "en": "excellence/presence of the self (ātman)",
+     "hi": "आत्मा की सम्पत्ति (उपस्थिति)"
+    },
+    {
+     "sa": "आयत्त",
+     "iast": "āyatta",
+     "en": "dependent on",
+     "hi": "आश्रित"
+    },
+    {
+     "sa": "चेष्टम्",
+     "iast": "ceṣṭam",
+     "en": "activity",
+     "hi": "चेष्टा (क्रिया)"
+    },
+    {
+     "sa": "चेष्टाप्रत्ययभूतम्",
+     "iast": "ceṣṭāpratyayabhūtam",
+     "en": "which is the cause of the activity",
+     "hi": "चेष्टा का कारण बना हुआ"
+    },
+    {
+     "sa": "इन्द्रियाणाम्",
+     "iast": "indriyāṇām",
+     "en": "of the sense organs",
+     "hi": "इन्द्रियों की"
+    }
+   ],
+   "english": "The mind (manas), however, is beyond the senses (atīndriya); it is called 'sattva', and some call it 'cetas'. Its activity depends on its objects and on the presence of the self (ātman), and it is the cause of the activity of the sense organs.",
+   "hindi": "परन्तु मन अतीन्द्रिय है (इन्द्रियों से परे है); इसे 'सत्त्व' कहते हैं और कुछ लोग इसे 'चेतस्' कहते हैं। इसकी क्रिया अपने विषय और आत्मा की उपस्थिति पर निर्भर है, और यह इन्द्रियों की क्रिया का कारण है।",
+   "explanation_en": "Manas is called atīndriya because it cannot be perceived by the senses and because it rules over them. Synonyms to remember: manas, sattva, cetas. The mind works only when there is an object (artha) and when it is joined with the ātman; the senses, in turn, work only when the mind is attached to them (see v. 7). This is a key definition for questions on 'manas'.",
+   "explanation_hi": "मन को अतीन्द्रिय इसलिए कहते हैं क्योंकि इसे इन्द्रियों से नहीं जाना जा सकता और यह इन्द्रियों का नियन्ता है। पर्याय याद रखें: मन, सत्त्व, चेतस्। मन तभी काम करता है जब विषय (अर्थ) हो और आत्मा से उसका संयोग हो; इन्द्रियाँ तभी काम करती हैं जब मन उनसे जुड़ा हो (श्लोक 7)।",
+   "modern_correlation": {
+    "en": "The idea that the senses gather data but a central faculty must attend to it is often compared with the modern concept of attention and central processing in the brain: sensory signals that are not attended to may not reach conscious awareness. Manas is a philosophical concept, not identical with any single brain structure.",
+    "hi": "इन्द्रियाँ सूचना लाती हैं पर एक केन्द्रीय शक्ति को उस पर ध्यान देना होता है, इस विचार की तुलना अक्सर आधुनिक 'अटेंशन' और मस्तिष्क में केन्द्रीय प्रसंस्करण से की जाती है: जिन संकेतों पर ध्यान नहीं जाता वे अक्सर चेतना तक नहीं पहुँचते। मन एक दार्शनिक अवधारणा है, किसी एक मस्तिष्क-भाग के समान नहीं।"
+   },
+   "key_terms": [
+    "manas",
+    "atīndriya",
+    "sattva",
+    "cetas",
+    "ātman"
+   ],
+   "tags": [
+    "manas",
+    "definitions",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Manas = Sattva = Cetas (\"MSC of the mind\")",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.8.5",
+   "word_meanings": [
+    {
+     "sa": "स्वार्थ",
+     "iast": "svārtha",
+     "en": "its own object",
+     "hi": "अपना विषय"
+    },
+    {
+     "sa": "इन्द्रियार्थ",
+     "iast": "indriyārtha",
+     "en": "objects of the senses",
+     "hi": "इन्द्रियों के विषय"
+    },
+    {
+     "sa": "सङ्कल्प",
+     "iast": "saṅkalpa",
+     "en": "thought, resolve",
+     "hi": "संकल्प"
+    },
+    {
+     "sa": "व्यभिचरणात्",
+     "iast": "vyabhicaraṇāt",
+     "en": "because of variation, changing",
+     "hi": "बदलते रहने के कारण"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "अनेकम्",
+     "iast": "anekam",
+     "en": "many, more than one",
+     "hi": "अनेक"
+    },
+    {
+     "sa": "एकस्मिन् पुरुषे",
+     "iast": "ekasmin puruṣe",
+     "en": "in one person",
+     "hi": "एक पुरुष में"
+    },
+    {
+     "sa": "सत्त्वम् रजः तमः",
+     "iast": "sattvam rajaḥ tamaḥ",
+     "en": "sattva, rajas, tamas (the three mental qualities)",
+     "hi": "सत्त्व, रज, तम"
+    },
+    {
+     "sa": "सत्त्वगुणयोगात्",
+     "iast": "sattvaguṇayogāt",
+     "en": "due to association with the qualities of the mind",
+     "hi": "मन के गुणों के योग से"
+    },
+    {
+     "sa": "न च अनेकत्वम्",
+     "iast": "na ca anekatvam",
+     "en": "but it is not many",
+     "hi": "परन्तु अनेकता नहीं है"
+    },
+    {
+     "sa": "न हि एकम्",
+     "iast": "na hi ekam",
+     "en": "for one (mind) does not",
+     "hi": "क्योंकि एक (मन) नहीं"
+    },
+    {
+     "sa": "एककालम्",
+     "iast": "ekakālam",
+     "en": "at one time",
+     "hi": "एक ही समय में"
+    },
+    {
+     "sa": "अनेकेषु",
+     "iast": "anekeṣu",
+     "en": "in many (objects/senses)",
+     "hi": "अनेक में"
+    },
+    {
+     "sa": "प्रवर्तते",
+     "iast": "pravartate",
+     "en": "operates",
+     "hi": "प्रवृत्त होता है"
+    },
+    {
+     "sa": "तस्मात्",
+     "iast": "tasmāt",
+     "en": "therefore",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "न एककाला",
+     "iast": "na ekakālā",
+     "en": "not simultaneous",
+     "hi": "एक समय में नहीं"
+    },
+    {
+     "sa": "सर्वेन्द्रियप्रवृत्तिः",
+     "iast": "sarvendriyapravṛttiḥ",
+     "en": "the functioning of all senses",
+     "hi": "सब इन्द्रियों की प्रवृत्ति"
+    }
+   ],
+   "english": "Because its objects, the sense objects and its thoughts keep changing, and because of its association with the qualities sattva, rajas and tamas, the mind in one person may appear to be many. But it is not many, because one mind does not operate in many things at the same time; therefore all the senses do not function simultaneously.",
+   "hindi": "अपने विषय, इन्द्रियों के विषय और संकल्प के बदलते रहने से, तथा सत्त्व, रज और तम गुणों के योग से एक ही पुरुष में मन अनेक जैसा प्रतीत होता है। परन्तु मन अनेक नहीं है, क्योंकि एक मन एक समय में अनेक विषयों में प्रवृत्त नहीं होता; इसलिए सभी इन्द्रियों की प्रवृत्ति एक साथ नहीं होती।",
+   "explanation_en": "This verse establishes the 'ekatva' (oneness) of the mind: a person may seem to have many minds (calm one moment, angry the next), but this is only due to changing objects and guṇas. The proof: we cannot perceive through all senses at the very same instant. Together with 'aṇutva' (atomic size), ekatva is one of the two classic qualities of manas (Śārīra 1.19). Exam tip: 'manaso guṇāḥ - aṇutvam ekatvaṃ ca'.",
+   "explanation_hi": "यह श्लोक मन का 'एकत्व' सिद्ध करता है: व्यक्ति में अनेक मन प्रतीत हो सकते हैं (कभी शान्त, कभी क्रोधित), परन्तु यह केवल बदलते विषयों और गुणों के कारण है। प्रमाण: हम एक ही क्षण में सब इन्द्रियों से ज्ञान नहीं ले सकते। अणुत्व और एकत्व मन के दो प्रसिद्ध गुण हैं (शारीर 1.19)।",
+   "modern_correlation": {
+    "en": "The claim that the mind attends to one thing at a time is often compared with findings on limited attentional capacity: what looks like multitasking is usually rapid switching between tasks, with a cost in speed and accuracy. The parallel is conceptual, not a proof of the classical view.",
+    "hi": "मन एक समय में एक ही विषय पर ध्यान देता है, इसकी तुलना अक्सर सीमित 'अटेंशन' क्षमता पर हुए शोध से की जाती है: जो मल्टीटास्किंग लगती है वह प्रायः कार्यों के बीच तेज़ी से बदलना है, जिसमें गति और सटीकता घटती है। यह वैचारिक समानता है, शास्त्रीय मत का प्रमाण नहीं।"
+   },
+   "key_terms": [
+    "manas",
+    "ekatva",
+    "sattva",
+    "rajas",
+    "tamas",
+    "saṅkalpa"
+   ],
+   "tags": [
+    "manas",
+    "guna",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Mind = one (ekatva) + tiny (aṇutva): \"One tiny mind, one thing at a time\"",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.8.6",
+   "word_meanings": [
+    {
+     "sa": "यद्गुणम्",
+     "iast": "yadguṇam",
+     "en": "having whichever quality",
+     "hi": "जिस गुण वाला"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "अभीक्ष्णम्",
+     "iast": "abhīkṣṇam",
+     "en": "constantly, repeatedly",
+     "hi": "निरन्तर, बार-बार"
+    },
+    {
+     "sa": "पुरुषम्",
+     "iast": "puruṣam",
+     "en": "the person",
+     "hi": "पुरुष का"
+    },
+    {
+     "sa": "अनुवर्तते",
+     "iast": "anuvartate",
+     "en": "follows, accompanies",
+     "hi": "अनुसरण करता है"
+    },
+    {
+     "sa": "सत्त्वम्",
+     "iast": "sattvam",
+     "en": "mind",
+     "hi": "मन"
+    },
+    {
+     "sa": "तत् सत्त्वम् एव",
+     "iast": "tat sattvam eva",
+     "en": "that very type of mind",
+     "hi": "उसी प्रकार का सत्त्व"
+    },
+    {
+     "sa": "उपदिशन्ति",
+     "iast": "upadiśanti",
+     "en": "declare",
+     "hi": "कहते हैं"
+    },
+    {
+     "sa": "मुनयः",
+     "iast": "munayaḥ",
+     "en": "sages",
+     "hi": "मुनि"
+    },
+    {
+     "sa": "बाहुल्यानुशयात्",
+     "iast": "bāhulyānuśayāt",
+     "en": "because of its predominance and persistence",
+     "hi": "अधिकता और निरन्तर रहने के कारण"
+    }
+   ],
+   "english": "Whichever quality (sattva, rajas or tamas) of the mind constantly accompanies a person, the sages describe the person's mind by that quality, because of its predominance and persistence.",
+   "hindi": "मन का जो गुण (सत्त्व, रज या तम) निरन्तर व्यक्ति के साथ रहता है, मुनि उसी गुण के अनुसार उस व्यक्ति के मन (सत्त्व) का नाम रखते हैं, क्योंकि वह गुण अधिक और स्थायी रूप से रहता है।",
+   "explanation_en": "This is the basis of mental constitution (mānasa prakṛti): a person is called sāttvika, rājasa or tāmasa according to the guṇa that predominates most of the time, not according to a passing mood. Śārīrasthāna 4.36-40 later describes 16 sub-types (7 sāttvika, 6 rājasa, 3 tāmasa).",
+   "explanation_hi": "यही मानस प्रकृति का आधार है: व्यक्ति को उस गुण के अनुसार सात्त्विक, राजस या तामस कहा जाता है जो अधिकांश समय प्रधान रहता है, क्षणिक मनोदशा के अनुसार नहीं। शारीर 4.36-40 में 16 भेद हैं (7 सात्त्विक, 6 राजस, 3 तामस)।",
+   "modern_correlation": {
+    "en": "This resembles the modern distinction between a temperament or personality trait (a stable, persistent tendency) and a transient state or mood. The sāttvika-rājasa-tāmasa typology is a classical model and does not map directly onto modern personality inventories.",
+    "hi": "यह आधुनिक मनोविज्ञान में 'ट्रेट' (स्थायी प्रवृत्ति/स्वभाव) और 'स्टेट' (क्षणिक मनोदशा) के भेद जैसा है। सात्त्विक-राजस-तामस वर्गीकरण एक शास्त्रीय मॉडल है और आधुनिक व्यक्तित्व परीक्षणों से सीधे मेल नहीं खाता।"
+   },
+   "key_terms": [
+    "mānasa prakṛti",
+    "sattva",
+    "rajas",
+    "tamas"
+   ],
+   "tags": [
+    "manas",
+    "prakriti",
+    "guna"
+   ],
+   "importance": "medium",
+   "mnemonic": "Personality = the guṇa that stays (bāhulya + anuśaya)",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.8.7",
+   "word_meanings": [
+    {
+     "sa": "मनःपुरःसराणि",
+     "iast": "manaḥpuraḥsarāṇi",
+     "en": "led by the mind, preceded by the mind",
+     "hi": "मन के नेतृत्व में (मन को आगे रखकर)"
+    },
+    {
+     "sa": "इन्द्रियाणि",
+     "iast": "indriyāṇi",
+     "en": "sense organs",
+     "hi": "इन्द्रियाँ"
+    },
+    {
+     "sa": "अर्थग्रहणसमर्थानि",
+     "iast": "arthagrahaṇasamarthāni",
+     "en": "capable of grasping their objects",
+     "hi": "विषयों को ग्रहण करने में समर्थ"
+    },
+    {
+     "sa": "भवन्ति",
+     "iast": "bhavanti",
+     "en": "become",
+     "hi": "होती हैं"
+    }
+   ],
+   "english": "The sense organs become capable of grasping their objects only when led by the mind.",
+   "hindi": "इन्द्रियाँ तभी अपने विषयों को ग्रहण करने में समर्थ होती हैं जब मन उनके आगे (साथ) हो।",
+   "explanation_en": "A short but important sūtra: without the mind, the senses are useless. If the mind is elsewhere, we may look at something and still not see it. This links to v. 4 (mind is the cause of sense activity) and to the definition of knowledge arising from the contact of ātman, manas, indriya and artha (v. 12).",
+   "explanation_hi": "छोटा पर महत्त्वपूर्ण सूत्र: मन के बिना इन्द्रियाँ व्यर्थ हैं। यदि मन कहीं और हो तो हम किसी वस्तु को देखकर भी नहीं देख पाते। यह श्लोक 4 (मन इन्द्रियों की चेष्टा का कारण) और श्लोक 12 (आत्मा-मन-इन्द्रिय-अर्थ के संयोग से ज्ञान) से जुड़ता है।",
+   "modern_correlation": {
+    "en": "Often compared with 'inattentional blindness' in modern psychology, where people fail to notice clearly visible objects when their attention is engaged elsewhere.",
+    "hi": "इसकी तुलना अक्सर आधुनिक मनोविज्ञान की 'इनअटेंशनल ब्लाइंडनेस' से की जाती है, जिसमें ध्यान कहीं और होने पर व्यक्ति सामने की स्पष्ट वस्तु भी नहीं देख पाता।"
+   },
+   "key_terms": [
+    "manas",
+    "indriya",
+    "arthagrahaṇa"
+   ],
+   "tags": [
+    "manas",
+    "indriya",
+    "perception"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.8.8",
+   "word_meanings": [
+    {
+     "sa": "तत्र",
+     "iast": "tatra",
+     "en": "among these",
+     "hi": "उनमें"
+    },
+    {
+     "sa": "चक्षुः",
+     "iast": "cakṣuḥ",
+     "en": "eye (faculty of sight)",
+     "hi": "चक्षु (दृष्टि)"
+    },
+    {
+     "sa": "श्रोत्रम्",
+     "iast": "śrotram",
+     "en": "ear (faculty of hearing)",
+     "hi": "श्रोत्र (श्रवण)"
+    },
+    {
+     "sa": "घ्राणम्",
+     "iast": "ghrāṇam",
+     "en": "nose (faculty of smell)",
+     "hi": "घ्राण (गन्ध)"
+    },
+    {
+     "sa": "रसनम्",
+     "iast": "rasanam",
+     "en": "tongue (faculty of taste)",
+     "hi": "रसना (स्वाद)"
+    },
+    {
+     "sa": "स्पर्शनम्",
+     "iast": "sparśanam",
+     "en": "skin (faculty of touch)",
+     "hi": "स्पर्शन (स्पर्श)"
+    },
+    {
+     "sa": "इति",
+     "iast": "iti",
+     "en": "thus",
+     "hi": "ये"
+    },
+    {
+     "sa": "पञ्चेन्द्रियाणि",
+     "iast": "pañcendriyāṇi",
+     "en": "the five sense organs",
+     "hi": "पाँच इन्द्रियाँ"
+    }
+   ],
+   "english": "Among these, the five sense faculties (indriya) are: sight (cakṣus), hearing (śrotra), smell (ghrāṇa), taste (rasana) and touch (sparśana).",
+   "hindi": "इनमें पाँच इन्द्रियाँ हैं: चक्षु (देखना), श्रोत्र (सुनना), घ्राण (सूँघना), रसना (स्वाद लेना) और स्पर्शन (छूना)।",
+   "explanation_en": "Note that the indriya is the subtle faculty, not the physical organ; the physical organ is its adhiṣṭhāna (v. 10). These are the jñānendriyas (sense organs of knowledge); the five karmendriyas (organs of action) are listed elsewhere (Śārīra 1.25).",
+   "explanation_hi": "ध्यान दें: इन्द्रिय सूक्ष्म शक्ति है, भौतिक अंग नहीं; भौतिक अंग उसका अधिष्ठान है (श्लोक 10)। ये ज्ञानेन्द्रियाँ हैं; पाँच कर्मेन्द्रियाँ अन्यत्र (शारीर 1.25) बताई गई हैं।",
+   "modern_correlation": {
+    "en": "These correspond to the five classical senses of modern physiology: vision, hearing, smell (olfaction), taste (gustation) and touch (somatosensation). Modern science also recognises further senses such as balance and proprioception.",
+    "hi": "ये आधुनिक शरीर-क्रिया विज्ञान की पाँच परम्परागत इन्द्रियों से मेल खाती हैं: दृष्टि, श्रवण, गन्ध, स्वाद और स्पर्श। आधुनिक विज्ञान संतुलन और प्रोप्रियोसेप्शन जैसी अन्य संवेदनाएँ भी मानता है।"
+   },
+   "key_terms": [
+    "indriya",
+    "jñānendriya",
+    "cakṣus",
+    "śrotra",
+    "ghrāṇa",
+    "rasana",
+    "sparśana"
+   ],
+   "tags": [
+    "indriya",
+    "pancha-panchaka",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.8.9",
+   "word_meanings": [
+    {
+     "sa": "पञ्चेन्द्रियद्रव्याणि",
+     "iast": "pañcendriyadravyāṇi",
+     "en": "the five substances of the senses",
+     "hi": "पाँच इन्द्रिय-द्रव्य"
+    },
+    {
+     "sa": "खम्",
+     "iast": "kham",
+     "en": "ākāśa, space/ether",
+     "hi": "ख (आकाश)"
+    },
+    {
+     "sa": "वायुः",
+     "iast": "vāyuḥ",
+     "en": "air",
+     "hi": "वायु"
+    },
+    {
+     "sa": "ज्योतिः",
+     "iast": "jyotiḥ",
+     "en": "fire, light (tejas)",
+     "hi": "ज्योति (तेज/अग्नि)"
+    },
+    {
+     "sa": "आपः",
+     "iast": "āpaḥ",
+     "en": "water",
+     "hi": "आप (जल)"
+    },
+    {
+     "sa": "भूः",
+     "iast": "bhūḥ",
+     "en": "earth",
+     "hi": "भू (पृथ्वी)"
+    },
+    {
+     "sa": "इति",
+     "iast": "iti",
+     "en": "thus",
+     "hi": "ये"
+    }
+   ],
+   "english": "The five substances of the senses (indriya-dravya) are: space (kha/ākāśa), air (vāyu), fire (jyotis/tejas), water (āpas) and earth (bhū).",
+   "hindi": "पाँच इन्द्रिय-द्रव्य हैं: ख (आकाश), वायु, ज्योति (तेज/अग्नि), जल और पृथ्वी।",
+   "explanation_en": "Each sense faculty is built predominantly from one mahābhūta (v. 14): ākāśa for hearing, vāyu for touch, tejas for sight, jala for taste and pṛthvī for smell. Note the order here follows the order of creation (ākāśa first), not the order of the senses in v. 8.",
+   "explanation_hi": "हर इन्द्रिय मुख्यतः एक महाभूत से बनी है (श्लोक 14): श्रोत्र-आकाश, स्पर्शन-वायु, चक्षु-तेज, रसना-जल, घ्राण-पृथ्वी। यहाँ क्रम सृष्टि-क्रम के अनुसार है (पहले आकाश)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "indriyadravya",
+    "pañcamahābhūta",
+    "ākāśa",
+    "vāyu",
+    "tejas",
+    "jala",
+    "pṛthvī"
+   ],
+   "tags": [
+    "indriya",
+    "pancha-panchaka",
+    "mahabhuta"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.8.10",
+   "word_meanings": [
+    {
+     "sa": "पञ्चेन्द्रियाधिष्ठानानि",
+     "iast": "pañcendriyādhiṣṭhānāni",
+     "en": "the five seats of the senses",
+     "hi": "पाँच इन्द्रिय-अधिष्ठान"
+    },
+    {
+     "sa": "अक्षिणी",
+     "iast": "akṣiṇī",
+     "en": "the two eyes",
+     "hi": "दोनों आँखें"
+    },
+    {
+     "sa": "कर्णौ",
+     "iast": "karṇau",
+     "en": "the two ears",
+     "hi": "दोनों कान"
+    },
+    {
+     "sa": "नासिके",
+     "iast": "nāsike",
+     "en": "the two nostrils",
+     "hi": "दोनों नासिका-छिद्र"
+    },
+    {
+     "sa": "जिह्वा",
+     "iast": "jihvā",
+     "en": "tongue",
+     "hi": "जीभ"
+    },
+    {
+     "sa": "त्वक्",
+     "iast": "tvak",
+     "en": "skin",
+     "hi": "त्वचा"
+    },
+    {
+     "sa": "च इति",
+     "iast": "ca iti",
+     "en": "and thus",
+     "hi": "और"
+    }
+   ],
+   "english": "The five seats of the senses (indriya-adhiṣṭhāna) are: the two eyes, the two ears, the two nostrils, the tongue and the skin.",
+   "hindi": "पाँच इन्द्रिय-अधिष्ठान (इन्द्रियों के स्थान) हैं: दोनों आँखें, दोनों कान, दोनों नासिकाएँ, जीभ और त्वचा।",
+   "explanation_en": "The adhiṣṭhāna is the visible physical organ in which the subtle indriya resides. Damage to the seat (e.g. the eyeball) impairs the faculty, but the two are distinguished conceptually. The dual forms (akṣiṇī, karṇau, nāsike) remind us that these organs are paired.",
+   "explanation_hi": "अधिष्ठान वह दृश्य भौतिक अंग है जिसमें सूक्ष्म इन्द्रिय रहती है। अधिष्ठान (जैसे नेत्रगोलक) को क्षति होने पर इन्द्रिय-शक्ति प्रभावित होती है, फिर भी दोनों अलग माने गए हैं। द्विवचन (अक्षिणी, कर्णौ, नासिके) बताता है कि ये अंग जोड़े में हैं।",
+   "modern_correlation": {
+    "en": "The adhiṣṭhānas correspond to the peripheral sense organs that house receptors: retina in the eye, cochlea in the ear, olfactory epithelium in the nose, taste buds on the tongue and cutaneous receptors in the skin.",
+    "hi": "अधिष्ठानों की तुलना उन परिधीय इन्द्रिय-अंगों से की जा सकती है जिनमें रिसेप्टर होते हैं: आँख में रेटिना, कान में कॉक्लिया, नाक में ओल्फैक्टरी एपिथीलियम, जीभ पर टेस्ट बड्स और त्वचा में स्पर्श-रिसेप्टर।"
+   },
+   "key_terms": [
+    "indriyādhiṣṭhāna",
+    "akṣi",
+    "karṇa",
+    "nāsā",
+    "jihvā",
+    "tvak"
+   ],
+   "tags": [
+    "indriya",
+    "pancha-panchaka",
+    "anatomy"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.8.11",
+   "word_meanings": [
+    {
+     "sa": "पञ्चेन्द्रियार्थाः",
+     "iast": "pañcendriyārthāḥ",
+     "en": "the five objects of the senses",
+     "hi": "पाँच इन्द्रियार्थ"
+    },
+    {
+     "sa": "शब्द",
+     "iast": "śabda",
+     "en": "sound",
+     "hi": "शब्द"
+    },
+    {
+     "sa": "स्पर्श",
+     "iast": "sparśa",
+     "en": "touch",
+     "hi": "स्पर्श"
+    },
+    {
+     "sa": "रूप",
+     "iast": "rūpa",
+     "en": "form, colour (sight)",
+     "hi": "रूप"
+    },
+    {
+     "sa": "रस",
+     "iast": "rasa",
+     "en": "taste",
+     "hi": "रस"
+    },
+    {
+     "sa": "गन्धाः",
+     "iast": "gandhāḥ",
+     "en": "smell",
+     "hi": "गन्ध"
+    }
+   ],
+   "english": "The five objects of the senses (indriya-artha) are: sound (śabda), touch (sparśa), form/colour (rūpa), taste (rasa) and smell (gandha).",
+   "hindi": "पाँच इन्द्रियार्थ (इन्द्रियों के विषय) हैं: शब्द, स्पर्श, रूप, रस और गन्ध।",
+   "explanation_en": "These are also the specific qualities (viśeṣa guṇa) of the five mahābhūtas in order: śabda of ākāśa, sparśa of vāyu, rūpa of tejas, rasa of jala, gandha of pṛthvī. Matching sense, bhūta and object is a favourite exam table.",
+   "explanation_hi": "ये पाँच महाभूतों के क्रमशः विशेष गुण भी हैं: आकाश-शब्द, वायु-स्पर्श, तेज-रूप, जल-रस, पृथ्वी-गन्ध। इन्द्रिय, महाभूत और विषय को मिलाने वाली तालिका परीक्षा में बहुत पूछी जाती है।",
+   "modern_correlation": {
+    "en": "These correspond to the 'adequate stimuli' of modern sensory physiology: sound waves, mechanical and thermal stimuli, light, dissolved chemicals (taste) and airborne chemicals (smell).",
+    "hi": "ये आधुनिक संवेदी शरीर-क्रिया विज्ञान के 'उपयुक्त उद्दीपनों' से मेल खाते हैं: ध्वनि-तरंगें, यांत्रिक और ताप उद्दीपन, प्रकाश, घुले हुए रसायन (स्वाद) और हवा में उपस्थित रसायन (गन्ध)।"
+   },
+   "key_terms": [
+    "indriyārtha",
+    "śabda",
+    "sparśa",
+    "rūpa",
+    "rasa",
+    "gandha"
+   ],
+   "tags": [
+    "indriya",
+    "pancha-panchaka",
+    "mahabhuta",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Śabda-Sparśa-Rūpa-Rasa-Gandha follow Ākāśa-Vāyu-Tejas-Jala-Pṛthvī (each bhūta adds one quality)",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.8.12",
+   "word_meanings": [
+    {
+     "sa": "पञ्चेन्द्रियबुद्धयः",
+     "iast": "pañcendriyabuddhayaḥ",
+     "en": "the five sense perceptions",
+     "hi": "पाँच इन्द्रिय-बुद्धियाँ"
+    },
+    {
+     "sa": "चक्षुर्बुद्ध्यादिकाः",
+     "iast": "cakṣurbuddhyādikāḥ",
+     "en": "visual perception and the rest",
+     "hi": "चक्षुर्बुद्धि आदि"
+    },
+    {
+     "sa": "ताः पुनः",
+     "iast": "tāḥ punaḥ",
+     "en": "and they",
+     "hi": "और वे"
+    },
+    {
+     "sa": "इन्द्रिय",
+     "iast": "indriya",
+     "en": "sense organ",
+     "hi": "इन्द्रिय"
+    },
+    {
+     "sa": "इन्द्रियार्थ",
+     "iast": "indriyārtha",
+     "en": "sense object",
+     "hi": "इन्द्रियार्थ"
+    },
+    {
+     "sa": "सत्त्व",
+     "iast": "sattva",
+     "en": "mind",
+     "hi": "मन"
+    },
+    {
+     "sa": "आत्म",
+     "iast": "ātma",
+     "en": "self",
+     "hi": "आत्मा"
+    },
+    {
+     "sa": "सन्निकर्षजाः",
+     "iast": "sannikarṣajāḥ",
+     "en": "born of contact",
+     "hi": "सन्निकर्ष (संयोग) से उत्पन्न"
+    },
+    {
+     "sa": "क्षणिकाः",
+     "iast": "kṣaṇikāḥ",
+     "en": "momentary",
+     "hi": "क्षणिक"
+    },
+    {
+     "sa": "निश्चयात्मिकाः",
+     "iast": "niścayātmikāḥ",
+     "en": "determinate, decisive in nature",
+     "hi": "निश्चयात्मक"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "इति एतत्",
+     "iast": "iti etat",
+     "en": "thus this is",
+     "hi": "यह है"
+    },
+    {
+     "sa": "पञ्चपञ्चकम्",
+     "iast": "pañcapañcakam",
+     "en": "the group of five pentads",
+     "hi": "पञ्चपञ्चक"
+    }
+   ],
+   "english": "The five sense perceptions (indriya-buddhi) are visual perception and the rest. They are born of the contact of the sense organ, the sense object, the mind and the self; they are momentary and determinate. This is the pañca-pañcaka (the five pentads).",
+   "hindi": "पाँच इन्द्रिय-बुद्धियाँ चक्षुर्बुद्धि (दृश्य ज्ञान) आदि हैं। वे इन्द्रिय, इन्द्रियार्थ, मन और आत्मा के सन्निकर्ष (संयोग) से उत्पन्न होती हैं; वे क्षणिक और निश्चयात्मक होती हैं। यही पञ्चपञ्चक है।",
+   "explanation_en": "This defines how perception arises: four factors (indriya, artha, manas, ātman) must come together. Two properties are given: kṣaṇika (lasting a moment, each perception is replaced by the next) and niścayātmika (giving definite knowledge, e.g. 'this is blue'). This is the same model of pratyakṣa used in Su 11.20 and Śārīra 1. Frequently asked: 'four-fold sannikarṣa for perception'.",
+   "explanation_hi": "यह बताता है कि ज्ञान कैसे होता है: चार कारक (इन्द्रिय, अर्थ, मन, आत्मा) का संयोग आवश्यक है। दो गुण बताए गए हैं: क्षणिक (एक क्षण रहने वाली) और निश्चयात्मक (निश्चित ज्ञान देने वाली, जैसे 'यह नीला है')। यही प्रत्यक्ष का मॉडल सू. 11.20 में भी है। परीक्षा में 'चतुर्विध सन्निकर्ष' पूछा जाता है।",
+   "modern_correlation": {
+    "en": "Often compared with the modern view that perception requires a stimulus, an intact receptor and pathway, and central processing with attention; each percept is brief and continuously updated. The role of ātman (the conscious self) is a philosophical claim outside the scope of physiology.",
+    "hi": "इसकी तुलना आधुनिक मत से की जाती है कि अनुभूति के लिए उद्दीपन, स्वस्थ रिसेप्टर व मार्ग, और ध्यान सहित केन्द्रीय प्रसंस्करण चाहिए; हर अनुभूति क्षणिक होती है और लगातार बदलती है। आत्मा की भूमिका एक दार्शनिक कथन है, शरीर-क्रिया विज्ञान के दायरे से बाहर।"
+   },
+   "key_terms": [
+    "indriyabuddhi",
+    "sannikarṣa",
+    "kṣaṇika",
+    "niścayātmika",
+    "pañcapañcaka"
+   ],
+   "tags": [
+    "indriya",
+    "pancha-panchaka",
+    "perception",
+    "pramana",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Perception needs I-A-M-A: Indriya + Artha + Manas + Ātman",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.8.13",
+   "word_meanings": [
+    {
+     "sa": "मनः",
+     "iast": "manaḥ",
+     "en": "mind",
+     "hi": "मन"
+    },
+    {
+     "sa": "मनोऽर्थः",
+     "iast": "mano'rthaḥ",
+     "en": "object of the mind",
+     "hi": "मन का विषय"
+    },
+    {
+     "sa": "बुद्धिः",
+     "iast": "buddhiḥ",
+     "en": "intellect",
+     "hi": "बुद्धि"
+    },
+    {
+     "sa": "आत्मा",
+     "iast": "ātmā",
+     "en": "self, soul",
+     "hi": "आत्मा"
+    },
+    {
+     "sa": "च इति",
+     "iast": "ca iti",
+     "en": "and thus",
+     "hi": "और"
+    },
+    {
+     "sa": "अध्यात्मद्रव्यगुणसंग्रहः",
+     "iast": "adhyātmadravyaguṇasaṃgrahaḥ",
+     "en": "the collection of spiritual (inner) substances and qualities",
+     "hi": "अध्यात्म द्रव्य-गुण संग्रह"
+    },
+    {
+     "sa": "शुभ",
+     "iast": "śubha",
+     "en": "good, auspicious",
+     "hi": "शुभ"
+    },
+    {
+     "sa": "अशुभ",
+     "iast": "aśubha",
+     "en": "bad, inauspicious",
+     "hi": "अशुभ"
+    },
+    {
+     "sa": "प्रवृत्ति",
+     "iast": "pravṛtti",
+     "en": "engagement, activity",
+     "hi": "प्रवृत्ति"
+    },
+    {
+     "sa": "निवृत्ति",
+     "iast": "nivṛtti",
+     "en": "withdrawal, abstention",
+     "hi": "निवृत्ति"
+    },
+    {
+     "sa": "हेतुः",
+     "iast": "hetuḥ",
+     "en": "cause",
+     "hi": "कारण"
+    },
+    {
+     "sa": "द्रव्याश्रितम्",
+     "iast": "dravyāśritam",
+     "en": "residing in substance",
+     "hi": "द्रव्य में आश्रित"
+    },
+    {
+     "sa": "कर्म",
+     "iast": "karma",
+     "en": "action",
+     "hi": "कर्म"
+    },
+    {
+     "sa": "यत् उच्यते",
+     "iast": "yat ucyate",
+     "en": "which is called",
+     "hi": "जिसे कहते हैं"
+    },
+    {
+     "sa": "क्रिया इति",
+     "iast": "kriyā iti",
+     "en": "kriyā (activity)",
+     "hi": "क्रिया"
+    }
+   ],
+   "english": "Mind (manas), the object of the mind (mano'rtha), intellect (buddhi) and self (ātman): this is the collection of the inner (adhyātma) substances and qualities. They are the cause of engagement in, and withdrawal from, good and bad actions. Action (karma), which resides in substance, is called kriyā.",
+   "hindi": "मन, मन का विषय, बुद्धि और आत्मा: यह अध्यात्म द्रव्य-गुणों का संग्रह है। ये शुभ और अशुभ कर्मों में प्रवृत्ति और उनसे निवृत्ति के कारण हैं। जो कर्म द्रव्य में आश्रित है उसे 'क्रिया' कहते हैं।",
+   "explanation_en": "This lists the 'adhyātma' (inner, psychological-spiritual) group: manas and ātman are substances (dravya), mano'rtha and buddhi are their qualities/products. Together they decide whether a person moves towards good or bad action, which is why sadvṛtta (v. 17 onwards) aims to train them. Karma is defined as what resides in dravya and is called kriyā (compare Su 1.52).",
+   "explanation_hi": "यह 'अध्यात्म' समूह बताता है: मन और आत्मा द्रव्य हैं, मनोऽर्थ और बुद्धि उनके गुण/कार्य हैं। यही तय करते हैं कि व्यक्ति शुभ या अशुभ कर्म की ओर जाएगा; इसलिए सद्वृत्त (श्लोक 17 से) इन्हें साधने का उपाय है। कर्म द्रव्य में रहता है और उसे क्रिया कहते हैं (तुलना करें सू. 1.52)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "adhyātma",
+    "manas",
+    "mano'rtha",
+    "buddhi",
+    "ātman",
+    "karma",
+    "kriyā",
+    "pravṛtti",
+    "nivṛtti"
+   ],
+   "tags": [
+    "manas",
+    "padartha",
+    "karma"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.8.14",
+   "word_meanings": [
+    {
+     "sa": "तत्र",
+     "iast": "tatra",
+     "en": "there, among these",
+     "hi": "उनमें"
+    },
+    {
+     "sa": "अनुमानगम्यानाम्",
+     "iast": "anumānagamyānām",
+     "en": "knowable only by inference",
+     "hi": "अनुमान से जानी जाने वाली"
+    },
+    {
+     "sa": "पञ्चमहाभूतविकारसमुदायात्मकानाम्",
+     "iast": "pañcamahābhūtavikārasamudāyātmakānām",
+     "en": "composed of a combination of the products of all five great elements",
+     "hi": "पाँचों महाभूतों के विकारों के समुदाय से बनी"
+    },
+    {
+     "sa": "अपि सताम्",
+     "iast": "api satām",
+     "en": "even though being",
+     "hi": "होते हुए भी"
+    },
+    {
+     "sa": "इन्द्रियाणाम्",
+     "iast": "indriyāṇām",
+     "en": "of the senses",
+     "hi": "इन्द्रियों में"
+    },
+    {
+     "sa": "तेजः चक्षुषि",
+     "iast": "tejaḥ cakṣuṣi",
+     "en": "fire in the eye",
+     "hi": "चक्षु में तेज"
+    },
+    {
+     "sa": "खम् श्रोत्रे",
+     "iast": "kham śrotre",
+     "en": "space in the ear",
+     "hi": "श्रोत्र में आकाश"
+    },
+    {
+     "sa": "घ्राणे क्षितिः",
+     "iast": "ghrāṇe kṣitiḥ",
+     "en": "earth in the nose",
+     "hi": "घ्राण में पृथ्वी"
+    },
+    {
+     "sa": "आपः रसने",
+     "iast": "āpaḥ rasane",
+     "en": "water in the tongue",
+     "hi": "रसना में जल"
+    },
+    {
+     "sa": "स्पर्शने अनिलः",
+     "iast": "sparśane anilaḥ",
+     "en": "air in touch",
+     "hi": "स्पर्शन में वायु"
+    },
+    {
+     "sa": "विशेषेण उपपद्यते",
+     "iast": "viśeṣeṇa upapadyate",
+     "en": "predominates",
+     "hi": "विशेष रूप से रहता है"
+    },
+    {
+     "sa": "यद्यदात्मकम्",
+     "iast": "yadyadātmakam",
+     "en": "of whatever nature",
+     "hi": "जिस-जिस (महाभूत) से बनी"
+    },
+    {
+     "sa": "इन्द्रियम्",
+     "iast": "indriyam",
+     "en": "sense organ",
+     "hi": "इन्द्रिय"
+    },
+    {
+     "sa": "विशेषात्",
+     "iast": "viśeṣāt",
+     "en": "predominantly",
+     "hi": "विशेष रूप से"
+    },
+    {
+     "sa": "तत्तदात्मकम् एव",
+     "iast": "tattadātmakam eva",
+     "en": "of that same nature only",
+     "hi": "उसी प्रकृति वाले"
+    },
+    {
+     "sa": "अर्थम्",
+     "iast": "artham",
+     "en": "object",
+     "hi": "विषय को"
+    },
+    {
+     "sa": "अनुगृह्णाति",
+     "iast": "anugṛhṇāti",
+     "en": "perceives, grasps",
+     "hi": "ग्रहण करती है"
+    },
+    {
+     "sa": "तत्स्वभावात्",
+     "iast": "tatsvabhāvāt",
+     "en": "because of that nature",
+     "hi": "उसी स्वभाव के कारण"
+    },
+    {
+     "sa": "विभुत्वात् च",
+     "iast": "vibhutvāt ca",
+     "en": "and because of its pervasive capacity",
+     "hi": "और विभुत्व (व्याप्ति/सामर्थ्य) के कारण"
+    }
+   ],
+   "english": "Although the senses, which are knowable only by inference, are each made of a combination of all five great elements (mahābhūta), fire (tejas) predominates in the eye, space (ākāśa) in the ear, earth (pṛthvī) in the nose, water (āpas) in the tongue and air (vāyu) in the skin. A sense organ made predominantly of a particular element perceives only the object of that same nature, because of their shared nature and its capacity (vibhutva).",
+   "hindi": "इन्द्रियाँ केवल अनुमान से जानी जाती हैं; यद्यपि प्रत्येक पाँचों महाभूतों के विकारों से बनी है, फिर भी चक्षु में तेज, श्रोत्र में आकाश, घ्राण में पृथ्वी, रसना में जल और स्पर्शन में वायु विशेष रूप से रहता है। जो इन्द्रिय जिस महाभूत की प्रधानता से बनी है, वह उसी प्रकृति वाले विषय को ग्रहण करती है, क्योंकि उनका स्वभाव समान है और उसमें वैसा सामर्थ्य है।",
+   "explanation_en": "Two key ideas: (1) Indriyas are anumāna-gamya: we cannot see the faculty of sight itself, we infer it from the fact that seeing happens. (2) The principle of 'like perceives like': an eye made mainly of tejas perceives rūpa, the quality of tejas. Every indriya is pāñcabhautika but one bhūta predominates. Exam tip: link this to v. 9 and v. 11 in one table.",
+   "explanation_hi": "दो मुख्य विचार: (1) इन्द्रियाँ अनुमानगम्य हैं: देखने की शक्ति स्वयं दिखाई नहीं देती, देखने की क्रिया से उसका अनुमान होता है। (2) 'समान समान को ग्रहण करता है': तेज-प्रधान चक्षु तेज के गुण रूप को ग्रहण करती है। हर इन्द्रिय पाञ्चभौतिक है पर एक भूत प्रधान है।",
+   "modern_correlation": {
+    "en": "The 'like perceives like' idea is sometimes compared with receptor specificity (Müller's law of specific nerve energies): each receptor type responds best to a particular kind of stimulus. The mahābhūta explanation itself is a classical theory, not a modern finding.",
+    "hi": "'समान समान को ग्रहण करता है' की तुलना कभी-कभी रिसेप्टर विशिष्टता (म्यूलर का 'स्पेसिफ़िक नर्व एनर्जी' नियम) से की जाती है: हर रिसेप्टर एक विशेष प्रकार के उद्दीपन पर सबसे अधिक प्रतिक्रिया देता है। महाभूत वाली व्याख्या शास्त्रीय सिद्धान्त है, आधुनिक खोज नहीं।"
+   },
+   "key_terms": [
+    "indriya",
+    "anumāna",
+    "pāñcabhautika",
+    "tejas",
+    "ākāśa",
+    "pṛthvī",
+    "jala",
+    "vāyu",
+    "vibhutva"
+   ],
+   "tags": [
+    "indriya",
+    "mahabhuta",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.8.15",
+   "word_meanings": [
+    {
+     "sa": "तद्",
+     "iast": "tad",
+     "en": "that",
+     "hi": "उस"
+    },
+    {
+     "sa": "अर्थ",
+     "iast": "artha",
+     "en": "sense object",
+     "hi": "इन्द्रियार्थ के"
+    },
+    {
+     "sa": "अतियोग",
+     "iast": "atiyoga",
+     "en": "excessive use",
+     "hi": "अतियोग"
+    },
+    {
+     "sa": "अयोग",
+     "iast": "ayoga",
+     "en": "non-use / deficient use",
+     "hi": "अयोग"
+    },
+    {
+     "sa": "मिथ्यायोगात्",
+     "iast": "mithyāyogāt",
+     "en": "from wrong use",
+     "hi": "मिथ्यायोग से"
+    },
+    {
+     "sa": "समनस्कम्",
+     "iast": "samanaskam",
+     "en": "together with the mind",
+     "hi": "मन सहित"
+    },
+    {
+     "sa": "इन्द्रियम्",
+     "iast": "indriyam",
+     "en": "sense organ",
+     "hi": "इन्द्रिय"
+    },
+    {
+     "sa": "विकृतिम् आपद्यमानम्",
+     "iast": "vikṛtim āpadyamānam",
+     "en": "becoming deranged",
+     "hi": "विकृति को प्राप्त होकर"
+    },
+    {
+     "sa": "यथास्वम्",
+     "iast": "yathāsvam",
+     "en": "respectively, each in its own way",
+     "hi": "अपनी-अपनी"
+    },
+    {
+     "sa": "बुद्ध्युपघाताय",
+     "iast": "buddhyupaghātāya",
+     "en": "to the impairment of perception",
+     "hi": "बुद्धि (ज्ञान) के नाश के लिए"
+    },
+    {
+     "sa": "संपद्यते",
+     "iast": "saṃpadyate",
+     "en": "leads to",
+     "hi": "होती है"
+    },
+    {
+     "sa": "सामर्थ्ययोगात्",
+     "iast": "sāmarthyayogāt",
+     "en": "from proper (balanced) use",
+     "hi": "सम्यक् योग से"
+    },
+    {
+     "sa": "पुनः",
+     "iast": "punaḥ",
+     "en": "again, on the other hand",
+     "hi": "फिर"
+    },
+    {
+     "sa": "प्रकृतिम् आपद्यमानम्",
+     "iast": "prakṛtim āpadyamānam",
+     "en": "remaining in its normal state",
+     "hi": "प्रकृति (स्वाभाविक अवस्था) में रहकर"
+    },
+    {
+     "sa": "बुद्धिम् आप्याययति",
+     "iast": "buddhim āpyāyayati",
+     "en": "nourishes / strengthens perception",
+     "hi": "बुद्धि को पुष्ट करती है"
+    }
+   ],
+   "english": "Through excessive use (atiyoga), non-use (ayoga) or wrong use (mithyāyoga) of its objects, a sense organ together with the mind becomes deranged and leads to impairment of its own perception. Through proper use (sāmarthya-yoga / samyak-yoga), on the other hand, it stays in its normal state and strengthens its perception.",
+   "hindi": "इन्द्रियार्थों के अतियोग, अयोग और मिथ्यायोग से मन सहित इन्द्रिय विकृत होकर अपनी-अपनी बुद्धि (ज्ञान) के नाश का कारण बनती है। सम्यक् योग से वह प्रकृति में रहकर अपनी बुद्धि को पुष्ट करती है।",
+   "explanation_en": "This applies the threefold cause of disease (Su 11.37, asātmyendriyārtha-saṃyoga) to the senses. Example for the eye: atiyoga = staring at very bright light, ayoga = not looking at all, mithyāyoga = looking at very near, tiny, frightening or disgusting objects. Remember: hīna-mithyā-ati yoga causes disease; samyak yoga keeps health.",
+   "explanation_hi": "यह रोग के त्रिविध कारण (सू. 11.37, असात्म्येन्द्रियार्थ संयोग) को इन्द्रियों पर लागू करता है। आँख का उदाहरण: अतियोग = बहुत तेज़ प्रकाश देखना, अयोग = बिल्कुल न देखना, मिथ्यायोग = बहुत पास, बहुत सूक्ष्म, भयानक या घृणित वस्तु देखना। याद रखें: हीन-मिथ्या-अति योग रोग देते हैं, सम्यक् योग स्वास्थ्य।",
+   "modern_correlation": {
+    "en": "Modern parallels exist for each type: excessive stimulation (noise-induced hearing loss, retinal damage from intense light), deprivation (sensory deprivation and disuse effects) and inappropriate use (eye strain from prolonged close work). These are illustrative parallels, not identical concepts.",
+    "hi": "हर प्रकार के आधुनिक उदाहरण मिलते हैं: अति-उद्दीपन (शोर से बहरापन, तेज़ प्रकाश से रेटिना क्षति), वंचना (संवेदी वंचना और उपयोग न होने के प्रभाव), और गलत उपयोग (लगातार पास का काम करने से आँखों पर तनाव)। ये उदाहरणात्मक समानताएँ हैं, समान अवधारणाएँ नहीं।"
+   },
+   "key_terms": [
+    "atiyoga",
+    "ayoga",
+    "mithyāyoga",
+    "samyakyoga",
+    "asātmyendriyārtha saṃyoga"
+   ],
+   "tags": [
+    "indriya",
+    "etiology",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Ati-A-Mithyā = Too much, too little, the wrong way",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.8.16",
+   "word_meanings": [
+    {
+     "sa": "मनसः तु",
+     "iast": "manasaḥ tu",
+     "en": "but for the mind",
+     "hi": "परन्तु मन का"
+    },
+    {
+     "sa": "चिन्त्यम् अर्थम्",
+     "iast": "cintyam artham",
+     "en": "the object is what is to be thought",
+     "hi": "विषय चिन्त्य (सोचने योग्य) है"
+    },
+    {
+     "sa": "तत्र",
+     "iast": "tatra",
+     "en": "there",
+     "hi": "वहाँ"
+    },
+    {
+     "sa": "मनसः",
+     "iast": "manasaḥ",
+     "en": "of the mind",
+     "hi": "मन की"
+    },
+    {
+     "sa": "मनोबुद्धेः च",
+     "iast": "manobuddheḥ ca",
+     "en": "and of mental cognition",
+     "hi": "और मनोबुद्धि की"
+    },
+    {
+     "sa": "ते एव",
+     "iast": "te eva",
+     "en": "the same",
+     "hi": "वही"
+    },
+    {
+     "sa": "समान",
+     "iast": "samāna",
+     "en": "balanced, proper",
+     "hi": "सम (सम्यक्)"
+    },
+    {
+     "sa": "अतिहीन",
+     "iast": "atihīna",
+     "en": "excessive and deficient",
+     "hi": "अति और हीन"
+    },
+    {
+     "sa": "मिथ्यायोगाः",
+     "iast": "mithyāyogāḥ",
+     "en": "wrong uses",
+     "hi": "मिथ्यायोग"
+    },
+    {
+     "sa": "प्रकृति",
+     "iast": "prakṛti",
+     "en": "normalcy",
+     "hi": "प्रकृति"
+    },
+    {
+     "sa": "विकृति",
+     "iast": "vikṛti",
+     "en": "abnormality",
+     "hi": "विकृति"
+    },
+    {
+     "sa": "हेतवः भवन्ति",
+     "iast": "hetavaḥ bhavanti",
+     "en": "are the causes",
+     "hi": "के कारण होते हैं"
+    }
+   ],
+   "english": "The object of the mind, however, is that which is to be thought about (cintya). For the mind and mental cognition, the same factors, balanced use and excessive, deficient or wrong use, are the causes of normalcy and abnormality respectively.",
+   "hindi": "मन का विषय चिन्त्य (सोचने योग्य वस्तु) है। मन और मनोबुद्धि के लिए भी वही सम्यक् योग तथा अति, हीन और मिथ्या योग क्रमशः प्रकृति (स्वास्थ्य) और विकृति के कारण होते हैं।",
+   "explanation_en": "The same rule of balanced use applies to thinking: excessive brooding, not using the mind at all, or thinking in a wrong way (e.g. about harmful or frightening things) disturbs the mind. Cakrapāṇi gives examples like over-thinking (ati), not thinking (hīna) and thinking about improper things (mithyā).",
+   "explanation_hi": "सम्यक् उपयोग का यही नियम सोचने पर भी लागू है: अत्यधिक चिन्ता करना, मन का उपयोग ही न करना, या गलत तरह से सोचना (जैसे हानिकारक या भयावह बातों के बारे में) मन को विकृत करता है।",
+   "modern_correlation": {
+    "en": "The idea that excessive rumination harms mental health is consistent with modern findings linking repetitive negative thinking with anxiety and depression, while mental stimulation is associated with healthy cognitive ageing. These are broad parallels only.",
+    "hi": "अत्यधिक चिन्तन से मानसिक स्वास्थ्य को हानि का विचार आधुनिक शोध से मेल खाता है, जो बार-बार नकारात्मक सोच (रूमिनेशन) को चिन्ता और अवसाद से जोड़ता है, जबकि मानसिक सक्रियता स्वस्थ संज्ञानात्मक वृद्धावस्था से जुड़ी है। ये केवल व्यापक समानताएँ हैं।"
+   },
+   "key_terms": [
+    "manas",
+    "cintya",
+    "manobuddhi",
+    "atiyoga",
+    "hīnayoga",
+    "mithyāyoga"
+   ],
+   "tags": [
+    "manas",
+    "etiology"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.8.17",
+   "word_meanings": [
+    {
+     "sa": "तत्र",
+     "iast": "tatra",
+     "en": "therefore, in that regard",
+     "hi": "अतः"
+    },
+    {
+     "sa": "इन्द्रियाणाम्",
+     "iast": "indriyāṇām",
+     "en": "of the senses",
+     "hi": "इन्द्रियों के"
+    },
+    {
+     "sa": "समनस्कानाम्",
+     "iast": "samanaskānām",
+     "en": "along with the mind",
+     "hi": "मन सहित"
+    },
+    {
+     "sa": "अनुपतप्तानाम्",
+     "iast": "anupataptānām",
+     "en": "unafflicted",
+     "hi": "अपीड़ित (स्वस्थ)"
+    },
+    {
+     "sa": "अनुपतापाय",
+     "iast": "anupatāpāya",
+     "en": "for keeping them unafflicted",
+     "hi": "पीड़ा न होने के लिए"
+    },
+    {
+     "sa": "प्रकृतिभावे",
+     "iast": "prakṛtibhāve",
+     "en": "in their normal state",
+     "hi": "प्राकृत अवस्था में (बनाए रखने के लिए)"
+    },
+    {
+     "sa": "प्रयतितव्यम्",
+     "iast": "prayatitavyam",
+     "en": "effort should be made",
+     "hi": "प्रयत्न करना चाहिए"
+    },
+    {
+     "sa": "एभिः हेतुभिः",
+     "iast": "ebhiḥ hetubhiḥ",
+     "en": "by these means",
+     "hi": "इन उपायों से"
+    },
+    {
+     "sa": "सात्म्येन्द्रियार्थसंयोगेन",
+     "iast": "sātmyendriyārthasaṃyogena",
+     "en": "by wholesome contact of senses with objects",
+     "hi": "सात्म्य इन्द्रियार्थ-संयोग से"
+    },
+    {
+     "sa": "बुद्ध्या",
+     "iast": "buddhyā",
+     "en": "with intellect",
+     "hi": "बुद्धि से"
+    },
+    {
+     "sa": "सम्यक् अवेक्ष्य अवेक्ष्य",
+     "iast": "samyak avekṣya avekṣya",
+     "en": "after examining carefully again and again",
+     "hi": "बार-बार अच्छी तरह देख-परखकर"
+    },
+    {
+     "sa": "कर्मणाम्",
+     "iast": "karmaṇām",
+     "en": "of actions",
+     "hi": "कर्मों के"
+    },
+    {
+     "sa": "सम्यक् प्रतिपादनेन",
+     "iast": "samyak pratipādanena",
+     "en": "by proper performance",
+     "hi": "सम्यक् आचरण से"
+    },
+    {
+     "sa": "देश",
+     "iast": "deśa",
+     "en": "place",
+     "hi": "देश"
+    },
+    {
+     "sa": "काल",
+     "iast": "kāla",
+     "en": "season, time",
+     "hi": "काल"
+    },
+    {
+     "sa": "आत्म",
+     "iast": "ātma",
+     "en": "one's own constitution",
+     "hi": "आत्म (अपनी प्रकृति)"
+    },
+    {
+     "sa": "गुणविपरीतोपासनेन",
+     "iast": "guṇaviparītopāsanena",
+     "en": "by adopting what is opposite in quality",
+     "hi": "विपरीत गुणों के सेवन से"
+    },
+    {
+     "sa": "तस्मात्",
+     "iast": "tasmāt",
+     "en": "therefore",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "आत्महितम्",
+     "iast": "ātmahitam",
+     "en": "one's own welfare",
+     "hi": "अपना हित"
+    },
+    {
+     "sa": "चिकीर्षता",
+     "iast": "cikīrṣatā",
+     "en": "by one who wishes to do",
+     "hi": "करने की इच्छा वाले"
+    },
+    {
+     "sa": "सर्वेण",
+     "iast": "sarveṇa",
+     "en": "by everyone",
+     "hi": "सबके द्वारा"
+    },
+    {
+     "sa": "सर्वम्",
+     "iast": "sarvam",
+     "en": "all",
+     "hi": "सब"
+    },
+    {
+     "sa": "सर्वदा",
+     "iast": "sarvadā",
+     "en": "always",
+     "hi": "सदा"
+    },
+    {
+     "sa": "स्मृतिम् आस्थाय",
+     "iast": "smṛtim āsthāya",
+     "en": "with mindfulness, remembering",
+     "hi": "स्मृति रखकर (सावधान रहकर)"
+    },
+    {
+     "sa": "सद्वृत्तम्",
+     "iast": "sadvṛttam",
+     "en": "good conduct",
+     "hi": "सद्वृत्त"
+    },
+    {
+     "sa": "अनुष्ठेयम्",
+     "iast": "anuṣṭheyam",
+     "en": "should be followed",
+     "hi": "पालन करना चाहिए"
+    }
+   ],
+   "english": "Therefore, to keep the senses and mind, when unafflicted, free from affliction and in their normal state, one should strive by these means: wholesome contact of the senses with their objects; performing actions properly after examining them carefully again and again with the intellect; and adopting what is opposite in quality to the place (deśa), season (kāla) and one's own constitution (ātma). Hence everyone who wishes his own welfare should always follow the whole of good conduct (sadvṛtta) with mindfulness.",
+   "hindi": "अतः स्वस्थ इन्द्रियों और मन को पीड़ा से बचाने और प्राकृत अवस्था में रखने के लिए इन उपायों से प्रयत्न करना चाहिए: इन्द्रियों का विषयों से सात्म्य (हितकर) संयोग; बुद्धि से बार-बार अच्छी तरह परखकर कर्मों का सम्यक् आचरण; और देश, काल तथा अपनी प्रकृति के विपरीत गुणों का सेवन। इसलिए अपना हित चाहने वाले सभी को सदा स्मृतिपूर्वक सम्पूर्ण सद्वृत्त का पालन करना चाहिए।",
+   "explanation_en": "These three means counter the three causes of disease (Su 11.43): wholesome sense contact counters asātmyendriyārtha-saṃyoga, wise action counters prajñāparādha, and adopting opposites to place-season-constitution counters pariṇāma (kāla). This verse is the bridge to the long list of sadvṛtta that follows. 'Smṛtim āsthāya' (with mindfulness) is the key attitude.",
+   "explanation_hi": "ये तीन उपाय रोग के तीन कारणों (सू. 11.43) के विरोधी हैं: सात्म्य इन्द्रियार्थ-संयोग असात्म्येन्द्रियार्थ-संयोग का, विवेकपूर्ण कर्म प्रज्ञापराध का, और देश-काल-प्रकृति के विपरीत सेवन परिणाम (काल) का। यह श्लोक आगे की सद्वृत्त सूची से जोड़ता है। 'स्मृतिम् आस्थाय' (सावधानी से) मुख्य भाव है।",
+   "modern_correlation": {
+    "en": "The emphasis on deliberate, mindful behaviour and adapting habits to environment and individual constitution is broadly comparable to modern preventive medicine and lifestyle medicine, which stress behaviour, environment and individual risk factors.",
+    "hi": "सोच-समझकर, सजग व्यवहार और वातावरण तथा व्यक्तिगत प्रकृति के अनुसार आदतें बदलने पर बल, आधुनिक निवारक चिकित्सा और लाइफ़स्टाइल मेडिसिन से मोटे तौर पर तुलनीय है, जो व्यवहार, वातावरण और व्यक्तिगत जोखिम कारकों पर ध्यान देती हैं।"
+   },
+   "key_terms": [
+    "sadvṛtta",
+    "sātmya",
+    "indriyārtha",
+    "prajñāparādha",
+    "deśa",
+    "kāla",
+    "smṛti"
+   ],
+   "tags": [
+    "sadvritta",
+    "prevention",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Three shields: right contact, right action, right adaptation (opposites of deśa-kāla-ātma)",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.8.18",
+   "word_meanings": [
+    {
+     "sa": "तत् हि अनुतिष्ठन्",
+     "iast": "tat hi anutiṣṭhan",
+     "en": "indeed, by following that",
+     "hi": "उसका पालन करते हुए"
+    },
+    {
+     "sa": "युगपत्",
+     "iast": "yugapat",
+     "en": "simultaneously",
+     "hi": "एक साथ"
+    },
+    {
+     "sa": "सम्पादयति",
+     "iast": "sampādayati",
+     "en": "achieves",
+     "hi": "प्राप्त करता है"
+    },
+    {
+     "sa": "अर्थद्वयम्",
+     "iast": "arthadvayam",
+     "en": "two goals",
+     "hi": "दो प्रयोजन"
+    },
+    {
+     "sa": "आरोग्यम्",
+     "iast": "ārogyam",
+     "en": "health",
+     "hi": "आरोग्य"
+    },
+    {
+     "sa": "इन्द्रियविजयम्",
+     "iast": "indriyavijayam",
+     "en": "mastery over the senses",
+     "hi": "इन्द्रिय-विजय"
+    },
+    {
+     "sa": "सद्वृत्तम्",
+     "iast": "sadvṛttam",
+     "en": "good conduct",
+     "hi": "सद्वृत्त"
+    },
+    {
+     "sa": "अखिलेन",
+     "iast": "akhilena",
+     "en": "completely",
+     "hi": "सम्पूर्ण रूप से"
+    },
+    {
+     "sa": "उपदेक्ष्यामः",
+     "iast": "upadekṣyāmaḥ",
+     "en": "we shall teach",
+     "hi": "उपदेश करेंगे"
+    },
+    {
+     "sa": "देव",
+     "iast": "deva",
+     "en": "gods",
+     "hi": "देवता"
+    },
+    {
+     "sa": "गो",
+     "iast": "go",
+     "en": "cows",
+     "hi": "गाय"
+    },
+    {
+     "sa": "ब्राह्मण",
+     "iast": "brāhmaṇa",
+     "en": "brāhmaṇas, learned persons",
+     "hi": "ब्राह्मण"
+    },
+    {
+     "sa": "गुरु",
+     "iast": "guru",
+     "en": "teachers, elders",
+     "hi": "गुरु"
+    },
+    {
+     "sa": "वृद्ध",
+     "iast": "vṛddha",
+     "en": "aged persons",
+     "hi": "वृद्ध"
+    },
+    {
+     "sa": "सिद्ध",
+     "iast": "siddha",
+     "en": "accomplished persons",
+     "hi": "सिद्ध"
+    },
+    {
+     "sa": "आचार्यान् अर्चयेत्",
+     "iast": "ācāryān arcayet",
+     "en": "should honour teachers",
+     "hi": "आचार्यों का पूजन (सम्मान) करे"
+    },
+    {
+     "sa": "अग्निम् उपचरेत्",
+     "iast": "agnim upacaret",
+     "en": "should tend the sacred fire",
+     "hi": "अग्नि की सेवा करे"
+    },
+    {
+     "sa": "ओषधीः प्रशस्ताः धारयेत्",
+     "iast": "oṣadhīḥ praśastāḥ dhārayet",
+     "en": "should carry auspicious herbs",
+     "hi": "प्रशस्त औषधियाँ धारण करे"
+    },
+    {
+     "sa": "द्वौ कालौ उपस्पृशेत्",
+     "iast": "dvau kālau upaspṛśet",
+     "en": "should bathe/wash twice a day",
+     "hi": "दोनों समय स्नान (आचमन) करे"
+    },
+    {
+     "sa": "मलायनेषु",
+     "iast": "malāyaneṣu",
+     "en": "in the excretory orifices",
+     "hi": "मल-मार्गों में"
+    },
+    {
+     "sa": "पादयोः",
+     "iast": "pādayoḥ",
+     "en": "of the feet",
+     "hi": "पैरों की"
+    },
+    {
+     "sa": "वैमल्यम् आदध्यात्",
+     "iast": "vaimalyam ādadhyāt",
+     "en": "should keep clean",
+     "hi": "स्वच्छता रखे"
+    },
+    {
+     "sa": "त्रिः पक्षस्य",
+     "iast": "triḥ pakṣasya",
+     "en": "three times a fortnight",
+     "hi": "पक्ष में तीन बार"
+    },
+    {
+     "sa": "केश श्मश्रु लोम नखान् संहारयेत्",
+     "iast": "keśa śmaśru loma nakhān saṃhārayet",
+     "en": "should have hair, beard, body hair and nails trimmed",
+     "hi": "बाल, दाढ़ी-मूँछ, रोम और नाखून कटवाए"
+    },
+    {
+     "sa": "अनुपहतवासाः",
+     "iast": "anupahatavāsāḥ",
+     "en": "wearing clean (unsoiled) clothes",
+     "hi": "स्वच्छ वस्त्र पहने"
+    },
+    {
+     "sa": "सुमनाः",
+     "iast": "sumanāḥ",
+     "en": "cheerful",
+     "hi": "प्रसन्नचित्त"
+    },
+    {
+     "sa": "सुगन्धिः",
+     "iast": "sugandhiḥ",
+     "en": "fragrant",
+     "hi": "सुगन्धित"
+    },
+    {
+     "sa": "साधुवेशः",
+     "iast": "sādhuveśaḥ",
+     "en": "decently dressed",
+     "hi": "सभ्य वेश वाला"
+    },
+    {
+     "sa": "प्रसिद्धकेशः",
+     "iast": "prasiddhakeśaḥ",
+     "en": "with well-groomed hair",
+     "hi": "सँवरे बालों वाला"
+    },
+    {
+     "sa": "मूर्ध श्रोत्र घ्राण पाद तैलनित्यः",
+     "iast": "mūrdha śrotra ghrāṇa pāda tailanityaḥ",
+     "en": "regularly oiling head, ears, nose and feet",
+     "hi": "सिर, कान, नाक और पैरों में नित्य तेल लगाने वाला"
+    },
+    {
+     "sa": "धूमपः",
+     "iast": "dhūmapaḥ",
+     "en": "practising medicated smoking (dhūmapāna)",
+     "hi": "धूमपान (औषध-धूम) करने वाला"
+    },
+    {
+     "sa": "पूर्वाभिभाषी",
+     "iast": "pūrvābhibhāṣī",
+     "en": "first to greet others",
+     "hi": "पहले स्वयं बोलने (अभिवादन करने) वाला"
+    },
+    {
+     "sa": "सुमुखः",
+     "iast": "sumukhaḥ",
+     "en": "pleasant-faced",
+     "hi": "प्रसन्नमुख"
+    },
+    {
+     "sa": "दुर्गेषु अभ्युपपत्ता",
+     "iast": "durgeṣu abhyupapattā",
+     "en": "helper of those in difficulty",
+     "hi": "संकट में पड़े लोगों की सहायता करने वाला"
+    },
+    {
+     "sa": "होता यष्टा दाता",
+     "iast": "hotā yaṣṭā dātā",
+     "en": "performer of oblations, sacrifices, giver of gifts",
+     "hi": "हवन, यज्ञ और दान करने वाला"
+    },
+    {
+     "sa": "अतिथीनाम् पूजकः",
+     "iast": "atithīnām pūjakaḥ",
+     "en": "honourer of guests",
+     "hi": "अतिथियों का सत्कार करने वाला"
+    },
+    {
+     "sa": "हित मित मधुर अर्थ वादी",
+     "iast": "hita mita madhura artha vādī",
+     "en": "speaking what is beneficial, measured, sweet and meaningful",
+     "hi": "हित, मित, मधुर और सार्थक बोलने वाला"
+    },
+    {
+     "sa": "वश्यात्मा",
+     "iast": "vaśyātmā",
+     "en": "self-controlled",
+     "hi": "आत्म-संयमी"
+    },
+    {
+     "sa": "धर्मात्मा",
+     "iast": "dharmātmā",
+     "en": "righteous",
+     "hi": "धर्मात्मा"
+    },
+    {
+     "sa": "हेतौ ईर्ष्युः",
+     "iast": "hetau īrṣyuḥ",
+     "en": "envious (emulous) of the cause (effort)",
+     "hi": "कारण (प्रयत्न) में स्पर्धा रखने वाला"
+    },
+    {
+     "sa": "फले न ईर्ष्युः",
+     "iast": "phale na īrṣyuḥ",
+     "en": "not envious of the result",
+     "hi": "फल में ईर्ष्या न करने वाला"
+    },
+    {
+     "sa": "निश्चिन्तः निर्भीकः",
+     "iast": "niścintaḥ nirbhīkaḥ",
+     "en": "free from worry and fear",
+     "hi": "निश्चिन्त और निर्भय"
+    },
+    {
+     "sa": "ह्रीमान् धीमान्",
+     "iast": "hrīmān dhīmān",
+     "en": "modest and wise",
+     "hi": "लज्जाशील और बुद्धिमान"
+    },
+    {
+     "sa": "महोत्साहः दक्षः क्षमावान्",
+     "iast": "mahotsāhaḥ dakṣaḥ kṣamāvān",
+     "en": "enthusiastic, skilful, forgiving",
+     "hi": "उत्साही, कुशल और क्षमाशील"
+    },
+    {
+     "sa": "आस्तिकः",
+     "iast": "āstikaḥ",
+     "en": "believer (in the moral order)",
+     "hi": "आस्तिक"
+    },
+    {
+     "sa": "छत्त्री दण्डी मौली सोपानत्कः",
+     "iast": "chattrī daṇḍī maulī sopānatkaḥ",
+     "en": "with umbrella, staff, headwear and footwear",
+     "hi": "छाता, दण्ड, पगड़ी और जूते धारण करने वाला"
+    },
+    {
+     "sa": "युगमात्रदृक् विचरेत्",
+     "iast": "yugamātradṛk vicaret",
+     "en": "should walk looking ahead about four cubits",
+     "hi": "चार हाथ आगे देखकर चले"
+    },
+    {
+     "sa": "प्राक् श्रमात् व्यायामवर्जी",
+     "iast": "prāk śramāt vyāyāmavarjī",
+     "en": "stopping exercise before exhaustion",
+     "hi": "थकान से पहले व्यायाम रोकने वाला"
+    },
+    {
+     "sa": "सर्वप्राणिषु बन्धुभूतः",
+     "iast": "sarvaprāṇiṣu bandhubhūtaḥ",
+     "en": "like a kinsman to all living beings",
+     "hi": "सब प्राणियों का बन्धु"
+    },
+    {
+     "sa": "क्रुद्धानाम् अनुनेता",
+     "iast": "kruddhānām anunetā",
+     "en": "pacifier of the angry",
+     "hi": "क्रोधितों को मनाने वाला"
+    },
+    {
+     "sa": "भीतानाम् आश्वासयिता",
+     "iast": "bhītānām āśvāsayitā",
+     "en": "comforter of the frightened",
+     "hi": "डरे हुओं को आश्वासन देने वाला"
+    },
+    {
+     "sa": "सत्यसंधः",
+     "iast": "satyasaṃdhaḥ",
+     "en": "true to his word",
+     "hi": "सत्यप्रतिज्ञ"
+    },
+    {
+     "sa": "सामप्रधानः",
+     "iast": "sāmapradhānaḥ",
+     "en": "preferring conciliation",
+     "hi": "शान्ति (साम) को प्रधानता देने वाला"
+    },
+    {
+     "sa": "परपरुषवचनसहिष्णुः",
+     "iast": "paraparuṣavacanasahiṣṇuḥ",
+     "en": "tolerant of others' harsh words",
+     "hi": "दूसरों के कठोर वचन सहने वाला"
+    },
+    {
+     "sa": "अमर्षघ्नः",
+     "iast": "amarṣaghnaḥ",
+     "en": "destroyer of intolerance/anger",
+     "hi": "असहिष्णुता को नष्ट करने वाला"
+    },
+    {
+     "sa": "प्रशमगुणदर्शी",
+     "iast": "praśamaguṇadarśī",
+     "en": "seeing the merits of tranquillity",
+     "hi": "शान्ति के गुण देखने वाला"
+    },
+    {
+     "sa": "रागद्वेषहेतूनाम् हन्ता",
+     "iast": "rāgadveṣahetūnām hantā",
+     "en": "eliminator of the causes of attachment and hatred",
+     "hi": "राग-द्वेष के कारणों को नष्ट करने वाला"
+    }
+   ],
+   "english": "By following it (sadvṛtta) one achieves two goals at once: health (ārogya) and mastery over the senses (indriya-vijaya). So, Agniveśa, we shall teach good conduct completely. One should honour gods, cows, brāhmaṇas, teachers, elders, accomplished persons and preceptors; tend the sacred fire; carry auspicious herbs; bathe twice a day; frequently clean the excretory orifices and the feet; have the hair, beard, body hair and nails trimmed three times a fortnight; always wear clean clothes; be cheerful and fragrant, decently dressed with groomed hair; regularly apply oil to the head, ears, nose and feet; practise medicated smoking (dhūmapāna); be the first to greet others and keep a pleasant face; help those in difficulty; perform oblations and sacrifices and give gifts; salute crossroads, offer bali, honour guests and offer piṇḍa to the ancestors; speak at the right time words that are beneficial, measured, sweet and meaningful; be self-controlled and righteous; compete in effort but not envy others' results; be free from worry and fear, modest, wise, enthusiastic, skilful, forgiving, righteous and a believer; serve those advanced in humility, intelligence, learning, lineage, age, accomplishment and teaching; carry an umbrella, staff, headwear and footwear; walk looking about four cubits (yuga) ahead; follow auspicious customs; avoid dirty cloth, bones, thorns, impure things, hair, husk, rubbish, ash, skulls, bathing places and places of offering; stop exercise before exhaustion; be a friend to all beings, pacify the angry, comfort the frightened, help the distressed; be true to his word, prefer conciliation, tolerate others' harsh words, overcome intolerance, value tranquillity and remove the causes of attachment and hatred.",
+   "hindi": "इसका (सद्वृत्त का) पालन करने वाला एक साथ दो प्रयोजन प्राप्त करता है: आरोग्य और इन्द्रिय-विजय। अतः हे अग्निवेश, हम सम्पूर्ण सद्वृत्त का उपदेश करेंगे। देवता, गाय, ब्राह्मण, गुरु, वृद्ध, सिद्ध और आचार्यों का सम्मान करे; अग्नि की सेवा करे; प्रशस्त औषधियाँ धारण करे; दोनों समय स्नान करे; मल-मार्गों और पैरों को बार-बार साफ़ रखे; पक्ष में तीन बार बाल, दाढ़ी, रोम और नाखून कटवाए; सदा स्वच्छ वस्त्र पहने; प्रसन्न, सुगन्धित, सभ्य वेश और सँवरे बालों वाला रहे; सिर, कान, नाक और पैरों में नित्य तेल लगाए; धूमपान (औषध-धूम) करे; पहले स्वयं अभिवादन करे और प्रसन्नमुख रहे; संकट में पड़े लोगों की सहायता करे; हवन, यज्ञ और दान करे; चौराहों को नमस्कार करे, बलि दे, अतिथियों का सत्कार करे और पितरों को पिण्ड दे; समय पर हितकर, सीमित, मधुर और सार्थक बोले; संयमी और धर्मात्मा हो; प्रयत्न में स्पर्धा करे पर दूसरों के फल से ईर्ष्या न करे; निश्चिन्त, निर्भय, लज्जाशील, बुद्धिमान, उत्साही, कुशल, क्षमाशील, धार्मिक और आस्तिक हो; विनय, बुद्धि, विद्या, कुल, आयु, सिद्धि और आचार्यत्व में बड़े लोगों की सेवा करे; छाता, दण्ड, पगड़ी और जूते धारण करे; चार हाथ आगे देखकर चले; मंगल आचरण वाला हो; गन्दे कपड़े, हड्डी, काँटे, अपवित्र वस्तु, बाल, भूसा, कूड़ा, राख, खोपड़ी, स्नान-स्थल और बलि-भूमि से बचे; थकान से पहले व्यायाम रोक दे; सब प्राणियों का बन्धु बने, क्रोधितों को मनाए, डरे हुओं को आश्वासन दे, दीनों की सहायता करे; सत्यप्रतिज्ञ हो, साम (शान्ति) को प्रधानता दे, दूसरों के कठोर वचन सहे, असहिष्णुता को दूर करे, शान्ति के गुण देखे और राग-द्वेष के कारणों को नष्ट करे।",
+   "explanation_en": "This is the core positive list of sadvṛtta (do's). It covers personal hygiene (bathing, nail and hair care, clean clothes, oiling, dhūmapāna), social conduct (greeting first, helping others, honouring elders and guests), speech (hita-mita-madhura) and mental discipline (self-control, freedom from envy, tolerance). The opening line is the most quoted: following sadvṛtta gives 'ārogya' and 'indriya-vijaya' simultaneously. The religious items reflect the culture of the time; students should focus on the hygienic, social and psychological principles.",
+   "explanation_hi": "यह सद्वृत्त की मुख्य 'करणीय' सूची है। इसमें व्यक्तिगत स्वच्छता (स्नान, नाखून-बाल की देखभाल, स्वच्छ वस्त्र, तेल लगाना, धूमपान), सामाजिक आचरण (पहले अभिवादन, सहायता, बड़ों और अतिथियों का सम्मान), वाणी (हित-मित-मधुर) और मानसिक अनुशासन (संयम, ईर्ष्या-रहित होना, सहनशीलता) सम्मिलित हैं। पहली पंक्ति सबसे अधिक उद्धृत होती है: सद्वृत्त से 'आरोग्य' और 'इन्द्रिय-विजय' एक साथ मिलते हैं। धार्मिक बातें उस समय की संस्कृति दर्शाती हैं; छात्र स्वच्छता, सामाजिक और मनोवैज्ञानिक सिद्धान्तों पर ध्यान दें।",
+   "modern_correlation": {
+    "en": "Several items match modern public-health and behavioural advice: personal hygiene and nail care reduce infection, footwear protects against injury and soil-transmitted parasites, stopping exercise before exhaustion avoids overtraining, and pro-social behaviour, emotional regulation and social support are associated with better mental health. Religious and ritual items have no modern medical correlate.",
+    "hi": "कई बातें आधुनिक जन-स्वास्थ्य और व्यवहार सम्बन्धी सलाह से मेल खाती हैं: व्यक्तिगत स्वच्छता और नाखूनों की देखभाल संक्रमण घटाती है, जूते चोट और मिट्टी से फैलने वाले परजीवियों से बचाते हैं, थकान से पहले व्यायाम रोकना ओवरट्रेनिंग से बचाता है, और सामाजिक सहयोग, भावनात्मक नियन्त्रण तथा सहायता बेहतर मानसिक स्वास्थ्य से जुड़े हैं। धार्मिक और कर्मकाण्ड सम्बन्धी बातों का कोई आधुनिक चिकित्सीय समकक्ष नहीं है।"
+   },
+   "key_terms": [
+    "sadvṛtta",
+    "ārogya",
+    "indriyavijaya",
+    "dhūmapāna",
+    "hita-mita-madhura vāk"
+   ],
+   "tags": [
+    "sadvritta",
+    "hygiene",
+    "conduct",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Sadvṛtta = Ārogya + Indriya-vijaya (two fruits of one tree)",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.8.19",
+   "word_meanings": [
+    {
+     "sa": "न अनृतम् ब्रूयात्",
+     "iast": "na anṛtam brūyāt",
+     "en": "should not speak untruth",
+     "hi": "झूठ न बोले"
+    },
+    {
+     "sa": "न अन्यस्वम् आददीत",
+     "iast": "na anyasvam ādadīta",
+     "en": "should not take others' property",
+     "hi": "दूसरों का धन न ले"
+    },
+    {
+     "sa": "न अन्यस्त्रियम् अभिलषेत्",
+     "iast": "na anyastriyam abhilaṣet",
+     "en": "should not desire another's wife",
+     "hi": "पराई स्त्री की इच्छा न करे"
+    },
+    {
+     "sa": "न अन्यश्रियम्",
+     "iast": "na anyaśriyam",
+     "en": "nor another's wealth",
+     "hi": "न दूसरों की सम्पत्ति की"
+    },
+    {
+     "sa": "न वैरम् रोचयेत्",
+     "iast": "na vairam rocayet",
+     "en": "should not like enmity",
+     "hi": "वैर में रुचि न रखे"
+    },
+    {
+     "sa": "न कुर्यात् पापम्",
+     "iast": "na kuryāt pāpam",
+     "en": "should not commit sin",
+     "hi": "पाप न करे"
+    },
+    {
+     "sa": "न पापे अपि पापी स्यात्",
+     "iast": "na pāpe api pāpī syāt",
+     "en": "should not be wicked even to the wicked",
+     "hi": "पापी के प्रति भी पापी न बने"
+    },
+    {
+     "sa": "न अन्यदोषान् ब्रूयात्",
+     "iast": "na anyadoṣān brūyāt",
+     "en": "should not speak of others' faults",
+     "hi": "दूसरों के दोष न कहे"
+    },
+    {
+     "sa": "न अन्यरहस्यम् आगमयेत्",
+     "iast": "na anyarahasyam āgamayet",
+     "en": "should not pry into others' secrets",
+     "hi": "दूसरों के रहस्य जानने का प्रयत्न न करे"
+    },
+    {
+     "sa": "अधार्मिकैः",
+     "iast": "adhārmikaiḥ",
+     "en": "with the unrighteous",
+     "hi": "अधार्मिकों के साथ"
+    },
+    {
+     "sa": "नरेन्द्रद्विष्टैः",
+     "iast": "narendradviṣṭaiḥ",
+     "en": "with those hated by the king",
+     "hi": "राजद्रोहियों के साथ"
+    },
+    {
+     "sa": "उन्मत्तैः",
+     "iast": "unmattaiḥ",
+     "en": "with the insane",
+     "hi": "उन्मत्तों के साथ"
+    },
+    {
+     "sa": "पतितैः",
+     "iast": "patitaiḥ",
+     "en": "with the fallen (outcasts)",
+     "hi": "पतितों के साथ"
+    },
+    {
+     "sa": "भ्रूणहन्तृभिः",
+     "iast": "bhrūṇahantṛbhiḥ",
+     "en": "with killers of the foetus",
+     "hi": "भ्रूणहत्या करने वालों के साथ"
+    },
+    {
+     "sa": "न सह आसीत",
+     "iast": "na saha āsīta",
+     "en": "should not sit with",
+     "hi": "साथ न बैठे"
+    },
+    {
+     "sa": "दुष्टयानानि",
+     "iast": "duṣṭayānāni",
+     "en": "bad (unsafe) vehicles",
+     "hi": "दोषपूर्ण वाहन"
+    },
+    {
+     "sa": "जानुसमम् कठिनम् आसनम्",
+     "iast": "jānusamam kaṭhinam āsanam",
+     "en": "hard seat at knee height",
+     "hi": "घुटने जितना ऊँचा कठोर आसन"
+    },
+    {
+     "sa": "अनास्तीर्णम् अनुपहितम् अविशालम् असमम् शयनम्",
+     "iast": "anāstīrṇam anupahitam aviśālam asamam śayanam",
+     "en": "bed without sheet, without pillow, narrow or uneven",
+     "hi": "बिना बिछौने, बिना तकिये, संकरा या असमतल बिस्तर"
+    },
+    {
+     "sa": "गिरिविषममस्तकेषु",
+     "iast": "giriviṣamamastakeṣu",
+     "en": "on uneven mountain peaks",
+     "hi": "पहाड़ की ऊबड़-खाबड़ चोटियों पर"
+    },
+    {
+     "sa": "द्रुमम् आरोहेत्",
+     "iast": "drumam ārohet",
+     "en": "should climb a tree",
+     "hi": "पेड़ पर चढ़े"
+    },
+    {
+     "sa": "जलोग्रवेगम् अवगाहेत",
+     "iast": "jalogravegam avagāheta",
+     "en": "should plunge into fast-flowing water",
+     "hi": "तेज़ धारा वाले जल में उतरे"
+    },
+    {
+     "sa": "कुलच्छायाम्",
+     "iast": "kulacchāyām",
+     "en": "shade of a river bank",
+     "hi": "नदी-तट की छाया"
+    },
+    {
+     "sa": "अग्न्युत्पातम् अभितः",
+     "iast": "agnyutpātam abhitaḥ",
+     "en": "near a spreading fire",
+     "hi": "फैलती आग के आस-पास"
+    },
+    {
+     "sa": "उच्चैः हसेत्",
+     "iast": "uccaiḥ haset",
+     "en": "should laugh loudly",
+     "hi": "ज़ोर से हँसे"
+    },
+    {
+     "sa": "शब्दवन्तम् मारुतम् मुञ्चेत्",
+     "iast": "śabdavantam mārutam muñcet",
+     "en": "should pass flatus with noise",
+     "hi": "आवाज़ के साथ अधोवायु छोड़े"
+    },
+    {
+     "sa": "अनावृतमुखः",
+     "iast": "anāvṛtamukhaḥ",
+     "en": "without covering the mouth",
+     "hi": "मुँह ढके बिना"
+    },
+    {
+     "sa": "जृम्भाम् क्षवथुम् हास्यम्",
+     "iast": "jṛmbhām kṣavathum hāsyam",
+     "en": "yawning, sneezing, laughing",
+     "hi": "जम्हाई, छींक, हँसी"
+    },
+    {
+     "sa": "नासिकाम् कुष्णीयात्",
+     "iast": "nāsikām kuṣṇīyāt",
+     "en": "should pick the nose",
+     "hi": "नाक कुरेदे"
+    },
+    {
+     "sa": "दन्तान् विघट्टयेत्",
+     "iast": "dantān vighaṭṭayet",
+     "en": "should grind the teeth",
+     "hi": "दाँत किटकिटाए"
+    },
+    {
+     "sa": "नखान् वादयेत्",
+     "iast": "nakhān vādayet",
+     "en": "should make noise with the nails",
+     "hi": "नाखून बजाए"
+    },
+    {
+     "sa": "भूमिम् विलिखेत्",
+     "iast": "bhūmim vilikhet",
+     "en": "should scratch the ground",
+     "hi": "भूमि कुरेदे"
+    },
+    {
+     "sa": "ज्योतींषि अनिष्टम् अमेध्यम् अशस्तम् अभिवीक्षेत",
+     "iast": "jyotīṃṣi aniṣṭam amedhyam aśastam abhivīkṣeta",
+     "en": "should look at luminaries (sun), unpleasant, impure or inauspicious things",
+     "hi": "ज्योति (सूर्य आदि), अप्रिय, अपवित्र या अशुभ वस्तुओं को देखे"
+    },
+    {
+     "sa": "शून्यगृहम् अटवीम्",
+     "iast": "śūnyagṛham aṭavīm",
+     "en": "empty house, forest",
+     "hi": "सूना घर, जंगल"
+    },
+    {
+     "sa": "एकः",
+     "iast": "ekaḥ",
+     "en": "alone",
+     "hi": "अकेला"
+    },
+    {
+     "sa": "पापवृत्तान् स्त्रीमित्रभृत्यान्",
+     "iast": "pāpavṛttān strīmitrabhṛtyān",
+     "en": "women, friends and servants of bad conduct",
+     "hi": "दुराचारी स्त्री, मित्र और सेवक"
+    },
+    {
+     "sa": "उत्तमैः विरुध्येत",
+     "iast": "uttamaiḥ virudhyeta",
+     "en": "should oppose the noble",
+     "hi": "श्रेष्ठ लोगों से विरोध करे"
+    },
+    {
+     "sa": "साहस",
+     "iast": "sāhasa",
+     "en": "rash acts",
+     "hi": "साहस (दुस्साहस)"
+    },
+    {
+     "sa": "अतिस्वप्न प्रजागर",
+     "iast": "atisvapna prajāgara",
+     "en": "excess sleep and wakefulness",
+     "hi": "अति निद्रा और जागरण"
+    },
+    {
+     "sa": "स्नान पान अशनानि",
+     "iast": "snāna pāna aśanāni",
+     "en": "bathing, drinking, eating (in excess)",
+     "hi": "स्नान, पान, भोजन (अति)"
+    },
+    {
+     "sa": "व्यालान् दंष्ट्रिणः विषाणिनः",
+     "iast": "vyālān daṃṣṭriṇaḥ viṣāṇinaḥ",
+     "en": "wild beasts, fanged and horned animals",
+     "hi": "हिंसक, दाँत वाले और सींग वाले पशु"
+    },
+    {
+     "sa": "पुरोवात आतप अवश्याय अतिप्रवात",
+     "iast": "purovāta ātapa avaśyāya atipravāta",
+     "en": "easterly wind, sun, dew, strong wind",
+     "hi": "पुरवाई, धूप, ओस, तेज़ हवा"
+    },
+    {
+     "sa": "कलिम् न आरभेत",
+     "iast": "kalim na ārabheta",
+     "en": "should not start a quarrel",
+     "hi": "कलह आरम्भ न करे"
+    },
+    {
+     "sa": "स्नानशाट्या",
+     "iast": "snānaśāṭyā",
+     "en": "with the bathing cloth",
+     "hi": "स्नान-वस्त्र से"
+    },
+    {
+     "sa": "उत्तमाङ्गम्",
+     "iast": "uttamāṅgam",
+     "en": "head",
+     "hi": "सिर"
+    },
+    {
+     "sa": "अपसव्यम्",
+     "iast": "apasavyam",
+     "en": "keeping on the left (anticlockwise)",
+     "hi": "बाईं ओर रखकर"
+    }
+   ],
+   "english": "One should not speak untruth, take others' property, or desire another's wife or wealth; should not like enmity, commit sin, or be wicked even to the wicked; should not speak of others' faults or pry into their secrets; should not sit with the unrighteous, those hated by the king, the insane, outcasts, killers of the foetus, mean or wicked people; should not ride unsafe vehicles; should not sit on a hard seat at knee height, nor lie on a bed that is uncovered, without pillow, narrow or uneven; should not roam on rugged mountain peaks, climb trees, or plunge into fast-flowing water; should not sit in the shade of a river bank or move around a spreading fire; should not laugh loudly or pass flatus noisily; should not yawn, sneeze or laugh without covering the mouth; should not pick the nose, grind the teeth, make noise with the nails, strike bones, scratch the ground, cut grass or crush clods, or move the limbs awkwardly; should not gaze at luminaries or at unpleasant, impure or inauspicious things; should not make a 'huṃ' sound at a corpse; should not step on the shadow of sacred trees, flags, teachers, venerable or inauspicious things; at night should not frequent temples, sacred trees, courtyards, crossroads, gardens, cremation grounds or slaughter places; should not enter an empty house or forest alone; should not keep company with women, friends or servants of bad conduct; should not oppose the noble or serve the base; should not like crookedness or depend on the ignoble; should not cause fear; should not indulge in rash acts, excessive sleep, waking, bathing, drinking or eating; should not stand long with raised knees; should not approach wild, fanged or horned animals; should avoid easterly wind, hot sun, dew and strong winds; should not start a quarrel; should not tend fire carelessly, or when unclean, nor warm himself by placing fire below; should not bathe when tired, without washing the face, or naked; should not touch the head with the bathing cloth or strike the ends of the hair; should not wear the same clothes after bathing; should not go out without touching gems, ghee, venerable and auspicious things and flowers; and should not pass venerable and auspicious things on the left, nor others on the right.",
+   "hindi": "झूठ न बोले, दूसरों का धन न ले, पराई स्त्री या सम्पत्ति की इच्छा न करे; वैर न रखे, पाप न करे, पापी के प्रति भी पापी न बने; दूसरों के दोष न कहे और उनके रहस्य न टटोले; अधार्मिक, राजद्रोही, उन्मत्त, पतित, भ्रूणहत्यारे, नीच और दुष्ट लोगों के साथ न बैठे; दोषपूर्ण वाहन पर न चढ़े; घुटने जितने ऊँचे कठोर आसन पर न बैठे, न बिना बिछौने, बिना तकिये, संकरे या असमतल बिस्तर पर सोए; पहाड़ की ऊबड़-खाबड़ चोटियों पर न घूमे, पेड़ पर न चढ़े, तेज़ धारा में न उतरे; नदी-तट की छाया में न बैठे, फैलती आग के पास न घूमे; ज़ोर से न हँसे, आवाज़ से अधोवायु न छोड़े; बिना मुँह ढके जम्हाई, छींक या हँसी न करे; नाक न कुरेदे, दाँत न किटकिटाए, नाखून न बजाए, हड्डियाँ न ठोके, भूमि न कुरेदे, तिनके न तोड़े, ढेले न मसले, अंगों को बेढंगा न हिलाए; सूर्य आदि ज्योतियों या अप्रिय, अपवित्र, अशुभ वस्तुओं को न देखे; शव पर 'हुं' न करे; पवित्र वृक्ष, ध्वज, गुरु, पूज्य या अशुभ वस्तुओं की छाया न लाँघे; रात में मन्दिर, चैत्य, चौक, चौराहे, उपवन, श्मशान और वधस्थल न जाए; सूने घर या जंगल में अकेला न जाए; दुराचारी स्त्री, मित्र और सेवकों का साथ न करे; श्रेष्ठ लोगों से विरोध न करे, नीचों की सेवा न करे; कुटिलता में रुचि न रखे, अनार्य का आश्रय न ले; किसी को भयभीत न करे; दुस्साहस, अति निद्रा, अति जागरण, अति स्नान, पान और भोजन न करे; देर तक घुटने ऊपर करके न बैठे; हिंसक, दाँत वाले या सींग वाले पशुओं के पास न जाए; पुरवाई, धूप, ओस और तेज़ हवा से बचे; कलह आरम्भ न करे; असावधानी से या अशुद्ध अवस्था में अग्नि न सेके, न आग नीचे रखकर तापे; थकान में, मुँह धोए बिना या नग्न होकर स्नान न करे; स्नान-वस्त्र से सिर न पोंछे, बालों के सिरे न झटके; स्नान के बाद वही कपड़े न पहने; रत्न, घी, पूज्य, मंगल वस्तुएँ और पुष्प छुए बिना बाहर न निकले; पूज्य और मंगल वस्तुओं को बाईं ओर और अन्य को दाईं ओर रखकर न चले।",
+   "explanation_en": "This is the long negative list (don'ts) of sadvṛtta. It groups into: moral restraint (no lying, stealing, envy, enmity), company to avoid, physical safety (unsafe vehicles, climbing trees, fast rivers, wild animals, fire), posture and sleep comfort (bad seats and beds), etiquette and hygiene (cover the mouth while yawning or sneezing, do not pick the nose), environmental protection (avoid strong wind, harsh sun, dew) and moderation (no excess sleep, waking, bathing, food or drink). Teachers often ask students to give examples of sadvṛtta under these headings.",
+   "explanation_hi": "यह सद्वृत्त की लम्बी 'अकरणीय' सूची है। इसे वर्गों में याद करें: नैतिक संयम (झूठ, चोरी, ईर्ष्या, वैर नहीं), बुरी संगति से बचना, शारीरिक सुरक्षा (दोषपूर्ण वाहन, पेड़ पर चढ़ना, तेज़ नदी, हिंसक पशु, आग), बैठने-सोने की सुविधा (खराब आसन और बिस्तर), शिष्टाचार और स्वच्छता (छींक-जम्हाई में मुँह ढकना, नाक न कुरेदना), वातावरण से रक्षा (तेज़ हवा, धूप, ओस) और संयम (अति निद्रा, जागरण, स्नान, भोजन, पान नहीं)।",
+   "modern_correlation": {
+    "en": "Covering the mouth when sneezing, yawning or laughing matches modern respiratory hygiene ('cough etiquette') for limiting droplet spread; avoiding risky activities corresponds to injury prevention; and moderation in sleep, food and drink is consistent with modern lifestyle advice. Ritual items have no medical correlate.",
+    "hi": "छींकते, जम्हाई लेते या हँसते समय मुँह ढकना आधुनिक श्वसन-स्वच्छता ('कफ़ एटिकेट') से मेल खाता है, जो बूँदों के प्रसार को सीमित करती है; जोखिम भरे कार्यों से बचना चोट-निवारण के समान है; और निद्रा, भोजन व पान में संयम आधुनिक जीवनशैली सलाह के अनुरूप है। कर्मकाण्ड सम्बन्धी बातों का चिकित्सीय समकक्ष नहीं है।"
+   },
+   "key_terms": [
+    "sadvṛtta",
+    "ācāra rasāyana",
+    "niṣedha"
+   ],
+   "tags": [
+    "sadvritta",
+    "conduct",
+    "safety",
+    "hygiene"
+   ],
+   "importance": "medium",
+   "mnemonic": "Don'ts in 6 boxes: Morals, Company, Safety, Seat-bed, Etiquette, Excess",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.8.20",
+   "word_meanings": [
+    {
+     "sa": "न अरत्नपाणिः",
+     "iast": "na aratnapāṇiḥ",
+     "en": "not without a gem in hand",
+     "hi": "हाथ में रत्न धारण किए बिना नहीं"
+    },
+    {
+     "sa": "न अस्नातः",
+     "iast": "na asnātaḥ",
+     "en": "not without bathing",
+     "hi": "बिना स्नान किए नहीं"
+    },
+    {
+     "sa": "न उपहतवासाः",
+     "iast": "na upahatavāsāḥ",
+     "en": "not in soiled clothes",
+     "hi": "मैले वस्त्रों में नहीं"
+    },
+    {
+     "sa": "न अजपित्वा न अहुत्वा",
+     "iast": "na ajapitvā na ahutvā",
+     "en": "not without reciting prayers or making oblations",
+     "hi": "जप और हवन किए बिना नहीं"
+    },
+    {
+     "sa": "देवताभ्यः पितृभ्यः",
+     "iast": "devatābhyaḥ pitṛbhyaḥ",
+     "en": "to the gods, to the ancestors",
+     "hi": "देवताओं, पितरों को"
+    },
+    {
+     "sa": "गुरुभ्यः अतिथिभ्यः उपाश्रितेभ्यः",
+     "iast": "gurubhyaḥ atithibhyaḥ upāśritebhyaḥ",
+     "en": "to teachers, guests, dependants",
+     "hi": "गुरुओं, अतिथियों, आश्रितों को"
+    },
+    {
+     "sa": "न अदत्त्वा",
+     "iast": "na adattvā",
+     "en": "without giving",
+     "hi": "दिए बिना नहीं"
+    },
+    {
+     "sa": "न अपुण्यगन्धः न अमाली",
+     "iast": "na apuṇyagandhaḥ na amālī",
+     "en": "not without fragrance or garland",
+     "hi": "बिना सुगन्ध या माला के नहीं"
+    },
+    {
+     "sa": "न अप्रक्षालितपाणिपादवदनः",
+     "iast": "na aprakṣālitapāṇipādavadanaḥ",
+     "en": "not without washing hands, feet and face",
+     "hi": "हाथ-पैर-मुँह धोए बिना नहीं"
+    },
+    {
+     "sa": "न अशुद्धमुखः",
+     "iast": "na aśuddhamukhaḥ",
+     "en": "not with an unclean mouth",
+     "hi": "अशुद्ध मुँह से नहीं"
+    },
+    {
+     "sa": "न उदङ्मुखः",
+     "iast": "na udaṅmukhaḥ",
+     "en": "not facing north",
+     "hi": "उत्तर की ओर मुँह करके नहीं"
+    },
+    {
+     "sa": "न विमनाः",
+     "iast": "na vimanāḥ",
+     "en": "not with a disturbed mind",
+     "hi": "उदास/विचलित मन से नहीं"
+    },
+    {
+     "sa": "अभक्त अशिष्ट अशुचि क्षुधित परिचरः",
+     "iast": "abhakta aśiṣṭa aśuci kṣudhita paricaraḥ",
+     "en": "served by those not devoted, ill-mannered, unclean or hungry",
+     "hi": "अभक्त, अशिष्ट, अशुद्ध या भूखे परिचारक द्वारा परोसा"
+    },
+    {
+     "sa": "पात्रीषु अमेध्यासु",
+     "iast": "pātrīṣu amedhyāsu",
+     "en": "in unclean vessels",
+     "hi": "अपवित्र पात्रों में"
+    },
+    {
+     "sa": "न अदेशे न अकाले न आकीर्णे",
+     "iast": "na adeśe na akāle na ākīrṇe",
+     "en": "not in a wrong place, at a wrong time, or in a crowded place",
+     "hi": "अनुचित स्थान, समय या भीड़ में नहीं"
+    },
+    {
+     "sa": "अग्रम् अग्नये अदत्त्वा",
+     "iast": "agram agnaye adattvā",
+     "en": "without first offering to fire",
+     "hi": "पहला भाग अग्नि को दिए बिना"
+    },
+    {
+     "sa": "अप्रोक्षितम्",
+     "iast": "aprokṣitam",
+     "en": "not sprinkled (with sanctified water)",
+     "hi": "प्रोक्षण न किया हुआ"
+    },
+    {
+     "sa": "मन्त्रैः अनभिमन्त्रितम्",
+     "iast": "mantraiḥ anabhimantritam",
+     "en": "not consecrated with mantras",
+     "hi": "मन्त्रों से अभिमन्त्रित न किया"
+    },
+    {
+     "sa": "कुत्सयन् कुत्सितम्",
+     "iast": "kutsayan kutsitam",
+     "en": "criticising, or criticised (food)",
+     "hi": "निन्दा करते हुए, या निन्दित (भोजन)"
+    },
+    {
+     "sa": "प्रतिकूलोपहितम्",
+     "iast": "pratikūlopahitam",
+     "en": "served by an unfriendly person",
+     "hi": "विरोधी द्वारा परोसा गया"
+    },
+    {
+     "sa": "अन्नम् आददीत",
+     "iast": "annam ādadīta",
+     "en": "should take food",
+     "hi": "अन्न ग्रहण करे"
+    },
+    {
+     "sa": "पर्युषितम्",
+     "iast": "paryuṣitam",
+     "en": "stale (kept overnight)",
+     "hi": "बासी"
+    },
+    {
+     "sa": "अन्यत्र",
+     "iast": "anyatra",
+     "en": "except",
+     "hi": "के अतिरिक्त"
+    },
+    {
+     "sa": "मांस हरितक शुष्कशाक फल भक्ष्येभ्यः",
+     "iast": "māṃsa haritaka śuṣkaśāka phala bhakṣyebhyaḥ",
+     "en": "meat, green salad, dried vegetables, fruits and snacks",
+     "hi": "मांस, हरित (सलाद), सूखे शाक, फल और भक्ष्य"
+    },
+    {
+     "sa": "न अशेषभुक् स्यात्",
+     "iast": "na aśeṣabhuk syāt",
+     "en": "should not eat leaving nothing",
+     "hi": "पूरा भोजन (बिना शेष छोड़े) न खाए"
+    },
+    {
+     "sa": "दधि मधु लवण सक्तु सर्पिर्भ्यः",
+     "iast": "dadhi madhu lavaṇa saktu sarpirbhyaḥ",
+     "en": "curd, honey, salt, roasted flour, ghee",
+     "hi": "दही, शहद, नमक, सत्तू, घी"
+    },
+    {
+     "sa": "नक्तम् दधि न भुञ्जीत",
+     "iast": "naktam dadhi na bhuñjīta",
+     "en": "should not eat curd at night",
+     "hi": "रात में दही न खाए"
+    },
+    {
+     "sa": "सक्तून् एकान्",
+     "iast": "saktūn ekān",
+     "en": "roasted flour alone",
+     "hi": "केवल सत्तू"
+    },
+    {
+     "sa": "निशि",
+     "iast": "niśi",
+     "en": "at night",
+     "hi": "रात में"
+    },
+    {
+     "sa": "भुक्त्वा",
+     "iast": "bhuktvā",
+     "en": "after a meal",
+     "hi": "भोजन के बाद"
+    },
+    {
+     "sa": "बहून्",
+     "iast": "bahūn",
+     "en": "in large quantity",
+     "hi": "अधिक मात्रा में"
+    },
+    {
+     "sa": "द्विः",
+     "iast": "dviḥ",
+     "en": "twice",
+     "hi": "दो बार"
+    },
+    {
+     "sa": "उदकान्तरितान्",
+     "iast": "udakāntaritān",
+     "en": "interspersed with water",
+     "hi": "बीच में पानी पीकर"
+    },
+    {
+     "sa": "छित्त्वा द्विजैः भक्षयेत्",
+     "iast": "chittvā dvijaiḥ bhakṣayet",
+     "en": "should bite with the teeth",
+     "hi": "दाँतों से काटकर खाए"
+    }
+   ],
+   "english": "One should not take food without holding a gem, without bathing, in soiled clothes, without prayers and oblations, without offering to the gods and ancestors, without giving to teachers, guests and dependants, without fragrance or garland, without washing hands, feet and face, with an unclean mouth, facing north, with a disturbed mind, when served by attendants who are not devoted, ill-mannered, unclean or hungry, in unclean vessels, in a wrong place, at a wrong time, in a crowded place, without first offering a portion to fire, without sprinkling it with sanctified water or consecrating it with mantras, while criticising it, if it is condemned, or if served by an unfriendly person. One should not eat stale food, except meat, green salads, dried vegetables, fruits and prepared snacks. One should not eat leaving nothing, except curd, honey, salt, roasted flour (saktu) and ghee. One should not eat curd at night. One should not eat saktu alone, at night, after a meal, in large quantity, twice, interspersed with water, or by biting it with the teeth.",
+   "hindi": "हाथ में रत्न धारण किए बिना, बिना स्नान, मैले वस्त्रों में, बिना जप-हवन, देवताओं और पितरों को अर्पण किए बिना, गुरुओं, अतिथियों और आश्रितों को दिए बिना, बिना सुगन्ध या माला, हाथ-पैर-मुँह धोए बिना, अशुद्ध मुँह से, उत्तर की ओर मुँह करके, विचलित मन से, अभक्त, अशिष्ट, अशुद्ध या भूखे परिचारकों द्वारा परोसा गया, अपवित्र पात्रों में, अनुचित स्थान, अनुचित समय, भीड़ में, पहला भाग अग्नि को दिए बिना, प्रोक्षण और मन्त्र-अभिमन्त्रण के बिना, निन्दा करते हुए, निन्दित, या विरोधी द्वारा परोसा गया अन्न ग्रहण न करे। मांस, हरित (सलाद), सूखे शाक, फल और भक्ष्य के अतिरिक्त बासी भोजन न खाए। दही, शहद, नमक, सत्तू और घी के अतिरिक्त बाकी भोजन पूरा (बिना कुछ शेष छोड़े) न खाए। रात में दही न खाए। सत्तू अकेला, रात में, भोजन के बाद, अधिक मात्रा में, दो बार, बीच-बीच में पानी पीकर या दाँतों से काटकर न खाए।",
+   "explanation_en": "These are rules of eating conduct (bhojana-vidhi within sadvṛtta). Clinically important points: wash hands, feet and face before meals; eat with a calm mind in a suitable place and time; avoid stale food; do not eat curd at night (repeated in Su 7.61-62 with reasons); special rules for saktu (roasted flour), which should be taken mixed with water, not dry or in excess. Compare the āhāra-vidhi-viśeṣāyatana of Vimānasthāna 1.",
+   "explanation_hi": "ये भोजन-आचार (सद्वृत्त के अन्तर्गत भोजन-विधि) के नियम हैं। चिकित्सीय दृष्टि से महत्त्वपूर्ण: भोजन से पहले हाथ-पैर-मुँह धोना; शान्त मन से उचित स्थान और समय पर खाना; बासी भोजन से बचना; रात में दही न खाना; सत्तू के विशेष नियम (पानी में घोलकर, सूखा या अधिक नहीं)। विमानस्थान 1 की आहार-विधि से तुलना करें।",
+   "modern_correlation": {
+    "en": "Hand-washing before meals and avoiding stale food are standard food-hygiene measures that reduce the risk of food-borne infection. Eating in a calm state is consistent with the role of the parasympathetic nervous system in digestion. The specific rules about curd at night and saktu are classical and are not established by modern studies.",
+    "hi": "भोजन से पहले हाथ धोना और बासी भोजन से बचना खाद्य-स्वच्छता के मानक उपाय हैं जो खाद्य-जनित संक्रमण का जोखिम घटाते हैं। शान्त अवस्था में भोजन पाचन में पैरासिम्पैथेटिक तन्त्र की भूमिका के अनुरूप है। रात में दही और सत्तू सम्बन्धी विशेष नियम शास्त्रीय हैं, आधुनिक अध्ययनों से स्थापित नहीं।"
+   },
+   "key_terms": [
+    "bhojana vidhi",
+    "paryuṣita",
+    "dadhi",
+    "saktu"
+   ],
+   "tags": [
+    "sadvritta",
+    "diet",
+    "food-hygiene"
+   ],
+   "importance": "medium",
+   "mnemonic": "Curd: never at night; Saktu: never dry, never alone, never twice",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.8.21",
+   "word_meanings": [
+    {
+     "sa": "न अनृजुः क्षुयात्",
+     "iast": "na anṛjuḥ kṣuyāt",
+     "en": "should not sneeze in a bent (crooked) posture",
+     "hi": "टेढ़ा होकर न छींके"
+    },
+    {
+     "sa": "न अद्यात्",
+     "iast": "na adyāt",
+     "en": "should not eat (in that posture)",
+     "hi": "(वैसे) न खाए"
+    },
+    {
+     "sa": "न शयीत",
+     "iast": "na śayīta",
+     "en": "should not lie down (so)",
+     "hi": "(वैसे) न सोए"
+    },
+    {
+     "sa": "न वेगितः अन्यकार्यः स्यात्",
+     "iast": "na vegitaḥ anyakāryaḥ syāt",
+     "en": "when urges are present, should not attend to other work",
+     "hi": "वेग उपस्थित हो तो अन्य कार्य न करे"
+    },
+    {
+     "sa": "वायु अग्नि सलिल सोम अर्क द्विज गुरु प्रतिमुखम्",
+     "iast": "vāyu agni salila soma arka dvija guru pratimukham",
+     "en": "facing wind, fire, water, moon, sun, brāhmaṇa or teacher",
+     "hi": "वायु, अग्नि, जल, चन्द्र, सूर्य, ब्राह्मण या गुरु के सामने"
+    },
+    {
+     "sa": "निष्ठीविका वर्चः मूत्राणि",
+     "iast": "niṣṭhīvikā varcaḥ mūtrāṇi",
+     "en": "spittle, faeces, urine",
+     "hi": "थूक, मल, मूत्र"
+    },
+    {
+     "sa": "न उत्सृजेत्",
+     "iast": "na utsṛjet",
+     "en": "should not discharge",
+     "hi": "न त्यागे"
+    },
+    {
+     "sa": "पन्थानम् न अवमूत्रयेत्",
+     "iast": "panthānam na avamūtrayet",
+     "en": "should not urinate on the road",
+     "hi": "रास्ते पर मूत्र न करे"
+    },
+    {
+     "sa": "न जनवति",
+     "iast": "na janavati",
+     "en": "nor in a crowded place",
+     "hi": "न भीड़ वाली जगह"
+    },
+    {
+     "sa": "न अन्नकाले",
+     "iast": "na annakāle",
+     "en": "nor at mealtime",
+     "hi": "न भोजन के समय"
+    },
+    {
+     "sa": "जप होम अध्ययन बलि मङ्गल क्रियासु",
+     "iast": "japa homa adhyayana bali maṅgala kriyāsu",
+     "en": "during prayer, oblation, study, offerings and auspicious rites",
+     "hi": "जप, हवन, अध्ययन, बलि और मंगल कार्यों के समय"
+    },
+    {
+     "sa": "श्लेष्म सिङ्घाणकम्",
+     "iast": "śleṣma siṅghāṇakam",
+     "en": "phlegm and nasal mucus",
+     "hi": "कफ और नाक का मल"
+    },
+    {
+     "sa": "न मुञ्चेत्",
+     "iast": "na muñcet",
+     "en": "should not expel",
+     "hi": "न छोड़े"
+    }
+   ],
+   "english": "One should not sneeze, eat or lie down in a bent posture; when natural urges are present one should not engage in other work. One should not discharge spittle, faeces or urine facing the wind, fire, water, moon, sun, a brāhmaṇa or a teacher; should not urinate on the road, in a crowded place or at mealtime; and should not expel phlegm or nasal mucus during prayer, oblation, study, offerings or auspicious rites.",
+   "hindi": "टेढ़े होकर न छींके, न खाए, न सोए; मल-मूत्र आदि के वेग उपस्थित होने पर अन्य कार्य में न लगे। वायु, अग्नि, जल, चन्द्र, सूर्य, ब्राह्मण या गुरु की ओर मुँह करके थूक, मल या मूत्र न त्यागे; रास्ते पर, भीड़ में या भोजन के समय मूत्र न करे; और जप, हवन, अध्ययन, बलि या मंगल कार्यों के समय कफ या नाक का मल न निकाले।",
+   "explanation_en": "Important link: 'na vegito 'nyakāryaḥ syāt' means one should attend to natural urges first, which echoes Su 7 (Navegāndhāraṇīya) on not suppressing urges. The rest concerns sanitation and respect: no urinating on roads or in public places, no spitting in front of others. Posture rules (not eating or sleeping bent) protect the body.",
+   "explanation_hi": "महत्त्वपूर्ण सम्बन्ध: 'न वेगितोऽन्यकार्यः स्यात्' का अर्थ है पहले प्राकृतिक वेगों का निवारण करे; यह सू. 7 (नवेगान्धारणीय) से जुड़ता है। बाकी नियम स्वच्छता और शिष्टाचार के हैं: सड़क या सार्वजनिक स्थान पर मूत्र न करना, दूसरों के सामने न थूकना।",
+   "modern_correlation": {
+    "en": "Avoiding open urination and defecation on roads and public places is a core principle of modern sanitation for preventing faeco-oral and parasitic infections. Responding promptly to the urge to pass urine or stool is also commonly advised clinically.",
+    "hi": "सड़कों और सार्वजनिक स्थानों पर खुले में मल-मूत्र न करना आधुनिक स्वच्छता का मूल सिद्धान्त है, जो मल-मुख मार्ग से फैलने वाले और परजीवी संक्रमणों को रोकता है। मल-मूत्र के वेग का समय पर निवारण करना भी चिकित्सकीय रूप से सुझाया जाता है।"
+   },
+   "key_terms": [
+    "vega",
+    "sadvṛtta",
+    "śleṣma",
+    "siṅghāṇaka"
+   ],
+   "tags": [
+    "sadvritta",
+    "sanitation",
+    "urges"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.8.22",
+   "word_meanings": [
+    {
+     "sa": "न स्त्रियम् अवजानीत",
+     "iast": "na striyam avajānīta",
+     "en": "should not insult a woman",
+     "hi": "स्त्री का अपमान न करे"
+    },
+    {
+     "sa": "न अतिविश्रम्भयेत्",
+     "iast": "na ativiśrambhayet",
+     "en": "should not over-trust (blindly)",
+     "hi": "अत्यधिक विश्वास न करे"
+    },
+    {
+     "sa": "न गुह्यम् अनुश्रावयेत्",
+     "iast": "na guhyam anuśrāvayet",
+     "en": "should not disclose secrets to her",
+     "hi": "गुप्त बात न सुनाए"
+    },
+    {
+     "sa": "न अधिकुर्यात्",
+     "iast": "na adhikuryāt",
+     "en": "should not give her full authority (over secret matters)",
+     "hi": "अधिकार न सौंपे"
+    },
+    {
+     "sa": "रजस्वलाम्",
+     "iast": "rajasvalām",
+     "en": "a menstruating woman",
+     "hi": "रजस्वला"
+    },
+    {
+     "sa": "आतुराम्",
+     "iast": "āturām",
+     "en": "a sick woman",
+     "hi": "रोगिणी"
+    },
+    {
+     "sa": "अमेध्याम् अशस्ताम्",
+     "iast": "amedhyām aśastām",
+     "en": "impure or inauspicious",
+     "hi": "अपवित्र या अशुभ"
+    },
+    {
+     "sa": "अनिष्ट रूप आचार उपचाराम्",
+     "iast": "aniṣṭa rūpa ācāra upacārām",
+     "en": "of unpleasant appearance, conduct or manners",
+     "hi": "अप्रिय रूप, आचरण या व्यवहार वाली"
+    },
+    {
+     "sa": "अदक्षाम् अदक्षिणाम्",
+     "iast": "adakṣām adakṣiṇām",
+     "en": "unskilled or unfriendly",
+     "hi": "अकुशल या प्रतिकूल"
+    },
+    {
+     "sa": "अकामाम् अन्यकामाम्",
+     "iast": "akāmām anyakāmām",
+     "en": "unwilling, or desiring another",
+     "hi": "अनिच्छुक या अन्य को चाहने वाली"
+    },
+    {
+     "sa": "अन्यस्त्रियम्",
+     "iast": "anyastriyam",
+     "en": "another's wife",
+     "hi": "पराई स्त्री"
+    },
+    {
+     "sa": "अन्ययोनिम् अयोनौ",
+     "iast": "anyayonim ayonau",
+     "en": "other species / non-vaginal (unnatural) intercourse",
+     "hi": "अन्य योनि / अयोनि (अप्राकृतिक) में"
+    },
+    {
+     "sa": "चैत्य चत्वर चतुष्पथ उपवन श्मशान आघातन सलिल ओषधि द्विज गुरु सुरालयेषु",
+     "iast": "caitya catvara catuṣpatha upavana śmaśāna āghātana salila oṣadhi dvija guru surālayeṣu",
+     "en": "in sacred trees, courtyards, crossroads, gardens, cremation grounds, slaughter places, water, among medicinal plants, near brāhmaṇas, teachers or temples",
+     "hi": "चैत्य, चौक, चौराहे, उपवन, श्मशान, वधस्थल, जल, औषधि, ब्राह्मण, गुरु या देवालय में"
+    },
+    {
+     "sa": "सन्ध्ययोः",
+     "iast": "sandhyayoḥ",
+     "en": "at dawn and dusk",
+     "hi": "दोनों सन्ध्याओं में"
+    },
+    {
+     "sa": "अतिथिषु",
+     "iast": "atithiṣu",
+     "en": "on prohibited lunar days",
+     "hi": "निषिद्ध तिथियों में"
+    },
+    {
+     "sa": "अशुचिः",
+     "iast": "aśuciḥ",
+     "en": "when unclean",
+     "hi": "अशुद्ध होकर"
+    },
+    {
+     "sa": "अजग्धभेषजः",
+     "iast": "ajagdhabheṣajaḥ",
+     "en": "without taking aphrodisiac/medicine",
+     "hi": "वाजीकरण औषध लिए बिना"
+    },
+    {
+     "sa": "अप्रणीतसङ्कल्पः",
+     "iast": "apraṇītasaṅkalpaḥ",
+     "en": "without mental desire/resolve",
+     "hi": "मन में संकल्प (इच्छा) के बिना"
+    },
+    {
+     "sa": "अनुपस्थितप्रहर्षः",
+     "iast": "anupasthitapraharṣaḥ",
+     "en": "without arousal",
+     "hi": "उत्तेजना के बिना"
+    },
+    {
+     "sa": "अभुक्तवान् अत्यशितः",
+     "iast": "abhuktavān atyaśitaḥ",
+     "en": "hungry or over-fed",
+     "hi": "भूखा या अधिक खाया हुआ"
+    },
+    {
+     "sa": "विषमस्थः",
+     "iast": "viṣamasthaḥ",
+     "en": "in an uneven posture",
+     "hi": "विषम आसन में"
+    },
+    {
+     "sa": "मूत्रोच्चारपीडितः",
+     "iast": "mūtroccārapīḍitaḥ",
+     "en": "troubled by urge to urinate or defecate",
+     "hi": "मल-मूत्र के वेग से पीड़ित"
+    },
+    {
+     "sa": "श्रम व्यायाम उपवास क्लम अभिहतः",
+     "iast": "śrama vyāyāma upavāsa klama abhihataḥ",
+     "en": "exhausted by labour, exercise, fasting or fatigue",
+     "hi": "परिश्रम, व्यायाम, उपवास या थकान से पीड़ित"
+    },
+    {
+     "sa": "अरहसि",
+     "iast": "arahasi",
+     "en": "in a non-private place",
+     "hi": "एकान्त के बिना (खुले में)"
+    },
+    {
+     "sa": "व्यवायम् गच्छेत्",
+     "iast": "vyavāyam gacchet",
+     "en": "should engage in intercourse",
+     "hi": "मैथुन करे"
+    }
+   ],
+   "english": "One should not insult a woman, nor trust her blindly, disclose secrets to her or give her authority over them. One should not have sexual intercourse with a woman who is menstruating, sick, impure, inauspicious, of unpleasant appearance, conduct or manners, unskilled, unfriendly, unwilling, desiring another, another's wife, or with other species, nor in non-vaginal ways; nor in sacred trees, courtyards, crossroads, gardens, cremation grounds, slaughter places, water, among medicinal plants, or in houses of brāhmaṇas, teachers or gods; nor at dawn or dusk or on prohibited days; nor when unclean, without taking aphrodisiac, without desire or arousal, when hungry or over-fed, in an awkward posture, when troubled by urges of urine or stool, or when exhausted by labour, exercise, fasting or fatigue; nor in a place lacking privacy.",
+   "hindi": "स्त्री का अपमान न करे, न उस पर आँख मूँदकर विश्वास करे, न उसे गुप्त बातें सुनाए, न उन पर अधिकार दे। रजस्वला, रोगिणी, अपवित्र, अशुभ, अप्रिय रूप-आचरण-व्यवहार वाली, अकुशल, प्रतिकूल, अनिच्छुक, अन्य को चाहने वाली स्त्री, पराई स्त्री, अन्य योनि के प्राणी या अयोनि में मैथुन न करे; चैत्य, चौक, चौराहे, उपवन, श्मशान, वधस्थल, जल, औषधियों के बीच, ब्राह्मण, गुरु या देवालय में भी नहीं; सन्ध्याओं और निषिद्ध तिथियों में नहीं; अशुद्ध अवस्था में, बिना वाजीकरण औषध, बिना संकल्प और उत्तेजना, भूखा या अधिक खाया हुआ, विषम आसन में, मल-मूत्र के वेग से पीड़ित, या परिश्रम, व्यायाम, उपवास और थकान से पीड़ित होकर नहीं; और एकान्त के बिना मैथुन न करे।",
+   "explanation_en": "These are the rules of sexual conduct (vyavāya-vidhi) in sadvṛtta. Health-related points: avoid intercourse during menstruation or illness, without mutual willingness (akāmā), when hungry, over-fed, exhausted or with suppressed urges, and in unsafe or public places. The first sentence reflects the social views of its era; modern readers should read it historically. Mutual consent (no 'akāmā' partner) is the principle most relevant today.",
+   "explanation_hi": "ये सद्वृत्त में मैथुन-विधि के नियम हैं। स्वास्थ्य से जुड़ी बातें: रजस्वला या रोगिणी के साथ, परस्पर इच्छा के बिना (अकामा), भूखे, अधिक खाए, थके हुए या वेग रोककर, और असुरक्षित या सार्वजनिक स्थान पर मैथुन न करना। पहला वाक्य उस युग के सामाजिक विचार दर्शाता है; इसे ऐतिहासिक सन्दर्भ में पढ़ें। परस्पर सहमति (अकामा के साथ नहीं) का सिद्धान्त आज सबसे प्रासंगिक है।",
+   "modern_correlation": {
+    "en": "Avoiding intercourse with an unwilling partner corresponds to the modern principle of consent. Avoiding it during illness reduces the risk of transmitting infections. Other rules are cultural and have no direct medical correlate.",
+    "hi": "अनिच्छुक साथी के साथ मैथुन न करना आधुनिक 'सहमति' के सिद्धान्त से मेल खाता है। रोग के समय इससे बचना संक्रमण के प्रसार का जोखिम घटाता है। अन्य नियम सांस्कृतिक हैं और उनका सीधा चिकित्सीय समकक्ष नहीं है।"
+   },
+   "key_terms": [
+    "vyavāya",
+    "rajasvalā",
+    "sadvṛtta"
+   ],
+   "tags": [
+    "sadvritta",
+    "sexual-conduct"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.8.23",
+   "word_meanings": [
+    {
+     "sa": "न सतः",
+     "iast": "na sataḥ",
+     "en": "not the good",
+     "hi": "सज्जनों की नहीं"
+    },
+    {
+     "sa": "न गुरून्",
+     "iast": "na gurūn",
+     "en": "nor teachers",
+     "hi": "न गुरुओं की"
+    },
+    {
+     "sa": "परिवदेत्",
+     "iast": "parivadet",
+     "en": "should speak ill of",
+     "hi": "निन्दा करे"
+    },
+    {
+     "sa": "न अशुचिः",
+     "iast": "na aśuciḥ",
+     "en": "not when unclean",
+     "hi": "अशुद्ध होकर नहीं"
+    },
+    {
+     "sa": "अभिचारकर्म",
+     "iast": "abhicārakarma",
+     "en": "rites of sorcery (or protective rites)",
+     "hi": "अभिचार कर्म"
+    },
+    {
+     "sa": "चैत्यपूज्य पूजा",
+     "iast": "caityapūjya pūjā",
+     "en": "worship of sacred trees and venerable beings",
+     "hi": "चैत्य और पूज्यों की पूजा"
+    },
+    {
+     "sa": "अध्ययनम्",
+     "iast": "adhyayanam",
+     "en": "study",
+     "hi": "अध्ययन"
+    },
+    {
+     "sa": "अभिनिर्वर्तयेत्",
+     "iast": "abhinirvartayet",
+     "en": "should perform",
+     "hi": "करे"
+    }
+   ],
+   "english": "One should not speak ill of good people or teachers. One should not perform rites of abhicāra, worship of sacred trees and venerable beings, or study while unclean.",
+   "hindi": "सज्जनों और गुरुओं की निन्दा न करे। अशुद्ध अवस्था में अभिचार-कर्म, चैत्य व पूज्यों की पूजा या अध्ययन न करे।",
+   "explanation_en": "A short verse on respect and purity. Study (adhyayana) is mentioned with worship because in the classical tradition learning was a sacred act requiring cleanliness and a composed mind. Speaking ill of the good and of teachers is listed as harmful conduct.",
+   "explanation_hi": "सम्मान और शुद्धि पर छोटा श्लोक। अध्ययन को पूजा के साथ रखा गया है क्योंकि परम्परा में विद्या पवित्र कर्म थी जिसके लिए स्वच्छता और शान्त मन आवश्यक था। सज्जनों और गुरुओं की निन्दा को हानिकारक आचरण माना गया है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sadvṛtta",
+    "adhyayana",
+    "abhicāra"
+   ],
+   "tags": [
+    "sadvritta",
+    "conduct"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.8.24",
+   "word_meanings": [
+    {
+     "sa": "विद्युत्सु अनार्तवीषु",
+     "iast": "vidyutsu anārtavīṣu",
+     "en": "during out-of-season lightning",
+     "hi": "बेमौसम बिजली चमकने पर"
+    },
+    {
+     "sa": "अभ्युदितासु दिक्षु",
+     "iast": "abhyuditāsu dikṣu",
+     "en": "when the quarters are ablaze (red/glowing)",
+     "hi": "दिशाओं में दाह (लालिमा) होने पर"
+    },
+    {
+     "sa": "अग्निसंप्लवे",
+     "iast": "agnisaṃplave",
+     "en": "during a conflagration",
+     "hi": "आग लगने पर"
+    },
+    {
+     "sa": "भूमिकम्पे",
+     "iast": "bhūmikampe",
+     "en": "during an earthquake",
+     "hi": "भूकम्प में"
+    },
+    {
+     "sa": "महोत्सवे",
+     "iast": "mahotsave",
+     "en": "during a great festival",
+     "hi": "महोत्सव में"
+    },
+    {
+     "sa": "उल्कापाते",
+     "iast": "ulkāpāte",
+     "en": "at the fall of a meteor",
+     "hi": "उल्कापात में"
+    },
+    {
+     "sa": "महाग्रहोपगमने",
+     "iast": "mahāgrahopagamane",
+     "en": "during an eclipse (approach of a great planet)",
+     "hi": "ग्रहण में"
+    },
+    {
+     "sa": "नष्टचन्द्रायाम् तिथौ",
+     "iast": "naṣṭacandrāyām tithau",
+     "en": "on the new-moon day",
+     "hi": "अमावस्या को"
+    },
+    {
+     "sa": "सन्ध्ययोः",
+     "iast": "sandhyayoḥ",
+     "en": "at dawn and dusk",
+     "hi": "सन्ध्याओं में"
+    },
+    {
+     "sa": "अमुखात् गुरोः",
+     "iast": "amukhāt guroḥ",
+     "en": "not from the mouth of the teacher",
+     "hi": "गुरु के मुख से न सुनकर"
+    },
+    {
+     "sa": "अवपतितम्",
+     "iast": "avapatitam",
+     "en": "with omissions (dropping syllables)",
+     "hi": "अक्षर छोड़कर"
+    },
+    {
+     "sa": "अतिमात्रम्",
+     "iast": "atimātram",
+     "en": "excessively",
+     "hi": "अत्यधिक"
+    },
+    {
+     "sa": "तान्तम्",
+     "iast": "tāntam",
+     "en": "tiredly",
+     "hi": "थके हुए स्वर में"
+    },
+    {
+     "sa": "विस्वरम्",
+     "iast": "visvaram",
+     "en": "with wrong intonation",
+     "hi": "विकृत स्वर में"
+    },
+    {
+     "sa": "अनवस्थितपदम्",
+     "iast": "anavasthitapadam",
+     "en": "with unsteady words",
+     "hi": "अस्थिर पदों से"
+    },
+    {
+     "sa": "अतिद्रुतम् विलम्बितम्",
+     "iast": "atidrutam vilambitam",
+     "en": "too fast, too slow",
+     "hi": "अति शीघ्र, अति विलम्ब से"
+    },
+    {
+     "sa": "अतिक्लीबम्",
+     "iast": "atiklībam",
+     "en": "too feebly",
+     "hi": "अति दुर्बल स्वर से"
+    },
+    {
+     "sa": "अत्युच्चैः अतिनीचैः स्वरैः",
+     "iast": "atyuccaiḥ atinīcaiḥ svaraiḥ",
+     "en": "in too loud or too low a voice",
+     "hi": "अति ऊँचे या अति नीचे स्वर से"
+    },
+    {
+     "sa": "अध्ययनम् अभ्यस्येत्",
+     "iast": "adhyayanam abhyasyet",
+     "en": "should practise study (recitation)",
+     "hi": "अध्ययन का अभ्यास करे"
+    }
+   ],
+   "english": "One should not study (recite texts) during out-of-season lightning, when the quarters are ablaze, during a conflagration, an earthquake, a great festival, a meteor fall or an eclipse, on the new-moon day, or at dawn and dusk; nor without learning from the teacher's mouth, with omissions, excessively, tiredly, with wrong intonation, with unsteady words, too fast or too slow, too feebly, or in too loud or too low a voice.",
+   "hindi": "बेमौसम बिजली, दिशाओं के दाह, आग लगने, भूकम्प, महोत्सव, उल्कापात, ग्रहण, अमावस्या और सन्ध्याओं के समय अध्ययन न करे; गुरु के मुख से सुने बिना, अक्षर छोड़कर, अत्यधिक, थके हुए, विकृत स्वर से, अस्थिर पदों से, अति शीघ्र या अति धीरे, अति दुर्बल, अति ऊँचे या अति नीचे स्वर से अध्ययन न करे।",
+   "explanation_en": "These are the rules of study (anadhyāya, times when study is forbidden, and the correct method of recitation). They are useful to BAMS students because Ayurvedic texts were learnt by oral recitation: learn from a teacher, pronounce every syllable, keep a steady, moderate pace and volume. Compare the adhyayana-vidhi in Vimānasthāna 8.",
+   "explanation_hi": "ये अध्ययन के नियम हैं (अनध्याय, अर्थात् जब अध्ययन वर्जित है, और पाठ की सही विधि)। BAMS छात्रों के लिए उपयोगी, क्योंकि आयुर्वेद ग्रन्थ मौखिक पाठ से सीखे जाते थे: गुरु से सीखें, हर अक्षर सही बोलें, मध्यम गति और स्वर रखें। विमानस्थान 8 की अध्ययन-विधि से तुलना करें।",
+   "modern_correlation": {
+    "en": "Learning from a teacher, at a steady pace and with full articulation, is consistent with modern findings that guided practice and spaced, deliberate rehearsal improve retention. Avoiding study during natural disasters is simple safety and attention management. The calendrical restrictions are traditional.",
+    "hi": "गुरु से, स्थिर गति और पूर्ण उच्चारण के साथ सीखना आधुनिक शोध के अनुरूप है कि मार्गदर्शित और सोच-समझकर किया गया अभ्यास स्मरण को बढ़ाता है। प्राकृतिक आपदाओं में अध्ययन न करना सामान्य सुरक्षा और ध्यान-प्रबन्धन है। तिथि-सम्बन्धी निषेध परम्परागत हैं।"
+   },
+   "key_terms": [
+    "anadhyāya",
+    "adhyayana vidhi"
+   ],
+   "tags": [
+    "sadvritta",
+    "study"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.8.25",
+   "word_meanings": [
+    {
+     "sa": "न अतिसमयम् जह्यात्",
+     "iast": "na atisamayam jahyāt",
+     "en": "should not violate conventions",
+     "hi": "मर्यादाओं (समय) का उल्लंघन न करे"
+    },
+    {
+     "sa": "न नियमम् भिन्द्यात्",
+     "iast": "na niyamam bhindyāt",
+     "en": "should not break vows/rules",
+     "hi": "नियम न तोड़े"
+    },
+    {
+     "sa": "न नक्तम् न अदेशे चरेत्",
+     "iast": "na naktam na adeśe caret",
+     "en": "should not roam at night or in improper places",
+     "hi": "रात में या अनुचित स्थान पर न घूमे"
+    },
+    {
+     "sa": "सन्ध्यासु",
+     "iast": "sandhyāsu",
+     "en": "at the junctions of the day (dawn, dusk)",
+     "hi": "सन्ध्याओं में"
+    },
+    {
+     "sa": "अभ्यवहार अध्ययन स्त्री स्वप्न सेवी",
+     "iast": "abhyavahāra adhyayana strī svapna sevī",
+     "en": "indulging in eating, study, sex or sleep",
+     "hi": "भोजन, अध्ययन, स्त्री-संग या निद्रा करने वाला"
+    },
+    {
+     "sa": "बाल वृद्ध लुब्ध मूर्ख क्लिष्ट क्लीबैः",
+     "iast": "bāla vṛddha lubdha mūrkha kliṣṭa klībaiḥ",
+     "en": "with children, the very old, the greedy, fools, the afflicted, the impotent (cowardly)",
+     "hi": "बालक, वृद्ध, लोभी, मूर्ख, दुःखी, नपुंसक (कायर) के साथ"
+    },
+    {
+     "sa": "सख्यम् न कुर्यात्",
+     "iast": "sakhyam na kuryāt",
+     "en": "should not make friendship",
+     "hi": "मित्रता न करे"
+    },
+    {
+     "sa": "मद्य द्यूत वेश्या प्रसङ्ग रुचिः",
+     "iast": "madya dyūta veśyā prasaṅga ruciḥ",
+     "en": "fond of wine, gambling, prostitutes",
+     "hi": "मद्य, जुआ, वेश्या-प्रसंग में रुचि वाला"
+    },
+    {
+     "sa": "न गुह्यम् विवृणुयात्",
+     "iast": "na guhyam vivṛṇuyāt",
+     "en": "should not expose secrets / private parts",
+     "hi": "गुप्त बात (या गुप्तांग) प्रकट न करे"
+    },
+    {
+     "sa": "न कंचित् अवजानीयात्",
+     "iast": "na kaṃcit avajānīyāt",
+     "en": "should not despise anyone",
+     "hi": "किसी का अपमान न करे"
+    },
+    {
+     "sa": "न अहंमानी",
+     "iast": "na ahaṃmānī",
+     "en": "not egoistic",
+     "hi": "अहंकारी न हो"
+    },
+    {
+     "sa": "अदक्षः अदक्षिणः असूयकः",
+     "iast": "adakṣaḥ adakṣiṇaḥ asūyakaḥ",
+     "en": "unskilled, unkind, jealous",
+     "hi": "अकुशल, अनुदार, ईर्ष्यालु"
+    },
+    {
+     "sa": "गवाम् दण्डम् उद्यच्छेत्",
+     "iast": "gavām daṇḍam udyacchet",
+     "en": "should raise a stick against cows",
+     "hi": "गायों पर डण्डा उठाए"
+    },
+    {
+     "sa": "वृद्धान् गुरून् गणान् नृपान् अधिक्षिपेत्",
+     "iast": "vṛddhān gurūn gaṇān nṛpān adhikṣipet",
+     "en": "should insult the old, teachers, communities or kings",
+     "hi": "वृद्धों, गुरुओं, समूहों या राजाओं का तिरस्कार करे"
+    },
+    {
+     "sa": "न च अतिब्रूयात्",
+     "iast": "na ca atibrūyāt",
+     "en": "should not talk too much",
+     "hi": "अधिक न बोले"
+    },
+    {
+     "sa": "बान्धव अनुरक्त कृच्छ्रद्वितीय गुह्यज्ञान्",
+     "iast": "bāndhava anurakta kṛcchradvitīya guhyajñān",
+     "en": "relatives, devoted ones, companions in difficulty, those who know one's secrets",
+     "hi": "बन्धु, अनुरक्त, संकट के साथी, रहस्य जानने वाले"
+    },
+    {
+     "sa": "बहिष्कुर्यात्",
+     "iast": "bahiṣkuryāt",
+     "en": "should expel/abandon",
+     "hi": "त्याग करे"
+    }
+   ],
+   "english": "One should not violate conventions or break vows; should not roam at night or in improper places; should not eat, study, have intercourse or sleep at dawn and dusk; should not make friends with children, the very old, the greedy, fools, the afflicted or cowards; should not be fond of wine, gambling or prostitutes; should not expose secrets; should not despise anyone; should not be egoistic, unskilled, unkind or jealous; should not speak ill of brāhmaṇas or raise a stick against cows; should not insult the elderly, teachers, communities or kings; should not talk too much; and should not abandon relatives, devoted friends, companions in difficulty or those who know one's secrets.",
+   "hindi": "मर्यादाओं का उल्लंघन न करे, नियम न तोड़े; रात में या अनुचित स्थानों पर न घूमे; सन्ध्याओं में भोजन, अध्ययन, स्त्री-संग या निद्रा न करे; बालक, अति वृद्ध, लोभी, मूर्ख, दुःखी या कायर से मित्रता न करे; मद्य, जुआ या वेश्या में रुचि न रखे; गुप्त बातें प्रकट न करे; किसी का अपमान न करे; अहंकारी, अकुशल, अनुदार या ईर्ष्यालु न हो; ब्राह्मणों की निन्दा न करे, गायों पर डण्डा न उठाए; वृद्धों, गुरुओं, समूहों या राजाओं का तिरस्कार न करे; अधिक न बोले; और बन्धुओं, अनुरक्तों, संकट के साथियों और रहस्य जानने वालों का त्याग न करे।",
+   "explanation_en": "This verse focuses on social and moral conduct: avoid addictions (madya, dyūta, veśyā), choose friends wisely, avoid ego and jealousy, do not over-talk, and stay loyal to those who stood by you. Avoiding sleep, food and sex at sandhyā (twilight) is a recurring Ayurvedic instruction.",
+   "explanation_hi": "यह श्लोक सामाजिक और नैतिक आचरण पर है: व्यसनों (मद्य, जुआ, वेश्या) से बचें, मित्र सोच-समझकर चुनें, अहंकार और ईर्ष्या छोड़ें, अधिक न बोलें, और संकट में साथ देने वालों के प्रति निष्ठावान रहें। सन्ध्या में निद्रा, भोजन और मैथुन से बचना आयुर्वेद में बार-बार कहा गया है।",
+   "modern_correlation": {
+    "en": "Avoiding alcohol misuse and gambling aligns with modern recognition of these as causes of physical, psychological and social harm. Stable, supportive social relationships are associated with better health outcomes in epidemiological studies.",
+    "hi": "मद्यपान और जुए से बचना आधुनिक मान्यता के अनुरूप है कि ये शारीरिक, मानसिक और सामाजिक हानि के कारण हैं। जनसंख्या-अध्ययनों में स्थिर और सहयोगी सामाजिक सम्बन्ध बेहतर स्वास्थ्य से जुड़े पाए गए हैं।"
+   },
+   "key_terms": [
+    "sadvṛtta",
+    "madya",
+    "dyūta",
+    "sandhyā"
+   ],
+   "tags": [
+    "sadvritta",
+    "conduct",
+    "addiction"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.8.26",
+   "word_meanings": [
+    {
+     "sa": "न अधीरः",
+     "iast": "na adhīraḥ",
+     "en": "not impatient (lacking courage)",
+     "hi": "अधीर न हो"
+    },
+    {
+     "sa": "न अत्युच्छ्रितसत्त्वः",
+     "iast": "na atyucchritasattvaḥ",
+     "en": "not over-elated (proud)",
+     "hi": "अति उत्साहित (घमण्डी) न हो"
+    },
+    {
+     "sa": "न अभृतभृत्यः",
+     "iast": "na abhṛtabhṛtyaḥ",
+     "en": "not leaving dependants unsupported",
+     "hi": "आश्रितों का भरण-पोषण न करने वाला न हो"
+    },
+    {
+     "sa": "न अविश्रब्धस्वजनः",
+     "iast": "na aviśrabdhasvajanaḥ",
+     "en": "not distrustful of one's own people",
+     "hi": "अपनों पर अविश्वास करने वाला न हो"
+    },
+    {
+     "sa": "न एकः सुखी",
+     "iast": "na ekaḥ sukhī",
+     "en": "not enjoying alone",
+     "hi": "अकेले सुख भोगने वाला न हो"
+    },
+    {
+     "sa": "न दुःखशीलाचारोपचारः",
+     "iast": "na duḥkhaśīlācāropacāraḥ",
+     "en": "not of miserable habits, conduct and behaviour",
+     "hi": "दुःखदायी स्वभाव, आचरण और व्यवहार वाला न हो"
+    },
+    {
+     "sa": "न सर्वविश्रम्भी",
+     "iast": "na sarvaviśrambhī",
+     "en": "not trusting everyone",
+     "hi": "सब पर विश्वास करने वाला न हो"
+    },
+    {
+     "sa": "न सर्वाभिशङ्की",
+     "iast": "na sarvābhiśaṅkī",
+     "en": "not suspicious of everyone",
+     "hi": "सब पर शंका करने वाला न हो"
+    },
+    {
+     "sa": "न सर्वकालविचारी",
+     "iast": "na sarvakālavicārī",
+     "en": "not deliberating all the time",
+     "hi": "हर समय विचार में डूबा न रहे"
+    }
+   ],
+   "english": "One should not be impatient or over-elated; should not neglect dependants or distrust one's own people; should not enjoy alone; should not have miserable habits, conduct or behaviour; and should neither trust everyone nor suspect everyone, nor keep deliberating all the time.",
+   "hindi": "अधीर या अति उत्साहित (घमण्डी) न हो; आश्रितों की उपेक्षा न करे, अपनों पर अविश्वास न करे; अकेले सुख न भोगे; दुःखदायी स्वभाव, आचरण या व्यवहार वाला न हो; न सब पर विश्वास करे, न सब पर शंका करे, न हर समय विचार में डूबा रहे।",
+   "explanation_en": "This verse teaches the middle path in psychological attitude: neither too impatient nor too elated, neither blindly trusting nor suspicious of all, neither careless nor endlessly deliberating. Sharing happiness with others (not 'ekaḥ sukhī') is part of mental health. A good example of the Ayurvedic principle of balance applied to the mind.",
+   "explanation_hi": "यह श्लोक मानसिक दृष्टिकोण में मध्यम मार्ग सिखाता है: न अधीर, न अति उत्साहित; न अन्धविश्वासी, न सब पर शंकालु; न लापरवाह, न अन्तहीन विचार करने वाला। सुख दूसरों के साथ बाँटना (अकेले सुख न भोगना) भी मानसिक स्वास्थ्य का अंग है।",
+   "modern_correlation": {
+    "en": "Balanced emotional responses, sharing positive experiences and avoiding excessive suspicion or rumination are broadly in line with modern ideas of emotional regulation and psychological well-being.",
+    "hi": "सन्तुलित भावनात्मक प्रतिक्रिया, सुखद अनुभवों को बाँटना और अत्यधिक शंका या चिन्तन से बचना आधुनिक 'इमोशनल रेगुलेशन' और मनोवैज्ञानिक कल्याण के विचारों के मोटे तौर पर अनुरूप है।"
+   },
+   "key_terms": [
+    "sadvṛtta",
+    "mānasa svāsthya"
+   ],
+   "tags": [
+    "sadvritta",
+    "mental-health",
+    "conduct"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.8.27",
+   "word_meanings": [
+    {
+     "sa": "न कार्यकालम् अतिपातयेत्",
+     "iast": "na kāryakālam atipātayet",
+     "en": "should not let the time for action pass",
+     "hi": "कार्य का समय न निकलने दे"
+    },
+    {
+     "sa": "न अपरीक्षितम् अभिनिविशेत्",
+     "iast": "na aparīkṣitam abhiniviśet",
+     "en": "should not undertake anything unexamined",
+     "hi": "बिना परखे किसी कार्य में न लगे"
+    },
+    {
+     "sa": "न इन्द्रियवशगः स्यात्",
+     "iast": "na indriyavaśagaḥ syāt",
+     "en": "should not be a slave of the senses",
+     "hi": "इन्द्रियों के वश में न हो"
+    },
+    {
+     "sa": "न चञ्चलम् मनः अनुभ्रामयेत्",
+     "iast": "na cañcalam manaḥ anubhrāmayet",
+     "en": "should not let the fickle mind wander",
+     "hi": "चंचल मन को भटकने न दे"
+    },
+    {
+     "sa": "न बुद्धीन्द्रियाणाम् अतिभारम् आदध्यात्",
+     "iast": "na buddhīndriyāṇām atibhāram ādadhyāt",
+     "en": "should not overburden the intellect and senses",
+     "hi": "बुद्धि और इन्द्रियों पर अति भार न डाले"
+    },
+    {
+     "sa": "न अतिदीर्घसूत्री",
+     "iast": "na atidīrghasūtrī",
+     "en": "not a procrastinator",
+     "hi": "अति दीर्घसूत्री (टालने वाला) न हो"
+    },
+    {
+     "sa": "न क्रोधहर्षौ अनुविदध्यात्",
+     "iast": "na krodhaharṣau anuvidadhyāt",
+     "en": "should not be carried away by anger and joy",
+     "hi": "क्रोध और हर्ष के वश में न हो"
+    },
+    {
+     "sa": "न शोकम् अनुवसेत्",
+     "iast": "na śokam anuvaset",
+     "en": "should not dwell in grief",
+     "hi": "शोक में न डूबा रहे"
+    },
+    {
+     "sa": "न सिद्धौ उत्सेकम्",
+     "iast": "na siddhau utsekam",
+     "en": "no arrogance in success",
+     "hi": "सफलता में घमण्ड नहीं"
+    },
+    {
+     "sa": "न असिद्धौ दैन्यम्",
+     "iast": "na asiddhau dainyam",
+     "en": "no dejection in failure",
+     "hi": "असफलता में दीनता नहीं"
+    },
+    {
+     "sa": "प्रकृतिम् अभीक्ष्णम् स्मरेत्",
+     "iast": "prakṛtim abhīkṣṇam smaret",
+     "en": "should constantly remember one's nature (or the nature of things)",
+     "hi": "अपनी प्रकृति (या वस्तुओं के स्वभाव) को बार-बार स्मरण करे"
+    },
+    {
+     "sa": "हेतु प्रभाव निश्चितः",
+     "iast": "hetu prabhāva niścitaḥ",
+     "en": "convinced of the power of causes",
+     "hi": "कारण और उसके प्रभाव में विश्वास रखने वाला"
+    },
+    {
+     "sa": "हेत्वारम्भनित्यः",
+     "iast": "hetvārambhanityaḥ",
+     "en": "always initiating the (right) causes",
+     "hi": "सदा (उचित) कारणों का आरम्भ करने वाला"
+    },
+    {
+     "sa": "न कृतम् इति आश्वसेत्",
+     "iast": "na kṛtam iti āśvaset",
+     "en": "should not relax thinking 'it is done'",
+     "hi": "'हो गया' सोचकर निश्चिन्त न हो"
+    },
+    {
+     "sa": "न वीर्यम् जह्यात्",
+     "iast": "na vīryam jahyāt",
+     "en": "should not give up vigour",
+     "hi": "पराक्रम न छोड़े"
+    },
+    {
+     "sa": "न अपवादम् अनुस्मरेत्",
+     "iast": "na apavādam anusmaret",
+     "en": "should not keep remembering insults/blame",
+     "hi": "अपमान को बार-बार याद न करे"
+    }
+   ],
+   "english": "One should not let the time for action pass; should not undertake anything unexamined; should not be a slave of the senses or let the fickle mind wander; should not overburden the intellect and senses; should not procrastinate; should not be carried away by anger or joy, nor dwell in grief; should not be arrogant in success or dejected in failure; should constantly remember the nature of things; should be convinced of the power of causes and always initiate the right causes; should not relax thinking 'it is done'; should not give up vigour; and should not keep remembering insults.",
+   "hindi": "कार्य का समय न निकलने दे; बिना परखे किसी काम में न लगे; इन्द्रियों के वश में न हो, चंचल मन को न भटकाए; बुद्धि और इन्द्रियों पर अति भार न डाले; टालमटोल न करे; क्रोध या हर्ष में न बहे, शोक में न डूबा रहे; सफलता में घमण्ड और असफलता में दीनता न करे; वस्तुओं के स्वभाव को बार-बार स्मरण करे; कारण की शक्ति पर विश्वास रखे और सदा उचित कारणों का आरम्भ करे; 'हो गया' सोचकर ढीला न पड़े; पराक्रम न छोड़े; और अपमान को बार-बार याद न करे।",
+   "explanation_en": "This is perhaps the most practical verse of mental sadvṛtta, close to a guide for personal effectiveness and emotional resilience. Key phrases: 'na siddhāv utsekaṃ yacchen nāsiddhau dainyam' (no arrogance in success, no dejection in failure), 'nendriyavaśagaḥ syāt' (do not be a slave of the senses), 'na buddhīndriyāṇām atibhāram' (do not overload the senses, relevant to screen use today). 'Prakṛtim abhīkṣṇaṃ smaret' is explained by Cakrapāṇi as remembering the natural impermanence of things.",
+   "explanation_hi": "यह मानसिक सद्वृत्त का सबसे व्यावहारिक श्लोक है, जो कार्यकुशलता और भावनात्मक दृढ़ता की मार्गदर्शिका जैसा है। मुख्य वाक्य: 'न सिद्धावुत्सेकं यच्छेन्नासिद्धौ दैन्यम्' (सफलता में घमण्ड नहीं, असफलता में दीनता नहीं), 'नेन्द्रियवशगः स्यात्', 'न बुद्धीन्द्रियाणामतिभारम्' (इन्द्रियों पर अति भार नहीं; आज स्क्रीन-उपयोग पर लागू)। चक्रपाणि 'प्रकृतिम् अभीक्ष्णं स्मरेत्' को वस्तुओं की स्वाभाविक अनित्यता का स्मरण बताते हैं।",
+   "modern_correlation": {
+    "en": "Several points resemble modern cognitive-behavioural and resilience principles: avoiding procrastination, not ruminating on past insults, equanimity in success and failure, and avoiding sensory and cognitive overload. These are parallels in advice, not evidence that the classical text anticipated modern psychology.",
+    "hi": "कई बातें आधुनिक कॉग्निटिव-बिहेवियरल और 'रेज़िलिएंस' सिद्धान्तों जैसी हैं: टालमटोल से बचना, पुराने अपमानों पर बार-बार न सोचना, सफलता-असफलता में समभाव, और संवेदी व मानसिक अति-भार से बचना। ये सलाह में समानताएँ हैं, इस बात का प्रमाण नहीं कि शास्त्र ने आधुनिक मनोविज्ञान का पूर्वानुमान किया।"
+   },
+   "key_terms": [
+    "sadvṛtta",
+    "indriyavaśa",
+    "dīrghasūtrī",
+    "dainya",
+    "utseka"
+   ],
+   "tags": [
+    "sadvritta",
+    "mental-health",
+    "exam"
+   ],
+   "importance": "medium",
+   "mnemonic": "Success: no utseka; Failure: no dainya",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.8.28",
+   "word_meanings": [
+    {
+     "sa": "न अशुचिः",
+     "iast": "na aśuciḥ",
+     "en": "not when unclean",
+     "hi": "अशुद्ध होकर नहीं"
+    },
+    {
+     "sa": "उत्तम आज्य अक्षत तिल कुश सर्षपैः",
+     "iast": "uttama ājya akṣata tila kuśa sarṣapaiḥ",
+     "en": "with best ghee, unbroken rice, sesame, kuśa grass and mustard",
+     "hi": "उत्तम घी, अक्षत, तिल, कुश और सरसों से"
+    },
+    {
+     "sa": "अग्निम् जुहुयात्",
+     "iast": "agnim juhuyāt",
+     "en": "should offer oblations into fire",
+     "hi": "अग्नि में आहुति दे"
+    },
+    {
+     "sa": "आत्मानम् आशीर्भिः आशासानः",
+     "iast": "ātmānam āśīrbhiḥ āśāsānaḥ",
+     "en": "blessing oneself with benedictions",
+     "hi": "आशीर्वचनों से अपने लिए कामना करते हुए"
+    },
+    {
+     "sa": "अग्निः मे न अपगच्छेत् शरीरात्",
+     "iast": "agniḥ me na apagacchet śarīrāt",
+     "en": "may fire (agni) not leave my body",
+     "hi": "अग्नि मेरे शरीर से न जाए"
+    },
+    {
+     "sa": "वायुः मे प्राणान् आदधातु",
+     "iast": "vāyuḥ me prāṇān ādadhātu",
+     "en": "may vāyu sustain my vital breaths",
+     "hi": "वायु मेरे प्राणों को धारण करे"
+    },
+    {
+     "sa": "विष्णुः मे बलम् आदधातु",
+     "iast": "viṣṇuḥ me balam ādadhātu",
+     "en": "may Viṣṇu give me strength",
+     "hi": "विष्णु मुझे बल दें"
+    },
+    {
+     "sa": "इन्द्रः मे वीर्यम्",
+     "iast": "indraḥ me vīryam",
+     "en": "may Indra give me potency",
+     "hi": "इन्द्र मुझे वीर्य दें"
+    },
+    {
+     "sa": "शिवाः माम् प्रविशन्तु आपः",
+     "iast": "śivāḥ mām praviśantu āpaḥ",
+     "en": "may auspicious waters enter me",
+     "hi": "कल्याणकारी जल मुझमें प्रवेश करें"
+    },
+    {
+     "sa": "आपो हि ष्ठा इति अपः स्पृशेत्",
+     "iast": "āpo hi ṣṭhā iti apaḥ spṛśet",
+     "en": "should touch water reciting 'āpo hi ṣṭhā'",
+     "hi": "'आपो हि ष्ठा' मन्त्र से जल का स्पर्श करे"
+    },
+    {
+     "sa": "द्विः परिमृज्य ओष्ठौ",
+     "iast": "dviḥ parimṛjya oṣṭhau",
+     "en": "wiping the lips twice",
+     "hi": "दो बार होंठ पोंछकर"
+    },
+    {
+     "sa": "पादौ च अभ्युक्ष्य",
+     "iast": "pādau ca abhyukṣya",
+     "en": "and sprinkling the feet",
+     "hi": "और पैरों पर जल छिड़ककर"
+    },
+    {
+     "sa": "मूर्धनि खानि च उपस्पृशेत् अद्भिः",
+     "iast": "mūrdhani khāni ca upaspṛśet adbhiḥ",
+     "en": "should touch with water the head and the sense apertures",
+     "hi": "सिर और इन्द्रिय-छिद्रों का जल से स्पर्श करे"
+    },
+    {
+     "sa": "आत्मानम् हृदयम् शिरः च",
+     "iast": "ātmānam hṛdayam śiraḥ ca",
+     "en": "oneself (body), the heart and the head",
+     "hi": "अपने शरीर, हृदय और सिर का"
+    }
+   ],
+   "english": "One should not, while unclean, offer oblations into fire with the best ghee, unbroken rice, sesame, kuśa grass and mustard, blessing oneself thus: 'May agni not leave my body; may vāyu sustain my vital breaths; may Viṣṇu give me strength; may Indra give me potency; may auspicious waters enter me.' Reciting 'āpo hi ṣṭhā', one should touch water, wipe the lips twice, sprinkle the feet, and touch with water the head, the sense apertures, the body, the heart and the head.",
+   "hindi": "अशुद्ध अवस्था में अग्नि में आहुति न दे। (शुद्ध होकर) उत्तम घी, अक्षत, तिल, कुश और सरसों से आहुति देते हुए अपने लिए यह कामना करे: 'अग्नि मेरे शरीर से न जाए; वायु मेरे प्राणों को धारण करे; विष्णु मुझे बल दें; इन्द्र मुझे वीर्य दें; कल्याणकारी जल मुझमें प्रवेश करें।' 'आपो हि ष्ठा' मन्त्र बोलकर जल का स्पर्श करे, दो बार होंठ पोंछे, पैरों पर जल छिड़के, और सिर, इन्द्रिय-छिद्रों, शरीर, हृदय और सिर का जल से स्पर्श करे।",
+   "explanation_en": "This describes a daily ritual of oblation and ācamana (purificatory sipping/touching of water). The prayers are interesting for students because they name physiological principles as deities: agni (digestive and metabolic fire) should stay in the body, vāyu should sustain prāṇa. The verse reflects the cultural setting; its practical core is cleanliness before ritual.",
+   "explanation_hi": "यह दैनिक हवन और आचमन (शुद्धि के लिए जल-स्पर्श) की विधि है। प्रार्थनाएँ छात्रों के लिए रोचक हैं क्योंकि इनमें शरीर-क्रिया के तत्वों का देवता रूप में उल्लेख है: अग्नि (पाचक/धातु अग्नि) शरीर में बनी रहे, वायु प्राणों को धारण करे। यह सांस्कृतिक सन्दर्भ दर्शाता है; व्यावहारिक सार है अनुष्ठान से पहले शुद्धि।",
+   "modern_correlation": null,
+   "key_terms": [
+    "ācamana",
+    "homa",
+    "agni",
+    "prāṇa"
+   ],
+   "tags": [
+    "sadvritta",
+    "ritual"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.8.29",
+   "word_meanings": [
+    {
+     "sa": "ब्रह्मचर्य",
+     "iast": "brahmacarya",
+     "en": "celibacy / self-restraint",
+     "hi": "ब्रह्मचर्य"
+    },
+    {
+     "sa": "ज्ञान",
+     "iast": "jñāna",
+     "en": "knowledge",
+     "hi": "ज्ञान"
+    },
+    {
+     "sa": "दान",
+     "iast": "dāna",
+     "en": "charity",
+     "hi": "दान"
+    },
+    {
+     "sa": "मैत्री",
+     "iast": "maitrī",
+     "en": "friendliness",
+     "hi": "मैत्री"
+    },
+    {
+     "sa": "कारुण्य",
+     "iast": "kāruṇya",
+     "en": "compassion",
+     "hi": "करुणा"
+    },
+    {
+     "sa": "हर्ष",
+     "iast": "harṣa",
+     "en": "joy (in others' welfare)",
+     "hi": "हर्ष (मुदिता)"
+    },
+    {
+     "sa": "उपेक्षा",
+     "iast": "upekṣā",
+     "en": "equanimity, indifference (to the wicked)",
+     "hi": "उपेक्षा"
+    },
+    {
+     "sa": "प्रशम",
+     "iast": "praśama",
+     "en": "tranquillity",
+     "hi": "प्रशम (शान्ति)"
+    },
+    {
+     "sa": "परः",
+     "iast": "paraḥ",
+     "en": "devoted to",
+     "hi": "तत्पर"
+    },
+    {
+     "sa": "च स्यात् इति",
+     "iast": "ca syāt iti",
+     "en": "and should be, thus",
+     "hi": "और हो"
+    }
+   ],
+   "english": "And one should be devoted to self-restraint (brahmacarya), knowledge, charity, friendliness (maitrī), compassion (kāruṇya), joy (harṣa), equanimity (upekṣā) and tranquillity (praśama).",
+   "hindi": "और व्यक्ति ब्रह्मचर्य, ज्ञान, दान, मैत्री, करुणा, हर्ष (मुदिता), उपेक्षा और प्रशम (शान्ति) में तत्पर रहे।",
+   "explanation_en": "This concluding line of the sadvṛtta list names eight positive mental virtues. Maitrī, kāruṇya, harṣa (muditā) and upekṣā are the four 'brahma-vihāras' also found in Yoga (Yogasūtra 1.33) and Buddhist thought. A neat summary point for answers on 'mental sadvṛtta'.",
+   "explanation_hi": "यह सद्वृत्त सूची की समापन पंक्ति है जिसमें आठ सकारात्मक मानसिक गुण हैं। मैत्री, करुणा, हर्ष (मुदिता) और उपेक्षा चार 'ब्रह्मविहार' हैं जो योग (योगसूत्र 1.33) और बौद्ध विचार में भी मिलते हैं। 'मानसिक सद्वृत्त' के उत्तर में यह अच्छा सारांश है।",
+   "modern_correlation": {
+    "en": "Practices cultivating friendliness, compassion and equanimity (e.g. loving-kindness and compassion meditation) have been studied in modern psychology, with some evidence of benefit for stress and well-being; the evidence base is still developing.",
+    "hi": "मैत्री, करुणा और समभाव विकसित करने वाले अभ्यासों (जैसे लविंग-काइंडनेस और कम्पैशन मेडिटेशन) पर आधुनिक मनोविज्ञान में अध्ययन हुए हैं, जिनमें तनाव और कल्याण पर कुछ लाभ के संकेत मिले हैं; यह शोध अभी विकसित हो रहा है।"
+   },
+   "key_terms": [
+    "brahmacarya",
+    "maitrī",
+    "kāruṇya",
+    "muditā",
+    "upekṣā",
+    "praśama"
+   ],
+   "tags": [
+    "sadvritta",
+    "mental-health",
+    "yoga"
+   ],
+   "importance": "medium",
+   "mnemonic": "Four brahma-vihāras: Maitrī, Karuṇā, Muditā (harṣa), Upekṣā = 'MKMU'",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.8.30",
+   "word_meanings": [
+    {
+     "sa": "तत्र श्लोकाः",
+     "iast": "tatra ślokāḥ",
+     "en": "here are the summary verses",
+     "hi": "यहाँ संग्रह श्लोक हैं"
+    },
+    {
+     "sa": "पञ्चपञ्चकम्",
+     "iast": "pañcapañcakam",
+     "en": "the five pentads",
+     "hi": "पञ्चपञ्चक"
+    },
+    {
+     "sa": "उद्दिष्टम्",
+     "iast": "uddiṣṭam",
+     "en": "has been stated",
+     "hi": "बताया गया"
+    },
+    {
+     "sa": "मनः",
+     "iast": "manaḥ",
+     "en": "the mind",
+     "hi": "मन"
+    },
+    {
+     "sa": "हेतुचतुष्टयम्",
+     "iast": "hetucatuṣṭayam",
+     "en": "the four means (for keeping senses healthy)",
+     "hi": "चार हेतु (उपाय)"
+    },
+    {
+     "sa": "इन्द्रियोपक्रमे अध्याये",
+     "iast": "indriyopakrame adhyāye",
+     "en": "in the chapter on the care of the senses",
+     "hi": "इन्द्रियोपक्रम अध्याय में"
+    },
+    {
+     "sa": "सद्वृत्तम् अखिलेन च",
+     "iast": "sadvṛttam akhilena ca",
+     "en": "and good conduct in full",
+     "hi": "और सम्पूर्ण सद्वृत्त"
+    }
+   ],
+   "english": "Here are the summary verses: In this chapter on the care of the senses, the five pentads, the mind, the four means (of keeping the senses healthy) and good conduct in full have been described.",
+   "hindi": "यहाँ संग्रह श्लोक हैं: इस इन्द्रियोपक्रम अध्याय में पञ्चपञ्चक, मन, चार हेतु और सम्पूर्ण सद्वृत्त का वर्णन किया गया है।",
+   "explanation_en": "This is the chapter summary (saṅgraha). 'Hetu-catuṣṭaya' is usually taken as the four means of v. 17 (wholesome sense contact, examined action, adopting opposites to place/season/constitution, and sadvṛtta), or by some as the four factors of normalcy/abnormality of indriyas (sama, ati, hīna, mithyā yoga). Use the summary to revise the chapter structure.",
+   "explanation_hi": "यह अध्याय का संग्रह है। 'हेतुचतुष्टय' को प्रायः श्लोक 17 के चार उपाय माना जाता है (सात्म्य इन्द्रियार्थ-संयोग, परखकर कर्म, देश-काल-प्रकृति के विपरीत सेवन, और सद्वृत्त); कुछ इसे इन्द्रियों की प्रकृति-विकृति के चार कारण (सम, अति, हीन, मिथ्या योग) मानते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "pañcapañcaka",
+    "hetucatuṣṭaya",
+    "sadvṛtta"
+   ],
+   "tags": [
+    "summary"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.8.31",
+   "word_meanings": [
+    {
+     "sa": "स्वस्थवृत्तम्",
+     "iast": "svasthavṛttam",
+     "en": "regimen for the healthy",
+     "hi": "स्वस्थवृत्त"
+    },
+    {
+     "sa": "यथोद्दिष्टम्",
+     "iast": "yathoddiṣṭam",
+     "en": "as described",
+     "hi": "जैसा बताया गया"
+    },
+    {
+     "sa": "यः",
+     "iast": "yaḥ",
+     "en": "who",
+     "hi": "जो"
+    },
+    {
+     "sa": "सम्यक् अनुतिष्ठति",
+     "iast": "samyak anutiṣṭhati",
+     "en": "follows properly",
+     "hi": "भली-भाँति पालन करता है"
+    },
+    {
+     "sa": "सः",
+     "iast": "saḥ",
+     "en": "he",
+     "hi": "वह"
+    },
+    {
+     "sa": "समाः शतम्",
+     "iast": "samāḥ śatam",
+     "en": "for a hundred years",
+     "hi": "सौ वर्ष तक"
+    },
+    {
+     "sa": "अव्याधिः",
+     "iast": "avyādhiḥ",
+     "en": "free from disease",
+     "hi": "रोगरहित"
+    },
+    {
+     "sa": "आयुषा न वियुज्यते",
+     "iast": "āyuṣā na viyujyate",
+     "en": "is not separated from life",
+     "hi": "आयु से वियुक्त नहीं होता"
+    }
+   ],
+   "english": "One who properly follows the regimen for the healthy (svastha-vṛtta) as described lives for a hundred years free from disease and is not cut off from life prematurely.",
+   "hindi": "जो व्यक्ति बताए गए स्वस्थवृत्त का भली-भाँति पालन करता है, वह सौ वर्ष तक रोगरहित रहता है और (अकाल) मृत्यु को प्राप्त नहीं होता।",
+   "explanation_en": "This is the 'phala-śruti' (statement of the fruit) of sadvṛtta and svastha-vṛtta. A hundred years is the standard full lifespan (paramāyu) in the Vedic and Ayurvedic tradition. It connects to the aim of Ayurveda: 'svasthasya svāsthya-rakṣaṇam' (preserving health of the healthy).",
+   "explanation_hi": "यह सद्वृत्त और स्वस्थवृत्त की फलश्रुति है। वैदिक और आयुर्वेदिक परम्परा में सौ वर्ष पूर्ण आयु (परमायु) मानी गई है। यह आयुर्वेद के प्रयोजन 'स्वस्थस्य स्वास्थ्यरक्षणम्' से जुड़ता है।",
+   "modern_correlation": {
+    "en": "Epidemiological studies associate healthy lifestyle patterns (not smoking, physical activity, healthy diet, moderate or no alcohol, healthy weight) with longer life expectancy and fewer chronic diseases. This supports the general idea of a health regimen, not the specific claim of a hundred disease-free years.",
+    "hi": "जनसंख्या-अध्ययन स्वस्थ जीवनशैली (धूम्रपान न करना, शारीरिक सक्रियता, स्वस्थ आहार, मद्य का संयम, स्वस्थ वजन) को अधिक जीवन-प्रत्याशा और कम दीर्घकालिक रोगों से जोड़ते हैं। यह स्वस्थ दिनचर्या के सामान्य विचार का समर्थन करता है, सौ वर्ष रोगरहित रहने के विशेष दावे का नहीं।"
+   },
+   "key_terms": [
+    "svasthavṛtta",
+    "paramāyu",
+    "avyādhi"
+   ],
+   "tags": [
+    "sadvritta",
+    "longevity",
+    "phala-shruti"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.8.32",
+   "word_meanings": [
+    {
+     "sa": "नृलोकम्",
+     "iast": "nṛlokam",
+     "en": "the world of men",
+     "hi": "मनुष्य-लोक को"
+    },
+    {
+     "sa": "आपूरयते",
+     "iast": "āpūrayate",
+     "en": "fills",
+     "hi": "भर देता है"
+    },
+    {
+     "sa": "यशसा",
+     "iast": "yaśasā",
+     "en": "with fame",
+     "hi": "यश से"
+    },
+    {
+     "sa": "साधुसंमतः",
+     "iast": "sādhusaṃmataḥ",
+     "en": "respected by the good",
+     "hi": "सज्जनों द्वारा सम्मानित"
+    },
+    {
+     "sa": "धर्मार्थौ",
+     "iast": "dharmārthau",
+     "en": "virtue and wealth",
+     "hi": "धर्म और अर्थ"
+    },
+    {
+     "sa": "एति",
+     "iast": "eti",
+     "en": "attains",
+     "hi": "प्राप्त करता है"
+    },
+    {
+     "sa": "भूतानाम्",
+     "iast": "bhūtānām",
+     "en": "of all beings",
+     "hi": "प्राणियों का"
+    },
+    {
+     "sa": "बन्धुताम् उपगच्छति",
+     "iast": "bandhutām upagacchati",
+     "en": "becomes a friend",
+     "hi": "बन्धु बन जाता है"
+    }
+   ],
+   "english": "Respected by the good, he fills the world of men with his fame, attains virtue (dharma) and wealth (artha), and becomes a friend of all beings.",
+   "hindi": "सज्जनों द्वारा सम्मानित होकर वह मनुष्य-लोक को अपने यश से भर देता है, धर्म और अर्थ प्राप्त करता है और सब प्राणियों का बन्धु बन जाता है।",
+   "explanation_en": "The benefits of sadvṛtta go beyond physical health: social respect, dharma and artha (two of the four puruṣārthas). This shows that Ayurveda sees health as including social and moral well-being.",
+   "explanation_hi": "सद्वृत्त के लाभ शारीरिक स्वास्थ्य से आगे जाते हैं: सामाजिक सम्मान, धर्म और अर्थ (चार पुरुषार्थों में से दो)। इससे पता चलता है कि आयुर्वेद स्वास्थ्य में सामाजिक और नैतिक कल्याण को भी सम्मिलित करता है।",
+   "modern_correlation": {
+    "en": "This broader view of well-being is comparable to the WHO definition of health as physical, mental and social well-being, not merely the absence of disease.",
+    "hi": "कल्याण का यह व्यापक दृष्टिकोण WHO की स्वास्थ्य परिभाषा से तुलनीय है, जिसमें स्वास्थ्य को शारीरिक, मानसिक और सामाजिक कल्याण माना गया है, केवल रोग का अभाव नहीं।"
+   },
+   "key_terms": [
+    "sadvṛtta",
+    "dharma",
+    "artha",
+    "puruṣārtha"
+   ],
+   "tags": [
+    "sadvritta",
+    "phala-shruti"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.8.33",
+   "word_meanings": [
+    {
+     "sa": "परान्",
+     "iast": "parān",
+     "en": "higher",
+     "hi": "श्रेष्ठ"
+    },
+    {
+     "sa": "सुकृतिनः लोकान्",
+     "iast": "sukṛtinaḥ lokān",
+     "en": "worlds of the virtuous",
+     "hi": "पुण्यात्माओं के लोक"
+    },
+    {
+     "sa": "पुण्यकर्मा",
+     "iast": "puṇyakarmā",
+     "en": "one of meritorious deeds",
+     "hi": "पुण्यकर्म करने वाला"
+    },
+    {
+     "sa": "प्रपद्यते",
+     "iast": "prapadyate",
+     "en": "attains",
+     "hi": "प्राप्त करता है"
+    },
+    {
+     "sa": "तस्मात्",
+     "iast": "tasmāt",
+     "en": "therefore",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "वृत्तम्",
+     "iast": "vṛttam",
+     "en": "conduct",
+     "hi": "आचरण (सद्वृत्त)"
+    },
+    {
+     "sa": "अनुष्ठेयम्",
+     "iast": "anuṣṭheyam",
+     "en": "should be followed",
+     "hi": "पालन करना चाहिए"
+    },
+    {
+     "sa": "इदम्",
+     "iast": "idam",
+     "en": "this",
+     "hi": "यह"
+    },
+    {
+     "sa": "सर्वेण",
+     "iast": "sarveṇa",
+     "en": "by everyone",
+     "hi": "सबके द्वारा"
+    },
+    {
+     "sa": "सर्वदा",
+     "iast": "sarvadā",
+     "en": "always",
+     "hi": "सदा"
+    }
+   ],
+   "english": "The doer of meritorious deeds attains the higher worlds of the virtuous. Therefore this conduct should always be followed by everyone.",
+   "hindi": "पुण्यकर्म करने वाला पुण्यात्माओं के श्रेष्ठ लोकों को प्राप्त करता है। इसलिए सबको सदा इस आचरण का पालन करना चाहिए।",
+   "explanation_en": "The fruit extends even to the next world (paraloka), linking with the trividha eṣaṇā of Su 11 (prāṇa, dhana and paraloka eṣaṇā). The instruction 'sarveṇa sarvadā' (by all, always) repeats v. 17.",
+   "explanation_hi": "फल परलोक तक जाता है, जो सू. 11 की त्रिविध एषणा (प्राण, धन और परलोक एषणा) से जुड़ता है। 'सर्वेण सर्वदा' (सबके द्वारा, सदा) श्लोक 17 को दोहराता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sadvṛtta",
+    "paraloka",
+    "puṇya"
+   ],
+   "tags": [
+    "sadvritta",
+    "phala-shruti"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.8.34",
+   "word_meanings": [
+    {
+     "sa": "यत् च अन्यत् अपि किंचित् स्यात्",
+     "iast": "yat ca anyat api kiṃcit syāt",
+     "en": "and whatever else there may be",
+     "hi": "और जो कुछ अन्य भी हो"
+    },
+    {
+     "sa": "अनुक्तम् इह",
+     "iast": "anuktam iha",
+     "en": "not stated here",
+     "hi": "यहाँ न कहा गया"
+    },
+    {
+     "sa": "पूजितम्",
+     "iast": "pūjitam",
+     "en": "commendable",
+     "hi": "प्रशंसनीय"
+    },
+    {
+     "sa": "वृत्तम्",
+     "iast": "vṛttam",
+     "en": "conduct",
+     "hi": "आचरण"
+    },
+    {
+     "sa": "तत् अपि",
+     "iast": "tat api",
+     "en": "that also",
+     "hi": "उसे भी"
+    },
+    {
+     "sa": "आत्रेयः",
+     "iast": "ātreyaḥ",
+     "en": "Ātreya",
+     "hi": "आत्रेय"
+    },
+    {
+     "sa": "सदा एव",
+     "iast": "sadā eva",
+     "en": "always",
+     "hi": "सदा"
+    },
+    {
+     "sa": "अभ्यनुमन्यते",
+     "iast": "abhyanumanyate",
+     "en": "approves",
+     "hi": "स्वीकार करते हैं"
+    }
+   ],
+   "english": "And whatever other commendable conduct there may be that has not been stated here, that too Ātreya always approves.",
+   "hindi": "और जो कोई अन्य प्रशंसनीय आचरण यहाँ नहीं कहा गया है, उसे भी आत्रेय सदा स्वीकार करते हैं।",
+   "explanation_en": "An open-ended clause: the list of sadvṛtta is illustrative, not exhaustive. Any good conduct accepted by the wise counts. This flexible attitude allows the principles to be adapted to changing times and cultures.",
+   "explanation_hi": "यह खुला वाक्य है: सद्वृत्त की सूची उदाहरणात्मक है, पूर्ण नहीं। सज्जनों द्वारा मान्य कोई भी अच्छा आचरण इसमें आता है। यह लचीलापन सिद्धान्तों को बदलते समय और संस्कृति के अनुसार ढालने की अनुमति देता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sadvṛtta",
+    "Ātreya"
+   ],
+   "tags": [
+    "sadvritta",
+    "summary"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  }
+ ]
+}
