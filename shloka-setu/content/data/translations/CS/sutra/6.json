@@ -1,0 +1,4674 @@
+{
+ "chapter": {
+  "id": "CS.sutra.6",
+  "text": "charaka_samhita",
+  "sthana": "sutra",
+  "chapter": 6,
+  "title_iast": "Tasyāśitīya Adhyāya",
+  "title_devanagari": "तस्याशितीयोऽध्यायः",
+  "title_en": "The chapter on seasonal suitability of diet and conduct (ṛtucaryā)",
+  "title_hi": "तस्याशितीय अध्याय (ऋतुचर्या - ऋतु अनुसार आहार-विहार)",
+  "summary_en": "Chapter 6 is Caraka's chapter on ṛtucaryā (seasonal regimen). It opens by saying that food gives strength and complexion only to one who knows ṛtusātmya, what suits each season in diet and conduct. The year has six seasons in two halves: ādāna (uttarāyaṇa: śiśira, vasanta, grīṣma), which is āgneya and depletes strength, and visarga (dakṣiṇāyana: varṣā, śarad, hemanta), which is saumya and builds strength. The dominant tastes of the seasons are tikta, kaṣāya, kaṭu in ādāna and amla, lavaṇa, madhura in visarga; strength is lowest in varṣā and grīṣma, moderate in śarad and vasanta, and highest in hemanta and śiśira. For each season Caraka explains the state of agni and doṣas and gives the wholesome diet, lifestyle and things to avoid: strong agni and nourishing food in hemanta-śiśira; kapha prakopa and vamana in vasanta; sweet, cold, liquid food and permitted day sleep in grīṣma; weak agni, tridoṣa disturbance, honey and boiled water in varṣā; pitta prakopa, tikta ghṛta, virecana, raktamokṣaṇa and haṃsodaka in śarad. The chapter ends with definitions of okasātmya (suitability acquired by habit) and of deśa- and roga-sātmya (measures opposite to the qualities of region and disease).",
+  "summary_hi": "अध्याय 6 चरक का ऋतुचर्या अध्याय है। इसका आरम्भ इस कथन से होता है कि आहार से बल और वर्ण केवल उसी को मिलता है जो ऋतुसात्म्य जानता है, अर्थात् हर ऋतु में कौन सा आहार-आचरण अनुकूल है। वर्ष में दो भागों में छह ऋतुएँ हैं: आदान (उत्तरायण: शिशिर, वसन्त, ग्रीष्म), जो आग्नेय है और बल घटाता है, और विसर्ग (दक्षिणायन: वर्षा, शरद्, हेमन्त), जो सौम्य है और बल बढ़ाता है। ऋतुओं के प्रधान रस आदान में तिक्त, कषाय, कटु और विसर्ग में अम्ल, लवण, मधुर हैं; बल वर्षा और ग्रीष्म में सबसे कम, शरद् और वसन्त में मध्यम, और हेमन्त व शिशिर में सबसे अधिक होता है। हर ऋतु के लिए चरक अग्नि और दोषों की अवस्था बताकर पथ्य आहार, विहार और वर्ज्य बताते हैं: हेमन्त-शिशिर में प्रबल अग्नि और पोषक आहार; वसन्त में कफ प्रकोप और वमन; ग्रीष्म में मधुर, शीत, द्रव आहार और दिवास्वप्न की अनुमति; वर्षा में दुर्बल अग्नि, त्रिदोष विकृति, मधु और उबला जल; शरद् में पित्त प्रकोप, तिक्त घृत, विरेचन, रक्तमोक्षण और हंसोदक। अध्याय ओकसात्म्य (आदत से प्राप्त अनुकूलता) तथा देश- और रोग-सात्म्य (देश और रोग के गुणों के विपरीत उपाय) की परिभाषाओं के साथ समाप्त होता है।",
+  "key_concepts": [
+   "ṛtusātmya",
+   "ādāna and visarga kāla",
+   "saumya and āgneya",
+   "ṛtu-wise rasa",
+   "ṛtu-wise bala",
+   "agni in hemanta",
+   "doṣa caya-prakopa-praśama",
+   "seasonal śodhana (vamana, virecana, raktamokṣaṇa)",
+   "haṃsodaka",
+   "okasātmya",
+   "deśasātmya and rogasātmya"
+  ],
+  "exam_focus_en": [
+   "Ādāna (śiśira, vasanta, grīṣma; āgneya) vs. visarga (varṣā, śarad, hemanta; saumya) (Su 6.4-5).",
+   "Season-wise dominant rasa: śiśira-tikta, vasanta-kaṣāya, grīṣma-kaṭu, varṣā-amla, śarad-lavaṇa, hemanta-madhura (Su 6.6-7).",
+   "Season-wise strength: weak in varṣā and grīṣma, moderate in śarad and vasanta, best in hemanta and śiśira (Su 6.8).",
+   "Hemanta: strong agni, risk of rasa depletion if underfed; śiśira same regimen but more protection (Su 6.9-21).",
+   "Vasanta: kapha prakopa, vamana, exercise; grīṣma: svādu-śīta-drava-snigdha, saśarkara mantha, day sleep allowed; varṣā: sādhāraṇa vidhi, boiled water, honey; śarad: tikta ghṛta, virecana, raktamokṣaṇa (Su 6.22-45).",
+   "Haṃsodaka definition (Su 6.46-47) and okasātmya / deśa-roga sātmya (Su 6.49-50)."
+  ],
+  "exam_focus_hi": [
+   "आदान (शिशिर, वसन्त, ग्रीष्म; आग्नेय) और विसर्ग (वर्षा, शरद्, हेमन्त; सौम्य) (सू. 6.4-5)।",
+   "ऋतु अनुसार प्रधान रस: शिशिर-तिक्त, वसन्त-कषाय, ग्रीष्म-कटु, वर्षा-अम्ल, शरद्-लवण, हेमन्त-मधुर (सू. 6.6-7)।",
+   "ऋतु अनुसार बल: वर्षा और ग्रीष्म में दुर्बल, शरद् और वसन्त में मध्यम, हेमन्त और शिशिर में श्रेष्ठ (सू. 6.8)।",
+   "हेमन्त: प्रबल अग्नि, कम भोजन पर रस-क्षय का भय; शिशिर में वही विधि पर अधिक बचाव (सू. 6.9-21)।",
+   "वसन्त: कफ प्रकोप, वमन, व्यायाम; ग्रीष्म: स्वादु-शीत-द्रव-स्निग्ध, सशर्कर मन्थ, दिवास्वप्न अनुमत; वर्षा: साधारण विधि, उबला जल, मधु; शरद्: तिक्त घृत, विरेचन, रक्तमोक्षण (सू. 6.22-45)।",
+   "हंसोदक की परिभाषा (सू. 6.46-47) और ओकसात्म्य / देश-रोग सात्म्य (सू. 6.49-50)।"
+  ],
+  "syllabus_refs": [
+   "AyUG-SA2",
+   "AyUG-SW"
+  ],
+  "review_status": "ai_draft"
+ },
+ "verses": [
+  {
+   "id": "CS.sutra.6.1",
+   "word_meanings": [
+    {
+     "sa": "अथ",
+     "iast": "atha",
+     "en": "now",
+     "hi": "अब"
+    },
+    {
+     "sa": "अतः",
+     "iast": "ataḥ",
+     "en": "therefore",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "तस्याशितीयम्",
+     "iast": "tasyāśitīyam",
+     "en": "(the chapter) beginning 'tasyāśitād'",
+     "hi": "तस्याशितीय (नामक)"
+    },
+    {
+     "sa": "अध्यायम्",
+     "iast": "adhyāyam",
+     "en": "chapter",
+     "hi": "अध्याय की"
+    },
+    {
+     "sa": "व्याख्यास्यामः",
+     "iast": "vyākhyāsyāmaḥ",
+     "en": "we shall explain",
+     "hi": "व्याख्या करेंगे"
+    }
+   ],
+   "english": "Now we shall explain the chapter named Tasyāśitīya.",
+   "hindi": "अब हम 'तस्याशितीय' नामक अध्याय की व्याख्या करेंगे।",
+   "explanation_en": "The chapter is named after its opening words 'tasyāśitād' ('from the food eaten by him'). It deals with ṛtucaryā (seasonal regimen) and is the second chapter of the Svasthacatuṣka. Exam tip: Tasyāśitīya = Caraka Sūtrasthāna 6 = ṛtucaryā; the corresponding chapter in Aṣṭāṅgahṛdaya is Sūtrasthāna 3 (Ṛtucaryā).",
+   "explanation_hi": "अध्याय का नाम उसके पहले शब्दों 'तस्याशितात्' ('उसके खाए हुए से') पर रखा गया है। इसमें ऋतुचर्या का वर्णन है और यह स्वस्थचतुष्क का दूसरा अध्याय है। परीक्षा टिप: तस्याशितीय = चरक सूत्रस्थान 6 = ऋतुचर्या; अष्टांगहृदय में इसका समकक्ष सूत्रस्थान 3 (ऋतुचर्या) है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "tasyāśitīya",
+    "ṛtucaryā"
+   ],
+   "tags": [
+    "chapter-opening",
+    "ritucharya"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.2",
+   "word_meanings": [
+    {
+     "sa": "इति",
+     "iast": "iti",
+     "en": "thus",
+     "hi": "इस प्रकार"
+    },
+    {
+     "sa": "ह स्म आह",
+     "iast": "ha sma āha",
+     "en": "so indeed said",
+     "hi": "कहा था"
+    },
+    {
+     "sa": "भगवान्",
+     "iast": "bhagavān",
+     "en": "the venerable",
+     "hi": "भगवान्"
+    },
+    {
+     "sa": "आत्रेयः",
+     "iast": "ātreyaḥ",
+     "en": "Ātreya",
+     "hi": "आत्रेय ने"
+    }
+   ],
+   "english": "Thus said the venerable Ātreya.",
+   "hindi": "ऐसा भगवान् आत्रेय ने कहा।",
+   "explanation_en": "The standard attribution of the teaching to Punarvasu Ātreya, repeated at the start of each chapter.",
+   "explanation_hi": "हर अध्याय के आरम्भ में दोहराया जाने वाला यह वाक्य उपदेश को पुनर्वसु आत्रेय का बताता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "Ātreya"
+   ],
+   "tags": [
+    "chapter-opening"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.3",
+   "word_meanings": [
+    {
+     "sa": "तस्य",
+     "iast": "tasya",
+     "en": "of him",
+     "hi": "उसका"
+    },
+    {
+     "sa": "अशितात्",
+     "iast": "aśitāt",
+     "en": "from what is eaten",
+     "hi": "खाए हुए से"
+    },
+    {
+     "sa": "आद्यात्",
+     "iast": "ādyāt",
+     "en": "from what is to be eaten",
+     "hi": "खाने योग्य से"
+    },
+    {
+     "sa": "आहारात्",
+     "iast": "āhārāt",
+     "en": "from food",
+     "hi": "आहार से"
+    },
+    {
+     "sa": "बलम्",
+     "iast": "balam",
+     "en": "strength",
+     "hi": "बल"
+    },
+    {
+     "sa": "वर्णः",
+     "iast": "varṇaḥ",
+     "en": "complexion",
+     "hi": "वर्ण"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "वर्धते",
+     "iast": "vardhate",
+     "en": "increases",
+     "hi": "बढ़ता है"
+    },
+    {
+     "sa": "यस्य",
+     "iast": "yasya",
+     "en": "of whom",
+     "hi": "जिसको"
+    },
+    {
+     "sa": "ऋतुसात्म्यम्",
+     "iast": "ṛtusātmyam",
+     "en": "what is suitable to each season",
+     "hi": "ऋतुसात्म्य (ऋतु के अनुकूल)"
+    },
+    {
+     "sa": "विदितम्",
+     "iast": "viditam",
+     "en": "is known",
+     "hi": "ज्ञात है"
+    },
+    {
+     "sa": "चेष्टा-आहार-व्यपाश्रयम्",
+     "iast": "ceṣṭā-āhāra-vyapāśrayam",
+     "en": "relating to conduct and diet",
+     "hi": "चेष्टा (आचरण) और आहार से सम्बन्धित"
+    }
+   ],
+   "english": "The strength and complexion of that person increase through the food he eats, who knows what is suitable to each season (ṛtusātmya) with regard to conduct and diet.",
+   "hindi": "जिस व्यक्ति को आचरण और आहार के सम्बन्ध में ऋतुसात्म्य (ऋतु के अनुकूल क्या है) ज्ञात है, उसके खाए हुए आहार से उसका बल और वर्ण बढ़ता है।",
+   "explanation_en": "This opening verse states the purpose of ṛtucaryā: food and behaviour must be adapted to the season (ṛtusātmya) for food to give strength and complexion. Knowledge of the season is therefore essential. Exam tip: 'tasyāśitādyād āhārād balaṃ varṇaś ca vardhate' is a commonly asked opening verse.",
+   "explanation_hi": "यह आरम्भिक श्लोक ऋतुचर्या का प्रयोजन बताता है: आहार से बल और वर्ण बढ़े, इसके लिए आहार और आचरण को ऋतु के अनुसार ढालना (ऋतुसात्म्य) आवश्यक है। इसलिए ऋतु का ज्ञान ज़रूरी है। परीक्षा टिप: 'तस्याशिताद्यादाहाराद्बलं वर्णश्च वर्धते' बहुत पूछा जाने वाला आरम्भिक श्लोक है।",
+   "modern_correlation": {
+    "en": "Seasonal variation is well documented in human physiology, appetite, body weight, immune function and disease patterns; adapting diet and activity to climate is often compared to the idea of ṛtusātmya.",
+    "hi": "मानव शरीर-क्रिया, भूख, शरीर के वज़न, प्रतिरक्षा और रोगों के पैटर्न में मौसमी परिवर्तन भली-भाँति दर्ज हैं; जलवायु के अनुसार आहार और गतिविधि बदलने की तुलना अक्सर ऋतुसात्म्य से की जाती है।"
+   },
+   "key_terms": [
+    "ṛtusātmya",
+    "bala",
+    "varṇa",
+    "ceṣṭā"
+   ],
+   "tags": [
+    "ritucharya",
+    "principle",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.4",
+   "word_meanings": [
+    {
+     "sa": "इह",
+     "iast": "iha",
+     "en": "here",
+     "hi": "यहाँ"
+    },
+    {
+     "sa": "खलु",
+     "iast": "khalu",
+     "en": "indeed",
+     "hi": "निश्चय ही"
+    },
+    {
+     "sa": "संवत्सरम्",
+     "iast": "saṃvatsaram",
+     "en": "the year",
+     "hi": "संवत्सर (वर्ष)"
+    },
+    {
+     "sa": "षडङ्गम्",
+     "iast": "ṣaḍaṅgam",
+     "en": "of six parts",
+     "hi": "छह अंगों वाला"
+    },
+    {
+     "sa": "ऋतु-विभागेन",
+     "iast": "ṛtu-vibhāgena",
+     "en": "by division into seasons",
+     "hi": "ऋतुओं के विभाग से"
+    },
+    {
+     "sa": "विद्यात्",
+     "iast": "vidyāt",
+     "en": "one should know",
+     "hi": "जानना चाहिए"
+    },
+    {
+     "sa": "तत्र",
+     "iast": "tatra",
+     "en": "there",
+     "hi": "उसमें"
+    },
+    {
+     "sa": "आदित्यस्य",
+     "iast": "ādityasya",
+     "en": "of the sun",
+     "hi": "सूर्य का"
+    },
+    {
+     "sa": "उदगयनम्",
+     "iast": "udagayanam",
+     "en": "northward course",
+     "hi": "उत्तरायण"
+    },
+    {
+     "sa": "आदानम्",
+     "iast": "ādānam",
+     "en": "ādāna (taking away period)",
+     "hi": "आदान (शक्ति लेने वाला काल)"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "त्रीन्",
+     "iast": "trīn",
+     "en": "three",
+     "hi": "तीन"
+    },
+    {
+     "sa": "ऋतून्",
+     "iast": "ṛtūn",
+     "en": "seasons",
+     "hi": "ऋतुओं को"
+    },
+    {
+     "sa": "शिशिर-आदीन्",
+     "iast": "śiśira-ādīn",
+     "en": "beginning with śiśira",
+     "hi": "शिशिर से आरम्भ होने वाली"
+    },
+    {
+     "sa": "ग्रीष्म-अन्तान्",
+     "iast": "grīṣma-antān",
+     "en": "ending with grīṣma",
+     "hi": "ग्रीष्म पर समाप्त होने वाली"
+    },
+    {
+     "sa": "व्यवस्येत्",
+     "iast": "vyavasyet",
+     "en": "should know",
+     "hi": "समझे"
+    },
+    {
+     "sa": "वर्षा-आदीन्",
+     "iast": "varṣā-ādīn",
+     "en": "beginning with varṣā",
+     "hi": "वर्षा से आरम्भ होने वाली"
+    },
+    {
+     "sa": "पुनः",
+     "iast": "punaḥ",
+     "en": "again",
+     "hi": "फिर"
+    },
+    {
+     "sa": "हेमन्त-अन्तान्",
+     "iast": "hemanta-antān",
+     "en": "ending with hemanta",
+     "hi": "हेमन्त पर समाप्त होने वाली"
+    },
+    {
+     "sa": "दक्षिणायनम्",
+     "iast": "dakṣiṇāyanam",
+     "en": "southward course",
+     "hi": "दक्षिणायन"
+    },
+    {
+     "sa": "विसर्गम्",
+     "iast": "visargam",
+     "en": "visarga (giving period)",
+     "hi": "विसर्ग (शक्ति देने वाला काल)"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    }
+   ],
+   "english": "Here the year should be known as having six parts by the division of seasons. Of these, the northward course of the sun (uttarāyaṇa) is ādāna, comprising the three seasons from śiśira to grīṣma; and the three seasons from varṣā to hemanta are the southward course (dakṣiṇāyana), visarga.",
+   "hindi": "यहाँ वर्ष को ऋतु-विभाग से छह अंगों वाला जानना चाहिए। उनमें सूर्य का उत्तरायण आदान काल है, जिसमें शिशिर से ग्रीष्म तक तीन ऋतुएँ हैं; और वर्षा से हेमन्त तक तीन ऋतुएँ दक्षिणायन, अर्थात् विसर्ग काल हैं।",
+   "explanation_en": "The year (saṃvatsara) has six seasons in two halves. Ādāna (uttarāyaṇa): śiśira (late winter), vasanta (spring), grīṣma (summer). Visarga (dakṣiṇāyana): varṣā (rains), śarad (autumn), hemanta (early winter). Ādāna 'takes away' strength from beings; visarga 'gives' it. Exam tip: this division is one of the most frequently asked topics in svasthavṛtta.",
+   "explanation_hi": "वर्ष (संवत्सर) में दो भागों में छह ऋतुएँ हैं। आदान (उत्तरायण): शिशिर, वसन्त, ग्रीष्म। विसर्ग (दक्षिणायन): वर्षा, शरद्, हेमन्त। आदान प्राणियों का बल 'लेता' है; विसर्ग 'देता' है। परीक्षा टिप: यह विभाजन स्वस्थवृत्त के सबसे अधिक पूछे जाने वाले विषयों में से है।",
+   "modern_correlation": {
+    "en": "The ādāna/visarga division tracks the sun's apparent northward and southward movement, which in the Indian subcontinent corresponds to rising heat and dryness (late winter to summer) versus rains and cooling (monsoon to early winter).",
+    "hi": "आदान/विसर्ग विभाजन सूर्य की आभासी उत्तर और दक्षिण गति के अनुसार है, जो भारतीय उपमहाद्वीप में बढ़ती गर्मी और शुष्कता (शीत के अन्त से ग्रीष्म तक) और वर्षा व ठण्डक (मानसून से शीत के आरम्भ तक) से मेल खाता है।"
+   },
+   "key_terms": [
+    "saṃvatsara",
+    "ṛtu",
+    "ādānakāla",
+    "visargakāla",
+    "uttarāyaṇa",
+    "dakṣiṇāyana"
+   ],
+   "tags": [
+    "ritucharya",
+    "adana-visarga",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Ādāna = 'SVG' (Śiśira-Vasanta-Grīṣma); Visarga = 'VSH' (Varṣā-Śarad-Hemanta)",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.5",
+   "word_meanings": [
+    {
+     "sa": "विसर्गे",
+     "iast": "visarge",
+     "en": "in visarga",
+     "hi": "विसर्ग में"
+    },
+    {
+     "sa": "पुनः",
+     "iast": "punaḥ",
+     "en": "but",
+     "hi": "परन्तु"
+    },
+    {
+     "sa": "वायवः",
+     "iast": "vāyavaḥ",
+     "en": "winds",
+     "hi": "वायु"
+    },
+    {
+     "sa": "न अतिरूक्षाः",
+     "iast": "na atirūkṣāḥ",
+     "en": "not very dry",
+     "hi": "अधिक रूक्ष नहीं"
+    },
+    {
+     "sa": "प्रवान्ति",
+     "iast": "pravānti",
+     "en": "blow",
+     "hi": "बहती हैं"
+    },
+    {
+     "sa": "इतरे",
+     "iast": "itare",
+     "en": "the others (dry winds)",
+     "hi": "अन्य (रूक्ष वायु)"
+    },
+    {
+     "sa": "पुनः",
+     "iast": "punaḥ",
+     "en": "but",
+     "hi": "परन्तु"
+    },
+    {
+     "sa": "आदाने",
+     "iast": "ādāne",
+     "en": "in ādāna",
+     "hi": "आदान में"
+    },
+    {
+     "sa": "सोमः",
+     "iast": "somaḥ",
+     "en": "the moon",
+     "hi": "सोम (चन्द्रमा)"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "अव्याहत-बलः",
+     "iast": "avyāhata-balaḥ",
+     "en": "with unobstructed strength",
+     "hi": "अबाधित बल वाला"
+    },
+    {
+     "sa": "शिशिराभिः",
+     "iast": "śiśirābhiḥ",
+     "en": "with cool",
+     "hi": "शीतल"
+    },
+    {
+     "sa": "भाभिः",
+     "iast": "bhābhiḥ",
+     "en": "rays",
+     "hi": "किरणों से"
+    },
+    {
+     "sa": "आपूरयन्",
+     "iast": "āpūrayan",
+     "en": "filling",
+     "hi": "भरता हुआ"
+    },
+    {
+     "sa": "जगत्",
+     "iast": "jagat",
+     "en": "the world",
+     "hi": "जगत् को"
+    },
+    {
+     "sa": "आप्याययति",
+     "iast": "āpyāyayati",
+     "en": "nourishes",
+     "hi": "पोषित करता है"
+    },
+    {
+     "sa": "शश्वत्",
+     "iast": "śaśvat",
+     "en": "constantly",
+     "hi": "निरन्तर"
+    },
+    {
+     "sa": "अतः",
+     "iast": "ataḥ",
+     "en": "therefore",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "विसर्गः",
+     "iast": "visargaḥ",
+     "en": "visarga",
+     "hi": "विसर्ग"
+    },
+    {
+     "sa": "सौम्यः",
+     "iast": "saumyaḥ",
+     "en": "cool, of soma nature",
+     "hi": "सौम्य"
+    },
+    {
+     "sa": "आदानम्",
+     "iast": "ādānam",
+     "en": "ādāna",
+     "hi": "आदान"
+    },
+    {
+     "sa": "पुनः",
+     "iast": "punaḥ",
+     "en": "but",
+     "hi": "परन्तु"
+    },
+    {
+     "sa": "आग्नेयम्",
+     "iast": "āgneyam",
+     "en": "hot, of fire nature",
+     "hi": "आग्नेय"
+    },
+    {
+     "sa": "तौ एतौ",
+     "iast": "tau etau",
+     "en": "these two",
+     "hi": "ये दोनों"
+    },
+    {
+     "sa": "अर्क-वायू",
+     "iast": "arka-vāyū",
+     "en": "sun and wind",
+     "hi": "सूर्य और वायु"
+    },
+    {
+     "sa": "सोमः",
+     "iast": "somaḥ",
+     "en": "moon",
+     "hi": "चन्द्रमा"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "काल-स्वभाव-मार्ग-परिगृहीताः",
+     "iast": "kāla-svabhāva-mārga-parigṛhītāḥ",
+     "en": "governed by time, nature and path",
+     "hi": "काल, स्वभाव और मार्ग के अधीन"
+    },
+    {
+     "sa": "काल-ऋतु-रस-दोष-देह-बल-निर्वृत्ति-प्रत्ययाः",
+     "iast": "kāla-ṛtu-rasa-doṣa-deha-bala-nirvṛtti-pratyayāḥ",
+     "en": "causes for the manifestation of time, season, taste, doṣa and bodily strength",
+     "hi": "काल, ऋतु, रस, दोष और देह-बल की उत्पत्ति के कारण"
+    },
+    {
+     "sa": "समुपदिश्यन्ते",
+     "iast": "samupadiśyante",
+     "en": "are described",
+     "hi": "कहे जाते हैं"
+    }
+   ],
+   "english": "In visarga the winds that blow are not very dry, whereas in ādāna they are (dry). In visarga the moon, with unobstructed strength, constantly fills and nourishes the world with its cool rays; hence visarga is saumya (cool, soma-like) and ādāna is āgneya (hot, fire-like). The sun, wind and moon, governed by time, their nature and their path, are described as the causes of the manifestation of time, seasons, tastes, doṣas and bodily strength.",
+   "hindi": "विसर्ग में बहने वाली वायु अधिक रूक्ष नहीं होती, जबकि आदान में (रूक्ष) होती है। विसर्ग में चन्द्रमा अबाधित बल से अपनी शीतल किरणों द्वारा जगत् को निरन्तर भरता और पोषित करता है; इसलिए विसर्ग सौम्य है और आदान आग्नेय। काल, स्वभाव और मार्ग के अधीन सूर्य, वायु और चन्द्रमा - काल, ऋतु, रस, दोष और देह-बल की उत्पत्ति के कारण कहे गए हैं।",
+   "explanation_en": "Visarga is saumya (cool, moist, nourishing; moon-dominant) and ādāna is āgneya (hot, dry; sun-dominant). The three cosmic forces - sun (arka), wind (vāyu) and moon (soma) - correspond to pitta, vāta and kapha and are said to cause seasonal changes in rasa, doṣa and strength. Exam tip: 'visargaḥ saumyaḥ, ādānam āgneyam' is a key definition.",
+   "explanation_hi": "विसर्ग सौम्य (शीतल, स्निग्ध, पोषक; चन्द्र-प्रधान) है और आदान आग्नेय (उष्ण, रूक्ष; सूर्य-प्रधान)। तीन ब्रह्माण्डीय शक्तियाँ - सूर्य, वायु और सोम - पित्त, वात और कफ से मेल खाती हैं और रस, दोष और बल में ऋतु-अनुसार परिवर्तन का कारण कही गई हैं। परीक्षा टिप: 'विसर्गः सौम्यः, आदानमाग्नेयम्' मुख्य परिभाषा है।",
+   "modern_correlation": {
+    "en": "Seasonal changes in solar radiation, temperature, humidity and wind affect plant composition and human physiology (thermoregulation, hydration, appetite). This broadly parallels the classical idea that sun, wind and moon govern seasonal qualities, though the lunar role is a classical concept.",
+    "hi": "सौर विकिरण, तापमान, नमी और हवा में मौसमी परिवर्तन पौधों की संरचना और मानव शरीर-क्रिया (ताप-नियन्त्रण, जल-सन्तुलन, भूख) को प्रभावित करते हैं। यह मोटे तौर पर इस शास्त्रीय विचार के समान है कि सूर्य, वायु और चन्द्रमा ऋतुओं के गुणों को नियन्त्रित करते हैं, यद्यपि चन्द्रमा की भूमिका एक शास्त्रीय अवधारणा है।"
+   },
+   "key_terms": [
+    "saumya",
+    "āgneya",
+    "arka",
+    "vāyu",
+    "soma"
+   ],
+   "tags": [
+    "ritucharya",
+    "adana-visarga",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Visarga = Soma (cool); Ādāna = Agni (hot)",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.6",
+   "word_meanings": [
+    {
+     "sa": "तत्र",
+     "iast": "tatra",
+     "en": "there (in ādāna)",
+     "hi": "उसमें (आदान में)"
+    },
+    {
+     "sa": "रविः",
+     "iast": "raviḥ",
+     "en": "the sun",
+     "hi": "सूर्य"
+    },
+    {
+     "sa": "भाभिः",
+     "iast": "bhābhiḥ",
+     "en": "by its rays",
+     "hi": "किरणों से"
+    },
+    {
+     "sa": "आददानः",
+     "iast": "ādadānaḥ",
+     "en": "taking away",
+     "hi": "लेता हुआ"
+    },
+    {
+     "sa": "जगतः",
+     "iast": "jagataḥ",
+     "en": "of the world",
+     "hi": "जगत् का"
+    },
+    {
+     "sa": "स्नेहम्",
+     "iast": "sneham",
+     "en": "moisture, unctuousness",
+     "hi": "स्नेह (नमी)"
+    },
+    {
+     "sa": "वायवः",
+     "iast": "vāyavaḥ",
+     "en": "winds",
+     "hi": "वायु"
+    },
+    {
+     "sa": "तीव्र-रूक्षाः",
+     "iast": "tīvra-rūkṣāḥ",
+     "en": "strong and dry",
+     "hi": "तीव्र और रूक्ष"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "उपशोषयन्तः",
+     "iast": "upaśoṣayantaḥ",
+     "en": "drying up",
+     "hi": "सुखाती हुई"
+    },
+    {
+     "sa": "शिशिर-वसन्त-ग्रीष्मेषु",
+     "iast": "śiśira-vasanta-grīṣmeṣu",
+     "en": "in śiśira, vasanta and grīṣma",
+     "hi": "शिशिर, वसन्त और ग्रीष्म में"
+    },
+    {
+     "sa": "यथाक्रमम्",
+     "iast": "yathākramam",
+     "en": "respectively",
+     "hi": "क्रमशः"
+    },
+    {
+     "sa": "रौक्ष्यम्",
+     "iast": "raukṣyam",
+     "en": "dryness",
+     "hi": "रूक्षता"
+    },
+    {
+     "sa": "उत्पादयन्तः",
+     "iast": "utpādayantaḥ",
+     "en": "producing",
+     "hi": "उत्पन्न करते हुए"
+    },
+    {
+     "sa": "रूक्षान्",
+     "iast": "rūkṣān",
+     "en": "dry",
+     "hi": "रूक्ष"
+    },
+    {
+     "sa": "रसान्",
+     "iast": "rasān",
+     "en": "tastes",
+     "hi": "रसों को"
+    },
+    {
+     "sa": "तिक्त-कषाय-कटुकान्",
+     "iast": "tikta-kaṣāya-kaṭukān",
+     "en": "bitter, astringent and pungent",
+     "hi": "तिक्त, कषाय और कटु"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "अभिवर्धयन्तः",
+     "iast": "abhivardhayantaḥ",
+     "en": "increasing",
+     "hi": "बढ़ाते हुए"
+    },
+    {
+     "sa": "नृणाम्",
+     "iast": "nṛṇām",
+     "en": "of human beings",
+     "hi": "मनुष्यों में"
+    },
+    {
+     "sa": "दौर्बल्यम्",
+     "iast": "daurbalyam",
+     "en": "weakness",
+     "hi": "दुर्बलता"
+    },
+    {
+     "sa": "आवहन्ति",
+     "iast": "āvahanti",
+     "en": "bring about",
+     "hi": "लाते हैं"
+    }
+   ],
+   "english": "In ādāna, the sun, taking away the moisture of the world by its rays, and the strong dry winds, drying it up, produce dryness in śiśira, vasanta and grīṣma and increase the dry tastes - bitter, astringent and pungent - respectively, and thus bring about weakness in human beings.",
+   "hindi": "आदान में सूर्य अपनी किरणों से जगत् का स्नेह (नमी) लेता है, और तीव्र रूक्ष वायु उसे सुखाती है; इस प्रकार वे शिशिर, वसन्त और ग्रीष्म में रूक्षता उत्पन्न करते हैं और क्रमशः रूक्ष रसों - तिक्त, कषाय और कटु - को बढ़ाते हैं, और मनुष्यों में दुर्बलता लाते हैं।",
+   "explanation_en": "In ādāna kāla, the dominant tastes of the seasons are: śiśira - tikta (bitter), vasanta - kaṣāya (astringent), grīṣma - kaṭu (pungent). These are rūkṣa (drying) tastes, so strength progressively declines. Exam tip: 'śiśira-tikta, vasanta-kaṣāya, grīṣma-kaṭu' is a classic MCQ.",
+   "explanation_hi": "आदान काल में ऋतुओं के प्रधान रस: शिशिर - तिक्त, वसन्त - कषाय, ग्रीष्म - कटु। ये रूक्ष रस हैं, इसलिए बल क्रमशः घटता है। परीक्षा टिप: 'शिशिर-तिक्त, वसन्त-कषाय, ग्रीष्म-कटु' क्लासिक MCQ है।",
+   "modern_correlation": {
+    "en": "Rising heat and dry winds increase evaporative water loss and can reduce appetite and physical work capacity, which is often compared to the classical idea of declining strength in ādāna.",
+    "hi": "बढ़ती गर्मी और शुष्क हवाएँ वाष्पीकरण द्वारा जल-हानि बढ़ाती हैं और भूख व शारीरिक कार्य-क्षमता घटा सकती हैं, जिसकी तुलना अक्सर आदान में बल के घटने के शास्त्रीय विचार से की जाती है।"
+   },
+   "key_terms": [
+    "ādānakāla",
+    "tikta",
+    "kaṣāya",
+    "kaṭu",
+    "daurbalya"
+   ],
+   "tags": [
+    "ritucharya",
+    "adana-visarga",
+    "rasa",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Ādāna rasas 'T-K-K' = Tikta, Kaṣāya, Kaṭu (Śiśira, Vasanta, Grīṣma)",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.7",
+   "word_meanings": [
+    {
+     "sa": "वर्षा-शरद्-हेमन्तेषु",
+     "iast": "varṣā-śarad-hemanteṣu",
+     "en": "in varṣā, śarad and hemanta",
+     "hi": "वर्षा, शरद् और हेमन्त में"
+    },
+    {
+     "sa": "दक्षिण-अभिमुखे",
+     "iast": "dakṣiṇa-abhimukhe",
+     "en": "facing south",
+     "hi": "दक्षिण की ओर"
+    },
+    {
+     "sa": "अर्के",
+     "iast": "arke",
+     "en": "when the sun",
+     "hi": "सूर्य के होने पर"
+    },
+    {
+     "sa": "काल-मार्ग-मेघ-वात-वर्ष-अभिहत-प्रतापे",
+     "iast": "kāla-mārga-megha-vāta-varṣa-abhihata-pratāpe",
+     "en": "whose heat is checked by time, path, clouds, wind and rain",
+     "hi": "जिसका ताप काल, मार्ग, मेघ, वायु और वर्षा से कम हो गया हो"
+    },
+    {
+     "sa": "शशिनि",
+     "iast": "śaśini",
+     "en": "when the moon",
+     "hi": "चन्द्रमा के"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "अव्याहत-बले",
+     "iast": "avyāhata-bale",
+     "en": "with unobstructed strength",
+     "hi": "अबाधित बल वाला"
+    },
+    {
+     "sa": "माहेन्द्र-सलिल-प्रशान्त-संतापे",
+     "iast": "māhendra-salila-praśānta-saṃtāpe",
+     "en": "with heat calmed by rain water",
+     "hi": "वर्षा-जल से जिसका ताप शान्त हो गया हो"
+    },
+    {
+     "sa": "जगति",
+     "iast": "jagati",
+     "en": "the world",
+     "hi": "जगत्"
+    },
+    {
+     "sa": "अरूक्षाः",
+     "iast": "arūkṣāḥ",
+     "en": "unctuous (non-dry)",
+     "hi": "अरूक्ष (स्निग्ध)"
+    },
+    {
+     "sa": "रसाः",
+     "iast": "rasāḥ",
+     "en": "tastes",
+     "hi": "रस"
+    },
+    {
+     "sa": "प्रवर्धन्ते",
+     "iast": "pravardhante",
+     "en": "increase",
+     "hi": "बढ़ते हैं"
+    },
+    {
+     "sa": "अम्ल-लवण-मधुराः",
+     "iast": "amla-lavaṇa-madhurāḥ",
+     "en": "sour, salty and sweet",
+     "hi": "अम्ल, लवण और मधुर"
+    },
+    {
+     "sa": "यथाक्रमम्",
+     "iast": "yathākramam",
+     "en": "respectively",
+     "hi": "क्रमशः"
+    },
+    {
+     "sa": "तत्र",
+     "iast": "tatra",
+     "en": "then",
+     "hi": "तब"
+    },
+    {
+     "sa": "बलम्",
+     "iast": "balam",
+     "en": "strength",
+     "hi": "बल"
+    },
+    {
+     "sa": "उपचीयते",
+     "iast": "upacīyate",
+     "en": "increases",
+     "hi": "बढ़ता है"
+    },
+    {
+     "sa": "नृणाम्",
+     "iast": "nṛṇām",
+     "en": "of human beings",
+     "hi": "मनुष्यों का"
+    },
+    {
+     "sa": "इति",
+     "iast": "iti",
+     "en": "thus",
+     "hi": "इति"
+    }
+   ],
+   "english": "In varṣā, śarad and hemanta, when the sun moves south and its heat is checked by time, its path, clouds, wind and rain, when the moon has unobstructed strength, and when the world's heat is calmed by rain water, the unctuous tastes - sour, salty and sweet - increase respectively, and the strength of human beings increases.",
+   "hindi": "वर्षा, शरद् और हेमन्त में, जब सूर्य दक्षिण की ओर होता है और उसका ताप काल, मार्ग, मेघ, वायु और वर्षा से कम हो जाता है, जब चन्द्रमा का बल अबाधित होता है, और जगत् का ताप वर्षा-जल से शान्त हो जाता है, तब स्निग्ध रस - अम्ल, लवण और मधुर - क्रमशः बढ़ते हैं, और मनुष्यों का बल बढ़ता है।",
+   "explanation_en": "In visarga kāla, the dominant tastes are: varṣā - amla (sour), śarad - lavaṇa (salty), hemanta - madhura (sweet). These are unctuous, nourishing tastes, so strength progressively increases. Exam tip: 'varṣā-amla, śarad-lavaṇa, hemanta-madhura'; combined with 6.6 you have the taste of all six seasons.",
+   "explanation_hi": "विसर्ग काल में प्रधान रस: वर्षा - अम्ल, शरद् - लवण, हेमन्त - मधुर। ये स्निग्ध, पोषक रस हैं, इसलिए बल क्रमशः बढ़ता है। परीक्षा टिप: 'वर्षा-अम्ल, शरद्-लवण, हेमन्त-मधुर'; 6.6 के साथ मिलाकर छहों ऋतुओं के रस याद हो जाते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "visargakāla",
+    "amla",
+    "lavaṇa",
+    "madhura",
+    "bala"
+   ],
+   "tags": [
+    "ritucharya",
+    "adana-visarga",
+    "rasa",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Visarga rasas 'A-L-M' = Amla, Lavaṇa, Madhura (Varṣā, Śarad, Hemanta)",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.8",
+   "word_meanings": [
+    {
+     "sa": "भवति च अत्र",
+     "iast": "bhavati ca atra",
+     "en": "and here is (a verse)",
+     "hi": "यहाँ (श्लोक) है"
+    },
+    {
+     "sa": "आदौ",
+     "iast": "ādau",
+     "en": "at the beginning",
+     "hi": "आरम्भ में"
+    },
+    {
+     "sa": "अन्ते",
+     "iast": "ante",
+     "en": "at the end",
+     "hi": "अन्त में"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "दौर्बल्यम्",
+     "iast": "daurbalyam",
+     "en": "weakness",
+     "hi": "दुर्बलता"
+    },
+    {
+     "sa": "विसर्ग-आदानयोः",
+     "iast": "visarga-ādānayoḥ",
+     "en": "of visarga and ādāna",
+     "hi": "विसर्ग और आदान के"
+    },
+    {
+     "sa": "नॄणाम्",
+     "iast": "nṝṇām",
+     "en": "of human beings",
+     "hi": "मनुष्यों की"
+    },
+    {
+     "sa": "मध्ये",
+     "iast": "madhye",
+     "en": "in the middle",
+     "hi": "मध्य में"
+    },
+    {
+     "sa": "मध्य-बलम्",
+     "iast": "madhya-balam",
+     "en": "moderate strength",
+     "hi": "मध्यम बल"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "तो"
+    },
+    {
+     "sa": "अन्ते",
+     "iast": "ante",
+     "en": "at the end (of visarga)",
+     "hi": "अन्त में (विसर्ग के)"
+    },
+    {
+     "sa": "श्रेष्ठम्",
+     "iast": "śreṣṭham",
+     "en": "best (strength)",
+     "hi": "श्रेष्ठ (बल)"
+    },
+    {
+     "sa": "अग्रे",
+     "iast": "agre",
+     "en": "at the beginning (of ādāna)",
+     "hi": "आरम्भ में (आदान के)"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "निर्दिशेत्",
+     "iast": "nirdiśet",
+     "en": "one should declare",
+     "hi": "बताना चाहिए"
+    }
+   ],
+   "english": "Here is a verse: Human beings have weakness at the beginning of visarga and at the end of ādāna; moderate strength in the middle (of both); and the best strength at the end of visarga and the beginning of ādāna.",
+   "hindi": "यहाँ एक श्लोक है: विसर्ग के आरम्भ में और आदान के अन्त में मनुष्यों में दुर्बलता होती है; (दोनों के) मध्य में मध्यम बल; और विसर्ग के अन्त तथा आदान के आरम्भ में श्रेष्ठ बल होता है।",
+   "explanation_en": "Strength across seasons: weakest - varṣā (start of visarga) and grīṣma (end of ādāna); moderate - śarad and vasanta; strongest - hemanta (end of visarga) and śiśira (start of ādāna). Exam tip: this 'bala in ṛtus' table is asked almost every year.",
+   "explanation_hi": "ऋतुओं में बल: सबसे दुर्बल - वर्षा (विसर्ग का आरम्भ) और ग्रीष्म (आदान का अन्त); मध्यम - शरद् और वसन्त; सबसे बलवान - हेमन्त (विसर्ग का अन्त) और शिशिर (आदान का आरम्भ)। परीक्षा टिप: 'ऋतुओं में बल' की यह तालिका लगभग हर वर्ष पूछी जाती है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "ṛtu bala",
+    "daurbalya",
+    "madhyabala",
+    "śreṣṭhabala"
+   ],
+   "tags": [
+    "ritucharya",
+    "bala",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Strength: Weak = Varṣā & Grīṣma; Medium = Śarad & Vasanta; Strong = Hemanta & Śiśira",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.9",
+   "word_meanings": [
+    {
+     "sa": "शीते",
+     "iast": "śīte",
+     "en": "in cold (season)",
+     "hi": "शीत (ऋतु) में"
+    },
+    {
+     "sa": "शीत-अनिल-स्पर्श-संरुद्धः",
+     "iast": "śīta-anila-sparśa-saṃruddhaḥ",
+     "en": "confined by contact with cold wind",
+     "hi": "ठण्डी हवा के स्पर्श से रुका (अवरुद्ध) हुआ"
+    },
+    {
+     "sa": "बलिनाम्",
+     "iast": "balinām",
+     "en": "of the strong",
+     "hi": "बलवानों का"
+    },
+    {
+     "sa": "बली",
+     "iast": "balī",
+     "en": "strong",
+     "hi": "बलवान"
+    },
+    {
+     "sa": "पक्ता",
+     "iast": "paktā",
+     "en": "the digestive fire",
+     "hi": "पाचक अग्नि"
+    },
+    {
+     "sa": "भवति",
+     "iast": "bhavati",
+     "en": "becomes",
+     "hi": "होती है"
+    },
+    {
+     "sa": "हेमन्ते",
+     "iast": "hemante",
+     "en": "in hemanta",
+     "hi": "हेमन्त में"
+    },
+    {
+     "sa": "मात्रा-द्रव्य-गुरु-क्षमः",
+     "iast": "mātrā-dravya-guru-kṣamaḥ",
+     "en": "capable of (digesting) large quantity and heavy substances",
+     "hi": "अधिक मात्रा और गुरु द्रव्य (पचाने) में समर्थ"
+    }
+   ],
+   "english": "In the cold season (hemanta), the digestive fire of strong people, confined (within the body) by contact with cold wind, becomes powerful and capable of digesting large quantities and heavy foods.",
+   "hindi": "शीत ऋतु (हेमन्त) में बलवान लोगों की पाचक अग्नि, ठण्डी हवा के स्पर्श से (शरीर के भीतर) अवरुद्ध होकर, प्रबल हो जाती है और अधिक मात्रा तथा गुरु द्रव्यों को पचाने में समर्थ होती है।",
+   "explanation_en": "In hemanta, cold air on the skin is thought to 'confine' internal heat, so agni becomes strong (this is called antarvega or the principle of confined heat). Hence one can and should eat heavier, nourishing food. Exam tip: 'agni is strongest in hemanta' is a key MCQ; the reason is śītānilasparśa-saṃrodha.",
+   "explanation_hi": "हेमन्त में त्वचा पर ठण्डी हवा आन्तरिक ऊष्मा को 'रोक' देती मानी जाती है, जिससे अग्नि प्रबल हो जाती है। इसलिए गुरु, पोषक भोजन किया जा सकता है और करना चाहिए। परीक्षा टिप: 'हेमन्त में अग्नि सबसे प्रबल होती है' मुख्य MCQ है; कारण है शीतानिलस्पर्श से अवरोध।",
+   "modern_correlation": {
+    "en": "In cold environments, the body conserves core heat by constricting skin blood vessels and increases heat production, and appetite and energy intake often rise in winter. This is often compared to the classical idea of strong agni in hemanta.",
+    "hi": "ठण्डे वातावरण में शरीर त्वचा की रक्त-वाहिकाओं को संकुचित करके आन्तरिक ऊष्मा बचाता है और ऊष्मा-उत्पादन बढ़ाता है, और सर्दियों में भूख व ऊर्जा-सेवन प्रायः बढ़ जाता है। इसकी तुलना अक्सर हेमन्त में प्रबल अग्नि के शास्त्रीय विचार से की जाती है।"
+   },
+   "key_terms": [
+    "hemanta",
+    "agnibala",
+    "paktā"
+   ],
+   "tags": [
+    "ritucharya",
+    "hemanta",
+    "agni",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.10",
+   "word_meanings": [
+    {
+     "sa": "सः",
+     "iast": "saḥ",
+     "en": "that (agni)",
+     "hi": "वह (अग्नि)"
+    },
+    {
+     "sa": "यदा",
+     "iast": "yadā",
+     "en": "when",
+     "hi": "जब"
+    },
+    {
+     "sa": "न इन्धनम्",
+     "iast": "na indhanam",
+     "en": "no fuel",
+     "hi": "ईंधन नहीं"
+    },
+    {
+     "sa": "युक्तम्",
+     "iast": "yuktam",
+     "en": "suitable",
+     "hi": "उचित"
+    },
+    {
+     "sa": "लभते",
+     "iast": "labhate",
+     "en": "gets",
+     "hi": "पाती है"
+    },
+    {
+     "sa": "देह-जम्",
+     "iast": "deha-jam",
+     "en": "born of the body",
+     "hi": "शरीर से उत्पन्न"
+    },
+    {
+     "sa": "तदा",
+     "iast": "tadā",
+     "en": "then",
+     "hi": "तब"
+    },
+    {
+     "sa": "रसम्",
+     "iast": "rasam",
+     "en": "rasa (first dhātu)",
+     "hi": "रस (धातु) को"
+    },
+    {
+     "sa": "हिनस्ति",
+     "iast": "hinasti",
+     "en": "consumes",
+     "hi": "नष्ट करती है"
+    },
+    {
+     "sa": "अतः",
+     "iast": "ataḥ",
+     "en": "therefore",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "वायुः",
+     "iast": "vāyuḥ",
+     "en": "vāta",
+     "hi": "वायु"
+    },
+    {
+     "sa": "शीतः",
+     "iast": "śītaḥ",
+     "en": "cold",
+     "hi": "शीत"
+    },
+    {
+     "sa": "शीते",
+     "iast": "śīte",
+     "en": "in the cold (season)",
+     "hi": "शीत ऋतु में"
+    },
+    {
+     "sa": "प्रकुप्यति",
+     "iast": "prakupyati",
+     "en": "gets aggravated",
+     "hi": "प्रकुपित होती है"
+    }
+   ],
+   "english": "When that (agni) does not get suitable fuel (food), it consumes the body-born rasa (dhātu); therefore cold vāta becomes aggravated in the cold season.",
+   "hindi": "जब उस (अग्नि) को उचित ईंधन (भोजन) नहीं मिलता, तब वह शरीर में उत्पन्न रस (धातु) को नष्ट करती है; इसलिए शीत ऋतु में शीत गुण वाली वायु प्रकुपित होती है।",
+   "explanation_en": "If a strong agni in winter is not given enough nourishing food, it 'burns' the body's own rasa dhātu, causing depletion and aggravation of vāta (which is also cold, like the season). This is why fasting or scanty diet is harmful in hemanta. Exam tip: links with 6.18, which forbids pramitāhāra (scanty diet) in winter.",
+   "explanation_hi": "यदि सर्दी में प्रबल अग्नि को पर्याप्त पोषक भोजन न मिले, तो वह शरीर के अपने रस धातु को 'जलाती' है, जिससे क्षय और वात का प्रकोप होता है (वात भी ऋतु की तरह शीत है)। इसीलिए हेमन्त में उपवास या अल्प आहार हानिकारक है। परीक्षा टिप: इसे 6.18 से जोड़ें, जहाँ सर्दी में प्रमिताहार (कम भोजन) का निषेध है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "rasadhātu",
+    "vātaprakopa",
+    "indhana"
+   ],
+   "tags": [
+    "ritucharya",
+    "hemanta",
+    "agni",
+    "vata"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.11",
+   "word_meanings": [
+    {
+     "sa": "तस्मात्",
+     "iast": "tasmāt",
+     "en": "therefore",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "तुषार-समये",
+     "iast": "tuṣāra-samaye",
+     "en": "in the season of frost (hemanta)",
+     "hi": "तुषार (पाले) के समय में"
+    },
+    {
+     "sa": "स्निग्ध-अम्ल-लवणान्",
+     "iast": "snigdha-amla-lavaṇān",
+     "en": "unctuous, sour and salty",
+     "hi": "स्निग्ध, अम्ल और लवण"
+    },
+    {
+     "sa": "रसान्",
+     "iast": "rasān",
+     "en": "tastes (foods)",
+     "hi": "रसों का"
+    },
+    {
+     "sa": "औदक-आनूप-मांसानाम्",
+     "iast": "audaka-ānūpa-māṃsānām",
+     "en": "of the meats of aquatic and marshy animals",
+     "hi": "औदक और आनूप मांस के"
+    },
+    {
+     "sa": "मेद्यानाम्",
+     "iast": "medyānām",
+     "en": "fatty",
+     "hi": "मेदयुक्त (चर्बीदार)"
+    },
+    {
+     "sa": "उपयोजयेत्",
+     "iast": "upayojayet",
+     "en": "should use",
+     "hi": "प्रयोग करे"
+    }
+   ],
+   "english": "Therefore, in the season of frost (hemanta), one should use unctuous, sour and salty foods, and the fatty meats of aquatic and marshy-land animals.",
+   "hindi": "इसलिए तुषार-काल (हेमन्त) में स्निग्ध, अम्ल और लवण रस वाले आहार, तथा औदक और आनूप प्राणियों के चर्बीदार मांस का प्रयोग करना चाहिए।",
+   "explanation_en": "Hemanta diet begins: unctuous, sour and salty tastes (which pacify vāta) and fatty, heavy meats that feed the strong agni. Exam tip: in hemanta the recommended rasas are snigdha + amla + lavaṇa (also madhura per other texts).",
+   "explanation_hi": "हेमन्त का आहार शुरू होता है: स्निग्ध, अम्ल और लवण रस (जो वात को शान्त करते हैं) और चर्बीदार, गुरु मांस जो प्रबल अग्नि को पोषण देते हैं। परीक्षा टिप: हेमन्त में अनुशंसित रस स्निग्ध + अम्ल + लवण हैं (अन्य ग्रन्थों में मधुर भी)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "hemanta āhāra",
+    "snigdha",
+    "amla",
+    "lavaṇa",
+    "audaka",
+    "ānūpa"
+   ],
+   "tags": [
+    "ritucharya",
+    "hemanta",
+    "diet"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.12",
+   "word_meanings": [
+    {
+     "sa": "बिलेशयानाम्",
+     "iast": "bileśayānām",
+     "en": "of burrow-dwelling animals",
+     "hi": "बिलेशय (बिल में रहने वाले) प्राणियों के"
+    },
+    {
+     "sa": "मांसानि",
+     "iast": "māṃsāni",
+     "en": "meats",
+     "hi": "मांस"
+    },
+    {
+     "sa": "प्रसहानाम्",
+     "iast": "prasahānām",
+     "en": "of prasaha animals (that seize prey)",
+     "hi": "प्रसह (झपटकर खाने वाले) प्राणियों के"
+    },
+    {
+     "sa": "भृतानि",
+     "iast": "bhṛtāni",
+     "en": "roasted",
+     "hi": "भुने हुए"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "भक्षयेत्",
+     "iast": "bhakṣayet",
+     "en": "should eat",
+     "hi": "खाए"
+    },
+    {
+     "sa": "मदिराम्",
+     "iast": "madirām",
+     "en": "madirā (a kind of wine)",
+     "hi": "मदिरा"
+    },
+    {
+     "sa": "सीधुम्",
+     "iast": "sīdhum",
+     "en": "sīdhu (fermented sugarcane drink)",
+     "hi": "सीधु"
+    },
+    {
+     "sa": "मधु",
+     "iast": "madhu",
+     "en": "madhu (honey-wine / honey)",
+     "hi": "मधु"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "अनुपिबेत्",
+     "iast": "anupibet",
+     "en": "should drink afterwards",
+     "hi": "बाद में पिए"
+    },
+    {
+     "sa": "नरः",
+     "iast": "naraḥ",
+     "en": "a person",
+     "hi": "मनुष्य"
+    }
+   ],
+   "english": "One should eat the roasted meats of burrow-dwelling and prasaha (predatory) animals, and afterwards drink madirā, sīdhu and madhu.",
+   "hindi": "बिलेशय और प्रसह प्राणियों के भुने हुए मांस खाने चाहिए, और बाद में मदिरा, सीधु और मधु का पान करना चाहिए।",
+   "explanation_en": "These are heavy, warming, vāta-pacifying items suited to the strong winter agni. Alcoholic drinks are mentioned as part of the classical regimen of that time. Exam tip: bileśaya and prasaha are classes of animals in Caraka's classification of meat (Sū 27).",
+   "explanation_hi": "ये गुरु, उष्ण, वातशामक पदार्थ हैं जो सर्दी की प्रबल अग्नि के अनुकूल हैं। मद्य पेय उस समय के शास्त्रीय विधान के अंग के रूप में बताए गए हैं। परीक्षा टिप: बिलेशय और प्रसह चरक के मांस-वर्गीकरण (सू. 27) में प्राणियों के वर्ग हैं।",
+   "modern_correlation": {
+    "en": "Modern medicine does not consider alcohol warming or beneficial in cold weather; it dilates skin blood vessels and increases heat loss, and it carries well-known health risks. This verse is a historical description, not advice.",
+    "hi": "आधुनिक चिकित्सा मद्य को ठण्ड में गर्मी देने वाला या लाभकारी नहीं मानती; यह त्वचा की रक्त-वाहिकाओं को फैलाता है और ऊष्मा-हानि बढ़ाता है, और इसके सुविदित स्वास्थ्य जोखिम हैं। यह श्लोक ऐतिहासिक वर्णन है, सलाह नहीं।"
+   },
+   "key_terms": [
+    "bileśaya",
+    "prasaha",
+    "madirā",
+    "sīdhu"
+   ],
+   "tags": [
+    "ritucharya",
+    "hemanta",
+    "diet"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.13",
+   "word_meanings": [
+    {
+     "sa": "गोरसान्",
+     "iast": "gorasān",
+     "en": "milk products",
+     "hi": "गोरस (दूध के पदार्थ)"
+    },
+    {
+     "sa": "इक्षु-विकृतीः",
+     "iast": "ikṣu-vikṛtīḥ",
+     "en": "sugarcane products",
+     "hi": "ईख के विकार (गुड़ आदि)"
+    },
+    {
+     "sa": "वसाम्",
+     "iast": "vasām",
+     "en": "muscle fat",
+     "hi": "वसा"
+    },
+    {
+     "sa": "तैलम्",
+     "iast": "tailam",
+     "en": "oil",
+     "hi": "तेल"
+    },
+    {
+     "sa": "नव-ओदनम्",
+     "iast": "nava-odanam",
+     "en": "rice of the new crop",
+     "hi": "नए चावल का भात"
+    },
+    {
+     "sa": "हेमन्ते",
+     "iast": "hemante",
+     "en": "in hemanta",
+     "hi": "हेमन्त में"
+    },
+    {
+     "sa": "अभ्यस्यतः",
+     "iast": "abhyasyataḥ",
+     "en": "of one who uses regularly",
+     "hi": "नियमित सेवन करने वाले की"
+    },
+    {
+     "sa": "तोयम्",
+     "iast": "toyam",
+     "en": "water",
+     "hi": "जल"
+    },
+    {
+     "sa": "उष्णम्",
+     "iast": "uṣṇam",
+     "en": "warm",
+     "hi": "गर्म"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "आयुः",
+     "iast": "āyuḥ",
+     "en": "life span",
+     "hi": "आयु"
+    },
+    {
+     "sa": "न हीयते",
+     "iast": "na hīyate",
+     "en": "does not diminish",
+     "hi": "क्षीण नहीं होती"
+    }
+   ],
+   "english": "The life of one who regularly uses milk products, sugarcane products, fat, oil, freshly harvested rice and warm water in hemanta does not diminish.",
+   "hindi": "जो हेमन्त में गोरस (दूध के पदार्थ), ईख के विकार, वसा, तेल, नए चावल और गर्म जल का नियमित सेवन करता है, उसकी आयु क्षीण नहीं होती।",
+   "explanation_en": "More hemanta foods: dairy, jaggery and sugar products, fats and oil, new rice and warm water - all nourishing and heavy, matched to strong winter agni. Exam tip: 'navaudana' (new rice) is generally heavy and is recommended specifically in hemanta.",
+   "explanation_hi": "हेमन्त के और आहार: दूध के पदार्थ, गुड़-शक्कर, वसा और तेल, नया चावल और गर्म जल - सब पोषक और गुरु, जो सर्दी की प्रबल अग्नि के अनुकूल हैं। परीक्षा टिप: 'नवौदन' (नया चावल) सामान्यतः गुरु होता है और विशेष रूप से हेमन्त में अनुशंसित है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "hemanta āhāra",
+    "gorasa",
+    "ikṣuvikṛti",
+    "navaudana",
+    "uṣṇodaka"
+   ],
+   "tags": [
+    "ritucharya",
+    "hemanta",
+    "diet"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.14",
+   "word_meanings": [
+    {
+     "sa": "अभ्यङ्ग",
+     "iast": "abhyaṅga",
+     "en": "oil massage",
+     "hi": "अभ्यंग"
+    },
+    {
+     "sa": "उत्सादनम्",
+     "iast": "utsādanam",
+     "en": "rubbing with fragrant powders",
+     "hi": "उत्सादन (उबटन)"
+    },
+    {
+     "sa": "मूर्ध्नि तैलम्",
+     "iast": "mūrdhni tailam",
+     "en": "oil on the head",
+     "hi": "सिर पर तेल"
+    },
+    {
+     "sa": "जेन्ताकम्",
+     "iast": "jentākam",
+     "en": "jentāka (a type of sauna sudation)",
+     "hi": "जेन्ताक स्वेद"
+    },
+    {
+     "sa": "आतपम्",
+     "iast": "ātapam",
+     "en": "sunbathing",
+     "hi": "धूप सेवन"
+    },
+    {
+     "sa": "भजेत्",
+     "iast": "bhajet",
+     "en": "should use",
+     "hi": "सेवन करे"
+    },
+    {
+     "sa": "भूमि-गृहम्",
+     "iast": "bhūmi-gṛham",
+     "en": "underground house",
+     "hi": "भूमिगृह (तहखाना)"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "उष्णम्",
+     "iast": "uṣṇam",
+     "en": "warm",
+     "hi": "गर्म"
+    },
+    {
+     "sa": "उष्णम्",
+     "iast": "uṣṇam",
+     "en": "warm",
+     "hi": "गर्म"
+    },
+    {
+     "sa": "गर्भ-गृहम्",
+     "iast": "garbha-gṛham",
+     "en": "inner chamber",
+     "hi": "गर्भगृह (भीतरी कमरा)"
+    },
+    {
+     "sa": "तथा",
+     "iast": "tathā",
+     "en": "also",
+     "hi": "भी"
+    }
+   ],
+   "english": "One should use oil massage, rubbing with fragrant powders, oil on the head, jentāka sudation, sunbathing, and (live in) a warm underground house and a warm inner chamber.",
+   "hindi": "अभ्यंग, उत्सादन, सिर पर तेल, जेन्ताक स्वेद और धूप का सेवन करना चाहिए, तथा गर्म भूमिगृह और गर्म भीतरी कमरे में रहना चाहिए।",
+   "explanation_en": "Hemanta lifestyle (vihāra): abhyaṅga, utsādana, mūrdhataila, jentāka sveda (a hut-sauna described in Sū 14), sunbathing and warm, enclosed living spaces. All counter cold and dryness. Exam tip: jentāka sveda is a type of sāgni sveda.",
+   "explanation_hi": "हेमन्त का विहार: अभ्यंग, उत्सादन, मूर्धतैल, जेन्ताक स्वेद (कुटी-सौना, सू. 14 में वर्णित), धूप सेवन और गर्म, बन्द निवास। ये सब ठण्ड और रूक्षता का प्रतिकार करते हैं। परीक्षा टिप: जेन्ताक स्वेद साग्नि स्वेद का एक प्रकार है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "hemanta vihāra",
+    "abhyaṅga",
+    "utsādana",
+    "jentāka",
+    "ātapa"
+   ],
+   "tags": [
+    "ritucharya",
+    "hemanta",
+    "lifestyle"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.15",
+   "word_meanings": [
+    {
+     "sa": "शीतेषु",
+     "iast": "śīteṣu",
+     "en": "in cold (seasons)",
+     "hi": "शीत ऋतुओं में"
+    },
+    {
+     "sa": "संवृतम्",
+     "iast": "saṃvṛtam",
+     "en": "covered",
+     "hi": "ढका हुआ"
+    },
+    {
+     "sa": "सेव्यम्",
+     "iast": "sevyam",
+     "en": "should be used",
+     "hi": "सेवन करना चाहिए"
+    },
+    {
+     "sa": "यानम्",
+     "iast": "yānam",
+     "en": "vehicle",
+     "hi": "वाहन"
+    },
+    {
+     "sa": "शयनम्",
+     "iast": "śayanam",
+     "en": "bed",
+     "hi": "शय्या"
+    },
+    {
+     "sa": "आसनम्",
+     "iast": "āsanam",
+     "en": "seat",
+     "hi": "आसन"
+    },
+    {
+     "sa": "प्रावार",
+     "iast": "prāvāra",
+     "en": "heavy cloak",
+     "hi": "प्रावार (मोटा ओढ़ना)"
+    },
+    {
+     "sa": "अजिन",
+     "iast": "ajina",
+     "en": "deer skin",
+     "hi": "अजिन (मृगचर्म)"
+    },
+    {
+     "sa": "कौशेय",
+     "iast": "kauśeya",
+     "en": "silk",
+     "hi": "कौशेय (रेशम)"
+    },
+    {
+     "sa": "प्रवेणी",
+     "iast": "praveṇī",
+     "en": "woollen blanket",
+     "hi": "प्रवेणी (ऊनी कम्बल)"
+    },
+    {
+     "sa": "कुथ",
+     "iast": "kutha",
+     "en": "coloured woollen rug",
+     "hi": "कुथ (रंगीन ऊनी गलीचा)"
+    },
+    {
+     "sa": "आस्तृतम्",
+     "iast": "āstṛtam",
+     "en": "spread with",
+     "hi": "बिछा हुआ"
+    }
+   ],
+   "english": "In the cold seasons, one should use covered vehicles, beds and seats spread with heavy cloaks, deer skins, silk, woollen blankets and rugs.",
+   "hindi": "शीत ऋतुओं में ढके हुए वाहन, और प्रावार, मृगचर्म, रेशम, ऊनी कम्बल और गलीचों से बिछी शय्या व आसन का प्रयोग करना चाहिए।",
+   "explanation_en": "Protection from cold: covered transport and warm bedding and seats. The emphasis is on avoiding exposure to cold wind, which aggravates vāta.",
+   "explanation_hi": "ठण्ड से बचाव: ढके वाहन और गर्म बिस्तर व आसन। ज़ोर ठण्डी हवा के सम्पर्क से बचने पर है, जो वात को बढ़ाती है।",
+   "modern_correlation": {
+    "en": "Insulating clothing and bedding reduce heat loss and the risk of cold-related illness, consistent with modern advice on cold-weather protection.",
+    "hi": "ऊष्मा-रोधी कपड़े और बिस्तर ऊष्मा-हानि और ठण्ड से होने वाले रोगों का जोखिम कम करते हैं, जो सर्दी से बचाव की आधुनिक सलाह से मेल खाता है।"
+   },
+   "key_terms": [
+    "hemanta vihāra",
+    "prāvāra",
+    "kauśeya"
+   ],
+   "tags": [
+    "ritucharya",
+    "hemanta",
+    "lifestyle"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.16",
+   "word_meanings": [
+    {
+     "sa": "गुरु-उष्ण-वासाः",
+     "iast": "guru-uṣṇa-vāsāḥ",
+     "en": "wearing heavy and warm clothes",
+     "hi": "भारी और गर्म वस्त्र पहने हुए"
+    },
+    {
+     "sa": "दिग्ध-अङ्गः",
+     "iast": "digdha-aṅgaḥ",
+     "en": "with body smeared",
+     "hi": "अंगों पर लेप लगाए हुए"
+    },
+    {
+     "sa": "गुरुणा अगुरुणा",
+     "iast": "guruṇā aguruṇā",
+     "en": "with heavy (thick) agaru paste",
+     "hi": "गाढ़े अगरु से"
+    },
+    {
+     "sa": "सदा",
+     "iast": "sadā",
+     "en": "always",
+     "hi": "सदा"
+    },
+    {
+     "sa": "शयने",
+     "iast": "śayane",
+     "en": "in bed",
+     "hi": "शय्या पर"
+    },
+    {
+     "sa": "प्रमदाम्",
+     "iast": "pramadām",
+     "en": "a young woman",
+     "hi": "युवती को"
+    },
+    {
+     "sa": "पीनाम्",
+     "iast": "pīnām",
+     "en": "plump",
+     "hi": "पुष्ट"
+    },
+    {
+     "sa": "विशाल-उपचित-स्तनीम्",
+     "iast": "viśāla-upacita-stanīm",
+     "en": "with large, full breasts",
+     "hi": "बड़े, भरे स्तनों वाली"
+    }
+   ],
+   "english": "Wearing heavy and warm clothes and always smearing the body with thick agaru paste, (one should, in bed, embrace) a plump young woman with full breasts ... (continued).",
+   "hindi": "भारी और गर्म वस्त्र पहनकर और सदा अंगों पर गाढ़ा अगरु का लेप लगाकर, शय्या पर पुष्ट, भरे स्तनों वाली युवती को ... (आगे जारी)।",
+   "explanation_en": "Warm clothing and a warming agaru (agarwood) paste are recommended. The verse then begins advice about sleeping with one's partner in winter, completed in the next verse; this reflects the classical view that sexual activity is best tolerated in the strong winter season.",
+   "explanation_hi": "गर्म वस्त्र और उष्ण अगरु का लेप बताया गया है। फिर श्लोक सर्दी में अपने साथी के साथ सोने की सलाह शुरू करता है, जो अगले श्लोक में पूरी होती है; यह इस शास्त्रीय मत को दर्शाता है कि सबसे अधिक बल वाली शीत ऋतु में मैथुन सबसे अधिक सहन होता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "hemanta vihāra",
+    "aguru"
+   ],
+   "tags": [
+    "ritucharya",
+    "hemanta",
+    "lifestyle"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.17",
+   "word_meanings": [
+    {
+     "sa": "आलिङ्ग्य",
+     "iast": "āliṅgya",
+     "en": "having embraced",
+     "hi": "आलिंगन करके"
+    },
+    {
+     "sa": "अगुरु-दिग्ध-अङ्गीम्",
+     "iast": "aguru-digdha-aṅgīm",
+     "en": "whose body is smeared with agaru",
+     "hi": "जिसके अंगों पर अगरु का लेप हो"
+    },
+    {
+     "sa": "सुप्यात्",
+     "iast": "supyāt",
+     "en": "should sleep",
+     "hi": "सोए"
+    },
+    {
+     "sa": "स-मद-मन्मथः",
+     "iast": "sa-mada-manmathaḥ",
+     "en": "full of passion",
+     "hi": "कामोत्सुक होकर"
+    },
+    {
+     "sa": "प्रकामम्",
+     "iast": "prakāmam",
+     "en": "freely, as desired",
+     "hi": "इच्छानुसार"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "निषेवेत",
+     "iast": "niṣeveta",
+     "en": "may indulge in",
+     "hi": "सेवन करे"
+    },
+    {
+     "sa": "मैथुनम्",
+     "iast": "maithunam",
+     "en": "sexual intercourse",
+     "hi": "मैथुन"
+    },
+    {
+     "sa": "शिशिर-आगमे",
+     "iast": "śiśira-āgame",
+     "en": "at the approach of the cold season",
+     "hi": "शीत ऋतु के आगमन पर"
+    }
+   ],
+   "english": "... embracing her, whose body is also smeared with agaru, one should sleep, full of passion. At the onset of the cold season, one may indulge in sexual intercourse as desired.",
+   "hindi": "... जिसके अंगों पर भी अगरु का लेप हो, उसका आलिंगन करके कामोत्सुक होकर सोए। शीत ऋतु के आगमन पर इच्छानुसार मैथुन किया जा सकता है।",
+   "explanation_en": "Caraka allows liberal sexual activity (prakāmam) in hemanta because strength and agni are at their peak. By contrast, he advises abstinence in grīṣma (6.32) and avoidance in varṣā (6.36). Exam tip: frequency of maithuna by season is a common question - unrestricted in hemanta/śiśira, abstain in grīṣma.",
+   "explanation_hi": "चरक हेमन्त में इच्छानुसार (प्रकामम्) मैथुन की अनुमति देते हैं क्योंकि बल और अग्नि चरम पर होते हैं। इसके विपरीत, ग्रीष्म में ब्रह्मचर्य (6.32) और वर्षा में मैथुन से बचने (6.36) की सलाह है। परीक्षा टिप: ऋतु अनुसार मैथुन का विधान अक्सर पूछा जाता है - हेमन्त/शिशिर में अप्रतिबन्धित, ग्रीष्म में वर्जित।",
+   "modern_correlation": null,
+   "key_terms": [
+    "maithuna",
+    "hemanta",
+    "ṛtu anusāra maithuna"
+   ],
+   "tags": [
+    "ritucharya",
+    "hemanta",
+    "lifestyle",
+    "exam"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.18",
+   "word_meanings": [
+    {
+     "sa": "वर्जयेत्",
+     "iast": "varjayet",
+     "en": "should avoid",
+     "hi": "त्याग करे"
+    },
+    {
+     "sa": "अन्न-पानानि",
+     "iast": "anna-pānāni",
+     "en": "foods and drinks",
+     "hi": "अन्न-पान"
+    },
+    {
+     "sa": "वातलानि",
+     "iast": "vātalāni",
+     "en": "vāta-aggravating",
+     "hi": "वातवर्धक"
+    },
+    {
+     "sa": "लघूनि",
+     "iast": "laghūni",
+     "en": "light",
+     "hi": "लघु"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "प्रवातम्",
+     "iast": "pravātam",
+     "en": "strong wind",
+     "hi": "तेज़ हवा"
+    },
+    {
+     "sa": "प्रमित-आहारम्",
+     "iast": "pramita-āhāram",
+     "en": "scanty diet",
+     "hi": "प्रमिताहार (अल्प भोजन)"
+    },
+    {
+     "sa": "उदमन्थम्",
+     "iast": "udamantham",
+     "en": "udamantha (roasted grain flour mixed with water)",
+     "hi": "उदमन्थ (पानी में घोला सत्तू)"
+    },
+    {
+     "sa": "हिम-आगमे",
+     "iast": "hima-āgame",
+     "en": "at the onset of winter",
+     "hi": "हिम (शीत) के आगमन पर"
+    }
+   ],
+   "english": "At the onset of winter, one should avoid vāta-aggravating and light foods and drinks, strong wind, scanty diet and udamantha (roasted flour mixed with water).",
+   "hindi": "शीत के आगमन पर वातवर्धक और लघु अन्न-पान, तेज़ हवा, अल्प भोजन और उदमन्थ (पानी में घोला सत्तू) का त्याग करना चाहिए।",
+   "explanation_en": "Things to avoid in hemanta: vātala and laghu foods, exposure to wind, scanty meals and udamantha (a cold, dry drink of roasted flour in water). These would leave the strong agni without fuel and aggravate vāta. Exam tip: 'udamantha' is forbidden in hemanta and varṣā - a frequent MCQ.",
+   "explanation_hi": "हेमन्त में वर्जित: वातल और लघु आहार, हवा का सम्पर्क, अल्प भोजन और उदमन्थ (पानी में सत्तू का ठण्डा, रूक्ष पेय)। ये प्रबल अग्नि को ईंधन से वंचित करके वात को बढ़ाएँगे। परीक्षा टिप: 'उदमन्थ' हेमन्त और वर्षा में वर्जित है - बार-बार पूछा जाने वाला MCQ।",
+   "modern_correlation": null,
+   "key_terms": [
+    "hemanta apathya",
+    "udamantha",
+    "pramitāhāra",
+    "pravāta"
+   ],
+   "tags": [
+    "ritucharya",
+    "hemanta",
+    "apathya",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.19",
+   "word_meanings": [
+    {
+     "sa": "हेमन्त-शिशिरौ",
+     "iast": "hemanta-śiśirau",
+     "en": "hemanta and śiśira",
+     "hi": "हेमन्त और शिशिर"
+    },
+    {
+     "sa": "तुल्यौ",
+     "iast": "tulyau",
+     "en": "are similar",
+     "hi": "समान हैं"
+    },
+    {
+     "sa": "शिशिरे",
+     "iast": "śiśire",
+     "en": "in śiśira",
+     "hi": "शिशिर में"
+    },
+    {
+     "sa": "अल्पम्",
+     "iast": "alpam",
+     "en": "slight",
+     "hi": "थोड़ा"
+    },
+    {
+     "sa": "विशेषणम्",
+     "iast": "viśeṣaṇam",
+     "en": "difference",
+     "hi": "विशेषता (अन्तर)"
+    },
+    {
+     "sa": "रौक्ष्यम्",
+     "iast": "raukṣyam",
+     "en": "dryness",
+     "hi": "रूक्षता"
+    },
+    {
+     "sa": "आदान-जम्",
+     "iast": "ādāna-jam",
+     "en": "born of ādāna",
+     "hi": "आदान से उत्पन्न"
+    },
+    {
+     "sa": "शीतम्",
+     "iast": "śītam",
+     "en": "cold",
+     "hi": "शीत"
+    },
+    {
+     "sa": "मेघ-मारुत-वर्ष-जम्",
+     "iast": "megha-māruta-varṣa-jam",
+     "en": "born of clouds, wind and rain",
+     "hi": "मेघ, वायु और वर्षा से उत्पन्न"
+    }
+   ],
+   "english": "Hemanta and śiśira are similar; in śiśira there is a slight difference: dryness born of the ādāna period, and cold produced by clouds, wind and rain.",
+   "hindi": "हेमन्त और शिशिर समान हैं; शिशिर में थोड़ा अन्तर है: आदान काल से उत्पन्न रूक्षता, और मेघ, वायु तथा वर्षा से उत्पन्न ठण्ड।",
+   "explanation_en": "Śiśira (late winter) is like hemanta but colder and drier, because it is the first season of ādāna and has cold from clouds, wind and (winter) rain. Exam tip: the difference between hemanta and śiśira - 'raukṣya (ādānaja) and śīta (megha-māruta-varṣaja)' - is a standard question.",
+   "explanation_hi": "शिशिर (शीत का उत्तरार्ध) हेमन्त जैसा ही है पर अधिक ठण्डा और रूक्ष है, क्योंकि यह आदान की पहली ऋतु है और इसमें मेघ, हवा और (शीत की) वर्षा से ठण्ड होती है। परीक्षा टिप: हेमन्त और शिशिर का अन्तर - 'रौक्ष्य (आदानज) और शीत (मेघ-मारुत-वर्षज)' - मानक प्रश्न है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "śiśira",
+    "hemanta",
+    "raukṣya"
+   ],
+   "tags": [
+    "ritucharya",
+    "shishira",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.20",
+   "word_meanings": [
+    {
+     "sa": "तस्मात्",
+     "iast": "tasmāt",
+     "en": "therefore",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "हैमन्तिकः",
+     "iast": "haimantikaḥ",
+     "en": "of hemanta",
+     "hi": "हेमन्त का"
+    },
+    {
+     "sa": "सर्वः",
+     "iast": "sarvaḥ",
+     "en": "entire",
+     "hi": "सम्पूर्ण"
+    },
+    {
+     "sa": "शिशिरे",
+     "iast": "śiśire",
+     "en": "in śiśira",
+     "hi": "शिशिर में"
+    },
+    {
+     "sa": "विधिः",
+     "iast": "vidhiḥ",
+     "en": "regimen",
+     "hi": "विधि"
+    },
+    {
+     "sa": "इष्यते",
+     "iast": "iṣyate",
+     "en": "is recommended",
+     "hi": "इष्ट है"
+    },
+    {
+     "sa": "निवातम्",
+     "iast": "nivātam",
+     "en": "windless",
+     "hi": "वायुरहित"
+    },
+    {
+     "sa": "उष्णम्",
+     "iast": "uṣṇam",
+     "en": "warm",
+     "hi": "गर्म"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "परन्तु"
+    },
+    {
+     "sa": "अधिकम्",
+     "iast": "adhikam",
+     "en": "more",
+     "hi": "अधिक"
+    },
+    {
+     "sa": "शिशिरे",
+     "iast": "śiśire",
+     "en": "in śiśira",
+     "hi": "शिशिर में"
+    },
+    {
+     "sa": "गृहम्",
+     "iast": "gṛham",
+     "en": "house",
+     "hi": "घर"
+    },
+    {
+     "sa": "आश्रयेत्",
+     "iast": "āśrayet",
+     "en": "should resort to",
+     "hi": "आश्रय ले"
+    }
+   ],
+   "english": "Therefore, the entire regimen of hemanta is recommended in śiśira; but in śiśira one should live in a house that is even more windless and warm.",
+   "hindi": "इसलिए शिशिर में हेमन्त की सम्पूर्ण विधि इष्ट है; परन्तु शिशिर में और भी अधिक वायुरहित और गर्म घर में रहना चाहिए।",
+   "explanation_en": "Śiśira regimen = hemanta regimen, with extra protection from wind and cold. Exam tip: 'haimantikaḥ sarvaḥ śiśire vidhiḥ' - remember that Caraka gives śiśira the same regimen as hemanta.",
+   "explanation_hi": "शिशिर की विधि = हेमन्त की विधि, साथ में हवा और ठण्ड से और अधिक बचाव। परीक्षा टिप: 'हैमन्तिकः सर्वः शिशिरे विधिः' - याद रखें कि चरक शिशिर में हेमन्त वाली विधि ही बताते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "śiśira caryā",
+    "nivāta"
+   ],
+   "tags": [
+    "ritucharya",
+    "shishira"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.21",
+   "word_meanings": [
+    {
+     "sa": "कटु-तिक्त-कषायाणि",
+     "iast": "kaṭu-tikta-kaṣāyāṇi",
+     "en": "pungent, bitter and astringent",
+     "hi": "कटु, तिक्त और कषाय"
+    },
+    {
+     "sa": "वातलानि",
+     "iast": "vātalāni",
+     "en": "vāta-aggravating",
+     "hi": "वातवर्धक"
+    },
+    {
+     "sa": "लघूनि",
+     "iast": "laghūni",
+     "en": "light",
+     "hi": "लघु"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "वर्जयेत्",
+     "iast": "varjayet",
+     "en": "should avoid",
+     "hi": "त्याग करे"
+    },
+    {
+     "sa": "अन्न-पानानि",
+     "iast": "anna-pānāni",
+     "en": "foods and drinks",
+     "hi": "अन्न-पान"
+    },
+    {
+     "sa": "शिशिरे",
+     "iast": "śiśire",
+     "en": "in śiśira",
+     "hi": "शिशिर में"
+    },
+    {
+     "sa": "शीतलानि",
+     "iast": "śītalāni",
+     "en": "cold",
+     "hi": "शीतल"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    }
+   ],
+   "english": "In śiśira one should avoid pungent, bitter and astringent, vāta-aggravating, light and cold foods and drinks.",
+   "hindi": "शिशिर में कटु, तिक्त और कषाय, वातवर्धक, लघु और शीतल अन्न-पान का त्याग करना चाहिए।",
+   "explanation_en": "Kaṭu, tikta and kaṣāya are rūkṣa (drying) and vāta-increasing tastes, which would worsen the dryness and cold of śiśira. Exam tip: avoid 'kaṭu-tikta-kaṣāya' in śiśira; prefer madhura-amla-lavaṇa.",
+   "explanation_hi": "कटु, तिक्त और कषाय रूक्ष और वातवर्धक रस हैं, जो शिशिर की रूक्षता और ठण्ड को बढ़ाएँगे। परीक्षा टिप: शिशिर में 'कटु-तिक्त-कषाय' से बचें; मधुर-अम्ल-लवण को प्राथमिकता दें।",
+   "modern_correlation": null,
+   "key_terms": [
+    "śiśira apathya",
+    "kaṭu",
+    "tikta",
+    "kaṣāya"
+   ],
+   "tags": [
+    "ritucharya",
+    "shishira",
+    "apathya"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.22",
+   "word_meanings": [
+    {
+     "sa": "वसन्ते",
+     "iast": "vasante",
+     "en": "in spring",
+     "hi": "वसन्त में"
+    },
+    {
+     "sa": "निचितः",
+     "iast": "nicitaḥ",
+     "en": "accumulated",
+     "hi": "संचित"
+    },
+    {
+     "sa": "श्लेष्मा",
+     "iast": "śleṣmā",
+     "en": "kapha",
+     "hi": "कफ"
+    },
+    {
+     "sa": "दिनकृत्-भाभिः",
+     "iast": "dinakṛt-bhābhiḥ",
+     "en": "by the rays of the sun",
+     "hi": "सूर्य की किरणों से"
+    },
+    {
+     "sa": "ईरितः",
+     "iast": "īritaḥ",
+     "en": "stirred up, liquefied",
+     "hi": "प्रेरित (पिघलाया हुआ)"
+    },
+    {
+     "sa": "कायाग्निम्",
+     "iast": "kāyāgnim",
+     "en": "the digestive fire",
+     "hi": "कायाग्नि (जठराग्नि) को"
+    },
+    {
+     "sa": "बाधते",
+     "iast": "bādhate",
+     "en": "disturbs",
+     "hi": "बाधित करता है"
+    },
+    {
+     "sa": "रोगान्",
+     "iast": "rogān",
+     "en": "diseases",
+     "hi": "रोगों को"
+    },
+    {
+     "sa": "ततः",
+     "iast": "tataḥ",
+     "en": "thereby",
+     "hi": "इससे"
+    },
+    {
+     "sa": "प्रकुरुते",
+     "iast": "prakurute",
+     "en": "produces",
+     "hi": "उत्पन्न करता है"
+    },
+    {
+     "sa": "बहून्",
+     "iast": "bahūn",
+     "en": "many",
+     "hi": "अनेक"
+    }
+   ],
+   "english": "In vasanta (spring), the kapha accumulated (during winter), stirred up (liquefied) by the sun's rays, disturbs the digestive fire and thereby produces many diseases.",
+   "hindi": "वसन्त में (शीत ऋतु में) संचित कफ, सूर्य की किरणों से पिघलकर (प्रेरित होकर), कायाग्नि को बाधित करता है और इससे अनेक रोग उत्पन्न करता है।",
+   "explanation_en": "Kapha accumulates (caya) in hemanta-śiśira and gets aggravated (prakopa) in vasanta when the sun's heat liquefies it, like melting snow. This weakens agni and causes kapha diseases. Exam tip: kapha - caya in śiśira, prakopa in vasanta, praśama in grīṣma.",
+   "explanation_hi": "कफ हेमन्त-शिशिर में संचित (चय) होता है और वसन्त में सूर्य की गर्मी से पिघलकर प्रकुपित (प्रकोप) होता है, जैसे बर्फ़ पिघलती है। यह अग्नि को दुर्बल करके कफ रोग उत्पन्न करता है। परीक्षा टिप: कफ - शिशिर में चय, वसन्त में प्रकोप, ग्रीष्म में प्रशम।",
+   "modern_correlation": {
+    "en": "Spring is associated with a rise in allergic rhinitis, asthma flares and respiratory infections in many regions; Ayurveda's description of kapha disorders in vasanta is often compared to this seasonal pattern.",
+    "hi": "अनेक क्षेत्रों में वसन्त ऋतु एलर्जिक राइनाइटिस, अस्थमा के दौरों और श्वसन संक्रमणों की वृद्धि से जुड़ी है; वसन्त में कफ विकारों के आयुर्वेदिक वर्णन की तुलना अक्सर इसी मौसमी पैटर्न से की जाती है।"
+   },
+   "key_terms": [
+    "vasanta",
+    "kaphaprakopa",
+    "kāyāgni",
+    "doṣa caya-prakopa"
+   ],
+   "tags": [
+    "ritucharya",
+    "vasanta",
+    "kapha",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Kapha melts like snow in spring sunshine",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.23",
+   "word_meanings": [
+    {
+     "sa": "तस्मात्",
+     "iast": "tasmāt",
+     "en": "therefore",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "वसन्ते",
+     "iast": "vasante",
+     "en": "in spring",
+     "hi": "वसन्त में"
+    },
+    {
+     "sa": "कर्माणि",
+     "iast": "karmāṇi",
+     "en": "procedures",
+     "hi": "कर्म"
+    },
+    {
+     "sa": "वमन-आदीनि",
+     "iast": "vamana-ādīni",
+     "en": "beginning with emesis",
+     "hi": "वमन आदि"
+    },
+    {
+     "sa": "कारयेत्",
+     "iast": "kārayet",
+     "en": "should get done",
+     "hi": "करवाए"
+    },
+    {
+     "sa": "गुरु-अम्ल-स्निग्ध-मधुरम्",
+     "iast": "guru-amla-snigdha-madhuram",
+     "en": "heavy, sour, unctuous and sweet (food)",
+     "hi": "गुरु, अम्ल, स्निग्ध और मधुर (आहार)"
+    },
+    {
+     "sa": "दिवास्वप्नम्",
+     "iast": "divāsvapnam",
+     "en": "day sleep",
+     "hi": "दिन में सोना"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "वर्जयेत्",
+     "iast": "varjayet",
+     "en": "should avoid",
+     "hi": "त्याग करे"
+    }
+   ],
+   "english": "Therefore, in spring one should undergo purificatory procedures beginning with emesis (vamana), and avoid heavy, sour, unctuous and sweet foods and day sleep.",
+   "hindi": "इसलिए वसन्त में वमन आदि शोधन कर्म करवाने चाहिए, और गुरु, अम्ल, स्निग्ध, मधुर आहार तथा दिन में सोने का त्याग करना चाहिए।",
+   "explanation_en": "Vamana is the main śodhana for kapha, so it is advised in vasanta. Foods that increase kapha (guru, amla, snigdha, madhura) and divāsvapna (day sleep, which increases kapha) are to be avoided. Exam tip: 'vamana in vasanta' is a high-yield MCQ; compare virecana in śarad and basti in varṣā.",
+   "explanation_hi": "वमन कफ का मुख्य शोधन है, इसलिए वसन्त में इसकी सलाह है। कफवर्धक आहार (गुरु, अम्ल, स्निग्ध, मधुर) और दिवास्वप्न (जो कफ बढ़ाता है) वर्जित हैं। परीक्षा टिप: 'वसन्त में वमन' अधिक अंक वाला MCQ है; तुलना करें: शरद् में विरेचन और वर्षा में बस्ति।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vasanta caryā",
+    "vamana",
+    "divāsvapna"
+   ],
+   "tags": [
+    "ritucharya",
+    "vasanta",
+    "shodhana",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Seasonal śodhana: Vasanta-Vamana, Varṣā-Basti, Śarad-Virecana (+ raktamokṣaṇa)",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.24",
+   "word_meanings": [
+    {
+     "sa": "व्यायाम",
+     "iast": "vyāyāma",
+     "en": "exercise",
+     "hi": "व्यायाम"
+    },
+    {
+     "sa": "उद्वर्तनम्",
+     "iast": "udvartanam",
+     "en": "rubbing with powders",
+     "hi": "उद्वर्तन"
+    },
+    {
+     "sa": "धूमम्",
+     "iast": "dhūmam",
+     "en": "medicated smoking",
+     "hi": "धूमपान"
+    },
+    {
+     "sa": "कवलग्रहम्",
+     "iast": "kavalagraham",
+     "en": "gargling",
+     "hi": "कवल धारण"
+    },
+    {
+     "sa": "अञ्जनम्",
+     "iast": "añjanam",
+     "en": "collyrium",
+     "hi": "अञ्जन"
+    },
+    {
+     "sa": "सुख-अम्बुना",
+     "iast": "sukha-ambunā",
+     "en": "with lukewarm water",
+     "hi": "गुनगुने जल से"
+    },
+    {
+     "sa": "शौच-विधिम्",
+     "iast": "śauca-vidhim",
+     "en": "washing, cleansing",
+     "hi": "शौच विधि (धोना)"
+    },
+    {
+     "sa": "शीलयेत्",
+     "iast": "śīlayet",
+     "en": "should practise",
+     "hi": "अभ्यास करे"
+    },
+    {
+     "sa": "कुसुम-आगमे",
+     "iast": "kusuma-āgame",
+     "en": "at the coming of flowers (spring)",
+     "hi": "पुष्पों के आगमन (वसन्त) पर"
+    }
+   ],
+   "english": "In spring (the season when flowers come), one should practise exercise, udvartana, medicated smoking, gargling, collyrium and washing with lukewarm water.",
+   "hindi": "वसन्त (पुष्पों के आगमन) में व्यायाम, उद्वर्तन, धूमपान, कवल धारण, अञ्जन और गुनगुने जल से शौच का अभ्यास करना चाहिए।",
+   "explanation_en": "Vasanta lifestyle: kapha-reducing activities - exercise, dry rubbing (udvartana), dhūma, kavala, añjana and washing with lukewarm water. Exam tip: vyāyāma and udvartana are specifically recommended in vasanta.",
+   "explanation_hi": "वसन्त का विहार: कफ कम करने वाली क्रियाएँ - व्यायाम, उद्वर्तन, धूम, कवल, अञ्जन और गुनगुने जल से धोना। परीक्षा टिप: व्यायाम और उद्वर्तन विशेष रूप से वसन्त में अनुशंसित हैं।",
+   "modern_correlation": {
+    "en": "Regular physical activity is a well-established modern health recommendation in all seasons; Caraka's specific emphasis on exercise in spring is a classical seasonal adaptation.",
+    "hi": "नियमित शारीरिक गतिविधि हर मौसम में एक प्रमाणित आधुनिक स्वास्थ्य सलाह है; वसन्त में व्यायाम पर चरक का विशेष ज़ोर एक शास्त्रीय ऋतु-अनुकूलन है।"
+   },
+   "key_terms": [
+    "vasanta vihāra",
+    "vyāyāma",
+    "udvartana",
+    "kavala"
+   ],
+   "tags": [
+    "ritucharya",
+    "vasanta",
+    "lifestyle"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.25",
+   "word_meanings": [
+    {
+     "sa": "चन्दन-अगुरु-दिग्ध-अङ्गः",
+     "iast": "candana-aguru-digdha-aṅgaḥ",
+     "en": "with body smeared with sandalwood and agaru",
+     "hi": "चन्दन और अगरु का लेप लगाए हुए"
+    },
+    {
+     "sa": "यव-गोधूम-भोजनः",
+     "iast": "yava-godhūma-bhojanaḥ",
+     "en": "eating barley and wheat",
+     "hi": "जौ और गेहूँ खाने वाला"
+    },
+    {
+     "sa": "शारभम्",
+     "iast": "śārabham",
+     "en": "meat of śarabha",
+     "hi": "शरभ का मांस"
+    },
+    {
+     "sa": "शाशम्",
+     "iast": "śāśam",
+     "en": "hare meat",
+     "hi": "खरगोश का मांस"
+    },
+    {
+     "sa": "ऐणेयम्",
+     "iast": "aiṇeyam",
+     "en": "antelope meat",
+     "hi": "एण (हिरन) का मांस"
+    },
+    {
+     "sa": "मांसम्",
+     "iast": "māṃsam",
+     "en": "meat",
+     "hi": "मांस"
+    },
+    {
+     "sa": "लाव-कपिञ्जलम्",
+     "iast": "lāva-kapiñjalam",
+     "en": "of quail and grey partridge",
+     "hi": "लावा और कपिञ्जल का"
+    }
+   ],
+   "english": "With the body smeared with sandalwood and agaru, eating barley and wheat, (one should eat) the meat of śarabha, hare, antelope, quail and grey partridge ...",
+   "hindi": "चन्दन और अगरु का लेप लगाकर, जौ और गेहूँ का भोजन करते हुए, शरभ, खरगोश, एण, लावा और कपिञ्जल का मांस ...",
+   "explanation_en": "Vasanta diet: barley (yava) and wheat (godhūma) as staples, and light jāṅgala (dry-land) meats. These are easy to digest and do not increase kapha. Exam tip: 'yava-godhūma' are recommended in vasanta and also in varṣā and śarad.",
+   "explanation_hi": "वसन्त का आहार: मुख्य अन्न जौ और गेहूँ, और लघु जांगल मांस। ये सुपाच्य हैं और कफ नहीं बढ़ाते। परीक्षा टिप: 'यव-गोधूम' वसन्त में और वर्षा व शरद् में भी अनुशंसित हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vasanta āhāra",
+    "yava",
+    "godhūma",
+    "jāṅgala māṃsa"
+   ],
+   "tags": [
+    "ritucharya",
+    "vasanta",
+    "diet"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.26",
+   "word_meanings": [
+    {
+     "sa": "भक्षयेत्",
+     "iast": "bhakṣayet",
+     "en": "should eat",
+     "hi": "खाए"
+    },
+    {
+     "sa": "निर्गदम्",
+     "iast": "nirgadam",
+     "en": "free from impurity, wholesome",
+     "hi": "निर्गद (दोषरहित)"
+    },
+    {
+     "sa": "सीधुम्",
+     "iast": "sīdhum",
+     "en": "sīdhu",
+     "hi": "सीधु"
+    },
+    {
+     "sa": "पिबेत्",
+     "iast": "pibet",
+     "en": "should drink",
+     "hi": "पिए"
+    },
+    {
+     "sa": "माध्वीकम्",
+     "iast": "mādhvīkam",
+     "en": "mādhvīka (wine made from madhūka/honey)",
+     "hi": "माध्वीक"
+    },
+    {
+     "sa": "एव वा",
+     "iast": "eva vā",
+     "en": "or else",
+     "hi": "अथवा"
+    },
+    {
+     "sa": "वसन्ते",
+     "iast": "vasante",
+     "en": "in spring",
+     "hi": "वसन्त में"
+    },
+    {
+     "sa": "अनुभवेत्",
+     "iast": "anubhavet",
+     "en": "should enjoy",
+     "hi": "अनुभव करे"
+    },
+    {
+     "sa": "स्त्रीणाम्",
+     "iast": "strīṇām",
+     "en": "of women",
+     "hi": "स्त्रियों के"
+    },
+    {
+     "sa": "काननानाम्",
+     "iast": "kānanānām",
+     "en": "of gardens/forests",
+     "hi": "उपवनों के"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "यौवनम्",
+     "iast": "yauvanam",
+     "en": "youth, bloom",
+     "hi": "यौवन"
+    }
+   ],
+   "english": "... and should drink pure (wholesome) sīdhu or mādhvīka. In spring one should enjoy the youthfulness of women and of gardens (in bloom).",
+   "hindi": "... और निर्गद (दोषरहित) सीधु या माध्वीक पीना चाहिए। वसन्त में स्त्रियों और (खिले हुए) उपवनों के यौवन का आनन्द लेना चाहिए।",
+   "explanation_en": "Light fermented drinks are mentioned as part of the classical regimen. The poetic advice to enjoy the bloom of gardens reflects the role of pleasant surroundings and cheerfulness in health. Exam tip: Caraka's ṛtucaryā includes mental recreation, not only diet.",
+   "explanation_hi": "हल्के किण्वित पेय शास्त्रीय विधान के अंग के रूप में बताए गए हैं। उपवनों के सौन्दर्य का आनन्द लेने की काव्यमय सलाह स्वास्थ्य में सुखद वातावरण और प्रसन्नता की भूमिका को दर्शाती है। परीक्षा टिप: चरक की ऋतुचर्या में केवल आहार नहीं, मानसिक मनोरंजन भी है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vasanta",
+    "sīdhu",
+    "mādhvīka"
+   ],
+   "tags": [
+    "ritucharya",
+    "vasanta",
+    "lifestyle"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.27",
+   "word_meanings": [
+    {
+     "sa": "मयूखैः",
+     "iast": "mayūkhaiḥ",
+     "en": "by its rays",
+     "hi": "किरणों से"
+    },
+    {
+     "sa": "जगतः",
+     "iast": "jagataḥ",
+     "en": "of the world",
+     "hi": "जगत् का"
+    },
+    {
+     "sa": "स्नेहम्",
+     "iast": "sneham",
+     "en": "moisture",
+     "hi": "स्नेह"
+    },
+    {
+     "sa": "ग्रीष्मे",
+     "iast": "grīṣme",
+     "en": "in summer",
+     "hi": "ग्रीष्म में"
+    },
+    {
+     "sa": "पेपीयते",
+     "iast": "pepīyate",
+     "en": "drinks up repeatedly",
+     "hi": "बार-बार पी जाता है"
+    },
+    {
+     "sa": "रविः",
+     "iast": "raviḥ",
+     "en": "the sun",
+     "hi": "सूर्य"
+    },
+    {
+     "sa": "स्वादु",
+     "iast": "svādu",
+     "en": "sweet",
+     "hi": "मधुर"
+    },
+    {
+     "sa": "शीतम्",
+     "iast": "śītam",
+     "en": "cold",
+     "hi": "शीतल"
+    },
+    {
+     "sa": "द्रवम्",
+     "iast": "dravam",
+     "en": "liquid",
+     "hi": "द्रव"
+    },
+    {
+     "sa": "स्निग्धम्",
+     "iast": "snigdham",
+     "en": "unctuous",
+     "hi": "स्निग्ध"
+    },
+    {
+     "sa": "अन्न-पानम्",
+     "iast": "anna-pānam",
+     "en": "food and drink",
+     "hi": "अन्न-पान"
+    },
+    {
+     "sa": "तदा",
+     "iast": "tadā",
+     "en": "then",
+     "hi": "तब"
+    },
+    {
+     "sa": "हितम्",
+     "iast": "hitam",
+     "en": "beneficial",
+     "hi": "हितकर"
+    }
+   ],
+   "english": "In summer the sun, by its rays, repeatedly drinks up the moisture of the world; at that time sweet, cold, liquid and unctuous food and drink are beneficial.",
+   "hindi": "ग्रीष्म में सूर्य अपनी किरणों से जगत् के स्नेह (नमी) को बार-बार पी जाता है; उस समय मधुर, शीतल, द्रव और स्निग्ध अन्न-पान हितकर होता है।",
+   "explanation_en": "Grīṣma is the peak of ādāna: intense dryness and heat. The diet must therefore counteract it with madhura, śīta, drava and snigdha qualities. Exam tip: 'svādu-śīta-drava-snigdha' are the four qualities of grīṣma diet - asked very often.",
+   "explanation_hi": "ग्रीष्म आदान का चरम है: तीव्र रूक्षता और गर्मी। इसलिए आहार में मधुर, शीत, द्रव और स्निग्ध गुण होने चाहिए। परीक्षा टिप: 'स्वादु-शीत-द्रव-स्निग्ध' ग्रीष्म के आहार के चार गुण हैं - बहुत पूछा जाता है।",
+   "modern_correlation": {
+    "en": "In hot weather, sweat losses increase the need for fluids and electrolytes; modern advice to drink plenty of fluids and prefer lighter, water-rich foods in heat is often compared to this verse.",
+    "hi": "गर्म मौसम में पसीने से जल-हानि बढ़ने के कारण तरल और इलेक्ट्रोलाइट की आवश्यकता बढ़ती है; गर्मी में भरपूर तरल पीने और हल्के, जल-युक्त आहार की आधुनिक सलाह की तुलना अक्सर इस श्लोक से की जाती है।"
+   },
+   "key_terms": [
+    "grīṣma",
+    "grīṣma āhāra",
+    "svādu",
+    "śīta",
+    "drava",
+    "snigdha"
+   ],
+   "tags": [
+    "ritucharya",
+    "grishma",
+    "diet",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Summer food: Sweet, Cold, Liquid, Oily (S-C-L-O)",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.28",
+   "word_meanings": [
+    {
+     "sa": "शीतम्",
+     "iast": "śītam",
+     "en": "cold",
+     "hi": "शीतल"
+    },
+    {
+     "sa": "स-शर्करम्",
+     "iast": "sa-śarkaram",
+     "en": "with sugar",
+     "hi": "शक्कर सहित"
+    },
+    {
+     "sa": "मन्थम्",
+     "iast": "mantham",
+     "en": "mantha (roasted flour churned in water)",
+     "hi": "मन्थ"
+    },
+    {
+     "sa": "जाङ्गलान्",
+     "iast": "jāṅgalān",
+     "en": "of dry-land",
+     "hi": "जांगल"
+    },
+    {
+     "sa": "मृग-पक्षिणः",
+     "iast": "mṛga-pakṣiṇaḥ",
+     "en": "animals and birds",
+     "hi": "पशु-पक्षी"
+    },
+    {
+     "sa": "घृतम्",
+     "iast": "ghṛtam",
+     "en": "ghee",
+     "hi": "घी"
+    },
+    {
+     "sa": "पयः",
+     "iast": "payaḥ",
+     "en": "milk",
+     "hi": "दूध"
+    },
+    {
+     "sa": "स-शालि-अन्नम्",
+     "iast": "sa-śāli-annam",
+     "en": "with śāli rice",
+     "hi": "शालि चावल सहित"
+    },
+    {
+     "sa": "भजन्",
+     "iast": "bhajan",
+     "en": "consuming",
+     "hi": "सेवन करता हुआ"
+    },
+    {
+     "sa": "ग्रीष्मे",
+     "iast": "grīṣme",
+     "en": "in summer",
+     "hi": "ग्रीष्म में"
+    },
+    {
+     "sa": "न सीदति",
+     "iast": "na sīdati",
+     "en": "does not suffer (weaken)",
+     "hi": "दुर्बल नहीं होता"
+    }
+   ],
+   "english": "One who consumes cold mantha with sugar, the meat of dry-land animals and birds, ghee and milk with śāli rice, does not suffer in summer.",
+   "hindi": "जो ग्रीष्म में शक्कर सहित शीतल मन्थ, जांगल पशु-पक्षियों का मांस, और शालि चावल के साथ घी और दूध का सेवन करता है, वह दुर्बल नहीं होता।",
+   "explanation_en": "Grīṣma foods: mantha (a cooling drink of roasted grain flour churned in water) with sugar, light jāṅgala meats, ghee, milk and śāli rice. Note that mantha is good in summer, while udamantha is forbidden in winter and rains. Exam tip: 'saśarkara mantha in grīṣma' is a frequent MCQ.",
+   "explanation_hi": "ग्रीष्म के आहार: शक्कर के साथ मन्थ (भुने अन्न के आटे को पानी में मथकर बना शीतल पेय), लघु जांगल मांस, घी, दूध और शालि चावल। ध्यान दें कि मन्थ गर्मी में हितकर है, जबकि उदमन्थ शीत और वर्षा में वर्जित है। परीक्षा टिप: 'ग्रीष्म में सशर्कर मन्थ' बहुत पूछा जाने वाला MCQ है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "grīṣma āhāra",
+    "mantha",
+    "śāli"
+   ],
+   "tags": [
+    "ritucharya",
+    "grishma",
+    "diet",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.29",
+   "word_meanings": [
+    {
+     "sa": "मद्यम्",
+     "iast": "madyam",
+     "en": "alcohol",
+     "hi": "मद्य"
+    },
+    {
+     "sa": "अल्पम्",
+     "iast": "alpam",
+     "en": "(in) small (quantity)",
+     "hi": "थोड़ा"
+    },
+    {
+     "sa": "न वा",
+     "iast": "na vā",
+     "en": "or not at all",
+     "hi": "या बिल्कुल नहीं"
+    },
+    {
+     "sa": "पेयम्",
+     "iast": "peyam",
+     "en": "to be drunk",
+     "hi": "पीने योग्य"
+    },
+    {
+     "sa": "अथवा",
+     "iast": "athavā",
+     "en": "or",
+     "hi": "अथवा"
+    },
+    {
+     "sa": "सु-बहु-उदकम्",
+     "iast": "su-bahu-udakam",
+     "en": "with plenty of water",
+     "hi": "बहुत जल मिलाकर"
+    },
+    {
+     "sa": "लवण-अम्ल-कटु-उष्णानि",
+     "iast": "lavaṇa-amla-kaṭu-uṣṇāni",
+     "en": "salty, sour, pungent and hot (things)",
+     "hi": "लवण, अम्ल, कटु और उष्ण (पदार्थ)"
+    },
+    {
+     "sa": "व्यायामम्",
+     "iast": "vyāyāmam",
+     "en": "exercise",
+     "hi": "व्यायाम"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "विवर्जयेत्",
+     "iast": "vivarjayet",
+     "en": "should avoid",
+     "hi": "त्याग करे"
+    }
+   ],
+   "english": "Alcohol should be taken in small quantity, or not at all, or well diluted with water. One should avoid salty, sour, pungent and hot things, and exercise.",
+   "hindi": "मद्य थोड़ी मात्रा में, या बिल्कुल नहीं, या बहुत जल मिलाकर पीना चाहिए। लवण, अम्ल, कटु और उष्ण पदार्थों तथा व्यायाम का त्याग करना चाहिए।",
+   "explanation_en": "In grīṣma, things that increase heat and dryness are restricted: alcohol (minimal or none), salty, sour, pungent and hot foods, and exercise. Exam tip: lavaṇa-amla-kaṭu-uṣṇa and vyāyāma are contraindicated in grīṣma.",
+   "explanation_hi": "ग्रीष्म में गर्मी और रूक्षता बढ़ाने वाली चीज़ें सीमित हैं: मद्य (बहुत कम या नहीं), लवण, अम्ल, कटु और उष्ण आहार, और व्यायाम। परीक्षा टिप: ग्रीष्म में लवण-अम्ल-कटु-उष्ण और व्यायाम वर्जित हैं।",
+   "modern_correlation": {
+    "en": "Strenuous exercise in high heat raises the risk of heat exhaustion and heat stroke, and alcohol increases dehydration; modern heat-health advice similarly recommends limiting both.",
+    "hi": "अधिक गर्मी में कठिन व्यायाम से हीट एग्ज़ॉशन और लू (हीट स्ट्रोक) का जोखिम बढ़ता है, और मद्य निर्जलीकरण बढ़ाता है; गर्मी से बचाव की आधुनिक सलाह भी दोनों को सीमित करने की है।"
+   },
+   "key_terms": [
+    "grīṣma apathya",
+    "madya",
+    "vyāyāma"
+   ],
+   "tags": [
+    "ritucharya",
+    "grishma",
+    "apathya",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.30",
+   "word_meanings": [
+    {
+     "sa": "दिवा",
+     "iast": "divā",
+     "en": "by day",
+     "hi": "दिन में"
+    },
+    {
+     "sa": "शीत-गृहे",
+     "iast": "śīta-gṛhe",
+     "en": "in a cool house",
+     "hi": "शीतल घर में"
+    },
+    {
+     "sa": "निद्राम्",
+     "iast": "nidrām",
+     "en": "sleep",
+     "hi": "नींद"
+    },
+    {
+     "sa": "निशि",
+     "iast": "niśi",
+     "en": "at night",
+     "hi": "रात में"
+    },
+    {
+     "sa": "चन्द्र-अंशु-शीतले",
+     "iast": "candra-aṃśu-śītale",
+     "en": "cooled by moonbeams",
+     "hi": "चन्द्र-किरणों से शीतल"
+    },
+    {
+     "sa": "भजेत्",
+     "iast": "bhajet",
+     "en": "should take",
+     "hi": "ले"
+    },
+    {
+     "sa": "चन्दन-दिग्ध-अङ्गः",
+     "iast": "candana-digdha-aṅgaḥ",
+     "en": "with body smeared with sandalwood",
+     "hi": "चन्दन का लेप लगाए हुए"
+    },
+    {
+     "sa": "प्रवाते",
+     "iast": "pravāte",
+     "en": "in a breezy (place)",
+     "hi": "हवादार (स्थान) में"
+    },
+    {
+     "sa": "हर्म्य-मस्तके",
+     "iast": "harmya-mastake",
+     "en": "on the roof of a mansion",
+     "hi": "भवन की छत पर"
+    }
+   ],
+   "english": "By day one should sleep in a cool house; at night, with the body smeared with sandalwood paste, one should sleep on a breezy rooftop cooled by moonbeams.",
+   "hindi": "दिन में शीतल घर में सोना चाहिए; रात में चन्दन का लेप लगाकर, चन्द्र-किरणों से शीतल, हवादार छत पर सोना चाहिए।",
+   "explanation_en": "Day sleep (divāsvapna) is generally forbidden, but it is permitted in grīṣma because nights are short and the body is depleted. Sleeping on a rooftop at night in moonlight and breeze is cooling. Exam tip: 'divāsvapna is allowed in grīṣma' is a very common MCQ.",
+   "explanation_hi": "दिवास्वप्न सामान्यतः वर्जित है, पर ग्रीष्म में इसकी अनुमति है क्योंकि रातें छोटी होती हैं और शरीर क्षीण होता है। रात में चाँदनी और हवा में छत पर सोना शीतलता देता है। परीक्षा टिप: 'ग्रीष्म में दिवास्वप्न अनुमत है' बहुत सामान्य MCQ है।",
+   "modern_correlation": {
+    "en": "A short daytime rest in a cool place during peak heat is common in hot climates (siesta) and can reduce heat stress and compensate for shorter or disturbed night sleep.",
+    "hi": "गर्म जलवायु में दोपहर की तेज़ गर्मी में ठण्डी जगह पर थोड़ा विश्राम (सिएस्टा) सामान्य है, और यह गर्मी का तनाव कम कर सकता है तथा छोटी या बाधित रात्रि-नींद की पूर्ति कर सकता है।"
+   },
+   "key_terms": [
+    "grīṣma vihāra",
+    "divāsvapna",
+    "candana"
+   ],
+   "tags": [
+    "ritucharya",
+    "grishma",
+    "sleep",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.31",
+   "word_meanings": [
+    {
+     "sa": "व्यजनैः",
+     "iast": "vyajanaiḥ",
+     "en": "with fans",
+     "hi": "पंखों से"
+    },
+    {
+     "sa": "पाणि-संस्पर्शैः",
+     "iast": "pāṇi-saṃsparśaiḥ",
+     "en": "with the touch of hands",
+     "hi": "हाथों के स्पर्श से"
+    },
+    {
+     "sa": "चन्दन-उदक-शीतलैः",
+     "iast": "candana-udaka-śītalaiḥ",
+     "en": "cooled with sandalwood water",
+     "hi": "चन्दन-जल से शीतल"
+    },
+    {
+     "sa": "सेव्यमानः",
+     "iast": "sevyamānaḥ",
+     "en": "being attended",
+     "hi": "सेवित होता हुआ"
+    },
+    {
+     "sa": "भजेत्",
+     "iast": "bhajet",
+     "en": "should enjoy",
+     "hi": "सेवन करे"
+    },
+    {
+     "sa": "आस्याम्",
+     "iast": "āsyām",
+     "en": "sitting, rest",
+     "hi": "आसन (बैठना)"
+    },
+    {
+     "sa": "मुक्ता-मणि-विभूषितः",
+     "iast": "muktā-maṇi-vibhūṣitaḥ",
+     "en": "adorned with pearls and gems",
+     "hi": "मोती और मणियों से सजा हुआ"
+    }
+   ],
+   "english": "Adorned with pearls and gems, one should rest while being fanned and touched by hands cooled with sandalwood water.",
+   "hindi": "मोती और मणियों से सजकर, चन्दन-जल से शीतल पंखों और हाथों के स्पर्श से सेवित होकर विश्राम करना चाहिए।",
+   "explanation_en": "More cooling measures for summer: fans, cool touch with sandalwood water and wearing pearls (considered cooling). The overall principle is to counter heat with śīta measures.",
+   "explanation_hi": "गर्मी के लिए और शीतल उपाय: पंखे, चन्दन-जल से शीतल स्पर्श और मोती पहनना (जिसे शीतल माना जाता है)। सामान्य सिद्धान्त है गर्मी का प्रतिकार शीत उपायों से करना।",
+   "modern_correlation": null,
+   "key_terms": [
+    "grīṣma vihāra",
+    "vyajana",
+    "muktā"
+   ],
+   "tags": [
+    "ritucharya",
+    "grishma",
+    "lifestyle"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.32",
+   "word_meanings": [
+    {
+     "sa": "काननानि",
+     "iast": "kānanāni",
+     "en": "gardens, forests",
+     "hi": "उपवन"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "शीतानि",
+     "iast": "śītāni",
+     "en": "cool",
+     "hi": "शीतल"
+    },
+    {
+     "sa": "जलानि",
+     "iast": "jalāni",
+     "en": "waters",
+     "hi": "जल"
+    },
+    {
+     "sa": "कुसुमानि",
+     "iast": "kusumāni",
+     "en": "flowers",
+     "hi": "पुष्प"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "ग्रीष्म-काले",
+     "iast": "grīṣma-kāle",
+     "en": "in the summer season",
+     "hi": "ग्रीष्म काल में"
+    },
+    {
+     "sa": "निषेवेत",
+     "iast": "niṣeveta",
+     "en": "should enjoy",
+     "hi": "सेवन करे"
+    },
+    {
+     "sa": "मैथुनात् विरतः",
+     "iast": "maithunāt virataḥ",
+     "en": "abstaining from sexual intercourse",
+     "hi": "मैथुन से विरत"
+    },
+    {
+     "sa": "नरः",
+     "iast": "naraḥ",
+     "en": "a person",
+     "hi": "मनुष्य"
+    }
+   ],
+   "english": "In the summer season one should enjoy cool gardens, waters and flowers, and abstain from sexual intercourse.",
+   "hindi": "ग्रीष्म काल में शीतल उपवनों, जल और पुष्पों का सेवन करना चाहिए, और मैथुन से विरत रहना चाहिए।",
+   "explanation_en": "Summer recreation is cooling (gardens, water, flowers), and sexual activity is to be avoided because strength is lowest. Exam tip: abstinence (maithuna-virati) is specifically advised in grīṣma.",
+   "explanation_hi": "गर्मी का मनोरंजन शीतल हो (उपवन, जल, पुष्प), और मैथुन से बचना चाहिए क्योंकि बल सबसे कम होता है। परीक्षा टिप: ग्रीष्म में विशेष रूप से मैथुन-विरति की सलाह है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "grīṣma vihāra",
+    "maithuna virati"
+   ],
+   "tags": [
+    "ritucharya",
+    "grishma",
+    "lifestyle",
+    "exam"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.33",
+   "word_meanings": [
+    {
+     "sa": "आदान-दुर्बले",
+     "iast": "ādāna-durbale",
+     "en": "weakened by the ādāna period",
+     "hi": "आदान काल से दुर्बल"
+    },
+    {
+     "sa": "देहे",
+     "iast": "dehe",
+     "en": "in the body",
+     "hi": "शरीर में"
+    },
+    {
+     "sa": "पक्ता",
+     "iast": "paktā",
+     "en": "the digestive fire",
+     "hi": "पाचक अग्नि"
+    },
+    {
+     "sa": "भवति",
+     "iast": "bhavati",
+     "en": "becomes",
+     "hi": "होती है"
+    },
+    {
+     "sa": "दुर्बलः",
+     "iast": "durbalaḥ",
+     "en": "weak",
+     "hi": "दुर्बल"
+    },
+    {
+     "sa": "सः",
+     "iast": "saḥ",
+     "en": "that",
+     "hi": "वह"
+    },
+    {
+     "sa": "वर्षासु",
+     "iast": "varṣāsu",
+     "en": "in the rainy season",
+     "hi": "वर्षा ऋतु में"
+    },
+    {
+     "sa": "अनिल-आदीनाम्",
+     "iast": "anila-ādīnām",
+     "en": "of vāta and the other (doṣas)",
+     "hi": "वात आदि (दोषों) के"
+    },
+    {
+     "sa": "दूषणैः",
+     "iast": "dūṣaṇaiḥ",
+     "en": "by vitiation",
+     "hi": "दूषण से"
+    },
+    {
+     "sa": "बाध्यते",
+     "iast": "bādhyate",
+     "en": "is afflicted",
+     "hi": "पीड़ित होती है"
+    },
+    {
+     "sa": "पुनः",
+     "iast": "punaḥ",
+     "en": "further",
+     "hi": "फिर"
+    }
+   ],
+   "english": "In a body weakened by the ādāna period, the digestive fire becomes weak; in the rainy season it is further afflicted by the vitiation of vāta and the other doṣas.",
+   "hindi": "आदान काल से दुर्बल शरीर में पाचक अग्नि दुर्बल हो जाती है; वर्षा ऋतु में वह वात आदि दोषों के दूषण से और भी पीड़ित होती है।",
+   "explanation_en": "Varṣā follows the weakest point of ādāna (grīṣma), so agni is already weak; the rains then vitiate all three doṣas, weakening agni further. Exam tip: agni is weakest in varṣā; 'tridoṣa prakopa in varṣā' (especially vāta prakopa, pitta caya).",
+   "explanation_hi": "वर्षा ऋतु आदान के सबसे दुर्बल बिन्दु (ग्रीष्म) के बाद आती है, इसलिए अग्नि पहले से दुर्बल होती है; फिर वर्षा तीनों दोषों को दूषित करके अग्नि को और दुर्बल करती है। परीक्षा टिप: वर्षा में अग्नि सबसे दुर्बल; 'वर्षा में त्रिदोष प्रकोप' (विशेषकर वात का प्रकोप, पित्त का चय)।",
+   "modern_correlation": {
+    "en": "The monsoon season is associated with a rise in gastrointestinal infections (contaminated water and food) and digestive complaints, which is often compared to the classical idea of weak agni and doṣa vitiation in varṣā.",
+    "hi": "मानसून का मौसम जठरान्त्र संक्रमणों (दूषित जल और भोजन) और पाचन सम्बन्धी शिकायतों की वृद्धि से जुड़ा है, जिसकी तुलना अक्सर वर्षा में दुर्बल अग्नि और दोष-दूषण के शास्त्रीय विचार से की जाती है।"
+   },
+   "key_terms": [
+    "varṣā",
+    "agnimāndya",
+    "tridoṣa prakopa"
+   ],
+   "tags": [
+    "ritucharya",
+    "varsha",
+    "agni",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.34",
+   "word_meanings": [
+    {
+     "sa": "भू-बाष्पात्",
+     "iast": "bhū-bāṣpāt",
+     "en": "due to vapour from the earth",
+     "hi": "पृथ्वी की भाप से"
+    },
+    {
+     "sa": "मेघ-निस्यन्दात्",
+     "iast": "megha-nisyandāt",
+     "en": "due to downpour from clouds",
+     "hi": "मेघों के बरसने से"
+    },
+    {
+     "sa": "पाकात् अम्लात्",
+     "iast": "pākāt amlāt",
+     "en": "due to acidic transformation",
+     "hi": "अम्ल पाक (खट्टेपन) से"
+    },
+    {
+     "sa": "जलस्य",
+     "iast": "jalasya",
+     "en": "of water",
+     "hi": "जल के"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "वर्षासु",
+     "iast": "varṣāsu",
+     "en": "in the rainy season",
+     "hi": "वर्षा ऋतु में"
+    },
+    {
+     "sa": "अग्निबले क्षीणे",
+     "iast": "agnibale kṣīṇe",
+     "en": "when the strength of agni is diminished",
+     "hi": "अग्नि का बल क्षीण होने पर"
+    },
+    {
+     "sa": "कुप्यन्ति",
+     "iast": "kupyanti",
+     "en": "are aggravated",
+     "hi": "प्रकुपित होते हैं"
+    },
+    {
+     "sa": "पवन-आदयः",
+     "iast": "pavana-ādayaḥ",
+     "en": "vāta and the other (doṣas)",
+     "hi": "वात आदि (दोष)"
+    }
+   ],
+   "english": "In the rainy season, due to vapour rising from the earth, downpour from clouds and the acidic transformation of water, and with the strength of agni diminished, vāta and the other doṣas are aggravated.",
+   "hindi": "वर्षा ऋतु में पृथ्वी से उठने वाली भाप, मेघों के बरसने और जल के अम्ल-पाक (खट्टेपन) से, तथा अग्नि का बल क्षीण होने पर, वात आदि दोष प्रकुपित होते हैं।",
+   "explanation_en": "Three environmental causes of doṣa vitiation in varṣā: bhūbāṣpa (vapour from heated earth), meghanisyanda (rain) and amlapāka of water (water turning sour/acidic, i.e. contaminated). Combined with weak agni, all doṣas are disturbed. Exam tip: 'bhūbāṣpa, meghanisyanda, jalasya amlapāka' - the three causes are asked as a short note.",
+   "explanation_hi": "वर्षा में दोष-दूषण के तीन पर्यावरणीय कारण: भूबाष्प (गर्म पृथ्वी से भाप), मेघनिस्यन्द (वर्षा) और जल का अम्लपाक (जल का खट्टा/दूषित होना)। दुर्बल अग्नि के साथ मिलकर सब दोष बिगड़ते हैं। परीक्षा टिप: 'भूबाष्प, मेघनिस्यन्द, जलस्य अम्लपाक' - ये तीन कारण लघु टिप्पणी में पूछे जाते हैं।",
+   "modern_correlation": {
+    "en": "In the monsoon, high humidity and contamination of water sources favour microbial growth, which is often compared to the classical 'amlapāka' (souring) of water.",
+    "hi": "मानसून में अधिक नमी और जल-स्रोतों का प्रदूषण सूक्ष्मजीवों की वृद्धि के अनुकूल होते हैं, जिसकी तुलना अक्सर जल के शास्त्रीय 'अम्लपाक' (खट्टा होना) से की जाती है।"
+   },
+   "key_terms": [
+    "bhūbāṣpa",
+    "meghanisyanda",
+    "amlapāka",
+    "varṣā doṣa prakopa"
+   ],
+   "tags": [
+    "ritucharya",
+    "varsha",
+    "dosha",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Rainy triad: 'Earth-steam, Cloud-stream, Sour water'",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.35",
+   "word_meanings": [
+    {
+     "sa": "तस्मात्",
+     "iast": "tasmāt",
+     "en": "therefore",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "साधारणः",
+     "iast": "sādhāraṇaḥ",
+     "en": "general (balancing all doṣas)",
+     "hi": "साधारण (सब दोषों को सम करने वाली)"
+    },
+    {
+     "sa": "सर्वः",
+     "iast": "sarvaḥ",
+     "en": "all",
+     "hi": "सम्पूर्ण"
+    },
+    {
+     "sa": "विधिः",
+     "iast": "vidhiḥ",
+     "en": "regimen",
+     "hi": "विधि"
+    },
+    {
+     "sa": "वर्षासु",
+     "iast": "varṣāsu",
+     "en": "in the rainy season",
+     "hi": "वर्षा में"
+    },
+    {
+     "sa": "शस्यते",
+     "iast": "śasyate",
+     "en": "is recommended",
+     "hi": "प्रशंसित है"
+    },
+    {
+     "sa": "उदमन्थम्",
+     "iast": "udamantham",
+     "en": "udamantha",
+     "hi": "उदमन्थ"
+    },
+    {
+     "sa": "दिवास्वप्नम्",
+     "iast": "divāsvapnam",
+     "en": "day sleep",
+     "hi": "दिन में सोना"
+    },
+    {
+     "sa": "अवश्यायम्",
+     "iast": "avaśyāyam",
+     "en": "dew",
+     "hi": "ओस"
+    },
+    {
+     "sa": "नदी-जलम्",
+     "iast": "nadī-jalam",
+     "en": "river water",
+     "hi": "नदी का जल"
+    }
+   ],
+   "english": "Therefore, in the rainy season a general (balancing) regimen is recommended in everything. Udamantha, day sleep, dew, river water ...",
+   "hindi": "इसलिए वर्षा ऋतु में सब कुछ साधारण (सब दोषों को सम रखने वाली) विधि से करना प्रशंसित है। उदमन्थ, दिवास्वप्न, ओस, नदी का जल ...",
+   "explanation_en": "Since all three doṣas are disturbed in varṣā, the regimen must be 'sādhāraṇa' (moderate, balancing all doṣas) rather than targeting one doṣa. The second half starts the list of things to avoid. Exam tip: avoid udamantha, divāsvapna, avaśyāya (dew), nadījala (river water) in varṣā.",
+   "explanation_hi": "चूँकि वर्षा में तीनों दोष बिगड़ते हैं, इसलिए विधि 'साधारण' (मध्यम, सब दोषों को सम करने वाली) होनी चाहिए, किसी एक दोष पर केन्द्रित नहीं। दूसरे भाग से वर्जित चीज़ों की सूची शुरू होती है। परीक्षा टिप: वर्षा में उदमन्थ, दिवास्वप्न, अवश्याय (ओस), नदीजल वर्जित हैं।",
+   "modern_correlation": {
+    "en": "Avoiding untreated river water during the monsoon matches modern public-health advice, as surface water is often contaminated during heavy rains.",
+    "hi": "मानसून में बिना शुद्ध किया नदी का पानी न पीना आधुनिक जन-स्वास्थ्य सलाह से मेल खाता है, क्योंकि भारी वर्षा में सतही जल अक्सर दूषित हो जाता है।"
+   },
+   "key_terms": [
+    "sādhāraṇa vidhi",
+    "varṣā apathya",
+    "nadījala",
+    "avaśyāya"
+   ],
+   "tags": [
+    "ritucharya",
+    "varsha",
+    "apathya",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.36",
+   "word_meanings": [
+    {
+     "sa": "व्यायामम्",
+     "iast": "vyāyāmam",
+     "en": "exercise",
+     "hi": "व्यायाम"
+    },
+    {
+     "sa": "आतपम्",
+     "iast": "ātapam",
+     "en": "sun exposure",
+     "hi": "धूप"
+    },
+    {
+     "sa": "च एव",
+     "iast": "ca eva",
+     "en": "and also",
+     "hi": "और भी"
+    },
+    {
+     "sa": "व्यवायम्",
+     "iast": "vyavāyam",
+     "en": "sexual intercourse",
+     "hi": "व्यवाय (मैथुन)"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "अत्र",
+     "iast": "atra",
+     "en": "here (in varṣā)",
+     "hi": "यहाँ (वर्षा में)"
+    },
+    {
+     "sa": "वर्जयेत्",
+     "iast": "varjayet",
+     "en": "should avoid",
+     "hi": "त्याग करे"
+    },
+    {
+     "sa": "पान-भोजन-संस्कारान्",
+     "iast": "pāna-bhojana-saṃskārān",
+     "en": "drinks, foods and preparations",
+     "hi": "पेय, भोजन और संस्कारित पदार्थ"
+    },
+    {
+     "sa": "प्रायः",
+     "iast": "prāyaḥ",
+     "en": "mostly",
+     "hi": "प्रायः"
+    },
+    {
+     "sa": "क्षौद्र-अन्वितान्",
+     "iast": "kṣaudra-anvitān",
+     "en": "mixed with honey",
+     "hi": "मधु से युक्त"
+    },
+    {
+     "sa": "भजेत्",
+     "iast": "bhajet",
+     "en": "should take",
+     "hi": "सेवन करे"
+    }
+   ],
+   "english": "... exercise, sun exposure and sexual intercourse should be avoided in this season. One should mostly take drinks, foods and preparations mixed with honey.",
+   "hindi": "... व्यायाम, धूप और मैथुन का इस ऋतु में त्याग करना चाहिए। पेय, भोजन और संस्कारित पदार्थ प्रायः मधु से युक्त लेने चाहिए।",
+   "explanation_en": "Varṣā apathya continues: exercise, sun and sex (which deplete strength). Honey is recommended because it is light, drying and kapha-reducing and helps counter the dampness of the season. Exam tip: 'kṣaudra (honey) in varṣā' is a common MCQ.",
+   "explanation_hi": "वर्षा के अपथ्य जारी: व्यायाम, धूप और मैथुन (जो बल को क्षीण करते हैं)। मधु की सलाह है क्योंकि वह लघु, रूक्ष और कफनाशक है और ऋतु की नमी का प्रतिकार करता है। परीक्षा टिप: 'वर्षा में क्षौद्र (मधु)' सामान्य MCQ है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "varṣā apathya",
+    "vyavāya",
+    "kṣaudra"
+   ],
+   "tags": [
+    "ritucharya",
+    "varsha",
+    "diet",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.37",
+   "word_meanings": [
+    {
+     "sa": "व्यक्त-अम्ल-लवण-स्नेहम्",
+     "iast": "vyakta-amla-lavaṇa-sneham",
+     "en": "distinctly sour, salty and unctuous (food)",
+     "hi": "स्पष्ट अम्ल, लवण और स्निग्ध (आहार)"
+    },
+    {
+     "sa": "वात-वर्ष-आकुले",
+     "iast": "vāta-varṣa-ākule",
+     "en": "disturbed by wind and rain",
+     "hi": "हवा और वर्षा से व्याकुल"
+    },
+    {
+     "sa": "अहनि",
+     "iast": "ahani",
+     "en": "on a day",
+     "hi": "दिन में"
+    },
+    {
+     "sa": "विशेष-शीते",
+     "iast": "viśeṣa-śīte",
+     "en": "especially cold",
+     "hi": "विशेष ठण्डे"
+    },
+    {
+     "sa": "भोक्तव्यम्",
+     "iast": "bhoktavyam",
+     "en": "should be eaten",
+     "hi": "खाना चाहिए"
+    },
+    {
+     "sa": "वर्षासु",
+     "iast": "varṣāsu",
+     "en": "in the rainy season",
+     "hi": "वर्षा में"
+    },
+    {
+     "sa": "अनिल-शान्तये",
+     "iast": "anila-śāntaye",
+     "en": "for pacifying vāta",
+     "hi": "वात की शान्ति के लिए"
+    }
+   ],
+   "english": "In the rainy season, on days disturbed by wind and rain and especially cold, one should eat food that is distinctly sour, salty and unctuous, for pacifying vāta.",
+   "hindi": "वर्षा ऋतु में, हवा और वर्षा से व्याकुल और विशेष ठण्डे दिनों में, वात की शान्ति के लिए स्पष्ट अम्ल, लवण और स्निग्ध आहार लेना चाहिए।",
+   "explanation_en": "Vāta is the doṣa mainly aggravated (prakopa) in varṣā, so on cold, windy, rainy days the diet leans towards amla, lavaṇa and sneha (vāta-pacifying). This shows that ṛtucaryā is also adjusted to the actual weather of each day. Exam tip: vāta prakopa in varṣā; pitta caya in varṣā.",
+   "explanation_hi": "वर्षा में मुख्यतः वात का प्रकोप होता है, इसलिए ठण्डे, हवादार, बरसाती दिनों में आहार अम्ल, लवण और स्नेह (वातशामक) की ओर झुकता है। इससे पता चलता है कि ऋतुचर्या प्रतिदिन के वास्तविक मौसम के अनुसार भी बदली जाती है। परीक्षा टिप: वर्षा में वात प्रकोप; वर्षा में पित्त चय।",
+   "modern_correlation": null,
+   "key_terms": [
+    "varṣā āhāra",
+    "vātaśamana",
+    "amla",
+    "lavaṇa",
+    "sneha"
+   ],
+   "tags": [
+    "ritucharya",
+    "varsha",
+    "diet",
+    "vata"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.38",
+   "word_meanings": [
+    {
+     "sa": "अग्नि-संरक्षण-वता",
+     "iast": "agni-saṃrakṣaṇa-vatā",
+     "en": "by one who wants to protect agni",
+     "hi": "अग्नि की रक्षा चाहने वाले को"
+    },
+    {
+     "sa": "यव-गोधूम-शालयः",
+     "iast": "yava-godhūma-śālayaḥ",
+     "en": "barley, wheat and śāli rice",
+     "hi": "जौ, गेहूँ और शालि चावल"
+    },
+    {
+     "sa": "पुराणाः",
+     "iast": "purāṇāḥ",
+     "en": "old (stored for a year)",
+     "hi": "पुराने"
+    },
+    {
+     "sa": "जाङ्गलैः मांसैः",
+     "iast": "jāṅgalaiḥ māṃsaiḥ",
+     "en": "with dry-land meats",
+     "hi": "जांगल मांस के साथ"
+    },
+    {
+     "sa": "भोज्याः",
+     "iast": "bhojyāḥ",
+     "en": "should be eaten",
+     "hi": "खाने चाहिए"
+    },
+    {
+     "sa": "यूषैः",
+     "iast": "yūṣaiḥ",
+     "en": "with soups",
+     "hi": "यूषों (दाल के रस) के साथ"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "संस्कृतैः",
+     "iast": "saṃskṛtaiḥ",
+     "en": "well-processed (spiced)",
+     "hi": "संस्कारित (मसालों से तैयार)"
+    }
+   ],
+   "english": "One who wishes to protect agni should eat old barley, wheat and śāli rice, with meats of dry-land animals and well-prepared soups.",
+   "hindi": "जो अग्नि की रक्षा करना चाहता है उसे पुराने जौ, गेहूँ और शालि चावल, जांगल मांस और संस्कारित यूषों के साथ खाने चाहिए।",
+   "explanation_en": "Old (purāṇa) grains are lighter and easier to digest than new grains, so they suit the weak agni of varṣā. Exam tip: 'purāṇa yava-godhūma-śāli' in varṣā; contrast with 'navaudana' (new rice) in hemanta.",
+   "explanation_hi": "पुराने अन्न नए अन्न से लघु और सुपाच्य होते हैं, इसलिए वर्षा की दुर्बल अग्नि के अनुकूल हैं। परीक्षा टिप: वर्षा में 'पुराण यव-गोधूम-शालि'; इसके विपरीत हेमन्त में 'नवौदन' (नया चावल)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "agnisaṃrakṣaṇa",
+    "purāṇa dhānya",
+    "yūṣa",
+    "jāṅgala māṃsa"
+   ],
+   "tags": [
+    "ritucharya",
+    "varsha",
+    "diet",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.39",
+   "word_meanings": [
+    {
+     "sa": "पिबेत्",
+     "iast": "pibet",
+     "en": "should drink",
+     "hi": "पिए"
+    },
+    {
+     "sa": "क्षौद्र-अन्वितम्",
+     "iast": "kṣaudra-anvitam",
+     "en": "mixed with honey",
+     "hi": "मधु मिला हुआ"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "अल्पम्",
+     "iast": "alpam",
+     "en": "a little",
+     "hi": "थोड़ा"
+    },
+    {
+     "sa": "माध्वीक-अरिष्टम्",
+     "iast": "mādhvīka-ariṣṭam",
+     "en": "mādhvīka or ariṣṭa",
+     "hi": "माध्वीक या अरिष्ट"
+    },
+    {
+     "sa": "अम्बु",
+     "iast": "ambu",
+     "en": "water",
+     "hi": "जल"
+    },
+    {
+     "sa": "वा",
+     "iast": "vā",
+     "en": "or",
+     "hi": "या"
+    },
+    {
+     "sa": "माहेन्द्रम्",
+     "iast": "māhendram",
+     "en": "rain water",
+     "hi": "वर्षा का जल"
+    },
+    {
+     "sa": "तप्त-शीतम्",
+     "iast": "tapta-śītam",
+     "en": "boiled and cooled",
+     "hi": "उबालकर ठण्डा किया हुआ"
+    },
+    {
+     "sa": "वा",
+     "iast": "vā",
+     "en": "or",
+     "hi": "या"
+    },
+    {
+     "sa": "कौपम्",
+     "iast": "kaupam",
+     "en": "well water",
+     "hi": "कुएँ का जल"
+    },
+    {
+     "sa": "सारसम्",
+     "iast": "sārasam",
+     "en": "pond/lake water",
+     "hi": "सरोवर का जल"
+    },
+    {
+     "sa": "एव वा",
+     "iast": "eva vā",
+     "en": "or",
+     "hi": "अथवा"
+    }
+   ],
+   "english": "One should drink a little mādhvīka or ariṣṭa mixed with honey; or water - rain water, or boiled and cooled water, or well water or pond water.",
+   "hindi": "मधु मिलाकर थोड़ा माध्वीक या अरिष्ट पीना चाहिए; या जल - वर्षा का जल, या उबालकर ठण्डा किया जल, या कुएँ का या सरोवर का जल।",
+   "explanation_en": "Water in varṣā: river water is avoided (6.35); preferred sources are rain water collected directly, boiled-and-cooled water (taptaśīta), well water or pond water. Exam tip: 'taptaśīta jala' (boiled and cooled water) in the rainy season is a frequent MCQ.",
+   "explanation_hi": "वर्षा में जल: नदी का जल वर्जित है (6.35); उचित स्रोत हैं सीधे एकत्र किया वर्षा-जल, उबालकर ठण्डा किया जल (तप्तशीत), कुएँ का जल या सरोवर का जल। परीक्षा टिप: 'वर्षा में तप्तशीत जल' बहुत पूछा जाने वाला MCQ है।",
+   "modern_correlation": {
+    "en": "Boiling water is a standard modern method of making drinking water safe, particularly during the monsoon when contamination and water-borne diseases increase.",
+    "hi": "पानी उबालना पीने के पानी को सुरक्षित बनाने का मानक आधुनिक तरीका है, विशेषकर मानसून में जब प्रदूषण और जल-जनित रोग बढ़ जाते हैं।"
+   },
+   "key_terms": [
+    "taptaśīta jala",
+    "māhendra jala",
+    "kaupa jala",
+    "ariṣṭa"
+   ],
+   "tags": [
+    "ritucharya",
+    "varsha",
+    "water",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.40",
+   "word_meanings": [
+    {
+     "sa": "प्रघर्ष",
+     "iast": "pragharṣa",
+     "en": "rubbing (dry massage)",
+     "hi": "प्रघर्ष (सूखी मालिश)"
+    },
+    {
+     "sa": "उद्वर्तन",
+     "iast": "udvartana",
+     "en": "rubbing with powders",
+     "hi": "उद्वर्तन"
+    },
+    {
+     "sa": "स्नान",
+     "iast": "snāna",
+     "en": "bathing",
+     "hi": "स्नान"
+    },
+    {
+     "sa": "गन्ध-माल्य-परः",
+     "iast": "gandha-mālya-paraḥ",
+     "en": "devoted to perfumes and garlands",
+     "hi": "सुगन्ध और माला में रत"
+    },
+    {
+     "sa": "भवेत्",
+     "iast": "bhavet",
+     "en": "should be",
+     "hi": "होना चाहिए"
+    },
+    {
+     "sa": "लघु-शुद्ध-अम्बरः",
+     "iast": "laghu-śuddha-ambaraḥ",
+     "en": "wearing light, clean clothes",
+     "hi": "हल्के, स्वच्छ वस्त्र पहने हुए"
+    },
+    {
+     "sa": "स्थानम्",
+     "iast": "sthānam",
+     "en": "dwelling",
+     "hi": "स्थान"
+    },
+    {
+     "sa": "भजेत्",
+     "iast": "bhajet",
+     "en": "should resort to",
+     "hi": "रहे"
+    },
+    {
+     "sa": "अक्लेदि",
+     "iast": "akledi",
+     "en": "free from dampness",
+     "hi": "नमी रहित"
+    },
+    {
+     "sa": "वार्षिकम्",
+     "iast": "vārṣikam",
+     "en": "in the rainy season",
+     "hi": "वर्षा ऋतु में"
+    }
+   ],
+   "english": "In the rainy season one should practise dry rubbing, udvartana and bathing, use perfumes and garlands, wear light and clean clothes, and live in a dwelling free from dampness.",
+   "hindi": "वर्षा ऋतु में प्रघर्ष, उद्वर्तन और स्नान करना चाहिए, सुगन्ध और मालाओं का प्रयोग करना चाहिए, हल्के व स्वच्छ वस्त्र पहनने चाहिए, और नमी रहित स्थान में रहना चाहिए।",
+   "explanation_en": "Varṣā vihāra: body rubbing, bathing, fragrance, light clean clothing and a dry (akledi) dwelling - to counter the dampness and kleda of the season. Exam tip: 'akledi sthāna' (dry dwelling) in varṣā.",
+   "explanation_hi": "वर्षा का विहार: शरीर को मलना, स्नान, सुगन्ध, हल्के स्वच्छ वस्त्र और सूखा (अक्लेदी) निवास - ऋतु की नमी और क्लेद का प्रतिकार करने के लिए। परीक्षा टिप: वर्षा में 'अक्लेदी स्थान' (सूखा निवास)।",
+   "modern_correlation": {
+    "en": "Damp housing promotes mould growth and is linked to respiratory symptoms and skin infections; keeping living spaces and clothing dry is modern hygiene advice that parallels this verse.",
+    "hi": "नमी वाले घर में फफूँद पनपती है और यह श्वसन लक्षणों व त्वचा संक्रमणों से जुड़ी है; निवास और कपड़ों को सूखा रखना आधुनिक स्वच्छता सलाह है जो इस श्लोक से मेल खाती है।"
+   },
+   "key_terms": [
+    "varṣā vihāra",
+    "pragharṣa",
+    "akledi sthāna"
+   ],
+   "tags": [
+    "ritucharya",
+    "varsha",
+    "lifestyle"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.41",
+   "word_meanings": [
+    {
+     "sa": "वर्षा-शीत-उचित-अङ्गानाम्",
+     "iast": "varṣā-śīta-ucita-aṅgānām",
+     "en": "of those whose bodies are accustomed to the cold of the rains",
+     "hi": "वर्षा की ठण्डक के अभ्यस्त शरीर वालों का"
+    },
+    {
+     "sa": "सहसा एव",
+     "iast": "sahasā eva",
+     "en": "suddenly",
+     "hi": "अचानक ही"
+    },
+    {
+     "sa": "अर्क-रश्मिभिः",
+     "iast": "arka-raśmibhiḥ",
+     "en": "by the sun's rays",
+     "hi": "सूर्य की किरणों से"
+    },
+    {
+     "sa": "तप्तानाम्",
+     "iast": "taptānām",
+     "en": "of those heated",
+     "hi": "तपे हुए"
+    },
+    {
+     "sa": "आचितम्",
+     "iast": "ācitam",
+     "en": "accumulated",
+     "hi": "संचित"
+    },
+    {
+     "sa": "पित्तम्",
+     "iast": "pittam",
+     "en": "pitta",
+     "hi": "पित्त"
+    },
+    {
+     "sa": "प्रायः",
+     "iast": "prāyaḥ",
+     "en": "generally",
+     "hi": "प्रायः"
+    },
+    {
+     "sa": "शरदि",
+     "iast": "śaradi",
+     "en": "in autumn",
+     "hi": "शरद् में"
+    },
+    {
+     "sa": "कुप्यति",
+     "iast": "kupyati",
+     "en": "gets aggravated",
+     "hi": "प्रकुपित होता है"
+    }
+   ],
+   "english": "In those whose bodies are accustomed to the cold of the rains and are suddenly heated by the sun's rays, the pitta accumulated (during the rains) generally becomes aggravated in śarad (autumn).",
+   "hindi": "जिनके शरीर वर्षा की ठण्डक के अभ्यस्त हैं और जो अचानक सूर्य की किरणों से तपते हैं, उनमें (वर्षा में) संचित पित्त प्रायः शरद् में प्रकुपित होता है।",
+   "explanation_en": "Pitta accumulates (caya) in varṣā due to the acidic quality of water and food, and is provoked (prakopa) in śarad by the sudden strong sun after the rains. Exam tip: pitta - caya in varṣā, prakopa in śarad, praśama in hemanta.",
+   "explanation_hi": "पित्त वर्षा में जल और आहार के अम्ल गुण से संचित (चय) होता है, और वर्षा के बाद अचानक तेज़ धूप से शरद् में प्रकुपित (प्रकोप) होता है। परीक्षा टिप: पित्त - वर्षा में चय, शरद् में प्रकोप, हेमन्त में प्रशम।",
+   "modern_correlation": {
+    "en": "The sudden shift from cool, cloudy monsoon weather to strong post-monsoon sunshine (often called 'October heat' in India) brings heat stress and is associated with skin rashes and some infections; this is often compared to the classical pitta prakopa in śarad.",
+    "hi": "ठण्डे, बादल वाले मानसून मौसम से अचानक मानसून के बाद की तेज़ धूप में बदलाव (भारत में अक्सर 'अक्टूबर हीट' कहा जाता है) गर्मी का तनाव लाता है और त्वचा पर दाने तथा कुछ संक्रमणों से जुड़ा है; इसकी तुलना अक्सर शरद् में पित्त प्रकोप से की जाती है।"
+   },
+   "key_terms": [
+    "śarad",
+    "pittaprakopa",
+    "pitta caya"
+   ],
+   "tags": [
+    "ritucharya",
+    "sharad",
+    "pitta",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Doṣa cycle: Kapha (Ś-V-G), Pitta (Va-Ś-H), Vāta (G-Va-Ś): Caya-Prakopa-Praśama",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.42",
+   "word_meanings": [
+    {
+     "sa": "तत्र",
+     "iast": "tatra",
+     "en": "there (in śarad)",
+     "hi": "वहाँ (शरद् में)"
+    },
+    {
+     "sa": "अन्न-पानम्",
+     "iast": "anna-pānam",
+     "en": "food and drink",
+     "hi": "अन्न-पान"
+    },
+    {
+     "sa": "मधुरम्",
+     "iast": "madhuram",
+     "en": "sweet",
+     "hi": "मधुर"
+    },
+    {
+     "sa": "लघु",
+     "iast": "laghu",
+     "en": "light",
+     "hi": "लघु"
+    },
+    {
+     "sa": "शीतम्",
+     "iast": "śītam",
+     "en": "cold",
+     "hi": "शीतल"
+    },
+    {
+     "sa": "स-तिक्तकम्",
+     "iast": "sa-tiktakam",
+     "en": "with bitter (taste)",
+     "hi": "तिक्त सहित"
+    },
+    {
+     "sa": "पित्त-प्रशमनम्",
+     "iast": "pitta-praśamanam",
+     "en": "pacifying pitta",
+     "hi": "पित्त को शान्त करने वाला"
+    },
+    {
+     "sa": "सेव्यम्",
+     "iast": "sevyam",
+     "en": "should be taken",
+     "hi": "सेवन करना चाहिए"
+    },
+    {
+     "sa": "मात्रया",
+     "iast": "mātrayā",
+     "en": "in proper quantity",
+     "hi": "उचित मात्रा में"
+    },
+    {
+     "sa": "सु-प्रकाङ्क्षितैः",
+     "iast": "su-prakāṅkṣitaiḥ",
+     "en": "by those with good appetite",
+     "hi": "अच्छी भूख वालों द्वारा"
+    }
+   ],
+   "english": "In śarad, food and drink that are sweet, light, cold, slightly bitter and pitta-pacifying should be taken in proper quantity, when there is good appetite.",
+   "hindi": "शरद् में मधुर, लघु, शीतल, कुछ तिक्त और पित्तशामक अन्न-पान, अच्छी भूख लगने पर, उचित मात्रा में लेना चाहिए।",
+   "explanation_en": "Śarad diet: madhura, laghu, śīta and tikta - all pitta-pacifying - and only when truly hungry. Exam tip: 'madhura-laghu-śīta-tikta' are the four qualities of the śarad diet.",
+   "explanation_hi": "शरद् का आहार: मधुर, लघु, शीत और तिक्त - सभी पित्तशामक - और केवल अच्छी भूख लगने पर। परीक्षा टिप: 'मधुर-लघु-शीत-तिक्त' शरद् के आहार के चार गुण हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "śarad āhāra",
+    "pittaśamana",
+    "tikta"
+   ],
+   "tags": [
+    "ritucharya",
+    "sharad",
+    "diet",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.43",
+   "word_meanings": [
+    {
+     "sa": "लावान्",
+     "iast": "lāvān",
+     "en": "quails",
+     "hi": "लावा"
+    },
+    {
+     "sa": "कपिञ्जलान्",
+     "iast": "kapiñjalān",
+     "en": "grey partridges",
+     "hi": "कपिञ्जल"
+    },
+    {
+     "sa": "एणान्",
+     "iast": "eṇān",
+     "en": "antelopes",
+     "hi": "एण (हिरन)"
+    },
+    {
+     "sa": "उरभ्रान्",
+     "iast": "urabhrān",
+     "en": "sheep",
+     "hi": "उरभ्र (भेड़)"
+    },
+    {
+     "sa": "शरभान्",
+     "iast": "śarabhān",
+     "en": "śarabha deer",
+     "hi": "शरभ"
+    },
+    {
+     "sa": "शशान्",
+     "iast": "śaśān",
+     "en": "hares",
+     "hi": "खरगोश"
+    },
+    {
+     "sa": "शालीन्",
+     "iast": "śālīn",
+     "en": "śāli rice",
+     "hi": "शालि चावल"
+    },
+    {
+     "sa": "स-यव-गोधूमान्",
+     "iast": "sa-yava-godhūmān",
+     "en": "with barley and wheat",
+     "hi": "जौ और गेहूँ सहित"
+    },
+    {
+     "sa": "सेव्यान्",
+     "iast": "sevyān",
+     "en": "to be taken",
+     "hi": "सेवन योग्य"
+    },
+    {
+     "sa": "आहुः",
+     "iast": "āhuḥ",
+     "en": "they say",
+     "hi": "कहते हैं"
+    },
+    {
+     "sa": "घन-अत्यये",
+     "iast": "ghana-atyaye",
+     "en": "at the end of the clouds (autumn)",
+     "hi": "मेघों के अन्त (शरद्) में"
+    }
+   ],
+   "english": "At the end of the rainy season (śarad), the meat of quail, grey partridge, antelope, sheep, śarabha and hare, and śāli rice with barley and wheat, are said to be suitable.",
+   "hindi": "मेघों के अन्त (शरद्) में लावा, कपिञ्जल, एण, भेड़, शरभ और खरगोश का मांस, तथा जौ और गेहूँ के साथ शालि चावल सेवन योग्य कहे गए हैं।",
+   "explanation_en": "These are light and mostly jāṅgala foods suited to pitta. 'Ghanātyaya' (end of clouds) is a poetic synonym for śarad. Exam tip: synonyms of śarad in this chapter: ghanātyaya, dhārādharātyaya.",
+   "explanation_hi": "ये लघु और अधिकतर जांगल आहार हैं जो पित्त के अनुकूल हैं। 'घनात्यय' (मेघों का अन्त) शरद् का काव्यमय पर्याय है। परीक्षा टिप: इस अध्याय में शरद् के पर्याय: घनात्यय, धाराधरात्यय।",
+   "modern_correlation": null,
+   "key_terms": [
+    "śarad āhāra",
+    "ghanātyaya",
+    "jāṅgala māṃsa"
+   ],
+   "tags": [
+    "ritucharya",
+    "sharad",
+    "diet"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.44",
+   "word_meanings": [
+    {
+     "sa": "तिक्तस्य सर्पिषः",
+     "iast": "tiktasya sarpiṣaḥ",
+     "en": "of bitter (medicated) ghee",
+     "hi": "तिक्त घृत का"
+    },
+    {
+     "sa": "पानम्",
+     "iast": "pānam",
+     "en": "drinking",
+     "hi": "पान"
+    },
+    {
+     "sa": "विरेकः",
+     "iast": "virekaḥ",
+     "en": "purgation",
+     "hi": "विरेचन"
+    },
+    {
+     "sa": "रक्तमोक्षणम्",
+     "iast": "raktamokṣaṇam",
+     "en": "bloodletting",
+     "hi": "रक्तमोक्षण"
+    },
+    {
+     "sa": "धाराधर-अत्यये",
+     "iast": "dhārādhara-atyaye",
+     "en": "at the end of the rain-bearers (clouds), i.e. autumn",
+     "hi": "धाराधर (मेघ) के अन्त (शरद्) में"
+    },
+    {
+     "sa": "कार्यम्",
+     "iast": "kāryam",
+     "en": "should be done",
+     "hi": "करना चाहिए"
+    },
+    {
+     "sa": "आतपस्य",
+     "iast": "ātapasya",
+     "en": "of sun exposure",
+     "hi": "धूप का"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "वर्जनम्",
+     "iast": "varjanam",
+     "en": "avoidance",
+     "hi": "त्याग"
+    }
+   ],
+   "english": "In śarad (when the rain clouds are gone), one should drink bitter medicated ghee (tikta ghṛta), undergo purgation (virecana) and bloodletting (raktamokṣaṇa), and avoid exposure to the sun.",
+   "hindi": "शरद् (मेघों के अन्त) में तिक्त घृत का पान, विरेचन और रक्तमोक्षण करना चाहिए, और धूप से बचना चाहिए।",
+   "explanation_en": "The three classic pitta measures of śarad: tiktaka ghṛta pāna, virecana (the main śodhana for pitta) and raktamokṣaṇa (since rakta and pitta are closely related). Exam tip: 'virecana and raktamokṣaṇa in śarad' is one of the most asked MCQs in ṛtucaryā.",
+   "explanation_hi": "शरद् के तीन क्लासिक पित्त-उपाय: तिक्त घृत पान, विरेचन (पित्त का मुख्य शोधन) और रक्तमोक्षण (क्योंकि रक्त और पित्त घनिष्ठ रूप से सम्बन्धित हैं)। परीक्षा टिप: 'शरद् में विरेचन और रक्तमोक्षण' ऋतुचर्या के सबसे अधिक पूछे जाने वाले MCQ में से है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "śarad caryā",
+    "tiktaka ghṛta",
+    "virecana",
+    "raktamokṣaṇa"
+   ],
+   "tags": [
+    "ritucharya",
+    "sharad",
+    "shodhana",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Śarad: 'Tikta ghee, Virecana, Rakta-mokṣaṇa' = T-V-R",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.45",
+   "word_meanings": [
+    {
+     "sa": "वसाम्",
+     "iast": "vasām",
+     "en": "muscle fat",
+     "hi": "वसा"
+    },
+    {
+     "sa": "तैलम्",
+     "iast": "tailam",
+     "en": "oil",
+     "hi": "तेल"
+    },
+    {
+     "sa": "अवश्यायम्",
+     "iast": "avaśyāyam",
+     "en": "dew",
+     "hi": "ओस"
+    },
+    {
+     "sa": "औदक-आनूपम्",
+     "iast": "audaka-ānūpam",
+     "en": "of aquatic and marshy animals",
+     "hi": "औदक और आनूप"
+    },
+    {
+     "sa": "आमिषम्",
+     "iast": "āmiṣam",
+     "en": "meat",
+     "hi": "मांस"
+    },
+    {
+     "sa": "क्षारम्",
+     "iast": "kṣāram",
+     "en": "alkali",
+     "hi": "क्षार"
+    },
+    {
+     "sa": "दधि",
+     "iast": "dadhi",
+     "en": "curd",
+     "hi": "दही"
+    },
+    {
+     "sa": "दिवास्वप्नम्",
+     "iast": "divāsvapnam",
+     "en": "day sleep",
+     "hi": "दिन में सोना"
+    },
+    {
+     "sa": "प्राग्वातम्",
+     "iast": "prāgvātam",
+     "en": "easterly wind",
+     "hi": "पूर्वी हवा"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "अत्र",
+     "iast": "atra",
+     "en": "here (in śarad)",
+     "hi": "यहाँ (शरद् में)"
+    },
+    {
+     "sa": "वर्जयेत्",
+     "iast": "varjayet",
+     "en": "should avoid",
+     "hi": "त्याग करे"
+    }
+   ],
+   "english": "In śarad one should avoid muscle fat, oil, dew, meat of aquatic and marshy animals, alkalis, curd, day sleep and the easterly wind.",
+   "hindi": "शरद् में वसा, तेल, ओस, औदक और आनूप मांस, क्षार, दही, दिवास्वप्न और पूर्वी हवा का त्याग करना चाहिए।",
+   "explanation_en": "Śarad apathya: hot and heavy items that aggravate pitta (vasā, taila, kṣāra, dadhi, ānūpa meat) and day sleep, dew and the east wind. Exam tip: 'dadhi is forbidden in śarad' (and also in vasanta, grīṣma per other texts) - frequent MCQ.",
+   "explanation_hi": "शरद् के अपथ्य: पित्त बढ़ाने वाले उष्ण और गुरु पदार्थ (वसा, तेल, क्षार, दही, आनूप मांस) और दिवास्वप्न, ओस व पूर्वी हवा। परीक्षा टिप: 'शरद् में दही वर्जित' (अन्य ग्रन्थों में वसन्त, ग्रीष्म में भी) - बार-बार पूछा जाने वाला MCQ।",
+   "modern_correlation": null,
+   "key_terms": [
+    "śarad apathya",
+    "dadhi",
+    "kṣāra",
+    "prāgvāta"
+   ],
+   "tags": [
+    "ritucharya",
+    "sharad",
+    "apathya",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.46",
+   "word_meanings": [
+    {
+     "sa": "दिवा",
+     "iast": "divā",
+     "en": "by day",
+     "hi": "दिन में"
+    },
+    {
+     "sa": "सूर्य-अंशु-संतप्तम्",
+     "iast": "sūrya-aṃśu-saṃtaptam",
+     "en": "heated by the sun's rays",
+     "hi": "सूर्य की किरणों से तपा हुआ"
+    },
+    {
+     "sa": "निशि",
+     "iast": "niśi",
+     "en": "at night",
+     "hi": "रात में"
+    },
+    {
+     "sa": "चन्द्र-अंशु-शीतलम्",
+     "iast": "candra-aṃśu-śītalam",
+     "en": "cooled by the moon's rays",
+     "hi": "चन्द्र-किरणों से शीतल"
+    },
+    {
+     "sa": "कालेन पक्वम्",
+     "iast": "kālena pakvam",
+     "en": "matured by time",
+     "hi": "काल से पका हुआ"
+    },
+    {
+     "sa": "निर्दोषम्",
+     "iast": "nirdoṣam",
+     "en": "free from defects",
+     "hi": "दोषरहित"
+    },
+    {
+     "sa": "अगस्त्येन",
+     "iast": "agastyena",
+     "en": "by (the rising of the star) Agastya",
+     "hi": "अगस्त्य (तारे के उदय) से"
+    },
+    {
+     "sa": "अविषीकृतम्",
+     "iast": "aviṣīkṛtam",
+     "en": "rendered non-toxic",
+     "hi": "विषरहित किया हुआ"
+    }
+   ],
+   "english": "(Water that is) heated by the sun's rays by day and cooled by the moon's rays at night, matured by time, free from defects and rendered non-toxic by (the rising of the star) Agastya ...",
+   "hindi": "(वह जल जो) दिन में सूर्य की किरणों से तपता है और रात में चन्द्र-किरणों से शीतल होता है, काल से पका हुआ, दोषरहित, और अगस्त्य (तारे के उदय) से विषरहित किया हुआ ...",
+   "explanation_en": "This begins the famous description of haṃsodaka (completed in the next verse): autumn water purified naturally by sun, moon, time and the rising of the star Agastya (Canopus), which in Indian tradition marks the end of the rains. Exam tip: haṃsodaka is one of the most commonly asked topics in ṛtucaryā.",
+   "explanation_hi": "यह प्रसिद्ध हंसोदक के वर्णन की शुरुआत है (अगले श्लोक में पूरा): शरद् का जल जो सूर्य, चन्द्रमा, काल और अगस्त्य तारे (कैनोपस) के उदय से स्वाभाविक रूप से शुद्ध होता है; भारतीय परम्परा में अगस्त्य का उदय वर्षा के अन्त का सूचक है। परीक्षा टिप: हंसोदक ऋतुचर्या के सबसे अधिक पूछे जाने वाले विषयों में से है।",
+   "modern_correlation": {
+    "en": "Sunlight (ultraviolet radiation) and settling of suspended matter over time can reduce microbial load in standing water, which is the principle behind solar water disinfection; this is a partial parallel to haṃsodaka, not proof that such water is safe without treatment.",
+    "hi": "सूर्य का प्रकाश (पराबैंगनी विकिरण) और समय के साथ निलम्बित कणों का नीचे बैठ जाना स्थिर जल में सूक्ष्मजीवों को कम कर सकता है, जो सौर जल-शोधन का सिद्धान्त है; यह हंसोदक से आंशिक समानता है, यह प्रमाण नहीं कि ऐसा जल बिना शोधन के सुरक्षित है।"
+   },
+   "key_terms": [
+    "haṃsodaka",
+    "agastya",
+    "aviṣīkṛta"
+   ],
+   "tags": [
+    "ritucharya",
+    "sharad",
+    "hamsodaka",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.47",
+   "word_meanings": [
+    {
+     "sa": "हंसोदकम्",
+     "iast": "haṃsodakam",
+     "en": "haṃsodaka (swan-water)",
+     "hi": "हंसोदक"
+    },
+    {
+     "sa": "इति",
+     "iast": "iti",
+     "en": "thus",
+     "hi": "इस प्रकार"
+    },
+    {
+     "sa": "ख्यातम्",
+     "iast": "khyātam",
+     "en": "known",
+     "hi": "प्रसिद्ध"
+    },
+    {
+     "sa": "शारदम्",
+     "iast": "śāradam",
+     "en": "of autumn",
+     "hi": "शरद् का"
+    },
+    {
+     "sa": "विमलम्",
+     "iast": "vimalam",
+     "en": "clear",
+     "hi": "निर्मल"
+    },
+    {
+     "sa": "शुचि",
+     "iast": "śuci",
+     "en": "pure",
+     "hi": "पवित्र, शुद्ध"
+    },
+    {
+     "sa": "स्नान-पान-अवगाहेषु",
+     "iast": "snāna-pāna-avagāheṣu",
+     "en": "for bathing, drinking and immersion",
+     "hi": "स्नान, पान और अवगाहन के लिए"
+    },
+    {
+     "sa": "हितम्",
+     "iast": "hitam",
+     "en": "beneficial",
+     "hi": "हितकर"
+    },
+    {
+     "sa": "अम्बु",
+     "iast": "ambu",
+     "en": "water",
+     "hi": "जल"
+    },
+    {
+     "sa": "यथा अमृतम्",
+     "iast": "yathā amṛtam",
+     "en": "like nectar",
+     "hi": "अमृत के समान"
+    }
+   ],
+   "english": "... is known as haṃsodaka. This autumn water is clear and pure and, like nectar, is beneficial for bathing, drinking and immersion.",
+   "hindi": "... हंसोदक के नाम से प्रसिद्ध है। यह शरद् का जल निर्मल और शुद्ध है, और अमृत के समान स्नान, पान और अवगाहन के लिए हितकर है।",
+   "explanation_en": "Haṃsodaka: autumn water exposed to sun by day and moon by night, matured by time and detoxified by Agastya. It is described as amṛta-like for snāna, pāna and avagāha. Exam tip: write the four features (sūryāṃśu-saṃtapta, candrāṃśu-śītala, kālapakva, agastya-aviṣīkṛta) in answers.",
+   "explanation_hi": "हंसोदक: शरद् का जल जो दिन में सूर्य और रात में चन्द्रमा के सम्पर्क में रहता है, काल से पकता है और अगस्त्य से विषरहित होता है। इसे स्नान, पान और अवगाहन के लिए अमृत समान बताया गया है। परीक्षा टिप: उत्तरों में चार लक्षण (सूर्यांशु-संतप्त, चन्द्रांशु-शीतल, कालपक्व, अगस्त्य-अविषीकृत) लिखें।",
+   "modern_correlation": null,
+   "key_terms": [
+    "haṃsodaka",
+    "śarad",
+    "amṛta"
+   ],
+   "tags": [
+    "ritucharya",
+    "sharad",
+    "hamsodaka",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Haṃsodaka = Sun-heated by day + Moon-cooled by night + Time-matured + Agastya-cleaned",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.48",
+   "word_meanings": [
+    {
+     "sa": "शारदानि",
+     "iast": "śāradāni",
+     "en": "of autumn",
+     "hi": "शरद् के"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "माल्यानि",
+     "iast": "mālyāni",
+     "en": "garlands",
+     "hi": "मालाएँ"
+    },
+    {
+     "sa": "वासांसि",
+     "iast": "vāsāṃsi",
+     "en": "clothes",
+     "hi": "वस्त्र"
+    },
+    {
+     "sa": "विमलानि",
+     "iast": "vimalāni",
+     "en": "clean",
+     "hi": "निर्मल"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "शरत्-काले",
+     "iast": "śarat-kāle",
+     "en": "in the autumn season",
+     "hi": "शरद् काल में"
+    },
+    {
+     "sa": "प्रशस्यन्ते",
+     "iast": "praśasyante",
+     "en": "are praised",
+     "hi": "प्रशंसित हैं"
+    },
+    {
+     "sa": "प्रदोषे",
+     "iast": "pradoṣe",
+     "en": "in the early night",
+     "hi": "प्रदोष (रात्रि के पहले प्रहर) में"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "इन्दु-रश्मयः",
+     "iast": "indu-raśmayaḥ",
+     "en": "moonbeams",
+     "hi": "चन्द्र-किरणें"
+    }
+   ],
+   "english": "In the autumn season, garlands of autumn flowers, clean clothes and moonlight in the early part of the night are praised.",
+   "hindi": "शरद् काल में शरद् के पुष्पों की मालाएँ, निर्मल वस्त्र और प्रदोष (रात के पहले प्रहर) में चाँदनी प्रशंसित हैं।",
+   "explanation_en": "Cooling and pleasant measures for śarad: autumn flower garlands, clean clothes and enjoying moonlight in the early evening (the moon is cooling and pacifies pitta). Exam tip: 'pradoṣe candraraśmi' (moonlight in the evening) is specific to śarad.",
+   "explanation_hi": "शरद् के लिए शीतल और सुखद उपाय: शरद् के फूलों की मालाएँ, स्वच्छ वस्त्र और शाम को चाँदनी का आनन्द (चन्द्रमा शीतल है और पित्त को शान्त करता है)। परीक्षा टिप: 'प्रदोषे चन्द्ररश्मि' (शाम को चाँदनी) शरद् की विशेषता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "śarad vihāra",
+    "pradoṣa",
+    "candraraśmi"
+   ],
+   "tags": [
+    "ritucharya",
+    "sharad",
+    "lifestyle"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.49",
+   "word_meanings": [
+    {
+     "sa": "इति",
+     "iast": "iti",
+     "en": "thus",
+     "hi": "इस प्रकार"
+    },
+    {
+     "sa": "उक्तम्",
+     "iast": "uktam",
+     "en": "has been described",
+     "hi": "कहा गया"
+    },
+    {
+     "sa": "ऋतुसात्म्यम्",
+     "iast": "ṛtusātmyam",
+     "en": "seasonal suitability",
+     "hi": "ऋतुसात्म्य"
+    },
+    {
+     "sa": "यत्",
+     "iast": "yat",
+     "en": "which",
+     "hi": "जो"
+    },
+    {
+     "sa": "चेष्टा-आहार-व्यपाश्रयम्",
+     "iast": "ceṣṭā-āhāra-vyapāśrayam",
+     "en": "relating to conduct and diet",
+     "hi": "चेष्टा और आहार से सम्बन्धित"
+    },
+    {
+     "sa": "उपशेते",
+     "iast": "upaśete",
+     "en": "suits",
+     "hi": "अनुकूल होता है"
+    },
+    {
+     "sa": "यत्",
+     "iast": "yat",
+     "en": "which",
+     "hi": "जो"
+    },
+    {
+     "sa": "औचित्यात्",
+     "iast": "aucityāt",
+     "en": "by habituation",
+     "hi": "अभ्यास (आदत) से"
+    },
+    {
+     "sa": "ओकःसात्म्यम्",
+     "iast": "okaḥsātmyam",
+     "en": "acquired suitability by habit",
+     "hi": "ओकसात्म्य"
+    },
+    {
+     "sa": "तत्",
+     "iast": "tat",
+     "en": "that",
+     "hi": "वह"
+    },
+    {
+     "sa": "उच्यते",
+     "iast": "ucyate",
+     "en": "is called",
+     "hi": "कहलाता है"
+    }
+   ],
+   "english": "Thus the seasonal suitability (ṛtusātmya) relating to conduct and diet has been described. What becomes suitable through habituation is called okasātmya (habit-acquired suitability).",
+   "hindi": "इस प्रकार चेष्टा और आहार से सम्बन्धित ऋतुसात्म्य बताया गया। जो अभ्यास (आदत) से अनुकूल हो जाता है, उसे ओकसात्म्य कहते हैं।",
+   "explanation_en": "After describing ṛtusātmya, Caraka defines okasātmya: something becomes suitable to a person through regular use (habituation), even if not ideal by its qualities. Exam tip: definition of okasātmya ('upaśete yad aucityāt') is a frequent short question; compare the gradual withdrawal method in Chapter 7.",
+   "explanation_hi": "ऋतुसात्म्य बताने के बाद चरक ओकसात्म्य की परिभाषा देते हैं: कोई वस्तु नियमित प्रयोग (अभ्यास) से व्यक्ति के अनुकूल हो जाती है, भले ही गुणों से आदर्श न हो। परीक्षा टिप: ओकसात्म्य की परिभाषा ('उपशेते यदौचित्यात्') बहुत पूछा जाने वाला लघु प्रश्न है; अध्याय 7 की क्रमिक त्याग विधि से तुलना करें।",
+   "modern_correlation": {
+    "en": "Okasātmya is often compared to physiological adaptation or habituation, for example tolerance to familiar foods, climates or levels of exercise that develops with repeated exposure.",
+    "hi": "ओकसात्म्य की तुलना अक्सर शारीरिक अनुकूलन या अभ्यस्तता से की जाती है, जैसे बार-बार सम्पर्क से परिचित भोजन, जलवायु या व्यायाम-स्तर के प्रति सहनशीलता विकसित होना।"
+   },
+   "key_terms": [
+    "ṛtusātmya",
+    "okasātmya",
+    "sātmya"
+   ],
+   "tags": [
+    "ritucharya",
+    "satmya",
+    "definitions",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.50",
+   "word_meanings": [
+    {
+     "sa": "देशानाम्",
+     "iast": "deśānām",
+     "en": "of places (regions)",
+     "hi": "देशों (प्रदेशों) के"
+    },
+    {
+     "sa": "आमयानाम्",
+     "iast": "āmayānām",
+     "en": "of diseases",
+     "hi": "रोगों के"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "विपरीत-गुणम्",
+     "iast": "viparīta-guṇam",
+     "en": "of opposite qualities",
+     "hi": "विपरीत गुणों वाला"
+    },
+    {
+     "sa": "गुणैः",
+     "iast": "guṇaiḥ",
+     "en": "by qualities",
+     "hi": "गुणों से"
+    },
+    {
+     "sa": "सात्म्यम्",
+     "iast": "sātmyam",
+     "en": "wholesome, suitable",
+     "hi": "सात्म्य"
+    },
+    {
+     "sa": "इच्छन्ति",
+     "iast": "icchanti",
+     "en": "consider",
+     "hi": "मानते हैं"
+    },
+    {
+     "sa": "सात्म्यज्ञाः",
+     "iast": "sātmyajñāḥ",
+     "en": "experts in suitability",
+     "hi": "सात्म्य के ज्ञाता"
+    },
+    {
+     "sa": "चेष्टितम्",
+     "iast": "ceṣṭitam",
+     "en": "conduct",
+     "hi": "चेष्टा (आचरण)"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "आद्यम्",
+     "iast": "ādyam",
+     "en": "food",
+     "hi": "आद्य (आहार)"
+    },
+    {
+     "sa": "एव च",
+     "iast": "eva ca",
+     "en": "and indeed",
+     "hi": "भी"
+    }
+   ],
+   "english": "Experts in suitability consider as sātmya (wholesome) that conduct and food which, by its qualities, is opposite to the qualities of the place (region) and of the disease.",
+   "hindi": "सात्म्य के ज्ञाता उस आचरण और आहार को सात्म्य मानते हैं जो अपने गुणों से देश (प्रदेश) और रोग के गुणों के विपरीत हो।",
+   "explanation_en": "Deśa sātmya and roga sātmya: for a dry desert region (jāṅgala deśa), unctuous measures are wholesome; for a marshy region (ānūpa deśa), drying ones; for a disease, measures opposite to its qualities. Exam tip: the principle of 'viparīta guṇa' underlies deśasātmya and rogasātmya; types of sātmya are commonly asked.",
+   "explanation_hi": "देश सात्म्य और रोग सात्म्य: सूखे जांगल देश में स्निग्ध उपाय हितकर हैं; दलदली आनूप देश में रूक्ष उपाय; रोग में उसके गुणों के विपरीत उपाय। परीक्षा टिप: देशसात्म्य और रोगसात्म्य का आधार 'विपरीत गुण' सिद्धान्त है; सात्म्य के प्रकार अक्सर पूछे जाते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "deśasātmya",
+    "rogasātmya",
+    "viparīta guṇa"
+   ],
+   "tags": [
+    "ritucharya",
+    "satmya",
+    "principle",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.6.51",
+   "word_meanings": [
+    {
+     "sa": "तत्र श्लोकः",
+     "iast": "tatra ślokaḥ",
+     "en": "here is the summary verse",
+     "hi": "यहाँ संग्रह श्लोक है"
+    },
+    {
+     "sa": "ऋतौ ऋतौ",
+     "iast": "ṛtau ṛtau",
+     "en": "in each season",
+     "hi": "प्रत्येक ऋतु में"
+    },
+    {
+     "sa": "नृभिः",
+     "iast": "nṛbhiḥ",
+     "en": "by people",
+     "hi": "मनुष्यों द्वारा"
+    },
+    {
+     "sa": "सेव्यम्",
+     "iast": "sevyam",
+     "en": "to be followed",
+     "hi": "सेवन योग्य"
+    },
+    {
+     "sa": "असेव्यम्",
+     "iast": "asevyam",
+     "en": "to be avoided",
+     "hi": "त्याज्य"
+    },
+    {
+     "sa": "यत् च किंचन",
+     "iast": "yat ca kiṃcana",
+     "en": "and whatever",
+     "hi": "और जो कुछ भी"
+    },
+    {
+     "sa": "तस्याशितीये",
+     "iast": "tasyāśitīye",
+     "en": "in the Tasyāśitīya (chapter)",
+     "hi": "तस्याशितीय (अध्याय) में"
+    },
+    {
+     "sa": "निर्दिष्टम्",
+     "iast": "nirdiṣṭam",
+     "en": "has been described",
+     "hi": "बताया गया है"
+    },
+    {
+     "sa": "हेतुमत्",
+     "iast": "hetumat",
+     "en": "with reasons",
+     "hi": "कारण सहित"
+    },
+    {
+     "sa": "सात्म्यम् एव च",
+     "iast": "sātmyam eva ca",
+     "en": "and also sātmya",
+     "hi": "और सात्म्य भी"
+    }
+   ],
+   "english": "Here is the summary verse: Whatever is to be followed and to be avoided by people in each season, along with the reasons, and also sātmya (suitability), has been described in this chapter, Tasyāśitīya.",
+   "hindi": "यहाँ संग्रह श्लोक है: प्रत्येक ऋतु में मनुष्यों को क्या सेवन करना चाहिए और क्या त्यागना चाहिए, कारण सहित, और सात्म्य भी - यह सब तस्याशितीय अध्याय में बताया गया है।",
+   "explanation_en": "The summary notes that the chapter gave not only lists but also reasons (hetumat) for each seasonal rule, plus the concept of sātmya. Revision tip: for each ṛtu, revise - doṣa state, agni/bala, dominant rasa, pathya āhāra, pathya vihāra, apathya, and śodhana.",
+   "explanation_hi": "संग्रह बताता है कि अध्याय में केवल सूचियाँ नहीं, हर ऋतु-नियम के कारण (हेतुमत्) और सात्म्य की अवधारणा भी दी गई है। पुनरावृत्ति टिप: हर ऋतु के लिए दोहराएँ - दोष-अवस्था, अग्नि/बल, प्रधान रस, पथ्य आहार, पथ्य विहार, अपथ्य, और शोधन।",
+   "modern_correlation": null,
+   "key_terms": [
+    "saṃgraha",
+    "ṛtucaryā",
+    "sātmya"
+   ],
+   "tags": [
+    "summary",
+    "chapter-closing"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  }
+ ]
+}

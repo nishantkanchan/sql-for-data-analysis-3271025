@@ -1,0 +1,1827 @@
+{
+  "subject_id": "AyUG-SN&AI",
+  "questions": [
+    {
+      "id": "AyUG-SN&AI-0001",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-sandhi",
+      "topic_en": "Sandhi",
+      "topic_hi": "सन्धि",
+      "type": "mcq",
+      "question_en": "'Jaṭhara + agni = jaṭharāgni' is an example of which sandhi?",
+      "question_hi": "'जठर + अग्नि = जठराग्नि' किस सन्धि का उदाहरण है?",
+      "options": [
+        {
+          "en": "Guṇa sandhi",
+          "hi": "गुण सन्धि"
+        },
+        {
+          "en": "Vṛddhi sandhi",
+          "hi": "वृद्धि सन्धि"
+        },
+        {
+          "en": "Dīrgha (savarṇa-dīrgha) sandhi",
+          "hi": "दीर्घ (सवर्णदीर्घ) सन्धि"
+        },
+        {
+          "en": "Yaṇ sandhi",
+          "hi": "यण् सन्धि"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "a + a → ā (akaḥ savarṇe dīrghaḥ). Guṇa gives e/o/ar (e.g. pañca + indriya = pañcendriya); vṛddhi gives ai/au; yaṇ changes i/u/ṛ to y/v/r before a dissimilar vowel.",
+      "explanation_hi": "अ + अ → आ (अकः सवर्णे दीर्घः)। गुण से ए/ओ/अर् बनता है (जैसे पञ्च + इन्द्रिय = पञ्चेन्द्रिय); वृद्धि से ऐ/औ; यण् में असवर्ण स्वर से पहले इ/उ/ऋ का य्/व्/र् होता है।",
+      "reference": "Laghusiddhāntakaumudī",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0002",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-sandhi",
+      "topic_en": "Sandhi",
+      "topic_hi": "सन्धि",
+      "type": "mcq",
+      "question_en": "'Pañca + indriya = pañcendriya' is an example of:",
+      "question_hi": "'पञ्च + इन्द्रिय = पञ्चेन्द्रिय' किसका उदाहरण है?",
+      "options": [
+        {
+          "en": "Guṇa sandhi",
+          "hi": "गुण सन्धि"
+        },
+        {
+          "en": "Dīrgha sandhi",
+          "hi": "दीर्घ सन्धि"
+        },
+        {
+          "en": "Vṛddhi sandhi",
+          "hi": "वृद्धि सन्धि"
+        },
+        {
+          "en": "Ayādi sandhi",
+          "hi": "अयादि सन्धि"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "a + i → e (ād guṇaḥ). Likewise mahā + ṛṣi = maharṣi (a + ṛ → ar) is guṇa.",
+      "explanation_hi": "अ + इ → ए (आद्गुणः)। इसी प्रकार महा + ऋषि = महर्षि (अ + ऋ → अर्) भी गुण है।",
+      "reference": "Laghusiddhāntakaumudī",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0003",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-sandhi",
+      "topic_en": "Sandhi",
+      "topic_hi": "सन्धि",
+      "type": "mcq",
+      "question_en": "'Dhātu + agni = dhātvagni' is an example of:",
+      "question_hi": "'धातु + अग्नि = धात्वग्नि' किसका उदाहरण है?",
+      "options": [
+        {
+          "en": "Guṇa sandhi",
+          "hi": "गुण सन्धि"
+        },
+        {
+          "en": "Yaṇ sandhi",
+          "hi": "यण् सन्धि"
+        },
+        {
+          "en": "Vṛddhi sandhi",
+          "hi": "वृद्धि सन्धि"
+        },
+        {
+          "en": "Visarga sandhi",
+          "hi": "विसर्ग सन्धि"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "u before a dissimilar vowel becomes v (iko yaṇ aci): dhātu + agni → dhātvagni. Similarly iti + ādi = ityādi.",
+      "explanation_hi": "असवर्ण स्वर से पहले उ का व् होता है (इको यणचि): धातु + अग्नि → धात्वग्नि। इसी प्रकार इति + आदि = इत्यादि।",
+      "reference": "Laghusiddhāntakaumudī",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0004",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-sandhi",
+      "topic_en": "Sandhi",
+      "topic_hi": "सन्धि",
+      "type": "mcq",
+      "question_en": "'Eka + eka = ekaika' is an example of:",
+      "question_hi": "'एक + एक = एकैक' किसका उदाहरण है?",
+      "options": [
+        {
+          "en": "Guṇa",
+          "hi": "गुण"
+        },
+        {
+          "en": "Dīrgha",
+          "hi": "दीर्घ"
+        },
+        {
+          "en": "Yaṇ",
+          "hi": "यण्"
+        },
+        {
+          "en": "Vṛddhi",
+          "hi": "वृद्धि"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "a + e → ai (vṛddhir eci). Likewise mahā + auṣadha = mahauṣadha.",
+      "explanation_hi": "अ + ए → ऐ (वृद्धिरेचि)। इसी प्रकार महा + औषध = महौषध।",
+      "reference": "Laghusiddhāntakaumudī",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0005",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-sandhi",
+      "topic_en": "Sandhi",
+      "topic_hi": "सन्धि",
+      "type": "mcq",
+      "question_en": "'Āyuḥ + veda = āyurveda' involves which change?",
+      "question_hi": "'आयुः + वेद = आयुर्वेद' में कौन-सा परिवर्तन है?",
+      "options": [
+        {
+          "en": "Visarga becomes r",
+          "hi": "विसर्ग का र्"
+        },
+        {
+          "en": "Visarga becomes o",
+          "hi": "विसर्ग का ओ"
+        },
+        {
+          "en": "Visarga becomes s",
+          "hi": "विसर्ग का स्"
+        },
+        {
+          "en": "Visarga is dropped",
+          "hi": "विसर्ग का लोप"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "Visarga preceded by a vowel other than a/ā, before a voiced sound, becomes r: āyuḥ + veda → āyurveda (visarga sandhi). Manaḥ + ratha → manoratha shows visarga → o after a.",
+      "explanation_hi": "अ/आ के अतिरिक्त स्वर के बाद का विसर्ग घोष वर्ण से पहले र् बनता है: आयुः + वेद → आयुर्वेद (विसर्ग सन्धि)। मनः + रथ → मनोरथ में अ के बाद विसर्ग का ओ हुआ है।",
+      "reference": "Laghusiddhāntakaumudī",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0006",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-sandhi",
+      "topic_en": "Sandhi",
+      "topic_hi": "सन्धि",
+      "type": "mcq",
+      "question_en": "'Manaḥ + ratha = manoratha' is an example of:",
+      "question_hi": "'मनः + रथ = मनोरथ' किसका उदाहरण है?",
+      "options": [
+        {
+          "en": "Svara sandhi",
+          "hi": "स्वर सन्धि"
+        },
+        {
+          "en": "Vyañjana sandhi",
+          "hi": "व्यञ्जन सन्धि"
+        },
+        {
+          "en": "No sandhi",
+          "hi": "कोई सन्धि नहीं"
+        },
+        {
+          "en": "Visarga sandhi",
+          "hi": "विसर्ग सन्धि"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "The visarga after 'a' before a voiced consonant changes to u, which with a gives o: manaḥ → mano. It is visarga sandhi.",
+      "explanation_hi": "अ के बाद विसर्ग घोष व्यञ्जन से पहले उ बनता है और अ + उ = ओ: मनः → मनो। यह विसर्ग सन्धि है।",
+      "reference": "Laghusiddhāntakaumudī",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0007",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-sandhi",
+      "topic_en": "Sandhi",
+      "topic_hi": "सन्धि",
+      "type": "mcq",
+      "question_en": "'Hṛt + roga = hṛdroga' is an example of which change?",
+      "question_hi": "'हृत् + रोग = हृद्रोग' किस परिवर्तन का उदाहरण है?",
+      "options": [
+        {
+          "en": "Visarga to r",
+          "hi": "विसर्ग का र्"
+        },
+        {
+          "en": "Guṇa",
+          "hi": "गुण"
+        },
+        {
+          "en": "Unvoiced consonant becoming voiced (jaśtva) before a voiced sound",
+          "hi": "घोष वर्ण से पहले अघोष व्यञ्जन का घोष होना (जश्त्व)"
+        },
+        {
+          "en": "Anusvāra",
+          "hi": "अनुस्वार"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "t before the voiced r becomes d (jhalāṃ jaśo 'nte): hṛt → hṛd. This is vyañjana (hal) sandhi, like vāk + īśa = vāgīśa.",
+      "explanation_hi": "घोष र् से पहले त् का द् होता है (झलां जशोऽन्ते): हृत् → हृद्। यह व्यञ्जन (हल्) सन्धि है, जैसे वाक् + ईश = वागीश।",
+      "reference": "Laghusiddhāntakaumudī",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0008",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-sandhi",
+      "topic_en": "Sandhi",
+      "topic_hi": "सन्धि",
+      "type": "mcq",
+      "question_en": "'Ne + anam = nayanam' is an example of:",
+      "question_hi": "'ने + अनम् = नयनम्' किसका उदाहरण है?",
+      "options": [
+        {
+          "en": "Yaṇ sandhi",
+          "hi": "यण् सन्धि"
+        },
+        {
+          "en": "Ayādi sandhi",
+          "hi": "अयादि सन्धि"
+        },
+        {
+          "en": "Guṇa sandhi",
+          "hi": "गुण सन्धि"
+        },
+        {
+          "en": "Vṛddhi sandhi",
+          "hi": "वृद्धि सन्धि"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "e before a vowel becomes ay (eco 'yavāyāvaḥ): ne + anam → nayanam. Similarly po + anam → pavanam (o → av).",
+      "explanation_hi": "स्वर से पहले ए का अय् होता है (एचोऽयवायावः): ने + अनम् → नयनम्। इसी प्रकार पो + अनम् → पवनम् (ओ → अव्)।",
+      "reference": "Laghusiddhāntakaumudī",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0009",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-sandhi",
+      "topic_en": "Sandhi",
+      "topic_hi": "सन्धि",
+      "type": "mcq",
+      "question_en": "The correct sandhi-split (sandhi-viccheda) of 'vātānulomana' is:",
+      "question_hi": "'वातानुलोमन' का सही सन्धि-विच्छेद है:",
+      "options": [
+        {
+          "en": "Vāta + nulomana",
+          "hi": "वात + नुलोमन"
+        },
+        {
+          "en": "Vātā + lomana",
+          "hi": "वाता + लोमन"
+        },
+        {
+          "en": "Vāta + anulomana",
+          "hi": "वात + अनुलोमन"
+        },
+        {
+          "en": "Vāt + anulomana",
+          "hi": "वात् + अनुलोमन"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "Vāta + anulomana: a + a → ā (dīrgha sandhi), meaning 'that which moves vāta in its proper (downward) direction'.",
+      "explanation_hi": "वात + अनुलोमन: अ + अ → आ (दीर्घ सन्धि), अर्थ - 'वात को उसकी सही (अधो) दिशा में चलाने वाला'।",
+      "reference": "Sanskrit",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0010",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-sandhi",
+      "topic_en": "Sandhi",
+      "topic_hi": "सन्धि",
+      "type": "mcq",
+      "question_en": "The sandhi-viccheda of 'raktāśaya' is:",
+      "question_hi": "'रक्ताशय' का सन्धि-विच्छेद है:",
+      "options": [
+        {
+          "en": "Rakta + śaya",
+          "hi": "रक्त + शय"
+        },
+        {
+          "en": "Raktā + aśaya",
+          "hi": "रक्ता + अशय"
+        },
+        {
+          "en": "Rak + tāśaya",
+          "hi": "रक् + ताशय"
+        },
+        {
+          "en": "Rakta + āśaya",
+          "hi": "रक्त + आशय"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "Rakta + āśaya: a + ā → ā (dīrgha). Āśaya means a receptacle; raktāśaya is the receptacle of blood (one of Suśruta's seven āśayas).",
+      "explanation_hi": "रक्त + आशय: अ + आ → आ (दीर्घ)। आशय = पात्र; रक्ताशय रक्त का आशय है (सुश्रुत के सात आशयों में से एक)।",
+      "reference": "Sanskrit",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0011",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-sandhi",
+      "topic_en": "Sandhi",
+      "topic_hi": "सन्धि",
+      "type": "true_false",
+      "question_en": "Sandhi in Sanskrit is broadly of three kinds: svara (ac), vyañjana (hal) and visarga sandhi.",
+      "question_hi": "संस्कृत में सन्धि मुख्यतः तीन प्रकार की है: स्वर (अच्), व्यञ्जन (हल्) और विसर्ग सन्धि।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "True. These are the three classical divisions taught in Laghusiddhāntakaumudī.",
+      "explanation_hi": "सत्य। लघुसिद्धान्तकौमुदी में ये तीन शास्त्रीय भेद बताए गए हैं।",
+      "reference": "Sanskrit",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0012",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-sandhi",
+      "topic_en": "Sandhi",
+      "topic_hi": "सन्धि",
+      "type": "true_false",
+      "question_en": "'Mahā + ṛṣi = maharṣi' is an example of vṛddhi sandhi.",
+      "question_hi": "'महा + ऋषि = महर्षि' वृद्धि सन्धि का उदाहरण है।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "False. ā + ṛ → ar is guṇa sandhi (ād guṇaḥ). Vṛddhi sandhi is a/ā + e/ai → ai and a/ā + o/au → au (e.g. eka + eka = ekaika).",
+      "explanation_hi": "असत्य। आ + ऋ → अर् गुण सन्धि है (आद्गुणः)। वृद्धि सन्धि में अ/आ + ए/ऐ → ऐ और अ/आ + ओ/औ → औ होता है (जैसे एक + एक = एकैक)।",
+      "reference": "Sanskrit",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0013",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-vibhakti-karaka",
+      "topic_en": "Vibhakti and Kāraka",
+      "topic_hi": "विभक्ति एवं कारक",
+      "type": "mcq",
+      "question_en": "How many kārakas are recognised in Sanskrit grammar?",
+      "question_hi": "संस्कृत व्याकरण में कितने कारक माने गए हैं?",
+      "options": [
+        {
+          "en": "Six",
+          "hi": "छह"
+        },
+        {
+          "en": "Seven",
+          "hi": "सात"
+        },
+        {
+          "en": "Eight",
+          "hi": "आठ"
+        },
+        {
+          "en": "Three",
+          "hi": "तीन"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "Kartā, karma, karaṇa, sampradāna, apādāna and adhikaraṇa: six. Ṣaṣṭhī (sambandha) is a vibhakti but not a kāraka, since it does not relate directly to the verb.",
+      "explanation_hi": "कर्ता, कर्म, करण, सम्प्रदान, अपादान और अधिकरण - छह। षष्ठी (सम्बन्ध) विभक्ति है पर कारक नहीं, क्योंकि यह क्रिया से सीधे नहीं जुड़ती।",
+      "reference": "Pāṇini,",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0014",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-vibhakti-karaka",
+      "topic_en": "Vibhakti and Kāraka",
+      "topic_hi": "विभक्ति एवं कारक",
+      "type": "mcq",
+      "question_en": "Which vibhakti is used for the karaṇa kāraka (instrument)?",
+      "question_hi": "करण कारक के लिए कौन-सी विभक्ति प्रयुक्त होती है?",
+      "options": [
+        {
+          "en": "Dvitīyā",
+          "hi": "द्वितीया"
+        },
+        {
+          "en": "Tṛtīyā",
+          "hi": "तृतीया"
+        },
+        {
+          "en": "Caturthī",
+          "hi": "चतुर्थी"
+        },
+        {
+          "en": "Pañcamī",
+          "hi": "पञ्चमी"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "Karaṇa (the instrument, 'by/with') takes tṛtīyā, e.g. \"śastreṇa chinatti\" (cuts with a knife). Karma takes dvitīyā, sampradāna caturthī, apādāna pañcamī.",
+      "explanation_hi": "करण ('से/द्वारा') में तृतीया होती है, जैसे \"शस्त्रेण छिनत्ति\" (शस्त्र से काटता है)। कर्म में द्वितीया, सम्प्रदान में चतुर्थी, अपादान में पञ्चमी।",
+      "reference": "Sanskrit",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0015",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-vibhakti-karaka",
+      "topic_en": "Vibhakti and Kāraka",
+      "topic_hi": "विभक्ति एवं कारक",
+      "type": "mcq",
+      "question_en": "In \"vaidyaḥ rogiṇe auṣadhaṃ dadāti\" (the physician gives medicine to the patient), 'rogiṇe' is in which vibhakti?",
+      "question_hi": "\"वैद्यः रोगिणे औषधं ददाति\" में 'रोगिणे' किस विभक्ति में है?",
+      "options": [
+        {
+          "en": "Dvitīyā",
+          "hi": "द्वितीया"
+        },
+        {
+          "en": "Caturthī",
+          "hi": "चतुर्थी"
+        },
+        {
+          "en": "Tṛtīyā",
+          "hi": "तृतीया"
+        },
+        {
+          "en": "Saptamī",
+          "hi": "सप्तमी"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "The recipient of giving is sampradāna, expressed by caturthī: rogin → rogiṇe. Auṣadham is karma (dvitīyā) and vaidyaḥ is kartā (prathamā).",
+      "explanation_hi": "देने की क्रिया का पात्र सम्प्रदान है, जिसमें चतुर्थी होती है: रोगिन् → रोगिणे। औषधम् कर्म (द्वितीया) और वैद्यः कर्ता (प्रथमा) है।",
+      "reference": "Sanskrit",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0016",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-vibhakti-karaka",
+      "topic_en": "Vibhakti and Kāraka",
+      "topic_hi": "विभक्ति एवं कारक",
+      "type": "mcq",
+      "question_en": "In \"āmāśayāt annaṃ pakvāśayaṃ gacchati\", 'āmāśayāt' (from the stomach) expresses which kāraka?",
+      "question_hi": "\"आमाशयात् अन्नं पक्वाशयं गच्छति\" में 'आमाशयात्' (आमाशय से) कौन-सा कारक है?",
+      "options": [
+        {
+          "en": "Apādāna",
+          "hi": "अपादान"
+        },
+        {
+          "en": "Karaṇa",
+          "hi": "करण"
+        },
+        {
+          "en": "Adhikaraṇa",
+          "hi": "अधिकरण"
+        },
+        {
+          "en": "Sampradāna",
+          "hi": "सम्प्रदान"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "The fixed point of separation (dhruvam apāye 'pādānam) is apādāna, expressed by pañcamī: āmāśayāt.",
+      "explanation_hi": "अलग होने का स्थिर बिन्दु (ध्रुवमपायेऽपादानम्) अपादान है, जिसमें पञ्चमी होती है: आमाशयात्।",
+      "reference": "Sanskrit",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0017",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-vibhakti-karaka",
+      "topic_en": "Vibhakti and Kāraka",
+      "topic_hi": "विभक्ति एवं कारक",
+      "type": "mcq",
+      "question_en": "'Hṛdaye' (in the heart), as in \"ojaḥ hṛdaye tiṣṭhati\", is in which vibhakti?",
+      "question_hi": "\"ओजः हृदये तिष्ठति\" में 'हृदये' किस विभक्ति में है?",
+      "options": [
+        {
+          "en": "Caturthī",
+          "hi": "चतुर्थी"
+        },
+        {
+          "en": "Tṛtīyā",
+          "hi": "तृतीया"
+        },
+        {
+          "en": "Saptamī",
+          "hi": "सप्तमी"
+        },
+        {
+          "en": "Ṣaṣṭhī",
+          "hi": "षष्ठी"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "The location (adhikaraṇa) takes saptamī; for a-stem neuter nouns the singular ends in -e: hṛdaya → hṛdaye.",
+      "explanation_hi": "स्थान (अधिकरण) में सप्तमी होती है; अकारान्त नपुंसक शब्दों में एकवचन -ए से समाप्त होता है: हृदय → हृदये।",
+      "reference": "Sanskrit",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0018",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-vibhakti-karaka",
+      "topic_en": "Vibhakti and Kāraka",
+      "topic_hi": "विभक्ति एवं कारक",
+      "type": "mcq",
+      "question_en": "'Doṣāṇām' is which form of 'doṣa'?",
+      "question_hi": "'दोषाणाम्' 'दोष' शब्द का कौन-सा रूप है?",
+      "options": [
+        {
+          "en": "Prathamā bahuvacana",
+          "hi": "प्रथमा बहुवचन"
+        },
+        {
+          "en": "Dvitīyā bahuvacana",
+          "hi": "द्वितीया बहुवचन"
+        },
+        {
+          "en": "Saptamī bahuvacana",
+          "hi": "सप्तमी बहुवचन"
+        },
+        {
+          "en": "Ṣaṣṭhī bahuvacana",
+          "hi": "षष्ठी बहुवचन"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "Like rāma: rāmāṇām (ṣaṣṭhī bahuvacana, 'of the doṣas'). Prathamā bahuvacana is doṣāḥ, dvitīyā bahuvacana doṣān, saptamī bahuvacana doṣeṣu.",
+      "explanation_hi": "राम के समान: रामाणाम् (षष्ठी बहुवचन, 'दोषों का')। प्रथमा बहुवचन दोषाः, द्वितीया बहुवचन दोषान् और सप्तमी बहुवचन दोषेषु है।",
+      "reference": "Sanskrit",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0019",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-vibhakti-karaka",
+      "topic_en": "Vibhakti and Kāraka",
+      "topic_hi": "विभक्ति एवं कारक",
+      "type": "mcq",
+      "question_en": "'Vaidyena' is in which vibhakti and vacana?",
+      "question_hi": "'वैद्येन' किस विभक्ति और वचन में है?",
+      "options": [
+        {
+          "en": "Caturthī ekavacana",
+          "hi": "चतुर्थी एकवचन"
+        },
+        {
+          "en": "Ṣaṣṭhī ekavacana",
+          "hi": "षष्ठी एकवचन"
+        },
+        {
+          "en": "Tṛtīyā bahuvacana",
+          "hi": "तृतीया बहुवचन"
+        },
+        {
+          "en": "Tṛtīyā ekavacana",
+          "hi": "तृतीया एकवचन"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "Like rāmeṇa: vaidyena = 'by the physician' (tṛtīyā ekavacana). Tṛtīyā bahuvacana is vaidyaiḥ; caturthī ekavacana vaidyāya; ṣaṣṭhī ekavacana vaidyasya.",
+      "explanation_hi": "रामेण के समान: वैद्येन = 'वैद्य द्वारा' (तृतीया एकवचन)। तृतीया बहुवचन वैद्यैः, चतुर्थी एकवचन वैद्याय और षष्ठी एकवचन वैद्यस्य है।",
+      "reference": "Sanskrit",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0020",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-vibhakti-karaka",
+      "topic_en": "Vibhakti and Kāraka",
+      "topic_hi": "विभक्ति एवं कारक",
+      "type": "mcq",
+      "question_en": "How many vacanas (grammatical numbers) are there in Sanskrit?",
+      "question_hi": "संस्कृत में कितने वचन हैं?",
+      "options": [
+        {
+          "en": "Two",
+          "hi": "दो"
+        },
+        {
+          "en": "Three",
+          "hi": "तीन"
+        },
+        {
+          "en": "Four",
+          "hi": "चार"
+        },
+        {
+          "en": "Seven",
+          "hi": "सात"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "Ekavacana (singular), dvivacana (dual) and bahuvacana (plural). The dual is used, for example, for paired organs: \"netre\" (two eyes), \"vṛkkau\" (two kidneys).",
+      "explanation_hi": "एकवचन, द्विवचन और बहुवचन। द्विवचन का प्रयोग जोड़े वाले अंगों के लिए होता है: \"नेत्रे\" (दो नेत्र), \"वृक्कौ\" (दो वृक्क)।",
+      "reference": "Sanskrit",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0021",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-vibhakti-karaka",
+      "topic_en": "Vibhakti and Kāraka",
+      "topic_hi": "विभक्ति एवं कारक",
+      "type": "mcq",
+      "question_en": "In \"raktamedaḥprasādād vṛkkau\", the word 'vṛkkau' is in which vacana?",
+      "question_hi": "\"रक्तमेदःप्रसादाद्वृक्कौ\" में 'वृक्कौ' किस वचन में है?",
+      "options": [
+        {
+          "en": "Dvivacana",
+          "hi": "द्विवचन"
+        },
+        {
+          "en": "Ekavacana",
+          "hi": "एकवचन"
+        },
+        {
+          "en": "Bahuvacana",
+          "hi": "बहुवचन"
+        },
+        {
+          "en": "Avyaya (indeclinable)",
+          "hi": "अव्यय"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "'Vṛkkau' is prathamā dvivacana of vṛkka (like rāmau): 'the two kidneys arise from the essence of rakta and medas' (SS Śā 4.31).",
+      "explanation_hi": "'वृक्कौ' वृक्क का प्रथमा द्विवचन है (रामौ के समान): 'रक्त और मेद के प्रसाद से दोनों वृक्क बनते हैं' (सु.शा. 4.31)।",
+      "reference": "SS.sharira.4.31",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0022",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-vibhakti-karaka",
+      "topic_en": "Vibhakti and Kāraka",
+      "topic_hi": "विभक्ति एवं कारक",
+      "type": "true_false",
+      "question_en": "Ṣaṣṭhī vibhakti (genitive) is counted as one of the six kārakas.",
+      "question_hi": "षष्ठी विभक्ति छह कारकों में गिनी जाती है।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "False. Ṣaṣṭhī expresses sambandha (relation between nouns) and is not a kāraka; the sambodhana (vocative) is also not a kāraka.",
+      "explanation_hi": "असत्य। षष्ठी सम्बन्ध (संज्ञाओं के बीच) बताती है और कारक नहीं है; सम्बोधन भी कारक नहीं है।",
+      "reference": "Sanskrit",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0023",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-vibhakti-karaka",
+      "topic_en": "Vibhakti and Kāraka",
+      "topic_hi": "विभक्ति एवं कारक",
+      "type": "mcq",
+      "question_en": "The kartā (subject) of an active sentence is normally in which vibhakti?",
+      "question_hi": "कर्तृवाच्य वाक्य में कर्ता सामान्यतः किस विभक्ति में होता है?",
+      "options": [
+        {
+          "en": "Dvitīyā",
+          "hi": "द्वितीया"
+        },
+        {
+          "en": "Tṛtīyā",
+          "hi": "तृतीया"
+        },
+        {
+          "en": "Prathamā",
+          "hi": "प्रथमा"
+        },
+        {
+          "en": "Ṣaṣṭhī",
+          "hi": "षष्ठी"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "In kartṛvācya the kartā is in prathamā (e.g. \"vaidyaḥ cikitsati\"). In karmavācya the kartā takes tṛtīyā (\"vaidyena cikitsyate\").",
+      "explanation_hi": "कर्तृवाच्य में कर्ता प्रथमा में होता है (जैसे \"वैद्यः चिकित्सति\")। कर्मवाच्य में कर्ता तृतीया में होता है (\"वैद्येन चिकित्स्यते\")।",
+      "reference": "Sanskrit",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0024",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-samasa",
+      "topic_en": "Samāsa",
+      "topic_hi": "समास",
+      "type": "mcq",
+      "question_en": "'Triphalā' (a group of three fruits) is an example of which samāsa?",
+      "question_hi": "'त्रिफला' (तीन फलों का समूह) किस समास का उदाहरण है?",
+      "options": [
+        {
+          "en": "Dvandva",
+          "hi": "द्वन्द्व"
+        },
+        {
+          "en": "Dvigu",
+          "hi": "द्विगु"
+        },
+        {
+          "en": "Bahuvrīhi",
+          "hi": "बहुव्रीहि"
+        },
+        {
+          "en": "Avyayībhāva",
+          "hi": "अव्ययीभाव"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "A compound whose first member is a numeral and which denotes a group (samāhāra) is dvigu: trayāṇāṃ phalānāṃ samāhāraḥ = triphalā. Likewise tridoṣa, pañcakarma.",
+      "explanation_hi": "जिस समास का पहला पद संख्यावाचक हो और समूह (समाहार) बताए, वह द्विगु है: त्रयाणां फलानां समाहारः = त्रिफला। इसी प्रकार त्रिदोष, पञ्चकर्म।",
+      "reference": "Sanskrit",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0025",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-samasa",
+      "topic_en": "Samāsa",
+      "topic_hi": "समास",
+      "type": "mcq",
+      "question_en": "'Doṣadhātumalāḥ' (doṣas, dhātus and malas) is an example of:",
+      "question_hi": "'दोषधातुमलाः' (दोष, धातु और मल) किसका उदाहरण है?",
+      "options": [
+        {
+          "en": "Itaretara dvandva",
+          "hi": "इतरेतर द्वन्द्व"
+        },
+        {
+          "en": "Tatpuruṣa",
+          "hi": "तत्पुरुष"
+        },
+        {
+          "en": "Karmadhāraya",
+          "hi": "कर्मधारय"
+        },
+        {
+          "en": "Dvigu",
+          "hi": "द्विगु"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "Each member is equally important and joined by 'and': doṣāś ca dhātavaś ca malāś ca. A plural ending marks itaretara dvandva.",
+      "explanation_hi": "प्रत्येक पद समान महत्त्व का है और 'च' से जुड़ा है: दोषाश्च धातवश्च मलाश्च। बहुवचन अन्त इतरेतर द्वन्द्व का चिह्न है।",
+      "reference": "AH.sutra.11.1",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0026",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-samasa",
+      "topic_en": "Samāsa",
+      "topic_hi": "समास",
+      "type": "mcq",
+      "question_en": "'Āyurveda' analysed as \"āyuṣaḥ vedaḥ\" (the knowledge of life) is which samāsa?",
+      "question_hi": "'आयुर्वेद' का विग्रह \"आयुषः वेदः\" (आयु का ज्ञान) - यह कौन-सा समास है?",
+      "options": [
+        {
+          "en": "Dvandva",
+          "hi": "द्वन्द्व"
+        },
+        {
+          "en": "Bahuvrīhi",
+          "hi": "बहुव्रीहि"
+        },
+        {
+          "en": "Avyayībhāva",
+          "hi": "अव्ययीभाव"
+        },
+        {
+          "en": "Ṣaṣṭhī tatpuruṣa",
+          "hi": "षष्ठी तत्पुरुष"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "The first member is in the genitive (āyuṣaḥ) and the second (vedaḥ) is the principal: ṣaṣṭhī tatpuruṣa.",
+      "explanation_hi": "पहला पद षष्ठी (आयुषः) में है और दूसरा (वेदः) प्रधान है: षष्ठी तत्पुरुष।",
+      "reference": "Sanskrit",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0027",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-samasa",
+      "topic_en": "Samāsa",
+      "topic_hi": "समास",
+      "type": "mcq",
+      "question_en": "'Cakrapāṇi' (one who has a discus in his hand, i.e. Viṣṇu; also the name of the commentator) is an example of:",
+      "question_hi": "'चक्रपाणि' (जिसके हाथ में चक्र है, अर्थात् विष्णु; टीकाकार का नाम भी) किसका उदाहरण है?",
+      "options": [
+        {
+          "en": "Karmadhāraya",
+          "hi": "कर्मधारय"
+        },
+        {
+          "en": "Dvigu",
+          "hi": "द्विगु"
+        },
+        {
+          "en": "Bahuvrīhi",
+          "hi": "बहुव्रीहि"
+        },
+        {
+          "en": "Tatpuruṣa",
+          "hi": "तत्पुरुष"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "In bahuvrīhi neither member is principal; the compound refers to a third entity: cakraṃ pāṇau yasya saḥ. Likewise pītāmbara.",
+      "explanation_hi": "बहुव्रीहि में कोई पद प्रधान नहीं, समास किसी अन्य को बताता है: चक्रं पाणौ यस्य सः। इसी प्रकार पीताम्बर।",
+      "reference": "Sanskrit",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0028",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-samasa",
+      "topic_en": "Samāsa",
+      "topic_hi": "समास",
+      "type": "mcq",
+      "question_en": "'Yathāśakti' (according to one's capacity) is an example of:",
+      "question_hi": "'यथाशक्ति' (शक्ति के अनुसार) किसका उदाहरण है?",
+      "options": [
+        {
+          "en": "Avyayībhāva",
+          "hi": "अव्ययीभाव"
+        },
+        {
+          "en": "Dvandva",
+          "hi": "द्वन्द्व"
+        },
+        {
+          "en": "Bahuvrīhi",
+          "hi": "बहुव्रीहि"
+        },
+        {
+          "en": "Dvigu",
+          "hi": "द्विगु"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "An indeclinable (yathā) as the first, principal member makes avyayībhāva; the whole compound behaves as an indeclinable. Compare 'yathāvidhi', 'yathākālam' in the saṃhitās.",
+      "explanation_hi": "अव्यय (यथा) पहला व प्रधान पद हो तो अव्ययीभाव होता है; पूरा समास अव्यय की तरह होता है। संहिताओं के 'यथाविधि', 'यथाकालम्' भी इसी प्रकार हैं।",
+      "reference": "Sanskrit",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0029",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-samasa",
+      "topic_en": "Samāsa",
+      "topic_hi": "समास",
+      "type": "mcq",
+      "question_en": "'Nīlotpala' (blue lotus), where the first member qualifies the second, is a:",
+      "question_hi": "'नीलोत्पल' (नीला कमल), जिसमें पहला पद दूसरे का विशेषण है, कौन-सा समास है?",
+      "options": [
+        {
+          "en": "Dvigu",
+          "hi": "द्विगु"
+        },
+        {
+          "en": "Bahuvrīhi",
+          "hi": "बहुव्रीहि"
+        },
+        {
+          "en": "Karmadhāraya",
+          "hi": "कर्मधारय"
+        },
+        {
+          "en": "Dvandva",
+          "hi": "द्वन्द्व"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "Nīlam utpalam: adjective + noun in the same case = karmadhāraya (a type of tatpuruṣa). Mahauṣadha (mahat auṣadham) is similar.",
+      "explanation_hi": "नीलम् उत्पलम्: विशेषण + विशेष्य समान विभक्ति में = कर्मधारय (तत्पुरुष का भेद)। महौषध (महत् औषधम्) भी ऐसा ही है।",
+      "reference": "Sanskrit",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0030",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-samasa",
+      "topic_en": "Samāsa",
+      "topic_hi": "समास",
+      "type": "mcq",
+      "question_en": "How many main types of samāsa are traditionally taught?",
+      "question_hi": "परम्परा से समास के कितने मुख्य भेद पढ़ाए जाते हैं?",
+      "options": [
+        {
+          "en": "Four",
+          "hi": "चार"
+        },
+        {
+          "en": "Eight",
+          "hi": "आठ"
+        },
+        {
+          "en": "Three",
+          "hi": "तीन"
+        },
+        {
+          "en": "Six",
+          "hi": "छह"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "Avyayībhāva, tatpuruṣa, karmadhāraya, dvigu, dvandva and bahuvrīhi (karmadhāraya and dvigu are sometimes counted under tatpuruṣa, giving four).",
+      "explanation_hi": "अव्ययीभाव, तत्पुरुष, कर्मधारय, द्विगु, द्वन्द्व और बहुव्रीहि (कर्मधारय और द्विगु को कभी तत्पुरुष में गिनकर चार भी कहते हैं)।",
+      "reference": "Sanskrit",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0031",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-samasa",
+      "topic_en": "Samāsa",
+      "topic_hi": "समास",
+      "type": "true_false",
+      "question_en": "In a bahuvrīhi compound, the compound as a whole refers to something other than its members.",
+      "question_hi": "बहुव्रीहि समास में पूरा समास अपने पदों से भिन्न किसी अन्य पदार्थ का बोध कराता है।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "True. \"Anyapadārthapradhāno bahuvrīhiḥ\", e.g. pītāmbara = one who wears yellow garments (Viṣṇu).",
+      "explanation_hi": "सत्य। \"अन्यपदार्थप्रधानो बहुव्रीहिः\", जैसे पीताम्बर = पीले वस्त्र वाला (विष्णु)।",
+      "reference": "Sanskrit",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0032",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-pratyaya-dhatu",
+      "topic_en": "Pratyaya and verb forms",
+      "topic_hi": "प्रत्यय एवं धातुरूप",
+      "type": "mcq",
+      "question_en": "In \"brāhme muhūrta uttiṣṭhet\" (AH Sū 2.1), the verb 'uttiṣṭhet' expresses:",
+      "question_hi": "\"ब्राह्मे मुहूर्त उत्तिष्ठेत्\" (अ.हृ.सू. 2.1) में क्रिया 'उत्तिष्ठेत्' क्या बताती है?",
+      "options": [
+        {
+          "en": "Past action (he rose)",
+          "hi": "भूतकाल (वह उठा)"
+        },
+        {
+          "en": "Injunction (he should rise) - vidhiliṅ",
+          "hi": "विधि (उसे उठना चाहिए) - विधिलिङ्"
+        },
+        {
+          "en": "Future action (he will rise)",
+          "hi": "भविष्य (वह उठेगा)"
+        },
+        {
+          "en": "Command to a second person (you rise)",
+          "hi": "मध्यम पुरुष आज्ञा (तुम उठो)"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "The -et ending is vidhiliṅ (optative/potential), used in saṃhitās for prescriptions: uttiṣṭhet, pibet, bhakṣayet, ācaret.",
+      "explanation_hi": "-एत् अन्त विधिलिङ् का है, जो संहिताओं में विधान के लिए प्रयुक्त होता है: उत्तिष्ठेत्, पिबेत्, भक्षयेत्, आचरेत्।",
+      "reference": "AH.sutra.2.1",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0033",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-pratyaya-dhatu",
+      "topic_en": "Pratyaya and verb forms",
+      "topic_hi": "प्रत्यय एवं धातुरूप",
+      "type": "mcq",
+      "question_en": "'Bhavati' is in which lakāra?",
+      "question_hi": "'भवति' किस लकार में है?",
+      "options": [
+        {
+          "en": "Laṅ (past)",
+          "hi": "लङ् (भूतकाल)"
+        },
+        {
+          "en": "Laṭ (present tense)",
+          "hi": "लट् (वर्तमान काल)"
+        },
+        {
+          "en": "Lṛṭ (future)",
+          "hi": "लृट् (भविष्य)"
+        },
+        {
+          "en": "Loṭ (imperative)",
+          "hi": "लोट् (आज्ञा)"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "Bhavati = 'is/becomes' (laṭ, prathama puruṣa, ekavacana). Abhavat is laṅ, bhaviṣyati lṛṭ, bhavatu loṭ, bhavet vidhiliṅ.",
+      "explanation_hi": "भवति = 'होता है' (लट्, प्रथम पुरुष, एकवचन)। अभवत् लङ्, भविष्यति लृट्, भवतु लोट् और भवेत् विधिलिङ् है।",
+      "reference": "Sanskrit",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0034",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-pratyaya-dhatu",
+      "topic_en": "Pratyaya and verb forms",
+      "topic_hi": "प्रत्यय एवं धातुरूप",
+      "type": "mcq",
+      "question_en": "'Bhaviṣyati' is in which lakāra?",
+      "question_hi": "'भविष्यति' किस लकार में है?",
+      "options": [
+        {
+          "en": "Laṭ",
+          "hi": "लट्"
+        },
+        {
+          "en": "Laṅ",
+          "hi": "लङ्"
+        },
+        {
+          "en": "Lṛṭ",
+          "hi": "लृट्"
+        },
+        {
+          "en": "Liṭ",
+          "hi": "लिट्"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "Lṛṭ is the simple future: bhaviṣyati 'will be'. Liṭ is the perfect (babhūva).",
+      "explanation_hi": "लृट् सामान्य भविष्यत् है: भविष्यति 'होगा'। लिट् परोक्ष भूत है (बभूव)।",
+      "reference": "Sanskrit",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0035",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-pratyaya-dhatu",
+      "topic_en": "Pratyaya and verb forms",
+      "topic_hi": "प्रत्यय एवं धातुरूप",
+      "type": "mcq",
+      "question_en": "'Bhuktvā' (having eaten) is formed with which pratyaya?",
+      "question_hi": "'भुक्त्वा' (खाकर) किस प्रत्यय से बना है?",
+      "options": [
+        {
+          "en": "Ktvā",
+          "hi": "क्त्वा"
+        },
+        {
+          "en": "Kta",
+          "hi": "क्त"
+        },
+        {
+          "en": "Tumun",
+          "hi": "तुमुन्"
+        },
+        {
+          "en": "Lyap",
+          "hi": "ल्यप्"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "Ktvā forms the gerund (having done): bhuj + ktvā = bhuktvā. With an upasarga, lyap is used instead (ā + gam → āgatya). Kta gives the past participle (bhukta), tumun the infinitive (bhoktum).",
+      "explanation_hi": "क्त्वा से पूर्वकालिक रूप (करके) बनता है: भुज् + क्त्वा = भुक्त्वा। उपसर्ग होने पर ल्यप् होता है (आ + गम् → आगत्य)। क्त से भूतकृदन्त (भुक्त) और तुमुन् से तुमुन्नन्त (भोक्तुम्) बनता है।",
+      "reference": "Sanskrit",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0036",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-pratyaya-dhatu",
+      "topic_en": "Pratyaya and verb forms",
+      "topic_hi": "प्रत्यय एवं धातुरूप",
+      "type": "mcq",
+      "question_en": "'Āgatya' (having come) uses lyap instead of ktvā because:",
+      "question_hi": "'आगत्य' (आकर) में क्त्वा के स्थान पर ल्यप् क्यों है?",
+      "options": [
+        {
+          "en": "The root ends in a vowel",
+          "hi": "धातु स्वरान्त है"
+        },
+        {
+          "en": "It is in the future tense",
+          "hi": "यह भविष्य काल है"
+        },
+        {
+          "en": "It is ātmanepada",
+          "hi": "यह आत्मनेपद है"
+        },
+        {
+          "en": "The verb is preceded by an upasarga (ā)",
+          "hi": "धातु से पहले उपसर्ग (आ) है"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "Samāse 'nañpūrve ktvo lyap: when the root is compounded with a prefix (not 'a/an'), ktvā is replaced by lyap: ā + gam + lyap = āgatya; sam + gṛh = saṃgṛhya.",
+      "explanation_hi": "समासेऽनञ्पूर्वे क्त्वो ल्यप्: धातु के साथ उपसर्ग (नञ् नहीं) हो तो क्त्वा का ल्यप् होता है: आ + गम् + ल्यप् = आगत्य; सम् + गृह् = संगृह्य।",
+      "reference": "Sanskrit",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0037",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-pratyaya-dhatu",
+      "topic_en": "Pratyaya and verb forms",
+      "topic_hi": "प्रत्यय एवं धातुरूप",
+      "type": "mcq",
+      "question_en": "'Kartavya' and 'karaṇīya' (that which should be done) are formed with:",
+      "question_hi": "'कर्तव्य' और 'करणीय' (करने योग्य) किससे बनते हैं?",
+      "options": [
+        {
+          "en": "Ktvā and lyap",
+          "hi": "क्त्वा और ल्यप्"
+        },
+        {
+          "en": "Taddhita -tva and -tā",
+          "hi": "तद्धित -त्व और -ता"
+        },
+        {
+          "en": "Kta and ktavatu",
+          "hi": "क्त और क्तवतु"
+        },
+        {
+          "en": "Tavyat and anīyar (kṛtya pratyayas)",
+          "hi": "तव्यत् और अनीयर् (कृत्य प्रत्यय)"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "Tavyat and anīyar are kṛtya pratyayas giving 'should be done': kṛ → kartavya, karaṇīya. Similarly 'parīkṣya' (to be examined) uses ṇyat/yat.",
+      "explanation_hi": "तव्यत् और अनीयर् कृत्य प्रत्यय हैं जो 'करने योग्य' अर्थ देते हैं: कृ → कर्तव्य, करणीय। इसी प्रकार 'परीक्ष्य' (परीक्षा योग्य) में ण्यत्/यत् है।",
+      "reference": "Sanskrit",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0038",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-pratyaya-dhatu",
+      "topic_en": "Pratyaya and verb forms",
+      "topic_hi": "प्रत्यय एवं धातुरूप",
+      "type": "mcq",
+      "question_en": "'Tejomaya' (made of tejas, as in \"cakṣus tejomayam\") contains which kind of suffix?",
+      "question_hi": "'तेजोमय' (\"चक्षुस्तेजोमयम्\" में) में किस प्रकार का प्रत्यय है?",
+      "options": [
+        {
+          "en": "Taddhita pratyaya (mayaṭ)",
+          "hi": "तद्धित प्रत्यय (मयट्)"
+        },
+        {
+          "en": "Kṛt pratyaya",
+          "hi": "कृत् प्रत्यय"
+        },
+        {
+          "en": "Tiṅ (verbal ending)",
+          "hi": "तिङ् (धातु प्रत्यय)"
+        },
+        {
+          "en": "Strī pratyaya",
+          "hi": "स्त्री प्रत्यय"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "Taddhita suffixes are added to nouns: tejas + mayaṭ = tejomaya ('consisting of tejas'). Kṛt suffixes are added to roots.",
+      "explanation_hi": "तद्धित प्रत्यय संज्ञा में लगते हैं: तेजस् + मयट् = तेजोमय ('तेज से बना')। कृत् प्रत्यय धातु में लगते हैं।",
+      "reference": "Sanskrit",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0039",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-pratyaya-dhatu",
+      "topic_en": "Pratyaya and verb forms",
+      "topic_hi": "प्रत्यय एवं धातुरूप",
+      "type": "mcq",
+      "question_en": "How many upasargas (verbal prefixes) are traditionally counted in Sanskrit?",
+      "question_hi": "संस्कृत में परम्परा से कितने उपसर्ग गिने जाते हैं?",
+      "options": [
+        {
+          "en": "Twelve",
+          "hi": "बारह"
+        },
+        {
+          "en": "Sixteen",
+          "hi": "सोलह"
+        },
+        {
+          "en": "Twenty-two",
+          "hi": "बाईस"
+        },
+        {
+          "en": "Thirty-two",
+          "hi": "बत्तीस"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "The 22 prādi upasargas: pra, parā, apa, sam, anu, ava, nis, nir, dus, dur, vi, āṅ, ni, adhi, api, ati, su, ut, abhi, prati, pari, upa.",
+      "explanation_hi": "22 प्रादि उपसर्ग: प्र, परा, अप, सम्, अनु, अव, निस्, निर्, दुस्, दुर्, वि, आङ्, नि, अधि, अपि, अति, सु, उत्, अभि, प्रति, परि, उप।",
+      "reference": "Sanskrit",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0040",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-pratyaya-dhatu",
+      "topic_en": "Pratyaya and verb forms",
+      "topic_hi": "प्रत्यय एवं धातुरूप",
+      "type": "mcq",
+      "question_en": "'Pibet' (from the root pā, 'to drink'), common in prescriptions, means:",
+      "question_hi": "'पिबेत्' (पा धातु, पीना), जो विधानों में बहुत आता है, का अर्थ है:",
+      "options": [
+        {
+          "en": "He drank",
+          "hi": "उसने पिया"
+        },
+        {
+          "en": "He should drink",
+          "hi": "उसे पीना चाहिए"
+        },
+        {
+          "en": "He will drink",
+          "hi": "वह पिएगा"
+        },
+        {
+          "en": "Drink! (you)",
+          "hi": "तुम पियो"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "Pibet is vidhiliṅ, prathama puruṣa, ekavacana. 'He drank' would be apibat (laṅ), 'will drink' pāsyati (lṛṭ), 'drink!' piba (loṭ).",
+      "explanation_hi": "पिबेत् विधिलिङ्, प्रथम पुरुष, एकवचन है। 'उसने पिया' अपिबत् (लङ्), 'पिएगा' पास्यति (लृट्) और 'पियो' पिब (लोट्) होगा।",
+      "reference": "Sanskrit",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0041",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-pratyaya-dhatu",
+      "topic_en": "Pratyaya and verb forms",
+      "topic_hi": "प्रत्यय एवं धातुरूप",
+      "type": "mcq",
+      "question_en": "How many puruṣas (grammatical persons) are there in Sanskrit verb conjugation?",
+      "question_hi": "संस्कृत धातुरूपों में कितने पुरुष हैं?",
+      "options": [
+        {
+          "en": "Three",
+          "hi": "तीन"
+        },
+        {
+          "en": "Two",
+          "hi": "दो"
+        },
+        {
+          "en": "Six",
+          "hi": "छह"
+        },
+        {
+          "en": "Ten",
+          "hi": "दस"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "Prathama (third person: he), madhyama (second: you) and uttama (first: I). Ten is the number of lakāras.",
+      "explanation_hi": "प्रथम (वह), मध्यम (तुम) और उत्तम (मैं)। दस लकारों की संख्या है।",
+      "reference": "Sanskrit",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0042",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-pratyaya-dhatu",
+      "topic_en": "Pratyaya and verb forms",
+      "topic_hi": "प्रत्यय एवं धातुरूप",
+      "type": "true_false",
+      "question_en": "'Bhavanti' is laṭ lakāra, prathama puruṣa, bahuvacana of the root bhū.",
+      "question_hi": "'भवन्ति' भू धातु का लट् लकार, प्रथम पुरुष, बहुवचन है।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "True. Bhavati (eka), bhavataḥ (dvi), bhavanti (bahu): 'they are/become'.",
+      "explanation_hi": "सत्य। भवति (एक), भवतः (द्वि), भवन्ति (बहु): 'वे होते हैं'।",
+      "reference": "Sanskrit",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0043",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-pratyaya-dhatu",
+      "topic_en": "Pratyaya and verb forms",
+      "topic_hi": "प्रत्यय एवं धातुरूप",
+      "type": "true_false",
+      "question_en": "'Kṛtvā' (having done) is formed with the kta pratyaya.",
+      "question_hi": "'कृत्वा' (करके) क्त प्रत्यय से बना है।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "False. Kṛtvā uses ktvā; kta gives the past participle kṛta ('done').",
+      "explanation_hi": "असत्य। कृत्वा में क्त्वा प्रत्यय है; क्त से भूतकृदन्त कृत ('किया हुआ') बनता है।",
+      "reference": "Sanskrit",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0044",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-grammar-tradition",
+      "topic_en": "Grammatical tradition",
+      "topic_hi": "व्याकरण परम्परा",
+      "type": "mcq",
+      "question_en": "The Aṣṭādhyāyī, the foundational text of Sanskrit grammar, was written by:",
+      "question_hi": "संस्कृत व्याकरण का मूल ग्रन्थ अष्टाध्यायी किसने लिखा?",
+      "options": [
+        {
+          "en": "Patañjali",
+          "hi": "पतञ्जलि"
+        },
+        {
+          "en": "Kātyāyana",
+          "hi": "कात्यायन"
+        },
+        {
+          "en": "Pāṇini",
+          "hi": "पाणिनि"
+        },
+        {
+          "en": "Bhaṭṭoji Dīkṣita",
+          "hi": "भट्टोजि दीक्षित"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "Pāṇini composed the Aṣṭādhyāyī (8 chapters, about 4,000 sūtras). Kātyāyana wrote the vārttikas, Patañjali the Mahābhāṣya, and Bhaṭṭoji Dīkṣita the Siddhāntakaumudī; Varadarāja's Laghusiddhāntakaumudī is its simplified version.",
+      "explanation_hi": "पाणिनि ने अष्टाध्यायी (8 अध्याय, लगभग 4,000 सूत्र) रची। कात्यायन ने वार्तिक, पतञ्जलि ने महाभाष्य और भट्टोजि दीक्षित ने सिद्धान्तकौमुदी लिखी; वरदराज की लघुसिद्धान्तकौमुदी उसका सरल रूप है।",
+      "reference": "Pāṇini,",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0045",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-grammar-tradition",
+      "topic_en": "Grammatical tradition",
+      "topic_hi": "व्याकरण परम्परा",
+      "type": "mcq",
+      "question_en": "How many Māheśvara sūtras (pratyāhāra sūtras) are there?",
+      "question_hi": "माहेश्वर सूत्र (प्रत्याहार सूत्र) कितने हैं?",
+      "options": [
+        {
+          "en": "Eight",
+          "hi": "आठ"
+        },
+        {
+          "en": "Twelve",
+          "hi": "बारह"
+        },
+        {
+          "en": "Twenty-two",
+          "hi": "बाईस"
+        },
+        {
+          "en": "Fourteen",
+          "hi": "चौदह"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "The fourteen Māheśvara (Śiva) sūtras, from 'a i u ṇ' to 'ha l', arrange the sounds and allow pratyāhāras such as ac (vowels) and hal (consonants).",
+      "explanation_hi": "चौदह माहेश्वर (शिव) सूत्र, 'अइउण्' से 'हल्' तक, वर्णों को क्रम देते हैं और अच् (स्वर), हल् (व्यञ्जन) जैसे प्रत्याहार बनाते हैं।",
+      "reference": "Pāṇini,",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0046",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-translation",
+      "topic_en": "Reading Ayurvedic verses",
+      "topic_hi": "आयुर्वेदीय श्लोकों का पठन",
+      "type": "mcq",
+      "question_en": "\"Vāyuḥ pittaṃ kaphaś ceti trayo doṣāḥ samāsataḥ\" is best translated as:",
+      "question_hi": "\"वायुः पित्तं कफश्चेति त्रयो दोषाः समासतः\" का सबसे उचित अनुवाद है:",
+      "options": [
+        {
+          "en": "The three doṣas cause all diseases",
+          "hi": "तीन दोष सब रोगों के कारण हैं"
+        },
+        {
+          "en": "Vāyu, pitta and kapha are, in brief, the three doṣas",
+          "hi": "संक्षेप में वायु, पित्त और कफ - ये तीन दोष हैं"
+        },
+        {
+          "en": "Vāyu, pitta and kapha should be treated together",
+          "hi": "वायु, पित्त, कफ की साथ चिकित्सा करें"
+        },
+        {
+          "en": "The doṣas are three times stronger",
+          "hi": "दोष तीन गुना बलवान हैं"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "Samāsataḥ = in brief (an indeclinable from samāsa with -tas); trayaḥ = three; iti marks the end of the list.",
+      "explanation_hi": "समासतः = संक्षेप में (समास + तसिल्); त्रयः = तीन; इति सूची के अन्त का सूचक है।",
+      "reference": "AH.sutra.1.6",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0047",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-translation",
+      "topic_en": "Reading Ayurvedic verses",
+      "topic_hi": "आयुर्वेदीय श्लोकों का पठन",
+      "type": "mcq",
+      "question_en": "In \"mātrāśī sarvakālaṃ syāt\" (AH Sū 8.1), 'mātrāśī' means:",
+      "question_hi": "\"मात्राशी सर्वकालं स्यात्\" (अ.हृ.सू. 8.1) में 'मात्राशी' का अर्थ है:",
+      "options": [
+        {
+          "en": "One who never eats",
+          "hi": "जो कभी न खाए"
+        },
+        {
+          "en": "One who eats only once",
+          "hi": "जो केवल एक बार खाए"
+        },
+        {
+          "en": "One who eats in proper quantity",
+          "hi": "जो उचित मात्रा में खाए"
+        },
+        {
+          "en": "One who eats at night",
+          "hi": "जो रात में खाए"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "Mātrā (proper measure) + aśin (one who eats, from aś 'to eat'); syāt (vidhiliṅ of as) = 'should be'. So: 'one should always eat in proper quantity'.",
+      "explanation_hi": "मात्रा (उचित परिमाण) + अशिन् (खाने वाला, अश् धातु); स्यात् (अस् का विधिलिङ्) = 'होना चाहिए'। अर्थ: 'सदा मात्रापूर्वक भोजन करने वाला होना चाहिए'।",
+      "reference": "AH.sutra.8.1",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0048",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-translation",
+      "topic_en": "Reading Ayurvedic verses",
+      "topic_hi": "आयुर्वेदीय श्लोकों का पठन",
+      "type": "mcq",
+      "question_en": "In \"vegān na dhārayet\" (AH Sū 4.1), 'vegān' is in which vibhakti, and what is the meaning?",
+      "question_hi": "\"वेगान्न धारयेत्\" (अ.हृ.सू. 4.1) में 'वेगान्' किस विभक्ति में है और अर्थ क्या है?",
+      "options": [
+        {
+          "en": "Prathamā; the urges should hold",
+          "hi": "प्रथमा; वेग धारण करें"
+        },
+        {
+          "en": "Dvitīyā bahuvacana; one should not suppress the urges",
+          "hi": "द्वितीया बहुवचन; वेगों को न रोके"
+        },
+        {
+          "en": "Ṣaṣṭhī; of the urges",
+          "hi": "षष्ठी; वेगों का"
+        },
+        {
+          "en": "Saptamī; in the urges",
+          "hi": "सप्तमी; वेगों में"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "Vegān is the object (dvitīyā bahuvacana) of dhārayet (vidhiliṅ of dhṛ, causative 'should hold back'), negated by na: 'one should not suppress the urges'.",
+      "explanation_hi": "वेगान् धारयेत् (धृ, णिजन्त विधिलिङ् - 'रोके') का कर्म (द्वितीया बहुवचन) है और न से निषेध: 'वेगों को न रोके'।",
+      "reference": "AH.sutra.4.1",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0049",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-translation",
+      "topic_en": "Reading Ayurvedic verses",
+      "topic_hi": "आयुर्वेदीय श्लोकों का पठन",
+      "type": "mcq",
+      "question_en": "In Caraka's definition of āyu, 'saṃyoga' means:",
+      "question_hi": "चरक की आयु की परिभाषा में 'संयोग' का अर्थ है:",
+      "options": [
+        {
+          "en": "Union / conjunction",
+          "hi": "मेल / संयोग"
+        },
+        {
+          "en": "Separation",
+          "hi": "वियोग"
+        },
+        {
+          "en": "Disease",
+          "hi": "रोग"
+        },
+        {
+          "en": "Medicine",
+          "hi": "औषध"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "Sam + yuj + ghañ: joining together. Āyu is the saṃyoga of śarīra, indriya, sattva and ātmā (CS Sū 1.42); its absence is death.",
+      "explanation_hi": "सम् + युज् + घञ्: जुड़ना। आयु शरीर, इन्द्रिय, सत्त्व और आत्मा का संयोग है (च.सू. 1.42); इसका अभाव मृत्यु है।",
+      "reference": "CS.sutra.1.42",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SN&AI-0050",
+      "subject_id": "AyUG-SN&AI",
+      "topic_id": "sn-translation",
+      "topic_en": "Reading Ayurvedic verses",
+      "topic_hi": "आयुर्वेदीय श्लोकों का पठन",
+      "type": "true_false",
+      "question_en": "In \"abhyaṅgam ācaren nityam\", the word 'nityam' means 'daily/always'.",
+      "question_hi": "\"अभ्यङ्गमाचरेन्नित्यम्\" में 'नित्यम्' का अर्थ 'प्रतिदिन/सदा' है।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "True. Nityam (used adverbially) = regularly, every day: 'one should practise abhyaṅga daily' (AH Sū 2.8).",
+      "explanation_hi": "सत्य। नित्यम् (क्रियाविशेषण) = नियमित, प्रतिदिन: 'प्रतिदिन अभ्यंग करे' (अ.हृ.सू. 2.8)।",
+      "reference": "AH.sutra.2.8",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    }
+  ]
+}
