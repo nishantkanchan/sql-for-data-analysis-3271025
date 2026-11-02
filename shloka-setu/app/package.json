@@ -46,7 +46,8 @@
     "test": "jest",
     "typecheck": "tsc --noEmit",
     "export:web": "expo export --platform web",
-    "lint": "expo lint"
+    "lint": "expo lint",
+    "web-demo": "npm run content && npx expo export --platform web && node scripts/make-web-demo.mjs"
   },
   "private": true,
   "jest": {

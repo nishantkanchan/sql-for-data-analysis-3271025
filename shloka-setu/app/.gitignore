@@ -41,3 +41,7 @@ example
 # generated native folders
 /ios
 /android
+
+# generated web static content (npm run content)
+public/content/
+web-demo/

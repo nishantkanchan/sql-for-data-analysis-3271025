@@ -494,7 +494,7 @@
    "english": "That watery rasa, on reaching the liver (yakṛt) and spleen (plīhā), acquires colour (becomes red).",
    "hindi": "वह जलीय रस यकृत और प्लीहा में पहुँचकर रंग (लालिमा) प्राप्त करता है।",
    "explanation_en": "This short statement is very important: rasa becomes rakta in the liver and spleen. The colouring is done by rañjaka pitta, which Suśruta places in the liver and spleen (Su 21). Liver and spleen are also called the roots (mūla) of raktavaha srotas. A very common short question: \"Where is rasa converted into rakta?\"",
-   "explanation_hi": "यह छोटा कथन बहुत महत्वपूर्ण है: रस यकृत और प्लीहा में रक्त बनता है। यह रंग रञ्जक पित्त देता है, जिसे सुश्रुत यकृत और प्लीहा में बताते हैं (सू. 21)। यकृत और प्लीहा रक्तवह स्रोतस के मूल भी कहे गए हैं। अक्सर पूछा जाने वाला छोटा प्रश्न: \"रस का रक्त में परिवर्तन कहाँ होता है?\"",
+   "explanation_hi": "यह छोटा कथन बहुत महत्वपूर्ण है: रस यकृत और प्लीहा में रक्त बनता है। यह रंग रञ्जक पित्त देता है, जिसे सुश्रुत यकृत और प्लीहा में बताते हैं (सू। 21)। यकृत और प्लीहा रक्तवह स्रोतस के मूल भी कहे गए हैं। अक्सर पूछा जाने वाला छोटा प्रश्न: \"रस का रक्त में परिवर्तन कहाँ होता है?\"",
    "modern_correlation": {
     "en": "In modern physiology, red blood cells are produced in the bone marrow after birth; the liver and spleen are the main sites of blood formation in foetal life, can resume this role in some diseases (extramedullary haematopoiesis), and in adults are central to red-cell breakdown and iron recycling. So the classical link of rakta with liver and spleen has partial parallels, but it is not the same as adult haematopoiesis.",
     "hi": "आधुनिक शरीर-क्रिया के अनुसार जन्म के बाद लाल रक्त कोशिकाएँ अस्थि-मज्जा (bone marrow) में बनती हैं; भ्रूण अवस्था में यकृत और प्लीहा रक्त बनने के मुख्य स्थान होते हैं, कुछ रोगों में फिर यह कार्य कर सकते हैं (extramedullary haematopoiesis), और वयस्कों में लाल कोशिकाओं के टूटने और आयरन के पुनः उपयोग में केन्द्रीय भूमिका निभाते हैं। इसलिए रक्त का यकृत-प्लीहा से प्राचीन सम्बन्ध आंशिक रूप से मिलता है, पर यह वयस्क रक्त-निर्माण के समान नहीं है।"
@@ -2371,7 +2371,7 @@
    "english": "There (in pracchāna) the instrument should be applied in straight, non-overlapping, fine, even incisions, neither too deep nor too superficial, quickly, without injuring vital points (marma), vessels, ligaments or joints.",
    "hindi": "वहाँ (प्रच्छान में) शस्त्र को सीधा, एक-दूसरे पर न चढ़ा, सूक्ष्म, सम, न बहुत गहरा न बहुत उथला, शीघ्रता से, और मर्म, सिरा, स्नायु व सन्धि को हानि पहुँचाए बिना चलाना चाहिए।",
    "explanation_en": "These are the qualities of a proper incision in pracchāna. The emphasis on avoiding marma, sirā, snāyu and sandhi shows Suśruta's anatomical caution. The same principles apply to surgical incisions in general (compare Su 5, Agropaharaṇīya).",
-   "explanation_hi": "ये प्रच्छान में उचित चीरे के गुण हैं। मर्म, सिरा, स्नायु और सन्धि से बचने पर ज़ोर सुश्रुत की शारीरिक सावधानी दिखाता है। यही सिद्धान्त सामान्य शल्य चीरों पर भी लागू होते हैं (सू. 5, अग्रोपहरणीय से तुलना करें)।",
+   "explanation_hi": "ये प्रच्छान में उचित चीरे के गुण हैं। मर्म, सिरा, स्नायु और सन्धि से बचने पर ज़ोर सुश्रुत की शारीरिक सावधानी दिखाता है। यही सिद्धान्त सामान्य शल्य चीरों पर भी लागू होते हैं (सू। 5, अग्रोपहरणीय से तुलना करें)।",
    "modern_correlation": {
     "en": "The emphasis on controlled depth and on avoiding major vessels, nerves, tendons and joints is consistent with basic principles of safe surgical technique.",
     "hi": "गहराई पर नियन्त्रण और बड़ी रक्तवाहिनियों, तंत्रिकाओं, कण्डराओं और सन्धियों से बचने पर ज़ोर सुरक्षित शल्य तकनीक के मूल सिद्धान्तों से मेल खाता है।"
@@ -3962,7 +3962,7 @@
    "english": "The physician should try these three methods as prescribed; if they are unsuccessful, cautery (dāha) is regarded as the supreme (final) measure.",
    "hindi": "वैद्य को इन तीन उपायों से विधिपूर्वक प्रयत्न करना चाहिए; इनके असफल होने पर दाह (दहन) सर्वश्रेष्ठ (अन्तिम) उपाय माना जाता है।",
    "explanation_en": "Cautery (dāha/agnikarma) is the most powerful method and is used last, when the other three fail. This fits Suśruta's general view that agnikarma is superior to kṣāra and other methods (Su 12). Exam tip: \"dāhaḥ parama iṣyate\".",
-   "explanation_hi": "दाह (अग्निकर्म) सबसे शक्तिशाली उपाय है और अन्य तीनों के विफल होने पर अन्त में प्रयोग होता है। यह सुश्रुत के सामान्य मत से मेल खाता है कि अग्निकर्म क्षार आदि से श्रेष्ठ है (सू. 12)। परीक्षा के लिए: \"दाहः परम इष्यते\"।",
+   "explanation_hi": "दाह (अग्निकर्म) सबसे शक्तिशाली उपाय है और अन्य तीनों के विफल होने पर अन्त में प्रयोग होता है। यह सुश्रुत के सामान्य मत से मेल खाता है कि अग्निकर्म क्षार आदि से श्रेष्ठ है (सू। 12)। परीक्षा के लिए: \"दाहः परम इष्यते\"।",
    "modern_correlation": {
     "en": "In modern surgery, cautery (thermal or electrical) is likewise used to control bleeding from vessels that do not respond to pressure.",
     "hi": "आधुनिक शल्य चिकित्सा में भी दबाव से न रुकने वाले रक्तस्राव को रोकने के लिए दहन (ताप या विद्युत cautery) का उपयोग होता है।"

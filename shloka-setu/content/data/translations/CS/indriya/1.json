@@ -1,0 +1,1750 @@
+{
+ "chapter": {
+  "id": "CS.indriya.1",
+  "text": "charaka_samhita",
+  "sthana": "indriya",
+  "chapter": 1,
+  "title_iast": "Varṇasvarīya Indriya",
+  "title_devanagari": "वर्णस्वरीयमिन्द्रियम्",
+  "title_en": "The chapter on complexion and voice (as signs of prognosis)",
+  "title_hi": "वर्णस्वरीय इन्द्रिय (प्रकृति-विकृति वर्ण और स्वर से आयु-परीक्षा)",
+  "summary_en": "The Indriyasthāna deals with ariṣṭa lakṣaṇa, signs that indicate approaching death or the remaining span of life. This first chapter lists the many factors a physician must examine by perception, inference and authoritative teaching to know the remaining life-span: complexion, voice, smell, taste, touch, the senses, mind, desires, cleanliness, character, conduct, memory, form, constitution, strength, diet, disease, shadows, dreams, messengers, omens and response to medicine. These are divided into those not related to the person (examined by teaching and reasoning) and those related to the person (examined as prakṛti and vikṛti). Prakṛti is determined by race, family, place, season, age and individuality; vikṛti is of three kinds: lakṣaṇa-nimittā, lakṣya-nimittā and nimittānurūpā. The chapter then describes natural and morbid complexions (varṇa) and voices (svara), and signs such as a sharp boundary of normal and abnormal colour over half the body or face, new blemishes, discoloration of nails, teeth, lips, eyes, urine and faeces in a weak patient, bluish lips like ripe jāmun fruit, and sudden abnormal voice. Such signs appearing suddenly without cause in a wasting patient are regarded as fatal.",
+  "summary_hi": "इन्द्रियस्थान अरिष्ट लक्षणों से सम्बन्धित है, अर्थात् वे लक्षण जो निकट मृत्यु या शेष आयु बताते हैं। यह पहला अध्याय उन अनेक कारकों की सूची देता है जिनकी वैद्य को शेष आयु जानने के लिए प्रत्यक्ष, अनुमान और आप्तोपदेश से परीक्षा करनी चाहिए: वर्ण, स्वर, गन्ध, रस, स्पर्श, इन्द्रियाँ, मन, भक्ति, शौच, शील, आचार, स्मृति, आकृति, प्रकृति, बल, आहार, रोग, छाया, स्वप्न, दूत, उत्पात और औषध-प्रतिक्रिया। इन्हें पुरुष से असम्बद्ध (उपदेश और युक्ति से परीक्ष्य) और पुरुष-आश्रित (प्रकृति और विकृति के रूप में परीक्ष्य) में बाँटा गया है। प्रकृति जाति, कुल, देश, काल, वय और व्यक्तिगत विशेषता से निश्चित होती है; विकृति तीन प्रकार की है: लक्षणनिमित्ता, लक्ष्यनिमित्ता और निमित्तानुरूपा। फिर प्राकृत और वैकारिक वर्ण और स्वर, तथा ऐसे लक्षण बताए गए हैं जैसे आधे शरीर या मुख पर प्राकृत और विकृत वर्ण की स्पष्ट सीमा, नए दाग, दुर्बल रोगी में नख, दाँत, होंठ, आँख, मूत्र और मल का विवर्ण होना, पके जामुन जैसे नीले होंठ, और अचानक विकृत स्वर। क्षीण होते रोगी में बिना कारण अचानक प्रकट होने वाले ऐसे लक्षण मारक माने गए हैं।",
+  "key_concepts": [
+   "ariṣṭa lakṣaṇa",
+   "āyuṣaḥ pramāṇa parīkṣā",
+   "puruṣāśrita and apuruṣāśrita parīkṣya",
+   "prakṛti (jāti, kula, deśa, kāla, vayas, pratyātma)",
+   "vikṛti (lakṣaṇanimittā, lakṣyanimittā, nimittānurūpā)",
+   "prakṛta and vaikārika varṇa",
+   "prakṛta and vaikārika svara"
+  ],
+  "exam_focus_en": [
+   "Factors to be examined for knowing the remaining life-span (Iṃ 1.3) and their division into puruṣāśrita and apuruṣāśrita (Iṃ 1.4).",
+   "Six determinants of prakṛti: jāti, kula, deśa, kāla, vayas, pratyātma (Iṃ 1.5).",
+   "Three types of vikṛti: lakṣaṇanimittā, lakṣyanimittā, nimittānurūpā (Iṃ 1.6-7) - frequently asked.",
+   "Four prakṛti varṇas (kṛṣṇa, śyāma, śyāmāvadāta, avadāta) and five vaikārika varṇas (nīla, śyāva, tāmra, harita, śukla) (Iṃ 1.8-9).",
+   "Natural voices (like swan, crane etc.) and morbid voices (like sheep, indistinct, weak) (Iṃ 1.15); fatal signs of colour and voice (Iṃ 1.10-26)."
+  ],
+  "exam_focus_hi": [
+   "शेष आयु जानने के लिए परीक्ष्य भाव (इं. 1.3) और उनका पुरुषाश्रित तथा अपुरुषाश्रित में विभाजन (इं. 1.4)।",
+   "प्रकृति के छह निर्धारक: जाति, कुल, देश, काल, वय, प्रत्यात्म (इं. 1.5)।",
+   "विकृति के तीन प्रकार: लक्षणनिमित्ता, लक्ष्यनिमित्ता, निमित्तानुरूपा (इं. 1.6-7) - बहुत पूछे जाते हैं।",
+   "चार प्रकृति वर्ण (कृष्ण, श्याम, श्यामावदात, अवदात) और पाँच वैकारिक वर्ण (नील, श्याव, ताम्र, हरित, शुक्ल) (इं. 1.8-9)।",
+   "प्राकृत स्वर (हंस, क्रौंच आदि जैसे) और वैकारिक स्वर (भेड़ जैसे, अव्यक्त, क्षीण) (इं. 1.15); वर्ण और स्वर के मारक लक्षण (इं. 1.10-26)।"
+  ],
+  "syllabus_refs": [
+   "AyUG-SA2"
+  ],
+  "review_status": "ai_draft"
+ },
+ "verses": [
+  {
+   "id": "CS.indriya.1.1",
+   "word_meanings": [
+    {
+     "sa": "अथ अतः",
+     "iast": "atha ataḥ",
+     "en": "now therefore",
+     "hi": "अब इसलिए"
+    },
+    {
+     "sa": "वर्णस्वरीयम्",
+     "iast": "varṇasvarīyam",
+     "en": "named 'Varṇasvarīya' (on complexion and voice)",
+     "hi": "वर्णस्वरीय नामक"
+    },
+    {
+     "sa": "इन्द्रियम्",
+     "iast": "indriyam",
+     "en": "chapter of the Indriyasthāna",
+     "hi": "इन्द्रिय अध्याय"
+    },
+    {
+     "sa": "व्याख्यास्यामः",
+     "iast": "vyākhyāsyāmaḥ",
+     "en": "we shall explain",
+     "hi": "व्याख्या करेंगे"
+    }
+   ],
+   "english": "Now we shall explain the Indriya chapter named Varṇasvarīya, 'on complexion and voice'.",
+   "hindi": "अब हम वर्णस्वरीय (वर्ण और स्वर सम्बन्धी) नामक इन्द्रिय अध्याय की व्याख्या करेंगे।",
+   "explanation_en": "Opening of the Indriyasthāna, which deals with prognostic signs (ariṣṭa) indicating the remaining life-span. 'Indriya' here is interpreted by Cakrapāṇi as 'sign' (liṅga) of life-span.",
+   "explanation_hi": "इन्द्रियस्थान का आरम्भ, जो शेष आयु बताने वाले अरिष्ट लक्षणों से सम्बन्धित है। चक्रपाणि के अनुसार यहाँ 'इन्द्रिय' का अर्थ आयु का 'लिंग' (चिह्न) है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "indriyasthāna",
+    "ariṣṭa"
+   ],
+   "tags": [
+    "chapter-opening"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.indriya.1.2",
+   "word_meanings": [
+    {
+     "sa": "इति ह स्म आह भगवान् आत्रेयः",
+     "iast": "iti ha sma āha bhagavān ātreyaḥ",
+     "en": "thus said the revered Ātreya",
+     "hi": "ऐसा भगवान आत्रेय ने कहा"
+    }
+   ],
+   "english": "Thus said the revered Ātreya.",
+   "hindi": "ऐसा भगवान आत्रेय ने कहा।",
+   "explanation_en": "Standard attribution.",
+   "explanation_hi": "मानक श्रेय-पंक्ति।",
+   "modern_correlation": null,
+   "key_terms": [
+    "Ātreya"
+   ],
+   "tags": [
+    "chapter-opening"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.indriya.1.3",
+   "word_meanings": [
+    {
+     "sa": "वर्णः",
+     "iast": "varṇaḥ",
+     "en": "complexion",
+     "hi": "वर्ण"
+    },
+    {
+     "sa": "स्वरः",
+     "iast": "svaraḥ",
+     "en": "voice",
+     "hi": "स्वर"
+    },
+    {
+     "sa": "गन्धः",
+     "iast": "gandhaḥ",
+     "en": "smell",
+     "hi": "गन्ध"
+    },
+    {
+     "sa": "रसः",
+     "iast": "rasaḥ",
+     "en": "taste",
+     "hi": "रस"
+    },
+    {
+     "sa": "स्पर्शः",
+     "iast": "sparśaḥ",
+     "en": "touch",
+     "hi": "स्पर्श"
+    },
+    {
+     "sa": "चक्षुः श्रोत्रम् घ्राणम् रसनम् स्पर्शनम्",
+     "iast": "cakṣuḥ śrotram ghrāṇam rasanam sparśanam",
+     "en": "eye, ear, nose, tongue, skin",
+     "hi": "चक्षु, श्रोत्र, घ्राण, रसना, स्पर्शन"
+    },
+    {
+     "sa": "सत्त्वम्",
+     "iast": "sattvam",
+     "en": "mind",
+     "hi": "सत्त्व"
+    },
+    {
+     "sa": "भक्तिः",
+     "iast": "bhaktiḥ",
+     "en": "desires",
+     "hi": "भक्ति"
+    },
+    {
+     "sa": "शौचम्",
+     "iast": "śaucam",
+     "en": "cleanliness",
+     "hi": "शौच"
+    },
+    {
+     "sa": "शीलम्",
+     "iast": "śīlam",
+     "en": "character",
+     "hi": "शील"
+    },
+    {
+     "sa": "आचारः",
+     "iast": "ācāraḥ",
+     "en": "conduct",
+     "hi": "आचार"
+    },
+    {
+     "sa": "स्मृतिः",
+     "iast": "smṛtiḥ",
+     "en": "memory",
+     "hi": "स्मृति"
+    },
+    {
+     "sa": "आकृतिः",
+     "iast": "ākṛtiḥ",
+     "en": "form",
+     "hi": "आकृति"
+    },
+    {
+     "sa": "प्रकृतिः विकृतिः",
+     "iast": "prakṛtiḥ vikṛtiḥ",
+     "en": "normal and abnormal state",
+     "hi": "प्रकृति और विकृति"
+    },
+    {
+     "sa": "बलम्",
+     "iast": "balam",
+     "en": "strength",
+     "hi": "बल"
+    },
+    {
+     "sa": "ग्लानिः",
+     "iast": "glāniḥ",
+     "en": "fatigue",
+     "hi": "ग्लानि"
+    },
+    {
+     "sa": "मेधा",
+     "iast": "medhā",
+     "en": "intellect",
+     "hi": "मेधा"
+    },
+    {
+     "sa": "हर्षः",
+     "iast": "harṣaḥ",
+     "en": "cheerfulness",
+     "hi": "हर्ष"
+    },
+    {
+     "sa": "रौक्ष्यम् स्नेहः",
+     "iast": "raukṣyam snehaḥ",
+     "en": "dryness, unctuousness",
+     "hi": "रूक्षता, स्निग्धता"
+    },
+    {
+     "sa": "तन्द्रा",
+     "iast": "tandrā",
+     "en": "drowsiness",
+     "hi": "तन्द्रा"
+    },
+    {
+     "sa": "आरम्भः",
+     "iast": "ārambhaḥ",
+     "en": "initiative",
+     "hi": "आरम्भ"
+    },
+    {
+     "sa": "गौरवम् लाघवम्",
+     "iast": "gauravam lāghavam",
+     "en": "heaviness, lightness",
+     "hi": "गौरव, लाघव"
+    },
+    {
+     "sa": "गुणाः",
+     "iast": "guṇāḥ",
+     "en": "qualities",
+     "hi": "गुण"
+    },
+    {
+     "sa": "आहारः विहारः आहारपरिणामः",
+     "iast": "āhāraḥ vihāraḥ āhārapariṇāmaḥ",
+     "en": "diet, regimen, digestion",
+     "hi": "आहार, विहार, आहार-परिणाम"
+    },
+    {
+     "sa": "उपायः अपायः",
+     "iast": "upāyaḥ apāyaḥ",
+     "en": "proper and improper measures",
+     "hi": "उपाय, अपाय"
+    },
+    {
+     "sa": "व्याधिः व्याधिपूर्वरूपम्",
+     "iast": "vyādhiḥ vyādhipūrvarūpam",
+     "en": "disease and its prodromes",
+     "hi": "व्याधि और पूर्वरूप"
+    },
+    {
+     "sa": "वेदनाः उपद्रवाः",
+     "iast": "vedanāḥ upadravāḥ",
+     "en": "pains and complications",
+     "hi": "वेदना, उपद्रव"
+    },
+    {
+     "sa": "छाया प्रतिच्छाया",
+     "iast": "chāyā praticchāyā",
+     "en": "complexion-aura and reflection",
+     "hi": "छाया, प्रतिच्छाया"
+    },
+    {
+     "sa": "स्वप्नदर्शनम्",
+     "iast": "svapnadarśanam",
+     "en": "dreams",
+     "hi": "स्वप्न-दर्शन"
+    },
+    {
+     "sa": "दूताधिकारः",
+     "iast": "dūtādhikāraḥ",
+     "en": "messengers",
+     "hi": "दूत"
+    },
+    {
+     "sa": "पथि च औत्पातिकम्",
+     "iast": "pathi ca autpātikam",
+     "en": "omens on the way",
+     "hi": "मार्ग में उत्पात"
+    },
+    {
+     "sa": "आतुरकुले भावावस्थान्तराणि",
+     "iast": "āturakule bhāvāvasthāntarāṇi",
+     "en": "changes in the patient's household",
+     "hi": "रोगी के घर में भावों का परिवर्तन"
+    },
+    {
+     "sa": "भेषजसंवृत्तिः",
+     "iast": "bheṣajasaṃvṛttiḥ",
+     "en": "response to medicine",
+     "hi": "औषध की प्रतिक्रिया"
+    },
+    {
+     "sa": "भेषजविकारयुक्तिः",
+     "iast": "bheṣaja-vikāra-yuktiḥ",
+     "en": "suitability of medicine to disease",
+     "hi": "औषध-विकार की युक्ति"
+    },
+    {
+     "sa": "परीक्ष्याणि",
+     "iast": "parīkṣyāṇi",
+     "en": "are to be examined",
+     "hi": "परीक्षा योग्य हैं"
+    },
+    {
+     "sa": "प्रत्यक्षअनुमानौपदेशैः",
+     "iast": "pratyakṣa-anumāna-upadeśaiḥ",
+     "en": "by perception, inference and teaching",
+     "hi": "प्रत्यक्ष, अनुमान और उपदेश से"
+    },
+    {
+     "sa": "आयुषः प्रमाणावशेषम् जिज्ञासमानेन",
+     "iast": "āyuṣaḥ pramāṇāvaśeṣam jijñāsamānena",
+     "en": "by one wishing to know the remaining span of life",
+     "hi": "शेष आयु जानने के इच्छुक द्वारा"
+    }
+   ],
+   "english": "A physician who wishes to know the remaining span of life should examine, by perception, inference and authoritative teaching, the following: complexion, voice, smell, taste, touch, the eye, ear, nose, tongue and skin, mind, desires, cleanliness, character, conduct, memory, form, normal and abnormal states, strength, fatigue, intellect, cheerfulness, dryness and unctuousness, drowsiness, initiative, heaviness and lightness, qualities, diet, regimen and digestion of food, proper and improper measures, disease and its prodromes, pains and complications, complexion-aura (chāyā) and reflection (praticchāyā), dreams, messengers, omens on the way, changes in the patient's household, the response to medicine, and the suitability of medicine to the disease.",
+   "hindi": "शेष आयु जानने के इच्छुक वैद्य को प्रत्यक्ष, अनुमान और आप्तोपदेश से इनकी परीक्षा करनी चाहिए: वर्ण, स्वर, गन्ध, रस, स्पर्श, चक्षु, श्रोत्र, घ्राण, रसना और स्पर्शन, सत्त्व, भक्ति, शौच, शील, आचार, स्मृति, आकृति, प्रकृति और विकृति, बल, ग्लानि, मेधा, हर्ष, रूक्षता और स्निग्धता, तन्द्रा, आरम्भ, गौरव और लाघव, गुण, आहार, विहार और आहार-परिणाम, उपाय और अपाय, व्याधि और उसके पूर्वरूप, वेदना और उपद्रव, छाया और प्रतिच्छाया, स्वप्न-दर्शन, दूत, मार्ग के उत्पात, रोगी के घर में भावों का परिवर्तन, औषध की प्रतिक्रिया, और औषध-विकार की युक्ति।",
+   "explanation_en": "The comprehensive list of parīkṣya bhāvas for prognosis; the remaining chapters of Indriyasthāna discuss these one by one. Asked as 'factors to be examined for assessing āyu'.",
+   "explanation_hi": "आयु-परीक्षा के लिए परीक्ष्य भावों की व्यापक सूची; इन्द्रियस्थान के शेष अध्याय इन्हें एक-एक करके बताते हैं। प्रश्न: 'आयु परीक्षा के लिए परीक्ष्य भाव'।",
+   "modern_correlation": null,
+   "key_terms": [
+    "āyuṣaḥ pramāṇa",
+    "parīkṣya bhāva",
+    "ariṣṭa"
+   ],
+   "tags": [
+    "prognosis",
+    "exam",
+    "list"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.indriya.1.4",
+   "word_meanings": [
+    {
+     "sa": "तत्र तु खलु एषाम् परीक्ष्याणाम्",
+     "iast": "tatra tu khalu eṣām parīkṣyāṇām",
+     "en": "of these factors to be examined",
+     "hi": "इन परीक्ष्य भावों में"
+    },
+    {
+     "sa": "कानिचित् पुरुषम् अनाश्रितानि",
+     "iast": "kānicit puruṣam anāśritāni",
+     "en": "some are not related to the person",
+     "hi": "कुछ पुरुष से असम्बद्ध"
+    },
+    {
+     "sa": "कानिचित् च पुरुषसंश्रयाणि",
+     "iast": "kānicit ca puruṣasaṃśrayāṇi",
+     "en": "and some are related to the person",
+     "hi": "और कुछ पुरुषाश्रित"
+    },
+    {
+     "sa": "उपदेशतः युक्तितः च परीक्षेत",
+     "iast": "upadeśataḥ yuktitaḥ ca parīkṣeta",
+     "en": "should be examined by teaching and reasoning",
+     "hi": "उपदेश और युक्ति से परीक्षा करें"
+    },
+    {
+     "sa": "प्रकृतितः विकृतितः च",
+     "iast": "prakṛtitaḥ vikṛtitaḥ ca",
+     "en": "by normal and abnormal state",
+     "hi": "प्रकृति और विकृति से"
+    }
+   ],
+   "english": "Of these factors, some are not related to the person (apuruṣāśrita) and some are related to the person (puruṣāśrita). Those not related to the person (e.g. messengers, omens) should be examined by authoritative teaching and reasoning; those related to the person should be examined in terms of their normal state (prakṛti) and abnormal state (vikṛti).",
+   "hindi": "इन परीक्ष्य भावों में कुछ पुरुष से असम्बद्ध (अपुरुषाश्रित) हैं और कुछ पुरुषाश्रित। अपुरुषाश्रित (जैसे दूत, उत्पात) की परीक्षा उपदेश और युक्ति से करें; पुरुषाश्रित की परीक्षा प्रकृति और विकृति के रूप में करें।",
+   "explanation_en": "Two categories of signs: puruṣāśrita and apuruṣāśrita. Common exam point.",
+   "explanation_hi": "लक्षणों की दो श्रेणियाँ: पुरुषाश्रित और अपुरुषाश्रित। सामान्य परीक्षा बिन्दु।",
+   "modern_correlation": null,
+   "key_terms": [
+    "puruṣāśrita",
+    "apuruṣāśrita",
+    "prakṛti",
+    "vikṛti"
+   ],
+   "tags": [
+    "prognosis",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.indriya.1.5",
+   "word_meanings": [
+    {
+     "sa": "तत्र प्रकृतिः",
+     "iast": "tatra prakṛtiḥ",
+     "en": "prakṛti (normal state) is",
+     "hi": "प्रकृति"
+    },
+    {
+     "sa": "जातिप्रसक्ता",
+     "iast": "jātiprasaktā",
+     "en": "related to race/species",
+     "hi": "जाति से सम्बद्ध"
+    },
+    {
+     "sa": "कुलप्रसक्ता",
+     "iast": "kulaprasaktā",
+     "en": "related to family",
+     "hi": "कुल से सम्बद्ध"
+    },
+    {
+     "sa": "देशानुपातिनी",
+     "iast": "deśānupātinī",
+     "en": "depending on place",
+     "hi": "देश के अनुसार"
+    },
+    {
+     "sa": "कालानुपातिनी",
+     "iast": "kālānupātinī",
+     "en": "depending on season",
+     "hi": "काल के अनुसार"
+    },
+    {
+     "sa": "वयःअनुपातिनी",
+     "iast": "vayaḥ-anupātinī",
+     "en": "depending on age",
+     "hi": "वय के अनुसार"
+    },
+    {
+     "sa": "प्रत्यात्मनियता",
+     "iast": "pratyātmaniyatā",
+     "en": "specific to the individual",
+     "hi": "प्रत्येक व्यक्ति में नियत"
+    },
+    {
+     "sa": "भावविशेषाः",
+     "iast": "bhāvaviśeṣāḥ",
+     "en": "specific characteristics",
+     "hi": "विशेष भाव"
+    }
+   ],
+   "english": "Prakṛti (normal state) is determined by race (jāti), family (kula), place (deśa), season (kāla), age (vayas) and the individual (pratyātma); for the particular characteristics of each person are determined by race, family, place, season, age and individuality.",
+   "hindi": "प्रकृति जाति, कुल, देश, काल, वय और व्यक्ति (प्रत्यात्म) से निश्चित होती है; क्योंकि प्रत्येक व्यक्ति के विशेष भाव जाति, कुल, देश, काल, वय और व्यक्तिगत विशेषता से निश्चित होते हैं।",
+   "explanation_en": "Six determinants of a person's normal (prakṛti) features: jāti, kula, deśa, kāla, vayas, pratyātma. Frequently asked (compare jātiprasaktā prakṛti in Vi 8).",
+   "explanation_hi": "व्यक्ति के प्राकृत भावों के छह निर्धारक: जाति, कुल, देश, काल, वय, प्रत्यात्म। बहुत पूछा जाता है (वि। 8 से तुलना करें)।",
+   "modern_correlation": {
+    "en": "The recognition that normal values depend on ancestry, family, environment, season, age and individual variation parallels modern use of population-, age- and individual-specific reference ranges.",
+    "hi": "यह मान्यता कि सामान्य मान वंश, परिवार, पर्यावरण, ऋतु, आयु और व्यक्तिगत भिन्नता पर निर्भर हैं, आधुनिक जनसंख्या-, आयु- और व्यक्ति-विशेष रेफरेंस रेंज के उपयोग से मेल खाती है।"
+   },
+   "key_terms": [
+    "prakṛti",
+    "jāti",
+    "kula",
+    "deśa",
+    "kāla",
+    "vayas",
+    "pratyātma"
+   ],
+   "tags": [
+    "prognosis",
+    "prakriti",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "J-K-D-K-V-P: Jāti, Kula, Deśa, Kāla, Vayas, Pratyātma",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.indriya.1.6",
+   "word_meanings": [
+    {
+     "sa": "विकृतिः पुनः",
+     "iast": "vikṛtiḥ punaḥ",
+     "en": "vikṛti (abnormal state) is",
+     "hi": "विकृति"
+    },
+    {
+     "sa": "लक्षणनिमित्ता",
+     "iast": "lakṣaṇanimittā",
+     "en": "caused by (inborn) marks",
+     "hi": "लक्षण-निमित्ता"
+    },
+    {
+     "sa": "लक्ष्यनिमित्ता",
+     "iast": "lakṣyanimittā",
+     "en": "caused by observable (etiological) factors",
+     "hi": "लक्ष्य-निमित्ता"
+    },
+    {
+     "sa": "निमित्तानुरूपा",
+     "iast": "nimittānurūpā",
+     "en": "resembling a cause (without cause)",
+     "hi": "निमित्तानुरूपा"
+    }
+   ],
+   "english": "Vikṛti (abnormal state) is of three kinds: lakṣaṇa-nimittā (due to inborn marks), lakṣya-nimittā (due to an observable cause) and nimittānurūpā (resembling an effect of a cause).",
+   "hindi": "विकृति तीन प्रकार की है: लक्षण-निमित्ता (जन्मजात चिह्नों से), लक्ष्य-निमित्ता (दिखने वाले कारण से) और निमित्तानुरूपा (कारण जैसा दिखने वाली)।",
+   "explanation_en": "Three types of vikṛti, a frequently asked classification; defined in verse 7.",
+   "explanation_hi": "विकृति के तीन प्रकार, बहुत पूछा जाने वाला वर्गीकरण; परिभाषा श्लोक 7 में।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vikṛti",
+    "lakṣaṇanimittā",
+    "lakṣyanimittā",
+    "nimittānurūpā"
+   ],
+   "tags": [
+    "prognosis",
+    "exam",
+    "classification"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.indriya.1.7",
+   "word_meanings": [
+    {
+     "sa": "लक्षणनिमित्ता नाम सा",
+     "iast": "lakṣaṇanimittā nāma sā",
+     "en": "lakṣaṇanimittā is that",
+     "hi": "लक्षणनिमित्ता वह है"
+    },
+    {
+     "sa": "यस्याः शरीरे लक्षणानि एव हेतुभूतानि",
+     "iast": "yasyāḥ śarīre lakṣaṇāni eva hetubhūtāni",
+     "en": "in which marks on the body themselves are the cause",
+     "hi": "जिसमें शरीर के लक्षण ही कारण हों"
+    },
+    {
+     "sa": "दैवात्",
+     "iast": "daivāt",
+     "en": "due to destiny",
+     "hi": "दैव से"
+    },
+    {
+     "sa": "शरीरोपनिबद्धानि",
+     "iast": "śarīropanibaddhāni",
+     "en": "bound to the body (from birth)",
+     "hi": "शरीर से बँधे"
+    },
+    {
+     "sa": "लक्ष्यनिमित्ता तु",
+     "iast": "lakṣyanimittā tu",
+     "en": "lakṣyanimittā is",
+     "hi": "लक्ष्यनिमित्ता"
+    },
+    {
+     "sa": "यस्याः उपलभ्यते निमित्तम्",
+     "iast": "yasyāḥ upalabhyate nimittam",
+     "en": "whose cause is seen",
+     "hi": "जिसका कारण दिखे"
+    },
+    {
+     "sa": "यथा उक्तम् निदानेषु",
+     "iast": "yathā uktam nidāneṣu",
+     "en": "as described in Nidānasthāna",
+     "hi": "जैसा निदानस्थान में कहा"
+    },
+    {
+     "sa": "निमित्तानुरूपा तु",
+     "iast": "nimittānurūpā tu",
+     "en": "nimittānurūpā is",
+     "hi": "निमित्तानुरूपा"
+    },
+    {
+     "sa": "निमित्तअर्थअनुकारिणी",
+     "iast": "nimitta-artha-anukāriṇī",
+     "en": "imitating the effect of a cause",
+     "hi": "कारण के फल का अनुकरण करने वाली"
+    },
+    {
+     "sa": "अनिमित्ताम्",
+     "iast": "animittām",
+     "en": "without (actual) cause",
+     "hi": "बिना कारण"
+    },
+    {
+     "sa": "आयुषः क्षयनिमित्ताम्",
+     "iast": "āyuṣaḥ kṣayanimittām",
+     "en": "indicating decline of life",
+     "hi": "आयु-क्षय का सूचक"
+    },
+    {
+     "sa": "प्रेतलिङ्गानुरूपाम्",
+     "iast": "pretaliṅgānurūpām",
+     "en": "resembling signs of death",
+     "hi": "मृत्यु-लक्षण जैसी"
+    },
+    {
+     "sa": "मुमूर्षताम् लक्षणानि",
+     "iast": "mumūrṣatām lakṣaṇāni",
+     "en": "signs of the dying",
+     "hi": "मरणासन्न के लक्षण"
+    }
+   ],
+   "english": "Lakṣaṇa-nimittā is the abnormality caused by marks on the body itself: due to destiny, certain marks are bound to the body, and at a particular time, reaching a particular site, they produce a particular abnormality. Lakṣya-nimittā is the abnormality whose cause can be observed, as described in the Nidānasthāna. Nimittānurūpā is the abnormality that imitates the effect of a cause but has no (apparent) cause; physicians regard it as an indicator for knowing the measure of life-span, and the wise teach it, as indicating decline of life and resembling the signs of death, for knowing that life has come to an end. With reference to it, we shall describe the person-related signs of the dying. This is the outline; we shall explain it in detail.",
+   "hindi": "लक्षणनिमित्ता वह विकृति है जिसका कारण शरीर के लक्षण ही हों: दैववश कुछ लक्षण शरीर से जुड़े होते हैं, जो विशेष समय पर विशेष स्थान पाकर विशेष विकृति उत्पन्न करते हैं। लक्ष्यनिमित्ता वह विकृति है जिसका कारण दिखता है, जैसा निदानस्थान में बताया गया। निमित्तानुरूपा वह विकृति है जो किसी कारण के फल का अनुकरण करती है पर (प्रत्यक्ष) कारण रहित है; वैद्य इसे आयु के प्रमाण-ज्ञान का सूचक मानते हैं, और विद्वान इसे आयु-क्षय सूचक, मृत्यु-लक्षण जैसी विकृति के रूप में आयु के अन्त का ज्ञान कराने के लिए बताते हैं। इसी के आधार पर हम मरणासन्न व्यक्ति के पुरुषाश्रित लक्षण बताएँगे। यह उद्देश (संक्षेप) है; इसे विस्तार से बताएँगे।",
+   "explanation_en": "Definitions of the three vikṛtis. Nimittānurūpā vikṛti (abnormality without cause) is the type used as ariṣṭa (fatal sign). Very frequently asked.",
+   "explanation_hi": "तीन विकृतियों की परिभाषाएँ। निमित्तानुरूपा विकृति (बिना कारण विकृति) ही अरिष्ट (मारक लक्षण) के रूप में प्रयुक्त होती है। बहुत पूछी जाती है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "lakṣaṇanimittā",
+    "lakṣyanimittā",
+    "nimittānurūpā",
+    "ariṣṭa"
+   ],
+   "tags": [
+    "prognosis",
+    "exam",
+    "definitions"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.indriya.1.8",
+   "word_meanings": [
+    {
+     "sa": "तत्र आदितः एव वर्णाधिकारः",
+     "iast": "tatra āditaḥ eva varṇādhikāraḥ",
+     "en": "first, the section on complexion",
+     "hi": "पहले वर्ण का प्रकरण"
+    },
+    {
+     "sa": "कृष्णः",
+     "iast": "kṛṣṇaḥ",
+     "en": "dark",
+     "hi": "कृष्ण"
+    },
+    {
+     "sa": "श्यामः",
+     "iast": "śyāmaḥ",
+     "en": "dusky",
+     "hi": "श्याम"
+    },
+    {
+     "sa": "श्यामावदातः",
+     "iast": "śyāmāvadātaḥ",
+     "en": "dusky-fair",
+     "hi": "श्यामावदात"
+    },
+    {
+     "sa": "अवदातः",
+     "iast": "avadātaḥ",
+     "en": "fair",
+     "hi": "अवदात"
+    },
+    {
+     "sa": "प्रकृतिवर्णाः शरीरस्य",
+     "iast": "prakṛtivarṇāḥ śarīrasya",
+     "en": "natural complexions of the body",
+     "hi": "शरीर के प्राकृत वर्ण"
+    },
+    {
+     "sa": "अनूकतः",
+     "iast": "anūkataḥ",
+     "en": "from heredity",
+     "hi": "अनूक (वंश) से"
+    },
+    {
+     "sa": "अन्यथा वा अपि निर्दिश्यमानान् तज्ज्ञैः",
+     "iast": "anyathā vā api nirdiśyamānān tajjñaiḥ",
+     "en": "or as otherwise indicated by experts",
+     "hi": "या विशेषज्ञों द्वारा अन्यथा बताए"
+    }
+   ],
+   "english": "First comes the section on complexion (varṇa). Dark (kṛṣṇa), dusky (śyāma), dusky-fair (śyāmāvadāta) and fair (avadāta) are the natural complexions of the body; and others also should be known, whether hereditary or as indicated by experts.",
+   "hindi": "पहले वर्ण का प्रकरण है। कृष्ण, श्याम, श्यामावदात और अवदात शरीर के प्राकृत वर्ण हैं; और अन्य वर्ण भी, जो वंशानुगत हों या विशेषज्ञों द्वारा बताए गए हों, जानने चाहिए।",
+   "explanation_en": "Four prakṛta varṇas. Common MCQ.",
+   "explanation_hi": "चार प्राकृत वर्ण। सामान्य MCQ।",
+   "modern_correlation": null,
+   "key_terms": [
+    "prakṛta varṇa",
+    "kṛṣṇa",
+    "śyāma",
+    "śyāmāvadāta",
+    "avadāta"
+   ],
+   "tags": [
+    "prognosis",
+    "varna",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.indriya.1.9",
+   "word_meanings": [
+    {
+     "sa": "नील",
+     "iast": "nīla",
+     "en": "blue",
+     "hi": "नील"
+    },
+    {
+     "sa": "श्याव",
+     "iast": "śyāva",
+     "en": "bluish-brown, dusky",
+     "hi": "श्याव"
+    },
+    {
+     "sa": "ताम्र",
+     "iast": "tāmra",
+     "en": "coppery",
+     "hi": "ताम्र"
+    },
+    {
+     "sa": "हरित",
+     "iast": "harita",
+     "en": "greenish",
+     "hi": "हरित"
+    },
+    {
+     "sa": "शुक्लाः च",
+     "iast": "śuklāḥ ca",
+     "en": "and white (pale)",
+     "hi": "और शुक्ल"
+    },
+    {
+     "sa": "वर्णाः शरीरस्य वैकारिकाः",
+     "iast": "varṇāḥ śarīrasya vaikārikāḥ",
+     "en": "are morbid complexions of the body",
+     "hi": "शरीर के वैकारिक वर्ण"
+    },
+    {
+     "sa": "प्राक् अविकृतान् अभूत्वा उत्पन्नान्",
+     "iast": "prāk avikṛtān abhūtvā utpannān",
+     "en": "that arise where they did not exist before",
+     "hi": "जो पहले न रहकर उत्पन्न हों"
+    }
+   ],
+   "english": "Blue (nīla), dusky (śyāva), coppery (tāmra), greenish (harita) and white/pale (śukla) are the morbid complexions of the body; others too should be known that arise where they did not exist before. Thus the natural and morbid complexions of the body have been described.",
+   "hindi": "नील, श्याव, ताम्र, हरित और शुक्ल शरीर के वैकारिक वर्ण हैं; और अन्य भी जानने चाहिए जो पहले न रहकर उत्पन्न हुए हों। इस प्रकार शरीर के प्राकृत और वैकारिक वर्ण बताए गए।",
+   "explanation_en": "Five vaikārika varṇas. Common MCQ.",
+   "explanation_hi": "पाँच वैकारिक वर्ण। सामान्य MCQ।",
+   "modern_correlation": {
+    "en": "Abnormal colours such as bluish (cyanosis), pale (pallor), yellow-green (jaundice) and coppery discoloration are recognised clinical signs in modern medicine, often indicating hypoxia, anaemia, liver disease or other serious illness.",
+    "hi": "नीला (सायनोसिस), पीला-सफेद (पैलर), पीला-हरा (जॉन्डिस) और ताम्र रंग जैसे असामान्य वर्ण आधुनिक चिकित्सा में मान्य नैदानिक लक्षण हैं, जो प्रायः हाइपोक्सिया, एनीमिया, यकृत रोग या अन्य गम्भीर रोग दर्शाते हैं।"
+   },
+   "key_terms": [
+    "vaikārika varṇa",
+    "nīla",
+    "śyāva",
+    "tāmra",
+    "harita",
+    "śukla"
+   ],
+   "tags": [
+    "prognosis",
+    "varna",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.indriya.1.10",
+   "word_meanings": [
+    {
+     "sa": "प्रकृतिवर्णम् अर्धशरीरे",
+     "iast": "prakṛtivarṇam ardhaśarīre",
+     "en": "normal complexion on one half of the body",
+     "hi": "आधे शरीर पर प्राकृत वर्ण"
+    },
+    {
+     "sa": "विकृतिवर्णम् अर्धशरीरे",
+     "iast": "vikṛtivarṇam ardhaśarīre",
+     "en": "abnormal complexion on the other half",
+     "hi": "आधे शरीर पर विकृत वर्ण"
+    },
+    {
+     "sa": "मर्यादाविभक्तौ",
+     "iast": "maryādāvibhaktau",
+     "en": "divided by a clear boundary",
+     "hi": "स्पष्ट सीमा से विभक्त"
+    },
+    {
+     "sa": "सव्यदक्षिणविभागेन",
+     "iast": "savya-dakṣiṇa-vibhāgena",
+     "en": "by left and right division",
+     "hi": "बाएँ-दाएँ विभाग से"
+    },
+    {
+     "sa": "पूर्वपश्चिम",
+     "iast": "pūrva-paścima",
+     "en": "front and back",
+     "hi": "आगे-पीछे"
+    },
+    {
+     "sa": "उत्तरअधर",
+     "iast": "uttara-adhara",
+     "en": "upper and lower",
+     "hi": "ऊपर-नीचे"
+    },
+    {
+     "sa": "अन्तःबहिः",
+     "iast": "antaḥ-bahiḥ",
+     "en": "inner and outer",
+     "hi": "भीतर-बाहर"
+    },
+    {
+     "sa": "आतुरस्य अरिष्टम्",
+     "iast": "āturasya ariṣṭam",
+     "en": "a fatal sign of the patient",
+     "hi": "रोगी का अरिष्ट"
+    },
+    {
+     "sa": "मुखे अपि",
+     "iast": "mukhe api",
+     "en": "on the face too",
+     "hi": "मुख पर भी"
+    },
+    {
+     "sa": "मरणाय भवति",
+     "iast": "maraṇāya bhavati",
+     "en": "leads to death",
+     "hi": "मृत्यु के लिए होता है"
+    }
+   ],
+   "english": "If one sees the normal complexion on one half of the body and an abnormal complexion on the other, the two divided by a clear boundary, whether left and right, front and back, upper and lower, or inner and outer, one should know it as a fatal sign (ariṣṭa) of the patient. Likewise such a difference of complexion on the face or elsewhere leads to death.",
+   "hindi": "यदि आधे शरीर पर प्राकृत वर्ण और आधे पर विकृत वर्ण स्पष्ट सीमा से विभक्त दिखे, चाहे बाएँ-दाएँ, आगे-पीछे, ऊपर-नीचे या भीतर-बाहर, तो इसे रोगी का अरिष्ट जानें। इसी प्रकार मुख या अन्यत्र ऐसा वर्णभेद मृत्यु का सूचक है।",
+   "explanation_en": "Sharp demarcation of colour as an ariṣṭa.",
+   "explanation_hi": "वर्ण की स्पष्ट सीमा अरिष्ट के रूप में।",
+   "modern_correlation": null,
+   "key_terms": [
+    "varṇabheda",
+    "ariṣṭa"
+   ],
+   "tags": [
+    "prognosis"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.indriya.1.11",
+   "word_meanings": [
+    {
+     "sa": "वर्णभेदेन",
+     "iast": "varṇabhedena",
+     "en": "in the same way as difference of complexion",
+     "hi": "वर्णभेद के समान"
+    },
+    {
+     "sa": "ग्लानिहर्षरौक्ष्यस्नेहाः",
+     "iast": "glāni-harṣa-raukṣya-snehāḥ",
+     "en": "dullness, brightness, dryness and unctuousness",
+     "hi": "ग्लानि, हर्ष, रूक्षता, स्निग्धता"
+    },
+    {
+     "sa": "व्याख्याताः",
+     "iast": "vyākhyātāḥ",
+     "en": "are explained",
+     "hi": "बताए गए"
+    }
+   ],
+   "english": "Dullness, brightness, dryness and unctuousness (when unevenly divided) are explained in the same way as difference of complexion.",
+   "hindi": "ग्लानि, हर्ष, रूक्षता और स्निग्धता (असमान रूप से विभक्त होने पर) वर्णभेद के समान ही बताए गए हैं।",
+   "explanation_en": "Same rule applies to other qualities of the skin.",
+   "explanation_hi": "त्वचा के अन्य गुणों पर भी यही नियम।",
+   "modern_correlation": null,
+   "key_terms": [
+    "glāni",
+    "harṣa",
+    "raukṣya",
+    "sneha"
+   ],
+   "tags": [
+    "prognosis"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.indriya.1.12",
+   "word_meanings": [
+    {
+     "sa": "परिप्लुत",
+     "iast": "paripluta",
+     "en": "spots",
+     "hi": "परिप्लुत (धब्बे)"
+    },
+    {
+     "sa": "व्यङ्ग",
+     "iast": "vyaṅga",
+     "en": "facial pigmentation",
+     "hi": "व्यंग"
+    },
+    {
+     "sa": "तिलकालक",
+     "iast": "tilakālaka",
+     "en": "moles",
+     "hi": "तिलकालक"
+    },
+    {
+     "sa": "पिडकानाम्",
+     "iast": "piḍakānām",
+     "en": "pimples",
+     "hi": "पिडका"
+    },
+    {
+     "sa": "अन्यतमस्य",
+     "iast": "anyatamasya",
+     "en": "of any one",
+     "hi": "किसी एक का"
+    },
+    {
+     "sa": "आनने जन्म",
+     "iast": "ānane janma",
+     "en": "appearance on the face",
+     "hi": "मुख पर उत्पन्न होना"
+    },
+    {
+     "sa": "आतुरस्य",
+     "iast": "āturasya",
+     "en": "of a patient",
+     "hi": "रोगी के"
+    },
+    {
+     "sa": "अप्रशस्तम् विद्यात्",
+     "iast": "apraśastam vidyāt",
+     "en": "know as inauspicious",
+     "hi": "अशुभ जानें"
+    }
+   ],
+   "english": "Likewise the (sudden) appearance on a patient's face of any of spots, pigmentation, moles or pimples should be known as inauspicious.",
+   "hindi": "इसी प्रकार रोगी के मुख पर धब्बे, व्यंग, तिल या पिडका में से किसी का (अचानक) उत्पन्न होना अशुभ जानें।",
+   "explanation_en": "New facial lesions in a patient as ariṣṭa.",
+   "explanation_hi": "रोगी के मुख पर नए दाग अरिष्ट के रूप में।",
+   "modern_correlation": null,
+   "key_terms": [
+    "ariṣṭa",
+    "mukha"
+   ],
+   "tags": [
+    "prognosis"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.indriya.1.13",
+   "word_meanings": [
+    {
+     "sa": "नखनयनवदनमूत्रपुरीषहस्तपादओष्ठआदिषु",
+     "iast": "nakha-nayana-vadana-mūtra-purīṣa-hasta-pāda-oṣṭha-ādiṣu",
+     "en": "in nails, eyes, face, urine, faeces, hands, feet, lips etc.",
+     "hi": "नख, नेत्र, मुख, मूत्र, पुरीष, हाथ, पैर, होंठ आदि में"
+    },
+    {
+     "sa": "वैकारिकोक्तानाम् वर्णानाम्",
+     "iast": "vaikārikoktānām varṇānām",
+     "en": "of the morbid colours mentioned",
+     "hi": "बताए वैकारिक वर्णों का"
+    },
+    {
+     "sa": "प्रादुर्भावः",
+     "iast": "prādurbhāvaḥ",
+     "en": "appearance",
+     "hi": "प्रकट होना"
+    },
+    {
+     "sa": "हीनबलवर्णैन्द्रियेषु",
+     "iast": "hīna-bala-varṇa-indriyeṣu",
+     "en": "in those with diminished strength, complexion and senses",
+     "hi": "बल, वर्ण और इन्द्रिय से हीन में"
+    },
+    {
+     "sa": "लक्षणम् आयुषः क्षयस्य",
+     "iast": "lakṣaṇam āyuṣaḥ kṣayasya",
+     "en": "a sign of the end of life",
+     "hi": "आयु-क्षय का लक्षण"
+    }
+   ],
+   "english": "The appearance of any of the morbid colours in the nails, eyes, face, urine, faeces, hands, feet, lips etc. of those whose strength, complexion and senses are diminished is a sign of the end of life.",
+   "hindi": "बल, वर्ण और इन्द्रियों से हीन व्यक्ति के नख, नेत्र, मुख, मूत्र, पुरीष, हाथ, पैर, होंठ आदि में किसी वैकारिक वर्ण का प्रकट होना आयु-क्षय का लक्षण है।",
+   "explanation_en": "Discoloration in a debilitated patient as a fatal sign.",
+   "explanation_hi": "दुर्बल रोगी में विवर्णता मारक लक्षण।",
+   "modern_correlation": {
+    "en": "Discoloration of nails, lips and extremities (e.g. cyanosis, pallor) in a severely weakened patient is recognised today as a sign of serious circulatory or respiratory failure.",
+    "hi": "अत्यन्त दुर्बल रोगी में नख, होंठ और हाथ-पैरों का विवर्ण होना (जैसे सायनोसिस, पैलर) आज भी गम्भीर रक्तसंचार या श्वसन विफलता का लक्षण माना जाता है।"
+   },
+   "key_terms": [
+    "vaivarṇya",
+    "āyuḥkṣaya"
+   ],
+   "tags": [
+    "prognosis"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.indriya.1.14",
+   "word_meanings": [
+    {
+     "sa": "यत् च अन्यत् अपि किंचित्",
+     "iast": "yat ca anyat api kiṃcit",
+     "en": "and any other",
+     "hi": "और कोई अन्य"
+    },
+    {
+     "sa": "वर्णवैकृतम् अभूतपूर्वम्",
+     "iast": "varṇavaikṛtam abhūtapūrvam",
+     "en": "unprecedented change of complexion",
+     "hi": "अभूतपूर्व वर्ण-विकृति"
+    },
+    {
+     "sa": "सहसा उत्पद्येत",
+     "iast": "sahasā utpadyeta",
+     "en": "arises suddenly",
+     "hi": "अचानक उत्पन्न हो"
+    },
+    {
+     "sa": "अनिमित्तम् एव",
+     "iast": "animittam eva",
+     "en": "without cause",
+     "hi": "बिना कारण"
+    },
+    {
+     "sa": "हीयमानस्य आतुरस्य",
+     "iast": "hīyamānasya āturasya",
+     "en": "of a wasting patient",
+     "hi": "क्षीण होते रोगी की"
+    },
+    {
+     "sa": "शश्वत् तत् अरिष्टम् इति विद्यात्",
+     "iast": "śaśvat tat ariṣṭam iti vidyāt",
+     "en": "know it always as a fatal sign",
+     "hi": "उसे सदा अरिष्ट जानें"
+    }
+   ],
+   "english": "Any other unprecedented change of complexion that arises suddenly, without cause, in a wasting patient should always be known as a fatal sign. Thus ends the section on complexion.",
+   "hindi": "क्षीण होते रोगी में बिना कारण अचानक उत्पन्न कोई अन्य अभूतपूर्व वर्ण-विकृति को सदा अरिष्ट जानें। यहाँ वर्ण प्रकरण समाप्त होता है।",
+   "explanation_en": "General rule for ariṣṭa: sudden, causeless, unprecedented changes in a deteriorating patient.",
+   "explanation_hi": "अरिष्ट का सामान्य नियम: बिगड़ते रोगी में अचानक, अकारण, अभूतपूर्व परिवर्तन।",
+   "modern_correlation": null,
+   "key_terms": [
+    "ariṣṭa",
+    "varṇa vaikṛta"
+   ],
+   "tags": [
+    "prognosis",
+    "exam"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.indriya.1.15",
+   "word_meanings": [
+    {
+     "sa": "स्वराधिकारः तु",
+     "iast": "svarādhikāraḥ tu",
+     "en": "the section on voice",
+     "hi": "स्वर का प्रकरण"
+    },
+    {
+     "sa": "हंस",
+     "iast": "haṃsa",
+     "en": "swan",
+     "hi": "हंस"
+    },
+    {
+     "sa": "क्रौञ्च",
+     "iast": "krauñca",
+     "en": "crane",
+     "hi": "क्रौंच"
+    },
+    {
+     "sa": "नेमि",
+     "iast": "nemi",
+     "en": "wheel-rim (rumbling)",
+     "hi": "नेमि"
+    },
+    {
+     "sa": "दुन्दुभि",
+     "iast": "dundubhi",
+     "en": "drum",
+     "hi": "दुन्दुभि"
+    },
+    {
+     "sa": "कलविङ्क",
+     "iast": "kalaviṅka",
+     "en": "sparrow",
+     "hi": "कलविंक"
+    },
+    {
+     "sa": "काक",
+     "iast": "kāka",
+     "en": "crow",
+     "hi": "काक"
+    },
+    {
+     "sa": "कपोत",
+     "iast": "kapota",
+     "en": "pigeon",
+     "hi": "कपोत"
+    },
+    {
+     "sa": "जर्जर",
+     "iast": "jarjara",
+     "en": "cracked",
+     "hi": "जर्जर"
+    },
+    {
+     "sa": "अनुकाराः",
+     "iast": "anukārāḥ",
+     "en": "resembling",
+     "hi": "अनुकरण करने वाले"
+    },
+    {
+     "sa": "प्रकृतिस्वराः",
+     "iast": "prakṛtisvarāḥ",
+     "en": "natural voices",
+     "hi": "प्राकृत स्वर"
+    },
+    {
+     "sa": "एडक",
+     "iast": "eḍaka",
+     "en": "sheep",
+     "hi": "एडक (भेड़)"
+    },
+    {
+     "sa": "कल",
+     "iast": "kala",
+     "en": "indistinct",
+     "hi": "कल"
+    },
+    {
+     "sa": "ग्रस्त",
+     "iast": "grasta",
+     "en": "choked",
+     "hi": "ग्रस्त"
+    },
+    {
+     "sa": "अव्यक्त",
+     "iast": "avyakta",
+     "en": "unclear",
+     "hi": "अव्यक्त"
+    },
+    {
+     "sa": "गद्गद",
+     "iast": "gadgada",
+     "en": "stammering",
+     "hi": "गद्गद"
+    },
+    {
+     "sa": "क्षाम",
+     "iast": "kṣāma",
+     "en": "weak",
+     "hi": "क्षाम"
+    },
+    {
+     "sa": "दीन",
+     "iast": "dīna",
+     "en": "feeble, pitiable",
+     "hi": "दीन"
+    },
+    {
+     "sa": "अनुकीर्णाः",
+     "iast": "anukīrṇāḥ",
+     "en": "resembling",
+     "hi": "अनुकरण करने वाले"
+    },
+    {
+     "sa": "आतुराणाम् स्वराः वैकारिकाः",
+     "iast": "āturāṇām svarāḥ vaikārikāḥ",
+     "en": "morbid voices of patients",
+     "hi": "रोगियों के वैकारिक स्वर"
+    }
+   ],
+   "english": "Section on voice: voices resembling the swan, crane, wheel-rim, drum, sparrow, crow, pigeon, or a cracked vessel are natural voices; others too, hereditary or indicated by experts, should be known. Voices of patients resembling a sheep, or indistinct, choked, unclear, stammering, weak or feeble, are morbid voices; and others that arise where they did not exist before. Thus natural and morbid voices have been described.",
+   "hindi": "स्वर प्रकरण: हंस, क्रौंच, नेमि, दुन्दुभि, कलविंक, काक, कपोत या जर्जर जैसे स्वर प्राकृत हैं; वंशानुगत या विशेषज्ञों द्वारा बताए अन्य भी जानें। भेड़ जैसे, अस्पष्ट, अवरुद्ध, अव्यक्त, गद्गद, क्षीण या दीन स्वर रोगियों के वैकारिक स्वर हैं; और अन्य जो पहले न होकर उत्पन्न हों। इस प्रकार प्राकृत और वैकारिक स्वर बताए गए।",
+   "explanation_en": "Prakṛta and vaikārika svara. Sometimes asked as MCQ.",
+   "explanation_hi": "प्राकृत और वैकारिक स्वर। कभी-कभी MCQ में।",
+   "modern_correlation": null,
+   "key_terms": [
+    "prakṛta svara",
+    "vaikārika svara"
+   ],
+   "tags": [
+    "prognosis",
+    "svara",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.indriya.1.16",
+   "word_meanings": [
+    {
+     "sa": "प्रकृतिवैकारिकाणाम् स्वराणाम्",
+     "iast": "prakṛti-vaikārikāṇām svarāṇām",
+     "en": "of natural and morbid voices",
+     "hi": "प्राकृत और वैकारिक स्वरों का"
+    },
+    {
+     "sa": "आशु अभिनिर्वृत्तिः",
+     "iast": "āśu abhinirvṛttiḥ",
+     "en": "rapid appearance",
+     "hi": "शीघ्र उत्पत्ति"
+    },
+    {
+     "sa": "स्वरानेकत्वम्",
+     "iast": "svarānekatvam",
+     "en": "multiplicity of voices",
+     "hi": "स्वरों की अनेकता"
+    },
+    {
+     "sa": "एकस्य च अनेकत्वम्",
+     "iast": "ekasya ca anekatvam",
+     "en": "and many forms of one voice",
+     "hi": "और एक स्वर के अनेक रूप"
+    },
+    {
+     "sa": "अप्रशस्तम्",
+     "iast": "apraśastam",
+     "en": "is inauspicious",
+     "hi": "अशुभ है"
+    }
+   ],
+   "english": "The rapid appearance of (change between) natural and morbid voices, multiplicity of voices, and many variations of a single voice are inauspicious. Thus ends the section on voice.",
+   "hindi": "प्राकृत और वैकारिक स्वरों का शीघ्र परिवर्तन, स्वरों की अनेकता, और एक स्वर के अनेक रूप अशुभ हैं। यहाँ स्वर प्रकरण समाप्त होता है।",
+   "explanation_en": "Sudden voice changes as ariṣṭa.",
+   "explanation_hi": "स्वर का अचानक बदलना अरिष्ट के रूप में।",
+   "modern_correlation": null,
+   "key_terms": [
+    "svara vaikṛta",
+    "ariṣṭa"
+   ],
+   "tags": [
+    "prognosis"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.indriya.1.17",
+   "word_meanings": [
+    {
+     "sa": "इति वर्णस्वरअधिकारौ",
+     "iast": "iti varṇa-svara-adhikārau",
+     "en": "thus the sections on complexion and voice",
+     "hi": "इस प्रकार वर्ण और स्वर प्रकरण"
+    },
+    {
+     "sa": "यथावत् उक्तौ",
+     "iast": "yathāvat uktau",
+     "en": "have been properly stated",
+     "hi": "यथावत् कहे गए"
+    },
+    {
+     "sa": "मुमूर्षताम् लक्षणज्ञानार्थम्",
+     "iast": "mumūrṣatām lakṣaṇajñānārtham",
+     "en": "for knowing the signs of the dying",
+     "hi": "मरणासन्न के लक्षण जानने के लिए"
+    }
+   ],
+   "english": "Thus the sections on complexion and voice have been properly stated for knowing the signs of the dying.",
+   "hindi": "इस प्रकार मरणासन्न व्यक्ति के लक्षण जानने के लिए वर्ण और स्वर प्रकरण यथावत् कहे गए।",
+   "explanation_en": "Summary of the prose section.",
+   "explanation_hi": "गद्य भाग का सारांश।",
+   "modern_correlation": null,
+   "key_terms": [
+    "varṇa",
+    "svara"
+   ],
+   "tags": [
+    "prognosis"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.indriya.1.18",
+   "word_meanings": [
+    {
+     "sa": "यस्य वैकारिकः वर्णः",
+     "iast": "yasya vaikārikaḥ varṇaḥ",
+     "en": "one in whose body a morbid colour",
+     "hi": "जिसके शरीर में वैकारिक वर्ण"
+    },
+    {
+     "sa": "शरीरे उपपद्यते",
+     "iast": "śarīre upapadyate",
+     "en": "appears",
+     "hi": "उत्पन्न हो"
+    },
+    {
+     "sa": "अर्धे वा यदि वा कृत्स्ने",
+     "iast": "ardhe vā yadi vā kṛtsne",
+     "en": "on half or the whole",
+     "hi": "आधे या पूरे पर"
+    },
+    {
+     "sa": "निमित्तम् न च",
+     "iast": "nimittam na ca",
+     "en": "without cause",
+     "hi": "बिना कारण"
+    },
+    {
+     "sa": "न अस्ति सः",
+     "iast": "na asti saḥ",
+     "en": "he does not survive",
+     "hi": "वह नहीं रहता"
+    }
+   ],
+   "english": "One in whose body a morbid colour appears, on half or the whole of it, without any cause, does not survive.",
+   "hindi": "जिसके शरीर पर, आधे या पूरे भाग पर, बिना कारण वैकारिक वर्ण उत्पन्न हो, वह जीवित नहीं रहता।",
+   "explanation_en": "Verse summary of the colour-based ariṣṭa.",
+   "explanation_hi": "वर्ण-आधारित अरिष्ट का पद्य सारांश।",
+   "modern_correlation": null,
+   "key_terms": [
+    "ariṣṭa",
+    "vaikārika varṇa"
+   ],
+   "tags": [
+    "prognosis"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.indriya.1.19",
+   "word_meanings": [
+    {
+     "sa": "नीलम् वा यदि वा श्यावम्",
+     "iast": "nīlam vā yadi vā śyāvam",
+     "en": "blue or dusky",
+     "hi": "नीला या श्याव"
+    },
+    {
+     "sa": "ताम्रम् वा यदि वा अरुणम्",
+     "iast": "tāmram vā yadi vā aruṇam",
+     "en": "coppery or reddish",
+     "hi": "ताम्र या अरुण"
+    },
+    {
+     "sa": "मुखार्धम् अन्यथा वर्णः",
+     "iast": "mukhārdham anyathā varṇaḥ",
+     "en": "half the face of a different colour",
+     "hi": "आधे मुख का भिन्न वर्ण"
+    },
+    {
+     "sa": "मुखार्धे अरिष्टम् उच्यते",
+     "iast": "mukhārdhe ariṣṭam ucyate",
+     "en": "is called a fatal sign on half the face",
+     "hi": "आधे मुख पर अरिष्ट कहा जाता है"
+    }
+   ],
+   "english": "If half the face is blue, dusky, coppery or reddish and the other half of a different colour, this is called a fatal sign on half the face.",
+   "hindi": "यदि आधा मुख नीला, श्याव, ताम्र या अरुण हो और दूसरा आधा भिन्न वर्ण का, तो इसे आधे मुख का अरिष्ट कहते हैं।",
+   "explanation_en": "Hemifacial colour difference as ariṣṭa.",
+   "explanation_hi": "आधे मुख का वर्णभेद अरिष्ट के रूप में।",
+   "modern_correlation": null,
+   "key_terms": [
+    "mukhārdha ariṣṭa"
+   ],
+   "tags": [
+    "prognosis"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.indriya.1.20",
+   "word_meanings": [
+    {
+     "sa": "स्नेहः मुखार्धे सुव्यक्तः",
+     "iast": "snehaḥ mukhārdhe suvyaktaḥ",
+     "en": "unctuousness clearly on half the face",
+     "hi": "आधे मुख पर स्पष्ट स्निग्धता"
+    },
+    {
+     "sa": "रौक्ष्यम् अर्धमुखे भृशम्",
+     "iast": "raukṣyam ardhamukhe bhṛśam",
+     "en": "marked dryness on (the other) half",
+     "hi": "आधे मुख पर अधिक रूक्षता"
+    },
+    {
+     "sa": "ग्लानिः अर्धे तथा हर्षः",
+     "iast": "glāniḥ ardhe tathā harṣaḥ",
+     "en": "dullness on one half and brightness (on the other)",
+     "hi": "आधे पर ग्लानि और आधे पर हर्ष"
+    },
+    {
+     "sa": "मुखार्धे प्रेतलक्षणम्",
+     "iast": "mukhārdhe pretalakṣaṇam",
+     "en": "on half the face is a sign of death",
+     "hi": "आधे मुख पर मृत्यु-लक्षण"
+    }
+   ],
+   "english": "Marked unctuousness on one half of the face and marked dryness on the other, or dullness on one half and brightness on the other, is a sign of death.",
+   "hindi": "आधे मुख पर स्पष्ट स्निग्धता और आधे पर अधिक रूक्षता, या आधे पर ग्लानि और आधे पर हर्ष, मृत्यु का लक्षण है।",
+   "explanation_en": "Verse form of verse 11.",
+   "explanation_hi": "श्लोक 11 का पद्य रूप।",
+   "modern_correlation": null,
+   "key_terms": [
+    "pretalakṣaṇa"
+   ],
+   "tags": [
+    "prognosis"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.indriya.1.21",
+   "word_meanings": [
+    {
+     "sa": "तिलकाः पिप्लवः व्यङ्गाः",
+     "iast": "tilakāḥ piplavaḥ vyaṅgāḥ",
+     "en": "moles, blemishes, pigmentation",
+     "hi": "तिल, पिप्लु, व्यंग"
+    },
+    {
+     "sa": "राजयः च पृथग्विधाः",
+     "iast": "rājayaḥ ca pṛthagvidhāḥ",
+     "en": "and various streaks",
+     "hi": "और विविध रेखाएँ"
+    },
+    {
+     "sa": "आतुरस्य आशु जायन्ते",
+     "iast": "āturasya āśu jāyante",
+     "en": "appear quickly in a patient",
+     "hi": "रोगी में शीघ्र उत्पन्न होते हैं"
+    },
+    {
+     "sa": "मुखे प्राणान् मुमुक्षतः",
+     "iast": "mukhe prāṇān mumukṣataḥ",
+     "en": "on the face of one about to give up life",
+     "hi": "प्राण त्यागने वाले के मुख पर"
+    }
+   ],
+   "english": "Moles, blemishes, pigmentation and various streaks appear quickly on the face of a patient who is about to give up life.",
+   "hindi": "प्राण त्यागने वाले रोगी के मुख पर तिल, पिप्लु, व्यंग और विविध रेखाएँ शीघ्र उत्पन्न होती हैं।",
+   "explanation_en": "Verse form of verse 12.",
+   "explanation_hi": "श्लोक 12 का पद्य रूप।",
+   "modern_correlation": null,
+   "key_terms": [
+    "ariṣṭa",
+    "mukha"
+   ],
+   "tags": [
+    "prognosis"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.indriya.1.22",
+   "word_meanings": [
+    {
+     "sa": "पुष्पाणि नखदन्तेषु",
+     "iast": "puṣpāṇi nakhadanteṣu",
+     "en": "white spots (flowers) on nails and teeth",
+     "hi": "नख और दाँतों पर पुष्प (सफेद धब्बे)"
+    },
+    {
+     "sa": "पङ्कः वा दन्तसंश्रितः",
+     "iast": "paṅkaḥ vā dantasaṃśritaḥ",
+     "en": "or muddy coating on teeth",
+     "hi": "या दाँतों पर कीचड़ जैसा मैल"
+    },
+    {
+     "sa": "चूर्णकः वा अपि दन्तेषु",
+     "iast": "cūrṇakaḥ vā api danteṣu",
+     "en": "or powdery deposit on teeth",
+     "hi": "या दाँतों पर चूर्ण जैसा"
+    },
+    {
+     "sa": "लक्षणम् मरणस्य तत्",
+     "iast": "lakṣaṇam maraṇasya tat",
+     "en": "that is a sign of death",
+     "hi": "वह मृत्यु का लक्षण है"
+    }
+   ],
+   "english": "White spots ('flowers') on the nails and teeth, a muddy coating or a powdery deposit on the teeth: that is a sign of death.",
+   "hindi": "नख और दाँतों पर सफेद धब्बे ('पुष्प'), दाँतों पर कीचड़ जैसा मैल या चूर्ण जैसा जमाव: यह मृत्यु का लक्षण है।",
+   "explanation_en": "Signs on nails and teeth.",
+   "explanation_hi": "नख और दाँतों के लक्षण।",
+   "modern_correlation": null,
+   "key_terms": [
+    "ariṣṭa",
+    "nakha",
+    "danta"
+   ],
+   "tags": [
+    "prognosis"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.indriya.1.23",
+   "word_meanings": [
+    {
+     "sa": "ओष्ठयोः पादयोः पाण्योः",
+     "iast": "oṣṭhayoḥ pādayoḥ pāṇyoḥ",
+     "en": "of lips, feet, hands",
+     "hi": "होंठ, पैर, हाथ का"
+    },
+    {
+     "sa": "अक्ष्णोः मूत्रपुरीषयोः",
+     "iast": "akṣṇoḥ mūtra-purīṣayoḥ",
+     "en": "of eyes, urine and faeces",
+     "hi": "आँख, मूत्र और मल का"
+    },
+    {
+     "sa": "नखेषु अपि च",
+     "iast": "nakheṣu api ca",
+     "en": "and of nails",
+     "hi": "और नखों का"
+    },
+    {
+     "sa": "वैवर्ण्यम्",
+     "iast": "vaivarṇyam",
+     "en": "discoloration",
+     "hi": "विवर्णता"
+    },
+    {
+     "sa": "एतत् क्षीणबले अन्तकृत्",
+     "iast": "etat kṣīṇabale antakṛt",
+     "en": "this is fatal in one whose strength is exhausted",
+     "hi": "यह क्षीणबल में मारक है"
+    }
+   ],
+   "english": "Discoloration of the lips, feet, hands, eyes, urine, faeces and nails is fatal in one whose strength is exhausted.",
+   "hindi": "होंठ, पैर, हाथ, आँख, मूत्र, मल और नखों की विवर्णता क्षीणबल व्यक्ति में मारक है।",
+   "explanation_en": "Verse form of verse 13.",
+   "explanation_hi": "श्लोक 13 का पद्य रूप।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vaivarṇya",
+    "ariṣṭa"
+   ],
+   "tags": [
+    "prognosis"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.indriya.1.24",
+   "word_meanings": [
+    {
+     "sa": "यस्य नीलौ उभौ ओष्ठौ",
+     "iast": "yasya nīlau ubhau oṣṭhau",
+     "en": "one whose both lips are blue",
+     "hi": "जिसके दोनों होंठ नीले हों"
+    },
+    {
+     "sa": "पक्वजाम्बवसन्निभौ",
+     "iast": "pakvajāmbavasannibhau",
+     "en": "like ripe jāmun fruit",
+     "hi": "पके जामुन जैसे"
+    },
+    {
+     "sa": "मुमूर्षुः इति तम् विद्यात्",
+     "iast": "mumūrṣuḥ iti tam vidyāt",
+     "en": "know him as about to die",
+     "hi": "उसे मरणासन्न जानें"
+    },
+    {
+     "sa": "नरः धीरः गतायुषम्",
+     "iast": "naraḥ dhīraḥ gatāyuṣam",
+     "en": "the wise person (knows him) as one whose life is spent",
+     "hi": "विद्वान उसे गतायु जाने"
+    }
+   ],
+   "english": "A wise person should know one whose both lips are blue like ripe jāmun fruit as about to die, his life being spent.",
+   "hindi": "जिसके दोनों होंठ पके जामुन जैसे नीले हों, उसे विद्वान मरणासन्न और गतायु जाने।",
+   "explanation_en": "A classic, frequently quoted ariṣṭa: lips blue like ripe jāmun.",
+   "explanation_hi": "प्रसिद्ध, बहुत उद्धृत अरिष्ट: पके जामुन जैसे नीले होंठ।",
+   "modern_correlation": {
+    "en": "Deep bluish-purple discoloration of the lips (central cyanosis) is a recognised sign of severe hypoxaemia in modern medicine and indicates a medical emergency.",
+    "hi": "होंठों का गहरा नीला-बैंगनी होना (सेंट्रल सायनोसिस) आधुनिक चिकित्सा में गम्भीर हाइपोक्सीमिया का मान्य लक्षण है और चिकित्सा आपात स्थिति दर्शाता है।"
+   },
+   "key_terms": [
+    "nīla oṣṭha",
+    "ariṣṭa"
+   ],
+   "tags": [
+    "prognosis",
+    "exam"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.indriya.1.25",
+   "word_meanings": [
+    {
+     "sa": "एकः वा यदि वा अनेकः",
+     "iast": "ekaḥ vā yadi vā anekaḥ",
+     "en": "one or many",
+     "hi": "एक या अनेक"
+    },
+    {
+     "sa": "यस्य वैकारिकः स्वरः",
+     "iast": "yasya vaikārikaḥ svaraḥ",
+     "en": "whose morbid voice",
+     "hi": "जिसका वैकारिक स्वर"
+    },
+    {
+     "sa": "सहसा उत्पद्यते",
+     "iast": "sahasā utpadyate",
+     "en": "arises suddenly",
+     "hi": "अचानक उत्पन्न हो"
+    },
+    {
+     "sa": "जन्तोः हीयमानस्य",
+     "iast": "jantoḥ hīyamānasya",
+     "en": "of a wasting creature",
+     "hi": "क्षीण होते प्राणी का"
+    },
+    {
+     "sa": "न अस्ति सः",
+     "iast": "na asti saḥ",
+     "en": "he does not survive",
+     "hi": "वह नहीं रहता"
+    }
+   ],
+   "english": "A wasting person in whom one or more morbid voices arise suddenly does not survive.",
+   "hindi": "क्षीण होते व्यक्ति में यदि एक या अनेक वैकारिक स्वर अचानक उत्पन्न हों, तो वह जीवित नहीं रहता।",
+   "explanation_en": "Verse form of the voice ariṣṭa.",
+   "explanation_hi": "स्वर अरिष्ट का पद्य रूप।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vaikārika svara",
+    "ariṣṭa"
+   ],
+   "tags": [
+    "prognosis"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.indriya.1.26",
+   "word_meanings": [
+    {
+     "sa": "यत् च अन्यत् अपि किंचित् स्यात्",
+     "iast": "yat ca anyat api kiṃcit syāt",
+     "en": "and whatever else there may be",
+     "hi": "और जो कुछ अन्य हो"
+    },
+    {
+     "sa": "वैकृतम् स्वरवर्णयोः",
+     "iast": "vaikṛtam svaravarṇayoḥ",
+     "en": "abnormality of voice and complexion",
+     "hi": "स्वर और वर्ण की विकृति"
+    },
+    {
+     "sa": "बलमांसविहीनस्य",
+     "iast": "bala-māṃsa-vihīnasya",
+     "en": "of one devoid of strength and flesh",
+     "hi": "बल और मांस से हीन का"
+    },
+    {
+     "sa": "तत् सर्वम् मरणोदयम्",
+     "iast": "tat sarvam maraṇodayam",
+     "en": "all that heralds death",
+     "hi": "वह सब मृत्यु का सूचक"
+    }
+   ],
+   "english": "Any other abnormality of voice and complexion in one who has lost strength and flesh heralds death.",
+   "hindi": "बल और मांस से हीन व्यक्ति में स्वर और वर्ण की कोई भी अन्य विकृति मृत्यु का सूचक है।",
+   "explanation_en": "General rule: in a cachectic patient, new abnormalities of voice and colour are grave.",
+   "explanation_hi": "सामान्य नियम: क्षीण (कैकेक्टिक) रोगी में स्वर और वर्ण की नई विकृतियाँ गम्भीर हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "ariṣṭa",
+    "balamāṃsakṣaya"
+   ],
+   "tags": [
+    "prognosis"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.indriya.1.27",
+   "word_meanings": [
+    {
+     "sa": "तत्र श्लोकः",
+     "iast": "tatra ślokaḥ",
+     "en": "here is the summary verse",
+     "hi": "यहाँ सारांश श्लोक"
+    },
+    {
+     "sa": "इति वर्णस्वरौ उक्तौ",
+     "iast": "iti varṇa-svarau uktau",
+     "en": "thus complexion and voice have been described",
+     "hi": "इस प्रकार वर्ण और स्वर कहे गए"
+    },
+    {
+     "sa": "लक्षणार्थम् मुमूर्षताम्",
+     "iast": "lakṣaṇārtham mumūrṣatām",
+     "en": "for the signs of the dying",
+     "hi": "मरणासन्न के लक्षण हेतु"
+    },
+    {
+     "sa": "यः तौ सम्यक् विजानाति",
+     "iast": "yaḥ tau samyak vijānāti",
+     "en": "one who knows them well",
+     "hi": "जो इन्हें भली-भाँति जानता है"
+    },
+    {
+     "sa": "न आयुर्ज्ञाने सः मुह्यति",
+     "iast": "na āyurjñāne saḥ muhyati",
+     "en": "is not confused in knowing life-span",
+     "hi": "वह आयु-ज्ञान में भ्रमित नहीं होता"
+    }
+   ],
+   "english": "Summary verse: thus complexion and voice have been described as signs of the dying; one who knows them well is not confused in determining the life-span.",
+   "hindi": "सारांश श्लोक: इस प्रकार मरणासन्न के लक्षण के रूप में वर्ण और स्वर बताए गए; जो इन्हें भली-भाँति जानता है वह आयु-ज्ञान में भ्रमित नहीं होता।",
+   "explanation_en": "End of chapter.",
+   "explanation_hi": "अध्याय का अन्त।",
+   "modern_correlation": null,
+   "key_terms": [
+    "saṃgraha"
+   ],
+   "tags": [
+    "summary"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  }
+ ]
+}

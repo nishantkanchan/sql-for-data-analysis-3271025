@@ -1,0 +1,2203 @@
+{
+  "subject_id": "AyUG-RM",
+  "questions": [
+    {
+      "id": "AyUG-RM-0001",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-evidence",
+      "topic_en": "Evidence hierarchy and reporting",
+      "topic_hi": "साक्ष्य पदानुक्रम और रिपोर्टिंग",
+      "type": "mcq",
+      "question_en": "Which type of evidence sits at the top of the conventional evidence hierarchy?",
+      "question_hi": "पारम्परिक साक्ष्य पदानुक्रम में सबसे ऊपर किस प्रकार का साक्ष्य है?",
+      "options": [
+        {
+          "en": "Systematic review and meta-analysis of RCTs",
+          "hi": "RCTs की व्यवस्थित समीक्षा और मेटा-विश्लेषण"
+        },
+        {
+          "en": "Single randomised controlled trial",
+          "hi": "एकल यादृच्छिक नियंत्रित परीक्षण"
+        },
+        {
+          "en": "Cohort study",
+          "hi": "कोहॉर्ट अध्ययन"
+        },
+        {
+          "en": "Expert opinion",
+          "hi": "विशेषज्ञ राय"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "Well-conducted systematic reviews/meta-analyses of RCTs rank highest, followed by individual RCTs, cohort studies, case-control studies, case series/reports, and expert opinion at the bottom.",
+      "explanation_hi": "भली-भाँति किए गए RCTs की व्यवस्थित समीक्षा/मेटा-विश्लेषण सबसे ऊपर, फिर एकल RCT, कोहॉर्ट, केस-कंट्रोल, केस सीरीज़/रिपोर्ट, और सबसे नीचे विशेषज्ञ राय।",
+      "reference": "Oxford CEBM levels of evidence",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0002",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-study-design",
+      "topic_en": "Study designs",
+      "topic_hi": "अध्ययन अभिकल्प (स्टडी डिज़ाइन)",
+      "type": "mcq",
+      "question_en": "Which study design is considered the gold standard for testing the efficacy of a new treatment?",
+      "question_hi": "नई चिकित्सा की प्रभावकारिता जाँचने के लिए किस अध्ययन अभिकल्प को स्वर्ण मानक माना जाता है?",
+      "options": [
+        {
+          "en": "Case-control study",
+          "hi": "केस-कंट्रोल अध्ययन"
+        },
+        {
+          "en": "Cross-sectional survey",
+          "hi": "अनुप्रस्थ (क्रॉस-सेक्शनल) सर्वेक्षण"
+        },
+        {
+          "en": "Randomised controlled trial",
+          "hi": "यादृच्छिक नियंत्रित परीक्षण (RCT)"
+        },
+        {
+          "en": "Case series",
+          "hi": "केस सीरीज़"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "In an RCT, random allocation balances known and unknown confounders between groups, so differences in outcome can be attributed to the intervention.",
+      "explanation_hi": "RCT में यादृच्छिक आवंटन ज्ञात और अज्ञात कन्फ़ाउंडरों को समूहों में संतुलित करता है, इसलिए परिणाम का अंतर हस्तक्षेप के कारण माना जा सकता है।",
+      "reference": "Park's Textbook of Preventive and Social Medicine",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0003",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-study-design",
+      "topic_en": "Study designs",
+      "topic_hi": "अध्ययन अभिकल्प (स्टडी डिज़ाइन)",
+      "type": "mcq",
+      "question_en": "The measure of association calculated in a case-control study is the:",
+      "question_hi": "केस-कंट्रोल अध्ययन में गणना किया जाने वाला सम्बन्ध का माप है:",
+      "options": [
+        {
+          "en": "Relative risk",
+          "hi": "सापेक्ष जोखिम"
+        },
+        {
+          "en": "Incidence rate",
+          "hi": "आपतन दर"
+        },
+        {
+          "en": "Prevalence",
+          "hi": "प्रसार"
+        },
+        {
+          "en": "Odds ratio",
+          "hi": "ऑड्स अनुपात"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "Case-control studies start with outcome and look back at exposure, so incidence cannot be computed; the odds ratio estimates the relative risk when the disease is rare. Relative risk comes from cohort studies.",
+      "explanation_hi": "केस-कंट्रोल अध्ययन परिणाम से आरम्भ होकर पीछे जोखिम कारक देखते हैं, इसलिए आपतन नहीं निकाला जा सकता; रोग दुर्लभ हो तो ऑड्स अनुपात सापेक्ष जोखिम का अनुमान देता है। सापेक्ष जोखिम कोहॉर्ट अध्ययन से मिलता है।",
+      "reference": "Park's Textbook of Preventive and Social Medicine",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0004",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-study-design",
+      "topic_en": "Study designs",
+      "topic_hi": "अध्ययन अभिकल्प (स्टडी डिज़ाइन)",
+      "type": "mcq",
+      "question_en": "Relative risk (risk ratio) is directly obtained from which study design?",
+      "question_hi": "सापेक्ष जोखिम (रिस्क अनुपात) सीधे किस अध्ययन अभिकल्प से प्राप्त होता है?",
+      "options": [
+        {
+          "en": "Case-control study",
+          "hi": "केस-कंट्रोल अध्ययन"
+        },
+        {
+          "en": "Ecological study",
+          "hi": "इकोलॉजिकल अध्ययन"
+        },
+        {
+          "en": "Case report",
+          "hi": "केस रिपोर्ट"
+        },
+        {
+          "en": "Cohort study",
+          "hi": "कोहॉर्ट अध्ययन"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "A cohort study follows exposed and unexposed groups forward and measures incidence in each; RR = incidence in exposed ÷ incidence in unexposed.",
+      "explanation_hi": "कोहॉर्ट अध्ययन जोखिमग्रस्त और अजोखिमग्रस्त समूहों को आगे तक देखता है और प्रत्येक में आपतन मापता है; RR = जोखिमग्रस्त में आपतन ÷ अजोखिमग्रस्त में आपतन।",
+      "reference": "Park's Textbook of Preventive and Social Medicine",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0005",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-study-design",
+      "topic_en": "Study designs",
+      "topic_hi": "अध्ययन अभिकल्प (स्टडी डिज़ाइन)",
+      "type": "mcq",
+      "question_en": "A cross-sectional study mainly measures:",
+      "question_hi": "अनुप्रस्थ (क्रॉस-सेक्शनल) अध्ययन मुख्य रूप से क्या मापता है?",
+      "options": [
+        {
+          "en": "Incidence",
+          "hi": "आपतन (इंसिडेंस)"
+        },
+        {
+          "en": "Survival time",
+          "hi": "उत्तरजीविता काल"
+        },
+        {
+          "en": "Number needed to treat",
+          "hi": "NNT"
+        },
+        {
+          "en": "Prevalence",
+          "hi": "प्रसार (प्रिवेलेंस)"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "A cross-sectional study is a 'snapshot' at one point in time, so it gives prevalence; it cannot establish which came first, exposure or disease.",
+      "explanation_hi": "अनुप्रस्थ अध्ययन एक समय का 'चित्र' है, इसलिए यह प्रसार देता है; यह स्थापित नहीं कर सकता कि पहले जोखिम आया या रोग।",
+      "reference": "Park's Textbook of Preventive and Social Medicine",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0006",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-study-design",
+      "topic_en": "Study designs",
+      "topic_hi": "अध्ययन अभिकल्प (स्टडी डिज़ाइन)",
+      "type": "mcq",
+      "question_en": "If incidence of a disease stays constant, prevalence is approximately equal to:",
+      "question_hi": "यदि किसी रोग का आपतन स्थिर रहे, तो प्रसार लगभग किसके बराबर होता है?",
+      "options": [
+        {
+          "en": "Incidence ÷ duration",
+          "hi": "आपतन ÷ अवधि"
+        },
+        {
+          "en": "Incidence − mortality",
+          "hi": "आपतन − मृत्यु"
+        },
+        {
+          "en": "Incidence × average duration of disease",
+          "hi": "आपतन × रोग की औसत अवधि"
+        },
+        {
+          "en": "Incidence + recovery rate",
+          "hi": "आपतन + स्वस्थ होने की दर"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "P ≈ I × D in a steady state. A chronic disease with long duration (e.g. diabetes) thus has a high prevalence even with modest incidence.",
+      "explanation_hi": "स्थिर अवस्था में P ≈ I × D। इसलिए लम्बी अवधि वाले दीर्घकालिक रोग (जैसे मधुमेह) का प्रसार सामान्य आपतन होने पर भी अधिक होता है।",
+      "reference": "Park's Textbook of Preventive and Social Medicine",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0007",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-study-design",
+      "topic_en": "Study designs",
+      "topic_hi": "अध्ययन अभिकल्प (स्टडी डिज़ाइन)",
+      "type": "mcq",
+      "question_en": "In a crossover trial, the 'washout period' is used to:",
+      "question_hi": "क्रॉसओवर परीक्षण में 'वॉशआउट अवधि' का उपयोग किसलिए होता है?",
+      "options": [
+        {
+          "en": "Recruit more participants",
+          "hi": "अधिक प्रतिभागी जोड़ने के लिए"
+        },
+        {
+          "en": "Remove the carry-over effect of the first treatment before the second",
+          "hi": "दूसरी चिकित्सा से पहले पहली चिकित्सा का शेष प्रभाव हटाने के लिए"
+        },
+        {
+          "en": "Unblind the investigators",
+          "hi": "अन्वेषकों का अंधापन हटाने के लिए"
+        },
+        {
+          "en": "Calculate the sample size",
+          "hi": "नमूना आकार निकालने के लिए"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "In crossover designs each participant receives both treatments in sequence; a washout interval between periods prevents the effects of the first treatment from contaminating the second.",
+      "explanation_hi": "क्रॉसओवर अभिकल्प में प्रत्येक प्रतिभागी दोनों चिकित्साएँ क्रम से लेता है; दोनों अवधियों के बीच वॉशआउट अंतराल पहली चिकित्सा के प्रभाव को दूसरी में मिलने से रोकता है।",
+      "reference": "Park's Textbook of Preventive and Social Medicine",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0008",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-study-design",
+      "topic_en": "Study designs",
+      "topic_hi": "अध्ययन अभिकल्प (स्टडी डिज़ाइन)",
+      "type": "mcq",
+      "question_en": "In a double-blind trial, who is unaware of the treatment allocation?",
+      "question_hi": "डबल-ब्लाइंड परीक्षण में किसे चिकित्सा आवंटन का पता नहीं होता?",
+      "options": [
+        {
+          "en": "Both the participants and the investigators/assessors",
+          "hi": "प्रतिभागी और अन्वेषक/मूल्यांकनकर्ता दोनों"
+        },
+        {
+          "en": "Only the participants",
+          "hi": "केवल प्रतिभागी"
+        },
+        {
+          "en": "Only the statistician",
+          "hi": "केवल सांख्यिकीविद्"
+        },
+        {
+          "en": "Only the ethics committee",
+          "hi": "केवल आचार समिति"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "Double blinding hides allocation from both participants and the investigators who give treatment and assess outcomes, reducing performance and observer bias. In triple blinding the analyst is also blinded.",
+      "explanation_hi": "डबल ब्लाइंडिंग में आवंटन प्रतिभागियों और उपचार देने व परिणाम आँकने वाले अन्वेषकों दोनों से छिपा रहता है, जिससे प्रदर्शन और प्रेक्षक बायस घटता है। ट्रिपल ब्लाइंडिंग में विश्लेषक भी अनजान रहता है।",
+      "reference": "Park's Textbook of Preventive and Social Medicine",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0009",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-study-design",
+      "topic_en": "Study designs",
+      "topic_hi": "अध्ययन अभिकल्प (स्टडी डिज़ाइन)",
+      "type": "mcq",
+      "question_en": "Which phase of a clinical trial is post-marketing surveillance?",
+      "question_hi": "क्लिनिकल ट्रायल का कौन-सा चरण विपणन-पश्चात निगरानी (पोस्ट-मार्केटिंग सर्विलांस) है?",
+      "options": [
+        {
+          "en": "Phase IV",
+          "hi": "चरण IV"
+        },
+        {
+          "en": "Phase I",
+          "hi": "चरण I"
+        },
+        {
+          "en": "Phase II",
+          "hi": "चरण II"
+        },
+        {
+          "en": "Phase III",
+          "hi": "चरण III"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "Phase I tests safety/dose in a small number (often healthy volunteers); Phase II tests efficacy and dose in patients; Phase III is a large confirmatory trial; Phase IV follows the drug after approval for rare adverse effects.",
+      "explanation_hi": "चरण I थोड़े लोगों (प्रायः स्वस्थ स्वयंसेवक) में सुरक्षा/मात्रा; चरण II रोगियों में प्रभावकारिता और मात्रा; चरण III बड़ा पुष्टिकारक परीक्षण; चरण IV स्वीकृति के बाद दुर्लभ दुष्प्रभावों की निगरानी।",
+      "reference": "New Drugs and Clinical Trials Rules, 2019",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0010",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-study-design",
+      "topic_en": "Study designs",
+      "topic_hi": "अध्ययन अभिकल्प (स्टडी डिज़ाइन)",
+      "type": "true_false",
+      "question_en": "True or False: Intention-to-treat analysis analyses participants in the groups to which they were randomised, regardless of whether they completed the treatment.",
+      "question_hi": "सत्य या असत्य: इंटेंशन-टू-ट्रीट विश्लेषण प्रतिभागियों का विश्लेषण उन्हीं समूहों में करता है जिनमें उन्हें यादृच्छिक रूप से रखा गया था, चाहे उन्होंने उपचार पूरा किया हो या नहीं।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "True. ITT preserves the benefits of randomisation and gives a conservative, real-world estimate; per-protocol analysis includes only those who completed the protocol.",
+      "explanation_hi": "सत्य। ITT यादृच्छिकीकरण के लाभ बनाए रखता है और वास्तविक जगत का संयत अनुमान देता है; पर-प्रोटोकॉल विश्लेषण में केवल प्रोटोकॉल पूरा करने वाले शामिल होते हैं।",
+      "reference": "CONSORT 2010 statement",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0011",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-sampling",
+      "topic_en": "Sampling methods",
+      "topic_hi": "प्रतिचयन (सैम्पलिंग) विधियाँ",
+      "type": "mcq",
+      "question_en": "Selecting every 10th patient from an OPD register after a random start is an example of:",
+      "question_hi": "यादृच्छिक आरम्भ के बाद OPD रजिस्टर से हर 10वाँ रोगी चुनना किसका उदाहरण है?",
+      "options": [
+        {
+          "en": "Systematic random sampling",
+          "hi": "व्यवस्थित यादृच्छिक प्रतिचयन"
+        },
+        {
+          "en": "Simple random sampling",
+          "hi": "सरल यादृच्छिक प्रतिचयन"
+        },
+        {
+          "en": "Cluster sampling",
+          "hi": "क्लस्टर प्रतिचयन"
+        },
+        {
+          "en": "Quota sampling",
+          "hi": "कोटा प्रतिचयन"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "Systematic sampling picks every kth unit (k = population/sample size) after a random start. Simple random sampling uses lottery or random numbers for every unit.",
+      "explanation_hi": "व्यवस्थित प्रतिचयन में यादृच्छिक आरम्भ के बाद हर k-वीं इकाई (k = जनसंख्या/नमूना आकार) चुनी जाती है। सरल यादृच्छिक प्रतिचयन में हर इकाई के लिए लॉटरी या यादृच्छिक संख्याएँ।",
+      "reference": "Park's Textbook of Preventive and Social Medicine",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0012",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-sampling",
+      "topic_en": "Sampling methods",
+      "topic_hi": "प्रतिचयन (सैम्पलिंग) विधियाँ",
+      "type": "mcq",
+      "question_en": "Dividing the population into homogeneous subgroups (e.g. by prakṛti or age) and then sampling randomly from each is called:",
+      "question_hi": "जनसंख्या को समरूप उपसमूहों (जैसे प्रकृति या आयु के अनुसार) में बाँटकर प्रत्येक से यादृच्छिक नमूना लेना क्या कहलाता है?",
+      "options": [
+        {
+          "en": "Cluster sampling",
+          "hi": "क्लस्टर प्रतिचयन"
+        },
+        {
+          "en": "Snowball sampling",
+          "hi": "स्नोबॉल प्रतिचयन"
+        },
+        {
+          "en": "Stratified random sampling",
+          "hi": "स्तरीकृत यादृच्छिक प्रतिचयन"
+        },
+        {
+          "en": "Convenience sampling",
+          "hi": "सुविधा प्रतिचयन"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "Stratified sampling ensures representation of each stratum and improves precision. In cluster sampling whole groups (villages, schools) are randomly selected.",
+      "explanation_hi": "स्तरीकृत प्रतिचयन प्रत्येक स्तर का प्रतिनिधित्व सुनिश्चित करता है और परिशुद्धता बढ़ाता है। क्लस्टर प्रतिचयन में पूरे समूह (गाँव, विद्यालय) यादृच्छिक रूप से चुने जाते हैं।",
+      "reference": "Park's Textbook of Preventive and Social Medicine",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0013",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-sampling",
+      "topic_en": "Sampling methods",
+      "topic_hi": "प्रतिचयन (सैम्पलिंग) विधियाँ",
+      "type": "mcq",
+      "question_en": "Which non-probability method is most suitable for reaching hidden populations (e.g. drug users) through referrals?",
+      "question_hi": "छिपी आबादी (जैसे नशा करने वाले) तक संदर्भों के माध्यम से पहुँचने के लिए कौन-सी गैर-प्रायिकता विधि सबसे उपयुक्त है?",
+      "options": [
+        {
+          "en": "Systematic sampling",
+          "hi": "व्यवस्थित प्रतिचयन"
+        },
+        {
+          "en": "Snowball sampling",
+          "hi": "स्नोबॉल प्रतिचयन"
+        },
+        {
+          "en": "Stratified sampling",
+          "hi": "स्तरीकृत प्रतिचयन"
+        },
+        {
+          "en": "Simple random sampling",
+          "hi": "सरल यादृच्छिक प्रतिचयन"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "In snowball sampling each participant refers others with the same characteristic; useful when no sampling frame exists. Systematic, stratified and simple random are probability methods.",
+      "explanation_hi": "स्नोबॉल प्रतिचयन में प्रत्येक प्रतिभागी समान विशेषता वाले अन्य लोगों को सुझाता है; जब कोई प्रतिचयन ढाँचा न हो तब उपयोगी। व्यवस्थित, स्तरीकृत और सरल यादृच्छिक प्रायिकता विधियाँ हैं।",
+      "reference": "Park's Textbook of Preventive and Social Medicine",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0014",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-sampling",
+      "topic_en": "Sampling methods",
+      "topic_hi": "प्रतिचयन (सैम्पलिंग) विधियाँ",
+      "type": "mcq",
+      "question_en": "Which of the following does NOT directly increase the required sample size of a trial?",
+      "question_hi": "इनमें से कौन-सा परीक्षण के आवश्यक नमूना आकार को सीधे नहीं बढ़ाता?",
+      "options": [
+        {
+          "en": "Higher desired power",
+          "hi": "अधिक वांछित शक्ति (पावर)"
+        },
+        {
+          "en": "Smaller α (e.g. 0.01 instead of 0.05)",
+          "hi": "छोटा α (जैसे 0.05 के स्थान पर 0.01)"
+        },
+        {
+          "en": "Greater variability (SD) of the outcome",
+          "hi": "परिणाम की अधिक परिवर्तनशीलता (SD)"
+        },
+        {
+          "en": "A larger expected effect size",
+          "hi": "अपेक्षित प्रभाव का बड़ा आकार"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "Sample size increases with higher power, lower α and greater variability, but decreases when the expected effect size is larger (big differences are easier to detect).",
+      "explanation_hi": "नमूना आकार अधिक शक्ति, कम α और अधिक परिवर्तनशीलता से बढ़ता है, पर अपेक्षित प्रभाव बड़ा होने पर घटता है (बड़े अंतर आसानी से पकड़े जाते हैं)।",
+      "reference": "Mahajan's Methods in Biostatistics",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0015",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-bias",
+      "topic_en": "Bias and confounding",
+      "topic_hi": "पूर्वाग्रह (बायस) और कन्फ़ाउंडिंग",
+      "type": "mcq",
+      "question_en": "Recall bias is a particular problem in which study design?",
+      "question_hi": "रिकॉल (स्मृति) बायस विशेष रूप से किस अध्ययन अभिकल्प की समस्या है?",
+      "options": [
+        {
+          "en": "Randomised controlled trial",
+          "hi": "यादृच्छिक नियंत्रित परीक्षण"
+        },
+        {
+          "en": "Prospective cohort study",
+          "hi": "भावी कोहॉर्ट अध्ययन"
+        },
+        {
+          "en": "Laboratory experiment",
+          "hi": "प्रयोगशाला प्रयोग"
+        },
+        {
+          "en": "Case-control study",
+          "hi": "केस-कंट्रोल अध्ययन"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "Cases often recall past exposures differently (more thoroughly) than controls, distorting the association. Prospective designs record exposure before the outcome, avoiding this.",
+      "explanation_hi": "रोगी (केस) प्रायः पिछले जोखिमों को नियंत्रण समूह से अलग (अधिक विस्तार से) याद करते हैं, जिससे सम्बन्ध विकृत होता है। भावी अभिकल्प परिणाम से पहले जोखिम दर्ज करते हैं, जिससे यह बचता है।",
+      "reference": "Park's Textbook of Preventive and Social Medicine",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0016",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-bias",
+      "topic_en": "Bias and confounding",
+      "topic_hi": "पूर्वाग्रह (बायस) और कन्फ़ाउंडिंग",
+      "type": "mcq",
+      "question_en": "A factor associated with both the exposure and the outcome, but not lying on the causal pathway, which distorts their association, is called a:",
+      "question_hi": "ऐसा कारक जो जोखिम और परिणाम दोनों से जुड़ा हो पर कारण-मार्ग में न हो, और उनके सम्बन्ध को विकृत करे, क्या कहलाता है?",
+      "options": [
+        {
+          "en": "Effect modifier",
+          "hi": "प्रभाव संशोधक"
+        },
+        {
+          "en": "Mediator",
+          "hi": "मध्यस्थ"
+        },
+        {
+          "en": "Confounder",
+          "hi": "कन्फ़ाउंडर"
+        },
+        {
+          "en": "Outcome variable",
+          "hi": "परिणाम चर"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "A confounder (e.g. smoking when studying alcohol and lung cancer) can create or hide associations. It is controlled by randomisation, restriction, matching, stratification or multivariable analysis. A mediator lies on the causal pathway.",
+      "explanation_hi": "कन्फ़ाउंडर (जैसे मद्य और फेफड़े के कैंसर के अध्ययन में धूम्रपान) झूठा सम्बन्ध बना या छिपा सकता है। इसे यादृच्छिकीकरण, प्रतिबंध, मिलान, स्तरीकरण या बहुचर विश्लेषण से नियंत्रित किया जाता है। मध्यस्थ कारण-मार्ग में होता है।",
+      "reference": "Park's Textbook of Preventive and Social Medicine",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0017",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-bias",
+      "topic_en": "Bias and confounding",
+      "topic_hi": "पूर्वाग्रह (बायस) और कन्फ़ाउंडिंग",
+      "type": "mcq",
+      "question_en": "The tendency of study participants to change their behaviour because they know they are being observed is called the:",
+      "question_hi": "अध्ययन प्रतिभागियों का यह जानकर अपना व्यवहार बदल लेना कि उन्हें देखा जा रहा है, क्या कहलाता है?",
+      "options": [
+        {
+          "en": "Placebo effect",
+          "hi": "प्लेसिबो प्रभाव"
+        },
+        {
+          "en": "Berkson's bias",
+          "hi": "बर्कसन बायस"
+        },
+        {
+          "en": "Hawthorne effect",
+          "hi": "हॉथॉर्न प्रभाव"
+        },
+        {
+          "en": "Lead-time bias",
+          "hi": "लीड-टाइम बायस"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "The Hawthorne effect (from studies at the Hawthorne Works factory) is a change in behaviour due to awareness of being studied. The placebo effect is improvement from an inert treatment due to expectation.",
+      "explanation_hi": "हॉथॉर्न प्रभाव (हॉथॉर्न वर्क्स कारखाने के अध्ययनों से) अध्ययन किए जाने की जागरूकता से व्यवहार में परिवर्तन है। प्लेसिबो प्रभाव अपेक्षा के कारण निष्क्रिय उपचार से सुधार है।",
+      "reference": "Park's Textbook of Preventive and Social Medicine",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0018",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-bias",
+      "topic_en": "Bias and confounding",
+      "topic_hi": "पूर्वाग्रह (बायस) और कन्फ़ाउंडिंग",
+      "type": "mcq",
+      "question_en": "Apparent improvement in survival from a screening programme merely because the disease is diagnosed earlier, without any change in the time of death, is called:",
+      "question_hi": "स्क्रीनिंग कार्यक्रम से उत्तरजीविता में दिखने वाला सुधार, जो केवल रोग के जल्दी पकड़े जाने से हो और मृत्यु के समय में कोई अंतर न हो, क्या कहलाता है?",
+      "options": [
+        {
+          "en": "Lead-time bias",
+          "hi": "लीड-टाइम बायस"
+        },
+        {
+          "en": "Length bias",
+          "hi": "लेंथ बायस"
+        },
+        {
+          "en": "Recall bias",
+          "hi": "रिकॉल बायस"
+        },
+        {
+          "en": "Attrition bias",
+          "hi": "एट्रिशन बायस"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "Lead-time bias inflates survival measured from diagnosis. Length bias arises because screening preferentially detects slow-growing disease with a better prognosis.",
+      "explanation_hi": "लीड-टाइम बायस निदान से मापी गई उत्तरजीविता को बढ़ा-चढ़ाकर दिखाता है। लेंथ बायस इसलिए होता है क्योंकि स्क्रीनिंग धीमी बढ़ने वाली, अच्छे पूर्वानुमान वाली बीमारियों को अधिक पकड़ती है।",
+      "reference": "Park's Textbook of Preventive and Social Medicine",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0019",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-bias",
+      "topic_en": "Bias and confounding",
+      "topic_hi": "पूर्वाग्रह (बायस) और कन्फ़ाउंडिंग",
+      "type": "mcq",
+      "question_en": "Bias arising when cases and controls are drawn from hospital patients, whose admission rates differ by exposure and disease, is known as:",
+      "question_hi": "जब केस और कंट्रोल अस्पताल रोगियों से लिए जाएँ, जिनकी भर्ती दर जोखिम और रोग के अनुसार भिन्न हो, तो उत्पन्न बायस कहलाता है:",
+      "options": [
+        {
+          "en": "Hawthorne effect",
+          "hi": "हॉथॉर्न प्रभाव"
+        },
+        {
+          "en": "Berkson's bias",
+          "hi": "बर्कसन बायस"
+        },
+        {
+          "en": "Observer bias",
+          "hi": "प्रेक्षक बायस"
+        },
+        {
+          "en": "Publication bias",
+          "hi": "प्रकाशन बायस"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "Berkson's (admission rate) bias is a selection bias specific to hospital-based case-control studies. Publication bias refers to positive results being published more often.",
+      "explanation_hi": "बर्कसन (भर्ती दर) बायस अस्पताल आधारित केस-कंट्रोल अध्ययनों का विशेष चयन बायस है। प्रकाशन बायस का अर्थ है सकारात्मक परिणामों का अधिक प्रकाशित होना।",
+      "reference": "Park's Textbook of Preventive and Social Medicine",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0020",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-evidence",
+      "topic_en": "Evidence hierarchy and reporting",
+      "topic_hi": "साक्ष्य पदानुक्रम और रिपोर्टिंग",
+      "type": "mcq",
+      "question_en": "Which reporting guideline is used for randomised controlled trials?",
+      "question_hi": "यादृच्छिक नियंत्रित परीक्षणों की रिपोर्टिंग के लिए कौन-सा दिशानिर्देश प्रयुक्त होता है?",
+      "options": [
+        {
+          "en": "STROBE",
+          "hi": "STROBE"
+        },
+        {
+          "en": "PRISMA",
+          "hi": "PRISMA"
+        },
+        {
+          "en": "CONSORT",
+          "hi": "CONSORT"
+        },
+        {
+          "en": "STARD",
+          "hi": "STARD"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "CONSORT is for RCTs, STROBE for observational studies, PRISMA for systematic reviews and meta-analyses, and STARD for diagnostic accuracy studies.",
+      "explanation_hi": "CONSORT RCTs के लिए, STROBE अवलोकन अध्ययनों के लिए, PRISMA व्यवस्थित समीक्षा व मेटा-विश्लेषण के लिए, और STARD नैदानिक सटीकता अध्ययनों के लिए है।",
+      "reference": "EQUATOR Network reporting guidelines",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0021",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-evidence",
+      "topic_en": "Evidence hierarchy and reporting",
+      "topic_hi": "साक्ष्य पदानुक्रम और रिपोर्टिंग",
+      "type": "mcq",
+      "question_en": "Which referencing style is most widely used in biomedical journals?",
+      "question_hi": "जैव-चिकित्सा पत्रिकाओं में सबसे अधिक प्रयुक्त संदर्भ शैली कौन-सी है?",
+      "options": [
+        {
+          "en": "MLA style",
+          "hi": "MLA शैली"
+        },
+        {
+          "en": "Vancouver style",
+          "hi": "वैंकूवर शैली"
+        },
+        {
+          "en": "Chicago author-date only",
+          "hi": "केवल शिकागो लेखक-तिथि"
+        },
+        {
+          "en": "Harvard style only",
+          "hi": "केवल हार्वर्ड शैली"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "The Vancouver (numbered) style, based on ICMJE recommendations, is standard for most medical journals; references are numbered in order of citation.",
+      "explanation_hi": "ICMJE अनुशंसाओं पर आधारित वैंकूवर (क्रमांकित) शैली अधिकांश चिकित्सा पत्रिकाओं में मानक है; संदर्भ उद्धरण के क्रम में क्रमांकित होते हैं।",
+      "reference": "ICMJE Recommendations",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0022",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-evidence",
+      "topic_en": "Evidence hierarchy and reporting",
+      "topic_hi": "साक्ष्य पदानुक्रम और रिपोर्टिंग",
+      "type": "true_false",
+      "question_en": "True or False: PubMed uses MeSH (Medical Subject Headings) terms to index articles.",
+      "question_hi": "सत्य या असत्य: PubMed लेखों को अनुक्रमित करने के लिए MeSH (मेडिकल सब्जेक्ट हेडिंग्स) शब्दों का उपयोग करता है।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "True. MeSH is the controlled vocabulary of the US National Library of Medicine; searching with MeSH terms retrieves articles indexed under a concept even if different words are used.",
+      "explanation_hi": "सत्य। MeSH अमेरिकी राष्ट्रीय चिकित्सा पुस्तकालय की नियंत्रित शब्दावली है; MeSH से खोजने पर किसी अवधारणा के अंतर्गत अनुक्रमित लेख मिलते हैं, भले ही अलग शब्द प्रयुक्त हों।",
+      "reference": "US National Library of Medicine",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0023",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-ayurveda-research",
+      "topic_en": "Research concepts in Ayurveda",
+      "topic_hi": "आयुर्वेद में शोध अवधारणाएँ",
+      "type": "mcq",
+      "question_en": "Caraka describes four pramāṇas (means of valid knowledge) in Sūtra 11. Which is NOT one of them?",
+      "question_hi": "चरक सूत्र 11 में चार प्रमाण बताते हैं। इनमें से कौन-सा उनमें नहीं है?",
+      "options": [
+        {
+          "en": "Āptopadeśa",
+          "hi": "आप्तोपदेश"
+        },
+        {
+          "en": "Upamāna",
+          "hi": "उपमान"
+        },
+        {
+          "en": "Pratyakṣa",
+          "hi": "प्रत्यक्ष"
+        },
+        {
+          "en": "Yukti",
+          "hi": "युक्ति"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "CS Sū 11: āptopadeśa, pratyakṣa, anumāna and yukti. Upamāna (analogy) is added in the Nyāya list and appears in Caraka's Vimāna 8 among the tools of debate, but not among these four.",
+      "explanation_hi": "चरक सूत्र 11: आप्तोपदेश, प्रत्यक्ष, अनुमान और युक्ति। उपमान न्याय दर्शन की सूची में है और चरक विमान 8 में वाद के साधनों में आता है, पर इन चार में नहीं।",
+      "reference": "CS.sutra.11",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0024",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-ayurveda-research",
+      "topic_en": "Research concepts in Ayurveda",
+      "topic_hi": "आयुर्वेद में शोध अवधारणाएँ",
+      "type": "mcq",
+      "question_en": "How many tantrayuktis (methodological devices for interpreting a text) are listed by Caraka?",
+      "question_hi": "चरक ने कितनी तन्त्रयुक्तियाँ (ग्रंथ की व्याख्या के पद्धतिगत साधन) बताई हैं?",
+      "options": [
+        {
+          "en": "32",
+          "hi": "32"
+        },
+        {
+          "en": "44",
+          "hi": "44"
+        },
+        {
+          "en": "36",
+          "hi": "36"
+        },
+        {
+          "en": "12",
+          "hi": "12"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "Caraka (Si 12) lists 36 tantrayuktis; Suśruta (Utt 65) lists 32. Forty-four is the number of vādamārga padas in CS Vi 8.",
+      "explanation_hi": "चरक (सिद्धि 12) 36 तन्त्रयुक्तियाँ बताते हैं; सुश्रुत (उत्तर 65) 32। चवालीस चरक विमान 8 के वादमार्ग पदों की संख्या है।",
+      "reference": "CS.siddhi.12",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0025",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-ayurveda-research",
+      "topic_en": "Research concepts in Ayurveda",
+      "topic_hi": "आयुर्वेद में शोध अवधारणाएँ",
+      "type": "mcq",
+      "question_en": "How many vādamārga padas (terms used in scientific debate) does Caraka describe in Vimāna 8?",
+      "question_hi": "चरक विमान 8 में कितने वादमार्ग पद (शास्त्रार्थ में प्रयुक्त पद) बताते हैं?",
+      "options": [
+        {
+          "en": "44",
+          "hi": "44"
+        },
+        {
+          "en": "36",
+          "hi": "36"
+        },
+        {
+          "en": "32",
+          "hi": "32"
+        },
+        {
+          "en": "20",
+          "hi": "20"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "CS Vi 8 lists 44 vādamārga padas (vāda, dravya, guṇa, karma ... pratijñā, sthāpanā, pratiṣṭhāpanā, hetu, dṛṣṭānta ... etc.) — an early framework for logical argument and hypothesis testing.",
+      "explanation_hi": "चरक विमान 8 में 44 वादमार्ग पद हैं (वाद, द्रव्य, गुण, कर्म ... प्रतिज्ञा, स्थापना, प्रतिष्ठापना, हेतु, दृष्टान्त आदि) - तार्किक तर्क और परिकल्पना परीक्षण का प्राचीन ढाँचा।",
+      "reference": "CS.vimana.8",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0026",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-ayurveda-research",
+      "topic_en": "Research concepts in Ayurveda",
+      "topic_hi": "आयुर्वेद में शोध अवधारणाएँ",
+      "type": "true_false",
+      "question_en": "True or False: In Caraka's scheme, 'pratijñā' in vāda can be compared with the hypothesis of modern research.",
+      "question_hi": "सत्य या असत्य: चरक की योजना में वाद का 'प्रतिज्ञा' आधुनिक शोध की परिकल्पना (हाइपोथीसिस) से तुलनीय है।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "True. CS Vi 8: pratijñā is the statement of what is to be established; it is followed by sthāpanā (establishment through hetu, dṛṣṭānta, upanaya and nigamana). This parallels stating and testing a hypothesis.",
+      "explanation_hi": "सत्य। चरक विमान 8: प्रतिज्ञा वह कथन है जिसे सिद्ध करना है; इसके बाद स्थापना (हेतु, दृष्टान्त, उपनय और निगमन द्वारा सिद्धि) आती है। यह परिकल्पना रखने और जाँचने के समान है।",
+      "reference": "CS.vimana.8",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0027",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-descriptive",
+      "topic_en": "Descriptive statistics",
+      "topic_hi": "वर्णनात्मक सांख्यिकी",
+      "type": "mcq",
+      "question_en": "What is the median of the values 3, 7, 9, 12, 15?",
+      "question_hi": "मानों 3, 7, 9, 12, 15 की माध्यिका (मीडियन) क्या है?",
+      "options": [
+        {
+          "en": "9.2",
+          "hi": "9.2"
+        },
+        {
+          "en": "7",
+          "hi": "7"
+        },
+        {
+          "en": "12",
+          "hi": "12"
+        },
+        {
+          "en": "9",
+          "hi": "9"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "Arranged in order, the middle (third of five) value is 9. The mean is (3+7+9+12+15)/5 = 46/5 = 9.2 — a common trap.",
+      "explanation_hi": "क्रम में रखने पर बीच का (पाँच में तीसरा) मान 9 है। माध्य (3+7+9+12+15)/5 = 46/5 = 9.2 है - जो प्रायः भ्रम पैदा करता है।",
+      "reference": "Mahajan's Methods in Biostatistics",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0028",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-descriptive",
+      "topic_en": "Descriptive statistics",
+      "topic_hi": "वर्णनात्मक सांख्यिकी",
+      "type": "mcq",
+      "question_en": "Which measure of central tendency is most affected by extreme values (outliers)?",
+      "question_hi": "केन्द्रीय प्रवृत्ति का कौन-सा माप चरम मानों (आउटलायर) से सबसे अधिक प्रभावित होता है?",
+      "options": [
+        {
+          "en": "Median",
+          "hi": "माध्यिका (मीडियन)"
+        },
+        {
+          "en": "Mean",
+          "hi": "माध्य (मीन)"
+        },
+        {
+          "en": "Mode",
+          "hi": "बहुलक (मोड)"
+        },
+        {
+          "en": "All are equally affected",
+          "hi": "सभी समान रूप से"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "The mean uses every value, so a single extreme value pulls it strongly. For skewed data (e.g. hospital stay, income) the median is preferred.",
+      "explanation_hi": "माध्य हर मान का उपयोग करता है, इसलिए एक चरम मान उसे बहुत खींचता है। विषम (स्क्यूड) आँकड़ों (जैसे अस्पताल में ठहराव, आय) के लिए माध्यिका बेहतर है।",
+      "reference": "Mahajan's Methods in Biostatistics",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0029",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-descriptive",
+      "topic_en": "Descriptive statistics",
+      "topic_hi": "वर्णनात्मक सांख्यिकी",
+      "type": "mcq",
+      "question_en": "Standard deviation is the:",
+      "question_hi": "मानक विचलन (SD) क्या है?",
+      "options": [
+        {
+          "en": "Square of the variance",
+          "hi": "प्रसरण का वर्ग"
+        },
+        {
+          "en": "Difference between maximum and minimum",
+          "hi": "अधिकतम और न्यूनतम का अंतर"
+        },
+        {
+          "en": "Mean divided by sample size",
+          "hi": "माध्य को नमूना आकार से भाग"
+        },
+        {
+          "en": "Square root of the variance",
+          "hi": "प्रसरण (वेरिएंस) का वर्गमूल"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "SD = √variance; variance is the average of squared deviations from the mean. The difference between maximum and minimum is the range.",
+      "explanation_hi": "SD = √प्रसरण; प्रसरण माध्य से विचलनों के वर्गों का औसत है। अधिकतम और न्यूनतम का अंतर परास (रेंज) है।",
+      "reference": "Mahajan's Methods in Biostatistics",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0030",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-descriptive",
+      "topic_en": "Descriptive statistics",
+      "topic_hi": "वर्णनात्मक सांख्यिकी",
+      "type": "mcq",
+      "question_en": "In a normal distribution, approximately what percentage of values lie within mean ± 2 SD?",
+      "question_hi": "सामान्य वितरण में लगभग कितने प्रतिशत मान माध्य ± 2 SD के भीतर होते हैं?",
+      "options": [
+        {
+          "en": "68%",
+          "hi": "68%"
+        },
+        {
+          "en": "95%",
+          "hi": "95%"
+        },
+        {
+          "en": "99.7%",
+          "hi": "99.7%"
+        },
+        {
+          "en": "50%",
+          "hi": "50%"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "Empirical rule: about 68% within ±1 SD, about 95% within ±2 SD (exactly 95% within ±1.96 SD), and about 99.7% within ±3 SD.",
+      "explanation_hi": "अनुभवजन्य नियम: लगभग 68% ±1 SD में, लगभग 95% ±2 SD में (ठीक 95% ±1.96 SD में), और लगभग 99.7% ±3 SD में।",
+      "reference": "Mahajan's Methods in Biostatistics",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0031",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-descriptive",
+      "topic_en": "Descriptive statistics",
+      "topic_hi": "वर्णनात्मक सांख्यिकी",
+      "type": "mcq",
+      "question_en": "The coefficient of variation (CV) is calculated as:",
+      "question_hi": "विचरण गुणांक (CV) की गणना कैसे होती है?",
+      "options": [
+        {
+          "en": "(Mean ÷ SD) × 100",
+          "hi": "(माध्य ÷ SD) × 100"
+        },
+        {
+          "en": "SD ÷ √n",
+          "hi": "SD ÷ √n"
+        },
+        {
+          "en": "(SD ÷ mean) × 100",
+          "hi": "(SD ÷ माध्य) × 100"
+        },
+        {
+          "en": "Variance × mean",
+          "hi": "प्रसरण × माध्य"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "CV expresses SD as a percentage of the mean, allowing comparison of variability between variables measured in different units. SD ÷ √n is the standard error.",
+      "explanation_hi": "CV मानक विचलन को माध्य के प्रतिशत के रूप में व्यक्त करता है, जिससे अलग-अलग इकाइयों वाले चरों की परिवर्तनशीलता की तुलना हो सकती है। SD ÷ √n मानक त्रुटि है।",
+      "reference": "Mahajan's Methods in Biostatistics",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0032",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-descriptive",
+      "topic_en": "Descriptive statistics",
+      "topic_hi": "वर्णनात्मक सांख्यिकी",
+      "type": "mcq",
+      "question_en": "The standard error of the mean (SEM) is:",
+      "question_hi": "माध्य की मानक त्रुटि (SEM) क्या है?",
+      "options": [
+        {
+          "en": "SD ÷ √n",
+          "hi": "SD ÷ √n"
+        },
+        {
+          "en": "SD × n",
+          "hi": "SD × n"
+        },
+        {
+          "en": "Variance ÷ n²",
+          "hi": "प्रसरण ÷ n²"
+        },
+        {
+          "en": "Mean ÷ SD",
+          "hi": "माध्य ÷ SD"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "SEM = SD/√n; it measures how precisely the sample mean estimates the population mean and shrinks as sample size increases. It is used to build confidence intervals.",
+      "explanation_hi": "SEM = SD/√n; यह मापता है कि नमूना माध्य जनसंख्या माध्य का कितना सटीक अनुमान है, और नमूना आकार बढ़ने पर घटता है। इससे विश्वास अन्तराल बनाए जाते हैं।",
+      "reference": "Mahajan's Methods in Biostatistics",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0033",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-descriptive",
+      "topic_en": "Descriptive statistics",
+      "topic_hi": "वर्णनात्मक सांख्यिकी",
+      "type": "mcq",
+      "question_en": "Blood group (A, B, AB, O) is an example of which type of variable?",
+      "question_hi": "रक्त समूह (A, B, AB, O) किस प्रकार के चर का उदाहरण है?",
+      "options": [
+        {
+          "en": "Ordinal",
+          "hi": "क्रमिक (ऑर्डिनल)"
+        },
+        {
+          "en": "Interval",
+          "hi": "अन्तराल (इंटरवल)"
+        },
+        {
+          "en": "Nominal",
+          "hi": "नामिक (नॉमिनल)"
+        },
+        {
+          "en": "Ratio",
+          "hi": "अनुपात (रेशियो)"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "Nominal variables are categories without natural order. Ordinal variables have order (e.g. mild/moderate/severe pain); interval and ratio are numerical (ratio has a true zero, e.g. weight).",
+      "explanation_hi": "नामिक चर बिना स्वाभाविक क्रम की श्रेणियाँ हैं। क्रमिक चरों में क्रम होता है (जैसे हल्की/मध्यम/तीव्र पीड़ा); अन्तराल और अनुपात संख्यात्मक हैं (अनुपात में वास्तविक शून्य होता है, जैसे भार)।",
+      "reference": "Mahajan's Methods in Biostatistics",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0034",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-descriptive",
+      "topic_en": "Descriptive statistics",
+      "topic_hi": "वर्णनात्मक सांख्यिकी",
+      "type": "mcq",
+      "question_en": "Which graph is most appropriate for showing the frequency distribution of a continuous variable such as haemoglobin?",
+      "question_hi": "हीमोग्लोबिन जैसे सतत चर का आवृत्ति वितरण दिखाने के लिए कौन-सा ग्राफ़ सबसे उपयुक्त है?",
+      "options": [
+        {
+          "en": "Pie chart",
+          "hi": "पाई चार्ट"
+        },
+        {
+          "en": "Histogram",
+          "hi": "हिस्टोग्राम"
+        },
+        {
+          "en": "Simple bar chart with gaps",
+          "hi": "अंतराल वाला साधारण बार चार्ट"
+        },
+        {
+          "en": "Pictogram",
+          "hi": "चित्रलेख"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "A histogram (adjacent bars without gaps, area proportional to frequency) displays continuous data. Bar charts and pie charts are for categorical data.",
+      "explanation_hi": "हिस्टोग्राम (बिना अंतराल के सटे बार, क्षेत्रफल आवृत्ति के अनुपात में) सतत आँकड़े दिखाता है। बार चार्ट और पाई चार्ट श्रेणीगत आँकड़ों के लिए हैं।",
+      "reference": "Mahajan's Methods in Biostatistics",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0035",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-inferential",
+      "topic_en": "Hypothesis testing, p-value and CI",
+      "topic_hi": "परिकल्पना परीक्षण, p-मान और विश्वास अन्तराल",
+      "type": "mcq",
+      "question_en": "A p-value of 0.03 means:",
+      "question_hi": "p-मान 0.03 का अर्थ है:",
+      "options": [
+        {
+          "en": "If the null hypothesis were true, results at least this extreme would occur about 3% of the time",
+          "hi": "यदि शून्य परिकल्पना सत्य हो, तो इतने या अधिक चरम परिणाम लगभग 3% बार आएँगे"
+        },
+        {
+          "en": "There is a 3% chance that the null hypothesis is true",
+          "hi": "शून्य परिकल्पना के सत्य होने की 3% संभावना है"
+        },
+        {
+          "en": "The treatment works in 97% of patients",
+          "hi": "उपचार 97% रोगियों में काम करता है"
+        },
+        {
+          "en": "The effect size is 3%",
+          "hi": "प्रभाव का आकार 3% है"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "The p-value is the probability of obtaining results as extreme as observed (or more), assuming H0 is true. It is not the probability that H0 is true, nor a measure of effect size or clinical importance.",
+      "explanation_hi": "p-मान वह प्रायिकता है कि H0 सत्य मानने पर देखे गए (या अधिक) चरम परिणाम आएँ। यह H0 के सत्य होने की प्रायिकता नहीं है, न ही प्रभाव का आकार या नैदानिक महत्व।",
+      "reference": "Mahajan's Methods in Biostatistics",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0036",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-inferential",
+      "topic_en": "Hypothesis testing, p-value and CI",
+      "topic_hi": "परिकल्पना परीक्षण, p-मान और विश्वास अन्तराल",
+      "type": "mcq",
+      "question_en": "A Type I error (α error) is:",
+      "question_hi": "टाइप I त्रुटि (α त्रुटि) क्या है?",
+      "options": [
+        {
+          "en": "Accepting a false null hypothesis (false negative)",
+          "hi": "असत्य शून्य परिकल्पना को स्वीकार करना (मिथ्या ऋणात्मक)"
+        },
+        {
+          "en": "Using the wrong statistical test",
+          "hi": "गलत सांख्यिकीय परीक्षण का उपयोग"
+        },
+        {
+          "en": "A calculation mistake",
+          "hi": "गणना की गलती"
+        },
+        {
+          "en": "Rejecting a true null hypothesis (false positive)",
+          "hi": "सत्य शून्य परिकल्पना को अस्वीकार करना (मिथ्या धनात्मक)"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "Type I (α): concluding there is a difference when there is none. Type II (β): missing a real difference. Power = 1 − β.",
+      "explanation_hi": "टाइप I (α): अंतर न होने पर भी अंतर मान लेना। टाइप II (β): वास्तविक अंतर को न पकड़ पाना। शक्ति (पावर) = 1 − β।",
+      "reference": "Mahajan's Methods in Biostatistics",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0037",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-inferential",
+      "topic_en": "Hypothesis testing, p-value and CI",
+      "topic_hi": "परिकल्पना परीक्षण, p-मान और विश्वास अन्तराल",
+      "type": "mcq",
+      "question_en": "The power of a study is defined as:",
+      "question_hi": "किसी अध्ययन की शक्ति (पावर) की परिभाषा है:",
+      "options": [
+        {
+          "en": "1 − β, the probability of detecting a true difference",
+          "hi": "1 − β, वास्तविक अंतर पकड़ने की प्रायिकता"
+        },
+        {
+          "en": "1 − α",
+          "hi": "1 − α"
+        },
+        {
+          "en": "α ÷ β",
+          "hi": "α ÷ β"
+        },
+        {
+          "en": "The p-value multiplied by 100",
+          "hi": "p-मान × 100"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "Power = 1 − β, usually set at 80% or 90%. 1 − α is the confidence level (e.g. 95%).",
+      "explanation_hi": "शक्ति = 1 − β, प्रायः 80% या 90% रखी जाती है। 1 − α विश्वास स्तर (जैसे 95%) है।",
+      "reference": "Mahajan's Methods in Biostatistics",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0038",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-inferential",
+      "topic_en": "Hypothesis testing, p-value and CI",
+      "topic_hi": "परिकल्पना परीक्षण, p-मान और विश्वास अन्तराल",
+      "type": "mcq",
+      "question_en": "The 95% confidence interval for a relative risk is 0.8 to 1.6. What can be concluded?",
+      "question_hi": "सापेक्ष जोखिम का 95% विश्वास अन्तराल 0.8 से 1.6 है। क्या निष्कर्ष निकलता है?",
+      "options": [
+        {
+          "en": "The association is not statistically significant at the 5% level",
+          "hi": "5% स्तर पर सम्बन्ध सांख्यिकीय रूप से सार्थक नहीं है"
+        },
+        {
+          "en": "The exposure definitely increases risk",
+          "hi": "जोखिम कारक निश्चित रूप से जोखिम बढ़ाता है"
+        },
+        {
+          "en": "The exposure is protective",
+          "hi": "जोखिम कारक सुरक्षात्मक है"
+        },
+        {
+          "en": "The sample size was too large",
+          "hi": "नमूना आकार बहुत बड़ा था"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "For ratios (RR, OR), the 'no effect' value is 1. A 95% CI that includes 1 corresponds to p > 0.05, so the result is not significant. For differences in means the no-effect value is 0.",
+      "explanation_hi": "अनुपातों (RR, OR) के लिए 'कोई प्रभाव नहीं' का मान 1 है। 1 को शामिल करने वाला 95% CI p > 0.05 के अनुरूप है, इसलिए परिणाम सार्थक नहीं। माध्यों के अंतर में 'कोई प्रभाव नहीं' का मान 0 है।",
+      "reference": "Mahajan's Methods in Biostatistics",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0039",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-inferential",
+      "topic_en": "Hypothesis testing, p-value and CI",
+      "topic_hi": "परिकल्पना परीक्षण, p-मान और विश्वास अन्तराल",
+      "type": "true_false",
+      "question_en": "True or False: The null hypothesis states that there is a significant difference between the groups being compared.",
+      "question_hi": "सत्य या असत्य: शून्य परिकल्पना यह कहती है कि तुलना किए जा रहे समूहों के बीच सार्थक अंतर है।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "False. The null hypothesis (H0) states that there is no difference or no association; the alternative hypothesis (H1) states that a difference exists. Tests assess whether the data give enough evidence to reject H0.",
+      "explanation_hi": "असत्य। शून्य परिकल्पना (H0) कहती है कि कोई अंतर या सम्बन्ध नहीं है; वैकल्पिक परिकल्पना (H1) कहती है कि अंतर है। परीक्षण आँकते हैं कि क्या आँकड़े H0 को अस्वीकार करने के लिए पर्याप्त प्रमाण देते हैं।",
+      "reference": "Mahajan's Methods in Biostatistics",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0040",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-tests",
+      "topic_en": "Statistical tests",
+      "topic_hi": "सांख्यिकीय परीक्षण",
+      "type": "mcq",
+      "question_en": "Which test is used to compare the mean blood glucose of the same patients before and after an Ayurvedic intervention?",
+      "question_hi": "एक ही रोगियों में आयुर्वेदिक हस्तक्षेप से पहले और बाद के माध्य रक्त ग्लूकोज़ की तुलना के लिए कौन-सा परीक्षण प्रयुक्त होता है?",
+      "options": [
+        {
+          "en": "Unpaired t-test",
+          "hi": "अयुग्मित t-परीक्षण"
+        },
+        {
+          "en": "Chi-square test",
+          "hi": "काई-वर्ग परीक्षण"
+        },
+        {
+          "en": "One-way ANOVA",
+          "hi": "वन-वे ANOVA"
+        },
+        {
+          "en": "Paired t-test",
+          "hi": "युग्मित (पेयर्ड) t-परीक्षण"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "Before-after measurements on the same subjects are dependent, so the paired t-test (for normally distributed differences) is used. The unpaired t-test compares two independent groups; chi-square is for categorical data.",
+      "explanation_hi": "एक ही व्यक्तियों पर पहले-बाद के मापन आश्रित हैं, इसलिए युग्मित t-परीक्षण (सामान्य वितरित अंतरों के लिए) प्रयुक्त होता है। अयुग्मित t-परीक्षण दो स्वतंत्र समूहों की तुलना करता है; काई-वर्ग श्रेणीगत आँकड़ों के लिए है।",
+      "reference": "Mahajan's Methods in Biostatistics",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0041",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-tests",
+      "topic_en": "Statistical tests",
+      "topic_hi": "सांख्यिकीय परीक्षण",
+      "type": "mcq",
+      "question_en": "To test the association between two categorical variables (e.g. prakṛti type and presence of disease), the usual test is:",
+      "question_hi": "दो श्रेणीगत चरों (जैसे प्रकृति प्रकार और रोग की उपस्थिति) के बीच सम्बन्ध जाँचने के लिए सामान्य परीक्षण है:",
+      "options": [
+        {
+          "en": "Chi-square test",
+          "hi": "काई-वर्ग परीक्षण"
+        },
+        {
+          "en": "Paired t-test",
+          "hi": "युग्मित t-परीक्षण"
+        },
+        {
+          "en": "Pearson's correlation",
+          "hi": "पियर्सन सहसम्बन्ध"
+        },
+        {
+          "en": "ANOVA",
+          "hi": "ANOVA"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "The chi-square test compares observed with expected frequencies in a contingency table. Pearson's correlation is for two continuous variables; t-test and ANOVA compare means.",
+      "explanation_hi": "काई-वर्ग परीक्षण आसंग सारणी में प्रेक्षित और अपेक्षित आवृत्तियों की तुलना करता है। पियर्सन सहसम्बन्ध दो सतत चरों के लिए है; t-परीक्षण और ANOVA माध्यों की तुलना करते हैं।",
+      "reference": "Mahajan's Methods in Biostatistics",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0042",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-tests",
+      "topic_en": "Statistical tests",
+      "topic_hi": "सांख्यिकीय परीक्षण",
+      "type": "mcq",
+      "question_en": "In a 2×2 table, if an expected cell frequency is less than 5, which test is preferred over the chi-square test?",
+      "question_hi": "2×2 सारणी में यदि किसी कोष्ठ की अपेक्षित आवृत्ति 5 से कम हो, तो काई-वर्ग के स्थान पर कौन-सा परीक्षण बेहतर है?",
+      "options": [
+        {
+          "en": "Student's t-test",
+          "hi": "स्टूडेंट t-परीक्षण"
+        },
+        {
+          "en": "Mann-Whitney U test",
+          "hi": "मान-व्हिटनी U परीक्षण"
+        },
+        {
+          "en": "Kruskal-Wallis test",
+          "hi": "क्रुस्कल-वालिस परीक्षण"
+        },
+        {
+          "en": "Fisher's exact test",
+          "hi": "फ़िशर का यथार्थ परीक्षण"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "The chi-square approximation is unreliable with small expected counts; Fisher's exact test computes the exact probability. (Yates' continuity correction is an alternative for borderline cases.)",
+      "explanation_hi": "कम अपेक्षित संख्या होने पर काई-वर्ग का अनुमान अविश्वसनीय होता है; फ़िशर का यथार्थ परीक्षण ठीक प्रायिकता निकालता है। (सीमा वाले मामलों में येट्स सुधार भी विकल्प है।)",
+      "reference": "Mahajan's Methods in Biostatistics",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0043",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-tests",
+      "topic_en": "Statistical tests",
+      "topic_hi": "सांख्यिकीय परीक्षण",
+      "type": "mcq",
+      "question_en": "To compare the means of three or more independent groups, which test is used?",
+      "question_hi": "तीन या अधिक स्वतंत्र समूहों के माध्यों की तुलना के लिए कौन-सा परीक्षण प्रयुक्त होता है?",
+      "options": [
+        {
+          "en": "Paired t-test",
+          "hi": "युग्मित t-परीक्षण"
+        },
+        {
+          "en": "One-way ANOVA",
+          "hi": "वन-वे ANOVA"
+        },
+        {
+          "en": "Chi-square test",
+          "hi": "काई-वर्ग परीक्षण"
+        },
+        {
+          "en": "Wilcoxon signed-rank test",
+          "hi": "विलकॉक्सन साइन्ड-रैंक परीक्षण"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "ANOVA (F-test) compares means across ≥3 groups while controlling the overall Type I error; repeated t-tests would inflate α. Its non-parametric counterpart is the Kruskal-Wallis test.",
+      "explanation_hi": "ANOVA (F-परीक्षण) ≥3 समूहों के माध्यों की तुलना करता है और कुल टाइप I त्रुटि नियंत्रित रखता है; बार-बार t-परीक्षण करने से α बढ़ता है। इसका अप्राचलिक समकक्ष क्रुस्कल-वालिस परीक्षण है।",
+      "reference": "Mahajan's Methods in Biostatistics",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0044",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-tests",
+      "topic_en": "Statistical tests",
+      "topic_hi": "सांख्यिकीय परीक्षण",
+      "type": "mcq",
+      "question_en": "The non-parametric alternative to the unpaired (independent samples) t-test is the:",
+      "question_hi": "अयुग्मित (स्वतंत्र नमूने) t-परीक्षण का अप्राचलिक (नॉन-पैरामीट्रिक) विकल्प है:",
+      "options": [
+        {
+          "en": "Wilcoxon signed-rank test",
+          "hi": "विलकॉक्सन साइन्ड-रैंक परीक्षण"
+        },
+        {
+          "en": "Mann-Whitney U test",
+          "hi": "मान-व्हिटनी U परीक्षण"
+        },
+        {
+          "en": "Kruskal-Wallis test",
+          "hi": "क्रुस्कल-वालिस परीक्षण"
+        },
+        {
+          "en": "Friedman test",
+          "hi": "फ़्रीडमैन परीक्षण"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "Mann-Whitney U (Wilcoxon rank-sum) compares two independent groups for ordinal or non-normal data. Wilcoxon signed-rank is the alternative to the paired t-test; Kruskal-Wallis to one-way ANOVA; Friedman to repeated-measures ANOVA.",
+      "explanation_hi": "मान-व्हिटनी U (विलकॉक्सन रैंक-सम) क्रमिक या असामान्य आँकड़ों में दो स्वतंत्र समूहों की तुलना करता है। विलकॉक्सन साइन्ड-रैंक युग्मित t-परीक्षण का, क्रुस्कल-वालिस वन-वे ANOVA का और फ़्रीडमैन दोहराए मापन ANOVA का विकल्प है।",
+      "reference": "Mahajan's Methods in Biostatistics",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0045",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-tests",
+      "topic_en": "Statistical tests",
+      "topic_hi": "सांख्यिकीय परीक्षण",
+      "type": "mcq",
+      "question_en": "The Pearson correlation coefficient (r) ranges between:",
+      "question_hi": "पियर्सन सहसम्बन्ध गुणांक (r) का मान किस सीमा में होता है?",
+      "options": [
+        {
+          "en": "0 and 1",
+          "hi": "0 और 1"
+        },
+        {
+          "en": "0 and 100",
+          "hi": "0 और 100"
+        },
+        {
+          "en": "−∞ and +∞",
+          "hi": "−∞ और +∞"
+        },
+        {
+          "en": "−1 and +1",
+          "hi": "−1 और +1"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "r = +1 is perfect positive, −1 perfect negative, 0 no linear relationship. Correlation does not imply causation.",
+      "explanation_hi": "r = +1 पूर्ण धनात्मक, −1 पूर्ण ऋणात्मक, 0 कोई रैखिक सम्बन्ध नहीं। सहसम्बन्ध से कारणता सिद्ध नहीं होती।",
+      "reference": "Mahajan's Methods in Biostatistics",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0046",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-diagnostic",
+      "topic_en": "Diagnostic test evaluation",
+      "topic_hi": "नैदानिक परीक्षण मूल्यांकन",
+      "type": "mcq",
+      "question_en": "A new test correctly identifies 80 of 100 people who have a disease. Its sensitivity is:",
+      "question_hi": "एक नया परीक्षण रोगग्रस्त 100 में से 80 लोगों को सही पहचानता है। इसकी संवेदनशीलता कितनी है?",
+      "options": [
+        {
+          "en": "20%",
+          "hi": "20%"
+        },
+        {
+          "en": "80%",
+          "hi": "80%"
+        },
+        {
+          "en": "100%",
+          "hi": "100%"
+        },
+        {
+          "en": "Cannot be determined without healthy subjects",
+          "hi": "स्वस्थ व्यक्तियों के बिना निर्धारित नहीं"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "Sensitivity = TP ÷ (TP + FN) = 80 ÷ 100 = 80%. It is calculated only among those who have the disease; specificity needs data on those without the disease.",
+      "explanation_hi": "संवेदनशीलता = TP ÷ (TP + FN) = 80 ÷ 100 = 80%। यह केवल रोगग्रस्त लोगों में निकाली जाती है; विशिष्टता के लिए रोगरहित लोगों के आँकड़े चाहिए।",
+      "reference": "Park's Textbook of Preventive and Social Medicine",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0047",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-diagnostic",
+      "topic_en": "Diagnostic test evaluation",
+      "topic_hi": "नैदानिक परीक्षण मूल्यांकन",
+      "type": "mcq",
+      "question_en": "Specificity of a diagnostic test is defined as:",
+      "question_hi": "नैदानिक परीक्षण की विशिष्टता (स्पेसिफ़िसिटी) की परिभाषा है:",
+      "options": [
+        {
+          "en": "TP ÷ (TP + FN)",
+          "hi": "TP ÷ (TP + FN)"
+        },
+        {
+          "en": "TP ÷ (TP + FP)",
+          "hi": "TP ÷ (TP + FP)"
+        },
+        {
+          "en": "TN ÷ (TN + FN)",
+          "hi": "TN ÷ (TN + FN)"
+        },
+        {
+          "en": "TN ÷ (TN + FP)",
+          "hi": "TN ÷ (TN + FP)"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "Specificity = true negatives among all without disease. TP/(TP+FN) is sensitivity, TP/(TP+FP) is positive predictive value, and TN/(TN+FN) is negative predictive value.",
+      "explanation_hi": "विशिष्टता = सभी रोगरहित लोगों में सत्य ऋणात्मक। TP/(TP+FN) संवेदनशीलता, TP/(TP+FP) धनात्मक पूर्वानुमान मान, और TN/(TN+FN) ऋणात्मक पूर्वानुमान मान है।",
+      "reference": "Park's Textbook of Preventive and Social Medicine",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0048",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-diagnostic",
+      "topic_en": "Diagnostic test evaluation",
+      "topic_hi": "नैदानिक परीक्षण मूल्यांकन",
+      "type": "mcq",
+      "question_en": "When the prevalence of a disease in the tested population increases, what happens to the positive predictive value (PPV) of a test with fixed sensitivity and specificity?",
+      "question_hi": "परीक्षित जनसंख्या में रोग का प्रसार बढ़ने पर, स्थिर संवेदनशीलता और विशिष्टता वाले परीक्षण के धनात्मक पूर्वानुमान मान (PPV) का क्या होता है?",
+      "options": [
+        {
+          "en": "PPV increases",
+          "hi": "PPV बढ़ता है"
+        },
+        {
+          "en": "PPV decreases",
+          "hi": "PPV घटता है"
+        },
+        {
+          "en": "PPV stays the same",
+          "hi": "PPV समान रहता है"
+        },
+        {
+          "en": "PPV becomes zero",
+          "hi": "PPV शून्य हो जाता है"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "Predictive values depend on prevalence: higher prevalence raises PPV and lowers NPV. Sensitivity and specificity are properties of the test and do not change with prevalence.",
+      "explanation_hi": "पूर्वानुमान मान प्रसार पर निर्भर हैं: अधिक प्रसार से PPV बढ़ता है और NPV घटता है। संवेदनशीलता और विशिष्टता परीक्षण के गुण हैं और प्रसार से नहीं बदलते।",
+      "reference": "Park's Textbook of Preventive and Social Medicine",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0049",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-diagnostic",
+      "topic_en": "Diagnostic test evaluation",
+      "topic_hi": "नैदानिक परीक्षण मूल्यांकन",
+      "type": "mcq",
+      "question_en": "If a treatment reduces the risk of an adverse outcome from 15% to 10%, the number needed to treat (NNT) is:",
+      "question_hi": "यदि कोई उपचार प्रतिकूल परिणाम का जोखिम 15% से 10% कर देता है, तो NNT कितना है?",
+      "options": [
+        {
+          "en": "20",
+          "hi": "20"
+        },
+        {
+          "en": "5",
+          "hi": "5"
+        },
+        {
+          "en": "10",
+          "hi": "10"
+        },
+        {
+          "en": "50",
+          "hi": "50"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "Absolute risk reduction = 15% − 10% = 5% = 0.05; NNT = 1/ARR = 1/0.05 = 20. Relative risk reduction would be 5/15 ≈ 33%.",
+      "explanation_hi": "निरपेक्ष जोखिम कमी = 15% − 10% = 5% = 0.05; NNT = 1/ARR = 1/0.05 = 20। सापेक्ष जोखिम कमी 5/15 ≈ 33% होगी।",
+      "reference": "Oxford CEBM",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0050",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-ethics",
+      "topic_en": "Research ethics",
+      "topic_hi": "शोध नैतिकता",
+      "type": "mcq",
+      "question_en": "The Declaration of Helsinki on ethical principles for medical research involving human subjects was issued by:",
+      "question_hi": "मानव प्रतिभागियों वाले चिकित्सा शोध के नैतिक सिद्धांतों पर हेलसिंकी घोषणा किसने जारी की?",
+      "options": [
+        {
+          "en": "WHO (1948)",
+          "hi": "WHO (1948)"
+        },
+        {
+          "en": "Nuremberg Tribunal (1947)",
+          "hi": "न्यूरेमबर्ग अधिकरण (1947)"
+        },
+        {
+          "en": "World Medical Association (1964)",
+          "hi": "विश्व चिकित्सा संघ (1964)"
+        },
+        {
+          "en": "ICMR (2017)",
+          "hi": "ICMR (2017)"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "The WMA adopted the Declaration of Helsinki in 1964 and has revised it several times. The Nuremberg Code (1947) arose from the trials of Nazi doctors.",
+      "explanation_hi": "विश्व चिकित्सा संघ ने 1964 में हेलसिंकी घोषणा अपनाई और कई बार संशोधित की। न्यूरेमबर्ग संहिता (1947) नाज़ी डॉक्टरों के मुकदमों से उत्पन्न हुई।",
+      "reference": "WMA Declaration of Helsinki",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0051",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-ethics",
+      "topic_en": "Research ethics",
+      "topic_hi": "शोध नैतिकता",
+      "type": "mcq",
+      "question_en": "The three basic ethical principles of the Belmont Report are:",
+      "question_hi": "बेलमोंट रिपोर्ट के तीन मूल नैतिक सिद्धांत हैं:",
+      "options": [
+        {
+          "en": "Randomisation, blinding and control",
+          "hi": "यादृच्छिकीकरण, अंधापन और नियंत्रण"
+        },
+        {
+          "en": "Validity, reliability and feasibility",
+          "hi": "वैधता, विश्वसनीयता और व्यवहार्यता"
+        },
+        {
+          "en": "Respect for persons, beneficence and justice",
+          "hi": "व्यक्तियों का सम्मान, हितकारिता और न्याय"
+        },
+        {
+          "en": "Confidentiality, compensation and publication",
+          "hi": "गोपनीयता, क्षतिपूर्ति और प्रकाशन"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "Belmont Report (1979): respect for persons (informed consent, protection of vulnerable), beneficence (maximise benefit, minimise harm) and justice (fair selection and distribution of burdens/benefits). ICMR guidelines build on similar principles.",
+      "explanation_hi": "बेलमोंट रिपोर्ट (1979): व्यक्तियों का सम्मान (सूचित सहमति, कमज़ोर वर्गों की सुरक्षा), हितकारिता (लाभ अधिकतम, हानि न्यूनतम) और न्याय (निष्पक्ष चयन और भार/लाभ का वितरण)। ICMR दिशानिर्देश भी ऐसे ही सिद्धांतों पर आधारित हैं।",
+      "reference": "Belmont Report (1979)",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0052",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-ethics",
+      "topic_en": "Research ethics",
+      "topic_hi": "शोध नैतिकता",
+      "type": "mcq",
+      "question_en": "India's current national ethical guidelines for biomedical and health research involving human participants were issued by ICMR in:",
+      "question_hi": "मानव प्रतिभागियों वाले जैव-चिकित्सा और स्वास्थ्य शोध के लिए भारत के वर्तमान राष्ट्रीय नैतिक दिशानिर्देश ICMR ने किस वर्ष जारी किए?",
+      "options": [
+        {
+          "en": "2000",
+          "hi": "2000"
+        },
+        {
+          "en": "1980",
+          "hi": "1980"
+        },
+        {
+          "en": "2023",
+          "hi": "2023"
+        },
+        {
+          "en": "2017",
+          "hi": "2017"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "ICMR's 'National Ethical Guidelines for Biomedical and Health Research Involving Human Participants' (2017) replaced the 2006 guidelines.",
+      "explanation_hi": "ICMR के 'मानव प्रतिभागियों वाले जैव-चिकित्सा और स्वास्थ्य शोध के लिए राष्ट्रीय नैतिक दिशानिर्देश' (2017) ने 2006 के दिशानिर्देशों का स्थान लिया।",
+      "reference": "ICMR National Ethical Guidelines, 2017",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0053",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-ethics",
+      "topic_en": "Research ethics",
+      "topic_hi": "शोध नैतिकता",
+      "type": "mcq",
+      "question_en": "Under India's New Drugs and Clinical Trials Rules, 2019, an ethics committee reviewing clinical trials must be registered with:",
+      "question_hi": "भारत के नए औषधि और क्लिनिकल ट्रायल नियम, 2019 के अंतर्गत क्लिनिकल ट्रायल की समीक्षा करने वाली आचार समिति का पंजीकरण किसके साथ होना चाहिए?",
+      "options": [
+        {
+          "en": "The World Health Organization",
+          "hi": "विश्व स्वास्थ्य संगठन"
+        },
+        {
+          "en": "The Central Licensing Authority (CDSCO)",
+          "hi": "केन्द्रीय लाइसेंसिंग प्राधिकरण (CDSCO)"
+        },
+        {
+          "en": "The National Medical Commission only",
+          "hi": "केवल राष्ट्रीय चिकित्सा आयोग"
+        },
+        {
+          "en": "The State Pharmacy Council",
+          "hi": "राज्य फार्मेसी परिषद"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "NDCT Rules 2019 require ethics committees for clinical trials to be registered with the Central Licensing Authority (DCGI/CDSCO). Committees reviewing other biomedical/health research register with the Department of Health Research.",
+      "explanation_hi": "NDCT नियम 2019 के अनुसार क्लिनिकल ट्रायल की आचार समितियों का केन्द्रीय लाइसेंसिंग प्राधिकरण (DCGI/CDSCO) में पंजीकरण आवश्यक है। अन्य जैव-चिकित्सा/स्वास्थ्य शोध की समीक्षा करने वाली समितियाँ स्वास्थ्य अनुसंधान विभाग में पंजीकृत होती हैं।",
+      "reference": "New Drugs and Clinical Trials Rules, 2019",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0054",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-ethics",
+      "topic_en": "Research ethics",
+      "topic_hi": "शोध नैतिकता",
+      "type": "true_false",
+      "question_en": "True or False: Once a participant signs the informed consent form, he or she cannot withdraw from the study.",
+      "question_hi": "सत्य या असत्य: एक बार सूचित सहमति पत्र पर हस्ताक्षर करने के बाद प्रतिभागी अध्ययन से हट नहीं सकता।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "False. Participation is voluntary, and participants may withdraw at any time without penalty or loss of benefits to which they are otherwise entitled — a core element of informed consent (Helsinki, ICMR 2017).",
+      "explanation_hi": "असत्य। भागीदारी स्वैच्छिक है, और प्रतिभागी किसी भी समय बिना दंड या अन्य हकदार लाभों की हानि के हट सकते हैं - यह सूचित सहमति का मूल तत्व है (हेलसिंकी, ICMR 2017)।",
+      "reference": "ICMR National Ethical Guidelines, 2017",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0055",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-registration-gcp",
+      "topic_en": "CTRI registration and GCP",
+      "topic_hi": "CTRI पंजीकरण और GCP",
+      "type": "mcq",
+      "question_en": "The Clinical Trials Registry – India (CTRI) is hosted by:",
+      "question_hi": "भारत की क्लिनिकल ट्रायल रजिस्ट्री (CTRI) किसके द्वारा संचालित है?",
+      "options": [
+        {
+          "en": "Ministry of AYUSH",
+          "hi": "आयुष मंत्रालय"
+        },
+        {
+          "en": "ICMR – National Institute of Medical Statistics",
+          "hi": "ICMR - राष्ट्रीय चिकित्सा सांख्यिकी संस्थान"
+        },
+        {
+          "en": "WHO headquarters, Geneva",
+          "hi": "WHO मुख्यालय, जिनेवा"
+        },
+        {
+          "en": "National Medical Commission",
+          "hi": "राष्ट्रीय चिकित्सा आयोग"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "CTRI was set up at ICMR's National Institute of Medical Statistics (NIMS), New Delhi, launched in 2007, and is a WHO ICTRP primary register. Trial registration in CTRI has been mandatory since 2009.",
+      "explanation_hi": "CTRI ICMR के राष्ट्रीय चिकित्सा सांख्यिकी संस्थान (NIMS), नई दिल्ली में स्थापित है, 2007 में आरम्भ हुई और WHO ICTRP की प्राथमिक रजिस्ट्री है। CTRI में ट्रायल पंजीकरण 2009 से अनिवार्य है।",
+      "reference": "CTRI (ctri.nic.in)",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0056",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-registration-gcp",
+      "topic_en": "CTRI registration and GCP",
+      "topic_hi": "CTRI पंजीकरण और GCP",
+      "type": "true_false",
+      "question_en": "True or False: CTRI requires clinical trials to be registered prospectively, i.e. before the first participant is enrolled.",
+      "question_hi": "सत्य या असत्य: CTRI के अनुसार क्लिनिकल ट्रायल का पंजीकरण भावी रूप से, अर्थात् पहले प्रतिभागी के नामांकन से पहले, होना चाहिए।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "True. CTRI now accepts trials for prospective registration (before enrolment of the first participant), in line with ICMJE and WHO requirements; retrospective registration is no longer the norm.",
+      "explanation_hi": "सत्य। CTRI अब ICMJE और WHO की अपेक्षाओं के अनुरूप ट्रायल का भावी पंजीकरण (पहले प्रतिभागी के नामांकन से पहले) स्वीकार करती है; पूर्वव्यापी पंजीकरण अब मानक नहीं है।",
+      "reference": "CTRI (ctri.nic.in)",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0057",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-registration-gcp",
+      "topic_en": "CTRI registration and GCP",
+      "topic_hi": "CTRI पंजीकरण और GCP",
+      "type": "mcq",
+      "question_en": "The internationally accepted guideline for Good Clinical Practice is:",
+      "question_hi": "गुड क्लिनिकल प्रैक्टिस (GCP) के लिए अन्तर्राष्ट्रीय रूप से स्वीकृत दिशानिर्देश कौन-सा है?",
+      "options": [
+        {
+          "en": "ICH E6",
+          "hi": "ICH E6"
+        },
+        {
+          "en": "ISO 9001",
+          "hi": "ISO 9001"
+        },
+        {
+          "en": "CONSORT",
+          "hi": "CONSORT"
+        },
+        {
+          "en": "PRISMA",
+          "hi": "PRISMA"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "ICH E6 (now revised as E6(R3)) defines GCP for designing, conducting, recording and reporting trials. CONSORT and PRISMA are reporting guidelines; ISO 9001 is a quality-management standard.",
+      "explanation_hi": "ICH E6 (अब E6(R3) के रूप में संशोधित) ट्रायल के अभिकल्प, संचालन, अभिलेखन और रिपोर्टिंग के लिए GCP निर्धारित करता है। CONSORT और PRISMA रिपोर्टिंग दिशानिर्देश हैं; ISO 9001 गुणवत्ता प्रबंधन मानक है।",
+      "reference": "ICH E6 Good Clinical Practice",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0058",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-registration-gcp",
+      "topic_en": "CTRI registration and GCP",
+      "topic_hi": "CTRI पंजीकरण और GCP",
+      "type": "mcq",
+      "question_en": "Good Clinical Practice guidelines specific to Ayurveda, Siddha and Unani drugs (GCP-ASU) were issued by the Department of AYUSH in:",
+      "question_hi": "आयुर्वेद, सिद्ध और यूनानी औषधियों के लिए विशिष्ट गुड क्लिनिकल प्रैक्टिस दिशानिर्देश (GCP-ASU) आयुष विभाग ने किस वर्ष जारी किए?",
+      "options": [
+        {
+          "en": "2001",
+          "hi": "2001"
+        },
+        {
+          "en": "1995",
+          "hi": "1995"
+        },
+        {
+          "en": "2013",
+          "hi": "2013"
+        },
+        {
+          "en": "2020",
+          "hi": "2020"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "The Department of AYUSH issued 'Good Clinical Practice Guidelines for Clinical Trials in Ayurveda, Siddha and Unani Medicine (GCP-ASU)' in 2013. CDSCO's general Indian GCP guidelines date from 2001.",
+      "explanation_hi": "आयुष विभाग ने 2013 में 'आयुर्वेद, सिद्ध और यूनानी चिकित्सा में क्लिनिकल ट्रायल के लिए गुड क्लिनिकल प्रैक्टिस दिशानिर्देश (GCP-ASU)' जारी किए। CDSCO के सामान्य भारतीय GCP दिशानिर्देश 2001 के हैं।",
+      "reference": "GCP-ASU, Department of AYUSH, 2013",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0059",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-descriptive",
+      "topic_en": "Descriptive statistics",
+      "topic_hi": "वर्णनात्मक सांख्यिकी",
+      "type": "mcq",
+      "question_en": "What is the mode of the values 2, 3, 3, 5, 7?",
+      "question_hi": "मानों 2, 3, 3, 5, 7 का बहुलक (मोड) क्या है?",
+      "options": [
+        {
+          "en": "4",
+          "hi": "4"
+        },
+        {
+          "en": "3",
+          "hi": "3"
+        },
+        {
+          "en": "5",
+          "hi": "5"
+        },
+        {
+          "en": "2",
+          "hi": "2"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "The mode is the most frequently occurring value — 3 appears twice. The mean here is 4 and the median is 3; the mode is useful for nominal data too.",
+      "explanation_hi": "बहुलक सबसे अधिक बार आने वाला मान है - 3 दो बार आता है। यहाँ माध्य 4 और माध्यिका 3 है; बहुलक नामिक आँकड़ों के लिए भी उपयोगी है।",
+      "reference": "Mahajan's Methods in Biostatistics",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RM-0060",
+      "subject_id": "AyUG-RM",
+      "topic_id": "rm-descriptive",
+      "topic_en": "Descriptive statistics",
+      "topic_hi": "वर्णनात्मक सांख्यिकी",
+      "type": "mcq",
+      "question_en": "In a survey of 1000 people, 50 are found to have a disease at the time of the survey. The point prevalence is:",
+      "question_hi": "1000 लोगों के सर्वेक्षण में सर्वेक्षण के समय 50 लोगों में रोग पाया गया। बिन्दु प्रसार (पॉइंट प्रिवेलेंस) कितना है?",
+      "options": [
+        {
+          "en": "50%",
+          "hi": "50%"
+        },
+        {
+          "en": "0.5%",
+          "hi": "0.5%"
+        },
+        {
+          "en": "5%",
+          "hi": "5%"
+        },
+        {
+          "en": "20%",
+          "hi": "20%"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "Point prevalence = existing cases ÷ population at that time = 50 ÷ 1000 = 0.05 = 5% (or 50 per 1000). Incidence would count only new cases over a period.",
+      "explanation_hi": "बिन्दु प्रसार = उस समय मौजूद रोगी ÷ जनसंख्या = 50 ÷ 1000 = 0.05 = 5% (या 50 प्रति 1000)। आपतन में केवल किसी अवधि के नए रोगी गिने जाते हैं।",
+      "reference": "Park's Textbook of Preventive and Social Medicine",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    }
+  ]
+}

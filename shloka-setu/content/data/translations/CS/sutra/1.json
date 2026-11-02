@@ -46,7 +46,7 @@
    "सामान्य-विशेष (1.44-45), त्रिदण्ड (1.46), नौ द्रव्य (1.48), द्रव्य, गुण, कर्म, समवाय की परिभाषाएँ (1.49-52), प्रयोजन धातुसाम्य (1.53), त्रिविध हेतु (1.54), दोषों के गुण (1.57-61), रस-दोष तालिका (1.66), द्रव्य वर्गीकरण और संख्याएँ (1.67-118), 'यथा विषं यथा शस्त्रम्' (1.124)।"
   ],
   "syllabus_refs": [
-   "AyUG-SA2"
+   "AyUG-SA1"
   ],
   "review_status": "ai_draft"
  },
@@ -787,7 +787,7 @@
    "english": "Viśvāmitra and Āśmarathya, Bhārgava Cyavana, Abhijit, Gārgya, Śāṇḍilya and Kauṇḍinya, Vārkṣi, Devala and Gālava,",
    "hindi": "विश्वामित्र और आश्मरथ्य, भार्गव च्यवन, अभिजित्, गार्ग्य, शाण्डिल्य और कौण्डिन्य, वार्क्षि, देवल और गालव,",
    "explanation_en": "More names of the assembled sages. Cyavana is well known in Āyurveda because the rasāyana 'Cyavanaprāśa' (Ci 1.3) is named after him.",
-   "explanation_hi": "सभा के और ऋषियों के नाम। च्यवन आयुर्वेद में प्रसिद्ध हैं क्योंकि 'च्यवनप्राश' रसायन (चि. 1.3) उन्हीं के नाम पर है।",
+   "explanation_hi": "सभा के और ऋषियों के नाम। च्यवन आयुर्वेद में प्रसिद्ध हैं क्योंकि 'च्यवनप्राश' रसायन (चि। 1.3) उन्हीं के नाम पर है।",
    "modern_correlation": null,
    "key_terms": [
     "Cyavana"
@@ -1977,7 +1977,7 @@
    "english": "He taught the knowledge of cause (hetu), signs (liṅga) and medicine (auṣadha), the supreme resort of both the healthy and the sick: the eternal and sacred 'trisūtra' (three-pillared) science that the Grandsire Brahmā himself had known.",
    "hindi": "इन्द्र ने हेतु (कारण), लिङ्ग (लक्षण) और औषध का ज्ञान दिया, जो स्वस्थ और रोगी दोनों का परम आश्रय है; यह वही शाश्वत और पवित्र 'त्रिसूत्र' आयुर्वेद है जिसे पितामह ब्रह्मा ने जाना था।",
    "explanation_en": "This is the famous 'trisūtra' definition: all of Āyurveda can be summarised as knowledge of hetu (aetiology), liṅga (clinical features) and auṣadha (therapeutics). 'Svasthāturaparāyaṇa' shows its twofold aim, preserving the health of the healthy and curing the sick (compare Su 30.26). Cakrapāṇi explains that hetu and liṅga apply to health too (causes and signs of health), not only to disease. Very frequently asked: 'What is trisūtra Āyurveda?'",
-   "explanation_hi": "यह प्रसिद्ध 'त्रिसूत्र' परिभाषा है: पूरा आयुर्वेद हेतु (रोग का कारण), लिङ्ग (लक्षण) और औषध (चिकित्सा) के ज्ञान में समाया है। 'स्वस्थातुरपरायण' उसका दोहरा उद्देश्य बताता है: स्वस्थ के स्वास्थ्य की रक्षा और रोगी के रोग का नाश (सू. 30.26 से तुलना करें)। चक्रपाणि कहते हैं कि हेतु और लिङ्ग स्वास्थ्य पर भी लागू होते हैं। 'त्रिसूत्र आयुर्वेद क्या है?' यह बहुत पूछा जाने वाला प्रश्न है।",
+   "explanation_hi": "यह प्रसिद्ध 'त्रिसूत्र' परिभाषा है: पूरा आयुर्वेद हेतु (रोग का कारण), लिङ्ग (लक्षण) और औषध (चिकित्सा) के ज्ञान में समाया है। 'स्वस्थातुरपरायण' उसका दोहरा उद्देश्य बताता है: स्वस्थ के स्वास्थ्य की रक्षा और रोगी के रोग का नाश (सू। 30.26 से तुलना करें)। चक्रपाणि कहते हैं कि हेतु और लिङ्ग स्वास्थ्य पर भी लागू होते हैं। 'त्रिसूत्र आयुर्वेद क्या है?' यह बहुत पूछा जाने वाला प्रश्न है।",
    "modern_correlation": {
     "en": "The trisūtra broadly parallels the structure of modern clinical medicine: aetiology, clinical features/diagnosis, and treatment, with prevention for the healthy. The comparison concerns how knowledge is organised, not identical concepts.",
     "hi": "त्रिसूत्र मोटे तौर पर आधुनिक चिकित्सा की संरचना से मिलता है: एटियोलॉजी (कारण), क्लिनिकल फीचर्स/निदान, और उपचार, तथा स्वस्थ के लिए रोकथाम। यह तुलना ज्ञान के संगठन की है, अवधारणाएँ बिल्कुल एक नहीं हैं।"
@@ -2338,7 +2338,7 @@
    "english": "Those great sages correctly perceived, with the eye of knowledge, sāmānya (generality, similarity), viśeṣa (particularity, difference), guṇa (qualities), dravya (substances), karma (action),",
    "hindi": "उन महर्षियों ने ज्ञान-दृष्टि से यथावत् जाना: सामान्य (समानता), विशेष (भिन्नता), गुण, द्रव्य, कर्म,",
    "explanation_en": "Together with verse 29 this lists the six padārthas (ṣaṭpadārtha) as accepted by Caraka: sāmānya, viśeṣa, guṇa, dravya, karma, samavāya. Note Caraka's order starts with sāmānya and viśeṣa because their practical use (increase by similarity, decrease by dissimilarity) is the basis of treatment (Su 1.44). Vaiśeṣika philosophy lists them as dravya, guṇa, karma, sāmānya, viśeṣa, samavāya. Caraka's unusual order is itself a common exam question.",
-   "explanation_hi": "श्लोक 29 के साथ यह चरक के छह पदार्थ (षट्पदार्थ) बताता है: सामान्य, विशेष, गुण, द्रव्य, कर्म, समवाय। चरक सामान्य और विशेष को पहले रखते हैं क्योंकि उनका व्यावहारिक उपयोग (समान से वृद्धि, विपरीत से ह्रास) चिकित्सा का आधार है (सू. 1.44)। वैशेषिक दर्शन में क्रम द्रव्य, गुण, कर्म, सामान्य, विशेष, समवाय है। चरक का यह अलग क्रम भी परीक्षा में पूछा जाता है।",
+   "explanation_hi": "श्लोक 29 के साथ यह चरक के छह पदार्थ (षट्पदार्थ) बताता है: सामान्य, विशेष, गुण, द्रव्य, कर्म, समवाय। चरक सामान्य और विशेष को पहले रखते हैं क्योंकि उनका व्यावहारिक उपयोग (समान से वृद्धि, विपरीत से ह्रास) चिकित्सा का आधार है (सू। 1.44)। वैशेषिक दर्शन में क्रम द्रव्य, गुण, कर्म, सामान्य, विशेष, समवाय है। चरक का यह अलग क्रम भी परीक्षा में पूछा जाता है।",
    "modern_correlation": null,
    "key_terms": [
     "ṣaṭpadārtha",
@@ -2443,7 +2443,7 @@
    "english": "and samavāya (inherence). Knowing these and following the regimen laid down in the science, they obtained supreme well-being and a long-lasting life.",
    "hindi": "और समवाय को भी जाना। इन्हें जानकर और शास्त्र में बताई विधि का पालन करके उन्होंने परम सुख और दीर्घ जीवन प्राप्त किया।",
    "explanation_en": "Samavāya completes the six padārthas. The verse adds that knowing theory alone is not enough; the sages gained long life by following the prescribed regimen (vidhi). Defining samavāya as the inseparable, eternal relation (e.g. between a substance and its qualities) is a standard exam question (defined at Su 1.50).",
-   "explanation_hi": "समवाय से छह पदार्थ पूरे होते हैं। श्लोक बताता है कि केवल सिद्धान्त जानना पर्याप्त नहीं; ऋषियों ने बताई गई विधि का पालन करके दीर्घ जीवन पाया। समवाय की परिभाषा (द्रव्य और गुण जैसा अपृथक्, नित्य सम्बन्ध) परीक्षा का सामान्य प्रश्न है (सू. 1.50 में परिभाषित)।",
+   "explanation_hi": "समवाय से छह पदार्थ पूरे होते हैं। श्लोक बताता है कि केवल सिद्धान्त जानना पर्याप्त नहीं; ऋषियों ने बताई गई विधि का पालन करके दीर्घ जीवन पाया। समवाय की परिभाषा (द्रव्य और गुण जैसा अपृथक्, नित्य सम्बन्ध) परीक्षा का सामान्य प्रश्न है (सू। 1.50 में परिभाषित)।",
    "modern_correlation": null,
    "key_terms": [
     "samavāya",
@@ -2518,7 +2518,7 @@
    "english": "Then Punarvasu (Ātreya), full of friendliness, out of compassion for all beings, imparted the sacred Āyurveda to six disciples.",
    "hindi": "तब मैत्री-भाव से भरे पुनर्वसु आत्रेय ने सब प्राणियों पर करुणा करके यह पवित्र आयुर्वेद छह शिष्यों को दिया।",
    "explanation_en": "This marks the start of the human teaching lineage that leads to the Carakasaṃhitā. Ātreya teaches out of maitrī (friendliness) and karuṇā (compassion), the qualities later prescribed for physicians (Su 9.26). The six disciples are named next.",
-   "explanation_hi": "यहाँ से मनुष्य-गुरु परम्परा शुरू होती है जो चरकसंहिता तक पहुँचती है। आत्रेय मैत्री और करुणा से पढ़ाते हैं, वही गुण जो बाद में वैद्य के लिए बताए गए (सू. 9.26)। छह शिष्यों के नाम अगले श्लोक में हैं।",
+   "explanation_hi": "यहाँ से मनुष्य-गुरु परम्परा शुरू होती है जो चरकसंहिता तक पहुँचती है। आत्रेय मैत्री और करुणा से पढ़ाते हैं, वही गुण जो बाद में वैद्य के लिए बताए गए (सू। 9.26)। छह शिष्यों के नाम अगले श्लोक में हैं।",
    "modern_correlation": null,
    "key_terms": [
     "Punarvasu Ātreya",
@@ -3516,7 +3516,7 @@
    "english": "That in which beneficial (hita) and harmful (ahita), happy (sukha) and unhappy (duḥkha) life is described, along with what is wholesome and unwholesome for that life, and its measure (māna), is called Āyurveda.",
    "hindi": "जिसमें हित-आयु, अहित-आयु, सुख-आयु और दुःख-आयु का, उस आयु के लिए हितकर और अहितकर (पदार्थों/आचरण) का, तथा आयु के मान (प्रमाण) का वर्णन हो, उसे आयुर्वेद कहते हैं।",
    "explanation_en": "This is Caraka's standard definition of Āyurveda and is among the most frequently asked questions. It names four types of life (hitāyu, ahitāyu, sukhāyu, duḥkhāyu), which are described in detail in Su 30.24. 'Tasya hitāhitam' refers to diet, conduct and drugs that help or harm life; 'māna' refers to the measure of life-span and its signs (studied in Indriyasthāna and Śārīra 8). Write all three components: types of āyu, what is hita/ahita for it, and its measure.",
-   "explanation_hi": "यह चरक की आयुर्वेद की मानक परिभाषा है और सबसे अधिक पूछे जाने वाले प्रश्नों में से है। इसमें चार प्रकार की आयु बताई गई: हितायु, अहितायु, सुखायु, दुःखायु (विस्तार सू. 30.24 में)। 'तस्य हिताहितम्' का अर्थ है आयु के लिए हितकर-अहितकर आहार, आचार और औषध; 'मान' का अर्थ है आयु का प्रमाण और उसके लक्षण (इन्द्रियस्थान और शारीर 8 में)। उत्तर में तीनों अंग लिखें: आयु के प्रकार, उसके लिए हिताहित, और उसका मान।",
+   "explanation_hi": "यह चरक की आयुर्वेद की मानक परिभाषा है और सबसे अधिक पूछे जाने वाले प्रश्नों में से है। इसमें चार प्रकार की आयु बताई गई: हितायु, अहितायु, सुखायु, दुःखायु (विस्तार सू। 30.24 में)। 'तस्य हिताहितम्' का अर्थ है आयु के लिए हितकर-अहितकर आहार, आचार और औषध; 'मान' का अर्थ है आयु का प्रमाण और उसके लक्षण (इन्द्रियस्थान और शारीर 8 में)। उत्तर में तीनों अंग लिखें: आयु के प्रकार, उसके लिए हिताहित, और उसका मान।",
    "modern_correlation": null,
    "key_terms": [
     "āyurveda",
@@ -3620,7 +3620,7 @@
    "english": "The union of body (śarīra), sense organs (indriya), mind (sattva) and soul (ātman) is āyu (life). It is also called by the synonyms dhāri (that which sustains), jīvita (that which keeps alive), nityaga (that which constantly moves on) and anubandha (that which links one life to the next).",
    "hindi": "शरीर, इन्द्रिय, सत्त्व (मन) और आत्मा का संयोग 'आयु' है। इसके पर्याय हैं: धारि (शरीर को धारण करने वाला, सड़ने से रोकने वाला), जीवित (प्राण बनाए रखने वाला), नित्यग (हर क्षण बदलने/चलने वाला) और अनुबन्ध (एक जन्म को दूसरे से जोड़ने वाला)।",
    "explanation_en": "This is the classic definition of life in Āyurveda and is asked in almost every exam. Life is not the body alone but the combination of four: body, senses, mind and soul. Cakrapāṇi explains the synonyms: dhāri, because it prevents the body from decaying; jīvita, because it keeps one alive; nityaga, because it is ever-changing from moment to moment; anubandha, because it continues from birth to birth. Link this to the 'tripod' of sattva, ātman and śarīra in Su 1.46.",
-   "explanation_hi": "यह आयुर्वेद में जीवन की प्रसिद्ध परिभाषा है और लगभग हर परीक्षा में पूछी जाती है। जीवन केवल शरीर नहीं, बल्कि चार का संयोग है: शरीर, इन्द्रिय, मन और आत्मा। चक्रपाणि पर्यायों को समझाते हैं: धारि क्योंकि यह शरीर को सड़ने नहीं देता; जीवित क्योंकि प्राण धारण कराता है; नित्यग क्योंकि यह हर क्षण बदलता रहता है; अनुबन्ध क्योंकि यह जन्म-जन्मान्तर चलता है। इसे सू. 1.46 के 'त्रिदण्ड' (सत्त्व, आत्मा, शरीर) से जोड़ें।",
+   "explanation_hi": "यह आयुर्वेद में जीवन की प्रसिद्ध परिभाषा है और लगभग हर परीक्षा में पूछी जाती है। जीवन केवल शरीर नहीं, बल्कि चार का संयोग है: शरीर, इन्द्रिय, मन और आत्मा। चक्रपाणि पर्यायों को समझाते हैं: धारि क्योंकि यह शरीर को सड़ने नहीं देता; जीवित क्योंकि प्राण धारण कराता है; नित्यग क्योंकि यह हर क्षण बदलता रहता है; अनुबन्ध क्योंकि यह जन्म-जन्मान्तर चलता है। इसे सू। 1.46 के 'त्रिदण्ड' (सत्त्व, आत्मा, शरीर) से जोड़ें।",
    "modern_correlation": {
     "en": "Modern medicine usually describes life and health in biological terms, but the biopsychosocial model similarly holds that body and mind must both be considered. The ātman component lies outside the scope of science, so the parallel is partial.",
     "hi": "आधुनिक चिकित्सा जीवन और स्वास्थ्य को प्रायः जैविक रूप में देखती है, पर बायोसाइकोसोशल मॉडल भी मानता है कि शरीर और मन दोनों पर ध्यान आवश्यक है। आत्मा का अंश विज्ञान के क्षेत्र से बाहर है, इसलिए यह समानता आंशिक है।"
@@ -3718,7 +3718,7 @@
    "english": "The science of that life (Āyurveda) is regarded by the knowers of the Vedas as the most sacred of sciences, because, as will be explained, it is beneficial to human beings in both worlds, this one and the next.",
    "hindi": "उस आयु का वेद (आयुर्वेद) वेदज्ञों द्वारा सबसे पवित्र माना गया है, क्योंकि जैसा आगे बताया जाएगा, यह मनुष्यों के लिए दोनों लोकों (इहलोक और परलोक) में हितकर है।",
    "explanation_en": "Having defined āyu, the text praises Āyurveda as the most sacred science (puṇyatama veda) because it benefits people in this life and the next. Compare Su 30.21-23, where Āyurveda is related to the Atharvaveda. The next verses (Su 1.44 onwards) begin the technical teaching with the practical application of sāmānya and viśeṣa.",
-   "explanation_hi": "आयु की परिभाषा के बाद ग्रन्थ आयुर्वेद की प्रशंसा करता है कि यह सबसे पवित्र विद्या है क्योंकि यह इस जन्म और अगले जन्म दोनों में लाभ देती है। सू. 30.21-23 से तुलना करें, जहाँ आयुर्वेद को अथर्ववेद से जोड़ा गया है। आगे के श्लोक (सू. 1.44 से) सामान्य-विशेष के व्यावहारिक प्रयोग से तकनीकी उपदेश शुरू करते हैं।",
+   "explanation_hi": "आयु की परिभाषा के बाद ग्रन्थ आयुर्वेद की प्रशंसा करता है कि यह सबसे पवित्र विद्या है क्योंकि यह इस जन्म और अगले जन्म दोनों में लाभ देती है। सू। 30.21-23 से तुलना करें, जहाँ आयुर्वेद को अथर्ववेद से जोड़ा गया है। आगे के श्लोक (सू। 1.44 से) सामान्य-विशेष के व्यावहारिक प्रयोग से तकनीकी उपदेश शुरू करते हैं।",
    "modern_correlation": null,
    "key_terms": [
     "āyurveda",
@@ -3797,7 +3797,7 @@
    "english": "Sāmānya (similarity) is always the cause of increase of all entities, and viśeṣa (dissimilarity) the cause of their decrease; and the application (pravṛtti) of both (brings about these effects).",
    "hindi": "सामान्य (समानता) सदा सभी भावों की वृद्धि का कारण है और विशेष (भिन्नता) ह्रास का कारण है; और दोनों के प्रयोग से ही यह होता है।",
    "explanation_en": "This is the most practical principle of Āyurveda and one of the most quoted verses: like increases like, unlike decreases. Eating meat increases muscle (sāmānya); dry, light food reduces kapha (viśeṣa). The phrase 'pravṛttir ubhayasya tu' means both act only when actually applied (by diet, drug or conduct). It underlies all treatment, e.g. Su 12.5-6. Very frequently asked.",
-   "explanation_hi": "यह आयुर्वेद का सबसे व्यावहारिक सिद्धान्त और सबसे प्रसिद्ध श्लोकों में से है: समान से वृद्धि, विपरीत से ह्रास। मांस खाने से मांस बढ़ता है (सामान्य); रूखा, हल्का आहार कफ घटाता है (विशेष)। 'प्रवृत्तिरुभयस्य तु' का अर्थ है कि दोनों तभी काम करते हैं जब वास्तव में प्रयोग हों (आहार, औषध, आचार से)। यह सारी चिकित्सा का आधार है, जैसे सू. 12.5-6। बहुत पूछा जाता है।",
+   "explanation_hi": "यह आयुर्वेद का सबसे व्यावहारिक सिद्धान्त और सबसे प्रसिद्ध श्लोकों में से है: समान से वृद्धि, विपरीत से ह्रास। मांस खाने से मांस बढ़ता है (सामान्य); रूखा, हल्का आहार कफ घटाता है (विशेष)। 'प्रवृत्तिरुभयस्य तु' का अर्थ है कि दोनों तभी काम करते हैं जब वास्तव में प्रयोग हों (आहार, औषध, आचार से)। यह सारी चिकित्सा का आधार है, जैसे सू। 12.5-6। बहुत पूछा जाता है।",
    "modern_correlation": {
     "en": "The principle broadly resembles the idea of supplying what is deficient and opposing what is in excess, as in correcting deficiencies with nutrients or counteracting an excess with an opposing agent. It is a conceptual rule rather than a specific mechanism.",
     "hi": "यह सिद्धान्त मोटे तौर पर कमी को पूरा करने और अधिकता का विरोध करने के विचार जैसा है, जैसे पोषक तत्त्वों से कमी दूर करना या अधिकता को विपरीत कारक से सन्तुलित करना। यह वैचारिक नियम है, कोई विशेष क्रिया-तन्त्र नहीं।"
@@ -4250,7 +4250,7 @@
    "english": "The sense objects (artha), the qualities beginning with heavy (gurvādi), intellect (buddhi) ending with effort (prayatna), and those beginning with para (parādi) are stated to be the guṇas (qualities). Karma (action) is the activity that begins with effort.",
    "hindi": "इन्द्रियार्थ (शब्द आदि), गुरु आदि गुण, बुद्धि से लेकर प्रयत्न तक (आध्यात्मिक गुण), और पर आदि गुण: ये गुण कहे गए हैं। प्रयत्न से शुरू होने वाली चेष्टा कर्म कहलाती है।",
    "explanation_en": "This lists Caraka's 41 guṇas: 5 sārtha (vaiśeṣika) guṇas, 20 gurvādi guṇas, 6 ātma guṇas (buddhi, icchā, dveṣa, sukha, duḥkha, prayatna) and 10 parādi guṇas (Su 26.29). Karma is defined as ceṣṭā (movement) initiated by prayatna. Count 5 + 20 + 6 + 10 = 41: a standard exam question.",
-   "explanation_hi": "यह चरक के 41 गुण बताता है: 5 सार्थ (वैशेषिक) गुण, 20 गुर्वादि गुण, 6 आत्म गुण (बुद्धि, इच्छा, द्वेष, सुख, दुःख, प्रयत्न) और 10 परादि गुण (सू. 26.29)। कर्म = प्रयत्न से आरम्भ होने वाली चेष्टा। गिनती 5 + 20 + 6 + 10 = 41: मानक परीक्षा प्रश्न।",
+   "explanation_hi": "यह चरक के 41 गुण बताता है: 5 सार्थ (वैशेषिक) गुण, 20 गुर्वादि गुण, 6 आत्म गुण (बुद्धि, इच्छा, द्वेष, सुख, दुःख, प्रयत्न) और 10 परादि गुण (सू। 26.29)। कर्म = प्रयत्न से आरम्भ होने वाली चेष्टा। गिनती 5 + 20 + 6 + 10 = 41: मानक परीक्षा प्रश्न।",
    "modern_correlation": null,
    "key_terms": [
     "guṇa",
@@ -4326,7 +4326,7 @@
    "english": "Samavāya (inherence) is the inseparable relation of earth and the other substances with their qualities. It is eternal, for wherever there is a substance, its quality is invariably present.",
    "hindi": "समवाय पृथ्वी आदि द्रव्यों का अपने गुणों के साथ अपृथक् (अलग न होने वाला) सम्बन्ध है। यह नित्य है, क्योंकि जहाँ द्रव्य है वहाँ गुण अवश्य रहता है।",
    "explanation_en": "Definition of samavāya: an inseparable, eternal relation (e.g. between a substance and its qualities or actions). Contrast with saṃyoga, which is temporary (Su 26.32). Frequently asked: 'Define samavāya and give examples.'",
-   "explanation_hi": "समवाय की परिभाषा: अपृथक् और नित्य सम्बन्ध (जैसे द्रव्य और उसके गुण या कर्म के बीच)। संयोग से भेद, जो अनित्य है (सू. 26.32)। बहुत पूछा जाता है: 'समवाय की परिभाषा उदाहरण सहित।'",
+   "explanation_hi": "समवाय की परिभाषा: अपृथक् और नित्य सम्बन्ध (जैसे द्रव्य और उसके गुण या कर्म के बीच)। संयोग से भेद, जो अनित्य है (सू। 26.32)। बहुत पूछा जाता है: 'समवाय की परिभाषा उदाहरण सहित।'",
    "modern_correlation": null,
    "key_terms": [
     "samavāya",
@@ -4536,7 +4536,7 @@
    "english": "Thus the cause (kāraṇa) has been stated. The effect (kārya) here is said to be the equilibrium of dhātus (dhātusāmya); and bringing about this equilibrium is stated to be the purpose of this treatise.",
    "hindi": "इस प्रकार कारण कहा गया। यहाँ कार्य धातुसाम्य कहा जाता है; और धातुसाम्य की स्थापना ही इस तन्त्र का प्रयोजन कही गई है।",
    "explanation_en": "The six padārthas are the kāraṇa (instruments); dhātusāmya (balance of doṣas and dhātus, i.e. health) is the kārya; and producing dhātusāmya is the prayojana of Āyurveda. Exam: 'What is the prayojana of Āyurveda according to Caraka Su 1?' Answer: dhātusāmya-kriyā.",
-   "explanation_hi": "छह पदार्थ कारण हैं; धातुसाम्य (दोषों और धातुओं का सन्तुलन, अर्थात् स्वास्थ्य) कार्य है; और धातुसाम्य स्थापित करना आयुर्वेद का प्रयोजन है। परीक्षा: 'चरक सू. 1 के अनुसार आयुर्वेद का प्रयोजन?' उत्तर: धातुसाम्यक्रिया।",
+   "explanation_hi": "छह पदार्थ कारण हैं; धातुसाम्य (दोषों और धातुओं का सन्तुलन, अर्थात् स्वास्थ्य) कार्य है; और धातुसाम्य स्थापित करना आयुर्वेद का प्रयोजन है। परीक्षा: 'चरक सू। 1 के अनुसार आयुर्वेद का प्रयोजन?' उत्तर: धातुसाम्यक्रिया।",
    "modern_correlation": {
     "en": "Defining health as the balance of bodily constituents broadly resembles the modern concept of homeostasis, the maintenance of a stable internal environment.",
     "hi": "स्वास्थ्य को शरीर के घटकों का सन्तुलन मानना आधुनिक होमियोस्टेसिस (स्थिर आन्तरिक वातावरण बनाए रखना) की अवधारणा से मोटे तौर पर मिलता है।"
@@ -4634,7 +4634,7 @@
    "english": "Wrong, deficient and excessive engagement (mithyā-, a-, ati-yoga) of time (kāla), intellect (buddhi) and sense objects (indriyārtha) is, in brief, the threefold cause of diseases, which have two seats (body and mind).",
    "hindi": "काल, बुद्धि और इन्द्रियार्थों का मिथ्या, हीन (अयोग) और अति योग: यह शरीर और मन दोनों में आश्रित रोगों का तीन प्रकार का हेतु-संग्रह है।",
    "explanation_en": "The trividha hetu of disease: kāla-pariṇāma (seasonal), prajñāparādha (buddhi) and asātmya-indriyārtha-saṃyoga, each in three forms: hīna, mithyā and ati yoga. This summary is expanded in Su 11.37-43 and is one of the most frequently asked questions in Roga Nidāna.",
-   "explanation_hi": "रोग का त्रिविध हेतु: काल-परिणाम, प्रज्ञापराध (बुद्धि) और असात्म्य-इन्द्रियार्थ-संयोग, प्रत्येक तीन रूपों में: हीन, मिथ्या और अति योग। इसका विस्तार सू. 11.37-43 में है और यह रोग निदान का बहुत पूछा जाने वाला प्रश्न है।",
+   "explanation_hi": "रोग का त्रिविध हेतु: काल-परिणाम, प्रज्ञापराध (बुद्धि) और असात्म्य-इन्द्रियार्थ-संयोग, प्रत्येक तीन रूपों में: हीन, मिथ्या और अति योग। इसका विस्तार सू। 11.37-43 में है और यह रोग निदान का बहुत पूछा जाने वाला प्रश्न है।",
    "modern_correlation": null,
    "key_terms": [
     "trividha hetu",
@@ -4961,7 +4961,7 @@
    "english": "The former (bodily doṣas) are pacified by therapies of the daivavyapāśraya (spiritual) and yuktivyapāśraya (rational) types; the mental doṣas by knowledge (jñāna), scientific understanding (vijñāna), courage (dhairya), memory (smṛti) and concentration (samādhi).",
    "hindi": "शारीरिक दोष दैवव्यपाश्रय और युक्तिव्यपाश्रय चिकित्सा से शान्त होते हैं; और मानसिक दोष ज्ञान, विज्ञान, धैर्य, स्मृति और समाधि से।",
    "explanation_en": "Treatment of bodily and mental doṣas. Daivavyapāśraya (mantra, prayer, auspicious rites) and yuktivyapāśraya (diet, drugs, procedures) for the body; the five measures jñāna, vijñāna, dhairya, smṛti, samādhi for the mind, which correspond to sattvāvajaya (Su 11.54). Frequently asked.",
-   "explanation_hi": "शारीरिक और मानसिक दोषों की चिकित्सा। शरीर के लिए दैवव्यपाश्रय (मन्त्र, प्रार्थना, मंगल कर्म) और युक्तिव्यपाश्रय (आहार, औषध, कर्म); मन के लिए पाँच उपाय: ज्ञान, विज्ञान, धैर्य, स्मृति, समाधि, जो सत्त्वावजय (सू. 11.54) से मेल खाते हैं। बहुत पूछा जाता है।",
+   "explanation_hi": "शारीरिक और मानसिक दोषों की चिकित्सा। शरीर के लिए दैवव्यपाश्रय (मन्त्र, प्रार्थना, मंगल कर्म) और युक्तिव्यपाश्रय (आहार, औषध, कर्म); मन के लिए पाँच उपाय: ज्ञान, विज्ञान, धैर्य, स्मृति, समाधि, जो सत्त्वावजय (सू। 11.54) से मेल खाते हैं। बहुत पूछा जाता है।",
    "modern_correlation": {
     "en": "The measures prescribed for mental doṣas (understanding, self-restraint, memory and concentration) have parallels with modern psychological approaches such as psychoeducation, cognitive strategies and mindfulness-based practices. This is an analogy, not a claim of equivalence.",
     "hi": "मानसिक दोषों के लिए बताए उपाय (समझ, आत्म-नियन्त्रण, स्मृति और एकाग्रता) आधुनिक मनोवैज्ञानिक पद्धतियों जैसे साइकोएजुकेशन, कॉग्निटिव तकनीकों और माइंडफुलनेस से मिलते-जुलते हैं। यह समानता है, एकरूपता का दावा नहीं।"
@@ -5063,7 +5063,7 @@
    "english": "Vāta is dry (rūkṣa), cold (śīta), light (laghu), subtle (sūkṣma), mobile (cala), non-slimy (viśada) and rough (khara); it is pacified by substances of opposite qualities.",
    "hindi": "वात रूक्ष, शीत, लघु, सूक्ष्म, चल, विशद और खर है; विपरीत गुणों वाले द्रव्यों से वह शान्त होता है।",
    "explanation_en": "The seven guṇas of vāta, the standard list asked in every exam. Opposites: snigdha, uṣṇa, guru, sthūla, sthira, picchila, ślakṣṇa. Compare the six guṇas in Su 12.4 (with dāruṇa).",
-   "explanation_hi": "वात के सात गुण, हर परीक्षा में पूछी जाने वाली मानक सूची। विपरीत: स्निग्ध, उष्ण, गुरु, स्थूल, स्थिर, पिच्छिल, श्लक्ष्ण। सू. 12.4 के छह गुणों (दारुण सहित) से तुलना करें।",
+   "explanation_hi": "वात के सात गुण, हर परीक्षा में पूछी जाने वाली मानक सूची। विपरीत: स्निग्ध, उष्ण, गुरु, स्थूल, स्थिर, पिच्छिल, श्लक्ष्ण। सू। 12.4 के छह गुणों (दारुण सहित) से तुलना करें।",
    "modern_correlation": null,
    "key_terms": [
     "vātaguṇa",
@@ -5403,7 +5403,7 @@
    "english": "But no treatment is prescribed for incurable diseases. Further, the properties and actions (of drugs) will be described according to the substance.",
    "hindi": "परन्तु असाध्य रोगों की चिकित्सा नहीं बताई जाती। आगे द्रव्यों के अनुसार उनके गुण और कर्म बताए जाएँगे।",
    "explanation_en": "Caraka is realistic: incurable (asādhya) diseases should not be treated as if curable; a physician should recognise prognosis first (compare Su 10). The verse then introduces the section on rasa and dravya.",
-   "explanation_hi": "चरक यथार्थवादी हैं: असाध्य रोगों की चिकित्सा साध्य की तरह नहीं करनी चाहिए; वैद्य को पहले साध्यासाध्यता पहचाननी चाहिए (सू. 10 देखें)। फिर श्लोक रस और द्रव्य के भाग का परिचय देता है।",
+   "explanation_hi": "चरक यथार्थवादी हैं: असाध्य रोगों की चिकित्सा साध्य की तरह नहीं करनी चाहिए; वैद्य को पहले साध्यासाध्यता पहचाननी चाहिए (सू। 10 देखें)। फिर श्लोक रस और द्रव्य के भाग का परिचय देता है।",
    "modern_correlation": null,
    "key_terms": [
     "asādhya",
@@ -5482,7 +5482,7 @@
    "english": "Rasa (taste) is the object of the tongue (rasanā). Its material basis is water and earth; in its production and in its differentiation, the other three elements, space etc., are contributory causes.",
    "hindi": "रस जीभ (रसना) का विषय है। उसका द्रव्य (आधार) जल और पृथ्वी है; उसकी उत्पत्ति और भेद में आकाश आदि अन्य तीन महाभूत सहायक कारण हैं।",
    "explanation_en": "Definition of rasa: 'rasanārtho rasaḥ'. Water and earth are its substrate (water is the yoni, Su 26.9), while ākāśa, vāyu and agni help in its manifestation and in differentiating the six rasas (see Su 26.40). Common exam definition.",
-   "explanation_hi": "रस की परिभाषा: 'रसनार्थो रसः'। जल और पृथ्वी उसका आधार हैं (जल योनि है, सू. 26.9), जबकि आकाश, वायु और अग्नि उसकी अभिव्यक्ति और छह रसों के भेद में सहायक हैं (सू. 26.40 देखें)। सामान्य परीक्षा परिभाषा।",
+   "explanation_hi": "रस की परिभाषा: 'रसनार्थो रसः'। जल और पृथ्वी उसका आधार हैं (जल योनि है, सू। 26.9), जबकि आकाश, वायु और अग्नि उसकी अभिव्यक्ति और छह रसों के भेद में सहायक हैं (सू। 26.40 देखें)। सामान्य परीक्षा परिभाषा।",
    "modern_correlation": null,
    "key_terms": [
     "rasa lakṣaṇa",
@@ -6765,7 +6765,7 @@
    "english": "Śaṅkhinī, Viḍaṅga, Trapuṣa, Madana, Dhāmārgava, Ikṣvāku, Jīmūta, Kṛtavedhana, and Klītaka of two kinds (from marshy and dry land),",
    "hindi": "शंखिनी, विडंग, त्रपुष, मदन, धामार्गव, इक्ष्वाकु, जीमूत, कृतवेधन, और दो प्रकार का क्लीतक (आनूप और स्थलज),",
    "explanation_en": "Verses 81-83 list the 19 phalinī (fruit drugs). Madana (Madanaphala) is the best emetic (Su 25.40); Viḍaṅga is a famous anthelmintic.",
-   "explanation_hi": "श्लोक 81-83 उन्नीस फलिनी (फल औषधियाँ) बताते हैं। मदन (मदनफल) श्रेष्ठ वमनकारक है (सू. 25.40); विडंग प्रसिद्ध कृमिघ्न है।",
+   "explanation_hi": "श्लोक 81-83 उन्नीस फलिनी (फल औषधियाँ) बताते हैं। मदन (मदनफल) श्रेष्ठ वमनकारक है (सू। 25.40); विडंग प्रसिद्ध कृमिघ्न है।",
    "modern_correlation": null,
    "key_terms": [
     "phalinī",
@@ -7080,7 +7080,7 @@
    "english": "The nineteen fruit drugs have been described by name and action. Fat (sneha) is stated to be of four kinds: ghee (sarpis), oil (taila), muscle fat (vasā) and marrow (majjā).",
    "hindi": "उन्नीस फलिनी नाम और कर्म सहित कही गईं। स्नेह चार प्रकार का बताया गया है: घृत, तैल, वसा और मज्जा।",
    "explanation_en": "The four mahāsneha: sarpis, taila, vasā, majjā. Ghee is considered the best (Su 13.13). A very common MCQ.",
-   "explanation_hi": "चार महास्नेह: घृत, तैल, वसा, मज्जा। घृत सर्वश्रेष्ठ माना गया है (सू. 13.13)। बहुत सामान्य MCQ।",
+   "explanation_hi": "चार महास्नेह: घृत, तैल, वसा, मज्जा। घृत सर्वश्रेष्ठ माना गया है (सू। 13.13)। बहुत सामान्य MCQ।",
    "modern_correlation": null,
    "key_terms": [
     "mahāsneha",
@@ -7282,7 +7282,7 @@
    "english": "together with sea salt (sāmudra), are the five salts. They are unctuous, hot, sharp and the best appetisers (dīpanīya).",
    "hindi": "सामुद्र लवण सहित ये पाँच लवण हैं। ये स्निग्ध, उष्ण, तीक्ष्ण और अत्यन्त दीपन हैं।",
    "explanation_en": "The pañca lavaṇa: sauvarcala, saindhava, viḍa, audbhida, sāmudra. Saindhava is considered the best salt (Su 25.38). A very common MCQ.",
-   "explanation_hi": "पञ्च लवण: सौवर्चल, सैन्धव, विड, औद्भिद, सामुद्र। सैन्धव सर्वश्रेष्ठ लवण माना गया है (सू. 25.38)। बहुत सामान्य MCQ।",
+   "explanation_hi": "पञ्च लवण: सौवर्चल, सैन्धव, विड, औद्भिद, सामुद्र। सैन्धव सर्वश्रेष्ठ लवण माना गया है (सू। 25.38)। बहुत सामान्य MCQ।",
    "modern_correlation": null,
    "key_terms": [
     "pañcalavaṇa",
@@ -7624,7 +7624,7 @@
    "english": "and of elephant, camel, horse and donkey. Urine is hot, sharp, not dry, pungent and has a salty (subsidiary) taste.",
    "hindi": "और हाथी, ऊँट, घोड़ा और गधे का मूत्र। मूत्र उष्ण, तीक्ष्ण, अरूक्ष, कटु और लवण (अनुरस) युक्त होता है।",
    "explanation_en": "General properties of urine: uṣṇa, tīkṣṇa, arūkṣa (not dry), kaṭu, with lavaṇa anurasa. Common MCQ: 'How many mūtras are described in Caraka Su 1?' (eight).",
-   "explanation_hi": "मूत्र के सामान्य गुण: उष्ण, तीक्ष्ण, अरूक्ष, कटु, लवण अनुरस सहित। सामान्य MCQ: 'चरक सू. 1 में कितने मूत्र?' (आठ)।",
+   "explanation_hi": "मूत्र के सामान्य गुण: उष्ण, तीक्ष्ण, अरूक्ष, कटु, लवण अनुरस सहित। सामान्य MCQ: 'चरक सू। 1 में कितने मूत्र?' (आठ)।",
    "modern_correlation": null,
    "key_terms": [
     "aṣṭamūtra",
@@ -7854,7 +7854,7 @@
    "english": "and an excellent remedy for those afflicted with pāṇḍu (anaemia). Taken internally, it pacifies kapha and moves vāta in its proper downward direction,",
    "hindi": "और पाण्डु रोगियों के लिए उत्तम औषध कहा गया है। पीने पर यह कफ को शान्त करता है और वात का अनुलोमन करता है,",
    "explanation_en": "Urine (especially gomūtra) is used in pāṇḍu, e.g. in maṇḍūra preparations (Ci 16). Internal actions: kapha-śamana and vātānulomana.",
-   "explanation_hi": "मूत्र (विशेषकर गोमूत्र) पाण्डु में प्रयुक्त होता है, जैसे मण्डूर योगों में (चि. 16)। आन्तरिक कर्म: कफशमन और वातानुलोमन।",
+   "explanation_hi": "मूत्र (विशेषकर गोमूत्र) पाण्डु में प्रयुक्त होता है, जैसे मण्डूर योगों में (चि। 16)। आन्तरिक कर्म: कफशमन और वातानुलोमन।",
    "modern_correlation": null,
    "key_terms": [
     "mūtra",
@@ -8458,7 +8458,7 @@
    "english": "Milk is generally considered sweet, unctuous and cold; it is nourishing, bulk-promoting, aphrodisiac, promotes intellect, strengthens and invigorates the mind,",
    "hindi": "दूध प्रायः मधुर, स्निग्ध और शीत माना गया है; यह प्रीणन, बृंहण, वृष्य, मेध्य, बल्य और मन को प्रसन्न करने वाला है,",
    "explanation_en": "General properties of milk (continued to verse 112). Milk is a key rasāyana and pathya; cow's milk is called the best vitaliser (jīvanīya, Su 25.40).",
-   "explanation_hi": "दूध के सामान्य गुण (श्लोक 112 तक जारी)। दूध मुख्य रसायन और पथ्य है; गोदुग्ध श्रेष्ठ जीवनीय कहा गया है (सू. 25.40)।",
+   "explanation_hi": "दूध के सामान्य गुण (श्लोक 112 तक जारी)। दूध मुख्य रसायन और पथ्य है; गोदुग्ध श्रेष्ठ जीवनीय कहा गया है (सू। 25.40)।",
    "modern_correlation": {
     "en": "Milk provides high-quality protein, fats, calcium and other nutrients that support growth and tissue building, which broadly fits its description as nourishing and bulk-promoting. Individual tolerance (e.g. lactose intolerance) varies.",
     "hi": "दूध उच्च गुणवत्ता का प्रोटीन, वसा, कैल्शियम और अन्य पोषक तत्त्व देता है जो वृद्धि और ऊतक-निर्माण में सहायक हैं; यह उसके प्रीणन और बृंहण होने के वर्णन से मोटे तौर पर मेल खाता है। व्यक्तिगत सहनशीलता (जैसे लैक्टोज़ असहिष्णुता) अलग-अलग होती है।"
@@ -8657,7 +8657,7 @@
    "english": "and is especially useful in anaemia, acid dyspepsia (amlapitta), wasting (śoṣa), gulma, abdominal diseases, diarrhoea, fever, burning and swelling,",
    "hindi": "और विशेष रूप से पाण्डु, अम्लपित्त, शोष, गुल्म, उदर रोग, अतिसार, ज्वर, दाह और शोथ में उपयोगी है,",
    "explanation_en": "Indications of milk. Note: milk is used in chronic (jīrṇa) fever, not in acute fever (Ci 3).",
-   "explanation_hi": "दूध के संकेत। ध्यान दें: दूध जीर्ण ज्वर में प्रयोग होता है, नव ज्वर में नहीं (चि. 3)।",
+   "explanation_hi": "दूध के संकेत। ध्यान दें: दूध जीर्ण ज्वर में प्रयोग होता है, नव ज्वर में नहीं (चि। 3)।",
    "modern_correlation": null,
    "key_terms": [
     "kṣīra prayoga",
@@ -8841,9 +8841,9 @@
     }
    ],
    "english": "The properties of each milk separately, in order, I shall describe fully in the chapter on food and drink (Annapānavidhi, Su 27).",
-   "hindi": "प्रत्येक दूध के अलग-अलग गुण क्रमानुसार मैं अन्नपानविधि अध्याय (सू. 27) में पूर्ण रूप से बताऊँगा।",
+   "hindi": "प्रत्येक दूध के अलग-अलग गुण क्रमानुसार मैं अन्नपानविधि अध्याय (सू। 27) में पूर्ण रूप से बताऊँगा।",
    "explanation_en": "Cross-reference to Su 27, where gorasa varga is detailed.",
-   "explanation_hi": "सू. 27 का सन्दर्भ, जहाँ गोरस वर्ग विस्तार से है।",
+   "explanation_hi": "सू। 27 का सन्दर्भ, जहाँ गोरस वर्ग विस्तार से है।",
    "modern_correlation": null,
    "key_terms": [
     "Annapānavidhi"
@@ -9986,7 +9986,7 @@
    "english": "Therefore an intelligent person who wishes to become a physician should make the utmost effort to perfect his own qualities, so that he may become a giver of life to people.",
    "hindi": "इसलिए वैद्य बनने का इच्छुक बुद्धिमान व्यक्ति अपने गुणों को पूर्ण करने में परम प्रयत्न करे, ताकि वह मनुष्यों का प्राणदाता बने।",
    "explanation_en": "Positive counterpart to the condemnation: the true physician is a 'prāṇada' (giver of life, compare prāṇābhisara in Su 29).",
-   "explanation_hi": "निन्दा का सकारात्मक पक्ष: सच्चा वैद्य 'प्राणद' (जीवनदाता) है (सू. 29 के प्राणाभिसर से तुलना करें)।",
+   "explanation_hi": "निन्दा का सकारात्मक पक्ष: सच्चा वैद्य 'प्राणद' (जीवनदाता) है (सू। 29 के प्राणाभिसर से तुलना करें)।",
    "modern_correlation": null,
    "key_terms": [
     "prāṇada",

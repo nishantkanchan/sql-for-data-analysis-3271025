@@ -1,0 +1,5513 @@
+{
+ "chapter": {
+  "id": "AH.sharira.2",
+  "text": "ashtanga_hridaya",
+  "sthana": "sharira",
+  "chapter": 2,
+  "title_iast": "Garbhavyāpad Śārīra Adhyāya",
+  "title_devanagari": "गर्भव्यापच्छारीरम्",
+  "title_en": "The chapter on disorders of pregnancy",
+  "title_hi": "गर्भव्यापद् शारीर (गर्भावस्था के विकार)",
+  "summary_en": "This chapter deals with the complications of pregnancy and difficult delivery. It begins with bleeding or pain in pregnancy (threatened miscarriage, garbha-srāva), treated with unctuous and cooling measures and modified when āma is present, and gives the regimen after a completed miscarriage, including the rule that the light diet lasts as many days as the months of pregnancy. It then describes three conditions in which the fetus fails to grow (upaviṣṭaka, nāgodara and līna), udāvarta in pregnancy, and the signs and management of intrauterine fetal death. A major section covers mūḍha-garbha (obstructed labour and malpresentation): manual correction, the viṣkambha types needing surgery, the instruments allowed, the sequence of destructive operations on a dead fetus, the rule never to cut a living fetus, signs of a hopeless case, and post-operative care with the famous balā taila. It also describes post-mortem caesarean delivery, the month-by-month milk recipes for bleeding in each of the ten months, rakta-gulma that mimics pregnancy, and ends with a rational rejection of the belief that spirits steal the fetus. These topics are frequently examined in Prasūti Tantra.",
+  "summary_hi": "यह अध्याय गर्भावस्था की जटिलताओं और कठिन प्रसव का वर्णन करता है। आरम्भ गर्भावस्था में रक्तस्राव या पीड़ा (संकटग्रस्त गर्भपात, गर्भस्राव) से होता है, जिसकी चिकित्सा स्निग्ध और शीतल उपायों से होती है और आम होने पर बदली जाती है; फिर पूर्ण गर्भपात के बाद का क्रम दिया गया है, जिसमें नियम है कि हल्का आहार गर्भ के मासों जितने दिन चले। इसके बाद तीन स्थितियाँ जिनमें गर्भ नहीं बढ़ता (उपविष्टक, नागोदर और लीन), गर्भिणी का उदावर्त, और गर्भाशय में भ्रूण-मृत्यु के लक्षण व प्रबन्धन बताए गए हैं। एक बड़ा भाग मूढ़-गर्भ (अवरुद्ध प्रसव और विकृत प्रस्तुति) पर है: हस्त-सुधार, शल्य-योग्य विष्कम्भ प्रकार, अनुमत शस्त्र, मृत गर्भ पर विनाशक शल्य का क्रम, जीवित गर्भ को कभी न काटने का नियम, असाध्य लक्षण, और प्रसिद्ध बला तैल सहित शल्योत्तर देखभाल। इसमें मृत्यु-पश्चात् सिज़ेरियन, दसों मासों में रक्तस्राव के लिए मासानुसार दुग्ध-योग, गर्भ जैसा दिखने वाला रक्त-गुल्म, और अन्त में भूतों द्वारा गर्भ-हरण के विश्वास का तार्किक खण्डन भी है। ये विषय प्रसूति तन्त्र में बहुत पूछे जाते हैं।",
+  "key_concepts": [
+   "garbha-srāva",
+   "garbha-pāta",
+   "māsa-tulya dina",
+   "upaviṣṭaka",
+   "nāgodara",
+   "līna garbha",
+   "udāvarta",
+   "mṛta-garbha lakṣaṇa",
+   "mūḍha-garbha",
+   "viṣkambha",
+   "garbha-śaṅku",
+   "asādhya lakṣaṇa",
+   "balā taila",
+   "post-mortem garbha-uddharaṇa",
+   "māsānumāsika yoga",
+   "rakta-gulma",
+   "bhūta-hṛta garbha"
+  ],
+  "exam_focus_en": [
+   "Garbha-srāva: causes, signs (puṣpa-darśana, śūla), snigdha-śīta line of treatment, change of treatment with āma, and the rule 'pratyākhyāya prasādhayet' before the 3rd month (2.1–9).",
+   "Post-abortion regimen: madya or pañcakola peyā, light diet for as many days as the months of pregnancy, then strengthening therapy (2.9–13).",
+   "Upaviṣṭaka, nāgodara and līna garbha: features, differences and bṛṃhaṇa-vātaghna treatment; udāvarta in pregnancy (2.14–22).",
+   "Mṛta-garbha lakṣaṇa and mūḍha-garbha management: manual manoeuvres, viṣkambha, permitted and prohibited instruments, 'never cut a living fetus', asādhya lakṣaṇa (2.23–38).",
+   "Balā taila (ingredients, ratio, indications) and post-operative care; post-mortem caesarean delivery (2.39–53).",
+   "Month-wise (māsānumāsika) milk recipes for garbha-srāva in months 1–10, and rakta-gulma vs pregnancy (2.54–62)."
+  ],
+  "exam_focus_hi": [
+   "गर्भस्राव: कारण, लक्षण (पुष्प-दर्शन, शूल), स्निग्ध-शीत चिकित्सा, आम होने पर चिकित्सा-परिवर्तन, और तीसरे मास से पहले 'प्रत्याख्याय प्रसाधयेत्' का नियम (2.1–9)।",
+   "गर्भपात के बाद का क्रम: मद्य या पंचकोल पेया, गर्भ के मासों जितने दिन हल्का आहार, फिर बल्य चिकित्सा (2.9–13)।",
+   "उपविष्टक, नागोदर और लीन गर्भ: लक्षण, अन्तर और बृंहण-वातघ्न चिकित्सा; गर्भिणी का उदावर्त (2.14–22)।",
+   "मृत-गर्भ लक्षण और मूढ़-गर्भ प्रबन्धन: हस्त-क्रियाएँ, विष्कम्भ, अनुमत और वर्जित शस्त्र, 'जीवित गर्भ को कभी न काटें', असाध्य लक्षण (2.23–38)।",
+   "बला तैल (द्रव्य, अनुपात, संकेत) और शल्योत्तर देखभाल; मृत्यु-पश्चात् सिज़ेरियन (2.39–53)।",
+   "गर्भस्राव के लिए मास 1–10 के मासानुमासिक दुग्ध-योग, और रक्त-गुल्म बनाम गर्भ (2.54–62)।"
+  ],
+  "syllabus_refs": [
+   "AyUG-RS",
+   "AyUG-PS"
+  ],
+  "review_status": "ai_draft"
+ },
+ "verses": [
+  {
+   "id": "AH.sharira.2.1",
+   "word_meanings": [
+    {
+     "sa": "गर्भिण्याः",
+     "iast": "garbhiṇyāḥ",
+     "en": "of the pregnant woman",
+     "hi": "गर्भिणी के"
+    },
+    {
+     "sa": "परिहार्याणाम्",
+     "iast": "parihāryāṇām",
+     "en": "of things to be avoided",
+     "hi": "वर्जित वस्तुओं के"
+    },
+    {
+     "sa": "सेवया",
+     "iast": "sevayā",
+     "en": "by indulgence in",
+     "hi": "सेवन से"
+    },
+    {
+     "sa": "रोगतः",
+     "iast": "rogataḥ",
+     "en": "due to disease",
+     "hi": "रोग के कारण"
+    },
+    {
+     "sa": "अथवा",
+     "iast": "athavā",
+     "en": "or",
+     "hi": "अथवा"
+    },
+    {
+     "sa": "पुष्पे दृष्टे",
+     "iast": "puṣpe dṛṣṭe",
+     "en": "when bleeding (puṣpa) is seen",
+     "hi": "पुष्प (रक्तस्राव) दिखने पर"
+    },
+    {
+     "sa": "शूले",
+     "iast": "śūle",
+     "en": "when there is pain",
+     "hi": "शूल होने पर"
+    },
+    {
+     "sa": "बाह्यान्तः",
+     "iast": "bāhyāntaḥ",
+     "en": "externally and internally",
+     "hi": "बाहर और भीतर"
+    },
+    {
+     "sa": "स्निग्धशीतलम्",
+     "iast": "snigdhaśītalam",
+     "en": "unctuous and cooling (measures)",
+     "hi": "स्निग्ध और शीतल (उपचार)"
+    }
+   ],
+   "english": "If, because the pregnant woman has indulged in things to be avoided or because of disease, bleeding (puṣpa) or pain appears, unctuous and cooling measures should be used externally and internally ... (continued).",
+   "hindi": "यदि गर्भिणी द्वारा वर्जित वस्तुओं के सेवन या रोग के कारण पुष्प (रक्तस्राव) या शूल दिखाई दे, तो बाहर और भीतर स्निग्ध और शीतल उपचार करें... (आगे जारी)।",
+   "explanation_en": "Chapter 2 (Garbhavyāpad, disorders of pregnancy) opens with garbha-srāva/pāta (threatened abortion): causes are garbhopaghātakara bhāva (chapter 1, 44–47) or disease, signs are puṣpa-darśana (bleeding) and śūla (pain), and the line of treatment is snigdha-śītala (unctuous and cooling) therapy. Exam tip: 'first line in garbha-srāva = snigdha + śīta, bāhya + ābhyantara'.",
+   "explanation_hi": "अध्याय 2 (गर्भव्यापद्, गर्भावस्था के विकार) गर्भस्राव/पात (संकटग्रस्त गर्भपात) से आरम्भ होता है: कारण गर्भोपघातकर भाव (अध्याय 1, 44–47) या रोग, लक्षण पुष्प-दर्शन (रक्तस्राव) और शूल, और चिकित्सा-सूत्र स्निग्ध-शीतल उपचार। परीक्षा टिप: 'गर्भस्राव में प्रथम उपचार = स्निग्ध + शीत, बाह्य + आभ्यन्तर'।",
+   "modern_correlation": {
+    "en": "Bleeding or pain in pregnancy is often compared to threatened miscarriage (or, later, antepartum haemorrhage). It always needs prompt medical assessment, usually with ultrasound, to check fetal viability and exclude ectopic pregnancy or placental causes. The classical cooling measures here are historical and are not a treatment plan.",
+    "hi": "गर्भावस्था में रक्तस्राव या पीड़ा की तुलना प्रायः संकटग्रस्त गर्भपात (threatened miscarriage) या बाद के महीनों में प्रसवपूर्व रक्तस्राव से की जाती है। इसमें सदा तुरन्त चिकित्सकीय जाँच, प्रायः अल्ट्रासाउंड, आवश्यक है ताकि भ्रूण की जीवन-क्षमता देखी जाए और अस्थानिक गर्भ या अपरा-सम्बन्धी कारण अलग किए जाएँ। यहाँ के शीतल उपाय ऐतिहासिक हैं, उपचार-योजना नहीं।"
+   },
+   "key_terms": [
+    "garbha-srāva",
+    "puṣpa-darśana",
+    "śūla",
+    "snigdha-śīta cikitsā"
+   ],
+   "tags": [
+    "miscarriage",
+    "threatened-abortion",
+    "garbhavyapad",
+    "treatment-principle"
+   ],
+   "importance": "high",
+   "mnemonic": "Bleeding in pregnancy → Snigdha + Śīta, inside and outside.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.2",
+   "word_meanings": [
+    {
+     "sa": "सेव्य",
+     "iast": "sevya",
+     "en": "sevya (uśīra, vetiver)",
+     "hi": "सेव्य (उशीर)"
+    },
+    {
+     "sa": "अम्भोज",
+     "iast": "ambhoja",
+     "en": "lotus",
+     "hi": "कमल"
+    },
+    {
+     "sa": "हिम",
+     "iast": "hima",
+     "en": "hima (sandalwood/camphor; cooling)",
+     "hi": "हिम (चन्दन; शीतल)"
+    },
+    {
+     "sa": "क्षीरिवल्क",
+     "iast": "kṣīrivalka",
+     "en": "bark of latex-bearing trees (vaṭa, udumbara etc.)",
+     "hi": "क्षीरी वृक्षों (वट, उदुम्बर आदि) की छाल"
+    },
+    {
+     "sa": "कल्काज्यलेपितान्",
+     "iast": "kalkājyalepitān",
+     "en": "smeared with paste and ghee",
+     "hi": "कल्क और घी से लिप्त"
+    },
+    {
+     "sa": "धारयेत्",
+     "iast": "dhārayet",
+     "en": "should keep (apply)",
+     "hi": "धारण कराए"
+    },
+    {
+     "sa": "योनिवस्तिभ्याम्",
+     "iast": "yonivastibhyām",
+     "en": "in the vagina and over the lower abdomen (bladder region)",
+     "hi": "योनि में और वस्ति (पेडू) पर"
+    },
+    {
+     "sa": "आर्द्रार्द्रान्",
+     "iast": "ārdrārdrān",
+     "en": "kept constantly moist",
+     "hi": "बार-बार गीले किए हुए"
+    },
+    {
+     "sa": "पिचुनक्तकान्",
+     "iast": "picunaktakān",
+     "en": "cotton swabs and cloth pieces",
+     "hi": "पिचु (फाहे) और कपड़े के टुकड़े"
+    }
+   ],
+   "english": "... she should keep cotton swabs and pieces of cloth, smeared with a paste of sevya (uśīra), lotus, hima and the bark of latex-bearing trees mixed with ghee, and kept constantly moist, in the vagina and over the lower abdomen.",
+   "hindi": "...सेव्य (उशीर), कमल, हिम (चन्दन) और क्षीरी वृक्षों की छाल के कल्क तथा घी से लिप्त, बार-बार गीले किए पिचु और कपड़े के टुकड़े योनि में और वस्ति (पेडू) पर रखवाएँ।",
+   "explanation_en": "Local cooling and astringent applications (yoni-picu and pichu over the vasti region) using sītala and kaṣāya drugs such as uśīra, utpala, candana and the pañcavalkala barks. Exam tip: kṣīrī-vṛkṣa barks are classical raktastambhaka (haemostatic) drugs.",
+   "explanation_hi": "शीतल और कषाय द्रव्यों (उशीर, उत्पल, चन्दन और पंचवल्कल की छालें) से स्थानीय प्रयोग (योनि-पिचु और वस्ति-प्रदेश पर पिचु)। परीक्षा टिप: क्षीरी वृक्षों की छालें शास्त्रीय रक्तस्तम्भक द्रव्य हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "yoni-picu",
+    "kṣīrī vṛkṣa",
+    "raktastambhana",
+    "uśīra"
+   ],
+   "tags": [
+    "threatened-abortion",
+    "treatment",
+    "local-therapy"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.3",
+   "word_meanings": [
+    {
+     "sa": "शतधौतघृताक्ताम्",
+     "iast": "śatadhautaghṛtāktām",
+     "en": "smeared with ghee washed a hundred times",
+     "hi": "सौ बार धुले घी से लिप्त"
+    },
+    {
+     "sa": "स्त्रीम्",
+     "iast": "strīm",
+     "en": "the woman",
+     "hi": "स्त्री को"
+    },
+    {
+     "sa": "तदम्भसि",
+     "iast": "tadambhasi",
+     "en": "in water (decoction) of those (drugs)",
+     "hi": "उन (द्रव्यों) के जल में"
+    },
+    {
+     "sa": "अवगाहयेत्",
+     "iast": "avagāhayet",
+     "en": "should make (her) sit immersed",
+     "hi": "बैठाए (अवगाहन कराए)"
+    },
+    {
+     "sa": "ससिताक्षौद्र",
+     "iast": "sasitākṣaudra",
+     "en": "with sugar and honey",
+     "hi": "शक्कर और मधु सहित"
+    },
+    {
+     "sa": "कुमुदकमलोत्पलकेसरम्",
+     "iast": "kumudakamalotpalakesaram",
+     "en": "the filaments of kumuda, kamala and utpala (water lilies and lotus)",
+     "hi": "कुमुद, कमल और उत्पल के केसर"
+    }
+   ],
+   "english": "The woman, smeared with śatadhauta ghṛta (ghee washed a hundred times), should sit immersed in the cool water (decoction) of those drugs. (She should lick) the filaments of kumuda, kamala and utpala with sugar and honey ... (continued).",
+   "hindi": "स्त्री को शतधौत घृत (सौ बार धुला घी) लगाकर उन द्रव्यों के शीतल जल में बैठाएँ। (वह) कुमुद, कमल और उत्पल के केसर शक्कर और मधु के साथ (चाटे)... (आगे जारी)।",
+   "explanation_en": "Śatadhauta ghṛta is the classic external cooling ghee. Avagāha (sitz-type immersion) in cool decoction and oral lotus-filament preparations continue the śīta line of treatment. Exam tip: śatadhauta ghṛta is a favourite short-note item.",
+   "explanation_hi": "शतधौत घृत शास्त्रीय बाह्य शीतल घृत है। शीतल क्वाथ में अवगाह (बैठकर स्नान) और मुख से कमल-केसर योग शीत-चिकित्सा को आगे बढ़ाते हैं। परीक्षा टिप: शतधौत घृत प्रिय लघु-टिप्पणी विषय है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "śatadhauta ghṛta",
+    "avagāha",
+    "kamala kesara"
+   ],
+   "tags": [
+    "threatened-abortion",
+    "treatment",
+    "formulation"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.4",
+   "word_meanings": [
+    {
+     "sa": "लिह्यात्",
+     "iast": "lihyāt",
+     "en": "should lick",
+     "hi": "चाटे"
+    },
+    {
+     "sa": "क्षीरघृतम्",
+     "iast": "kṣīraghṛtam",
+     "en": "ghee prepared from milk",
+     "hi": "दूध से निकला घी (क्षीर-घृत)"
+    },
+    {
+     "sa": "खादेत्",
+     "iast": "khādet",
+     "en": "should eat",
+     "hi": "खाए"
+    },
+    {
+     "sa": "शृङ्गाटककसेरुकम्",
+     "iast": "śṛṅgāṭakakaserukam",
+     "en": "water chestnut (śṛṅgāṭaka) and kaseru",
+     "hi": "सिंघाड़ा और कसेरू"
+    },
+    {
+     "sa": "पिबेत्",
+     "iast": "pibet",
+     "en": "should drink",
+     "hi": "पिए"
+    },
+    {
+     "sa": "कान्ता",
+     "iast": "kāntā",
+     "en": "kāntā (priyaṅgu)",
+     "hi": "कान्ता (प्रियंगु)"
+    },
+    {
+     "sa": "अब्जशालूक",
+     "iast": "abjaśālūka",
+     "en": "lotus rhizome",
+     "hi": "कमल-कन्द (शालूक)"
+    },
+    {
+     "sa": "बालोदुम्बर",
+     "iast": "bālodumbara",
+     "en": "unripe fig (udumbara)",
+     "hi": "कच्चा गूलर"
+    },
+    {
+     "sa": "वत्",
+     "iast": "vat",
+     "en": "processed with",
+     "hi": "से युक्त"
+    },
+    {
+     "sa": "पयः",
+     "iast": "payaḥ",
+     "en": "milk",
+     "hi": "दूध"
+    }
+   ],
+   "english": "... and kṣīra-ghṛta (ghee made directly from milk). She should eat water chestnut and kaseru, and drink milk processed with kāntā (priyaṅgu), lotus rhizome and unripe udumbara fruit.",
+   "hindi": "...और क्षीर-घृत (चाटे)। वह सिंघाड़ा और कसेरू खाए, और कान्ता (प्रियंगु), कमल-कन्द और कच्चे गूलर से सिद्ध दूध पिए।",
+   "explanation_en": "Oral diet and medicines in threatened abortion: madhura, śīta, garbha-sthāpaka foods like śṛṅgāṭaka, kaseru and lotus rhizome, and milk with astringent drugs. Exam tip: śṛṅgāṭaka is a well-known garbhasthāpaka (pregnancy-sustaining) food.",
+   "explanation_hi": "संकटग्रस्त गर्भपात में आहार और औषधि: मधुर, शीत, गर्भस्थापक आहार जैसे सिंघाड़ा, कसेरू और कमल-कन्द, और कषाय द्रव्यों सहित दूध। परीक्षा टिप: सिंघाड़ा प्रसिद्ध गर्भस्थापक आहार है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "garbhasthāpaka",
+    "śṛṅgāṭaka",
+    "kṣīra-ghṛta"
+   ],
+   "tags": [
+    "threatened-abortion",
+    "diet",
+    "garbhasthapana"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.5",
+   "word_meanings": [
+    {
+     "sa": "शृतेन",
+     "iast": "śṛtena",
+     "en": "boiled",
+     "hi": "उबाले हुए"
+    },
+    {
+     "sa": "शालि",
+     "iast": "śāli",
+     "en": "śāli rice (root)",
+     "hi": "शालि (धान)"
+    },
+    {
+     "sa": "काकोली",
+     "iast": "kākolī",
+     "en": "kākolī (one of the aṣṭavarga)",
+     "hi": "काकोली"
+    },
+    {
+     "sa": "द्विबला",
+     "iast": "dvibalā",
+     "en": "the two balās (balā and atibalā)",
+     "hi": "दोनों बला (बला, अतिबला)"
+    },
+    {
+     "sa": "मधुक",
+     "iast": "madhuka",
+     "en": "madhuka (liquorice)",
+     "hi": "मधुक (मुलेठी)"
+    },
+    {
+     "sa": "इक्षुभिः",
+     "iast": "ikṣubhiḥ",
+     "en": "with sugarcane",
+     "hi": "ईख से"
+    },
+    {
+     "sa": "पयसा",
+     "iast": "payasā",
+     "en": "with milk",
+     "hi": "दूध से"
+    },
+    {
+     "sa": "रक्तशाल्यन्नम्",
+     "iast": "raktaśālyannam",
+     "en": "cooked red śāli rice",
+     "hi": "लाल शालि चावल का भात"
+    },
+    {
+     "sa": "अद्यात्",
+     "iast": "adyāt",
+     "en": "should eat",
+     "hi": "खाए"
+    },
+    {
+     "sa": "समधुशर्करम्",
+     "iast": "samadhuśarkaram",
+     "en": "with honey and sugar",
+     "hi": "मधु और शक्कर सहित"
+    }
+   ],
+   "english": "She should eat cooked red śāli rice with milk boiled with śāli, kākolī, the two balās, madhuka and sugarcane, adding honey and sugar.",
+   "hindi": "वह शालि, काकोली, दोनों बला, मुलेठी और ईख से उबाले दूध के साथ, मधु और शक्कर मिलाकर लाल शालि चावल का भात खाए।",
+   "explanation_en": "Diet in garbha-srāva: rakta-śāli with milk processed with jīvanīya and madhura drugs, which are nourishing, cooling and garbha-sthāpaka. Exam tip: balā, madhuka and kākolī are recurring drugs in pregnancy care.",
+   "explanation_hi": "गर्भस्राव में आहार: जीवनीय और मधुर द्रव्यों से सिद्ध दूध के साथ रक्तशालि, जो पोषक, शीतल और गर्भस्थापक है। परीक्षा टिप: बला, मुलेठी और काकोली गर्भिणी-चिकित्सा में बार-बार आने वाले द्रव्य हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "rakta-śāli",
+    "jīvanīya",
+    "balā",
+    "madhuka"
+   ],
+   "tags": [
+    "threatened-abortion",
+    "diet"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.6",
+   "word_meanings": [
+    {
+     "sa": "रसैः",
+     "iast": "rasaiḥ",
+     "en": "with meat soups",
+     "hi": "मांस-रसों से"
+    },
+    {
+     "sa": "वा",
+     "iast": "vā",
+     "en": "or",
+     "hi": "या"
+    },
+    {
+     "sa": "जाङ्गलैः",
+     "iast": "jāṅgalaiḥ",
+     "en": "of animals of dry land (jāṅgala)",
+     "hi": "जांगल (शुष्क प्रदेश के) पशुओं के"
+    },
+    {
+     "sa": "शुद्धिवर्जम्",
+     "iast": "śuddhivarjam",
+     "en": "except purificatory therapy",
+     "hi": "शोधन को छोड़कर"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "अस्रोक्तम्",
+     "iast": "asroktam",
+     "en": "what is said for (rakta-pitta) bleeding",
+     "hi": "रक्त(पित्त) के लिए कहा गया"
+    },
+    {
+     "sa": "आचरेत्",
+     "iast": "ācaret",
+     "en": "should follow",
+     "hi": "अपनाए"
+    },
+    {
+     "sa": "असंपूर्णत्रिमासायाः",
+     "iast": "asaṃpūrṇatrimāsāyāḥ",
+     "en": "for one who has not completed three months",
+     "hi": "जिसके तीन मास पूरे न हुए हों"
+    },
+    {
+     "sa": "प्रत्याख्याय",
+     "iast": "pratyākhyāya",
+     "en": "after giving a guarded prognosis",
+     "hi": "सावधानी से पूर्वानुमान बताकर"
+    },
+    {
+     "sa": "प्रसाधयेत्",
+     "iast": "prasādhayet",
+     "en": "should treat",
+     "hi": "चिकित्सा करे"
+    }
+   ],
+   "english": "Or (she may eat it) with soups of jāṅgala (dry-land) animals, and the treatment described for bleeding (raktapitta) should be followed, except for purificatory therapy. If she has not completed three months, the physician should treat her after first giving a guarded prognosis (pratyākhyāya).",
+   "hindi": "या (वह) जांगल पशुओं के मांस-रस के साथ (भोजन करे), और रक्तपित्त के लिए कही गई चिकित्सा शोधन को छोड़कर अपनाए। यदि तीन मास पूरे न हुए हों, तो चिकित्सक पहले सावधानी से पूर्वानुमान बताकर चिकित्सा करे।",
+   "explanation_en": "Two points: (1) treat bleeding in pregnancy like raktapitta but never with śodhana; (2) before the end of the 3rd month the fetus is not yet stable, so the physician should warn the family that the outcome is uncertain (pratyākhyāya). Exam tip: 'pratyākhyāya prasādhayet' shows the classical ethic of informed prognosis.",
+   "explanation_hi": "दो बातें: (1) गर्भावस्था के रक्तस्राव की चिकित्सा रक्तपित्त की भाँति करें पर शोधन कभी नहीं; (2) तीसरे मास के अन्त से पहले गर्भ स्थिर नहीं होता, इसलिए चिकित्सक परिवार को अनिश्चित परिणाम के बारे में बताए (प्रत्याख्याय)। परीक्षा टिप: 'प्रत्याख्याय प्रसाधयेत्' सूचित पूर्वानुमान की शास्त्रीय नीति दिखाता है।",
+   "modern_correlation": {
+    "en": "Modern data agree that the first trimester is the most vulnerable period: most miscarriages happen before 12 weeks, often due to chromosomal abnormalities, and many cannot be prevented. Counselling the couple honestly about prognosis is part of good modern practice as well.",
+    "hi": "आधुनिक आँकड़े भी मानते हैं कि पहली तिमाही सबसे संवेदनशील काल है: अधिकांश गर्भपात 12 सप्ताह से पहले होते हैं, प्रायः गुणसूत्रीय असामान्यताओं के कारण, और कई को रोका नहीं जा सकता। दम्पती को पूर्वानुमान के बारे में ईमानदारी से परामर्श देना अच्छी आधुनिक चिकित्सा का भी भाग है।"
+   },
+   "key_terms": [
+    "raktapitta",
+    "pratyākhyāya",
+    "trimāsa",
+    "jāṅgala māṃsa"
+   ],
+   "tags": [
+    "threatened-abortion",
+    "prognosis",
+    "first-trimester",
+    "ethics"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.7",
+   "word_meanings": [
+    {
+     "sa": "आमान्वये",
+     "iast": "āmānvaye",
+     "en": "when associated with āma",
+     "hi": "आम से युक्त होने पर"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "तत्र",
+     "iast": "tatra",
+     "en": "there",
+     "hi": "वहाँ"
+    },
+    {
+     "sa": "इष्टम्",
+     "iast": "iṣṭam",
+     "en": "is desirable",
+     "hi": "इष्ट है"
+    },
+    {
+     "sa": "शीतम्",
+     "iast": "śītam",
+     "en": "cold",
+     "hi": "शीतल"
+    },
+    {
+     "sa": "रूक्षोपसंहितम्",
+     "iast": "rūkṣopasaṃhitam",
+     "en": "combined with dry (measures)",
+     "hi": "रूक्ष (उपचार) से युक्त"
+    },
+    {
+     "sa": "उपवासः",
+     "iast": "upavāsaḥ",
+     "en": "fasting (light diet)",
+     "hi": "उपवास (लंघन)"
+    },
+    {
+     "sa": "घन",
+     "iast": "ghana",
+     "en": "ghana (musta)",
+     "hi": "घन (मुस्ता)"
+    },
+    {
+     "sa": "उशीर",
+     "iast": "uśīra",
+     "en": "uśīra (vetiver)",
+     "hi": "उशीर"
+    },
+    {
+     "sa": "गुडूची",
+     "iast": "guḍūcī",
+     "en": "guḍūcī (Tinospora)",
+     "hi": "गुडूची (गिलोय)"
+    },
+    {
+     "sa": "अरलु",
+     "iast": "aralu",
+     "en": "aralu (śyonāka)",
+     "hi": "अरलु (श्योनाक)"
+    },
+    {
+     "sa": "धान्यकाः",
+     "iast": "dhānyakāḥ",
+     "en": "coriander",
+     "hi": "धनिया"
+    }
+   ],
+   "english": "When it is associated with āma (undigested metabolic toxins), cold measures combined with dry ones are desirable: fasting, and (a decoction of) ghana (musta), uśīra, guḍūcī, aralu, coriander ... (continued).",
+   "hindi": "जब (गर्भस्राव) आम से युक्त हो, तब रूक्ष के साथ शीतल उपचार इष्ट है: उपवास, और घन (मुस्ता), उशीर, गुडूची, अरलु, धनिया... (आगे जारी)।",
+   "explanation_en": "If bleeding occurs with āma (indigestion, heaviness, fever, anorexia), the unctuous line is changed to śīta-rūkṣa, with laṅghana and āma-pācana drugs. This shows the Ayurvedic principle of treating the associated state (anubandha). Exam tip: 'sāma garbha-srāva → śīta + rūkṣa + upavāsa'.",
+   "explanation_hi": "यदि रक्तस्राव आम (अजीर्ण, भारीपन, ज्वर, अरुचि) के साथ हो, तो स्निग्ध उपचार बदलकर शीत-रूक्ष, लंघन और आम-पाचन द्रव्य दिए जाते हैं। यह अनुबन्धित अवस्था की चिकित्सा का आयुर्वेदिक सिद्धान्त दिखाता है। परीक्षा टिप: 'साम गर्भस्राव → शीत + रूक्ष + उपवास'।",
+   "modern_correlation": null,
+   "key_terms": [
+    "āma",
+    "śīta-rūkṣa",
+    "upavāsa",
+    "āma-pācana"
+   ],
+   "tags": [
+    "threatened-abortion",
+    "ama",
+    "treatment-principle"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.8",
+   "word_meanings": [
+    {
+     "sa": "दुरालभा",
+     "iast": "durālabhā",
+     "en": "durālabhā (Fagonia)",
+     "hi": "दुरालभा (धमासा)"
+    },
+    {
+     "sa": "पर्पटक",
+     "iast": "parpaṭaka",
+     "en": "parpaṭaka (Fumaria)",
+     "hi": "पर्पटक (पित्तपापड़ा)"
+    },
+    {
+     "sa": "चन्दन",
+     "iast": "candana",
+     "en": "sandalwood",
+     "hi": "चन्दन"
+    },
+    {
+     "sa": "अतिविषा",
+     "iast": "ativiṣā",
+     "en": "ativiṣā (Aconitum heterophyllum)",
+     "hi": "अतिविषा (अतीस)"
+    },
+    {
+     "sa": "बलाः",
+     "iast": "balāḥ",
+     "en": "balā (Sida)",
+     "hi": "बला"
+    },
+    {
+     "sa": "क्वथिताः",
+     "iast": "kvathitāḥ",
+     "en": "boiled",
+     "hi": "क्वाथ बनाकर"
+    },
+    {
+     "sa": "सलिले",
+     "iast": "salile",
+     "en": "in water",
+     "hi": "जल में"
+    },
+    {
+     "sa": "पानम्",
+     "iast": "pānam",
+     "en": "drink",
+     "hi": "पान"
+    },
+    {
+     "sa": "तृणधान्यानि",
+     "iast": "tṛṇadhānyāni",
+     "en": "grass grains (millets)",
+     "hi": "तृण-धान्य (कुधान्य/मोटे अनाज)"
+    },
+    {
+     "sa": "भोजनम्",
+     "iast": "bhojanam",
+     "en": "food",
+     "hi": "भोजन"
+    }
+   ],
+   "english": "... durālabhā, parpaṭaka, sandalwood, ativiṣā and balā, boiled in water, should be given to drink, and her food should be grass grains (millets) ... (continued).",
+   "hindi": "...दुरालभा, पर्पटक, चन्दन, अतिविषा और बला, इन्हें जल में उबालकर पिलाएँ, और भोजन में तृण-धान्य (मोटे अनाज) दें... (आगे जारी)।",
+   "explanation_en": "The decoction is cooling, āma-digesting and pitta-pacifying. Tṛṇa-dhānya (light millets) is chosen because it is rūkṣa and laghu. Continued in verse 9 with mudga soups.",
+   "explanation_hi": "यह क्वाथ शीतल, आम-पाचक और पित्तशामक है। तृण-धान्य (हल्के मोटे अनाज) इसलिए चुने गए क्योंकि वे रूक्ष और लघु हैं। श्लोक 9 में मुद्ग-यूष के साथ जारी।",
+   "modern_correlation": null,
+   "key_terms": [
+    "āma-pācana",
+    "tṛṇa-dhānya",
+    "ativiṣā"
+   ],
+   "tags": [
+    "threatened-abortion",
+    "ama",
+    "diet"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.9",
+   "word_meanings": [
+    {
+     "sa": "मुद्गादियूषैः",
+     "iast": "mudgādiyūṣaiḥ",
+     "en": "with soups of green gram etc.",
+     "hi": "मूँग आदि के यूष से"
+    },
+    {
+     "sa": "आमे",
+     "iast": "āme",
+     "en": "the āma",
+     "hi": "आम"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "किन्तु"
+    },
+    {
+     "sa": "जिते",
+     "iast": "jite",
+     "en": "once overcome",
+     "hi": "जीत लेने पर"
+    },
+    {
+     "sa": "स्निग्धादि",
+     "iast": "snigdhādi",
+     "en": "unctuous (and cooling) measures",
+     "hi": "स्निग्ध आदि उपचार"
+    },
+    {
+     "sa": "पूर्ववत्",
+     "iast": "pūrvavat",
+     "en": "as before",
+     "hi": "पहले की भाँति"
+    },
+    {
+     "sa": "गर्भे निपतिते",
+     "iast": "garbhe nipatite",
+     "en": "when the fetus has fallen (miscarriage)",
+     "hi": "गर्भ गिर जाने पर"
+    },
+    {
+     "sa": "तीक्ष्णम्",
+     "iast": "tīkṣṇam",
+     "en": "strong",
+     "hi": "तीक्ष्ण"
+    },
+    {
+     "sa": "मद्यम्",
+     "iast": "madyam",
+     "en": "alcoholic drink",
+     "hi": "मद्य"
+    },
+    {
+     "sa": "सामर्थ्यतः",
+     "iast": "sāmarthyataḥ",
+     "en": "according to her strength",
+     "hi": "सामर्थ्य के अनुसार"
+    },
+    {
+     "sa": "पिबेत्",
+     "iast": "pibet",
+     "en": "should drink",
+     "hi": "पिए"
+    }
+   ],
+   "english": "... with soups of green gram and the like. Once the āma is overcome, the unctuous (and cooling) measures should be used as before. When the fetus has fallen (miscarriage), she should drink strong alcoholic liquor according to her strength ... (continued).",
+   "hindi": "...मूँग आदि के यूष के साथ। आम जीत लेने पर पहले की भाँति स्निग्ध आदि उपचार करें। गर्भ गिर जाने पर वह अपने सामर्थ्य के अनुसार तीक्ष्ण मद्य पिए... (आगे जारी)।",
+   "explanation_en": "After āma is cleared, return to the snigdha-śīta line. The second half turns to garbha-pāta (completed miscarriage): classically, strong madya is given to clear the uterus and relieve pain (reason in verse 10). This is a historical prescription.",
+   "explanation_hi": "आम दूर होने पर फिर स्निग्ध-शीत उपचार। दूसरा अर्धांश गर्भपात (पूर्ण गर्भपात) की ओर मुड़ता है: शास्त्रीय रूप से गर्भाशय-शुद्धि और पीड़ा-शमन के लिए तीक्ष्ण मद्य दिया जाता था (कारण श्लोक 10 में)। यह ऐतिहासिक नुस्खा है।",
+   "modern_correlation": {
+    "en": "After a miscarriage, modern care checks whether it is complete (ultrasound), manages bleeding and pain with appropriate medicines, watches for infection and offers emotional support. Alcohol is not used today and is unsafe as a treatment.",
+    "hi": "गर्भपात के बाद आधुनिक देखभाल में यह जाँचा जाता है कि गर्भपात पूर्ण हुआ या नहीं (अल्ट्रासाउंड), रक्तस्राव और पीड़ा का उचित दवाओं से प्रबन्धन होता है, संक्रमण पर नज़र रखी जाती है और भावनात्मक सहारा दिया जाता है। आज मद्य का प्रयोग नहीं होता और उपचार के रूप में यह असुरक्षित है।"
+   },
+   "key_terms": [
+    "garbha-pāta",
+    "madya",
+    "mudga-yūṣa",
+    "āma"
+   ],
+   "tags": [
+    "miscarriage",
+    "post-abortion-care",
+    "historical-view"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.10",
+   "word_meanings": [
+    {
+     "sa": "गर्भकोष्ठविशुद्ध्यर्थम्",
+     "iast": "garbhakoṣṭhaviśuddhyartham",
+     "en": "for cleansing the uterus",
+     "hi": "गर्भाशय (गर्भकोष्ठ) की शुद्धि के लिए"
+    },
+    {
+     "sa": "अर्तिविस्मरणाय",
+     "iast": "artivismaraṇāya",
+     "en": "for forgetting the pain",
+     "hi": "पीड़ा भुलाने के लिए"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "लघुना पञ्चमूलेन",
+     "iast": "laghunā pañcamūlena",
+     "en": "with the minor pañcamūla",
+     "hi": "लघु पंचमूल से"
+    },
+    {
+     "sa": "रूक्षाम्",
+     "iast": "rūkṣām",
+     "en": "without fat",
+     "hi": "रूक्ष (बिना स्नेह)"
+    },
+    {
+     "sa": "पेयाम्",
+     "iast": "peyām",
+     "en": "thin gruel",
+     "hi": "पेया"
+    },
+    {
+     "sa": "ततः",
+     "iast": "tataḥ",
+     "en": "then",
+     "hi": "तत्पश्चात्"
+    },
+    {
+     "sa": "पिबेत्",
+     "iast": "pibet",
+     "en": "should drink",
+     "hi": "पिए"
+    }
+   ],
+   "english": "... for cleansing the uterus and for forgetting the pain. Then she should drink thin gruel (peyā) without fat, prepared with the laghu (minor) pañcamūla.",
+   "hindi": "...गर्भाशय की शुद्धि और पीड़ा भुलाने के लिए। तत्पश्चात् वह लघु पंचमूल से बनी रूक्ष पेया पिए।",
+   "explanation_en": "Aims after garbha-pāta: garbha-koṣṭha-viśuddhi (clearing the uterus of residual tissue and blood) and pain relief, followed by a light, rūkṣa peyā with laghu pañcamūla (śālaparṇī, pṛśniparṇī, bṛhatī, kaṇṭakārī, gokṣura). Exam tip: post-abortion diet starts rūkṣa and light.",
+   "explanation_hi": "गर्भपात के बाद उद्देश्य: गर्भकोष्ठ-विशुद्धि (गर्भाशय से शेष ऊतक और रक्त निकलना) और पीड़ा-शमन, फिर लघु पंचमूल (शालपर्णी, पृश्निपर्णी, बृहती, कण्टकारी, गोक्षुर) से हल्की, रूक्ष पेया। परीक्षा टिप: गर्भपात के बाद आहार रूक्ष और लघु से आरम्भ होता है।",
+   "modern_correlation": {
+    "en": "The aim of 'cleansing the uterus' is often compared to ensuring complete evacuation of the products of conception, which today is achieved by expectant management, medicines (misoprostol) or vacuum aspiration, depending on the case and under medical care.",
+    "hi": "'गर्भाशय-शुद्धि' के उद्देश्य की तुलना प्रायः गर्भ के अवशेषों के पूर्ण निष्कासन से की जाती है, जो आज स्थिति के अनुसार प्रतीक्षा, दवाओं (मिसोप्रोस्टॉल) या वैक्यूम एस्पिरेशन द्वारा चिकित्सकीय देखरेख में किया जाता है।"
+   },
+   "key_terms": [
+    "garbha-koṣṭha-viśuddhi",
+    "laghu pañcamūla",
+    "peyā"
+   ],
+   "tags": [
+    "miscarriage",
+    "post-abortion-care",
+    "diet"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.11",
+   "word_meanings": [
+    {
+     "sa": "पेयाम्",
+     "iast": "peyām",
+     "en": "thin gruel",
+     "hi": "पेया"
+    },
+    {
+     "sa": "अमद्यपा",
+     "iast": "amadyapā",
+     "en": "one who does not drink alcohol",
+     "hi": "जो मद्य न पीती हो"
+    },
+    {
+     "sa": "कल्के",
+     "iast": "kalke",
+     "en": "in the paste",
+     "hi": "कल्क में"
+    },
+    {
+     "sa": "साधिताम्",
+     "iast": "sādhitām",
+     "en": "prepared",
+     "hi": "सिद्ध की हुई"
+    },
+    {
+     "sa": "पाञ्चकौलिके",
+     "iast": "pāñcakaulike",
+     "en": "of pañcakola",
+     "hi": "पंचकोल के"
+    },
+    {
+     "sa": "बिल्वादिपञ्चकक्वाथे",
+     "iast": "bilvādipañcakakvāthe",
+     "en": "in a decoction of the bilvādi pentad (major pañcamūla)",
+     "hi": "बिल्वादि पंचक (बृहत् पंचमूल) के क्वाथ में"
+    },
+    {
+     "sa": "तिलोद्दालकतण्डुलैः",
+     "iast": "tiloddālakataṇḍulaiḥ",
+     "en": "with sesame, uddālaka (a wild grain) and rice",
+     "hi": "तिल, उद्दालक (जंगली धान्य) और चावल से"
+    }
+   ],
+   "english": "A woman who does not drink alcohol should take peyā prepared with a paste of pañcakola, or prepared with sesame, uddālaka and rice in a decoction of the bilvādi pentad (bṛhat pañcamūla).",
+   "hindi": "जो स्त्री मद्य न पीती हो, वह पंचकोल के कल्क से सिद्ध पेया, या बिल्वादि पंचक (बृहत् पंचमूल) के क्वाथ में तिल, उद्दालक और चावल से बनी पेया ले।",
+   "explanation_en": "An alternative for women who do not take alcohol: pañcakola peyā (agni-dīpana, vāta-anulomana, uterine cleansing) or bṛhat pañcamūla peyā. This shows that the classical texts adapted treatment to the patient's habits (sātmya).",
+   "explanation_hi": "मद्य न लेने वाली स्त्रियों के लिए विकल्प: पंचकोल पेया (अग्नि-दीपन, वातानुलोमन, गर्भाशय-शुद्धि) या बृहत् पंचमूल पेया। यह दिखाता है कि शास्त्र रोगी के अभ्यास (सात्म्य) के अनुसार चिकित्सा बदलते थे।",
+   "modern_correlation": null,
+   "key_terms": [
+    "pañcakola",
+    "bṛhat pañcamūla",
+    "peyā",
+    "sātmya"
+   ],
+   "tags": [
+    "miscarriage",
+    "post-abortion-care",
+    "diet"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.12",
+   "word_meanings": [
+    {
+     "sa": "मासतुल्यदिनानि",
+     "iast": "māsatulyadināni",
+     "en": "for as many days as the months (of pregnancy)",
+     "hi": "गर्भ के मासों जितने दिन"
+    },
+    {
+     "sa": "एवम्",
+     "iast": "evam",
+     "en": "thus",
+     "hi": "इस प्रकार"
+    },
+    {
+     "sa": "पेयादिः",
+     "iast": "peyādiḥ",
+     "en": "beginning with peyā",
+     "hi": "पेया से आरम्भ होने वाला"
+    },
+    {
+     "sa": "पतिते",
+     "iast": "patite",
+     "en": "after the fall (of the fetus)",
+     "hi": "गर्भ गिरने के बाद"
+    },
+    {
+     "sa": "क्रमः",
+     "iast": "kramaḥ",
+     "en": "regimen",
+     "hi": "क्रम"
+    },
+    {
+     "sa": "लघुः",
+     "iast": "laghuḥ",
+     "en": "light",
+     "hi": "लघु"
+    },
+    {
+     "sa": "अस्नेहलवणः",
+     "iast": "asnehalavaṇaḥ",
+     "en": "without fat and salt",
+     "hi": "बिना स्नेह और लवण"
+    },
+    {
+     "sa": "दीपनीययुतः",
+     "iast": "dīpanīyayutaḥ",
+     "en": "with appetisers",
+     "hi": "दीपनीय द्रव्यों से युक्त"
+    },
+    {
+     "sa": "हितः",
+     "iast": "hitaḥ",
+     "en": "is beneficial",
+     "hi": "हितकर"
+    }
+   ],
+   "english": "Thus, after the fetus has fallen, the regimen beginning with peyā should be followed for as many days as there were months of pregnancy; it should be light, without fat and salt, and combined with appetising (dīpanīya) drugs.",
+   "hindi": "इस प्रकार गर्भ गिरने के बाद पेया से आरम्भ होने वाला क्रम गर्भ के मासों जितने दिन चलाएँ; यह लघु, बिना स्नेह और लवण का, और दीपनीय द्रव्यों से युक्त हो।",
+   "explanation_en": "Classic rule (high-yield): after garbha-pāta, the light peyādi krama lasts 'māsa-tulya dina', as many days as the months of gestation (e.g. 3 days after a 3-month miscarriage). Exam tip: 'māsatulya dināni' is often asked.",
+   "explanation_hi": "शास्त्रीय नियम (महत्वपूर्ण): गर्भपात के बाद हल्का पेयादि क्रम 'मास-तुल्य दिन' चलता है, यानी गर्भ के जितने मास उतने दिन (जैसे 3 मास के गर्भपात के बाद 3 दिन)। परीक्षा टिप: 'मासतुल्य दिनानि' प्रायः पूछा जाता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "māsa-tulya dina",
+    "peyādi krama",
+    "dīpanīya"
+   ],
+   "tags": [
+    "miscarriage",
+    "post-abortion-care",
+    "numbers"
+   ],
+   "importance": "high",
+   "mnemonic": "Months pregnant = days of peyā regimen.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.13",
+   "word_meanings": [
+    {
+     "sa": "दोषधातुपरिक्लेदशोषार्थम्",
+     "iast": "doṣadhātuparikledaśoṣārtham",
+     "en": "to dry up the excess moisture of doṣas and dhātus",
+     "hi": "दोषों और धातुओं के अतिरिक्त क्लेद को सुखाने के लिए"
+    },
+    {
+     "sa": "विधिः",
+     "iast": "vidhiḥ",
+     "en": "procedure",
+     "hi": "विधि"
+    },
+    {
+     "sa": "इति अयम्",
+     "iast": "ity ayam",
+     "en": "this is",
+     "hi": "यह है"
+    },
+    {
+     "sa": "स्नेहान्नवस्तयः",
+     "iast": "snehānnavastayaḥ",
+     "en": "sneha, (nourishing) food and vasti",
+     "hi": "स्नेह, अन्न और वस्ति"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "ऊर्ध्वम्",
+     "iast": "ūrdhvam",
+     "en": "thereafter",
+     "hi": "उसके बाद"
+    },
+    {
+     "sa": "बल्यदीपनजीवनाः",
+     "iast": "balyadīpanajīvanāḥ",
+     "en": "strengthening, appetising and life-promoting",
+     "hi": "बल्य, दीपन और जीवनीय"
+    }
+   ],
+   "english": "This procedure is meant to dry up the excess moisture (kleda) of the doṣas and dhātus. Thereafter, sneha, food and vasti that are strengthening, appetising and life-promoting should be given.",
+   "hindi": "यह विधि दोषों और धातुओं के अतिरिक्त क्लेद को सुखाने के लिए है। उसके बाद बल्य, दीपन और जीवनीय स्नेह, अन्न और वस्ति देनी चाहिए।",
+   "explanation_en": "The reasoning behind the post-abortion regimen: first remove kleda (residual moisture, lochia-like discharge) with light, dry diet; then rebuild strength with snehana, nourishing food and vasti. Exam tip: two phases, śoṣaṇa then bṛṃhaṇa.",
+   "explanation_hi": "गर्भपात के बाद की विधि का तर्क: पहले हल्के, रूक्ष आहार से क्लेद (शेष द्रव, लोकिया-जैसा स्राव) दूर करना; फिर स्नेहन, पोषक अन्न और वस्ति से बल लौटाना। परीक्षा टिप: दो चरण, पहले शोषण फिर बृंहण।",
+   "modern_correlation": {
+    "en": "A recovery approach that first lets bleeding settle and then restores nutrition and strength fits general post-miscarriage advice: rest as needed, a nourishing diet with iron, and follow-up for anaemia, infection and emotional health.",
+    "hi": "पहले रक्तस्राव शान्त होने देने और फिर पोषण व बल लौटाने का क्रम गर्भपात के बाद की सामान्य सलाह से मेल खाता है: आवश्यकतानुसार विश्राम, आयरनयुक्त पोषक आहार, और रक्ताल्पता, संक्रमण तथा भावनात्मक स्वास्थ्य के लिए अनुवर्ती जाँच।"
+   },
+   "key_terms": [
+    "kleda",
+    "śoṣaṇa",
+    "bṛṃhaṇa",
+    "vasti"
+   ],
+   "tags": [
+    "miscarriage",
+    "post-abortion-care",
+    "treatment-principle"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.14",
+   "word_meanings": [
+    {
+     "sa": "संजातसारे",
+     "iast": "saṃjātasāre",
+     "en": "when it has become substantial (firm)",
+     "hi": "सारयुक्त (पुष्ट) हो जाने पर"
+    },
+    {
+     "sa": "महति",
+     "iast": "mahati",
+     "en": "large",
+     "hi": "बड़े"
+    },
+    {
+     "sa": "गर्भे",
+     "iast": "garbhe",
+     "en": "the fetus",
+     "hi": "गर्भ के"
+    },
+    {
+     "sa": "योनिपरिस्रवात्",
+     "iast": "yoniparisravāt",
+     "en": "due to discharge from the vagina",
+     "hi": "योनि से स्राव होने के कारण"
+    },
+    {
+     "sa": "वृद्धिम्",
+     "iast": "vṛddhim",
+     "en": "growth",
+     "hi": "वृद्धि"
+    },
+    {
+     "sa": "अप्राप्नुवन्",
+     "iast": "aprāpnuvan",
+     "en": "not attaining",
+     "hi": "न पाता हुआ"
+    },
+    {
+     "sa": "गर्भः",
+     "iast": "garbhaḥ",
+     "en": "the fetus",
+     "hi": "गर्भ"
+    },
+    {
+     "sa": "कोष्ठे",
+     "iast": "koṣṭhe",
+     "en": "in the abdomen",
+     "hi": "कोष्ठ में"
+    },
+    {
+     "sa": "तिष्ठति",
+     "iast": "tiṣṭhati",
+     "en": "remains",
+     "hi": "रहता है"
+    },
+    {
+     "sa": "सस्फुरः",
+     "iast": "sasphuraḥ",
+     "en": "with (some) movement",
+     "hi": "स्फुरण (गति) सहित"
+    }
+   ],
+   "english": "When the fetus has become firm and large, (but) because of discharge from the vagina it fails to grow, it remains in the abdomen with (some) movement ... (continued).",
+   "hindi": "जब गर्भ सारयुक्त और बड़ा हो चुका हो, (पर) योनि से स्राव के कारण वृद्धि न पाकर वह स्फुरण सहित कोष्ठ में पड़ा रहता है... (आगे जारी)।",
+   "explanation_en": "Introduces upaviṣṭaka (a fetus that 'sits' without growing): the fetus is well formed and still moves, but recurrent vaginal discharge (blood or fluid) stops its growth. Named in verse 15. Exam tip: upaviṣṭaka = sphuraṇa present, growth absent.",
+   "explanation_hi": "उपविष्टक (बिना बढ़े 'बैठा' गर्भ) का परिचय: गर्भ बना हुआ है और गति करता है, पर बार-बार योनि-स्राव (रक्त या द्रव) से उसकी वृद्धि रुक जाती है। नाम श्लोक 15 में। परीक्षा टिप: उपविष्टक = स्फुरण है, वृद्धि नहीं।",
+   "modern_correlation": {
+    "en": "Upaviṣṭaka is often compared to fetal growth restriction, sometimes associated with chronic bleeding or leakage of amniotic fluid (oligohydramnios), where the fetus is alive but smaller than expected. It is diagnosed and monitored by ultrasound and Doppler studies.",
+    "hi": "उपविष्टक की तुलना प्रायः भ्रूण-वृद्धि अवरोध (FGR) से की जाती है, जो कभी-कभी लगातार रक्तस्राव या एम्नियोटिक द्रव के रिसाव (ओलिगोहाइड्राम्नियोस) से जुड़ा होता है, जिसमें भ्रूण जीवित पर अपेक्षा से छोटा होता है। इसका निदान और निगरानी अल्ट्रासाउंड और डॉप्लर से होती है।"
+   },
+   "key_terms": [
+    "upaviṣṭaka",
+    "yoni-parisrava",
+    "sphuraṇa"
+   ],
+   "tags": [
+    "upavishtaka",
+    "fetal-growth-restriction",
+    "garbhavyapad"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.15",
+   "word_meanings": [
+    {
+     "sa": "उपविष्टकम्",
+     "iast": "upaviṣṭakam",
+     "en": "upaviṣṭaka",
+     "hi": "उपविष्टक"
+    },
+    {
+     "sa": "आहुः",
+     "iast": "āhuḥ",
+     "en": "they call",
+     "hi": "कहते हैं"
+    },
+    {
+     "sa": "तम्",
+     "iast": "tam",
+     "en": "it",
+     "hi": "उसे"
+    },
+    {
+     "sa": "वर्धते",
+     "iast": "vardhate",
+     "en": "grows",
+     "hi": "बढ़ता है"
+    },
+    {
+     "sa": "तेन",
+     "iast": "tena",
+     "en": "therefore",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "न",
+     "iast": "na",
+     "en": "not",
+     "hi": "नहीं"
+    },
+    {
+     "sa": "उदरम्",
+     "iast": "udaram",
+     "en": "the abdomen",
+     "hi": "पेट"
+    },
+    {
+     "sa": "शोकोपवासरूक्षाद्यैः",
+     "iast": "śokopavāsarūkṣādyaiḥ",
+     "en": "by grief, fasting, dry food etc.",
+     "hi": "शोक, उपवास, रूक्ष आहार आदि से"
+    },
+    {
+     "sa": "अथवा",
+     "iast": "athavā",
+     "en": "or",
+     "hi": "अथवा"
+    },
+    {
+     "sa": "योन्यतिस्रवात्",
+     "iast": "yonyatisravāt",
+     "en": "from excessive vaginal discharge",
+     "hi": "योनि से अति स्राव से"
+    }
+   ],
+   "english": "This is called upaviṣṭaka; because of it the abdomen does not grow. Or, due to grief, fasting, dry food and the like, or excessive vaginal discharge ... (continued: the second condition).",
+   "hindi": "इसे उपविष्टक कहते हैं; इसके कारण पेट नहीं बढ़ता। अथवा शोक, उपवास, रूक्ष आहार आदि से, या योनि से अति स्राव से... (आगे जारी: दूसरी स्थिति)।",
+   "explanation_en": "Upaviṣṭaka is named; its key sign is that the abdomen does not enlarge. The second half lists causes of the next condition, nāgodara: grief, fasting, rūkṣa diet and excess discharge, all of which aggravate vāta (verse 16). Exam tip: compare upaviṣṭaka and nāgodara in a table.",
+   "explanation_hi": "उपविष्टक का नाम दिया गया; मुख्य लक्षण है पेट का न बढ़ना। दूसरा अर्धांश अगली स्थिति नागोदर के कारण बताता है: शोक, उपवास, रूक्ष आहार और अति स्राव, जो सब वात बढ़ाते हैं (श्लोक 16)। परीक्षा टिप: उपविष्टक और नागोदर की तुलना तालिका में करें।",
+   "modern_correlation": {
+    "en": "Maternal undernutrition and severe stress are recognised risk factors for poor fetal growth, matching the causes listed for nāgodara in a general way.",
+    "hi": "माता का कुपोषण और गम्भीर तनाव भ्रूण की कम वृद्धि के मान्य जोखिम-कारक हैं, जो नागोदर के बताए कारणों से सामान्य रूप में मेल खाते हैं।"
+   },
+   "key_terms": [
+    "upaviṣṭaka",
+    "nāgodara",
+    "vāta",
+    "upavāsa"
+   ],
+   "tags": [
+    "upavishtaka",
+    "nagodara",
+    "fetal-growth-restriction"
+   ],
+   "importance": "high",
+   "mnemonic": "Upaviṣṭaka: discharge → no growth, still moves.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.16",
+   "word_meanings": [
+    {
+     "sa": "वाते क्रुद्धे",
+     "iast": "vāte kruddhe",
+     "en": "when vāta is aggravated",
+     "hi": "वात के कुपित होने पर"
+    },
+    {
+     "sa": "कृशः",
+     "iast": "kṛśaḥ",
+     "en": "thin",
+     "hi": "कृश"
+    },
+    {
+     "sa": "शुष्येत्",
+     "iast": "śuṣyet",
+     "en": "dries up",
+     "hi": "सूख जाता है"
+    },
+    {
+     "sa": "गर्भः",
+     "iast": "garbhaḥ",
+     "en": "the fetus",
+     "hi": "गर्भ"
+    },
+    {
+     "sa": "नागोदरम्",
+     "iast": "nāgodaram",
+     "en": "nāgodara",
+     "hi": "नागोदर"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "indeed",
+     "hi": "तो"
+    },
+    {
+     "sa": "तम्",
+     "iast": "tam",
+     "en": "it",
+     "hi": "उसे"
+    },
+    {
+     "sa": "उदरम्",
+     "iast": "udaram",
+     "en": "the abdomen",
+     "hi": "पेट"
+    },
+    {
+     "sa": "वृद्धम् अपि",
+     "iast": "vṛddham api",
+     "en": "even though enlarged",
+     "hi": "बढ़ा हुआ भी"
+    },
+    {
+     "sa": "अत्र",
+     "iast": "atra",
+     "en": "here",
+     "hi": "इसमें"
+    },
+    {
+     "sa": "हीयते",
+     "iast": "hīyate",
+     "en": "diminishes",
+     "hi": "घटता है"
+    },
+    {
+     "sa": "स्फुरणम्",
+     "iast": "sphuraṇam",
+     "en": "movement",
+     "hi": "स्फुरण"
+    },
+    {
+     "sa": "चिरात्",
+     "iast": "cirāt",
+     "en": "after a long time (delayed/feeble)",
+     "hi": "देर से (मन्द)"
+    }
+   ],
+   "english": "... vāta becomes aggravated and the fetus becomes thin and dries up; this is called nāgodara. Here even an enlarged abdomen diminishes, and fetal movements are felt only after long intervals.",
+   "hindi": "...वात कुपित होकर गर्भ को कृश करके सुखा देता है; इसे नागोदर कहते हैं। इसमें बढ़ा हुआ पेट भी घटने लगता है और गर्भ का स्फुरण देर-देर से होता है।",
+   "explanation_en": "Nāgodara: vāta dries the fetus (garbha-śoṣa); the abdomen, which had grown, regresses, and movements become infrequent. Contrast with upaviṣṭaka, where the abdomen simply fails to grow but movement is present. Exam tip: nāgodara = garbha-śoṣa due to vāta, with udara-hāni.",
+   "explanation_hi": "नागोदर: वात गर्भ को सुखा देता है (गर्भ-शोष); बढ़ा हुआ पेट घटने लगता है और गति कम हो जाती है। उपविष्टक से तुलना करें, जिसमें पेट केवल बढ़ता नहीं पर गति रहती है। परीक्षा टिप: नागोदर = वात से गर्भ-शोष, उदर-हानि सहित।",
+   "modern_correlation": {
+    "en": "Nāgodara is often compared to severe fetal growth restriction with reduced amniotic fluid, or, where movements cease and the uterus shrinks, to a missed miscarriage or fetal demise. Reduced fetal movements are a warning sign that needs same-day assessment (CTG, ultrasound).",
+    "hi": "नागोदर की तुलना प्रायः कम एम्नियोटिक द्रव सहित गम्भीर भ्रूण-वृद्धि अवरोध से, या जहाँ गति रुक जाए और गर्भाशय सिकुड़े वहाँ मिस्ड मिसकैरिज या भ्रूण-मृत्यु से की जाती है। भ्रूण की गति कम होना चेतावनी संकेत है जिसकी उसी दिन जाँच (CTG, अल्ट्रासाउंड) आवश्यक है।"
+   },
+   "key_terms": [
+    "nāgodara",
+    "garbha-śoṣa",
+    "vāta",
+    "sphuraṇa"
+   ],
+   "tags": [
+    "nagodara",
+    "fetal-growth-restriction",
+    "garbhavyapad"
+   ],
+   "importance": "high",
+   "mnemonic": "Nāgodara: Vāta dries baby; belly shrinks; kicks rare.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.17",
+   "word_meanings": [
+    {
+     "sa": "तयोः",
+     "iast": "tayoḥ",
+     "en": "in both of them (upaviṣṭaka and nāgodara)",
+     "hi": "दोनों में (उपविष्टक और नागोदर)"
+    },
+    {
+     "sa": "बृंहणवातघ्नमधुरद्रव्यसंस्कृतैः",
+     "iast": "bṛṃhaṇavātaghnamadhuradravyasaṃskṛtaiḥ",
+     "en": "processed with nourishing, vāta-alleviating and sweet drugs",
+     "hi": "बृंहण, वातघ्न और मधुर द्रव्यों से संस्कारित"
+    },
+    {
+     "sa": "घृतक्षीररसैः",
+     "iast": "ghṛtakṣīrarasaiḥ",
+     "en": "with ghee, milk and meat soup",
+     "hi": "घी, दूध और मांस-रस से"
+    },
+    {
+     "sa": "तृप्तिः",
+     "iast": "tṛptiḥ",
+     "en": "satiation (nourishment)",
+     "hi": "तृप्ति (पोषण)"
+    },
+    {
+     "sa": "आमगर्भान्",
+     "iast": "āmagarbhān",
+     "en": "immature embryos (of animals, e.g. eggs; per commentators)",
+     "hi": "आम-गर्भ (पशुओं के अपक्व भ्रूण/अण्डे; टीकानुसार)"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "खादयेत्",
+     "iast": "khādayet",
+     "en": "should make (her) eat",
+     "hi": "खिलाए"
+    }
+   ],
+   "english": "In both (upaviṣṭaka and nāgodara), she should be well nourished with ghee, milk and meat soups processed with nourishing, vāta-alleviating and sweet drugs, and she should be made to eat āma-garbha (immature animal embryos, explained by commentators as eggs or fetuses of animals).",
+   "hindi": "दोनों (उपविष्टक और नागोदर) में बृंहण, वातघ्न और मधुर द्रव्यों से संस्कारित घी, दूध और मांस-रस से उसे भली-भाँति तृप्त करें, और उसे आम-गर्भ (पशुओं के अपक्व भ्रूण, टीकाकारों के अनुसार अण्डे या पशु-गर्भ) खिलाएँ।",
+   "explanation_en": "Principle of treatment for garbha-śoṣa: bṛṃhaṇa (nourishment) plus vāta-śamana with madhura drugs. Āma-garbha follows the 'like nourishes like' idea (sāmānya); its exact meaning is debated. Exam tip: 'upaviṣṭaka/nāgodara cikitsā = bṛṃhaṇa + vātaghna + madhura'.",
+   "explanation_hi": "गर्भ-शोष की चिकित्सा का सिद्धान्त: मधुर द्रव्यों से बृंहण (पोषण) और वात-शमन। आम-गर्भ 'समान से वृद्धि' (सामान्य) के विचार पर आधारित है; इसका ठीक अर्थ विवादित है। परीक्षा टिप: 'उपविष्टक/नागोदर चिकित्सा = बृंहण + वातघ्न + मधुर'।",
+   "modern_correlation": {
+    "en": "Improving maternal nutrition (energy, protein, micronutrients) is part of managing poor fetal growth in undernourished women, but fetal growth restriction is mostly caused by placental insufficiency and needs specialist monitoring and timely delivery rather than diet alone.",
+    "hi": "कुपोषित महिलाओं में भ्रूण की कम वृद्धि के प्रबन्धन में माता के पोषण (ऊर्जा, प्रोटीन, सूक्ष्म पोषक) में सुधार एक भाग है, पर भ्रूण-वृद्धि अवरोध प्रायः अपरा की अपर्याप्तता से होता है और केवल आहार नहीं, बल्कि विशेषज्ञ निगरानी और समय पर प्रसव की आवश्यकता होती है।"
+   },
+   "key_terms": [
+    "bṛṃhaṇa",
+    "vātaghna",
+    "āma-garbha",
+    "sāmānya"
+   ],
+   "tags": [
+    "upavishtaka",
+    "nagodara",
+    "treatment-principle",
+    "nutrition"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.18",
+   "word_meanings": [
+    {
+     "sa": "तैः एव",
+     "iast": "tair eva",
+     "en": "with those very (items)",
+     "hi": "उन्हीं से"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "सुभिक्षायाः",
+     "iast": "subhikṣāyāḥ",
+     "en": "of her who is well fed",
+     "hi": "भली-भाँति तृप्त हुई का"
+    },
+    {
+     "sa": "क्षोभणम्",
+     "iast": "kṣobhaṇam",
+     "en": "jolting",
+     "hi": "क्षोभण (हिलाना)"
+    },
+    {
+     "sa": "यानवाहनैः",
+     "iast": "yānavāhanaiḥ",
+     "en": "by riding in vehicles and on animals",
+     "hi": "यान और वाहनों से"
+    },
+    {
+     "sa": "लीनाख्ये",
+     "iast": "līnākhye",
+     "en": "in the condition called līna",
+     "hi": "लीन नामक स्थिति में"
+    },
+    {
+     "sa": "निस्फुरे",
+     "iast": "nisphure",
+     "en": "without movement",
+     "hi": "स्फुरण-रहित"
+    },
+    {
+     "sa": "श्येन",
+     "iast": "śyena",
+     "en": "hawk",
+     "hi": "बाज़"
+    },
+    {
+     "sa": "गो",
+     "iast": "go",
+     "en": "cow",
+     "hi": "गाय"
+    },
+    {
+     "sa": "मत्स्य",
+     "iast": "matsya",
+     "en": "fish",
+     "hi": "मछली"
+    },
+    {
+     "sa": "उत्क्रोश",
+     "iast": "utkrośa",
+     "en": "osprey",
+     "hi": "उत्क्रोश (कुरर पक्षी)"
+    },
+    {
+     "sa": "बर्हिजाः",
+     "iast": "barhijāḥ",
+     "en": "(and) peacock",
+     "hi": "मोर से उत्पन्न"
+    }
+   ],
+   "english": "When she is well fed with those very items, (the fetus should be stimulated by) jolting her through riding in vehicles. In the condition called līna, where the fetus has no movement, (soups) made from hawk, cow, fish, osprey and peacock ... (continued).",
+   "hindi": "उन्हीं से भली-भाँति तृप्त होने पर यान और वाहनों से (गर्भ को) क्षोभित (हिलाया) जाए। लीन नामक स्थिति में, जहाँ गर्भ में स्फुरण न हो, बाज़, गाय, मछली, उत्क्रोश और मोर के (मांस-रस)... (आगे जारी)।",
+   "explanation_en": "Kṣobhaṇa (gentle jolting by riding) was meant to stimulate a sluggish fetus once the mother is nourished. Līna-garbha is the third condition: a 'hidden', motionless fetus (Caraka calls it līna; Suśruta names it līna garbha). Exam tip: three garbha-śoṣa types: upaviṣṭaka, nāgodara, līna.",
+   "explanation_hi": "क्षोभण (वाहन पर सवारी से हल्का हिलना) माता के पोषित होने पर सुस्त गर्भ को उत्तेजित करने के लिए था। लीन-गर्भ तीसरी स्थिति है: 'छिपा हुआ', गतिहीन गर्भ (चरक इसे लीन कहते हैं)। परीक्षा टिप: गर्भ-शोष के तीन प्रकार: उपविष्टक, नागोदर, लीन।",
+   "modern_correlation": {
+    "en": "A fetus with absent or markedly reduced movements needs urgent assessment today (CTG and ultrasound) to check its well-being; jolting or bumpy travel is not a modern method and should be avoided.",
+    "hi": "जिस गर्भ की गति अनुपस्थित या बहुत कम हो, उसकी आज तत्काल जाँच (CTG और अल्ट्रासाउंड) आवश्यक है ताकि उसकी स्थिति देखी जाए; हिलाना या झटकेदार यात्रा आधुनिक विधि नहीं है और इससे बचना चाहिए।"
+   },
+   "key_terms": [
+    "līna garbha",
+    "kṣobhaṇa",
+    "nisphura"
+   ],
+   "tags": [
+    "lina-garbha",
+    "reduced-fetal-movements",
+    "garbhavyapad"
+   ],
+   "importance": "high",
+   "mnemonic": "Three 'stalled' fetuses: Upaviṣṭaka, Nāgodara, Līna.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.19",
+   "word_meanings": [
+    {
+     "sa": "रसाः",
+     "iast": "rasāḥ",
+     "en": "meat soups",
+     "hi": "मांस-रस"
+    },
+    {
+     "sa": "बहुघृताः",
+     "iast": "bahughṛtāḥ",
+     "en": "with plenty of ghee",
+     "hi": "अधिक घी सहित"
+    },
+    {
+     "sa": "देयाः",
+     "iast": "deyāḥ",
+     "en": "should be given",
+     "hi": "देने चाहिए"
+    },
+    {
+     "sa": "माषमूलकजाः",
+     "iast": "māṣamūlakajāḥ",
+     "en": "made of black gram and radish",
+     "hi": "उड़द और मूली के"
+    },
+    {
+     "sa": "अपि",
+     "iast": "api",
+     "en": "also",
+     "hi": "भी"
+    },
+    {
+     "sa": "बालबिल्वम्",
+     "iast": "bālabilvam",
+     "en": "unripe bilva fruit",
+     "hi": "कच्चा बेल"
+    },
+    {
+     "sa": "तिलान्",
+     "iast": "tilān",
+     "en": "sesame",
+     "hi": "तिल"
+    },
+    {
+     "sa": "माषान्",
+     "iast": "māṣān",
+     "en": "black gram",
+     "hi": "उड़द"
+    },
+    {
+     "sa": "सक्तून्",
+     "iast": "saktūn",
+     "en": "roasted flour (saktu)",
+     "hi": "सत्तू"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "पयसा",
+     "iast": "payasā",
+     "en": "with milk",
+     "hi": "दूध के साथ"
+    },
+    {
+     "sa": "पिबेत्",
+     "iast": "pibet",
+     "en": "should drink",
+     "hi": "पिए"
+    }
+   ],
+   "english": "... soups with plenty of ghee should be given, and also those made of black gram and radish. She should drink unripe bilva, sesame, black gram and saktu (roasted flour) with milk ... (continued).",
+   "hindi": "...अधिक घी सहित मांस-रस दें, और उड़द व मूली के यूष भी। वह कच्चा बेल, तिल, उड़द और सत्तू दूध के साथ पिए... (आगे जारी)।",
+   "explanation_en": "Treatment of līna-garbha: highly nourishing, unctuous and somewhat stimulating foods (meat soups with ghee, māṣa, tila) to increase the vitality of mother and fetus. Classical text for study.",
+   "explanation_hi": "लीन-गर्भ की चिकित्सा: अत्यन्त पोषक, स्निग्ध और कुछ उत्तेजक आहार (घी सहित मांस-रस, उड़द, तिल), ताकि माता और गर्भ की शक्ति बढ़े। अध्ययन हेतु शास्त्रीय पाठ।",
+   "modern_correlation": null,
+   "key_terms": [
+    "līna garbha",
+    "bṛṃhaṇa",
+    "māṣa",
+    "saktu"
+   ],
+   "tags": [
+    "lina-garbha",
+    "diet",
+    "treatment"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.20",
+   "word_meanings": [
+    {
+     "sa": "समेद्यमांसम्",
+     "iast": "samedyamāṃsam",
+     "en": "fatty meat",
+     "hi": "चर्बीयुक्त मांस"
+    },
+    {
+     "sa": "मधु",
+     "iast": "madhu",
+     "en": "honey",
+     "hi": "मधु"
+    },
+    {
+     "sa": "वा",
+     "iast": "vā",
+     "en": "or",
+     "hi": "या"
+    },
+    {
+     "sa": "कट्यभ्यङ्गम्",
+     "iast": "kaṭyabhyaṅgam",
+     "en": "oil massage of the waist",
+     "hi": "कमर की तेल-मालिश"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "शीलयेत्",
+     "iast": "śīlayet",
+     "en": "should practise regularly",
+     "hi": "नियमित करे"
+    },
+    {
+     "sa": "हर्षयेत्",
+     "iast": "harṣayet",
+     "en": "should keep cheerful",
+     "hi": "प्रसन्न रखे"
+    },
+    {
+     "sa": "सततम्",
+     "iast": "satatam",
+     "en": "constantly",
+     "hi": "सदा"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "एनाम्",
+     "iast": "enām",
+     "en": "her",
+     "hi": "उसे"
+    },
+    {
+     "sa": "एवम्",
+     "iast": "evam",
+     "en": "thus",
+     "hi": "इस प्रकार"
+    },
+    {
+     "sa": "गर्भः",
+     "iast": "garbhaḥ",
+     "en": "the fetus",
+     "hi": "गर्भ"
+    },
+    {
+     "sa": "प्रवर्धते",
+     "iast": "pravardhate",
+     "en": "grows well",
+     "hi": "भली-भाँति बढ़ता है"
+    }
+   ],
+   "english": "... (she should take) fatty meat or honey, and regularly have oil massage of the waist. She should be kept constantly cheerful; in this way the fetus grows well.",
+   "hindi": "...(वह) चर्बीयुक्त मांस या मधु ले, और नियमित रूप से कमर की तेल-मालिश करे। उसे सदा प्रसन्न रखें; इस प्रकार गर्भ भली-भाँति बढ़ता है।",
+   "explanation_en": "Completes the līna treatment: nourishing diet, kaṭi-abhyaṅga and constant harṣaṇa (cheerfulness). The emphasis on the mother's mood recurs throughout these chapters. Exam tip: three pillars, āhāra (nourishment), abhyaṅga, harṣaṇa.",
+   "explanation_hi": "लीन की चिकित्सा पूरी: पोषक आहार, कटि-अभ्यंग और निरन्तर हर्षण (प्रसन्नता)। माता की मनःस्थिति पर बल इन अध्यायों में बार-बार आता है। परीक्षा टिप: तीन स्तम्भ, आहार, अभ्यंग, हर्षण।",
+   "modern_correlation": null,
+   "key_terms": [
+    "kaṭi-abhyaṅga",
+    "harṣaṇa",
+    "bṛṃhaṇa"
+   ],
+   "tags": [
+    "lina-garbha",
+    "treatment",
+    "psychological-support"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.21",
+   "word_meanings": [
+    {
+     "sa": "पुष्टः",
+     "iast": "puṣṭaḥ",
+     "en": "nourished",
+     "hi": "पुष्ट"
+    },
+    {
+     "sa": "अन्यथा",
+     "iast": "anyathā",
+     "en": "otherwise",
+     "hi": "अन्यथा"
+    },
+    {
+     "sa": "वर्षगणैः",
+     "iast": "varṣagaṇaiḥ",
+     "en": "over many years",
+     "hi": "अनेक वर्षों में"
+    },
+    {
+     "sa": "कृच्छ्रात्",
+     "iast": "kṛcchrāt",
+     "en": "with difficulty",
+     "hi": "कठिनाई से"
+    },
+    {
+     "sa": "जायेत",
+     "iast": "jāyeta",
+     "en": "may be born",
+     "hi": "जन्म ले"
+    },
+    {
+     "sa": "न एव वा",
+     "iast": "naiva vā",
+     "en": "or not at all",
+     "hi": "या बिल्कुल नहीं"
+    },
+    {
+     "sa": "उदावर्तम्",
+     "iast": "udāvartam",
+     "en": "udāvarta (upward movement of vāta with retention)",
+     "hi": "उदावर्त (वात की ऊर्ध्वगति व अवरोध)"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "किन्तु"
+    },
+    {
+     "sa": "गर्भिण्याः",
+     "iast": "garbhiṇyāḥ",
+     "en": "of the pregnant woman",
+     "hi": "गर्भिणी के"
+    },
+    {
+     "sa": "स्नेहैः",
+     "iast": "snehaiḥ",
+     "en": "with unctuous preparations",
+     "hi": "स्नेहों से"
+    },
+    {
+     "sa": "आशुतराम्",
+     "iast": "āśutarām",
+     "en": "very quickly",
+     "hi": "शीघ्रतापूर्वक"
+    },
+    {
+     "sa": "जयेत्",
+     "iast": "jayet",
+     "en": "should overcome",
+     "hi": "जीते"
+    }
+   ],
+   "english": "Otherwise, (the fetus) nourished only over many years may be born with difficulty or not at all. Udāvarta (upward-moving vāta with retention of faeces, flatus and urine) in a pregnant woman should be overcome very quickly with unctuous preparations ... (continued).",
+   "hindi": "अन्यथा (गर्भ) अनेक वर्षों में पुष्ट होकर कठिनाई से जन्म लेता है या बिल्कुल नहीं। गर्भिणी के उदावर्त (मल, वायु, मूत्र के अवरोध सहित वात की ऊर्ध्वगति) को स्नेहों से शीघ्रता से जीतना चाहिए... (आगे जारी)।",
+   "explanation_en": "Without treatment, the stalled fetus may stay 'for years' (classical view) and be born with difficulty or never. Then udāvarta in pregnancy is introduced as an urgent condition, to be treated quickly with sneha and vasti (verse 22). Exam tip: udāvarta in garbhiṇī is dangerous for both mother and fetus.",
+   "explanation_hi": "चिकित्सा न हो तो रुका गर्भ 'वर्षों' रह सकता है (शास्त्रीय मत) और कठिनाई से या कभी नहीं जन्मता। फिर गर्भिणी के उदावर्त को आपात स्थिति बताया गया है, जिसे स्नेह और वस्ति से शीघ्र ठीक करना है (श्लोक 22)। परीक्षा टिप: गर्भिणी में उदावर्त माता और गर्भ दोनों के लिए खतरनाक है।",
+   "modern_correlation": {
+    "en": "A pregnancy lasting years is not physiologically possible; such accounts may reflect retained dead fetuses (e.g. lithopedion, very rare) or conditions mimicking pregnancy. Constipation and bloating are common in pregnancy and are managed with diet, fluids and safe laxatives; severe abdominal pain with vomiting needs urgent evaluation.",
+    "hi": "वर्षों चलने वाली गर्भावस्था शारीरिक रूप से सम्भव नहीं; ऐसे वर्णन रुके हुए मृत भ्रूण (जैसे लिथोपीडियन, अति दुर्लभ) या गर्भ जैसी दिखने वाली स्थितियों को दर्शा सकते हैं। गर्भावस्था में कब्ज़ और पेट फूलना आम है और आहार, तरल व सुरक्षित रेचकों से सँभाला जाता है; उल्टी के साथ तीव्र पेट-दर्द की तत्काल जाँच आवश्यक है।"
+   },
+   "key_terms": [
+    "udāvarta",
+    "sneha",
+    "garbha-śoṣa"
+   ],
+   "tags": [
+    "udavarta",
+    "garbhavyapad",
+    "prognosis"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.22",
+   "word_meanings": [
+    {
+     "sa": "योग्यैः",
+     "iast": "yogyaiḥ",
+     "en": "with suitable",
+     "hi": "उपयुक्त"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "वस्तिभिः",
+     "iast": "vastibhiḥ",
+     "en": "enemas",
+     "hi": "वस्तियों से"
+    },
+    {
+     "sa": "हन्यात्",
+     "iast": "hanyāt",
+     "en": "would kill",
+     "hi": "मार सकता है"
+    },
+    {
+     "sa": "सगर्भाम्",
+     "iast": "sagarbhām",
+     "en": "together with the fetus",
+     "hi": "गर्भ सहित"
+    },
+    {
+     "sa": "सः",
+     "iast": "saḥ",
+     "en": "it (udāvarta)",
+     "hi": "वह (उदावर्त)"
+    },
+    {
+     "sa": "हि",
+     "iast": "hi",
+     "en": "for",
+     "hi": "क्योंकि"
+    },
+    {
+     "sa": "गर्भिणीम्",
+     "iast": "garbhiṇīm",
+     "en": "the pregnant woman",
+     "hi": "गर्भिणी को"
+    },
+    {
+     "sa": "गर्भे",
+     "iast": "garbhe",
+     "en": "when the fetus",
+     "hi": "जब गर्भ"
+    },
+    {
+     "sa": "अतिदोषोपचयात्",
+     "iast": "atidoṣopacayāt",
+     "en": "from excessive accumulation of doṣas",
+     "hi": "दोषों के अति संचय से"
+    },
+    {
+     "sa": "अपथ्यैः",
+     "iast": "apathyaiḥ",
+     "en": "by unwholesome things",
+     "hi": "अपथ्य से"
+    },
+    {
+     "sa": "दैवतः",
+     "iast": "daivataḥ",
+     "en": "by fate",
+     "hi": "दैव से"
+    },
+    {
+     "sa": "अपि वा",
+     "iast": "api vā",
+     "en": "or even",
+     "hi": "या भी"
+    }
+   ],
+   "english": "... and with suitable enemas (vasti), for it (udāvarta) can kill the pregnant woman together with the fetus. When, from excessive accumulation of doṣas, from unwholesome conduct or even from fate, the fetus ... (continued: dies in the womb).",
+   "hindi": "...और उपयुक्त वस्तियों से (जीते), क्योंकि वह (उदावर्त) गर्भिणी को गर्भ सहित मार सकता है। जब दोषों के अति संचय से, अपथ्य से, या दैव से भी गर्भ... (आगे जारी: गर्भ में मर जाए)।",
+   "explanation_en": "Udāvarta is treated with sneha and suitable (mild) vasti because, unchecked, it can endanger both lives. The second half begins mṛta-garbha (intrauterine death), giving three causes: doṣa-upacaya, apathya and daiva. Exam tip: causes of garbha-maraṇa per Vāgbhaṭa.",
+   "explanation_hi": "उदावर्त की चिकित्सा स्नेह और उपयुक्त (मृदु) वस्ति से होती है, क्योंकि अनियन्त्रित रहने पर यह दोनों जीवनों को संकट में डालता है। दूसरा अर्धांश मृत-गर्भ (गर्भाशय में मृत्यु) आरम्भ करता है, तीन कारण बताते हुए: दोष-उपचय, अपथ्य और दैव। परीक्षा टिप: वाग्भट के अनुसार गर्भ-मरण के कारण।",
+   "modern_correlation": {
+    "en": "Intrauterine fetal death has many causes, including placental problems, maternal conditions (hypertension, diabetes, infections), fetal anomalies and cord accidents, and in a substantial share no cause is found, which loosely parallels the classical inclusion of 'daiva' (unexplained causes).",
+    "hi": "गर्भाशय में भ्रूण-मृत्यु के अनेक कारण हैं, जैसे अपरा-सम्बन्धी समस्याएँ, मातृ रोग (उच्च रक्तचाप, मधुमेह, संक्रमण), भ्रूण-विकृतियाँ और गर्भनाल-दुर्घटनाएँ, और बड़ी संख्या में कोई कारण नहीं मिलता, जो 'दैव' (अज्ञात कारण) के शास्त्रीय समावेश से कुछ मेल खाता है।"
+   },
+   "key_terms": [
+    "udāvarta",
+    "vasti",
+    "mṛta-garbha",
+    "daiva"
+   ],
+   "tags": [
+    "udavarta",
+    "intrauterine-death",
+    "garbhavyapad"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.23",
+   "word_meanings": [
+    {
+     "sa": "मृते अन्तः",
+     "iast": "mṛte 'ntaḥ",
+     "en": "when (the fetus) has died inside",
+     "hi": "भीतर मर जाने पर"
+    },
+    {
+     "sa": "उदरम्",
+     "iast": "udaram",
+     "en": "the abdomen",
+     "hi": "पेट"
+    },
+    {
+     "sa": "शीतम्",
+     "iast": "śītam",
+     "en": "cold",
+     "hi": "ठंडा"
+    },
+    {
+     "sa": "स्तब्धम्",
+     "iast": "stabdham",
+     "en": "rigid",
+     "hi": "कड़ा"
+    },
+    {
+     "sa": "ध्मातम्",
+     "iast": "dhmātam",
+     "en": "distended",
+     "hi": "फूला हुआ"
+    },
+    {
+     "sa": "भृशव्यथम्",
+     "iast": "bhṛśavyatham",
+     "en": "very painful",
+     "hi": "अत्यन्त पीड़ायुक्त"
+    },
+    {
+     "sa": "गर्भास्पन्दः",
+     "iast": "garbhāspandaḥ",
+     "en": "absence of fetal movement",
+     "hi": "गर्भ का स्पन्दन न होना"
+    },
+    {
+     "sa": "भ्रमतृष्णा",
+     "iast": "bhramatṛṣṇā",
+     "en": "giddiness and thirst",
+     "hi": "भ्रम (चक्कर) और प्यास"
+    },
+    {
+     "sa": "कृच्छ्रात् उच्छ्वसनम्",
+     "iast": "kṛcchrād ucchvasanam",
+     "en": "difficult breathing",
+     "hi": "कठिनाई से साँस लेना"
+    },
+    {
+     "sa": "क्लमः",
+     "iast": "klamaḥ",
+     "en": "exhaustion",
+     "hi": "क्लम (थकान)"
+    }
+   ],
+   "english": "... has died inside, the abdomen becomes cold, rigid, distended and very painful; there is absence of fetal movement, giddiness, thirst, difficult breathing and exhaustion ... (continued).",
+   "hindi": "...भीतर मर जाए, तो पेट ठंडा, कड़ा, फूला हुआ और अत्यन्त पीड़ायुक्त होता है; गर्भ का स्पन्दन नहीं होता, चक्कर, प्यास, साँस लेने में कठिनाई और थकान होती है... (आगे जारी)।",
+   "explanation_en": "Mṛta-garbha lakṣaṇa (signs of intrauterine fetal death), a frequently asked list: udara śīta, stabdha, ādhmāta, vyathā, garbha-aspandana, bhrama, tṛṣṇā, śvāsa-kṛcchra, klama; continued in verse 24. Exam tip: the single most important sign is garbha-aspandana.",
+   "explanation_hi": "मृत-गर्भ लक्षण (गर्भाशय में भ्रूण-मृत्यु के लक्षण), बहुत पूछी जाने वाली सूची: उदर शीत, स्तब्ध, आध्मात, व्यथा, गर्भ-अस्पन्दन, भ्रम, तृष्णा, श्वास-कृच्छ्र, क्लम; श्लोक 24 में जारी। परीक्षा टिप: सबसे महत्वपूर्ण लक्षण गर्भ-अस्पन्दन है।",
+   "modern_correlation": {
+    "en": "These are often compared to features of intrauterine fetal death: absent fetal movements, regression of pregnancy symptoms and, if the dead fetus is retained or infected, maternal malaise, fever and pain. Diagnosis today is confirmed by ultrasound showing absent cardiac activity; prolonged retention carries risks such as infection and clotting disorders (DIC).",
+    "hi": "इनकी तुलना प्रायः गर्भाशय में भ्रूण-मृत्यु (IUFD) की विशेषताओं से की जाती है: भ्रूण-गति का न होना, गर्भ-लक्षणों का घटना, और मृत भ्रूण के रुके रहने या संक्रमित होने पर माता में अस्वस्थता, बुखार और पीड़ा। आज निदान अल्ट्रासाउंड पर हृदय-गति न दिखने से पक्का होता है; लम्बे समय तक रुके रहने पर संक्रमण और रक्त-स्कंदन विकार (DIC) का जोखिम होता है।"
+   },
+   "key_terms": [
+    "mṛta-garbha lakṣaṇa",
+    "garbha-aspandana",
+    "ādhmāna"
+   ],
+   "tags": [
+    "intrauterine-death",
+    "signs",
+    "lists"
+   ],
+   "importance": "high",
+   "mnemonic": "Dead fetus: cold, stiff, swollen, painful belly; no kicks.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.24",
+   "word_meanings": [
+    {
+     "sa": "अरतिः",
+     "iast": "aratiḥ",
+     "en": "restlessness",
+     "hi": "बेचैनी"
+    },
+    {
+     "sa": "स्रस्तनेत्रत्वम्",
+     "iast": "srastanetratvam",
+     "en": "sunken (drooping) eyes",
+     "hi": "नेत्रों का शिथिल/धँसा होना"
+    },
+    {
+     "sa": "आवीनाम् असमुद्भवः",
+     "iast": "āvīnām asamudbhavaḥ",
+     "en": "non-appearance of labour pains",
+     "hi": "प्रसव-वेदनाओं का न होना"
+    },
+    {
+     "sa": "तस्याः",
+     "iast": "tasyāḥ",
+     "en": "her",
+     "hi": "उसकी"
+    },
+    {
+     "sa": "कोष्णाम्बुसिक्तायाः",
+     "iast": "koṣṇāmbusiktāyāḥ",
+     "en": "after sprinkling with lukewarm water",
+     "hi": "गुनगुने जल से सिंचित करके"
+    },
+    {
+     "sa": "पिष्ट्वा",
+     "iast": "piṣṭvā",
+     "en": "having ground",
+     "hi": "पीसकर"
+    },
+    {
+     "sa": "योनिम्",
+     "iast": "yonim",
+     "en": "the vagina",
+     "hi": "योनि पर"
+    },
+    {
+     "sa": "प्रलेपयेत्",
+     "iast": "pralepayet",
+     "en": "should smear",
+     "hi": "लेप करे"
+    }
+   ],
+   "english": "... restlessness, sunken eyes, and non-appearance of labour pains. After bathing her with lukewarm water, one should grind (the following) and smear it on the vagina ... (continued).",
+   "hindi": "...बेचैनी, आँखों का धँसना, और प्रसव-वेदनाओं (आवी) का न होना। उसे गुनगुने जल से स्नान कराकर (निम्न द्रव्य) पीसकर योनि पर लेप करें... (आगे जारी)।",
+   "explanation_en": "Last signs of mṛta-garbha: arati, srasta-netra and absence of āvī (no labour). Management begins: warm-water sprinkling and local applications to induce expulsion (verse 25). Classical text for study only.",
+   "explanation_hi": "मृत-गर्भ के अन्तिम लक्षण: अरति, स्रस्त-नेत्र और आवी का अभाव (प्रसव न होना)। चिकित्सा आरम्भ: गर्भ निकालने के लिए गुनगुने जल से सिंचन और स्थानीय लेप (श्लोक 25)। केवल अध्ययन हेतु शास्त्रीय पाठ।",
+   "modern_correlation": null,
+   "key_terms": [
+    "mṛta-garbha lakṣaṇa",
+    "āvī",
+    "pralepa"
+   ],
+   "tags": [
+    "intrauterine-death",
+    "signs",
+    "treatment"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.25",
+   "word_meanings": [
+    {
+     "sa": "गुडम्",
+     "iast": "guḍam",
+     "en": "jaggery",
+     "hi": "गुड़"
+    },
+    {
+     "sa": "किण्वम्",
+     "iast": "kiṇvam",
+     "en": "yeast (fermenting agent)",
+     "hi": "किण्व (खमीर)"
+    },
+    {
+     "sa": "सलवणम्",
+     "iast": "salavaṇam",
+     "en": "with salt",
+     "hi": "नमक सहित"
+    },
+    {
+     "sa": "तथा",
+     "iast": "tathā",
+     "en": "likewise",
+     "hi": "तथा"
+    },
+    {
+     "sa": "अन्तः",
+     "iast": "antaḥ",
+     "en": "inside",
+     "hi": "भीतर"
+    },
+    {
+     "sa": "पूरयेत्",
+     "iast": "pūrayet",
+     "en": "should fill",
+     "hi": "भरे"
+    },
+    {
+     "sa": "मुहुः",
+     "iast": "muhuḥ",
+     "en": "repeatedly",
+     "hi": "बार-बार"
+    },
+    {
+     "sa": "घृतेन",
+     "iast": "ghṛtena",
+     "en": "with ghee",
+     "hi": "घी से"
+    },
+    {
+     "sa": "कल्कीकृतया",
+     "iast": "kalkīkṛtayā",
+     "en": "made into a paste",
+     "hi": "कल्क बनाकर"
+    },
+    {
+     "sa": "शाल्मल्यतसिपिच्छया",
+     "iast": "śālmalyatasipicchayā",
+     "en": "with the mucilage of śālmalī (silk cotton) and atasī (linseed)",
+     "hi": "शाल्मली (सेमल) और अतसी (अलसी) की पिच्छा (लसीले स्राव) से"
+    }
+   ],
+   "english": "... jaggery, yeast and salt; and likewise the inside (of the vagina) should be filled repeatedly with ghee mixed into a paste with the mucilage of śālmalī and atasī.",
+   "hindi": "...गुड़, किण्व (खमीर) और नमक; तथा योनि के भीतर घी में मिलाकर बनाए शाल्मली और अतसी की पिच्छा के कल्क को बार-बार भरें।",
+   "explanation_en": "Local measures to soften and lubricate the birth canal and stimulate expulsion of the dead fetus: a warming lepa of guḍa-kiṇva-lavaṇa, and slippery (picchila) mucilages with ghee. Exam tip: śālmalī picchā is the classical lubricant in mūḍha-garbha management.",
+   "explanation_hi": "मृत गर्भ निकालने हेतु जन्म-मार्ग को मृदु, चिकना करने और निष्कासन उत्तेजित करने के स्थानीय उपाय: गुड़-किण्व-लवण का उष्ण लेप, और घी सहित पिच्छिल (लसीले) द्रव्य। परीक्षा टिप: मूढ़-गर्भ प्रबन्धन में शाल्मली पिच्छा शास्त्रीय स्नेहक है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "śālmalī picchā",
+    "pralepa",
+    "mṛta-garbha nirharaṇa"
+   ],
+   "tags": [
+    "intrauterine-death",
+    "treatment",
+    "local-therapy"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.26",
+   "word_meanings": [
+    {
+     "sa": "मन्त्रैः",
+     "iast": "mantraiḥ",
+     "en": "by mantras",
+     "hi": "मन्त्रों से"
+    },
+    {
+     "sa": "योगैः",
+     "iast": "yogaiḥ",
+     "en": "by remedies",
+     "hi": "योगों से"
+    },
+    {
+     "sa": "जरायूक्तैः",
+     "iast": "jarāyūktaiḥ",
+     "en": "(those) prescribed for (retained) placenta",
+     "hi": "जरायु (अपरा) के लिए कहे गए"
+    },
+    {
+     "sa": "मूढगर्भः",
+     "iast": "mūḍhagarbhaḥ",
+     "en": "the obstructed fetus",
+     "hi": "मूढ़ गर्भ"
+    },
+    {
+     "sa": "न चेत् पतेत्",
+     "iast": "na cet patet",
+     "en": "if it does not come out",
+     "hi": "यदि न निकले"
+    },
+    {
+     "sa": "अथ",
+     "iast": "atha",
+     "en": "then",
+     "hi": "तब"
+    },
+    {
+     "sa": "आपृच्छ्य",
+     "iast": "āpṛcchya",
+     "en": "having asked (permission of)",
+     "hi": "अनुमति लेकर"
+    },
+    {
+     "sa": "ईश्वरम्",
+     "iast": "īśvaram",
+     "en": "the ruler/authority (or head of household)",
+     "hi": "राजा/अधिकारी (या गृहस्वामी) से"
+    },
+    {
+     "sa": "वैद्यः",
+     "iast": "vaidyaḥ",
+     "en": "the physician",
+     "hi": "वैद्य"
+    },
+    {
+     "sa": "यत्नेन",
+     "iast": "yatnena",
+     "en": "carefully",
+     "hi": "सावधानी से"
+    },
+    {
+     "sa": "आशु",
+     "iast": "āśu",
+     "en": "quickly",
+     "hi": "शीघ्र"
+    },
+    {
+     "sa": "तम्",
+     "iast": "tam",
+     "en": "it",
+     "hi": "उसे"
+    },
+    {
+     "sa": "आहरेत्",
+     "iast": "āharet",
+     "en": "should extract",
+     "hi": "निकाले"
+    }
+   ],
+   "english": "If the obstructed fetus (mūḍha-garbha) does not come out with the mantras and remedies described for (retained) placenta, then the physician, after obtaining permission from the authority (īśvara), should carefully and quickly extract it.",
+   "hindi": "यदि अपरा के लिए कहे गए मन्त्रों और योगों से मूढ़ गर्भ न निकले, तो वैद्य अधिकारी (ईश्वर) से अनुमति लेकर सावधानी से शीघ्र उसे निकाले।",
+   "explanation_en": "When medical measures fail, surgical extraction (śalya karma) follows. Taking permission from the īśvara (ruler or head of the family) before a risky procedure is an early example of formal consent, also stressed by Suśruta. Exam tip: 'āpṛcchya īśvaram', consent before mūḍha-garbha surgery.",
+   "explanation_hi": "जब औषधीय उपाय विफल हों, तब शल्य द्वारा निष्कासन होता है। जोखिमपूर्ण प्रक्रिया से पहले ईश्वर (राजा या परिवार-प्रमुख) से अनुमति लेना औपचारिक सहमति का प्राचीन उदाहरण है, जिस पर सुश्रुत भी बल देते हैं। परीक्षा टिप: 'आपृच्छ्य ईश्वरम्', मूढ़-गर्भ शल्यकर्म से पहले सहमति।",
+   "modern_correlation": {
+    "en": "This parallels the modern principle of informed consent before any obstetric operation, and the urgency of delivering a retained dead fetus or obstructed labour. Today the patient herself gives consent, and the procedure is chosen by a trained obstetrician (induction, assisted delivery or caesarean).",
+    "hi": "यह किसी भी प्रसूति-शल्यकर्म से पहले सूचित सहमति (informed consent) के आधुनिक सिद्धान्त और रुके मृत भ्रूण या अवरुद्ध प्रसव में शीघ्र प्रसव की आवश्यकता से मेल खाता है। आज सहमति स्वयं रोगी देती है, और प्रक्रिया (प्रेरण, सहायक प्रसव या सिज़ेरियन) प्रशिक्षित प्रसूति-विशेषज्ञ चुनते हैं।"
+   },
+   "key_terms": [
+    "mūḍha-garbha",
+    "āpṛcchya īśvaram",
+    "śalya karma"
+   ],
+   "tags": [
+    "mudha-garbha",
+    "consent",
+    "obstetric-surgery",
+    "ethics"
+   ],
+   "importance": "high",
+   "mnemonic": "Drugs fail → ask permission → extract.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.27",
+   "word_meanings": [
+    {
+     "sa": "हस्तम्",
+     "iast": "hastam",
+     "en": "the hand",
+     "hi": "हाथ"
+    },
+    {
+     "sa": "अभ्यज्य",
+     "iast": "abhyajya",
+     "en": "having anointed",
+     "hi": "चुपड़कर"
+    },
+    {
+     "sa": "योनिम्",
+     "iast": "yonim",
+     "en": "the vagina",
+     "hi": "योनि"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "साज्यशाल्मलिपिच्छया",
+     "iast": "sājyaśālmalipicchayā",
+     "en": "with śālmalī mucilage and ghee",
+     "hi": "घी सहित शाल्मली पिच्छा से"
+    },
+    {
+     "sa": "हस्तेन",
+     "iast": "hastena",
+     "en": "with the hand",
+     "hi": "हाथ से"
+    },
+    {
+     "sa": "शक्यम्",
+     "iast": "śakyam",
+     "en": "what is possible",
+     "hi": "जो सम्भव हो"
+    },
+    {
+     "sa": "तेन एव",
+     "iast": "tenaiva",
+     "en": "with that very (hand)",
+     "hi": "उसी से"
+    },
+    {
+     "sa": "गात्रम्",
+     "iast": "gātram",
+     "en": "the body (part)",
+     "hi": "अंग"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "विषमम्",
+     "iast": "viṣamam",
+     "en": "abnormally",
+     "hi": "विषम (टेढ़ा)"
+    },
+    {
+     "sa": "स्थितम्",
+     "iast": "sthitam",
+     "en": "positioned",
+     "hi": "स्थित"
+    }
+   ],
+   "english": "Having anointed the hand and the vagina with śālmalī mucilage and ghee, whatever is possible by hand (should be done); with that same hand, a body part that is abnormally positioned ... (continued).",
+   "hindi": "हाथ और योनि को घी सहित शाल्मली पिच्छा से चुपड़कर, जो हाथ से सम्भव हो (करें); उसी हाथ से विषम स्थित अंग को... (आगे जारी)।",
+   "explanation_en": "Manual correction of mūḍha-garbha with a well-lubricated hand: the first choice is non-cutting manipulation (hasta-karma); cutting (śastra-karma) is reserved for cases that cannot be corrected (verses 29–30). Continued in verse 28.",
+   "explanation_hi": "भली-भाँति चिकने हाथ से मूढ़-गर्भ का हस्त-सुधार: पहला विकल्प बिना काटे हस्त-कर्म है; काटना (शस्त्र-कर्म) केवल उन स्थितियों के लिए है जो सुधारी न जा सकें (श्लोक 29–30)। श्लोक 28 में जारी।",
+   "modern_correlation": {
+    "en": "This resembles historical manual manoeuvres for malpresentation, such as internal podalic version, which are now rarely performed (mainly for a second twin) because caesarean section is safer in most cases.",
+    "hi": "यह विकृत प्रस्तुति के लिए ऐतिहासिक हस्त-विधियों, जैसे इंटरनल पोडालिक वर्शन, जैसा है, जो अब बहुत कम किए जाते हैं (मुख्यतः दूसरे जुड़वाँ के लिए), क्योंकि अधिकांश स्थितियों में सिज़ेरियन अधिक सुरक्षित है।"
+   },
+   "key_terms": [
+    "mūḍha-garbha",
+    "hasta-karma",
+    "śālmalī picchā"
+   ],
+   "tags": [
+    "mudha-garbha",
+    "malpresentation",
+    "obstetric-surgery"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.28",
+   "word_meanings": [
+    {
+     "sa": "आञ्छन",
+     "iast": "āñchana",
+     "en": "pulling",
+     "hi": "खींचना"
+    },
+    {
+     "sa": "उत्पीड",
+     "iast": "utpīḍa",
+     "en": "pushing up",
+     "hi": "ऊपर धकेलना"
+    },
+    {
+     "sa": "संपीड",
+     "iast": "saṃpīḍa",
+     "en": "compressing",
+     "hi": "दबाना"
+    },
+    {
+     "sa": "विक्षेप",
+     "iast": "vikṣepa",
+     "en": "moving aside",
+     "hi": "एक ओर हटाना"
+    },
+    {
+     "sa": "उत्क्षेपण",
+     "iast": "utkṣepaṇa",
+     "en": "lifting",
+     "hi": "उठाना"
+    },
+    {
+     "sa": "आदिभिः",
+     "iast": "ādibhiḥ",
+     "en": "and other manoeuvres",
+     "hi": "आदि क्रियाओं से"
+    },
+    {
+     "sa": "आनुलोम्य",
+     "iast": "ānulomya",
+     "en": "having brought into the normal direction",
+     "hi": "अनुलोम (सीधा) करके"
+    },
+    {
+     "sa": "समाकर्षेत्",
+     "iast": "samākarṣet",
+     "en": "should pull out",
+     "hi": "बाहर खींचे"
+    },
+    {
+     "sa": "योनिम्",
+     "iast": "yonim",
+     "en": "to the vagina",
+     "hi": "योनि की ओर"
+    },
+    {
+     "sa": "प्रति",
+     "iast": "prati",
+     "en": "towards",
+     "hi": "की ओर"
+    },
+    {
+     "sa": "आर्जवागतम्",
+     "iast": "ārjavāgatam",
+     "en": "when it has come straight",
+     "hi": "सीधा आने पर"
+    }
+   ],
+   "english": "... by pulling, pushing up, compressing, moving aside, lifting and similar manoeuvres, should be brought into the normal direction, and pulled out once it has come straight towards the vagina.",
+   "hindi": "...खींचने, ऊपर धकेलने, दबाने, एक ओर हटाने, उठाने आदि क्रियाओं से अनुलोम (सीधा) करके, जब वह योनि की ओर सीधा आ जाए तब बाहर खींचें।",
+   "explanation_en": "The six manoeuvres (āñchana, utpīḍana, saṃpīḍana, vikṣepa, utkṣepaṇa, etc.) for correcting a malpresented fetus are a well-known exam list, also given by Suśruta. The goal is ānulomya: making the fetus lie along the axis of the birth canal before traction.",
+   "explanation_hi": "विकृत प्रस्तुत गर्भ को सुधारने की क्रियाएँ (आंछन, उत्पीडन, संपीडन, विक्षेप, उत्क्षेपण आदि) प्रसिद्ध परीक्षा-सूची है, जो सुश्रुत में भी है। उद्देश्य आनुलोम्य है: खींचने से पहले गर्भ को जन्म-मार्ग की धुरी में लाना।",
+   "modern_correlation": {
+    "en": "These are often compared to obstetric manoeuvres for correcting malpresentation or malposition (version, rotation) before vaginal delivery. Modern practice uses external cephalic version for breech at term and caesarean section for most malpresentations in labour.",
+    "hi": "इनकी तुलना प्रायः योनि-प्रसव से पहले विकृत प्रस्तुति या स्थिति सुधारने की प्रसूति-विधियों (वर्शन, रोटेशन) से की जाती है। आधुनिक चिकित्सा पूर्णकाल पर ब्रीच के लिए एक्सटर्नल सेफेलिक वर्शन और प्रसव में अधिकांश विकृत प्रस्तुतियों के लिए सिज़ेरियन का प्रयोग करती है।"
+   },
+   "key_terms": [
+    "āñchana",
+    "utpīḍana",
+    "ānulomya",
+    "mūḍha-garbha"
+   ],
+   "tags": [
+    "mudha-garbha",
+    "malpresentation",
+    "obstetric-manoeuvres",
+    "lists"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.29",
+   "word_meanings": [
+    {
+     "sa": "हस्तपादशिरोभिः",
+     "iast": "hastapādaśirobhiḥ",
+     "en": "with hands, feet and head (together)",
+     "hi": "हाथ, पैर और सिर से (एक साथ)"
+    },
+    {
+     "sa": "यः",
+     "iast": "yaḥ",
+     "en": "which (fetus)",
+     "hi": "जो (गर्भ)"
+    },
+    {
+     "sa": "योनिम्",
+     "iast": "yonim",
+     "en": "the vagina",
+     "hi": "योनि में"
+    },
+    {
+     "sa": "भुग्नः",
+     "iast": "bhugnaḥ",
+     "en": "bent",
+     "hi": "मुड़ा हुआ"
+    },
+    {
+     "sa": "प्रपद्यते",
+     "iast": "prapadyate",
+     "en": "enters",
+     "hi": "प्रवेश करता है"
+    },
+    {
+     "sa": "पादेन",
+     "iast": "pādena",
+     "en": "with a foot",
+     "hi": "एक पैर से"
+    },
+    {
+     "sa": "योनिम्",
+     "iast": "yonim",
+     "en": "the vagina",
+     "hi": "योनि में"
+    },
+    {
+     "sa": "एकेन",
+     "iast": "ekena",
+     "en": "with one",
+     "hi": "एक से"
+    },
+    {
+     "sa": "भुग्नः",
+     "iast": "bhugnaḥ",
+     "en": "bent",
+     "hi": "मुड़ा हुआ"
+    },
+    {
+     "sa": "अन्येन",
+     "iast": "anyena",
+     "en": "with the other",
+     "hi": "दूसरे से"
+    },
+    {
+     "sa": "गुदम्",
+     "iast": "gudam",
+     "en": "the anus (rectal side)",
+     "hi": "गुदा की ओर"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "यः",
+     "iast": "yaḥ",
+     "en": "which",
+     "hi": "जो"
+    }
+   ],
+   "english": "The fetus that, bent, enters the vagina with hands, feet and head together, and the one that, bent, enters with one foot into the vagina and the other towards the anus ... (continued).",
+   "hindi": "जो गर्भ मुड़कर हाथ, पैर और सिर एक साथ योनि में डालता है, और जो मुड़कर एक पैर योनि में और दूसरा गुदा की ओर डालता है... (आगे जारी)।",
+   "explanation_en": "Two types of mūḍha-garbha that cannot be corrected by hand: (1) compound presentation with hands, feet and head together, (2) one leg in the vagina and the other pressed towards the anus. They are named viṣkambha in verse 30. Exam tip: Suśruta lists eight types of mūḍha-garbha; Vāgbhaṭa singles out these two as needing surgery.",
+   "explanation_hi": "दो प्रकार के मूढ़-गर्भ जो हाथ से नहीं सुधरते: (1) संयुक्त प्रस्तुति जिसमें हाथ, पैर और सिर एक साथ, (2) एक पैर योनि में और दूसरा गुदा की ओर दबा। श्लोक 30 में इन्हें विष्कम्भ कहा गया है। परीक्षा टिप: सुश्रुत आठ प्रकार के मूढ़-गर्भ बताते हैं; वाग्भट इन दो को शल्य-योग्य बताते हैं।",
+   "modern_correlation": {
+    "en": "These are often compared to compound presentations and obstructed breech or transverse lies with prolapsed limbs, which in modern obstetrics are indications for caesarean section if the fetus is alive.",
+    "hi": "इनकी तुलना प्रायः संयुक्त प्रस्तुति और अंग बाहर निकले अवरुद्ध ब्रीच या अनुप्रस्थ स्थिति से की जाती है, जो आधुनिक प्रसूति-विज्ञान में भ्रूण जीवित हो तो सिज़ेरियन के संकेत हैं।"
+   },
+   "key_terms": [
+    "mūḍha-garbha",
+    "viṣkambha",
+    "bhugna"
+   ],
+   "tags": [
+    "mudha-garbha",
+    "malpresentation"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.30",
+   "word_meanings": [
+    {
+     "sa": "विष्कम्भौ",
+     "iast": "viṣkambhau",
+     "en": "viṣkambha (the two 'obstructing' types)",
+     "hi": "विष्कम्भ (दो अवरोधक प्रकार)"
+    },
+    {
+     "sa": "नाम",
+     "iast": "nāma",
+     "en": "named",
+     "hi": "नामक"
+    },
+    {
+     "sa": "तौ",
+     "iast": "tau",
+     "en": "these two",
+     "hi": "ये दोनों"
+    },
+    {
+     "sa": "मूढौ",
+     "iast": "mūḍhau",
+     "en": "obstructed fetuses",
+     "hi": "मूढ़ गर्भ"
+    },
+    {
+     "sa": "शस्त्रदारणम्",
+     "iast": "śastradāraṇam",
+     "en": "cutting with a knife",
+     "hi": "शस्त्र से काटना"
+    },
+    {
+     "sa": "अर्हतः",
+     "iast": "arhataḥ",
+     "en": "deserve, require",
+     "hi": "योग्य हैं"
+    },
+    {
+     "sa": "मण्डलाङ्गुलिशस्त्राभ्याम्",
+     "iast": "maṇḍalāṅguliśastrābhyām",
+     "en": "with the maṇḍalāgra and aṅguli-śastra (finger knife)",
+     "hi": "मण्डलाग्र और अंगुलि-शस्त्र से"
+    },
+    {
+     "sa": "तत्र",
+     "iast": "tatra",
+     "en": "there",
+     "hi": "वहाँ"
+    },
+    {
+     "sa": "कर्म",
+     "iast": "karma",
+     "en": "the operation",
+     "hi": "कर्म"
+    },
+    {
+     "sa": "प्रशस्यते",
+     "iast": "praśasyate",
+     "en": "is recommended",
+     "hi": "प्रशस्त है"
+    }
+   ],
+   "english": "These two obstructed fetuses, named viṣkambha, require cutting with a knife. For this operation, the maṇḍalāgra (round-tipped knife) and the aṅguli-śastra (finger knife) are recommended.",
+   "hindi": "ये दोनों मूढ़ गर्भ, जिन्हें विष्कम्भ कहते हैं, शस्त्र से काटने योग्य हैं। इस कर्म के लिए मण्डलाग्र (गोल नोक वाला शस्त्र) और अंगुलि-शस्त्र प्रशस्त हैं।",
+   "explanation_en": "Viṣkambha mūḍha-garbha need śastra-karma (destructive operation on the dead fetus). The choice of blunt-tipped instruments (maṇḍalāgra, aṅguli-śastra) protects the mother's birth canal. Exam tip: instruments used in mūḍha-garbha = maṇḍalāgra, aṅguli-śastra; vṛddhipatra is prohibited (verse 31).",
+   "explanation_hi": "विष्कम्भ मूढ़-गर्भ में शस्त्र-कर्म (मृत गर्भ पर विनाशक शल्य) आवश्यक है। गोल नोक वाले शस्त्रों (मण्डलाग्र, अंगुलि-शस्त्र) का चयन माता के जन्म-मार्ग की रक्षा करता है। परीक्षा टिप: मूढ़-गर्भ में प्रयुक्त शस्त्र = मण्डलाग्र, अंगुलि-शस्त्र; वृद्धिपत्र वर्जित (श्लोक 31)।",
+   "modern_correlation": {
+    "en": "Historical obstetrics. Destructive operations on a dead fetus (craniotomy, decapitation, evisceration) were once standard for obstructed labour and are still described in obstetric texts, but are now rare; caesarean section and modern resuscitation have largely replaced them. Such procedures are only for trained obstetricians.",
+    "hi": "ऐतिहासिक प्रसूति-शल्य। मृत भ्रूण पर विनाशक शल्यकर्म (क्रेनियोटॉमी, डिकैपिटेशन, एविसरेशन) कभी अवरुद्ध प्रसव का मानक उपचार थे और प्रसूति-ग्रन्थों में अब भी वर्णित हैं, पर आज दुर्लभ हैं; सिज़ेरियन और आधुनिक पुनर्जीवन ने इन्हें बड़े पैमाने पर हटा दिया है। ऐसी प्रक्रियाएँ केवल प्रशिक्षित प्रसूति-विशेषज्ञों के लिए हैं।"
+   },
+   "key_terms": [
+    "viṣkambha",
+    "maṇḍalāgra",
+    "aṅguli-śastra",
+    "śastra-karma"
+   ],
+   "tags": [
+    "mudha-garbha",
+    "obstetric-surgery",
+    "instruments"
+   ],
+   "importance": "medium",
+   "mnemonic": "Viṣkambha → Maṇḍalāgra + Aṅguli-śastra (never Vṛddhipatra).",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.31",
+   "word_meanings": [
+    {
+     "sa": "वृद्धिपत्त्रम्",
+     "iast": "vṛddhipattram",
+     "en": "the vṛddhipatra (scalpel-like knife)",
+     "hi": "वृद्धिपत्र (स्केलपेल जैसा शस्त्र)"
+    },
+    {
+     "sa": "हि",
+     "iast": "hi",
+     "en": "for",
+     "hi": "क्योंकि"
+    },
+    {
+     "sa": "तीक्ष्णाग्रम्",
+     "iast": "tīkṣṇāgram",
+     "en": "sharp-pointed",
+     "hi": "तीखी नोक वाला"
+    },
+    {
+     "sa": "न",
+     "iast": "na",
+     "en": "not",
+     "hi": "नहीं"
+    },
+    {
+     "sa": "योनौ",
+     "iast": "yonau",
+     "en": "in the vagina",
+     "hi": "योनि में"
+    },
+    {
+     "sa": "अवचारयेत्",
+     "iast": "avacārayet",
+     "en": "should use",
+     "hi": "प्रयोग करे"
+    },
+    {
+     "sa": "पूर्वम्",
+     "iast": "pūrvam",
+     "en": "first",
+     "hi": "पहले"
+    },
+    {
+     "sa": "शिरःकपालानि",
+     "iast": "śiraḥkapālāni",
+     "en": "the skull bones",
+     "hi": "सिर की कपाल-अस्थियाँ"
+    },
+    {
+     "sa": "दारयित्वा",
+     "iast": "dārayitvā",
+     "en": "having broken",
+     "hi": "तोड़कर"
+    },
+    {
+     "sa": "विशोधयेत्",
+     "iast": "viśodhayet",
+     "en": "should evacuate",
+     "hi": "खाली करे"
+    }
+   ],
+   "english": "For the sharp-pointed vṛddhipatra should not be used inside the vagina. First, the bones of the skull should be broken and (the contents) evacuated ... (continued).",
+   "hindi": "क्योंकि तीखी नोक वाला वृद्धिपत्र योनि में प्रयोग नहीं करना चाहिए। पहले सिर की कपाल-अस्थियाँ तोड़कर (अन्दर का भाग) खाली करें... (आगे जारी)।",
+   "explanation_en": "Safety rule: no sharp-pointed knife (vṛddhipatra) in the vagina, to avoid injury to the mother. Then the sequence of the destructive operation begins with breaking the skull (śiraḥ-kapāla-dāraṇa), which reduces the size of the head. Exam tip: first step in mūḍha-garbha śastra-karma = kapāla-dāraṇa.",
+   "explanation_hi": "सुरक्षा नियम: माता को चोट से बचाने के लिए योनि में तीखी नोक वाला शस्त्र (वृद्धिपत्र) नहीं। फिर विनाशक शल्य का क्रम कपाल तोड़ने (शिरः-कपाल-दारण) से आरम्भ होता है, जिससे सिर का आकार घटता है। परीक्षा टिप: मूढ़-गर्भ शस्त्र-कर्म का पहला चरण = कपाल-दारण।",
+   "modern_correlation": {
+    "en": "Historical obstetrics. Destructive operations on a dead fetus (craniotomy, decapitation, evisceration) were once standard for obstructed labour and are still described in obstetric texts, but are now rare; caesarean section and modern resuscitation have largely replaced them. Such procedures are only for trained obstetricians.",
+    "hi": "ऐतिहासिक प्रसूति-शल्य। मृत भ्रूण पर विनाशक शल्यकर्म (क्रेनियोटॉमी, डिकैपिटेशन, एविसरेशन) कभी अवरुद्ध प्रसव का मानक उपचार थे और प्रसूति-ग्रन्थों में अब भी वर्णित हैं, पर आज दुर्लभ हैं; सिज़ेरियन और आधुनिक पुनर्जीवन ने इन्हें बड़े पैमाने पर हटा दिया है। ऐसी प्रक्रियाएँ केवल प्रशिक्षित प्रसूति-विशेषज्ञों के लिए हैं।"
+   },
+   "key_terms": [
+    "vṛddhipatra",
+    "kapāla-dāraṇa",
+    "mūḍha-garbha"
+   ],
+   "tags": [
+    "mudha-garbha",
+    "obstetric-surgery",
+    "craniotomy"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.32",
+   "word_meanings": [
+    {
+     "sa": "कक्ष",
+     "iast": "kakṣa",
+     "en": "axilla",
+     "hi": "काँख"
+    },
+    {
+     "sa": "उरः",
+     "iast": "uraḥ",
+     "en": "chest",
+     "hi": "छाती"
+    },
+    {
+     "sa": "तालु",
+     "iast": "tālu",
+     "en": "palate",
+     "hi": "तालु"
+    },
+    {
+     "sa": "चिबुक",
+     "iast": "cibuka",
+     "en": "chin",
+     "hi": "ठोड़ी"
+    },
+    {
+     "sa": "प्रदेशे अन्यतमे",
+     "iast": "pradeśe 'nyatame",
+     "en": "at any one of these regions",
+     "hi": "इनमें से किसी एक स्थान पर"
+    },
+    {
+     "sa": "ततः",
+     "iast": "tataḥ",
+     "en": "then",
+     "hi": "तब"
+    },
+    {
+     "sa": "समालम्ब्य",
+     "iast": "samālambya",
+     "en": "having grasped",
+     "hi": "पकड़कर"
+    },
+    {
+     "sa": "दृढम्",
+     "iast": "dṛḍham",
+     "en": "firmly",
+     "hi": "दृढ़ता से"
+    },
+    {
+     "sa": "कर्षेत्",
+     "iast": "karṣet",
+     "en": "should pull",
+     "hi": "खींचे"
+    },
+    {
+     "sa": "कुशलः",
+     "iast": "kuśalaḥ",
+     "en": "the skilled (physician)",
+     "hi": "कुशल (वैद्य)"
+    },
+    {
+     "sa": "गर्भशङ्कुना",
+     "iast": "garbhaśaṅkunā",
+     "en": "with the garbha-śaṅku (obstetric hook)",
+     "hi": "गर्भ-शंकु (अंकुश) से"
+    }
+   ],
+   "english": "Then the skilled (physician), firmly grasping at any one of the regions of the axilla, chest, palate or chin with the garbha-śaṅku (obstetric hook), should pull (the fetus) out.",
+   "hindi": "तब कुशल (वैद्य) काँख, छाती, तालु या ठोड़ी में से किसी एक स्थान पर गर्भ-शंकु (अंकुश) से दृढ़ता से पकड़कर (गर्भ को) बाहर खींचे।",
+   "explanation_en": "After reducing the head, traction is applied with the garbha-śaṅku (hook) at a firm anchorage point: kakṣa, uras, tālu or cibuka. Exam tip: garbha-śaṅku is the classical obstetric hook, a common viva question.",
+   "explanation_hi": "सिर छोटा करने के बाद गर्भ-शंकु (अंकुश) से किसी दृढ़ पकड़-स्थान पर खिंचाव: कक्ष, उरस्, तालु या चिबुक। परीक्षा टिप: गर्भ-शंकु शास्त्रीय प्रसूति-अंकुश है, सामान्य मौखिक प्रश्न।",
+   "modern_correlation": {
+    "en": "Historical obstetrics. Destructive operations on a dead fetus (craniotomy, decapitation, evisceration) were once standard for obstructed labour and are still described in obstetric texts, but are now rare; caesarean section and modern resuscitation have largely replaced them. Such procedures are only for trained obstetricians.",
+    "hi": "ऐतिहासिक प्रसूति-शल्य। मृत भ्रूण पर विनाशक शल्यकर्म (क्रेनियोटॉमी, डिकैपिटेशन, एविसरेशन) कभी अवरुद्ध प्रसव का मानक उपचार थे और प्रसूति-ग्रन्थों में अब भी वर्णित हैं, पर आज दुर्लभ हैं; सिज़ेरियन और आधुनिक पुनर्जीवन ने इन्हें बड़े पैमाने पर हटा दिया है। ऐसी प्रक्रियाएँ केवल प्रशिक्षित प्रसूति-विशेषज्ञों के लिए हैं।"
+   },
+   "key_terms": [
+    "garbha-śaṅku",
+    "mūḍha-garbha nirharaṇa"
+   ],
+   "tags": [
+    "mudha-garbha",
+    "obstetric-surgery",
+    "instruments"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.33",
+   "word_meanings": [
+    {
+     "sa": "अभिन्नशिरसम्",
+     "iast": "abhinnaśirasam",
+     "en": "one whose head is not broken",
+     "hi": "जिसका सिर न तोड़ा गया हो"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "किन्तु"
+    },
+    {
+     "sa": "अक्षिकूटयोः",
+     "iast": "akṣikūṭayoḥ",
+     "en": "at the eye sockets",
+     "hi": "आँखों के गड्ढों पर"
+    },
+    {
+     "sa": "गण्डयोः",
+     "iast": "gaṇḍayoḥ",
+     "en": "at the cheeks",
+     "hi": "गालों पर"
+    },
+    {
+     "sa": "अपि",
+     "iast": "api",
+     "en": "also",
+     "hi": "भी"
+    },
+    {
+     "sa": "बाहुम्",
+     "iast": "bāhum",
+     "en": "the arm",
+     "hi": "भुजा"
+    },
+    {
+     "sa": "छित्त्वा",
+     "iast": "chittvā",
+     "en": "having cut",
+     "hi": "काटकर"
+    },
+    {
+     "sa": "अंससक्तस्य",
+     "iast": "aṃsasaktasya",
+     "en": "of one stuck at the shoulders",
+     "hi": "कन्धों पर अटके का"
+    },
+    {
+     "sa": "वाताध्मातोदरस्य",
+     "iast": "vātādhmātodarasya",
+     "en": "of one whose abdomen is distended with gas",
+     "hi": "वायु से फूले पेट वाले का"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "तो"
+    }
+   ],
+   "english": "But a fetus whose head has not been broken (should be grasped) at the eye sockets or the cheeks. For one stuck at the shoulders, the arm should be cut off; for one whose abdomen is distended with gas ... (continued).",
+   "hindi": "किन्तु जिस गर्भ का सिर न तोड़ा गया हो, उसे आँखों के गड्ढों या गालों पर (पकड़ें)। कन्धों पर अटके गर्भ की भुजा काटें; वायु से फूले पेट वाले गर्भ का... (आगे जारी)।",
+   "explanation_en": "Specific procedures by the site of obstruction: grip points for an intact head; arm removal when the shoulders are stuck; and for a gas-distended (decomposing) fetal abdomen, evisceration (verse 34). This shows a systematic, site-wise approach.",
+   "explanation_hi": "अवरोध के स्थान के अनुसार विशिष्ट प्रक्रियाएँ: अखण्ड सिर के लिए पकड़-स्थान; कन्धे अटकने पर भुजा निकालना; और गैस से फूले (सड़ते) भ्रूण-पेट में आँतें निकालना (श्लोक 34)। यह व्यवस्थित, स्थानानुसार पद्धति दिखाता है।",
+   "modern_correlation": {
+    "en": "Historical obstetrics. Destructive operations on a dead fetus (craniotomy, decapitation, evisceration) were once standard for obstructed labour and are still described in obstetric texts, but are now rare; caesarean section and modern resuscitation have largely replaced them. Such procedures are only for trained obstetricians.",
+    "hi": "ऐतिहासिक प्रसूति-शल्य। मृत भ्रूण पर विनाशक शल्यकर्म (क्रेनियोटॉमी, डिकैपिटेशन, एविसरेशन) कभी अवरुद्ध प्रसव का मानक उपचार थे और प्रसूति-ग्रन्थों में अब भी वर्णित हैं, पर आज दुर्लभ हैं; सिज़ेरियन और आधुनिक पुनर्जीवन ने इन्हें बड़े पैमाने पर हटा दिया है। ऐसी प्रक्रियाएँ केवल प्रशिक्षित प्रसूति-विशेषज्ञों के लिए हैं।"
+   },
+   "key_terms": [
+    "aṃsa-sakta",
+    "vātādhmāta",
+    "mūḍha-garbha"
+   ],
+   "tags": [
+    "mudha-garbha",
+    "obstetric-surgery",
+    "embryotomy"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.34",
+   "word_meanings": [
+    {
+     "sa": "विदार्य",
+     "iast": "vidārya",
+     "en": "having opened",
+     "hi": "चीरकर"
+    },
+    {
+     "sa": "कोष्ठम्",
+     "iast": "koṣṭham",
+     "en": "the abdomen",
+     "hi": "कोष्ठ (पेट)"
+    },
+    {
+     "sa": "अन्त्राणि",
+     "iast": "antrāṇi",
+     "en": "the intestines",
+     "hi": "आँतें"
+    },
+    {
+     "sa": "बहिः",
+     "iast": "bahiḥ",
+     "en": "outside",
+     "hi": "बाहर"
+    },
+    {
+     "sa": "वा",
+     "iast": "vā",
+     "en": "or",
+     "hi": "या"
+    },
+    {
+     "sa": "संनिरस्य",
+     "iast": "saṃnirasya",
+     "en": "having removed",
+     "hi": "निकालकर"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "कटीसक्तस्य",
+     "iast": "kaṭīsaktasya",
+     "en": "of one stuck at the hips",
+     "hi": "कमर पर अटके का"
+    },
+    {
+     "sa": "तद्वत्",
+     "iast": "tadvat",
+     "en": "likewise",
+     "hi": "उसी प्रकार"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "तत्कपालानि",
+     "iast": "tatkapālāni",
+     "en": "its (pelvic) bones",
+     "hi": "उसकी (श्रोणि) अस्थियाँ"
+    },
+    {
+     "sa": "दारयेत्",
+     "iast": "dārayet",
+     "en": "should break",
+     "hi": "तोड़े"
+    }
+   ],
+   "english": "... the abdomen should be opened and the intestines removed; for one stuck at the hips, likewise its (pelvic) bones should be broken.",
+   "hindi": "...पेट चीरकर आँतें बाहर निकालें; कमर पर अटके गर्भ की उसी प्रकार (श्रोणि की) अस्थियाँ तोड़ें।",
+   "explanation_en": "Evisceration for a distended fetal abdomen and breaking the pelvic bones for one stuck at the hips. These are the classical destructive operations for a dead obstructed fetus. Study as history of obstetric surgery.",
+   "explanation_hi": "फूले भ्रूण-पेट के लिए आँतें निकालना और कमर पर अटकने पर श्रोणि-अस्थियाँ तोड़ना। ये मृत अवरुद्ध गर्भ के शास्त्रीय विनाशक शल्यकर्म हैं। प्रसूति-शल्य के इतिहास के रूप में पढ़ें।",
+   "modern_correlation": {
+    "en": "Historical obstetrics. Destructive operations on a dead fetus (craniotomy, decapitation, evisceration) were once standard for obstructed labour and are still described in obstetric texts, but are now rare; caesarean section and modern resuscitation have largely replaced them. Such procedures are only for trained obstetricians.",
+    "hi": "ऐतिहासिक प्रसूति-शल्य। मृत भ्रूण पर विनाशक शल्यकर्म (क्रेनियोटॉमी, डिकैपिटेशन, एविसरेशन) कभी अवरुद्ध प्रसव का मानक उपचार थे और प्रसूति-ग्रन्थों में अब भी वर्णित हैं, पर आज दुर्लभ हैं; सिज़ेरियन और आधुनिक पुनर्जीवन ने इन्हें बड़े पैमाने पर हटा दिया है। ऐसी प्रक्रियाएँ केवल प्रशिक्षित प्रसूति-विशेषज्ञों के लिए हैं।"
+   },
+   "key_terms": [
+    "koṣṭha-vidāraṇa",
+    "kaṭī-sakta",
+    "mūḍha-garbha"
+   ],
+   "tags": [
+    "mudha-garbha",
+    "obstetric-surgery",
+    "embryotomy"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.35",
+   "word_meanings": [
+    {
+     "sa": "यत् यत्",
+     "iast": "yad yad",
+     "en": "whatever",
+     "hi": "जो-जो"
+    },
+    {
+     "sa": "वायुवशात्",
+     "iast": "vāyuvaśāt",
+     "en": "due to vāta",
+     "hi": "वायु के कारण"
+    },
+    {
+     "sa": "अङ्गम्",
+     "iast": "aṅgam",
+     "en": "part",
+     "hi": "अंग"
+    },
+    {
+     "sa": "सज्जेत्",
+     "iast": "sajjet",
+     "en": "gets stuck",
+     "hi": "अटके"
+    },
+    {
+     "sa": "गर्भस्य",
+     "iast": "garbhasya",
+     "en": "of the fetus",
+     "hi": "गर्भ का"
+    },
+    {
+     "sa": "खण्डशः",
+     "iast": "khaṇḍaśaḥ",
+     "en": "piece by piece",
+     "hi": "टुकड़े-टुकड़े करके"
+    },
+    {
+     "sa": "तत् तत्",
+     "iast": "tat tat",
+     "en": "that",
+     "hi": "उस-उस को"
+    },
+    {
+     "sa": "छित्त्वा",
+     "iast": "chittvā",
+     "en": "having cut",
+     "hi": "काटकर"
+    },
+    {
+     "sa": "आहरेत्",
+     "iast": "āharet",
+     "en": "should remove",
+     "hi": "निकाले"
+    },
+    {
+     "sa": "सम्यक्",
+     "iast": "samyak",
+     "en": "properly",
+     "hi": "भली-भाँति"
+    },
+    {
+     "sa": "रक्षेत्",
+     "iast": "rakṣet",
+     "en": "should protect",
+     "hi": "रक्षा करे"
+    },
+    {
+     "sa": "नारीम्",
+     "iast": "nārīm",
+     "en": "the woman",
+     "hi": "स्त्री की"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "यत्नतः",
+     "iast": "yatnataḥ",
+     "en": "carefully",
+     "hi": "सावधानी से"
+    }
+   ],
+   "english": "Whatever part of the fetus gets stuck because of vāta should be cut and removed properly, piece by piece, while carefully protecting the woman.",
+   "hindi": "वायु के कारण गर्भ का जो-जो अंग अटके, उसे टुकड़े-टुकड़े काटकर भली-भाँति निकालें, और स्त्री की सावधानी से रक्षा करें।",
+   "explanation_en": "General rule of mūḍha-garbha surgery: remove obstructing parts piecemeal, and the overriding priority is protecting the mother (nārī-rakṣaṇa). Exam tip: 'rakṣen nārīṃ ca yatnataḥ' expresses the principle of maternal safety first.",
+   "explanation_hi": "मूढ़-गर्भ शल्य का सामान्य नियम: अवरोधक अंगों को टुकड़ों में निकालें, और सर्वोपरि प्राथमिकता माता की रक्षा (नारी-रक्षण) है। परीक्षा टिप: 'रक्षेन्नारीं च यत्नतः' माता की सुरक्षा पहले के सिद्धान्त को व्यक्त करता है।",
+   "modern_correlation": {
+    "en": "The principle that maternal safety comes first remains central in modern obstetrics. Destructive procedures are historical and now rarely performed.",
+    "hi": "माता की सुरक्षा सर्वोपरि का सिद्धान्त आधुनिक प्रसूति-विज्ञान में भी केन्द्रीय है। विनाशक प्रक्रियाएँ ऐतिहासिक हैं और अब बहुत कम की जाती हैं।"
+   },
+   "key_terms": [
+    "nārī-rakṣaṇa",
+    "mūḍha-garbha",
+    "vāta"
+   ],
+   "tags": [
+    "mudha-garbha",
+    "obstetric-surgery",
+    "maternal-safety"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.36",
+   "word_meanings": [
+    {
+     "sa": "गर्भस्य",
+     "iast": "garbhasya",
+     "en": "of the fetus",
+     "hi": "गर्भ की"
+    },
+    {
+     "sa": "हि",
+     "iast": "hi",
+     "en": "for",
+     "hi": "क्योंकि"
+    },
+    {
+     "sa": "गतिम्",
+     "iast": "gatim",
+     "en": "positions/movement",
+     "hi": "गति (स्थितियाँ)"
+    },
+    {
+     "sa": "चित्राम्",
+     "iast": "citrām",
+     "en": "various",
+     "hi": "विचित्र"
+    },
+    {
+     "sa": "करोति",
+     "iast": "karoti",
+     "en": "produces",
+     "hi": "करता है"
+    },
+    {
+     "sa": "विगुणः",
+     "iast": "viguṇaḥ",
+     "en": "deranged",
+     "hi": "विकृत"
+    },
+    {
+     "sa": "अनिलः",
+     "iast": "anilaḥ",
+     "en": "vāta",
+     "hi": "वायु"
+    },
+    {
+     "sa": "तत्र",
+     "iast": "tatra",
+     "en": "there",
+     "hi": "वहाँ"
+    },
+    {
+     "sa": "अनल्पमतिः",
+     "iast": "analpamatiḥ",
+     "en": "one of great intelligence",
+     "hi": "अधिक बुद्धिमान"
+    },
+    {
+     "sa": "तस्मात्",
+     "iast": "tasmāt",
+     "en": "therefore",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "अवस्थापेक्षम्",
+     "iast": "avasthāpekṣam",
+     "en": "according to the situation",
+     "hi": "अवस्था के अनुसार"
+    },
+    {
+     "sa": "आचरेत्",
+     "iast": "ācaret",
+     "en": "should act",
+     "hi": "कार्य करे"
+    }
+   ],
+   "english": "For deranged vāta gives the fetus various abnormal positions; therefore a physician of great intelligence should act according to the situation.",
+   "hindi": "क्योंकि विकृत वायु गर्भ की विचित्र (असामान्य) स्थितियाँ बना देता है; इसलिए अधिक बुद्धिमान वैद्य अवस्था के अनुसार कार्य करे।",
+   "explanation_en": "Mūḍha-garbha is caused by viguṇa (deranged) apāna vāta producing countless malpositions, so no fixed protocol fits all; the physician must use judgement (yukti). Exam tip: cause of mūḍha-garbha = apāna vāta vaiguṇya.",
+   "explanation_hi": "मूढ़-गर्भ विगुण (विकृत) अपान वात से होता है जो अनगिनत विकृत स्थितियाँ बनाता है, इसलिए कोई एक निश्चित विधि सब पर लागू नहीं; वैद्य को युक्ति से काम लेना चाहिए। परीक्षा टिप: मूढ़-गर्भ का कारण = अपान वात वैगुण्य।",
+   "modern_correlation": {
+    "en": "Malpresentations and malpositions vary widely (breech, transverse, face, brow, compound), and modern obstetrics likewise individualises management based on careful assessment.",
+    "hi": "विकृत प्रस्तुतियाँ और स्थितियाँ बहुत भिन्न होती हैं (ब्रीच, अनुप्रस्थ, फेस, ब्रो, संयुक्त), और आधुनिक प्रसूति-विज्ञान भी सावधान आकलन के आधार पर प्रबन्धन को व्यक्तिगत बनाता है।"
+   },
+   "key_terms": [
+    "mūḍha-garbha",
+    "apāna vāta",
+    "yukti"
+   ],
+   "tags": [
+    "mudha-garbha",
+    "pathogenesis",
+    "clinical-judgement"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.37",
+   "word_meanings": [
+    {
+     "sa": "छिन्द्यात्",
+     "iast": "chindyāt",
+     "en": "should cut",
+     "hi": "काटे"
+    },
+    {
+     "sa": "गर्भम्",
+     "iast": "garbham",
+     "en": "the fetus",
+     "hi": "गर्भ को"
+    },
+    {
+     "sa": "न",
+     "iast": "na",
+     "en": "not",
+     "hi": "नहीं"
+    },
+    {
+     "sa": "जीवन्तम्",
+     "iast": "jīvantam",
+     "en": "living",
+     "hi": "जीवित"
+    },
+    {
+     "sa": "मातरम्",
+     "iast": "mātaram",
+     "en": "the mother",
+     "hi": "माता को"
+    },
+    {
+     "sa": "सः",
+     "iast": "saḥ",
+     "en": "it",
+     "hi": "वह"
+    },
+    {
+     "sa": "हि",
+     "iast": "hi",
+     "en": "for",
+     "hi": "क्योंकि"
+    },
+    {
+     "sa": "मारयेत्",
+     "iast": "mārayet",
+     "en": "would kill",
+     "hi": "मार देगा"
+    },
+    {
+     "sa": "सहात्मना",
+     "iast": "sahātmanā",
+     "en": "along with itself",
+     "hi": "अपने साथ"
+    },
+    {
+     "sa": "न च उपेक्ष्यः",
+     "iast": "na copekṣyaḥ",
+     "en": "nor should be neglected",
+     "hi": "और उपेक्षा भी न करें"
+    },
+    {
+     "sa": "क्षणम् अपि",
+     "iast": "kṣaṇam api",
+     "en": "even for a moment",
+     "hi": "क्षण भर भी"
+    },
+    {
+     "sa": "अस्तजीवितः",
+     "iast": "astajīvitaḥ",
+     "en": "one whose life has ended (dead fetus)",
+     "hi": "जिसका जीवन समाप्त हो गया (मृत गर्भ)"
+    }
+   ],
+   "english": "A living fetus should not be cut, for it would kill the mother along with itself. Nor should a dead fetus be neglected even for a moment.",
+   "hindi": "जीवित गर्भ को नहीं काटना चाहिए, क्योंकि वह अपने साथ माता को भी मार देगा। और मृत गर्भ की क्षण भर भी उपेक्षा नहीं करनी चाहिए।",
+   "explanation_en": "Crucial ethical and clinical rule (high-yield): destructive surgery only on a dead fetus; and a dead fetus must be removed without delay. Commentators explain that cutting a living fetus causes violent movements and haemorrhage dangerous to the mother. Exam tip: memorise 'chindyād garbhaṃ na jīvantam'.",
+   "explanation_hi": "महत्वपूर्ण नैतिक और नैदानिक नियम: विनाशक शल्य केवल मृत गर्भ पर; और मृत गर्भ को बिना विलम्ब निकालना आवश्यक है। टीकाकार समझाते हैं कि जीवित गर्भ को काटने से तीव्र गतियाँ और रक्तस्राव होते हैं जो माता के लिए घातक हैं। परीक्षा टिप: 'छिन्द्याद् गर्भं न जीवन्तम्' याद करें।",
+   "modern_correlation": {
+    "en": "Historical obstetrics also restricted destructive operations to a dead fetus. Today a dead fetus is delivered promptly but not necessarily as an emergency (induction is common), because prolonged retention increases the risk of infection and coagulopathy.",
+    "hi": "ऐतिहासिक प्रसूति-विज्ञान भी विनाशक शल्य को मृत भ्रूण तक सीमित रखता था। आज मृत भ्रूण का प्रसव शीघ्र कराया जाता है पर आवश्यक नहीं कि आपात रूप में (प्रेरण सामान्य है), क्योंकि लम्बे समय तक रुके रहने से संक्रमण और रक्त-स्कंदन विकार का जोखिम बढ़ता है।"
+   },
+   "key_terms": [
+    "jīvita garbha",
+    "mṛta-garbha",
+    "śastra-karma"
+   ],
+   "tags": [
+    "mudha-garbha",
+    "obstetric-surgery",
+    "ethics",
+    "intrauterine-death"
+   ],
+   "importance": "high",
+   "mnemonic": "Never cut the living; never delay the dead.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.38",
+   "word_meanings": [
+    {
+     "sa": "योनिसंवरण",
+     "iast": "yonisaṃvaraṇa",
+     "en": "closure (constriction) of the vagina",
+     "hi": "योनि का संवरण (संकोच)"
+    },
+    {
+     "sa": "भ्रंश",
+     "iast": "bhraṃśa",
+     "en": "prolapse",
+     "hi": "भ्रंश (बाहर निकलना)"
+    },
+    {
+     "sa": "मक्कल्ल",
+     "iast": "makkalla",
+     "en": "makkalla",
+     "hi": "मक्कल्ल"
+    },
+    {
+     "sa": "श्वासपीडिताम्",
+     "iast": "śvāsapīḍitām",
+     "en": "afflicted with dyspnoea",
+     "hi": "श्वास से पीड़ित"
+    },
+    {
+     "sa": "पूत्युद्गाराम्",
+     "iast": "pūtyudgārām",
+     "en": "with foul-smelling eructation",
+     "hi": "दुर्गन्धित डकार वाली"
+    },
+    {
+     "sa": "हिमाङ्गीम्",
+     "iast": "himāṅgīm",
+     "en": "with cold limbs",
+     "hi": "ठंडे अंगों वाली"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "मूढगर्भाम्",
+     "iast": "mūḍhagarbhām",
+     "en": "a woman with obstructed fetus",
+     "hi": "मूढ़-गर्भा स्त्री को"
+    },
+    {
+     "sa": "परित्यजेत्",
+     "iast": "parityajet",
+     "en": "should reject (as incurable)",
+     "hi": "असाध्य मानकर छोड़ दे"
+    }
+   ],
+   "english": "A woman with mūḍha-garbha who is afflicted with constriction of the vagina, prolapse, makkalla, or dyspnoea, or who has foul-smelling eructations and cold limbs, should be rejected (as incurable).",
+   "hindi": "जिस मूढ़-गर्भा स्त्री को योनि-संवरण, भ्रंश, मक्कल्ल या श्वास हो, या दुर्गन्धित डकार और ठंडे अंग हों, उसे असाध्य मानकर छोड़ दें।",
+   "explanation_en": "Asādhya lakṣaṇa of mūḍha-garbha (signs of a hopeless case), a common exam question. In the classical setting, treating such cases risked the physician's reputation; the list reflects signs of shock, sepsis and severe exhaustion. Exam tip: 6 asādhya signs: yoni-saṃvaraṇa, bhraṃśa, makkalla, śvāsa, pūti-udgāra, hima-aṅga.",
+   "explanation_hi": "मूढ़-गर्भ के असाध्य लक्षण, सामान्य परीक्षा प्रश्न। शास्त्रीय परिवेश में ऐसे रोगियों की चिकित्सा वैद्य की प्रतिष्ठा के लिए जोखिम थी; यह सूची आघात (शॉक), सेप्सिस और गम्भीर थकावट के लक्षण दर्शाती है। परीक्षा टिप: 6 असाध्य लक्षण: योनि-संवरण, भ्रंश, मक्कल्ल, श्वास, पूति-उद्गार, हिम-अंग।",
+   "modern_correlation": {
+    "en": "These signs are often compared to features of advanced obstructed labour with complications: shock (cold extremities), sepsis (foul odour), uterine rupture or genital tract injury, and respiratory distress. Today such women need emergency resuscitation and surgery, and many can be saved; no patient is to be abandoned.",
+    "hi": "इन लक्षणों की तुलना प्रायः जटिलताओं सहित उन्नत अवरुद्ध प्रसव की विशेषताओं से की जाती है: आघात (ठंडे अंग), सेप्सिस (दुर्गन्ध), गर्भाशय-विदार या जननांग-मार्ग की चोट, और श्वास-कष्ट। आज ऐसी महिलाओं को आपात पुनर्जीवन और शल्यकर्म चाहिए, और कई बचाई जा सकती हैं; किसी रोगी को छोड़ा नहीं जाना चाहिए।"
+   },
+   "key_terms": [
+    "asādhya lakṣaṇa",
+    "mūḍha-garbha",
+    "makkalla",
+    "yoni-saṃvaraṇa"
+   ],
+   "tags": [
+    "mudha-garbha",
+    "prognosis",
+    "lists"
+   ],
+   "importance": "high",
+   "mnemonic": "Give up if: Yoni closed, Prolapse, Makkalla, Breathless, Foul burps, Cold limbs.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.39",
+   "word_meanings": [
+    {
+     "sa": "अथ",
+     "iast": "atha",
+     "en": "then",
+     "hi": "तब"
+    },
+    {
+     "sa": "अपतन्तीम्",
+     "iast": "apatantīm",
+     "en": "not coming out",
+     "hi": "न गिरती हुई"
+    },
+    {
+     "sa": "अपराम्",
+     "iast": "aparām",
+     "en": "the placenta",
+     "hi": "अपरा को"
+    },
+    {
+     "sa": "पातयेत्",
+     "iast": "pātayet",
+     "en": "should expel",
+     "hi": "गिराए"
+    },
+    {
+     "sa": "पूर्ववत्",
+     "iast": "pūrvavat",
+     "en": "as described before",
+     "hi": "पहले की भाँति"
+    },
+    {
+     "sa": "भिषक्",
+     "iast": "bhiṣak",
+     "en": "the physician",
+     "hi": "वैद्य"
+    },
+    {
+     "sa": "एवम्",
+     "iast": "evam",
+     "en": "thus",
+     "hi": "इस प्रकार"
+    },
+    {
+     "sa": "निर्हृतशल्याम्",
+     "iast": "nirhṛtaśalyām",
+     "en": "one from whom the foreign body (fetus) has been removed",
+     "hi": "जिसका शल्य (गर्भ) निकाल दिया गया हो"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "सिञ्चेत्",
+     "iast": "siñcet",
+     "en": "should bathe",
+     "hi": "सिंचन करे"
+    },
+    {
+     "sa": "उष्णेन वारिणा",
+     "iast": "uṣṇena vāriṇā",
+     "en": "with warm water",
+     "hi": "गरम जल से"
+    }
+   ],
+   "english": "Then, if the placenta does not come out, the physician should expel it as described before. When the śalya (the fetus, as a foreign body) has thus been removed, she should be bathed with warm water ... (continued).",
+   "hindi": "तब यदि अपरा न गिरे तो वैद्य उसे पहले की भाँति गिराए। इस प्रकार शल्य (गर्भ) निकल जाने पर उसे गरम जल से स्नान कराएँ... (आगे जारी)।",
+   "explanation_en": "After extraction of the mūḍha-garbha, the placenta is expelled using the methods in chapter 1 (verses 83–91). The dead fetus is called śalya (foreign body), placing this in śalya-tantra thinking. Post-operative care begins with warm-water pariṣeka.",
+   "explanation_hi": "मूढ़-गर्भ निकालने के बाद अध्याय 1 (श्लोक 83–91) की विधियों से अपरा निकाली जाती है। मृत गर्भ को शल्य (बाहरी वस्तु) कहा गया है, जो इसे शल्य-तन्त्र की दृष्टि में रखता है। शल्योत्तर देखभाल गरम जल के परिषेक से आरम्भ होती है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "aparā-pātana",
+    "śalya",
+    "pariṣeka"
+   ],
+   "tags": [
+    "mudha-garbha",
+    "post-operative-care",
+    "retained-placenta"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.40",
+   "word_meanings": [
+    {
+     "sa": "दद्यात्",
+     "iast": "dadyāt",
+     "en": "should give (place)",
+     "hi": "दे (रखे)"
+    },
+    {
+     "sa": "अभ्यक्तदेहायै",
+     "iast": "abhyaktadehāyai",
+     "en": "to her whose body has been oiled",
+     "hi": "तेल लगे शरीर वाली को"
+    },
+    {
+     "sa": "योनौ",
+     "iast": "yonau",
+     "en": "in the vagina",
+     "hi": "योनि में"
+    },
+    {
+     "sa": "स्नेहपिचुम्",
+     "iast": "snehapicum",
+     "en": "a tampon soaked in oil",
+     "hi": "स्नेह-पिचु"
+    },
+    {
+     "sa": "ततः",
+     "iast": "tataḥ",
+     "en": "then",
+     "hi": "तब"
+    },
+    {
+     "sa": "योनिः",
+     "iast": "yoniḥ",
+     "en": "the vagina",
+     "hi": "योनि"
+    },
+    {
+     "sa": "मृदुः",
+     "iast": "mṛduḥ",
+     "en": "soft",
+     "hi": "मृदु"
+    },
+    {
+     "sa": "भवेत्",
+     "iast": "bhavet",
+     "en": "becomes",
+     "hi": "होती है"
+    },
+    {
+     "sa": "तेन",
+     "iast": "tena",
+     "en": "by that",
+     "hi": "उससे"
+    },
+    {
+     "sa": "शूलम्",
+     "iast": "śūlam",
+     "en": "pain",
+     "hi": "शूल"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "अस्याः",
+     "iast": "asyāḥ",
+     "en": "her",
+     "hi": "उसका"
+    },
+    {
+     "sa": "प्रशाम्यति",
+     "iast": "praśāmyati",
+     "en": "subsides",
+     "hi": "शान्त होता है"
+    }
+   ],
+   "english": "... then, after oiling her body, a tampon soaked in oil (sneha-picu) should be placed in her vagina; by this the vagina becomes soft and her pain subsides.",
+   "hindi": "...फिर उसके शरीर पर तेल लगाकर योनि में स्नेह-पिचु रखें; इससे योनि मृदु होती है और उसका शूल शान्त होता है।",
+   "explanation_en": "Post-extraction care: abhyaṅga and yoni-picu to soothe injured tissues and pacify vāta. Exam tip: the aims are yoni-mārdava (softening) and śūla-praśamana (pain relief).",
+   "explanation_hi": "निष्कासन के बाद देखभाल: घायल ऊतकों को शान्त करने और वात-शमन के लिए अभ्यंग और योनि-पिचु। परीक्षा टिप: उद्देश्य हैं योनि-मार्दव (मृदुता) और शूल-प्रशमन।",
+   "modern_correlation": {
+    "en": "After a difficult delivery, modern care focuses on examining and repairing genital tract injuries, pain relief, infection prevention and monitoring for haemorrhage; vaginal packs are used only for specific indications by clinicians.",
+    "hi": "कठिन प्रसव के बाद आधुनिक देखभाल में जननांग-मार्ग की चोटों की जाँच और मरम्मत, पीड़ा-निवारण, संक्रमण-रोकथाम और रक्तस्राव की निगरानी पर ध्यान होता है; योनि में पैक केवल विशिष्ट संकेतों पर चिकित्सक लगाते हैं।"
+   },
+   "key_terms": [
+    "sneha-picu",
+    "abhyaṅga",
+    "śūla-praśamana"
+   ],
+   "tags": [
+    "mudha-garbha",
+    "post-operative-care"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.41",
+   "word_meanings": [
+    {
+     "sa": "दीप्यक",
+     "iast": "dīpyaka",
+     "en": "ajwain (yavānī)",
+     "hi": "दीप्यक (अजवाइन)"
+    },
+    {
+     "sa": "अतिविषा",
+     "iast": "ativiṣā",
+     "en": "ativiṣā",
+     "hi": "अतिविषा (अतीस)"
+    },
+    {
+     "sa": "रास्ना",
+     "iast": "rāsnā",
+     "en": "rāsnā (Pluchea lanceolata)",
+     "hi": "रास्ना"
+    },
+    {
+     "sa": "हिङ्गु",
+     "iast": "hiṅgu",
+     "en": "asafoetida",
+     "hi": "हींग"
+    },
+    {
+     "sa": "एला",
+     "iast": "elā",
+     "en": "cardamom",
+     "hi": "इलायची"
+    },
+    {
+     "sa": "पञ्चकोलकात्",
+     "iast": "pañcakolakāt",
+     "en": "and pañcakola",
+     "hi": "और पंचकोल से"
+    },
+    {
+     "sa": "चूर्णम्",
+     "iast": "cūrṇam",
+     "en": "powder",
+     "hi": "चूर्ण"
+    },
+    {
+     "sa": "स्नेहेन",
+     "iast": "snehena",
+     "en": "with fat",
+     "hi": "स्नेह के साथ"
+    },
+    {
+     "sa": "कल्कम्",
+     "iast": "kalkam",
+     "en": "paste",
+     "hi": "कल्क"
+    },
+    {
+     "sa": "वा",
+     "iast": "vā",
+     "en": "or",
+     "hi": "या"
+    },
+    {
+     "sa": "क्वाथम्",
+     "iast": "kvātham",
+     "en": "decoction",
+     "hi": "क्वाथ"
+    },
+    {
+     "sa": "पाययेत्",
+     "iast": "pāyayet",
+     "en": "should give to drink",
+     "hi": "पिलाए"
+    },
+    {
+     "sa": "ततः",
+     "iast": "tataḥ",
+     "en": "then",
+     "hi": "तब"
+    }
+   ],
+   "english": "Then she should be given (a preparation of) ajwain, ativiṣā, rāsnā, hiṅgu, cardamom and pañcakola, as a powder with fat, as a paste, or as a decoction.",
+   "hindi": "तब उसे अजवाइन, अतीस, रास्ना, हींग, इलायची और पंचकोल का चूर्ण स्नेह के साथ, या कल्क, या क्वाथ के रूप में पिलाएँ।",
+   "explanation_en": "Oral post-extraction care with dīpana, pācana and vāta-anulomana drugs to restore agni, relieve pain and help expel residual doṣa and blood. Three dosage forms are allowed (cūrṇa, kalka, kvātha). Classical text for study.",
+   "explanation_hi": "निष्कासन के बाद मुख से दीपन, पाचन और वातानुलोमक द्रव्य, ताकि अग्नि लौटे, पीड़ा घटे और शेष दोष व रक्त निकलें। तीन रूपों (चूर्ण, कल्क, क्वाथ) की अनुमति है। अध्ययन हेतु शास्त्रीय पाठ।",
+   "modern_correlation": null,
+   "key_terms": [
+    "dīpana",
+    "vātānulomana",
+    "pañcakola",
+    "hiṅgu"
+   ],
+   "tags": [
+    "post-operative-care",
+    "formulation"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.42",
+   "word_meanings": [
+    {
+     "sa": "कटुका",
+     "iast": "kaṭukā",
+     "en": "kaṭukī (Picrorhiza)",
+     "hi": "कुटकी"
+    },
+    {
+     "sa": "अतिविषा",
+     "iast": "ativiṣā",
+     "en": "ativiṣā",
+     "hi": "अतीस"
+    },
+    {
+     "sa": "पाठा",
+     "iast": "pāṭhā",
+     "en": "pāṭhā (Cissampelos)",
+     "hi": "पाठा"
+    },
+    {
+     "sa": "शाकत्वक्",
+     "iast": "śākatvak",
+     "en": "bark of śāka (teak)",
+     "hi": "शाक (सागौन) की छाल"
+    },
+    {
+     "sa": "हिङ्गु",
+     "iast": "hiṅgu",
+     "en": "asafoetida",
+     "hi": "हींग"
+    },
+    {
+     "sa": "तेजिनीः",
+     "iast": "tejinīḥ",
+     "en": "tejinī (tejovatī)",
+     "hi": "तेजिनी (तेजोवती)"
+    },
+    {
+     "sa": "तद्वत्",
+     "iast": "tadvat",
+     "en": "in the same way",
+     "hi": "उसी प्रकार"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "दोषस्यन्दार्थम्",
+     "iast": "doṣasyandārtham",
+     "en": "for the discharge of doṣas",
+     "hi": "दोषों के स्राव (निकलने) के लिए"
+    },
+    {
+     "sa": "वेदनोपशमाय",
+     "iast": "vedanopaśamāya",
+     "en": "for relief of pain",
+     "hi": "वेदना शान्त करने के लिए"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    }
+   ],
+   "english": "In the same way, kaṭukā, ativiṣā, pāṭhā, the bark of śāka, hiṅgu and tejinī (should be given) for the discharge of the (residual) doṣas and for relief of pain.",
+   "hindi": "उसी प्रकार कुटकी, अतीस, पाठा, शाक की छाल, हींग और तेजिनी (दें), ताकि (शेष) दोष निकलें और वेदना शान्त हो।",
+   "explanation_en": "A second formulation with the same aims: doṣa-syandana (helping residual blood and doṣas to flow out, like lochia) and vedanā-upaśamana. Classical text for study only.",
+   "explanation_hi": "समान उद्देश्यों वाला दूसरा योग: दोष-स्यन्दन (शेष रक्त और दोषों का बाहर निकलना, लोकिया जैसा) और वेदना-उपशमन। केवल अध्ययन हेतु शास्त्रीय पाठ।",
+   "modern_correlation": null,
+   "key_terms": [
+    "doṣa-syandana",
+    "vedanā-upaśamana",
+    "kaṭukā"
+   ],
+   "tags": [
+    "post-operative-care",
+    "formulation"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.43",
+   "word_meanings": [
+    {
+     "sa": "त्रिरात्रम्",
+     "iast": "trirātram",
+     "en": "for three nights",
+     "hi": "तीन रात्रि"
+    },
+    {
+     "sa": "एवम्",
+     "iast": "evam",
+     "en": "thus",
+     "hi": "इस प्रकार"
+    },
+    {
+     "sa": "सप्ताहम्",
+     "iast": "saptāham",
+     "en": "for seven days",
+     "hi": "सात दिन"
+    },
+    {
+     "sa": "स्नेहम् एव",
+     "iast": "sneham eva",
+     "en": "only sneha (medicated fat)",
+     "hi": "केवल स्नेह"
+    },
+    {
+     "sa": "ततः",
+     "iast": "tataḥ",
+     "en": "then",
+     "hi": "फिर"
+    },
+    {
+     "sa": "पिबेत्",
+     "iast": "pibet",
+     "en": "should drink",
+     "hi": "पिए"
+    },
+    {
+     "sa": "सायम्",
+     "iast": "sāyam",
+     "en": "in the evening",
+     "hi": "सायंकाल"
+    },
+    {
+     "sa": "अरिष्टम्",
+     "iast": "ariṣṭam",
+     "en": "ariṣṭa (fermented decoction)",
+     "hi": "अरिष्ट"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "तथा",
+     "iast": "tathā",
+     "en": "likewise",
+     "hi": "तथा"
+    },
+    {
+     "sa": "सुकृतम्",
+     "iast": "sukṛtam",
+     "en": "well prepared",
+     "hi": "भली-भाँति बना"
+    },
+    {
+     "sa": "आसवम्",
+     "iast": "āsavam",
+     "en": "āsava (fermented infusion)",
+     "hi": "आसव"
+    }
+   ],
+   "english": "This (should be continued) for three nights; then for seven days she should drink only sneha. In the evening she should drink a well-prepared ariṣṭa or āsava.",
+   "hindi": "यह तीन रात्रि तक (चलाएँ); फिर सात दिन केवल स्नेह पिए। सायंकाल भली-भाँति बना अरिष्ट या आसव पिए।",
+   "explanation_en": "Timeline after mūḍha-garbha extraction: 3 nights of the above dīpana preparations, then 7 days of sneha-pāna, with ariṣṭa/āsava in the evening (to stimulate agni and the uterus). Exam tip: 3 nights + 7 days sequence.",
+   "explanation_hi": "मूढ़-गर्भ निष्कासन के बाद समय-रेखा: 3 रात्रि ऊपर के दीपन योग, फिर 7 दिन स्नेहपान, सायं अरिष्ट/आसव (अग्नि और गर्भाशय को उत्तेजित करने हेतु)। परीक्षा टिप: 3 रात्रि + 7 दिन का क्रम।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sneha-pāna",
+    "ariṣṭa",
+    "āsava"
+   ],
+   "tags": [
+    "post-operative-care",
+    "regimen",
+    "numbers"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.44",
+   "word_meanings": [
+    {
+     "sa": "शिरीषककुभक्वाथपिचून्",
+     "iast": "śirīṣakakubhakvāthapicūn",
+     "en": "tampons soaked in decoction of śirīṣa and kakubha (arjuna)",
+     "hi": "शिरीष और ककुभ (अर्जुन) के क्वाथ में भीगे पिचु"
+    },
+    {
+     "sa": "योनौ",
+     "iast": "yonau",
+     "en": "in the vagina",
+     "hi": "योनि में"
+    },
+    {
+     "sa": "विनिक्षिपेत्",
+     "iast": "vinikṣipet",
+     "en": "should place",
+     "hi": "रखे"
+    },
+    {
+     "sa": "उपद्रवाः",
+     "iast": "upadravāḥ",
+     "en": "complications",
+     "hi": "उपद्रव"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "ये अन्ये",
+     "iast": "ye 'nye",
+     "en": "whatever other",
+     "hi": "जो अन्य"
+    },
+    {
+     "sa": "स्युः",
+     "iast": "syuḥ",
+     "en": "may arise",
+     "hi": "हों"
+    },
+    {
+     "sa": "तान्",
+     "iast": "tān",
+     "en": "them",
+     "hi": "उन्हें"
+    },
+    {
+     "sa": "यथास्वम्",
+     "iast": "yathāsvam",
+     "en": "each according to its nature",
+     "hi": "अपने-अपने अनुसार"
+    },
+    {
+     "sa": "उपाचरेत्",
+     "iast": "upācaret",
+     "en": "should treat",
+     "hi": "चिकित्सा करे"
+    }
+   ],
+   "english": "Tampons soaked in a decoction of śirīṣa and kakubha (arjuna) should be placed in the vagina, and any other complications that arise should be treated, each according to its own nature.",
+   "hindi": "शिरीष और ककुभ (अर्जुन) के क्वाथ में भीगे पिचु योनि में रखें, और जो अन्य उपद्रव हों उनकी अपने-अपने अनुसार चिकित्सा करें।",
+   "explanation_en": "Local astringent, wound-healing (vraṇa-ropaṇa) tampons for the injured birth canal, and the general rule to treat each upadrava (complication) on its merits. Exam tip: śirīṣa and arjuna are kaṣāya, vraṇa-ropaka barks.",
+   "explanation_hi": "घायल जन्म-मार्ग के लिए स्थानीय कषाय, व्रण-रोपक पिचु, और प्रत्येक उपद्रव की उसके अनुसार चिकित्सा का सामान्य नियम। परीक्षा टिप: शिरीष और अर्जुन कषाय, व्रण-रोपक छालें हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "yoni-picu",
+    "vraṇa-ropaṇa",
+    "upadrava"
+   ],
+   "tags": [
+    "post-operative-care",
+    "local-therapy"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.45",
+   "word_meanings": [
+    {
+     "sa": "पयः",
+     "iast": "payaḥ",
+     "en": "milk",
+     "hi": "दूध"
+    },
+    {
+     "sa": "वातहरैः",
+     "iast": "vātaharaiḥ",
+     "en": "with vāta-alleviating (drugs)",
+     "hi": "वातहर (द्रव्यों) से"
+    },
+    {
+     "sa": "सिद्धम्",
+     "iast": "siddham",
+     "en": "prepared",
+     "hi": "सिद्ध"
+    },
+    {
+     "sa": "दशाहम्",
+     "iast": "daśāham",
+     "en": "for ten days",
+     "hi": "दस दिन"
+    },
+    {
+     "sa": "भोजने",
+     "iast": "bhojane",
+     "en": "in the diet",
+     "hi": "भोजन में"
+    },
+    {
+     "sa": "हितम्",
+     "iast": "hitam",
+     "en": "beneficial",
+     "hi": "हितकर"
+    },
+    {
+     "sa": "रसः",
+     "iast": "rasaḥ",
+     "en": "meat soup",
+     "hi": "मांस-रस"
+    },
+    {
+     "sa": "दशाहम्",
+     "iast": "daśāham",
+     "en": "for ten days",
+     "hi": "दस दिन"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "परम्",
+     "iast": "param",
+     "en": "thereafter",
+     "hi": "उसके बाद"
+    },
+    {
+     "sa": "लघुपथ्याल्पभोजना",
+     "iast": "laghupathyālpabhojanā",
+     "en": "taking light, wholesome food in small amounts",
+     "hi": "हल्का, पथ्य और थोड़ा भोजन करने वाली"
+    }
+   ],
+   "english": "Milk prepared with vāta-alleviating drugs is beneficial in the diet for ten days, and meat soup for the next ten days. She should take light, wholesome food in small amounts ... (continued).",
+   "hindi": "दस दिन तक वातहर द्रव्यों से सिद्ध दूध भोजन में हितकर है, और उसके बाद के दस दिन मांस-रस। वह हल्का, पथ्य और थोड़ा भोजन करे... (आगे जारी)।",
+   "explanation_en": "Diet after mūḍha-garbha: 10 days vātahara kṣīra, next 10 days māṃsa-rasa, with light, small, wholesome meals. Exam tip: 10 + 10 days dietary schedule.",
+   "explanation_hi": "मूढ़-गर्भ के बाद आहार: 10 दिन वातहर क्षीर, अगले 10 दिन मांस-रस, साथ में हल्का, थोड़ा, पथ्य भोजन। परीक्षा टिप: 10 + 10 दिन का आहार-क्रम।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vātahara kṣīra",
+    "māṃsa-rasa",
+    "pathya"
+   ],
+   "tags": [
+    "post-operative-care",
+    "diet",
+    "numbers"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.46",
+   "word_meanings": [
+    {
+     "sa": "स्वेदाभ्यङ्गपरा",
+     "iast": "svedābhyaṅgaparā",
+     "en": "devoted to sudation and oil massage",
+     "hi": "स्वेदन और अभ्यंग में तत्पर"
+    },
+    {
+     "sa": "स्नेहान्",
+     "iast": "snehān",
+     "en": "medicated fats",
+     "hi": "स्नेहों का"
+    },
+    {
+     "sa": "बलातैलादिकान्",
+     "iast": "balātailādikān",
+     "en": "such as balā taila",
+     "hi": "बला तैल आदि"
+    },
+    {
+     "sa": "भजेत्",
+     "iast": "bhajet",
+     "en": "should use",
+     "hi": "सेवन करे"
+    },
+    {
+     "sa": "ऊर्ध्वम्",
+     "iast": "ūrdhvam",
+     "en": "after",
+     "hi": "के बाद"
+    },
+    {
+     "sa": "चतुर्भ्यः मासेभ्यः",
+     "iast": "caturbhyo māsebhyaḥ",
+     "en": "four months",
+     "hi": "चार मास"
+    },
+    {
+     "sa": "सा",
+     "iast": "sā",
+     "en": "she",
+     "hi": "वह"
+    },
+    {
+     "sa": "क्रमेण",
+     "iast": "krameṇa",
+     "en": "gradually",
+     "hi": "धीरे-धीरे"
+    },
+    {
+     "sa": "सुखानि",
+     "iast": "sukhāni",
+     "en": "pleasures (normal life, including sexual life)",
+     "hi": "सुख (सामान्य जीवन, दाम्पत्य सहित)"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    }
+   ],
+   "english": "... devoted to sudation and oil massage, she should use medicated fats such as balā taila. After four months she may gradually return to (normal) pleasures.",
+   "hindi": "...स्वेदन और अभ्यंग में तत्पर रहकर वह बला तैल आदि स्नेहों का सेवन करे। चार मास के बाद वह धीरे-धीरे (सामान्य) सुखों की ओर लौटे।",
+   "explanation_en": "Recovery after mūḍha-garbha is long: sveda, abhyaṅga and sneha such as balā taila (recipe in verses 47–52), with restraint for four months before resuming normal pleasures. Compare 1½ months for a normal sūtikā (1.100). Exam tip: post-mūḍha-garbha restriction = 4 months.",
+   "explanation_hi": "मूढ़-गर्भ के बाद स्वास्थ्य-लाभ लम्बा है: स्वेद, अभ्यंग और बला तैल जैसे स्नेह (योग श्लोक 47–52 में), और सामान्य सुखों से पहले चार मास संयम। सामान्य सूतिका के डेढ़ मास (1.100) से तुलना करें। परीक्षा टिप: मूढ़-गर्भ के बाद नियन्त्रण = 4 मास।",
+   "modern_correlation": {
+    "en": "A longer recovery after a traumatic or operative delivery is consistent with modern care, which includes treatment of anaemia and infection, pelvic-floor rehabilitation, contraception counselling and emotional support before planning another pregnancy.",
+    "hi": "आघातपूर्ण या शल्य प्रसव के बाद लम्बा स्वास्थ्य-लाभ आधुनिक देखभाल से मेल खाता है, जिसमें अगली गर्भावस्था की योजना से पहले रक्ताल्पता और संक्रमण का उपचार, पेल्विक-फ्लोर पुनर्वास, गर्भनिरोध परामर्श और भावनात्मक सहारा शामिल है।"
+   },
+   "key_terms": [
+    "balā taila",
+    "sveda",
+    "abhyaṅga"
+   ],
+   "tags": [
+    "post-operative-care",
+    "recovery",
+    "numbers"
+   ],
+   "importance": "medium",
+   "mnemonic": "After mūḍha-garbha: 4 months of care before normal life.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.47",
+   "word_meanings": [
+    {
+     "sa": "बलामूलकषायस्य",
+     "iast": "balāmūlakaṣāyasya",
+     "en": "of the decoction of balā root",
+     "hi": "बला-मूल के क्वाथ के"
+    },
+    {
+     "sa": "भागाः षट्",
+     "iast": "bhāgāḥ ṣaṭ",
+     "en": "six parts",
+     "hi": "छह भाग"
+    },
+    {
+     "sa": "पयसः",
+     "iast": "payasaḥ",
+     "en": "of milk",
+     "hi": "दूध के"
+    },
+    {
+     "sa": "तथा",
+     "iast": "tathā",
+     "en": "likewise (six parts)",
+     "hi": "उसी प्रकार (छह भाग)"
+    },
+    {
+     "sa": "यवकोलकुलत्थानाम्",
+     "iast": "yavakolakulatthānām",
+     "en": "of barley, jujube and horse gram",
+     "hi": "जौ, बेर और कुलथी का"
+    },
+    {
+     "sa": "दशमूलस्य",
+     "iast": "daśamūlasya",
+     "en": "of daśamūla",
+     "hi": "दशमूल का"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "एकतः",
+     "iast": "ekataḥ",
+     "en": "together",
+     "hi": "एक साथ"
+    }
+   ],
+   "english": "(Balā taila:) six parts of the decoction of balā root, likewise (six parts) of milk, and of barley, jujube, horse gram and daśamūla together ... (continued).",
+   "hindi": "(बला तैल:) बला-मूल के क्वाथ के छह भाग, उसी प्रकार दूध के (छह भाग), और जौ, बेर, कुलथी तथा दशमूल का एक साथ... (आगे जारी)।",
+   "explanation_en": "Begins the famous balā taila (verses 47–52). Proportions (as read with verse 48): balā kvātha 6 parts + milk 6 parts + decoction of yava-kola-kulattha-daśamūla 1 part + oil 1 part, so oil is 1/14th of the liquids. Commentators differ slightly on the exact ratio.",
+   "explanation_hi": "प्रसिद्ध बला तैल (श्लोक 47–52) आरम्भ। अनुपात (श्लोक 48 के साथ): बला क्वाथ 6 भाग + दूध 6 भाग + यव-कोल-कुलत्थ-दशमूल का क्वाथ 1 भाग + तेल 1 भाग, अर्थात तेल कुल द्रव का 1/14 भाग। सही अनुपात पर टीकाकारों में थोड़ा मतभेद है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "balā taila",
+    "daśamūla",
+    "kvātha"
+   ],
+   "tags": [
+    "formulation",
+    "bala-taila"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.48",
+   "word_meanings": [
+    {
+     "sa": "निःक्वाथभागः",
+     "iast": "niḥkvāthabhāgaḥ",
+     "en": "one part of decoction",
+     "hi": "क्वाथ का एक भाग"
+    },
+    {
+     "sa": "भागः च",
+     "iast": "bhāgaś ca",
+     "en": "and one part",
+     "hi": "और एक भाग"
+    },
+    {
+     "sa": "तैलस्य",
+     "iast": "tailasya",
+     "en": "of oil",
+     "hi": "तेल का"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "indeed",
+     "hi": "तो"
+    },
+    {
+     "sa": "चतुर्दशः",
+     "iast": "caturdaśaḥ",
+     "en": "the fourteenth (part)",
+     "hi": "चौदहवाँ (भाग)"
+    },
+    {
+     "sa": "द्विमेदा",
+     "iast": "dvimedā",
+     "en": "the two medās (medā, mahāmedā)",
+     "hi": "दोनों मेदा (मेदा, महामेदा)"
+    },
+    {
+     "sa": "दारु",
+     "iast": "dāru",
+     "en": "devadāru",
+     "hi": "देवदारु"
+    },
+    {
+     "sa": "मञ्जिष्ठा",
+     "iast": "mañjiṣṭhā",
+     "en": "mañjiṣṭhā",
+     "hi": "मंजिष्ठा"
+    },
+    {
+     "sa": "काकोलीद्वय",
+     "iast": "kākolīdvaya",
+     "en": "the two kākolīs",
+     "hi": "दोनों काकोली"
+    },
+    {
+     "sa": "चन्दनैः",
+     "iast": "candanaiḥ",
+     "en": "with sandalwood",
+     "hi": "चन्दन से"
+    }
+   ],
+   "english": "... one part of decoction; and oil is one part, (making) the fourteenth. (The paste drugs are) the two medās, devadāru, mañjiṣṭhā, the two kākolīs, sandalwood ... (continued).",
+   "hindi": "...क्वाथ का एक भाग; और तेल एक भाग, जो चौदहवाँ है। (कल्क द्रव्य:) दोनों मेदा, देवदारु, मंजिष्ठा, दोनों काकोली, चन्दन... (आगे जारी)।",
+   "explanation_en": "Completes the liquid ratio and begins the long list of kalka (paste) drugs, many from the jīvanīya/aṣṭavarga group (medā, kākolī), which make the oil nourishing. Exam tip: 'oil = 1/14 of liquids' in balā taila.",
+   "explanation_hi": "द्रव-अनुपात पूरा और कल्क द्रव्यों की लम्बी सूची आरम्भ, जिनमें कई जीवनीय/अष्टवर्ग (मेदा, काकोली) के हैं, जो तेल को पोषक बनाते हैं। परीक्षा टिप: बला तैल में 'तेल = द्रव का 1/14'।",
+   "modern_correlation": null,
+   "key_terms": [
+    "balā taila",
+    "aṣṭavarga",
+    "kalka"
+   ],
+   "tags": [
+    "formulation",
+    "bala-taila"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.49",
+   "word_meanings": [
+    {
+     "sa": "शारिवा",
+     "iast": "śārivā",
+     "en": "śārivā (Hemidesmus)",
+     "hi": "सारिवा (अनन्तमूल)"
+    },
+    {
+     "sa": "कुष्ठ",
+     "iast": "kuṣṭha",
+     "en": "kuṣṭha",
+     "hi": "कुष्ठ"
+    },
+    {
+     "sa": "तगर",
+     "iast": "tagara",
+     "en": "tagara (Valeriana)",
+     "hi": "तगर"
+    },
+    {
+     "sa": "जीवकर्षभ",
+     "iast": "jīvakarṣabha",
+     "en": "jīvaka and ṛṣabhaka",
+     "hi": "जीवक और ऋषभक"
+    },
+    {
+     "sa": "सैन्धवैः",
+     "iast": "saindhavaiḥ",
+     "en": "with rock salt",
+     "hi": "सैन्धव लवण से"
+    },
+    {
+     "sa": "कालानुसार्या",
+     "iast": "kālānusāryā",
+     "en": "kālānusārī (tagara variety / śītaśivā)",
+     "hi": "कालानुसारी"
+    },
+    {
+     "sa": "शैलेय",
+     "iast": "śaileya",
+     "en": "śaileya (lichen)",
+     "hi": "शैलेय (छरीला)"
+    },
+    {
+     "sa": "वचा",
+     "iast": "vacā",
+     "en": "vacā",
+     "hi": "वचा"
+    },
+    {
+     "sa": "अगुरु",
+     "iast": "aguru",
+     "en": "agaru",
+     "hi": "अगुरु"
+    },
+    {
+     "sa": "पुनर्नवैः",
+     "iast": "punarnavaiḥ",
+     "en": "with punarnavā",
+     "hi": "पुनर्नवा से"
+    }
+   ],
+   "english": "... śārivā, kuṣṭha, tagara, jīvaka, ṛṣabhaka, rock salt, kālānusārī, śaileya, vacā, agaru, punarnavā ... (continued).",
+   "hindi": "...सारिवा, कुष्ठ, तगर, जीवक, ऋषभक, सैन्धव, कालानुसारी, शैलेय, वचा, अगुरु, पुनर्नवा... (आगे जारी)।",
+   "explanation_en": "Continuation of the kalka drugs for balā taila. The mixture combines nourishing (jīvaka, ṛṣabhaka), aromatic and vāta-pacifying (tagara, vacā, agaru) and anti-oedema (punarnavā) drugs.",
+   "explanation_hi": "बला तैल के कल्क द्रव्य जारी। यह मिश्रण पोषक (जीवक, ऋषभक), सुगन्धित और वातशामक (तगर, वचा, अगुरु) तथा शोथहर (पुनर्नवा) द्रव्यों को मिलाता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "balā taila",
+    "jīvaka",
+    "ṛṣabhaka",
+    "punarnavā"
+   ],
+   "tags": [
+    "formulation",
+    "bala-taila"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.50",
+   "word_meanings": [
+    {
+     "sa": "अश्वगन्धा",
+     "iast": "aśvagandhā",
+     "en": "aśvagandhā (Withania)",
+     "hi": "अश्वगन्धा"
+    },
+    {
+     "sa": "वरी",
+     "iast": "varī",
+     "en": "śatāvarī",
+     "hi": "शतावरी"
+    },
+    {
+     "sa": "क्षीरशुक्ला",
+     "iast": "kṣīraśuklā",
+     "en": "kṣīraśuklā (kṣīravidārī)",
+     "hi": "क्षीरशुक्ला (क्षीरविदारी)"
+    },
+    {
+     "sa": "यष्टी",
+     "iast": "yaṣṭī",
+     "en": "yaṣṭīmadhu (liquorice)",
+     "hi": "यष्टीमधु (मुलेठी)"
+    },
+    {
+     "sa": "वरा",
+     "iast": "varā",
+     "en": "triphalā",
+     "hi": "वरा (त्रिफला)"
+    },
+    {
+     "sa": "रसैः",
+     "iast": "rasaiḥ",
+     "en": "with juices (or: with these)",
+     "hi": "रसों से"
+    },
+    {
+     "sa": "शताह्वा",
+     "iast": "śatāhvā",
+     "en": "śatāhvā (dill)",
+     "hi": "शताह्वा (सोआ)"
+    },
+    {
+     "sa": "शूर्पपर्णी",
+     "iast": "śūrpaparṇī",
+     "en": "śūrpaparṇī (mudgaparṇī/māṣaparṇī)",
+     "hi": "शूर्पपर्णी"
+    },
+    {
+     "sa": "एला",
+     "iast": "elā",
+     "en": "cardamom",
+     "hi": "इलायची"
+    },
+    {
+     "sa": "त्वक्पत्त्रैः",
+     "iast": "tvakpattraiḥ",
+     "en": "with cinnamon bark and tejapatra",
+     "hi": "दालचीनी और तेजपत्र से"
+    },
+    {
+     "sa": "श्लक्ष्णकल्कितैः",
+     "iast": "ślakṣṇakalkitaiḥ",
+     "en": "made into a fine paste",
+     "hi": "बारीक कल्क बनाकर"
+    }
+   ],
+   "english": "... aśvagandhā, śatāvarī, kṣīraśuklā, liquorice, triphalā, śatāhvā, śūrpaparṇī, cardamom, cinnamon and tejapatra, all made into a fine paste ... (continued).",
+   "hindi": "...अश्वगन्धा, शतावरी, क्षीरशुक्ला, मुलेठी, त्रिफला, शताह्वा, शूर्पपर्णी, इलायची, दालचीनी और तेजपत्र, इन सबका बारीक कल्क बनाकर... (आगे जारी)।",
+   "explanation_en": "Last group of kalka drugs, including the rasāyana drugs aśvagandhā and śatāvarī, which are traditionally linked with strength and women's reproductive health. The phrase 'ślakṣṇa-kalkita' (finely ground) is a standard step in sneha-pāka.",
+   "explanation_hi": "कल्क द्रव्यों का अन्तिम समूह, जिसमें रसायन द्रव्य अश्वगन्धा और शतावरी हैं, जो पारम्परिक रूप से बल और स्त्री प्रजनन-स्वास्थ्य से जुड़े हैं। 'श्लक्ष्ण-कल्कित' (बारीक पिसा) स्नेह-पाक का मानक चरण है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "balā taila",
+    "aśvagandhā",
+    "śatāvarī",
+    "sneha-pāka"
+   ],
+   "tags": [
+    "formulation",
+    "bala-taila"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.51",
+   "word_meanings": [
+    {
+     "sa": "पक्वम्",
+     "iast": "pakvam",
+     "en": "cooked",
+     "hi": "पकाया हुआ"
+    },
+    {
+     "sa": "मृद्वग्निना",
+     "iast": "mṛdvagninā",
+     "en": "on a mild fire",
+     "hi": "मन्द अग्नि पर"
+    },
+    {
+     "sa": "तैलम्",
+     "iast": "tailam",
+     "en": "the oil",
+     "hi": "तेल"
+    },
+    {
+     "sa": "सर्ववातविकारजित्",
+     "iast": "sarvavātavikārajit",
+     "en": "which overcomes all vāta disorders",
+     "hi": "सभी वात-विकारों को जीतने वाला"
+    },
+    {
+     "sa": "सूतिका",
+     "iast": "sūtikā",
+     "en": "newly delivered women",
+     "hi": "सूतिका"
+    },
+    {
+     "sa": "बाल",
+     "iast": "bāla",
+     "en": "children",
+     "hi": "बालक"
+    },
+    {
+     "sa": "मर्मास्थिहत",
+     "iast": "marmāsthihata",
+     "en": "those injured in marmas or bones",
+     "hi": "मर्म या अस्थि में चोट वाले"
+    },
+    {
+     "sa": "क्षीणेषु",
+     "iast": "kṣīṇeṣu",
+     "en": "and the emaciated",
+     "hi": "और क्षीण व्यक्तियों में"
+    },
+    {
+     "sa": "पूजितम्",
+     "iast": "pūjitam",
+     "en": "is praised",
+     "hi": "प्रशंसित"
+    }
+   ],
+   "english": "This oil, cooked on a mild fire, overcomes all vāta disorders and is praised for newly delivered women, children, those injured in vital points (marma) or bones, and the emaciated.",
+   "hindi": "मन्द अग्नि पर पकाया यह तेल सभी वात-विकारों को जीतता है और सूतिका, बालक, मर्म या अस्थि में चोट वाले और क्षीण व्यक्तियों के लिए प्रशंसित है।",
+   "explanation_en": "Indications of balā taila (high-yield for Bhaiṣajya and Prasūti): sarva-vāta-vikāra, sūtikā, bāla, marma-asthi-abhighāta, kṣīṇa. Exam tip: balā taila is a classic sūtikā abhyaṅga oil.",
+   "explanation_hi": "बला तैल के संकेत (भैषज्य और प्रसूति के लिए महत्वपूर्ण): सर्व वात-विकार, सूतिका, बाल, मर्म-अस्थि अभिघात, क्षीण। परीक्षा टिप: बला तैल शास्त्रीय सूतिका-अभ्यंग तैल है।",
+   "modern_correlation": {
+    "en": "Postnatal oil massage for mothers and babies is a widespread South Asian tradition; some studies suggest benefits for comfort and, for newborns, skin barrier and weight gain with certain oils, though evidence for specific formulations is limited.",
+    "hi": "माताओं और शिशुओं की प्रसवोत्तर तेल-मालिश दक्षिण एशिया की व्यापक परम्परा है; कुछ अध्ययनों में आराम और नवजातों में कुछ तेलों से त्वचा-अवरोध व वज़न-वृद्धि के लाभ सुझाए गए हैं, यद्यपि विशिष्ट योगों के प्रमाण सीमित हैं।"
+   },
+   "key_terms": [
+    "balā taila",
+    "sūtikā",
+    "marma-abhighāta",
+    "vāta-vikāra"
+   ],
+   "tags": [
+    "formulation",
+    "bala-taila",
+    "sutika-paricharya"
+   ],
+   "importance": "medium",
+   "mnemonic": "Balā taila: Sūtikā, Bāla, Marma/Asthi injury, Kṣīṇa, all Vāta.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.52",
+   "word_meanings": [
+    {
+     "sa": "ज्वर",
+     "iast": "jvara",
+     "en": "fever",
+     "hi": "ज्वर"
+    },
+    {
+     "sa": "गुल्म",
+     "iast": "gulma",
+     "en": "gulma (abdominal lump)",
+     "hi": "गुल्म"
+    },
+    {
+     "sa": "ग्रह",
+     "iast": "graha",
+     "en": "graha (seizure by evil spirits; childhood disorders)",
+     "hi": "ग्रह (बालग्रह आदि)"
+    },
+    {
+     "sa": "उन्माद",
+     "iast": "unmāda",
+     "en": "insanity",
+     "hi": "उन्माद"
+    },
+    {
+     "sa": "मूत्राघात",
+     "iast": "mūtrāghāta",
+     "en": "urinary obstruction",
+     "hi": "मूत्राघात"
+    },
+    {
+     "sa": "अन्त्रवृद्धि",
+     "iast": "antravṛddhi",
+     "en": "inguinal hernia",
+     "hi": "अन्त्रवृद्धि (हर्निया)"
+    },
+    {
+     "sa": "जित्",
+     "iast": "jit",
+     "en": "conquering",
+     "hi": "जीतने वाला"
+    },
+    {
+     "sa": "धन्वन्तरेः",
+     "iast": "dhanvantareḥ",
+     "en": "of Dhanvantari",
+     "hi": "धन्वन्तरि का"
+    },
+    {
+     "sa": "अभिमतम्",
+     "iast": "abhimatam",
+     "en": "approved",
+     "hi": "मान्य"
+    },
+    {
+     "sa": "योनिरोगक्षयापहम्",
+     "iast": "yonirogakṣayāpaham",
+     "en": "removing yoni-roga and wasting",
+     "hi": "योनिरोग और क्षय को दूर करने वाला"
+    }
+   ],
+   "english": "It conquers fever, gulma, graha, insanity, urinary obstruction and inguinal hernia; it is approved by Dhanvantari and removes diseases of the female genital tract (yoni-roga) and wasting.",
+   "hindi": "यह ज्वर, गुल्म, ग्रह, उन्माद, मूत्राघात और अन्त्रवृद्धि को जीतता है; धन्वन्तरि द्वारा मान्य है और योनिरोग तथा क्षय को दूर करता है।",
+   "explanation_en": "Further indications of balā taila, with the authority of Dhanvantari (i.e. the Suśruta school). This oil is still prepared in classical pharmacies. Learn the indications; this is not dosing advice.",
+   "explanation_hi": "बला तैल के और संकेत, धन्वन्तरि (अर्थात सुश्रुत सम्प्रदाय) के प्रमाण सहित। यह तेल आज भी शास्त्रीय फ़ार्मेसियों में बनता है। संकेत याद करें; यह मात्रा-सलाह नहीं है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "balā taila",
+    "antravṛddhi",
+    "yoni-roga",
+    "Dhanvantari"
+   ],
+   "tags": [
+    "formulation",
+    "bala-taila"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.53",
+   "word_meanings": [
+    {
+     "sa": "वस्तिद्वारे",
+     "iast": "vastidvāre",
+     "en": "at the outlet near the bladder (lower birth passage)",
+     "hi": "वस्ति-द्वार पर (नीचे के जन्म-मार्ग में)"
+    },
+    {
+     "sa": "विपन्नायाः",
+     "iast": "vipannāyāḥ",
+     "en": "of a woman who has died",
+     "hi": "मृत स्त्री का"
+    },
+    {
+     "sa": "कुक्षिः",
+     "iast": "kukṣiḥ",
+     "en": "the abdomen (womb)",
+     "hi": "कुक्षि (गर्भाशय)"
+    },
+    {
+     "sa": "प्रस्पन्दते",
+     "iast": "praspandate",
+     "en": "throbs (with fetal movement)",
+     "hi": "स्पन्दित होती है"
+    },
+    {
+     "sa": "यदि",
+     "iast": "yadi",
+     "en": "if",
+     "hi": "यदि"
+    },
+    {
+     "sa": "जन्मकाले",
+     "iast": "janmakāle",
+     "en": "at the time of delivery",
+     "hi": "प्रसव के समय"
+    },
+    {
+     "sa": "ततः",
+     "iast": "tataḥ",
+     "en": "then",
+     "hi": "तब"
+    },
+    {
+     "sa": "शीघ्रम्",
+     "iast": "śīghram",
+     "en": "quickly",
+     "hi": "शीघ्र"
+    },
+    {
+     "sa": "पाटयित्वा",
+     "iast": "pāṭayitvā",
+     "en": "having cut open",
+     "hi": "चीरकर"
+    },
+    {
+     "sa": "उद्धरेत्",
+     "iast": "uddharet",
+     "en": "should take out",
+     "hi": "निकाले"
+    },
+    {
+     "sa": "शिशुम्",
+     "iast": "śiśum",
+     "en": "the baby",
+     "hi": "शिशु को"
+    }
+   ],
+   "english": "If a woman dies at the time of delivery, with the fetus near the outlet of the bladder region, and her abdomen still throbs (with fetal movement), then one should quickly cut it open and take out the baby.",
+   "hindi": "यदि प्रसव के समय, गर्भ के वस्ति-द्वार पर होते हुए, स्त्री की मृत्यु हो जाए और उसकी कुक्षि में स्पन्दन हो, तो शीघ्र (पेट) चीरकर शिशु को निकालें।",
+   "explanation_en": "This is the classical description of post-mortem caesarean delivery: when the mother dies in labour but the fetus is alive (kukṣi-praspandana), the abdomen must be opened at once to save the baby. Suśruta gives the same instruction. Exam tip: a frequently quoted verse as evidence of caesarean section in Ayurveda.",
+   "explanation_hi": "यह मृत्यु-पश्चात् सिज़ेरियन प्रसव का शास्त्रीय वर्णन है: जब प्रसव में माता की मृत्यु हो पर गर्भ जीवित हो (कुक्षि-प्रस्पन्दन), तो शिशु को बचाने के लिए तुरन्त पेट खोलना चाहिए। सुश्रुत भी यही निर्देश देते हैं। परीक्षा टिप: आयुर्वेद में सिज़ेरियन के प्रमाण के रूप में प्रायः उद्धृत श्लोक।",
+   "modern_correlation": {
+    "en": "This closely parallels perimortem (post-mortem) caesarean delivery. Current resuscitation guidelines recommend delivering the baby within about 4–5 minutes of maternal cardiac arrest in late pregnancy if resuscitation is not succeeding, both to improve maternal resuscitation and to give the baby a chance of survival.",
+    "hi": "यह पेरिमॉर्टम (मृत्यु-पश्चात्) सिज़ेरियन प्रसव से निकटता से मेल खाता है। वर्तमान पुनर्जीवन दिशानिर्देश देर की गर्भावस्था में माता के हृदयाघात के लगभग 4–5 मिनट में, यदि पुनर्जीवन सफल न हो, शिशु का प्रसव कराने की सलाह देते हैं, ताकि माता के पुनर्जीवन में सुधार हो और शिशु को जीवन का अवसर मिले।"
+   },
+   "key_terms": [
+    "mṛta-mātā",
+    "kukṣi-praspandana",
+    "pāṭana",
+    "garbha-uddharaṇa"
+   ],
+   "tags": [
+    "caesarean",
+    "obstetric-surgery",
+    "emergency"
+   ],
+   "importance": "high",
+   "mnemonic": "Mother dead, womb moving → cut open fast, save the child.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.54",
+   "word_meanings": [
+    {
+     "sa": "मधुकम्",
+     "iast": "madhukam",
+     "en": "madhuka (liquorice)",
+     "hi": "मधुक (मुलेठी)"
+    },
+    {
+     "sa": "शाकबीजम्",
+     "iast": "śākabījam",
+     "en": "seed of śāka (teak)",
+     "hi": "शाक (सागौन) के बीज"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "पयस्या",
+     "iast": "payasyā",
+     "en": "payasyā (kṣīrakākolī / kṣīravidārī)",
+     "hi": "पयस्या (क्षीरकाकोली)"
+    },
+    {
+     "sa": "सुरदारु",
+     "iast": "suradāru",
+     "en": "devadāru",
+     "hi": "सुरदारु (देवदारु)"
+    },
+    {
+     "sa": "अश्मन्तकः",
+     "iast": "aśmantakaḥ",
+     "en": "aśmantaka (Bauhinia racemosa)",
+     "hi": "अश्मन्तक"
+    },
+    {
+     "sa": "कृष्णतिलाः",
+     "iast": "kṛṣṇatilāḥ",
+     "en": "black sesame",
+     "hi": "काले तिल"
+    },
+    {
+     "sa": "ताम्रवल्ली",
+     "iast": "tāmravallī",
+     "en": "tāmravallī (mañjiṣṭhā)",
+     "hi": "ताम्रवल्ली (मंजिष्ठा)"
+    },
+    {
+     "sa": "शतावरी",
+     "iast": "śatāvarī",
+     "en": "śatāvarī",
+     "hi": "शतावरी"
+    }
+   ],
+   "english": "(First month:) madhuka, śāka seed, payasyā and devadāru. (Second month:) aśmantaka, black sesame, tāmravallī and śatāvarī.",
+   "hindi": "(पहला मास:) मुलेठी, शाक-बीज, पयस्या और देवदारु। (दूसरा मास:) अश्मन्तक, काले तिल, ताम्रवल्ली और शतावरी।",
+   "explanation_en": "Verses 54–60 give the māsānumāsika yoga for garbha-srāva: a separate milk preparation for each month when bleeding threatens the pregnancy. Each half-verse is one month's recipe (stated in verse 57–58). Exam tip: month 1 begins with madhuka; month 2 includes śatāvarī. These differ from Caraka's monthly regimen (garbhiṇī māsānumāsika paricaryā) for a normal pregnancy.",
+   "explanation_hi": "श्लोक 54–60 गर्भस्राव के लिए मासानुमासिक योग देते हैं: जब रक्तस्राव से गर्भ संकट में हो, तब प्रत्येक मास के लिए अलग दुग्ध-योग। प्रत्येक अर्धश्लोक एक मास का योग है (श्लोक 57–58 में बताया गया)। परीक्षा टिप: पहला मास मुलेठी से आरम्भ; दूसरे मास में शतावरी। ये सामान्य गर्भावस्था के लिए चरक की मासानुमासिक गर्भिणी परिचर्या से भिन्न हैं।",
+   "modern_correlation": {
+    "en": "These month-wise milk preparations for bleeding in pregnancy are classical and have not been tested in modern clinical trials. Any bleeding in pregnancy needs prompt medical evaluation (ultrasound, blood group, haemoglobin); this text is for study, not for self-treatment.",
+    "hi": "गर्भावस्था में रक्तस्राव के लिए ये मासानुसार दुग्ध-योग शास्त्रीय हैं और आधुनिक नैदानिक परीक्षणों में परखे नहीं गए हैं। गर्भावस्था में किसी भी रक्तस्राव की तुरन्त चिकित्सकीय जाँच (अल्ट्रासाउंड, रक्त-समूह, हीमोग्लोबिन) आवश्यक है; यह पाठ अध्ययन के लिए है, स्व-चिकित्सा के लिए नहीं।"
+   },
+   "key_terms": [
+    "māsānumāsika yoga",
+    "garbha-srāva",
+    "madhuka",
+    "śatāvarī"
+   ],
+   "tags": [
+    "monthly-regimen",
+    "threatened-abortion",
+    "formulation"
+   ],
+   "importance": "high",
+   "mnemonic": "M1: Madhuka-Śākabīja-Payasyā-Suradāru; M2: Aśmantaka-Tila-Tāmravallī-Śatāvarī.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.55",
+   "word_meanings": [
+    {
+     "sa": "वृक्षादनी",
+     "iast": "vṛkṣādanī",
+     "en": "vṛkṣādanī (vandāka, Loranthus)",
+     "hi": "वृक्षादनी (बन्दा)"
+    },
+    {
+     "sa": "पयस्या",
+     "iast": "payasyā",
+     "en": "payasyā",
+     "hi": "पयस्या"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "लता",
+     "iast": "latā",
+     "en": "latā (mañjiṣṭhā or priyaṅgu)",
+     "hi": "लता (मंजिष्ठा/प्रियंगु)"
+    },
+    {
+     "sa": "सोत्पलशारिवा",
+     "iast": "sotpalaśārivā",
+     "en": "with utpala and śārivā",
+     "hi": "उत्पल और सारिवा सहित"
+    },
+    {
+     "sa": "अनन्ता",
+     "iast": "anantā",
+     "en": "anantā (a śārivā variety)",
+     "hi": "अनन्ता"
+    },
+    {
+     "sa": "शारिवा",
+     "iast": "śārivā",
+     "en": "śārivā",
+     "hi": "सारिवा"
+    },
+    {
+     "sa": "रास्ना",
+     "iast": "rāsnā",
+     "en": "rāsnā",
+     "hi": "रास्ना"
+    },
+    {
+     "sa": "पद्मा",
+     "iast": "padmā",
+     "en": "padmā (bhārgī / lotus)",
+     "hi": "पद्मा"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "मधुयष्टिका",
+     "iast": "madhuyaṣṭikā",
+     "en": "liquorice",
+     "hi": "मधुयष्टिका (मुलेठी)"
+    }
+   ],
+   "english": "(Third month:) vṛkṣādanī, payasyā, latā, utpala and śārivā. (Fourth month:) anantā, śārivā, rāsnā, padmā and liquorice.",
+   "hindi": "(तीसरा मास:) वृक्षादनी, पयस्या, लता, उत्पल और सारिवा। (चौथा मास:) अनन्ता, सारिवा, रास्ना, पद्मा और मुलेठी।",
+   "explanation_en": "Months 3 and 4 of the garbha-srāva regimen. Note the repeated use of cooling, rakta-stambhaka and garbha-sthāpaka drugs such as śārivā, utpala and madhuyaṣṭi. Some plant identities (latā, padmā) are interpreted differently by commentators.",
+   "explanation_hi": "गर्भस्राव क्रम के तीसरे और चौथे मास। शीतल, रक्तस्तम्भक और गर्भस्थापक द्रव्यों जैसे सारिवा, उत्पल और मधुयष्टि का बार-बार प्रयोग ध्यान दें। कुछ वनस्पतियों (लता, पद्मा) की पहचान टीकाकार अलग-अलग करते हैं।",
+   "modern_correlation": {
+    "en": "These month-wise milk preparations for bleeding in pregnancy are classical and have not been tested in modern clinical trials. Any bleeding in pregnancy needs prompt medical evaluation (ultrasound, blood group, haemoglobin); this text is for study, not for self-treatment.",
+    "hi": "गर्भावस्था में रक्तस्राव के लिए ये मासानुसार दुग्ध-योग शास्त्रीय हैं और आधुनिक नैदानिक परीक्षणों में परखे नहीं गए हैं। गर्भावस्था में किसी भी रक्तस्राव की तुरन्त चिकित्सकीय जाँच (अल्ट्रासाउंड, रक्त-समूह, हीमोग्लोबिन) आवश्यक है; यह पाठ अध्ययन के लिए है, स्व-चिकित्सा के लिए नहीं।"
+   },
+   "key_terms": [
+    "māsānumāsika yoga",
+    "śārivā",
+    "garbhasthāpaka"
+   ],
+   "tags": [
+    "monthly-regimen",
+    "threatened-abortion",
+    "formulation"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.56",
+   "word_meanings": [
+    {
+     "sa": "बृहतीद्वय",
+     "iast": "bṛhatīdvaya",
+     "en": "the two bṛhatīs",
+     "hi": "दोनों बृहती"
+    },
+    {
+     "sa": "काश्मर्य",
+     "iast": "kāśmarya",
+     "en": "kāśmarya (gambhārī)",
+     "hi": "काश्मर्य (गम्भारी)"
+    },
+    {
+     "sa": "क्षीरिशुङ्गत्वचा",
+     "iast": "kṣīriśuṅgatvacā",
+     "en": "leaf buds and bark of latex-bearing trees",
+     "hi": "क्षीरी वृक्षों की कोंपलें और छाल"
+    },
+    {
+     "sa": "घृतम्",
+     "iast": "ghṛtam",
+     "en": "ghee",
+     "hi": "घृत"
+    },
+    {
+     "sa": "पृश्निपर्णी",
+     "iast": "pṛśniparṇī",
+     "en": "pṛśniparṇī",
+     "hi": "पृश्निपर्णी"
+    },
+    {
+     "sa": "बला",
+     "iast": "balā",
+     "en": "balā",
+     "hi": "बला"
+    },
+    {
+     "sa": "शिग्रुः",
+     "iast": "śigruḥ",
+     "en": "śigru (drumstick)",
+     "hi": "शिग्रु (सहजन)"
+    },
+    {
+     "sa": "श्वदंष्ट्रा",
+     "iast": "śvadaṃṣṭrā",
+     "en": "gokṣura",
+     "hi": "श्वदंष्ट्रा (गोक्षुर)"
+    },
+    {
+     "sa": "मधुपर्णिका",
+     "iast": "madhuparṇikā",
+     "en": "madhuparṇikā (guḍūcī)",
+     "hi": "मधुपर्णिका (गुडूची)"
+    }
+   ],
+   "english": "(Fifth month:) the two bṛhatīs, kāśmarya, the leaf buds and bark of latex-bearing trees, and ghee. (Sixth month:) pṛśniparṇī, balā, śigru, gokṣura and madhuparṇikā.",
+   "hindi": "(पाँचवाँ मास:) दोनों बृहती, काश्मर्य, क्षीरी वृक्षों की कोंपलें और छाल, तथा घृत। (छठा मास:) पृश्निपर्णी, बला, शिग्रु, गोक्षुर और मधुपर्णिका।",
+   "explanation_en": "Months 5 and 6. From the fifth month, ghee appears in the recipe, and the sixth month uses several laghu pañcamūla drugs (pṛśniparṇī, gokṣura) that also act on the urinary tract, which is relevant as the enlarging uterus presses on the bladder.",
+   "explanation_hi": "पाँचवाँ और छठा मास। पाँचवें मास से योग में घृत आता है, और छठे मास में लघु पंचमूल के कई द्रव्य (पृश्निपर्णी, गोक्षुर) हैं जो मूत्र-मार्ग पर भी कार्य करते हैं, जो बढ़ते गर्भाशय के मूत्राशय पर दबाव के सन्दर्भ में उपयोगी है।",
+   "modern_correlation": {
+    "en": "These month-wise milk preparations for bleeding in pregnancy are classical and have not been tested in modern clinical trials. Any bleeding in pregnancy needs prompt medical evaluation (ultrasound, blood group, haemoglobin); this text is for study, not for self-treatment.",
+    "hi": "गर्भावस्था में रक्तस्राव के लिए ये मासानुसार दुग्ध-योग शास्त्रीय हैं और आधुनिक नैदानिक परीक्षणों में परखे नहीं गए हैं। गर्भावस्था में किसी भी रक्तस्राव की तुरन्त चिकित्सकीय जाँच (अल्ट्रासाउंड, रक्त-समूह, हीमोग्लोबिन) आवश्यक है; यह पाठ अध्ययन के लिए है, स्व-चिकित्सा के लिए नहीं।"
+   },
+   "key_terms": [
+    "māsānumāsika yoga",
+    "bṛhatī",
+    "gokṣura",
+    "kṣīrī vṛkṣa"
+   ],
+   "tags": [
+    "monthly-regimen",
+    "threatened-abortion",
+    "formulation"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.57",
+   "word_meanings": [
+    {
+     "sa": "शृङ्गाटकम्",
+     "iast": "śṛṅgāṭakam",
+     "en": "water chestnut",
+     "hi": "सिंघाड़ा"
+    },
+    {
+     "sa": "बिसम्",
+     "iast": "bisam",
+     "en": "lotus stalk",
+     "hi": "बिस (कमल-नाल)"
+    },
+    {
+     "sa": "द्राक्षा",
+     "iast": "drākṣā",
+     "en": "grapes",
+     "hi": "द्राक्षा (मुनक्का)"
+    },
+    {
+     "sa": "कसेरु",
+     "iast": "kaseru",
+     "en": "kaseru (Scirpus)",
+     "hi": "कसेरू"
+    },
+    {
+     "sa": "मधुकम्",
+     "iast": "madhukam",
+     "en": "liquorice",
+     "hi": "मधुक"
+    },
+    {
+     "sa": "सिता",
+     "iast": "sitā",
+     "en": "sugar",
+     "hi": "सिता (मिश्री)"
+    },
+    {
+     "sa": "सप्त",
+     "iast": "sapta",
+     "en": "seven",
+     "hi": "सात"
+    },
+    {
+     "sa": "एतान्",
+     "iast": "etān",
+     "en": "these",
+     "hi": "इन"
+    },
+    {
+     "sa": "पयसा",
+     "iast": "payasā",
+     "en": "with milk",
+     "hi": "दूध के साथ"
+    },
+    {
+     "sa": "योगान्",
+     "iast": "yogān",
+     "en": "recipes",
+     "hi": "योगों को"
+    },
+    {
+     "sa": "अर्धश्लोकसमापनान्",
+     "iast": "ardhaślokasamāpanān",
+     "en": "each completed in half a verse",
+     "hi": "प्रत्येक आधे श्लोक में पूरा"
+    }
+   ],
+   "english": "(Seventh month:) water chestnut, lotus stalk, grapes, kaseru, liquorice and sugar. These seven recipes, each completed in half a verse, (should be given) with milk ... (continued).",
+   "hindi": "(सातवाँ मास:) सिंघाड़ा, बिस, द्राक्षा, कसेरू, मुलेठी और मिश्री। ये सात योग, जिनमें से प्रत्येक आधे श्लोक में पूरा है, दूध के साथ... (आगे जारी)।",
+   "explanation_en": "Month 7 recipe is sweet and cooling (madhura-śīta). The second half explains the structure: seven recipes, one per half-verse, to be given with milk. Exam tip: śṛṅgāṭaka and kaseru appear again as garbha-sthāpaka foods (see 2.4).",
+   "explanation_hi": "सातवें मास का योग मधुर और शीतल है। दूसरा अर्धांश संरचना बताता है: सात योग, प्रत्येक आधे श्लोक में, दूध के साथ देने हैं। परीक्षा टिप: सिंघाड़ा और कसेरू फिर गर्भस्थापक आहार के रूप में आते हैं (2.4 देखें)।",
+   "modern_correlation": {
+    "en": "These month-wise milk preparations for bleeding in pregnancy are classical and have not been tested in modern clinical trials. Any bleeding in pregnancy needs prompt medical evaluation (ultrasound, blood group, haemoglobin); this text is for study, not for self-treatment.",
+    "hi": "गर्भावस्था में रक्तस्राव के लिए ये मासानुसार दुग्ध-योग शास्त्रीय हैं और आधुनिक नैदानिक परीक्षणों में परखे नहीं गए हैं। गर्भावस्था में किसी भी रक्तस्राव की तुरन्त चिकित्सकीय जाँच (अल्ट्रासाउंड, रक्त-समूह, हीमोग्लोबिन) आवश्यक है; यह पाठ अध्ययन के लिए है, स्व-चिकित्सा के लिए नहीं।"
+   },
+   "key_terms": [
+    "māsānumāsika yoga",
+    "śṛṅgāṭaka",
+    "kaseru",
+    "drākṣā"
+   ],
+   "tags": [
+    "monthly-regimen",
+    "threatened-abortion",
+    "formulation"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.58",
+   "word_meanings": [
+    {
+     "sa": "क्रमात्",
+     "iast": "kramāt",
+     "en": "in order",
+     "hi": "क्रम से"
+    },
+    {
+     "sa": "सप्तसु मासेषु",
+     "iast": "saptasu māseṣu",
+     "en": "in the seven months",
+     "hi": "सात मासों में"
+    },
+    {
+     "sa": "गर्भे स्रवति",
+     "iast": "garbhe sravati",
+     "en": "when the fetus is flowing (threatened abortion)",
+     "hi": "गर्भ के स्रवित होने पर"
+    },
+    {
+     "sa": "योजयेत्",
+     "iast": "yojayet",
+     "en": "should employ",
+     "hi": "प्रयोग करे"
+    },
+    {
+     "sa": "कपित्थ",
+     "iast": "kapittha",
+     "en": "wood apple",
+     "hi": "कपित्थ (कैथ)"
+    },
+    {
+     "sa": "बिल्व",
+     "iast": "bilva",
+     "en": "bael",
+     "hi": "बिल्व (बेल)"
+    },
+    {
+     "sa": "बृहती",
+     "iast": "bṛhatī",
+     "en": "bṛhatī",
+     "hi": "बृहती"
+    },
+    {
+     "sa": "पटोल",
+     "iast": "paṭola",
+     "en": "paṭola (pointed gourd)",
+     "hi": "पटोल (परवल)"
+    },
+    {
+     "sa": "इक्षु",
+     "iast": "ikṣu",
+     "en": "sugarcane",
+     "hi": "इक्षु (ईख)"
+    },
+    {
+     "sa": "निदिग्धिकात्",
+     "iast": "nidigdhikāt",
+     "en": "and nidigdhikā (kaṇṭakārī)",
+     "hi": "और निदिग्धिका (कण्टकारी) से"
+    }
+   ],
+   "english": "... in order, in the seven months, when the fetus threatens to flow out (garbha-srāva). (For the eighth month,) from kapittha, bilva, bṛhatī, paṭola, sugarcane and nidigdhikā ... (continued).",
+   "hindi": "...क्रम से सात मासों में, जब गर्भ स्रवित होने लगे (गर्भस्राव), प्रयोग करें। (आठवें मास के लिए) कपित्थ, बिल्व, बृहती, पटोल, ईख और निदिग्धिका की... (आगे जारी)।",
+   "explanation_en": "Confirms that the seven half-verse recipes are for months 1–7 respectively, used when garbha-srāva threatens. The eighth-month recipe begins: milk boiled with the roots of six drugs (verse 59).",
+   "explanation_hi": "पुष्टि करता है कि सात अर्धश्लोक योग क्रमशः मास 1–7 के लिए हैं, जब गर्भस्राव का संकट हो। आठवें मास का योग आरम्भ: छह द्रव्यों की जड़ों से उबाला दूध (श्लोक 59)।",
+   "modern_correlation": {
+    "en": "These month-wise milk preparations for bleeding in pregnancy are classical and have not been tested in modern clinical trials. Any bleeding in pregnancy needs prompt medical evaluation (ultrasound, blood group, haemoglobin); this text is for study, not for self-treatment.",
+    "hi": "गर्भावस्था में रक्तस्राव के लिए ये मासानुसार दुग्ध-योग शास्त्रीय हैं और आधुनिक नैदानिक परीक्षणों में परखे नहीं गए हैं। गर्भावस्था में किसी भी रक्तस्राव की तुरन्त चिकित्सकीय जाँच (अल्ट्रासाउंड, रक्त-समूह, हीमोग्लोबिन) आवश्यक है; यह पाठ अध्ययन के लिए है, स्व-चिकित्सा के लिए नहीं।"
+   },
+   "key_terms": [
+    "māsānumāsika yoga",
+    "garbha-srāva",
+    "kapittha",
+    "bilva"
+   ],
+   "tags": [
+    "monthly-regimen",
+    "threatened-abortion",
+    "formulation"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.59",
+   "word_meanings": [
+    {
+     "sa": "मूलैः",
+     "iast": "mūlaiḥ",
+     "en": "with the roots",
+     "hi": "जड़ों से"
+    },
+    {
+     "sa": "शृतम्",
+     "iast": "śṛtam",
+     "en": "boiled",
+     "hi": "उबाला हुआ"
+    },
+    {
+     "sa": "प्रयुञ्जीत",
+     "iast": "prayuñjīta",
+     "en": "should use",
+     "hi": "प्रयोग करे"
+    },
+    {
+     "sa": "क्षीरम्",
+     "iast": "kṣīram",
+     "en": "milk",
+     "hi": "दूध"
+    },
+    {
+     "sa": "मासे",
+     "iast": "māse",
+     "en": "in the month",
+     "hi": "मास में"
+    },
+    {
+     "sa": "तथा",
+     "iast": "tathā",
+     "en": "likewise",
+     "hi": "उसी प्रकार"
+    },
+    {
+     "sa": "अष्टमे",
+     "iast": "aṣṭame",
+     "en": "eighth",
+     "hi": "आठवें"
+    },
+    {
+     "sa": "नवमे",
+     "iast": "navame",
+     "en": "in the ninth",
+     "hi": "नौवें में"
+    },
+    {
+     "sa": "शारिवा",
+     "iast": "śārivā",
+     "en": "śārivā",
+     "hi": "सारिवा"
+    },
+    {
+     "sa": "अनन्ता",
+     "iast": "anantā",
+     "en": "anantā",
+     "hi": "अनन्ता"
+    },
+    {
+     "sa": "पयस्या",
+     "iast": "payasyā",
+     "en": "payasyā",
+     "hi": "पयस्या"
+    },
+    {
+     "sa": "मधुयष्टिभिः",
+     "iast": "madhuyaṣṭibhiḥ",
+     "en": "and liquorice",
+     "hi": "और मुलेठी से"
+    }
+   ],
+   "english": "... roots, milk boiled with these should be used in the eighth month. In the ninth, (milk boiled) with śārivā, anantā, payasyā and liquorice ... (continued).",
+   "hindi": "...की जड़ों से उबाला दूध आठवें मास में प्रयोग करें। नौवें में सारिवा, अनन्ता, पयस्या और मुलेठी से (उबाला दूध)... (आगे जारी)।",
+   "explanation_en": "Months 8 and 9 of the garbha-srāva regimen. Exam tip: month 8 = roots of kapittha, bilva, bṛhatī, paṭola, ikṣu, nidigdhikā; month 9 = śārivā, anantā, payasyā, madhuyaṣṭi.",
+   "explanation_hi": "गर्भस्राव क्रम के आठवें और नौवें मास। परीक्षा टिप: आठवाँ मास = कपित्थ, बिल्व, बृहती, पटोल, इक्षु, निदिग्धिका की जड़ें; नौवाँ मास = सारिवा, अनन्ता, पयस्या, मधुयष्टि।",
+   "modern_correlation": {
+    "en": "These month-wise milk preparations for bleeding in pregnancy are classical and have not been tested in modern clinical trials. Any bleeding in pregnancy needs prompt medical evaluation (ultrasound, blood group, haemoglobin); this text is for study, not for self-treatment.",
+    "hi": "गर्भावस्था में रक्तस्राव के लिए ये मासानुसार दुग्ध-योग शास्त्रीय हैं और आधुनिक नैदानिक परीक्षणों में परखे नहीं गए हैं। गर्भावस्था में किसी भी रक्तस्राव की तुरन्त चिकित्सकीय जाँच (अल्ट्रासाउंड, रक्त-समूह, हीमोग्लोबिन) आवश्यक है; यह पाठ अध्ययन के लिए है, स्व-चिकित्सा के लिए नहीं।"
+   },
+   "key_terms": [
+    "māsānumāsika yoga",
+    "śārivā",
+    "madhuyaṣṭi"
+   ],
+   "tags": [
+    "monthly-regimen",
+    "threatened-abortion",
+    "formulation"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.60",
+   "word_meanings": [
+    {
+     "sa": "योजयेत्",
+     "iast": "yojayet",
+     "en": "should give",
+     "hi": "प्रयोग करे"
+    },
+    {
+     "sa": "दशमे मासि",
+     "iast": "daśame māsi",
+     "en": "in the tenth month",
+     "hi": "दसवें मास में"
+    },
+    {
+     "sa": "सिद्धम्",
+     "iast": "siddham",
+     "en": "prepared",
+     "hi": "सिद्ध"
+    },
+    {
+     "sa": "क्षीरम्",
+     "iast": "kṣīram",
+     "en": "milk",
+     "hi": "दूध"
+    },
+    {
+     "sa": "पयस्यया",
+     "iast": "payasyayā",
+     "en": "with payasyā",
+     "hi": "पयस्या से"
+    },
+    {
+     "sa": "अथवा",
+     "iast": "athavā",
+     "en": "or",
+     "hi": "अथवा"
+    },
+    {
+     "sa": "यष्टिमधुक",
+     "iast": "yaṣṭimadhuka",
+     "en": "liquorice",
+     "hi": "यष्टिमधु (मुलेठी)"
+    },
+    {
+     "sa": "नागर",
+     "iast": "nāgara",
+     "en": "dry ginger",
+     "hi": "नागर (सोंठ)"
+    },
+    {
+     "sa": "अमरदारुभिः",
+     "iast": "amaradārubhiḥ",
+     "en": "and devadāru",
+     "hi": "और देवदारु से"
+    }
+   ],
+   "english": "In the tenth month, milk prepared with payasyā should be given, or (milk prepared) with liquorice, dry ginger and devadāru.",
+   "hindi": "दसवें मास में पयस्या से सिद्ध दूध दें, अथवा मुलेठी, सोंठ और देवदारु से सिद्ध दूध।",
+   "explanation_en": "The tenth month (lunar months; full term is about 9 solar months) completes the series. The full table of 10 monthly recipes is a common long-answer question; learn a key drug for each month. Exam tip: Vāgbhaṭa lists ten months, reflecting classical counting of pregnancy in lunar months.",
+   "explanation_hi": "दसवाँ मास (चान्द्र मास; पूर्णकाल लगभग 9 सौर मास) शृंखला पूरी करता है। 10 मासिक योगों की पूरी तालिका सामान्य दीर्घ-उत्तर प्रश्न है; प्रत्येक मास का एक मुख्य द्रव्य याद करें। परीक्षा टिप: वाग्भट दस मास बताते हैं, जो गर्भ की चान्द्र मासों में शास्त्रीय गणना दर्शाता है।",
+   "modern_correlation": {
+    "en": "Ten lunar months of 28 days equal 280 days, which matches the conventional 40 weeks from the last menstrual period used to estimate the due date. Bleeding late in pregnancy (antepartum haemorrhage, e.g. placenta praevia or abruption) is an emergency requiring hospital care.",
+    "hi": "28 दिनों के दस चान्द्र मास 280 दिन होते हैं, जो अन्तिम मासिक से 40 सप्ताह की परम्परागत गणना से मेल खाता है, जिससे प्रसव की अनुमानित तिथि निकाली जाती है। देर की गर्भावस्था में रक्तस्राव (प्रसवपूर्व रक्तस्राव, जैसे प्लेसेंटा प्रीविया या एब्रप्शन) आपात स्थिति है जिसमें अस्पताल-चिकित्सा आवश्यक है।"
+   },
+   "key_terms": [
+    "māsānumāsika yoga",
+    "daśama māsa",
+    "payasyā",
+    "nāgara"
+   ],
+   "tags": [
+    "monthly-regimen",
+    "threatened-abortion",
+    "formulation"
+   ],
+   "importance": "medium",
+   "mnemonic": "10 months, 10 milks: one recipe per month for threatened bleeding.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.61",
+   "word_meanings": [
+    {
+     "sa": "अवस्थितम्",
+     "iast": "avasthitam",
+     "en": "retained",
+     "hi": "रुका हुआ"
+    },
+    {
+     "sa": "लोहितम्",
+     "iast": "lohitam",
+     "en": "blood",
+     "hi": "रक्त"
+    },
+    {
+     "sa": "अङ्गनायाः",
+     "iast": "aṅganāyāḥ",
+     "en": "of a woman",
+     "hi": "स्त्री का"
+    },
+    {
+     "sa": "वातेन",
+     "iast": "vātena",
+     "en": "by vāta",
+     "hi": "वात द्वारा"
+    },
+    {
+     "sa": "गर्भम्",
+     "iast": "garbham",
+     "en": "a fetus",
+     "hi": "गर्भ"
+    },
+    {
+     "sa": "ब्रुवते",
+     "iast": "bruvate",
+     "en": "call (it)",
+     "hi": "कहते हैं"
+    },
+    {
+     "sa": "अनभिज्ञाः",
+     "iast": "anabhijñāḥ",
+     "en": "the ignorant",
+     "hi": "अज्ञानी"
+    },
+    {
+     "sa": "गर्भाकृतित्वात्",
+     "iast": "garbhākṛtitvāt",
+     "en": "because it resembles a fetus",
+     "hi": "गर्भ जैसी आकृति होने से"
+    },
+    {
+     "sa": "कटुकोष्णतीक्ष्णैः",
+     "iast": "kaṭukoṣṇatīkṣṇaiḥ",
+     "en": "with pungent, hot and sharp (measures)",
+     "hi": "कटु, उष्ण और तीक्ष्ण (उपचारों) से"
+    },
+    {
+     "sa": "स्रुते",
+     "iast": "srute",
+     "en": "when it flows out",
+     "hi": "बाहर निकलने पर"
+    },
+    {
+     "sa": "पुनः",
+     "iast": "punaḥ",
+     "en": "again / however",
+     "hi": "किन्तु"
+    },
+    {
+     "sa": "केवले एव रक्ते",
+     "iast": "kevala eva rakte",
+     "en": "only blood (comes out)",
+     "hi": "केवल रक्त ही"
+    }
+   ],
+   "english": "The ignorant call blood that is retained by vāta in a woman a 'fetus', because it takes the form of a fetus. But when it is made to flow out with pungent, hot and sharp measures, only blood comes out.",
+   "hindi": "अज्ञानी लोग वात द्वारा स्त्री में रुके हुए रक्त को 'गर्भ' कहते हैं, क्योंकि उसकी आकृति गर्भ जैसी होती है। किन्तु कटु, उष्ण और तीक्ष्ण उपचारों से बाहर निकालने पर केवल रक्त ही निकलता है।",
+   "explanation_en": "This describes rakta-gulma (a blood lump retained by vāta) which mimics pregnancy (amenorrhoea, enlarging abdomen), and the diagnostic test: tīkṣṇa-uṣṇa treatment brings out only blood, not a fetus. Exam tip: differential diagnosis of garbha vs rakta-gulma (also in Caraka Nidāna 3 and Cikitsā 5).",
+   "explanation_hi": "यह रक्त-गुल्म (वात द्वारा रुका रक्त-पिण्ड) का वर्णन है, जो गर्भ जैसा दिखता है (मासिक रुकना, पेट बढ़ना), और नैदानिक परीक्षण: तीक्ष्ण-उष्ण उपचार से केवल रक्त निकलता है, गर्भ नहीं। परीक्षा टिप: गर्भ और रक्त-गुल्म का भेद-निदान (चरक निदान 3 और चिकित्सा 5 में भी)।",
+   "modern_correlation": {
+    "en": "Rakta-gulma is often compared to conditions that mimic pregnancy, such as haematometra (menstrual blood trapped in the uterus), uterine fibroids, molar pregnancy or pseudocyesis (false pregnancy). Today pregnancy is confirmed or excluded by hCG testing and ultrasound, and 'pungent, hot, sharp' measures to provoke bleeding are unsafe if a real pregnancy might be present.",
+    "hi": "रक्त-गुल्म की तुलना प्रायः गर्भ जैसी दिखने वाली स्थितियों से की जाती है, जैसे हीमैटोमेट्रा (गर्भाशय में रुका मासिक रक्त), गर्भाशय फाइब्रॉइड, मोलर गर्भ या स्यूडोसाइसिस (मिथ्या गर्भ)। आज गर्भ की पुष्टि या खण्डन hCG परीक्षण और अल्ट्रासाउंड से होता है, और यदि वास्तविक गर्भ सम्भव हो तो रक्तस्राव उत्पन्न करने वाले 'कटु, उष्ण, तीक्ष्ण' उपाय असुरक्षित हैं।"
+   },
+   "key_terms": [
+    "rakta-gulma",
+    "vāta",
+    "garbha-bhrama"
+   ],
+   "tags": [
+    "rakta-gulma",
+    "differential-diagnosis",
+    "pseudocyesis"
+   ],
+   "importance": "high",
+   "mnemonic": "Rakta-gulma looks like garbha; heat it out → only blood.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sharira.2.62",
+   "word_meanings": [
+    {
+     "sa": "गर्भम्",
+     "iast": "garbham",
+     "en": "the fetus",
+     "hi": "गर्भ को"
+    },
+    {
+     "sa": "जडाः",
+     "iast": "jaḍāḥ",
+     "en": "the foolish",
+     "hi": "मूर्ख"
+    },
+    {
+     "sa": "भूतहृतम्",
+     "iast": "bhūtahṛtam",
+     "en": "carried off by spirits (bhūtas)",
+     "hi": "भूतों द्वारा हरा गया"
+    },
+    {
+     "sa": "वदन्ति",
+     "iast": "vadanti",
+     "en": "say",
+     "hi": "कहते हैं"
+    },
+    {
+     "sa": "मूर्तेः",
+     "iast": "mūrteḥ",
+     "en": "of a material body",
+     "hi": "मूर्त (भौतिक) शरीर का"
+    },
+    {
+     "sa": "न दृष्टम्",
+     "iast": "na dṛṣṭam",
+     "en": "has not been seen",
+     "hi": "नहीं देखा गया"
+    },
+    {
+     "sa": "हरणम्",
+     "iast": "haraṇam",
+     "en": "the taking away",
+     "hi": "हरण"
+    },
+    {
+     "sa": "यतः",
+     "iast": "yataḥ",
+     "en": "because",
+     "hi": "क्योंकि"
+    },
+    {
+     "sa": "तैः",
+     "iast": "taiḥ",
+     "en": "by them",
+     "hi": "उनके द्वारा"
+    },
+    {
+     "sa": "ओजोऽशनत्वात्",
+     "iast": "ojo'śanatvāt",
+     "en": "because they feed on ojas",
+     "hi": "ओज-भक्षी होने से"
+    },
+    {
+     "sa": "अथवा",
+     "iast": "athavā",
+     "en": "or else",
+     "hi": "अथवा"
+    },
+    {
+     "sa": "अव्यवस्थैः",
+     "iast": "avyavasthaiḥ",
+     "en": "unrestrained",
+     "hi": "अनियन्त्रित"
+    },
+    {
+     "sa": "भूतैः",
+     "iast": "bhūtaiḥ",
+     "en": "by the spirits",
+     "hi": "भूतों द्वारा"
+    },
+    {
+     "sa": "उपेक्ष्येत",
+     "iast": "upekṣyeta",
+     "en": "would be spared",
+     "hi": "छोड़ी जाती"
+    },
+    {
+     "sa": "न",
+     "iast": "na",
+     "en": "not",
+     "hi": "नहीं"
+    },
+    {
+     "sa": "गर्भमाता",
+     "iast": "garbhamātā",
+     "en": "the mother of the fetus",
+     "hi": "गर्भ की माता"
+    }
+   ],
+   "english": "The foolish say that the fetus was carried off by bhūtas (spirits), but this is wrong, because the taking away of a material body by them has never been seen. Moreover, since bhūtas feed on ojas, such unrestrained beings would not have spared the mother of the fetus either.",
+   "hindi": "मूर्ख लोग कहते हैं कि गर्भ को भूतों (प्रेतों) ने हर लिया, पर यह गलत है, क्योंकि उनके द्वारा किसी भौतिक शरीर का हरण कभी नहीं देखा गया। और चूँकि भूत ओज-भक्षी हैं, ऐसे अनियन्त्रित प्राणी गर्भ की माता को भी नहीं छोड़ते।",
+   "explanation_en": "A notable rational argument closing the chapter: Vāgbhaṭa rejects the popular belief that a vanished pregnancy (as in nāgodara or garbha-śoṣa, where the abdomen shrinks) was 'stolen by spirits', using pratyakṣa (no one has seen a body taken) and anumāna (spirits that eat ojas would harm the mother too). He concludes that the pregnant mother must not be neglected. Exam tip: cite this as an example of yukti-based reasoning in Ayurveda.",
+   "explanation_hi": "अध्याय का समापन एक उल्लेखनीय तार्किक तर्क से होता है: वाग्भट उस लोक-विश्वास को अस्वीकार करते हैं कि लुप्त हुआ गर्भ (जैसे नागोदर या गर्भ-शोष में, जहाँ पेट घट जाता है) 'भूतों ने चुरा लिया', प्रत्यक्ष (किसी ने शरीर हरते नहीं देखा) और अनुमान (ओज खाने वाले भूत माता को भी हानि पहुँचाते) के आधार पर। निष्कर्ष यह है कि गर्भिणी माता की उपेक्षा नहीं होनी चाहिए। परीक्षा टिप: इसे आयुर्वेद में युक्ति-आधारित तर्क के उदाहरण के रूप में उद्धृत करें।",
+   "modern_correlation": {
+    "en": "A pregnancy that seems to 'disappear' has natural explanations today: early miscarriage, a missed miscarriage with resorption, vanishing twin, or a condition that only mimicked pregnancy. This verse is a historical example of rejecting supernatural explanations in favour of observation.",
+    "hi": "जो गर्भ 'लुप्त' होता लगे, उसकी आज प्राकृतिक व्याख्याएँ हैं: आरम्भिक गर्भपात, अवशोषण सहित मिस्ड मिसकैरिज, वैनिशिंग ट्विन, या कोई स्थिति जो केवल गर्भ जैसी दिखी। यह श्लोक अलौकिक व्याख्याओं को छोड़कर अवलोकन को अपनाने का ऐतिहासिक उदाहरण है।"
+   },
+   "key_terms": [
+    "bhūta-hṛta garbha",
+    "ojas",
+    "nāgodara",
+    "yukti"
+   ],
+   "tags": [
+    "nagodara",
+    "rational-reasoning",
+    "differential-diagnosis",
+    "historical-view"
+   ],
+   "importance": "medium",
+   "mnemonic": "Ghosts don't steal fetuses: never seen, and they'd take the mother too.",
+   "review_status": "ai_draft"
+  }
+ ]
+}

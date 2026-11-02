@@ -1,0 +1,2247 @@
+{
+  "subject_id": "AyUG-SA3",
+  "questions": [
+    {
+      "id": "AyUG-SA3-0001",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-overview",
+      "topic_en": "Structure of Caraka Uttarārdha",
+      "topic_hi": "चरक उत्तरार्ध की संरचना",
+      "type": "mcq",
+      "question_en": "How many chapters are there in the Cikitsā sthāna of Caraka Saṃhitā?",
+      "question_hi": "चरक संहिता के चिकित्सा स्थान में कितने अध्याय हैं?",
+      "options": [
+        {
+          "en": "12",
+          "hi": "12"
+        },
+        {
+          "en": "8",
+          "hi": "8"
+        },
+        {
+          "en": "30",
+          "hi": "30"
+        },
+        {
+          "en": "41",
+          "hi": "41"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "Cikitsā sthāna has 30 chapters; Kalpa and Siddhi have 12 each; Nidāna, Vimāna and Śārīra have 8 each. 41 is the number of chapters added by Dṛḍhabala.",
+      "explanation_hi": "चिकित्सा स्थान में 30 अध्याय हैं; कल्प और सिद्धि में 12-12; निदान, विमान और शारीर में 8-8। 41 दृढबल द्वारा जोड़े गए अध्यायों की संख्या है।",
+      "reference": "CS.chikitsa.30",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0002",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-overview",
+      "topic_en": "Structure of Caraka Uttarārdha",
+      "topic_hi": "चरक उत्तरार्ध की संरचना",
+      "type": "mcq",
+      "question_en": "Dṛḍhabala completed Caraka Saṃhitā by adding 17 chapters of Cikitsā sthāna plus the whole Kalpa and Siddhi sthānas. How many chapters is that in total?",
+      "question_hi": "दृढबल ने चिकित्सा स्थान के 17 अध्याय तथा पूरे कल्प और सिद्धि स्थान जोड़कर चरक संहिता पूरी की। कुल कितने अध्याय हुए?",
+      "options": [
+        {
+          "en": "29",
+          "hi": "29"
+        },
+        {
+          "en": "41",
+          "hi": "41"
+        },
+        {
+          "en": "24",
+          "hi": "24"
+        },
+        {
+          "en": "53",
+          "hi": "53"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "CS Ci 30.289 and Si 12.40: seventeen chapters of Cikitsā, plus Kalpa (12) and Siddhi (12) were not available in Agniveśa's tantra as redacted by Caraka, and Dṛḍhabala supplied them — 17 + 12 + 12 = 41.",
+      "explanation_hi": "चरक चि. 30.289 और सिद्धि 12.40: चिकित्सा के सत्रह अध्याय तथा कल्प (12) और सिद्धि (12) चरक-प्रतिसंस्कृत अग्निवेश तन्त्र में उपलब्ध नहीं थे, जिन्हें दृढबल ने पूरा किया - 17 + 12 + 12 = 41।",
+      "reference": "CS.chikitsa.30.289",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0003",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-overview",
+      "topic_en": "Structure of Caraka Uttarārdha",
+      "topic_hi": "चरक उत्तरार्ध की संरचना",
+      "type": "mcq",
+      "question_en": "How many chapters are there in the Kalpa sthāna of Caraka Saṃhitā?",
+      "question_hi": "चरक संहिता के कल्प स्थान में कितने अध्याय हैं?",
+      "options": [
+        {
+          "en": "8",
+          "hi": "8"
+        },
+        {
+          "en": "12",
+          "hi": "12"
+        },
+        {
+          "en": "30",
+          "hi": "30"
+        },
+        {
+          "en": "6",
+          "hi": "6"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "Kalpa sthāna has 12 chapters, dealing with emetic and purgative drugs (madanaphala to dantī-dravantī). Siddhi sthāna also has 12 chapters.",
+      "explanation_hi": "कल्प स्थान में 12 अध्याय हैं, जो वमन और विरेचन द्रव्यों (मदनफल से दन्ती-द्रवन्ती तक) से संबंधित हैं। सिद्धि स्थान में भी 12 अध्याय हैं।",
+      "reference": "CS.kalpa.12",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0004",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-rasayana",
+      "topic_en": "Rasāyana adhyāya (Ci 1)",
+      "topic_hi": "रसायन अध्याय (चि. 1)",
+      "type": "mcq",
+      "question_en": "The Rasāyana adhyāya (Ci 1) of Caraka is divided into four pādas. Which is the correct order?",
+      "question_hi": "चरक का रसायन अध्याय (चि. 1) चार पादों में बँटा है। सही क्रम कौन-सा है?",
+      "options": [
+        {
+          "en": "Prāṇakāmīya, Abhayāmalakīya, Āyurvedasamutthānīya, Karapracitīya",
+          "hi": "प्राणकामीय, अभयामलकीय, आयुर्वेदसमुत्थानीय, करप्रचितीय"
+        },
+        {
+          "en": "Abhayāmalakīya, Prāṇakāmīya, Karapracitīya, Āyurvedasamutthānīya",
+          "hi": "अभयामलकीय, प्राणकामीय, करप्रचितीय, आयुर्वेदसमुत्थानीय"
+        },
+        {
+          "en": "Saṃyogaśaramūlīya, Āsiktakṣīrika, Māṣaparṇabhṛtīya, Pumāñjātabalādika",
+          "hi": "संयोगशरमूलीय, आसिक्तक्षीरिक, माषपर्णभृतीय, पुमाञ्जातबलादिक"
+        },
+        {
+          "en": "Karapracitīya, Prāṇakāmīya, Abhayāmalakīya, Āyurvedasamutthānīya",
+          "hi": "करप्रचितीय, प्राणकामीय, अभयामलकीय, आयुर्वेदसमुत्थानीय"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "CS Ci 1.1.1, 1.2.1, 1.3.1, 1.4.1: Abhayāmalakīya, Prāṇakāmīya, Karapracitīya and Āyurvedasamutthānīya. Saṃyogaśaramūlīya etc. are the four pādas of Vājīkaraṇa (Ci 2).",
+      "explanation_hi": "चरक चि. 1.1.1, 1.2.1, 1.3.1, 1.4.1: अभयामलकीय, प्राणकामीय, करप्रचितीय और आयुर्वेदसमुत्थानीय। संयोगशरमूलीय आदि वाजीकरण (चि. 2) के चार पाद हैं।",
+      "reference": "CS.chikitsa.1.101",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0005",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-vajikarana",
+      "topic_en": "Vājīkaraṇa adhyāya (Ci 2)",
+      "topic_hi": "वाजीकरण अध्याय (चि. 2)",
+      "type": "mcq",
+      "question_en": "Which of the following is the FIRST pāda of Caraka's Vājīkaraṇa adhyāya (Ci 2)?",
+      "question_hi": "चरक के वाजीकरण अध्याय (चि. 2) का पहला पाद कौन-सा है?",
+      "options": [
+        {
+          "en": "Saṃyogaśaramūlīya",
+          "hi": "संयोगशरमूलीय"
+        },
+        {
+          "en": "Āsiktakṣīrika",
+          "hi": "आसिक्तक्षीरिक"
+        },
+        {
+          "en": "Māṣaparṇabhṛtīya",
+          "hi": "माषपर्णभृतीय"
+        },
+        {
+          "en": "Pumāñjātabalādika",
+          "hi": "पुमाञ्जातबलादिक"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "CS Ci 2: the four pādas are Saṃyogaśaramūlīya (1st), Āsiktakṣīrika (2nd), Māṣaparṇabhṛtīya (3rd) and Pumāñjātabalādika (4th).",
+      "explanation_hi": "चरक चि. 2: चार पाद हैं - संयोगशरमूलीय (प्रथम), आसिक्तक्षीरिक (द्वितीय), माषपर्णभृतीय (तृतीय) और पुमाञ्जातबलादिक (चतुर्थ)।",
+      "reference": "CS.chikitsa.2.101",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0006",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-rasayana",
+      "topic_en": "Rasāyana adhyāya (Ci 1)",
+      "topic_hi": "रसायन अध्याय (चि. 1)",
+      "type": "mcq",
+      "question_en": "How many rasāyana yogas are said to be described in the Prāṇakāmīya pāda?",
+      "question_hi": "प्राणकामीय पाद में कितने रसायन योग बताए गए हैं?",
+      "options": [
+        {
+          "en": "6",
+          "hi": "6"
+        },
+        {
+          "en": "10",
+          "hi": "10"
+        },
+        {
+          "en": "24",
+          "hi": "24"
+        },
+        {
+          "en": "37",
+          "hi": "37"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "CS Ci 1.2.23: 'nirdiṣṭāḥ prāṇakāmīye saptatriṃśan maharṣiṇā' — 37 combinations. The Abhayāmalakīya pāda has 6 yogas (1.1.81), and bhallātaka has 10 modes of use.",
+      "explanation_hi": "चरक चि. 1.2.23: 'निर्दिष्टाः प्राणकामीये सप्तत्रिंशन्महर्षिणा' - 37 योग। अभयामलकीय पाद में 6 योग हैं (1.1.81), और भल्लातक के 10 प्रयोग हैं।",
+      "reference": "CS.chikitsa.1.223",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0007",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-rasayana",
+      "topic_en": "Rasāyana adhyāya (Ci 1)",
+      "topic_hi": "रसायन अध्याय (चि. 1)",
+      "type": "mcq",
+      "question_en": "How many rasāyana yogas are described in the Abhayāmalakīya pāda?",
+      "question_hi": "अभयामलकीय पाद में कितने रसायन योग बताए गए हैं?",
+      "options": [
+        {
+          "en": "Thirty-seven",
+          "hi": "सैंतीस"
+        },
+        {
+          "en": "Four",
+          "hi": "चार"
+        },
+        {
+          "en": "Six",
+          "hi": "छह"
+        },
+        {
+          "en": "Ten",
+          "hi": "दस"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "CS Ci 1.1.81: 'abhayāmalakīye 'smin ṣaḍ yogāḥ parikīrtitāḥ' — six yogas, including Brāhma rasāyana and Cyavanaprāśa.",
+      "explanation_hi": "चरक चि. 1.1.81: 'अभयामलकीयेऽस्मिन्षड्योगाः परिकीर्तिताः' - छह योग, जिनमें ब्राह्म रसायन और च्यवनप्राश शामिल हैं।",
+      "reference": "CS.chikitsa.1.181",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0008",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-rasayana",
+      "topic_en": "Rasāyana adhyāya (Ci 1)",
+      "topic_hi": "रसायन अध्याय (चि. 1)",
+      "type": "mcq",
+      "question_en": "Cyavanaprāśa is described in which pāda of Caraka's Rasāyana adhyāya?",
+      "question_hi": "च्यवनप्राश चरक के रसायन अध्याय के किस पाद में वर्णित है?",
+      "options": [
+        {
+          "en": "Abhayāmalakīya (1st)",
+          "hi": "अभयामलकीय (प्रथम)"
+        },
+        {
+          "en": "Prāṇakāmīya (2nd)",
+          "hi": "प्राणकामीय (द्वितीय)"
+        },
+        {
+          "en": "Karapracitīya (3rd)",
+          "hi": "करप्रचितीय (तृतीय)"
+        },
+        {
+          "en": "Āyurvedasamutthānīya (4th)",
+          "hi": "आयुर्वेदसमुत्थानीय (चतुर्थ)"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "CS Ci 1.1.62–74 describes Cyavanaprāśa, named after the sage Cyavana who regained youth by its use (1.1.72). Medhya rasāyanas and śilājatu are in the third pāda.",
+      "explanation_hi": "चरक चि. 1.1.62-74 में च्यवनप्राश का वर्णन है, जिसका नाम ऋषि च्यवन पर है जिन्होंने इसके प्रयोग से पुनः यौवन पाया (1.1.72)। मेध्य रसायन और शिलाजतु तृतीय पाद में हैं।",
+      "reference": "CS.chikitsa.1.172",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0009",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-rasayana",
+      "topic_en": "Rasāyana adhyāya (Ci 1)",
+      "topic_hi": "रसायन अध्याय (चि. 1)",
+      "type": "mcq",
+      "question_en": "Śilājatu rasāyana is described in which pāda of Caraka's Rasāyana adhyāya?",
+      "question_hi": "शिलाजतु रसायन चरक के रसायन अध्याय के किस पाद में वर्णित है?",
+      "options": [
+        {
+          "en": "Abhayāmalakīya (1st)",
+          "hi": "अभयामलकीय (प्रथम)"
+        },
+        {
+          "en": "Karapracitīya (3rd)",
+          "hi": "करप्रचितीय (तृतीय)"
+        },
+        {
+          "en": "Prāṇakāmīya (2nd)",
+          "hi": "प्राणकामीय (द्वितीय)"
+        },
+        {
+          "en": "Āyurvedasamutthānīya (4th)",
+          "hi": "आयुर्वेदसमुत्थानीय (चतुर्थ)"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "CS Ci 1.3.48 onward describes śilājatu (not sour, astringent, pungent in vipāka, neither too hot nor too cold, arising from four metals). The same pāda also gives the four medhya rasāyanas (1.3.30).",
+      "explanation_hi": "चरक चि. 1.3.48 से आगे शिलाजतु का वर्णन है (अनम्ल, कषाय, कटु विपाक, न अति उष्ण न अति शीत, चार धातुओं से उत्पन्न)। इसी पाद में चार मेध्य रसायन (1.3.30) भी हैं।",
+      "reference": "CS.chikitsa.1.348",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0010",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-rasayana",
+      "topic_en": "Rasāyana adhyāya (Ci 1)",
+      "topic_hi": "रसायन अध्याय (चि. 1)",
+      "type": "mcq",
+      "question_en": "According to Caraka, which drug is singled out as 'especially medhya' among the four medhya rasāyanas?",
+      "question_hi": "चरक के अनुसार चार मेध्य रसायनों में किसे 'विशेष रूप से मेध्य' कहा गया है?",
+      "options": [
+        {
+          "en": "Maṇḍūkaparṇī",
+          "hi": "मण्डूकपर्णी"
+        },
+        {
+          "en": "Śaṅkhapuṣpī",
+          "hi": "शङ्खपुष्पी"
+        },
+        {
+          "en": "Yaṣṭīmadhu",
+          "hi": "यष्टीमधु"
+        },
+        {
+          "en": "Guḍūcī",
+          "hi": "गुडूची"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "CS Ci 1.3.31: these rasāyanas give life, cure disease and increase strength, agni, complexion and voice, and are medhya — 'medhyā viśeṣeṇa ca śaṅkhapuṣpī', śaṅkhapuṣpī being especially so.",
+      "explanation_hi": "चरक चि. 1.3.31: ये रसायन आयु देते हैं, रोग नष्ट करते हैं, बल, अग्नि, वर्ण और स्वर बढ़ाते हैं और मेध्य हैं - 'मेध्या विशेषेण च शङ्खपुष्पी', शङ्खपुष्पी विशेष रूप से।",
+      "reference": "CS.chikitsa.1.331",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0011",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-rasayana",
+      "topic_en": "Rasāyana adhyāya (Ci 1)",
+      "topic_hi": "रसायन अध्याय (चि. 1)",
+      "type": "mcq",
+      "question_en": "Caraka praises bhallātaka by saying 'there is no kaphaja disease and no constipation that it cannot quickly cure'. In which pāda is this found?",
+      "question_hi": "चरक भल्लातक की प्रशंसा करते हैं कि 'ऐसा कोई कफज रोग या विबन्ध नहीं जिसे यह शीघ्र न मिटाए'। यह किस पाद में है?",
+      "options": [
+        {
+          "en": "Abhayāmalakīya (1st)",
+          "hi": "अभयामलकीय (प्रथम)"
+        },
+        {
+          "en": "Karapracitīya (3rd)",
+          "hi": "करप्रचितीय (तृतीय)"
+        },
+        {
+          "en": "Prāṇakāmīya (2nd)",
+          "hi": "प्राणकामीय (द्वितीय)"
+        },
+        {
+          "en": "Saṃyogaśaramūlīya",
+          "hi": "संयोगशरमूलीय"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "CS Ci 1.2.13–19 gives ten bhallātaka preparations and the verse 'kaphajo na sa rogo 'sti...' (1.2.19). Bhallātaka is tīkṣṇa and like fire, but becomes like amṛta when used properly (1.2.17).",
+      "explanation_hi": "चरक चि. 1.2.13-19 में भल्लातक के दस प्रयोग और श्लोक 'कफजो न स रोगोऽस्ति...' (1.2.19) है। भल्लातक तीक्ष्ण और अग्नि समान है, पर विधिपूर्वक प्रयोग से अमृत समान हो जाता है (1.2.17)।",
+      "reference": "CS.chikitsa.1.219",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0012",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-rasayana",
+      "topic_en": "Rasāyana adhyāya (Ci 1)",
+      "topic_hi": "रसायन अध्याय (चि. 1)",
+      "type": "true_false",
+      "question_en": "True or False: Caraka says āmalaka has the same properties and actions as harītakī except that its vīrya is opposite.",
+      "question_hi": "सत्य या असत्य: चरक कहते हैं कि आमलक के गुण और कर्म हरीतकी के समान हैं, केवल वीर्य विपरीत है।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "True. CS Ci 1.1.36: āmalaka shares the qualities and actions of harītakī, but harītakī is uṣṇa while āmalaka is śīta in vīrya.",
+      "explanation_hi": "सत्य। चरक चि. 1.1.36: आमलक के गुण-कर्म हरीतकी जैसे हैं, पर हरीतकी उष्ण वीर्य और आमलक शीत वीर्य है।",
+      "reference": "CS.chikitsa.1.136",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0013",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-rasayana",
+      "topic_en": "Rasāyana adhyāya (Ci 1)",
+      "topic_hi": "रसायन अध्याय (चि. 1)",
+      "type": "mcq",
+      "question_en": "Before kuṭīprāveśika rasāyana, after purification, Caraka advises a diet of yāvaka (barley preparation) for:",
+      "question_hi": "कुटीप्रावेशिक रसायन से पहले, शोधन के बाद, चरक यावक (जौ का आहार) कितने समय तक देने को कहते हैं?",
+      "options": [
+        {
+          "en": "One month",
+          "hi": "एक मास"
+        },
+        {
+          "en": "3, 5 or 7 days, until the stool is clean",
+          "hi": "3, 5 या 7 दिन, जब तक मल शुद्ध न हो"
+        },
+        {
+          "en": "One day only",
+          "hi": "केवल एक दिन"
+        },
+        {
+          "en": "21 days",
+          "hi": "21 दिन"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "CS Ci 1.1.25–27: purification with harītakī, saindhava, āmalaka, guḍa, vacā, viḍaṅga, rajanī, pippalī and viśva in warm water; then yāvaka for three nights, or five days with ghee, or seven days, until old faeces are cleared; then rasāyana is begun.",
+      "explanation_hi": "चरक चि. 1.1.25-27: हरीतकी, सैन्धव, आमलक, गुड़, वचा, विडङ्ग, रजनी, पिप्पली और विश्व के चूर्ण को गरम जल से देकर शोधन; फिर तीन रात, या घी के साथ पाँच दिन, या सात दिन यावक, जब तक पुराना मल न निकल जाए; फिर रसायन आरम्भ।",
+      "reference": "CS.chikitsa.1.127",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0014",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-rasayana",
+      "topic_en": "Rasāyana adhyāya (Ci 1)",
+      "topic_hi": "रसायन अध्याय (चि. 1)",
+      "type": "mcq",
+      "question_en": "According to Caraka, the kuṭī (hut) for kuṭīprāveśika rasāyana should be built in which direction of the town?",
+      "question_hi": "चरक के अनुसार कुटीप्रावेशिक रसायन की कुटी नगर की किस दिशा में बनानी चाहिए?",
+      "options": [
+        {
+          "en": "North-east (pūrvottara)",
+          "hi": "पूर्वोत्तर (ईशान)"
+        },
+        {
+          "en": "South",
+          "hi": "दक्षिण"
+        },
+        {
+          "en": "West",
+          "hi": "पश्चिम"
+        },
+        {
+          "en": "South-west",
+          "hi": "दक्षिण-पश्चिम"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "CS Ci 1.1.18–19: in a safe town with available supplies, on good land in the north-east direction, a spacious, three-chambered (trigarbhā) hut with small windows and thick walls is built.",
+      "explanation_hi": "चरक चि. 1.1.18-19: सुरक्षित, साधन-सम्पन्न नगर में, पूर्वोत्तर दिशा की उत्तम भूमि पर, विस्तृत, तीन कक्षों वाली (त्रिगर्भा), छोटी खिड़कियों और मोटी दीवारों वाली कुटी बनाई जाती है।",
+      "reference": "CS.chikitsa.1.118",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0015",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-vajikarana",
+      "topic_en": "Vājīkaraṇa adhyāya (Ci 2)",
+      "topic_hi": "वाजीकरण अध्याय (चि. 2)",
+      "type": "mcq",
+      "question_en": "According to Caraka, what is the immediate aim of vājīkaraṇa?",
+      "question_hi": "चरक के अनुसार वाजीकरण का तात्कालिक उद्देश्य क्या है?",
+      "options": [
+        {
+          "en": "Cure of all diseases",
+          "hi": "सभी रोगों का नाश"
+        },
+        {
+          "en": "Increasing appetite only",
+          "hi": "केवल भूख बढ़ाना"
+        },
+        {
+          "en": "Producing progeny and immediate sexual exhilaration (sadyaḥ sampraharṣaṇa)",
+          "hi": "संतान उत्पत्ति और तुरंत यौन हर्ष (सद्यः सम्प्रहर्षण)"
+        },
+        {
+          "en": "Purification of the body",
+          "hi": "शरीर शोधन"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "CS Ci 1.1.9–12: vājīkaraṇa is that which causes continuation of progeny (apatya santāna) and immediate exhilaration, by which a man approaches women like a horse; rasāyana aims at dhātu excellence and longevity.",
+      "explanation_hi": "चरक चि. 1.1.9-12: वाजीकरण वह है जो संतान परम्परा (अपत्य सन्तान) चलाए और तुरंत हर्ष दे, जिससे पुरुष अश्व समान हो; रसायन का उद्देश्य उत्तम धातु और दीर्घायु है।",
+      "reference": "CS.chikitsa.1.109",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0016",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-shloka",
+      "topic_en": "Shloka completion – Cikitsā sthāna",
+      "topic_hi": "श्लोक पूर्ति - चिकित्सा स्थान",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Caraka Saṃhitā, Cikitsā sthāna):",
+      "question_hi": "श्लोक पूरा कीजिए (चरक संहिता, चिकित्सा स्थान):",
+      "question_sa": "चिकित्सितं व्याधिहरं पथ्यं साधनमौषधम् ।",
+      "options": [
+        {
+          "en": "प्रायश्चित्तं प्रशमनं प्रकृतिस्थापनं हितम् ॥",
+          "hi": "प्रायश्चित्तं प्रशमनं प्रकृतिस्थापनं हितम् ॥"
+        },
+        {
+          "en": "स्वस्थस्योर्जस्करं किंचित्किंचिदार्तस्य रोगनुत् ॥",
+          "hi": "स्वस्थस्योर्जस्करं किंचित्किंचिदार्तस्य रोगनुत् ॥"
+        },
+        {
+          "en": "स्वस्थस्योर्जस्करं यत्तु तद्वृष्यं तद्रसायनम् ॥",
+          "hi": "स्वस्थस्योर्जस्करं यत्तु तद्वृष्यं तद्रसायनम् ॥"
+        },
+        {
+          "en": "यद्व्याधिनिर्घातकरं वक्ष्यते तच्चिकित्सिते ॥",
+          "hi": "यद्व्याधिनिर्घातकरं वक्ष्यते तच्चिकित्सिते ॥"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "CS Ci 1.1.3: these are synonyms of bheṣaja — cikitsita, vyādhihara, pathya, sādhana, auṣadha, prāyaścitta, praśamana, prakṛtisthāpana and hita. The distractors are the second halves of the next verses, which classify bheṣaja.",
+      "explanation_hi": "चरक चि. 1.1.3: ये भेषज के पर्याय हैं - चिकित्सित, व्याधिहर, पथ्य, साधन, औषध, प्रायश्चित्त, प्रशमन, प्रकृतिस्थापन और हित। अन्य विकल्प अगले श्लोकों के उत्तरार्ध हैं, जो भेषज का वर्गीकरण करते हैं।",
+      "reference": "CS.chikitsa.1.103",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0017",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-shloka",
+      "topic_en": "Shloka completion – Cikitsā sthāna",
+      "topic_hi": "श्लोक पूर्ति - चिकित्सा स्थान",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Caraka Saṃhitā, Cikitsā sthāna):",
+      "question_hi": "श्लोक पूरा कीजिए (चरक संहिता, चिकित्सा स्थान):",
+      "question_sa": "दीर्घमायुः स्मृतिं मेधामारोग्यं तरुणं वयः ।",
+      "options": [
+        {
+          "en": "लाभोपायो हि शस्तानां रसादीनां रसायनम् ॥",
+          "hi": "लाभोपायो हि शस्तानां रसादीनां रसायनम् ॥"
+        },
+        {
+          "en": "दोषानुलोमनीं लघ्वीं विद्याद्दीपनपाचनीम् ॥",
+          "hi": "दोषानुलोमनीं लघ्वीं विद्याद्दीपनपाचनीम् ॥"
+        },
+        {
+          "en": "प्रभावर्णस्वरौदार्यं देहेन्द्रियबलं परम् ॥",
+          "hi": "प्रभावर्णस्वरौदार्यं देहेन्द्रियबलं परम् ॥"
+        },
+        {
+          "en": "रसायनविधिः सेव्यो विधिवत्सुसमाहितैः ॥",
+          "hi": "रसायनविधिः सेव्यो विधिवत्सुसमाहितैः ॥"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "CS Ci 1.1.7: rasāyana gives long life, memory, intelligence, health, youth, excellence of lustre, complexion and voice, and the best strength of body and senses. The verse continues into 1.1.8 (vāk-siddhi, praṇati, kānti).",
+      "explanation_hi": "चरक चि. 1.1.7: रसायन से दीर्घ आयु, स्मृति, मेधा, आरोग्य, तरुण वय, प्रभा-वर्ण-स्वर की उत्कृष्टता और देह-इन्द्रियों का परम बल मिलता है। श्लोक 1.1.8 (वाक्सिद्धि, प्रणति, कान्ति) में आगे चलता है।",
+      "reference": "CS.chikitsa.1.107",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0018",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-shloka",
+      "topic_en": "Shloka completion – Cikitsā sthāna",
+      "topic_hi": "श्लोक पूर्ति - चिकित्सा स्थान",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Caraka Saṃhitā, Cikitsā sthāna):",
+      "question_hi": "श्लोक पूरा कीजिए (चरक संहिता, चिकित्सा स्थान):",
+      "question_sa": "वाक्सिद्धिं प्रणतिं कान्तिं लभते ना रसायनात् ।",
+      "options": [
+        {
+          "en": "लाभोपायो हि शस्तानां रसादीनां रसायनम् ॥",
+          "hi": "लाभोपायो हि शस्तानां रसादीनां रसायनम् ॥"
+        },
+        {
+          "en": "स्वस्थस्योर्जस्करं यत्तु तद्वृष्यं तद्रसायनम् ॥",
+          "hi": "स्वस्थस्योर्जस्करं यत्तु तद्वृष्यं तद्रसायनम् ॥"
+        },
+        {
+          "en": "प्रभावर्णस्वरौदार्यं देहेन्द्रियबलं परम् ॥",
+          "hi": "प्रभावर्णस्वरौदार्यं देहेन्द्रियबलं परम् ॥"
+        },
+        {
+          "en": "रसायनविधिः सेव्यो विधिवत्सुसमाहितैः ॥",
+          "hi": "रसायनविधिः सेव्यो विधिवत्सुसमाहितैः ॥"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "CS Ci 1.1.8: the famous definition — rasāyana is the means of obtaining excellent rasa and the other dhātus ('lābhopāyo hi śastānāṃ rasādīnāṃ rasāyanam').",
+      "explanation_hi": "चरक चि. 1.1.8: प्रसिद्ध परिभाषा - रसायन उत्तम रस आदि धातुओं की प्राप्ति का उपाय है ('लाभोपायो हि शस्तानां रसादीनां रसायनम्')।",
+      "reference": "CS.chikitsa.1.108",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0019",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-shloka",
+      "topic_en": "Shloka completion – Cikitsā sthāna",
+      "topic_hi": "श्लोक पूर्ति - चिकित्सा स्थान",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Caraka Saṃhitā, Cikitsā sthāna):",
+      "question_hi": "श्लोक पूरा कीजिए (चरक संहिता, चिकित्सा स्थान):",
+      "question_sa": "रसायनानां द्विविधं प्रयोगमृषयो विदुः ।",
+      "options": [
+        {
+          "en": "कुटीप्रावेशिकं चैव वातातपिकमेव च ॥",
+          "hi": "कुटीप्रावेशिकं चैव वातातपिकमेव च ॥"
+        },
+        {
+          "en": "त्वङ्मांसाश्रयमुत्तानं गम्भीरं त्वन्तराश्रयम् ॥",
+          "hi": "त्वङ्मांसाश्रयमुत्तानं गम्भीरं त्वन्तराश्रयम् ॥"
+        },
+        {
+          "en": "रसायनविधिः सेव्यो विधिवत्सुसमाहितैः ॥",
+          "hi": "रसायनविधिः सेव्यो विधिवत्सुसमाहितैः ॥"
+        },
+        {
+          "en": "यान्युक्तानि हरीतक्या वीर्यस्य तु विपर्ययः ॥",
+          "hi": "यान्युक्तानि हरीतक्या वीर्यस्य तु विपर्ययः ॥"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "CS Ci 1.1.16: the sages know two modes of rasāyana use — kuṭīprāveśika and vātātapika. The distractor about uttāna and gambhīra is the classification of vātarakta (Ci 29.19).",
+      "explanation_hi": "चरक चि. 1.1.16: ऋषि रसायन प्रयोग के दो प्रकार जानते हैं - कुटीप्रावेशिक और वातातपिक। उत्तान-गम्भीर वाला विकल्प वातरक्त का वर्गीकरण है (चि. 29.19)।",
+      "reference": "CS.chikitsa.1.116",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0020",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-shloka",
+      "topic_en": "Shloka completion – Cikitsā sthāna",
+      "topic_hi": "श्लोक पूर्ति - चिकित्सा स्थान",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Caraka Saṃhitā, Cikitsā sthāna):",
+      "question_hi": "श्लोक पूरा कीजिए (चरक संहिता, चिकित्सा स्थान):",
+      "question_sa": "हरीतकीं पञ्चरसामुष्णामलवणां शिवाम् ।",
+      "options": [
+        {
+          "en": "भवन्त्यमृतकल्पानि प्रयुक्तानि यथाविधि ॥",
+          "hi": "भवन्त्यमृतकल्पानि प्रयुक्तानि यथाविधि ॥"
+        },
+        {
+          "en": "दोषानुलोमनीं लघ्वीं विद्याद्दीपनपाचनीम् ॥",
+          "hi": "दोषानुलोमनीं लघ्वीं विद्याद्दीपनपाचनीम् ॥"
+        },
+        {
+          "en": "तस्मात्फलानि तज्जानि ग्राहयेत्कालजानि तु ॥",
+          "hi": "तस्मात्फलानि तज्जानि ग्राहयेत्कालजानि तु ॥"
+        },
+        {
+          "en": "ज्वरः सर्वाङ्गगश्चेति लक्षणं राजयक्ष्मणः ॥",
+          "hi": "ज्वरः सर्वाङ्गगश्चेति लक्षणं राजयक्ष्मणः ॥"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "CS Ci 1.1.29: harītakī has five tastes (all except lavaṇa), is uṣṇa, auspicious, carminative (doṣānulomanī), light, and dīpana-pācana.",
+      "explanation_hi": "चरक चि. 1.1.29: हरीतकी पञ्चरसा (लवण रहित), उष्ण, शिवा, दोषानुलोमनी, लघु और दीपन-पाचनी है।",
+      "reference": "CS.chikitsa.1.129",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0021",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-shloka",
+      "topic_en": "Shloka completion – Cikitsā sthāna",
+      "topic_hi": "श्लोक पूर्ति - चिकित्सा स्थान",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Caraka Saṃhitā, Cikitsā sthāna):",
+      "question_hi": "श्लोक पूरा कीजिए (चरक संहिता, चिकित्सा स्थान):",
+      "question_sa": "कफजो न स रोगोऽस्ति न विबन्धोऽस्ति कश्चन ।",
+      "options": [
+        {
+          "en": "भवन्त्यमृतकल्पानि प्रयुक्तानि यथाविधि ॥",
+          "hi": "भवन्त्यमृतकल्पानि प्रयुक्तानि यथाविधि ॥"
+        },
+        {
+          "en": "हतानि न विरोहन्ति तक्रेण गुदजानि तु ॥",
+          "hi": "हतानि न विरोहन्ति तक्रेण गुदजानि तु ॥"
+        },
+        {
+          "en": "अस्य प्रयोगाच्च्यवनः सुवृद्धोऽभूत्पुनर्युवा ॥",
+          "hi": "अस्य प्रयोगाच्च्यवनः सुवृद्धोऽभूत्पुनर्युवा ॥"
+        },
+        {
+          "en": "यं न भल्लातकं हन्याच्छीघ्रं मेधाग्निवर्धनम् ॥",
+          "hi": "यं न भल्लातकं हन्याच्छीघ्रं मेधाग्निवर्धनम् ॥"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "CS Ci 1.2.19: there is no kaphaja disease or constipation that bhallātaka cannot quickly cure; it also increases intellect and agni.",
+      "explanation_hi": "चरक चि. 1.2.19: ऐसा कोई कफज रोग या विबन्ध नहीं जिसे भल्लातक शीघ्र न मिटाए; यह मेधा और अग्नि भी बढ़ाता है।",
+      "reference": "CS.chikitsa.1.219",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0022",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-shloka",
+      "topic_en": "Shloka completion – Cikitsā sthāna",
+      "topic_hi": "श्लोक पूर्ति - चिकित्सा स्थान",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Caraka Saṃhitā, Cikitsā sthāna):",
+      "question_hi": "श्लोक पूरा कीजिए (चरक संहिता, चिकित्सा स्थान):",
+      "question_sa": "क्रोधप्रवातव्यायामान्कषायांश्च विवर्जयेत् ।",
+      "options": [
+        {
+          "en": "तस्मान्ना नातिसौहित्यं कुर्यान्नातिविलङ्घनम् ॥",
+          "hi": "तस्मान्ना नातिसौहित्यं कुर्यान्नातिविलङ्घनम् ॥"
+        },
+        {
+          "en": "स्वेदनं स्नेहसंयुक्तं पक्षाघाते विरेचनम् ॥",
+          "hi": "स्वेदनं स्नेहसंयुक्तं पक्षाघाते विरेचनम् ॥"
+        },
+        {
+          "en": "तक्रं तु ग्रहणीदोषे दीपनग्राहिलाघवात् ॥",
+          "hi": "तक्रं तु ग्रहणीदोषे दीपनग्राहिलाघवात् ॥"
+        },
+        {
+          "en": "ज्वरे लङ्घनमेवादावुपदिष्टमृते ज्वरात् ॥",
+          "hi": "ज्वरे लङ्घनमेवादावुपदिष्टमृते ज्वरात् ॥"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "CS Ci 3.139: anger, strong wind, exercise and astringents should be avoided; in jvara laṅghana is advised first — except in fever caused by depletion, vāta, fear, anger, desire, grief or exertion (3.140).",
+      "explanation_hi": "चरक चि. 3.139: क्रोध, तीव्र वायु, व्यायाम और कषाय वर्जित हैं; ज्वर में सबसे पहले लंघन बताया गया है - सिवाय क्षय, वात, भय, क्रोध, काम, शोक और श्रम से उत्पन्न ज्वर के (3.140)।",
+      "reference": "CS.chikitsa.3.139",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0023",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-shloka",
+      "topic_en": "Shloka completion – Cikitsā sthāna",
+      "topic_hi": "श्लोक पूर्ति - चिकित्सा स्थान",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Caraka Saṃhitā, Cikitsā sthāna):",
+      "question_hi": "श्लोक पूरा कीजिए (चरक संहिता, चिकित्सा स्थान):",
+      "question_sa": "मन्देऽग्नौ वर्धते गुल्मो दीप्ते चाग्नौ प्रशाम्यति ।",
+      "options": [
+        {
+          "en": "ज्वरे लङ्घनमेवादावुपदिष्टमृते ज्वरात् ॥",
+          "hi": "ज्वरे लङ्घनमेवादावुपदिष्टमृते ज्वरात् ॥"
+        },
+        {
+          "en": "प्राणाग्न्यपानान् संदूष्य मार्गान्रुद्ध्वाऽधरोत्तरान् ॥",
+          "hi": "प्राणाग्न्यपानान् संदूष्य मार्गान्रुद्ध्वाऽधरोत्तरान् ॥"
+        },
+        {
+          "en": "तस्मान्ना नातिसौहित्यं कुर्यान्नातिविलङ्घनम् ॥",
+          "hi": "तस्मान्ना नातिसौहित्यं कुर्यान्नातिविलङ्घनम् ॥"
+        },
+        {
+          "en": "अस्य प्रयोगाच्च्यवनः सुवृद्धोऽभूत्पुनर्युवा ॥",
+          "hi": "अस्य प्रयोगाच्च्यवनः सुवृद्धोऽभूत्पुनर्युवा ॥"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "CS Ci 5.112: gulma grows when agni is weak and subsides when agni is strong; therefore the patient should avoid both over-eating and excessive fasting.",
+      "explanation_hi": "चरक चि. 5.112: मन्द अग्नि में गुल्म बढ़ता है और दीप्त अग्नि में शान्त होता है; इसलिए रोगी न अति भोजन करे न अति लंघन।",
+      "reference": "CS.chikitsa.5.112",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0024",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-shloka",
+      "topic_en": "Shloka completion – Cikitsā sthāna",
+      "topic_hi": "श्लोक पूर्ति - चिकित्सा स्थान",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Caraka Saṃhitā, Cikitsā sthāna):",
+      "question_hi": "श्लोक पूरा कीजिए (चरक संहिता, चिकित्सा स्थान):",
+      "question_sa": "कफवातात्मकावेतौ पित्तस्थानसमुद्भवौ ।",
+      "options": [
+        {
+          "en": "हृदयस्य रसादीनां धातूनां चोपशोषणौ ॥",
+          "hi": "हृदयस्य रसादीनां धातूनां चोपशोषणौ ॥"
+        },
+        {
+          "en": "ज्वरः सर्वाङ्गगश्चेति लक्षणं राजयक्ष्मणः ॥",
+          "hi": "ज्वरः सर्वाङ्गगश्चेति लक्षणं राजयक्ष्मणः ॥"
+        },
+        {
+          "en": "प्राणाग्न्यपानान् संदूष्य मार्गान्रुद्ध्वाऽधरोत्तरान् ॥",
+          "hi": "प्राणाग्न्यपानान् संदूष्य मार्गान्रुद्ध्वाऽधरोत्तरान् ॥"
+        },
+        {
+          "en": "तिलपिष्टनिभं यस्तु वर्चः सृजति कामली ॥",
+          "hi": "तिलपिष्टनिभं यस्तु वर्चः सृजति कामली ॥"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "CS Ci 17.8: hikkā and śvāsa are kapha-vāta in nature, arise from the seat of pitta, and dry up the heart and the dhātus beginning with rasa.",
+      "explanation_hi": "चरक चि. 17.8: हिक्का और श्वास कफ-वात स्वभाव के हैं, पित्त स्थान से उत्पन्न होते हैं, और हृदय तथा रस आदि धातुओं का शोषण करते हैं।",
+      "reference": "CS.chikitsa.17.8",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0025",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-shloka",
+      "topic_en": "Shloka completion – Cikitsā sthāna",
+      "topic_hi": "श्लोक पूर्ति - चिकित्सा स्थान",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Caraka Saṃhitā, Cikitsā sthāna):",
+      "question_hi": "श्लोक पूरा कीजिए (चरक संहिता, चिकित्सा स्थान):",
+      "question_sa": "निर्हरेद्वा मलं तस्य सघृतैः क्षीरबस्तिभिः ।",
+      "options": [
+        {
+          "en": "स्वेदनं स्नेहसंयुक्तं पक्षाघाते विरेचनम् ॥",
+          "hi": "स्वेदनं स्नेहसंयुक्तं पक्षाघाते विरेचनम् ॥"
+        },
+        {
+          "en": "न हि बस्तिसमं किंचिद्वातरक्तचिकित्सितम् ॥",
+          "hi": "न हि बस्तिसमं किंचिद्वातरक्तचिकित्सितम् ॥"
+        },
+        {
+          "en": "हतानि न विरोहन्ति तक्रेण गुदजानि तु ॥",
+          "hi": "हतानि न विरोहन्ति तक्रेण गुदजानि तु ॥"
+        },
+        {
+          "en": "तक्रं तु ग्रहणीदोषे दीपनग्राहिलाघवात् ॥",
+          "hi": "तक्रं तु ग्रहणीदोषे दीपनग्राहिलाघवात् ॥"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "CS Ci 29.88: the mala should be removed with kṣīra bastis containing ghee, for there is nothing equal to basti in the treatment of vātarakta.",
+      "explanation_hi": "चरक चि. 29.88: घृतयुक्त क्षीर बस्तियों से मल निकालना चाहिए, क्योंकि वातरक्त की चिकित्सा में बस्ति के समान कुछ नहीं।",
+      "reference": "CS.chikitsa.29.88",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0026",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-rasayana",
+      "topic_en": "Rasāyana adhyāya (Ci 1)",
+      "topic_hi": "रसायन अध्याय (चि. 1)",
+      "type": "true_false",
+      "question_en": "True or False: According to Caraka, the sage Cyavana, though very old, regained youth by using Cyavanaprāśa.",
+      "question_hi": "सत्य या असत्य: चरक के अनुसार अत्यंत वृद्ध ऋषि च्यवन ने च्यवनप्राश के प्रयोग से पुनः यौवन प्राप्त किया।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "True. CS Ci 1.1.72: 'asya prayogāc cyavanaḥ suvṛddho 'bhūt punar yuvā' — the dose should be such that it does not hinder the regular meal.",
+      "explanation_hi": "सत्य। चरक चि. 1.1.72: 'अस्य प्रयोगाच्च्यवनः सुवृद्धोऽभूत्पुनर्युवा' - इसकी मात्रा ऐसी हो कि सामान्य भोजन में बाधा न पड़े।",
+      "reference": "CS.chikitsa.1.172",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0027",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-overview",
+      "topic_en": "Structure of Caraka Uttarārdha",
+      "topic_hi": "चरक उत्तरार्ध की संरचना",
+      "type": "true_false",
+      "question_en": "True or False: The Kalpa sthāna of Caraka Saṃhitā deals mainly with basti formulations and their complications.",
+      "question_hi": "सत्य या असत्य: चरक संहिता का कल्प स्थान मुख्य रूप से बस्ति योगों और उनकी व्यापदों से संबंधित है।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "False. Kalpa sthāna deals with vamana and virecana drugs (madanaphala to dantī-dravantī) and their formulations; basti and its complications are the subject of Siddhi sthāna.",
+      "explanation_hi": "असत्य। कल्प स्थान वमन और विरेचन द्रव्यों (मदनफल से दन्ती-द्रवन्ती तक) और उनके योगों से संबंधित है; बस्ति और उसकी व्यापद् सिद्धि स्थान का विषय हैं।",
+      "reference": "CS.kalpa.1",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0028",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-jvara-raktapitta",
+      "topic_en": "Jvara, raktapitta and gulma cikitsā",
+      "topic_hi": "ज्वर, रक्तपित्त और गुल्म चिकित्सा",
+      "type": "mcq",
+      "question_en": "According to Caraka, prākṛta jvara arising in which seasons is sukhasādhya (easily curable)?",
+      "question_hi": "चरक के अनुसार किन ऋतुओं में उत्पन्न प्राकृत ज्वर सुखसाध्य है?",
+      "options": [
+        {
+          "en": "Varṣā and hemanta",
+          "hi": "वर्षा और हेमन्त"
+        },
+        {
+          "en": "Vasanta and śarad",
+          "hi": "वसन्त और शरद्"
+        },
+        {
+          "en": "Grīṣma and śiśira",
+          "hi": "ग्रीष्म और शिशिर"
+        },
+        {
+          "en": "All seasons equally",
+          "hi": "सभी ऋतुओं में समान रूप से"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "CS Ci 3.42: 'prākṛtaḥ sukhasādhyas tu vasantaśaradudbhavaḥ' — pitta naturally aggravated in śarad and kapha in vasanta give easily curable fever. Prākṛta vātika fever of varṣā is not counted as easy because pitta and kapha accompany it.",
+      "explanation_hi": "चरक चि. 3.42: 'प्राकृतः सुखसाध्यस्तु वसन्तशरदुद्भवः' - शरद् में स्वाभाविक रूप से कुपित पित्त और वसन्त में कफ से होने वाला ज्वर सुखसाध्य है। वर्षा का प्राकृत वातिक ज्वर सरल नहीं माना गया क्योंकि उसके साथ पित्त-कफ भी होते हैं।",
+      "reference": "CS.chikitsa.3.42",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0029",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-jvara-raktapitta",
+      "topic_en": "Jvara, raktapitta and gulma cikitsā",
+      "topic_hi": "ज्वर, रक्तपित्त और गुल्म चिकित्सा",
+      "type": "mcq",
+      "question_en": "Caraka classifies jvara into pairs. Which of the following is one such pair from CS Ci 3.33?",
+      "question_hi": "चरक ज्वर को युग्मों में बाँटते हैं। चरक चि. 3.33 का ऐसा एक युग्म कौन-सा है?",
+      "options": [
+        {
+          "en": "Śuṣka and ārdra",
+          "hi": "शुष्क और आर्द्र"
+        },
+        {
+          "en": "Uttāna and gambhīra",
+          "hi": "उत्तान और गम्भीर"
+        },
+        {
+          "en": "Ūrdhvaga and adhoga",
+          "hi": "ऊर्ध्वग और अधोग"
+        },
+        {
+          "en": "Antarvegī and bahirvegī",
+          "hi": "अन्तर्वेगी और बहिर्वेगी"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "CS Ci 3.33: jvara is again twofold — antarvega and bahirvega, prākṛta and vaikṛta, sādhya and asādhya. The other pairs belong to arśas, vātarakta and raktapitta.",
+      "explanation_hi": "चरक चि. 3.33: ज्वर फिर दो प्रकार का - अन्तर्वेग और बहिर्वेग, प्राकृत और वैकृत, साध्य और असाध्य। अन्य युग्म अर्श, वातरक्त और रक्तपित्त के हैं।",
+      "reference": "CS.chikitsa.3.33",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0030",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-jvara-raktapitta",
+      "topic_en": "Jvara, raktapitta and gulma cikitsā",
+      "topic_hi": "ज्वर, रक्तपित्त और गुल्म चिकित्सा",
+      "type": "mcq",
+      "question_en": "Why does Caraka advise against stambhana (arresting the bleeding) at the outset in raktapitta of a strong patient?",
+      "question_hi": "बलवान रोगी के रक्तपित्त में चरक आरम्भ में ही स्तम्भन (रक्त रोकना) क्यों मना करते हैं?",
+      "options": [
+        {
+          "en": "Because stambhana drugs are unavailable",
+          "hi": "क्योंकि स्तम्भन औषधियाँ उपलब्ध नहीं"
+        },
+        {
+          "en": "Because bleeding never stops on its own",
+          "hi": "क्योंकि रक्तस्राव कभी स्वयं नहीं रुकता"
+        },
+        {
+          "en": "Because stambhana is only for children",
+          "hi": "क्योंकि स्तम्भन केवल बच्चों के लिए है"
+        },
+        {
+          "en": "Because the blood is vitiated with utkliṣṭa doṣas, and arresting it early causes further disease",
+          "hi": "क्योंकि रक्त उत्क्लिष्ट दोषों से दूषित है और जल्दी रोकने से अन्य रोग होते हैं"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "CS Ci 4.25: in a patient whose strength and muscle are not depleted, raktapitta that is doṣa-laden and excited (utkliṣṭa) does not deserve stambhana at first; arresting it traps the doṣas and leads to other disorders. Stambhana is used for the weak or after doṣas are removed.",
+      "explanation_hi": "चरक चि. 4.25: जिस रोगी का बल-मांस क्षीण नहीं, उसका दोषयुक्त उत्क्लिष्ट रक्तपित्त आरम्भ में स्तम्भन योग्य नहीं; रोकने से दोष भीतर रुककर अन्य रोग करते हैं। स्तम्भन दुर्बल रोगी में या दोष निकलने के बाद किया जाता है।",
+      "reference": "CS.chikitsa.4.25",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0031",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-jvara-raktapitta",
+      "topic_en": "Jvara, raktapitta and gulma cikitsā",
+      "topic_hi": "ज्वर, रक्तपित्त और गुल्म चिकित्सा",
+      "type": "mcq",
+      "question_en": "According to Caraka, which of the following is NOT one of the five sites of gulma?",
+      "question_hi": "चरक के अनुसार इनमें से कौन-सा गुल्म के पाँच स्थानों में नहीं है?",
+      "options": [
+        {
+          "en": "Basti",
+          "hi": "बस्ति"
+        },
+        {
+          "en": "Nābhi",
+          "hi": "नाभि"
+        },
+        {
+          "en": "Hṛdaya",
+          "hi": "हृदय"
+        },
+        {
+          "en": "Śiras (head)",
+          "hi": "शिर"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "CS Ci 5.8: basti, nābhi, hṛdaya and the two pārśvas are the five sites of gulma.",
+      "explanation_hi": "चरक चि. 5.8: बस्ति, नाभि, हृदय और दोनों पार्श्व - ये गुल्म के पाँच स्थान हैं।",
+      "reference": "CS.chikitsa.5.8",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0032",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-cikitsa-rogas",
+      "topic_en": "Disease chapters of Cikitsā sthāna",
+      "topic_hi": "चिकित्सा स्थान के रोग अध्याय",
+      "type": "mcq",
+      "question_en": "In Caraka's prognosis of prameha, the pittaja types are:",
+      "question_hi": "चरक के प्रमेह साध्यासाध्यत्व में पित्तज प्रकार हैं:",
+      "options": [
+        {
+          "en": "Sādhya",
+          "hi": "साध्य"
+        },
+        {
+          "en": "Asādhya",
+          "hi": "असाध्य"
+        },
+        {
+          "en": "Yāpya",
+          "hi": "याप्य"
+        },
+        {
+          "en": "Self-limiting",
+          "hi": "स्वयं शान्त"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "CS Ci 6.7: the ten kaphaja are sādhya (similar treatment for doṣa and dūṣya), the six pittaja are yāpya (opposing treatment), and the four vātaja are asādhya (grave).",
+      "explanation_hi": "चरक चि. 6.7: दस कफज साध्य (दोष और दूष्य की समान चिकित्सा), छह पित्तज याप्य (विषम चिकित्सा), और चार वातज असाध्य (महात्यय) हैं।",
+      "reference": "CS.chikitsa.6.7",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0033",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-cikitsa-rogas",
+      "topic_en": "Disease chapters of Cikitsā sthāna",
+      "topic_hi": "चिकित्सा स्थान के रोग अध्याय",
+      "type": "mcq",
+      "question_en": "The name 'rājayakṣmā' is linked by Caraka to the disease first affecting whom?",
+      "question_hi": "चरक के अनुसार 'राजयक्ष्मा' नाम किसे सबसे पहले यह रोग होने से जुड़ा है?",
+      "options": [
+        {
+          "en": "Indra, king of gods",
+          "hi": "देवराज इन्द्र"
+        },
+        {
+          "en": "Candra (Soma), king of the stars",
+          "hi": "नक्षत्रों के राजा चन्द्र (सोम)"
+        },
+        {
+          "en": "King Daśaratha",
+          "hi": "राजा दशरथ"
+        },
+        {
+          "en": "Dakṣa Prajāpati",
+          "hi": "दक्ष प्रजापति"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "CS Ci 8: the moon (Soma), due to excessive attachment to Rohiṇī among Dakṣa's daughters, was cursed and afflicted; he was later treated by the Aśvins (8.9–10). Hence the disease of the 'king' — rājayakṣmā.",
+      "explanation_hi": "चरक चि. 8: दक्ष की पुत्रियों में रोहिणी के प्रति अति आसक्ति के कारण चन्द्रमा (सोम) शापित होकर रोगग्रस्त हुए; बाद में अश्विनीकुमारों ने उनकी चिकित्सा की (8.9-10)। इसीलिए 'राजा' का रोग - राजयक्ष्मा।",
+      "reference": "CS.chikitsa.8.9",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0034",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-cikitsa-rogas",
+      "topic_en": "Disease chapters of Cikitsā sthāna",
+      "topic_hi": "चिकित्सा स्थान के रोग अध्याय",
+      "type": "mcq",
+      "question_en": "How many types each of hikkā and śvāsa does Caraka describe in Ci 17?",
+      "question_hi": "चरक चि. 17 में हिक्का और श्वास के कितने-कितने प्रकार बताते हैं?",
+      "options": [
+        {
+          "en": "Four each",
+          "hi": "चार-चार"
+        },
+        {
+          "en": "Three hikkā, five śvāsa",
+          "hi": "तीन हिक्का, पाँच श्वास"
+        },
+        {
+          "en": "Eight each",
+          "hi": "आठ-आठ"
+        },
+        {
+          "en": "Five each",
+          "hi": "पाँच-पाँच"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "CS Ci 17.10: both are fivefold. Hikkā: annajā, yamalā, kṣudrā, gambhīrā, mahatī; śvāsa: mahā, ūrdhva, chinna, tamaka, kṣudra.",
+      "explanation_hi": "चरक चि. 17.10: दोनों पाँच-पाँच प्रकार के हैं। हिक्का: अन्नजा, यमला, क्षुद्रा, गम्भीरा, महती; श्वास: महा, ऊर्ध्व, छिन्न, तमक, क्षुद्र।",
+      "reference": "CS.chikitsa.17.10",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0035",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-cikitsa-rogas",
+      "topic_en": "Disease chapters of Cikitsā sthāna",
+      "topic_hi": "चिकित्सा स्थान के रोग अध्याय",
+      "type": "mcq",
+      "question_en": "How many types of atisāra are described by Caraka?",
+      "question_hi": "चरक ने अतिसार के कितने प्रकार बताए हैं?",
+      "options": [
+        {
+          "en": "Five",
+          "hi": "पाँच"
+        },
+        {
+          "en": "Six",
+          "hi": "छह"
+        },
+        {
+          "en": "Four",
+          "hi": "चार"
+        },
+        {
+          "en": "Eight",
+          "hi": "आठ"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "CS Ci 19.13: six atisāras — vātaja, pittaja, kaphaja, sannipātaja, and two āgantu (mental) types, bhayaja and śokaja (19.11).",
+      "explanation_hi": "चरक चि. 19.13: छह अतिसार - वातज, पित्तज, कफज, सन्निपातज, और दो आगन्तु (मानस) प्रकार - भयज और शोकज (19.11)।",
+      "reference": "CS.chikitsa.19.13",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0036",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-cikitsa-rogas",
+      "topic_en": "Disease chapters of Cikitsā sthāna",
+      "topic_hi": "चिकित्सा स्थान के रोग अध्याय",
+      "type": "mcq",
+      "question_en": "How many types of chardi (vomiting) are described by Caraka?",
+      "question_hi": "चरक ने छर्दि के कितने प्रकार बताए हैं?",
+      "options": [
+        {
+          "en": "Five",
+          "hi": "पाँच"
+        },
+        {
+          "en": "Three",
+          "hi": "तीन"
+        },
+        {
+          "en": "Seven",
+          "hi": "सात"
+        },
+        {
+          "en": "Six",
+          "hi": "छह"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "CS Ci 20.4–5: five chardis — vātaja, pittaja, kaphaja, sannipātaja and dviṣṭārtha-saṃyogaja (from contact with disliked objects).",
+      "explanation_hi": "चरक चि. 20.4-5: पाँच छर्दि - वातज, पित्तज, कफज, सन्निपातज और द्विष्टार्थसंयोगज (अप्रिय विषयों के संपर्क से)।",
+      "reference": "CS.chikitsa.20.5",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0037",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-cikitsa-rogas",
+      "topic_en": "Disease chapters of Cikitsā sthāna",
+      "topic_hi": "चिकित्सा स्थान के रोग अध्याय",
+      "type": "mcq",
+      "question_en": "How many types of visarpa are described by Caraka?",
+      "question_hi": "चरक ने विसर्प के कितने प्रकार बताए हैं?",
+      "options": [
+        {
+          "en": "Five",
+          "hi": "पाँच"
+        },
+        {
+          "en": "Four",
+          "hi": "चार"
+        },
+        {
+          "en": "Seven",
+          "hi": "सात"
+        },
+        {
+          "en": "Eleven",
+          "hi": "ग्यारह"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "CS Ci 21.12: seven — three from single doṣas, one from all three, and three from pairs (āgneya from vāta-pitta, granthi from kapha-vāta, kardama from kapha-pitta). Its seven dūṣyas are rakta, lasīkā, tvak and māṃsa with the three doṣas (21.15).",
+      "explanation_hi": "चरक चि. 21.12: सात - तीन एक-एक दोष से, एक तीनों से, और तीन द्वन्द्व से (वात-पित्त से आग्नेय, कफ-वात से ग्रन्थि, कफ-पित्त से कर्दम)। इसके सात धातु/दूष्य रक्त, लसीका, त्वक्, मांस और तीन दोष हैं (21.15)।",
+      "reference": "CS.chikitsa.21.12",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0038",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-cikitsa-rogas",
+      "topic_en": "Disease chapters of Cikitsā sthāna",
+      "topic_hi": "चिकित्सा स्थान के रोग अध्याय",
+      "type": "mcq",
+      "question_en": "Tṛṣṇā cikitsā (Ci 22) deals with how many types of tṛṣṇā?",
+      "question_hi": "तृष्णा चिकित्सा (चि. 22) में तृष्णा के कितने प्रकार हैं?",
+      "options": [
+        {
+          "en": "Three",
+          "hi": "तीन"
+        },
+        {
+          "en": "Seven",
+          "hi": "सात"
+        },
+        {
+          "en": "Five",
+          "hi": "पाँच"
+        },
+        {
+          "en": "Two",
+          "hi": "दो"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "CS Ci 22.3: Ātreya taught the treatment of five tṛṣṇās — vātaja, pittaja, āmaja, kṣayaja and upasargaja.",
+      "explanation_hi": "चरक चि. 22.3: आत्रेय ने पाँच तृष्णाओं की चिकित्सा बताई - वातज, पित्तज, आमज, क्षयज और उपसर्गज।",
+      "reference": "CS.chikitsa.22.3",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0039",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-cikitsa-rogas",
+      "topic_en": "Disease chapters of Cikitsā sthāna",
+      "topic_hi": "चिकित्सा स्थान के रोग अध्याय",
+      "type": "mcq",
+      "question_en": "How many upakramas (therapeutic measures) for viṣa are described by Caraka in Ci 23?",
+      "question_hi": "चरक चि. 23 में विष के कितने उपक्रम बताए गए हैं?",
+      "options": [
+        {
+          "en": "Sixty",
+          "hi": "साठ"
+        },
+        {
+          "en": "Thirty-six",
+          "hi": "छत्तीस"
+        },
+        {
+          "en": "Twenty-four",
+          "hi": "चौबीस"
+        },
+        {
+          "en": "Ten",
+          "hi": "दस"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "CS Ci 23.37: 'viṃśatir ete caturbhir adhikāḥ' — 24 upakramas, ending with mṛtasañjīvana. Sixty are Suśruta's vraṇa upakramas and thirty-six Caraka's vraṇa upakramas.",
+      "explanation_hi": "चरक चि. 23.37: 'विंशतिरेते चतुर्भिरधिकाः' - 24 उपक्रम, अंत में मृतसञ्जीवन। साठ सुश्रुत के और छत्तीस चरक के व्रण उपक्रम हैं।",
+      "reference": "CS.chikitsa.23.37",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0040",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-cikitsa-rogas",
+      "topic_en": "Disease chapters of Cikitsā sthāna",
+      "topic_hi": "चिकित्सा स्थान के रोग अध्याय",
+      "type": "mcq",
+      "question_en": "According to Caraka (Ci 24), madya has ten properties that are opposite to the ten properties of:",
+      "question_hi": "चरक (चि. 24) के अनुसार मद्य के दस गुण किसके दस गुणों के विपरीत हैं?",
+      "options": [
+        {
+          "en": "Kapha",
+          "hi": "कफ"
+        },
+        {
+          "en": "Śukra",
+          "hi": "शुक्र"
+        },
+        {
+          "en": "Rakta",
+          "hi": "रक्त"
+        },
+        {
+          "en": "Ojas",
+          "hi": "ओज"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "CS Ci 24.29–31: madya (laghu, uṣṇa, tīkṣṇa, sūkṣma, amla, vyavāyī, āśu, rūkṣa, vikāśī, viśada) enters the heart and disturbs the ten qualities of ojas (guru, śīta, mṛdu, ślakṣṇa, bahala, madhura, sthira, prasanna, picchila, snigdha).",
+      "explanation_hi": "चरक चि. 24.29-31: मद्य (लघु, उष्ण, तीक्ष्ण, सूक्ष्म, अम्ल, व्यवायी, आशु, रूक्ष, विकाशी, विशद) हृदय में प्रवेश करके ओज के दस गुणों (गुरु, शीत, मृदु, श्लक्ष्ण, बहल, मधुर, स्थिर, प्रसन्न, पिच्छिल, स्निग्ध) को क्षुब्ध करता है।",
+      "reference": "CS.chikitsa.24.30",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0041",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-cikitsa-rogas",
+      "topic_en": "Disease chapters of Cikitsā sthāna",
+      "topic_hi": "चिकित्सा स्थान के रोग अध्याय",
+      "type": "mcq",
+      "question_en": "How many upakramas for vraṇa does Caraka describe in Dvivraṇīya cikitsā (Ci 25)?",
+      "question_hi": "द्विव्रणीय चिकित्सा (चि. 25) में चरक व्रण के कितने उपक्रम बताते हैं?",
+      "options": [
+        {
+          "en": "Sixty",
+          "hi": "साठ"
+        },
+        {
+          "en": "Twenty-four",
+          "hi": "चौबीस"
+        },
+        {
+          "en": "Eight",
+          "hi": "आठ"
+        },
+        {
+          "en": "Thirty-six",
+          "hi": "छत्तीस"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "CS Ci 25.43: 'iti ṣaṭtriṃśad uddiṣṭā vraṇānām' — 36 upakramas, ending with lomaropaṇa. Suśruta gives sixty (SS Ci 1.8).",
+      "explanation_hi": "चरक चि. 25.43: 'इति षट्त्रिंशदुद्दिष्टा व्रणानाम्' - 36 उपक्रम, अंत में लोमरोपण। सुश्रुत साठ बताते हैं (सुश्रुत चि. 1.8)।",
+      "reference": "CS.chikitsa.25.43",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0042",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-cikitsa-rogas",
+      "topic_en": "Disease chapters of Cikitsā sthāna",
+      "topic_hi": "चिकित्सा स्थान के रोग अध्याय",
+      "type": "mcq",
+      "question_en": "How many types of mūtrakṛcchra are described by Caraka in Trimarmīya cikitsā (Ci 26)?",
+      "question_hi": "त्रिमर्मीय चिकित्सा (चि. 26) में चरक मूत्रकृच्छ्र के कितने प्रकार बताते हैं?",
+      "options": [
+        {
+          "en": "Eight",
+          "hi": "आठ"
+        },
+        {
+          "en": "Thirteen",
+          "hi": "तेरह"
+        },
+        {
+          "en": "Five",
+          "hi": "पाँच"
+        },
+        {
+          "en": "Four",
+          "hi": "चार"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "CS Ci 26.27: eight mūtrakṛcchras. Thirteen is the number of mūtrāghātas (mūtradoṣas) described in Siddhi 9.26.",
+      "explanation_hi": "चरक चि. 26.27: आठ मूत्रकृच्छ्र। तेरह मूत्राघात (मूत्रदोष) की संख्या है, जो सिद्धि 9.26 में वर्णित है।",
+      "reference": "CS.chikitsa.26.27",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0043",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-cikitsa-rogas",
+      "topic_en": "Disease chapters of Cikitsā sthāna",
+      "topic_hi": "चिकित्सा स्थान के रोग अध्याय",
+      "type": "true_false",
+      "question_en": "True or False: Caraka describes twenty yonivyāpads in Cikitsā sthāna chapter 30.",
+      "question_hi": "सत्य या असत्य: चरक ने चिकित्सा स्थान के अध्याय 30 में बीस योनिव्यापद् बताए हैं।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "True. CS Ci 30.7: 'viṃśatir vyāpado yoner nirdiṣṭā rogasaṃgrahe'. Ci 30 is the last chapter of Cikitsā sthāna and also covers śukra doṣa, klaibya, pradara and stanya doṣa.",
+      "explanation_hi": "सत्य। चरक चि. 30.7: 'विंशतिर्व्यापदो योनेर्निर्दिष्टा रोगसंग्रहे'। चि. 30 चिकित्सा स्थान का अंतिम अध्याय है और इसमें शुक्र दोष, क्लैब्य, प्रदर और स्तन्य दोष भी हैं।",
+      "reference": "CS.chikitsa.30.7",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0044",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-cikitsa-rogas",
+      "topic_en": "Disease chapters of Cikitsā sthāna",
+      "topic_hi": "चिकित्सा स्थान के रोग अध्याय",
+      "type": "true_false",
+      "question_en": "True or False: In ūrustambha, Caraka recommends snehana and basti as the main treatment.",
+      "question_hi": "सत्य या असत्य: ऊरुस्तम्भ में चरक स्नेहन और बस्ति को मुख्य चिकित्सा बताते हैं।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "False. CS Ci 27.20–21: in ūrustambha, snehana, basti, virecana and vamana are not to be done, because snehana and basti increase kapha and virecana cannot remove the doṣa lodged there; rūkṣaṇa is the line of treatment.",
+      "explanation_hi": "असत्य। चरक चि. 27.20-21: ऊरुस्तम्भ में स्नेहन, बस्ति, विरेचन और वमन नहीं करने चाहिए, क्योंकि स्नेहन-बस्ति कफ बढ़ाते हैं और विरेचन वहाँ स्थित दोष को नहीं निकाल पाता; उपचार रूक्षण है।",
+      "reference": "CS.chikitsa.27.20",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0045",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-kalpa",
+      "topic_en": "Kalpa sthāna",
+      "topic_hi": "कल्प स्थान",
+      "type": "mcq",
+      "question_en": "Which drug does Caraka declare the best (śreṣṭhatama) emetic, and why?",
+      "question_hi": "चरक किस द्रव्य को सर्वश्रेष्ठ वमन द्रव्य कहते हैं, और क्यों?",
+      "options": [
+        {
+          "en": "Jīmūtaka – because it is strongest",
+          "hi": "जीमूतक - क्योंकि यह सबसे तीव्र है"
+        },
+        {
+          "en": "Ikṣvāku – because it is cheapest",
+          "hi": "इक्ष्वाकु - क्योंकि यह सबसे सस्ता है"
+        },
+        {
+          "en": "Kuṭaja – because it is sweet",
+          "hi": "कुटज - क्योंकि यह मधुर है"
+        },
+        {
+          "en": "Madanaphala – because it is harmless (anapāyitva)",
+          "hi": "मदनफल - क्योंकि यह निरापद है (अनपायित्व)"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "CS Ka 1.13: 'vamanadravyāṇāṃ madanaphalāni śreṣṭhatamāny ācakṣate anapāyitvāt' — madanaphala is best because it causes no harm. It should be collected between vasanta and grīṣma.",
+      "explanation_hi": "चरक कल्प 1.13: 'वमनद्रव्याणां मदनफलानि श्रेष्ठतमान्याचक्षते अनपायित्वात्' - मदनफल श्रेष्ठ है क्योंकि इससे हानि नहीं होती। इसे वसन्त और ग्रीष्म के बीच संग्रह करना चाहिए।",
+      "reference": "CS.kalpa.1.13",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0046",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-kalpa",
+      "topic_en": "Kalpa sthāna",
+      "topic_hi": "कल्प स्थान",
+      "type": "mcq",
+      "question_en": "How many yogas (formulations) of madanaphala are described in Kalpa 1?",
+      "question_hi": "कल्प 1 में मदनफल के कितने योग बताए गए हैं?",
+      "options": [
+        {
+          "en": "600",
+          "hi": "600"
+        },
+        {
+          "en": "110",
+          "hi": "110"
+        },
+        {
+          "en": "133",
+          "hi": "133"
+        },
+        {
+          "en": "39",
+          "hi": "39"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "CS Ka 1.30: 'trayastriṃśad idaṃ śatam yogānāṃ' — 133 yogas in the phalakalpa. 600 is the total for the whole Kalpa sthāna (Ka 12.42).",
+      "explanation_hi": "चरक कल्प 1.30: 'त्रयस्त्रिंशदिदं शतम् योगानाम्' - फलकल्प में 133 योग। 600 पूरे कल्प स्थान का कुल है (कल्प 12.42)।",
+      "reference": "CS.kalpa.1.30",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0047",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-kalpa",
+      "topic_en": "Kalpa sthāna",
+      "topic_hi": "कल्प स्थान",
+      "type": "mcq",
+      "question_en": "According to Kalpa 12, how many formulations are described in the whole Kalpa sthāna, and from how many main drugs?",
+      "question_hi": "कल्प 12 के अनुसार पूरे कल्प स्थान में कितने योग, कितने मुख्य द्रव्यों से बताए गए हैं?",
+      "options": [
+        {
+          "en": "600 yogas from 15 drugs",
+          "hi": "15 द्रव्यों से 600 योग"
+        },
+        {
+          "en": "133 yogas from 6 drugs",
+          "hi": "6 द्रव्यों से 133 योग"
+        },
+        {
+          "en": "355 yogas from 12 drugs",
+          "hi": "12 द्रव्यों से 355 योग"
+        },
+        {
+          "en": "1000 yogas from 20 drugs",
+          "hi": "20 द्रव्यों से 1000 योग"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "CS Ka 12.42: six hundred yogas for upward and downward purification, based mainly on fifteen drugs (6 emetics: madana, jīmūtaka, ikṣvāku, dhāmārgava, kuṭaja, kṛtavedhana; 9 purgatives: śyāmā, trivṛt, caturaṅgula, tilvaka, sudhā, saptalā, śaṅkhinī, dantī, dravantī).",
+      "explanation_hi": "चरक कल्प 12.42: ऊर्ध्व और अधो शोधन के छह सौ योग, मुख्यतः पंद्रह द्रव्यों पर आधारित (6 वमन: मदन, जीमूतक, इक्ष्वाकु, धामार्गव, कुटज, कृतवेधन; 9 विरेचन: श्यामा, त्रिवृत्, चतुरङ्गुल, तिल्वक, सुधा, सप्तला, शङ्खिनी, दन्ती, द्रवन्ती)।",
+      "reference": "CS.kalpa.12.42",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0048",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-kalpa",
+      "topic_en": "Kalpa sthāna",
+      "topic_hi": "कल्प स्थान",
+      "type": "mcq",
+      "question_en": "Which drug does Caraka call the best for virecana in Kalpa sthāna?",
+      "question_hi": "कल्प स्थान में चरक विरेचन के लिए किस द्रव्य को श्रेष्ठ कहते हैं?",
+      "options": [
+        {
+          "en": "Snuhī latex",
+          "hi": "स्नुही क्षीर"
+        },
+        {
+          "en": "Dantī",
+          "hi": "दन्ती"
+        },
+        {
+          "en": "Tilvaka",
+          "hi": "तिल्वक"
+        },
+        {
+          "en": "Trivṛt root",
+          "hi": "त्रिवृत् मूल"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "CS Ka 7.3: 'virecane trivṛnmūlaṃ śreṣṭham āhur manīṣiṇaḥ' — trivṛt root is the best purgative. Snuhī (sudhā) is tīkṣṇa and described in Ka 10.",
+      "explanation_hi": "चरक कल्प 7.3: 'विरेचने त्रिवृन्मूलं श्रेष्ठमाहुर्मनीषिणः' - त्रिवृत् मूल श्रेष्ठ विरेचक है। स्नुही (सुधा) तीक्ष्ण है और कल्प 10 में वर्णित है।",
+      "reference": "CS.kalpa.7.3",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0049",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-kalpa",
+      "topic_en": "Kalpa sthāna",
+      "topic_hi": "कल्प स्थान",
+      "type": "mcq",
+      "question_en": "Caturaṅgula kalpa (Ka 8) concerns which drug, noted for being mild and safe even for children and the elderly?",
+      "question_hi": "चतुरङ्गुल कल्प (कल्प 8) किस द्रव्य से संबंधित है, जो बच्चों और वृद्धों के लिए भी मृदु और सुरक्षित है?",
+      "options": [
+        {
+          "en": "Kuṭaja",
+          "hi": "कुटज"
+        },
+        {
+          "en": "Āragvadha",
+          "hi": "आरग्वध"
+        },
+        {
+          "en": "Dantī",
+          "hi": "दन्ती"
+        },
+        {
+          "en": "Dhāmārgava",
+          "hi": "धामार्गव"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "Caturaṅgula is āragvadha (Cassia fistula). CS Ka 8.5: it is used in children, the old, the injured, the wasted and the delicate because it is mild and harmless.",
+      "explanation_hi": "चतुरङ्गुल आरग्वध (अमलतास) है। चरक कल्प 8.5: मृदु और निरापद होने से यह बालक, वृद्ध, क्षत, क्षीण और सुकुमार व्यक्तियों में प्रयुक्त होता है।",
+      "reference": "CS.kalpa.8.5",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0050",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-kalpa",
+      "topic_en": "Kalpa sthāna",
+      "topic_hi": "कल्प स्थान",
+      "type": "mcq",
+      "question_en": "Vatsaka kalpa (Ka 5) of Caraka deals with which drug?",
+      "question_hi": "चरक का वत्सक कल्प (कल्प 5) किस द्रव्य से संबंधित है?",
+      "options": [
+        {
+          "en": "Madanaphala",
+          "hi": "मदनफल"
+        },
+        {
+          "en": "Snuhī",
+          "hi": "स्नुही"
+        },
+        {
+          "en": "Kuṭaja",
+          "hi": "कुटज"
+        },
+        {
+          "en": "Trivṛt",
+          "hi": "त्रिवृत्"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "Vatsaka is a synonym of kuṭaja (Holarrhena), used in Kalpa sthāna as an emetic. Madanaphala is Ka 1, trivṛt Ka 7 and snuhī (sudhā) Ka 10.",
+      "explanation_hi": "वत्सक कुटज का पर्याय है, जो कल्प स्थान में वमन द्रव्य के रूप में प्रयुक्त है। मदनफल कल्प 1, त्रिवृत् कल्प 7 और स्नुही (सुधा) कल्प 10 में है।",
+      "reference": "CS.kalpa.5",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0051",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-siddhi",
+      "topic_en": "Siddhi sthāna",
+      "topic_hi": "सिद्धि स्थान",
+      "type": "mcq",
+      "question_en": "Why is basti called 'cikitsārdha' (half of treatment) in Siddhi sthāna?",
+      "question_hi": "सिद्धि स्थान में बस्ति को 'चिकित्सार्ध' (आधी चिकित्सा) क्यों कहा गया है?",
+      "options": [
+        {
+          "en": "Because it is half as effective as vamana",
+          "hi": "क्योंकि यह वमन से आधी प्रभावी है"
+        },
+        {
+          "en": "Because only half the dose is retained",
+          "hi": "क्योंकि आधी मात्रा ही रुकती है"
+        },
+        {
+          "en": "Because it is used only in half of the diseases of children",
+          "hi": "क्योंकि यह बच्चों के आधे रोगों में ही प्रयुक्त है"
+        },
+        {
+          "en": "Because it controls vāta and reaches all parts, some even calling it the whole of therapy",
+          "hi": "क्योंकि यह वात को नियंत्रित कर सब अंगों तक पहुँचती है; कुछ इसे पूरी चिकित्सा भी कहते हैं"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "CS Si 1.38–40: vāta is the prime cause in the doṣas' movement, and basti is the best remedy for vāta; therefore basti is called half of treatment, and some call it the whole of treatment.",
+      "explanation_hi": "चरक सिद्धि 1.38-40: दोषों की गति में वात मुख्य कारण है, और बस्ति वात की श्रेष्ठ चिकित्सा है; इसलिए बस्ति को आधी चिकित्सा, और कुछ आचार्य पूरी चिकित्सा कहते हैं।",
+      "reference": "CS.siddhi.1.40",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0052",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-siddhi",
+      "topic_en": "Siddhi sthāna",
+      "topic_hi": "सिद्धि स्थान",
+      "type": "mcq",
+      "question_en": "Trimarmīya siddhi (Si 9) is named after which three principal marmas?",
+      "question_hi": "त्रिमर्मीय सिद्धि (सिद्धि 9) किन तीन प्रधान मर्मों के नाम पर है?",
+      "options": [
+        {
+          "en": "Hṛdaya, basti and śiras",
+          "hi": "हृदय, बस्ति और शिर"
+        },
+        {
+          "en": "Hṛdaya, nābhi and guda",
+          "hi": "हृदय, नाभि और गुद"
+        },
+        {
+          "en": "Śiras, kaṇṭha and hṛdaya",
+          "hi": "शिर, कण्ठ और हृदय"
+        },
+        {
+          "en": "Basti, guda and nābhi",
+          "hi": "बस्ति, गुद और नाभि"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "CS Si 9: among the marmas, hṛdaya, basti and śiras are the three principal ones (9.118); their diseases and treatment, chiefly with basti and nasya, are described. Ci 26 (Trimarmīya cikitsā) also deals with them.",
+      "explanation_hi": "चरक सिद्धि 9: मर्मों में हृदय, बस्ति और शिर तीन प्रधान हैं (9.118); इनके रोग और चिकित्सा, मुख्यतः बस्ति और नस्य से, वर्णित हैं। चि. 26 (त्रिमर्मीय चिकित्सा) भी इन्हीं से संबंधित है।",
+      "reference": "CS.siddhi.9.118",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0053",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-siddhi",
+      "topic_en": "Siddhi sthāna",
+      "topic_hi": "सिद्धि स्थान",
+      "type": "mcq",
+      "question_en": "How many mūtrāghātas (mūtradoṣas) are described by Caraka in Siddhi 9?",
+      "question_hi": "चरक सिद्धि 9 में कितने मूत्राघात (मूत्रदोष) बताते हैं?",
+      "options": [
+        {
+          "en": "Eight",
+          "hi": "आठ"
+        },
+        {
+          "en": "Twelve",
+          "hi": "बारह"
+        },
+        {
+          "en": "Thirteen",
+          "hi": "तेरह"
+        },
+        {
+          "en": "Twenty",
+          "hi": "बीस"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "CS Si 9.26: thirteen mūtradoṣas, including vātakuṇḍalikā, granthi, viḍghāta and bastikuṇḍala. Eight is the count of mūtrakṛcchras (Ci 26).",
+      "explanation_hi": "चरक सिद्धि 9.26: तेरह मूत्रदोष, जिनमें वातकुण्डलिका, ग्रन्थि, विड्घात और बस्तिकुण्डल शामिल हैं। आठ मूत्रकृच्छ्रों की संख्या है (चि. 26)।",
+      "reference": "CS.siddhi.9.26",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0054",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-siddhi",
+      "topic_en": "Siddhi sthāna",
+      "topic_hi": "सिद्धि स्थान",
+      "type": "mcq",
+      "question_en": "In Siddhi 9, sūryāvarta is described as a headache that:",
+      "question_hi": "सिद्धि 9 में सूर्यावर्त को कैसा शिरःशूल बताया गया है?",
+      "options": [
+        {
+          "en": "Increases with the rising sun and subsides at day's end",
+          "hi": "सूर्योदय के साथ बढ़ने और दिन ढलने पर शान्त होने वाला"
+        },
+        {
+          "en": "Affects only one half of the head at night",
+          "hi": "रात में केवल आधे सिर को प्रभावित करने वाला"
+        },
+        {
+          "en": "Begins in the temples and spreads to the eyes",
+          "hi": "कनपटी से आरम्भ होकर आँखों तक फैलने वाला"
+        },
+        {
+          "en": "Is constant and unaffected by time",
+          "hi": "निरंतर और समय से अप्रभावित"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "CS Si 9.81: pain grows with the sun and subsides at day's end as the brain becomes stable — hence sūryāvarta. Ardhāvabhedaka is half-sided; śaṅkhaka begins in the temples.",
+      "explanation_hi": "चरक सिद्धि 9.81: पीड़ा सूर्य के साथ बढ़ती है और दिन ढलने पर मस्तिष्क स्थिर होने से शान्त होती है - इसलिए सूर्यावर्त। अर्धावभेदक आधे सिर का है; शङ्खक कनपटी से आरम्भ होता है।",
+      "reference": "CS.siddhi.9.81",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0055",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-siddhi",
+      "topic_en": "Siddhi sthāna",
+      "topic_hi": "सिद्धि स्थान",
+      "type": "mcq",
+      "question_en": "Which chapter of Siddhi sthāna records a debate among sages (Bhṛgu, Kauśika, Kāpya, Śaunaka and others) about the best fruit for āsthāpana basti?",
+      "question_hi": "सिद्धि स्थान के किस अध्याय में आस्थापन बस्ति के लिए श्रेष्ठ फल पर ऋषियों (भृगु, कौशिक, काप्य, शौनक आदि) के शास्त्रार्थ का वर्णन है?",
+      "options": [
+        {
+          "en": "Uttarabasti siddhi (Si 12)",
+          "hi": "उत्तरबस्ति सिद्धि (सि. 12)"
+        },
+        {
+          "en": "Phalamātrā siddhi (Si 11)",
+          "hi": "फलमात्रा सिद्धि (सि. 11)"
+        },
+        {
+          "en": "Kalpanā siddhi (Si 1)",
+          "hi": "कल्पना सिद्धि (सि. 1)"
+        },
+        {
+          "en": "Bastivyāpad siddhi (Si 7)",
+          "hi": "बस्तिव्यापद् सिद्धि (सि. 7)"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "CS Si 11.3–5: sages gather before Ātreya to decide the best fruit for basti; Śaunaka proposes jīmūtaka, others propose other fruits, and Ātreya concludes in favour of madanaphala.",
+      "explanation_hi": "चरक सिद्धि 11.3-5: ऋषि आत्रेय के पास बस्ति के लिए श्रेष्ठ फल तय करने आते हैं; शौनक जीमूतक बताते हैं, अन्य दूसरे फल, और आत्रेय मदनफल के पक्ष में निर्णय देते हैं।",
+      "reference": "CS.siddhi.11.4",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0056",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-siddhi",
+      "topic_en": "Siddhi sthāna",
+      "topic_hi": "सिद्धि स्थान",
+      "type": "mcq",
+      "question_en": "The last chapter of Caraka Saṃhitā, Siddhi 12, is named:",
+      "question_hi": "चरक संहिता का अंतिम अध्याय, सिद्धि 12, किस नाम से है?",
+      "options": [
+        {
+          "en": "Trimarmīya siddhi",
+          "hi": "त्रिमर्मीय सिद्धि"
+        },
+        {
+          "en": "Prāsṛtayogīya siddhi",
+          "hi": "प्रासृतयोगीय सिद्धि"
+        },
+        {
+          "en": "Phalamātrā siddhi",
+          "hi": "फलमात्रा सिद्धि"
+        },
+        {
+          "en": "Uttarabasti siddhi",
+          "hi": "उत्तरबस्ति सिद्धि"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "CS Si 12.1: 'athāta uttarabastisiddhiṃ vyākhyāsyāmaḥ'. Trimarmīya is Si 9, prāsṛtayogīya Si 8 and phalamātrā Si 11.",
+      "explanation_hi": "चरक सिद्धि 12.1: 'अथात उत्तरबस्तिसिद्धिं व्याख्यास्यामः'। त्रिमर्मीय सि. 9, प्रासृतयोगीय सि. 8 और फलमात्रा सि. 11 है।",
+      "reference": "CS.siddhi.12.1",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0057",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-siddhi",
+      "topic_en": "Siddhi sthāna",
+      "topic_hi": "सिद्धि स्थान",
+      "type": "mcq",
+      "question_en": "Caraka's Siddhi 10 explains that no other procedure equals basti because it is:",
+      "question_hi": "चरक सिद्धि 10 बताती है कि कोई अन्य कर्म बस्ति के समान नहीं, क्योंकि यह:",
+      "options": [
+        {
+          "en": "Very cheap and easily available",
+          "hi": "बहुत सस्ती और सुलभ"
+        },
+        {
+          "en": "Quick and comfortable in cleansing, can both deplete and nourish, and is free from danger",
+          "hi": "शीघ्र व सुखपूर्वक शोधन करती है, अपतर्पण और तर्पण दोनों कर सकती है, और निरापद है"
+        },
+        {
+          "en": "Given only once in life",
+          "hi": "जीवन में केवल एक बार दी जाती है"
+        },
+        {
+          "en": "Painful but effective",
+          "hi": "पीड़ादायक पर प्रभावी"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "CS Si 10.5: 'karmānyad bastisamaṃ na vidyate' — because it purifies quickly and comfortably, can be used for apatarpaṇa or tarpaṇa, and is free from danger.",
+      "explanation_hi": "चरक सिद्धि 10.5: 'कर्मान्यद्बस्तिसमं न विद्यते' - क्योंकि यह शीघ्र और सुखपूर्वक शोधन करती है, अपतर्पण या तर्पण दोनों के लिए प्रयुक्त हो सकती है, और निरापद है।",
+      "reference": "CS.siddhi.10.5",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0058",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-siddhi",
+      "topic_en": "Siddhi sthāna",
+      "topic_hi": "सिद्धि स्थान",
+      "type": "mcq",
+      "question_en": "Siddhi 6 lists the complications (vyāpad) of vamana and virecana. Which of the following is one of them?",
+      "question_hi": "सिद्धि 6 में वमन और विरेचन की व्यापद् बताई गई हैं। इनमें से कौन-सी उनमें से एक है?",
+      "options": [
+        {
+          "en": "Jīvādāna",
+          "hi": "जीवादान"
+        },
+        {
+          "en": "Hikkā",
+          "hi": "हिक्का"
+        },
+        {
+          "en": "Pravāhikā",
+          "hi": "प्रवाहिका"
+        },
+        {
+          "en": "Ūrdhvatā",
+          "hi": "ऊर्ध्वता"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "CS Si 6.29: ādhmāna, parikartikā, srāva, hṛdgraha, gātragraha, jīvādāna, vibhraṃśa, stambha, upadrava and klama — ten vyāpads. Hikkā, pravāhikā and ūrdhvatā are among the twelve basti vyāpads (Si 7).",
+      "explanation_hi": "चरक सिद्धि 6.29: आध्मान, परिकर्तिका, स्राव, हृद्ग्रह, गात्रग्रह, जीवादान, विभ्रंश, स्तम्भ, उपद्रव और क्लम - दस व्यापद्। हिक्का, प्रवाहिका और ऊर्ध्वता बारह बस्ति व्यापदों (सि. 7) में हैं।",
+      "reference": "CS.siddhi.6.29",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0059",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-siddhi",
+      "topic_en": "Siddhi sthāna",
+      "topic_hi": "सिद्धि स्थान",
+      "type": "true_false",
+      "question_en": "True or False: Caraka (Siddhi 7) describes twelve vyāpads of basti.",
+      "question_hi": "सत्य या असत्य: चरक (सिद्धि 7) ने बस्ति की बारह व्यापद् बताई हैं।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "True. CS Si 7.6: 'dvādaśa vyāpado basteḥ' arising from improper administration; each is described with its features and treatment.",
+      "explanation_hi": "सत्य। चरक सिद्धि 7.6: 'द्वादश व्यापदो बस्तेः' जो असम्यक् प्रयोग से होती हैं; प्रत्येक के लक्षण और चिकित्सा बताई गई है।",
+      "reference": "CS.siddhi.7.6",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-SA3-0060",
+      "subject_id": "AyUG-SA3",
+      "topic_id": "sa3-siddhi",
+      "topic_en": "Siddhi sthāna",
+      "topic_hi": "सिद्धि स्थान",
+      "type": "mcq",
+      "question_en": "According to Siddhi sthāna, how many bastis are given in a kāla basti course?",
+      "question_hi": "सिद्धि स्थान के अनुसार काल बस्ति में कितनी बस्तियाँ दी जाती हैं?",
+      "options": [
+        {
+          "en": "Sixteen",
+          "hi": "सोलह"
+        },
+        {
+          "en": "Thirty",
+          "hi": "तीस"
+        },
+        {
+          "en": "Eight",
+          "hi": "आठ"
+        },
+        {
+          "en": "Twelve",
+          "hi": "बारह"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "CS Si 1: karma basti 30, kāla basti 16 and yoga basti 8, with anuvāsana bastis interspersed among the nirūhas.",
+      "explanation_hi": "चरक सिद्धि 1: कर्म बस्ति 30, काल बस्ति 16 और योग बस्ति 8, जिनमें निरूहों के बीच अनुवासन बस्तियाँ दी जाती हैं।",
+      "reference": "CS.siddhi.1",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    }
+  ]
+}

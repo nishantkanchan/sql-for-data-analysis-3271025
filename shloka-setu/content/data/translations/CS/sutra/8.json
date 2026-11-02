@@ -9,7 +9,7 @@
   "title_en": "The chapter on the care of the sense organs",
   "title_hi": "इन्द्रियोपक्रमणीय अध्याय (इन्द्रियों की देखभाल का अध्याय)",
   "summary_en": "This chapter completes the Svastha-catuṣka (Su 5-8), the tetrad on preserving health. It first describes the mind (manas, also called sattva or cetas) as atīndriya, one (ekatva) and the controller of the senses, and explains mental constitution by the predominant guṇa. It then sets out the pañca-pañcaka: five sense faculties (indriya), their five elemental substances (indriya-dravya), five seats (adhiṣṭhāna), five objects (artha) and five perceptions (buddhi), which arise from the contact of indriya, artha, manas and ātman. Excessive, deficient and wrong use of the senses and mind causes disorder, while proper use keeps them healthy. The second half is the most detailed account of sadvṛtta (good conduct) in Caraka: personal hygiene, safety, eating, sexual and study conduct, social behaviour and mental discipline. Following sadvṛtta is said to give health and mastery over the senses at the same time, and a long, disease-free life.",
-  "summary_hi": "यह अध्याय स्वस्थ-चतुष्क (सू. 5-8) को पूरा करता है, जो स्वास्थ्य-रक्षा के चार अध्याय हैं। पहले यह मन (जिसे सत्त्व या चेतस् भी कहते हैं) को अतीन्द्रिय, एक (एकत्व) और इन्द्रियों का नियन्ता बताता है, और प्रधान गुण के अनुसार मानस प्रकृति समझाता है। फिर पञ्चपञ्चक बताता है: पाँच इन्द्रियाँ, उनके पाँच महाभूत (इन्द्रिय-द्रव्य), पाँच अधिष्ठान, पाँच अर्थ और पाँच बुद्धियाँ, जो इन्द्रिय, अर्थ, मन और आत्मा के संयोग से उत्पन्न होती हैं। इन्द्रियों और मन के अति, हीन और मिथ्या योग से विकार होते हैं, सम्यक् योग से वे स्वस्थ रहते हैं। दूसरे भाग में चरक का सबसे विस्तृत सद्वृत्त वर्णन है: व्यक्तिगत स्वच्छता, सुरक्षा, भोजन, मैथुन और अध्ययन के नियम, सामाजिक व्यवहार और मानसिक अनुशासन। सद्वृत्त के पालन से आरोग्य और इन्द्रिय-विजय एक साथ मिलते हैं और दीर्घ, रोगरहित जीवन मिलता है।",
+  "summary_hi": "यह अध्याय स्वस्थ-चतुष्क (सू। 5-8) को पूरा करता है, जो स्वास्थ्य-रक्षा के चार अध्याय हैं। पहले यह मन (जिसे सत्त्व या चेतस् भी कहते हैं) को अतीन्द्रिय, एक (एकत्व) और इन्द्रियों का नियन्ता बताता है, और प्रधान गुण के अनुसार मानस प्रकृति समझाता है। फिर पञ्चपञ्चक बताता है: पाँच इन्द्रियाँ, उनके पाँच महाभूत (इन्द्रिय-द्रव्य), पाँच अधिष्ठान, पाँच अर्थ और पाँच बुद्धियाँ, जो इन्द्रिय, अर्थ, मन और आत्मा के संयोग से उत्पन्न होती हैं। इन्द्रियों और मन के अति, हीन और मिथ्या योग से विकार होते हैं, सम्यक् योग से वे स्वस्थ रहते हैं। दूसरे भाग में चरक का सबसे विस्तृत सद्वृत्त वर्णन है: व्यक्तिगत स्वच्छता, सुरक्षा, भोजन, मैथुन और अध्ययन के नियम, सामाजिक व्यवहार और मानसिक अनुशासन। सद्वृत्त के पालन से आरोग्य और इन्द्रिय-विजय एक साथ मिलते हैं और दीर्घ, रोगरहित जीवन मिलता है।",
   "key_concepts": [
    "pañcapañcaka",
    "manas (sattva, cetas)",
@@ -37,7 +37,7 @@
    "इन्द्रियों को स्वस्थ रखने के तीन उपाय और रोग के तीन कारणों से उनका सम्बन्ध (सू. 8.15-17)।"
   ],
   "syllabus_refs": [
-   "AyUG-SA2"
+   "AyUG-SA1"
   ],
   "review_status": "ai_draft"
  },
@@ -79,7 +79,7 @@
    "english": "Now we shall explain the chapter named Indriyopakramaṇīya, the chapter on the care and protection of the sense organs (indriya).",
    "hindi": "अब हम 'इन्द्रियोपक्रमणीय' नामक अध्याय की व्याख्या करेंगे, अर्थात् इन्द्रियों की देखभाल और रक्षा से सम्बन्धित अध्याय।",
    "explanation_en": "Every chapter of Caraka opens with this formula (athāto ... vyākhyāsyāmaḥ). The chapter title comes from its theme: upakrama means approach, management or care, so the chapter teaches what the sense organs and mind are and how to keep them healthy through good conduct (sadvṛtta). It is the last chapter of the Svastha-catuṣka (Su 5-8), the tetrad on healthy living.",
-   "explanation_hi": "चरक का हर अध्याय इसी सूत्र (अथातो ... व्याख्यास्यामः) से शुरू होता है। उपक्रम का अर्थ है उपाय, व्यवस्था या देखभाल; अतः यह अध्याय बताता है कि इन्द्रियाँ और मन क्या हैं और सद्वृत्त (अच्छे आचरण) से उन्हें स्वस्थ कैसे रखें। यह स्वस्थ-चतुष्क (सू. 5-8) का अन्तिम अध्याय है।",
+   "explanation_hi": "चरक का हर अध्याय इसी सूत्र (अथातो ... व्याख्यास्यामः) से शुरू होता है। उपक्रम का अर्थ है उपाय, व्यवस्था या देखभाल; अतः यह अध्याय बताता है कि इन्द्रियाँ और मन क्या हैं और सद्वृत्त (अच्छे आचरण) से उन्हें स्वस्थ कैसे रखें। यह स्वस्थ-चतुष्क (सू। 5-8) का अन्तिम अध्याय है।",
    "modern_correlation": null,
    "key_terms": [
     "indriya",
@@ -977,7 +977,7 @@
    "english": "The five sense perceptions (indriya-buddhi) are visual perception and the rest. They are born of the contact of the sense organ, the sense object, the mind and the self; they are momentary and determinate. This is the pañca-pañcaka (the five pentads).",
    "hindi": "पाँच इन्द्रिय-बुद्धियाँ चक्षुर्बुद्धि (दृश्य ज्ञान) आदि हैं। वे इन्द्रिय, इन्द्रियार्थ, मन और आत्मा के सन्निकर्ष (संयोग) से उत्पन्न होती हैं; वे क्षणिक और निश्चयात्मक होती हैं। यही पञ्चपञ्चक है।",
    "explanation_en": "This defines how perception arises: four factors (indriya, artha, manas, ātman) must come together. Two properties are given: kṣaṇika (lasting a moment, each perception is replaced by the next) and niścayātmika (giving definite knowledge, e.g. 'this is blue'). This is the same model of pratyakṣa used in Su 11.20 and Śārīra 1. Frequently asked: 'four-fold sannikarṣa for perception'.",
-   "explanation_hi": "यह बताता है कि ज्ञान कैसे होता है: चार कारक (इन्द्रिय, अर्थ, मन, आत्मा) का संयोग आवश्यक है। दो गुण बताए गए हैं: क्षणिक (एक क्षण रहने वाली) और निश्चयात्मक (निश्चित ज्ञान देने वाली, जैसे 'यह नीला है')। यही प्रत्यक्ष का मॉडल सू. 11.20 में भी है। परीक्षा में 'चतुर्विध सन्निकर्ष' पूछा जाता है।",
+   "explanation_hi": "यह बताता है कि ज्ञान कैसे होता है: चार कारक (इन्द्रिय, अर्थ, मन, आत्मा) का संयोग आवश्यक है। दो गुण बताए गए हैं: क्षणिक (एक क्षण रहने वाली) और निश्चयात्मक (निश्चित ज्ञान देने वाली, जैसे 'यह नीला है')। यही प्रत्यक्ष का मॉडल सू। 11.20 में भी है। परीक्षा में 'चतुर्विध सन्निकर्ष' पूछा जाता है।",
    "modern_correlation": {
     "en": "Often compared with the modern view that perception requires a stimulus, an intact receptor and pathway, and central processing with attention; each percept is brief and continuously updated. The role of ātman (the conscious self) is a philosophical claim outside the scope of physiology.",
     "hi": "इसकी तुलना आधुनिक मत से की जाती है कि अनुभूति के लिए उद्दीपन, स्वस्थ रिसेप्टर व मार्ग, और ध्यान सहित केन्द्रीय प्रसंस्करण चाहिए; हर अनुभूति क्षणिक होती है और लगातार बदलती है। आत्मा की भूमिका एक दार्शनिक कथन है, शरीर-क्रिया विज्ञान के दायरे से बाहर।"
@@ -1097,7 +1097,7 @@
    "english": "Mind (manas), the object of the mind (mano'rtha), intellect (buddhi) and self (ātman): this is the collection of the inner (adhyātma) substances and qualities. They are the cause of engagement in, and withdrawal from, good and bad actions. Action (karma), which resides in substance, is called kriyā.",
    "hindi": "मन, मन का विषय, बुद्धि और आत्मा: यह अध्यात्म द्रव्य-गुणों का संग्रह है। ये शुभ और अशुभ कर्मों में प्रवृत्ति और उनसे निवृत्ति के कारण हैं। जो कर्म द्रव्य में आश्रित है उसे 'क्रिया' कहते हैं।",
    "explanation_en": "This lists the 'adhyātma' (inner, psychological-spiritual) group: manas and ātman are substances (dravya), mano'rtha and buddhi are their qualities/products. Together they decide whether a person moves towards good or bad action, which is why sadvṛtta (v. 17 onwards) aims to train them. Karma is defined as what resides in dravya and is called kriyā (compare Su 1.52).",
-   "explanation_hi": "यह 'अध्यात्म' समूह बताता है: मन और आत्मा द्रव्य हैं, मनोऽर्थ और बुद्धि उनके गुण/कार्य हैं। यही तय करते हैं कि व्यक्ति शुभ या अशुभ कर्म की ओर जाएगा; इसलिए सद्वृत्त (श्लोक 17 से) इन्हें साधने का उपाय है। कर्म द्रव्य में रहता है और उसे क्रिया कहते हैं (तुलना करें सू. 1.52)।",
+   "explanation_hi": "यह 'अध्यात्म' समूह बताता है: मन और आत्मा द्रव्य हैं, मनोऽर्थ और बुद्धि उनके गुण/कार्य हैं। यही तय करते हैं कि व्यक्ति शुभ या अशुभ कर्म की ओर जाएगा; इसलिए सद्वृत्त (श्लोक 17 से) इन्हें साधने का उपाय है। कर्म द्रव्य में रहता है और उसे क्रिया कहते हैं (तुलना करें सू। 1.52)।",
    "modern_correlation": null,
    "key_terms": [
     "adhyātma",
@@ -1360,7 +1360,7 @@
    "english": "Through excessive use (atiyoga), non-use (ayoga) or wrong use (mithyāyoga) of its objects, a sense organ together with the mind becomes deranged and leads to impairment of its own perception. Through proper use (sāmarthya-yoga / samyak-yoga), on the other hand, it stays in its normal state and strengthens its perception.",
    "hindi": "इन्द्रियार्थों के अतियोग, अयोग और मिथ्यायोग से मन सहित इन्द्रिय विकृत होकर अपनी-अपनी बुद्धि (ज्ञान) के नाश का कारण बनती है। सम्यक् योग से वह प्रकृति में रहकर अपनी बुद्धि को पुष्ट करती है।",
    "explanation_en": "This applies the threefold cause of disease (Su 11.37, asātmyendriyārtha-saṃyoga) to the senses. Example for the eye: atiyoga = staring at very bright light, ayoga = not looking at all, mithyāyoga = looking at very near, tiny, frightening or disgusting objects. Remember: hīna-mithyā-ati yoga causes disease; samyak yoga keeps health.",
-   "explanation_hi": "यह रोग के त्रिविध कारण (सू. 11.37, असात्म्येन्द्रियार्थ संयोग) को इन्द्रियों पर लागू करता है। आँख का उदाहरण: अतियोग = बहुत तेज़ प्रकाश देखना, अयोग = बिल्कुल न देखना, मिथ्यायोग = बहुत पास, बहुत सूक्ष्म, भयानक या घृणित वस्तु देखना। याद रखें: हीन-मिथ्या-अति योग रोग देते हैं, सम्यक् योग स्वास्थ्य।",
+   "explanation_hi": "यह रोग के त्रिविध कारण (सू। 11.37, असात्म्येन्द्रियार्थ संयोग) को इन्द्रियों पर लागू करता है। आँख का उदाहरण: अतियोग = बहुत तेज़ प्रकाश देखना, अयोग = बिल्कुल न देखना, मिथ्यायोग = बहुत पास, बहुत सूक्ष्म, भयानक या घृणित वस्तु देखना। याद रखें: हीन-मिथ्या-अति योग रोग देते हैं, सम्यक् योग स्वास्थ्य।",
    "modern_correlation": {
     "en": "Modern parallels exist for each type: excessive stimulation (noise-induced hearing loss, retinal damage from intense light), deprivation (sensory deprivation and disuse effects) and inappropriate use (eye strain from prolonged close work). These are illustrative parallels, not identical concepts.",
     "hi": "हर प्रकार के आधुनिक उदाहरण मिलते हैं: अति-उद्दीपन (शोर से बहरापन, तेज़ प्रकाश से रेटिना क्षति), वंचना (संवेदी वंचना और उपयोग न होने के प्रभाव), और गलत उपयोग (लगातार पास का काम करने से आँखों पर तनाव)। ये उदाहरणात्मक समानताएँ हैं, समान अवधारणाएँ नहीं।"
@@ -1643,7 +1643,7 @@
    "english": "Therefore, to keep the senses and mind, when unafflicted, free from affliction and in their normal state, one should strive by these means: wholesome contact of the senses with their objects; performing actions properly after examining them carefully again and again with the intellect; and adopting what is opposite in quality to the place (deśa), season (kāla) and one's own constitution (ātma). Hence everyone who wishes his own welfare should always follow the whole of good conduct (sadvṛtta) with mindfulness.",
    "hindi": "अतः स्वस्थ इन्द्रियों और मन को पीड़ा से बचाने और प्राकृत अवस्था में रखने के लिए इन उपायों से प्रयत्न करना चाहिए: इन्द्रियों का विषयों से सात्म्य (हितकर) संयोग; बुद्धि से बार-बार अच्छी तरह परखकर कर्मों का सम्यक् आचरण; और देश, काल तथा अपनी प्रकृति के विपरीत गुणों का सेवन। इसलिए अपना हित चाहने वाले सभी को सदा स्मृतिपूर्वक सम्पूर्ण सद्वृत्त का पालन करना चाहिए।",
    "explanation_en": "These three means counter the three causes of disease (Su 11.43): wholesome sense contact counters asātmyendriyārtha-saṃyoga, wise action counters prajñāparādha, and adopting opposites to place-season-constitution counters pariṇāma (kāla). This verse is the bridge to the long list of sadvṛtta that follows. 'Smṛtim āsthāya' (with mindfulness) is the key attitude.",
-   "explanation_hi": "ये तीन उपाय रोग के तीन कारणों (सू. 11.43) के विरोधी हैं: सात्म्य इन्द्रियार्थ-संयोग असात्म्येन्द्रियार्थ-संयोग का, विवेकपूर्ण कर्म प्रज्ञापराध का, और देश-काल-प्रकृति के विपरीत सेवन परिणाम (काल) का। यह श्लोक आगे की सद्वृत्त सूची से जोड़ता है। 'स्मृतिम् आस्थाय' (सावधानी से) मुख्य भाव है।",
+   "explanation_hi": "ये तीन उपाय रोग के तीन कारणों (सू। 11.43) के विरोधी हैं: सात्म्य इन्द्रियार्थ-संयोग असात्म्येन्द्रियार्थ-संयोग का, विवेकपूर्ण कर्म प्रज्ञापराध का, और देश-काल-प्रकृति के विपरीत सेवन परिणाम (काल) का। यह श्लोक आगे की सद्वृत्त सूची से जोड़ता है। 'स्मृतिम् आस्थाय' (सावधानी से) मुख्य भाव है।",
    "modern_correlation": {
     "en": "The emphasis on deliberate, mindful behaviour and adapting habits to environment and individual constitution is broadly comparable to modern preventive medicine and lifestyle medicine, which stress behaviour, environment and individual risk factors.",
     "hi": "सोच-समझकर, सजग व्यवहार और वातावरण तथा व्यक्तिगत प्रकृति के अनुसार आदतें बदलने पर बल, आधुनिक निवारक चिकित्सा और लाइफ़स्टाइल मेडिसिन से मोटे तौर पर तुलनीय है, जो व्यवहार, वातावरण और व्यक्तिगत जोखिम कारकों पर ध्यान देती हैं।"
@@ -2650,7 +2650,7 @@
    "english": "One should not sneeze, eat or lie down in a bent posture; when natural urges are present one should not engage in other work. One should not discharge spittle, faeces or urine facing the wind, fire, water, moon, sun, a brāhmaṇa or a teacher; should not urinate on the road, in a crowded place or at mealtime; and should not expel phlegm or nasal mucus during prayer, oblation, study, offerings or auspicious rites.",
    "hindi": "टेढ़े होकर न छींके, न खाए, न सोए; मल-मूत्र आदि के वेग उपस्थित होने पर अन्य कार्य में न लगे। वायु, अग्नि, जल, चन्द्र, सूर्य, ब्राह्मण या गुरु की ओर मुँह करके थूक, मल या मूत्र न त्यागे; रास्ते पर, भीड़ में या भोजन के समय मूत्र न करे; और जप, हवन, अध्ययन, बलि या मंगल कार्यों के समय कफ या नाक का मल न निकाले।",
    "explanation_en": "Important link: 'na vegito 'nyakāryaḥ syāt' means one should attend to natural urges first, which echoes Su 7 (Navegāndhāraṇīya) on not suppressing urges. The rest concerns sanitation and respect: no urinating on roads or in public places, no spitting in front of others. Posture rules (not eating or sleeping bent) protect the body.",
-   "explanation_hi": "महत्त्वपूर्ण सम्बन्ध: 'न वेगितोऽन्यकार्यः स्यात्' का अर्थ है पहले प्राकृतिक वेगों का निवारण करे; यह सू. 7 (नवेगान्धारणीय) से जुड़ता है। बाकी नियम स्वच्छता और शिष्टाचार के हैं: सड़क या सार्वजनिक स्थान पर मूत्र न करना, दूसरों के सामने न थूकना।",
+   "explanation_hi": "महत्त्वपूर्ण सम्बन्ध: 'न वेगितोऽन्यकार्यः स्यात्' का अर्थ है पहले प्राकृतिक वेगों का निवारण करे; यह सू। 7 (नवेगान्धारणीय) से जुड़ता है। बाकी नियम स्वच्छता और शिष्टाचार के हैं: सड़क या सार्वजनिक स्थान पर मूत्र न करना, दूसरों के सामने न थूकना।",
    "modern_correlation": {
     "en": "Avoiding open urination and defecation on roads and public places is a core principle of modern sanitation for preventing faeco-oral and parasitic infections. Responding promptly to the urge to pass urine or stool is also commonly advised clinically.",
     "hi": "सड़कों और सार्वजनिक स्थानों पर खुले में मल-मूत्र न करना आधुनिक स्वच्छता का मूल सिद्धान्त है, जो मल-मुख मार्ग से फैलने वाले और परजीवी संक्रमणों को रोकता है। मल-मूत्र के वेग का समय पर निवारण करना भी चिकित्सकीय रूप से सुझाया जाता है।"
@@ -3849,7 +3849,7 @@
    "english": "The doer of meritorious deeds attains the higher worlds of the virtuous. Therefore this conduct should always be followed by everyone.",
    "hindi": "पुण्यकर्म करने वाला पुण्यात्माओं के श्रेष्ठ लोकों को प्राप्त करता है। इसलिए सबको सदा इस आचरण का पालन करना चाहिए।",
    "explanation_en": "The fruit extends even to the next world (paraloka), linking with the trividha eṣaṇā of Su 11 (prāṇa, dhana and paraloka eṣaṇā). The instruction 'sarveṇa sarvadā' (by all, always) repeats v. 17.",
-   "explanation_hi": "फल परलोक तक जाता है, जो सू. 11 की त्रिविध एषणा (प्राण, धन और परलोक एषणा) से जुड़ता है। 'सर्वेण सर्वदा' (सबके द्वारा, सदा) श्लोक 17 को दोहराता है।",
+   "explanation_hi": "फल परलोक तक जाता है, जो सू। 11 की त्रिविध एषणा (प्राण, धन और परलोक एषणा) से जुड़ता है। 'सर्वेण सर्वदा' (सबके द्वारा, सदा) श्लोक 17 को दोहराता है।",
    "modern_correlation": null,
    "key_terms": [
     "sadvṛtta",

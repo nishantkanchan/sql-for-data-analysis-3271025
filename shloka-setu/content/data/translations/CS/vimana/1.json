@@ -295,7 +295,7 @@
    "english": "Here, after understanding the particulars of diseases, namely their cause, prodrome, symptoms, therapeutic test (upaśaya), number, predominance, classification, proportional variation, strength and time, the physician should then attentively and properly know the measure of the doṣa, medicine, place, time, strength, body, tissue excellence (sāra), diet, habituation, mind, constitution and age; for treatment depends on knowing the measure of doṣa and the rest. A physician who does not know the measure of doṣas etc. is not capable of controlling disease. Therefore, Agniveśa, we shall teach the Vimānasthāna for the knowledge of the measure of doṣas etc.",
    "hindi": "यहाँ रोगों के निमित्त, पूर्वरूप, रूप, उपशय, संख्या, प्राधान्य, विधि, विकल्प, बल और काल की विशेषताओं को समझने के बाद वैद्य को सावधान मन से दोष, भेषज, देश, काल, बल, शरीर, सार, आहार, सात्म्य, सत्त्व, प्रकृति और वय का मान ठीक-ठीक जानना चाहिए; क्योंकि चिकित्सा दोष आदि के मान-ज्ञान पर निर्भर है। जो वैद्य दोष आदि का मान नहीं जानता वह रोग पर नियन्त्रण करने में समर्थ नहीं होता। इसलिए, अग्निवेश, दोष आदि के मान-ज्ञान के लिए हम विमानस्थान का उपदेश करेंगे।",
    "explanation_en": "This passage defines the purpose of the Vimānasthāna. The first list (nimitta to kāla) summarises what Nidānasthāna taught about disease. The second list gives the factors whose 'māna' (measure) must be assessed before treatment; these are later developed as the 'daśavidha parīkṣya bhāva' (Vi 8.94). Exam point: Vimāna = 'doṣādi mānajñāna'.",
-   "explanation_hi": "यह अंश विमानस्थान का प्रयोजन बताता है। पहली सूची (निमित्त से काल तक) निदानस्थान में रोग के बारे में बताई गई बातों का सार है। दूसरी सूची उन कारकों की है जिनका 'मान' चिकित्सा से पहले परखना है; ये आगे 'दशविध परीक्ष्य भाव' (वि. 8.94) में विस्तृत हैं। परीक्षा बिन्दु: विमान = 'दोषादि मानज्ञान'।",
+   "explanation_hi": "यह अंश विमानस्थान का प्रयोजन बताता है। पहली सूची (निमित्त से काल तक) निदानस्थान में रोग के बारे में बताई गई बातों का सार है। दूसरी सूची उन कारकों की है जिनका 'मान' चिकित्सा से पहले परखना है; ये आगे 'दशविध परीक्ष्य भाव' (वि। 8.94) में विस्तृत हैं। परीक्षा बिन्दु: विमान = 'दोषादि मानज्ञान'।",
    "modern_correlation": null,
    "key_terms": [
     "vimāna",
@@ -366,7 +366,7 @@
    "english": "First we shall describe the effects (prabhāva) of rasa, substance, doṣa and disease. The rasas are six: sweet, sour, salty, pungent, bitter and astringent. Used properly they sustain the body; used wrongly they lead to aggravation of the doṣas.",
    "hindi": "पहले हम रस, द्रव्य, दोष और विकार के प्रभाव बताएँगे। रस छह हैं: मधुर, अम्ल, लवण, कटु, तिक्त और कषाय। सम्यक् प्रयोग से ये शरीर को धारण करते हैं; मिथ्या प्रयोग से दोषों का प्रकोप करते हैं।",
    "explanation_en": "The chapter's plan: rasa-prabhāva, dravya-prabhāva, doṣa-prabhāva, vikāra-prabhāva. Rasas sustain or harm depending on use (compare Su 26.44).",
-   "explanation_hi": "अध्याय की योजना: रस-प्रभाव, द्रव्य-प्रभाव, दोष-प्रभाव, विकार-प्रभाव। रस प्रयोग के अनुसार धारण या हानि करते हैं (सू. 26.44 देखें)।",
+   "explanation_hi": "अध्याय की योजना: रस-प्रभाव, द्रव्य-प्रभाव, दोष-प्रभाव, विकार-प्रभाव। रस प्रयोग के अनुसार धारण या हानि करते हैं (सू। 26.44 देखें)।",
    "modern_correlation": null,
    "key_terms": [
     "ṣaḍrasa",
@@ -427,7 +427,7 @@
    "english": "The doṣas are three: vāta, pitta and kapha. In their normal state they benefit the body; when deranged they afflict the body with various disorders.",
    "hindi": "दोष तीन हैं: वात, पित्त और कफ। प्राकृत अवस्था में वे शरीर का उपकार करते हैं; विकृत होने पर अनेक रोगों से शरीर को पीड़ित करते हैं।",
    "explanation_en": "Restates the dual nature of doṣas (compare Su 12.13).",
-   "explanation_hi": "दोषों के दोहरे स्वभाव को दोहराता है (सू. 12.13 देखें)।",
+   "explanation_hi": "दोषों के दोहरे स्वभाव को दोहराता है (सू। 12.13 देखें)।",
    "modern_correlation": null,
    "key_terms": [
     "tridoṣa",
@@ -501,7 +501,7 @@
    "english": "Each doṣa is increased by three rasas and pacified by three. Thus pungent, bitter and astringent increase vāta, while sweet, sour and salty pacify it; pungent, sour and salty increase pitta, while sweet, bitter and astringent pacify it; sweet, sour and salty increase kapha, while pungent, bitter and astringent pacify it.",
    "hindi": "प्रत्येक दोष तीन रसों से बढ़ता और तीन से शान्त होता है। जैसे कटु, तिक्त और कषाय वात बढ़ाते हैं, और मधुर, अम्ल, लवण उसे शान्त करते हैं; कटु, अम्ल, लवण पित्त बढ़ाते हैं, और मधुर, तिक्त, कषाय उसे शान्त करते हैं; मधुर, अम्ल, लवण कफ बढ़ाते हैं, और कटु, तिक्त, कषाय उसे शान्त करते हैं।",
    "explanation_en": "The rasa-doṣa table in prose (compare Su 1.66). Must be memorised; asked in nearly every exam.",
-   "explanation_hi": "रस-दोष तालिका गद्य में (सू. 1.66 देखें)। अवश्य याद करें; लगभग हर परीक्षा में पूछी जाती है।",
+   "explanation_hi": "रस-दोष तालिका गद्य में (सू। 1.66 देखें)। अवश्य याद करें; लगभग हर परीक्षा में पूछी जाती है।",
    "modern_correlation": null,
    "key_terms": [
     "rasa-doṣa sambandha"
@@ -588,7 +588,7 @@
    "english": "When rasa and doṣa come together, the rasas that have qualities similar, or mostly similar, to the doṣas increase them; those with opposite, or mostly opposite, qualities pacify them when used regularly. For the sake of this systematic arrangement, the rasas are taught as six (when unmixed) and the doṣas as three.",
    "hindi": "रस और दोष मिलने पर, जो रस दोषों के समान या अधिकतर समान गुण वाले हैं, वे उन्हें बढ़ाते हैं; जो विपरीत या अधिकतर विपरीत गुण वाले हैं, वे नियमित सेवन से उन्हें शान्त करते हैं। इसी व्यवस्था के लिए रस (अमिश्रित) छह और दोष तीन बताए गए हैं।",
    "explanation_en": "The reason behind verse 6 is the sāmānya-viśeṣa principle (Su 1.44).",
-   "explanation_hi": "श्लोक 6 के पीछे का कारण सामान्य-विशेष सिद्धान्त है (सू. 1.44)।",
+   "explanation_hi": "श्लोक 6 के पीछे का कारण सामान्य-विशेष सिद्धान्त है (सू। 1.44)।",
    "modern_correlation": null,
    "key_terms": [
     "sāmānya",
@@ -634,7 +634,7 @@
    "english": "The extent of their combinations and variations is innumerable, because the varieties of variation are innumerable.",
    "hindi": "इनके संसर्ग और विकल्पों का विस्तार असंख्य है, क्योंकि विकल्पों के भेद असंख्य हैं।",
    "explanation_en": "Combinations of rasas and doṣas are countless (compare Su 26.23).",
-   "explanation_hi": "रसों और दोषों के संयोग असंख्य हैं (सू. 26.23 देखें)।",
+   "explanation_hi": "रसों और दोषों के संयोग असंख्य हैं (सू। 26.23 देखें)।",
    "modern_correlation": null,
    "key_terms": [
     "saṃsarga",
@@ -1186,7 +1186,7 @@
    "english": "Pippalī, though pungent, is sweet in vipāka, heavy, not very unctuous or hot, moistening, and valued as a medicine. It produces immediate good and bad effects: it is beneficial at first because of its good qualities when properly used, but continuous use leads to accumulation of doṣas. Because of its heaviness and moistening property it excites kapha; by its heat it excites pitta; and being only slightly unctuous and hot it does not pacify vāta. It is, however, a yogavāhī (enhancer of other drugs). Therefore one should not use pippalī excessively.",
    "hindi": "पिप्पली कटु होते हुए भी मधुर विपाक, गुरु, न अधिक स्निग्ध न अधिक उष्ण, प्रक्लेदी और औषध रूप में मान्य है। यह तुरन्त शुभ और अशुभ दोनों फल देती है: उचित प्रयोग में गुणों के कारण आरम्भ में लाभकारी है, पर निरन्तर प्रयोग से दोष-संचय करती है। गुरुता और प्रक्लेदी गुण से यह कफ को उत्क्लेशित करती है; उष्णता से पित्त को; और थोड़ी ही स्निग्ध और उष्ण होने से वात का शमन नहीं करती। फिर भी यह योगवाही है। इसलिए पिप्पली का अति प्रयोग नहीं करना चाहिए।",
    "explanation_en": "Pippalī is called 'yogavāhī' (it potentiates whatever it is combined with), a term often asked. Prolonged use is cautioned (contrast with pippalī rasāyana, used under supervision in Ci 1.3).",
-   "explanation_hi": "पिप्पली को 'योगवाही' कहा गया (जिसके साथ मिले उसकी शक्ति बढ़ाती है), यह शब्द अक्सर पूछा जाता है। लम्बे प्रयोग से सावधान किया गया है (चि. 1.3 के पिप्पली रसायन से तुलना करें, जो विधिपूर्वक दिया जाता है)।",
+   "explanation_hi": "पिप्पली को 'योगवाही' कहा गया (जिसके साथ मिले उसकी शक्ति बढ़ाती है), यह शब्द अक्सर पूछा जाता है। लम्बे प्रयोग से सावधान किया गया है (चि। 1.3 के पिप्पली रसायन से तुलना करें, जो विधिपूर्वक दिया जाता है)।",
    "modern_correlation": {
     "en": "Piperine from long pepper is studied as a bioavailability enhancer of several drugs and nutrients, which is often cited as a modern parallel to the term yogavāhī. Clinical significance varies by substance.",
     "hi": "पिप्पली के पिपेरिन का अनेक औषधियों और पोषक तत्त्वों की बायोअवेलेबिलिटी बढ़ाने वाले के रूप में अध्ययन हुआ है, जिसे प्रायः 'योगवाही' का आधुनिक समानान्तर बताया जाता है। नैदानिक महत्त्व पदार्थ के अनुसार भिन्न है।"
@@ -1454,7 +1454,7 @@
    "english": "Therefore, for such people, gradual withdrawal from that habituation is best; for even a habituation, when withdrawn gradually, causes no harm or only little harm.",
    "hindi": "इसलिए ऐसे लोगों के लिए उस सात्म्य से धीरे-धीरे हटना श्रेष्ठ है; क्योंकि सात्म्य भी धीरे-धीरे छुड़ाने पर निर्दोष या अल्पदोष होता है।",
    "explanation_en": "The principle of gradual withdrawal of unwholesome habits (krama), detailed in Su 7.36-37 (pādāṃśika krama). Useful clinical advice.",
-   "explanation_hi": "अहित आदतों को धीरे-धीरे छोड़ने का सिद्धान्त (क्रम), सू. 7.36-37 में विस्तार (पादांशिक क्रम)। उपयोगी चिकित्सकीय सलाह।",
+   "explanation_hi": "अहित आदतों को धीरे-धीरे छोड़ने का सिद्धान्त (क्रम), सू। 7.36-37 में विस्तार (पादांशिक क्रम)। उपयोगी चिकित्सकीय सलाह।",
    "modern_correlation": {
     "en": "Gradual reduction (tapering) of a habitual substance to avoid withdrawal effects parallels modern practice, e.g. stepwise salt reduction or tapering of habit-forming substances.",
     "hi": "किसी आदतन पदार्थ को धीरे-धीरे घटाना (टेपरिंग) ताकि छोड़ने के दुष्प्रभाव न हों, आधुनिक व्यवहार से मेल खाता है, जैसे नमक को चरणबद्ध घटाना या आदत डालने वाले पदार्थों को धीरे-धीरे कम करना।"
@@ -1973,7 +1973,7 @@
    "english": "The particular features of these factors yield good and bad results and support one another. One should seek to know them, and having known them, should desire only the wholesome; one should not, out of delusion or carelessness, take food or anything else that is pleasant but unwholesome and leads to unhappiness in the end.",
    "hindi": "इन कारकों की विशेषताएँ शुभ और अशुभ फल देती हैं और परस्पर सहायक हैं। इन्हें जानने का प्रयत्न करना चाहिए, और जानकर हित ही चाहना चाहिए; मोह या प्रमाद से ऐसा आहार या अन्य कुछ नहीं लेना चाहिए जो प्रिय हो पर अहितकर और अन्त में दुःखदायी हो।",
    "explanation_en": "Choose hita over priya (compare Su 28.36).",
-   "explanation_hi": "प्रिय की बजाय हित चुनें (सू. 28.36 देखें)।",
+   "explanation_hi": "प्रिय की बजाय हित चुनें (सू। 28.36 देखें)।",
    "modern_correlation": null,
    "key_terms": [
     "hita",

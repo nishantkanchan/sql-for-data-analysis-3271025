@@ -37,7 +37,7 @@
    "सभा के वक्ताओं के नाम (कुश सांकृत्यायन, कुमारशिरा भरद्वाज, कांकायन, बडिश धामार्गव, वायोर्विद, मरीचि, काप्य) MCQ में पूछे जाते हैं।"
   ],
   "syllabus_refs": [
-   "AyUG-SA2"
+   "AyUG-SA1"
   ],
   "review_status": "ai_draft"
  },
@@ -79,7 +79,7 @@
    "english": "Now we shall explain the chapter named Vātakalākalīya, 'on the merits and demerits of vāta'.",
    "hindi": "अब हम 'वातकलाकलीय' (वात के गुण-दोष संबंधी) नामक अध्याय की व्याख्या करेंगे।",
    "explanation_en": "The standard chapter opening. 'Kalā' means a good or beneficial aspect and 'akalā' a harmful one; Cakrapāṇi also explains kalā as 'a small part' of knowledge. So the chapter discusses the beneficial and harmful aspects of vāta (and, by extension, pitta and kapha). It is the 12th chapter, the last of the Nirdeśa catuṣka (Su 9-12).",
-   "explanation_hi": "यह अध्याय की मानक आरम्भिक पंक्ति है। 'कला' का अर्थ है हितकर पक्ष और 'अकला' अहितकर पक्ष; चक्रपाणि 'कला' का अर्थ ज्ञान का 'सूक्ष्म अंश' भी बताते हैं। अतः अध्याय वात (और साथ में पित्त-कफ) के हितकर-अहितकर पक्षों की चर्चा करता है। यह 12वाँ अध्याय निर्देश चतुष्क (सू. 9-12) का अन्तिम अध्याय है।",
+   "explanation_hi": "यह अध्याय की मानक आरम्भिक पंक्ति है। 'कला' का अर्थ है हितकर पक्ष और 'अकला' अहितकर पक्ष; चक्रपाणि 'कला' का अर्थ ज्ञान का 'सूक्ष्म अंश' भी बताते हैं। अतः अध्याय वात (और साथ में पित्त-कफ) के हितकर-अहितकर पक्षों की चर्चा करता है। यह 12वाँ अध्याय निर्देश चतुष्क (सू। 9-12) का अन्तिम अध्याय है।",
    "modern_correlation": null,
    "key_terms": [
     "kalā",
@@ -355,7 +355,7 @@
    "english": "Kuśa Sāṃkṛtyāyana said: 'Dry (rūkṣa), light (laghu), cold (śīta), harsh (dāruṇa), rough (khara) and non-slimy/clear (viśada): these are the six qualities of vāta.'",
    "hindi": "इस पर कुश सांकृत्यायन ने कहा: 'रूक्ष (सूखा), लघु (हल्का), शीत (ठण्डा), दारुण (कठोर), खर (खुरदुरा) और विशद (चिपचिपाहट रहित): ये वात के छह गुण हैं।'",
    "explanation_en": "This answers the first question. Note that Caraka gives slightly different lists in different places: Su 1.59 lists rūkṣa, śīta, laghu, sūkṣma, cala, viśada, khara (seven). Here 'dāruṇa' (harsh, causing hardness or severity) replaces sūkṣma and cala. Cakrapāṇi explains dāruṇa as the property that makes things hard and causes severe (difficult) effects. A common MCQ: 'dāruṇa guṇa of vāta is mentioned in which chapter?' (Su 12).",
-   "explanation_hi": "यह पहले प्रश्न का उत्तर है। चरक अलग-अलग स्थानों पर थोड़ी अलग सूची देते हैं: सू. 1.59 में रूक्ष, शीत, लघु, सूक्ष्म, चल, विशद, खर (सात)। यहाँ 'दारुण' (कठोरता या तीव्रता लाने वाला) सूक्ष्म और चल के स्थान पर है। चक्रपाणि के अनुसार दारुण वह गुण है जो कठोरता और कष्टदायी प्रभाव उत्पन्न करता है। MCQ: 'वात का दारुण गुण किस अध्याय में है?' (सू. 12)।",
+   "explanation_hi": "यह पहले प्रश्न का उत्तर है। चरक अलग-अलग स्थानों पर थोड़ी अलग सूची देते हैं: सू। 1.59 में रूक्ष, शीत, लघु, सूक्ष्म, चल, विशद, खर (सात)। यहाँ 'दारुण' (कठोरता या तीव्रता लाने वाला) सूक्ष्म और चल के स्थान पर है। चक्रपाणि के अनुसार दारुण वह गुण है जो कठोरता और कष्टदायी प्रभाव उत्पन्न करता है। MCQ: 'वात का दारुण गुण किस अध्याय में है?' (सू। 12)।",
    "modern_correlation": {
     "en": "The listed qualities describe clinically observable tendencies (dryness of skin, coldness, roughness, lightness) that Ayurveda links with vāta. There is no direct modern equivalent of these guṇas, though some authors compare vāta states with increased sympathetic activity, dehydration and catabolism; such comparisons are interpretive.",
     "hi": "ये गुण शरीर में दिखने वाली प्रवृत्तियों (त्वचा का सूखापन, ठण्डक, खुरदुरापन, हल्कापन) को बताते हैं जिन्हें आयुर्वेद वात से जोड़ता है। इनका सीधा आधुनिक समकक्ष नहीं है, यद्यपि कुछ लेखक वात-अवस्था की तुलना बढ़ी हुई सिम्पैथेटिक गतिविधि, डिहाइड्रेशन और कैटाबोलिज़्म से करते हैं; यह व्याख्यात्मक तुलना है।"
@@ -494,7 +494,7 @@
    "english": "Hearing that statement, Kumāraśirā Bharadvāja said: 'It is just as the revered one has said; these alone are the qualities of vāta. And vāyu becomes aggravated when substances and activities having these same qualities and effects are used repeatedly, for the repeated use of similar qualities is the cause of increase of the dhātus (bodily elements).'",
    "hindi": "वह वचन सुनकर कुमारशिरा भरद्वाज ने कहा: 'जैसा पूज्य ने कहा, वैसा ही है; ये ही वात के गुण हैं। और ऐसे ही गुण, द्रव्य और प्रभाव वाले पदार्थों और कर्मों के बार-बार सेवन से वायु कुपित होता है, क्योंकि समान गुणों का बार-बार सेवन ही धातुओं की वृद्धि का कारण है।'",
    "explanation_en": "This answers the second question (what aggravates vāta) with a general rule: like increases like. It is a practical form of the sāmānya principle of Su 1.44-45 ('sarvadā sarvabhāvānāṃ sāmānyaṃ vṛddhikāraṇam'). Here 'dhātu' includes the doṣas, since doṣas also sustain the body in their normal state. Example: regularly eating dry, cold, light food and overexertion increase vāta. The sentence 'samānaguṇābhyāso hi dhātūnāṃ vṛddhikāraṇam' is a favourite quotation.",
-   "explanation_hi": "यह दूसरे प्रश्न (वात किससे कुपित होता है) का उत्तर एक सामान्य नियम से देता है: समान से वृद्धि। यह सू. 1.44-45 के सामान्य सिद्धान्त ('सर्वदा सर्वभावानां सामान्यं वृद्धिकारणम्') का व्यावहारिक रूप है। यहाँ 'धातु' में दोष भी शामिल हैं, क्योंकि प्राकृत दोष भी शरीर को धारण करते हैं। उदाहरण: नियमित रूखा, ठण्डा, हल्का भोजन और अति परिश्रम वात बढ़ाते हैं। 'समानगुणाभ्यासो हि धातूनां वृद्धिकारणम्' बहुत उद्धृत होने वाला वाक्य है।",
+   "explanation_hi": "यह दूसरे प्रश्न (वात किससे कुपित होता है) का उत्तर एक सामान्य नियम से देता है: समान से वृद्धि। यह सू। 1.44-45 के सामान्य सिद्धान्त ('सर्वदा सर्वभावानां सामान्यं वृद्धिकारणम्') का व्यावहारिक रूप है। यहाँ 'धातु' में दोष भी शामिल हैं, क्योंकि प्राकृत दोष भी शरीर को धारण करते हैं। उदाहरण: नियमित रूखा, ठण्डा, हल्का भोजन और अति परिश्रम वात बढ़ाते हैं। 'समानगुणाभ्यासो हि धातूनां वृद्धिकारणम्' बहुत उद्धृत होने वाला वाक्य है।",
    "modern_correlation": null,
    "key_terms": [
     "sāmānya",
@@ -579,7 +579,7 @@
    "english": "Hearing that, Kāṅkāyana, the physician from Bāhlīka, said: 'It is just as the revered one has said; these alone are the aggravators of vāta, and things opposite to these pacify vāta, for the opposite of what aggravates is the cause of pacification of the dhātus.'",
    "hindi": "यह सुनकर बाह्लीक देश के वैद्य कांकायन ने कहा: 'जैसा पूज्य ने कहा, वैसा ही है; ये ही वात के प्रकोपक हैं, और इनके विपरीत पदार्थ वात के शामक हैं, क्योंकि प्रकोपक का विपरीत ही धातुओं के शमन का कारण है।'",
    "explanation_en": "This answers the third question with the complementary rule: opposites reduce (the viśeṣa principle of Su 1.44). So vāta is pacified by snigdha (unctuous), guru (heavy), uṣṇa (hot), ślakṣṇa (smooth) etc., as spelled out in verse 7. Together verses 5 and 6 form the basis of all Ayurvedic treatment: identify the qualities of the vitiated doṣa and use their opposites.",
-   "explanation_hi": "यह तीसरे प्रश्न का उत्तर पूरक नियम से देता है: विपरीत से ह्रास (सू. 1.44 का विशेष सिद्धान्त)। अतः वात स्निग्ध, गुरु, उष्ण, श्लक्ष्ण आदि से शान्त होता है, जैसा श्लोक 7 में बताया है। श्लोक 5 और 6 मिलकर पूरी आयुर्वेदिक चिकित्सा का आधार हैं: विकृत दोष के गुण पहचानो और उनके विपरीत गुणों का प्रयोग करो।",
+   "explanation_hi": "यह तीसरे प्रश्न का उत्तर पूरक नियम से देता है: विपरीत से ह्रास (सू। 1.44 का विशेष सिद्धान्त)। अतः वात स्निग्ध, गुरु, उष्ण, श्लक्ष्ण आदि से शान्त होता है, जैसा श्लोक 7 में बताया है। श्लोक 5 और 6 मिलकर पूरी आयुर्वेदिक चिकित्सा का आधार हैं: विकृत दोष के गुण पहचानो और उनके विपरीत गुणों का प्रयोग करो।",
    "modern_correlation": null,
    "key_terms": [
     "viśeṣa",
@@ -729,7 +729,7 @@
    "english": "Hearing that, Baḍiśa Dhāmārgava said: 'It is just as the revered one said; these are the aggravators and pacifiers of vāta. We shall now explain how they aggravate or pacify it even though vāyu is formless and unstable and they do not (directly) reach it. The aggravators of vāta are things that make the body dry, light, cold, harsh, rough, clear and porous; in a body thus made, vāyu finds a suitable abode, is nourished there and becomes aggravated. The pacifiers of vāta are things that make the body unctuous, heavy, hot, smooth, soft, slimy and compact; in such a body vāyu moves without finding a place to cling to and becomes calm.'",
    "hindi": "यह सुनकर बडिश धामार्गव ने कहा: 'जैसा पूज्य ने कहा, ये ही वात के प्रकोपक और शामक हैं। अब हम समझाते हैं कि वायु के निराकार और अस्थिर होने पर भी ये उसे कैसे कुपित या शान्त करते हैं। वात के प्रकोपक वे हैं जो शरीर को रूक्ष, लघु, शीत, दारुण, खर, विशद और सुषिर (छिद्रयुक्त) बनाते हैं; ऐसे शरीर में वायु को अनुकूल आश्रय मिलता है, वह वहाँ पुष्ट होकर कुपित हो जाता है। वात के शामक वे हैं जो शरीर को स्निग्ध, गुरु, उष्ण, श्लक्ष्ण, मृदु, पिच्छिल और घन बनाते हैं; ऐसे शरीर में वायु को चिपकने का स्थान नहीं मिलता, वह बिना रुके विचरता है और शान्त हो जाता है।'",
    "explanation_en": "This answers the fourth question. Because vāta is intangible, diet and drugs act on it indirectly: they change the qualities of the body tissues, and vāta then increases or settles according to the 'soil' it finds. Note the extra quality 'śuṣira' (porous, hollow) among aggravators and the seven opposite qualities among pacifiers. This explains why oleation (snehana), sweating (svedana) and unctuous, warm food are the mainstay of vāta treatment, and basti is its best therapy (Su 25.40).",
-   "explanation_hi": "यह चौथे प्रश्न का उत्तर है। क्योंकि वात अमूर्त है, आहार और औषध उस पर अप्रत्यक्ष रूप से काम करते हैं: वे शरीर-धातुओं के गुण बदलते हैं, और वात को जैसी 'भूमि' मिलती है वैसे ही वह बढ़ता या शान्त होता है। प्रकोपकों में अतिरिक्त गुण 'सुषिर' (छिद्रयुक्त) और शामकों में सात विपरीत गुण ध्यान दें। इसीलिए स्नेहन, स्वेदन और स्निग्ध-उष्ण आहार वात-चिकित्सा का मुख्य आधार हैं, और बस्ति सर्वश्रेष्ठ है (सू. 25.40)।",
+   "explanation_hi": "यह चौथे प्रश्न का उत्तर है। क्योंकि वात अमूर्त है, आहार और औषध उस पर अप्रत्यक्ष रूप से काम करते हैं: वे शरीर-धातुओं के गुण बदलते हैं, और वात को जैसी 'भूमि' मिलती है वैसे ही वह बढ़ता या शान्त होता है। प्रकोपकों में अतिरिक्त गुण 'सुषिर' (छिद्रयुक्त) और शामकों में सात विपरीत गुण ध्यान दें। इसीलिए स्नेहन, स्वेदन और स्निग्ध-उष्ण आहार वात-चिकित्सा का मुख्य आधार हैं, और बस्ति सर्वश्रेष्ठ है (सू। 25.40)।",
    "modern_correlation": null,
    "key_terms": [
     "vāta prakopa",
@@ -1457,7 +1457,7 @@
    "english": "Hearing Marīci, Kāpya said: 'It is soma, residing in the body within kapha (śleṣman), that, aggravated or not, produces good and bad effects, such as firmness and laxity, growth and emaciation, enthusiasm and lethargy, virility and impotence, knowledge and ignorance, understanding and confusion, and other such pairs.'",
    "hindi": "मरीचि का वचन सुनकर काप्य ने कहा: 'शरीर में कफ के अन्दर स्थित सोम ही कुपित या अकुपित होकर शुभ और अशुभ फल देता है, जैसे दृढ़ता और शिथिलता, पुष्टि और कृशता, उत्साह और आलस्य, पुंसत्व और नपुंसकता, ज्ञान और अज्ञान, बुद्धि और मोह, तथा ऐसे ही अन्य द्वन्द्व।'",
    "explanation_en": "Kāpya applies the same reasoning to kapha, whose essence is soma (the cool, watery, nourishing principle, compare 'agnīṣomīya' nature of the universe). Normal kapha gives firmness, bulk, vigour and virility; deranged kapha gives laxity, lethargy and dullness. Note that 'kārśya' (emaciation) results from decrease of kapha. Verses 11 and 12 are often asked together: 'functions of pitta and kapha according to Su 12'.",
-   "explanation_hi": "काप्य यही तर्क कफ पर लगाते हैं, जिसका सार सोम है (शीतल, जलीय, पोषक तत्त्व; जगत के 'अग्नीषोमीय' स्वरूप से तुलना करें)। प्राकृत कफ दृढ़ता, पुष्टि, उत्साह और पुंसत्व देता है; विकृत कफ शिथिलता, आलस्य और जड़ता देता है। ध्यान दें कि कृशता कफ के क्षय से होती है। श्लोक 11 और 12 प्रायः साथ पूछे जाते हैं: 'सू. 12 के अनुसार पित्त और कफ के कर्म'।",
+   "explanation_hi": "काप्य यही तर्क कफ पर लगाते हैं, जिसका सार सोम है (शीतल, जलीय, पोषक तत्त्व; जगत के 'अग्नीषोमीय' स्वरूप से तुलना करें)। प्राकृत कफ दृढ़ता, पुष्टि, उत्साह और पुंसत्व देता है; विकृत कफ शिथिलता, आलस्य और जड़ता देता है। ध्यान दें कि कृशता कफ के क्षय से होती है। श्लोक 11 और 12 प्रायः साथ पूछे जाते हैं: 'सू। 12 के अनुसार पित्त और कफ के कर्म'।",
    "modern_correlation": {
     "en": "The functions linked to kapha (structural firmness, tissue bulk, lubrication, stability, reproductive vigour) are often compared with anabolic processes and with structural and lubricating components such as connective tissue and synovial and mucous secretions. These are loose analogies used in teaching.",
     "hi": "कफ से जुड़े कर्म (संरचनात्मक दृढ़ता, ऊतक-पुष्टि, स्नेहन, स्थिरता, प्रजनन-शक्ति) की तुलना प्रायः एनाबॉलिक प्रक्रियाओं और कनेक्टिव टिश्यू, साइनोवियल व म्यूकस स्रावों जैसे संरचनात्मक और स्नेहक घटकों से की जाती है। ये शिक्षण में प्रयुक्त ढीली समानताएँ हैं।"

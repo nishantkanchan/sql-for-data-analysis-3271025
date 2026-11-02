@@ -1,0 +1,1994 @@
+{
+ "chapter": {
+  "id": "CS.nidana.7",
+  "text": "charaka_samhita",
+  "sthana": "nidana",
+  "chapter": 7,
+  "title_iast": "Unmāda Nidāna",
+  "title_devanagari": "उन्मादनिदानम्",
+  "title_en": "The chapter on the diagnosis of unmāda (insanity, psychosis)",
+  "title_hi": "उन्माद निदान अध्याय",
+  "summary_en": "This chapter of the Nidānasthāna describes unmāda, a group of severe mental disorders. There are five types: vātaja, pittaja, kaphaja, sānnipātika and āgantuja. The doṣaja types arise quickly in timid persons with weak mind (alpa sattva), excess doṣas, unwholesome and incompatible diet, wrong use of procedures, emaciation, illness, or repeated emotional shocks (desire, anger, greed, joy, fear, delusion, exertion, grief, worry); the aggravated doṣas reach the heart (hṛdaya), block the channels of the mind (manovaha srotas) and produce unmāda. Unmāda is defined as derangement of manas, buddhi, saṃjñā, jñāna, smṛti, bhakti, śīla, ceṣṭā and ācāra. The chapter gives the prodromal signs, the specific features of each doṣaja type (sānnipātika is incurable), lines of treatment for the curable types, and the āgantuja type caused by gods, sages, ancestors, gandharvas, yakṣas, rākṣasas, piśācas and others, whose root cause is prajñāparādha; its prodromes, features, times of attack and three motives (hiṃsā, rati, abhyarcana) are described, with daivavyapāśraya treatment. It ends by stressing that one's own actions, not supernatural beings, are the real cause of suffering.",
+  "summary_hi": "निदानस्थान का यह अध्याय उन्माद (गम्भीर मानसिक रोगों के समूह) का वर्णन करता है। उन्माद पाँच प्रकार का है: वातज, पित्तज, कफज, सान्निपातिक और आगन्तुज। दोषज उन्माद भीरु, अल्पसत्त्व, बढ़े दोषों वाले, अहित और विरुद्ध आहार करने वाले, कर्मों का गलत प्रयोग करने वाले, अति कृश, रोग से पीड़ित, या बार-बार काम, क्रोध, लोभ, हर्ष, भय, मोह, आयास, शोक, चिन्ता से आघात पाए लोगों में शीघ्र होता है; कुपित दोष हृदय में पहुँचकर मनोवह स्रोतों को रोककर उन्माद उत्पन्न करते हैं। उन्माद की परिभाषा है मन, बुद्धि, संज्ञा, ज्ञान, स्मृति, भक्ति, शील, चेष्टा और आचार का विभ्रम। अध्याय में पूर्वरूप, प्रत्येक दोषज प्रकार के लक्षण (सान्निपातिक असाध्य), साध्य प्रकारों की चिकित्सा, और देव, ऋषि, पितर, गन्धर्व, यक्ष, राक्षस, पिशाच आदि से होने वाला आगन्तुज उन्माद बताया गया है, जिसका मूल कारण प्रज्ञापराध है; उसके पूर्वरूप, लक्षण, आक्रमण के समय और तीन प्रयोजन (हिंसा, रति, अभ्यर्चन) तथा दैवव्यपाश्रय चिकित्सा बताई गई है। अन्त में जोर दिया गया है कि दुःख का वास्तविक कारण अपने कर्म हैं, अलौकिक प्राणी नहीं।",
+  "key_concepts": [
+   "pañca unmāda",
+   "unmāda nidāna",
+   "manovaha srotas",
+   "unmāda lakṣaṇa (vibhrama of manas etc.)",
+   "unmāda pūrvarūpa",
+   "doṣaja unmāda lakṣaṇa",
+   "āgantuja unmāda",
+   "prajñāparādha",
+   "daivavyapāśraya and yuktivyapāśraya cikitsā"
+  ],
+  "exam_focus_en": [
+   "Five types of unmāda: vātaja, pittaja, kaphaja, sānnipātika, āgantuja (Ni 7.3).",
+   "Causes and samprāpti of doṣaja unmāda: doṣas reach hṛdaya and obstruct manovaha srotas (Ni 7.4).",
+   "Definition of unmāda: vibhrama of manas, buddhi, saṃjñā, jñāna, smṛti, bhakti, śīla, ceṣṭā, ācāra (Ni 7.5) - very frequently asked.",
+   "Pūrvarūpa of unmāda and distinguishing features of vātaja, pittaja and kaphaja unmāda; sānnipātika is asādhya (Ni 7.6-7).",
+   "Line of treatment for doṣaja unmāda (sneha, sveda, śodhana, nasya, dhūma, añjana, trāsana, vismāpana etc.) (Ni 7.8).",
+   "Āgantuja unmāda: cause (prajñāparādha), modes of possession, features, three motives (hiṃsā, rati, abhyarcana), and daivavyapāśraya treatment (Ni 7.10-16)."
+  ],
+  "exam_focus_hi": [
+   "उन्माद के पाँच प्रकार: वातज, पित्तज, कफज, सान्निपातिक, आगन्तुज (नि. 7.3)।",
+   "दोषज उन्माद के कारण और सम्प्राप्ति: दोष हृदय में पहुँचकर मनोवह स्रोतों को रोकते हैं (नि. 7.4)।",
+   "उन्माद की परिभाषा: मन, बुद्धि, संज्ञा, ज्ञान, स्मृति, भक्ति, शील, चेष्टा, आचार का विभ्रम (नि. 7.5) - बहुत पूछी जाती है।",
+   "उन्माद के पूर्वरूप और वातज, पित्तज, कफज उन्माद के विशेष लक्षण; सान्निपातिक असाध्य (नि. 7.6-7)।",
+   "दोषज उन्माद की चिकित्सा (स्नेह, स्वेद, शोधन, नस्य, धूम, अंजन, त्रासन, विस्मापन आदि) (नि. 7.8)।",
+   "आगन्तुज उन्माद: कारण (प्रज्ञापराध), आवेश के प्रकार, लक्षण, तीन प्रयोजन (हिंसा, रति, अभ्यर्चन), और दैवव्यपाश्रय चिकित्सा (नि. 7.10-16)।"
+  ],
+  "syllabus_refs": [
+   "AyUG-SA2"
+  ],
+  "review_status": "ai_draft"
+ },
+ "verses": [
+  {
+   "id": "CS.nidana.7.1",
+   "word_meanings": [
+    {
+     "sa": "अथ अतः",
+     "iast": "atha ataḥ",
+     "en": "now therefore",
+     "hi": "अब इसलिए"
+    },
+    {
+     "sa": "उन्मादनिदानम्",
+     "iast": "unmādanidānam",
+     "en": "the diagnosis of unmāda",
+     "hi": "उन्माद निदान की"
+    },
+    {
+     "sa": "व्याख्यास्यामः",
+     "iast": "vyākhyāsyāmaḥ",
+     "en": "we shall explain",
+     "hi": "व्याख्या करेंगे"
+    }
+   ],
+   "english": "Now we shall explain the diagnosis of unmāda (insanity).",
+   "hindi": "अब हम उन्माद निदान की व्याख्या करेंगे।",
+   "explanation_en": "Seventh chapter of Nidānasthāna. Unmāda covers severe mental disorders with loss of contact with reality; its treatment is in Ci 9.",
+   "explanation_hi": "निदानस्थान का सातवाँ अध्याय। उन्माद में वास्तविकता से सम्पर्क टूटने वाले गम्भीर मानसिक रोग आते हैं; इसकी चिकित्सा चि। 9 में है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "unmāda"
+   ],
+   "tags": [
+    "chapter-opening"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.nidana.7.2",
+   "word_meanings": [
+    {
+     "sa": "इति ह स्म आह भगवान् आत्रेयः",
+     "iast": "iti ha sma āha bhagavān ātreyaḥ",
+     "en": "thus said the revered Ātreya",
+     "hi": "ऐसा भगवान आत्रेय ने कहा"
+    }
+   ],
+   "english": "Thus said the revered Ātreya.",
+   "hindi": "ऐसा भगवान आत्रेय ने कहा।",
+   "explanation_en": "Standard attribution.",
+   "explanation_hi": "मानक श्रेय-पंक्ति।",
+   "modern_correlation": null,
+   "key_terms": [
+    "Ātreya"
+   ],
+   "tags": [
+    "chapter-opening"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.nidana.7.3",
+   "word_meanings": [
+    {
+     "sa": "इह खलु",
+     "iast": "iha khalu",
+     "en": "here indeed",
+     "hi": "यहाँ"
+    },
+    {
+     "sa": "पञ्च उन्मादाः भवन्ति",
+     "iast": "pañca unmādāḥ bhavanti",
+     "en": "there are five kinds of unmāda",
+     "hi": "पाँच उन्माद होते हैं"
+    },
+    {
+     "sa": "वातपित्तकफसन्निपातआगन्तुनिमित्ताः",
+     "iast": "vāta-pitta-kapha-sannipāta-āgantu-nimittāḥ",
+     "en": "caused by vāta, pitta, kapha, all three combined, and external agents",
+     "hi": "वात, पित्त, कफ, सन्निपात और आगन्तु निमित्त वाले"
+    }
+   ],
+   "english": "There are five kinds of unmāda: those caused by vāta, pitta, kapha, by all three combined (sannipāta), and by external agents (āgantu).",
+   "hindi": "उन्माद पाँच प्रकार के होते हैं: वात, पित्त, कफ, सन्निपात और आगन्तु (बाह्य कारण) से होने वाले।",
+   "explanation_en": "Classification of unmāda into five, a standard question.",
+   "explanation_hi": "उन्माद का पाँच प्रकार का वर्गीकरण, मानक प्रश्न।",
+   "modern_correlation": null,
+   "key_terms": [
+    "pañca unmāda",
+    "vātaja",
+    "pittaja",
+    "kaphaja",
+    "sānnipātika",
+    "āgantuja"
+   ],
+   "tags": [
+    "unmada",
+    "exam",
+    "classification"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.nidana.7.4",
+   "word_meanings": [
+    {
+     "sa": "दोषनिमित्ताः चत्वारः",
+     "iast": "doṣanimittāḥ catvāraḥ",
+     "en": "the four caused by doṣas",
+     "hi": "दोषज चार"
+    },
+    {
+     "sa": "क्षिप्रम् अभिनिर्वर्तन्ते",
+     "iast": "kṣipram abhinirvartante",
+     "en": "arise quickly",
+     "hi": "शीघ्र उत्पन्न होते हैं"
+    },
+    {
+     "sa": "भीरूणाम्",
+     "iast": "bhīrūṇām",
+     "en": "in the timid",
+     "hi": "भीरु लोगों में"
+    },
+    {
+     "sa": "उपक्लिष्टसत्त्वानाम्",
+     "iast": "upakliṣṭasattvānām",
+     "en": "with afflicted (weak) mind",
+     "hi": "दुर्बल सत्त्व वालों में"
+    },
+    {
+     "sa": "उत्सन्नदोषाणाम्",
+     "iast": "utsannadoṣāṇām",
+     "en": "with excess doṣas",
+     "hi": "बढ़े दोषों वालों में"
+    },
+    {
+     "sa": "समलविकृतौपहितानि",
+     "iast": "samala-vikṛta-upahitāni",
+     "en": "impure, spoiled, contaminated (food)",
+     "hi": "मलयुक्त, विकृत, दूषित (आहार)"
+    },
+    {
+     "sa": "अनुचितानि आहारजातानि",
+     "iast": "anucitāni āhārajātāni",
+     "en": "unaccustomed foods",
+     "hi": "अनुचित आहार"
+    },
+    {
+     "sa": "वैषम्ययुक्तेन उपयोगविधिना",
+     "iast": "vaiṣamyayuktena upayogavidhinā",
+     "en": "by irregular method of eating",
+     "hi": "विषम विधि से सेवन"
+    },
+    {
+     "sa": "तन्त्रप्रयोगम् अपि विषमम्",
+     "iast": "tantraprayogam api viṣamam",
+     "en": "wrong use of therapeutic procedures",
+     "hi": "चिकित्सा-कर्मों का विषम प्रयोग"
+    },
+    {
+     "sa": "अत्युपक्षीणदेहानाम्",
+     "iast": "atyupakṣīṇadehānām",
+     "en": "very emaciated",
+     "hi": "अति क्षीण शरीर वाले"
+    },
+    {
+     "sa": "व्याधिवेगसमुद्भ्रमितानाम्",
+     "iast": "vyādhivegasamudbhramitānām",
+     "en": "agitated by the force of disease",
+     "hi": "रोग के वेग से विचलित"
+    },
+    {
+     "sa": "कामक्रोधलोभहर्षभयमोहआयासशोकचिन्ताउद्वेग",
+     "iast": "kāma-krodha-lobha-harṣa-bhaya-moha-āyāsa-śoka-cintā-udvega",
+     "en": "desire, anger, greed, joy, fear, delusion, exertion, grief, worry, anxiety",
+     "hi": "काम, क्रोध, लोभ, हर्ष, भय, मोह, आयास, शोक, चिन्ता, उद्वेग"
+    },
+    {
+     "sa": "अभिघाताभ्याहतानाम्",
+     "iast": "abhighātābhyāhatānām",
+     "en": "struck by trauma",
+     "hi": "आघात से पीड़ित"
+    },
+    {
+     "sa": "मनसि उपहते",
+     "iast": "manasi upahate",
+     "en": "when the mind is afflicted",
+     "hi": "मन के दूषित होने पर"
+    },
+    {
+     "sa": "बुद्धौ च प्रचलितायाम्",
+     "iast": "buddhau ca pracalitāyām",
+     "en": "and the intellect is disturbed",
+     "hi": "और बुद्धि के विचलित होने पर"
+    },
+    {
+     "sa": "हृदयम् उपसृत्य",
+     "iast": "hṛdayam upasṛtya",
+     "en": "reaching the heart",
+     "hi": "हृदय में पहुँचकर"
+    },
+    {
+     "sa": "मनोवहानि स्रोतांसि आवृत्य",
+     "iast": "manovahāni srotāṃsi āvṛtya",
+     "en": "obstructing the channels of the mind",
+     "hi": "मनोवह स्रोतों को रोककर"
+    },
+    {
+     "sa": "जनयन्ति उन्मादम्",
+     "iast": "janayanti unmādam",
+     "en": "produce unmāda",
+     "hi": "उन्माद उत्पन्न करते हैं"
+    }
+   ],
+   "english": "Of these, the four caused by doṣas arise quickly in people of the following kind: the timid, those with an afflicted (weak) mind, those with excessive doṣas, those who take impure, spoiled, contaminated or unaccustomed food in an irregular manner, those who use therapeutic procedures wrongly or perform other bodily activities improperly, those who are very emaciated, those agitated by the force of disease, or those whose minds are repeatedly struck by desire, anger, greed, joy, fear, delusion, exertion, grief, worry, anxiety and the like, or by trauma. When the mind is afflicted and the intellect disturbed, the aggravated doṣas reach the heart (hṛdaya), obstruct the channels carrying the mind (manovaha srotas) and produce unmāda.",
+   "hindi": "इनमें दोषज चार उन्माद ऐसे लोगों में शीघ्र होते हैं: भीरु, दुर्बल सत्त्व वाले, बढ़े दोषों वाले, जो मलयुक्त, विकृत, दूषित या अनुचित आहार विषम विधि से लेते हैं, जो चिकित्सा-कर्मों का गलत प्रयोग करते हैं या अन्य शारीरिक चेष्टाएँ विषम करते हैं, अति क्षीण शरीर वाले, रोग के वेग से विचलित, या जिनका मन बार-बार काम, क्रोध, लोभ, हर्ष, भय, मोह, आयास, शोक, चिन्ता, उद्वेग आदि से या आघात से पीड़ित होता है। मन के दूषित और बुद्धि के विचलित होने पर कुपित दोष हृदय में पहुँचकर मनोवह स्रोतों को रोककर उन्माद उत्पन्न करते हैं।",
+   "explanation_en": "Nidāna and samprāpti of doṣaja unmāda. Key points: predisposing factors (bhīru, alpasattva), dietary and emotional causes, and the samprāpti: doṣas → hṛdaya (seat of mind) → obstruction of manovaha srotas → unmāda. Very frequently asked.",
+   "explanation_hi": "दोषज उन्माद का निदान और सम्प्राप्ति। मुख्य बिन्दु: पूर्वप्रवृत्त कारक (भीरु, अल्पसत्त्व), आहार और भावनात्मक कारण, और सम्प्राप्ति: दोष → हृदय (मन का आश्रय) → मनोवह स्रोतों का अवरोध → उन्माद। बहुत पूछा जाता है।",
+   "modern_correlation": {
+    "en": "The emphasis on predisposition (vulnerable temperament) combined with stressors (emotional shocks, illness, substance and dietary factors) broadly resembles the stress-vulnerability (diathesis-stress) model of psychotic and other severe mental disorders. Placing the mind's seat in the heart reflects the classical framework.",
+    "hi": "पूर्वप्रवृत्ति (दुर्बल स्वभाव) और तनाव कारकों (भावनात्मक आघात, रोग, आहार कारक) पर जोर मोटे तौर पर साइकोटिक और अन्य गम्भीर मानसिक रोगों के स्ट्रेस-वल्नरेबिलिटी (डायथेसिस-स्ट्रेस) मॉडल से मिलता है। मन का आश्रय हृदय मानना शास्त्रीय ढाँचे की बात है।"
+   },
+   "key_terms": [
+    "unmāda nidāna",
+    "samprāpti",
+    "hṛdaya",
+    "manovaha srotas",
+    "alpasattva"
+   ],
+   "tags": [
+    "unmada",
+    "etiology",
+    "pathology",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.nidana.7.5",
+   "word_meanings": [
+    {
+     "sa": "उन्मादम् पुनः",
+     "iast": "unmādam punaḥ",
+     "en": "unmāda is",
+     "hi": "उन्माद को"
+    },
+    {
+     "sa": "मनः",
+     "iast": "manaḥ",
+     "en": "mind",
+     "hi": "मन"
+    },
+    {
+     "sa": "बुद्धि",
+     "iast": "buddhi",
+     "en": "intellect",
+     "hi": "बुद्धि"
+    },
+    {
+     "sa": "संज्ञा",
+     "iast": "saṃjñā",
+     "en": "consciousness, orientation",
+     "hi": "संज्ञा"
+    },
+    {
+     "sa": "ज्ञान",
+     "iast": "jñāna",
+     "en": "knowledge, perception",
+     "hi": "ज्ञान"
+    },
+    {
+     "sa": "स्मृति",
+     "iast": "smṛti",
+     "en": "memory",
+     "hi": "स्मृति"
+    },
+    {
+     "sa": "भक्ति",
+     "iast": "bhakti",
+     "en": "desires, preferences",
+     "hi": "भक्ति (रुचि)"
+    },
+    {
+     "sa": "शील",
+     "iast": "śīla",
+     "en": "character, habits",
+     "hi": "शील"
+    },
+    {
+     "sa": "चेष्टा",
+     "iast": "ceṣṭā",
+     "en": "behaviour, movements",
+     "hi": "चेष्टा"
+    },
+    {
+     "sa": "आचार",
+     "iast": "ācāra",
+     "en": "conduct",
+     "hi": "आचार"
+    },
+    {
+     "sa": "विभ्रमम्",
+     "iast": "vibhramam",
+     "en": "derangement",
+     "hi": "विभ्रम"
+    },
+    {
+     "sa": "विद्यात्",
+     "iast": "vidyāt",
+     "en": "one should know",
+     "hi": "जानें"
+    }
+   ],
+   "english": "Unmāda should be known as the derangement (vibhrama) of mind (manas), intellect (buddhi), consciousness (saṃjñā), knowledge (jñāna), memory (smṛti), desires (bhakti), character (śīla), behaviour (ceṣṭā) and conduct (ācāra).",
+   "hindi": "उन्माद को मन, बुद्धि, संज्ञा, ज्ञान, स्मृति, भक्ति (रुचि), शील, चेष्टा और आचार का विभ्रम जानना चाहिए।",
+   "explanation_en": "The classic definition of unmāda, one of the most frequently asked definitions in Kāyacikitsā and Manasa Roga. Learn the eight (or nine) factors in order.",
+   "explanation_hi": "उन्माद की प्रसिद्ध परिभाषा, कायचिकित्सा और मानस रोग में सबसे अधिक पूछी जाने वाली परिभाषाओं में से। आठ (या नौ) कारक क्रम से याद करें।",
+   "modern_correlation": {
+    "en": "This definition covers disturbances of thought, cognition, orientation, perception, memory, emotion, personality and behaviour, which together resemble the broad clinical picture of psychosis described in modern psychiatry. It is a descriptive parallel, not a diagnostic equivalence.",
+    "hi": "यह परिभाषा विचार, संज्ञान, अभिविन्यास, अनुभूति, स्मृति, भावना, व्यक्तित्व और व्यवहार के विकारों को आवृत करती है, जो मिलकर आधुनिक मनोचिकित्सा में वर्णित साइकोसिस के व्यापक नैदानिक चित्र से मिलते हैं। यह वर्णनात्मक समानता है, निदान की एकरूपता नहीं।"
+   },
+   "key_terms": [
+    "unmāda lakṣaṇa",
+    "manas",
+    "buddhi",
+    "saṃjñā",
+    "jñāna",
+    "smṛti",
+    "bhakti",
+    "śīla",
+    "ceṣṭā",
+    "ācāra"
+   ],
+   "tags": [
+    "unmada",
+    "exam",
+    "definitions"
+   ],
+   "importance": "high",
+   "mnemonic": "'Mind Brain Sense Knows Memory, Bhakti Shapes Ceṣṭā Ācāra'",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.nidana.7.6",
+   "word_meanings": [
+    {
+     "sa": "तस्य इमानि पूर्वरूपाणि",
+     "iast": "tasya imāni pūrvarūpāṇi",
+     "en": "these are its prodromal signs",
+     "hi": "इसके ये पूर्वरूप हैं"
+    },
+    {
+     "sa": "शिरसः शून्यता",
+     "iast": "śirasaḥ śūnyatā",
+     "en": "emptiness in the head",
+     "hi": "सिर में शून्यता"
+    },
+    {
+     "sa": "चक्षुषोः आकुलता",
+     "iast": "cakṣuṣoḥ ākulatā",
+     "en": "restlessness of the eyes",
+     "hi": "आँखों की चंचलता"
+    },
+    {
+     "sa": "स्वनः कर्णयोः",
+     "iast": "svanaḥ karṇayoḥ",
+     "en": "noises in the ears",
+     "hi": "कानों में आवाज़"
+    },
+    {
+     "sa": "उच्छ्वासस्य आधिक्यम्",
+     "iast": "ucchvāsasya ādhikyam",
+     "en": "excessive breathing",
+     "hi": "श्वास का अधिक होना"
+    },
+    {
+     "sa": "आस्यसंस्रवणम्",
+     "iast": "āsyasaṃsravaṇam",
+     "en": "salivation",
+     "hi": "मुख से स्राव"
+    },
+    {
+     "sa": "अनन्नाभिलाष",
+     "iast": "anannābhilāṣa",
+     "en": "lack of desire for food",
+     "hi": "भोजन की इच्छा न होना"
+    },
+    {
+     "sa": "अरोचक",
+     "iast": "arocaka",
+     "en": "anorexia",
+     "hi": "अरोचक"
+    },
+    {
+     "sa": "अविपाकाः",
+     "iast": "avipākāḥ",
+     "en": "indigestion",
+     "hi": "अविपाक"
+    },
+    {
+     "sa": "हृद्ग्रहः",
+     "iast": "hṛdgrahaḥ",
+     "en": "cardiac discomfort",
+     "hi": "हृदय में जकड़न"
+    },
+    {
+     "sa": "ध्यानआयाससम्मोहौद्वेगाः च अस्थाने",
+     "iast": "dhyāna-āyāsa-sammoha-udvegāḥ ca asthāne",
+     "en": "brooding, fatigue, confusion and anxiety without reason",
+     "hi": "अकारण ध्यान, थकान, मोह और उद्वेग"
+    },
+    {
+     "sa": "सततम् लोमहर्षः",
+     "iast": "satatam lomaharṣaḥ",
+     "en": "constant horripilation",
+     "hi": "निरन्तर रोमांच"
+    },
+    {
+     "sa": "ज्वरः च अभीक्ष्णम्",
+     "iast": "jvaraḥ ca abhīkṣṇam",
+     "en": "frequent fever",
+     "hi": "बार-बार ज्वर"
+    },
+    {
+     "sa": "उन्मत्तचित्तत्वम्",
+     "iast": "unmattacittatvam",
+     "en": "unstable mind",
+     "hi": "उन्मत्त चित्त"
+    },
+    {
+     "sa": "उदर्दित्वम्",
+     "iast": "udarditvam",
+     "en": "urticaria-like rash",
+     "hi": "उदर्द"
+    },
+    {
+     "sa": "अर्दिताकृतिकरणम्",
+     "iast": "arditākṛtikaraṇam",
+     "en": "facial palsy-like appearance",
+     "hi": "अर्दित जैसी आकृति"
+    },
+    {
+     "sa": "स्वप्ने",
+     "iast": "svapne",
+     "en": "in dreams",
+     "hi": "स्वप्न में"
+    },
+    {
+     "sa": "भ्रान्तचलितअनवस्थितानाम् रूपाणाम्",
+     "iast": "bhrānta-calita-anavasthitānām rūpāṇām",
+     "en": "of whirling, moving, unsteady forms",
+     "hi": "घूमते, चलते, अस्थिर रूपों का"
+    },
+    {
+     "sa": "तिलपीडकचक्राधिरोहणम्",
+     "iast": "tilapīḍakacakrādhirohaṇam",
+     "en": "mounting an oil-press wheel",
+     "hi": "कोल्हू के चक्र पर चढ़ना"
+    },
+    {
+     "sa": "वातकुण्डलिकाभिः उन्मथनम्",
+     "iast": "vātakuṇḍalikābhiḥ unmathanam",
+     "en": "being churned by whirlwinds",
+     "hi": "बवण्डरों में घूमना"
+    },
+    {
+     "sa": "निमज्जनम् कलुषाणाम् अम्भसाम् आवर्ते",
+     "iast": "nimajjanam kaluṣāṇām ambhasām āvarte",
+     "en": "sinking in whirlpools of muddy water",
+     "hi": "गँदले पानी के भँवर में डूबना"
+    },
+    {
+     "sa": "चक्षुषोः च अपसर्पणम्",
+     "iast": "cakṣuṣoḥ ca apasarpaṇam",
+     "en": "and sinking of the eyes",
+     "hi": "और आँखों का धँसना"
+    }
+   ],
+   "english": "Its prodromal signs are: a feeling of emptiness in the head, restless eyes, noises in the ears, excessive breathing, salivation, lack of desire for food, anorexia and indigestion, discomfort in the heart region, brooding, fatigue, confusion and anxiety without reason, constant horripilation, frequent fever, unsteadiness of mind, urticaria-like rash, a facial-palsy-like appearance, frequent dreams of whirling, moving and unsteady inauspicious forms, of mounting an oil-press wheel, of being churned by whirlwinds, and of sinking in whirlpools of muddy water, and sinking of the eyes.",
+   "hindi": "इसके पूर्वरूप हैं: सिर में शून्यता, आँखों की चंचलता, कानों में आवाज़, अधिक श्वास, मुख से स्राव, भोजन की इच्छा न होना, अरुचि और अपच, हृदय में जकड़न, अकारण चिन्तन, थकान, मोह और उद्वेग, निरन्तर रोमांच, बार-बार ज्वर, चित्त की अस्थिरता, उदर्द, अर्दित जैसी आकृति, स्वप्न में बार-बार घूमते, चलते, अस्थिर अशुभ रूप देखना, कोल्हू के चक्र पर चढ़ना, बवण्डरों में घूमना, गँदले पानी के भँवर में डूबना, और आँखों का धँसना।",
+   "explanation_en": "Pūrvarūpa of unmāda. Frequently asked; note the somatic, psychic and dream features.",
+   "explanation_hi": "उन्माद के पूर्वरूप। बहुत पूछे जाते हैं; शारीरिक, मानसिक और स्वप्न लक्षण ध्यान दें।",
+   "modern_correlation": null,
+   "key_terms": [
+    "unmāda pūrvarūpa"
+   ],
+   "tags": [
+    "unmada",
+    "exam",
+    "list"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.nidana.7.7",
+   "word_meanings": [
+    {
+     "sa": "ततः अनन्तरम्",
+     "iast": "tataḥ anantaram",
+     "en": "immediately after that",
+     "hi": "उसके तुरन्त बाद"
+    },
+    {
+     "sa": "उन्मादाभिनिर्वृत्तिः",
+     "iast": "unmādābhinirvṛttiḥ",
+     "en": "onset of unmāda",
+     "hi": "उन्माद की उत्पत्ति"
+    },
+    {
+     "sa": "परिसरणम् अजस्रम्",
+     "iast": "parisaraṇam ajasram",
+     "en": "constant wandering",
+     "hi": "निरन्तर घूमना"
+    },
+    {
+     "sa": "अक्षिभ्रूओष्ठअंसहनुअग्रहस्तपादअङ्गविक्षेपणम्",
+     "iast": "akṣi-bhrū-oṣṭha-aṃsa-hanu-agrahasta-pāda-aṅga-vikṣepaṇam",
+     "en": "jerky movements of eyes, brows, lips, shoulders, jaw, hands, feet and limbs",
+     "hi": "आँख, भौंह, होंठ, कन्धे, जबड़े, हाथ, पैर और अंगों का फेंकना"
+    },
+    {
+     "sa": "अनियतानाम् च गिराम् उत्सर्गः",
+     "iast": "aniyatānām ca girām utsargaḥ",
+     "en": "incoherent speech",
+     "hi": "असम्बद्ध वाणी"
+    },
+    {
+     "sa": "फेनागमनम् आस्यात्",
+     "iast": "phenāgamanam āsyāt",
+     "en": "frothing from the mouth",
+     "hi": "मुख से झाग"
+    },
+    {
+     "sa": "स्मितहसितनृत्यगीतवादित्र",
+     "iast": "smita-hasita-nṛtya-gīta-vāditra",
+     "en": "smiling, laughing, dancing, singing, playing music",
+     "hi": "मुस्कुराना, हँसना, नाचना, गाना, बजाना"
+    },
+    {
+     "sa": "अस्थाने",
+     "iast": "asthāne",
+     "en": "inappropriately",
+     "hi": "अनुचित स्थान पर"
+    },
+    {
+     "sa": "कार्श्यम् पारुष्यम्",
+     "iast": "kārśyam pāruṣyam",
+     "en": "emaciation, roughness",
+     "hi": "कृशता, रूक्षता"
+    },
+    {
+     "sa": "उत्पिण्डितारुणाक्षता",
+     "iast": "utpiṇḍitāruṇākṣatā",
+     "en": "protruding reddish eyes",
+     "hi": "उभरी लाल आँखें"
+    },
+    {
+     "sa": "वातोपशयविपर्यासात् अनुपशयता",
+     "iast": "vātopaśaya-viparyāsāt anupaśayatā",
+     "en": "aggravation by things contrary to vāta-pacification",
+     "hi": "वात-उपशय के विपरीत से अनुपशय"
+    },
+    {
+     "sa": "वातोन्मादलिङ्गानि",
+     "iast": "vātonmādaliṅgāni",
+     "en": "signs of vātaja unmāda",
+     "hi": "वातज उन्माद के लक्षण"
+    },
+    {
+     "sa": "अमर्षः क्रोधः संरम्भः",
+     "iast": "amarṣaḥ krodhaḥ saṃrambhaḥ",
+     "en": "intolerance, anger, excitement",
+     "hi": "अमर्ष, क्रोध, संरम्भ"
+    },
+    {
+     "sa": "शस्त्रलोष्टकशाकाष्ठमुष्टिभिः अभिहननम्",
+     "iast": "śastra-loṣṭa-kaśā-kāṣṭha-muṣṭibhiḥ abhihananam",
+     "en": "striking with weapons, clods, whips, sticks, fists",
+     "hi": "शस्त्र, ढेले, कोड़े, लकड़ी, मुट्ठी से मारना"
+    },
+    {
+     "sa": "प्रच्छायशीतोदकअन्नअभिलाषः",
+     "iast": "pracchāya-śītodaka-anna-abhilāṣaḥ",
+     "en": "desire for shade, cold water and food",
+     "hi": "छाया, ठण्डे पानी और अन्न की इच्छा"
+    },
+    {
+     "sa": "ताम्रहारितहारिद्रसंरब्धाक्षता",
+     "iast": "tāmra-hārita-hāridra-saṃrabdhākṣatā",
+     "en": "coppery, greenish, yellowish, agitated eyes",
+     "hi": "ताम्र, हरी, पीली, उत्तेजित आँखें"
+    },
+    {
+     "sa": "पित्तोन्मादलिङ्गानि",
+     "iast": "pittonmādaliṅgāni",
+     "en": "signs of pittaja unmāda",
+     "hi": "पित्तज उन्माद के लक्षण"
+    },
+    {
+     "sa": "स्थानम् एकदेशे",
+     "iast": "sthānam ekadeśe",
+     "en": "staying in one place",
+     "hi": "एक स्थान पर रहना"
+    },
+    {
+     "sa": "तूष्णींभावः",
+     "iast": "tūṣṇīṃbhāvaḥ",
+     "en": "silence",
+     "hi": "मौन"
+    },
+    {
+     "sa": "अल्पशः चङ्क्रमणम्",
+     "iast": "alpaśaḥ caṅkramaṇam",
+     "en": "little walking",
+     "hi": "कम चलना"
+    },
+    {
+     "sa": "लालाशिङ्घाणकस्रवणम्",
+     "iast": "lālā-śiṅghāṇaka-sravaṇam",
+     "en": "salivation and nasal discharge",
+     "hi": "लार और नाक बहना"
+    },
+    {
+     "sa": "रहस्कामता",
+     "iast": "rahaskāmatā",
+     "en": "desire for solitude",
+     "hi": "एकान्त की इच्छा"
+    },
+    {
+     "sa": "बीभत्सत्वम्",
+     "iast": "bībhatsatvam",
+     "en": "disgusting behaviour",
+     "hi": "वीभत्सता"
+    },
+    {
+     "sa": "शौचद्वेषः",
+     "iast": "śaucadveṣaḥ",
+     "en": "dislike of cleanliness",
+     "hi": "शौच से द्वेष"
+    },
+    {
+     "sa": "स्वप्ननित्यता",
+     "iast": "svapnanityatā",
+     "en": "constant sleepiness",
+     "hi": "सदा निद्रा"
+    },
+    {
+     "sa": "श्वयथुः आनने",
+     "iast": "śvayathuḥ ānane",
+     "en": "facial swelling",
+     "hi": "मुख पर सूजन"
+    },
+    {
+     "sa": "श्लेष्मोन्मादलिङ्गानि",
+     "iast": "śleṣmonmādaliṅgāni",
+     "en": "signs of kaphaja unmāda",
+     "hi": "कफज उन्माद के लक्षण"
+    },
+    {
+     "sa": "सान्निपातिकम्",
+     "iast": "sānnipātikam",
+     "en": "sānnipātika",
+     "hi": "सान्निपातिक"
+    },
+    {
+     "sa": "असाध्यम्",
+     "iast": "asādhyam",
+     "en": "incurable",
+     "hi": "असाध्य"
+    }
+   ],
+   "english": "Immediately after this, unmāda sets in. Its distinguishing features are as follows. Vātaja unmāda: constant wandering; sudden, frequent jerky movements of the eyes, eyebrows, lips, shoulders, jaw, hands, feet and limbs; continuous incoherent speech; frothing at the mouth; frequent smiling, laughing, dancing, singing and playing music at inappropriate times; imitating the sounds of lute, flute, conch, cymbals and drums; riding on things that are not vehicles; adorning oneself with things that are not ornaments; craving for unobtainable food and disdain for food when obtained; intense jealousy; emaciation; roughness; protruding reddish eyes; and aggravation by things contrary to what pacifies vāta. Pittaja unmāda: intolerance, anger and excitement at inappropriate times; attacking oneself or others with weapons, clods, whips, sticks or fists; running about; desire for shade, cold water and food; excessive feeling of heat; coppery, greenish or yellowish agitated eyes; and aggravation by things contrary to what pacifies pitta. Kaphaja unmāda: staying in one place; silence; little walking; salivation and nasal discharge; lack of desire for food; desire for solitude; disgusting behaviour; dislike of cleanliness; constant sleepiness; swelling of the face; white, fixed eyes smeared with discharge; and aggravation by things contrary to what pacifies kapha. When the features of all three doṣas are combined, it should be known as sānnipātika; experts declare it incurable.",
+   "hindi": "इसके तुरन्त बाद उन्माद उत्पन्न होता है। इसके विशेष लक्षण इस प्रकार हैं। वातज उन्माद: निरन्तर घूमना; आँख, भौंह, होंठ, कन्धे, जबड़े, हाथ, पैर और अंगों को अचानक, बार-बार फेंकना; लगातार असम्बद्ध बोलना; मुख से झाग; अनुचित समय पर बार-बार मुस्कुराना, हँसना, नाचना, गाना और बजाना; वीणा, बाँसुरी, शंख, झाँझ और ताल की आवाज़ की नकल; जो वाहन नहीं उन पर सवारी; जो आभूषण नहीं उनसे शृंगार; न मिलने वाले भोजन की लालसा और मिलने पर तिरस्कार; तीव्र ईर्ष्या; कृशता; रूक्षता; उभरी लाल आँखें; और वात-शामक के विपरीत से बढ़ना। पित्तज उन्माद: अनुचित समय पर अमर्ष, क्रोध और उत्तेजना; शस्त्र, ढेले, कोड़े, लकड़ी या मुट्ठी से अपने या दूसरों पर प्रहार; दौड़ना; छाया, ठण्डे पानी और अन्न की इच्छा; अत्यधिक सन्ताप; ताम्र, हरी या पीली उत्तेजित आँखें; और पित्त-शामक के विपरीत से बढ़ना। कफज उन्माद: एक स्थान पर रहना; मौन; कम चलना; लार और नाक बहना; भोजन में अनिच्छा; एकान्त की इच्छा; वीभत्स व्यवहार; शौच से द्वेष; सदा निद्रा; मुख पर सूजन; सफेद, स्थिर, मल से लिप्त आँखें; और कफ-शामक के विपरीत से बढ़ना। तीनों दोषों के लक्षण मिलने पर सान्निपातिक जानें; विशेषज्ञ उसे असाध्य कहते हैं।",
+   "explanation_en": "Differential features of vātaja (hyperactivity, incoherence, emaciation), pittaja (aggression, anger, heat) and kaphaja (withdrawal, silence, sleepiness) unmāda. Sānnipātika is asādhya. A very frequently asked comparison; tabulate in exams.",
+   "explanation_hi": "वातज (अति सक्रियता, असम्बद्धता, कृशता), पित्तज (आक्रामकता, क्रोध, सन्ताप) और कफज (एकान्त, मौन, निद्रा) उन्माद के भेदक लक्षण। सान्निपातिक असाध्य। बहुत पूछी जाने वाली तुलना; परीक्षा में तालिका बनाएँ।",
+   "modern_correlation": {
+    "en": "The vātaja picture (restless, disorganised, hyperactive), pittaja (irritable, aggressive) and kaphaja (withdrawn, apathetic, sleepy) are sometimes compared with manic or disorganised, agitated and negative-symptom or depressive presentations respectively. These are loose descriptive comparisons.",
+    "hi": "वातज चित्र (बेचैन, असंगठित, अति सक्रिय), पित्तज (चिड़चिड़ा, आक्रामक) और कफज (एकान्तप्रिय, उदासीन, निद्रालु) की तुलना कभी-कभी क्रमशः मैनिक या डिसऑर्गनाइज़्ड, एजिटेटेड और नेगेटिव-सिम्प्टम या डिप्रेसिव प्रस्तुतियों से की जाती है। ये ढीली वर्णनात्मक तुलनाएँ हैं।"
+   },
+   "key_terms": [
+    "vātaja unmāda",
+    "pittaja unmāda",
+    "kaphaja unmāda",
+    "sānnipātika unmāda",
+    "asādhya"
+   ],
+   "tags": [
+    "unmada",
+    "exam",
+    "long-answer"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.nidana.7.8",
+   "word_meanings": [
+    {
+     "sa": "साध्यानाम् तु त्रयाणाम्",
+     "iast": "sādhyānām tu trayāṇām",
+     "en": "for the three curable ones",
+     "hi": "तीन साध्य का"
+    },
+    {
+     "sa": "साधनानि",
+     "iast": "sādhanāni",
+     "en": "treatments",
+     "hi": "साधन (चिकित्सा)"
+    },
+    {
+     "sa": "स्नेह",
+     "iast": "sneha",
+     "en": "oleation",
+     "hi": "स्नेहन"
+    },
+    {
+     "sa": "स्वेद",
+     "iast": "sveda",
+     "en": "sudation",
+     "hi": "स्वेदन"
+    },
+    {
+     "sa": "वमन",
+     "iast": "vamana",
+     "en": "emesis",
+     "hi": "वमन"
+    },
+    {
+     "sa": "विरेचन",
+     "iast": "virecana",
+     "en": "purgation",
+     "hi": "विरेचन"
+    },
+    {
+     "sa": "आस्थापन",
+     "iast": "āsthāpana",
+     "en": "decoction enema",
+     "hi": "आस्थापन"
+    },
+    {
+     "sa": "अनुवासन",
+     "iast": "anuvāsana",
+     "en": "oil enema",
+     "hi": "अनुवासन"
+    },
+    {
+     "sa": "उपशमन",
+     "iast": "upaśamana",
+     "en": "pacification",
+     "hi": "उपशमन"
+    },
+    {
+     "sa": "नस्तःकर्म",
+     "iast": "nastaḥkarma",
+     "en": "nasal therapy",
+     "hi": "नस्य"
+    },
+    {
+     "sa": "धूम",
+     "iast": "dhūma",
+     "en": "medicated smoking",
+     "hi": "धूम"
+    },
+    {
+     "sa": "धूपन",
+     "iast": "dhūpana",
+     "en": "fumigation",
+     "hi": "धूपन"
+    },
+    {
+     "sa": "अञ्जन",
+     "iast": "añjana",
+     "en": "collyrium",
+     "hi": "अंजन"
+    },
+    {
+     "sa": "अवपीड",
+     "iast": "avapīḍa",
+     "en": "nasal drops of juice",
+     "hi": "अवपीड"
+    },
+    {
+     "sa": "प्रधमन",
+     "iast": "pradhamana",
+     "en": "nasal insufflation",
+     "hi": "प्रधमन"
+    },
+    {
+     "sa": "अभ्यङ्ग",
+     "iast": "abhyaṅga",
+     "en": "massage",
+     "hi": "अभ्यंग"
+    },
+    {
+     "sa": "प्रदेह",
+     "iast": "pradeha",
+     "en": "ointment",
+     "hi": "प्रदेह"
+    },
+    {
+     "sa": "परिषेक",
+     "iast": "pariṣeka",
+     "en": "affusion",
+     "hi": "परिषेक"
+    },
+    {
+     "sa": "अनुलेपन",
+     "iast": "anulepana",
+     "en": "unction",
+     "hi": "अनुलेपन"
+    },
+    {
+     "sa": "वध",
+     "iast": "vadha",
+     "en": "beating",
+     "hi": "वध (ताड़न)"
+    },
+    {
+     "sa": "बन्धन",
+     "iast": "bandhana",
+     "en": "binding",
+     "hi": "बन्धन"
+    },
+    {
+     "sa": "अवरोधन",
+     "iast": "avarodhana",
+     "en": "confinement",
+     "hi": "अवरोधन"
+    },
+    {
+     "sa": "वित्रासन",
+     "iast": "vitrāsana",
+     "en": "frightening",
+     "hi": "वित्रासन"
+    },
+    {
+     "sa": "विस्मापन",
+     "iast": "vismāpana",
+     "en": "astonishing",
+     "hi": "विस्मापन"
+    },
+    {
+     "sa": "विस्मारण",
+     "iast": "vismāraṇa",
+     "en": "making forget",
+     "hi": "विस्मारण"
+    },
+    {
+     "sa": "अपतर्पण",
+     "iast": "apatarpaṇa",
+     "en": "depletion",
+     "hi": "अपतर्पण"
+    },
+    {
+     "sa": "सिराव्यधनानि",
+     "iast": "sirāvyadhanāni",
+     "en": "venesection",
+     "hi": "सिरावेध"
+    },
+    {
+     "sa": "भोजनविधानम्",
+     "iast": "bhojanavidhānam",
+     "en": "dietary regimen",
+     "hi": "भोजन विधान"
+    },
+    {
+     "sa": "निदानविपरीतम् औषधम्",
+     "iast": "nidānaviparītam auṣadham",
+     "en": "medicine opposite to the cause",
+     "hi": "निदान-विपरीत औषध"
+    }
+   ],
+   "english": "For the three curable types the treatments are: oleation, sudation, emesis, purgation, decoction and oil enemas, pacifying therapy, nasal therapy, medicated smoking, fumigation, collyrium, nasal drops and insufflation, massage, ointments, affusions, unction, beating, binding, confinement, frightening, astonishing, causing forgetfulness, depletion and venesection, together with a suitable diet, each applied rationally according to the doṣa; and any other medicine opposed to the cause may also be used.",
+   "hindi": "तीन साध्य प्रकारों की चिकित्सा है: स्नेहन, स्वेदन, वमन, विरेचन, आस्थापन और अनुवासन बस्ति, उपशमन, नस्य, धूम, धूपन, अंजन, अवपीड, प्रधमन, अभ्यंग, प्रदेह, परिषेक, अनुलेपन, वध (ताड़न), बन्धन, अवरोधन, वित्रासन, विस्मापन, विस्मारण, अपतर्पण और सिरावेध, उचित भोजन विधान के साथ, प्रत्येक दोष के अनुसार युक्ति से; और निदान के विपरीत कोई अन्य औषध भी दी जा सकती है।",
+   "explanation_en": "Line of treatment for doṣaja unmāda: śodhana, śamana, local therapies, and psychological shock measures (trāsana, vismāpana, vismāraṇa). Measures like beating and binding reflect historical practice and are not acceptable today; modern practice follows ethical, humane care. Detailed in Ci 9.",
+   "explanation_hi": "दोषज उन्माद की चिकित्सा: शोधन, शमन, स्थानीय चिकित्सा, और मानसिक आघात वाले उपाय (त्रासन, विस्मापन, विस्मारण)। ताड़न और बन्धन जैसे उपाय ऐतिहासिक व्यवहार दिखाते हैं और आज स्वीकार्य नहीं; आधुनिक व्यवहार नैतिक, मानवीय देखभाल पर आधारित है। विस्तार चि। 9 में।",
+   "modern_correlation": null,
+   "key_terms": [
+    "unmāda cikitsā",
+    "śodhana",
+    "nasya",
+    "trāsana",
+    "vismāpana",
+    "nidānaviparīta"
+   ],
+   "tags": [
+    "unmada",
+    "treatment",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.nidana.7.9",
+   "word_meanings": [
+    {
+     "sa": "भवति च अत्र",
+     "iast": "bhavati ca atra",
+     "en": "and here (is a verse)",
+     "hi": "और यहाँ (श्लोक) है"
+    },
+    {
+     "sa": "उन्मादान् दोषजान् साध्यान्",
+     "iast": "unmādān doṣajān sādhyān",
+     "en": "curable doṣaja unmādas",
+     "hi": "साध्य दोषज उन्मादों को"
+    },
+    {
+     "sa": "साधयेत् भिषगुत्तमः",
+     "iast": "sādhayet bhiṣaguttamaḥ",
+     "en": "the best physician should cure",
+     "hi": "उत्तम वैद्य ठीक करे"
+    },
+    {
+     "sa": "अनेन विधियुक्तेन कर्मणा",
+     "iast": "anena vidhiyuktena karmaṇā",
+     "en": "by this methodical treatment",
+     "hi": "इस विधियुक्त कर्म से"
+    },
+    {
+     "sa": "यत् प्रकीर्तितम्",
+     "iast": "yat prakīrtitam",
+     "en": "which has been described",
+     "hi": "जो बताया गया"
+    }
+   ],
+   "english": "Here is a verse: the best physician should cure the curable doṣaja unmādas by the methodical treatment described above.",
+   "hindi": "यहाँ श्लोक है: उत्तम वैद्य ऊपर बताई विधियुक्त चिकित्सा से साध्य दोषज उन्मादों को ठीक करे।",
+   "explanation_en": "Summary verse.",
+   "explanation_hi": "सारांश श्लोक।",
+   "modern_correlation": null,
+   "key_terms": [
+    "unmāda cikitsā"
+   ],
+   "tags": [
+    "unmada",
+    "treatment"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.nidana.7.10",
+   "word_meanings": [
+    {
+     "sa": "यः तु दोषनिमित्तेभ्यः उन्मादेभ्यः",
+     "iast": "yaḥ tu doṣanimittebhyaḥ unmādebhyaḥ",
+     "en": "which, from the doṣa-caused unmādas",
+     "hi": "जो दोषज उन्मादों से"
+    },
+    {
+     "sa": "समुत्थानपूर्वरूपलिङ्गवेदनाउपशयविशेषसमन्वितः",
+     "iast": "samutthāna-pūrvarūpa-liṅga-vedanā-upaśaya-viśeṣa-samanvitaḥ",
+     "en": "distinct in cause, prodrome, signs, sensations and therapeutic response",
+     "hi": "कारण, पूर्वरूप, लक्षण, वेदना और उपशय में भिन्न"
+    },
+    {
+     "sa": "आगन्तुकम् आचक्षते",
+     "iast": "āgantukam ācakṣate",
+     "en": "is called āgantuja (exogenous)",
+     "hi": "आगन्तुज कहलाता है"
+    },
+    {
+     "sa": "पूर्वकृतम् कर्म अप्रशस्तम्",
+     "iast": "pūrvakṛtam karma apraśastam",
+     "en": "evil deeds of a past life",
+     "hi": "पूर्वजन्म के अशुभ कर्म"
+    },
+    {
+     "sa": "तस्य हेतुः प्रज्ञापराधः एव",
+     "iast": "tasya hetuḥ prajñāparādhaḥ eva",
+     "en": "its cause is prajñāparādha alone",
+     "hi": "उसका कारण प्रज्ञापराध ही है"
+    },
+    {
+     "sa": "देवऋषिपितृगन्धर्वयक्षराक्षसपिशाच",
+     "iast": "deva-ṛṣi-pitṛ-gandharva-yakṣa-rākṣasa-piśāca",
+     "en": "gods, sages, ancestors, gandharvas, yakṣas, rākṣasas, piśācas",
+     "hi": "देव, ऋषि, पितर, गन्धर्व, यक्ष, राक्षस, पिशाच"
+    },
+    {
+     "sa": "गुरुवृद्धसिद्धआचार्यपूज्यान् अवमत्य",
+     "iast": "guru-vṛddha-siddha-ācārya-pūjyān avamatya",
+     "en": "disrespecting teachers, elders, adepts, preceptors and the venerable",
+     "hi": "गुरु, वृद्ध, सिद्ध, आचार्य और पूज्यों का अपमान करके"
+    },
+    {
+     "sa": "आत्मना हतम्",
+     "iast": "ātmanā hatam",
+     "en": "self-destroyed",
+     "hi": "स्वयं से आहत"
+    },
+    {
+     "sa": "कुर्वन्ति उन्मत्तम्",
+     "iast": "kurvanti unmattam",
+     "en": "make insane",
+     "hi": "उन्मत्त कर देते हैं"
+    }
+   ],
+   "english": "The unmāda that is distinct from the doṣaja types in its cause, prodrome, signs, sensations and therapeutic response is called āgantuja (exogenous). Some hold that evil deeds of a previous life are its cause. But the revered Punarvasu Ātreya says its cause is prajñāparādha alone: due to prajñāparādha a person disrespects gods, sages, ancestors, gandharvas, yakṣas, rākṣasas, piśācas, teachers, elders, adepts, preceptors and other venerable persons, and does unwholesome things or undertakes other such evil acts; then the gods and others, striking him who has destroyed himself by his own actions, make him insane.",
+   "hindi": "जो उन्माद कारण, पूर्वरूप, लक्षण, वेदना और उपशय में दोषज उन्मादों से भिन्न हो, उसे आगन्तुज कहते हैं। कुछ लोग पूर्वजन्म के अशुभ कर्मों को इसका कारण मानते हैं। पर भगवान पुनर्वसु आत्रेय कहते हैं कि इसका कारण प्रज्ञापराध ही है: प्रज्ञापराध से व्यक्ति देव, ऋषि, पितर, गन्धर्व, यक्ष, राक्षस, पिशाच, गुरु, वृद्ध, सिद्ध, आचार्य और अन्य पूज्यों का अपमान करता है और अहित आचरण या ऐसे अन्य अशुभ कर्म करता है; तब देव आदि, अपने ही कर्म से आहत उस व्यक्ति पर प्रहार करके, उसे उन्मत्त कर देते हैं।",
+   "explanation_en": "Āgantuja unmāda: Ātreya identifies prajñāparādha as the root cause, even of 'supernatural' madness. This rationalistic emphasis is a key exam point.",
+   "explanation_hi": "आगन्तुज उन्माद: आत्रेय प्रज्ञापराध को मूल कारण मानते हैं, 'अलौकिक' उन्माद का भी। यह तर्कसंगत दृष्टि परीक्षा का मुख्य बिन्दु है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "āgantuja unmāda",
+    "prajñāparādha",
+    "bhūtonmāda"
+   ],
+   "tags": [
+    "unmada",
+    "etiology",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.nidana.7.11",
+   "word_meanings": [
+    {
+     "sa": "देवआदिप्रकोपनिमित्तेन",
+     "iast": "deva-ādi-prakopa-nimittena",
+     "en": "caused by the anger of gods etc.",
+     "hi": "देव आदि के प्रकोप से"
+    },
+    {
+     "sa": "आगन्तुकौन्मादेन पुरस्कृतस्य",
+     "iast": "āgantuka-unmādena puraskṛtasya",
+     "en": "of one about to be seized by exogenous unmāda",
+     "hi": "आगन्तुज उन्माद से ग्रस्त होने वाले के"
+    },
+    {
+     "sa": "पूर्वरूपाणि",
+     "iast": "pūrvarūpāṇi",
+     "en": "prodromal signs",
+     "hi": "पूर्वरूप"
+    },
+    {
+     "sa": "देवगोब्राह्मणतपस्विनाम् हिंसारुचित्वम्",
+     "iast": "deva-go-brāhmaṇa-tapasvinām hiṃsārucitvam",
+     "en": "desire to harm gods, cows, brāhmaṇas and ascetics",
+     "hi": "देव, गाय, ब्राह्मण और तपस्वियों की हिंसा में रुचि"
+    },
+    {
+     "sa": "कोपनत्वम्",
+     "iast": "kopanatvam",
+     "en": "irritability",
+     "hi": "क्रोधीपन"
+    },
+    {
+     "sa": "नृशंसाभिप्रायता",
+     "iast": "nṛśaṃsābhiprāyatā",
+     "en": "cruel intentions",
+     "hi": "क्रूर विचार"
+    },
+    {
+     "sa": "अरतिः",
+     "iast": "aratiḥ",
+     "en": "restlessness",
+     "hi": "अरति"
+    },
+    {
+     "sa": "ओजोवर्णछायाबलवपुषाम् उपतप्तिः",
+     "iast": "ojo-varṇa-chāyā-bala-vapuṣām upataptiḥ",
+     "en": "impairment of ojas, complexion, lustre, strength and body",
+     "hi": "ओज, वर्ण, छाया, बल और शरीर की हानि"
+    },
+    {
+     "sa": "स्वप्ने च देवादिभिः अभिभर्त्सनम्",
+     "iast": "svapne ca devādibhiḥ abhibhartsanam",
+     "en": "and being threatened by gods etc. in dreams",
+     "hi": "और स्वप्न में देव आदि द्वारा धमकाया जाना"
+    }
+   ],
+   "english": "The prodromal signs of āgantuja unmāda caused by the anger of gods and others are: a desire to harm gods, cows, brāhmaṇas and ascetics; irritability; cruel intentions; restlessness; impairment of ojas, complexion, lustre, strength and body; and being threatened or driven by gods and others in dreams. After this unmāda sets in.",
+   "hindi": "देव आदि के प्रकोप से होने वाले आगन्तुज उन्माद के पूर्वरूप हैं: देव, गाय, ब्राह्मण और तपस्वियों की हिंसा में रुचि; क्रोधीपन; क्रूर विचार; अरति; ओज, वर्ण, छाया, बल और शरीर की हानि; और स्वप्न में देव आदि द्वारा धमकाया या प्रेरित किया जाना। इसके बाद उन्माद उत्पन्न होता है।",
+   "explanation_en": "Pūrvarūpa of āgantuja unmāda.",
+   "explanation_hi": "आगन्तुज उन्माद के पूर्वरूप।",
+   "modern_correlation": null,
+   "key_terms": [
+    "āgantuja unmāda pūrvarūpa"
+   ],
+   "tags": [
+    "unmada"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.nidana.7.12",
+   "word_meanings": [
+    {
+     "sa": "उन्मादकराणाम् भूतानाम्",
+     "iast": "unmādakarāṇām bhūtānām",
+     "en": "of beings causing unmāda",
+     "hi": "उन्माद करने वाले भूतों का"
+    },
+    {
+     "sa": "आरम्भविशेषः",
+     "iast": "ārambhaviśeṣaḥ",
+     "en": "specific mode of onset",
+     "hi": "आरम्भ का विशेष ढंग"
+    },
+    {
+     "sa": "अवलोकयन्तः देवाः",
+     "iast": "avalokayantaḥ devāḥ",
+     "en": "gods by looking",
+     "hi": "देव देखकर"
+    },
+    {
+     "sa": "गुरुवृद्धसिद्धमहर्षयः अभिशपन्तः",
+     "iast": "guru-vṛddha-siddha-maharṣayaḥ abhiśapantaḥ",
+     "en": "teachers, elders, adepts and sages by cursing",
+     "hi": "गुरु, वृद्ध, सिद्ध और महर्षि शाप देकर"
+    },
+    {
+     "sa": "पितरः दर्शयन्तः",
+     "iast": "pitaraḥ darśayantaḥ",
+     "en": "ancestors by appearing",
+     "hi": "पितर दर्शन देकर"
+    },
+    {
+     "sa": "स्पृशन्तः गन्धर्वाः",
+     "iast": "spṛśantaḥ gandharvāḥ",
+     "en": "gandharvas by touching",
+     "hi": "गन्धर्व स्पर्श करके"
+    },
+    {
+     "sa": "समाविशन्तः यक्षाः",
+     "iast": "samāviśantaḥ yakṣāḥ",
+     "en": "yakṣas by entering",
+     "hi": "यक्ष प्रवेश करके"
+    },
+    {
+     "sa": "राक्षसाः तु आत्मगन्धम् आघ्रापयन्तः",
+     "iast": "rākṣasāḥ tu ātmagandham āghrāpayantaḥ",
+     "en": "rākṣasas by making one smell their odour",
+     "hi": "राक्षस अपनी गन्ध सुँघाकर"
+    },
+    {
+     "sa": "पिशाचाः पुनः आरुह्य वाहयन्तः",
+     "iast": "piśācāḥ punaḥ āruhya vāhayantaḥ",
+     "en": "piśācas by mounting and riding",
+     "hi": "पिशाच सवार होकर"
+    }
+   ],
+   "english": "The specific mode in which these beings cause unmāda is: gods by looking, teachers, elders, adepts and great sages by cursing, ancestors by appearing, gandharvas by touching, yakṣas by entering, rākṣasas by making the person smell their odour, and piśācas by mounting and riding the person.",
+   "hindi": "उन्माद करने वाले भूतों का आरम्भ का विशेष ढंग है: देव देखकर, गुरु, वृद्ध, सिद्ध और महर्षि शाप देकर, पितर दर्शन देकर, गन्धर्व स्पर्श करके, यक्ष प्रवेश करके, राक्षस अपनी गन्ध सुँघाकर, और पिशाच सवार होकर।",
+   "explanation_en": "Modes of graha āveśa (possession) in the classical framework. Sometimes asked as MCQ.",
+   "explanation_hi": "शास्त्रीय ढाँचे में ग्रह-आवेश के ढंग। कभी-कभी MCQ में पूछे जाते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "bhūtonmāda",
+    "graha āveśa"
+   ],
+   "tags": [
+    "unmada"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.nidana.7.13",
+   "word_meanings": [
+    {
+     "sa": "तस्य इमानि रूपाणि",
+     "iast": "tasya imāni rūpāṇi",
+     "en": "these are its features",
+     "hi": "इसके ये लक्षण हैं"
+    },
+    {
+     "sa": "अतिआत्मबलवीर्यपौरुषपराक्रम",
+     "iast": "ati-ātma-bala-vīrya-pauruṣa-parākrama",
+     "en": "superhuman strength, vigour, manliness and valour",
+     "hi": "अपने से अधिक बल, वीर्य, पौरुष और पराक्रम"
+    },
+    {
+     "sa": "ग्रहणधारणस्मरणज्ञानवचनविज्ञानानि",
+     "iast": "grahaṇa-dhāraṇa-smaraṇa-jñāna-vacana-vijñānāni",
+     "en": "(beyond normal) grasping, retention, memory, knowledge, speech and understanding",
+     "hi": "(सामान्य से अधिक) ग्रहण, धारण, स्मरण, ज्ञान, वचन और विज्ञान"
+    },
+    {
+     "sa": "अनियतः च उन्मादकालः",
+     "iast": "aniyataḥ ca unmādakālaḥ",
+     "en": "and irregular timing of attacks",
+     "hi": "और उन्माद का अनियत समय"
+    }
+   ],
+   "english": "Its features are: strength, vigour, manliness, valour, grasping, retention, memory, knowledge, speech and understanding beyond the person's own (normal) capacity, and irregular timing of the attacks.",
+   "hindi": "इसके लक्षण हैं: व्यक्ति की अपनी (सामान्य) क्षमता से अधिक बल, वीर्य, पौरुष, पराक्रम, ग्रहण, धारण, स्मरण, ज्ञान, वचन और विज्ञान, और उन्माद के आक्रमण का अनियत समय।",
+   "explanation_en": "Features distinguishing āgantuja from doṣaja unmāda: superhuman abilities and irregular onset.",
+   "explanation_hi": "आगन्तुज को दोषज उन्माद से अलग करने वाले लक्षण: असाधारण क्षमताएँ और अनियत आक्रमण।",
+   "modern_correlation": null,
+   "key_terms": [
+    "āgantuja unmāda lakṣaṇa"
+   ],
+   "tags": [
+    "unmada",
+    "exam"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.nidana.7.14",
+   "word_meanings": [
+    {
+     "sa": "अभिगमनीयाः पुरुषाः भवन्ति",
+     "iast": "abhigamanīyāḥ puruṣāḥ bhavanti",
+     "en": "persons become vulnerable to attack",
+     "hi": "व्यक्ति आक्रमण योग्य हो जाते हैं"
+    },
+    {
+     "sa": "पापस्य कर्मणः समारम्भे",
+     "iast": "pāpasya karmaṇaḥ samārambhe",
+     "en": "when beginning an evil act",
+     "hi": "पाप कर्म आरम्भ करने पर"
+    },
+    {
+     "sa": "पूर्वकृतस्य कर्मणः परिणामकाले",
+     "iast": "pūrvakṛtasya karmaṇaḥ pariṇāmakāle",
+     "en": "when past deeds ripen",
+     "hi": "पूर्वकृत कर्म के फलित होने पर"
+    },
+    {
+     "sa": "एकस्य शून्यगृहवासे",
+     "iast": "ekasya śūnyagṛhavāse",
+     "en": "staying alone in an empty house",
+     "hi": "सूने घर में अकेले रहने पर"
+    },
+    {
+     "sa": "चतुष्पथाधिष्ठाने",
+     "iast": "catuṣpathādhiṣṭhāne",
+     "en": "staying at crossroads",
+     "hi": "चौराहे पर रहने पर"
+    },
+    {
+     "sa": "सन्ध्यावेलायाम्",
+     "iast": "sandhyāvelāyām",
+     "en": "at twilight",
+     "hi": "सन्ध्या के समय"
+    },
+    {
+     "sa": "अप्रयतभावे",
+     "iast": "aprayatabhāve",
+     "en": "in an impure state",
+     "hi": "अपवित्र अवस्था में"
+    },
+    {
+     "sa": "रजस्वलाभिगमने",
+     "iast": "rajasvalābhigamane",
+     "en": "intercourse during menstruation",
+     "hi": "रजस्वला से समागम"
+    },
+    {
+     "sa": "नियमव्रतब्रह्मचर्यभङ्गे",
+     "iast": "niyama-vrata-brahmacarya-bhaṅge",
+     "en": "breaking disciplines, vows or celibacy",
+     "hi": "नियम, व्रत, ब्रह्मचर्य भंग करने पर"
+    },
+    {
+     "sa": "महाहवे",
+     "iast": "mahāhave",
+     "en": "in a great battle",
+     "hi": "महायुद्ध में"
+    },
+    {
+     "sa": "देशकुलपुरविनाशे",
+     "iast": "deśa-kula-pura-vināśe",
+     "en": "destruction of country, family or city",
+     "hi": "देश, कुल, नगर के नाश पर"
+    },
+    {
+     "sa": "स्त्रियाः प्रजननकाले",
+     "iast": "striyāḥ prajananakāle",
+     "en": "at the time of childbirth",
+     "hi": "प्रसव के समय"
+    },
+    {
+     "sa": "श्मशान",
+     "iast": "śmaśāna",
+     "en": "cremation ground",
+     "hi": "श्मशान"
+    },
+    {
+     "sa": "अभिघातकालाः",
+     "iast": "abhighātakālāḥ",
+     "en": "times of attack",
+     "hi": "आक्रमण के काल"
+    }
+   ],
+   "english": "Persons become vulnerable to attack by gods, sages, ancestors, gandharvas, yakṣas, rākṣasas, piśācas, teachers, elders or adepts at the following times: when beginning an evil act; when the fruit of past deeds ripens; when living alone in an empty house or staying at crossroads; at twilight; in an impure state; on festival junctures; during sexual intercourse or intercourse with a menstruating woman; when study, offerings, auspicious rites or oblations are performed improperly; on breaking disciplines, vows or celibacy; in a great battle; at the destruction of country, family or city; at the approach of a great planet (eclipse); for a woman at the time of childbirth; on touching various inauspicious or impure beings; after emesis, purgation or bleeding; when impure or unclean and visiting shrines or temples; while eating leftovers of meat, honey, sesame, jaggery or wine; when naked; when going at night to towns, cities, crossroads, gardens, cremation grounds or slaughter places; on insulting brāhmaṇas, teachers, gods, ascetics or the venerable; on transgressing religious teachings; or on beginning any other evil act. Thus the times of attack have been described.",
+   "hindi": "व्यक्ति इन समयों पर देव, ऋषि, पितर, गन्धर्व, यक्ष, राक्षस, पिशाच, गुरु, वृद्ध या सिद्धों के आक्रमण योग्य हो जाते हैं: पाप कर्म आरम्भ करने पर; पूर्वकृत कर्म फलित होने पर; सूने घर में अकेले रहने या चौराहे पर ठहरने पर; सन्ध्या के समय; अपवित्र अवस्था में; पर्व-सन्धियों पर; मैथुन या रजस्वला से समागम पर; अध्ययन, बलि, मंगल या होम के विधिहीन प्रयोग पर; नियम, व्रत, ब्रह्मचर्य भंग करने पर; महायुद्ध में; देश, कुल, नगर के नाश पर; ग्रहण के समय; स्त्री के प्रसव काल में; विविध अशुभ और अपवित्र भूतों के स्पर्श पर; वमन, विरेचन या रक्तस्राव के बाद; अपवित्र अवस्था में चैत्य या देवालय जाने पर; मांस, मधु, तिल, गुड़ या मद्य का जूठा खाते समय; नग्न होने पर; रात में नगर, निगम, चौराहे, उपवन, श्मशान या वधस्थल जाने पर; ब्राह्मण, गुरु, देव, यति या पूज्यों के अपमान पर; धर्म-कथा के उल्लंघन पर; या अन्य किसी अशुभ कर्म के आरम्भ पर। इस प्रकार आक्रमण के काल बताए गए।",
+   "explanation_en": "Abhighāta kāla (vulnerable times) for āgantuja unmāda. Many involve stress, isolation, physiological vulnerability (childbirth, after śodhana) or moral transgression.",
+   "explanation_hi": "आगन्तुज उन्माद के अभिघात काल (असुरक्षित समय)। इनमें कई में तनाव, एकाकीपन, शारीरिक दुर्बलता (प्रसव, शोधन के बाद) या नैतिक उल्लंघन है।",
+   "modern_correlation": {
+    "en": "Some listed vulnerable periods, such as the postpartum period, war and catastrophe, bereavement and isolation, are recognised in modern psychiatry as periods of increased risk for acute mental disorders (e.g. postpartum psychosis, trauma-related disorders).",
+    "hi": "बताए गए कुछ असुरक्षित समय, जैसे प्रसवोत्तर काल, युद्ध और आपदा, शोक और एकाकीपन, आधुनिक मनोचिकित्सा में तीव्र मानसिक रोगों के बढ़े जोखिम के समय माने जाते हैं (जैसे पोस्टपार्टम साइकोसिस, ट्रॉमा-सम्बन्धी विकार)।"
+   },
+   "key_terms": [
+    "abhighāta kāla",
+    "āgantuja unmāda"
+   ],
+   "tags": [
+    "unmada",
+    "etiology"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.nidana.7.15",
+   "word_meanings": [
+    {
+     "sa": "त्रिविधम्",
+     "iast": "trividham",
+     "en": "threefold",
+     "hi": "तीन प्रकार का"
+    },
+    {
+     "sa": "उन्मादकराणाम् भूतानाम्",
+     "iast": "unmādakarāṇām bhūtānām",
+     "en": "of beings causing unmāda",
+     "hi": "उन्माद करने वाले भूतों का"
+    },
+    {
+     "sa": "उन्मादने प्रयोजनम्",
+     "iast": "unmādane prayojanam",
+     "en": "purpose in causing unmāda",
+     "hi": "उन्मत्त करने का प्रयोजन"
+    },
+    {
+     "sa": "हिंसा",
+     "iast": "hiṃsā",
+     "en": "to harm",
+     "hi": "हिंसा"
+    },
+    {
+     "sa": "रतिः",
+     "iast": "ratiḥ",
+     "en": "for pleasure",
+     "hi": "रति (क्रीड़ा)"
+    },
+    {
+     "sa": "अभ्यर्चनम्",
+     "iast": "abhyarcanam",
+     "en": "to be worshipped",
+     "hi": "अभ्यर्चन (पूजा पाना)"
+    },
+    {
+     "sa": "उन्मत्तआचारविशेषलक्षणैः",
+     "iast": "unmatta-ācāra-viśeṣa-lakṣaṇaiḥ",
+     "en": "by the specific behaviour of the insane",
+     "hi": "उन्मत्त के विशेष आचरण से"
+    },
+    {
+     "sa": "अग्निम् प्रविशति",
+     "iast": "agnim praviśati",
+     "en": "enters fire",
+     "hi": "अग्नि में प्रवेश करता है"
+    },
+    {
+     "sa": "अप्सु निमज्जति",
+     "iast": "apsu nimajjati",
+     "en": "drowns in water",
+     "hi": "जल में डूबता है"
+    },
+    {
+     "sa": "स्थलात् श्वभ्रे वा पतति",
+     "iast": "sthalāt śvabhre vā patati",
+     "en": "falls from a height into a pit",
+     "hi": "ऊँचाई से गड्ढे में गिरता है"
+    },
+    {
+     "sa": "हन्ति आत्मानम्",
+     "iast": "hanti ātmānam",
+     "en": "injures himself",
+     "hi": "स्वयं को मारता है"
+    },
+    {
+     "sa": "प्राणवधार्थम्",
+     "iast": "prāṇavadhārtham",
+     "en": "for taking life",
+     "hi": "प्राण लेने के लिए"
+    },
+    {
+     "sa": "तम् असाध्यम् विद्यात्",
+     "iast": "tam asādhyam vidyāt",
+     "en": "know that as incurable",
+     "hi": "उसे असाध्य जानें"
+    },
+    {
+     "sa": "साध्यौ पुनः द्वौ इतरौ",
+     "iast": "sādhyau punaḥ dvau itarau",
+     "en": "the other two are curable",
+     "hi": "अन्य दो साध्य हैं"
+    }
+   ],
+   "english": "The beings that cause unmāda have three purposes: harm (hiṃsā), pleasure/play (rati) and seeking worship (abhyarcana). Their particular purpose is known from the specific behaviour of the insane person. One possessed for harm enters fire, drowns in water, falls from a height into a pit, strikes himself with weapons, whips, sticks, clods or fists, or does other things to take his own life; this type should be known as incurable. The other two are curable.",
+   "hindi": "उन्माद करने वाले भूतों के तीन प्रयोजन हैं: हिंसा, रति (क्रीड़ा) और अभ्यर्चन (पूजा पाना)। उनका विशेष प्रयोजन उन्मत्त व्यक्ति के विशेष आचरण से जाना जाता है। हिंसा के लिए ग्रस्त व्यक्ति अग्नि में प्रवेश करता है, जल में डूबता है, ऊँचाई से गड्ढे में गिरता है, शस्त्र, कोड़े, लकड़ी, ढेले या मुट्ठी से स्वयं को मारता है, या प्राण लेने के लिए अन्य कार्य करता है; इसे असाध्य जानें। अन्य दो साध्य हैं।",
+   "explanation_en": "Three prayojanas of bhūta: hiṃsā, rati, abhyarcana. Hiṃsārtha unmāda (with self-harm and suicidal behaviour) is asādhya. Frequently asked.",
+   "explanation_hi": "भूतों के तीन प्रयोजन: हिंसा, रति, अभ्यर्चन। हिंसार्थ उन्माद (आत्म-हानि और आत्मघाती व्यवहार सहित) असाध्य है। बहुत पूछा जाता है।",
+   "modern_correlation": {
+    "en": "The emphasis on self-harm and suicidal behaviour as a sign of the gravest form agrees with modern psychiatry, where suicidal behaviour indicates high risk and requires urgent care.",
+    "hi": "आत्म-हानि और आत्मघाती व्यवहार को सबसे गम्भीर रूप का लक्षण मानना आधुनिक मनोचिकित्सा से मेल खाता है, जहाँ आत्मघाती व्यवहार उच्च जोखिम दर्शाता है और तुरन्त देखभाल आवश्यक है।"
+   },
+   "key_terms": [
+    "hiṃsā",
+    "rati",
+    "abhyarcana",
+    "asādhya unmāda"
+   ],
+   "tags": [
+    "unmada",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.nidana.7.16",
+   "word_meanings": [
+    {
+     "sa": "तयोः साधनानि",
+     "iast": "tayoḥ sādhanāni",
+     "en": "treatments for those two",
+     "hi": "उन दोनों की चिकित्सा"
+    },
+    {
+     "sa": "मन्त्र",
+     "iast": "mantra",
+     "en": "incantations",
+     "hi": "मन्त्र"
+    },
+    {
+     "sa": "औषधि",
+     "iast": "auṣadhi",
+     "en": "herbs",
+     "hi": "औषधि"
+    },
+    {
+     "sa": "मणि",
+     "iast": "maṇi",
+     "en": "gems",
+     "hi": "मणि"
+    },
+    {
+     "sa": "मङ्गल",
+     "iast": "maṅgala",
+     "en": "auspicious rites",
+     "hi": "मंगल"
+    },
+    {
+     "sa": "बलि",
+     "iast": "bali",
+     "en": "offerings",
+     "hi": "बलि"
+    },
+    {
+     "sa": "उपहार",
+     "iast": "upahāra",
+     "en": "gifts",
+     "hi": "उपहार"
+    },
+    {
+     "sa": "होम",
+     "iast": "homa",
+     "en": "oblations",
+     "hi": "होम"
+    },
+    {
+     "sa": "नियम",
+     "iast": "niyama",
+     "en": "disciplines",
+     "hi": "नियम"
+    },
+    {
+     "sa": "व्रत",
+     "iast": "vrata",
+     "en": "vows",
+     "hi": "व्रत"
+    },
+    {
+     "sa": "प्रायश्चित्त",
+     "iast": "prāyaścitta",
+     "en": "expiation",
+     "hi": "प्रायश्चित्त"
+    },
+    {
+     "sa": "उपवास",
+     "iast": "upavāsa",
+     "en": "fasting",
+     "hi": "उपवास"
+    },
+    {
+     "sa": "स्वस्त्ययन",
+     "iast": "svastyayana",
+     "en": "benedictory rites",
+     "hi": "स्वस्त्ययन"
+    },
+    {
+     "sa": "प्रणिपात",
+     "iast": "praṇipāta",
+     "en": "prostration",
+     "hi": "प्रणिपात"
+    },
+    {
+     "sa": "गमन",
+     "iast": "gamana",
+     "en": "pilgrimage",
+     "hi": "गमन (तीर्थयात्रा)"
+    }
+   ],
+   "english": "The treatments for those two (curable) types are incantations, herbs, gems, auspicious rites, offerings, gifts, oblations, disciplines, vows, expiation, fasting, benedictory rites, prostration, pilgrimage and the like.",
+   "hindi": "उन दोनों (साध्य) प्रकारों की चिकित्सा है: मन्त्र, औषधि, मणि, मंगल, बलि, उपहार, होम, नियम, व्रत, प्रायश्चित्त, उपवास, स्वस्त्ययन, प्रणिपात, तीर्थगमन आदि।",
+   "explanation_en": "Daivavyapāśraya cikitsā for āgantuja unmāda. Compare Su 11.54 for its definition.",
+   "explanation_hi": "आगन्तुज उन्माद के लिए दैवव्यपाश्रय चिकित्सा। परिभाषा के लिए सू। 11.54 देखें।",
+   "modern_correlation": null,
+   "key_terms": [
+    "daivavyapāśraya cikitsā",
+    "mantra",
+    "maṇi",
+    "homa"
+   ],
+   "tags": [
+    "unmada",
+    "treatment",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.nidana.7.17",
+   "word_meanings": [
+    {
+     "sa": "एवम् एते पञ्च उन्मादाः",
+     "iast": "evam ete pañca unmādāḥ",
+     "en": "thus these five unmādas",
+     "hi": "इस प्रकार ये पाँच उन्माद"
+    },
+    {
+     "sa": "व्याख्याताः भवन्ति",
+     "iast": "vyākhyātāḥ bhavanti",
+     "en": "have been explained",
+     "hi": "बताए गए"
+    }
+   ],
+   "english": "Thus these five types of unmāda have been explained.",
+   "hindi": "इस प्रकार ये पाँच उन्माद बताए गए।",
+   "explanation_en": "Summary sentence.",
+   "explanation_hi": "सारांश वाक्य।",
+   "modern_correlation": null,
+   "key_terms": [
+    "pañca unmāda"
+   ],
+   "tags": [
+    "unmada"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.nidana.7.18",
+   "word_meanings": [
+    {
+     "sa": "ते तु खलु",
+     "iast": "te tu khalu",
+     "en": "but these",
+     "hi": "परन्तु ये"
+    },
+    {
+     "sa": "निजआगन्तुविशेषेण",
+     "iast": "nija-āgantu-viśeṣeṇa",
+     "en": "by distinction of endogenous and exogenous",
+     "hi": "निज और आगन्तु के भेद से"
+    },
+    {
+     "sa": "साध्यअसाध्यविशेषेण च",
+     "iast": "sādhya-asādhya-viśeṣeṇa ca",
+     "en": "and by curable and incurable",
+     "hi": "और साध्य-असाध्य के भेद से"
+    },
+    {
+     "sa": "प्रविभज्यमानाः",
+     "iast": "pravibhajyamānāḥ",
+     "en": "when divided",
+     "hi": "विभाजित करने पर"
+    },
+    {
+     "sa": "पञ्च सन्तः द्वौ एव भवतः",
+     "iast": "pañca santaḥ dvau eva bhavataḥ",
+     "en": "being five, become only two",
+     "hi": "पाँच होकर भी दो ही होते हैं"
+    },
+    {
+     "sa": "परस्परम् अनुबध्नीतः",
+     "iast": "parasparam anubadhnītaḥ",
+     "en": "they may be associated with each other",
+     "hi": "एक-दूसरे से जुड़ सकते हैं"
+    },
+    {
+     "sa": "संसृष्टम् पूर्वरूपम् लिङ्गम् च",
+     "iast": "saṃsṛṣṭam pūrvarūpam liṅgam ca",
+     "en": "combined prodromes and signs",
+     "hi": "मिश्रित पूर्वरूप और लक्षण"
+    },
+    {
+     "sa": "असाध्यसंयोगम्",
+     "iast": "asādhyasaṃyogam",
+     "en": "combination with an incurable one",
+     "hi": "असाध्य का संयोग"
+    },
+    {
+     "sa": "साधनसंयोगम्",
+     "iast": "sādhanasaṃyogam",
+     "en": "combination of treatments",
+     "hi": "चिकित्साओं का संयोग"
+    }
+   ],
+   "english": "Though five, when divided as endogenous (nija) and exogenous (āgantu), and as curable and incurable, they become only two. Sometimes the two are associated with each other through the combination of the causes described; then the prodromes and signs are mixed. A combination involving an incurable type, or of curable with incurable, should be known as incurable; a combination of curable types is curable, and its treatment is the combination of the respective treatments.",
+   "hindi": "पाँच होते हुए भी निज और आगन्तु, तथा साध्य और असाध्य के भेद से ये दो ही होते हैं। कभी-कभी बताए कारणों के मिलने से दोनों एक-दूसरे से जुड़ जाते हैं; तब पूर्वरूप और लक्षण मिश्रित होते हैं। असाध्य से युक्त, या साध्य-असाध्य का संयोग असाध्य जानें; साध्य प्रकारों का संयोग साध्य है, और उसकी चिकित्सा सम्बन्धित चिकित्साओं का संयोग है।",
+   "explanation_en": "Two-fold grouping: nija vs āgantuja, sādhya vs asādhya; mixed forms.",
+   "explanation_hi": "दो प्रकार का समूहन: निज बनाम आगन्तुज, साध्य बनाम असाध्य; मिश्रित रूप।",
+   "modern_correlation": null,
+   "key_terms": [
+    "nija",
+    "āgantuja",
+    "sādhya",
+    "asādhya"
+   ],
+   "tags": [
+    "unmada"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.nidana.7.19",
+   "word_meanings": [
+    {
+     "sa": "न एव देवाः",
+     "iast": "na eva devāḥ",
+     "en": "neither gods",
+     "hi": "न देव"
+    },
+    {
+     "sa": "न गन्धर्वाः",
+     "iast": "na gandharvāḥ",
+     "en": "nor gandharvas",
+     "hi": "न गन्धर्व"
+    },
+    {
+     "sa": "न पिशाचाः न राक्षसाः",
+     "iast": "na piśācāḥ na rākṣasāḥ",
+     "en": "nor piśācas nor rākṣasas",
+     "hi": "न पिशाच न राक्षस"
+    },
+    {
+     "sa": "न च अन्ये",
+     "iast": "na ca anye",
+     "en": "nor others",
+     "hi": "न अन्य"
+    },
+    {
+     "sa": "स्वयम् अक्लिष्टम्",
+     "iast": "svayam akliṣṭam",
+     "en": "one who is not himself at fault",
+     "hi": "जो स्वयं दोषी न हो"
+    },
+    {
+     "sa": "उपक्लिश्नन्ति मानवम्",
+     "iast": "upakliśnanti mānavam",
+     "en": "afflict a person",
+     "hi": "मनुष्य को पीड़ित करते हैं"
+    }
+   ],
+   "english": "Neither gods, nor gandharvas, nor piśācas, nor rākṣasas, nor any others afflict a person who has not (by his own conduct) brought affliction on himself.",
+   "hindi": "न देव, न गन्धर्व, न पिशाच, न राक्षस, न कोई अन्य, उस मनुष्य को पीड़ित करते हैं जिसने (अपने आचरण से) स्वयं को कष्ट में न डाला हो।",
+   "explanation_en": "A remarkable rationalist statement: supernatural agents cannot harm one who has not erred. Very frequently quoted.",
+   "explanation_hi": "उल्लेखनीय तर्कसंगत कथन: अलौकिक शक्तियाँ उसे हानि नहीं पहुँचा सकतीं जिसने गलती न की हो। बहुत उद्धृत।",
+   "modern_correlation": null,
+   "key_terms": [
+    "prajñāparādha",
+    "svakarma"
+   ],
+   "tags": [
+    "unmada",
+    "ethics",
+    "quotable",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.nidana.7.20",
+   "word_meanings": [
+    {
+     "sa": "ये तु एनम् अनुवर्तन्ते",
+     "iast": "ye tu enam anuvartante",
+     "en": "those who follow him",
+     "hi": "जो उसका अनुसरण करते हैं"
+    },
+    {
+     "sa": "क्लिश्यमानम् स्वकर्मणा",
+     "iast": "kliśyamānam svakarmaṇā",
+     "en": "suffering by his own deeds",
+     "hi": "अपने कर्म से पीड़ित"
+    },
+    {
+     "sa": "न सः तद्धेतुकः क्लेशः",
+     "iast": "na saḥ taddhetukaḥ kleśaḥ",
+     "en": "the suffering is not caused by them",
+     "hi": "वह कष्ट उनके कारण नहीं"
+    },
+    {
+     "sa": "न हि अस्ति कृतकृत्यता",
+     "iast": "na hi asti kṛtakṛtyatā",
+     "en": "for there is no transferring of what is done",
+     "hi": "क्योंकि किए का स्थानान्तरण नहीं"
+    }
+   ],
+   "english": "Those (beings) that follow a person suffering from his own deeds are not the cause of that suffering; for one's deeds cannot be done by another.",
+   "hindi": "जो (भूत) अपने कर्म से पीड़ित व्यक्ति के पीछे लगते हैं, वे उस कष्ट के कारण नहीं; क्योंकि अपना किया दूसरे द्वारा नहीं होता।",
+   "explanation_en": "The real cause is one's own karma.",
+   "explanation_hi": "वास्तविक कारण अपना कर्म है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "svakarma"
+   ],
+   "tags": [
+    "unmada",
+    "ethics"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.nidana.7.21",
+   "word_meanings": [
+    {
+     "sa": "प्रज्ञापराधात् सम्भूते",
+     "iast": "prajñāparādhāt sambhūte",
+     "en": "arising from prajñāparādha",
+     "hi": "प्रज्ञापराध से उत्पन्न"
+    },
+    {
+     "sa": "व्याधौ कर्मजे आत्मनः",
+     "iast": "vyādhau karmaje ātmanaḥ",
+     "en": "in a disease born of one's own deeds",
+     "hi": "अपने कर्मज रोग में"
+    },
+    {
+     "sa": "न अभिशंसेत् बुधः",
+     "iast": "na abhiśaṃset budhaḥ",
+     "en": "the wise should not blame",
+     "hi": "बुद्धिमान दोष न दे"
+    },
+    {
+     "sa": "देवान् न पितॄन् न अपि राक्षसान्",
+     "iast": "devān na pitṝn na api rākṣasān",
+     "en": "gods, ancestors or rākṣasas",
+     "hi": "देवों, पितरों या राक्षसों को"
+    }
+   ],
+   "english": "In a disease born of one's own deeds through prajñāparādha, the wise should not blame gods, ancestors or rākṣasas.",
+   "hindi": "प्रज्ञापराध से उत्पन्न अपने कर्मज रोग में बुद्धिमान को देवों, पितरों या राक्षसों को दोष नहीं देना चाहिए।",
+   "explanation_en": "Personal responsibility for health.",
+   "explanation_hi": "स्वास्थ्य के प्रति व्यक्तिगत उत्तरदायित्व।",
+   "modern_correlation": null,
+   "key_terms": [
+    "prajñāparādha"
+   ],
+   "tags": [
+    "unmada",
+    "ethics"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.nidana.7.22",
+   "word_meanings": [
+    {
+     "sa": "आत्मानम् एव मन्येत",
+     "iast": "ātmānam eva manyeta",
+     "en": "one should consider oneself alone",
+     "hi": "अपने को ही माने"
+    },
+    {
+     "sa": "कर्तारम् सुखदुःखयोः",
+     "iast": "kartāram sukhaduḥkhayoḥ",
+     "en": "the doer of one's pleasure and pain",
+     "hi": "सुख-दुःख का कर्ता"
+    },
+    {
+     "sa": "तस्मात् श्रेयस्करम् मार्गम्",
+     "iast": "tasmāt śreyaskaram mārgam",
+     "en": "therefore the beneficial path",
+     "hi": "इसलिए कल्याणकारी मार्ग"
+    },
+    {
+     "sa": "प्रतिपद्येत",
+     "iast": "pratipadyeta",
+     "en": "should follow",
+     "hi": "अपनाए"
+    },
+    {
+     "sa": "न त्रसेत्",
+     "iast": "na traset",
+     "en": "should not fear",
+     "hi": "डरे नहीं"
+    }
+   ],
+   "english": "One should consider oneself alone the maker of one's pleasure and pain; therefore one should follow the beneficial path and not be afraid.",
+   "hindi": "अपने को ही सुख-दुःख का कर्ता मानना चाहिए; इसलिए कल्याणकारी मार्ग अपनाना चाहिए और डरना नहीं चाहिए।",
+   "explanation_en": "Empowering message: follow the wholesome path without fear.",
+   "explanation_hi": "प्रेरक सन्देश: बिना डरे हितकर मार्ग अपनाएँ।",
+   "modern_correlation": null,
+   "key_terms": [
+    "svakarma",
+    "śreyas"
+   ],
+   "tags": [
+    "unmada",
+    "ethics",
+    "quotable"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.nidana.7.23",
+   "word_meanings": [
+    {
+     "sa": "देवआदीनाम् अपचितिः",
+     "iast": "deva-ādīnām apacitiḥ",
+     "en": "respect for gods etc.",
+     "hi": "देव आदि का आदर"
+    },
+    {
+     "sa": "अहितानाम् च उपसेवनम्",
+     "iast": "ahitānām ca upasevanam",
+     "en": "and indulging in unwholesome things",
+     "hi": "और अहित का सेवन"
+    },
+    {
+     "sa": "ते च तेभ्यः विरोधः च",
+     "iast": "te ca tebhyaḥ virodhaḥ ca",
+     "en": "and (favour) from them and opposition",
+     "hi": "और उनसे (कृपा) और विरोध"
+    },
+    {
+     "sa": "सर्वम् आयतम् आत्मनि",
+     "iast": "sarvam āyatam ātmani",
+     "en": "all depends on oneself",
+     "hi": "सब अपने ऊपर निर्भर है"
+    }
+   ],
+   "english": "Respect for gods and others or indulgence in unwholesome things, and the resulting favour or hostility from them: all this depends on oneself.",
+   "hindi": "देव आदि का आदर या अहित का सेवन, और उनसे मिलने वाली कृपा या विरोध: यह सब अपने ऊपर निर्भर है।",
+   "explanation_en": "Everything rests on one's own conduct.",
+   "explanation_hi": "सब कुछ अपने आचरण पर निर्भर है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "svakarma"
+   ],
+   "tags": [
+    "unmada",
+    "ethics"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.nidana.7.24",
+   "word_meanings": [
+    {
+     "sa": "तत्र श्लोकः",
+     "iast": "tatra ślokaḥ",
+     "en": "here is the summary verse",
+     "hi": "यहाँ सारांश श्लोक है"
+    },
+    {
+     "sa": "संख्या",
+     "iast": "saṃkhyā",
+     "en": "number",
+     "hi": "संख्या"
+    },
+    {
+     "sa": "निमित्तम्",
+     "iast": "nimittam",
+     "en": "cause",
+     "hi": "निमित्त"
+    },
+    {
+     "sa": "प्राग्रूपम्",
+     "iast": "prāgrūpam",
+     "en": "prodrome",
+     "hi": "पूर्वरूप"
+    },
+    {
+     "sa": "लक्षणम्",
+     "iast": "lakṣaṇam",
+     "en": "signs",
+     "hi": "लक्षण"
+    },
+    {
+     "sa": "साध्यता न च",
+     "iast": "sādhyatā na ca",
+     "en": "curability and incurability",
+     "hi": "साध्यता और असाध्यता"
+    },
+    {
+     "sa": "उन्मादानाम् निदाने अस्मिन्",
+     "iast": "unmādānām nidāne asmin",
+     "en": "in this chapter on the diagnosis of unmāda",
+     "hi": "इस उन्माद निदान में"
+    },
+    {
+     "sa": "क्रियासूत्रम् च भाषितम्",
+     "iast": "kriyāsūtram ca bhāṣitam",
+     "en": "and the outline of treatment have been stated",
+     "hi": "और चिकित्सा सूत्र कहा गया"
+    }
+   ],
+   "english": "Summary verse: the number, causes, prodromes, signs, curability and incurability, and the outline of treatment of unmāda have been stated in this chapter on its diagnosis.",
+   "hindi": "सारांश श्लोक: इस उन्माद निदान अध्याय में उन्माद की संख्या, निमित्त, पूर्वरूप, लक्षण, साध्यता-असाध्यता और चिकित्सा सूत्र बताए गए हैं।",
+   "explanation_en": "Summary of the chapter.",
+   "explanation_hi": "अध्याय का सारांश।",
+   "modern_correlation": null,
+   "key_terms": [
+    "saṃgraha"
+   ],
+   "tags": [
+    "summary"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  }
+ ]
+}

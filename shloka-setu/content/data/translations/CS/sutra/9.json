@@ -9,7 +9,7 @@
   "title_en": "The shorter chapter on the four limbs of treatment",
   "title_hi": "खुड्डाक चतुष्पाद अध्याय (चिकित्सा के चार पादों पर लघु अध्याय)",
   "summary_en": "This chapter opens the Nirdeśa-catuṣka (Su 9-12). It defines the four limbs of treatment (cikitsā-catuṣpāda): physician (bhiṣak), drugs (dravya), attendant (upasthātā) and patient (rogī), each with four qualities, giving sixteen qualities in all. It gives the classic definitions of disease as imbalance of dhātus (dhātu-vaiṣamya, duḥkha) and health as their balance (dhātu-sāmya, sukha), and of treatment as the activity of the four limbs aimed at restoring balance. The physician is declared the chief limb because he diagnoses, directs and administers, illustrated by the similes of the cook, the conqueror and the potter. The chapter warns strongly against ignorant physicians and pseudo-physicians, describes the prāṇābhisara and rājārha physician, lists the six qualities of the ideal physician, compares science to light and intellect to the eye, and closes with the fourfold attitude of the physician (maitrī, kāruṇya, prīti, upekṣā).",
-  "summary_hi": "यह अध्याय निर्देश-चतुष्क (सू. 9-12) की शुरुआत करता है। इसमें चिकित्सा के चार पाद बताए गए हैं: वैद्य, द्रव्य (औषध), परिचारक और रोगी; प्रत्येक के चार गुण, कुल सोलह गुण। इसमें रोग की प्रसिद्ध परिभाषा (धातुवैषम्य, दुःख), स्वास्थ्य की परिभाषा (धातुसाम्य, सुख) और चिकित्सा की परिभाषा (धातुसाम्य के लिए चारों पादों की प्रवृत्ति) दी गई है। वैद्य को प्रधान पाद कहा गया है क्योंकि वह रोग को जानता, निर्देश देता और औषध का प्रयोग करता है; इसे रसोइये, विजेता और कुम्हार की उपमाओं से समझाया गया है। अध्याय अज्ञानी और नकली वैद्यों के विरुद्ध कड़ी चेतावनी देता है, प्राणाभिसर और राजार्ह वैद्य का वर्णन करता है, आदर्श वैद्य के छह गुण बताता है, शास्त्र को प्रकाश और बुद्धि को आँख कहता है, और वैद्य की चतुर्विध वृत्ति (मैत्री, करुणा, प्रीति, उपेक्षा) से समाप्त होता है।",
+  "summary_hi": "यह अध्याय निर्देश-चतुष्क (सू। 9-12) की शुरुआत करता है। इसमें चिकित्सा के चार पाद बताए गए हैं: वैद्य, द्रव्य (औषध), परिचारक और रोगी; प्रत्येक के चार गुण, कुल सोलह गुण। इसमें रोग की प्रसिद्ध परिभाषा (धातुवैषम्य, दुःख), स्वास्थ्य की परिभाषा (धातुसाम्य, सुख) और चिकित्सा की परिभाषा (धातुसाम्य के लिए चारों पादों की प्रवृत्ति) दी गई है। वैद्य को प्रधान पाद कहा गया है क्योंकि वह रोग को जानता, निर्देश देता और औषध का प्रयोग करता है; इसे रसोइये, विजेता और कुम्हार की उपमाओं से समझाया गया है। अध्याय अज्ञानी और नकली वैद्यों के विरुद्ध कड़ी चेतावनी देता है, प्राणाभिसर और राजार्ह वैद्य का वर्णन करता है, आदर्श वैद्य के छह गुण बताता है, शास्त्र को प्रकाश और बुद्धि को आँख कहता है, और वैद्य की चतुर्विध वृत्ति (मैत्री, करुणा, प्रीति, उपेक्षा) से समाप्त होता है।",
   "key_concepts": [
    "cikitsā-catuṣpāda",
    "ṣoḍaśa guṇa of the four limbs",
@@ -37,7 +37,7 @@
    "चतुर्विध वैद्यवृत्ति: मैत्री, करुणा, प्रीति, उपेक्षा (सू. 9.26)।"
   ],
   "syllabus_refs": [
-   "AyUG-SA2"
+   "AyUG-SA1"
   ],
   "review_status": "ai_draft"
  },
@@ -79,7 +79,7 @@
    "english": "Now we shall explain the chapter named Khuḍḍāka-catuṣpāda, the shorter chapter on the four limbs of treatment.",
    "hindi": "अब हम 'खुड्डाक चतुष्पाद' नामक अध्याय की व्याख्या करेंगे, अर्थात् चिकित्सा के चार पादों पर छोटा अध्याय।",
    "explanation_en": "'Khuḍḍāka' means small or short (compare Hindi 'chhota'); this chapter is the shorter treatment of the catuṣpāda, while the next chapter, Mahā-catuṣpāda (Su 10), is the longer one. These two chapters begin the Nirdeśa-catuṣka (Su 9-12), the tetrad of instructions.",
-   "explanation_hi": "'खुड्डाक' का अर्थ है छोटा; यह चतुष्पाद का छोटा अध्याय है, जबकि अगला अध्याय महाचतुष्पाद (सू. 10) बड़ा है। ये दोनों अध्याय निर्देश-चतुष्क (सू. 9-12) की शुरुआत करते हैं।",
+   "explanation_hi": "'खुड्डाक' का अर्थ है छोटा; यह चतुष्पाद का छोटा अध्याय है, जबकि अगला अध्याय महाचतुष्पाद (सू। 10) बड़ा है। ये दोनों अध्याय निर्देश-चतुष्क (सू। 9-12) की शुरुआत करते हैं।",
    "modern_correlation": null,
    "key_terms": [
     "catuṣpāda",
@@ -276,7 +276,7 @@
    "english": "Disease (vikāra) is the imbalance of the dhātus; their equilibrium is called health (prakṛti). Health is known as happiness (sukha), and disease is suffering (duḥkha).",
    "hindi": "धातुओं की विषमता विकार (रोग) है और उनका साम्य प्रकृति (स्वास्थ्य) कहलाता है। आरोग्य को सुख कहते हैं और विकार दुःख ही है।",
    "explanation_en": "A key definition: here 'dhātu' means all body-sustaining elements, including doṣas, dhātus and malas (Cakrapāṇi). Health = dhātu-sāmya = sukha; disease = dhātu-vaiṣamya = duḥkha. The aim of treatment (v. 5) is to restore dhātu-sāmya. Compare Suśruta's fuller definition of svastha (Su. Sū. 15.41: samadoṣaḥ samāgniś ca...). Very commonly asked.",
-   "explanation_hi": "मुख्य परिभाषा: यहाँ 'धातु' का अर्थ शरीर को धारण करने वाले सभी तत्व है, जिनमें दोष, धातु और मल सम्मिलित हैं (चक्रपाणि)। स्वास्थ्य = धातुसाम्य = सुख; रोग = धातुवैषम्य = दुःख। चिकित्सा का लक्ष्य (श्लोक 5) धातुसाम्य लाना है। सुश्रुत की 'समदोषः समाग्निश्च...' (सु. सू. 15.41) परिभाषा से तुलना करें।",
+   "explanation_hi": "मुख्य परिभाषा: यहाँ 'धातु' का अर्थ शरीर को धारण करने वाले सभी तत्व है, जिनमें दोष, धातु और मल सम्मिलित हैं (चक्रपाणि)। स्वास्थ्य = धातुसाम्य = सुख; रोग = धातुवैषम्य = दुःख। चिकित्सा का लक्ष्य (श्लोक 5) धातुसाम्य लाना है। सुश्रुत की 'समदोषः समाग्निश्च...' (सु। सू। 15.41) परिभाषा से तुलना करें।",
    "modern_correlation": {
     "en": "The idea of health as balance and disease as imbalance is often compared with the modern concept of homeostasis, the maintenance of a stable internal environment (temperature, pH, fluids, electrolytes) by regulatory systems. The comparison is conceptual; dhātu-sāmya is a broader classical notion.",
     "hi": "स्वास्थ्य को सन्तुलन और रोग को असन्तुलन मानने की तुलना अक्सर आधुनिक 'होमियोस्टेसिस' से की जाती है, जिसमें नियामक तन्त्र आन्तरिक वातावरण (तापमान, pH, द्रव, इलेक्ट्रोलाइट) को स्थिर रखते हैं। यह वैचारिक तुलना है; धातुसाम्य एक व्यापक शास्त्रीय अवधारणा है।"
@@ -355,7 +355,7 @@
    "english": "When the dhātus are deranged, the activity of the four (physician and the others), endowed with good qualities, aimed at restoring the balance of the dhātus, is called treatment (cikitsā).",
    "hindi": "धातुओं के विकृत होने पर गुणयुक्त चारों (वैद्य आदि) की धातुसाम्य के लिए की गई प्रवृत्ति (प्रयत्न) 'चिकित्सा' कहलाती है।",
    "explanation_en": "This is Caraka's definition of cikitsā: it is not just giving medicine, but the combined, purposeful activity of all four limbs to restore dhātu-sāmya. Compare Su 16.34-35, which says treatment also prevents new imbalance. Learn v. 3, 4 and 5 together as one exam answer.",
-   "explanation_hi": "यह चरक की चिकित्सा की परिभाषा है: चिकित्सा केवल औषध देना नहीं, बल्कि धातुसाम्य लाने के लिए चारों पादों की संयुक्त और उद्देश्यपूर्ण प्रवृत्ति है। सू. 16.34-35 से तुलना करें। श्लोक 3, 4 और 5 को एक साथ एक उत्तर के रूप में याद करें।",
+   "explanation_hi": "यह चरक की चिकित्सा की परिभाषा है: चिकित्सा केवल औषध देना नहीं, बल्कि धातुसाम्य लाने के लिए चारों पादों की संयुक्त और उद्देश्यपूर्ण प्रवृत्ति है। सू। 16.34-35 से तुलना करें। श्लोक 3, 4 और 5 को एक साथ एक उत्तर के रूप में याद करें।",
    "modern_correlation": {
     "en": "This resembles the modern view of treatment as a team effort (clinician, medicines, nursing and the patient) aimed at restoring normal physiological function rather than only suppressing symptoms.",
     "hi": "यह आधुनिक मत जैसा है कि उपचार एक टीम प्रयास है (चिकित्सक, औषधियाँ, नर्सिंग और रोगी), जिसका लक्ष्य केवल लक्षण दबाना नहीं बल्कि सामान्य शारीरिक कार्य को पुनः स्थापित करना है।"
@@ -587,7 +587,7 @@
    "english": "Knowledge of nursing care (upacāra-jñatā), skill (dākṣya), devotion to the patient (anurāga) and cleanliness (śauca): this group of four is the quality of the attendant.",
    "hindi": "सेवा-विधि का ज्ञान, दक्षता, रोगी के प्रति अनुराग और शौच: यह चार गुणों का समूह परिचारक में होना चाहिए।",
    "explanation_en": "The four qualities of the attendant (upasthātā/paricāraka). 'Bhartṛ' literally means master or supporter; here it refers to the patient whom the attendant serves. Note that dākṣya and śauca are common to both physician and attendant. Compare the fuller description of attendants in Su 15.7.",
-   "explanation_hi": "परिचारक के चार गुण। 'भर्ता' का शाब्दिक अर्थ स्वामी है; यहाँ इसका अर्थ वह रोगी है जिसकी सेवा परिचारक करता है। ध्यान दें कि दाक्ष्य और शौच वैद्य और परिचारक दोनों में समान हैं। सू. 15.7 में परिचारकों का विस्तृत वर्णन है।",
+   "explanation_hi": "परिचारक के चार गुण। 'भर्ता' का शाब्दिक अर्थ स्वामी है; यहाँ इसका अर्थ वह रोगी है जिसकी सेवा परिचारक करता है। ध्यान दें कि दाक्ष्य और शौच वैद्य और परिचारक दोनों में समान हैं। सू। 15.7 में परिचारकों का विस्तृत वर्णन है।",
    "modern_correlation": {
     "en": "These correspond to qualities expected in modern nursing: knowledge of patient care procedures, competence, compassionate commitment to the patient, and infection-control hygiene.",
     "hi": "ये आधुनिक नर्सिंग में अपेक्षित गुणों से मेल खाते हैं: रोगी-देखभाल की प्रक्रियाओं का ज्ञान, दक्षता, रोगी के प्रति करुणापूर्ण समर्पण, और संक्रमण-नियन्त्रण स्वच्छता।"
@@ -1413,7 +1413,7 @@
    "english": "Therefore the physician who is accomplished in these four, the science (śāstra), understanding its meaning (artha-vijñāna), its application (pravṛtti) and practical observation (karma-darśana), is called 'prāṇābhisara', the saviour of life.",
    "hindi": "इसलिए जो वैद्य इन चार में निपुण है: शास्त्र, उसके अर्थ का ज्ञान, प्रवृत्ति (प्रयोग) और कर्म-दर्शन (व्यावहारिक अनुभव), वह 'प्राणाभिसर' (प्राणों का रक्षक) कहलाता है।",
    "explanation_en": "Prāṇābhisara is the ideal physician, the opposite of 'rogābhisara' (bringer of disease) described in Su 29. The four requirements progress from reading the text, to understanding it, to applying it, to seeing it practised. Exam: 'Define prāṇābhisara vaidya' (Su 9.18; also Su 29.6-7).",
-   "explanation_hi": "प्राणाभिसर आदर्श वैद्य है, जो सू. 29 के 'रोगाभिसर' (रोग लाने वाले) का उलटा है। चार आवश्यकताएँ क्रम से हैं: शास्त्र पढ़ना, समझना, प्रयोग करना और प्रयोग होते देखना। परीक्षा: 'प्राणाभिसर वैद्य की परिभाषा' (सू. 9.18; सू. 29.6-7)।",
+   "explanation_hi": "प्राणाभिसर आदर्श वैद्य है, जो सू। 29 के 'रोगाभिसर' (रोग लाने वाले) का उलटा है। चार आवश्यकताएँ क्रम से हैं: शास्त्र पढ़ना, समझना, प्रयोग करना और प्रयोग होते देखना। परीक्षा: 'प्राणाभिसर वैद्य की परिभाषा' (सू। 9.18; सू। 29.6-7)।",
    "modern_correlation": {
     "en": "This progression from textbook knowledge to understanding, application and observed practice is similar to modern competency-based medical education, which combines theory with supervised clinical exposure.",
     "hi": "पाठ्य ज्ञान से समझ, प्रयोग और देखे गए अभ्यास तक का यह क्रम आधुनिक 'कम्पीटेंसी-बेस्ड मेडिकल एजुकेशन' जैसा है, जो सिद्धान्त को निगरानी में नैदानिक अनुभव के साथ जोड़ती है।"
@@ -1502,7 +1502,7 @@
    "english": "He who has fourfold knowledge of diseases, of their causes (hetu), signs and symptoms (liṅga), cure (praśamana) and prevention of recurrence (apunarbhava), is the best of physicians, worthy of serving a king (rājārha).",
    "hindi": "जिसे रोगों के हेतु (कारण), लिङ्ग (लक्षण), प्रशमन (चिकित्सा) और अपुनर्भव (पुनः न होना) का चार प्रकार का ज्ञान है, वह श्रेष्ठ वैद्य है और राजा की सेवा के योग्य (राजार्ह) है।",
    "explanation_en": "This is the 'catur-vidha jñāna' of the physician, a very important exam point. It matches the sequence of the whole science: etiology, diagnosis, treatment and prevention. Compare Su 1.24 (hetu-liṅga-auṣadha, the 'trisūtra'). Apunarbhava shows that preventing recurrence is part of complete treatment.",
-   "explanation_hi": "यह वैद्य का 'चतुर्विध ज्ञान' है, परीक्षा का महत्त्वपूर्ण बिन्दु। यह पूरे शास्त्र के क्रम से मेल खाता है: हेतु, निदान (लक्षण), चिकित्सा और निवारण। सू. 1.24 (हेतु-लिङ्ग-औषध, 'त्रिसूत्र') से तुलना करें। अपुनर्भव बताता है कि पुनरावृत्ति रोकना भी पूर्ण चिकित्सा का भाग है।",
+   "explanation_hi": "यह वैद्य का 'चतुर्विध ज्ञान' है, परीक्षा का महत्त्वपूर्ण बिन्दु। यह पूरे शास्त्र के क्रम से मेल खाता है: हेतु, निदान (लक्षण), चिकित्सा और निवारण। सू। 1.24 (हेतु-लिङ्ग-औषध, 'त्रिसूत्र') से तुलना करें। अपुनर्भव बताता है कि पुनरावृत्ति रोकना भी पूर्ण चिकित्सा का भाग है।",
    "modern_correlation": {
     "en": "This corresponds to the standard structure of modern clinical knowledge about a disease: etiology, clinical features, management and prevention of recurrence (secondary prevention).",
     "hi": "यह आधुनिक चिकित्सा में किसी रोग के ज्ञान की मानक संरचना से मेल खाता है: एटियोलॉजी (कारण), क्लिनिकल फ़ीचर्स (लक्षण), मैनेजमेंट (चिकित्सा) और पुनरावृत्ति की रोकथाम (सेकेंडरी प्रिवेंशन)।"

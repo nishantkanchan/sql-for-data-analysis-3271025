@@ -37,7 +37,7 @@
    "विपरीत चिकित्सा का सिद्धान्त: सन्तर्पण/अपतर्पण, शीत/उष्ण, धातुओं का पूरण/ह्रास (सू. 10.6)।"
   ],
   "syllabus_refs": [
-   "AyUG-SA2"
+   "AyUG-SA1"
   ],
   "review_status": "ai_draft"
  },
@@ -79,7 +79,7 @@
    "english": "Now we shall explain the chapter named Mahā-catuṣpāda, the greater chapter on the four limbs of treatment.",
    "hindi": "अब हम 'महाचतुष्पाद' नामक अध्याय की व्याख्या करेंगे, अर्थात् चिकित्सा के चार पादों पर बड़ा अध्याय।",
    "explanation_en": "This is the 'greater' (mahā) counterpart of Su 9 (Khuḍḍāka-catuṣpāda). While Su 9 described the four limbs and their qualities, Su 10 defends the efficacy of treatment and classifies diseases by prognosis (sādhya-asādhya).",
-   "explanation_hi": "यह सू. 9 (खुड्डाक चतुष्पाद) का 'बड़ा' (महा) अध्याय है। सू. 9 में चार पाद और उनके गुण बताए गए; सू. 10 चिकित्सा की प्रभावशीलता का समर्थन करता है और रोगों को साध्यता के अनुसार वर्गीकृत करता है।",
+   "explanation_hi": "यह सू। 9 (खुड्डाक चतुष्पाद) का 'बड़ा' (महा) अध्याय है। सू। 9 में चार पाद और उनके गुण बताए गए; सू। 10 चिकित्सा की प्रभावशीलता का समर्थन करता है और रोगों को साध्यता के अनुसार वर्गीकृत करता है।",
    "modern_correlation": null,
    "key_terms": [
     "mahācatuṣpāda",
@@ -203,7 +203,7 @@
    "english": "Physicians describe treatment (bheṣaja) as having four limbs and sixteen parts, as stated in the previous chapter ('having sixteen qualities'). That treatment, when applied with rational planning (yukti), is capable of producing health, said the venerable Punarvasu Ātreya.",
    "hindi": "वैद्य चिकित्सा को चार पादों और सोलह कलाओं वाली कहते हैं, जैसा पिछले अध्याय में 'सोलह गुणों वाली' कहा गया। वह चिकित्सा जब युक्ति (तर्कसंगत योजना) से की जाए तो आरोग्य देने में समर्थ है, ऐसा भगवान् पुनर्वसु आत्रेय ने कहा।",
    "explanation_en": "Ātreya's opening thesis: catuṣpāda treatment with its 16 qualities, applied with yukti (rational planning), produces health. 'Bheṣaja' here means the whole treatment, not just medicine. The word 'yuktiyukta' is the key qualifier and links to yukti-pramāṇa in Su 11.",
-   "explanation_hi": "आत्रेय का आरम्भिक सिद्धान्त: 16 गुणों वाली चतुष्पाद चिकित्सा, युक्ति से प्रयुक्त होने पर आरोग्य देती है। यहाँ 'भेषज' का अर्थ पूरी चिकित्सा है, केवल औषध नहीं। 'युक्तियुक्त' मुख्य विशेषण है जो सू. 11 के युक्ति-प्रमाण से जुड़ता है।",
+   "explanation_hi": "आत्रेय का आरम्भिक सिद्धान्त: 16 गुणों वाली चतुष्पाद चिकित्सा, युक्ति से प्रयुक्त होने पर आरोग्य देती है। यहाँ 'भेषज' का अर्थ पूरी चिकित्सा है, केवल औषध नहीं। 'युक्तियुक्त' मुख्य विशेषण है जो सू। 11 के युक्ति-प्रमाण से जुड़ता है।",
    "modern_correlation": null,
    "key_terms": [
     "bheṣaja",
@@ -677,7 +677,7 @@
    "english": "And this is directly observed by us: we treat the diseased with remedies of opposite nature; we nourish the emaciated, lean and weak with what builds up; we deplete the obese with excess fat; we treat one afflicted by heat with cold and one afflicted by cold with heat; we replenish deficient dhātus and reduce excessive ones; and by treating diseases with measures opposite to their cause we restore them properly to the normal state. For us, doing so, this set of therapies is most beneficial.",
    "hindi": "और यह हमें प्रत्यक्ष दिखता है: हम रोगी की चिकित्सा विपरीत स्वभाव वाली औषध से करते हैं; क्षीण, कृश और दुर्बल को पोषक पदार्थों से पुष्ट करते हैं; स्थूल और मेदस्वी का अपतर्पण करते हैं; उष्णता से पीड़ित की शीत से और शीत से पीड़ित की उष्ण से चिकित्सा करते हैं; क्षीण धातुओं को बढ़ाते और बढ़ी हुई धातुओं को घटाते हैं; और रोगों की उनके कारण के विपरीत चिकित्सा करके उन्हें भली-भाँति प्रकृति में स्थापित करते हैं। ऐसा करने वाले हमारे लिए यह चिकित्सा-समूह सबसे उत्तम है।",
    "explanation_en": "This gives empirical (pratyakṣa) evidence for the efficacy of treatment, based on the principle of 'viparīta-guṇa' (treatment by opposites) and 'sāmānya-viśeṣa' (similar increases, dissimilar decreases; Su 1.44). Examples: santarpaṇa for the emaciated, apatarpaṇa for the obese, cold for heat. The goal is 'prakṛti-sthāpana', restoring balance (as defined in Su 9.4-5).",
-   "explanation_hi": "यह चिकित्सा की प्रभावशीलता का प्रत्यक्ष प्रमाण देता है, जो 'विपरीत गुण' चिकित्सा और 'सामान्य-विशेष' सिद्धान्त (समान से वृद्धि, विशेष से ह्रास; सू. 1.44) पर आधारित है। उदाहरण: क्षीण के लिए सन्तर्पण, स्थूल के लिए अपतर्पण, उष्णता के लिए शीत। लक्ष्य 'प्रकृति-स्थापन' (सू. 9.4-5) है।",
+   "explanation_hi": "यह चिकित्सा की प्रभावशीलता का प्रत्यक्ष प्रमाण देता है, जो 'विपरीत गुण' चिकित्सा और 'सामान्य-विशेष' सिद्धान्त (समान से वृद्धि, विशेष से ह्रास; सू। 1.44) पर आधारित है। उदाहरण: क्षीण के लिए सन्तर्पण, स्थूल के लिए अपतर्पण, उष्णता के लिए शीत। लक्ष्य 'प्रकृति-स्थापन' (सू। 9.4-5) है।",
    "modern_correlation": {
     "en": "Treating deficiency by replacement and excess by reduction (e.g. nutritional support for undernutrition, calorie restriction for obesity, cooling for hyperthermia, warming for hypothermia) parallels the modern physiological goal of restoring homeostasis. This is a conceptual parallel only.",
     "hi": "कमी को पूरा करना और अधिकता को घटाना (जैसे कुपोषण में पोषण, मोटापे में कैलोरी नियन्त्रण, हाइपरथर्मिया में ठण्डक, हाइपोथर्मिया में गर्मी) आधुनिक शरीर-क्रिया के लक्ष्य 'होमियोस्टेसिस' की बहाली जैसा है। यह केवल वैचारिक समानता है।"
@@ -1702,7 +1702,7 @@
    "english": "The wise physician should first examine the specific characteristics of diseases in this way, and only afterwards begin treatment in the curable ones.",
    "hindi": "बुद्धिमान वैद्य को पहले इस प्रकार रोगों के अपने-अपने लक्षणों की परीक्षा करनी चाहिए, और उसके बाद साध्य रोगों में चिकित्सा आरम्भ करनी चाहिए।",
    "explanation_en": "The practical rule: 'first examine, then treat' (parīkṣya-kāritā). This repeats Ātreya's statement in v. 5 that skilled physicians act only after examination, and links to Su 20.20 ('rogam ādau parīkṣeta tato 'nantaram auṣadham').",
-   "explanation_hi": "व्यावहारिक नियम: 'पहले परीक्षा, फिर चिकित्सा'। यह श्लोक 5 में आत्रेय के कथन को दोहराता है और सू. 20.20 ('रोगमादौ परीक्षेत ततोऽनन्तरमौषधम्') से जुड़ता है।",
+   "explanation_hi": "व्यावहारिक नियम: 'पहले परीक्षा, फिर चिकित्सा'। यह श्लोक 5 में आत्रेय के कथन को दोहराता है और सू। 20.20 ('रोगमादौ परीक्षेत ततोऽनन्तरमौषधम्') से जुड़ता है।",
    "modern_correlation": {
     "en": "This corresponds to the basic clinical principle that diagnosis and assessment of prognosis should precede treatment.",
     "hi": "यह मूल नैदानिक सिद्धान्त से मेल खाता है कि उपचार से पहले निदान और प्रोग्नोसिस का आकलन होना चाहिए।"
