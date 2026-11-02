@@ -1,0 +1,3077 @@
+{
+ "chapter": {
+  "id": "AH.sutra.16",
+  "text": "ashtanga_hridaya",
+  "sthana": "sutra",
+  "chapter": 16,
+  "title_iast": "Snehavidhi Adhyāya",
+  "title_devanagari": "स्नेहविध्यध्यायः",
+  "title_en": "The chapter on the procedure of oleation",
+  "title_hi": "स्नेहविधि अध्याय (स्नेहन की विधि)",
+  "summary_en": "This chapter describes snehana (oleation), the first preparatory procedure (pūrvakarma) before purification and also a therapy in its own right. It defines the eight qualities of oleating substances, names the four great fats (ghee, marrow, muscle fat and oil), explains why ghee is the best, their relative heaviness, and the names yamaka, trivṛt and mahāsneha for combinations. It lists who is fit and unfit for snehana, the specific indications of each fat, the right season and time of day, and the 64 vicāraṇās (indirect ways of giving fat) as opposed to plain drinking (accha-peya), which is the best. It defines minimum, medium and maximum doses by digestion time, the three types of snehapāna (śodhana, śamana, bṛṃhaṇa), signs of digestion of fat, the diet and regimen (parihāra) during the procedure, the duration according to koṣṭha (3 to 7 days), and the signs of proper, inadequate and excessive oleation. It ends with complications and their treatment, the gap before vamana and virecana, rūkṣaṇa before snehana in kapha-type patients, the seven sadyaḥ-sneha recipes, and the benefits of regular snehana.",
+  "summary_hi": "यह अध्याय स्नेहन के बारे में है, जो शोधन से पहले का पहला पूर्वकर्म है और स्वतंत्र चिकित्सा भी है। इसमें स्नेहन द्रव्यों के आठ गुण, चार श्रेष्ठ स्नेह (घी, मज्जा, वसा और तेल), घी की श्रेष्ठता का कारण, उनका भारीपन का क्रम, और मिश्रणों के नाम यमक, त्रिवृत् और महास्नेह बताए गए हैं। स्नेहन के योग्य और अयोग्य लोग, हर स्नेह के विशेष संकेत, उचित ऋतु और समय, और 64 विचारणाएँ (स्नेह देने के अप्रत्यक्ष तरीके) बताई गई हैं, जबकि शुद्ध स्नेह पीना (अच्छपेय) श्रेष्ठ है। पाचन समय के अनुसार ह्रस्व, मध्यम और उत्तम मात्रा, स्नेहपान के तीन प्रकार (शोधन, शमन, बृंहण), स्नेह पचने के लक्षण, दौरान का आहार और परिहार, कोष्ठ के अनुसार अवधि (3 से 7 दिन), और सम्यक्, हीन व अति स्निग्ध के लक्षण बताए गए हैं। अंत में स्नेह व्यापद और उनकी चिकित्सा, वमन व विरेचन से पहले का अंतराल, कफ प्रकृति वालों में स्नेहन से पहले रूक्षण, सात सद्यःस्नेह योग, और नियमित स्नेहन के लाभ बताए गए हैं।",
+  "key_concepts": [
+   "snehana",
+   "catuḥsneha",
+   "yamaka-trivṛt-mahāsneha",
+   "snehya-asnehya",
+   "vicāraṇā",
+   "accha snehapāna",
+   "sneha mātrā",
+   "samyak snigdha lakṣaṇa",
+   "sneha vyāpad",
+   "sadyaḥsneha"
+  ],
+  "exam_focus_en": [
+   "Eight guṇas of snehana dravya; four great fats and why ghee is the best (saṃskārānuvartana) (verses 1-3).",
+   "Yamaka, trivṛt and mahāsneha; order of heaviness of fats (verse 4).",
+   "Snehya and asnehya; indications of ghṛta, taila, vasā and majjā (verses 5-11).",
+   "64 vicāraṇās; hrasva, madhyama and uttama mātrā by digestion time (2, 4, 8 yāmas); three types of snehapāna (verses 15-20).",
+   "Duration by koṣṭha (3 days mṛdu, 7 days krūra) and samyak, hīna and ati snigdha lakṣaṇa (verses 29-31).",
+   "Sneha vyāpad and treatment; seven sadyaḥsneha yogas including pañcaprasṛtikā peyā (verses 32-42)."
+  ],
+  "exam_focus_hi": [
+   "स्नेहन द्रव्य के आठ गुण; चार श्रेष्ठ स्नेह और घी की श्रेष्ठता का कारण (संस्कारानुवर्तन) (श्लोक 1-3)।",
+   "यमक, त्रिवृत् और महास्नेह; स्नेहों के भारीपन का क्रम (श्लोक 4)।",
+   "स्नेह्य और अस्नेह्य; घृत, तैल, वसा और मज्जा के संकेत (श्लोक 5-11)।",
+   "64 विचारणाएँ; पाचन समय (2, 4, 8 याम) के अनुसार ह्रस्व, मध्यम और उत्तम मात्रा; स्नेहपान के तीन प्रकार (श्लोक 15-20)।",
+   "कोष्ठ के अनुसार अवधि (मृदु 3 दिन, क्रूर 7 दिन) और सम्यक्, हीन व अति स्निग्ध लक्षण (श्लोक 29-31)।",
+   "स्नेह व्यापद और चिकित्सा; पंचप्रसृतिका पेया सहित सात सद्यःस्नेह योग (श्लोक 32-42)।"
+  ],
+  "syllabus_refs": [
+   "AyUG-SA1"
+  ],
+  "review_status": "ai_draft"
+ },
+ "verses": [
+  {
+   "id": "AH.sutra.16.1",
+   "word_meanings": [
+    {
+     "sa": "गुरु",
+     "iast": "guru",
+     "en": "heavy",
+     "hi": "गुरु (भारी)"
+    },
+    {
+     "sa": "शीत",
+     "iast": "śīta",
+     "en": "cold",
+     "hi": "शीत (ठंडा)"
+    },
+    {
+     "sa": "सर",
+     "iast": "sara",
+     "en": "flowing, mobile",
+     "hi": "सर (बहने वाला)"
+    },
+    {
+     "sa": "स्निग्ध",
+     "iast": "snigdha",
+     "en": "unctuous",
+     "hi": "स्निग्ध (चिकना)"
+    },
+    {
+     "sa": "मन्द",
+     "iast": "manda",
+     "en": "slow, dull",
+     "hi": "मंद"
+    },
+    {
+     "sa": "सूक्ष्म",
+     "iast": "sūkṣma",
+     "en": "subtle, penetrating",
+     "hi": "सूक्ष्म"
+    },
+    {
+     "sa": "मृदु",
+     "iast": "mṛdu",
+     "en": "soft",
+     "hi": "मृदु (कोमल)"
+    },
+    {
+     "sa": "द्रवम्",
+     "iast": "dravam",
+     "en": "liquid",
+     "hi": "द्रव (तरल)"
+    },
+    {
+     "sa": "औषधम्",
+     "iast": "auṣadham",
+     "en": "medicine, substance",
+     "hi": "औषधि, द्रव्य"
+    },
+    {
+     "sa": "स्नेहनम्",
+     "iast": "snehanam",
+     "en": "oleating",
+     "hi": "स्नेहन करने वाला"
+    },
+    {
+     "sa": "प्रायः",
+     "iast": "prāyaḥ",
+     "en": "generally",
+     "hi": "प्रायः"
+    },
+    {
+     "sa": "विपरीतम्",
+     "iast": "viparītam",
+     "en": "the opposite",
+     "hi": "विपरीत"
+    },
+    {
+     "sa": "विरूक्षणम्",
+     "iast": "virūkṣaṇam",
+     "en": "drying (rūkṣaṇa)",
+     "hi": "विरूक्षण (रूखा करने वाला)"
+    }
+   ],
+   "english": "A medicine that is generally heavy, cold, flowing (sara), unctuous, slow (manda), subtle (sūkṣma), soft and liquid is oleating (snehana); one with the opposite qualities is drying (virūkṣaṇa).",
+   "hindi": "जो द्रव्य प्रायः गुरु, शीत, सर, स्निग्ध, मंद, सूक्ष्म, मृदु और द्रव गुण वाला हो, वह स्नेहन (चिकनाई देने वाला) है; इसके विपरीत गुण वाला द्रव्य विरूक्षण (रूखा करने वाला) है।",
+   "explanation_en": "This opening verse gives the eight properties (guṇa) of snehana dravya, a very frequently asked exam point. The chapter Snehavidhi deals with snehana, the first pūrvakarma (preparatory procedure) before śodhana, and also its use as a therapy on its own.",
+   "explanation_hi": "यह पहला श्लोक स्नेहन द्रव्य के आठ गुण बताता है, जो परीक्षा में बहुत पूछा जाता है। स्नेहविधि अध्याय स्नेहन के बारे में है, जो शोधन से पहले का पहला पूर्वकर्म है, और स्वतंत्र चिकित्सा भी है।",
+   "modern_correlation": {
+    "en": "Many of these qualities (unctuous, subtle, liquid, penetrating) are often compared to properties of lipids, which can dissolve fat-soluble substances and cross lipid cell membranes; this is a broad parallel, not an identity.",
+    "hi": "इनमें से कई गुण (स्निग्ध, सूक्ष्म, द्रव, भेदक) की तुलना अक्सर वसा (लिपिड) के गुणों से की जाती है, जो वसा में घुलने वाले पदार्थों को घोल सकते हैं और कोशिका झिल्ली को पार कर सकते हैं। यह मोटी समानता है, एकरूपता नहीं।"
+   },
+   "key_terms": [
+    "snehana",
+    "virūkṣaṇa",
+    "guru",
+    "śīta",
+    "sara",
+    "snigdha",
+    "manda",
+    "sūkṣma",
+    "mṛdu",
+    "drava"
+   ],
+   "tags": [
+    "snehana",
+    "gunas",
+    "definitions"
+   ],
+   "importance": "high",
+   "mnemonic": "Sneha guṇas (8): 'GS-SS-MS-MD' = Guru, Śīta, Sara, Snigdha, Manda, Sūkṣma, Mṛdu, Drava.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.16.2",
+   "word_meanings": [
+    {
+     "sa": "सर्पिः",
+     "iast": "sarpiḥ",
+     "en": "ghee",
+     "hi": "घृत (घी)"
+    },
+    {
+     "sa": "मज्जा",
+     "iast": "majjā",
+     "en": "bone marrow",
+     "hi": "मज्जा"
+    },
+    {
+     "sa": "वसा",
+     "iast": "vasā",
+     "en": "muscle fat",
+     "hi": "वसा (चर्बी)"
+    },
+    {
+     "sa": "तैलम्",
+     "iast": "tailam",
+     "en": "oil (sesame)",
+     "hi": "तैल (तेल)"
+    },
+    {
+     "sa": "स्नेहेषु प्रवरम् मतम्",
+     "iast": "sneheṣu pravaram matam",
+     "en": "considered the best among fats",
+     "hi": "स्नेहों में श्रेष्ठ माने गए"
+    },
+    {
+     "sa": "तत्र अपि च उत्तमम् सर्पिः",
+     "iast": "tatra api ca uttamam sarpiḥ",
+     "en": "among them too, ghee is the best",
+     "hi": "उनमें भी घी सबसे उत्तम है"
+    },
+    {
+     "sa": "संस्कारस्य अनुवर्तनात्",
+     "iast": "saṃskārasya anuvartanāt",
+     "en": "because it follows (takes on) the processing",
+     "hi": "संस्कार का अनुसरण करने से"
+    }
+   ],
+   "english": "Ghee, marrow (majjā), muscle fat (vasā) and oil are considered the best among fats; among these, ghee is the best of all because it follows the processing (saṃskāra), i.e. it takes on the properties of the drugs it is processed with.",
+   "hindi": "घी, मज्जा, वसा और तेल स्नेहों में श्रेष्ठ माने गए हैं; इनमें भी घी सबसे उत्तम है, क्योंकि वह संस्कार का अनुसरण करता है, अर्थात् जिन औषधियों से इसे सिद्ध किया जाए, उनके गुण ग्रहण कर लेता है (और अपने गुण भी नहीं छोड़ता)।",
+   "explanation_en": "The four great fats (catuḥ-sneha or mahāsneha components) and the superiority of ghee are core exam points. 'Saṃskārānuvartana' explains why so many classical medicated ghṛtas exist. Next verse gives further reasons and their doṣa actions.",
+   "explanation_hi": "चार श्रेष्ठ स्नेह और घी की श्रेष्ठता परीक्षा के मुख्य बिंदु हैं। 'संस्कारानुवर्तन' से समझ आता है कि शास्त्र में इतने सारे सिद्ध घृत क्यों हैं। अगला श्लोक और कारण तथा दोषों पर इनका प्रभाव बताता है।",
+   "modern_correlation": {
+    "en": "Ghee's ability to carry the properties of herbs is often compared to its role as a lipid vehicle that can dissolve and hold fat-soluble plant constituents; this is a plausible parallel rather than a proven mechanism for each formulation.",
+    "hi": "घी द्वारा औषधियों के गुण ग्रहण करने की तुलना अक्सर एक वसा माध्यम के रूप में उसकी भूमिका से की जाती है, जो पौधों के वसा-घुलनशील घटकों को घोलकर रख सकता है। यह एक संभावित समानता है, हर योग के लिए सिद्ध क्रियाविधि नहीं।"
+   },
+   "key_terms": [
+    "catuḥsneha",
+    "sarpis",
+    "majjā",
+    "vasā",
+    "taila",
+    "saṃskārānuvartana"
+   ],
+   "tags": [
+    "snehana",
+    "ghrita",
+    "enumeration"
+   ],
+   "importance": "high",
+   "mnemonic": "Four great fats: 'GM-VT' = Ghee, Marrow, Vasā, Taila; Ghee is king (follows saṃskāra).",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.16.3",
+   "word_meanings": [
+    {
+     "sa": "माधुर्यात्",
+     "iast": "mādhuryāt",
+     "en": "because of sweetness",
+     "hi": "मधुरता के कारण"
+    },
+    {
+     "sa": "अविदाहित्वात्",
+     "iast": "avidāhitvāt",
+     "en": "because of not causing burning",
+     "hi": "विदाह न करने के कारण"
+    },
+    {
+     "sa": "जन्म-आदि एव च शीलनात्",
+     "iast": "janma-ādi eva ca śīlanāt",
+     "en": "and because of habituation from birth",
+     "hi": "और जन्म से ही अभ्यस्त होने के कारण"
+    },
+    {
+     "sa": "पित्त-घ्नाः ते यथा-पूर्वम्",
+     "iast": "pitta-ghnāḥ te yathā-pūrvam",
+     "en": "they destroy pitta, each preceding one more",
+     "hi": "पहले वाले क्रम से अधिक पित्तनाशक हैं"
+    },
+    {
+     "sa": "इतर-घ्नाः यथा-उत्तरम्",
+     "iast": "itara-ghnāḥ yathā-uttaram",
+     "en": "they destroy the others (vāta, kapha), each succeeding one more",
+     "hi": "बाद वाले क्रम से अधिक अन्य (वात-कफ) नाशक हैं"
+    }
+   ],
+   "english": "(Ghee is best) because of its sweetness, its non-burning nature and its use from birth onwards. Of these fats, each preceding one (ghee more than marrow, marrow more than vasā, vasā more than oil) is more pitta-reducing, and each succeeding one is more effective against the other doṣas (vāta and kapha).",
+   "hindi": "(घी सर्वश्रेष्ठ है) अपनी मधुरता, जलन न करने और जन्म से ही उपयोग में आने के कारण। इन स्नेहों में पहले वाला (घी, फिर मज्जा, फिर वसा, फिर तेल) अधिक पित्तनाशक है, और बाद वाला क्रम से अन्य दोषों (वात और कफ) का अधिक नाशक है।",
+   "explanation_en": "Remember the order ghee - majjā - vasā - taila: pitta-hara power decreases along this list, and vāta-kapha-hara power increases. So ghee is best for pitta and oil best for vāta (and kapha). 'Janmādi śīlana' means humans are accustomed to milk products from birth.",
+   "explanation_hi": "क्रम याद रखें: घी - मज्जा - वसा - तेल। इस क्रम में पित्तहर शक्ति घटती है और वात-कफहर शक्ति बढ़ती है। इसलिए पित्त के लिए घी और वात (तथा कफ) के लिए तेल श्रेष्ठ है। 'जन्मादि शीलन' का अर्थ है कि मनुष्य जन्म से ही दूध से बने पदार्थों का अभ्यस्त है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sarpis",
+    "taila",
+    "pittaghna",
+    "vātaghna"
+   ],
+   "tags": [
+    "snehana",
+    "ghrita",
+    "taila"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.16.4",
+   "word_meanings": [
+    {
+     "sa": "घृतात् तैलम् गुरु",
+     "iast": "ghṛtāt tailam guru",
+     "en": "oil is heavier than ghee",
+     "hi": "घी से तेल भारी है"
+    },
+    {
+     "sa": "वसा तैलात्",
+     "iast": "vasā tailāt",
+     "en": "vasā (heavier) than oil",
+     "hi": "तेल से वसा (भारी)"
+    },
+    {
+     "sa": "मज्जा ततः अपि च",
+     "iast": "majjā tataḥ api ca",
+     "en": "and marrow (heavier) than that",
+     "hi": "और उससे भी मज्जा (भारी)"
+    },
+    {
+     "sa": "द्वाभ्याम्",
+     "iast": "dvābhyām",
+     "en": "with two",
+     "hi": "दो से"
+    },
+    {
+     "sa": "त्रिभिः",
+     "iast": "tribhiḥ",
+     "en": "with three",
+     "hi": "तीन से"
+    },
+    {
+     "sa": "चतुर्भिः तैः",
+     "iast": "caturbhiḥ taiḥ",
+     "en": "with four of them",
+     "hi": "उनमें से चार से"
+    },
+    {
+     "sa": "यमकः",
+     "iast": "yamakaḥ",
+     "en": "yamaka (combination of two fats)",
+     "hi": "यमक"
+    },
+    {
+     "sa": "त्रिवृतः",
+     "iast": "trivṛtaḥ",
+     "en": "trivṛt (combination of three fats)",
+     "hi": "त्रिवृत्"
+    },
+    {
+     "sa": "महान्",
+     "iast": "mahān",
+     "en": "mahāsneha (combination of all four)",
+     "hi": "महान् (महास्नेह)"
+    }
+   ],
+   "english": "Oil is heavier than ghee, vasā heavier than oil, and marrow heavier still. A combination of two of these fats is called yamaka, of three trivṛt, and of all four mahān (mahāsneha).",
+   "hindi": "घी से तेल भारी है, तेल से वसा भारी है, और वसा से भी मज्जा भारी है। इनमें से दो स्नेहों के मेल को यमक, तीन के मेल को त्रिवृत् और चारों के मेल को महान् (महास्नेह) कहते हैं।",
+   "explanation_en": "Two high-yield facts: the order of heaviness (ghṛta < taila < vasā < majjā) and the names of fat combinations: yamaka (2), trivṛt (3), mahāsneha (4). These names are often asked as MCQs.",
+   "explanation_hi": "दो महत्वपूर्ण तथ्य: भारीपन का क्रम (घृत < तैल < वसा < मज्जा) और स्नेह मिश्रणों के नाम: यमक (2), त्रिवृत् (3), महास्नेह (4)। ये नाम MCQ में अक्सर पूछे जाते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "yamaka",
+    "trivṛt",
+    "mahāsneha",
+    "guru"
+   ],
+   "tags": [
+    "snehana",
+    "enumeration",
+    "definitions"
+   ],
+   "importance": "high",
+   "mnemonic": "2-Yamaka (twins), 3-Trivṛt (three-fold), 4-Mahān (great).",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.16.5",
+   "word_meanings": [
+    {
+     "sa": "स्वेद्य",
+     "iast": "svedya",
+     "en": "those to be given sudation",
+     "hi": "स्वेदन योग्य"
+    },
+    {
+     "sa": "संशोध्य",
+     "iast": "saṃśodhya",
+     "en": "those to be purified",
+     "hi": "शोधन योग्य"
+    },
+    {
+     "sa": "मद्य-स्त्री-व्यायाम-आसक्त",
+     "iast": "madya-strī-vyāyāma-āsakta",
+     "en": "those addicted to wine, women or exercise",
+     "hi": "मद्य, स्त्री या व्यायाम में आसक्त"
+    },
+    {
+     "sa": "चिन्तकाः",
+     "iast": "cintakāḥ",
+     "en": "those who think (worry) much",
+     "hi": "अधिक चिंता करने वाले"
+    },
+    {
+     "sa": "वृद्ध-बाल",
+     "iast": "vṛddha-bāla",
+     "en": "the old and children",
+     "hi": "वृद्ध और बालक"
+    },
+    {
+     "sa": "अबल-कृशाः",
+     "iast": "abala-kṛśāḥ",
+     "en": "the weak and emaciated",
+     "hi": "दुर्बल और कृश"
+    },
+    {
+     "sa": "रूक्षाः",
+     "iast": "rūkṣāḥ",
+     "en": "the dry",
+     "hi": "रूखे"
+    },
+    {
+     "sa": "क्षीण-अस्र-रेतसः",
+     "iast": "kṣīṇa-asra-retasaḥ",
+     "en": "those with depleted blood and semen",
+     "hi": "रक्त और शुक्र क्षीण वाले"
+    }
+   ],
+   "english": "Those who are to undergo sudation or purification; those addicted to wine, women or exercise; those who think (worry) a great deal; the old, children, the weak and the emaciated; those who are dry; those whose blood and semen are depleted,...",
+   "hindi": "जिनका स्वेदन या शोधन करना हो; जो मद्य, स्त्री या व्यायाम में आसक्त हों; जो बहुत चिंता करते हों; वृद्ध, बालक, दुर्बल और कृश; रूखे; जिनका रक्त और शुक्र क्षीण हो,...",
+   "explanation_en": "Verses 5-6 list the snehya (fit for snehana). Snehana is needed before sudation and purification (pūrvakarma), and for all depleted or vāta-dominant states. This list is a common exam question.",
+   "explanation_hi": "श्लोक 5-6 स्नेह्य (स्नेहन योग्य) लोगों की सूची देते हैं। स्वेदन और शोधन से पहले (पूर्वकर्म) तथा सभी क्षीण या वात-प्रधान अवस्थाओं में स्नेहन आवश्यक है। यह सूची परीक्षा में बहुत पूछी जाती है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "snehya",
+    "pūrvakarma",
+    "kṣīṇa"
+   ],
+   "tags": [
+    "snehana",
+    "indications"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.16.6",
+   "word_meanings": [
+    {
+     "sa": "वात-आर्त",
+     "iast": "vāta-ārta",
+     "en": "those afflicted by vāta",
+     "hi": "वात से पीड़ित"
+    },
+    {
+     "sa": "स्यन्द",
+     "iast": "syanda",
+     "en": "abhiṣyanda (conjunctivitis)",
+     "hi": "स्यन्द (अभिष्यन्द, आँख आना)"
+    },
+    {
+     "sa": "तिमिर",
+     "iast": "timira",
+     "en": "timira (a visual disorder)",
+     "hi": "तिमिर (दृष्टि रोग)"
+    },
+    {
+     "sa": "दारुण-प्रतिबोधिनः",
+     "iast": "dāruṇa-pratibodhinaḥ",
+     "en": "those who wake with difficulty",
+     "hi": "कठिनता से जागने वाले"
+    },
+    {
+     "sa": "स्नेह्याः",
+     "iast": "snehyāḥ",
+     "en": "are fit for oleation",
+     "hi": "स्नेहन योग्य हैं"
+    },
+    {
+     "sa": "न तु",
+     "iast": "na tu",
+     "en": "but not",
+     "hi": "पर नहीं"
+    },
+    {
+     "sa": "अति-मन्द-अग्नि",
+     "iast": "ati-manda-agni",
+     "en": "those with very weak agni",
+     "hi": "अति मंद अग्नि वाले"
+    },
+    {
+     "sa": "तीक्ष्ण-अग्नि",
+     "iast": "tīkṣṇa-agni",
+     "en": "those with very strong agni",
+     "hi": "तीक्ष्ण अग्नि वाले"
+    },
+    {
+     "sa": "स्थूल",
+     "iast": "sthūla",
+     "en": "the obese",
+     "hi": "स्थूल"
+    },
+    {
+     "sa": "दुर्बलाः",
+     "iast": "durbalāḥ",
+     "en": "the weak",
+     "hi": "दुर्बल"
+    }
+   ],
+   "english": "...those afflicted by vāta, abhiṣyanda (eye inflammation), timira (visual disorder), and those who wake with difficulty: these are fit for oleation (snehya). But not those with very weak agni or very sharp agni, the obese, the weak,...",
+   "hindi": "...वात से पीड़ित, स्यन्द (आँख आना), तिमिर (दृष्टि रोग) से पीड़ित और कठिनता से जागने वाले: ये स्नेहन योग्य हैं। पर अति मंद अग्नि, अति तीक्ष्ण अग्नि वाले, स्थूल, दुर्बल,...",
+   "explanation_en": "The second half starts the list of asnehya (unfit for snehana), continued in verses 7-8. 'Durbala' here is understood as weakness with āma or kapha; compare with 'abala' in verse 5, who are fit. Teachers often ask students to write both lists side by side.",
+   "explanation_hi": "दूसरी आधी पंक्ति से अस्नेह्य (स्नेहन के अयोग्य) लोगों की सूची शुरू होती है, जो श्लोक 7-8 में आगे है। यहाँ 'दुर्बल' को आम या कफ के साथ दुर्बलता के रूप में समझा जाता है; श्लोक 5 के 'अबल' से तुलना करें, जो योग्य हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "snehya",
+    "asnehya",
+    "mandāgni",
+    "tīkṣṇāgni"
+   ],
+   "tags": [
+    "snehana",
+    "indications",
+    "contraindications"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.16.7",
+   "word_meanings": [
+    {
+     "sa": "ऊरु-स्तम्भ",
+     "iast": "ūru-stambha",
+     "en": "stiffness of the thighs",
+     "hi": "ऊरुस्तम्भ"
+    },
+    {
+     "sa": "अतिसार",
+     "iast": "atisāra",
+     "en": "diarrhoea",
+     "hi": "अतिसार"
+    },
+    {
+     "sa": "आम",
+     "iast": "āma",
+     "en": "āma",
+     "hi": "आम"
+    },
+    {
+     "sa": "गल-रोग",
+     "iast": "gala-roga",
+     "en": "throat diseases",
+     "hi": "गले के रोग"
+    },
+    {
+     "sa": "गर",
+     "iast": "gara",
+     "en": "artificial (slow) poisoning",
+     "hi": "गर विष"
+    },
+    {
+     "sa": "उदरैः",
+     "iast": "udaraiḥ",
+     "en": "abdominal enlargement",
+     "hi": "उदर रोग"
+    },
+    {
+     "sa": "मूर्छा",
+     "iast": "mūrchā",
+     "en": "fainting",
+     "hi": "मूर्छा"
+    },
+    {
+     "sa": "छर्दि",
+     "iast": "chardi",
+     "en": "vomiting",
+     "hi": "उल्टी"
+    },
+    {
+     "sa": "अरुचि",
+     "iast": "aruci",
+     "en": "anorexia",
+     "hi": "अरुचि"
+    },
+    {
+     "sa": "श्लेष्म",
+     "iast": "śleṣma",
+     "en": "kapha (excess)",
+     "hi": "कफ (वृद्धि)"
+    },
+    {
+     "sa": "तृष्णा",
+     "iast": "tṛṣṇā",
+     "en": "thirst",
+     "hi": "प्यास"
+    },
+    {
+     "sa": "मद्यैः च पीडिताः",
+     "iast": "madyaiḥ ca pīḍitāḥ",
+     "en": "and those afflicted by alcohol (intoxication)",
+     "hi": "और मद्य से पीड़ित"
+    }
+   ],
+   "english": "...those afflicted by stiffness of the thighs (ūrustambha), diarrhoea, āma, throat diseases, artificial poisoning (gara), udara (abdominal enlargement), fainting, vomiting, anorexia, excess kapha, thirst or intoxication,...",
+   "hindi": "...ऊरुस्तम्भ, अतिसार, आम, गले के रोग, गर विष, उदर रोग, मूर्छा, उल्टी, अरुचि, कफ वृद्धि, प्यास या मद्य (नशे) से पीड़ित लोग,...",
+   "explanation_en": "These are contraindications to snehana: most are conditions of āma, kapha or impaired digestion, where fats would worsen the disease. Ūrustambha is a classic example: it is caused by āma-kapha-medas and snehana is specifically prohibited.",
+   "explanation_hi": "ये स्नेहन के निषेध हैं: अधिकांश आम, कफ या बिगड़े पाचन की अवस्थाएँ हैं, जहाँ स्नेह रोग को बढ़ाएगा। ऊरुस्तम्भ इसका प्रसिद्ध उदाहरण है: यह आम-कफ-मेद से होता है और इसमें स्नेहन विशेष रूप से वर्जित है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "asnehya",
+    "ūrustambha",
+    "āma",
+    "gara"
+   ],
+   "tags": [
+    "snehana",
+    "contraindications"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.16.8",
+   "word_meanings": [
+    {
+     "sa": "अपप्रसूता",
+     "iast": "apaprasūtā",
+     "en": "a woman who has had an abortion / abnormal delivery",
+     "hi": "अपप्रसूता (गर्भपात वाली स्त्री)"
+    },
+    {
+     "sa": "युक्ते च नस्ये वस्तौ विरेचने",
+     "iast": "yukte ca nasye vastau virecane",
+     "en": "and when nasya, vasti or virecana has been given",
+     "hi": "और जब नस्य, बस्ति या विरेचन दिया गया हो"
+    },
+    {
+     "sa": "तत्र",
+     "iast": "tatra",
+     "en": "among them (the fats)",
+     "hi": "उनमें (स्नेहों में)"
+    },
+    {
+     "sa": "धी-स्मृति-मेधा-आदि-काङ्क्षिणाम्",
+     "iast": "dhī-smṛti-medhā-ādi-kāṅkṣiṇām",
+     "en": "for those desiring intellect, memory, retention etc.",
+     "hi": "बुद्धि, स्मृति, मेधा आदि चाहने वालों के लिए"
+    },
+    {
+     "sa": "शस्यते घृतम्",
+     "iast": "śasyate ghṛtam",
+     "en": "ghee is recommended",
+     "hi": "घी प्रशस्त है"
+    }
+   ],
+   "english": "...a woman who has had an abortion or abnormal delivery, and those who have just been given nasya, vasti or virecana (are unfit for oleation). Among the fats, ghee is recommended for those who desire intellect, memory, retentive power and the like.",
+   "hindi": "...अपप्रसूता (गर्भपात या असामान्य प्रसव वाली स्त्री), और जिन्हें अभी नस्य, बस्ति या विरेचन दिया गया हो (वे स्नेहन के अयोग्य हैं)। स्नेहों में बुद्धि, स्मृति, मेधा आदि चाहने वालों के लिए घी प्रशस्त है।",
+   "explanation_en": "The first half completes the asnehya list. The second half begins the indications for each fat: ghee for dhī-dhṛti-smṛti (intellect and memory) and pitta conditions. The next verses give indications for oil, vasā and majjā. The file records a variant 'medhāgni' (memory and agni).",
+   "explanation_hi": "पहली आधी पंक्ति अस्नेह्य सूची पूरी करती है। दूसरी आधी पंक्ति से हर स्नेह के संकेत शुरू होते हैं: घी बुद्धि, स्मृति और पित्त अवस्थाओं के लिए। अगले श्लोक तेल, वसा और मज्जा के संकेत देते हैं।",
+   "modern_correlation": {
+    "en": "Using ghee for memory and cognition has been explored in preliminary studies of medicated ghee preparations; the evidence is limited and this is mentioned only as background.",
+    "hi": "स्मृति और बुद्धि के लिए घी के प्रयोग पर सिद्ध घृत योगों के कुछ प्रारंभिक अध्ययन हुए हैं; प्रमाण सीमित हैं और यह केवल पृष्ठभूमि के रूप में है।"
+   },
+   "key_terms": [
+    "asnehya",
+    "ghṛta",
+    "medhya"
+   ],
+   "tags": [
+    "snehana",
+    "ghrita",
+    "indications"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.16.9",
+   "word_meanings": [
+    {
+     "sa": "ग्रन्थि",
+     "iast": "granthi",
+     "en": "glandular swellings, cysts",
+     "hi": "ग्रंथि (गाँठ)"
+    },
+    {
+     "sa": "नाडी",
+     "iast": "nāḍī",
+     "en": "sinus",
+     "hi": "नाड़ी व्रण (नासूर)"
+    },
+    {
+     "sa": "कृमि",
+     "iast": "kṛmi",
+     "en": "worms",
+     "hi": "कृमि"
+    },
+    {
+     "sa": "श्लेष्म",
+     "iast": "śleṣma",
+     "en": "kapha",
+     "hi": "कफ"
+    },
+    {
+     "sa": "मेदः",
+     "iast": "medaḥ",
+     "en": "fat",
+     "hi": "मेद"
+    },
+    {
+     "sa": "मारुत-रोगिषु",
+     "iast": "māruta-rogiṣu",
+     "en": "in vāta diseases",
+     "hi": "वात रोगों में"
+    },
+    {
+     "sa": "तैलम्",
+     "iast": "tailam",
+     "en": "oil",
+     "hi": "तेल"
+    },
+    {
+     "sa": "लाघव-दार्ढ्य-अर्थि",
+     "iast": "lāghava-dārḍhya-arthi",
+     "en": "those desiring lightness and firmness",
+     "hi": "हल्कापन और दृढ़ता चाहने वाले"
+    },
+    {
+     "sa": "क्रूर-कोष्ठेषु",
+     "iast": "krūra-koṣṭheṣu",
+     "en": "those with hard bowels",
+     "hi": "क्रूर कोष्ठ वाले"
+    },
+    {
+     "sa": "देहिषु",
+     "iast": "dehiṣu",
+     "en": "in people",
+     "hi": "लोगों में"
+    }
+   ],
+   "english": "Oil is recommended in glandular swellings (granthi), sinuses (nāḍī), worms, kapha, excess fat and vāta diseases, and for people who want lightness and firmness of body and who have hard bowels (krūra-koṣṭha).",
+   "hindi": "ग्रंथि, नाड़ी व्रण, कृमि, कफ, मेद और वात रोगों में, तथा शरीर में हल्कापन और दृढ़ता चाहने वाले और क्रूर कोष्ठ वाले लोगों के लिए तेल प्रशस्त है।",
+   "explanation_en": "Oil (taila) is hot, penetrating and does not increase kapha or fat, so it suits these conditions. Krūra koṣṭha (hard bowel, vāta-dominant) needs the strong action of oil. Exam tip: ghee for the mind and pitta, oil for vāta, kapha and lightness.",
+   "explanation_hi": "तेल उष्ण, तीक्ष्ण है और कफ या मेद नहीं बढ़ाता, इसलिए इन अवस्थाओं में उपयुक्त है। क्रूर कोष्ठ (कठिन मल, वात प्रधान) में तेल की तीव्र क्रिया चाहिए। परीक्षा सुझाव: मन और पित्त के लिए घी, वात, कफ और हल्केपन के लिए तेल।",
+   "modern_correlation": null,
+   "key_terms": [
+    "taila",
+    "krūra koṣṭha",
+    "granthi",
+    "nāḍī vraṇa"
+   ],
+   "tags": [
+    "snehana",
+    "taila",
+    "indications"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.16.10",
+   "word_meanings": [
+    {
+     "sa": "वात-आतप-अध्व-भार-स्त्री-व्यायाम-क्षीण-धातुषु",
+     "iast": "vāta-ātapa-adhva-bhāra-strī-vyāyāma-kṣīṇa-dhātuṣu",
+     "en": "in those whose dhātus are depleted by wind, sun, walking, load-bearing, sex and exercise",
+     "hi": "हवा, धूप, पैदल चलने, भार ढोने, स्त्री-सेवन और व्यायाम से क्षीण धातु वालों में"
+    },
+    {
+     "sa": "रूक्ष",
+     "iast": "rūkṣa",
+     "en": "the dry",
+     "hi": "रूखे"
+    },
+    {
+     "sa": "क्लेश-क्षम",
+     "iast": "kleśa-kṣama",
+     "en": "those able to endure hardship",
+     "hi": "कष्ट सहने में समर्थ"
+    },
+    {
+     "sa": "अति-अग्नि",
+     "iast": "ati-agni",
+     "en": "those with very strong agni",
+     "hi": "अति अग्नि (तीव्र भूख) वाले"
+    },
+    {
+     "sa": "वात-आवृत-पथेसु च",
+     "iast": "vāta-āvṛta-pathesu ca",
+     "en": "and those whose channels are obstructed by vāta",
+     "hi": "और जिनके मार्ग वात से अवरुद्ध हों"
+    }
+   ],
+   "english": "For those whose dhātus are depleted by wind, sun, long walks, carrying loads, sexual excess and exercise; for the dry, those able to endure hardship, those with very strong agni, and those whose channels are obstructed by vāta,...",
+   "hindi": "हवा, धूप, पैदल चलने, भार ढोने, अधिक स्त्री-सेवन और व्यायाम से जिनकी धातुएँ क्षीण हों; जो रूखे हों, कष्ट सहने में समर्थ हों, जिनकी अग्नि बहुत तीव्र हो, और जिनके स्रोत वात से अवरुद्ध हों,...",
+   "explanation_en": "This verse lists the indications for the remaining two fats, vasā and majjā, which are named at the start of verse 11 ('śeṣau'). These heavy fats suit people with strong agni who can digest them and who need deep nourishment.",
+   "explanation_hi": "यह श्लोक बाकी दो स्नेहों, वसा और मज्जा, के संकेत बताता है, जिनका नाम श्लोक 11 के आरंभ में ('शेषौ') है। ये भारी स्नेह तीव्र अग्नि वाले लोगों के लिए हैं जो इन्हें पचा सकें और जिन्हें गहरे पोषण की आवश्यकता हो।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vasā",
+    "majjā",
+    "kṣīṇa dhātu",
+    "tīkṣṇāgni"
+   ],
+   "tags": [
+    "snehana",
+    "vasa",
+    "majja",
+    "indications"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.16.11",
+   "word_meanings": [
+    {
+     "sa": "शेषौ",
+     "iast": "śeṣau",
+     "en": "the remaining two (vasā and majjā)",
+     "hi": "शेष दोनों (वसा और मज्जा)"
+    },
+    {
+     "sa": "वसा तु",
+     "iast": "vasā tu",
+     "en": "vasā, however",
+     "hi": "वसा तो"
+    },
+    {
+     "sa": "संधि-अस्थि-मर्म-कोष्ठ-रुजासु च",
+     "iast": "saṃdhi-asthi-marma-koṣṭha-rujāsu ca",
+     "en": "in pain of joints, bones, vital points and the abdomen",
+     "hi": "जोड़, हड्डी, मर्म और कोष्ठ की पीड़ा में"
+    },
+    {
+     "sa": "दग्ध",
+     "iast": "dagdha",
+     "en": "burns",
+     "hi": "जलने पर"
+    },
+    {
+     "sa": "आहत",
+     "iast": "āhata",
+     "en": "injuries",
+     "hi": "चोट में"
+    },
+    {
+     "sa": "भ्रष्ट-योनि",
+     "iast": "bhraṣṭa-yoni",
+     "en": "prolapse of the uterus / vagina",
+     "hi": "योनि भ्रंश"
+    },
+    {
+     "sa": "कर्ण-शिरः-रुजि",
+     "iast": "karṇa-śiraḥ-ruji",
+     "en": "in pain of ear and head",
+     "hi": "कान और सिर के दर्द में"
+    }
+   ],
+   "english": "...the remaining two (vasā and majjā) are recommended. Vasā in particular is indicated in pain of the joints, bones, vital points (marma) and abdomen, and likewise in burns, injuries, prolapse of the uterus, and pain in the ears and head.",
+   "hindi": "...शेष दोनों (वसा और मज्जा) प्रशस्त हैं। वसा विशेष रूप से जोड़ों, हड्डियों, मर्मों और कोष्ठ की पीड़ा में, तथा जलने, चोट, योनि भ्रंश और कान व सिर के दर्द में उपयोगी है।",
+   "explanation_en": "This completes the indications of the four fats (verses 8-11). A simple table helps: ghṛta - mind, pitta; taila - vāta, kapha, lightness, krūra koṣṭha; vasā - pain, injuries, burns, prolapse; majjā (with vasā) - depleted dhātus and strong agni.",
+   "explanation_hi": "यहाँ चारों स्नेहों के संकेत (श्लोक 8-11) पूरे होते हैं। एक सरल तालिका बनाएँ: घृत - मन, पित्त; तैल - वात, कफ, हल्कापन, क्रूर कोष्ठ; वसा - पीड़ा, चोट, जलना, योनि भ्रंश; मज्जा (वसा के साथ) - क्षीण धातु और तीव्र अग्नि।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vasā",
+    "majjā",
+    "yonibhraṃśa",
+    "marma"
+   ],
+   "tags": [
+    "snehana",
+    "vasa",
+    "indications"
+   ],
+   "importance": "medium",
+   "mnemonic": "Ghee-mind, Oil-vāta/kapha, Vasā-pain & injury, Majjā-depletion.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.16.12",
+   "word_meanings": [
+    {
+     "sa": "तैलम् प्रावृषि",
+     "iast": "tailam prāvṛṣi",
+     "en": "oil in prāvṛṭ (early rains)",
+     "hi": "प्रावृट् (वर्षा आरंभ) में तेल"
+    },
+    {
+     "sa": "वर्षा-अन्ते सर्पिः",
+     "iast": "varṣā-ante sarpiḥ",
+     "en": "ghee at the end of the rains (śarad)",
+     "hi": "वर्षा के अंत (शरद) में घी"
+    },
+    {
+     "sa": "अन्यौ तु माधवे",
+     "iast": "anyau tu mādhave",
+     "en": "the other two (vasā, majjā) in spring",
+     "hi": "अन्य दो (वसा, मज्जा) वसंत में"
+    },
+    {
+     "sa": "ऋतौ साधारणे",
+     "iast": "ṛtau sādhāraṇe",
+     "en": "in the moderate season",
+     "hi": "साधारण ऋतु में"
+    },
+    {
+     "sa": "स्नेहः शस्तः अह्नि",
+     "iast": "snehaḥ śastaḥ ahni",
+     "en": "oleation is advised in the daytime",
+     "hi": "स्नेहन दिन में प्रशस्त है"
+    },
+    {
+     "sa": "विमले रवौ",
+     "iast": "vimale ravau",
+     "en": "when the sun is clear",
+     "hi": "जब सूर्य निर्मल (साफ़) हो"
+    }
+   ],
+   "english": "Oil (is to be taken) in prāvṛṭ (early rains), ghee at the end of the rains (śarad), and the other two (vasā and majjā) in Mādhava (spring). Oleation in the moderate (sādhāraṇa) season is advised in the daytime when the sun is clear.",
+   "hindi": "प्रावृट् (वर्षा आरंभ) में तेल, वर्षा के अंत (शरद) में घी, और अन्य दो (वसा और मज्जा) माधव (वसंत) में लेने चाहिए। साधारण ऋतु में स्नेहन दिन में, जब सूर्य साफ़ हो, प्रशस्त है।",
+   "explanation_en": "This gives the seasonal choice of fat: oil in the rainy season (vāta), ghee in autumn (pitta), vasā-majjā in spring. It parallels the seasonal śodhana schedule of chapter 13. 'Vimale ravau' means a clear, not cloudy, day.",
+   "explanation_hi": "यह ऋतु के अनुसार स्नेह का चयन बताता है: वर्षा में तेल (वात), शरद में घी (पित्त), वसंत में वसा-मज्जा। यह अध्याय 13 की ऋतु-शोधन सारणी के समानांतर है। 'विमले रवौ' का अर्थ है साफ़, बादल रहित दिन।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sneha-kāla",
+    "ṛtu",
+    "taila",
+    "ghṛta"
+   ],
+   "tags": [
+    "snehana",
+    "sneha-kala",
+    "ritucharya"
+   ],
+   "importance": "high",
+   "mnemonic": "Rains-Oil, Autumn-Ghee, Spring-Vasā/Majjā.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.16.13",
+   "word_meanings": [
+    {
+     "sa": "तैलम् त्वरायाम् शीते अपि",
+     "iast": "tailam tvarāyām śīte api",
+     "en": "oil in urgency even in the cold season",
+     "hi": "आवश्यकता होने पर ठंड में भी तेल"
+    },
+    {
+     "sa": "घर्मे अपि च घृतम् निशि",
+     "iast": "gharme api ca ghṛtam niśi",
+     "en": "and ghee even in the hot season, at night",
+     "hi": "और गर्मी में भी रात को घी"
+    },
+    {
+     "sa": "निशि एव पित्ते पवने",
+     "iast": "niśi eva pitte pavane",
+     "en": "only at night in (aggravated) pitta and vāta",
+     "hi": "पित्त और वात में केवल रात को"
+    },
+    {
+     "sa": "संसर्गे पित्तवति अपि",
+     "iast": "saṃsarge pittavati api",
+     "en": "and also in a combination with pitta",
+     "hi": "और पित्त युक्त संसर्ग में भी"
+    }
+   ],
+   "english": "In urgency, oil may be given even in the cold season (by day), and ghee even in the hot season at night. In pitta and vāta conditions, and in combinations that include pitta, (oleation is given) only at night.",
+   "hindi": "आवश्यकता (आपात स्थिति) में ठंडी ऋतु में भी (दिन में) तेल दिया जा सकता है, और गर्म ऋतु में भी रात को घी। पित्त और वात की अवस्था में, तथा पित्त युक्त संसर्ग में, स्नेहन केवल रात में दिया जाता है।",
+   "explanation_en": "This gives exceptions to the seasonal rule of verse 12 when treatment cannot wait. Night is cool, so ghee at night avoids aggravating pitta in summer. The reasoning for avoiding the wrong time is given in verse 14.",
+   "explanation_hi": "यह उस स्थिति के अपवाद बताता है जब चिकित्सा की प्रतीक्षा नहीं की जा सकती (श्लोक 12 का नियम)। रात ठंडी होती है, इसलिए गर्मी में रात को घी देने से पित्त नहीं बढ़ता। गलत समय से बचने का कारण श्लोक 14 में है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sneha-kāla",
+    "ghṛta",
+    "taila",
+    "pitta"
+   ],
+   "tags": [
+    "snehana",
+    "sneha-kala"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.16.14",
+   "word_meanings": [
+    {
+     "sa": "निशि अन्यथा",
+     "iast": "niśi anyathā",
+     "en": "otherwise, at night",
+     "hi": "अन्यथा, रात में"
+    },
+    {
+     "sa": "वात-कफात् रोगाः स्युः",
+     "iast": "vāta-kaphāt rogāḥ syuḥ",
+     "en": "diseases arise from vāta and kapha",
+     "hi": "वात और कफ से रोग होते हैं"
+    },
+    {
+     "sa": "पित्ततः दिवा",
+     "iast": "pittataḥ divā",
+     "en": "from pitta in the daytime",
+     "hi": "दिन में पित्त से"
+    },
+    {
+     "sa": "युक्त्या अवचारयेत् स्नेहम्",
+     "iast": "yuktyā avacārayet sneham",
+     "en": "one should administer fat judiciously",
+     "hi": "युक्ति से स्नेह का प्रयोग करे"
+    },
+    {
+     "sa": "भक्ष्य-आदि-अन्नेन",
+     "iast": "bhakṣya-ādi-annena",
+     "en": "with eatables and other food",
+     "hi": "भक्ष्य आदि भोजन के साथ"
+    },
+    {
+     "sa": "वस्तिभिः",
+     "iast": "vastibhiḥ",
+     "en": "with enemas",
+     "hi": "बस्तियों से"
+    }
+   ],
+   "english": "Otherwise (if these rules are ignored), diseases arise from vāta and kapha at night, and from pitta in the daytime. One should judiciously administer fat with eatables and other foods, with enemas,...",
+   "hindi": "अन्यथा (इन नियमों का पालन न करने पर) रात में वात और कफ से तथा दिन में पित्त से रोग होते हैं। युक्ति से स्नेह का प्रयोग भक्ष्य आदि भोजन के साथ, बस्तियों से,...",
+   "explanation_en": "The first half explains why the time matters: oleation in cold conditions (night) in vāta-kapha states, or in heat (day) in pitta states, aggravates those doṣas. The second half begins the list of 'vicāraṇā' (indirect ways of giving fat), continued in verse 15.",
+   "explanation_hi": "पहली आधी पंक्ति बताती है कि समय क्यों महत्वपूर्ण है: वात-कफ अवस्था में ठंड (रात) में और पित्त अवस्था में गर्मी (दिन) में स्नेहन से वे दोष बढ़ते हैं। दूसरी आधी पंक्ति 'विचारणा' (स्नेह देने के अप्रत्यक्ष तरीकों) की सूची शुरू करती है, जो श्लोक 15 में आगे है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sneha-kāla",
+    "vicāraṇā"
+   ],
+   "tags": [
+    "snehana",
+    "sneha-kala",
+    "vicharana"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.16.15",
+   "word_meanings": [
+    {
+     "sa": "नस्य",
+     "iast": "nasya",
+     "en": "nasal administration",
+     "hi": "नस्य"
+    },
+    {
+     "sa": "अभ्यञ्जन",
+     "iast": "abhyañjana",
+     "en": "oil massage",
+     "hi": "अभ्यंजन (मालिश)"
+    },
+    {
+     "sa": "गण्डूष",
+     "iast": "gaṇḍūṣa",
+     "en": "holding (oil) in the mouth",
+     "hi": "गण्डूष"
+    },
+    {
+     "sa": "मूर्ध",
+     "iast": "mūrdha",
+     "en": "(oil on the) head (mūrdhataila)",
+     "hi": "मूर्धतैल"
+    },
+    {
+     "sa": "कर्ण",
+     "iast": "karṇa",
+     "en": "(oil in the) ears (karṇapūraṇa)",
+     "hi": "कर्णपूरण"
+    },
+    {
+     "sa": "अक्षि-तर्पणैः",
+     "iast": "akṣi-tarpaṇaiḥ",
+     "en": "and eye-satiating therapy (akṣitarpaṇa)",
+     "hi": "और अक्षितर्पण"
+    },
+    {
+     "sa": "रस-भेद-एककत्वाभ्याम्",
+     "iast": "rasa-bheda-ekakatvābhyām",
+     "en": "by combinations of tastes and by (fat) alone",
+     "hi": "रसों के भेद (मिश्रण) और अकेले (स्नेह) से"
+    },
+    {
+     "sa": "चतुः-षष्टिः विचारणाः",
+     "iast": "catuḥ-ṣaṣṭiḥ vicāraṇāḥ",
+     "en": "sixty-four vicāraṇās (modes of indirect use)",
+     "hi": "चौंसठ विचारणाएँ"
+    }
+   ],
+   "english": "...with nasya, oil massage (abhyañjana), gaṇḍūṣa, application on the head (mūrdhataila), filling the ears (karṇapūraṇa) and akṣitarpaṇa (eye therapy). Through combinations with the tastes (rasa) and use of fat alone, there are sixty-four vicāraṇās (modes of administration).",
+   "hindi": "...नस्य, अभ्यंजन (मालिश), गण्डूष, मूर्धतैल, कर्णपूरण और अक्षितर्पण से। रसों के साथ विभिन्न मिश्रणों और अकेले स्नेह से कुल चौंसठ विचारणाएँ (स्नेह देने के प्रकार) होती हैं।",
+   "explanation_en": "The '64 vicāraṇā' is a well-known exam number: the six rasas give 63 combinations, plus fat on its own (ekaka) makes 64. Vicāraṇā means giving fat indirectly, mixed with food or through other routes, as opposed to drinking plain fat (accha-peya).",
+   "explanation_hi": "'64 विचारणा' परीक्षा की प्रसिद्ध संख्या है: छह रसों के 63 मिश्रण और अकेला स्नेह (एकक) मिलाकर 64। विचारणा का अर्थ है स्नेह को अप्रत्यक्ष रूप से, भोजन में मिलाकर या अन्य मार्गों से देना, जबकि शुद्ध स्नेह पीना 'अच्छपेय' है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vicāraṇā",
+    "accha-peya",
+    "nasya",
+    "gaṇḍūṣa",
+    "akṣitarpaṇa",
+    "karṇapūraṇa"
+   ],
+   "tags": [
+    "snehana",
+    "vicharana",
+    "enumeration"
+   ],
+   "importance": "high",
+   "mnemonic": "6 rasas: 63 combos + 1 alone = 64 vicāraṇās.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.16.16",
+   "word_meanings": [
+    {
+     "sa": "स्नेहस्य",
+     "iast": "snehasya",
+     "en": "of the fat",
+     "hi": "स्नेह का"
+    },
+    {
+     "sa": "अन्य-अभिभूतत्वात्",
+     "iast": "anya-abhibhūtatvāt",
+     "en": "because of being overpowered by other (substances)",
+     "hi": "दूसरे (द्रव्यों) से दब जाने के कारण"
+    },
+    {
+     "sa": "अल्पत्वात् च",
+     "iast": "alpatvāt ca",
+     "en": "and because of small quantity",
+     "hi": "और कम मात्रा होने के कारण"
+    },
+    {
+     "sa": "क्रमात् स्मृताः",
+     "iast": "kramāt smṛtāḥ",
+     "en": "are taught in sequence (as vicāraṇā)",
+     "hi": "क्रम से (विचारणा) कहे गए हैं"
+    },
+    {
+     "sa": "यथा-उक्त-हेतु-अभावात् च",
+     "iast": "yathā-ukta-hetu-abhāvāt ca",
+     "en": "and because the stated reasons are absent",
+     "hi": "और बताए गए कारण न होने से"
+    },
+    {
+     "sa": "न अच्छ-पेयः विचारणा",
+     "iast": "na accha-peyaḥ vicāraṇā",
+     "en": "drinking plain fat is not a vicāraṇā",
+     "hi": "शुद्ध स्नेह पीना विचारणा नहीं है"
+    }
+   ],
+   "english": "These are called vicāraṇā because in them the fat is overpowered by other substances and is used in small quantity. Since these reasons do not apply, drinking plain fat (accha-peya) is not a vicāraṇā.",
+   "hindi": "इन्हें विचारणा इसलिए कहते हैं क्योंकि इनमें स्नेह दूसरे द्रव्यों से दब जाता है और कम मात्रा में होता है। शुद्ध स्नेह पीने (अच्छपेय) में ये कारण नहीं हैं, इसलिए वह विचारणा नहीं है।",
+   "explanation_en": "This defines vicāraṇā by two features: the fat is masked by other things and is in small amount. Accha-peya (plain fat drinking) is a separate, stronger method, described as the best in verse 17. The file records variants 'snehasyānnābhibhūtatvād' (overpowered by food) and 'nācchaḥ peyo'.",
+   "explanation_hi": "यह विचारणा की दो विशेषताएँ बताता है: स्नेह दूसरे पदार्थों में छिपा होता है और कम मात्रा में होता है। अच्छपेय (शुद्ध स्नेह पीना) अलग और अधिक प्रभावशाली विधि है, जिसे श्लोक 17 में श्रेष्ठ कहा है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vicāraṇā",
+    "accha-peya"
+   ],
+   "tags": [
+    "snehana",
+    "vicharana",
+    "definitions"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.16.17",
+   "word_meanings": [
+    {
+     "sa": "स्नेहस्य कल्पः सः श्रेष्ठः",
+     "iast": "snehasya kalpaḥ saḥ śreṣṭhaḥ",
+     "en": "that is the best mode of (administering) fat",
+     "hi": "वह स्नेह देने का श्रेष्ठ तरीका है"
+    },
+    {
+     "sa": "स्नेह-कर्म-आशु-साधनात्",
+     "iast": "sneha-karma-āśu-sādhanāt",
+     "en": "because it quickly accomplishes the action of oleation",
+     "hi": "क्योंकि यह स्नेहन कर्म शीघ्र करता है"
+    },
+    {
+     "sa": "द्वाभ्याम् चतुर्भिः अष्टाभिः यामैः",
+     "iast": "dvābhyām caturbhiḥ aṣṭābhiḥ yāmaiḥ",
+     "en": "in two, four and eight yāmas (1 yāma = 3 hours)",
+     "hi": "दो, चार और आठ याम (1 याम = 3 घंटे) में"
+    },
+    {
+     "sa": "जीर्यन्ति याः क्रमात्",
+     "iast": "jīryanti yāḥ kramāt",
+     "en": "which are digested, respectively",
+     "hi": "जो क्रम से पचती हैं"
+    }
+   ],
+   "english": "That (drinking of plain fat) is the best mode of administering fat, since it accomplishes oleation quickly. Doses that are digested in two, four and eight yāmas (6, 12 and 24 hours) respectively...",
+   "hindi": "वह (शुद्ध स्नेह पीना) स्नेह देने का श्रेष्ठ तरीका है, क्योंकि इससे स्नेहन कर्म शीघ्र होता है। जो मात्राएँ क्रम से दो, चार और आठ याम (6, 12 और 24 घंटे) में पचती हैं...",
+   "explanation_en": "Accha snehapāna is called the best (śreṣṭha) form of snehana. The second half begins the classical definition of doses by digestion time, completed in verse 18. One yāma is about three hours.",
+   "explanation_hi": "अच्छ स्नेहपान को स्नेहन का श्रेष्ठ रूप कहा गया है। दूसरी आधी पंक्ति पाचन समय के अनुसार मात्राओं की शास्त्रीय परिभाषा शुरू करती है, जो श्लोक 18 में पूरी होती है। एक याम लगभग तीन घंटे का होता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "accha snehapāna",
+    "mātrā",
+    "yāma"
+   ],
+   "tags": [
+    "snehana",
+    "matra",
+    "snehapana"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.16.18",
+   "word_meanings": [
+    {
+     "sa": "ह्रस्व-मध्य-उत्तमाः मात्राः",
+     "iast": "hrasva-madhya-uttamāḥ mātrāḥ",
+     "en": "are the minimum, medium and maximum doses",
+     "hi": "ह्रस्व, मध्यम और उत्तम मात्राएँ हैं"
+    },
+    {
+     "sa": "ताः ताभ्यः च ह्रसीयसीम्",
+     "iast": "tāḥ tābhyaḥ ca hrasīyasīm",
+     "en": "and (a dose) even smaller than those",
+     "hi": "और उनसे भी कम (मात्रा)"
+    },
+    {
+     "sa": "कल्पयेत् वीक्ष्य दोष-आदीन्",
+     "iast": "kalpayet vīkṣya doṣa-ādīn",
+     "en": "one should decide after examining doṣa etc.",
+     "hi": "दोष आदि देखकर निर्धारित करे"
+    },
+    {
+     "sa": "प्राक् एव तु ह्रसीयसीम्",
+     "iast": "prāk eva tu hrasīyasīm",
+     "en": "but first of all the smallest (test) dose",
+     "hi": "पर सबसे पहले सबसे छोटी मात्रा"
+    }
+   ],
+   "english": "...are the minimum (hrasva), medium (madhya) and maximum (uttama) doses. One should also fix a dose smaller than these (hrasīyasī) after examining the doṣa and other factors; and at the very beginning one should give this smallest dose.",
+   "hindi": "...ह्रस्व (कम), मध्यम और उत्तम (अधिक) मात्राएँ हैं। दोष आदि का विचार करके इनसे भी कम (ह्रसीयसी) मात्रा तय करनी चाहिए; और सबसे पहले यही सबसे छोटी मात्रा देनी चाहिए।",
+   "explanation_en": "Sneha mātrā by digestion time: hrasva - 2 yāmas (6 h), madhyama - 4 yāmas (12 h), uttama - 8 yāmas (24 h). The hrasīyasī (test dose) is given first to judge the patient's agni and koṣṭha. This is a very common exam question.",
+   "explanation_hi": "पाचन समय के अनुसार स्नेह मात्रा: ह्रस्व - 2 याम (6 घंटे), मध्यम - 4 याम (12 घंटे), उत्तम - 8 याम (24 घंटे)। रोगी की अग्नि और कोष्ठ जानने के लिए सबसे पहले ह्रसीयसी (परीक्षण) मात्रा दी जाती है। यह परीक्षा में बहुत पूछा जाता है।",
+   "modern_correlation": {
+    "en": "Starting with a small test dose and increasing gradually broadly parallels the modern practice of dose titration to assess individual tolerance.",
+    "hi": "छोटी परीक्षण मात्रा से शुरू करके धीरे-धीरे बढ़ाना मोटे तौर पर आधुनिक 'डोज़ टाइट्रेशन' से मिलता है, जिसमें व्यक्ति की सहनशीलता देखी जाती है।"
+   },
+   "key_terms": [
+    "hrasva mātrā",
+    "madhyama mātrā",
+    "uttama mātrā",
+    "hrasīyasī mātrā"
+   ],
+   "tags": [
+    "snehana",
+    "matra"
+   ],
+   "importance": "high",
+   "mnemonic": "Sneha dose by digestion: 2-4-8 yāma = 6-12-24 hours = small-medium-large.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.16.19",
+   "word_meanings": [
+    {
+     "sa": "ह्यस्तने जीर्णे एव अन्ने",
+     "iast": "hyastane jīrṇe eva anne",
+     "en": "only when the previous day's food has been digested",
+     "hi": "पिछले दिन का भोजन पच जाने पर ही"
+    },
+    {
+     "sa": "स्नेहः अच्छः",
+     "iast": "snehaḥ acchaḥ",
+     "en": "plain fat",
+     "hi": "शुद्ध (अच्छ) स्नेह"
+    },
+    {
+     "sa": "शुद्धये बहुः",
+     "iast": "śuddhaye bahuḥ",
+     "en": "in large dose for purification",
+     "hi": "शोधन के लिए अधिक मात्रा में"
+    },
+    {
+     "sa": "शमनः",
+     "iast": "śamanaḥ",
+     "en": "(fat) for pacification",
+     "hi": "शमन स्नेह"
+    },
+    {
+     "sa": "क्षुद्वतः",
+     "iast": "kṣudvataḥ",
+     "en": "for one who is hungry",
+     "hi": "भूखे व्यक्ति को"
+    },
+    {
+     "sa": "अननः",
+     "iast": "ananaḥ",
+     "en": "without food",
+     "hi": "बिना अन्न के"
+    },
+    {
+     "sa": "मध्य-मात्रः च शस्यते",
+     "iast": "madhya-mātraḥ ca śasyate",
+     "en": "in medium dose is recommended",
+     "hi": "मध्यम मात्रा में प्रशस्त है"
+    }
+   ],
+   "english": "For purification (śodhana), plain fat is given in a large dose, only after the previous day's food has been digested. For pacification (śamana), fat in a medium dose is given without food to one who is hungry.",
+   "hindi": "शोधन के लिए शुद्ध स्नेह अधिक मात्रा में दिया जाता है, पर केवल तभी जब पिछले दिन का भोजन पच गया हो। शमन के लिए स्नेह मध्यम मात्रा में, बिना अन्न के, भूख लगने पर दिया जाता है।",
+   "explanation_en": "Verses 19-20 describe the three types of snehapāna by purpose: śodhana sneha (large dose, plain, early morning after previous food is digested), śamana sneha (medium dose, when hungry, without food) and bṛṃhaṇa sneha (small dose with food, verse 20). This classification is high-yield.",
+   "explanation_hi": "श्लोक 19-20 उद्देश्य के अनुसार स्नेहपान के तीन प्रकार बताते हैं: शोधन स्नेह (अधिक मात्रा, शुद्ध, पिछला भोजन पचने के बाद सुबह), शमन स्नेह (मध्यम मात्रा, भूख लगने पर, बिना अन्न के) और बृंहण स्नेह (कम मात्रा, भोजन के साथ, श्लोक 20)। यह वर्गीकरण बहुत महत्वपूर्ण है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "śodhana snehapāna",
+    "śamana snehapāna",
+    "accha sneha"
+   ],
+   "tags": [
+    "snehana",
+    "snehapana",
+    "classification"
+   ],
+   "importance": "high",
+   "mnemonic": "Śodhana-big & plain; Śamana-medium & hungry; Bṛṃhaṇa-small & with food.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.16.20",
+   "word_meanings": [
+    {
+     "sa": "बृंहणः",
+     "iast": "bṛṃhaṇaḥ",
+     "en": "(fat) for nourishment",
+     "hi": "बृंहण स्नेह"
+    },
+    {
+     "sa": "रस-मद्य-आद्यैः",
+     "iast": "rasa-madya-ādyaiḥ",
+     "en": "with meat soup, wine etc.",
+     "hi": "मांसरस, मद्य आदि के साथ"
+    },
+    {
+     "sa": "स-भक्तः",
+     "iast": "sa-bhaktaḥ",
+     "en": "with food",
+     "hi": "भोजन के साथ"
+    },
+    {
+     "sa": "अल्पः",
+     "iast": "alpaḥ",
+     "en": "in small dose",
+     "hi": "कम मात्रा में"
+    },
+    {
+     "sa": "हितः सः च",
+     "iast": "hitaḥ saḥ ca",
+     "en": "and that is beneficial",
+     "hi": "और वह हितकर है"
+    },
+    {
+     "sa": "बाल-वृद्ध",
+     "iast": "bāla-vṛddha",
+     "en": "for children and the old",
+     "hi": "बच्चों और वृद्धों के लिए"
+    },
+    {
+     "sa": "पिपासा-आर्त",
+     "iast": "pipāsā-ārta",
+     "en": "for those suffering from thirst",
+     "hi": "प्यास से पीड़ितों के लिए"
+    },
+    {
+     "sa": "स्नेह-द्विष्",
+     "iast": "sneha-dviṣ",
+     "en": "for those who dislike fat",
+     "hi": "स्नेह से घृणा करने वालों के लिए"
+    },
+    {
+     "sa": "मद्य-शीलिषु",
+     "iast": "madya-śīliṣu",
+     "en": "for those accustomed to wine",
+     "hi": "मद्य के अभ्यस्त लोगों के लिए"
+    }
+   ],
+   "english": "For nourishment (bṛṃhaṇa), fat is given in a small dose with meat soup, wine and the like, along with food. And such fat (mixed with food) is suitable for children, the old, those suffering from thirst, those who dislike fat, those accustomed to wine,...",
+   "hindi": "बृंहण के लिए स्नेह कम मात्रा में मांसरस, मद्य आदि के साथ, भोजन सहित दिया जाता है। और ऐसा (भोजन में मिला) स्नेह बच्चों, वृद्धों, प्यास से पीड़ित, स्नेह से घृणा करने वाले, मद्य के अभ्यस्त,...",
+   "explanation_en": "This completes the three types of snehapāna. The second half begins a list of people for whom fat mixed with food (vicāraṇā) is preferable, continued in verse 21. The file records a variant word order in the second quarter.",
+   "explanation_hi": "यहाँ स्नेहपान के तीन प्रकार पूरे होते हैं। दूसरी आधी पंक्ति उन लोगों की सूची शुरू करती है जिनके लिए भोजन में मिला स्नेह (विचारणा) अधिक उपयुक्त है, जो श्लोक 21 में आगे है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "bṛṃhaṇa snehapāna",
+    "vicāraṇā"
+   ],
+   "tags": [
+    "snehana",
+    "snehapana",
+    "vicharana"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.16.21",
+   "word_meanings": [
+    {
+     "sa": "स्त्री",
+     "iast": "strī",
+     "en": "women",
+     "hi": "स्त्रियाँ"
+    },
+    {
+     "sa": "स्नेह-नित्य",
+     "iast": "sneha-nitya",
+     "en": "those habitually taking fat",
+     "hi": "नित्य स्नेह लेने वाले"
+    },
+    {
+     "sa": "मन्द-अग्नि",
+     "iast": "manda-agni",
+     "en": "those with weak agni",
+     "hi": "मंद अग्नि वाले"
+    },
+    {
+     "sa": "सुखित",
+     "iast": "sukhita",
+     "en": "those living in comfort (delicate)",
+     "hi": "सुखी (सुकुमार) लोग"
+    },
+    {
+     "sa": "क्लेश-भीरुषु",
+     "iast": "kleśa-bhīruṣu",
+     "en": "those afraid of hardship",
+     "hi": "कष्ट से डरने वाले"
+    },
+    {
+     "sa": "मृदु-कोष्ठ",
+     "iast": "mṛdu-koṣṭha",
+     "en": "those with soft bowels",
+     "hi": "मृदु कोष्ठ वाले"
+    },
+    {
+     "sa": "अल्प-दोषेषु",
+     "iast": "alpa-doṣeṣu",
+     "en": "those with slight doṣa imbalance",
+     "hi": "अल्प दोष वाले"
+    },
+    {
+     "sa": "काले च उष्णे",
+     "iast": "kāle ca uṣṇe",
+     "en": "and in the hot season",
+     "hi": "और गर्म ऋतु में"
+    },
+    {
+     "sa": "कृशेषु च",
+     "iast": "kṛśeṣu ca",
+     "en": "and in the emaciated",
+     "hi": "और कृश लोगों में"
+    }
+   ],
+   "english": "...women, those who habitually take fat, those with chronically weak agni, those used to comfort, those afraid of hardship, those with soft bowels (mṛdu-koṣṭha) or slight doṣa imbalance, in the hot season, and for the emaciated.",
+   "hindi": "...स्त्रियाँ, नित्य स्नेह लेने वाले, सदा मंद अग्नि वाले, सुखी (सुकुमार) लोग, कष्ट से डरने वाले, मृदु कोष्ठ वाले, अल्प दोष वाले, गर्म ऋतु में, और कृश लोग (इनके लिए भोजन में मिला स्नेह हितकर है)।",
+   "explanation_en": "This completes the list of those suited to vicāraṇā sneha. All of these either cannot tolerate a large plain dose or do not need strong oleation. A practical point: delicate patients, children and the elderly receive fat in food rather than as a plain drink.",
+   "explanation_hi": "यहाँ विचारणा स्नेह के योग्य लोगों की सूची पूरी होती है। ये सब या तो अधिक मात्रा में शुद्ध स्नेह सह नहीं सकते या इन्हें तीव्र स्नेहन की आवश्यकता नहीं। व्यावहारिक बात: सुकुमार रोगी, बच्चे और वृद्ध शुद्ध पेय के बजाय भोजन में स्नेह लेते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vicāraṇā",
+    "mṛdu koṣṭha",
+    "alpa doṣa"
+   ],
+   "tags": [
+    "snehana",
+    "vicharana",
+    "indications"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.16.22",
+   "word_meanings": [
+    {
+     "sa": "प्राक्-मध्य-उत्तर-भक्तः",
+     "iast": "prāk-madhya-uttara-bhaktaḥ",
+     "en": "taken before, in the middle of, or after a meal",
+     "hi": "भोजन से पहले, बीच में या बाद में लिया गया"
+    },
+    {
+     "sa": "असौ",
+     "iast": "asau",
+     "en": "this (fat)",
+     "hi": "यह (स्नेह)"
+    },
+    {
+     "sa": "अधः-मध्य-ऊर्ध्व-देह-जान्",
+     "iast": "adhaḥ-madhya-ūrdhva-deha-jān",
+     "en": "arising in the lower, middle and upper body",
+     "hi": "शरीर के निचले, मध्य और ऊपरी भाग में उत्पन्न"
+    },
+    {
+     "sa": "व्याधीन् जयेत्",
+     "iast": "vyādhīn jayet",
+     "en": "conquers diseases",
+     "hi": "रोगों को जीतता है"
+    },
+    {
+     "sa": "बलम् कुर्यात् अङ्गानाम् च",
+     "iast": "balam kuryāt aṅgānām ca",
+     "en": "and gives strength to the parts",
+     "hi": "और अंगों को बल देता है"
+    },
+    {
+     "sa": "यथा-क्रमम्",
+     "iast": "yathā-kramam",
+     "en": "respectively",
+     "hi": "क्रम से"
+    }
+   ],
+   "english": "Fat taken before, in the middle of, or after a meal conquers diseases arising in the lower, middle and upper parts of the body respectively, and strengthens those parts in the same order.",
+   "hindi": "भोजन से पहले, बीच में या बाद में लिया गया स्नेह क्रम से शरीर के निचले, मध्य और ऊपरी भाग के रोगों को जीतता है और उसी क्रम में उन अंगों को बल देता है।",
+   "explanation_en": "This mirrors the bheṣaja-kāla rules of chapter 13 (verses 38-41): before food for the lower body (apāna region), middle of the meal for the middle body (samāna), after food for the upper body (prāṇa-udāna region).",
+   "explanation_hi": "यह अध्याय 13 (श्लोक 38-41) के भेषज-काल नियमों जैसा है: भोजन से पहले निचले शरीर (अपान क्षेत्र) के लिए, भोजन के बीच में मध्य शरीर (समान) के लिए, भोजन के बाद ऊपरी शरीर (प्राण-उदान क्षेत्र) के लिए।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sneha-kāla",
+    "prāgbhakta",
+    "madhyabhakta",
+    "uttarabhakta"
+   ],
+   "tags": [
+    "snehana",
+    "bhaishajya-kala"
+   ],
+   "importance": "medium",
+   "mnemonic": "Before meal-below, middle-middle, after meal-above.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.16.23",
+   "word_meanings": [
+    {
+     "sa": "वारि उष्णम्",
+     "iast": "vāri uṣṇam",
+     "en": "hot water",
+     "hi": "गरम पानी"
+    },
+    {
+     "sa": "अच्छे अनुपिबेत् स्नेहे",
+     "iast": "acche anupibet snehe",
+     "en": "should drink after plain fat",
+     "hi": "शुद्ध स्नेह के बाद पीए"
+    },
+    {
+     "sa": "तत् सुख-पक्तये",
+     "iast": "tat sukha-paktaye",
+     "en": "for its easy digestion",
+     "hi": "उसके आसानी से पचने के लिए"
+    },
+    {
+     "sa": "आस्य-उपलेप-शुद्ध्यै च",
+     "iast": "āsya-upalepa-śuddhyai ca",
+     "en": "and for cleansing the coating in the mouth",
+     "hi": "और मुँह की चिकनाई साफ़ करने के लिए"
+    },
+    {
+     "sa": "तौबर-आरुष्करे न तु",
+     "iast": "taubara-āruṣkare na tu",
+     "en": "but not after tuvaraka or bhallātaka oil",
+     "hi": "पर तुवरक या भल्लातक तेल के बाद नहीं"
+    }
+   ],
+   "english": "After drinking plain fat, one should drink hot water for its easy digestion and to clear the coating from the mouth; but not after the oils of tuvaraka or āruṣkara (bhallātaka).",
+   "hindi": "शुद्ध स्नेह पीने के बाद उसके आसानी से पचने और मुँह की चिकनाई साफ़ करने के लिए गरम पानी पीना चाहिए; पर तुवरक या आरुष्कर (भल्लातक) तेल के बाद नहीं।",
+   "explanation_en": "Uṣṇodaka anupāna (hot water as an after-drink) is the standard rule for snehapāna. Tuvaraka (chaulmoogra, Hydnocarpus) and bhallātaka oils are exceptions; commentators say cold water is used after them because of their very hot, irritant nature.",
+   "explanation_hi": "उष्णोदक अनुपान (बाद में गरम पानी पीना) स्नेहपान का मानक नियम है। तुवरक (चालमोगरा) और भल्लातक तेल इसके अपवाद हैं; टीकाकार कहते हैं कि इनके अत्यंत उष्ण और क्षोभक स्वभाव के कारण इनके बाद ठंडा पानी दिया जाता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "anupāna",
+    "uṣṇodaka",
+    "tuvaraka",
+    "bhallātaka"
+   ],
+   "tags": [
+    "snehana",
+    "anupana",
+    "snehapana"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.16.24",
+   "word_meanings": [
+    {
+     "sa": "मूर्छा",
+     "iast": "mūrchā",
+     "en": "fainting",
+     "hi": "मूर्छा"
+    },
+    {
+     "sa": "दाहः",
+     "iast": "dāhaḥ",
+     "en": "burning",
+     "hi": "जलन"
+    },
+    {
+     "sa": "अरतिः",
+     "iast": "aratiḥ",
+     "en": "restlessness",
+     "hi": "बेचैनी"
+    },
+    {
+     "sa": "तृष्णा",
+     "iast": "tṛṣṇā",
+     "en": "thirst",
+     "hi": "प्यास"
+    },
+    {
+     "sa": "जृम्भा",
+     "iast": "jṛmbhā",
+     "en": "yawning",
+     "hi": "जम्हाई"
+    },
+    {
+     "sa": "मोह-भ्रम-क्लमाः",
+     "iast": "moha-bhrama-klamāḥ",
+     "en": "confusion, giddiness and fatigue",
+     "hi": "मोह, चक्कर और थकान"
+    },
+    {
+     "sa": "भवन्ति जीर्यति स्नेहे",
+     "iast": "bhavanti jīryati snehe",
+     "en": "occur while the fat is being digested",
+     "hi": "स्नेह पचते समय होते हैं"
+    },
+    {
+     "sa": "जीर्णः स्यात् तैः शमम् गतैः",
+     "iast": "jīrṇaḥ syāt taiḥ śamam gataiḥ",
+     "en": "it is digested when these subside",
+     "hi": "इनके शांत होने पर (स्नेह) पच गया समझें"
+    },
+    {
+     "sa": "जीर्ण-अजीर्ण-विशङ्कायाम्",
+     "iast": "jīrṇa-ajīrṇa-viśaṅkāyām",
+     "en": "when in doubt whether digested or not",
+     "hi": "पचा या नहीं, इस संदेह में"
+    },
+    {
+     "sa": "पुनः उष्ण-उदकम् पिबेत्",
+     "iast": "punaḥ uṣṇa-udakam pibet",
+     "en": "should drink hot water again",
+     "hi": "फिर से गरम पानी पीए"
+    },
+    {
+     "sa": "उद्गार-विशुद्धिः स्यात्",
+     "iast": "udgāra-viśuddhiḥ syāt",
+     "en": "belching becomes clear",
+     "hi": "डकार शुद्ध हो जाती है"
+    },
+    {
+     "sa": "लघुता रुचिः",
+     "iast": "laghutā ruciḥ",
+     "en": "lightness and appetite",
+     "hi": "हल्कापन और रुचि"
+    }
+   ],
+   "english": "[Additional lines:] While the fat is being digested, there may be fainting, burning, restlessness, thirst, yawning, confusion, giddiness and fatigue; when these subside, the fat is digested. [Main verse:] If there is doubt whether it has been digested, one should again drink hot water; this makes the belching clear, followed by lightness and appetite.",
+   "hindi": "[अतिरिक्त पंक्तियाँ:] स्नेह पचते समय मूर्छा, जलन, बेचैनी, प्यास, जम्हाई, मोह, चक्कर और थकान हो सकते हैं; इनके शांत होने पर स्नेह पच गया समझना चाहिए। [मूल श्लोक:] यदि संदेह हो कि पचा या नहीं, तो फिर से गरम पानी पीना चाहिए; इससे डकार शुद्ध होती है, फिर हल्कापन और भूख आती है।",
+   "explanation_en": "These are the signs of sneha being digested (jīryamāṇa lakṣaṇa) and digested (jīrṇa lakṣaṇa), important in monitoring snehapāna. Pure belching (udgāra-śuddhi), lightness and return of appetite are the key signs of complete digestion.",
+   "explanation_hi": "ये स्नेह पचते समय (जीर्यमाण लक्षण) और पच जाने (जीर्ण लक्षण) के लक्षण हैं, जो स्नेहपान की निगरानी में महत्वपूर्ण हैं। शुद्ध डकार, हल्कापन और भूख लौटना पूर्ण पाचन के मुख्य लक्षण हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "jīryamāṇa lakṣaṇa",
+    "jīrṇa lakṣaṇa",
+    "uṣṇodaka"
+   ],
+   "tags": [
+    "snehana",
+    "snehapana",
+    "monitoring"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.16.25",
+   "word_meanings": [
+    {
+     "sa": "भोज्यः अन्नम् मात्रया",
+     "iast": "bhojyaḥ annam mātrayā",
+     "en": "should be fed food in proper quantity",
+     "hi": "उचित मात्रा में भोजन कराए"
+    },
+    {
+     "sa": "पास्यन् श्वः",
+     "iast": "pāsyan śvaḥ",
+     "en": "one who will drink (fat) tomorrow",
+     "hi": "जो कल (स्नेह) पीने वाला है"
+    },
+    {
+     "sa": "पिबन् पीतवान् अपि",
+     "iast": "piban pītavān api",
+     "en": "one who is drinking and who has drunk",
+     "hi": "जो पी रहा है और जो पी चुका है"
+    },
+    {
+     "sa": "द्रव-उष्णम्",
+     "iast": "drava-uṣṇam",
+     "en": "liquid and warm",
+     "hi": "द्रव और गरम"
+    },
+    {
+     "sa": "अनभिष्यन्दि",
+     "iast": "anabhiṣyandi",
+     "en": "not channel-clogging",
+     "hi": "अभिष्यन्दी न हो (स्रोत न रोके)"
+    },
+    {
+     "sa": "न अति-स्निग्धम्",
+     "iast": "na ati-snigdham",
+     "en": "not too unctuous",
+     "hi": "बहुत स्निग्ध न हो"
+    },
+    {
+     "sa": "असंकरम्",
+     "iast": "asaṃkaram",
+     "en": "not mixed (with incompatible items)",
+     "hi": "असंकर (बेमेल मिश्रण रहित)"
+    }
+   ],
+   "english": "The person who is going to drink fat the next day, who is drinking it, and who has drunk it, should be given food in proper quantity that is liquid, warm, non-clogging (anabhiṣyandi), not too unctuous and not a mixture of incompatible items.",
+   "hindi": "जो व्यक्ति कल स्नेह पीने वाला है, जो पी रहा है और जो पी चुका है, उसे उचित मात्रा में ऐसा भोजन देना चाहिए जो द्रव, गरम, अनभिष्यन्दी (स्रोत न रोकने वाला), बहुत स्निग्ध न हो और बेमेल मिश्रण वाला न हो।",
+   "explanation_en": "Verses 25-28 give the regimen (parihāra / pathya) during snehapāna. Diet before, during and after is light, warm and liquid, so that agni can handle the large fat load.",
+   "explanation_hi": "श्लोक 25-28 स्नेहपान के दौरान का नियम (परिहार/पथ्य) बताते हैं। पहले, दौरान और बाद का आहार हल्का, गरम और द्रव होता है, ताकि अग्नि अधिक स्नेह को पचा सके।",
+   "modern_correlation": null,
+   "key_terms": [
+    "snehapāna pathya",
+    "anabhiṣyandi"
+   ],
+   "tags": [
+    "snehana",
+    "pathya",
+    "regimen"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.16.26",
+   "word_meanings": [
+    {
+     "sa": "उष्ण-उदक-उपचारी स्यात्",
+     "iast": "uṣṇa-udaka-upacārī syāt",
+     "en": "should use hot water for all purposes",
+     "hi": "सब कामों में गरम पानी का प्रयोग करे"
+    },
+    {
+     "sa": "ब्रह्मचारी",
+     "iast": "brahmacārī",
+     "en": "celibate",
+     "hi": "ब्रह्मचारी"
+    },
+    {
+     "sa": "क्षपा-शयः",
+     "iast": "kṣapā-śayaḥ",
+     "en": "sleeping (only) at night",
+     "hi": "केवल रात में सोने वाला"
+    },
+    {
+     "sa": "न वेग-रोधी",
+     "iast": "na vega-rodhī",
+     "en": "not suppressing natural urges",
+     "hi": "वेगों को न रोकने वाला"
+    },
+    {
+     "sa": "व्यायाम",
+     "iast": "vyāyāma",
+     "en": "exercise",
+     "hi": "व्यायाम"
+    },
+    {
+     "sa": "क्रोध-शोक",
+     "iast": "krodha-śoka",
+     "en": "anger and grief",
+     "hi": "क्रोध और शोक"
+    },
+    {
+     "sa": "हिम-आतपान्",
+     "iast": "hima-ātapān",
+     "en": "cold and sun",
+     "hi": "ठंड और धूप"
+    }
+   ],
+   "english": "He should use hot water for all purposes, remain celibate, sleep only at night, and not suppress natural urges; (he should avoid) exercise, anger, grief, cold and sun,...",
+   "hindi": "वह सब कामों में गरम पानी का प्रयोग करे, ब्रह्मचर्य का पालन करे, केवल रात में सोए और प्राकृतिक वेगों को न रोके; (वह) व्यायाम, क्रोध, शोक, ठंड और धूप से (बचे),...",
+   "explanation_en": "This is the standard 'parihāra' (things to observe and avoid) during snehana and other śodhana procedures. The list of avoidances continues in verse 27.",
+   "explanation_hi": "यह स्नेहन और अन्य शोधन कर्मों के दौरान पालन किए जाने वाले 'परिहार' (करने और न करने योग्य बातें) का मानक नियम है। वर्जित चीज़ों की सूची श्लोक 27 में आगे है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "parihāra",
+    "uṣṇodaka",
+    "brahmacarya",
+    "vegadhāraṇa"
+   ],
+   "tags": [
+    "snehana",
+    "pathya",
+    "regimen"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.16.27",
+   "word_meanings": [
+    {
+     "sa": "प्रवात",
+     "iast": "pravāta",
+     "en": "strong wind",
+     "hi": "तेज़ हवा"
+    },
+    {
+     "sa": "यान",
+     "iast": "yāna",
+     "en": "riding in vehicles",
+     "hi": "सवारी"
+    },
+    {
+     "sa": "यान-अध्व",
+     "iast": "yāna-adhva",
+     "en": "travelling, long walks",
+     "hi": "यात्रा, पैदल चलना"
+    },
+    {
+     "sa": "भाष्य",
+     "iast": "bhāṣya",
+     "en": "excessive talking",
+     "hi": "अधिक बोलना"
+    },
+    {
+     "sa": "अति-आसन-संस्थितीः",
+     "iast": "ati-āsana-saṃsthitīḥ",
+     "en": "sitting or standing for too long",
+     "hi": "बहुत देर बैठना या खड़े रहना"
+    },
+    {
+     "sa": "नीच-अति-उच्च-उपधान",
+     "iast": "nīca-ati-ucca-upadhāna",
+     "en": "too low or too high pillows",
+     "hi": "बहुत नीचा या बहुत ऊँचा तकिया"
+    },
+    {
+     "sa": "अहः-स्वप्न",
+     "iast": "ahaḥ-svapna",
+     "en": "day sleep",
+     "hi": "दिन में सोना"
+    },
+    {
+     "sa": "धूम-रजांसि च",
+     "iast": "dhūma-rajāṃsi ca",
+     "en": "and smoke and dust",
+     "hi": "और धुआँ व धूल"
+    }
+   ],
+   "english": "...strong wind, riding in vehicles, travelling, excessive talking, sitting or standing too long, pillows that are too low or too high, day sleep, smoke and dust.",
+   "hindi": "...तेज़ हवा, सवारी, यात्रा, अधिक बोलना, बहुत देर बैठे या खड़े रहना, बहुत नीचा या ऊँचा तकिया, दिन में सोना, धुआँ और धूल (से बचे)।",
+   "explanation_en": "These avoidances protect the patient from vāta aggravation and from disturbance of the oleated body. The file records variant readings for the second quarter ('-abhyāsana-', '-aty-aśana-').",
+   "explanation_hi": "ये परहेज़ रोगी को वात वृद्धि से और स्निग्ध शरीर की गड़बड़ी से बचाते हैं। फ़ाइल में दूसरे चरण के पाठभेद दिए हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "parihāra",
+    "divāsvapna"
+   ],
+   "tags": [
+    "snehana",
+    "pathya",
+    "regimen"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.16.28",
+   "word_meanings": [
+    {
+     "sa": "यानि अहानि पिबेत्",
+     "iast": "yāni ahāni pibet",
+     "en": "for as many days as he drinks (fat)",
+     "hi": "जितने दिन (स्नेह) पीए"
+    },
+    {
+     "sa": "तानि तावन्ति अन्यानि अपि त्यजेत्",
+     "iast": "tāni tāvanti anyāni api tyajet",
+     "en": "for that many more days also he should avoid (these)",
+     "hi": "उतने ही और दिनों तक भी (इनका) त्याग करे"
+    },
+    {
+     "sa": "सर्व-कर्मसु अयम् प्रायः",
+     "iast": "sarva-karmasu ayam prāyaḥ",
+     "en": "this generally (applies) in all procedures",
+     "hi": "यह प्रायः सभी कर्मों में (लागू है)"
+    },
+    {
+     "sa": "व्याधि-क्षीणेषु च क्रमः",
+     "iast": "vyādhi-kṣīṇeṣu ca kramaḥ",
+     "en": "and is the regimen for those weakened by disease",
+     "hi": "और रोग से क्षीण लोगों के लिए भी यही क्रम है"
+    }
+   ],
+   "english": "He should avoid these things for as many more days as the number of days he drinks fat. This is generally the regimen in all (purificatory) procedures and for those weakened by disease.",
+   "hindi": "जितने दिन वह स्नेह पीए, उतने ही और दिनों तक भी इन चीज़ों से बचे। यह नियम प्रायः सभी (शोधन) कर्मों में और रोग से क्षीण लोगों के लिए भी है।",
+   "explanation_en": "The rule of 'double the period' for parihāra is a frequently asked point: if snehapāna lasts 5 days, restrictions are kept for 5 more days. The corpus entry begins with a stray variant line belonging to verse 27 ('-bhāṣyāty-āśana-saṃsthitīḥ').",
+   "explanation_hi": "परिहार काल को 'दुगुना' रखने का नियम अक्सर पूछा जाता है: यदि स्नेहपान 5 दिन चले, तो परहेज़ 5 और दिन रखा जाता है। इस प्रविष्टि की शुरुआत में श्लोक 27 का एक पाठभेद छपा है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "parihāra kāla",
+    "snehapāna"
+   ],
+   "tags": [
+    "snehana",
+    "regimen",
+    "parihara"
+   ],
+   "importance": "high",
+   "mnemonic": "Parihāra lasts as long again as the procedure (x2 total).",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.16.29",
+   "word_meanings": [
+    {
+     "sa": "उपचारः तु शमने",
+     "iast": "upacāraḥ tu śamane",
+     "en": "but the regimen in śamana (oleation)",
+     "hi": "पर शमन स्नेहपान में आचरण"
+    },
+    {
+     "sa": "कार्यः स्नेहे विरिक्त-वत्",
+     "iast": "kāryaḥ snehe virikta-vat",
+     "en": "should be done as after purgation",
+     "hi": "विरेचन के बाद जैसा करना चाहिए"
+    },
+    {
+     "sa": "त्रि-अहम् अच्छम् मृदौ कोष्ठे",
+     "iast": "tri-aham accham mṛdau koṣṭhe",
+     "en": "plain (fat) for three days in soft bowel",
+     "hi": "मृदु कोष्ठ में तीन दिन शुद्ध स्नेह"
+    },
+    {
+     "sa": "क्रूरे सप्त-दिनम् पिबेत्",
+     "iast": "krūre sapta-dinam pibet",
+     "en": "in hard bowel should drink for seven days",
+     "hi": "क्रूर कोष्ठ में सात दिन पीए"
+    }
+   ],
+   "english": "In śamana snehapāna (oleation for pacification), the regimen should be like that after purgation (virecana). One should drink plain fat for three days if the bowel is soft (mṛdu koṣṭha), and for seven days if it is hard (krūra koṣṭha),...",
+   "hindi": "शमन स्नेहपान में आचरण विरेचन के बाद जैसा (संसर्जन क्रम आदि) होना चाहिए। मृदु कोष्ठ में तीन दिन और क्रूर कोष्ठ में सात दिन शुद्ध स्नेह पीना चाहिए,...",
+   "explanation_en": "The duration of snehapāna depends on koṣṭha: 3 days for mṛdu koṣṭha and 7 days for krūra koṣṭha (madhya koṣṭha in between). This is a very common exam point, completed in verse 30 ('or until samyak snigdha signs appear').",
+   "explanation_hi": "स्नेहपान की अवधि कोष्ठ पर निर्भर है: मृदु कोष्ठ में 3 दिन, क्रूर कोष्ठ में 7 दिन (मध्य कोष्ठ में बीच में)। यह परीक्षा का बहुत सामान्य बिंदु है, जो श्लोक 30 में ('या सम्यक् स्निग्ध लक्षण आने तक') पूरा होता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "koṣṭha",
+    "mṛdu koṣṭha",
+    "krūra koṣṭha",
+    "snehapāna kāla"
+   ],
+   "tags": [
+    "snehana",
+    "koshtha",
+    "snehapana"
+   ],
+   "importance": "high",
+   "mnemonic": "Soft gut 3 days, hard gut 7 days (or till samyak snigdha).",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.16.30",
+   "word_meanings": [
+    {
+     "sa": "सम्यक्-स्निग्धः अथवा यावत्",
+     "iast": "samyak-snigdhaḥ athavā yāvat",
+     "en": "or until properly oleated",
+     "hi": "या जब तक सम्यक् स्निग्ध न हो"
+    },
+    {
+     "sa": "अतः सात्म्यी-भवेत् परम्",
+     "iast": "ataḥ sātmyī-bhavet param",
+     "en": "beyond that it becomes habituated",
+     "hi": "इसके बाद (स्नेह) सात्म्य (आदत) बन जाता है"
+    },
+    {
+     "sa": "वात-आनुलोम्यम्",
+     "iast": "vāta-ānulomyam",
+     "en": "normal downward movement of vāta",
+     "hi": "वात का अनुलोमन"
+    },
+    {
+     "sa": "दीप्तः अग्निः",
+     "iast": "dīptaḥ agniḥ",
+     "en": "kindled agni",
+     "hi": "प्रदीप्त अग्नि"
+    },
+    {
+     "sa": "वर्चः स्निग्धम् असंहतम्",
+     "iast": "varcaḥ snigdham asaṃhatam",
+     "en": "unctuous and unformed stools",
+     "hi": "स्निग्ध और ढीला मल"
+    }
+   ],
+   "english": "...or until he is properly oleated; beyond that, the fat becomes habituated (sātmya). (The signs of proper oleation are:) normal downward movement of vāta, kindled agni, unctuous and unformed (loose) stools,...",
+   "hindi": "...या जब तक सम्यक् स्निग्ध न हो जाए; इसके बाद स्नेह सात्म्य (शरीर का अभ्यस्त) हो जाता है। (सम्यक् स्निग्ध के लक्षण हैं:) वात का अनुलोमन, प्रदीप्त अग्नि, स्निग्ध और ढीला मल,...",
+   "explanation_en": "Beyond seven days, fat becomes 'sātmya' (the body gets used to it) and no longer loosens doṣas for śodhana; hence the 7-day limit. The second half begins the signs of samyak snigdha (proper oleation), continued in verse 31.",
+   "explanation_hi": "सात दिन के बाद स्नेह 'सात्म्य' हो जाता है (शरीर उसका अभ्यस्त हो जाता है) और शोधन के लिए दोषों को ढीला नहीं करता; इसलिए 7 दिन की सीमा है। दूसरी आधी पंक्ति सम्यक् स्निग्ध लक्षण शुरू करती है, जो श्लोक 31 में आगे है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "samyak snigdha",
+    "sātmya",
+    "vātānulomana"
+   ],
+   "tags": [
+    "snehana",
+    "samyak-yoga"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.16.31",
+   "word_meanings": [
+    {
+     "sa": "स्नेह-उद्वेगः",
+     "iast": "sneha-udvegaḥ",
+     "en": "aversion to fat",
+     "hi": "स्नेह से अरुचि (उद्वेग)"
+    },
+    {
+     "sa": "क्लमः",
+     "iast": "klamaḥ",
+     "en": "fatigue",
+     "hi": "थकान"
+    },
+    {
+     "sa": "सम्यक्-स्निग्धे",
+     "iast": "samyak-snigdhe",
+     "en": "in the properly oleated",
+     "hi": "सम्यक् स्निग्ध में"
+    },
+    {
+     "sa": "रूक्षे विपर्ययः",
+     "iast": "rūkṣe viparyayaḥ",
+     "en": "in the under-oleated, the opposite",
+     "hi": "रूक्ष (अस्निग्ध) में विपरीत"
+    },
+    {
+     "sa": "अति-स्निग्धे तु",
+     "iast": "ati-snigdhe tu",
+     "en": "but in the over-oleated",
+     "hi": "पर अति स्निग्ध में"
+    },
+    {
+     "sa": "पाण्डुत्वम्",
+     "iast": "pāṇḍutvam",
+     "en": "pallor",
+     "hi": "पीलापन (पांडुता)"
+    },
+    {
+     "sa": "घ्राण-वक्त्र-गुद-स्रवाः",
+     "iast": "ghrāṇa-vaktra-guda-sravāḥ",
+     "en": "discharge from nose, mouth and anus",
+     "hi": "नाक, मुँह और गुदा से स्राव"
+    }
+   ],
+   "english": "...aversion to fat and fatigue: these are the signs of proper oleation (samyak snigdha). In the under-oleated (rūkṣa), the opposite is seen. In the over-oleated (ati-snigdha), there is pallor and discharge (of fat) from the nose, mouth and anus.",
+   "hindi": "...स्नेह से अरुचि और थकान: ये सम्यक् स्निग्ध के लक्षण हैं। रूक्ष (कम स्निग्ध) में इनके विपरीत लक्षण होते हैं। अति स्निग्ध में पीलापन तथा नाक, मुँह और गुदा से (स्नेह का) स्राव होता है।",
+   "explanation_en": "Verses 30-31 give samyak, hīna (rūkṣa) and ati snigdha lakṣaṇa, a classic three-part exam answer. The file's variant list gives an alternative version of this verse: 'mṛdu-snigdhāṅgatā glāniḥ snehodvego 'tha lāghavam, vimalendriyatā samyak-snigdhe...' (softness and unctuousness of the body, malaise, aversion to fat, lightness, clear senses), which adds further signs.",
+   "explanation_hi": "श्लोक 30-31 सम्यक्, हीन (रूक्ष) और अति स्निग्ध लक्षण बताते हैं, जो परीक्षा का प्रसिद्ध तीन भाग वाला उत्तर है। फ़ाइल के पाठभेद में इस श्लोक का दूसरा रूप भी है: 'मृदुस्निग्धाङ्गता ग्लानिः स्नेहोद्वेगोऽथ लाघवम्, विमलेन्द्रियता सम्यक्स्निग्धे...' (शरीर की कोमलता और स्निग्धता, ग्लानि, स्नेह से अरुचि, हल्कापन, इंद्रियों की निर्मलता), जो और लक्षण जोड़ता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "samyak snigdha",
+    "hīna snigdha",
+    "ati snigdha"
+   ],
+   "tags": [
+    "snehana",
+    "samyak-yoga",
+    "atiyoga"
+   ],
+   "importance": "high",
+   "mnemonic": "Samyak snigdha: soft oily stool, good agni, vāta moving down, fed-up with fat.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.16.32",
+   "word_meanings": [
+    {
+     "sa": "अमात्रया",
+     "iast": "amātrayā",
+     "en": "in improper dose",
+     "hi": "अनुचित मात्रा में"
+    },
+    {
+     "sa": "अहितः",
+     "iast": "ahitaḥ",
+     "en": "unwholesome",
+     "hi": "अहितकर"
+    },
+    {
+     "sa": "अकाले",
+     "iast": "akāle",
+     "en": "at the wrong time",
+     "hi": "गलत समय पर"
+    },
+    {
+     "sa": "मिथ्या-आहार-विहारतः",
+     "iast": "mithyā-āhāra-vihārataḥ",
+     "en": "due to improper diet and conduct",
+     "hi": "गलत आहार-विहार से"
+    },
+    {
+     "sa": "स्नेहः करोति",
+     "iast": "snehaḥ karoti",
+     "en": "fat causes",
+     "hi": "स्नेह उत्पन्न करता है"
+    },
+    {
+     "sa": "शोफ",
+     "iast": "śopha",
+     "en": "swelling",
+     "hi": "सूजन"
+    },
+    {
+     "sa": "अर्शस्",
+     "iast": "arśas",
+     "en": "haemorrhoids",
+     "hi": "अर्श (बवासीर)"
+    },
+    {
+     "sa": "तन्द्रा",
+     "iast": "tandrā",
+     "en": "drowsiness",
+     "hi": "तंद्रा"
+    },
+    {
+     "sa": "स्तम्भ",
+     "iast": "stambha",
+     "en": "stiffness",
+     "hi": "जकड़न"
+    },
+    {
+     "sa": "विसंज्ञताः",
+     "iast": "visaṃjñatāḥ",
+     "en": "loss of consciousness",
+     "hi": "बेहोशी"
+    }
+   ],
+   "english": "Fat taken in improper dose, when unsuitable, at the wrong time, or with improper diet and conduct, causes swelling, haemorrhoids, drowsiness, stiffness, loss of consciousness,...",
+   "hindi": "अनुचित मात्रा में, अहितकर रूप में, गलत समय पर, या गलत आहार-विहार के साथ लिया गया स्नेह सूजन, बवासीर, तंद्रा, जकड़न, बेहोशी,...",
+   "explanation_en": "Verses 32-35 describe sneha-vyāpad (complications of oleation) and their treatment. The corpus entry for this verse begins with three lines of variant readings belonging to verse 31; they are not part of verse 32.",
+   "explanation_hi": "श्लोक 32-35 स्नेह व्यापद (स्नेहन के उपद्रव) और उनकी चिकित्सा बताते हैं। इस प्रविष्टि की शुरुआत में श्लोक 31 के पाठभेदों की तीन पंक्तियाँ छपी हैं, जो श्लोक 32 का भाग नहीं हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sneha vyāpad",
+    "mithyāyoga",
+    "amātrā"
+   ],
+   "tags": [
+    "snehana",
+    "vyapad",
+    "complications"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.16.33",
+   "word_meanings": [
+    {
+     "sa": "कण्डू",
+     "iast": "kaṇḍū",
+     "en": "itching",
+     "hi": "खुजली"
+    },
+    {
+     "sa": "कुष्ठ",
+     "iast": "kuṣṭha",
+     "en": "skin disease",
+     "hi": "कुष्ठ"
+    },
+    {
+     "sa": "ज्वर",
+     "iast": "jvara",
+     "en": "fever",
+     "hi": "ज्वर"
+    },
+    {
+     "sa": "उत्क्लेश",
+     "iast": "utkleśa",
+     "en": "nausea",
+     "hi": "उत्क्लेश (जी मिचलाना)"
+    },
+    {
+     "sa": "शूल",
+     "iast": "śūla",
+     "en": "colic",
+     "hi": "शूल"
+    },
+    {
+     "sa": "आनाह",
+     "iast": "ānāha",
+     "en": "distension",
+     "hi": "आनाह (पेट फूलना)"
+    },
+    {
+     "sa": "भ्रम-आदिकान्",
+     "iast": "bhrama-ādikān",
+     "en": "giddiness etc.",
+     "hi": "चक्कर आदि"
+    },
+    {
+     "sa": "क्षुत्",
+     "iast": "kṣut",
+     "en": "hunger (fasting)",
+     "hi": "क्षुधा (उपवास)"
+    },
+    {
+     "sa": "तृष्णा",
+     "iast": "tṛṣṇā",
+     "en": "thirst (restriction)",
+     "hi": "तृषा"
+    },
+    {
+     "sa": "उल्लेखन",
+     "iast": "ullekhana",
+     "en": "emesis",
+     "hi": "उल्लेखन (वमन)"
+    },
+    {
+     "sa": "स्वेद",
+     "iast": "sveda",
+     "en": "sudation",
+     "hi": "स्वेदन"
+    },
+    {
+     "sa": "रूक्ष-पान-अन्न-भेषजम्",
+     "iast": "rūkṣa-pāna-anna-bheṣajam",
+     "en": "dry drinks, foods and medicines",
+     "hi": "रूक्ष पेय, भोजन और औषधि"
+    }
+   ],
+   "english": "...itching, skin diseases, fever, nausea, colic, abdominal distension, giddiness and similar disorders. (Their treatment includes:) fasting, restriction of water, emesis (ullekhana), sudation, and dry drinks, foods and medicines,...",
+   "hindi": "...खुजली, कुष्ठ, ज्वर, जी मिचलाना, शूल, पेट फूलना, चक्कर आदि। (इनकी चिकित्सा है:) उपवास, प्यास सहना, वमन, स्वेदन, और रूखे पेय, भोजन व औषधियाँ,...",
+   "explanation_en": "The complications are mostly kapha-āma conditions caused by unabsorbed fat. Treatment is therefore laṅghana-type: fasting, emesis, sudation and dry substances. The file records variants ('bala-kṣayān', 'svedo') and a stray fragment at the start of verse 34.",
+   "explanation_hi": "ये उपद्रव अधिकतर न पचे स्नेह से उत्पन्न कफ-आम अवस्थाएँ हैं। इसलिए चिकित्सा लंघन प्रकार की है: उपवास, वमन, स्वेदन और रूखे द्रव्य।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sneha vyāpad",
+    "ullekhana",
+    "rūkṣaṇa"
+   ],
+   "tags": [
+    "snehana",
+    "vyapad",
+    "complications"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.16.34",
+   "word_meanings": [
+    {
+     "sa": "तक्र",
+     "iast": "takra",
+     "en": "buttermilk",
+     "hi": "तक्र (छाछ)"
+    },
+    {
+     "sa": "अरिष्ट",
+     "iast": "ariṣṭa",
+     "en": "fermented decoctions",
+     "hi": "अरिष्ट"
+    },
+    {
+     "sa": "खल",
+     "iast": "khala",
+     "en": "khala (spiced buttermilk preparation)",
+     "hi": "खल"
+    },
+    {
+     "sa": "उद्दाल",
+     "iast": "uddāla",
+     "en": "uddāla (a kodo millet variety)",
+     "hi": "उद्दाल"
+    },
+    {
+     "sa": "यव",
+     "iast": "yava",
+     "en": "barley",
+     "hi": "जौ"
+    },
+    {
+     "sa": "श्यामाक",
+     "iast": "śyāmāka",
+     "en": "barnyard millet",
+     "hi": "साँवा"
+    },
+    {
+     "sa": "कोद्रवाः",
+     "iast": "kodravāḥ",
+     "en": "kodo millet",
+     "hi": "कोदों"
+    },
+    {
+     "sa": "पिप्पली",
+     "iast": "pippalī",
+     "en": "long pepper",
+     "hi": "पिप्पली"
+    },
+    {
+     "sa": "त्रि-फला",
+     "iast": "tri-phalā",
+     "en": "the three myrobalans",
+     "hi": "त्रिफला"
+    },
+    {
+     "sa": "क्षौद्र",
+     "iast": "kṣaudra",
+     "en": "honey",
+     "hi": "शहद"
+    },
+    {
+     "sa": "पथ्या",
+     "iast": "pathyā",
+     "en": "harītakī",
+     "hi": "पथ्या (हरड़)"
+    },
+    {
+     "sa": "गो-मूत्र",
+     "iast": "go-mūtra",
+     "en": "cow urine",
+     "hi": "गोमूत्र"
+    },
+    {
+     "sa": "गुग्गुलु",
+     "iast": "guggulu",
+     "en": "guggulu",
+     "hi": "गुग्गुलु"
+    }
+   ],
+   "english": "...buttermilk (takra), ariṣṭa, khala, uddāla, barley, śyāmāka, kodo millet, pippalī, triphalā, honey, pathyā (harītakī), cow urine and guggulu,...",
+   "hindi": "...छाछ, अरिष्ट, खल, उद्दाल, जौ, साँवा, कोदों, पिप्पली, त्रिफला, शहद, हरड़, गोमूत्र और गुग्गुलु,...",
+   "explanation_en": "These are the specific drugs and foods for sneha-vyāpad: all are dry, light or scraping (lekhana). Takra (buttermilk) is especially noted for clearing excess fat from the gut. The corpus entry begins with a stray fragment 'rūkṣaṃ pānānna-bheṣajam' (a variant of verse 33).",
+   "explanation_hi": "ये स्नेह व्यापद के विशिष्ट द्रव्य और आहार हैं: सभी रूखे, हल्के या लेखन करने वाले हैं। तक्र (छाछ) पेट से अधिक स्नेह साफ़ करने के लिए विशेष रूप से प्रसिद्ध है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sneha vyāpad",
+    "takra",
+    "guggulu",
+    "gomūtra"
+   ],
+   "tags": [
+    "snehana",
+    "vyapad",
+    "treatment"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.16.35",
+   "word_meanings": [
+    {
+     "sa": "यथा-स्वम् प्रति-रोगम् च",
+     "iast": "yathā-svam prati-rogam ca",
+     "en": "as appropriate, for each disease",
+     "hi": "यथायोग्य, प्रत्येक रोग के अनुसार"
+    },
+    {
+     "sa": "स्नेह-व्यापदि साधनम्",
+     "iast": "sneha-vyāpadi sādhanam",
+     "en": "(are the) remedy in complications of oleation",
+     "hi": "स्नेह व्यापद की चिकित्सा हैं"
+    },
+    {
+     "sa": "विरूक्षणे",
+     "iast": "virūkṣaṇe",
+     "en": "in drying therapy",
+     "hi": "रूक्षण में"
+    },
+    {
+     "sa": "लङ्घन-वत्",
+     "iast": "laṅghana-vat",
+     "en": "like laṅghana",
+     "hi": "लंघन की तरह"
+    },
+    {
+     "sa": "कृत-अति-कृत-लक्षणम्",
+     "iast": "kṛta-ati-kṛta-lakṣaṇam",
+     "en": "the signs of proper and excessive application",
+     "hi": "सम्यक् और अतियोग के लक्षण"
+    }
+   ],
+   "english": "...used as appropriate for each disease, are the remedies for complications of oleation. In drying therapy (virūkṣaṇa), the signs of proper and excessive application are the same as those of laṅghana.",
+   "hindi": "...प्रत्येक रोग के अनुसार यथायोग्य प्रयोग करने पर, ये स्नेह व्यापद की चिकित्सा हैं। रूक्षण (रूखा करने की चिकित्सा) में सम्यक् और अतियोग के लक्षण लंघन जैसे ही होते हैं।",
+   "explanation_en": "The second half refers back to chapter 14 (verses 17-18 and 29-31) for the signs of proper and excess rūkṣaṇa, since drying is a form of laṅghana. This kind of cross-reference is typical of Vāgbhaṭa's concise style.",
+   "explanation_hi": "दूसरी आधी पंक्ति रूक्षण के सम्यक् और अतियोग लक्षणों के लिए अध्याय 14 (श्लोक 17-18 और 29-31) की ओर संकेत करती है, क्योंकि रूक्षण लंघन का ही रूप है। ऐसे संदर्भ वाग्भट की संक्षिप्त शैली की विशेषता हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sneha vyāpad",
+    "rūkṣaṇa",
+    "laṅghana"
+   ],
+   "tags": [
+    "snehana",
+    "vyapad",
+    "rukshana"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.16.36",
+   "word_meanings": [
+    {
+     "sa": "स्निग्ध-द्रव-उष्ण",
+     "iast": "snigdha-drava-uṣṇa",
+     "en": "unctuous, liquid and warm",
+     "hi": "स्निग्ध, द्रव और गरम"
+    },
+    {
+     "sa": "धन्व-उत्थ-रस-भुक्",
+     "iast": "dhanva-uttha-rasa-bhuk",
+     "en": "eating meat soup of dry-land animals",
+     "hi": "जांगल प्राणियों के मांसरस का सेवन करने वाला"
+    },
+    {
+     "sa": "स्वेदम् आचरेत्",
+     "iast": "svedam ācaret",
+     "en": "should undergo sudation",
+     "hi": "स्वेदन करे"
+    },
+    {
+     "sa": "स्निग्धः त्रि-अहम् स्थितः",
+     "iast": "snigdhaḥ tri-aham sthitaḥ",
+     "en": "the oleated person, having waited three days",
+     "hi": "स्निग्ध व्यक्ति तीन दिन रुककर"
+    },
+    {
+     "sa": "कुर्यात् विरेकम्",
+     "iast": "kuryāt virekam",
+     "en": "should undergo purgation",
+     "hi": "विरेचन करे"
+    },
+    {
+     "sa": "वमनम् पुनः",
+     "iast": "vamanam punaḥ",
+     "en": "but for emesis",
+     "hi": "पर वमन के लिए"
+    }
+   ],
+   "english": "Eating unctuous, liquid, warm food and meat soups of dry-land (jāṅgala) animals, the (oleated) person should undergo sudation. Having waited for three days after oleation, he should undergo purgation (virecana); but for emesis (vamana),...",
+   "hindi": "स्निग्ध, द्रव, गरम भोजन और जांगल प्राणियों का मांसरस लेते हुए (स्निग्ध) व्यक्ति को स्वेदन करना चाहिए। स्नेहन के बाद तीन दिन रुककर विरेचन करना चाहिए; पर वमन के लिए,...",
+   "explanation_en": "This gives the sequence after snehapāna: sudation, then a gap of 3 days before virecana (verse 37 gives the gap for vamana). This ordering (snehana - svedana - śodhana) is the standard pūrvakarma-pradhānakarma sequence. The file records a variant 'svedam ācaran'.",
+   "explanation_hi": "यह स्नेहपान के बाद का क्रम बताता है: स्वेदन, फिर विरेचन से पहले 3 दिन का अंतर (वमन का अंतर श्लोक 37 में)। यह क्रम (स्नेहन - स्वेदन - शोधन) मानक पूर्वकर्म-प्रधानकर्म क्रम है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "snehana",
+    "svedana",
+    "virecana",
+    "pūrvakarma",
+    "viśrāma kāla"
+   ],
+   "tags": [
+    "snehana",
+    "purvakarma",
+    "virechana"
+   ],
+   "importance": "high",
+   "mnemonic": "After sneha: Virecana after 3 days' gap; Vamana after 1 day's gap (with kapha-provoking diet).",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.16.37",
+   "word_meanings": [
+    {
+     "sa": "एक-अहम्",
+     "iast": "eka-aham",
+     "en": "(after) one day",
+     "hi": "एक दिन (रुककर)"
+    },
+    {
+     "sa": "दिनम् अन्यत् च",
+     "iast": "dinam anyat ca",
+     "en": "and on the next day",
+     "hi": "और अगले दिन"
+    },
+    {
+     "sa": "कफम् उत्क्लेश्य",
+     "iast": "kapham utkleśya",
+     "en": "having excited kapha",
+     "hi": "कफ का उत्क्लेश करके"
+    },
+    {
+     "sa": "तत्-करैः",
+     "iast": "tat-karaiḥ",
+     "en": "with kapha-increasing things",
+     "hi": "कफ बढ़ाने वाले द्रव्यों से"
+    },
+    {
+     "sa": "मांसलाः",
+     "iast": "māṃsalāḥ",
+     "en": "the fleshy",
+     "hi": "मांसल (भारी शरीर वाले)"
+    },
+    {
+     "sa": "मेदुराः",
+     "iast": "medurāḥ",
+     "en": "the fatty",
+     "hi": "मेदुर (चर्बी वाले)"
+    },
+    {
+     "sa": "भूरि-श्लेष्माणः",
+     "iast": "bhūri-śleṣmāṇaḥ",
+     "en": "those with abundant kapha",
+     "hi": "अधिक कफ वाले"
+    },
+    {
+     "sa": "विषम-अग्नयः",
+     "iast": "viṣama-agnayaḥ",
+     "en": "those with irregular agni",
+     "hi": "विषम अग्नि वाले"
+    }
+   ],
+   "english": "...(he should wait) one day, and on the next day, after exciting kapha with kapha-increasing substances, (emesis is given). Those who are fleshy, fatty, have abundant kapha or irregular agni,...",
+   "hindi": "...(वमन के लिए) एक दिन रुककर, और अगले दिन कफ बढ़ाने वाले पदार्थों से कफ का उत्क्लेश करके (वमन दिया जाता है)। जो मांसल, मेदुर (चर्बी वाले), अधिक कफ वाले या विषम अग्नि वाले हों,...",
+   "explanation_en": "For vamana, only one day's gap is kept after oleation, and kapha is deliberately provoked (utkleśa) the day before with foods like curd, black gram or fish so that it comes out easily. The second half begins a special instruction for heavy, kapha-type patients, completed in verse 38.",
+   "explanation_hi": "वमन के लिए स्नेहन के बाद केवल एक दिन का अंतर रखा जाता है, और एक दिन पहले दही, उड़द या मछली जैसे आहार से कफ का जानबूझकर उत्क्लेश किया जाता है ताकि वह आसानी से निकले। दूसरी आधी पंक्ति भारी, कफ प्रकृति वाले रोगियों के लिए विशेष निर्देश शुरू करती है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vamana",
+    "kaphotkleśa",
+    "māṃsala",
+    "viṣamāgni"
+   ],
+   "tags": [
+    "snehana",
+    "vamana",
+    "purvakarma"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.16.38",
+   "word_meanings": [
+    {
+     "sa": "स्नेह-उचिताः च",
+     "iast": "sneha-ucitāḥ ca",
+     "en": "and those accustomed to fat",
+     "hi": "और स्नेह के अभ्यस्त"
+    },
+    {
+     "sa": "ये स्नेह्याः",
+     "iast": "ye snehyāḥ",
+     "en": "who are to be oleated",
+     "hi": "जिनका स्नेहन करना हो"
+    },
+    {
+     "sa": "तान् पूर्वम् रूक्षयेत्",
+     "iast": "tān pūrvam rūkṣayet",
+     "en": "should first make them dry",
+     "hi": "उन्हें पहले रूक्ष करे"
+    },
+    {
+     "sa": "ततः संस्नेह्य",
+     "iast": "tataḥ saṃsnehya",
+     "en": "then, having oleated",
+     "hi": "फिर स्नेहन करके"
+    },
+    {
+     "sa": "शोधयेत्",
+     "iast": "śodhayet",
+     "en": "should purify",
+     "hi": "शोधन करे"
+    },
+    {
+     "sa": "एवम् स्नेह-व्यापत् न जायते",
+     "iast": "evam sneha-vyāpat na jāyate",
+     "en": "thus complications of oleation do not arise",
+     "hi": "इस प्रकार स्नेह व्यापद नहीं होती"
+    }
+   ],
+   "english": "...and those accustomed to fat who are to be oleated, should first be made dry (rūkṣaṇa), then oleated, and then purified; in this way complications of oleation do not arise.",
+   "hindi": "...और जो स्नेह के अभ्यस्त हों और जिनका स्नेहन करना हो, उन्हें पहले रूक्ष करें, फिर स्नेहन करें, और फिर शोधन करें; इस प्रकार स्नेह व्यापद नहीं होती।",
+   "explanation_en": "This is the principle of 'rūkṣaṇa before snehana' in obese, kapha-dominant patients and those habituated to fat, an important practical point in pañcakarma (often done with udvartana, takra, etc.). The reason is given in verse 39.",
+   "explanation_hi": "यह मोटे, कफ प्रधान और स्नेह के अभ्यस्त रोगियों में 'स्नेहन से पहले रूक्षण' का सिद्धांत है, जो पंचकर्म का महत्वपूर्ण व्यावहारिक बिंदु है (अक्सर उद्वर्तन, तक्र आदि से)। कारण श्लोक 39 में है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "rūkṣaṇa",
+    "snehana",
+    "śodhana",
+    "sneha vyāpad"
+   ],
+   "tags": [
+    "snehana",
+    "rukshana",
+    "panchakarma"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.16.39",
+   "word_meanings": [
+    {
+     "sa": "अलम् मलान् ईरयितुम्",
+     "iast": "alam malān īrayitum",
+     "en": "(becomes) able to mobilise the malas (doṣas)",
+     "hi": "मलों (दोषों) को चलाने में समर्थ (होता है)"
+    },
+    {
+     "sa": "स्नेहः च असात्म्यताम् गतः",
+     "iast": "snehaḥ ca asātmyatām gataḥ",
+     "en": "the fat that has become non-habituated",
+     "hi": "जो स्नेह असात्म्य (अनभ्यस्त) हो गया है"
+    },
+    {
+     "sa": "बाल-वृद्ध-आदिषु",
+     "iast": "bāla-vṛddha-ādiṣu",
+     "en": "for children, the old etc.",
+     "hi": "बच्चों, वृद्धों आदि में"
+    },
+    {
+     "sa": "स्नेह-परिहार-असहिष्णुषु",
+     "iast": "sneha-parihāra-asahiṣṇuṣu",
+     "en": "who cannot tolerate the restrictions of oleation",
+     "hi": "जो स्नेहन के परहेज़ को सह न सकें"
+    }
+   ],
+   "english": "For fat that has become non-habituated (after rūkṣaṇa) is able to mobilise the malas (doṣas). For children, the old and others who cannot tolerate the restrictions of snehana,...",
+   "hindi": "क्योंकि (रूक्षण के बाद) असात्म्य हुआ स्नेह ही मलों (दोषों) को चलाने में समर्थ होता है। बच्चों, वृद्धों आदि के लिए, जो स्नेहन के परहेज़ सह नहीं सकते,...",
+   "explanation_en": "This explains verse 38: in people habituated to fat, plain fat does not act strongly, so the body is first dried to make the fat 'new' again. The second half introduces sadyaḥ-sneha (quick oleation) for those who cannot follow the full regimen, described in verses 40-43.",
+   "explanation_hi": "यह श्लोक 38 को समझाता है: स्नेह के अभ्यस्त लोगों में शुद्ध स्नेह तीव्र असर नहीं करता, इसलिए पहले शरीर को रूक्ष करके स्नेह को फिर से 'नया' बनाया जाता है। दूसरी आधी पंक्ति सद्यःस्नेह (तुरंत स्नेहन) का परिचय देती है, जो पूरे नियम का पालन न कर सकने वालों के लिए है (श्लोक 40-43)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "asātmya",
+    "sātmya",
+    "sadyaḥsneha",
+    "parihāra"
+   ],
+   "tags": [
+    "snehana",
+    "sadyah-sneha"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.16.40",
+   "word_meanings": [
+    {
+     "sa": "योगान् इमान् अनुद्वेगान्",
+     "iast": "yogān imān anudvegān",
+     "en": "these non-distressing recipes",
+     "hi": "ये कष्ट न देने वाले योग"
+    },
+    {
+     "sa": "सद्यः-स्नेहान् प्रयोजयेत्",
+     "iast": "sadyaḥ-snehān prayojayet",
+     "en": "should use as quick-oleating preparations",
+     "hi": "सद्यःस्नेह के रूप में प्रयोग करे"
+    },
+    {
+     "sa": "प्राज्य-मांस-रसाः",
+     "iast": "prājya-māṃsa-rasāḥ",
+     "en": "abundant meat soups",
+     "hi": "भरपूर मांसरस"
+    },
+    {
+     "sa": "तेषु",
+     "iast": "teṣu",
+     "en": "among them",
+     "hi": "उनमें"
+    },
+    {
+     "sa": "पेया वा स्नेह-भर्जिता",
+     "iast": "peyā vā sneha-bharjitā",
+     "en": "or thin gruel fried in fat",
+     "hi": "या स्नेह में भुनी पेया"
+    }
+   ],
+   "english": "...one should use these non-distressing preparations for quick oleation (sadyaḥ-sneha): abundant meat soups, or a thin gruel (peyā) fried in fat,...",
+   "hindi": "...इन कष्ट न देने वाले सद्यःस्नेह (तुरंत स्नेहन करने वाले) योगों का प्रयोग करें: भरपूर मांसरस, या स्नेह में भुनी पेया (पतली यवागू),...",
+   "explanation_en": "Verses 40-42 list the seven sadyaḥ-sneha yogas (quick oleating recipes), a frequently asked list. They are pleasant foods that oleate the body within a day without the restrictions of plain snehapāna.",
+   "explanation_hi": "श्लोक 40-42 सात सद्यःस्नेह योगों की सूची देते हैं, जो अक्सर पूछी जाती है। ये स्वादिष्ट भोजन हैं जो शुद्ध स्नेहपान के परहेज़ के बिना एक दिन में ही शरीर को स्निग्ध कर देते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sadyaḥsneha",
+    "peyā",
+    "māṃsarasa"
+   ],
+   "tags": [
+    "snehana",
+    "sadyah-sneha",
+    "enumeration"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.16.41",
+   "word_meanings": [
+    {
+     "sa": "तिल-चूर्णः च",
+     "iast": "tila-cūrṇaḥ ca",
+     "en": "and sesame powder",
+     "hi": "और तिल का चूर्ण"
+    },
+    {
+     "sa": "स-स्नेह-फाणितः",
+     "iast": "sa-sneha-phāṇitaḥ",
+     "en": "with fat and phāṇita (half-thickened jaggery syrup)",
+     "hi": "स्नेह और फाणित (राब) के साथ"
+    },
+    {
+     "sa": "कृशरा तथा",
+     "iast": "kṛśarā tathā",
+     "en": "likewise kṛśarā (rice cooked with sesame / pulse)",
+     "hi": "उसी प्रकार कृशरा (खिचड़ी)"
+    },
+    {
+     "sa": "क्षीर-पेया",
+     "iast": "kṣīra-peyā",
+     "en": "milk gruel",
+     "hi": "दूध की पेया"
+    },
+    {
+     "sa": "घृत-आढ्या उष्णा",
+     "iast": "ghṛta-āḍhyā uṣṇā",
+     "en": "rich in ghee and warm",
+     "hi": "घी से भरपूर और गरम"
+    },
+    {
+     "sa": "दध्नः वा स-गुडः सरः",
+     "iast": "dadhnaḥ vā sa-guḍaḥ saraḥ",
+     "en": "or the cream of curd with jaggery",
+     "hi": "या गुड़ के साथ दही की मलाई"
+    }
+   ],
+   "english": "...sesame powder with fat and phāṇita (jaggery syrup), kṛśarā, warm milk-gruel rich in ghee, or the cream (sara) of curd with jaggery,...",
+   "hindi": "...स्नेह और फाणित (राब) के साथ तिल का चूर्ण, कृशरा (खिचड़ी), घी से भरपूर गरम दूध की पेया, या गुड़ के साथ दही की मलाई,...",
+   "explanation_en": "These are more of the sadyaḥ-sneha yogas. Kṛśarā is a thick preparation of rice with sesame or pulses. The file records variant case-endings in the first line.",
+   "explanation_hi": "ये भी सद्यःस्नेह योग हैं। कृशरा चावल और तिल या दाल से बनी गाढ़ी खिचड़ी है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sadyaḥsneha",
+    "kṛśarā",
+    "phāṇita",
+    "dadhi"
+   ],
+   "tags": [
+    "snehana",
+    "sadyah-sneha"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.16.42",
+   "word_meanings": [
+    {
+     "sa": "पेया च पञ्च-प्रसृता",
+     "iast": "peyā ca pañca-prasṛtā",
+     "en": "and the gruel of five prasṛtas",
+     "hi": "और पाँच प्रसृत वाली पेया"
+    },
+    {
+     "sa": "स्नेहैः तण्डुल-पञ्चमैः",
+     "iast": "snehaiḥ taṇḍula-pañcamaiḥ",
+     "en": "with (four) fats and rice as the fifth",
+     "hi": "(चार) स्नेहों और पाँचवें चावल से"
+    },
+    {
+     "sa": "सप्त एते स्नेहनाः सद्यः",
+     "iast": "sapta ete snehanāḥ sadyaḥ",
+     "en": "these seven oleate quickly",
+     "hi": "ये सात तुरंत स्नेहन करते हैं"
+    },
+    {
+     "sa": "स्नेहाः च लवण-उल्बणाः",
+     "iast": "snehāḥ ca lavaṇa-ulbaṇāḥ",
+     "en": "and fats with much salt",
+     "hi": "और अधिक लवण वाले स्नेह"
+    }
+   ],
+   "english": "...and the 'five-prasṛta' gruel (pañcaprasṛtikā peyā), made with (the four) fats and rice as the fifth (one prasṛta each). These seven oleate quickly. Also, fats with a large proportion of salt (oleate quickly),...",
+   "hindi": "...और 'पाँच प्रसृत' वाली पेया (पंचप्रसृतिका पेया), जो (चारों) स्नेहों और पाँचवें चावल से (एक-एक प्रसृत) बनती है। ये सात तुरंत स्नेहन करते हैं। अधिक लवण वाले स्नेह भी (तुरंत स्नेहन करते हैं),...",
+   "explanation_en": "Pañcaprasṛtikā peyā is the most famous sadyaḥ-sneha: one prasṛta each of ghee, oil, vasā, majjā and rice. Prasṛta is a classical measure (about two palas). The reason why salt hastens oleation is given in verse 43. The file records a variant in the singular ('snehaś ca lavaṇolbaṇaḥ').",
+   "explanation_hi": "पंचप्रसृतिका पेया सबसे प्रसिद्ध सद्यःस्नेह है: घी, तेल, वसा, मज्जा और चावल, प्रत्येक एक प्रसृत। प्रसृत एक शास्त्रीय माप है (लगभग दो पल)। लवण से स्नेहन शीघ्र क्यों होता है, यह श्लोक 43 में है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "pañcaprasṛtikā peyā",
+    "sadyaḥsneha",
+    "lavaṇa"
+   ],
+   "tags": [
+    "snehana",
+    "sadyah-sneha",
+    "enumeration"
+   ],
+   "importance": "high",
+   "mnemonic": "Pañcaprasṛtikā peyā = 4 fats + rice, 1 prasṛta each.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.16.43",
+   "word_meanings": [
+    {
+     "sa": "तत् हि",
+     "iast": "tat hi",
+     "en": "because that (salt)",
+     "hi": "क्योंकि वह (लवण)"
+    },
+    {
+     "sa": "अभिष्यन्दि",
+     "iast": "abhiṣyandi",
+     "en": "channel-clogging, moistening",
+     "hi": "अभिष्यन्दी"
+    },
+    {
+     "sa": "अरूक्षम् च",
+     "iast": "arūkṣam ca",
+     "en": "and not dry",
+     "hi": "और रूक्ष नहीं"
+    },
+    {
+     "sa": "सूक्ष्मम्",
+     "iast": "sūkṣmam",
+     "en": "subtle (penetrating)",
+     "hi": "सूक्ष्म"
+    },
+    {
+     "sa": "उष्णम्",
+     "iast": "uṣṇam",
+     "en": "hot",
+     "hi": "उष्ण"
+    },
+    {
+     "sa": "व्यवायि च",
+     "iast": "vyavāyi ca",
+     "en": "and quickly spreading",
+     "hi": "और व्यवायी (शीघ्र फैलने वाला)"
+    },
+    {
+     "sa": "गुड",
+     "iast": "guḍa",
+     "en": "jaggery",
+     "hi": "गुड़"
+    },
+    {
+     "sa": "आनूप-आमिष",
+     "iast": "ānūpa-āmiṣa",
+     "en": "meat of marshy-land animals",
+     "hi": "आनूप (दलदली प्रदेश के) प्राणियों का मांस"
+    },
+    {
+     "sa": "क्षीर",
+     "iast": "kṣīra",
+     "en": "milk",
+     "hi": "दूध"
+    },
+    {
+     "sa": "तिल",
+     "iast": "tila",
+     "en": "sesame",
+     "hi": "तिल"
+    },
+    {
+     "sa": "माष",
+     "iast": "māṣa",
+     "en": "black gram",
+     "hi": "उड़द"
+    },
+    {
+     "sa": "सुरा",
+     "iast": "surā",
+     "en": "surā (a fermented liquor)",
+     "hi": "सुरा"
+    },
+    {
+     "sa": "दधि",
+     "iast": "dadhi",
+     "en": "curd",
+     "hi": "दही"
+    }
+   ],
+   "english": "...because salt is moistening (abhiṣyandi), not dry, subtle, hot and quickly spreading (vyavāyī). Jaggery, meat of marshy-land animals, milk, sesame, black gram, surā and curd,...",
+   "hindi": "...क्योंकि लवण अभिष्यन्दी, अरूक्ष, सूक्ष्म, उष्ण और व्यवायी (शीघ्र फैलने वाला) है। गुड़, आनूप मांस, दूध, तिल, उड़द, सुरा और दही,...",
+   "explanation_en": "The first half gives the properties of lavaṇa that make it a quick oleating aid. The second half begins a list of foods that should not be used for oleation in certain diseases, completed in verse 44. The file records a variant 'viṣyandi'.",
+   "explanation_hi": "पहली आधी पंक्ति लवण के वे गुण बताती है जिनसे वह तुरंत स्नेहन में सहायक है। दूसरी आधी पंक्ति उन आहारों की सूची शुरू करती है जो कुछ रोगों में स्नेहन के लिए नहीं देने चाहिए, जो श्लोक 44 में पूरी होती है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "lavaṇa",
+    "abhiṣyandi",
+    "vyavāyī",
+    "sūkṣma"
+   ],
+   "tags": [
+    "snehana",
+    "sadyah-sneha",
+    "lavana"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.16.44",
+   "word_meanings": [
+    {
+     "sa": "कुष्ठ-शोफ-प्रमेहेषु",
+     "iast": "kuṣṭha-śopha-prameheṣu",
+     "en": "in skin disease, swelling and prameha",
+     "hi": "कुष्ठ, शोथ और प्रमेह में"
+    },
+    {
+     "sa": "स्नेह-अर्थम्",
+     "iast": "sneha-artham",
+     "en": "for the purpose of oleation",
+     "hi": "स्नेहन के लिए"
+    },
+    {
+     "sa": "न प्रकल्पयेत्",
+     "iast": "na prakalpayet",
+     "en": "should not be used",
+     "hi": "प्रयोग न करे"
+    },
+    {
+     "sa": "त्रि-फला-पिप्पली-पथ्या-गुग्गुलु-आदि-विपाचितान्",
+     "iast": "tri-phalā-pippalī-pathyā-guggulu-ādi-vipācitān",
+     "en": "processed with triphalā, pippalī, harītakī, guggulu etc.",
+     "hi": "त्रिफला, पिप्पली, हरड़, गुग्गुलु आदि से सिद्ध"
+    }
+   ],
+   "english": "...should not be used for oleation in kuṣṭha (skin disease), śopha (swelling) and prameha. Fats processed with triphalā, pippalī, pathyā (harītakī), guggulu and the like,...",
+   "hindi": "...कुष्ठ, शोथ और प्रमेह में स्नेहन के लिए प्रयोग नहीं करने चाहिए। त्रिफला, पिप्पली, हरड़, गुग्गुलु आदि से सिद्ध स्नेह,...",
+   "explanation_en": "In kuṣṭha, śopha and prameha (kapha-meda-kleda disorders), the usual sadyaḥ-sneha foods would worsen the disease. Instead, medicated fats prepared with drying, scraping drugs are used (verse 45). Examples are tiktaka ghṛta and similar medicated ghees used in skin diseases.",
+   "explanation_hi": "कुष्ठ, शोथ और प्रमेह (कफ-मेद-क्लेद रोगों) में सामान्य सद्यःस्नेह आहार रोग को बढ़ाएँगे। इसके बजाय रूक्ष, लेखन द्रव्यों से सिद्ध स्नेह प्रयोग होते हैं (श्लोक 45)। उदाहरण: कुष्ठ में प्रयुक्त तिक्तक घृत जैसे सिद्ध घृत।",
+   "modern_correlation": null,
+   "key_terms": [
+    "kuṣṭha",
+    "śopha",
+    "prameha",
+    "siddha sneha"
+   ],
+   "tags": [
+    "snehana",
+    "contraindications",
+    "siddha-sneha"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.16.45",
+   "word_meanings": [
+    {
+     "sa": "स्नेहान् यथा-स्वम् एतेषाम्",
+     "iast": "snehān yathā-svam eteṣām",
+     "en": "fats appropriate to these (diseases)",
+     "hi": "इन (रोगों) के अनुसार स्नेह"
+    },
+    {
+     "sa": "योजयेत् अविकारिणः",
+     "iast": "yojayet avikāriṇaḥ",
+     "en": "should be used, (as they are) harmless",
+     "hi": "प्रयोग करे, (क्योंकि वे) विकार नहीं करते"
+    },
+    {
+     "sa": "क्षीणानाम् तु आमयैः",
+     "iast": "kṣīṇānām tu āmayaiḥ",
+     "en": "but for those depleted by diseases",
+     "hi": "पर रोगों से क्षीण लोगों के लिए"
+    },
+    {
+     "sa": "अग्नि-देह-संधुक्षण-क्षमान्",
+     "iast": "agni-deha-saṃdhukṣaṇa-kṣamān",
+     "en": "(fats) capable of kindling agni and building the body",
+     "hi": "अग्नि और शरीर को प्रदीप्त/पुष्ट करने में समर्थ (स्नेह)"
+    }
+   ],
+   "english": "...should be used appropriately in these (diseases), as they do no harm. For those depleted by diseases, however, (one should use) fats capable of kindling agni and building up the body.",
+   "hindi": "...इन (रोगों) में यथायोग्य प्रयोग करने चाहिए, क्योंकि ये हानि नहीं करते। पर जो रोगों से क्षीण हों, उनके लिए अग्नि को प्रदीप्त करने और शरीर को पुष्ट करने में समर्थ स्नेह देने चाहिए।",
+   "explanation_en": "The principle is that sneha is always tailored: medicated with drying drugs in kapha-meda diseases, and with dīpana-bṛṃhaṇa drugs in depleted patients. The file records a minor variant in the third quarter.",
+   "explanation_hi": "सिद्धांत यह है कि स्नेह सदा रोगी के अनुसार बनाया जाता है: कफ-मेद रोगों में रूक्ष द्रव्यों से सिद्ध, और क्षीण रोगियों में दीपन-बृंहण द्रव्यों से सिद्ध।",
+   "modern_correlation": null,
+   "key_terms": [
+    "siddha sneha",
+    "dīpana",
+    "bṛṃhaṇa"
+   ],
+   "tags": [
+    "snehana",
+    "siddha-sneha"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.16.46",
+   "word_meanings": [
+    {
+     "sa": "दीप्त-अन्तर-अग्निः",
+     "iast": "dīpta-antara-agniḥ",
+     "en": "with kindled internal agni",
+     "hi": "प्रदीप्त जठराग्नि वाला"
+    },
+    {
+     "sa": "परिशुद्ध-कोष्ठः",
+     "iast": "pariśuddha-koṣṭhaḥ",
+     "en": "with a clean koṣṭha (gut)",
+     "hi": "शुद्ध कोष्ठ वाला"
+    },
+    {
+     "sa": "प्रत्यग्र-धातुः",
+     "iast": "pratyagra-dhātuḥ",
+     "en": "with fresh (renewed) dhātus",
+     "hi": "नवीन धातुओं वाला"
+    },
+    {
+     "sa": "बल-वर्ण-युक्तः",
+     "iast": "bala-varṇa-yuktaḥ",
+     "en": "endowed with strength and complexion",
+     "hi": "बल और वर्ण से युक्त"
+    },
+    {
+     "sa": "दृढ-इन्द्रियः",
+     "iast": "dṛḍha-indriyaḥ",
+     "en": "with firm (strong) senses",
+     "hi": "दृढ़ इंद्रियों वाला"
+    },
+    {
+     "sa": "मन्द-जरः",
+     "iast": "manda-jaraḥ",
+     "en": "ageing slowly",
+     "hi": "धीरे-धीरे बूढ़ा होने वाला"
+    },
+    {
+     "sa": "शत-आयुः",
+     "iast": "śata-āyuḥ",
+     "en": "living a hundred years",
+     "hi": "सौ वर्ष की आयु वाला"
+    },
+    {
+     "sa": "स्नेह-उपसेवी पुरुषः",
+     "iast": "sneha-upasevī puruṣaḥ",
+     "en": "a person who regularly uses fats",
+     "hi": "नियमित स्नेह सेवन करने वाला पुरुष"
+    },
+    {
+     "sa": "प्रदिष्टः",
+     "iast": "pradiṣṭaḥ",
+     "en": "is declared",
+     "hi": "कहा गया है"
+    }
+   ],
+   "english": "A person who regularly uses fats (properly) is declared to have strong internal agni, a clean gut, renewed dhātus, strength and good complexion, firm senses, slow ageing and a lifespan of a hundred years.",
+   "hindi": "नियमित (और उचित) स्नेह सेवन करने वाले व्यक्ति की जठराग्नि प्रदीप्त, कोष्ठ शुद्ध, धातुएँ नवीन, बल और वर्ण अच्छे, इंद्रियाँ दृढ़ होती हैं; वह धीरे-धीरे बूढ़ा होता है और सौ वर्ष जीता है।",
+   "explanation_en": "The chapter ends with the benefits (phala) of proper snehana, a common short-answer question. Note 'manda-jara' (slow ageing), linking sneha to rasāyana-like effects.",
+   "explanation_hi": "अध्याय सम्यक् स्नेहन के लाभ (फल) बताकर समाप्त होता है, जो लघु उत्तर का सामान्य प्रश्न है। 'मंदजर' (धीरे बुढ़ापा) पर ध्यान दें, जो स्नेह को रसायन जैसे प्रभावों से जोड़ता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "snehana phala",
+    "agni",
+    "manda-jara",
+    "śatāyu"
+   ],
+   "tags": [
+    "snehana",
+    "benefits"
+   ],
+   "importance": "high",
+   "mnemonic": "Sneha-sevī: Agni bright, gut clean, dhātus fresh, senses firm, ageing slow, 100 years.",
+   "review_status": "ai_draft"
+  }
+ ]
+}

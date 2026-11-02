@@ -80,8 +80,8 @@ export default function VerseScreen() {
     <Screen
       header={
         <Header
-          title={`${sthana?.iast ?? parsed.sthana} ${parsed.chapter}.${v.verse}`}
-          subtitle={text?.title}
+          title={v.ref ?? `${sthana?.iast ?? parsed.sthana} ${parsed.chapter}.${v.verse}`}
+          subtitle={v.ref ? `${text?.title ?? ''} · ${sthana?.iast ?? ''}` : text?.title}
           right={
             <IconBtn
               testID="bookmark-btn"

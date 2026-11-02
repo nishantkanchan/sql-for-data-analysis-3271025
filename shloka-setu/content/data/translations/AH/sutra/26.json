@@ -1,0 +1,4963 @@
+{
+ "chapter": {
+  "id": "AH.sutra.26",
+  "text": "ashtanga_hridaya",
+  "sthana": "sutra",
+  "chapter": 26,
+  "title_iast": "Śastravidhi Adhyāya",
+  "title_devanagari": "शस्त्रविधिरध्यायः",
+  "title_en": "The chapter on sharp surgical instruments (śastra) and leech therapy",
+  "title_hi": "शस्त्रविधि अध्याय (शस्त्रों और जलौकावचारण का वर्णन)",
+  "summary_en": "This chapter describes the 26 sharp instruments (śastra) of Vāgbhaṭa (Suśruta lists 20): their manufacture by skilled smiths from well-forged, tempered iron, the qualities of a good śastra (hair-splitting sharpness, good shape, edge and grip), and then each instrument with its blade size and use, such as maṇḍalāgra for scraping, vṛddhipatra for cutting, vrīhimukha and kuṭhārī for venesection in fleshy and bony areas, the copper śalākā for couching cataract, aṅguliśastra for the throat, karapatra (saw), kartarī (scissors), dantalekhana, the three suturing needles (triangular, round and bow-curved), kūrca, khaja and ear-piercing instruments. It lists the non-metal anuśastras (leech, kṣāra, fire, glass, stone, nail), the thirteen surgical actions, the eight faults of śastras, the ways of holding instruments and the instrument case (śastrakośa). The second half is a detailed account of leech therapy (jalaukāvacaraṇa): poisonous and non-poisonous leeches, preparation, application, the swan-and-milk simile, removal and vomiting of leeches, and after-care. It closes with the choice of bloodletting method (pracchāna, leech, horn, gourd, venesection) by doṣa and by the location of vitiated blood. Almost every section of this chapter is exam-relevant.",
+  "summary_hi": "यह अध्याय वाग्भट के 26 शस्त्रों (सुश्रुत 20 बताते हैं) का वर्णन करता है: कुशल लोहारों द्वारा अच्छी तरह तपाए और पानी दिए लोहे से उनका निर्माण, अच्छे शस्त्र के गुण (बाल काटने योग्य धार, अच्छा आकार, धार और पकड़), और फिर हर शस्त्र का फल-माप और उपयोग, जैसे लेखन के लिए मण्डलाग्र, काटने के लिए वृद्धिपत्र, मांसल और अस्थि-स्थानों में सिरावेध के लिए व्रीहिमुख और कुठारी, मोतियाबिन्द के लिए ताम्र-शलाका, गले के लिए अंगुलीशस्त्र, करपत्र (आरी), कर्तरी (कैंची), दन्तलेखन, टाँके की तीन सूचियाँ (तिकोनी, गोल, धनुषाकार), कूर्च, खज और कर्णवेध के शस्त्र। इसमें धातु-रहित अनुशस्त्र (जलौका, क्षार, अग्नि, काँच, पत्थर, नाखून), तेरह शस्त्रकर्म, शस्त्रों के आठ दोष, शस्त्र पकड़ने के तरीके और शस्त्रकोश भी हैं। दूसरा भाग जलौकावचारण का विस्तृत वर्णन है: सविष और निर्विष जोंक, तैयारी, लगाने की विधि, हंस-क्षीर उपमा, जोंक को हटाना और उल्टी कराना, और बाद की देखभाल। अन्त में दोष और दूषित रक्त के स्थान के अनुसार रक्तमोक्षण-विधि (प्रच्छान, जलौका, शृङ्ग, अलाबु, सिरावेध) का चयन है। इस अध्याय का लगभग हर भाग परीक्षा के लिए महत्वपूर्ण है।",
+  "key_concepts": [
+   "śastra",
+   "śastra-guṇa",
+   "śastra-doṣa",
+   "śastrakarma",
+   "anuśastra",
+   "vṛddhipatra",
+   "vrīhimukha",
+   "kuṭhārī",
+   "sūcī",
+   "śastrakośa",
+   "jalaukāvacaraṇa",
+   "pracchāna",
+   "raktamokṣaṇa"
+  ],
+  "exam_focus_en": [
+   "Number of śastras (Vāgbhaṭa 26 vs Suśruta 20), qualities of a good śastra and the eight śastra-doṣas.",
+   "Important śastras with uses: maṇḍalāgra, vṛddhipatra, vrīhimukha (sirā/udara vyadha), kuṭhārī (sirā over bone), tāmra śalākā (liṅganāśa), aṅguliśastra, karapatra, kartarī, dantalekhana.",
+   "Three suturing needles: tryaśra 3 aṅgula (fleshy), vṛtta 2 aṅgula (bone/joint), dhanurvakra 2.5 aṅgula (abdomen/marma).",
+   "Anuśastras and the list of śastrakarmas; śastra-grahaṇa and śastrakośa.",
+   "Jalaukāvacaraṇa: saviṣa and nirviṣa leeches, pūrva-pradhāna-paścāt karma, haṃsa-kṣīra simile, signs of proper vomiting of leeches.",
+   "Selection of raktamokṣaṇa method: vāta-śṛṅga, pitta-jalaukā, kapha-alābu; pracchāna technique; sirāvyadha for generalised vitiation."
+  ],
+  "exam_focus_hi": [
+   "शस्त्रों की संख्या (वाग्भट 26, सुश्रुत 20), अच्छे शस्त्र के गुण और आठ शस्त्र-दोष।",
+   "महत्वपूर्ण शस्त्र और उपयोग: मण्डलाग्र, वृद्धिपत्र, व्रीहिमुख (सिरा/उदर व्यध), कुठारी (अस्थि पर सिरा), ताम्र शलाका (लिङ्गनाश), अंगुलीशस्त्र, करपत्र, कर्तरी, दन्तलेखन।",
+   "टाँके की तीन सूचियाँ: त्र्यश्रा 3 अंगुल (मांसल), वृत्ता 2 अंगुल (अस्थि/संधि), धनुर्वक्रा 2.5 अंगुल (उदर/मर्म)।",
+   "अनुशस्त्र और शस्त्रकर्मों की सूची; शस्त्र-ग्रहण और शस्त्रकोश।",
+   "जलौकावचारण: सविष और निर्विष जोंक, पूर्व-प्रधान-पश्चात् कर्म, हंस-क्षीर उपमा, जोंक की सम्यक् उल्टी के लक्षण।",
+   "रक्तमोक्षण-विधि का चयन: वात-शृङ्ग, पित्त-जलौका, कफ-अलाबु; प्रच्छान की विधि; पूरे शरीर की दुष्टि में सिरावेध।"
+  ],
+  "syllabus_refs": [
+   "AyUG-SA1"
+  ],
+  "review_status": "ai_draft"
+ },
+ "verses": [
+  {
+   "id": "AH.sutra.26.1",
+   "word_meanings": [
+    {
+     "sa": "षड्विंशतिः",
+     "iast": "ṣaḍ-viṃśatiḥ",
+     "en": "twenty-six",
+     "hi": "छब्बीस"
+    },
+    {
+     "sa": "सुकर्मारैः",
+     "iast": "su-karmāraiḥ",
+     "en": "by skilled smiths",
+     "hi": "कुशल लोहारों द्वारा"
+    },
+    {
+     "sa": "घटितानि",
+     "iast": "ghaṭitāni",
+     "en": "made, forged",
+     "hi": "बनाए गए"
+    },
+    {
+     "sa": "यथाविधि",
+     "iast": "yathā-vidhi",
+     "en": "according to rule",
+     "hi": "विधि के अनुसार"
+    },
+    {
+     "sa": "शस्त्राणि",
+     "iast": "śastrāṇi",
+     "en": "sharp instruments",
+     "hi": "शस्त्र"
+    },
+    {
+     "sa": "रोमवाहीनि",
+     "iast": "roma-vāhīni",
+     "en": "able to split a hair",
+     "hi": "बाल को भी काट सकने वाले"
+    },
+    {
+     "sa": "बाहुल्येन",
+     "iast": "bāhulyena",
+     "en": "mostly",
+     "hi": "प्रायः"
+    },
+    {
+     "sa": "अङ्गुलानि षट्",
+     "iast": "aṅgulāni ṣaṭ",
+     "en": "six aṅgula (long)",
+     "hi": "छह अंगुल"
+    }
+   ],
+   "english": "There are twenty-six sharp instruments (śastra). They should be forged according to rule by skilled smiths, sharp enough to split a hair, and are mostly six aṅgula long.",
+   "hindi": "शस्त्र छब्बीस हैं। इन्हें कुशल लोहारों द्वारा विधि अनुसार बनवाना चाहिए; ये इतने तेज हों कि बाल को भी काट दें, और प्रायः छह अंगुल लम्बे होते हैं।",
+   "explanation_en": "This opens the chapter on śastras (sharp instruments), following the yantras (blunt instruments) of chapter 25. Vāgbhaṭa counts 26 śastras, whereas Suśruta counts 20; this difference is a common exam question. 'Romavāhi' (able to cut a hair) is the classical test of sharpness.",
+   "explanation_hi": "यह शस्त्रों (धारदार उपकरणों) का अध्याय शुरू करता है, जो अध्याय 25 के यन्त्रों (कुंद उपकरणों) के बाद आता है। वाग्भट 26 शस्त्र गिनते हैं, जबकि सुश्रुत 20; यह अन्तर परीक्षा में अक्सर पूछा जाता है। 'रोमवाही' (बाल काटने योग्य) धार की शास्त्रीय कसौटी है।",
+   "modern_correlation": {
+    "en": "Śastras broadly correspond to modern sharp surgical instruments such as scalpels, lancets, scissors, saws and needles. The 'hair-splitting' sharpness standard parallels the modern emphasis on keen, well-maintained blades to cut tissue cleanly.",
+    "hi": "शस्त्रों की तुलना आधुनिक धारदार शल्य-उपकरणों से की जाती है, जैसे स्कैलपेल, लैंसेट, कैंची, आरी और सुई। 'बाल काटने' वाली धार की कसौटी आधुनिक इस जोर से मिलती है कि ऊतक को साफ काटने के लिए ब्लेड तेज और अच्छी स्थिति में हों।"
+   },
+   "key_terms": [
+    "śastra",
+    "romavāhi",
+    "aṅgula"
+   ],
+   "tags": [
+    "shastra",
+    "surgical-instruments",
+    "definitions"
+   ],
+   "importance": "high",
+   "mnemonic": "Vāgbhaṭa 26 śastras vs Suśruta 20; most 6 aṅgula long.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.2",
+   "word_meanings": [
+    {
+     "sa": "सुरूपाणि",
+     "iast": "su-rūpāṇi",
+     "en": "well-shaped",
+     "hi": "सुन्दर आकार वाले"
+    },
+    {
+     "sa": "सुधाराणि",
+     "iast": "su-dhārāṇi",
+     "en": "with good edges",
+     "hi": "अच्छी धार वाले"
+    },
+    {
+     "sa": "सुग्रहाणि",
+     "iast": "su-grahāṇi",
+     "en": "easy to grip",
+     "hi": "पकड़ने में आसान"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "कारयेत्",
+     "iast": "kārayet",
+     "en": "should have made",
+     "hi": "बनवाए"
+    },
+    {
+     "sa": "अकरालानि",
+     "iast": "a-karālāni",
+     "en": "not jagged",
+     "hi": "दाँतेदार/खुरदरे नहीं"
+    },
+    {
+     "sa": "सुध्मात",
+     "iast": "su-dhmāta",
+     "en": "well forged (heated)",
+     "hi": "अच्छी तरह तपाए हुए"
+    },
+    {
+     "sa": "सुतीक्ष्णौ",
+     "iast": "su-tīkṣṇau",
+     "en": "able to be made very sharp",
+     "hi": "बहुत तीक्ष्ण होने योग्य"
+    },
+    {
+     "sa": "आवर्तिते",
+     "iast": "āvartite",
+     "en": "well tempered",
+     "hi": "अच्छी तरह पानी दिए (टेम्पर किए) हुए"
+    },
+    {
+     "sa": "अयसि",
+     "iast": "ayasi",
+     "en": "in iron (steel)",
+     "hi": "लोहे में"
+    }
+   ],
+   "english": "They should be well-shaped, with good edges and easy to grip, not jagged, and made of iron (steel) that has been well forged, well tempered and can take a keen edge,",
+   "hindi": "शस्त्र सुन्दर आकार वाले, अच्छी धार वाले, पकड़ने में आसान और दाँतेदार नहीं होने चाहिए, तथा अच्छी तरह तपाए, पानी दिए (टेम्पर किए) और तेज धार लेने योग्य लोहे से बने होने चाहिए,",
+   "explanation_en": "Verses 2-4 list the qualities of a good śastra (śastra-guṇa), a standard exam answer: good shape, good edge, good grip, not jagged, proper metal and tempering. The list continues in verse 3.",
+   "explanation_hi": "श्लोक 2-4 अच्छे शस्त्र के गुण (शस्त्र-गुण) बताते हैं, जो परीक्षा का मानक उत्तर है: अच्छा आकार, अच्छी धार, अच्छी पकड़, दाँतेदार नहीं, उचित धातु और पानी (टेम्पर)। सूची श्लोक 3 में जारी है।",
+   "modern_correlation": {
+    "en": "The emphasis on forging and tempering broadly parallels modern metallurgical standards for surgical steel, which must hold an edge and resist breakage.",
+    "hi": "धातु को तपाने और पानी देने पर जोर, शल्य-स्टील के आधुनिक धातुकर्म मानकों से मिलता है, जिनमें धार टिकाऊ हो और उपकरण टूटे नहीं।"
+   },
+   "key_terms": [
+    "śastra-guṇa",
+    "ayas",
+    "sudhāra"
+   ],
+   "tags": [
+    "shastra",
+    "surgical-instruments",
+    "qualities"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.3",
+   "word_meanings": [
+    {
+     "sa": "समाहितमुखाग्राणि",
+     "iast": "samāhita-mukhāgrāṇi",
+     "en": "with well-aligned edges and tips",
+     "hi": "ठीक बने मुख और नोक वाले"
+    },
+    {
+     "sa": "नीलाम्भोजच्छवीनि",
+     "iast": "nīlāmbhoja-cchavīni",
+     "en": "with the sheen of a blue lotus",
+     "hi": "नीले कमल जैसी चमक वाले"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "नामानुगतरूपाणि",
+     "iast": "nāmānugata-rūpāṇi",
+     "en": "with shapes matching their names",
+     "hi": "नाम के अनुसार आकार वाले"
+    },
+    {
+     "sa": "सदा",
+     "iast": "sadā",
+     "en": "always",
+     "hi": "सदा"
+    },
+    {
+     "sa": "संनिहितानि",
+     "iast": "saṃnihitāni",
+     "en": "kept at hand",
+     "hi": "पास में तैयार रखे"
+    }
+   ],
+   "english": "with well-aligned edges and tips, having the bluish sheen of a blue lotus, with shapes that match their names, and always kept ready at hand.",
+   "hindi": "जिनके मुख और नोक ठीक बने हों, जिनमें नीले कमल जैसी चमक हो, जिनका आकार उनके नाम के अनुसार हो, और जो सदा पास में तैयार रखे हों।",
+   "explanation_en": "The blue-lotus sheen indicates properly tempered steel. 'Shape matching the name' (for example vrīhimukha looks like a rice grain) helps identification. 'Always kept ready' reflects good surgical preparedness.",
+   "explanation_hi": "नीले कमल जैसी चमक सही ढंग से पानी दिए स्टील का संकेत है। 'नाम के अनुसार आकार' (जैसे व्रीहिमुख धान के दाने जैसा) पहचान में मदद करता है। 'सदा तैयार रखना' अच्छी शल्य-तैयारी को दर्शाता है।",
+   "modern_correlation": {
+    "en": "The bluish colour of well-tempered steel is a recognised effect of heat treatment (temper colours). Keeping instruments ready parallels modern pre-operative instrument preparation.",
+    "hi": "अच्छी तरह पानी दिए स्टील का नीला रंग ताप-उपचार का ज्ञात प्रभाव (टेम्पर कलर) है। उपकरणों को तैयार रखना आधुनिक ऑपरेशन से पहले की उपकरण-तैयारी से मिलता है।"
+   },
+   "key_terms": [
+    "śastra-guṇa"
+   ],
+   "tags": [
+    "shastra",
+    "surgical-instruments",
+    "qualities"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.4",
+   "word_meanings": [
+    {
+     "sa": "स्वोन्मान",
+     "iast": "svonmāna",
+     "en": "of their own length",
+     "hi": "अपनी लम्बाई का"
+    },
+    {
+     "sa": "अर्ध",
+     "iast": "ardha",
+     "en": "half",
+     "hi": "आधा"
+    },
+    {
+     "sa": "चतुर्थांश",
+     "iast": "caturthāṃśa",
+     "en": "a quarter",
+     "hi": "चौथाई"
+    },
+    {
+     "sa": "फलानि",
+     "iast": "phalāni",
+     "en": "having blades",
+     "hi": "फल (धार वाला भाग) वाले"
+    },
+    {
+     "sa": "एकैकशः",
+     "iast": "ekaikaśaḥ",
+     "en": "each one",
+     "hi": "प्रत्येक"
+    },
+    {
+     "sa": "अपि च",
+     "iast": "api ca",
+     "en": "also",
+     "hi": "भी"
+    },
+    {
+     "sa": "प्रायः",
+     "iast": "prāyaḥ",
+     "en": "generally",
+     "hi": "प्रायः"
+    },
+    {
+     "sa": "द्वित्राणि",
+     "iast": "dvi-trāṇi",
+     "en": "two or three",
+     "hi": "दो-तीन"
+    },
+    {
+     "sa": "युञ्जीत",
+     "iast": "yuñjīta",
+     "en": "should use (keep)",
+     "hi": "प्रयोग करे (रखे)"
+    },
+    {
+     "sa": "तानि",
+     "iast": "tāni",
+     "en": "them",
+     "hi": "उन्हें"
+    },
+    {
+     "sa": "स्थानविशेषतः",
+     "iast": "sthāna-viśeṣataḥ",
+     "en": "according to the particular site",
+     "hi": "स्थान विशेष के अनुसार"
+    }
+   ],
+   "english": "Their blades (phala) are half or a quarter of their total length. Generally one should keep two or three of each kind and use them according to the particular site.",
+   "hindi": "इनका फल (धार वाला भाग) इनकी कुल लम्बाई का आधा या चौथाई होता है। प्रायः हर प्रकार के दो-तीन शस्त्र रखने चाहिए और स्थान विशेष के अनुसार उनका प्रयोग करना चाहिए।",
+   "explanation_en": "Every śastra has two parts: the phala (blade) and the vṛnta (handle). Keeping two or three of each type allows choosing the right size for different body sites and having a spare.",
+   "explanation_hi": "हर शस्त्र के दो भाग हैं: फल (धार) और वृन्त (हत्था)। हर प्रकार के दो-तीन रखने से अलग स्थानों के लिए सही माप चुना जा सकता है और एक अतिरिक्त भी रहता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "phala",
+    "vṛnta",
+    "śastra"
+   ],
+   "tags": [
+    "shastra",
+    "surgical-instruments",
+    "qualities"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.5",
+   "word_meanings": [
+    {
+     "sa": "मण्डलाग्रम्",
+     "iast": "maṇḍalāgram",
+     "en": "round-tipped knife",
+     "hi": "मण्डलाग्र"
+    },
+    {
+     "sa": "वृद्धिपत्त्रम्",
+     "iast": "vṛddhi-pattram",
+     "en": "razor-like scalpel",
+     "hi": "वृद्धिपत्र"
+    },
+    {
+     "sa": "उत्पलाध्यर्धधारके",
+     "iast": "utpalādhy-ardha-dhārake",
+     "en": "utpala and adhyardhadhāra",
+     "hi": "उत्पल और अध्यर्धधार"
+    },
+    {
+     "sa": "सर्पैषण्यौ",
+     "iast": "sarpaiṣaṇyau",
+     "en": "sarpāsya and eṣaṇī",
+     "hi": "सर्पास्य और एषणी"
+    },
+    {
+     "sa": "वेतसाख्यम्",
+     "iast": "vetasākhyam",
+     "en": "the one called vetasa",
+     "hi": "वेतस"
+    },
+    {
+     "sa": "शरार्यास्यत्रिकूर्चके",
+     "iast": "śarāry-āsya-tri-kūrcake",
+     "en": "śarārimukha and trikūrcaka",
+     "hi": "शरारिमुख और त्रिकूर्चक"
+    },
+    {
+     "sa": "कुशास्यम्",
+     "iast": "kuśāsyam",
+     "en": "kuśapatra",
+     "hi": "कुशपत्र"
+    },
+    {
+     "sa": "साटवदनम्",
+     "iast": "sāṭa-vadanam",
+     "en": "āṭīmukha",
+     "hi": "आटीमुख"
+    },
+    {
+     "sa": "अन्तर्वक्त्रार्धचन्द्रके",
+     "iast": "antar-vaktrārdha-candrake",
+     "en": "antarmukha and ardhacandra",
+     "hi": "अन्तर्मुख और अर्धचन्द्र"
+    },
+    {
+     "sa": "व्रीहिमुखम्",
+     "iast": "vrīhi-mukham",
+     "en": "vrīhimukha",
+     "hi": "व्रीहिमुख"
+    },
+    {
+     "sa": "कुठारी",
+     "iast": "kuṭhārī",
+     "en": "kuṭhārī (axe-shaped)",
+     "hi": "कुठारी"
+    },
+    {
+     "sa": "शलाकाङ्गुलिशस्त्रके",
+     "iast": "śalākāṅguli-śastrake",
+     "en": "śalākā and aṅguliśastra",
+     "hi": "शलाका और अंगुलीशस्त्र"
+    },
+    {
+     "sa": "बडिशम्",
+     "iast": "baḍiśam",
+     "en": "hook",
+     "hi": "बडिश"
+    },
+    {
+     "sa": "करपत्त्राख्यम्",
+     "iast": "kara-pattrākhyam",
+     "en": "saw (karapatra)",
+     "hi": "करपत्र (आरी)"
+    },
+    {
+     "sa": "कर्तरी",
+     "iast": "kartarī",
+     "en": "scissors",
+     "hi": "कर्तरी (कैंची)"
+    },
+    {
+     "sa": "नखशस्त्रकम्",
+     "iast": "nakha-śastrakam",
+     "en": "nail-knife",
+     "hi": "नखशस्त्र"
+    },
+    {
+     "sa": "दन्तलेखनकम्",
+     "iast": "danta-lekhanakam",
+     "en": "tooth scraper",
+     "hi": "दन्तलेखन"
+    },
+    {
+     "sa": "सूच्यः",
+     "iast": "sūcyaḥ",
+     "en": "needles",
+     "hi": "सूचियाँ"
+    },
+    {
+     "sa": "कूर्चः",
+     "iast": "kūrcaḥ",
+     "en": "brush of needles",
+     "hi": "कूर्च"
+    },
+    {
+     "sa": "खजाह्वयम्",
+     "iast": "khajāhvayam",
+     "en": "the one called khaja",
+     "hi": "खज"
+    },
+    {
+     "sa": "आरा",
+     "iast": "ārā",
+     "en": "awl",
+     "hi": "आरा"
+    },
+    {
+     "sa": "कर्णवेधनी",
+     "iast": "karṇa-vedhanī",
+     "en": "ear-piercing needle",
+     "hi": "कर्णवेधनी"
+    },
+    {
+     "sa": "तर्जन्यन्तर्नखाकृति",
+     "iast": "tarjany-antar-nakhākṛti",
+     "en": "shaped like the inner side of the index fingernail",
+     "hi": "तर्जनी के नाखून के भीतरी भाग जैसा"
+    },
+    {
+     "sa": "लेखने छेदने",
+     "iast": "lekhane chedane",
+     "en": "in scraping and excision",
+     "hi": "लेखन और छेदन में"
+    },
+    {
+     "sa": "पोथकी",
+     "iast": "pothakī",
+     "en": "pothakī (lid granules)",
+     "hi": "पोथकी"
+    },
+    {
+     "sa": "शुण्डिका",
+     "iast": "śuṇḍikā",
+     "en": "śuṇḍikā (uvula/tonsil swelling)",
+     "hi": "शुण्डिका"
+    }
+   ],
+   "english": "[The twenty-six are:] maṇḍalāgra, vṛddhipatra, utpala, adhyardhadhāra, sarpāsya, eṣaṇī, vetasa, śarārimukha, trikūrcaka, kuśapatra, āṭīmukha, antarmukha, ardhacandra, vrīhimukha, kuṭhārī, śalākā, aṅguliśastra [variant: channavaktra and ardhacandraka], baḍiśa, karapatra, kartarī, nakhaśastra, dantalekhana, the needles (sūcī), kūrca, khaja, the ārā (awl) of four shapes, and also the karṇavedhanī. Of these, the maṇḍalāgra has a blade shaped like the inner side of the index fingernail; it is used for scraping (lekhana) and excision (chedana) in pothakī, śuṇḍikā and similar conditions.",
+   "hindi": "(छब्बीस शस्त्र ये हैं:) मण्डलाग्र, वृद्धिपत्र, उत्पल, अध्यर्धधार, सर्पास्य, एषणी, वेतस, शरारिमुख, त्रिकूर्चक, कुशपत्र, आटीमुख, अन्तर्मुख, अर्धचन्द्र, व्रीहिमुख, कुठारी, शलाका, अंगुलीशस्त्र (पाठान्तर: छन्नवक्त्र और अर्धचन्द्रक), बडिश, करपत्र, कर्तरी, नखशस्त्र, दन्तलेखन, सूचियाँ, कूर्च, खज, चार आकार का आरा, और कर्णवेधनी। इनमें मण्डलाग्र का फल तर्जनी के नाखून के भीतरी भाग जैसा (गोल) होता है; इसका प्रयोग पोथकी, शुण्डिका आदि में लेखन और छेदन के लिए होता है।",
+   "explanation_en": "This long entry combines the enumeration of all śastras (printed as extra verses in this edition) with the first description, maṇḍalāgra. Commentators reconcile the names with the stated number 26 in slightly different ways (for example by grouping the needles or the variant names). Learn the list in groups by function: cutting (vṛddhipatra, maṇḍalāgra), puncturing (vrīhimukha, kuṭhārī, ārā), draining (śarārimukha, trikūrcaka, kuśapatra, āṭīmukha), and special (karapatra, kartarī, sūcī).",
+   "explanation_hi": "यह लम्बी प्रविष्टि सभी शस्त्रों की गणना (जो इस संस्करण में अतिरिक्त श्लोकों के रूप में है) और पहले शस्त्र मण्डलाग्र के वर्णन को साथ देती है। टीकाकार इन नामों को 26 की संख्या से अलग-अलग ढंग से मिलाते हैं (जैसे सूचियों या पाठान्तर नामों को एक मानकर)। सूची कार्य के अनुसार समूहों में याद करें: काटने वाले (वृद्धिपत्र, मण्डलाग्र), बेधने वाले (व्रीहिमुख, कुठारी, आरा), स्राव निकालने वाले (शरारिमुख, त्रिकूर्चक, कुशपत्र, आटीमुख), और विशेष (करपत्र, कर्तरी, सूची)।",
+   "modern_correlation": {
+    "en": "Maṇḍalāgra, with its rounded blade for scraping, is often compared to a round-bladed knife or a curette; vṛddhipatra to the common scalpel; karapatra to a bone saw; kartarī to surgical scissors; and sūcī to suture needles.",
+    "hi": "गोल फल वाले मण्डलाग्र की तुलना अक्सर गोल धार वाले चाकू या क्यूरेट से; वृद्धिपत्र की सामान्य स्कैलपेल से; करपत्र की बोन-सॉ से; कर्तरी की शल्य-कैंची से; और सूची की टाँके वाली सुई से की जाती है।"
+   },
+   "key_terms": [
+    "śastra",
+    "maṇḍalāgra",
+    "vṛddhipatra",
+    "vrīhimukha",
+    "kuṭhārī",
+    "karapatra",
+    "kartarī",
+    "sūcī",
+    "pothakī",
+    "śuṇḍikā"
+   ],
+   "tags": [
+    "shastra",
+    "surgical-instruments",
+    "classification"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.6",
+   "word_meanings": [
+    {
+     "sa": "वृद्धिपत्त्रम्",
+     "iast": "vṛddhi-pattram",
+     "en": "vṛddhipatra",
+     "hi": "वृद्धिपत्र"
+    },
+    {
+     "sa": "क्षुराकारम्",
+     "iast": "kṣurākāram",
+     "en": "razor-shaped",
+     "hi": "उस्तरे जैसा"
+    },
+    {
+     "sa": "छेद",
+     "iast": "cheda",
+     "en": "excision",
+     "hi": "छेदन"
+    },
+    {
+     "sa": "भेदन",
+     "iast": "bhedana",
+     "en": "incision",
+     "hi": "भेदन"
+    },
+    {
+     "sa": "पाटने",
+     "iast": "pāṭane",
+     "en": "splitting open",
+     "hi": "पाटन (चीरना)"
+    },
+    {
+     "sa": "ऋज्वग्रम्",
+     "iast": "ṛjv-agram",
+     "en": "straight-tipped",
+     "hi": "सीधी नोक वाला"
+    },
+    {
+     "sa": "उन्नते",
+     "iast": "unnate",
+     "en": "raised",
+     "hi": "उभरी हुई"
+    },
+    {
+     "sa": "शोफे",
+     "iast": "śophe",
+     "en": "in a swelling",
+     "hi": "सूजन में"
+    },
+    {
+     "sa": "गम्भीरे",
+     "iast": "gambhīre",
+     "en": "in a deep (swelling)",
+     "hi": "गहरी (सूजन) में"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "तत्",
+     "iast": "tat",
+     "en": "it",
+     "hi": "वह"
+    },
+    {
+     "sa": "अन्यथा",
+     "iast": "anyathā",
+     "en": "of the other kind",
+     "hi": "दूसरे प्रकार का"
+    }
+   ],
+   "english": "The vṛddhipatra is shaped like a razor and is used for excision (chedana), incision (bhedana) and splitting open (pāṭana). A straight-tipped one is used in a raised swelling, and the other kind in a deep one:",
+   "hindi": "वृद्धिपत्र उस्तरे के आकार का होता है और छेदन (काटकर अलग करना), भेदन (चीरा लगाना) और पाटन (चीरकर खोलना) में प्रयोग होता है। उभरी हुई सूजन में सीधी नोक वाला, और गहरी सूजन में दूसरे प्रकार का प्रयोग होता है:",
+   "explanation_en": "Vṛddhipatra is the main cutting knife, very commonly asked. It has two forms: ṛjvagra (straight tip) for superficial raised swellings, and natāgra (bent tip, verse 7) for deep ones. Remember 'cheda, bhedana, pāṭana' as its three uses.",
+   "explanation_hi": "वृद्धिपत्र मुख्य काटने वाला शस्त्र है, जो बहुत पूछा जाता है। इसके दो रूप हैं: ऋज्वग्र (सीधी नोक) उभरी सतही सूजन के लिए, और नताग्र (मुड़ी नोक, श्लोक 7) गहरी सूजन के लिए। इसके तीन उपयोग 'छेदन, भेदन, पाटन' याद रखें।",
+   "modern_correlation": {
+    "en": "Vṛddhipatra is widely compared to the modern scalpel; the straight-tipped and bent-tipped forms broadly parallel different scalpel blade shapes chosen for superficial versus deep incisions.",
+    "hi": "वृद्धिपत्र की व्यापक तुलना आधुनिक स्कैलपेल से की जाती है; सीधी और मुड़ी नोक वाले रूप सतही और गहरे चीरों के लिए चुने जाने वाले अलग-अलग ब्लेड आकारों से मिलते हैं।"
+   },
+   "key_terms": [
+    "vṛddhipatra",
+    "chedana",
+    "bhedana",
+    "pāṭana"
+   ],
+   "tags": [
+    "shastra",
+    "surgical-instruments",
+    "vriddhipatra"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.7",
+   "word_meanings": [
+    {
+     "sa": "नताग्रम्",
+     "iast": "natāgram",
+     "en": "with a bent tip",
+     "hi": "मुड़ी नोक वाला"
+    },
+    {
+     "sa": "पृष्ठतः",
+     "iast": "pṛṣṭhataḥ",
+     "en": "at the back",
+     "hi": "पीछे की ओर"
+    },
+    {
+     "sa": "दीर्घ",
+     "iast": "dīrgha",
+     "en": "long",
+     "hi": "लम्बा"
+    },
+    {
+     "sa": "ह्रस्व",
+     "iast": "hrasva",
+     "en": "short",
+     "hi": "छोटा"
+    },
+    {
+     "sa": "वक्त्रम्",
+     "iast": "vaktram",
+     "en": "blade",
+     "hi": "मुख (फल)"
+    },
+    {
+     "sa": "यथाश्रयम्",
+     "iast": "yathāśrayam",
+     "en": "according to the site",
+     "hi": "स्थान के अनुसार"
+    },
+    {
+     "sa": "उत्पलाध्यर्धधाराख्ये",
+     "iast": "utpalādhyardha-dhārākhye",
+     "en": "those called utpala and adhyardhadhāra",
+     "hi": "उत्पल और अध्यर्धधार नामक"
+    },
+    {
+     "sa": "भेदने",
+     "iast": "bhedane",
+     "en": "for incision",
+     "hi": "भेदन में"
+    },
+    {
+     "sa": "छेदने",
+     "iast": "chedane",
+     "en": "for excision",
+     "hi": "छेदन में"
+    },
+    {
+     "sa": "तथा",
+     "iast": "tathā",
+     "en": "likewise",
+     "hi": "वैसे ही"
+    }
+   ],
+   "english": "bent at the tip towards the back, with a long or short blade according to the site. The instruments called utpala and adhyardhadhāra are likewise used for incision and excision.",
+   "hindi": "जिसकी नोक पीछे की ओर मुड़ी हो और फल स्थान के अनुसार लम्बा या छोटा हो। उत्पल और अध्यर्धधार नामक शस्त्र भी वैसे ही भेदन और छेदन में प्रयोग होते हैं।",
+   "explanation_en": "This completes the vṛddhipatra and adds two other cutting knives: utpala (lotus-petal shaped) and adhyardhadhāra (with an edge and a half, i.e., partly double-edged). All of these belong to the 'cutting and incising' group.",
+   "explanation_hi": "यह वृद्धिपत्र का वर्णन पूरा करता है और दो अन्य काटने वाले शस्त्र जोड़ता है: उत्पल (कमल-पंखुड़ी जैसा) और अध्यर्धधार (डेढ़ धार वाला, अर्थात् आंशिक रूप से दोधारी)। ये सभी 'छेदन-भेदन' वर्ग के हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vṛddhipatra",
+    "utpala",
+    "adhyardhadhāra"
+   ],
+   "tags": [
+    "shastra",
+    "surgical-instruments"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.8",
+   "word_meanings": [
+    {
+     "sa": "सर्पास्यम्",
+     "iast": "sarpāsyam",
+     "en": "snake-mouthed (knife)",
+     "hi": "सर्पास्य (साँप के मुख जैसा)"
+    },
+    {
+     "sa": "घ्राण",
+     "iast": "ghrāṇa",
+     "en": "nose",
+     "hi": "नाक"
+    },
+    {
+     "sa": "कर्ण",
+     "iast": "karṇa",
+     "en": "ear",
+     "hi": "कान"
+    },
+    {
+     "sa": "अर्शःछेदने",
+     "iast": "arśaś-chedane",
+     "en": "for excising piles (polyps)",
+     "hi": "अर्श काटने में"
+    },
+    {
+     "sa": "अर्धाङ्गुलम्",
+     "iast": "ardhāṅgulam",
+     "en": "half an aṅgula",
+     "hi": "आधा अंगुल"
+    },
+    {
+     "sa": "फले",
+     "iast": "phale",
+     "en": "in the blade",
+     "hi": "फल में"
+    },
+    {
+     "sa": "गतेः",
+     "iast": "gateḥ",
+     "en": "of a sinus track",
+     "hi": "नाड़ीव्रण के मार्ग का"
+    },
+    {
+     "sa": "अन्वेषणे",
+     "iast": "anveṣaṇe",
+     "en": "in exploring",
+     "hi": "खोजने में"
+    },
+    {
+     "sa": "श्लक्ष्णा",
+     "iast": "ślakṣṇā",
+     "en": "smooth",
+     "hi": "चिकनी"
+    },
+    {
+     "sa": "गण्डूपदमुखी",
+     "iast": "gaṇḍū-pada-mukhī",
+     "en": "with an earthworm-like tip",
+     "hi": "केंचुए जैसे मुख वाली"
+    },
+    {
+     "sa": "एषणी",
+     "iast": "eṣaṇī",
+     "en": "probe",
+     "hi": "एषणी"
+    }
+   ],
+   "english": "The sarpāsya, with a blade half an aṅgula long, is used for excising piles (polyps) of the nose and ear. For exploring a sinus track (gati), there is a smooth eṣaṇī (probe) with an earthworm-like tip.",
+   "hindi": "सर्पास्य, जिसका फल आधा अंगुल होता है, नाक और कान के अर्श (मस्से) काटने के काम आता है। नाड़ीव्रण के मार्ग (गति) को खोजने के लिए केंचुए जैसे मुख वाली चिकनी एषणी होती है।",
+   "explanation_en": "Sarpāsya is a small knife for delicate ENT work. The eṣaṇī appears in both chapters: as a blunt probe for exploring (here and in ch. 25) and, in verse 9, as a sharp needle-tipped variant for incision.",
+   "explanation_hi": "सर्पास्य नाक-कान के नाजुक काम के लिए छोटा शस्त्र है। एषणी दोनों अध्यायों में है: खोजने के लिए कुंद प्रोब के रूप में (यहाँ और अध्याय 25 में), और श्लोक 9 में भेदन के लिए सुई जैसी नोक वाले रूप में।",
+   "modern_correlation": {
+    "en": "The smooth, blunt eṣaṇī is commonly compared to the modern probe used to explore sinus and fistula tracks.",
+    "hi": "चिकनी, कुंद एषणी की तुलना आमतौर पर आधुनिक प्रोब से की जाती है, जिससे साइनस और फिस्टुला के मार्ग की जाँच होती है।"
+   },
+   "key_terms": [
+    "sarpāsya",
+    "eṣaṇī",
+    "gati",
+    "nāḍīvraṇa"
+   ],
+   "tags": [
+    "shastra",
+    "surgical-instruments"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.9",
+   "word_meanings": [
+    {
+     "sa": "भेदनार्थे",
+     "iast": "bhedanārthe",
+     "en": "for incision",
+     "hi": "भेदन के लिए"
+    },
+    {
+     "sa": "अपरा",
+     "iast": "aparā",
+     "en": "another (eṣaṇī)",
+     "hi": "दूसरी (एषणी)"
+    },
+    {
+     "sa": "सूचीमुखा",
+     "iast": "sūcī-mukhā",
+     "en": "needle-tipped",
+     "hi": "सुई जैसे मुख वाली"
+    },
+    {
+     "sa": "मूलनिविष्टखा",
+     "iast": "mūla-niviṣṭa-khā",
+     "en": "with a hole at the base",
+     "hi": "मूल में छेद वाली"
+    },
+    {
+     "sa": "वेतसम्",
+     "iast": "vetasam",
+     "en": "vetasa (cane-leaf knife)",
+     "hi": "वेतस"
+    },
+    {
+     "sa": "व्यधने",
+     "iast": "vyadhane",
+     "en": "for puncturing",
+     "hi": "व्यधन (बेधन) में"
+    },
+    {
+     "sa": "स्राव्ये",
+     "iast": "srāvye",
+     "en": "for draining",
+     "hi": "स्राव निकालने में"
+    },
+    {
+     "sa": "शरार्यास्य",
+     "iast": "śarāry-āsya",
+     "en": "śarārimukha (bird-beak knife)",
+     "hi": "शरारिमुख"
+    },
+    {
+     "sa": "त्रिकूर्चके",
+     "iast": "tri-kūrcake",
+     "en": "trikūrcaka (three-pointed)",
+     "hi": "त्रिकूर्चक"
+    }
+   ],
+   "english": "Another eṣaṇī, for incision, is needle-tipped with a hole (eye) at the base. The vetasa is used for puncturing (vyadhana). For draining (srāvaṇa), śarārimukha and trikūrcaka [are used],",
+   "hindi": "दूसरी एषणी भेदन के लिए होती है, जिसकी नोक सुई जैसी और मूल में छेद होता है। वेतस व्यधन (बेधने) के लिए है। स्राव निकालने के लिए शरारिमुख और त्रिकूर्चक (प्रयोग होते हैं),",
+   "explanation_en": "The needle-tipped eṣaṇī with an eye can carry a thread through a track (as used later in kṣārasūtra for fistula). Then the draining (visrāvaṇa) instruments are introduced: śarārimukha (like a bird's beak, often described as scissors-like) and trikūrcaka (three-pointed).",
+   "explanation_hi": "छेद वाली सुई-नोक एषणी किसी मार्ग से धागा पार कर सकती है (जैसा बाद में भगन्दर में क्षारसूत्र में होता है)। फिर स्राव निकालने वाले शस्त्र शुरू होते हैं: शरारिमुख (पक्षी की चोंच जैसा, जिसे कैंची जैसा भी बताया जाता है) और त्रिकूर्चक (तीन नोकों वाला)।",
+   "modern_correlation": {
+    "en": "The eyed, needle-tipped probe is often compared to modern eyed probes used to pass a seton or thread through a fistula track.",
+    "hi": "छेद वाली सुई-नोक एषणी की तुलना अक्सर आधुनिक आईड प्रोब से की जाती है, जिससे फिस्टुला के मार्ग में सीटन या धागा डाला जाता है।"
+   },
+   "key_terms": [
+    "eṣaṇī",
+    "vetasa",
+    "śarārimukha",
+    "trikūrcaka",
+    "visrāvaṇa"
+   ],
+   "tags": [
+    "shastra",
+    "surgical-instruments"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.10",
+   "word_meanings": [
+    {
+     "sa": "कुशाटावदने",
+     "iast": "kuśāṭā-vadane",
+     "en": "kuśapatra and āṭīmukha",
+     "hi": "कुशपत्र और आटीमुख"
+    },
+    {
+     "sa": "स्राव्ये",
+     "iast": "srāvye",
+     "en": "for draining",
+     "hi": "स्राव निकालने में"
+    },
+    {
+     "sa": "द्व्यङ्गुलम्",
+     "iast": "dvy-aṅgulam",
+     "en": "two aṅgula",
+     "hi": "दो अंगुल"
+    },
+    {
+     "sa": "स्यात्",
+     "iast": "syāt",
+     "en": "is",
+     "hi": "होता है"
+    },
+    {
+     "sa": "तयोः",
+     "iast": "tayoḥ",
+     "en": "of those two",
+     "hi": "उन दोनों का"
+    },
+    {
+     "sa": "फलम्",
+     "iast": "phalam",
+     "en": "blade",
+     "hi": "फल"
+    },
+    {
+     "sa": "तद्वत्",
+     "iast": "tad-vat",
+     "en": "likewise",
+     "hi": "वैसे ही"
+    },
+    {
+     "sa": "अन्तर्मुखम्",
+     "iast": "antar-mukham",
+     "en": "antarmukha (inward-edged)",
+     "hi": "अन्तर्मुख"
+    },
+    {
+     "sa": "तस्य",
+     "iast": "tasya",
+     "en": "its",
+     "hi": "उसका"
+    },
+    {
+     "sa": "अध्यर्धम् अङ्गुलम्",
+     "iast": "adhy-ardham aṅgulam",
+     "en": "one and a half aṅgula",
+     "hi": "डेढ़ अंगुल"
+    }
+   ],
+   "english": "and kuśapatra and āṭīmukha are also for draining; the blade of these two is two aṅgula long. Likewise the antarmukha [is used], and its blade is one and a half aṅgula.",
+   "hindi": "और कुशपत्र तथा आटीमुख भी स्राव निकालने के लिए हैं; इन दोनों का फल दो अंगुल का होता है। इसी प्रकार अन्तर्मुख का भी प्रयोग होता है, और उसका फल डेढ़ अंगुल का होता है।",
+   "explanation_en": "More visrāvaṇa (draining) instruments: kuśapatra (shaped like a kuśa grass blade) and āṭīmukha (like the beak of the āṭī bird), both with 2-aṅgula blades, and antarmukha (edge turned inwards). These are used for bloodletting and draining pus.",
+   "explanation_hi": "और स्राव निकालने वाले शस्त्र: कुशपत्र (कुश घास के पत्ते जैसा) और आटीमुख (आटी पक्षी की चोंच जैसा), दोनों का फल 2 अंगुल, और अन्तर्मुख (अन्दर की ओर धार वाला)। इनका प्रयोग रक्तमोक्षण और मवाद निकालने में होता है।",
+   "modern_correlation": {
+    "en": "These small draining blades broadly parallel modern lancets used to let blood or drain fluid through a small opening.",
+    "hi": "ये छोटे स्राव निकालने वाले शस्त्र आधुनिक लैंसेट से मिलते हैं, जिनसे छोटे छेद द्वारा रक्त या द्रव निकाला जाता है।"
+   },
+   "key_terms": [
+    "kuśapatra",
+    "āṭīmukha",
+    "antarmukha",
+    "visrāvaṇa"
+   ],
+   "tags": [
+    "shastra",
+    "surgical-instruments"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.11",
+   "word_meanings": [
+    {
+     "sa": "अर्धचन्द्राननम्",
+     "iast": "ardha-candrānanam",
+     "en": "half-moon-faced (ardhacandra)",
+     "hi": "अर्धचन्द्र मुख वाला"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "एतत्",
+     "iast": "etat",
+     "en": "this",
+     "hi": "यह"
+    },
+    {
+     "sa": "तथा",
+     "iast": "tathā",
+     "en": "likewise",
+     "hi": "वैसे ही"
+    },
+    {
+     "sa": "अध्यर्धाङ्गुलम्",
+     "iast": "adhy-ardhāṅgulam",
+     "en": "one and a half aṅgula",
+     "hi": "डेढ़ अंगुल"
+    },
+    {
+     "sa": "फले",
+     "iast": "phale",
+     "en": "in the blade",
+     "hi": "फल में"
+    },
+    {
+     "sa": "व्रीहिवक्त्रम्",
+     "iast": "vrīhi-vaktram",
+     "en": "vrīhimukha (rice-grain tipped)",
+     "hi": "व्रीहिमुख"
+    },
+    {
+     "sa": "प्रयोज्यम्",
+     "iast": "prayojyam",
+     "en": "should be used",
+     "hi": "प्रयोग करना चाहिए"
+    },
+    {
+     "sa": "तत्",
+     "iast": "tat",
+     "en": "that",
+     "hi": "वह"
+    },
+    {
+     "sa": "सिरोदरयोः",
+     "iast": "sirodarayoḥ",
+     "en": "of veins and the abdomen",
+     "hi": "सिरा और उदर के"
+    },
+    {
+     "sa": "व्यधे",
+     "iast": "vyadhe",
+     "en": "in puncturing",
+     "hi": "वेधन में"
+    }
+   ],
+   "english": "The ardhacandra (half-moon) is similar, its blade also one and a half aṅgula. The vrīhimukha (rice-grain tipped) should be used for puncturing veins and the abdomen.",
+   "hindi": "अर्धचन्द्र (अर्धचन्द्र आकार का) भी वैसा ही है, और उसका फल भी डेढ़ अंगुल का होता है। व्रीहिमुख (धान के दाने जैसी नोक वाला) सिरावेध और उदर-वेधन के लिए प्रयोग करना चाहिए।",
+   "explanation_en": "Vrīhimukha is a key instrument for exams because it is the standard instrument for sirāvyadha (venesection, ch. 27) in fleshy areas and for draining fluid in udara (ascites). Remember: 'vrīhimukha = sirā and udara vyadhana'.",
+   "explanation_hi": "व्रीहिमुख परीक्षा के लिए महत्वपूर्ण है, क्योंकि यह मांसल स्थानों पर सिरावेध (अध्याय 27) और जलोदर में पानी निकालने का मानक शस्त्र है। याद रखें: 'व्रीहिमुख = सिरा और उदर व्यधन'।",
+   "modern_correlation": {
+    "en": "Vrīhimukha, a small pointed puncturing blade, is often compared to a lancet or trocar-like puncturing instrument used for venesection and paracentesis.",
+    "hi": "व्रीहिमुख, एक छोटा नुकीला बेधने वाला शस्त्र, की तुलना अक्सर लैंसेट या ट्रोकार जैसे उपकरण से की जाती है, जो वेनेसेक्शन और पैरासेन्टेसिस में प्रयोग होते हैं।"
+   },
+   "key_terms": [
+    "ardhacandra",
+    "vrīhimukha",
+    "sirāvyadha",
+    "udara"
+   ],
+   "tags": [
+    "shastra",
+    "surgical-instruments",
+    "siravyadha"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.12",
+   "word_meanings": [
+    {
+     "sa": "पृथुः",
+     "iast": "pṛthuḥ",
+     "en": "broad",
+     "hi": "चौड़ी"
+    },
+    {
+     "sa": "कुठारी",
+     "iast": "kuṭhārī",
+     "en": "kuṭhārī (axe-like)",
+     "hi": "कुठारी"
+    },
+    {
+     "sa": "गोदन्तसदृश",
+     "iast": "go-danta-sadṛśa",
+     "en": "like a cow's tooth",
+     "hi": "गाय के दाँत जैसी"
+    },
+    {
+     "sa": "अर्धाङ्गुलानना",
+     "iast": "ardhāṅgulānanā",
+     "en": "with a half-aṅgula edge",
+     "hi": "आधे अंगुल के मुख वाली"
+    },
+    {
+     "sa": "तया",
+     "iast": "tayā",
+     "en": "with it",
+     "hi": "उससे"
+    },
+    {
+     "sa": "ऊर्ध्वदण्डया",
+     "iast": "ūrdhva-daṇḍayā",
+     "en": "with its handle held upright",
+     "hi": "हत्था ऊपर करके"
+    },
+    {
+     "sa": "विध्येत्",
+     "iast": "vidhyet",
+     "en": "should puncture",
+     "hi": "बेधे"
+    },
+    {
+     "sa": "उपरि",
+     "iast": "upari",
+     "en": "over",
+     "hi": "ऊपर"
+    },
+    {
+     "sa": "अस्थ्नाम्",
+     "iast": "asthnām",
+     "en": "the bones",
+     "hi": "हड्डियों के"
+    },
+    {
+     "sa": "स्थिताम्",
+     "iast": "sthitām",
+     "en": "lying",
+     "hi": "स्थित"
+    },
+    {
+     "sa": "सिराम्",
+     "iast": "sirām",
+     "en": "a vein",
+     "hi": "सिरा को"
+    }
+   ],
+   "english": "The kuṭhārī is broad, shaped like a cow's tooth, with an edge half an aṅgula wide. Holding it with its handle upright, one should puncture a vein that lies over bone.",
+   "hindi": "कुठारी चौड़ी, गाय के दाँत जैसी आकृति वाली, और आधे अंगुल के मुख वाली होती है। इसके हत्थे को ऊपर करके, हड्डी के ऊपर स्थित सिरा का वेधन करना चाहिए।",
+   "explanation_en": "Kuṭhārī is the counterpart of vrīhimukha: vrīhimukha for veins in fleshy areas, kuṭhārī for veins over bone (where there is little tissue and a deep stab would hit bone). The technique (tapping with the handle) is described in ch. 27.33. A classic exam pair.",
+   "explanation_hi": "कुठारी व्रीहिमुख की पूरक है: व्रीहिमुख मांसल स्थानों की सिरा के लिए, कुठारी हड्डी के ऊपर की सिरा के लिए (जहाँ ऊतक कम है और गहरा वार हड्डी से टकराएगा)। विधि (हत्थे पर ठोकना) अध्याय 27.33 में है। यह परीक्षा का प्रसिद्ध जोड़ा है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "kuṭhārī",
+    "sirāvyadha",
+    "vrīhimukha"
+   ],
+   "tags": [
+    "shastra",
+    "surgical-instruments",
+    "siravyadha"
+   ],
+   "importance": "high",
+   "mnemonic": "Fleshy area: Vrīhimukha; over bone: Kuṭhārī.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.13",
+   "word_meanings": [
+    {
+     "sa": "ताम्री",
+     "iast": "tāmrī",
+     "en": "made of copper",
+     "hi": "ताँबे की"
+    },
+    {
+     "sa": "शलाका",
+     "iast": "śalākā",
+     "en": "rod",
+     "hi": "शलाका"
+    },
+    {
+     "sa": "द्विमुखी",
+     "iast": "dvi-mukhī",
+     "en": "double-ended",
+     "hi": "दो मुख वाली"
+    },
+    {
+     "sa": "मुखे",
+     "iast": "mukhe",
+     "en": "at the tips",
+     "hi": "मुखों पर"
+    },
+    {
+     "sa": "कुरुबकाकृतिः",
+     "iast": "kurubakākṛtiḥ",
+     "en": "shaped like a kurubaka bud",
+     "hi": "कुरबक की कली जैसी"
+    },
+    {
+     "sa": "लिङ्गनाशम्",
+     "iast": "liṅga-nāśam",
+     "en": "cataract (liṅganāśa)",
+     "hi": "लिङ्गनाश (मोतियाबिन्द)"
+    },
+    {
+     "sa": "तया",
+     "iast": "tayā",
+     "en": "with it",
+     "hi": "उससे"
+    },
+    {
+     "sa": "विध्येत्",
+     "iast": "vidhyet",
+     "en": "should pierce (couch)",
+     "hi": "वेधन करे"
+    },
+    {
+     "sa": "कुर्यात्",
+     "iast": "kuryāt",
+     "en": "should make",
+     "hi": "बनाए"
+    },
+    {
+     "sa": "अङ्गुलिशस्त्रकम्",
+     "iast": "aṅguli-śastrakam",
+     "en": "the finger-knife",
+     "hi": "अंगुलीशस्त्र"
+    }
+   ],
+   "english": "The śalākā is a copper rod, double-ended, with tips shaped like a kurubaka bud; with it one should pierce (couch) liṅganāśa (cataract). One should make the aṅguliśastra (finger-knife)",
+   "hindi": "शलाका ताँबे की, दो मुख वाली होती है, जिसके सिरे कुरबक की कली जैसे होते हैं; इससे लिङ्गनाश (मोतियाबिन्द) का वेधन करना चाहिए। अंगुलीशस्त्र (अंगुली पर पहनने वाला शस्त्र) ऐसा बनाएँ",
+   "explanation_en": "This śalākā is used in the classical cataract operation (liṅganāśa-vedha, couching), described in detail in the Uttarasthāna. It is one of the most famous surgical procedures of ancient India. The aṅguliśastra description continues in verses 14-15.",
+   "explanation_hi": "यह शलाका शास्त्रीय मोतियाबिन्द शस्त्रकर्म (लिङ्गनाश-वेध, कूचिंग) में प्रयोग होती है, जिसका विस्तृत वर्णन उत्तरस्थान में है। यह प्राचीन भारत की सबसे प्रसिद्ध शल्य-क्रियाओं में से एक है। अंगुलीशस्त्र का वर्णन श्लोक 14-15 में जारी है।",
+   "modern_correlation": {
+    "en": "This instrument is often compared to the couching needle used in the historical technique of couching, in which the opaque lens is displaced out of the visual axis. Couching is considered obsolete and unsafe compared with modern cataract extraction.",
+    "hi": "इस शलाका की तुलना अक्सर कूचिंग नीडल से की जाती है, जिससे ऐतिहासिक कूचिंग तकनीक में अपारदर्शी लेंस को दृष्टि-अक्ष से हटाया जाता था। आधुनिक मोतियाबिन्द ऑपरेशन की तुलना में कूचिंग को अब पुरानी और असुरक्षित पद्धति माना जाता है।"
+   },
+   "key_terms": [
+    "śalākā",
+    "liṅganāśa",
+    "aṅguliśastra",
+    "tāmra"
+   ],
+   "tags": [
+    "shastra",
+    "surgical-instruments",
+    "netra",
+    "cataract"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.14",
+   "word_meanings": [
+    {
+     "sa": "मुद्रिकानिर्गतमुखम्",
+     "iast": "mudrikā-nirgata-mukham",
+     "en": "with the blade projecting from a ring",
+     "hi": "अँगूठी से निकले मुख वाला"
+    },
+    {
+     "sa": "फले",
+     "iast": "phale",
+     "en": "in the blade",
+     "hi": "फल में"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "अर्धाङ्गुलायतम्",
+     "iast": "ardhāṅgulāyatam",
+     "en": "half an aṅgula long",
+     "hi": "आधा अंगुल लम्बा"
+    },
+    {
+     "sa": "योगतः",
+     "iast": "yogataḥ",
+     "en": "in shape (by its form)",
+     "hi": "आकार में"
+    },
+    {
+     "sa": "वृद्धिपत्त्रेण",
+     "iast": "vṛddhi-pattreṇa",
+     "en": "with the vṛddhipatra",
+     "hi": "वृद्धिपत्र के"
+    },
+    {
+     "sa": "मण्डलाग्रेण",
+     "iast": "maṇḍalāgreṇa",
+     "en": "with the maṇḍalāgra",
+     "hi": "मण्डलाग्र के"
+    },
+    {
+     "sa": "वा",
+     "iast": "vā",
+     "en": "or",
+     "hi": "या"
+    },
+    {
+     "sa": "समम्",
+     "iast": "samam",
+     "en": "similar",
+     "hi": "समान"
+    }
+   ],
+   "english": "with its blade projecting from a ring, half an aṅgula long, and in shape similar to the vṛddhipatra or the maṇḍalāgra.",
+   "hindi": "जिसका फल एक अँगूठी (मुद्रिका) से निकला हो, आधा अंगुल लम्बा हो, और आकार में वृद्धिपत्र या मण्डलाग्र जैसा हो।",
+   "explanation_en": "The aṅguliśastra is a tiny blade mounted on a ring worn on the finger. This lets the surgeon reach deep into the throat where a handled knife is hard to control. Use is given in verse 15.",
+   "explanation_hi": "अंगुलीशस्त्र अंगुली में पहनी अँगूठी पर लगा एक छोटा फल है। इससे शल्य-चिकित्सक गले के अन्दर तक पहुँच सकता है, जहाँ हत्थे वाले शस्त्र को नियन्त्रित करना कठिन है। उपयोग श्लोक 15 में है।",
+   "modern_correlation": {
+    "en": "The ring-mounted finger knife broadly parallels finger-mounted blades and ring knives used historically for throat procedures.",
+    "hi": "अँगूठी पर लगा अंगुलीशस्त्र, गले की प्रक्रियाओं में ऐतिहासिक रूप से प्रयुक्त फिंगर-माउंटेड ब्लेड और रिंग नाइफ से मिलता है।"
+   },
+   "key_terms": [
+    "aṅguliśastra",
+    "mudrikā"
+   ],
+   "tags": [
+    "shastra",
+    "surgical-instruments"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.15",
+   "word_meanings": [
+    {
+     "sa": "तत्",
+     "iast": "tat",
+     "en": "it",
+     "hi": "वह"
+    },
+    {
+     "sa": "प्रदेशिन्यग्रपर्वप्रमाण",
+     "iast": "pradeśiny-agra-parva-pramāṇa",
+     "en": "the size of the tip phalanx of the index finger",
+     "hi": "तर्जनी के अगले पोर के माप की"
+    },
+    {
+     "sa": "अर्पणमुद्रिकम्",
+     "iast": "arpaṇa-mudrikam",
+     "en": "with a ring that fits on",
+     "hi": "पहनने योग्य अँगूठी वाला"
+    },
+    {
+     "sa": "सूत्रबद्धम्",
+     "iast": "sūtra-baddham",
+     "en": "tied with a thread",
+     "hi": "धागे से बँधा"
+    },
+    {
+     "sa": "गलस्रोतोरोग",
+     "iast": "gala-sroto-roga",
+     "en": "diseases of the throat passage",
+     "hi": "गले के मार्ग के रोग"
+    },
+    {
+     "sa": "छेदन",
+     "iast": "chedana",
+     "en": "excision",
+     "hi": "छेदन"
+    },
+    {
+     "sa": "भेदने",
+     "iast": "bhedane",
+     "en": "incision",
+     "hi": "भेदन में"
+    }
+   ],
+   "english": "Its ring is sized to fit the tip phalanx of the index finger, and it is tied [to the wrist] with a thread. It is used for excision and incision in diseases of the throat passage.",
+   "hindi": "इसकी अँगूठी तर्जनी के अगले पोर के माप की होती है और यह धागे से (कलाई पर) बँधा रहता है। इसका प्रयोग गले के मार्ग के रोगों में छेदन और भेदन के लिए होता है।",
+   "explanation_en": "The thread tie prevents the tiny knife from slipping off and being swallowed or lost in the throat, an early safety measure. Asked as: 'aṅguliśastra: description and use'.",
+   "explanation_hi": "धागे से बाँधना इसलिए है कि छोटा शस्त्र अंगुली से फिसलकर गले में न गिर जाए या निगल न लिया जाए; यह एक प्राचीन सुरक्षा उपाय है। प्रश्न: 'अंगुलीशस्त्र: वर्णन और उपयोग'।",
+   "modern_correlation": {
+    "en": "Securing small instruments with a tether to prevent loss in a body cavity broadly parallels modern safety practices, such as tethering small items and counting instruments during surgery.",
+    "hi": "छोटे उपकरणों को धागे से बाँधकर शरीर-गुहा में खो जाने से बचाना, आधुनिक सुरक्षा पद्धतियों से मिलता है, जैसे छोटी वस्तुओं को बाँधना और शस्त्रकर्म में उपकरणों की गिनती करना।"
+   },
+   "key_terms": [
+    "aṅguliśastra",
+    "galaroga"
+   ],
+   "tags": [
+    "shastra",
+    "surgical-instruments"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.16",
+   "word_meanings": [
+    {
+     "sa": "ग्रहणे",
+     "iast": "grahaṇe",
+     "en": "for grasping",
+     "hi": "पकड़ने में"
+    },
+    {
+     "sa": "शुण्डिका",
+     "iast": "śuṇḍikā",
+     "en": "śuṇḍikā (uvula/tonsil swelling)",
+     "hi": "शुण्डिका"
+    },
+    {
+     "sa": "अर्म",
+     "iast": "arma",
+     "en": "arma (pterygium)",
+     "hi": "अर्म"
+    },
+    {
+     "sa": "आदेः",
+     "iast": "ādeḥ",
+     "en": "and others",
+     "hi": "आदि के"
+    },
+    {
+     "sa": "बडिशम्",
+     "iast": "baḍiśam",
+     "en": "hook",
+     "hi": "बडिश"
+    },
+    {
+     "sa": "सुनताननम्",
+     "iast": "su-natānanam",
+     "en": "with a well-bent tip",
+     "hi": "अच्छी तरह मुड़े मुख वाला"
+    },
+    {
+     "sa": "छेदे",
+     "iast": "chede",
+     "en": "for cutting",
+     "hi": "काटने में"
+    },
+    {
+     "sa": "अस्थ्नाम्",
+     "iast": "asthnām",
+     "en": "of bones",
+     "hi": "हड्डियों के"
+    },
+    {
+     "sa": "करपत्त्रम्",
+     "iast": "kara-pattram",
+     "en": "saw",
+     "hi": "करपत्र (आरी)"
+    },
+    {
+     "sa": "खरधारम्",
+     "iast": "khara-dhāram",
+     "en": "with a rough (toothed) edge",
+     "hi": "खुरदरी (दाँतेदार) धार वाली"
+    },
+    {
+     "sa": "दशाङ्गुलम्",
+     "iast": "daśāṅgulam",
+     "en": "ten aṅgula long",
+     "hi": "दस अंगुल लम्बी"
+    }
+   ],
+   "english": "For grasping śuṇḍikā, arma and the like, the baḍiśa (hook) with a well-bent tip [is used]. For cutting bones, the karapatra (saw) with a rough, toothed edge, ten aṅgula long,",
+   "hindi": "शुण्डिका, अर्म आदि को पकड़ने के लिए अच्छी तरह मुड़े मुख वाला बडिश (काँटा) होता है। हड्डियाँ काटने के लिए करपत्र (आरी) होती है, जिसकी धार दाँतेदार और लम्बाई दस अंगुल होती है,",
+   "explanation_en": "Baḍiśa (hook) holds tissue like the uvula or a pterygium while it is cut. Karapatra (saw) is the bone-cutting instrument; its details continue in verse 17. Both are commonly asked in 'match the following'.",
+   "explanation_hi": "बडिश (काँटा) शुण्डिका या अर्म जैसे ऊतक को काटते समय पकड़कर रखता है। करपत्र (आरी) हड्डी काटने का शस्त्र है; इसका विवरण श्लोक 17 में जारी है। दोनों 'मिलान करें' प्रश्नों में अक्सर आते हैं।",
+   "modern_correlation": {
+    "en": "Baḍiśa is often compared to a sharp tissue hook (skin hook), and karapatra to a bone saw.",
+    "hi": "बडिश की तुलना अक्सर नुकीले टिश्यू हुक (स्किन हुक) से, और करपत्र की बोन-सॉ से की जाती है।"
+   },
+   "key_terms": [
+    "baḍiśa",
+    "karapatra",
+    "śuṇḍikā",
+    "arma"
+   ],
+   "tags": [
+    "shastra",
+    "surgical-instruments"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.17",
+   "word_meanings": [
+    {
+     "sa": "विस्तारे",
+     "iast": "vistāre",
+     "en": "in width",
+     "hi": "चौड़ाई में"
+    },
+    {
+     "sa": "द्व्यङ्गुलम्",
+     "iast": "dvy-aṅgulam",
+     "en": "two aṅgula",
+     "hi": "दो अंगुल"
+    },
+    {
+     "sa": "सूक्ष्मदन्तम्",
+     "iast": "sūkṣma-dantam",
+     "en": "fine-toothed",
+     "hi": "बारीक दाँतों वाली"
+    },
+    {
+     "sa": "सुत्सरुबन्धनम्",
+     "iast": "su-tsaru-bandhanam",
+     "en": "with a well-fixed handle",
+     "hi": "मजबूत हत्थे वाली"
+    },
+    {
+     "sa": "स्नायु",
+     "iast": "snāyu",
+     "en": "ligament, sinew",
+     "hi": "स्नायु"
+    },
+    {
+     "sa": "सूत्र",
+     "iast": "sūtra",
+     "en": "thread",
+     "hi": "धागा"
+    },
+    {
+     "sa": "कच",
+     "iast": "kaca",
+     "en": "hair",
+     "hi": "बाल"
+    },
+    {
+     "sa": "छेदे",
+     "iast": "chede",
+     "en": "for cutting",
+     "hi": "काटने में"
+    },
+    {
+     "sa": "कर्तरी",
+     "iast": "kartarī",
+     "en": "kartarī",
+     "hi": "कर्तरी"
+    },
+    {
+     "sa": "कर्तरीनिभा",
+     "iast": "kartarī-nibhā",
+     "en": "resembling (ordinary) scissors",
+     "hi": "कैंची जैसी"
+    }
+   ],
+   "english": "two aṅgula wide, fine-toothed and with a well-fixed handle. For cutting ligaments, threads and hair, the kartarī, which resembles ordinary scissors, [is used].",
+   "hindi": "(करपत्र) दो अंगुल चौड़ी, बारीक दाँतों वाली और मजबूत हत्थे वाली होती है। स्नायु, धागा और बाल काटने के लिए कर्तरी होती है, जो सामान्य कैंची जैसी होती है।",
+   "explanation_en": "Karapatra: 10 aṅgula long, 2 aṅgula wide, fine teeth. Kartarī (scissors) cuts soft, fibrous material such as snāyu, sutures and hair. The comparison with ordinary scissors shows these were familiar household tools adapted for surgery.",
+   "explanation_hi": "करपत्र: 10 अंगुल लम्बी, 2 अंगुल चौड़ी, बारीक दाँत। कर्तरी (कैंची) स्नायु, टाँके के धागे और बाल जैसी कोमल रेशेदार चीजें काटती है। सामान्य कैंची से तुलना दिखाती है कि ये परिचित घरेलू औजार थे जिन्हें शल्य के लिए अपनाया गया।",
+   "modern_correlation": {
+    "en": "Kartarī is directly comparable to modern surgical scissors (for example suture scissors), and the fine-toothed karapatra to a bone saw.",
+    "hi": "कर्तरी की सीधी तुलना आधुनिक शल्य-कैंची (जैसे सूचर सिज़र्स) से, और बारीक दाँतों वाले करपत्र की बोन-सॉ से की जा सकती है।"
+   },
+   "key_terms": [
+    "karapatra",
+    "kartarī",
+    "snāyu"
+   ],
+   "tags": [
+    "shastra",
+    "surgical-instruments"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.18",
+   "word_meanings": [
+    {
+     "sa": "वक्रर्जुधारम्",
+     "iast": "vakrarju-dhāram",
+     "en": "with a curved and a straight edge",
+     "hi": "टेढ़ी और सीधी धार वाला"
+    },
+    {
+     "sa": "द्विमुखम्",
+     "iast": "dvi-mukham",
+     "en": "double-ended",
+     "hi": "दो मुख वाला"
+    },
+    {
+     "sa": "नखशस्त्रम्",
+     "iast": "nakha-śastram",
+     "en": "nail-knife",
+     "hi": "नखशस्त्र"
+    },
+    {
+     "sa": "नवाङ्गुलम्",
+     "iast": "navāṅgulam",
+     "en": "nine aṅgula long",
+     "hi": "नौ अंगुल लम्बा"
+    },
+    {
+     "sa": "सूक्ष्मशल्योद्धृति",
+     "iast": "sūkṣma-śalyoddhṛti",
+     "en": "extraction of tiny foreign bodies",
+     "hi": "छोटे शल्य निकालना"
+    },
+    {
+     "sa": "छेद",
+     "iast": "cheda",
+     "en": "excision",
+     "hi": "छेदन"
+    },
+    {
+     "sa": "भेद",
+     "iast": "bheda",
+     "en": "incision",
+     "hi": "भेदन"
+    },
+    {
+     "sa": "प्रच्छान",
+     "iast": "pracchāna",
+     "en": "scarification",
+     "hi": "प्रच्छान"
+    },
+    {
+     "sa": "लेखने",
+     "iast": "lekhane",
+     "en": "scraping",
+     "hi": "लेखन में"
+    }
+   ],
+   "english": "The nakhaśastra (nail-knife) is double-ended, with one curved and one straight edge, nine aṅgula long. It is used for extracting tiny foreign bodies, excision, incision, scarification (pracchāna) and scraping.",
+   "hindi": "नखशस्त्र दो मुख वाला होता है, एक ओर टेढ़ी और एक ओर सीधी धार, और नौ अंगुल लम्बा। इसका प्रयोग छोटे शल्य निकालने, छेदन, भेदन, प्रच्छान और लेखन में होता है।",
+   "explanation_en": "Nakhaśastra is a versatile double-ended instrument with five uses. Its many functions make it a good answer to 'which śastra has the most uses?'. Pracchāna (scarification) is explained in verses 51-52.",
+   "explanation_hi": "नखशस्त्र एक बहु-उपयोगी दो मुख वाला शस्त्र है जिसके पाँच उपयोग हैं। इसके अनेक कार्य इसे 'किस शस्त्र के सबसे अधिक उपयोग हैं?' का अच्छा उत्तर बनाते हैं। प्रच्छान श्लोक 51-52 में समझाया गया है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "nakhaśastra",
+    "pracchāna",
+    "lekhana"
+   ],
+   "tags": [
+    "shastra",
+    "surgical-instruments"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.19",
+   "word_meanings": [
+    {
+     "sa": "एकधारम्",
+     "iast": "eka-dhāram",
+     "en": "single-edged",
+     "hi": "एक धार वाला"
+    },
+    {
+     "sa": "चतुष्कोणम्",
+     "iast": "catuṣ-koṇam",
+     "en": "four-cornered",
+     "hi": "चार कोनों वाला"
+    },
+    {
+     "sa": "प्रबद्धाकृति",
+     "iast": "prabaddhākṛti",
+     "en": "fixed (to a handle) in form",
+     "hi": "हत्थे में जड़ा हुआ"
+    },
+    {
+     "sa": "च एकतः",
+     "iast": "ca ekataḥ",
+     "en": "on one side",
+     "hi": "एक ओर"
+    },
+    {
+     "sa": "दन्तलेखनकम्",
+     "iast": "danta-lekhanakam",
+     "en": "tooth scraper",
+     "hi": "दन्तलेखन"
+    },
+    {
+     "sa": "तेन",
+     "iast": "tena",
+     "en": "with it",
+     "hi": "उससे"
+    },
+    {
+     "sa": "शोधयेत्",
+     "iast": "śodhayet",
+     "en": "should clean",
+     "hi": "साफ करे"
+    },
+    {
+     "sa": "दन्तशर्कराम्",
+     "iast": "danta-śarkarām",
+     "en": "tartar of the teeth",
+     "hi": "दाँतों का कीट (टार्टर)"
+    }
+   ],
+   "english": "The dantalekhana (tooth scraper) is single-edged, four-cornered and fixed to a handle on one side; with it one should clean off dental tartar (dantaśarkarā).",
+   "hindi": "दन्तलेखन एक धार वाला, चार कोनों वाला और एक ओर हत्थे में जड़ा होता है; इससे दाँतों का कीट (दन्तशर्करा, टार्टर) साफ करना चाहिए।",
+   "explanation_en": "Dantaśarkarā (dental calculus) is a disease of the teeth described in the Uttarasthāna, and its removal by scraping is an early form of dental scaling. Commonly asked in short notes on dental instruments.",
+   "explanation_hi": "दन्तशर्करा (दाँतों पर जमी पपड़ी) उत्तरस्थान में वर्णित दन्तरोग है, और खुरचकर इसे निकालना दाँतों की स्केलिंग का प्राचीन रूप है। दन्त-शस्त्रों पर छोटे नोट में यह पूछा जाता है।",
+   "modern_correlation": {
+    "en": "The dantalekhana is often compared to the modern dental scaler used to remove calculus (tartar) from teeth.",
+    "hi": "दन्तलेखन की तुलना अक्सर आधुनिक डेंटल स्केलर से की जाती है, जिससे दाँतों से कैलकुलस (टार्टर) निकाला जाता है।"
+   },
+   "key_terms": [
+    "dantalekhana",
+    "dantaśarkarā"
+   ],
+   "tags": [
+    "shastra",
+    "surgical-instruments",
+    "dental"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.20",
+   "word_meanings": [
+    {
+     "sa": "वृत्ताः",
+     "iast": "vṛttāḥ",
+     "en": "round",
+     "hi": "गोल"
+    },
+    {
+     "sa": "गूढदृढाः",
+     "iast": "gūḍha-dṛḍhāḥ",
+     "en": "firm and with a hidden (smooth)",
+     "hi": "मजबूत और छिपे"
+    },
+    {
+     "sa": "पाशे",
+     "iast": "pāśe",
+     "en": "eye (of the needle)",
+     "hi": "नाके (सुई के छेद) वाली"
+    },
+    {
+     "sa": "तिस्रः",
+     "iast": "tisraḥ",
+     "en": "three",
+     "hi": "तीन"
+    },
+    {
+     "sa": "सूच्यः",
+     "iast": "sūcyaḥ",
+     "en": "needles",
+     "hi": "सूचियाँ"
+    },
+    {
+     "sa": "अत्र",
+     "iast": "atra",
+     "en": "here",
+     "hi": "यहाँ"
+    },
+    {
+     "sa": "सीवने",
+     "iast": "sīvane",
+     "en": "for suturing",
+     "hi": "सीवन (टाँके) के लिए"
+    },
+    {
+     "sa": "मांसलानाम्",
+     "iast": "māṃsalānām",
+     "en": "of fleshy",
+     "hi": "मांसल"
+    },
+    {
+     "sa": "प्रदेशानाम्",
+     "iast": "pradeśānām",
+     "en": "areas",
+     "hi": "स्थानों के लिए"
+    },
+    {
+     "sa": "त्र्यश्रा",
+     "iast": "try-aśrā",
+     "en": "triangular",
+     "hi": "तिकोनी"
+    },
+    {
+     "sa": "त्र्यङ्गुलम्",
+     "iast": "try-aṅgulam",
+     "en": "three aṅgula",
+     "hi": "तीन अंगुल"
+    },
+    {
+     "sa": "आयता",
+     "iast": "āyatā",
+     "en": "long",
+     "hi": "लम्बी"
+    }
+   ],
+   "english": "For suturing (sīvana) there are three needles, round [in body], firm, with a smooth, concealed eye. For fleshy areas, a triangular needle three aṅgula long [is used];",
+   "hindi": "सीवन (टाँके लगाने) के लिए तीन सूचियाँ होती हैं, जो गोल, मजबूत और चिकने छिपे नाके वाली होती हैं। मांसल स्थानों के लिए तिकोनी, तीन अंगुल लम्बी सूची;",
+   "explanation_en": "The three suture needles (sīvana-sūcī) are a very important exam topic, given in verses 20-22. The triangular (cutting-edged) needle passes easily through thick, fleshy tissue. A smooth eye prevents the thread from fraying.",
+   "explanation_hi": "टाँके की तीन सूचियाँ (सीवन-सूची) परीक्षा का बहुत महत्वपूर्ण विषय हैं, जो श्लोक 20-22 में दी गई हैं। तिकोनी (धारदार किनारों वाली) सुई मोटे, मांसल ऊतक में आसानी से जाती है। चिकना नाका धागे को टूटने से बचाता है।",
+   "modern_correlation": {
+    "en": "The triangular needle for thick tissue closely parallels the modern triangular cutting needle used for skin and tough tissue.",
+    "hi": "मोटे ऊतक के लिए तिकोनी सुई, त्वचा और कठोर ऊतक के लिए प्रयुक्त आधुनिक तिकोनी कटिंग नीडल से बहुत मिलती है।"
+   },
+   "key_terms": [
+    "sūcī",
+    "sīvana",
+    "tryaśra"
+   ],
+   "tags": [
+    "shastra",
+    "surgical-instruments",
+    "suturing"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.21",
+   "word_meanings": [
+    {
+     "sa": "अल्पमांस",
+     "iast": "alpa-māṃsa",
+     "en": "with little flesh",
+     "hi": "कम मांस वाले"
+    },
+    {
+     "sa": "अस्थि",
+     "iast": "asthi",
+     "en": "bone",
+     "hi": "हड्डी"
+    },
+    {
+     "sa": "संधिस्थ",
+     "iast": "saṃdhi-stha",
+     "en": "located at joints",
+     "hi": "संधियों में स्थित"
+    },
+    {
+     "sa": "व्रणानाम्",
+     "iast": "vraṇānām",
+     "en": "of wounds",
+     "hi": "व्रणों के लिए"
+    },
+    {
+     "sa": "द्व्यङ्गुलायता",
+     "iast": "dvy-aṅgulāyatā",
+     "en": "two aṅgula long",
+     "hi": "दो अंगुल लम्बी"
+    },
+    {
+     "sa": "व्रीहिवक्त्रा",
+     "iast": "vrīhi-vaktrā",
+     "en": "rice-grain tipped",
+     "hi": "धान के दाने जैसे मुख वाली"
+    },
+    {
+     "sa": "धनुर्वक्रा",
+     "iast": "dhanur-vakrā",
+     "en": "curved like a bow",
+     "hi": "धनुष जैसी टेढ़ी"
+    },
+    {
+     "sa": "पक्वामाशयमर्मसु",
+     "iast": "pakvāmāśaya-marmasu",
+     "en": "in the large intestine, stomach and vital points",
+     "hi": "पक्वाशय, आमाशय और मर्मों में"
+    }
+   ],
+   "english": "for wounds in places with little flesh, over bones or at joints, one two aṅgula long; and for the pakvāśaya, āmāśaya and vital points (marma), one with a rice-grain tip, curved like a bow,",
+   "hindi": "कम मांस वाले स्थानों, हड्डियों के ऊपर या संधियों के व्रणों के लिए दो अंगुल लम्बी सूची; और पक्वाशय, आमाशय तथा मर्मों के लिए धान के दाने जैसे मुख वाली, धनुष जैसी टेढ़ी सूची,",
+   "explanation_en": "The second needle (2 aṅgula, round) is for thin tissue over bones and joints, and the third (curved, vrīhimukha tip) for abdominal organs and marmas. The curve allows suturing in deep, confined spaces. Its length is completed in verse 22.",
+   "explanation_hi": "दूसरी सूची (2 अंगुल, गोल) हड्डियों और संधियों के ऊपर की पतली त्वचा के लिए, और तीसरी (टेढ़ी, व्रीहि जैसी नोक) पेट के अंगों और मर्मों के लिए है। टेढ़ापन गहरे, संकरे स्थानों में टाँके लगाने देता है। इसकी लम्बाई श्लोक 22 में पूरी होती है।",
+   "modern_correlation": {
+    "en": "The bow-curved needle for abdominal viscera broadly parallels modern curved round-bodied needles used for bowel and deep tissue, where a cutting edge would cause unnecessary damage.",
+    "hi": "पेट के अंगों के लिए धनुषाकार सुई, आँत और गहरे ऊतक के लिए प्रयुक्त आधुनिक टेढ़ी, गोल शरीर वाली सुई से मिलती है, जहाँ धारदार किनारा अनावश्यक क्षति करेगा।"
+   },
+   "key_terms": [
+    "sūcī",
+    "sīvana",
+    "marma",
+    "āmāśaya",
+    "pakvāśaya"
+   ],
+   "tags": [
+    "shastra",
+    "surgical-instruments",
+    "suturing"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.22",
+   "word_meanings": [
+    {
+     "sa": "सा",
+     "iast": "sā",
+     "en": "that (needle)",
+     "hi": "वह (सूची)"
+    },
+    {
+     "sa": "सार्धद्व्यङ्गुला",
+     "iast": "sārdha-dvy-aṅgulā",
+     "en": "two and a half aṅgula long",
+     "hi": "ढाई अंगुल की"
+    },
+    {
+     "sa": "सर्ववृत्ताः",
+     "iast": "sarva-vṛttāḥ",
+     "en": "completely round",
+     "hi": "पूरी तरह गोल"
+    },
+    {
+     "sa": "ताः",
+     "iast": "tāḥ",
+     "en": "those (needles)",
+     "hi": "वे (सूचियाँ)"
+    },
+    {
+     "sa": "चतुरङ्गुलाः",
+     "iast": "catur-aṅgulāḥ",
+     "en": "four aṅgula long",
+     "hi": "चार अंगुल की"
+    },
+    {
+     "sa": "कूर्चः",
+     "iast": "kūrcaḥ",
+     "en": "the kūrca (brush)",
+     "hi": "कूर्च"
+    },
+    {
+     "sa": "वृत्तैकपीठस्थाः",
+     "iast": "vṛttaika-pīṭha-sthāḥ",
+     "en": "set on a single round base",
+     "hi": "एक गोल आधार पर लगी"
+    },
+    {
+     "sa": "सप्त",
+     "iast": "sapta",
+     "en": "seven",
+     "hi": "सात"
+    },
+    {
+     "sa": "अष्टौ",
+     "iast": "aṣṭau",
+     "en": "eight",
+     "hi": "आठ"
+    },
+    {
+     "sa": "वा",
+     "iast": "vā",
+     "en": "or",
+     "hi": "या"
+    },
+    {
+     "sa": "सुबन्धनाः",
+     "iast": "su-bandhanāḥ",
+     "en": "firmly bound",
+     "hi": "मजबूती से बँधी"
+    }
+   ],
+   "english": "that one is two and a half aṅgula long. [The needles of] the kūrca are completely round and four aṅgula long: seven or eight of them, firmly bound and set on a single round base, make up the kūrca.",
+   "hindi": "वह (तीसरी सूची) ढाई अंगुल की होती है। कूर्च की सूचियाँ पूरी तरह गोल और चार अंगुल लम्बी होती हैं; ऐसी सात या आठ सूचियाँ एक गोल आधार पर मजबूती से बँधी हों, यही कूर्च है।",
+   "explanation_en": "This completes the suture needles (3, 2 and 2.5 aṅgula) and introduces the kūrca, a brush of 7-8 needles. Commit the needle table to memory: tryaśra 3 aṅgula (fleshy), vṛtta 2 aṅgula (bone/joints), dhanurvakra 2.5 aṅgula (abdomen/marma).",
+   "explanation_hi": "यह टाँके की सूचियाँ पूरी करता है (3, 2 और 2.5 अंगुल) और कूर्च बताता है, जो 7-8 सूचियों का गुच्छा है। सूची-तालिका याद करें: त्र्यश्रा 3 अंगुल (मांसल), वृत्ता 2 अंगुल (हड्डी/संधि), धनुर्वक्रा 2.5 अंगुल (उदर/मर्म)।",
+   "modern_correlation": {
+    "en": "The kūrca, a cluster of fine needles on a base, is sometimes compared to multi-needle devices such as the 'plum-blossom' needle or skin-needling tools; this is a structural comparison only.",
+    "hi": "कूर्च, आधार पर लगी बारीक सुइयों का गुच्छा, की तुलना कभी-कभी 'प्लम-ब्लॉसम' नीडल या त्वचा-नीडलिंग उपकरणों से की जाती है; यह केवल बनावट की तुलना है।"
+   },
+   "key_terms": [
+    "sūcī",
+    "kūrca",
+    "sīvana"
+   ],
+   "tags": [
+    "shastra",
+    "surgical-instruments",
+    "suturing"
+   ],
+   "importance": "high",
+   "mnemonic": "Suture needles 3-2-2.5: Triangle for Thick flesh, Round for Restricted (bone/joint), Bow for Belly (abdomen/marma).",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.23",
+   "word_meanings": [
+    {
+     "sa": "सः",
+     "iast": "saḥ",
+     "en": "it",
+     "hi": "वह"
+    },
+    {
+     "sa": "योज्यः",
+     "iast": "yojyaḥ",
+     "en": "should be used",
+     "hi": "प्रयोग करना चाहिए"
+    },
+    {
+     "sa": "नीलिका",
+     "iast": "nīlikā",
+     "en": "nīlikā (dark patches)",
+     "hi": "नीलिका"
+    },
+    {
+     "sa": "व्यङ्ग",
+     "iast": "vyaṅga",
+     "en": "vyaṅga (facial pigmentation)",
+     "hi": "व्यङ्ग (झाँई)"
+    },
+    {
+     "sa": "केशशातेषु",
+     "iast": "keśa-śāteṣu",
+     "en": "in hair loss",
+     "hi": "बाल झड़ने में"
+    },
+    {
+     "sa": "कुट्टने",
+     "iast": "kuṭṭane",
+     "en": "for tapping (pricking)",
+     "hi": "कुट्टन (थपथपाकर चुभाने) में"
+    },
+    {
+     "sa": "अर्धाङ्गुलमुखैः",
+     "iast": "ardhāṅgula-mukhaiḥ",
+     "en": "with half-aṅgula tips",
+     "hi": "आधे अंगुल के मुख वाले"
+    },
+    {
+     "sa": "वृत्तैः",
+     "iast": "vṛttaiḥ",
+     "en": "round",
+     "hi": "गोल"
+    },
+    {
+     "sa": "अष्टाभिः",
+     "iast": "aṣṭābhiḥ",
+     "en": "with eight",
+     "hi": "आठ"
+    },
+    {
+     "sa": "कण्टकैः",
+     "iast": "kaṇṭakaiḥ",
+     "en": "spikes",
+     "hi": "काँटों से"
+    },
+    {
+     "sa": "खजः",
+     "iast": "khajaḥ",
+     "en": "the khaja",
+     "hi": "खज"
+    }
+   ],
+   "english": "It (the kūrca) is used for tapping (kuṭṭana) in nīlikā, vyaṅga (pigmented patches) and hair loss (keśaśāta). The khaja has eight round spikes with half-aṅgula tips;",
+   "hindi": "कूर्च का प्रयोग नीलिका, व्यङ्ग (चेहरे की झाँई) और बाल झड़ने (केशशात) में कुट्टन (थपथपाकर हल्का चुभाना) के लिए होता है। खज में आधे अंगुल के मुख वाले आठ गोल काँटे होते हैं;",
+   "explanation_en": "Kūrca is used for kuṭṭana, superficial multiple pricking of the skin in pigment disorders and alopecia, after which medicines are applied. The khaja (a spiked rod) is described with its use in verse 24.",
+   "explanation_hi": "कूर्च का प्रयोग कुट्टन के लिए होता है, अर्थात् रंजकता विकारों और गंजेपन में त्वचा पर हल्की, अनेक चुभन, जिसके बाद दवा लगाई जाती है। खज (काँटेदार छड़) का उपयोग श्लोक 24 में है।",
+   "modern_correlation": {
+    "en": "Multiple superficial pricking followed by topical application is often compared to modern microneedling, which is used in some pigmentation and hair-loss treatments. This is a procedural parallel, not evidence for the classical claims.",
+    "hi": "अनेक हल्की चुभन के बाद दवा लगाना, आधुनिक माइक्रोनीडलिंग से तुलना किया जाता है, जो कुछ रंजकता और बाल झड़ने के उपचारों में प्रयोग होती है। यह केवल प्रक्रिया की समानता है, शास्त्रीय दावों का प्रमाण नहीं।"
+   },
+   "key_terms": [
+    "kūrca",
+    "kuṭṭana",
+    "nīlikā",
+    "vyaṅga",
+    "khaja",
+    "khālitya"
+   ],
+   "tags": [
+    "shastra",
+    "surgical-instruments"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.24",
+   "word_meanings": [
+    {
+     "sa": "पाणिभ्याम्",
+     "iast": "pāṇibhyām",
+     "en": "between both hands",
+     "hi": "दोनों हाथों से"
+    },
+    {
+     "sa": "मथ्यमानेन",
+     "iast": "mathyamānena",
+     "en": "being twirled (churned)",
+     "hi": "मथते हुए (घुमाते हुए)"
+    },
+    {
+     "sa": "घ्राणात्",
+     "iast": "ghrāṇāt",
+     "en": "from the nose",
+     "hi": "नाक से"
+    },
+    {
+     "sa": "तेन",
+     "iast": "tena",
+     "en": "with it",
+     "hi": "उससे"
+    },
+    {
+     "sa": "हरेत्",
+     "iast": "haret",
+     "en": "should remove",
+     "hi": "निकाले"
+    },
+    {
+     "sa": "असृक्",
+     "iast": "asṛk",
+     "en": "blood",
+     "hi": "रक्त"
+    },
+    {
+     "sa": "व्यधनम्",
+     "iast": "vyadhanam",
+     "en": "the piercer",
+     "hi": "वेधन करने वाला"
+    },
+    {
+     "sa": "कर्णपालीनाम्",
+     "iast": "karṇa-pālīnām",
+     "en": "of the ear lobes",
+     "hi": "कर्णपाली (कान की लौ) का"
+    },
+    {
+     "sa": "यूथिकामुकुलाननम्",
+     "iast": "yūthikā-mukulānanam",
+     "en": "with a tip like a jasmine bud",
+     "hi": "जूही की कली जैसे मुख वाला"
+    }
+   ],
+   "english": "twirling it between both hands (like a churning stick) inside the nose, one should draw blood from the nose with it. The instrument for piercing the ear lobes has a tip like a jasmine (yūthikā) bud.",
+   "hindi": "इसे दोनों हाथों के बीच मथानी की तरह घुमाकर नाक के अन्दर से रक्त निकालना चाहिए। कर्णपाली (कान की लौ) बेधने का शस्त्र जूही की कली जैसे मुख वाला होता है।",
+   "explanation_en": "Khaja is a spiked rod used for nasal bloodletting in certain head diseases. The ear-lobe piercer is introduced; ear piercing (karṇavedha) is both a saṃskāra and a therapeutic procedure. Related instruments follow in verses 25-26.",
+   "explanation_hi": "खज एक काँटेदार छड़ है, जिससे कुछ शिरोरोगों में नाक से रक्त निकाला जाता है। कर्णपाली बेधने का शस्त्र यहाँ बताया गया; कर्णवेध एक संस्कार और चिकित्सा दोनों है। सम्बन्धित शस्त्र श्लोक 25-26 में हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "khaja",
+    "karṇavedha",
+    "raktamokṣaṇa"
+   ],
+   "tags": [
+    "shastra",
+    "surgical-instruments"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.25",
+   "word_meanings": [
+    {
+     "sa": "आरा",
+     "iast": "ārā",
+     "en": "the awl",
+     "hi": "आरा"
+    },
+    {
+     "sa": "अर्धाङ्गुलवृत्तास्या",
+     "iast": "ardhāṅgula-vṛttāsyā",
+     "en": "with a round tip of half an aṅgula",
+     "hi": "आधे अंगुल के गोल मुख वाला"
+    },
+    {
+     "sa": "तत्प्रवेशा",
+     "iast": "tat-praveśā",
+     "en": "penetrating to that depth",
+     "hi": "उतना ही अन्दर जाने वाला"
+    },
+    {
+     "sa": "तथा",
+     "iast": "tathā",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "ऊर्ध्वतः",
+     "iast": "ūrdhvataḥ",
+     "en": "above (that)",
+     "hi": "उसके ऊपर"
+    },
+    {
+     "sa": "चतुरश्रा",
+     "iast": "catur-aśrā",
+     "en": "four-sided",
+     "hi": "चौकोर"
+    },
+    {
+     "sa": "तया",
+     "iast": "tayā",
+     "en": "with it",
+     "hi": "उससे"
+    },
+    {
+     "sa": "विध्येत्",
+     "iast": "vidhyet",
+     "en": "should pierce",
+     "hi": "बेधे"
+    },
+    {
+     "sa": "शोफम्",
+     "iast": "śopham",
+     "en": "a swelling",
+     "hi": "सूजन को"
+    },
+    {
+     "sa": "पक्वामसंशये",
+     "iast": "pakvāma-saṃśaye",
+     "en": "when in doubt whether ripe or unripe",
+     "hi": "पक्व-अपक्व के संशय में"
+    }
+   ],
+   "english": "The ārā (awl) has a round tip half an aṅgula long, which penetrates only that far, and is four-sided above that. With it one should pierce a swelling when it is doubtful whether it is ripe (suppurated) or unripe,",
+   "hindi": "आरा का गोल मुख आधे अंगुल का होता है, जो केवल उतना ही अन्दर जाता है, और उसके ऊपर का भाग चौकोर होता है। जब यह संशय हो कि सूजन पकी है या कच्ची, तब इससे उसका वेधन करना चाहिए,",
+   "explanation_en": "The ārā is a diagnostic tool: a small puncture shows whether pus is present before a full incision is made. The four-sided part above the tip acts as a stop, limiting depth to half an aṅgula. A good viva point: 'which śastra is used when pakva-āma is doubtful?'",
+   "explanation_hi": "आरा एक निदान-उपकरण भी है: पूरा चीरा लगाने से पहले छोटा छेद करके देखा जाता है कि मवाद है या नहीं। नोक के ऊपर का चौकोर भाग रोक का काम करता है और गहराई आधे अंगुल तक सीमित रखता है। मौखिक प्रश्न: 'पक्व-आम के संशय में कौन सा शस्त्र?'",
+   "modern_correlation": {
+    "en": "Puncturing a swelling to check for pus before incision broadly parallels modern diagnostic needle aspiration of a suspected abscess.",
+    "hi": "चीरा लगाने से पहले मवाद देखने के लिए सूजन का वेधन, सन्दिग्ध फोड़े में आधुनिक नैदानिक नीडल एस्पिरेशन से मिलता है।"
+   },
+   "key_terms": [
+    "ārā",
+    "pakva",
+    "āma",
+    "śopha"
+   ],
+   "tags": [
+    "shastra",
+    "surgical-instruments",
+    "vrana"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.26",
+   "word_meanings": [
+    {
+     "sa": "कर्णपालीम्",
+     "iast": "karṇa-pālīm",
+     "en": "the ear lobe",
+     "hi": "कर्णपाली को"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "बहलाम्",
+     "iast": "bahalām",
+     "en": "thick",
+     "hi": "मोटी"
+    },
+    {
+     "sa": "बहलायाः",
+     "iast": "bahalāyāḥ",
+     "en": "for a thick (lobe)",
+     "hi": "मोटी (लौ) के लिए"
+    },
+    {
+     "sa": "शस्यते",
+     "iast": "śasyate",
+     "en": "is recommended",
+     "hi": "प्रशस्त है"
+    },
+    {
+     "sa": "सूची",
+     "iast": "sūcī",
+     "en": "needle",
+     "hi": "सूची"
+    },
+    {
+     "sa": "त्रिभागसुषिरा",
+     "iast": "tri-bhāga-suṣirā",
+     "en": "hollow for a third of its length",
+     "hi": "तिहाई भाग तक खोखली"
+    },
+    {
+     "sa": "त्र्यङ्गुला",
+     "iast": "try-aṅgulā",
+     "en": "three aṅgula long",
+     "hi": "तीन अंगुल लम्बी"
+    },
+    {
+     "sa": "कर्णवेधनी",
+     "iast": "karṇa-vedhanī",
+     "en": "ear-piercing needle",
+     "hi": "कर्णवेधनी"
+    }
+   ],
+   "english": "and also a thick ear lobe. For a thick lobe, the karṇavedhanī (ear-piercing needle), three aṅgula long and hollow for a third of its length, is also recommended.",
+   "hindi": "और मोटी कर्णपाली का भी (आरा से वेधन करें)। मोटी लौ के लिए कर्णवेधनी सूची भी प्रशस्त है, जो तीन अंगुल लम्बी और एक-तिहाई भाग तक खोखली होती है।",
+   "explanation_en": "For a thick ear lobe either the ārā or the hollow karṇavedhanī needle is used. The hollow part may carry the thread or ornament through the hole. This completes the list of the 26 śastras.",
+   "explanation_hi": "मोटी कर्णपाली के लिए आरा या खोखली कर्णवेधनी सूची प्रयोग होती है। खोखला भाग छेद में धागा या आभूषण पहुँचाने में मदद कर सकता है। इसके साथ 26 शस्त्रों का वर्णन पूरा होता है।",
+   "modern_correlation": {
+    "en": "The hollow ear-piercing needle broadly parallels hollow piercing needles used today, through which a stud or thread can be passed.",
+    "hi": "खोखली कर्णवेधनी आज प्रयोग होने वाली खोखली पियर्सिंग सुइयों से मिलती है, जिनसे बाली या धागा छेद में डाला जाता है।"
+   },
+   "key_terms": [
+    "karṇavedhanī",
+    "karṇavedha",
+    "ārā"
+   ],
+   "tags": [
+    "shastra",
+    "surgical-instruments"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.27",
+   "word_meanings": [
+    {
+     "sa": "जलौकः",
+     "iast": "jalaukaḥ",
+     "en": "leech",
+     "hi": "जलौका (जोंक)"
+    },
+    {
+     "sa": "क्षार",
+     "iast": "kṣāra",
+     "en": "caustic alkali",
+     "hi": "क्षार"
+    },
+    {
+     "sa": "दहन",
+     "iast": "dahana",
+     "en": "fire (cautery)",
+     "hi": "अग्नि"
+    },
+    {
+     "sa": "काच",
+     "iast": "kāca",
+     "en": "glass",
+     "hi": "काँच"
+    },
+    {
+     "sa": "उपल",
+     "iast": "upala",
+     "en": "stone",
+     "hi": "पत्थर"
+    },
+    {
+     "sa": "नख",
+     "iast": "nakha",
+     "en": "fingernail",
+     "hi": "नाखून"
+    },
+    {
+     "sa": "आदयः",
+     "iast": "ādayaḥ",
+     "en": "and the like",
+     "hi": "आदि"
+    },
+    {
+     "sa": "अलौहानि",
+     "iast": "a-lauhāni",
+     "en": "non-metallic",
+     "hi": "धातु रहित"
+    },
+    {
+     "sa": "अनुशस्त्राणि",
+     "iast": "anu-śastrāṇi",
+     "en": "accessory sharp instruments",
+     "hi": "अनुशस्त्र"
+    },
+    {
+     "sa": "तानि",
+     "iast": "tāni",
+     "en": "them",
+     "hi": "उन्हें"
+    },
+    {
+     "sa": "एवम्",
+     "iast": "evam",
+     "en": "thus",
+     "hi": "इस प्रकार"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "विकल्पयेत्",
+     "iast": "vikalpayet",
+     "en": "should devise",
+     "hi": "कल्पना करे"
+    }
+   ],
+   "english": "Leech, caustic alkali (kṣāra), fire (cautery), glass, stone, fingernail and the like are the non-metallic accessory instruments (anuśastra). One should devise these in the same way,",
+   "hindi": "जलौका (जोंक), क्षार, अग्नि, काँच, पत्थर, नाखून आदि धातु-रहित अनुशस्त्र (सहायक शस्त्र) हैं। इन्हें भी इसी प्रकार (आवश्यकता अनुसार) कल्पित करना चाहिए,",
+   "explanation_en": "Anuśastras are substitutes for metal instruments, useful for patients who fear the knife, children, or where metal is unavailable. Leech, kṣāra and agni are the three most important; the leech is described in detail from verse 35. 'List the anuśastras' is a frequent question.",
+   "explanation_hi": "अनुशस्त्र धातु के शस्त्रों के विकल्प हैं, जो शस्त्र से डरने वाले रोगियों, बच्चों, या धातु उपलब्ध न होने पर उपयोगी हैं। जलौका, क्षार और अग्नि तीन सबसे महत्वपूर्ण हैं; जलौका का विस्तृत वर्णन श्लोक 35 से है। 'अनुशस्त्रों के नाम लिखें' अक्सर पूछा जाता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "anuśastra",
+    "jalaukā",
+    "kṣāra",
+    "agnikarma"
+   ],
+   "tags": [
+    "shastra",
+    "anushastra",
+    "classification"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.28",
+   "word_meanings": [
+    {
+     "sa": "अपराणि",
+     "iast": "aparāṇi",
+     "en": "other",
+     "hi": "अन्य"
+    },
+    {
+     "sa": "अपि",
+     "iast": "api",
+     "en": "also",
+     "hi": "भी"
+    },
+    {
+     "sa": "यन्त्रादीनि",
+     "iast": "yantrādīni",
+     "en": "instruments and so on",
+     "hi": "यन्त्र आदि"
+    },
+    {
+     "sa": "उपयोगम्",
+     "iast": "upayogam",
+     "en": "use",
+     "hi": "उपयोग"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "यौगिकम्",
+     "iast": "yaugikam",
+     "en": "appropriate",
+     "hi": "उचित"
+    },
+    {
+     "sa": "उत्पाट्य",
+     "iast": "utpāṭya",
+     "en": "uprooting (extraction)",
+     "hi": "उत्पाटन (उखाड़ना)"
+    },
+    {
+     "sa": "पाट्य",
+     "iast": "pāṭya",
+     "en": "splitting",
+     "hi": "पाटन (चीरना)"
+    },
+    {
+     "sa": "सीव्य",
+     "iast": "sīvya",
+     "en": "suturing",
+     "hi": "सीवन (टाँके)"
+    },
+    {
+     "sa": "एष्य",
+     "iast": "eṣya",
+     "en": "probing",
+     "hi": "एषण (खोज)"
+    },
+    {
+     "sa": "लेख्य",
+     "iast": "lekhya",
+     "en": "scraping",
+     "hi": "लेखन (खुरचना)"
+    },
+    {
+     "sa": "प्रच्छान",
+     "iast": "pracchāna",
+     "en": "scarifying",
+     "hi": "प्रच्छान"
+    },
+    {
+     "sa": "कुट्टनम्",
+     "iast": "kuṭṭanam",
+     "en": "tapping/pricking",
+     "hi": "कुट्टन"
+    }
+   ],
+   "english": "and also other instruments and the like, with their appropriate use. Uprooting (utpāṭana), splitting (pāṭana), suturing (sīvana), probing (eṣaṇa), scraping (lekhana), scarifying (pracchāna), pricking (kuṭṭana),",
+   "hindi": "और अन्य यन्त्र आदि को भी उचित उपयोग के साथ (कल्पित करे)। उत्पाटन (उखाड़ना), पाटन (चीरना), सीवन (टाँके लगाना), एषण (खोजना), लेखन (खुरचना), प्रच्छान (हल्के चीरे), कुट्टन (थपथपाकर चुभाना),",
+   "explanation_en": "The second half begins the list of śastra-karma (surgical actions), completed in verse 29. Suśruta describes eight main surgical procedures (aṣṭavidha śastrakarma); Vāgbhaṭa's list here is longer. Compare the two lists in your answer.",
+   "explanation_hi": "दूसरी पंक्ति से शस्त्रकर्मों (शल्य-क्रियाओं) की सूची शुरू होती है, जो श्लोक 29 में पूरी होती है। सुश्रुत आठ मुख्य शस्त्रकर्म (अष्टविध शस्त्रकर्म) बताते हैं; यहाँ वाग्भट की सूची लम्बी है। उत्तर में दोनों सूचियों की तुलना करें।",
+   "modern_correlation": null,
+   "key_terms": [
+    "śastrakarma",
+    "utpāṭana",
+    "pāṭana",
+    "sīvana",
+    "eṣaṇa",
+    "lekhana",
+    "pracchāna",
+    "kuṭṭana"
+   ],
+   "tags": [
+    "shastra",
+    "shastrakarma"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.29",
+   "word_meanings": [
+    {
+     "sa": "छेद्यम्",
+     "iast": "chedyam",
+     "en": "excision",
+     "hi": "छेदन"
+    },
+    {
+     "sa": "भेद्यम्",
+     "iast": "bhedyam",
+     "en": "incision",
+     "hi": "भेदन"
+    },
+    {
+     "sa": "व्यधः",
+     "iast": "vyadhaḥ",
+     "en": "puncturing",
+     "hi": "व्यधन"
+    },
+    {
+     "sa": "मन्थः",
+     "iast": "manthaḥ",
+     "en": "churning (twirling)",
+     "hi": "मन्थन"
+    },
+    {
+     "sa": "ग्रहः",
+     "iast": "grahaḥ",
+     "en": "grasping",
+     "hi": "ग्रहण"
+    },
+    {
+     "sa": "दाहः",
+     "iast": "dāhaḥ",
+     "en": "burning (cautery)",
+     "hi": "दहन"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "तत्क्रियाः",
+     "iast": "tat-kriyāḥ",
+     "en": "are their actions",
+     "hi": "इनके कर्म हैं"
+    },
+    {
+     "sa": "कुण्ठ",
+     "iast": "kuṇṭha",
+     "en": "blunt",
+     "hi": "कुंद"
+    },
+    {
+     "sa": "खण्ड",
+     "iast": "khaṇḍa",
+     "en": "broken (chipped)",
+     "hi": "टूटा हुआ"
+    },
+    {
+     "sa": "तनु",
+     "iast": "tanu",
+     "en": "too thin",
+     "hi": "बहुत पतला"
+    },
+    {
+     "sa": "स्थूल",
+     "iast": "sthūla",
+     "en": "too thick",
+     "hi": "बहुत मोटा"
+    },
+    {
+     "sa": "ह्रस्व",
+     "iast": "hrasva",
+     "en": "too short",
+     "hi": "बहुत छोटा"
+    },
+    {
+     "sa": "दीर्घत्व",
+     "iast": "dīrgha-tva",
+     "en": "too long",
+     "hi": "बहुत लम्बा"
+    },
+    {
+     "sa": "वक्रताः",
+     "iast": "vakra-tāḥ",
+     "en": "crookedness",
+     "hi": "टेढ़ापन"
+    }
+   ],
+   "english": "excision (chedana), incision (bhedana), puncturing (vyadhana), twirling (mantha), grasping (grahaṇa) and burning (dāha): these are their actions. Bluntness, being chipped, too thin, too thick, too short, too long, crooked,",
+   "hindi": "छेदन, भेदन, व्यधन (बेधना), मन्थन (घुमाना), ग्रहण (पकड़ना) और दहन (जलाना): ये इनके कर्म हैं। कुंद होना, टूटा होना, बहुत पतला, बहुत मोटा, बहुत छोटा, बहुत लम्बा, टेढ़ा होना,",
+   "explanation_en": "The surgical actions are completed (thirteen in all across verses 28-29). The second half begins the eight faults of śastras (śastra-doṣa), completed in verse 30. 'Śastra-doṣa' is a standard short-answer question.",
+   "explanation_hi": "शस्त्रकर्म पूरे हुए (श्लोक 28-29 में कुल तेरह)। दूसरी पंक्ति से शस्त्र के आठ दोष शुरू होते हैं, जो श्लोक 30 में पूरे होते हैं। 'शस्त्र-दोष' एक मानक छोटा प्रश्न है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "śastrakarma",
+    "chedana",
+    "bhedana",
+    "vyadhana",
+    "śastra-doṣa"
+   ],
+   "tags": [
+    "shastra",
+    "shastrakarma",
+    "faults"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.30",
+   "word_meanings": [
+    {
+     "sa": "शस्त्राणाम्",
+     "iast": "śastrāṇām",
+     "en": "of sharp instruments",
+     "hi": "शस्त्रों के"
+    },
+    {
+     "sa": "खरधारत्वम्",
+     "iast": "khara-dhāra-tvam",
+     "en": "a rough (jagged) edge",
+     "hi": "खुरदरी धार"
+    },
+    {
+     "sa": "अष्टौ",
+     "iast": "aṣṭau",
+     "en": "eight",
+     "hi": "आठ"
+    },
+    {
+     "sa": "दोषाः",
+     "iast": "doṣāḥ",
+     "en": "faults",
+     "hi": "दोष"
+    },
+    {
+     "sa": "प्रकीर्तिताः",
+     "iast": "prakīrtitāḥ",
+     "en": "are declared",
+     "hi": "कहे गए हैं"
+    },
+    {
+     "sa": "छेद",
+     "iast": "cheda",
+     "en": "excision",
+     "hi": "छेदन"
+    },
+    {
+     "sa": "भेदन",
+     "iast": "bhedana",
+     "en": "incision",
+     "hi": "भेदन"
+    },
+    {
+     "sa": "लेख्यार्थम्",
+     "iast": "lekhyārtham",
+     "en": "for scraping",
+     "hi": "लेखन के लिए"
+    },
+    {
+     "sa": "शस्त्रम्",
+     "iast": "śastram",
+     "en": "the instrument",
+     "hi": "शस्त्र को"
+    },
+    {
+     "sa": "वृन्तफलान्तरे",
+     "iast": "vṛnta-phalāntare",
+     "en": "between handle and blade",
+     "hi": "हत्थे और फल के बीच"
+    }
+   ],
+   "english": "and a rough (jagged) edge: these are declared the eight faults of sharp instruments. For excision, incision and scraping, the instrument [should be held] between the handle and the blade,",
+   "hindi": "और खुरदरी धार: ये शस्त्रों के आठ दोष कहे गए हैं। छेदन, भेदन और लेखन के लिए शस्त्र को हत्थे और फल के बीच (से पकड़ना चाहिए),",
+   "explanation_en": "The eight śastra-doṣas: kuṇṭha, khaṇḍa, tanu, sthūla, hrasva, dīrgha, vakra, kharadhāra. Then the rules for holding instruments (śastra-grahaṇa) begin, continuing to verse 32. Holding near the junction gives maximum control.",
+   "explanation_hi": "आठ शस्त्र-दोष: कुण्ठ, खण्ड, तनु, स्थूल, ह्रस्व, दीर्घ, वक्र, खरधार। फिर शस्त्र पकड़ने के नियम (शस्त्र-ग्रहण) शुरू होते हैं, जो श्लोक 32 तक चलते हैं। जोड़ के पास पकड़ने से सबसे अधिक नियन्त्रण मिलता है।",
+   "modern_correlation": {
+    "en": "Discarding blunt, chipped or bent blades parallels modern practice of inspecting instruments and replacing damaged blades, since they cut poorly and injure tissue.",
+    "hi": "कुंद, टूटे या मुड़े फल को त्यागना, उपकरणों की जाँच करके खराब ब्लेड बदलने की आधुनिक पद्धति से मिलता है, क्योंकि वे ठीक से नहीं काटते और ऊतक को हानि पहुँचाते हैं।"
+   },
+   "key_terms": [
+    "śastra-doṣa",
+    "kharadhāra",
+    "śastra-grahaṇa",
+    "vṛnta",
+    "phala"
+   ],
+   "tags": [
+    "shastra",
+    "faults",
+    "handling"
+   ],
+   "importance": "high",
+   "mnemonic": "8 faults: Kuṇṭha-Khaṇḍa, Tanu-Sthūla, Hrasva-Dīrgha, Vakra, Khara-dhāra (4 pairs-ish).",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.31",
+   "word_meanings": [
+    {
+     "sa": "तर्जनी",
+     "iast": "tarjanī",
+     "en": "index finger",
+     "hi": "तर्जनी"
+    },
+    {
+     "sa": "मध्यमा",
+     "iast": "madhyamā",
+     "en": "middle finger",
+     "hi": "मध्यमा"
+    },
+    {
+     "sa": "अङ्गुष्ठैः",
+     "iast": "aṅguṣṭhaiḥ",
+     "en": "and thumb",
+     "hi": "और अँगूठे से"
+    },
+    {
+     "sa": "गृह्णीयात्",
+     "iast": "gṛhṇīyāt",
+     "en": "should hold",
+     "hi": "पकड़े"
+    },
+    {
+     "sa": "सुसमाहितः",
+     "iast": "su-samāhitaḥ",
+     "en": "with full attention",
+     "hi": "पूरी एकाग्रता से"
+    },
+    {
+     "sa": "विस्रावणानि",
+     "iast": "visrāvaṇāni",
+     "en": "draining instruments",
+     "hi": "स्राव निकालने वाले शस्त्र"
+    },
+    {
+     "sa": "वृन्ताग्रे",
+     "iast": "vṛntāgre",
+     "en": "at the end of the handle",
+     "hi": "हत्थे के सिरे पर"
+    },
+    {
+     "sa": "तर्जन्यङ्गुष्ठकेन",
+     "iast": "tarjany-aṅguṣṭhakena",
+     "en": "with index finger and thumb",
+     "hi": "तर्जनी और अँगूठे से"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    }
+   ],
+   "english": "with the index finger, middle finger and thumb, the surgeon being fully attentive. Draining instruments (visrāvaṇa) are held at the end of the handle with the index finger and thumb.",
+   "hindi": "तर्जनी, मध्यमा और अँगूठे से, पूरी एकाग्रता के साथ। स्राव निकालने वाले शस्त्र (विस्रावण) हत्थे के सिरे पर तर्जनी और अँगूठे से पकड़े जाते हैं।",
+   "explanation_en": "Grip depends on the task: a three-finger grip near the blade for controlled cutting, and a light two-finger grip at the end of the handle for quick draining punctures. Śastra-grahaṇa-vidhi (methods of holding) is a recognised short-note topic.",
+   "explanation_hi": "पकड़ कार्य पर निर्भर है: नियन्त्रित काटने के लिए फल के पास तीन अंगुलियों की पकड़, और जल्दी स्राव निकालने के लिए हत्थे के सिरे पर दो अंगुलियों की हल्की पकड़। शस्त्र-ग्रहण-विधि एक मान्य छोटा नोट विषय है।",
+   "modern_correlation": {
+    "en": "These grips are often compared to modern scalpel holds, such as the pencil (precision) grip held near the blade for fine cutting.",
+    "hi": "इन पकड़ों की तुलना अक्सर आधुनिक स्कैलपेल पकड़ से की जाती है, जैसे बारीक काटने के लिए फल के पास पेंसिल (प्रिसिज़न) ग्रिप।"
+   },
+   "key_terms": [
+    "śastra-grahaṇa",
+    "visrāvaṇa"
+   ],
+   "tags": [
+    "shastra",
+    "handling"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.32",
+   "word_meanings": [
+    {
+     "sa": "तलप्रच्छन्नवृन्ताग्रम्",
+     "iast": "tala-pracchanna-vṛntāgram",
+     "en": "with the end of the handle hidden in the palm",
+     "hi": "हत्थे का सिरा हथेली में छिपाकर"
+    },
+    {
+     "sa": "ग्राह्यम्",
+     "iast": "grāhyam",
+     "en": "should be held",
+     "hi": "पकड़ना चाहिए"
+    },
+    {
+     "sa": "व्रीहिमुखम्",
+     "iast": "vrīhi-mukham",
+     "en": "the vrīhimukha",
+     "hi": "व्रीहिमुख"
+    },
+    {
+     "sa": "मुखे",
+     "iast": "mukhe",
+     "en": "near the tip",
+     "hi": "मुख के पास"
+    },
+    {
+     "sa": "मूलेषु",
+     "iast": "mūleṣu",
+     "en": "at the base",
+     "hi": "मूल पर"
+    },
+    {
+     "sa": "आहरणार्थानि",
+     "iast": "āharaṇārthāni",
+     "en": "instruments for extraction",
+     "hi": "निकालने वाले शस्त्र"
+    },
+    {
+     "sa": "क्रियासौकर्यतः",
+     "iast": "kriyā-saukaryataḥ",
+     "en": "according to convenience of the procedure",
+     "hi": "क्रिया की सुविधा के अनुसार"
+    },
+    {
+     "sa": "अपरम्",
+     "iast": "aparam",
+     "en": "the others",
+     "hi": "बाकी"
+    }
+   ],
+   "english": "The vrīhimukha should be held near its tip, with the end of the handle hidden in the palm. Instruments for extraction are held at their base; the others according to the convenience of the procedure.",
+   "hindi": "व्रीहिमुख को उसके मुख के पास पकड़ना चाहिए, हत्थे का सिरा हथेली में छिपाकर। निकालने वाले शस्त्र मूल पर पकड़े जाते हैं; बाकी शस्त्र क्रिया की सुविधा के अनुसार।",
+   "explanation_en": "Holding the vrīhimukha close to the tip with the handle in the palm limits how deep it can go, which is important when puncturing veins or the abdomen. The final phrase leaves room for practical judgement.",
+   "explanation_hi": "व्रीहिमुख को नोक के पास पकड़ने और हत्थे को हथेली में रखने से वह बहुत गहरा नहीं जाता, जो सिरा या उदर बेधते समय जरूरी है। अन्तिम वाक्य व्यावहारिक विवेक के लिए स्थान छोड़ता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vrīhimukha",
+    "śastra-grahaṇa"
+   ],
+   "tags": [
+    "shastra",
+    "handling"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.33",
+   "word_meanings": [
+    {
+     "sa": "स्यात्",
+     "iast": "syāt",
+     "en": "should be",
+     "hi": "होना चाहिए"
+    },
+    {
+     "sa": "नवाङ्गुलविस्तारः",
+     "iast": "navāṅgula-vistāraḥ",
+     "en": "nine aṅgula wide",
+     "hi": "नौ अंगुल चौड़ा"
+    },
+    {
+     "sa": "सुघनः",
+     "iast": "su-ghanaḥ",
+     "en": "compact, dense",
+     "hi": "घना/मजबूत"
+    },
+    {
+     "sa": "द्वादशाङ्गुलः",
+     "iast": "dvādaśāṅgulaḥ",
+     "en": "twelve aṅgula long",
+     "hi": "बारह अंगुल लम्बा"
+    },
+    {
+     "sa": "क्षौम",
+     "iast": "kṣauma",
+     "en": "linen",
+     "hi": "अलसी का कपड़ा (लिनन)"
+    },
+    {
+     "sa": "पत्त्रोर्ण",
+     "iast": "pattrorṇa",
+     "en": "fine silk-like fabric",
+     "hi": "पत्रोर्ण (महीन रेशमी कपड़ा)"
+    },
+    {
+     "sa": "कौशेय",
+     "iast": "kauśeya",
+     "en": "silk",
+     "hi": "रेशम"
+    },
+    {
+     "sa": "दुकूल",
+     "iast": "dukūla",
+     "en": "fine cloth",
+     "hi": "दुकूल (महीन वस्त्र)"
+    },
+    {
+     "sa": "मृदुचर्मजः",
+     "iast": "mṛdu-carma-jaḥ",
+     "en": "made of soft leather",
+     "hi": "मुलायम चमड़े का"
+    }
+   ],
+   "english": "[The instrument case] should be nine aṅgula wide and twelve aṅgula long, compact, made of linen, fine silk-like fabric, silk, dukūla cloth or soft leather,",
+   "hindi": "(शस्त्रकोश) नौ अंगुल चौड़ा और बारह अंगुल लम्बा, मजबूत, और लिनन, पत्रोर्ण, रेशम, दुकूल या मुलायम चमड़े का बना होना चाहिए,",
+   "explanation_en": "Verses 33-34 describe the śastrakośa (instrument case). Proper storage keeps the edges sharp and protects the instruments from rust and damage. Often asked as 'describe śastrakośa'.",
+   "explanation_hi": "श्लोक 33-34 शस्त्रकोश (शस्त्र रखने की थैली) का वर्णन करते हैं। सही ढंग से रखने से धार बनी रहती है और शस्त्र जंग व क्षति से बचते हैं। 'शस्त्रकोश का वर्णन करें' के रूप में अक्सर पूछा जाता है।",
+   "modern_correlation": {
+    "en": "The śastrakośa broadly parallels the cloth instrument roll or case that protects blades and keeps instruments organised.",
+    "hi": "शस्त्रकोश कपड़े के इंस्ट्रूमेंट रोल या केस से मिलता है, जो ब्लेड की रक्षा करता है और उपकरणों को व्यवस्थित रखता है।"
+   },
+   "key_terms": [
+    "śastrakośa"
+   ],
+   "tags": [
+    "shastra",
+    "storage"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.34",
+   "word_meanings": [
+    {
+     "sa": "विन्यस्तपाशः",
+     "iast": "vinyasta-pāśaḥ",
+     "en": "with strings attached",
+     "hi": "डोरियाँ लगा हुआ"
+    },
+    {
+     "sa": "सुस्यूतः",
+     "iast": "su-syūtaḥ",
+     "en": "well sewn",
+     "hi": "अच्छी तरह सिला"
+    },
+    {
+     "sa": "सान्तरोर्णास्थशस्त्रकः",
+     "iast": "sāntarorṇā-stha-śastrakaḥ",
+     "en": "with instruments placed in wool-lined compartments",
+     "hi": "बीच में ऊन की परत वाले खानों में रखे शस्त्रों वाला"
+    },
+    {
+     "sa": "शलाकापिहितास्यः",
+     "iast": "śalākā-pihitāsyaḥ",
+     "en": "with its mouth closed by a rod",
+     "hi": "शलाका से बंद मुख वाला"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "शस्त्रकोशः",
+     "iast": "śastra-kośaḥ",
+     "en": "the instrument case",
+     "hi": "शस्त्रकोश"
+    },
+    {
+     "sa": "सुसंचयः",
+     "iast": "su-saṃcayaḥ",
+     "en": "holding the instruments well",
+     "hi": "शस्त्रों को अच्छी तरह सँभालने वाला"
+    }
+   ],
+   "english": "with strings attached, well sewn, with the instruments placed in separate compartments lined with wool, with its opening closed by a rod: such an instrument case (śastrakośa) holds the instruments well.",
+   "hindi": "जिसमें बाँधने की डोरियाँ लगी हों, जो अच्छी तरह सिला हो, जिसमें ऊन की परत वाले अलग-अलग खानों में शस्त्र रखे हों, और जिसका मुख एक शलाका से बंद होता हो: ऐसा शस्त्रकोश शस्त्रों को अच्छी तरह सँभालता है।",
+   "explanation_en": "The wool lining cushions each blade and the separate compartments stop blades from striking each other. This attention to instrument care shows the practical maturity of classical surgery.",
+   "explanation_hi": "ऊन की परत हर फल को गद्दी देती है और अलग खाने फलों को आपस में टकराने से रोकते हैं। उपकरणों की देखभाल पर यह ध्यान शास्त्रीय शल्य-चिकित्सा की व्यावहारिक परिपक्वता दिखाता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "śastrakośa"
+   ],
+   "tags": [
+    "shastra",
+    "storage"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.35",
+   "word_meanings": [
+    {
+     "sa": "जलौकसः",
+     "iast": "jalaukasaḥ",
+     "en": "leeches",
+     "hi": "जलौकाएँ (जोंक)"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "परन्तु"
+    },
+    {
+     "sa": "सुखिनाम्",
+     "iast": "sukhinām",
+     "en": "of delicate (comfort-accustomed) people",
+     "hi": "सुकुमार लोगों के"
+    },
+    {
+     "sa": "रक्तस्रावाय",
+     "iast": "rakta-srāvāya",
+     "en": "for bloodletting",
+     "hi": "रक्त निकालने के लिए"
+    },
+    {
+     "sa": "योजयेत्",
+     "iast": "yojayet",
+     "en": "should apply",
+     "hi": "प्रयोग करे"
+    },
+    {
+     "sa": "दुष्टाम्बु",
+     "iast": "duṣṭāmbu",
+     "en": "polluted water",
+     "hi": "दूषित जल"
+    },
+    {
+     "sa": "मत्स्य",
+     "iast": "matsya",
+     "en": "fish",
+     "hi": "मछली"
+    },
+    {
+     "sa": "भेक",
+     "iast": "bheka",
+     "en": "frog",
+     "hi": "मेंढक"
+    },
+    {
+     "sa": "अहि",
+     "iast": "ahi",
+     "en": "snake",
+     "hi": "साँप"
+    },
+    {
+     "sa": "शव",
+     "iast": "śava",
+     "en": "corpse",
+     "hi": "शव"
+    },
+    {
+     "sa": "कोथ",
+     "iast": "kotha",
+     "en": "putrefaction",
+     "hi": "सड़न"
+    },
+    {
+     "sa": "मल",
+     "iast": "mala",
+     "en": "excreta",
+     "hi": "मल"
+    },
+    {
+     "sa": "उद्भवाः",
+     "iast": "udbhavāḥ",
+     "en": "born from",
+     "hi": "से उत्पन्न"
+    }
+   ],
+   "english": "Leeches should be applied for bloodletting in delicate people (accustomed to comfort). Those born from polluted water and from the putrefying bodies or excreta of fish, frogs and snakes, or from corpses,",
+   "hindi": "सुकुमार (आराम में पले) लोगों में रक्त निकालने के लिए जलौका (जोंक) का प्रयोग करना चाहिए। जो जोंकें दूषित जल, और मछली, मेंढक, साँप या शव की सड़न अथवा मल से उत्पन्न होती हैं,",
+   "explanation_en": "Jalaukāvacaraṇa (leech therapy) is the gentlest method of raktamokṣaṇa and suits children, the elderly, the timid and delicate patients. Verses 35-38 classify leeches into poisonous (saviṣa) and non-poisonous (nirviṣa). A very commonly asked topic.",
+   "explanation_hi": "जलौकावचारण (जोंक चिकित्सा) रक्तमोक्षण का सबसे कोमल तरीका है, जो बच्चों, वृद्धों, डरपोक और सुकुमार रोगियों के लिए उपयुक्त है। श्लोक 35-38 जोंकों को सविष और निर्विष में बाँटते हैं। यह बहुत पूछा जाने वाला विषय है।",
+   "modern_correlation": {
+    "en": "Medicinal leech therapy is used in modern reconstructive surgery to relieve venous congestion in skin flaps and replanted fingers; leech saliva contains anticoagulant substances such as hirudin. The classical indications are broader than these modern uses.",
+    "hi": "आधुनिक पुनर्निर्माण शल्य-चिकित्सा में औषधीय जोंक का प्रयोग त्वचा-फ्लैप और जोड़ी गई अंगुलियों में शिरा-जमाव कम करने के लिए होता है; जोंक की लार में हिरुडिन जैसे रक्त न जमने देने वाले पदार्थ होते हैं। शास्त्रीय संकेत इन आधुनिक उपयोगों से व्यापक हैं।"
+   },
+   "key_terms": [
+    "jalaukā",
+    "jalaukāvacaraṇa",
+    "raktamokṣaṇa",
+    "saviṣa"
+   ],
+   "tags": [
+    "raktamokshana",
+    "jalauka",
+    "anushastra"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.36",
+   "word_meanings": [
+    {
+     "sa": "रक्ताः",
+     "iast": "raktāḥ",
+     "en": "red",
+     "hi": "लाल"
+    },
+    {
+     "sa": "श्वेताः",
+     "iast": "śvetāḥ",
+     "en": "white",
+     "hi": "सफेद"
+    },
+    {
+     "sa": "भृशं कृष्णाः",
+     "iast": "bhṛśaṃ kṛṣṇāḥ",
+     "en": "very black",
+     "hi": "बहुत काली"
+    },
+    {
+     "sa": "चपलाः",
+     "iast": "capalāḥ",
+     "en": "restless, quick-moving",
+     "hi": "चंचल"
+    },
+    {
+     "sa": "स्थूलपिच्छिलाः",
+     "iast": "sthūla-picchilāḥ",
+     "en": "thick and slimy",
+     "hi": "मोटी और चिपचिपी"
+    },
+    {
+     "sa": "इन्द्रायुधविचित्र",
+     "iast": "indrāyudha-vicitra",
+     "en": "variegated like a rainbow",
+     "hi": "इन्द्रधनुष जैसी रंग-बिरंगी"
+    },
+    {
+     "sa": "ऊर्ध्वराजयः",
+     "iast": "ūrdhva-rājayaḥ",
+     "en": "with stripes on the upper side",
+     "hi": "ऊपर धारियों वाली"
+    },
+    {
+     "sa": "रोमशाः",
+     "iast": "romaśāḥ",
+     "en": "hairy",
+     "hi": "रोएँदार"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "ताः",
+     "iast": "tāḥ",
+     "en": "they",
+     "hi": "वे"
+    }
+   ],
+   "english": "and those that are red, white or very black, restless, thick and slimy, with rainbow-coloured stripes on the back, or hairy,",
+   "hindi": "और जो लाल, सफेद या बहुत काली, चंचल, मोटी और चिपचिपी हों, जिनकी पीठ पर इन्द्रधनुष जैसी रंग-बिरंगी धारियाँ हों, या जो रोएँदार हों,",
+   "explanation_en": "These are the features of poisonous leeches (saviṣa jalaukā). Notice the logic: unusual colours, restlessness and origin from putrid sources mark them as harmful. The verdict 'avoid them' comes in verse 37.",
+   "explanation_hi": "ये सविष (विषैली) जोंकों के लक्षण हैं। तर्क देखें: असामान्य रंग, चंचलता और सड़े स्रोतों से उत्पत्ति उन्हें हानिकारक बताते हैं। 'इन्हें त्यागें' का निर्णय श्लोक 37 में है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "saviṣa-jalaukā"
+   ],
+   "tags": [
+    "raktamokshana",
+    "jalauka"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.37",
+   "word_meanings": [
+    {
+     "sa": "सविषाः",
+     "iast": "sa-viṣāḥ",
+     "en": "poisonous",
+     "hi": "विषैली"
+    },
+    {
+     "sa": "वर्जयेत्",
+     "iast": "varjayet",
+     "en": "should avoid",
+     "hi": "त्याग दे"
+    },
+    {
+     "sa": "ताभिः",
+     "iast": "tābhiḥ",
+     "en": "from them",
+     "hi": "उनसे"
+    },
+    {
+     "sa": "कण्डू",
+     "iast": "kaṇḍū",
+     "en": "itching",
+     "hi": "खुजली"
+    },
+    {
+     "sa": "पाक",
+     "iast": "pāka",
+     "en": "suppuration",
+     "hi": "पकना"
+    },
+    {
+     "sa": "ज्वर",
+     "iast": "jvara",
+     "en": "fever",
+     "hi": "ज्वर"
+    },
+    {
+     "sa": "भ्रमाः",
+     "iast": "bhramāḥ",
+     "en": "giddiness",
+     "hi": "चक्कर"
+    },
+    {
+     "sa": "विषपित्तास्रनुत्",
+     "iast": "viṣa-pittāsra-nut",
+     "en": "removing poison, pitta and blood (disorders)",
+     "hi": "विष, पित्त और रक्त को शान्त करने वाली"
+    },
+    {
+     "sa": "कार्यम्",
+     "iast": "kāryam",
+     "en": "should be done",
+     "hi": "करनी चाहिए"
+    },
+    {
+     "sa": "तत्र",
+     "iast": "tatra",
+     "en": "in that case",
+     "hi": "उस स्थिति में"
+    },
+    {
+     "sa": "शुद्धाम्बुजाः",
+     "iast": "śuddhāmbu-jāḥ",
+     "en": "those born in clean water",
+     "hi": "शुद्ध जल में उत्पन्न"
+    },
+    {
+     "sa": "पुनः",
+     "iast": "punaḥ",
+     "en": "on the other hand",
+     "hi": "दूसरी ओर"
+    }
+   ],
+   "english": "are poisonous (saviṣa) and should be avoided. They cause itching, suppuration, fever and giddiness; in that case treatment that counters poison, pitta and blood disorders should be given. Those born in clean water, on the other hand,",
+   "hindi": "ये सविष हैं और इन्हें त्याग देना चाहिए। इनसे खुजली, पकना (पाक), ज्वर और चक्कर होते हैं; ऐसी स्थिति में विष, पित्त और रक्त विकार को शान्त करने वाली चिकित्सा करनी चाहिए। दूसरी ओर, शुद्ध जल में उत्पन्न जोंकें",
+   "explanation_en": "Complications of poisonous leech bites and their management are given. The sentence then turns to non-poisonous leeches, whose features are listed in verse 38. Exam tip: list signs of saviṣa leeches and the complications of their bite.",
+   "explanation_hi": "विषैली जोंक के काटने के दुष्परिणाम और उनकी चिकित्सा दी गई है। फिर वाक्य निर्विष जोंकों की ओर मुड़ता है, जिनके लक्षण श्लोक 38 में हैं। परीक्षा: सविष जोंकों के लक्षण और उनके काटने के दुष्परिणाम लिखें।",
+   "modern_correlation": {
+    "en": "Itching, local infection and fever after leech application are recognised complications in modern leech therapy, where infection (for example with gut bacteria carried by leeches) is a known risk.",
+    "hi": "जोंक लगाने के बाद खुजली, स्थानीय संक्रमण और बुखार आधुनिक जोंक चिकित्सा में भी ज्ञात दुष्परिणाम हैं, जहाँ संक्रमण (जैसे जोंक की आँत के जीवाणुओं से) एक ज्ञात जोखिम है।"
+   },
+   "key_terms": [
+    "saviṣa-jalaukā",
+    "nirviṣa-jalaukā",
+    "kaṇḍū",
+    "pāka"
+   ],
+   "tags": [
+    "raktamokshana",
+    "jalauka",
+    "complications"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.38",
+   "word_meanings": [
+    {
+     "sa": "निर्विषाः",
+     "iast": "nir-viṣāḥ",
+     "en": "non-poisonous",
+     "hi": "निर्विष"
+    },
+    {
+     "sa": "शैवलश्यावाः",
+     "iast": "śaivala-śyāvāḥ",
+     "en": "dark green like moss",
+     "hi": "काई जैसी हरी-काली"
+    },
+    {
+     "sa": "वृत्ताः",
+     "iast": "vṛttāḥ",
+     "en": "round",
+     "hi": "गोल"
+    },
+    {
+     "sa": "नीलोर्ध्वराजयः",
+     "iast": "nīlordhva-rājayaḥ",
+     "en": "with blue stripes on the back",
+     "hi": "पीठ पर नीली धारियों वाली"
+    },
+    {
+     "sa": "कषायपृष्ठाः",
+     "iast": "kaṣāya-pṛṣṭhāḥ",
+     "en": "with a brownish back",
+     "hi": "भूरे-कसैले रंग की पीठ वाली"
+    },
+    {
+     "sa": "तन्वङ्ग्यः",
+     "iast": "tanv-aṅgyaḥ",
+     "en": "slender-bodied",
+     "hi": "पतले शरीर वाली"
+    },
+    {
+     "sa": "किञ्चित्पीतोदराः",
+     "iast": "kiñcit-pītodarāḥ",
+     "en": "with slightly yellow bellies",
+     "hi": "हल्के पीले पेट वाली"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "याः",
+     "iast": "yāḥ",
+     "en": "which",
+     "hi": "जो"
+    }
+   ],
+   "english": "are non-poisonous (nirviṣa): they are dark green like moss, round, with blue stripes on the back, a brownish back, slender bodies and slightly yellow bellies.",
+   "hindi": "निर्विष होती हैं: ये काई जैसी हरी-काली, गोल, पीठ पर नीली धारियों वाली, भूरी पीठ वाली, पतले शरीर और हल्के पीले पेट वाली होती हैं।",
+   "explanation_en": "These are the features of the leeches suitable for therapy. Comparing saviṣa and nirviṣa features in a two-column table is the best way to answer this common question.",
+   "explanation_hi": "ये चिकित्सा के योग्य जोंकों के लक्षण हैं। सविष और निर्विष लक्षणों को दो-स्तम्भ की तालिका में लिखना इस आम प्रश्न का सबसे अच्छा उत्तर है।",
+   "modern_correlation": {
+    "en": "The description of a greenish leech with stripes on the back and a lighter belly is broadly consistent with the appearance of medicinal leech species used today, though exact species identification from the text is uncertain.",
+    "hi": "पीठ पर धारियों और हल्के पेट वाली हरी जोंक का वर्णन आज प्रयुक्त औषधीय जोंक प्रजातियों के रूप से मोटे तौर पर मेल खाता है, हालाँकि पाठ से सटीक प्रजाति की पहचान अनिश्चित है।"
+   },
+   "key_terms": [
+    "nirviṣa-jalaukā"
+   ],
+   "tags": [
+    "raktamokshana",
+    "jalauka"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.39",
+   "word_meanings": [
+    {
+     "sa": "ताः",
+     "iast": "tāḥ",
+     "en": "they",
+     "hi": "वे"
+    },
+    {
+     "sa": "अपि",
+     "iast": "api",
+     "en": "even",
+     "hi": "भी"
+    },
+    {
+     "sa": "असम्यग्वमनात्",
+     "iast": "a-samyag-vamanāt",
+     "en": "due to improper vomiting (of blood)",
+     "hi": "ठीक से रक्त न उगलवाने से"
+    },
+    {
+     "sa": "प्रततम्",
+     "iast": "pratatam",
+     "en": "continually",
+     "hi": "लगातार"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "निपातनात्",
+     "iast": "nipātanāt",
+     "en": "from being applied",
+     "hi": "लगाए जाने से"
+    },
+    {
+     "sa": "सीदन्तीः",
+     "iast": "sīdantīḥ",
+     "en": "becoming sluggish, sinking",
+     "hi": "सुस्त होती हुई/डूबती हुई"
+    },
+    {
+     "sa": "सलिलम्",
+     "iast": "salilam",
+     "en": "water",
+     "hi": "पानी"
+    },
+    {
+     "sa": "प्राप्य",
+     "iast": "prāpya",
+     "en": "on reaching",
+     "hi": "में पहुँचकर"
+    },
+    {
+     "sa": "रक्तमत्ताः",
+     "iast": "rakta-mattāḥ",
+     "en": "intoxicated by blood",
+     "hi": "रक्त से मदमस्त"
+    },
+    {
+     "sa": "इति",
+     "iast": "iti",
+     "en": "thus (knowing)",
+     "hi": "ऐसा जानकर"
+    },
+    {
+     "sa": "त्यजेत्",
+     "iast": "tyajet",
+     "en": "should discard",
+     "hi": "त्याग दे"
+    }
+   ],
+   "english": "Even these, if they are not made to vomit [the blood] properly, or are applied continuously, become sluggish and sink when placed in water; knowing them to be 'intoxicated by blood' (raktamatta), one should discard them.",
+   "hindi": "ये (निर्विष जोंकें) भी, यदि इनसे ठीक से रक्त न उगलवाया जाए या लगातार इनका प्रयोग किया जाए, तो पानी में डालने पर सुस्त होकर डूब जाती हैं; इन्हें 'रक्तमत्त' (रक्त से मदमस्त) जानकर त्याग देना चाहिए।",
+   "explanation_en": "Even good leeches become unusable if they are not made to vomit after feeding or are overused. A leech that sinks lifelessly in water is 'raktamatta'. This links to the vomiting technique in verses 43-45.",
+   "explanation_hi": "अच्छी जोंकें भी बेकार हो जाती हैं यदि खाने के बाद इनसे उल्टी न कराई जाए या इनका अधिक प्रयोग हो। जो जोंक पानी में बेजान होकर डूब जाए, वह 'रक्तमत्त' है। यह श्लोक 43-45 की वमन-विधि से जुड़ता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "jalaukā",
+    "raktamatta",
+    "vamana"
+   ],
+   "tags": [
+    "raktamokshana",
+    "jalauka"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.40",
+   "word_meanings": [
+    {
+     "sa": "अथ",
+     "iast": "atha",
+     "en": "now",
+     "hi": "अब"
+    },
+    {
+     "sa": "इतराः",
+     "iast": "itarāḥ",
+     "en": "the other (healthy) ones",
+     "hi": "दूसरी (स्वस्थ) जोंकें"
+    },
+    {
+     "sa": "निशाकल्कयुक्ते",
+     "iast": "niśā-kalka-yukte",
+     "en": "mixed with turmeric paste",
+     "hi": "हल्दी के कल्क से युक्त"
+    },
+    {
+     "sa": "अम्भसि",
+     "iast": "ambhasi",
+     "en": "in water",
+     "hi": "पानी में"
+    },
+    {
+     "sa": "परिप्लुताः",
+     "iast": "pariplutāḥ",
+     "en": "immersed",
+     "hi": "डुबोई हुई"
+    },
+    {
+     "sa": "अवन्तिसोमे",
+     "iast": "avanti-some",
+     "en": "in sour rice gruel (kāñjī)",
+     "hi": "काँजी (खट्टे चावल के पानी) में"
+    },
+    {
+     "sa": "तक्रे",
+     "iast": "takre",
+     "en": "in buttermilk",
+     "hi": "छाछ में"
+    },
+    {
+     "sa": "वा",
+     "iast": "vā",
+     "en": "or",
+     "hi": "या"
+    },
+    {
+     "sa": "पुनः",
+     "iast": "punaḥ",
+     "en": "then again",
+     "hi": "फिर"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "आश्वासिताः",
+     "iast": "āśvāsitāḥ",
+     "en": "revived",
+     "hi": "ताजा की हुई"
+    },
+    {
+     "sa": "जले",
+     "iast": "jale",
+     "en": "in (fresh) water",
+     "hi": "(साफ) पानी में"
+    }
+   ],
+   "english": "Now the others (healthy leeches), having been immersed in water mixed with turmeric paste, or in sour gruel (avantisoma) or buttermilk, and then revived in fresh water,",
+   "hindi": "अब दूसरी (स्वस्थ) जोंकों को हल्दी के कल्क वाले पानी में, या काँजी (अवन्तिसोम) या छाछ में डुबोकर, फिर साफ पानी में ताजा करके,",
+   "explanation_en": "This is the preparation (pūrvakarma) of leeches before application: a brief bath in turmeric water or sour liquids activates them and makes them hungry, and then they rest in clean water. The application itself is in verse 41.",
+   "explanation_hi": "यह जोंक लगाने से पहले की तैयारी (पूर्वकर्म) है: हल्दी के पानी या खट्टे द्रव में थोड़ी देर डुबोने से वे सक्रिय और भूखी हो जाती हैं, फिर उन्हें साफ पानी में आराम दिया जाता है। लगाने की विधि श्लोक 41 में है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "jalaukā",
+    "pūrvakarma",
+    "haridrā",
+    "takra"
+   ],
+   "tags": [
+    "raktamokshana",
+    "jalauka",
+    "procedure"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.41",
+   "word_meanings": [
+    {
+     "sa": "लागयेत्",
+     "iast": "lāgayet",
+     "en": "should make (them) attach",
+     "hi": "चिपकाए"
+    },
+    {
+     "sa": "घृत",
+     "iast": "ghṛta",
+     "en": "ghee",
+     "hi": "घी"
+    },
+    {
+     "sa": "मृत्",
+     "iast": "mṛt",
+     "en": "clay",
+     "hi": "मिट्टी"
+    },
+    {
+     "sa": "स्तन्य",
+     "iast": "stanya",
+     "en": "breast milk",
+     "hi": "माता का दूध"
+    },
+    {
+     "sa": "रक्त",
+     "iast": "rakta",
+     "en": "blood",
+     "hi": "रक्त"
+    },
+    {
+     "sa": "शस्त्रनिपातनैः",
+     "iast": "śastra-nipātanaiḥ",
+     "en": "by applying these or making a small cut",
+     "hi": "लगाकर या छोटा चीरा देकर"
+    },
+    {
+     "sa": "पिबन्तीः",
+     "iast": "pibantīḥ",
+     "en": "while sucking",
+     "hi": "चूसती हुई"
+    },
+    {
+     "sa": "उन्नतस्कन्धाः",
+     "iast": "unnata-skandhāḥ",
+     "en": "with raised shoulders (neck region)",
+     "hi": "उठे हुए कन्धों वाली"
+    },
+    {
+     "sa": "छादयेत्",
+     "iast": "chādayet",
+     "en": "should cover",
+     "hi": "ढक दे"
+    },
+    {
+     "sa": "मृदुवाससा",
+     "iast": "mṛdu-vāsasā",
+     "en": "with a soft cloth",
+     "hi": "मुलायम कपड़े से"
+    }
+   ],
+   "english": "one should make them attach to the site by smearing it with ghee, clay, breast milk or blood, or by making a small cut. When they are sucking, recognised by their raised 'shoulders', they should be covered with a soft [wet] cloth.",
+   "hindi": "उन्हें स्थान पर चिपकाने के लिए वहाँ घी, मिट्टी, माता का दूध या रक्त लगाएँ, या शस्त्र से छोटा चीरा दें। जब वे चूस रही हों, जिसकी पहचान उनके उठे हुए 'कन्धे' (गर्दन वाला भाग) हैं, तब उन्हें मुलायम (गीले) कपड़े से ढक दें।",
+   "explanation_en": "Practical tips: if the leech will not bite, a drop of blood or milk at the site encourages it. A raised, arched front part shows it is actively sucking. Covering with a wet cloth keeps it moist and calm. This is the pradhāna-karma of leech therapy.",
+   "explanation_hi": "व्यावहारिक सुझाव: यदि जोंक न काटे, तो उस स्थान पर रक्त या दूध की बूँद उसे आकर्षित करती है। उठा हुआ, धनुषाकार अगला भाग दिखाता है कि वह चूस रही है। गीले कपड़े से ढकने से वह नम और शान्त रहती है। यह जोंक चिकित्सा का प्रधान कर्म है।",
+   "modern_correlation": {
+    "en": "Placing a drop of blood or sugar solution, or making a tiny needle prick, to encourage a leech to attach is also used in modern medicinal leech practice.",
+    "hi": "जोंक को चिपकाने के लिए रक्त या शक्कर-घोल की बूँद रखना, या सुई से हल्का छेद करना, आधुनिक औषधीय जोंक चिकित्सा में भी प्रयोग होता है।"
+   },
+   "key_terms": [
+    "jalaukā",
+    "pradhāna-karma"
+   ],
+   "tags": [
+    "raktamokshana",
+    "jalauka",
+    "procedure"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.42",
+   "word_meanings": [
+    {
+     "sa": "संपृक्तात्",
+     "iast": "saṃpṛktāt",
+     "en": "from the mixture",
+     "hi": "मिश्रित में से"
+    },
+    {
+     "sa": "दुष्टशुद्धास्रात्",
+     "iast": "duṣṭa-śuddhāsrāt",
+     "en": "of vitiated and pure blood",
+     "hi": "दूषित और शुद्ध रक्त के"
+    },
+    {
+     "sa": "जलौका",
+     "iast": "jalaukā",
+     "en": "the leech",
+     "hi": "जोंक"
+    },
+    {
+     "sa": "दुष्टशोणितम्",
+     "iast": "duṣṭa-śoṇitam",
+     "en": "the vitiated blood",
+     "hi": "दूषित रक्त को"
+    },
+    {
+     "sa": "आदत्ते",
+     "iast": "ādatte",
+     "en": "takes",
+     "hi": "ग्रहण करती है"
+    },
+    {
+     "sa": "प्रथमम्",
+     "iast": "prathamam",
+     "en": "first",
+     "hi": "पहले"
+    },
+    {
+     "sa": "हंसः",
+     "iast": "haṃsaḥ",
+     "en": "a swan",
+     "hi": "हंस"
+    },
+    {
+     "sa": "क्षीरम्",
+     "iast": "kṣīram",
+     "en": "milk",
+     "hi": "दूध को"
+    },
+    {
+     "sa": "क्षीरोदकात्",
+     "iast": "kṣīrodakāt",
+     "en": "from milk mixed with water",
+     "hi": "पानी मिले दूध में से"
+    },
+    {
+     "sa": "इव",
+     "iast": "iva",
+     "en": "just as",
+     "hi": "जैसे"
+    }
+   ],
+   "english": "From blood that is a mixture of vitiated and pure blood, the leech takes the vitiated blood first, just as a swan takes the milk from milk mixed with water.",
+   "hindi": "दूषित और शुद्ध रक्त के मिश्रण में से जोंक पहले दूषित रक्त को ग्रहण करती है, जैसे हंस पानी मिले दूध में से दूध को अलग करके पी लेता है।",
+   "explanation_en": "This is the famous haṃsa-kṣīra (swan and milk) simile, often quoted in exams. It expresses the classical belief that leeches selectively remove vitiated blood. It also explains why the leech is removed when the patient feels pricking or itching (verse 43), signalling that pure blood is now being drawn.",
+   "explanation_hi": "यह प्रसिद्ध हंस-क्षीर उपमा है, जो परीक्षा में अक्सर उद्धृत होती है। यह शास्त्रीय मान्यता बताती है कि जोंक चुनकर दूषित रक्त निकालती है। इससे यह भी समझ आता है कि रोगी को चुभन या खुजली होने पर जोंक क्यों हटाई जाती है (श्लोक 43), क्योंकि तब वह शुद्ध रक्त खींचने लगी होती है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "jalaukā",
+    "duṣṭa-rakta",
+    "haṃsa-kṣīra-nyāya"
+   ],
+   "tags": [
+    "raktamokshana",
+    "jalauka",
+    "simile"
+   ],
+   "importance": "high",
+   "mnemonic": "Haṃsa-kṣīra: like a swan sips milk out of watered milk, the leech sips bad blood first.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.43",
+   "word_meanings": [
+    {
+     "sa": "गुल्म",
+     "iast": "gulma",
+     "en": "abdominal lump",
+     "hi": "गुल्म"
+    },
+    {
+     "sa": "अर्शः",
+     "iast": "arśaḥ",
+     "en": "piles",
+     "hi": "अर्श"
+    },
+    {
+     "sa": "विद्रधीन्",
+     "iast": "vidradhīn",
+     "en": "abscesses",
+     "hi": "विद्रधि"
+    },
+    {
+     "sa": "कुष्ठ",
+     "iast": "kuṣṭha",
+     "en": "skin disease",
+     "hi": "कुष्ठ (त्वचा रोग)"
+    },
+    {
+     "sa": "वातरक्त",
+     "iast": "vāta-rakta",
+     "en": "vātarakta (gout-like)",
+     "hi": "वातरक्त"
+    },
+    {
+     "sa": "गलामयान्",
+     "iast": "galāmayān",
+     "en": "throat diseases",
+     "hi": "गले के रोग"
+    },
+    {
+     "sa": "नेत्ररुक्",
+     "iast": "netra-ruk",
+     "en": "eye pain",
+     "hi": "नेत्र-पीड़ा"
+    },
+    {
+     "sa": "विष",
+     "iast": "viṣa",
+     "en": "poisoning",
+     "hi": "विष"
+    },
+    {
+     "sa": "वीसर्पान्",
+     "iast": "vīsarpān",
+     "en": "erysipelas-like spreading infections",
+     "hi": "विसर्प"
+    },
+    {
+     "sa": "शमयन्ति",
+     "iast": "śamayanti",
+     "en": "cure",
+     "hi": "शान्त करती हैं"
+    },
+    {
+     "sa": "दंशस्य",
+     "iast": "daṃśasya",
+     "en": "of the bite",
+     "hi": "काटने के स्थान पर"
+    },
+    {
+     "sa": "तोदे",
+     "iast": "tode",
+     "en": "on pricking",
+     "hi": "चुभन होने पर"
+    },
+    {
+     "sa": "कण्ड्वाम्",
+     "iast": "kaṇḍvām",
+     "en": "on itching",
+     "hi": "खुजली होने पर"
+    },
+    {
+     "sa": "मोक्षयेत्",
+     "iast": "mokṣayet",
+     "en": "should remove",
+     "hi": "हटा दे"
+    },
+    {
+     "sa": "वामयेत्",
+     "iast": "vāmayet",
+     "en": "should make vomit",
+     "hi": "उल्टी कराए"
+    },
+    {
+     "sa": "पटुतैलाक्तवदनाम्",
+     "iast": "paṭu-tailākta-vadanām",
+     "en": "with its mouth smeared with salt and oil",
+     "hi": "मुँह पर नमक और तेल लगाकर"
+    },
+    {
+     "sa": "श्लक्ष्णकण्डनरूषिताम्",
+     "iast": "ślakṣṇa-kaṇḍana-rūṣitām",
+     "en": "dusted with fine powder",
+     "hi": "बारीक चूर्ण छिड़ककर"
+    }
+   ],
+   "english": "[Additional verse:] Leeches cure gulma, piles, abscesses, skin diseases (kuṣṭha), vātarakta, throat diseases, eye pain, poisoning and visarpa. [Main verse:] When there is pricking or itching at the bite, one should remove the leech and make it vomit, smearing its mouth with salt and oil and dusting it with fine powder.",
+   "hindi": "(अतिरिक्त श्लोक:) जोंकें गुल्म, अर्श, विद्रधि, कुष्ठ, वातरक्त, गले के रोग, नेत्र-पीड़ा, विष और विसर्प को शान्त करती हैं। (मूल श्लोक:) जब काटने के स्थान पर चुभन या खुजली हो, तब जोंक को हटा दें और उसके मुँह पर नमक और तेल लगाकर तथा बारीक चूर्ण छिड़ककर उससे (रक्त की) उल्टी कराएँ।",
+   "explanation_en": "The first line (an extra verse in this edition) lists the indications of leech therapy, useful for exams. The main line gives the sign to stop (pricking or itching means it has reached pure blood) and the method of making the leech vomit, which keeps it reusable (paścāt-karma).",
+   "explanation_hi": "पहली पंक्ति (इस संस्करण में अतिरिक्त श्लोक) जोंक चिकित्सा के संकेत बताती है, जो परीक्षा के लिए उपयोगी है। मूल पंक्ति रोकने का संकेत (चुभन या खुजली अर्थात् शुद्ध रक्त तक पहुँचना) और जोंक से उल्टी कराने की विधि बताती है, जिससे वह दोबारा प्रयोग योग्य रहती है (पश्चात् कर्म)।",
+   "modern_correlation": {
+    "en": "Removing a leech by applying salt rather than pulling it off is a commonly described method, since forcible removal can leave mouthparts in the wound. Modern leech therapy typically uses leeches once only to avoid cross-infection.",
+    "hi": "जोंक को खींचने के बजाय नमक लगाकर छुड़ाना एक सामान्य बताया गया तरीका है, क्योंकि जबरदस्ती खींचने से उसके मुँह के भाग घाव में रह सकते हैं। आधुनिक जोंक चिकित्सा में संक्रमण से बचने के लिए आमतौर पर एक जोंक का केवल एक बार प्रयोग होता है।"
+   },
+   "key_terms": [
+    "jalaukā",
+    "vamana",
+    "paścāt-karma",
+    "vātarakta",
+    "visarpa"
+   ],
+   "tags": [
+    "raktamokshana",
+    "jalauka",
+    "indications",
+    "procedure"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.44",
+   "word_meanings": [
+    {
+     "sa": "श्लक्ष्णकण्डनरूक्षिताम्",
+     "iast": "ślakṣṇa-kaṇḍana-rūkṣitām",
+     "en": "roughened with fine powder",
+     "hi": "बारीक चूर्ण से रूखी की हुई"
+    },
+    {
+     "sa": "रक्षन्",
+     "iast": "rakṣan",
+     "en": "protecting (them)",
+     "hi": "बचाते हुए"
+    },
+    {
+     "sa": "रक्तमदात्",
+     "iast": "rakta-madāt",
+     "en": "from blood intoxication",
+     "hi": "रक्त-मद से"
+    },
+    {
+     "sa": "भूयः",
+     "iast": "bhūyaḥ",
+     "en": "again",
+     "hi": "फिर से"
+    },
+    {
+     "sa": "सप्ताहम्",
+     "iast": "saptāham",
+     "en": "for seven days",
+     "hi": "सात दिन तक"
+    },
+    {
+     "sa": "ताः",
+     "iast": "tāḥ",
+     "en": "them",
+     "hi": "उन्हें"
+    },
+    {
+     "sa": "न पातयेत्",
+     "iast": "na pātayet",
+     "en": "should not apply",
+     "hi": "न लगाए"
+    },
+    {
+     "sa": "पूर्ववत्",
+     "iast": "pūrva-vat",
+     "en": "as before",
+     "hi": "पहले की तरह"
+    },
+    {
+     "sa": "पटुता",
+     "iast": "paṭu-tā",
+     "en": "agility",
+     "hi": "फुर्ती"
+    },
+    {
+     "sa": "दार्ढ्यम्",
+     "iast": "dārḍhyam",
+     "en": "firmness",
+     "hi": "दृढ़ता"
+    },
+    {
+     "sa": "सम्यग्वान्ते",
+     "iast": "samyag-vānte",
+     "en": "when properly vomited",
+     "hi": "ठीक से उल्टी होने पर"
+    },
+    {
+     "sa": "जलौकसाम्",
+     "iast": "jalaukasām",
+     "en": "of leeches",
+     "hi": "जोंकों की"
+    }
+   ],
+   "english": "[Variant reading: '...roughened with fine powder'.] To protect them from blood intoxication, one should not apply them again for seven days. When leeches have vomited properly, their former agility and firmness return.",
+   "hindi": "(पाठान्तर: '...बारीक चूर्ण से रूखी की हुई'।) रक्त-मद से बचाने के लिए जोंकों को सात दिन तक फिर से नहीं लगाना चाहिए। जब जोंक ठीक से उल्टी कर दे, तो उसकी पहले जैसी फुर्ती और दृढ़ता लौट आती है।",
+   "explanation_en": "The first fragment is a variant of the previous line. The rules: a seven-day rest between uses, and signs of proper vomiting (samyak-vānta) are the leech's return to normal activity. Verse 45 gives signs of excessive and inadequate vomiting.",
+   "explanation_hi": "पहला अंश पिछली पंक्ति का पाठान्तर है। नियम: दो प्रयोगों के बीच सात दिन का विश्राम, और ठीक से उल्टी (सम्यक् वान्त) का लक्षण है जोंक का सामान्य फुर्ती में लौटना। श्लोक 45 अधिक और कम उल्टी के लक्षण बताता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "jalaukā",
+    "samyag-vānta",
+    "raktamada"
+   ],
+   "tags": [
+    "raktamokshana",
+    "jalauka",
+    "procedure"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.45",
+   "word_meanings": [
+    {
+     "sa": "क्लमः",
+     "iast": "klamaḥ",
+     "en": "exhaustion",
+     "hi": "थकावट"
+    },
+    {
+     "sa": "अतियोगात्",
+     "iast": "ati-yogāt",
+     "en": "from excessive (vomiting)",
+     "hi": "अधिक (उल्टी) से"
+    },
+    {
+     "sa": "मृत्युः",
+     "iast": "mṛtyuḥ",
+     "en": "death",
+     "hi": "मृत्यु"
+    },
+    {
+     "sa": "वा",
+     "iast": "vā",
+     "en": "or",
+     "hi": "या"
+    },
+    {
+     "sa": "दुर्वान्ते",
+     "iast": "dur-vānte",
+     "en": "when poorly vomited",
+     "hi": "ठीक से उल्टी न होने पर"
+    },
+    {
+     "sa": "स्तब्धता",
+     "iast": "stabdha-tā",
+     "en": "stiffness",
+     "hi": "जड़ता/अकड़न"
+    },
+    {
+     "sa": "मदः",
+     "iast": "madaḥ",
+     "en": "intoxication",
+     "hi": "मद (सुस्ती)"
+    },
+    {
+     "sa": "अन्यत्र अन्यत्र",
+     "iast": "anyatrānyatra",
+     "en": "each in a separate (place)",
+     "hi": "अलग-अलग"
+    },
+    {
+     "sa": "ताः",
+     "iast": "tāḥ",
+     "en": "they",
+     "hi": "वे"
+    },
+    {
+     "sa": "स्थाप्याः",
+     "iast": "sthāpyāḥ",
+     "en": "should be kept",
+     "hi": "रखनी चाहिए"
+    },
+    {
+     "sa": "घटे",
+     "iast": "ghaṭe",
+     "en": "in a pot",
+     "hi": "घड़े में"
+    },
+    {
+     "sa": "मृत्स्नाम्बुगर्भिणि",
+     "iast": "mṛtsnāmbu-garbhiṇi",
+     "en": "containing clay and water",
+     "hi": "मिट्टी और पानी से भरे"
+    }
+   ],
+   "english": "Excessive vomiting causes exhaustion or death [of the leech]; inadequate vomiting causes stiffness and intoxication. They should be kept separately in pots containing clay and water,",
+   "hindi": "अधिक उल्टी कराने से जोंक थक जाती है या मर जाती है; कम उल्टी होने पर उसमें जड़ता और मद (सुस्ती) आती है। जोंकों को अलग-अलग, मिट्टी और पानी से भरे घड़ों में रखना चाहिए,",
+   "explanation_en": "This completes the samyak, ati and hīna yoga of leech vomiting. The second half begins the rules for keeping leeches (jalaukā-pālana), continued in verse 46. Even the care of the 'instrument' is regulated.",
+   "explanation_hi": "यह जोंक की उल्टी का सम्यक्, अति और हीन योग पूरा करता है। दूसरी पंक्ति से जोंक पालने (जलौका-पालन) के नियम शुरू होते हैं, जो श्लोक 46 में जारी हैं। 'उपकरण' की देखभाल भी नियमबद्ध है।",
+   "modern_correlation": {
+    "en": "Keeping leeches in clean water with periodic changes broadly parallels modern guidance for maintaining medicinal leeches in clean, regularly changed water.",
+    "hi": "जोंकों को साफ पानी में रखकर समय-समय पर पानी बदलना, औषधीय जोंकों को साफ और नियमित बदले पानी में रखने के आधुनिक दिशानिर्देशों से मिलता है।"
+   },
+   "key_terms": [
+    "jalaukā",
+    "atiyoga",
+    "hīnayoga",
+    "jalaukā-pālana"
+   ],
+   "tags": [
+    "raktamokshana",
+    "jalauka",
+    "procedure"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.46",
+   "word_meanings": [
+    {
+     "sa": "लाला",
+     "iast": "lālā",
+     "en": "saliva (slime)",
+     "hi": "लार"
+    },
+    {
+     "sa": "आदि",
+     "iast": "ādi",
+     "en": "etc.",
+     "hi": "आदि"
+    },
+    {
+     "sa": "कोथ",
+     "iast": "kotha",
+     "en": "putrefaction",
+     "hi": "सड़न"
+    },
+    {
+     "sa": "नाशार्थम्",
+     "iast": "nāśārtham",
+     "en": "to prevent",
+     "hi": "दूर करने के लिए"
+    },
+    {
+     "sa": "सविषाः",
+     "iast": "sa-viṣāḥ",
+     "en": "poisonous",
+     "hi": "विषैली"
+    },
+    {
+     "sa": "स्युः",
+     "iast": "syuḥ",
+     "en": "would become",
+     "hi": "हो जाएँगी"
+    },
+    {
+     "sa": "तदन्वयात्",
+     "iast": "tad-anvayāt",
+     "en": "by contact with that",
+     "hi": "उसके सम्पर्क से"
+    },
+    {
+     "sa": "अशुद्धौ",
+     "iast": "a-śuddhau",
+     "en": "when (blood) is not purified",
+     "hi": "जब रक्त शुद्ध न हुआ हो"
+    },
+    {
+     "sa": "स्रावयेत्",
+     "iast": "srāvayet",
+     "en": "should make bleed",
+     "hi": "रक्त बहाए"
+    },
+    {
+     "sa": "दंशान्",
+     "iast": "daṃśān",
+     "en": "the bite wounds",
+     "hi": "काटे हुए स्थानों को"
+    },
+    {
+     "sa": "हरिद्रा",
+     "iast": "haridrā",
+     "en": "turmeric",
+     "hi": "हल्दी"
+    },
+    {
+     "sa": "गुड",
+     "iast": "guḍa",
+     "en": "jaggery",
+     "hi": "गुड़"
+    },
+    {
+     "sa": "माक्षिकैः",
+     "iast": "mākṣikaiḥ",
+     "en": "with honey",
+     "hi": "शहद से"
+    }
+   ],
+   "english": "[changing the water] to prevent putrefaction from their slime and so on; otherwise, from contact with it, they would become poisonous. If the blood has not been sufficiently purified, the bite wounds should be made to bleed [further] by applying turmeric, jaggery and honey,",
+   "hindi": "(पानी बदलते रहना चाहिए) ताकि उनकी लार आदि से सड़न न हो; अन्यथा उसके सम्पर्क से वे विषैली हो जाएँगी। यदि रक्त ठीक से शुद्ध न हुआ हो, तो काटे हुए स्थानों पर हल्दी, गुड़ और शहद लगाकर और रक्त बहाना चाहिए,",
+   "explanation_en": "Two points: hygiene of leech storage (putrid water makes even good leeches harmful), and post-procedure care of the bite. If blood is still impure, turmeric, jaggery and honey keep the bite bleeding a little longer. Wound care continues in verse 47.",
+   "explanation_hi": "दो बातें: जोंक रखने की स्वच्छता (सड़ा पानी अच्छी जोंकों को भी हानिकारक बना देता है), और काटे स्थान की बाद की देखभाल। यदि रक्त अभी भी अशुद्ध हो, तो हल्दी, गुड़ और शहद से काटा स्थान थोड़ी देर और बहता रहता है। व्रण-देखभाल श्लोक 47 में जारी है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "jalaukā-pālana",
+    "haridrā",
+    "guḍa",
+    "madhu",
+    "daṃśa"
+   ],
+   "tags": [
+    "raktamokshana",
+    "jalauka",
+    "procedure"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.47",
+   "word_meanings": [
+    {
+     "sa": "शतधौताज्य",
+     "iast": "śata-dhautājya",
+     "en": "ghee washed a hundred times",
+     "hi": "सौ बार धोया घी"
+    },
+    {
+     "sa": "पिचवः",
+     "iast": "picavaḥ",
+     "en": "cotton pads",
+     "hi": "रुई के फाहे"
+    },
+    {
+     "sa": "ततः",
+     "iast": "tataḥ",
+     "en": "then",
+     "hi": "फिर"
+    },
+    {
+     "sa": "लेपाः",
+     "iast": "lepāḥ",
+     "en": "pastes",
+     "hi": "लेप"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "शीतलाः",
+     "iast": "śītalāḥ",
+     "en": "cooling",
+     "hi": "शीतल"
+    },
+    {
+     "sa": "दुष्टरक्तापगमनात्",
+     "iast": "duṣṭa-raktāpagamanāt",
+     "en": "by removal of vitiated blood",
+     "hi": "दूषित रक्त के निकलने से"
+    },
+    {
+     "sa": "सद्यः",
+     "iast": "sadyaḥ",
+     "en": "immediately",
+     "hi": "तुरन्त"
+    },
+    {
+     "sa": "राग",
+     "iast": "rāga",
+     "en": "redness",
+     "hi": "लालिमा"
+    },
+    {
+     "sa": "रुजाम्",
+     "iast": "rujām",
+     "en": "of pain",
+     "hi": "पीड़ा का"
+    },
+    {
+     "sa": "शमः",
+     "iast": "śamaḥ",
+     "en": "relief",
+     "hi": "शान्ति"
+    }
+   ],
+   "english": "then cotton pads soaked in ghee washed a hundred times (śatadhauta ghṛta) and cooling pastes [are applied]. By the removal of vitiated blood, redness and pain are relieved at once.",
+   "hindi": "फिर सौ बार धोए घी (शतधौत घृत) में भिगोए रुई के फाहे और शीतल लेप लगाने चाहिए। दूषित रक्त के निकल जाने से लालिमा और पीड़ा तुरन्त शान्त हो जाती है।",
+   "explanation_en": "Śatadhauta ghṛta is a classic cooling, soothing preparation for wounds and burns. The immediate relief of redness and pain is presented as the sign of successful raktamokṣaṇa.",
+   "explanation_hi": "शतधौत घृत घाव और जलने पर लगाया जाने वाला प्रसिद्ध शीतल, शान्तिदायक योग है। लालिमा और पीड़ा का तुरन्त शान्त होना सफल रक्तमोक्षण का लक्षण बताया गया है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "śatadhauta-ghṛta",
+    "lepa",
+    "duṣṭa-rakta"
+   ],
+   "tags": [
+    "raktamokshana",
+    "jalauka",
+    "procedure"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.48",
+   "word_meanings": [
+    {
+     "sa": "अशुद्धम्",
+     "iast": "a-śuddham",
+     "en": "impure",
+     "hi": "अशुद्ध"
+    },
+    {
+     "sa": "चलितम्",
+     "iast": "calitam",
+     "en": "dislodged",
+     "hi": "हिला हुआ"
+    },
+    {
+     "sa": "स्थानात्",
+     "iast": "sthānāt",
+     "en": "from its place",
+     "hi": "अपने स्थान से"
+    },
+    {
+     "sa": "स्थितम्",
+     "iast": "sthitam",
+     "en": "remaining",
+     "hi": "रुका हुआ"
+    },
+    {
+     "sa": "रक्तम्",
+     "iast": "raktam",
+     "en": "blood",
+     "hi": "रक्त"
+    },
+    {
+     "sa": "व्रणाशये",
+     "iast": "vraṇāśaye",
+     "en": "in the wound cavity",
+     "hi": "व्रण के गड्ढे में"
+    },
+    {
+     "sa": "व्यम्लीभवेत्",
+     "iast": "vy-amlī-bhavet",
+     "en": "turns sour (decomposes)",
+     "hi": "खट्टा (विकृत) हो जाता है"
+    },
+    {
+     "sa": "पर्युषितम्",
+     "iast": "paryuṣitam",
+     "en": "when stale",
+     "hi": "बासी होने पर"
+    },
+    {
+     "sa": "तस्मात्",
+     "iast": "tasmāt",
+     "en": "therefore",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "तत्",
+     "iast": "tat",
+     "en": "it",
+     "hi": "उसे"
+    },
+    {
+     "sa": "स्रावयेत्",
+     "iast": "srāvayet",
+     "en": "should drain",
+     "hi": "निकाले"
+    },
+    {
+     "sa": "पुनः",
+     "iast": "punaḥ",
+     "en": "again",
+     "hi": "फिर से"
+    }
+   ],
+   "english": "Impure blood that has been dislodged from its place but remains in the wound cavity turns sour (decomposes) when it becomes stale; therefore it should be drained again.",
+   "hindi": "जो अशुद्ध रक्त अपने स्थान से हिल गया हो पर व्रण के गड्ढे में ही रुका रह गया हो, वह बासी होकर खट्टा (विकृत) हो जाता है; इसलिए उसे फिर से निकाल देना चाहिए।",
+   "explanation_en": "The principle: mobilised but retained blood must not be left in the wound, as it decomposes and causes complications. This supports repeated draining when bloodletting is incomplete.",
+   "explanation_hi": "सिद्धान्त: जो रक्त हिल चुका है पर बाहर नहीं निकला, उसे घाव में नहीं छोड़ना चाहिए, क्योंकि वह विकृत होकर दुष्परिणाम करता है। इसी कारण अधूरे रक्तमोक्षण में दोबारा रक्त निकालने का नियम है।",
+   "modern_correlation": {
+    "en": "Not leaving stagnant blood in a wound broadly parallels the modern surgical concern that a retained haematoma can become infected and delay healing.",
+    "hi": "घाव में रुका रक्त न छोड़ना, उस आधुनिक शल्य-चिन्ता से मिलता है कि रुका हुआ हीमेटोमा संक्रमित होकर घाव भरने में देर कर सकता है।"
+   },
+   "key_terms": [
+    "duṣṭa-rakta",
+    "vraṇa",
+    "raktamokṣaṇa"
+   ],
+   "tags": [
+    "raktamokshana",
+    "principles"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.49",
+   "word_meanings": [
+    {
+     "sa": "युञ्ज्यात् न",
+     "iast": "yuñjyān na",
+     "en": "should not use",
+     "hi": "प्रयोग न करे"
+    },
+    {
+     "sa": "अलाबुघटिकाः",
+     "iast": "alābu-ghaṭikāḥ",
+     "en": "gourd and cupping pot",
+     "hi": "अलाबु और घटिका"
+    },
+    {
+     "sa": "रक्ते",
+     "iast": "rakte",
+     "en": "in blood",
+     "hi": "रक्त में"
+    },
+    {
+     "sa": "पित्तेन",
+     "iast": "pittena",
+     "en": "by pitta",
+     "hi": "पित्त से"
+    },
+    {
+     "sa": "दूषिते",
+     "iast": "dūṣite",
+     "en": "vitiated",
+     "hi": "दूषित"
+    },
+    {
+     "sa": "तासाम्",
+     "iast": "tāsām",
+     "en": "of those",
+     "hi": "उनके"
+    },
+    {
+     "sa": "अनलसंयोगात्",
+     "iast": "anala-saṃyogāt",
+     "en": "because of their association with fire",
+     "hi": "अग्नि से सम्बन्ध के कारण"
+    },
+    {
+     "sa": "युञ्ज्यात्",
+     "iast": "yuñjyāt",
+     "en": "should use",
+     "hi": "प्रयोग करे"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "परन्तु"
+    },
+    {
+     "sa": "कफवायुना",
+     "iast": "kapha-vāyunā",
+     "en": "(in blood vitiated) by kapha and vāta",
+     "hi": "कफ और वात से (दूषित रक्त में)"
+    }
+   ],
+   "english": "Gourds (alābu) and cupping pots (ghaṭikā) should not be used when blood is vitiated by pitta, because they involve fire; they should be used when it is vitiated by kapha and vāta.",
+   "hindi": "जब रक्त पित्त से दूषित हो, तब अलाबु और घटिका का प्रयोग नहीं करना चाहिए, क्योंकि इनमें अग्नि का प्रयोग होता है; इनका प्रयोग कफ और वात से दूषित रक्त में करना चाहिए।",
+   "explanation_en": "Verses 49-50 match the bloodletting device to the doṣa. Fire-based cups would aggravate hot pitta, so they are reserved for kapha (and vāta). This doṣa-wise selection of raktamokṣaṇa methods is a frequently asked question.",
+   "explanation_hi": "श्लोक 49-50 रक्तमोक्षण के साधन को दोष से मिलाते हैं। अग्नि वाले कप गरम पित्त को बढ़ाएँगे, इसलिए वे कफ (और वात) के लिए हैं। दोष के अनुसार रक्तमोक्षण-विधि का चयन अक्सर पूछा जाता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "alābu",
+    "ghaṭikā",
+    "pitta",
+    "raktamokṣaṇa"
+   ],
+   "tags": [
+    "raktamokshana",
+    "cupping",
+    "dosha-wise"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.50",
+   "word_meanings": [
+    {
+     "sa": "कफेन",
+     "iast": "kaphena",
+     "en": "by kapha",
+     "hi": "कफ से"
+    },
+    {
+     "sa": "दुष्टम्",
+     "iast": "duṣṭam",
+     "en": "vitiated",
+     "hi": "दूषित"
+    },
+    {
+     "sa": "रुधिरम्",
+     "iast": "rudhiram",
+     "en": "blood",
+     "hi": "रक्त"
+    },
+    {
+     "sa": "न",
+     "iast": "na",
+     "en": "not",
+     "hi": "नहीं"
+    },
+    {
+     "sa": "शृङ्गेण",
+     "iast": "śṛṅgeṇa",
+     "en": "with a horn",
+     "hi": "शृङ्ग से"
+    },
+    {
+     "sa": "विनिर्हरेत्",
+     "iast": "vinirharet",
+     "en": "should remove",
+     "hi": "निकाले"
+    },
+    {
+     "sa": "स्कन्नत्वात्",
+     "iast": "skanna-tvāt",
+     "en": "because of its thickness (clotting)",
+     "hi": "गाढ़ा/जमा होने के कारण"
+    },
+    {
+     "sa": "वातपित्ताभ्याम्",
+     "iast": "vāta-pittābhyām",
+     "en": "by vāta and pitta",
+     "hi": "वात और पित्त से"
+    },
+    {
+     "sa": "दुष्टम्",
+     "iast": "duṣṭam",
+     "en": "vitiated",
+     "hi": "दूषित"
+    },
+    {
+     "sa": "शृङ्गेण",
+     "iast": "śṛṅgeṇa",
+     "en": "with a horn",
+     "hi": "शृङ्ग से"
+    },
+    {
+     "sa": "निर्हरेत्",
+     "iast": "nirharet",
+     "en": "should remove",
+     "hi": "निकाले"
+    }
+   ],
+   "english": "Blood vitiated by kapha should not be removed with a horn, because it is thick (clotted); blood vitiated by vāta and pitta should be removed with a horn.",
+   "hindi": "कफ से दूषित रक्त शृङ्ग (सींग) से नहीं निकालना चाहिए, क्योंकि वह गाढ़ा (जमा हुआ) होता है; वात और पित्त से दूषित रक्त शृङ्ग से निकालना चाहिए।",
+   "explanation_en": "Horn suction is gentle and needs no fire, so it suits vāta and pitta; thick kapha blood needs stronger suction (alābu/ghaṭī). Summary table: vāta - śṛṅga, pitta - jalaukā (or śṛṅga), kapha - alābu/ghaṭī. See verse 55 for the standard scheme.",
+   "explanation_hi": "शृङ्ग का चूषण कोमल है और इसमें अग्नि नहीं लगती, इसलिए यह वात और पित्त के लिए उपयुक्त है; गाढ़े कफ-रक्त के लिए तेज चूषण (अलाबु/घटी) चाहिए। सारांश: वात - शृङ्ग, पित्त - जलौका (या शृङ्ग), कफ - अलाबु/घटी। मानक योजना श्लोक 55 में है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "śṛṅga",
+    "kapha",
+    "vāta",
+    "pitta",
+    "raktamokṣaṇa"
+   ],
+   "tags": [
+    "raktamokshana",
+    "cupping",
+    "dosha-wise"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.51",
+   "word_meanings": [
+    {
+     "sa": "गात्रम्",
+     "iast": "gātram",
+     "en": "the limb",
+     "hi": "अंग को"
+    },
+    {
+     "sa": "बद्ध्वा",
+     "iast": "baddhvā",
+     "en": "having tied",
+     "hi": "बाँधकर"
+    },
+    {
+     "sa": "उपरि",
+     "iast": "upari",
+     "en": "above",
+     "hi": "ऊपर से"
+    },
+    {
+     "sa": "दृढम्",
+     "iast": "dṛḍham",
+     "en": "firmly",
+     "hi": "मजबूती से"
+    },
+    {
+     "sa": "रज्ज्वा",
+     "iast": "rajjvā",
+     "en": "with a rope",
+     "hi": "रस्सी से"
+    },
+    {
+     "sa": "पट्टेन",
+     "iast": "paṭṭena",
+     "en": "with a cloth band",
+     "hi": "पट्टी से"
+    },
+    {
+     "sa": "वा",
+     "iast": "vā",
+     "en": "or",
+     "hi": "या"
+    },
+    {
+     "sa": "समम्",
+     "iast": "samam",
+     "en": "evenly",
+     "hi": "समान रूप से"
+    },
+    {
+     "sa": "स्नायु",
+     "iast": "snāyu",
+     "en": "ligaments",
+     "hi": "स्नायु"
+    },
+    {
+     "sa": "संधि",
+     "iast": "saṃdhi",
+     "en": "joints",
+     "hi": "संधि"
+    },
+    {
+     "sa": "अस्थि",
+     "iast": "asthi",
+     "en": "bones",
+     "hi": "अस्थि"
+    },
+    {
+     "sa": "मर्माणि",
+     "iast": "marmāṇi",
+     "en": "vital points",
+     "hi": "मर्म"
+    },
+    {
+     "sa": "त्यजन्",
+     "iast": "tyajan",
+     "en": "avoiding",
+     "hi": "बचाते हुए"
+    },
+    {
+     "sa": "प्रच्छानम्",
+     "iast": "pracchānam",
+     "en": "scarification",
+     "hi": "प्रच्छान"
+    },
+    {
+     "sa": "आचरेत्",
+     "iast": "ācaret",
+     "en": "should perform",
+     "hi": "करे"
+    }
+   ],
+   "english": "Having tied the limb firmly and evenly above [the site] with a rope or cloth band, and avoiding ligaments, joints, bones and vital points (marma), one should perform scarification (pracchāna),",
+   "hindi": "अंग को (स्थान के) ऊपर से रस्सी या पट्टी से मजबूती और समान रूप से बाँधकर, स्नायु, संधि, अस्थि और मर्मों को बचाते हुए, प्रच्छान (हल्के चीरे) करना चाहिए,",
+   "explanation_en": "Pracchāna is bloodletting by multiple superficial scratches. A band tied above the site distends the vessels and makes blood flow easier. The 'avoid snāyu, sandhi, asthi, marma' rule is a safety principle that applies to all surgery.",
+   "explanation_hi": "प्रच्छान अनेक हल्के, सतही चीरों द्वारा रक्त निकालना है। स्थान के ऊपर बँधी पट्टी नसों को फुला देती है और रक्त आसानी से बहता है। 'स्नायु, संधि, अस्थि, मर्म को बचाएँ' का नियम हर शस्त्रकर्म का सुरक्षा सिद्धान्त है।",
+   "modern_correlation": {
+    "en": "Applying a band above the site to distend the veins closely parallels the use of a tourniquet before venepuncture or phlebotomy.",
+    "hi": "स्थान के ऊपर पट्टी बाँधकर नसों को फुलाना, वेनीपंक्चर या फ्लेबोटॉमी से पहले टूर्निकेट लगाने से बहुत मिलता है।"
+   },
+   "key_terms": [
+    "pracchāna",
+    "marma",
+    "snāyu",
+    "sandhi"
+   ],
+   "tags": [
+    "raktamokshana",
+    "pracchana",
+    "procedure"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.52",
+   "word_meanings": [
+    {
+     "sa": "अधोदेश",
+     "iast": "adho-deśa",
+     "en": "from the lower part",
+     "hi": "नीचे के भाग से"
+    },
+    {
+     "sa": "प्रविसृतैः",
+     "iast": "pravisṛtaiḥ",
+     "en": "spreading",
+     "hi": "फैलते हुए"
+    },
+    {
+     "sa": "पदैः",
+     "iast": "padaiḥ",
+     "en": "with strokes (scratches)",
+     "hi": "पदों (चीरों) से"
+    },
+    {
+     "sa": "उपरिगामिभिः",
+     "iast": "upari-gāmibhiḥ",
+     "en": "moving upwards",
+     "hi": "ऊपर की ओर जाते हुए"
+    },
+    {
+     "sa": "न",
+     "iast": "na",
+     "en": "not",
+     "hi": "नहीं"
+    },
+    {
+     "sa": "गाढ",
+     "iast": "gāḍha",
+     "en": "deep",
+     "hi": "गहरे"
+    },
+    {
+     "sa": "घन",
+     "iast": "ghana",
+     "en": "crowded (close together)",
+     "hi": "घने (पास-पास)"
+    },
+    {
+     "sa": "तिर्यग्भिः",
+     "iast": "tiryagbhiḥ",
+     "en": "oblique",
+     "hi": "तिरछे"
+    },
+    {
+     "sa": "न पदे पदम्",
+     "iast": "na pade padam",
+     "en": "not one stroke over another",
+     "hi": "एक चीरे पर दूसरा नहीं"
+    },
+    {
+     "sa": "आचरन्",
+     "iast": "ācaran",
+     "en": "making",
+     "hi": "करते हुए"
+    }
+   ],
+   "english": "with strokes starting from the lower part and moving upwards; the strokes should not be deep, crowded or oblique, and one should not make one stroke over another.",
+   "hindi": "चीरे नीचे के भाग से शुरू करके ऊपर की ओर बढ़ते हुए लगाएँ; चीरे न गहरे हों, न बहुत पास-पास, न तिरछे, और एक चीरे के ऊपर दूसरा चीरा न लगाएँ।",
+   "explanation_en": "These are the technical rules of pracchāna, commonly asked. Shallow, parallel, separate scratches let blood ooze without damaging deeper structures. Starting from below keeps the field clear, since blood running down does not obscure the next stroke.",
+   "explanation_hi": "ये प्रच्छान के तकनीकी नियम हैं, जो अक्सर पूछे जाते हैं। उथले, समानान्तर, अलग-अलग चीरे गहरी संरचनाओं को नुकसान पहुँचाए बिना रक्त रिसने देते हैं। नीचे से शुरू करने पर नीचे बहता रक्त अगले चीरे को नहीं ढकता।",
+   "modern_correlation": {
+    "en": "Shallow, parallel skin scratches for drawing blood are similar to the scarification step used in wet cupping.",
+    "hi": "रक्त निकालने के लिए उथले, समानान्तर चीरे, वेट कपिंग में प्रयुक्त स्कारिफिकेशन चरण के समान हैं।"
+   },
+   "key_terms": [
+    "pracchāna",
+    "pada"
+   ],
+   "tags": [
+    "raktamokshana",
+    "pracchana",
+    "procedure"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.53",
+   "word_meanings": [
+    {
+     "sa": "प्रच्छानेन",
+     "iast": "pracchānena",
+     "en": "by scarification",
+     "hi": "प्रच्छान से"
+    },
+    {
+     "sa": "एकदेशस्थम्",
+     "iast": "eka-deśa-stham",
+     "en": "located in one place",
+     "hi": "एक स्थान पर स्थित"
+    },
+    {
+     "sa": "ग्रथितम्",
+     "iast": "grathitam",
+     "en": "clotted, knotted",
+     "hi": "गाँठदार/जमा हुआ"
+    },
+    {
+     "sa": "जलजन्मभिः",
+     "iast": "jala-janmabhiḥ",
+     "en": "by leeches (water-born)",
+     "hi": "जलौकाओं से"
+    },
+    {
+     "sa": "हरेत्",
+     "iast": "haret",
+     "en": "should remove",
+     "hi": "निकाले"
+    },
+    {
+     "sa": "शृङ्गादिभिः",
+     "iast": "śṛṅgādibhiḥ",
+     "en": "by horn etc.",
+     "hi": "शृङ्ग आदि से"
+    },
+    {
+     "sa": "सुप्तम्",
+     "iast": "suptam",
+     "en": "dormant (causing numbness)",
+     "hi": "सुप्त (सुन्नता वाला)"
+    },
+    {
+     "sa": "असृक्",
+     "iast": "asṛk",
+     "en": "blood",
+     "hi": "रक्त"
+    },
+    {
+     "sa": "व्यापि",
+     "iast": "vyāpi",
+     "en": "spread throughout",
+     "hi": "पूरे शरीर में फैला"
+    },
+    {
+     "sa": "सिराव्यधैः",
+     "iast": "sirā-vyadhaiḥ",
+     "en": "by venesection",
+     "hi": "सिरावेध से"
+    }
+   ],
+   "english": "Blood localised in one place should be removed by scarification (pracchāna), clotted blood by leeches, dormant blood (with numbness) by the horn and similar devices, and blood vitiated throughout the body by venesection (sirāvyadha).",
+   "hindi": "एक स्थान पर स्थित दूषित रक्त को प्रच्छान से, जमे (गाँठदार) रक्त को जलौका से, सुप्त (सुन्नता वाले) रक्त को शृङ्ग आदि से, और पूरे शरीर में फैले रक्त को सिरावेध से निकालना चाहिए।",
+   "explanation_en": "This is a key verse on choosing the bloodletting method by the extent and nature of vitiated blood. Sirāvyadha is for generalised vitiation, introducing the next chapter. Learn this as a four-row table.",
+   "explanation_hi": "यह दूषित रक्त की स्थिति और प्रकृति के अनुसार रक्तमोक्षण-विधि चुनने का महत्वपूर्ण श्लोक है। पूरे शरीर में फैली दुष्टि के लिए सिरावेध है, जो अगले अध्याय की भूमिका है। इसे चार पंक्तियों की तालिका के रूप में याद करें।",
+   "modern_correlation": null,
+   "key_terms": [
+    "pracchāna",
+    "jalaukā",
+    "śṛṅga",
+    "sirāvyadha",
+    "raktamokṣaṇa"
+   ],
+   "tags": [
+    "raktamokshana",
+    "method-selection"
+   ],
+   "importance": "high",
+   "mnemonic": "Local - Pracchāna; Clotted - Leech; Numb - Horn; Whole body - Sirāvyadha.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.54",
+   "word_meanings": [
+    {
+     "sa": "प्रच्छानम्",
+     "iast": "pracchānam",
+     "en": "scarification",
+     "hi": "प्रच्छान"
+    },
+    {
+     "sa": "पिण्डिते",
+     "iast": "piṇḍite",
+     "en": "in collected (lumped) blood",
+     "hi": "पिण्डित (इकट्ठे) रक्त में"
+    },
+    {
+     "sa": "वा",
+     "iast": "vā",
+     "en": "or",
+     "hi": "या"
+    },
+    {
+     "sa": "स्यात्",
+     "iast": "syāt",
+     "en": "is",
+     "hi": "होता है"
+    },
+    {
+     "sa": "अवगाढे",
+     "iast": "avagāḍhe",
+     "en": "in deep-seated",
+     "hi": "गहरे स्थित में"
+    },
+    {
+     "sa": "जलौकसः",
+     "iast": "jalaukasaḥ",
+     "en": "leeches",
+     "hi": "जलौकाएँ"
+    },
+    {
+     "sa": "त्वक्स्थे",
+     "iast": "tvak-sthe",
+     "en": "in blood located in the skin",
+     "hi": "त्वचा में स्थित में"
+    },
+    {
+     "sa": "अलाबुघटीशृङ्गम्",
+     "iast": "alābu-ghaṭī-śṛṅgam",
+     "en": "gourd, pot, horn",
+     "hi": "अलाबु, घटी, शृङ्ग"
+    },
+    {
+     "sa": "सिरा",
+     "iast": "sirā",
+     "en": "venesection",
+     "hi": "सिरावेध"
+    },
+    {
+     "sa": "एव",
+     "iast": "eva",
+     "en": "only",
+     "hi": "ही"
+    },
+    {
+     "sa": "व्यापके",
+     "iast": "vyāpake",
+     "en": "in pervasive",
+     "hi": "व्याप्त में"
+    },
+    {
+     "sa": "असृजि",
+     "iast": "asṛji",
+     "en": "blood",
+     "hi": "रक्त में"
+    }
+   ],
+   "english": "Alternatively: scarification for collected (lumped) blood, leeches for deep-seated blood, gourd, pot or horn for blood located in the skin, and venesection alone for blood vitiated throughout the body.",
+   "hindi": "अथवा: इकट्ठे (पिण्डित) रक्त में प्रच्छान, गहरे स्थित रक्त में जलौका, त्वचा में स्थित रक्त में अलाबु, घटी या शृङ्ग, और पूरे शरीर में फैले रक्त में केवल सिरावेध।",
+   "explanation_en": "This is a second, slightly different scheme recorded by Vāgbhaṭa (note 'vā', alternatively). Both agree that sirāvyadha is for generalised vitiation. In exams, mention both schemes if asked about the indications of each raktamokṣaṇa method.",
+   "explanation_hi": "यह वाग्भट द्वारा दर्ज दूसरी, थोड़ी अलग योजना है ('वा' अर्थात् अथवा)। दोनों योजनाएँ मानती हैं कि पूरे शरीर की दुष्टि में सिरावेध है। परीक्षा में यदि हर रक्तमोक्षण-विधि के संकेत पूछे जाएँ, तो दोनों योजनाएँ लिखें।",
+   "modern_correlation": null,
+   "key_terms": [
+    "pracchāna",
+    "jalaukā",
+    "alābu",
+    "ghaṭī",
+    "śṛṅga",
+    "sirāvyadha"
+   ],
+   "tags": [
+    "raktamokshana",
+    "method-selection"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.26.55",
+   "word_meanings": [
+    {
+     "sa": "वातादिधाम",
+     "iast": "vātādi-dhāma",
+     "en": "(blood that is) the seat of vāta and the others",
+     "hi": "वात आदि का आश्रय (दूषित रक्त)"
+    },
+    {
+     "sa": "वा",
+     "iast": "vā",
+     "en": "or",
+     "hi": "या"
+    },
+    {
+     "sa": "शृङ्ग",
+     "iast": "śṛṅga",
+     "en": "horn",
+     "hi": "शृङ्ग"
+    },
+    {
+     "sa": "जलौकः",
+     "iast": "jalaukaḥ",
+     "en": "leech",
+     "hi": "जलौका"
+    },
+    {
+     "sa": "अलाबुभिः",
+     "iast": "alābubhiḥ",
+     "en": "and gourd",
+     "hi": "और अलाबु से"
+    },
+    {
+     "sa": "क्रमात्",
+     "iast": "kramāt",
+     "en": "respectively",
+     "hi": "क्रम से"
+    },
+    {
+     "sa": "स्रुतासृजः",
+     "iast": "srutāsṛjaḥ",
+     "en": "of one whose blood has been let",
+     "hi": "जिसका रक्त निकाला गया हो"
+    },
+    {
+     "sa": "प्रदेहाद्यैः",
+     "iast": "pradehādyaiḥ",
+     "en": "by pastes and the like",
+     "hi": "लेप आदि से"
+    },
+    {
+     "sa": "शीतैः",
+     "iast": "śītaiḥ",
+     "en": "cold",
+     "hi": "ठंडे"
+    },
+    {
+     "sa": "स्यात्",
+     "iast": "syāt",
+     "en": "there may be",
+     "hi": "हो सकता है"
+    },
+    {
+     "sa": "वायुकोपतः",
+     "iast": "vāyu-kopataḥ",
+     "en": "from aggravation of vāta",
+     "hi": "वात प्रकोप से"
+    }
+   ],
+   "english": "Or, blood vitiated by vāta, pitta and kapha should be removed by horn, leech and gourd respectively. In one whose blood has been let, cold pastes and similar applications [are used]; [but] from aggravation of vāta there may arise [pain and swelling, which is treated as described next].",
+   "hindi": "अथवा, वात, पित्त और कफ से दूषित रक्त को क्रम से शृङ्ग, जलौका और अलाबु से निकालना चाहिए। जिसका रक्त निकाला गया हो, उसे ठंडे लेप आदि लगाए जाते हैं; (परन्तु) वात प्रकोप से (पीड़ा और सूजन) हो सकती है, (जिसकी चिकित्सा आगे बताई गई है)।",
+   "explanation_en": "The first half gives the most commonly quoted doṣa-wise scheme: vāta - śṛṅga, pitta - jalaukā, kapha - alābu. Memorise it. The second half begins post-bloodletting care; the sentence continues beyond this verse in fuller editions (warm unctuous measures are advised if vāta is aggravated by cold applications).",
+   "explanation_hi": "पहली पंक्ति सबसे अधिक उद्धृत दोषानुसार योजना देती है: वात - शृङ्ग, पित्त - जलौका, कफ - अलाबु। इसे याद करें। दूसरी पंक्ति रक्तमोक्षण के बाद की देखभाल शुरू करती है; पूरे संस्करणों में वाक्य आगे जारी है (ठंडे लेप से वात बढ़ने पर गरम-स्निग्ध उपाय बताए गए हैं)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "śṛṅga",
+    "jalaukā",
+    "alābu",
+    "raktamokṣaṇa",
+    "vāta",
+    "pitta",
+    "kapha"
+   ],
+   "tags": [
+    "raktamokshana",
+    "dosha-wise",
+    "method-selection"
+   ],
+   "importance": "high",
+   "mnemonic": "VPK = Śṛṅga, Jalaukā, Alābu (Horn-Leech-Gourd).",
+   "review_status": "ai_draft"
+  }
+ ]
+}

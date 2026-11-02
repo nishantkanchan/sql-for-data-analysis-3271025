@@ -1,0 +1,3656 @@
+{
+ "chapter": {
+  "id": "AH.sutra.4",
+  "text": "ashtanga_hridaya",
+  "sthana": "sutra",
+  "chapter": 4,
+  "title_iast": "Rogānutpādanīya Adhyāya",
+  "title_devanagari": "रोगानुत्पादनीयोऽध्यायः",
+  "title_en": "The chapter on the prevention of disease",
+  "title_hi": "रोगानुत्पादनीय अध्याय (रोग न होने देने के उपाय)",
+  "summary_en": "This chapter is about preventing disease. It begins with the thirteen natural urges (adhāraṇīya vega) that must never be suppressed: flatus, faeces, urine, sneezing, thirst, hunger, sleep, cough, breathing after exertion, yawning, tears, vomiting and semen. For each, it lists the disorders caused by suppression and their treatment, and gives the signs of incurability. It states that both forcing and suppressing urges cause disease, mainly by deranging vāta, so the general treatment is vātānulomana. In contrast, mental urges such as greed, envy and hatred (dhāraṇīya vega) should always be restrained. The chapter then explains timely śodhana (purification), why śodhana prevents recurrence better than laṅghana and pācana, the use of rasāyana after purification, and gradual nourishment. It defines āgantu diseases and their prevention (avoiding prajñāparādha, sense control, sadvṛtta and protective rites). It closes with seasonal purification and the famous verse on the habits of a person who stays free from disease.",
+  "summary_hi": "यह अध्याय रोगों की रोकथाम के बारे में है। इसकी शुरुआत तेरह अधारणीय वेगों से होती है जिन्हें कभी नहीं रोकना चाहिए: अधोवायु, मल, मूत्र, छींक, प्यास, भूख, नींद, खाँसी, परिश्रम के बाद की साँस, जम्हाई, आँसू, उल्टी और शुक्र। हर एक के लिए रोकने से होने वाले रोग और उनकी चिकित्सा बताई गई है, और असाध्य लक्षण भी। इसमें कहा गया है कि वेगों को ज़बरदस्ती निकालना और रोकना, दोनों रोग पैदा करते हैं, मुख्यतः वात को बिगाड़कर, इसलिए सामान्य चिकित्सा वातानुलोमन है। इसके विपरीत लोभ, ईर्ष्या, द्वेष जैसे मानसिक वेग (धारणीय वेग) हमेशा रोकने चाहिए। फिर समय पर शोधन, लंघन-पाचन की तुलना में शोधन से रोग दोबारा क्यों नहीं होता, शोधन के बाद रसायन, और धीरे-धीरे पोषण बताया गया है। आगन्तु रोगों की परिभाषा और उनकी रोकथाम (प्रज्ञापराध से बचना, इन्द्रिय संयम, सद्वृत्त और रक्षा कर्म) दी गई है। अंत में ऋतु-शोधन और रोगरहित व्यक्ति के गुणों वाला प्रसिद्ध श्लोक है।",
+  "key_concepts": [
+   "adhāraṇīya vega",
+   "dhāraṇīya vega",
+   "vegadhāraṇa",
+   "vegodīraṇa",
+   "udāvarta",
+   "vātānulomana",
+   "avapīḍaka ghṛta",
+   "śodhana",
+   "śamana",
+   "rasāyana",
+   "paścāt karma",
+   "āgantu roga",
+   "prajñāparādha",
+   "ṛtu śodhana",
+   "hitāhāra-vihāra"
+  ],
+  "exam_focus_en": [
+   "List of 13 adhāraṇīya vegas in order (verse 1).",
+   "Effects of suppressing each urge and the specific treatment, e.g. avapīḍaka ghṛta for suppressed urine (verses 2-21).",
+   "Asādhya lakṣaṇa of vega-dhāraṇa and vātānulomana as the general line of treatment (verses 21-23).",
+   "Dhāraṇīya vegas (mental urges to be restrained) contrasted with adhāraṇīya vegas (verse 24).",
+   "Superiority of śodhana over laṅghana-pācana, and rasāyana after śodhana (verses 25-30).",
+   "Āgantu roga causes and prevention; seasonal śodhana; the closing verse 'nityaṃ hitāhāra-vihāra-sevī' (verses 31-36)."
+  ],
+  "exam_focus_hi": [
+   "13 अधारणीय वेगों की क्रम से सूची (श्लोक 1)।",
+   "हर वेग रोकने के प्रभाव और विशेष चिकित्सा, जैसे मूत्र रोकने में अवपीडक घृत (श्लोक 2-21)।",
+   "वेग-धारण के असाध्य लक्षण और सामान्य चिकित्सा सिद्धान्त वातानुलोमन (श्लोक 21-23)।",
+   "धारणीय वेग (रोकने योग्य मानसिक आवेग) बनाम अधारणीय वेग (श्लोक 24)।",
+   "लंघन-पाचन की तुलना में शोधन की श्रेष्ठता, और शोधन के बाद रसायन (श्लोक 25-30)।",
+   "आगन्तु रोग के कारण और रोकथाम; ऋतु-शोधन; अंतिम श्लोक 'नित्यं हिताहारविहारसेवी' (श्लोक 31-36)।"
+  ],
+  "syllabus_refs": [
+   "AyUG-SA1"
+  ],
+  "review_status": "ai_draft"
+ },
+ "verses": [
+  {
+   "id": "AH.sutra.4.1",
+   "word_meanings": [
+    {
+     "sa": "वेगान्",
+     "iast": "vegān",
+     "en": "natural urges",
+     "hi": "वेगों को"
+    },
+    {
+     "sa": "न धारयेत्",
+     "iast": "na dhārayet",
+     "en": "should not suppress",
+     "hi": "न रोके"
+    },
+    {
+     "sa": "वात",
+     "iast": "vāta",
+     "en": "flatus",
+     "hi": "अधोवायु (अपान वायु)"
+    },
+    {
+     "sa": "विट्",
+     "iast": "viṭ",
+     "en": "faeces",
+     "hi": "मल"
+    },
+    {
+     "sa": "मूत्र",
+     "iast": "mūtra",
+     "en": "urine",
+     "hi": "मूत्र"
+    },
+    {
+     "sa": "क्षव",
+     "iast": "kṣava",
+     "en": "sneezing",
+     "hi": "छींक"
+    },
+    {
+     "sa": "तृट्",
+     "iast": "tṛṭ",
+     "en": "thirst",
+     "hi": "प्यास"
+    },
+    {
+     "sa": "क्षुधाम्",
+     "iast": "kṣudhām",
+     "en": "of hunger",
+     "hi": "भूख"
+    },
+    {
+     "sa": "निद्रा",
+     "iast": "nidrā",
+     "en": "sleep",
+     "hi": "नींद"
+    },
+    {
+     "sa": "कास",
+     "iast": "kāsa",
+     "en": "cough",
+     "hi": "खाँसी"
+    },
+    {
+     "sa": "श्रमश्वास",
+     "iast": "śramaśvāsa",
+     "en": "breathing after exertion",
+     "hi": "परिश्रम-जन्य श्वास"
+    },
+    {
+     "sa": "जृम्भा",
+     "iast": "jṛmbhā",
+     "en": "yawning",
+     "hi": "जम्हाई"
+    },
+    {
+     "sa": "अश्रु",
+     "iast": "aśru",
+     "en": "tears",
+     "hi": "आँसू"
+    },
+    {
+     "sa": "छर्दि",
+     "iast": "chardi",
+     "en": "vomiting",
+     "hi": "उल्टी"
+    },
+    {
+     "sa": "रेतसाम्",
+     "iast": "retasām",
+     "en": "of semen",
+     "hi": "शुक्र का"
+    }
+   ],
+   "english": "One should not suppress the natural urges of flatus, faeces, urine, sneezing, thirst, hunger, sleep, cough, breathing after exertion, yawning, tears, vomiting and semen.",
+   "hindi": "अधोवायु (अपान वायु), मल, मूत्र, छींक, प्यास, भूख, नींद, खाँसी, परिश्रम से तेज़ साँस, जम्हाई, आँसू, उल्टी और शुक्र, इन वेगों को नहीं रोकना चाहिए।",
+   "explanation_en": "This opens the Rogānutpādanīya chapter (prevention of disease). Vāgbhaṭa lists 13 adhāraṇīya vegas (non-suppressible urges); Caraka also lists 13, with minor differences. Memorising this list in order is essential; each urge's suppression symptoms and treatment follow in verses 2-21.",
+   "explanation_hi": "यहाँ से रोगानुत्पादनीय अध्याय (रोग न होने देने के उपाय) शुरू होता है। वाग्भट ने 13 अधारणीय वेग (न रोकने योग्य वेग) बताए हैं; चरक भी 13 बताते हैं, थोड़े अंतर के साथ। यह सूची क्रम से याद करना ज़रूरी है; हर वेग को रोकने के लक्षण और चिकित्सा श्लोक 2-21 में हैं।",
+   "modern_correlation": {
+    "en": "Habitual suppression of defecation and urination is associated with constipation, urinary retention and urinary infection; suppressing sleep leads to sleep deprivation with well-documented cognitive and metabolic effects.",
+    "hi": "मल-मूत्र को आदतन रोकना कब्ज़, मूत्र रुकने और मूत्र संक्रमण से जुड़ा है; नींद रोकने से नींद की कमी होती है, जिसके मानसिक और चयापचय पर प्रभाव अच्छी तरह प्रमाणित हैं।"
+   },
+   "key_terms": [
+    "adhāraṇīya vega",
+    "vegadhāraṇa",
+    "rogānutpādana"
+   ],
+   "tags": [
+    "vega",
+    "prevention",
+    "definitions"
+   ],
+   "importance": "high",
+   "mnemonic": "13 vegas: Vāta-Viṭ-Mūtra, Kṣava-Tṛṭ-Kṣudhā, Nidrā-Kāsa-Śramaśvāsa, Jṛmbhā-Aśru-Chardi-Retas",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.4.2",
+   "word_meanings": [
+    {
+     "sa": "अधोवातस्य",
+     "iast": "adhovātasya",
+     "en": "of flatus",
+     "hi": "अधोवायु के"
+    },
+    {
+     "sa": "रोधेन",
+     "iast": "rodhena",
+     "en": "by suppression",
+     "hi": "रोकने से"
+    },
+    {
+     "sa": "गुल्म",
+     "iast": "gulma",
+     "en": "abdominal lump",
+     "hi": "गुल्म"
+    },
+    {
+     "sa": "उदावर्त",
+     "iast": "udāvarta",
+     "en": "upward movement of vāta",
+     "hi": "उदावर्त"
+    },
+    {
+     "sa": "रुक्",
+     "iast": "ruk",
+     "en": "pain",
+     "hi": "पीड़ा"
+    },
+    {
+     "sa": "क्लमाः",
+     "iast": "klamāḥ",
+     "en": "exhaustion",
+     "hi": "क्लम (थकावट)"
+    },
+    {
+     "sa": "वात",
+     "iast": "vāta",
+     "en": "flatus",
+     "hi": "वायु"
+    },
+    {
+     "sa": "मूत्र",
+     "iast": "mūtra",
+     "en": "urine",
+     "hi": "मूत्र"
+    },
+    {
+     "sa": "शकृत्",
+     "iast": "śakṛt",
+     "en": "faeces",
+     "hi": "मल"
+    },
+    {
+     "sa": "सङ्ग",
+     "iast": "saṅga",
+     "en": "obstruction",
+     "hi": "रुकावट"
+    },
+    {
+     "sa": "दृष्टि",
+     "iast": "dṛṣṭi",
+     "en": "vision",
+     "hi": "दृष्टि"
+    },
+    {
+     "sa": "अग्नि",
+     "iast": "agni",
+     "en": "digestive fire",
+     "hi": "अग्नि"
+    },
+    {
+     "sa": "वध",
+     "iast": "vadha",
+     "en": "loss",
+     "hi": "नाश"
+    },
+    {
+     "sa": "हृद्गदाः",
+     "iast": "hṛdgadāḥ",
+     "en": "heart diseases",
+     "hi": "हृदय रोग"
+    }
+   ],
+   "english": "By suppression of flatus arise gulma (abdominal lump), udāvarta (upward movement of vāta), pain, exhaustion, obstruction of flatus, urine and faeces, loss of vision and of agni, and heart disease.",
+   "hindi": "अधोवायु रोकने से गुल्म, उदावर्त (वायु का ऊपर की ओर चलना), दर्द, थकावट, वायु, मूत्र और मल का रुकना, दृष्टि और अग्नि का नाश, और हृदय रोग होते हैं।",
+   "explanation_en": "Suppression symptoms of adhovāta. The common thread in all vega-dhāraṇa is that apāna vāta is obstructed and turns upward (udāvarta), causing symptoms in various parts of the body.",
+   "explanation_hi": "अधोवायु रोकने के लक्षण। सभी वेग-धारण में एक समान बात है: अपान वायु रुककर ऊपर की ओर चलती है (उदावर्त), जिससे शरीर के अलग-अलग भागों में लक्षण होते हैं।",
+   "modern_correlation": {
+    "en": "Holding back flatus can cause abdominal distension and discomfort; this broadly parallels the bloating described here, though claims about vision and heart disease are classical and not established by modern evidence.",
+    "hi": "गैस रोकने से पेट फूलना और बेचैनी हो सकती है; यह यहाँ बताए अफारे से मोटे तौर पर मिलता है, पर दृष्टि और हृदय रोग के दावे शास्त्रीय हैं, आधुनिक प्रमाण से स्थापित नहीं।"
+   },
+   "key_terms": [
+    "adhovāta vegadhāraṇa",
+    "udāvarta",
+    "gulma"
+   ],
+   "tags": [
+    "vega",
+    "vegadharana-lakshana"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.4.3",
+   "word_meanings": [
+    {
+     "sa": "स्नेह",
+     "iast": "sneha",
+     "en": "oleation",
+     "hi": "स्नेहन"
+    },
+    {
+     "sa": "स्वेद",
+     "iast": "sveda",
+     "en": "sudation",
+     "hi": "स्वेदन"
+    },
+    {
+     "sa": "विधिः",
+     "iast": "vidhiḥ",
+     "en": "procedure",
+     "hi": "विधि"
+    },
+    {
+     "sa": "तत्र",
+     "iast": "tatra",
+     "en": "there",
+     "hi": "उसमें"
+    },
+    {
+     "sa": "वर्तयः",
+     "iast": "vartayaḥ",
+     "en": "suppositories",
+     "hi": "वर्ति (फलवर्ति)"
+    },
+    {
+     "sa": "भोजनानि",
+     "iast": "bhojanāni",
+     "en": "foods",
+     "hi": "भोजन"
+    },
+    {
+     "sa": "पानानि",
+     "iast": "pānāni",
+     "en": "drinks",
+     "hi": "पेय"
+    },
+    {
+     "sa": "वस्तयः",
+     "iast": "vastayaḥ",
+     "en": "enemas",
+     "hi": "बस्ति"
+    },
+    {
+     "sa": "शस्तम्",
+     "iast": "śastam",
+     "en": "recommended",
+     "hi": "प्रशस्त"
+    },
+    {
+     "sa": "वातानुलोमनम्",
+     "iast": "vātānulomanam",
+     "en": "that which moves vāta downward",
+     "hi": "वात का अनुलोमन"
+    },
+    {
+     "sa": "शकृतः",
+     "iast": "śakṛtaḥ",
+     "en": "of faeces",
+     "hi": "मल के (रोकने से)"
+    },
+    {
+     "sa": "पिण्डिकोद्वेष्ट",
+     "iast": "piṇḍikodveṣṭa",
+     "en": "calf cramps",
+     "hi": "पिंडलियों में ऐंठन"
+    },
+    {
+     "sa": "प्रतिश्याय",
+     "iast": "pratiśyāya",
+     "en": "coryza",
+     "hi": "प्रतिश्याय (जुकाम)"
+    },
+    {
+     "sa": "शिरोरुजः",
+     "iast": "śirorujaḥ",
+     "en": "headache",
+     "hi": "सिरदर्द"
+    },
+    {
+     "sa": "ऊर्ध्ववायुः",
+     "iast": "ūrdhvavāyuḥ",
+     "en": "upward movement of wind (belching)",
+     "hi": "वायु का ऊपर जाना"
+    },
+    {
+     "sa": "परीकर्तः",
+     "iast": "parīkartaḥ",
+     "en": "cutting pain (in rectum)",
+     "hi": "परिकर्तन (काटने जैसा दर्द)"
+    },
+    {
+     "sa": "हृदयस्य",
+     "iast": "hṛdayasya",
+     "en": "of the heart",
+     "hi": "हृदय का"
+    },
+    {
+     "sa": "उपरोधनम्",
+     "iast": "uparodhanam",
+     "en": "constriction",
+     "hi": "अवरोध"
+    }
+   ],
+   "english": "For that (suppressed flatus), oleation and sudation, suppositories, foods, drinks and enemas, and whatever moves vāta downward (anulomana), are recommended. From suppression of faeces arise cramps in the calves, coryza, headache, upward movement of wind, cutting pain (in the anus), and constriction of the heart region...",
+   "hindi": "उसमें (अधोवायु रोकने पर) स्नेहन, स्वेदन, फलवर्ति, भोजन, पेय, बस्ति और वात का अनुलोमन करने वाले उपाय प्रशस्त हैं। मल का वेग रोकने से पिंडलियों में ऐंठन, जुकाम, सिरदर्द, वायु का ऊपर जाना, गुदा में काटने जैसा दर्द, और हृदय में दबाव होता है...",
+   "explanation_en": "In this corpus 4.3 includes an extra half-verse (2+1) giving the treatment of suppressed flatus, followed by the symptoms of suppressed faeces, which continue in verse 4. 'Vātānulomana' (redirecting vāta downward) is the common principle of treatment for all suppressed urges (see verse 23).",
+   "explanation_hi": "इस कॉर्पस में 4.3 में एक अतिरिक्त आधा श्लोक (2+1) है जिसमें अधोवायु रोकने की चिकित्सा है, फिर मल रोकने के लक्षण शुरू होते हैं जो श्लोक 4 में आगे चलते हैं। 'वातानुलोमन' (वात को नीचे की ओर ले जाना) सभी रुके हुए वेगों की चिकित्सा का साझा सिद्धान्त है (श्लोक 23 देखें)।",
+   "modern_correlation": {
+    "en": "Chronic withholding of stool is linked to constipation, faecal impaction and anal fissures, which broadly parallel the cutting pain and obstruction described.",
+    "hi": "मल को लंबे समय तक रोकना कब्ज़, मल का जमना और गुदा में दरार (fissure) से जुड़ा है, जो यहाँ बताए काटने जैसे दर्द और रुकावट से मोटे तौर पर मिलता है।"
+   },
+   "key_terms": [
+    "vātānulomana",
+    "phalavarti",
+    "vasti",
+    "purīṣa vegadhāraṇa"
+   ],
+   "tags": [
+    "vega",
+    "vegadharana-chikitsa"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.4.4",
+   "word_meanings": [
+    {
+     "sa": "मुखेन",
+     "iast": "mukhena",
+     "en": "through the mouth",
+     "hi": "मुख से"
+    },
+    {
+     "sa": "विट्प्रवृत्तिः",
+     "iast": "viṭpravṛttiḥ",
+     "en": "coming out of faeces",
+     "hi": "मल का निकलना"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "पूर्वोक्ताः",
+     "iast": "pūrvoktāḥ",
+     "en": "those mentioned earlier",
+     "hi": "पहले कहे गए"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "आमयाः",
+     "iast": "āmayāḥ",
+     "en": "diseases",
+     "hi": "रोग"
+    },
+    {
+     "sa": "स्मृताः",
+     "iast": "smṛtāḥ",
+     "en": "are known",
+     "hi": "माने गए हैं"
+    },
+    {
+     "sa": "अङ्गभङ्ग",
+     "iast": "aṅgabhaṅga",
+     "en": "body aches",
+     "hi": "अंगों में टूटन"
+    },
+    {
+     "sa": "अश्मरी",
+     "iast": "aśmarī",
+     "en": "urinary stone",
+     "hi": "अश्मरी (पथरी)"
+    },
+    {
+     "sa": "वस्ति",
+     "iast": "vasti",
+     "en": "bladder",
+     "hi": "बस्ति (मूत्राशय)"
+    },
+    {
+     "sa": "मेढ्र",
+     "iast": "meḍhra",
+     "en": "penis",
+     "hi": "मेढ्र (लिंग)"
+    },
+    {
+     "sa": "वङ्क्षण",
+     "iast": "vaṅkṣaṇa",
+     "en": "groin",
+     "hi": "वंक्षण (जाँघ का जोड़)"
+    },
+    {
+     "sa": "वेदनाः",
+     "iast": "vedanāḥ",
+     "en": "pains",
+     "hi": "पीड़ा"
+    }
+   ],
+   "english": "...faeces coming out through the mouth, and the diseases mentioned earlier (for flatus) are known. Body aches, urinary stones, and pain in the bladder, penis and groin...",
+   "hindi": "...मुँह से मल निकलना, और पहले (अधोवायु में) कहे गए रोग होते हैं। अंगों में टूटन, पथरी, और मूत्राशय, लिंग व वंक्षण (जाँघ के जोड़) में दर्द...",
+   "explanation_en": "'Mukhena viṭ-pravṛtti' describes faeculent vomiting, an extreme sign of obstruction. The second line begins the symptoms of suppressed urine, completed in verse 5.",
+   "explanation_hi": "'मुखेन विट्प्रवृत्ति' (मुँह से मल निकलना) गंभीर अवरोध का अति लक्षण है। दूसरी पंक्ति से मूत्र रोकने के लक्षण शुरू होते हैं, जो श्लोक 5 में पूरे होते हैं।",
+   "modern_correlation": {
+    "en": "Faeculent vomiting is a recognised late sign of intestinal obstruction in modern surgery; this is a classical description, not a common result of simple stool-holding.",
+    "hi": "मल जैसी उल्टी आधुनिक सर्जरी में आँतों के अवरोध (intestinal obstruction) का देर से दिखने वाला लक्षण है; यह शास्त्रीय वर्णन है, सामान्य मल रोकने का आम परिणाम नहीं।"
+   },
+   "key_terms": [
+    "purīṣa vegadhāraṇa",
+    "mūtra vegadhāraṇa",
+    "aśmarī"
+   ],
+   "tags": [
+    "vega",
+    "vegadharana-lakshana"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.4.5",
+   "word_meanings": [
+    {
+     "sa": "मूत्रस्य",
+     "iast": "mūtrasya",
+     "en": "of urine",
+     "hi": "मूत्र के"
+    },
+    {
+     "sa": "रोधात्",
+     "iast": "rodhāt",
+     "en": "from suppression",
+     "hi": "रोकने से"
+    },
+    {
+     "sa": "पूर्वे",
+     "iast": "pūrve",
+     "en": "the earlier ones",
+     "hi": "पहले वाले"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "प्रायः",
+     "iast": "prāyaḥ",
+     "en": "mostly",
+     "hi": "प्रायः"
+    },
+    {
+     "sa": "रोगाः",
+     "iast": "rogāḥ",
+     "en": "diseases",
+     "hi": "रोग"
+    },
+    {
+     "sa": "तदौषधम्",
+     "iast": "tadauṣadham",
+     "en": "its treatment",
+     "hi": "उसकी औषधि"
+    },
+    {
+     "sa": "वर्ति",
+     "iast": "varti",
+     "en": "suppositories",
+     "hi": "वर्ति"
+    },
+    {
+     "sa": "अभ्यङ्ग",
+     "iast": "abhyaṅga",
+     "en": "oil massage",
+     "hi": "अभ्यङ्ग"
+    },
+    {
+     "sa": "अवगाहाः",
+     "iast": "avagāhāḥ",
+     "en": "tub baths",
+     "hi": "अवगाह (टब स्नान)"
+    },
+    {
+     "sa": "स्वेदनम्",
+     "iast": "svedanam",
+     "en": "sudation",
+     "hi": "स्वेदन"
+    },
+    {
+     "sa": "वस्तिकर्म",
+     "iast": "vastikarma",
+     "en": "enema therapy",
+     "hi": "बस्ति कर्म"
+    }
+   ],
+   "english": "...arise from suppression of urine, and mostly the diseases mentioned earlier too. Its treatment is suppositories, oil massage, tub baths, sudation and enema therapy...",
+   "hindi": "...मूत्र रोकने से होते हैं, और प्रायः पहले कहे गए रोग भी। इसकी चिकित्सा है: वर्ति, अभ्यङ्ग, अवगाह (गुनगुने पानी में बैठना), स्वेदन और बस्ति कर्म...",
+   "explanation_en": "Treatment of suppressed urine and faeces overlaps: all aim at relieving apāna vāta. Verse 6 adds diet and ghee.",
+   "explanation_hi": "मूत्र और मल रोकने की चिकित्सा मिलती-जुलती है: सबका उद्देश्य अपान वायु को ठीक करना है। श्लोक 6 में आहार और घी जोड़े गए हैं।",
+   "modern_correlation": {
+    "en": "Warm sitz baths are used in modern practice to relieve perineal and urinary discomfort, which broadly parallels avagāha.",
+    "hi": "आधुनिक चिकित्सा में गुनगुने पानी का सिट्ज़ बाथ मूत्र और गुदा क्षेत्र की तकलीफ़ में दिया जाता है, जो अवगाह से मोटे तौर पर मिलता है।"
+   },
+   "key_terms": [
+    "mūtra vegadhāraṇa",
+    "avagāha",
+    "vasti"
+   ],
+   "tags": [
+    "vega",
+    "vegadharana-chikitsa"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.4.6",
+   "word_meanings": [
+    {
+     "sa": "अन्नपानम्",
+     "iast": "annapānam",
+     "en": "food and drink",
+     "hi": "अन्न-पान"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "विड्भेदि",
+     "iast": "viḍbhedi",
+     "en": "laxative",
+     "hi": "मल भेदक"
+    },
+    {
+     "sa": "विड्रोधोत्थेषु",
+     "iast": "viḍrodhottheṣu",
+     "en": "in those arising from suppressed faeces",
+     "hi": "मल रोकने से उत्पन्न"
+    },
+    {
+     "sa": "यक्ष्मसु",
+     "iast": "yakṣmasu",
+     "en": "in diseases",
+     "hi": "रोगों में"
+    },
+    {
+     "sa": "मूत्रजेषु",
+     "iast": "mūtrajeṣu",
+     "en": "in those arising from (suppressed) urine",
+     "hi": "मूत्र (रोकने) से उत्पन्न में"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "परन्तु"
+    },
+    {
+     "sa": "पाने",
+     "iast": "pāne",
+     "en": "for drinking",
+     "hi": "पीने में"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "प्राग्भक्तम्",
+     "iast": "prāgbhaktam",
+     "en": "before meals",
+     "hi": "भोजन से पहले"
+    },
+    {
+     "sa": "शस्यते",
+     "iast": "śasyate",
+     "en": "is praised",
+     "hi": "प्रशस्त है"
+    },
+    {
+     "sa": "घृतम्",
+     "iast": "ghṛtam",
+     "en": "ghee",
+     "hi": "घृत"
+    }
+   ],
+   "english": "In diseases arising from suppressed faeces, laxative food and drink [are given]. In those arising from suppressed urine, ghee is praised for drinking before meals...",
+   "hindi": "मल रोकने से उत्पन्न रोगों में मल को निकालने वाला (भेदक) अन्न-पान देना चाहिए। मूत्र रोकने से उत्पन्न रोगों में भोजन से पहले घी पीना प्रशस्त है...",
+   "explanation_en": "Here 'yakṣma' is used in its general sense of 'disease', not specifically tuberculosis. The use of ghee in suppressed urine continues in verse 7 (avapīḍaka).",
+   "explanation_hi": "यहाँ 'यक्ष्म' का प्रयोग सामान्य 'रोग' के अर्थ में है, केवल क्षय रोग के लिए नहीं। मूत्र रोकने में घी के प्रयोग की बात श्लोक 7 (अवपीडक) में आगे है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "viḍbhedi",
+    "prāgbhakta ghṛta"
+   ],
+   "tags": [
+    "vega",
+    "vegadharana-chikitsa"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.4.7",
+   "word_meanings": [
+    {
+     "sa": "जीर्णान्तिकम्",
+     "iast": "jīrṇāntikam",
+     "en": "after digestion (of the meal)",
+     "hi": "भोजन पचने के बाद"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "उत्तमया",
+     "iast": "uttamayā",
+     "en": "with the highest",
+     "hi": "उत्तम"
+    },
+    {
+     "sa": "मात्रया",
+     "iast": "mātrayā",
+     "en": "dose",
+     "hi": "मात्रा से"
+    },
+    {
+     "sa": "योजनाद्वयम्",
+     "iast": "yojanādvayam",
+     "en": "twofold administration",
+     "hi": "दो बार का प्रयोग"
+    },
+    {
+     "sa": "अवपीडकम्",
+     "iast": "avapīḍakam",
+     "en": "avapīḍaka",
+     "hi": "अवपीडक"
+    },
+    {
+     "sa": "एतत्",
+     "iast": "etat",
+     "en": "this",
+     "hi": "यह"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "संज्ञितम्",
+     "iast": "saṃjñitam",
+     "en": "is called",
+     "hi": "कहलाता है"
+    },
+    {
+     "sa": "धारणात्",
+     "iast": "dhāraṇāt",
+     "en": "from suppression",
+     "hi": "रोकने से"
+    },
+    {
+     "sa": "पुनः",
+     "iast": "punaḥ",
+     "en": "again",
+     "hi": "फिर"
+    }
+   ],
+   "english": "...and after the meal is digested, in the maximum dose. This twofold administration is called avapīḍaka (ghṛta). [The effects] from suppression of [eructation] again [are described next]...",
+   "hindi": "...और भोजन पचने के बाद, उत्तम (अधिकतम) मात्रा में। यह दो बार का प्रयोग अवपीडक (घृत) कहलाता है। आगे (डकार) रोकने के लक्षण...",
+   "explanation_en": "Avapīḍaka ghṛta (ghee given before food and after digestion in large dose) is a specific term often asked in exams. The corpus line begins with a stray word 'cāvapīḍakam', a variant reading, which is not translated separately. The word 'dhāraṇāt punaḥ' links to the next urge, udgāra (belching).",
+   "explanation_hi": "अवपीडक घृत (भोजन से पहले और पचने के बाद अधिक मात्रा में दिया गया घी) परीक्षा में पूछा जाने वाला विशेष शब्द है। कॉर्पस की पंक्ति एक अतिरिक्त शब्द 'चावपीडकम्' से शुरू होती है, जो पाठभेद है और जिसका अलग अनुवाद नहीं किया गया। 'धारणात् पुनः' अगले वेग, उद्गार (डकार), से जुड़ता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "avapīḍaka ghṛta",
+    "mūtra vegadhāraṇa"
+   ],
+   "tags": [
+    "vega",
+    "vegadharana-chikitsa"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.4.8",
+   "word_meanings": [
+    {
+     "sa": "उद्गारस्य",
+     "iast": "udgārasya",
+     "en": "of eructation",
+     "hi": "डकार के"
+    },
+    {
+     "sa": "अरुचिः",
+     "iast": "aruciḥ",
+     "en": "loss of taste",
+     "hi": "अरुचि"
+    },
+    {
+     "sa": "कम्पः",
+     "iast": "kampaḥ",
+     "en": "tremor",
+     "hi": "कम्प"
+    },
+    {
+     "sa": "विबन्धः",
+     "iast": "vibandhaḥ",
+     "en": "tightness",
+     "hi": "जकड़न"
+    },
+    {
+     "sa": "हृदय",
+     "iast": "hṛdaya",
+     "en": "heart",
+     "hi": "हृदय"
+    },
+    {
+     "sa": "उरसोः",
+     "iast": "urasoḥ",
+     "en": "of the chest",
+     "hi": "छाती का"
+    },
+    {
+     "sa": "आध्मान",
+     "iast": "ādhmāna",
+     "en": "bloating",
+     "hi": "आध्मान"
+    },
+    {
+     "sa": "कास",
+     "iast": "kāsa",
+     "en": "cough",
+     "hi": "कास"
+    },
+    {
+     "sa": "हिध्माः",
+     "iast": "hidhmāḥ",
+     "en": "hiccups",
+     "hi": "हिचकी"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "हिध्मावत्",
+     "iast": "hidhmāvat",
+     "en": "as for hiccup",
+     "hi": "हिचकी के समान"
+    },
+    {
+     "sa": "तत्र",
+     "iast": "tatra",
+     "en": "there",
+     "hi": "उसमें"
+    },
+    {
+     "sa": "भेषजम्",
+     "iast": "bheṣajam",
+     "en": "treatment",
+     "hi": "चिकित्सा"
+    }
+   ],
+   "english": "From suppression of eructation (belching) arise loss of taste, tremor, tightness in the heart region and chest, bloating, cough and hiccups. Its treatment is the same as for hiccup.",
+   "hindi": "डकार रोकने से अरुचि, कम्प, हृदय और छाती में जकड़न, पेट फूलना, खाँसी और हिचकी होती है। इसकी चिकित्सा हिचकी के समान है।",
+   "explanation_en": "Udgāra is not named separately in the list of verse 1; commentators explain that the word 'vāta' there covers both downward wind (adhovāta) and upward wind (udgāra). Note that the treatment is referred to hidhmā-cikitsā (described in Cikitsāsthāna). A short-answer question may ask 'treatment of suppressed belching'.",
+   "explanation_hi": "श्लोक 1 की सूची में उद्गार का अलग नाम नहीं है; टीकाकार बताते हैं कि वहाँ 'वात' शब्द में नीचे की वायु (अधोवायु) और ऊपर की वायु (उद्गार) दोनों आते हैं। ध्यान दें कि इसकी चिकित्सा हिक्का-चिकित्सा (चिकित्सास्थान में) के समान बताई गई है। छोटे प्रश्न में 'डकार रोकने की चिकित्सा' पूछी जा सकती है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "udgāra vegadhāraṇa",
+    "hidhmā"
+   ],
+   "tags": [
+    "vega",
+    "vegadharana-lakshana"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.4.9",
+   "word_meanings": [
+    {
+     "sa": "शिरोऽर्ति",
+     "iast": "śiro'rti",
+     "en": "headache",
+     "hi": "सिरदर्द"
+    },
+    {
+     "sa": "इन्द्रियदौर्बल्य",
+     "iast": "indriyadaurbalya",
+     "en": "weakness of the senses",
+     "hi": "इन्द्रियों की दुर्बलता"
+    },
+    {
+     "sa": "मन्यास्तम्भ",
+     "iast": "manyāstambha",
+     "en": "neck stiffness",
+     "hi": "मन्यास्तम्भ (गर्दन जकड़ना)"
+    },
+    {
+     "sa": "अर्दितम्",
+     "iast": "arditam",
+     "en": "facial palsy",
+     "hi": "अर्दित"
+    },
+    {
+     "sa": "क्षुतेः",
+     "iast": "kṣuteḥ",
+     "en": "from (suppressed) sneezing",
+     "hi": "छींक रोकने से"
+    },
+    {
+     "sa": "तीक्ष्ण",
+     "iast": "tīkṣṇa",
+     "en": "strong",
+     "hi": "तीक्ष्ण"
+    },
+    {
+     "sa": "धूम",
+     "iast": "dhūma",
+     "en": "medicated smoke",
+     "hi": "धूम"
+    },
+    {
+     "sa": "अञ्जन",
+     "iast": "añjana",
+     "en": "collyrium",
+     "hi": "अञ्जन"
+    },
+    {
+     "sa": "आघ्राण",
+     "iast": "āghrāṇa",
+     "en": "inhalation (sniffing)",
+     "hi": "सूँघना"
+    },
+    {
+     "sa": "नावन",
+     "iast": "nāvana",
+     "en": "nasal drops",
+     "hi": "नस्य"
+    },
+    {
+     "sa": "अर्कविलोकनैः",
+     "iast": "arkavilokanaiḥ",
+     "en": "by looking at the sun",
+     "hi": "सूर्य की ओर देखने से"
+    }
+   ],
+   "english": "From suppression of sneezing arise headache, weakness of the senses, neck stiffness and facial palsy. By strong medicated smoke, collyrium, sniffing (pungent substances), nasal drops and looking towards the sun...",
+   "hindi": "छींक रोकने से सिरदर्द, इन्द्रियों की दुर्बलता, गर्दन में जकड़न और अर्दित (चेहरे का लकवा) होते हैं। तीक्ष्ण धूम, अञ्जन, तीखी चीज़ें सूँघना, नस्य और सूर्य की ओर देखने से...",
+   "explanation_en": "Suppressed kṣavathu affects the head because the urge arises there. The treatment aims to provoke the blocked sneeze (verse 10). 'Arka-vilokana' means glancing toward bright light, which can trigger the photic sneeze reflex; it does not mean staring at the sun (forbidden in ch. 2.39).",
+   "explanation_hi": "छींक रोकने से सिर प्रभावित होता है क्योंकि वेग वहीं उठता है। चिकित्सा का उद्देश्य रुकी हुई छींक को लाना है (श्लोक 10)। 'अर्कविलोकन' का अर्थ है तेज़ रोशनी की ओर हल्की नज़र डालना, जिससे छींक आती है; सूर्य को घूरना नहीं (जो अध्याय 2.39 में वर्जित है)।",
+   "modern_correlation": {
+    "en": "Briefly looking toward bright light triggers sneezing in a portion of people, known as the photic sneeze reflex.",
+    "hi": "कुछ लोगों में तेज़ रोशनी की ओर देखने से छींक आ जाती है, इसे फ़ोटिक स्नीज़ रिफ़्लेक्स कहते हैं।"
+   },
+   "key_terms": [
+    "kṣavathu vegadhāraṇa",
+    "manyāstambha",
+    "ardita",
+    "nasya",
+    "dhūmapāna"
+   ],
+   "tags": [
+    "vega",
+    "vegadharana-lakshana",
+    "vegadharana-chikitsa"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.4.10",
+   "word_meanings": [
+    {
+     "sa": "प्रवर्तयेत्",
+     "iast": "pravartayet",
+     "en": "should induce",
+     "hi": "प्रवृत्त करे"
+    },
+    {
+     "sa": "क्षुतिम्",
+     "iast": "kṣutim",
+     "en": "sneeze",
+     "hi": "छींक को"
+    },
+    {
+     "sa": "सक्ताम्",
+     "iast": "saktām",
+     "en": "obstructed",
+     "hi": "रुकी हुई"
+    },
+    {
+     "sa": "स्नेहस्वेदौ",
+     "iast": "snehasvedau",
+     "en": "oleation and sudation",
+     "hi": "स्नेहन और स्वेदन"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "शीलयेत्",
+     "iast": "śīlayet",
+     "en": "should practise",
+     "hi": "करे"
+    },
+    {
+     "sa": "शोष",
+     "iast": "śoṣa",
+     "en": "dryness, emaciation",
+     "hi": "शोष"
+    },
+    {
+     "sa": "अङ्गसाद",
+     "iast": "aṅgasāda",
+     "en": "body weakness",
+     "hi": "अंगों की शिथिलता"
+    },
+    {
+     "sa": "बाधिर्य",
+     "iast": "bādhirya",
+     "en": "deafness",
+     "hi": "बहरापन"
+    },
+    {
+     "sa": "संमोह",
+     "iast": "saṃmoha",
+     "en": "confusion",
+     "hi": "सम्मोह"
+    },
+    {
+     "sa": "भ्रम",
+     "iast": "bhrama",
+     "en": "giddiness",
+     "hi": "भ्रम (चक्कर)"
+    },
+    {
+     "sa": "हृद्गदाः",
+     "iast": "hṛdgadāḥ",
+     "en": "heart disease",
+     "hi": "हृदय रोग"
+    }
+   ],
+   "english": "...one should induce the obstructed sneeze, and also use oleation and sudation. Dryness (emaciation), weakness of the body, deafness, confusion, giddiness and heart disease...",
+   "hindi": "...रुकी हुई छींक को लाना चाहिए, और स्नेहन व स्वेदन भी करना चाहिए। शरीर का सूखना, अंगों की शिथिलता, बहरापन, सम्मोह, चक्कर और हृदय रोग...",
+   "explanation_en": "Treatment of suppressed sneezing closes; the second line lists effects of suppressed thirst, completed in verse 11.",
+   "explanation_hi": "छींक रोकने की चिकित्सा पूरी होती है; दूसरी पंक्ति में प्यास रोकने के प्रभाव हैं, जो श्लोक 11 में पूरे होते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "kṣavathu vegadhāraṇa",
+    "tṛṣṇā vegadhāraṇa"
+   ],
+   "tags": [
+    "vega",
+    "vegadharana-chikitsa"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.4.11",
+   "word_meanings": [
+    {
+     "sa": "तृष्णायाः",
+     "iast": "tṛṣṇāyāḥ",
+     "en": "of thirst",
+     "hi": "प्यास के"
+    },
+    {
+     "sa": "निग्रहात्",
+     "iast": "nigrahāt",
+     "en": "from suppression",
+     "hi": "रोकने से"
+    },
+    {
+     "sa": "तत्र",
+     "iast": "tatra",
+     "en": "there",
+     "hi": "उसमें"
+    },
+    {
+     "sa": "शीतः",
+     "iast": "śītaḥ",
+     "en": "cooling",
+     "hi": "शीतल"
+    },
+    {
+     "sa": "सर्वः",
+     "iast": "sarvaḥ",
+     "en": "all",
+     "hi": "सब"
+    },
+    {
+     "sa": "विधिः",
+     "iast": "vidhiḥ",
+     "en": "measures",
+     "hi": "उपाय"
+    },
+    {
+     "sa": "हितः",
+     "iast": "hitaḥ",
+     "en": "beneficial",
+     "hi": "हितकर"
+    },
+    {
+     "sa": "अङ्गभङ्ग",
+     "iast": "aṅgabhaṅga",
+     "en": "body ache",
+     "hi": "अंगों में टूटन"
+    },
+    {
+     "sa": "अरुचि",
+     "iast": "aruci",
+     "en": "loss of taste",
+     "hi": "अरुचि"
+    },
+    {
+     "sa": "ग्लानि",
+     "iast": "glāni",
+     "en": "fatigue",
+     "hi": "ग्लानि"
+    },
+    {
+     "sa": "कार्श्य",
+     "iast": "kārśya",
+     "en": "emaciation",
+     "hi": "कृशता"
+    },
+    {
+     "sa": "शूल",
+     "iast": "śūla",
+     "en": "colic",
+     "hi": "शूल"
+    },
+    {
+     "sa": "भ्रमाः",
+     "iast": "bhramāḥ",
+     "en": "giddiness",
+     "hi": "चक्कर"
+    },
+    {
+     "sa": "क्षुधः",
+     "iast": "kṣudhaḥ",
+     "en": "from (suppressed) hunger",
+     "hi": "भूख रोकने से"
+    }
+   ],
+   "english": "...arise from suppression of thirst; for it, all cooling measures are beneficial. From suppression of hunger arise body ache, loss of taste, fatigue, emaciation, colic and giddiness.",
+   "hindi": "...प्यास रोकने से होते हैं; इसमें सभी शीतल उपाय हितकर हैं। भूख रोकने से अंगों में टूटन, अरुचि, ग्लानि (थकान), कृशता, पेट दर्द और चक्कर होते हैं।",
+   "explanation_en": "Thirst suppression dries and weakens the body, so cooling measures (cold drinks, cool environment) help. Hunger suppression leads to depletion and vāta increase; its treatment follows in verse 12.",
+   "explanation_hi": "प्यास रोकने से शरीर सूखता और कमज़ोर होता है, इसलिए शीतल उपाय (ठंडे पेय, ठंडा वातावरण) लाभ देते हैं। भूख रोकने से कमज़ोरी और वात वृद्धि होती है; इसकी चिकित्सा श्लोक 12 में है।",
+   "modern_correlation": {
+    "en": "Ignoring thirst can lead to dehydration with dizziness, fatigue and confusion; prolonged fasting can cause weakness, dizziness and weight loss, broadly paralleling these lists.",
+    "hi": "प्यास की अनदेखी से निर्जलीकरण होता है जिसमें चक्कर, थकान और भ्रम हो सकते हैं; लंबे समय भूखे रहने से कमज़ोरी, चक्कर और वज़न घटना होता है, जो इन सूचियों से मोटे तौर पर मिलता है।"
+   },
+   "key_terms": [
+    "tṛṣṇā vegadhāraṇa",
+    "kṣudhā vegadhāraṇa"
+   ],
+   "tags": [
+    "vega",
+    "vegadharana-lakshana"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.4.12",
+   "word_meanings": [
+    {
+     "sa": "तत्र",
+     "iast": "tatra",
+     "en": "there",
+     "hi": "उसमें"
+    },
+    {
+     "sa": "योज्यम्",
+     "iast": "yojyam",
+     "en": "should be given",
+     "hi": "देना चाहिए"
+    },
+    {
+     "sa": "लघु",
+     "iast": "laghu",
+     "en": "light",
+     "hi": "हल्का"
+    },
+    {
+     "sa": "स्निग्धम्",
+     "iast": "snigdham",
+     "en": "unctuous",
+     "hi": "स्निग्ध"
+    },
+    {
+     "sa": "उष्णम्",
+     "iast": "uṣṇam",
+     "en": "warm",
+     "hi": "गरम"
+    },
+    {
+     "sa": "अल्पम्",
+     "iast": "alpam",
+     "en": "small in quantity",
+     "hi": "थोड़ा"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "भोजनम्",
+     "iast": "bhojanam",
+     "en": "food",
+     "hi": "भोजन"
+    },
+    {
+     "sa": "निद्रायाः",
+     "iast": "nidrāyāḥ",
+     "en": "of sleep",
+     "hi": "नींद के (रोकने से)"
+    },
+    {
+     "sa": "मोह",
+     "iast": "moha",
+     "en": "confusion",
+     "hi": "मोह"
+    },
+    {
+     "sa": "मूर्ध",
+     "iast": "mūrdha",
+     "en": "head",
+     "hi": "सिर"
+    },
+    {
+     "sa": "अक्षि",
+     "iast": "akṣi",
+     "en": "eyes",
+     "hi": "आँखें"
+    },
+    {
+     "sa": "गौरव",
+     "iast": "gaurava",
+     "en": "heaviness",
+     "hi": "भारीपन"
+    },
+    {
+     "sa": "आलस्य",
+     "iast": "ālasya",
+     "en": "lethargy",
+     "hi": "आलस्य"
+    },
+    {
+     "sa": "जृम्भिकाः",
+     "iast": "jṛmbhikāḥ",
+     "en": "yawning",
+     "hi": "जम्हाई"
+    }
+   ],
+   "english": "For that (suppressed hunger), light, unctuous, warm food in small quantity should be given. From suppression of sleep arise confusion, heaviness of the head and eyes, lethargy, yawning...",
+   "hindi": "उसमें (भूख रोकने पर) हल्का, स्निग्ध, गरम और थोड़ी मात्रा में भोजन देना चाहिए। नींद रोकने से मोह, सिर और आँखों में भारीपन, आलस्य, जम्हाई...",
+   "explanation_en": "After prolonged hunger, agni is weak, so food must be light and small at first. Sleep suppression symptoms continue in verse 13.",
+   "explanation_hi": "लंबी भूख के बाद अग्नि मन्द होती है, इसलिए शुरू में भोजन हल्का और थोड़ा होना चाहिए। नींद रोकने के लक्षण श्लोक 13 में आगे हैं।",
+   "modern_correlation": {
+    "en": "Starting with small, easily digested meals after prolonged fasting broadly parallels the cautious approach used in clinical refeeding.",
+    "hi": "लंबे उपवास के बाद थोड़े और आसानी से पचने वाले भोजन से शुरुआत करना क्लिनिकल 'refeeding' की सावधान पद्धति से मोटे तौर पर मिलता है।"
+   },
+   "key_terms": [
+    "kṣudhā vegadhāraṇa",
+    "nidrā vegadhāraṇa"
+   ],
+   "tags": [
+    "vega",
+    "vegadharana-chikitsa"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.4.13",
+   "word_meanings": [
+    {
+     "sa": "अङ्गमर्दः",
+     "iast": "aṅgamardaḥ",
+     "en": "body ache",
+     "hi": "अंगों में दर्द"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "तत्र",
+     "iast": "tatra",
+     "en": "there",
+     "hi": "उसमें"
+    },
+    {
+     "sa": "इष्टः",
+     "iast": "iṣṭaḥ",
+     "en": "desirable",
+     "hi": "उचित"
+    },
+    {
+     "sa": "स्वप्नः",
+     "iast": "svapnaḥ",
+     "en": "sleep",
+     "hi": "नींद"
+    },
+    {
+     "sa": "संवाहनानि",
+     "iast": "saṃvāhanāni",
+     "en": "gentle massage",
+     "hi": "संवाहन (हल्की मालिश)"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "कासस्य",
+     "iast": "kāsasya",
+     "en": "of cough",
+     "hi": "खाँसी के"
+    },
+    {
+     "sa": "रोधात्",
+     "iast": "rodhāt",
+     "en": "from suppression",
+     "hi": "रोकने से"
+    },
+    {
+     "sa": "तद्वृद्धिः",
+     "iast": "tadvṛddhiḥ",
+     "en": "its increase",
+     "hi": "उसकी वृद्धि"
+    },
+    {
+     "sa": "श्वास",
+     "iast": "śvāsa",
+     "en": "dyspnoea",
+     "hi": "श्वास"
+    },
+    {
+     "sa": "अरुचि",
+     "iast": "aruci",
+     "en": "loss of taste",
+     "hi": "अरुचि"
+    },
+    {
+     "sa": "हृदामयाः",
+     "iast": "hṛdāmayāḥ",
+     "en": "heart diseases",
+     "hi": "हृदय रोग"
+    }
+   ],
+   "english": "...and body ache. For that, sleep and gentle massage are desirable. From suppression of cough arise its aggravation, dyspnoea, loss of taste and heart disease...",
+   "hindi": "...और अंगों में दर्द होता है। इसमें नींद और हल्की मालिश (संवाहन) उचित है। खाँसी रोकने से खाँसी का बढ़ना, साँस फूलना, अरुचि और हृदय रोग...",
+   "explanation_en": "The treatment of suppressed sleep is simply to sleep, plus gentle body massage. Cough suppression worsens the cough itself; list continues in verse 14.",
+   "explanation_hi": "नींद रोकने की चिकित्सा है सोना और हल्की मालिश। खाँसी रोकने से खाँसी और बढ़ती है; सूची श्लोक 14 में आगे है।",
+   "modern_correlation": {
+    "en": "Sleep deprivation is well known to cause daytime sleepiness, impaired attention and body aches; recovery sleep is the primary remedy.",
+    "hi": "नींद की कमी से दिन में नींद, ध्यान में कमी और शरीर दर्द होना सर्वविदित है; पूरी नींद ही इसका मुख्य उपाय है।"
+   },
+   "key_terms": [
+    "nidrā vegadhāraṇa",
+    "saṃvāhana",
+    "kāsa vegadhāraṇa"
+   ],
+   "tags": [
+    "vega",
+    "vegadharana-chikitsa"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.4.14",
+   "word_meanings": [
+    {
+     "sa": "शोषः",
+     "iast": "śoṣaḥ",
+     "en": "wasting",
+     "hi": "शोष"
+    },
+    {
+     "sa": "हिध्मा",
+     "iast": "hidhmā",
+     "en": "hiccup",
+     "hi": "हिचकी"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "कार्यः",
+     "iast": "kāryaḥ",
+     "en": "should be done",
+     "hi": "करना चाहिए"
+    },
+    {
+     "sa": "अत्र",
+     "iast": "atra",
+     "en": "here",
+     "hi": "यहाँ"
+    },
+    {
+     "sa": "कासहा",
+     "iast": "kāsahā",
+     "en": "cough-relieving",
+     "hi": "कास-नाशक"
+    },
+    {
+     "sa": "सुतराम्",
+     "iast": "sutarām",
+     "en": "especially",
+     "hi": "विशेष रूप से"
+    },
+    {
+     "sa": "विधिः",
+     "iast": "vidhiḥ",
+     "en": "treatment",
+     "hi": "विधि"
+    },
+    {
+     "sa": "गुल्म",
+     "iast": "gulma",
+     "en": "abdominal lump",
+     "hi": "गुल्म"
+    },
+    {
+     "sa": "हृद्रोग",
+     "iast": "hṛdroga",
+     "en": "heart disease",
+     "hi": "हृदय रोग"
+    },
+    {
+     "sa": "संमोहाः",
+     "iast": "saṃmohāḥ",
+     "en": "confusion",
+     "hi": "सम्मोह"
+    },
+    {
+     "sa": "श्रमश्वासात्",
+     "iast": "śramaśvāsāt",
+     "en": "from breathing after exertion",
+     "hi": "परिश्रम-जन्य श्वास से"
+    },
+    {
+     "sa": "विधारितात्",
+     "iast": "vidhāritāt",
+     "en": "when suppressed",
+     "hi": "रोकने पर"
+    }
+   ],
+   "english": "...wasting and hiccup. Here the cough-relieving treatment should especially be used. From suppression of the (rapid) breathing after exertion arise gulma, heart disease and confusion.",
+   "hindi": "...शोष और हिचकी होते हैं। इसमें विशेष रूप से कास-नाशक चिकित्सा करनी चाहिए। परिश्रम के बाद की तेज़ साँस को रोकने से गुल्म, हृदय रोग और सम्मोह होते हैं।",
+   "explanation_en": "Śrama-śvāsa (breathlessness after exertion) is a natural urge; holding the breath or suppressing it is harmful. The treatment is rest (verse 15).",
+   "explanation_hi": "श्रम-श्वास (परिश्रम के बाद साँस फूलना) एक प्राकृतिक वेग है; इसे रोकना हानिकारक है। चिकित्सा विश्राम है (श्लोक 15)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "kāsa vegadhāraṇa",
+    "śramaśvāsa vegadhāraṇa"
+   ],
+   "tags": [
+    "vega",
+    "vegadharana-lakshana"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.4.15",
+   "word_meanings": [
+    {
+     "sa": "हितम्",
+     "iast": "hitam",
+     "en": "beneficial",
+     "hi": "हितकर"
+    },
+    {
+     "sa": "विश्रमणम्",
+     "iast": "viśramaṇam",
+     "en": "rest",
+     "hi": "विश्राम"
+    },
+    {
+     "sa": "तत्र",
+     "iast": "tatra",
+     "en": "there",
+     "hi": "उसमें"
+    },
+    {
+     "sa": "वातघ्नः",
+     "iast": "vātaghnaḥ",
+     "en": "vāta-pacifying",
+     "hi": "वात-नाशक"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "क्रियाक्रमः",
+     "iast": "kriyākramaḥ",
+     "en": "line of treatment",
+     "hi": "चिकित्सा क्रम"
+    },
+    {
+     "sa": "जृम्भायाः",
+     "iast": "jṛmbhāyāḥ",
+     "en": "of yawning",
+     "hi": "जम्हाई के (रोकने से)"
+    },
+    {
+     "sa": "क्षववत्",
+     "iast": "kṣavavat",
+     "en": "as in sneezing",
+     "hi": "छींक के समान"
+    },
+    {
+     "sa": "रोगाः",
+     "iast": "rogāḥ",
+     "en": "diseases",
+     "hi": "रोग"
+    },
+    {
+     "sa": "सर्वः",
+     "iast": "sarvaḥ",
+     "en": "all",
+     "hi": "सब"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "अनिलजित्",
+     "iast": "anilajit",
+     "en": "vāta-conquering",
+     "hi": "वात को जीतने वाली"
+    },
+    {
+     "sa": "विधिः",
+     "iast": "vidhiḥ",
+     "en": "treatment",
+     "hi": "चिकित्सा"
+    }
+   ],
+   "english": "For that, rest and a vāta-pacifying line of treatment are beneficial. From suppression of yawning arise diseases similar to those of suppressed sneezing; all vāta-conquering measures are the treatment.",
+   "hindi": "उसमें विश्राम और वात-नाशक चिकित्सा हितकर है। जम्हाई रोकने से छींक रोकने जैसे रोग होते हैं; इसकी चिकित्सा सभी वात-नाशक उपाय हैं।",
+   "explanation_en": "Jṛmbhā-dhāraṇa produces head and neck symptoms like kṣavathu-dhāraṇa (headache, sensory weakness, neck stiffness, facial palsy). Treatment: general vātaghna measures.",
+   "explanation_hi": "जम्हाई रोकने से छींक रोकने जैसे सिर और गर्दन के लक्षण होते हैं (सिरदर्द, इन्द्रियों की कमज़ोरी, गर्दन जकड़ना, अर्दित)। चिकित्सा: सामान्य वातघ्न उपाय।",
+   "modern_correlation": null,
+   "key_terms": [
+    "śramaśvāsa vegadhāraṇa",
+    "jṛmbhā vegadhāraṇa",
+    "vātaghna"
+   ],
+   "tags": [
+    "vega",
+    "vegadharana-chikitsa"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.4.16",
+   "word_meanings": [
+    {
+     "sa": "पीनस",
+     "iast": "pīnasa",
+     "en": "chronic rhinitis",
+     "hi": "पीनस"
+    },
+    {
+     "sa": "अक्षि",
+     "iast": "akṣi",
+     "en": "eyes",
+     "hi": "आँखें"
+    },
+    {
+     "sa": "शिरः",
+     "iast": "śiraḥ",
+     "en": "head",
+     "hi": "सिर"
+    },
+    {
+     "sa": "हृत्",
+     "iast": "hṛt",
+     "en": "heart",
+     "hi": "हृदय"
+    },
+    {
+     "sa": "रुक्",
+     "iast": "ruk",
+     "en": "pain",
+     "hi": "पीड़ा"
+    },
+    {
+     "sa": "मन्यास्तम्भ",
+     "iast": "manyāstambha",
+     "en": "neck stiffness",
+     "hi": "मन्यास्तम्भ"
+    },
+    {
+     "sa": "अरुचि",
+     "iast": "aruci",
+     "en": "loss of taste",
+     "hi": "अरुचि"
+    },
+    {
+     "sa": "भ्रमाः",
+     "iast": "bhramāḥ",
+     "en": "giddiness",
+     "hi": "चक्कर"
+    },
+    {
+     "sa": "सगुल्माः",
+     "iast": "sagulmāḥ",
+     "en": "with gulma",
+     "hi": "गुल्म सहित"
+    },
+    {
+     "sa": "बाष्पतः",
+     "iast": "bāṣpataḥ",
+     "en": "from (suppressed) tears",
+     "hi": "आँसू रोकने से"
+    },
+    {
+     "sa": "तत्र",
+     "iast": "tatra",
+     "en": "there",
+     "hi": "उसमें"
+    },
+    {
+     "sa": "स्वप्नः",
+     "iast": "svapnaḥ",
+     "en": "sleep",
+     "hi": "नींद"
+    },
+    {
+     "sa": "मद्यम्",
+     "iast": "madyam",
+     "en": "wine",
+     "hi": "मद्य"
+    },
+    {
+     "sa": "प्रियाः",
+     "iast": "priyāḥ",
+     "en": "pleasant",
+     "hi": "प्रिय"
+    },
+    {
+     "sa": "कथाः",
+     "iast": "kathāḥ",
+     "en": "conversations",
+     "hi": "बातें"
+    }
+   ],
+   "english": "From suppression of tears arise chronic rhinitis, pain in the eyes, head and heart, neck stiffness, loss of taste, giddiness and gulma. For that, sleep, wine and pleasant conversation [are the remedy].",
+   "hindi": "आँसू रोकने से पीनस, आँख, सिर और हृदय में दर्द, गर्दन में जकड़न, अरुचि, चक्कर और गुल्म होते हैं। इसमें नींद, मद्य और प्रिय बातें (उपचार) हैं।",
+   "explanation_en": "Suppressing tears (emotional suppression) affects the head and heart. The treatment is psychological: rest, comfort and pleasant conversation. This is an early recognition of the link between emotional expression and health.",
+   "explanation_hi": "आँसू रोकना (भावनाओं को दबाना) सिर और हृदय को प्रभावित करता है। चिकित्सा मनोवैज्ञानिक है: विश्राम, सांत्वना और प्रिय बातें। यह भावनाओं की अभिव्यक्ति और स्वास्थ्य के सम्बन्ध की प्राचीन समझ है।",
+   "modern_correlation": {
+    "en": "Chronic emotional suppression has been associated in psychological research with higher stress and poorer wellbeing; social support is a recognised buffer.",
+    "hi": "मनोवैज्ञानिक शोध में भावनाओं को लंबे समय तक दबाना अधिक तनाव और खराब मानसिक स्थिति से जुड़ा पाया गया है; सामाजिक सहारा इससे बचाव का मान्य उपाय है।"
+   },
+   "key_terms": [
+    "bāṣpa vegadhāraṇa",
+    "pīnasa"
+   ],
+   "tags": [
+    "vega",
+    "vegadharana-lakshana",
+    "mental-health"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.4.17",
+   "word_meanings": [
+    {
+     "sa": "विसर्प",
+     "iast": "visarpa",
+     "en": "erysipelas",
+     "hi": "विसर्प"
+    },
+    {
+     "sa": "कोठ",
+     "iast": "koṭha",
+     "en": "urticarial rash",
+     "hi": "कोठ (पित्ती)"
+    },
+    {
+     "sa": "कुष्ठ",
+     "iast": "kuṣṭha",
+     "en": "skin disease",
+     "hi": "कुष्ठ"
+    },
+    {
+     "sa": "अक्षिकण्डू",
+     "iast": "akṣikaṇḍū",
+     "en": "itching of eyes",
+     "hi": "आँखों में खुजली"
+    },
+    {
+     "sa": "पाण्ड्वामय",
+     "iast": "pāṇḍvāmaya",
+     "en": "anaemia",
+     "hi": "पाण्डु रोग"
+    },
+    {
+     "sa": "ज्वराः",
+     "iast": "jvarāḥ",
+     "en": "fevers",
+     "hi": "ज्वर"
+    },
+    {
+     "sa": "सकास",
+     "iast": "sakāsa",
+     "en": "with cough",
+     "hi": "खाँसी सहित"
+    },
+    {
+     "sa": "श्वास",
+     "iast": "śvāsa",
+     "en": "dyspnoea",
+     "hi": "श्वास"
+    },
+    {
+     "sa": "हृल्लास",
+     "iast": "hṛllāsa",
+     "en": "nausea",
+     "hi": "हृल्लास (जी मिचलाना)"
+    },
+    {
+     "sa": "व्यङ्ग",
+     "iast": "vyaṅga",
+     "en": "facial pigmentation",
+     "hi": "व्यङ्ग (झाइयाँ)"
+    },
+    {
+     "sa": "श्वयथवः",
+     "iast": "śvayathavaḥ",
+     "en": "swellings",
+     "hi": "शोथ"
+    },
+    {
+     "sa": "वमेः",
+     "iast": "vameḥ",
+     "en": "from (suppressed) vomiting",
+     "hi": "उल्टी रोकने से"
+    }
+   ],
+   "english": "From suppression of vomiting arise erysipelas (visarpa), urticarial rashes (koṭha), skin diseases, itching of the eyes, anaemia, fever, cough, dyspnoea, nausea, facial pigmentation (vyaṅga) and swelling.",
+   "hindi": "उल्टी रोकने से विसर्प, कोठ (पित्ती), कुष्ठ (त्वचा रोग), आँखों में खुजली, पाण्डु, ज्वर, खाँसी, साँस फूलना, जी मिचलाना, व्यङ्ग (चेहरे पर झाइयाँ) और सूजन होते हैं।",
+   "explanation_en": "Suppressed vomiting retains vitiated pitta and kapha, which spread to the skin and blood, causing skin disorders. Treatment is in verse 18.",
+   "explanation_hi": "उल्टी रोकने से बिगड़ा हुआ पित्त और कफ शरीर में रह जाता है और त्वचा व रक्त में फैलकर त्वचा रोग पैदा करता है। चिकित्सा श्लोक 18 में है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "chardi vegadhāraṇa",
+    "visarpa",
+    "koṭha",
+    "vyaṅga"
+   ],
+   "tags": [
+    "vega",
+    "vegadharana-lakshana"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.4.18",
+   "word_meanings": [
+    {
+     "sa": "गण्डूष",
+     "iast": "gaṇḍūṣa",
+     "en": "gargling",
+     "hi": "गण्डूष"
+    },
+    {
+     "sa": "धूम",
+     "iast": "dhūma",
+     "en": "medicated smoke",
+     "hi": "धूम"
+    },
+    {
+     "sa": "अनाहाराः",
+     "iast": "anāhārāḥ",
+     "en": "fasting",
+     "hi": "अनाहार (उपवास)"
+    },
+    {
+     "sa": "रूक्षम्",
+     "iast": "rūkṣam",
+     "en": "dry (food)",
+     "hi": "रूक्ष (भोजन)"
+    },
+    {
+     "sa": "भुक्त्वा",
+     "iast": "bhuktvā",
+     "en": "having eaten",
+     "hi": "खाकर"
+    },
+    {
+     "sa": "तदुद्वमः",
+     "iast": "tadudvamaḥ",
+     "en": "vomiting it out",
+     "hi": "उसे वमन करना"
+    },
+    {
+     "sa": "व्यायामः",
+     "iast": "vyāyāmaḥ",
+     "en": "exercise",
+     "hi": "व्यायाम"
+    },
+    {
+     "sa": "स्रुतिः",
+     "iast": "srutiḥ",
+     "en": "letting out",
+     "hi": "निकालना"
+    },
+    {
+     "sa": "अस्रस्य",
+     "iast": "asrasya",
+     "en": "of blood",
+     "hi": "रक्त का"
+    },
+    {
+     "sa": "शस्तम्",
+     "iast": "śastam",
+     "en": "recommended",
+     "hi": "प्रशस्त"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "अत्र",
+     "iast": "atra",
+     "en": "here",
+     "hi": "यहाँ"
+    },
+    {
+     "sa": "विरेचनम्",
+     "iast": "virecanam",
+     "en": "purgation",
+     "hi": "विरेचन"
+    }
+   ],
+   "english": "Here gargling, medicated smoke, fasting, vomiting after eating dry food, exercise, bloodletting and purgation are recommended.",
+   "hindi": "इसमें गण्डूष, धूमपान, उपवास, रूखा भोजन खाकर उसे वमन करना, व्यायाम, रक्तमोक्षण और विरेचन प्रशस्त हैं।",
+   "explanation_en": "Treatment of suppressed vomiting: remove the retained doṣas by inducing vomiting, purging and bloodletting. The corpus reading 'rūkṣaṃ bhuktvā tad-udvamaḥ' means 'eating dry food and then vomiting it out'.",
+   "explanation_hi": "उल्टी रोकने की चिकित्सा: रुके हुए दोषों को वमन, विरेचन और रक्तमोक्षण से निकालना। कॉर्पस का पाठ 'रूक्षं भुक्त्वा तदुद्वमः' का अर्थ है 'रूखा भोजन खाकर उसे उल्टी कर देना'।",
+   "modern_correlation": null,
+   "key_terms": [
+    "chardi vegadhāraṇa",
+    "gaṇḍūṣa",
+    "raktamokṣaṇa",
+    "virecana"
+   ],
+   "tags": [
+    "vega",
+    "vegadharana-chikitsa"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.4.19",
+   "word_meanings": [
+    {
+     "sa": "सक्षारलवणम्",
+     "iast": "sakṣāralavaṇam",
+     "en": "with alkali and salt",
+     "hi": "क्षार और लवण सहित"
+    },
+    {
+     "sa": "तैलम्",
+     "iast": "tailam",
+     "en": "oil",
+     "hi": "तेल"
+    },
+    {
+     "sa": "अभ्यङ्गार्थम्",
+     "iast": "abhyaṅgārtham",
+     "en": "for massage",
+     "hi": "अभ्यङ्ग के लिए"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "शस्यते",
+     "iast": "śasyate",
+     "en": "is recommended",
+     "hi": "प्रशस्त है"
+    },
+    {
+     "sa": "शुक्रात्",
+     "iast": "śukrāt",
+     "en": "from (suppressed) semen",
+     "hi": "शुक्र रोकने से"
+    },
+    {
+     "sa": "तत्स्रवणम्",
+     "iast": "tatsravaṇam",
+     "en": "its dribbling",
+     "hi": "उसका स्राव"
+    },
+    {
+     "sa": "गुह्यवेदना",
+     "iast": "guhyavedanā",
+     "en": "pain in the genitals",
+     "hi": "गुप्तांग में दर्द"
+    },
+    {
+     "sa": "श्वयथु",
+     "iast": "śvayathu",
+     "en": "swelling",
+     "hi": "सूजन"
+    },
+    {
+     "sa": "ज्वराः",
+     "iast": "jvarāḥ",
+     "en": "fever",
+     "hi": "ज्वर"
+    }
+   ],
+   "english": "Oil mixed with alkali and salt is also recommended for massage. From suppression of semen arise dribbling of semen, pain and swelling in the genitals, fever...",
+   "hindi": "क्षार और लवण मिला तेल अभ्यङ्ग के लिए भी प्रशस्त है। शुक्र (वीर्य) का वेग रोकने से वीर्य का टपकना, गुप्तांग में दर्द और सूजन, ज्वर...",
+   "explanation_en": "The corpus line begins with the repeated fragment 'rūkṣaṃ bhuktvā tad udvamet' (a variant of verse 18), not translated separately. The first line ends the treatment of suppressed vomiting; the second begins the effects of suppressed semen, continued in verse 20.",
+   "explanation_hi": "कॉर्पस की पंक्ति 'रूक्षं भुक्त्वा तदुद्वमेत्' (श्लोक 18 का पाठभेद) के दोहराव से शुरू होती है, जिसका अलग अनुवाद नहीं किया गया। पहली पंक्ति उल्टी रोकने की चिकित्सा पूरी करती है; दूसरी पंक्ति शुक्र रोकने के प्रभाव शुरू करती है, जो श्लोक 20 में आगे हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "chardi vegadhāraṇa",
+    "śukra vegadhāraṇa"
+   ],
+   "tags": [
+    "vega",
+    "vegadharana-lakshana"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.4.20",
+   "word_meanings": [
+    {
+     "sa": "हृद्व्यथा",
+     "iast": "hṛdvyathā",
+     "en": "pain in the heart region",
+     "hi": "हृदय में पीड़ा"
+    },
+    {
+     "sa": "मूत्रसङ्ग",
+     "iast": "mūtrasaṅga",
+     "en": "urinary retention",
+     "hi": "मूत्र रुकना"
+    },
+    {
+     "sa": "अङ्गभङ्ग",
+     "iast": "aṅgabhaṅga",
+     "en": "body ache",
+     "hi": "अंगों में टूटन"
+    },
+    {
+     "sa": "वृद्धि",
+     "iast": "vṛddhi",
+     "en": "scrotal enlargement",
+     "hi": "वृद्धि (अण्डवृद्धि)"
+    },
+    {
+     "sa": "अश्म",
+     "iast": "aśma",
+     "en": "urinary stone",
+     "hi": "अश्मरी"
+    },
+    {
+     "sa": "षण्ढताः",
+     "iast": "ṣaṇḍhatāḥ",
+     "en": "impotence",
+     "hi": "नपुंसकता"
+    },
+    {
+     "sa": "ताम्रचूड",
+     "iast": "tāmracūḍa",
+     "en": "rooster (its meat)",
+     "hi": "ताम्रचूड़ (मुर्गा)"
+    },
+    {
+     "sa": "सुरा",
+     "iast": "surā",
+     "en": "wine",
+     "hi": "सुरा"
+    },
+    {
+     "sa": "शालि",
+     "iast": "śāli",
+     "en": "śāli rice",
+     "hi": "शालि चावल"
+    },
+    {
+     "sa": "वस्ति",
+     "iast": "vasti",
+     "en": "enema",
+     "hi": "बस्ति"
+    },
+    {
+     "sa": "अभ्यङ्ग",
+     "iast": "abhyaṅga",
+     "en": "oil massage",
+     "hi": "अभ्यङ्ग"
+    },
+    {
+     "sa": "अवगाहनम्",
+     "iast": "avagāhanam",
+     "en": "tub bath",
+     "hi": "अवगाहन"
+    }
+   ],
+   "english": "...pain in the heart region, urinary retention, body ache, scrotal enlargement, urinary stones and impotence. [Treatment is] chicken, wine, śāli rice, enemas, oil massage and tub baths...",
+   "hindi": "...हृदय में दर्द, मूत्र रुकना, अंगों में टूटन, अण्डवृद्धि, पथरी और नपुंसकता होते हैं। (चिकित्सा है) मुर्गे का मांस, सुरा, शालि चावल, बस्ति, अभ्यङ्ग और अवगाहन...",
+   "explanation_en": "Effects of śukra-vega-dhāraṇa and their treatment, which is nourishing and vāta-pacifying. The list continues into verse 21.",
+   "explanation_hi": "शुक्र वेग रोकने के प्रभाव और उसकी चिकित्सा, जो पौष्टिक और वात-शामक है। सूची श्लोक 21 में आगे है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "śukra vegadhāraṇa",
+    "vṛddhi",
+    "aśmarī",
+    "klaibya"
+   ],
+   "tags": [
+    "vega",
+    "vegadharana-lakshana",
+    "vegadharana-chikitsa"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.4.21",
+   "word_meanings": [
+    {
+     "sa": "वस्तिशुद्धिकरैः",
+     "iast": "vastiśuddhikaraiḥ",
+     "en": "with bladder-cleansing drugs",
+     "hi": "बस्ति (मूत्राशय) शोधक द्रव्यों से"
+    },
+    {
+     "sa": "सिद्धम्",
+     "iast": "siddham",
+     "en": "processed",
+     "hi": "सिद्ध किया हुआ"
+    },
+    {
+     "sa": "भजेत्",
+     "iast": "bhajet",
+     "en": "should take",
+     "hi": "सेवन करे"
+    },
+    {
+     "sa": "क्षीरम्",
+     "iast": "kṣīram",
+     "en": "milk",
+     "hi": "दूध"
+    },
+    {
+     "sa": "प्रियाः",
+     "iast": "priyāḥ",
+     "en": "beloved",
+     "hi": "प्रिय"
+    },
+    {
+     "sa": "स्त्रियः",
+     "iast": "striyaḥ",
+     "en": "women",
+     "hi": "स्त्रियाँ"
+    },
+    {
+     "sa": "तृट्",
+     "iast": "tṛṭ",
+     "en": "thirst",
+     "hi": "प्यास"
+    },
+    {
+     "sa": "शूल",
+     "iast": "śūla",
+     "en": "pain",
+     "hi": "शूल"
+    },
+    {
+     "sa": "आर्तम्",
+     "iast": "ārtam",
+     "en": "afflicted",
+     "hi": "पीड़ित"
+    },
+    {
+     "sa": "त्यजेत्",
+     "iast": "tyajet",
+     "en": "should reject (as incurable)",
+     "hi": "त्याग दे"
+    },
+    {
+     "sa": "क्षीणम्",
+     "iast": "kṣīṇam",
+     "en": "emaciated",
+     "hi": "क्षीण"
+    },
+    {
+     "sa": "विड्वमम्",
+     "iast": "viḍvamam",
+     "en": "vomiting faeces",
+     "hi": "मल की उल्टी करने वाला"
+    },
+    {
+     "sa": "वेगरोधिनम्",
+     "iast": "vegarodhinam",
+     "en": "who has suppressed urges",
+     "hi": "वेग रोकने वाला"
+    }
+   ],
+   "english": "...milk processed with bladder-cleansing drugs, and the company of beloved women. A patient of urge-suppression who is afflicted by thirst and pain, emaciated, and vomiting faeces should be refused (as incurable).",
+   "hindi": "...मूत्राशय-शोधक द्रव्यों से सिद्ध दूध और प्रिय स्त्रियों का साथ। जो वेग रोकने वाला रोगी प्यास और दर्द से पीड़ित, क्षीण और मल की उल्टी करने वाला हो, उसे (असाध्य मानकर) छोड़ देना चाहिए।",
+   "explanation_en": "The asādhya lakṣaṇa (signs of incurability) of vega-dhāraṇa: tṛṣṇā, śūla, kṣīṇatā and viḍvamana. This is a frequently asked point.",
+   "explanation_hi": "वेग-धारण के असाध्य लक्षण: तृष्णा, शूल, क्षीणता और मल की उल्टी। यह अक्सर पूछी जाने वाली बात है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "śukra vegadhāraṇa",
+    "asādhya lakṣaṇa"
+   ],
+   "tags": [
+    "vega",
+    "prognosis"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.4.22",
+   "word_meanings": [
+    {
+     "sa": "रोगाः",
+     "iast": "rogāḥ",
+     "en": "diseases",
+     "hi": "रोग"
+    },
+    {
+     "sa": "सर्वे",
+     "iast": "sarve",
+     "en": "all",
+     "hi": "सभी"
+    },
+    {
+     "sa": "अपि",
+     "iast": "api",
+     "en": "even",
+     "hi": "भी"
+    },
+    {
+     "sa": "जायन्ते",
+     "iast": "jāyante",
+     "en": "arise",
+     "hi": "उत्पन्न होते हैं"
+    },
+    {
+     "sa": "वेग",
+     "iast": "vega",
+     "en": "urges",
+     "hi": "वेगों के"
+    },
+    {
+     "sa": "उदीरण",
+     "iast": "udīraṇa",
+     "en": "forcing out",
+     "hi": "ज़बरदस्ती निकालने"
+    },
+    {
+     "sa": "धारणैः",
+     "iast": "dhāraṇaiḥ",
+     "en": "and by suppression",
+     "hi": "और रोकने से"
+    },
+    {
+     "sa": "निर्दिष्टम्",
+     "iast": "nirdiṣṭam",
+     "en": "has been described",
+     "hi": "बताया गया है"
+    },
+    {
+     "sa": "साधनम्",
+     "iast": "sādhanam",
+     "en": "treatment",
+     "hi": "साधन (चिकित्सा)"
+    },
+    {
+     "sa": "तत्र",
+     "iast": "tatra",
+     "en": "there",
+     "hi": "उसमें"
+    },
+    {
+     "sa": "भूयिष्ठम्",
+     "iast": "bhūyiṣṭham",
+     "en": "mostly",
+     "hi": "अधिकतर"
+    },
+    {
+     "sa": "ये तु",
+     "iast": "ye tu",
+     "en": "those which",
+     "hi": "जो"
+    },
+    {
+     "sa": "तान् प्रति",
+     "iast": "tān prati",
+     "en": "for them",
+     "hi": "उनके लिए"
+    }
+   ],
+   "english": "All diseases arise from forcing out (udīraṇa) or suppressing (dhāraṇa) the urges. The treatment described here mostly applies to those (diseases arising from them).",
+   "hindi": "वेगों को ज़बरदस्ती निकालने (उदीरण) या रोकने (धारण) से सभी रोग उत्पन्न होते हैं। यहाँ बताई गई चिकित्सा अधिकतर उन्हीं रोगों के लिए है।",
+   "explanation_en": "An important general statement: both forcing and holding urges are harmful (compare ch. 2.19). This verse is often quoted to show the importance of vega management in disease prevention.",
+   "explanation_hi": "एक महत्वपूर्ण सामान्य कथन: वेगों को ज़बरदस्ती निकालना और रोकना, दोनों हानिकारक हैं (अध्याय 2.19 से तुलना करें)। रोग-निवारण में वेगों के महत्व को दिखाने के लिए यह श्लोक अक्सर उद्धृत होता है।",
+   "modern_correlation": {
+    "en": "Straining forcefully at stool is linked to haemorrhoids and pelvic floor problems, while habitual withholding is linked to constipation and urinary issues, broadly paralleling the two-sided warning.",
+    "hi": "मल त्याग में ज़ोर लगाना बवासीर और पेल्विक फ़्लोर की समस्याओं से जुड़ा है, और आदतन रोकना कब्ज़ और मूत्र समस्याओं से, जो इस दोतरफ़ा चेतावनी से मोटे तौर पर मिलता है।"
+   },
+   "key_terms": [
+    "vegodīraṇa",
+    "vegadhāraṇa"
+   ],
+   "tags": [
+    "vega",
+    "prevention"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.4.23",
+   "word_meanings": [
+    {
+     "sa": "ततः",
+     "iast": "tataḥ",
+     "en": "from that",
+     "hi": "उससे"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "अनेकधा",
+     "iast": "anekadhā",
+     "en": "in many ways",
+     "hi": "अनेक प्रकार से"
+    },
+    {
+     "sa": "प्रायः",
+     "iast": "prāyaḥ",
+     "en": "mostly",
+     "hi": "प्रायः"
+    },
+    {
+     "sa": "पवनः",
+     "iast": "pavanaḥ",
+     "en": "vāta",
+     "hi": "वायु"
+    },
+    {
+     "sa": "यत्",
+     "iast": "yat",
+     "en": "because",
+     "hi": "क्योंकि"
+    },
+    {
+     "sa": "प्रकुप्यति",
+     "iast": "prakupyati",
+     "en": "becomes aggravated",
+     "hi": "कुपित होती है"
+    },
+    {
+     "sa": "अन्नपान",
+     "iast": "annapāna",
+     "en": "food and drink",
+     "hi": "अन्न-पान"
+    },
+    {
+     "sa": "औषधम्",
+     "iast": "auṣadham",
+     "en": "medicine",
+     "hi": "औषधि"
+    },
+    {
+     "sa": "तस्य",
+     "iast": "tasya",
+     "en": "for it",
+     "hi": "उसके लिए"
+    },
+    {
+     "sa": "युञ्जीत",
+     "iast": "yuñjīta",
+     "en": "should use",
+     "hi": "प्रयोग करे"
+    },
+    {
+     "sa": "अतः",
+     "iast": "ataḥ",
+     "en": "therefore",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "अनुलोमनम्",
+     "iast": "anulomanam",
+     "en": "that which moves (vāta) downward",
+     "hi": "अनुलोमन करने वाला"
+    }
+   ],
+   "english": "Because vāta mostly becomes aggravated in many ways from that (forcing or suppressing urges), one should therefore use food, drink and medicine that move vāta in its normal downward direction (anulomana).",
+   "hindi": "क्योंकि वेगों को रोकने या ज़बरदस्ती निकालने से प्रायः वायु अनेक प्रकार से कुपित होती है, इसलिए वायु का अनुलोमन (सही दिशा में, नीचे की ओर ले जाना) करने वाले अन्न-पान और औषधि का प्रयोग करना चाहिए।",
+   "explanation_en": "The general principle of treatment of all vega-dhāraṇa disorders: vātānulomana. This is the single most important answer for 'line of treatment of vega-dhāraṇa'.",
+   "explanation_hi": "सभी वेग-धारण रोगों की चिकित्सा का सामान्य सिद्धान्त: वातानुलोमन। 'वेग-धारण की चिकित्सा का सिद्धान्त' प्रश्न का यही सबसे महत्वपूर्ण उत्तर है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vātānulomana",
+    "vegadhāraṇa cikitsā"
+   ],
+   "tags": [
+    "vega",
+    "vegadharana-chikitsa"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.4.24",
+   "word_meanings": [
+    {
+     "sa": "धारयेत्",
+     "iast": "dhārayet",
+     "en": "should restrain",
+     "hi": "रोके"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "परन्तु"
+    },
+    {
+     "sa": "सदा",
+     "iast": "sadā",
+     "en": "always",
+     "hi": "सदा"
+    },
+    {
+     "sa": "वेगान्",
+     "iast": "vegān",
+     "en": "the urges",
+     "hi": "वेगों को"
+    },
+    {
+     "sa": "हितैषी",
+     "iast": "hitaiṣī",
+     "en": "one who wishes well",
+     "hi": "हित चाहने वाला"
+    },
+    {
+     "sa": "प्रेत्य",
+     "iast": "pretya",
+     "en": "in the next world",
+     "hi": "परलोक में"
+    },
+    {
+     "sa": "च इह च",
+     "iast": "ca iha ca",
+     "en": "and here",
+     "hi": "और इस लोक में"
+    },
+    {
+     "sa": "लोभ",
+     "iast": "lobha",
+     "en": "greed",
+     "hi": "लोभ"
+    },
+    {
+     "sa": "ईर्ष्या",
+     "iast": "īrṣyā",
+     "en": "envy",
+     "hi": "ईर्ष्या"
+    },
+    {
+     "sa": "द्वेष",
+     "iast": "dveṣa",
+     "en": "hatred",
+     "hi": "द्वेष"
+    },
+    {
+     "sa": "मात्सर्य",
+     "iast": "mātsarya",
+     "en": "jealousy",
+     "hi": "मात्सर्य"
+    },
+    {
+     "sa": "राग",
+     "iast": "rāga",
+     "en": "passion",
+     "hi": "राग"
+    },
+    {
+     "sa": "आदीनाम्",
+     "iast": "ādīnām",
+     "en": "and others",
+     "hi": "आदि के"
+    },
+    {
+     "sa": "जितेन्द्रियः",
+     "iast": "jitendriyaḥ",
+     "en": "self-controlled",
+     "hi": "जितेन्द्रिय"
+    }
+   ],
+   "english": "But one who wishes his own welfare here and hereafter should always, with self-control, restrain the urges of greed, envy, hatred, jealousy, passion and the like.",
+   "hindi": "परन्तु जो इस लोक और परलोक में अपना हित चाहता है, उसे जितेन्द्रिय होकर लोभ, ईर्ष्या, द्वेष, मात्सर्य, राग आदि के वेगों को हमेशा रोकना चाहिए।",
+   "explanation_en": "These are the dhāraṇīya vegas (urges that should be suppressed): mental impulses like greed, envy and hatred. Exam tip: contrast adhāraṇīya vegas (13 physical urges, verse 1) with dhāraṇīya vegas (mental impulses, this verse).",
+   "explanation_hi": "ये धारणीय वेग (रोकने योग्य वेग) हैं: लोभ, ईर्ष्या, द्वेष जैसे मानसिक आवेग। परीक्षा के लिए अधारणीय वेग (13 शारीरिक वेग, श्लोक 1) और धारणीय वेग (मानसिक आवेग, यह श्लोक) में अंतर याद रखें।",
+   "modern_correlation": {
+    "en": "Regulating anger, envy and craving is a goal of modern cognitive-behavioural and mindfulness-based approaches to mental health.",
+    "hi": "क्रोध, ईर्ष्या और लालसा पर नियंत्रण आधुनिक संज्ञानात्मक-व्यवहार (CBT) और माइंडफुलनेस आधारित मानसिक स्वास्थ्य पद्धतियों का लक्ष्य है।"
+   },
+   "key_terms": [
+    "dhāraṇīya vega",
+    "lobha",
+    "īrṣyā",
+    "dveṣa",
+    "mātsarya",
+    "rāga"
+   ],
+   "tags": [
+    "vega",
+    "manas",
+    "definitions"
+   ],
+   "importance": "high",
+   "mnemonic": "Hold the mind's urges, release the body's urges",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.4.25",
+   "word_meanings": [
+    {
+     "sa": "यतेत",
+     "iast": "yateta",
+     "en": "should strive",
+     "hi": "प्रयत्न करे"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "यथाकालम्",
+     "iast": "yathākālam",
+     "en": "at the proper time",
+     "hi": "उचित समय पर"
+    },
+    {
+     "sa": "मलानाम्",
+     "iast": "malānām",
+     "en": "of the malas (vitiated doṣas)",
+     "hi": "मलों (दोषों) के"
+    },
+    {
+     "sa": "शोधनम् प्रति",
+     "iast": "śodhanam prati",
+     "en": "for purification",
+     "hi": "शोधन के लिए"
+    },
+    {
+     "sa": "अत्यर्थसंचिताः",
+     "iast": "atyarthasaṃcitāḥ",
+     "en": "excessively accumulated",
+     "hi": "अत्यधिक संचित"
+    },
+    {
+     "sa": "ते",
+     "iast": "te",
+     "en": "they",
+     "hi": "वे"
+    },
+    {
+     "sa": "हि",
+     "iast": "hi",
+     "en": "because",
+     "hi": "क्योंकि"
+    },
+    {
+     "sa": "क्रुद्धाः",
+     "iast": "kruddhāḥ",
+     "en": "aggravated",
+     "hi": "कुपित"
+    },
+    {
+     "sa": "स्युः",
+     "iast": "syuḥ",
+     "en": "may become",
+     "hi": "हो सकते हैं"
+    },
+    {
+     "sa": "जीवितच्छिदः",
+     "iast": "jīvitacchidaḥ",
+     "en": "destroyers of life",
+     "hi": "प्राणघातक"
+    }
+   ],
+   "english": "One should strive to purify the malas (accumulated doṣas) at the proper time, because when excessively accumulated and aggravated they may destroy life.",
+   "hindi": "उचित समय पर मलों (संचित दोषों) के शोधन का प्रयत्न करना चाहिए, क्योंकि अत्यधिक संचित होकर कुपित होने पर वे प्राणघातक हो सकते हैं।",
+   "explanation_en": "Here 'mala' refers to vitiated doṣas. Seasonal śodhana (purification at the right season, verse 35) is a preventive measure, not only a treatment.",
+   "explanation_hi": "यहाँ 'मल' का अर्थ बिगड़े हुए दोष है। ऋतु के अनुसार शोधन (उचित ऋतु में, श्लोक 35) केवल चिकित्सा नहीं, बल्कि निवारक उपाय भी है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "śodhana",
+    "ṛtu śodhana",
+    "mala"
+   ],
+   "tags": [
+    "prevention",
+    "panchakarma"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.4.26",
+   "word_meanings": [
+    {
+     "sa": "दोषाः",
+     "iast": "doṣāḥ",
+     "en": "doṣas",
+     "hi": "दोष"
+    },
+    {
+     "sa": "कदाचित्",
+     "iast": "kadācit",
+     "en": "sometimes",
+     "hi": "कभी-कभी"
+    },
+    {
+     "sa": "कुप्यन्ति",
+     "iast": "kupyanti",
+     "en": "become aggravated",
+     "hi": "कुपित होते हैं"
+    },
+    {
+     "sa": "जिताः",
+     "iast": "jitāḥ",
+     "en": "subdued",
+     "hi": "जीते गए"
+    },
+    {
+     "sa": "लङ्घन",
+     "iast": "laṅghana",
+     "en": "fasting, lightening therapy",
+     "hi": "लंघन"
+    },
+    {
+     "sa": "पाचनैः",
+     "iast": "pācanaiḥ",
+     "en": "by digestive therapy",
+     "hi": "पाचन से"
+    },
+    {
+     "sa": "ये तु",
+     "iast": "ye tu",
+     "en": "but those which",
+     "hi": "परन्तु जो"
+    },
+    {
+     "sa": "संशोधनैः",
+     "iast": "saṃśodhanaiḥ",
+     "en": "by purification",
+     "hi": "संशोधन से"
+    },
+    {
+     "sa": "शुद्धाः",
+     "iast": "śuddhāḥ",
+     "en": "cleansed",
+     "hi": "शुद्ध किए गए"
+    },
+    {
+     "sa": "न",
+     "iast": "na",
+     "en": "not",
+     "hi": "नहीं"
+    },
+    {
+     "sa": "तेषाम्",
+     "iast": "teṣām",
+     "en": "their",
+     "hi": "उनकी"
+    },
+    {
+     "sa": "पुनरुद्भवः",
+     "iast": "punarudbhavaḥ",
+     "en": "recurrence",
+     "hi": "पुनः उत्पत्ति"
+    }
+   ],
+   "english": "Doṣas subdued by laṅghana (lightening therapy) and pācana (digestive therapy) sometimes become aggravated again; but those cleansed by saṃśodhana (purificatory therapy) do not recur.",
+   "hindi": "लंघन और पाचन से शान्त किए गए दोष कभी-कभी फिर से कुपित हो जाते हैं; परन्तु जो दोष संशोधन (शोधन चिकित्सा) से बाहर निकाल दिए गए हैं, वे दोबारा उत्पन्न नहीं होते।",
+   "explanation_en": "This verse is the classic justification for the superiority of śodhana over śamana (compare ch. 1.25). It is very commonly quoted in exams on pañcakarma.",
+   "explanation_hi": "यह श्लोक शमन की तुलना में शोधन की श्रेष्ठता का प्रसिद्ध आधार है (अध्याय 1.25 से तुलना करें)। पञ्चकर्म के प्रश्नों में इसे बहुत उद्धृत किया जाता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "śodhana",
+    "śamana",
+    "laṅghana",
+    "pācana",
+    "saṃśodhana"
+   ],
+   "tags": [
+    "chikitsa",
+    "panchakarma",
+    "treatment-types"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.4.27",
+   "word_meanings": [
+    {
+     "sa": "यथाक्रमम्",
+     "iast": "yathākramam",
+     "en": "in proper sequence",
+     "hi": "उचित क्रम से"
+    },
+    {
+     "sa": "यथायोगम्",
+     "iast": "yathāyogam",
+     "en": "as appropriate",
+     "hi": "यथायोग्य"
+    },
+    {
+     "sa": "अतः ऊर्ध्वम्",
+     "iast": "ataḥ ūrdhvam",
+     "en": "after this (purification)",
+     "hi": "इसके (शोधन के) बाद"
+    },
+    {
+     "sa": "प्रयोजयेत्",
+     "iast": "prayojayet",
+     "en": "should administer",
+     "hi": "प्रयोग करे"
+    },
+    {
+     "sa": "रसायनानि",
+     "iast": "rasāyanāni",
+     "en": "rejuvenatives",
+     "hi": "रसायन"
+    },
+    {
+     "sa": "सिद्धानि",
+     "iast": "siddhāni",
+     "en": "proven",
+     "hi": "सिद्ध"
+    },
+    {
+     "sa": "वृष्ययोगान्",
+     "iast": "vṛṣyayogān",
+     "en": "aphrodisiac formulations",
+     "hi": "वृष्य योग"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "कालवित्",
+     "iast": "kālavit",
+     "en": "one who knows the right time",
+     "hi": "काल को जानने वाला"
+    }
+   ],
+   "english": "After this (purification), the physician who knows the right time should administer proven rasāyanas (rejuvenatives) and vṛṣya (aphrodisiac) formulations, in proper sequence and as appropriate.",
+   "hindi": "इसके (शोधन के) बाद काल को जानने वाला वैद्य उचित क्रम से और यथायोग्य सिद्ध रसायन और वृष्य (वाजीकरण) योगों का प्रयोग करे।",
+   "explanation_en": "Rasāyana and vājīkaraṇa work best after śodhana, because a cleansed body absorbs them better. This is a standard rule: 'śodhana pūrvaka rasāyana'.",
+   "explanation_hi": "शोधन के बाद रसायन और वाजीकरण सबसे अच्छा काम करते हैं, क्योंकि शुद्ध शरीर उन्हें बेहतर ग्रहण करता है। यह मानक नियम है: 'शोधन पूर्वक रसायन'।",
+   "modern_correlation": null,
+   "key_terms": [
+    "rasāyana",
+    "vṛṣya",
+    "vājīkaraṇa",
+    "śodhana"
+   ],
+   "tags": [
+    "rasayana",
+    "panchakarma"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.4.28",
+   "word_meanings": [
+    {
+     "sa": "भेषजक्षपिते",
+     "iast": "bheṣajakṣapite",
+     "en": "in one depleted by medicine (purification)",
+     "hi": "औषधि (शोधन) से क्षीण होने पर"
+    },
+    {
+     "sa": "पथ्यम्",
+     "iast": "pathyam",
+     "en": "wholesome",
+     "hi": "पथ्य"
+    },
+    {
+     "sa": "आहारैः",
+     "iast": "āhāraiḥ",
+     "en": "with foods",
+     "hi": "आहार से"
+    },
+    {
+     "sa": "बृंहणम्",
+     "iast": "bṛṃhaṇam",
+     "en": "nourishment",
+     "hi": "बृंहण"
+    },
+    {
+     "sa": "क्रमात्",
+     "iast": "kramāt",
+     "en": "gradually",
+     "hi": "क्रम से"
+    },
+    {
+     "sa": "शालि",
+     "iast": "śāli",
+     "en": "śāli rice",
+     "hi": "शालि"
+    },
+    {
+     "sa": "षष्टिक",
+     "iast": "ṣaṣṭika",
+     "en": "sixty-day rice",
+     "hi": "षष्टिक चावल"
+    },
+    {
+     "sa": "गोधूम",
+     "iast": "godhūma",
+     "en": "wheat",
+     "hi": "गेहूँ"
+    },
+    {
+     "sa": "मुद्ग",
+     "iast": "mudga",
+     "en": "green gram",
+     "hi": "मूँग"
+    },
+    {
+     "sa": "मांस",
+     "iast": "māṃsa",
+     "en": "meat",
+     "hi": "मांस"
+    },
+    {
+     "sa": "घृत",
+     "iast": "ghṛta",
+     "en": "ghee",
+     "hi": "घृत"
+    },
+    {
+     "sa": "आदिभिः",
+     "iast": "ādibhiḥ",
+     "en": "and others",
+     "hi": "आदि से"
+    }
+   ],
+   "english": "In one depleted by purificatory medicines, wholesome nourishment should be given gradually by foods such as śāli rice, ṣaṣṭika rice, wheat, green gram, meat and ghee...",
+   "hindi": "शोधन औषधियों से क्षीण हुए व्यक्ति को शालि, षष्टिक चावल, गेहूँ, मूँग, मांस, घी आदि पथ्य आहार से धीरे-धीरे पोषण (बृंहण) देना चाहिए...",
+   "explanation_en": "Post-śodhana care (paścāt karma) requires gradual nourishment, since agni is weak after purification. This connects to saṃsarjana krama (graded diet) described in chapter 18.",
+   "explanation_hi": "शोधन के बाद (पश्चात् कर्म) धीरे-धीरे पोषण ज़रूरी है, क्योंकि शोधन के बाद अग्नि मन्द होती है। यह अध्याय 18 में बताए संसर्जन क्रम (क्रमिक आहार) से जुड़ता है।",
+   "modern_correlation": {
+    "en": "Gradual reintroduction of food after a period of depletion broadly parallels clinical nutritional rehabilitation practices.",
+    "hi": "कमज़ोरी के बाद धीरे-धीरे भोजन शुरू करना क्लिनिकल पोषण पुनर्वास पद्धतियों से मोटे तौर पर मिलता है।"
+   },
+   "key_terms": [
+    "paścāt karma",
+    "bṛṃhaṇa",
+    "saṃsarjana krama",
+    "ṣaṣṭika"
+   ],
+   "tags": [
+    "panchakarma",
+    "diet"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.4.29",
+   "word_meanings": [
+    {
+     "sa": "हृद्य",
+     "iast": "hṛdya",
+     "en": "pleasing to the heart",
+     "hi": "हृदय को प्रिय"
+    },
+    {
+     "sa": "दीपन",
+     "iast": "dīpana",
+     "en": "appetising",
+     "hi": "दीपन"
+    },
+    {
+     "sa": "भैषज्य",
+     "iast": "bhaiṣajya",
+     "en": "medicines",
+     "hi": "औषधियाँ"
+    },
+    {
+     "sa": "संयोगात्",
+     "iast": "saṃyogāt",
+     "en": "by combination with",
+     "hi": "के संयोग से"
+    },
+    {
+     "sa": "रुचि",
+     "iast": "ruci",
+     "en": "taste, appetite",
+     "hi": "रुचि"
+    },
+    {
+     "sa": "पक्ति",
+     "iast": "pakti",
+     "en": "digestion",
+     "hi": "पाचन"
+    },
+    {
+     "sa": "दैः",
+     "iast": "daiḥ",
+     "en": "giving",
+     "hi": "देने वाली"
+    },
+    {
+     "sa": "साभ्यङ्ग",
+     "iast": "sābhyaṅga",
+     "en": "with oil massage",
+     "hi": "अभ्यङ्ग सहित"
+    },
+    {
+     "sa": "उद्वर्तन",
+     "iast": "udvartana",
+     "en": "powder massage",
+     "hi": "उद्वर्तन"
+    },
+    {
+     "sa": "स्नान",
+     "iast": "snāna",
+     "en": "bath",
+     "hi": "स्नान"
+    },
+    {
+     "sa": "निरूह",
+     "iast": "nirūha",
+     "en": "decoction enema",
+     "hi": "निरूह बस्ति"
+    },
+    {
+     "sa": "स्नेहवस्तिभिः",
+     "iast": "snehavastibhiḥ",
+     "en": "with oil enemas",
+     "hi": "स्नेह बस्ति से"
+    }
+   ],
+   "english": "...combined with heart-pleasing and appetising medicines that promote taste and digestion; along with oil massage, powder massage, bathing, decoction enemas and oil enemas.",
+   "hindi": "...हृदय को प्रिय और दीपन औषधियों के साथ जो रुचि और पाचन बढ़ाएँ; और साथ में अभ्यङ्ग, उद्वर्तन, स्नान, निरूह बस्ति और स्नेह बस्ति से।",
+   "explanation_en": "Nourishment after purification is supported by appetisers and by external and vasti therapies. The results are given in verse 30.",
+   "explanation_hi": "शोधन के बाद पोषण को दीपन औषधियों और बाहरी तथा बस्ति चिकित्साओं से सहारा दिया जाता है। परिणाम श्लोक 30 में बताए गए हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "dīpana",
+    "nirūha vasti",
+    "sneha vasti",
+    "paścāt karma"
+   ],
+   "tags": [
+    "panchakarma"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.4.30",
+   "word_meanings": [
+    {
+     "sa": "तथा",
+     "iast": "tathā",
+     "en": "thus",
+     "hi": "इस प्रकार"
+    },
+    {
+     "sa": "सः",
+     "iast": "saḥ",
+     "en": "he",
+     "hi": "वह"
+    },
+    {
+     "sa": "लभते",
+     "iast": "labhate",
+     "en": "obtains",
+     "hi": "प्राप्त करता है"
+    },
+    {
+     "sa": "शर्म",
+     "iast": "śarma",
+     "en": "well-being",
+     "hi": "सुख"
+    },
+    {
+     "sa": "सर्वपावक",
+     "iast": "sarvapāvaka",
+     "en": "all agnis",
+     "hi": "सभी अग्नियों की"
+    },
+    {
+     "sa": "पाटवम्",
+     "iast": "pāṭavam",
+     "en": "efficiency",
+     "hi": "कुशलता (तेज़ी)"
+    },
+    {
+     "sa": "धी",
+     "iast": "dhī",
+     "en": "intellect",
+     "hi": "बुद्धि"
+    },
+    {
+     "sa": "वर्ण",
+     "iast": "varṇa",
+     "en": "complexion",
+     "hi": "वर्ण"
+    },
+    {
+     "sa": "इन्द्रिय",
+     "iast": "indriya",
+     "en": "senses",
+     "hi": "इन्द्रियाँ"
+    },
+    {
+     "sa": "वैमल्यम्",
+     "iast": "vaimalyam",
+     "en": "clarity",
+     "hi": "निर्मलता"
+    },
+    {
+     "sa": "वृषताम्",
+     "iast": "vṛṣatām",
+     "en": "virility",
+     "hi": "वृषता (पौरुष)"
+    },
+    {
+     "sa": "दैर्घ्यम्",
+     "iast": "dairghyam",
+     "en": "length",
+     "hi": "लंबाई"
+    },
+    {
+     "sa": "आयुषः",
+     "iast": "āyuṣaḥ",
+     "en": "of life",
+     "hi": "आयु की"
+    }
+   ],
+   "english": "Thus he obtains well-being, efficiency of all the agnis, clarity of intellect, complexion and senses, virility and a long life.",
+   "hindi": "इस प्रकार वह सुख, सभी अग्नियों की कुशलता, बुद्धि, वर्ण (रंग-रूप) और इन्द्रियों की निर्मलता, पौरुष और लंबी आयु प्राप्त करता है।",
+   "explanation_en": "These are the benefits of properly conducted śodhana followed by rasāyana and nourishment: a frequent essay point in pañcakarma questions.",
+   "explanation_hi": "ये उचित शोधन, रसायन और पोषण के लाभ हैं: पञ्चकर्म के निबन्ध प्रश्नों में यह अक्सर लिखा जाता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "śodhana phala",
+    "agni",
+    "āyus"
+   ],
+   "tags": [
+    "panchakarma",
+    "benefits"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.4.31",
+   "word_meanings": [
+    {
+     "sa": "ये",
+     "iast": "ye",
+     "en": "those which",
+     "hi": "जो"
+    },
+    {
+     "sa": "भूत",
+     "iast": "bhūta",
+     "en": "spirits / microbes (interpreted)",
+     "hi": "भूत"
+    },
+    {
+     "sa": "विष",
+     "iast": "viṣa",
+     "en": "poison",
+     "hi": "विष"
+    },
+    {
+     "sa": "वायु",
+     "iast": "vāyu",
+     "en": "(violent) wind",
+     "hi": "वायु"
+    },
+    {
+     "sa": "अग्नि",
+     "iast": "agni",
+     "en": "fire",
+     "hi": "अग्नि"
+    },
+    {
+     "sa": "क्षत",
+     "iast": "kṣata",
+     "en": "injury",
+     "hi": "क्षत (घाव)"
+    },
+    {
+     "sa": "भङ्ग",
+     "iast": "bhaṅga",
+     "en": "fracture",
+     "hi": "भग्न"
+    },
+    {
+     "sa": "आदि",
+     "iast": "ādi",
+     "en": "etc.",
+     "hi": "आदि"
+    },
+    {
+     "sa": "संभवाः",
+     "iast": "saṃbhavāḥ",
+     "en": "arising from",
+     "hi": "से उत्पन्न"
+    },
+    {
+     "sa": "राग",
+     "iast": "rāga",
+     "en": "passion",
+     "hi": "राग"
+    },
+    {
+     "sa": "द्वेष",
+     "iast": "dveṣa",
+     "en": "hatred",
+     "hi": "द्वेष"
+    },
+    {
+     "sa": "भय",
+     "iast": "bhaya",
+     "en": "fear",
+     "hi": "भय"
+    },
+    {
+     "sa": "आद्याः",
+     "iast": "ādyāḥ",
+     "en": "and others",
+     "hi": "आदि"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "ते",
+     "iast": "te",
+     "en": "they",
+     "hi": "वे"
+    },
+    {
+     "sa": "स्युः",
+     "iast": "syuḥ",
+     "en": "are",
+     "hi": "हैं"
+    },
+    {
+     "sa": "आगन्तवः",
+     "iast": "āgantavaḥ",
+     "en": "exogenous",
+     "hi": "आगन्तु"
+    },
+    {
+     "sa": "गदाः",
+     "iast": "gadāḥ",
+     "en": "diseases",
+     "hi": "रोग"
+    }
+   ],
+   "english": "Diseases arising from bhūta (spirits), poison, (violent) wind, fire, injury, fracture and so on, and from passion, hatred, fear and the like, are āgantu (exogenous) diseases.",
+   "hindi": "भूत, विष, (तेज़) वायु, अग्नि, घाव, अस्थिभंग आदि से उत्पन्न रोग, और राग, द्वेष, भय आदि से उत्पन्न रोग, आगन्तु (बाहरी कारण से होने वाले) रोग हैं।",
+   "explanation_en": "This defines the causes of āgantu roga (introduced in ch. 1.20). Note that strong emotions like fear and hatred are also counted as external causes of disease. Some modern interpreters relate 'bhūta' to microorganisms, but this is an interpretation, not the classical meaning.",
+   "explanation_hi": "यह आगन्तु रोग (अध्याय 1.20 में बताया गया) के कारणों को परिभाषित करता है। ध्यान दें कि भय और द्वेष जैसे तीव्र भाव भी रोग के बाहरी कारण माने गए हैं। कुछ आधुनिक व्याख्याकार 'भूत' को सूक्ष्मजीवों से जोड़ते हैं, पर यह व्याख्या है, शास्त्रीय अर्थ नहीं।",
+   "modern_correlation": {
+    "en": "Trauma, burns, poisoning and acute psychological stress are recognised external causes of illness in modern medicine, broadly paralleling the āgantu category.",
+    "hi": "चोट, जलना, विषाक्तता और तीव्र मानसिक तनाव आधुनिक चिकित्सा में रोग के मान्य बाहरी कारण हैं, जो आगन्तु वर्ग से मोटे तौर पर मिलते हैं।"
+   },
+   "key_terms": [
+    "āgantu roga",
+    "bhūta",
+    "viṣa",
+    "kṣata",
+    "bhagna"
+   ],
+   "tags": [
+    "nidana",
+    "agantu",
+    "definitions"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.4.32",
+   "word_meanings": [
+    {
+     "sa": "त्यागः",
+     "iast": "tyāgaḥ",
+     "en": "giving up",
+     "hi": "त्याग"
+    },
+    {
+     "sa": "प्रज्ञापराधानाम्",
+     "iast": "prajñāparādhānām",
+     "en": "of intellectual errors",
+     "hi": "प्रज्ञापराधों का"
+    },
+    {
+     "sa": "इन्द्रियोपशमः",
+     "iast": "indriyopaśamaḥ",
+     "en": "calming of the senses",
+     "hi": "इन्द्रियों का संयम"
+    },
+    {
+     "sa": "स्मृतिः",
+     "iast": "smṛtiḥ",
+     "en": "memory, mindfulness",
+     "hi": "स्मृति"
+    },
+    {
+     "sa": "देश",
+     "iast": "deśa",
+     "en": "place",
+     "hi": "देश"
+    },
+    {
+     "sa": "काल",
+     "iast": "kāla",
+     "en": "time",
+     "hi": "काल"
+    },
+    {
+     "sa": "आत्म",
+     "iast": "ātma",
+     "en": "self",
+     "hi": "आत्म"
+    },
+    {
+     "sa": "विज्ञानम्",
+     "iast": "vijñānam",
+     "en": "knowledge",
+     "hi": "ज्ञान"
+    },
+    {
+     "sa": "सद्वृत्तस्य",
+     "iast": "sadvṛttasya",
+     "en": "of good conduct",
+     "hi": "सद्वृत्त का"
+    },
+    {
+     "sa": "अनुवर्तनम्",
+     "iast": "anuvartanam",
+     "en": "following",
+     "hi": "पालन"
+    }
+   ],
+   "english": "Giving up prajñāparādha (errors of intellect), restraint of the senses, mindfulness (smṛti), knowledge of place, time and one's own self, and following sadvṛtta (code of good conduct)...",
+   "hindi": "प्रज्ञापराध (बुद्धि की गलतियों) का त्याग, इन्द्रियों का संयम, स्मृति (सजगता), देश, काल और अपने स्वभाव का ज्ञान, और सद्वृत्त का पालन...",
+   "explanation_en": "These are the preventive measures for āgantu (and mental) diseases. Prajñāparādha (knowingly doing wrong) is a key cause of disease in Āyurveda. The list continues in verse 33.",
+   "explanation_hi": "ये आगन्तु (और मानसिक) रोगों से बचाव के उपाय हैं। प्रज्ञापराध (जानते हुए गलत काम करना) आयुर्वेद में रोग का मुख्य कारण है। सूची श्लोक 33 में आगे है।",
+   "modern_correlation": {
+    "en": "Avoiding known risk behaviours, situational awareness and self-knowledge broadly parallel modern injury prevention and health-behaviour approaches.",
+    "hi": "जाने-पहचाने जोखिम भरे व्यवहार से बचना, परिस्थिति की समझ और आत्म-ज्ञान आधुनिक चोट-निवारण और स्वास्थ्य-व्यवहार पद्धतियों से मोटे तौर पर मिलते हैं।"
+   },
+   "key_terms": [
+    "prajñāparādha",
+    "indriya saṃyama",
+    "smṛti",
+    "sadvṛtta",
+    "āgantu roga nivāraṇa"
+   ],
+   "tags": [
+    "prevention",
+    "agantu",
+    "sadvritta"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.4.33",
+   "word_meanings": [
+    {
+     "sa": "अथर्वविहिता",
+     "iast": "atharvavihitā",
+     "en": "prescribed in the Atharvaveda",
+     "hi": "अथर्ववेद में बताई गई"
+    },
+    {
+     "sa": "शान्तिः",
+     "iast": "śāntiḥ",
+     "en": "pacificatory rites",
+     "hi": "शान्ति कर्म"
+    },
+    {
+     "sa": "प्रतिकूल",
+     "iast": "pratikūla",
+     "en": "adverse",
+     "hi": "प्रतिकूल"
+    },
+    {
+     "sa": "ग्रह",
+     "iast": "graha",
+     "en": "planets",
+     "hi": "ग्रहों की"
+    },
+    {
+     "sa": "अर्चनम्",
+     "iast": "arcanam",
+     "en": "worship",
+     "hi": "पूजा"
+    },
+    {
+     "sa": "भूतादि",
+     "iast": "bhūtādi",
+     "en": "spirits etc.",
+     "hi": "भूत आदि"
+    },
+    {
+     "sa": "अस्पर्शन",
+     "iast": "asparśana",
+     "en": "non-contact",
+     "hi": "स्पर्श न करना"
+    },
+    {
+     "sa": "उपायः",
+     "iast": "upāyaḥ",
+     "en": "method",
+     "hi": "उपाय"
+    },
+    {
+     "sa": "निर्दिष्टः",
+     "iast": "nirdiṣṭaḥ",
+     "en": "described",
+     "hi": "बताया गया"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "पृथक् पृथक्",
+     "iast": "pṛthak pṛthak",
+     "en": "separately",
+     "hi": "अलग-अलग"
+    }
+   ],
+   "english": "...pacificatory rites prescribed in the Atharvaveda, worship of adverse planets, and the means of avoiding contact with bhūtas (spirits) and the like, which are described separately (in their respective sections).",
+   "hindi": "...अथर्ववेद में बताए शान्ति कर्म, प्रतिकूल ग्रहों की पूजा, और भूत आदि से बचने (स्पर्श न होने) के उपाय, जो अलग-अलग (अपने प्रकरणों में) बताए गए हैं।",
+   "explanation_en": "These are daivavyapāśraya (spiritual/faith-based) measures, reflecting the classical view. Students should know them as part of the threefold therapy (daiva, yukti, sattvāvajaya). The details are in Uttarasthāna.",
+   "explanation_hi": "ये दैवव्यपाश्रय (आध्यात्मिक/आस्था आधारित) उपाय हैं, जो शास्त्रीय दृष्टिकोण दर्शाते हैं। विद्यार्थियों को इन्हें त्रिविध चिकित्सा (दैव, युक्ति, सत्त्वावजय) के अंग के रूप में जानना चाहिए। विवरण उत्तरस्थान में है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "daivavyapāśraya",
+    "śānti karma",
+    "bhūtavidyā"
+   ],
+   "tags": [
+    "prevention",
+    "agantu"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.4.34",
+   "word_meanings": [
+    {
+     "sa": "अनुत्पत्त्यै",
+     "iast": "anutpattyai",
+     "en": "for non-occurrence",
+     "hi": "उत्पत्ति न होने के लिए"
+    },
+    {
+     "sa": "समासेन",
+     "iast": "samāsena",
+     "en": "in brief",
+     "hi": "संक्षेप में"
+    },
+    {
+     "sa": "विधिः",
+     "iast": "vidhiḥ",
+     "en": "method",
+     "hi": "विधि"
+    },
+    {
+     "sa": "एषः",
+     "iast": "eṣaḥ",
+     "en": "this",
+     "hi": "यह"
+    },
+    {
+     "sa": "प्रदर्शितः",
+     "iast": "pradarśitaḥ",
+     "en": "has been shown",
+     "hi": "दिखाई गई है"
+    },
+    {
+     "sa": "निज",
+     "iast": "nija",
+     "en": "endogenous",
+     "hi": "निज"
+    },
+    {
+     "sa": "आगन्तु",
+     "iast": "āgantu",
+     "en": "exogenous",
+     "hi": "आगन्तु"
+    },
+    {
+     "sa": "विकाराणाम्",
+     "iast": "vikārāṇām",
+     "en": "of diseases",
+     "hi": "रोगों की"
+    },
+    {
+     "sa": "उत्पन्नानाम्",
+     "iast": "utpannānām",
+     "en": "of those that have arisen",
+     "hi": "उत्पन्न हुए"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "शान्तये",
+     "iast": "śāntaye",
+     "en": "for the cure",
+     "hi": "शान्ति के लिए"
+    }
+   ],
+   "english": "This method has been shown in brief for the non-occurrence (prevention) of nija and āgantu diseases, and for the cure of those that have already arisen.",
+   "hindi": "निज और आगन्तु रोगों की उत्पत्ति न होने (रोकथाम) के लिए, और जो रोग उत्पन्न हो चुके हैं उनकी शान्ति के लिए, यह विधि संक्षेप में बताई गई है।",
+   "explanation_en": "This is the summary statement of the chapter's purpose: rogānutpādana (prevention). It explains the chapter title.",
+   "explanation_hi": "यह अध्याय के उद्देश्य का सार-कथन है: रोगानुत्पादन (रोग न होने देना)। इससे अध्याय का नाम स्पष्ट होता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "rogānutpādana",
+    "nija roga",
+    "āgantu roga"
+   ],
+   "tags": [
+    "prevention",
+    "summary"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.4.35",
+   "word_meanings": [
+    {
+     "sa": "शीतोद्भवम्",
+     "iast": "śītodbhavam",
+     "en": "produced in the cold season",
+     "hi": "शीत काल में उत्पन्न"
+    },
+    {
+     "sa": "दोषचयम्",
+     "iast": "doṣacayam",
+     "en": "accumulation of doṣa",
+     "hi": "दोष संचय"
+    },
+    {
+     "sa": "वसन्ते",
+     "iast": "vasante",
+     "en": "in spring",
+     "hi": "वसन्त में"
+    },
+    {
+     "sa": "विशोधयन्",
+     "iast": "viśodhayan",
+     "en": "purifying",
+     "hi": "शोधन करते हुए"
+    },
+    {
+     "sa": "ग्रीष्मजम्",
+     "iast": "grīṣmajam",
+     "en": "produced in summer",
+     "hi": "ग्रीष्म में उत्पन्न"
+    },
+    {
+     "sa": "अभ्रकाले",
+     "iast": "abhrakāle",
+     "en": "in the cloudy season (rains)",
+     "hi": "वर्षा काल में"
+    },
+    {
+     "sa": "घनात्यये",
+     "iast": "ghanātyaye",
+     "en": "at the end of the clouds (autumn)",
+     "hi": "घनात्यय (शरद्) में"
+    },
+    {
+     "sa": "वार्षिकम्",
+     "iast": "vārṣikam",
+     "en": "produced in the rains",
+     "hi": "वर्षा में उत्पन्न"
+    },
+    {
+     "sa": "आशु",
+     "iast": "āśu",
+     "en": "promptly",
+     "hi": "शीघ्र"
+    },
+    {
+     "sa": "सम्यक्",
+     "iast": "samyak",
+     "en": "properly",
+     "hi": "सम्यक्"
+    },
+    {
+     "sa": "प्राप्नोति",
+     "iast": "prāpnoti",
+     "en": "gets",
+     "hi": "प्राप्त करता है"
+    },
+    {
+     "sa": "रोगान्",
+     "iast": "rogān",
+     "en": "diseases",
+     "hi": "रोगों को"
+    },
+    {
+     "sa": "ऋतुजान्",
+     "iast": "ṛtujān",
+     "en": "seasonal",
+     "hi": "ऋतुजन्य"
+    },
+    {
+     "sa": "न जातु",
+     "iast": "na jātu",
+     "en": "never",
+     "hi": "कभी नहीं"
+    }
+   ],
+   "english": "One who properly and promptly purifies the doṣa accumulated in the cold season during spring, that accumulated in summer during the rains, and that accumulated in the rains at the end of the rains (autumn), never gets seasonal diseases.",
+   "hindi": "जो व्यक्ति शीत काल में संचित दोष (कफ) का वसन्त में, ग्रीष्म में संचित दोष (वात) का वर्षा में, और वर्षा में संचित दोष (पित्त) का शरद् में सम्यक् और शीघ्र शोधन करता है, उसे ऋतुजन्य रोग कभी नहीं होते।",
+   "explanation_en": "A beautiful summary verse (in a longer metre) of seasonal śodhana: kapha (hemanta) purified in vasanta by vamana, vāta (grīṣma) in varṣā by vasti, pitta (varṣā) in śarad by virecana. This is a high-yield verse for exams.",
+   "explanation_hi": "यह ऋतु-शोधन का सुन्दर सार श्लोक (बड़े छन्द में) है: हेमन्त का कफ वसन्त में वमन से, ग्रीष्म का वात वर्षा में बस्ति से, वर्षा का पित्त शरद् में विरेचन से। यह परीक्षा के लिए बहुत महत्वपूर्ण श्लोक है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "ṛtu śodhana",
+    "doṣa sañcaya",
+    "vamana",
+    "vasti",
+    "virecana"
+   ],
+   "tags": [
+    "ritucharya",
+    "panchakarma",
+    "prevention"
+   ],
+   "importance": "high",
+   "mnemonic": "Kapha-Vasanta-Vamana, Vāta-Varṣā-Vasti, Pitta-Śarad-Virecana",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.4.36",
+   "word_meanings": [
+    {
+     "sa": "नित्यम्",
+     "iast": "nityam",
+     "en": "always",
+     "hi": "सदा"
+    },
+    {
+     "sa": "हित",
+     "iast": "hita",
+     "en": "wholesome",
+     "hi": "हितकर"
+    },
+    {
+     "sa": "आहार",
+     "iast": "āhāra",
+     "en": "diet",
+     "hi": "आहार"
+    },
+    {
+     "sa": "विहार",
+     "iast": "vihāra",
+     "en": "lifestyle",
+     "hi": "विहार"
+    },
+    {
+     "sa": "सेवी",
+     "iast": "sevī",
+     "en": "one who follows",
+     "hi": "सेवन करने वाला"
+    },
+    {
+     "sa": "समीक्ष्यकारी",
+     "iast": "samīkṣyakārī",
+     "en": "one who acts after deliberation",
+     "hi": "सोच-समझकर काम करने वाला"
+    },
+    {
+     "sa": "विषयेषु",
+     "iast": "viṣayeṣu",
+     "en": "in sense objects",
+     "hi": "विषयों में"
+    },
+    {
+     "sa": "असक्तः",
+     "iast": "asaktaḥ",
+     "en": "unattached",
+     "hi": "अनासक्त"
+    },
+    {
+     "sa": "दाता",
+     "iast": "dātā",
+     "en": "generous",
+     "hi": "दाता"
+    },
+    {
+     "sa": "समः",
+     "iast": "samaḥ",
+     "en": "even-minded",
+     "hi": "समभाव वाला"
+    },
+    {
+     "sa": "सत्यपरः",
+     "iast": "satyaparaḥ",
+     "en": "truthful",
+     "hi": "सत्यनिष्ठ"
+    },
+    {
+     "sa": "क्षमावान्",
+     "iast": "kṣamāvān",
+     "en": "forgiving",
+     "hi": "क्षमाशील"
+    },
+    {
+     "sa": "आप्तोपसेवी",
+     "iast": "āptopasevī",
+     "en": "who serves trustworthy elders",
+     "hi": "आप्त जनों की सेवा करने वाला"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "भवति",
+     "iast": "bhavati",
+     "en": "becomes",
+     "hi": "होता है"
+    },
+    {
+     "sa": "अरोगः",
+     "iast": "arogaḥ",
+     "en": "free from disease",
+     "hi": "रोगरहित"
+    }
+   ],
+   "english": "One who always follows wholesome diet and lifestyle, acts after deliberation, is unattached to sense pleasures, generous, even-minded, truthful, forgiving and keeps the company of trustworthy (wise) people, becomes free from disease.",
+   "hindi": "जो सदा हितकर आहार-विहार का सेवन करता है, सोच-समझकर काम करता है, विषयों में आसक्त नहीं होता, दानी, समभाव वाला, सत्यनिष्ठ, क्षमाशील है और आप्त (विश्वसनीय, ज्ञानी) लोगों की संगति करता है, वह रोगरहित रहता है।",
+   "explanation_en": "The famous closing verse of the chapter (and one of the most quoted in Āyurveda): 'nityaṃ hitāhāra-vihāra-sevī...'. It summarises physical, mental and social health. Learn it by heart for essay answers on svasthavṛtta.",
+   "explanation_hi": "अध्याय का प्रसिद्ध अंतिम श्लोक (और आयुर्वेद के सबसे अधिक उद्धृत श्लोकों में से एक): 'नित्यं हिताहारविहारसेवी...'। यह शारीरिक, मानसिक और सामाजिक स्वास्थ्य का सार है। स्वस्थवृत्त के निबन्ध उत्तरों के लिए इसे कंठस्थ करें।",
+   "modern_correlation": {
+    "en": "This holistic view of health, combining diet, behaviour, mental attitude and social support, broadly parallels the WHO definition of health as physical, mental and social well-being.",
+    "hi": "आहार, व्यवहार, मानसिक दृष्टिकोण और सामाजिक सहारे को मिलाने वाला यह समग्र दृष्टिकोण WHO की स्वास्थ्य परिभाषा (शारीरिक, मानसिक और सामाजिक कल्याण) से मोटे तौर पर मिलता है।"
+   },
+   "key_terms": [
+    "hitāhāra",
+    "hitavihāra",
+    "svasthavṛtta",
+    "āpta"
+   ],
+   "tags": [
+    "prevention",
+    "svasthavritta",
+    "summary"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  }
+ ]
+}

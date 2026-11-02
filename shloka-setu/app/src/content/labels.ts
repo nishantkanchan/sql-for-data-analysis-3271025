@@ -1,0 +1,20 @@
+/** Display names for glossary categories. */
+export const CATEGORY_LABELS: Record<string, { en: string; hi: string }> = {
+  siddhanta: { en: 'Principles', hi: 'सिद्धांत' },
+  padartha: { en: 'Padārtha', hi: 'पदार्थ' },
+  sharira: { en: 'Anatomy', hi: 'शारीर' },
+  kriya: { en: 'Physiology', hi: 'क्रिया' },
+  dravyaguna: { en: 'Dravyaguṇa', hi: 'द्रव्यगुण' },
+  rasashastra: { en: 'Rasaśāstra', hi: 'रसशास्त्र' },
+  nidana: { en: 'Pathology', hi: 'निदान' },
+  chikitsa: { en: 'Therapeutics', hi: 'चिकित्सा' },
+  panchakarma: { en: 'Pañcakarma', hi: 'पंचकर्म' },
+  swasthavritta: { en: 'Svasthavṛtta', hi: 'स्वस्थवृत्त' },
+  shalya: { en: 'Śalya', hi: 'शल्य' },
+  shalakya: { en: 'Śālākya', hi: 'शालाक्य' },
+  prasuti: { en: 'Prasūti', hi: 'प्रसूति' },
+  kaumarabhritya: { en: 'Kaumārabhṛtya', hi: 'कौमारभृत्य' },
+  agada: { en: 'Agada', hi: 'अगद' },
+  sanskrit: { en: 'Sanskrit', hi: 'संस्कृत' },
+  general: { en: 'General', hi: 'सामान्य' },
+};

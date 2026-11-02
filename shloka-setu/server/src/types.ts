@@ -23,6 +23,11 @@ export const CorpusVerseSchema = z
     iast: z.string(),
     devanagari: str,
     variants: z.array(z.object({ pada: str, reading: str }).loose()).catch([]),
+    // optional fields carried by charaka_samhita.json / sushruta_samhita.json
+    ref: z.string().nullable().optional().catch(null),
+    source: z.string().nullable().optional().catch(null),
+    pada: z.number().int().nullable().optional().catch(null),
+    verse_in_pada: z.number().int().nullable().optional().catch(null),
   })
   .loose();
 export type CorpusVerse = z.infer<typeof CorpusVerseSchema>;
@@ -112,6 +117,13 @@ export interface VerseView {
   iast: string;
   devanagari: string;
   variants: { pada: string; reading: string }[];
+  /** Display reference from the corpus, e.g. "Ca. Ci. 1.2.41" (null when the corpus has none, e.g. AH). */
+  ref: string | null;
+  /** Per-verse provenance from the corpus (e.g. "dcs", "vedicreserve", "wikisource"), null if absent. */
+  source: string | null;
+  /** Cikitsā 1-2 of Caraka have pādas: id verse number = pada*100 + verse_in_pada. */
+  pada: number | null;
+  verse_in_pada: number | null;
   source_title: string;
   translation: VerseTranslation | null;
   chapter_info: Pick<ChapterMeta, "id" | "title_iast" | "title_devanagari" | "title_en" | "title_hi"> | null;
@@ -121,6 +133,7 @@ export interface MatchInfo {
   id: string;
   score: number;
   source_title: string;
+  ref: string | null;
 }
 
 export type ScanSource = "curated" | "ai" | "corpus_only" | "mock";

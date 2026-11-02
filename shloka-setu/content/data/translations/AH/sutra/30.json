@@ -1,0 +1,5083 @@
+{
+ "chapter": {
+  "id": "AH.sutra.30",
+  "text": "ashtanga_hridaya",
+  "sthana": "sutra",
+  "chapter": 30,
+  "title_iast": "Kṣārāgnikarmavidhi Adhyāya",
+  "title_devanagari": "क्षाराग्निकर्मविधिरध्यायः",
+  "title_en": "The chapter on the procedures of alkali (caustic) and fire (cautery) therapy",
+  "title_hi": "क्षाराग्निकर्मविधि अध्याय (क्षार कर्म और अग्नि कर्म की विधि)",
+  "summary_en": "The last chapter of Sūtrasthāna deals with the two most powerful para-surgical methods, kṣāra karma (caustic alkali therapy) and agnikarma (thermal cautery). Kṣāra is called the best of all śastras and anuśastras because it can excise, incise and scrape even in difficult places, and because it can also be taken internally. The chapter lists indications of pānīya (internal) and pratisāraṇīya (external) kṣāra, a long list of contraindications, the detailed preparation of muṣkaka kṣāra and its three grades (mṛdu, madhyama, tīkṣṇa), and the ten qualities of a good kṣāra. It then describes application (100 mātrās, 50 for nose and ear), signs of proper, under- and over-burning, complications at the anus and nose, and neutralisation with sour substances. Agnikarma is declared superior even to kṣāra because diseases treated by it do not recur; its six sites, indications, heating instruments, contraindications and signs of proper burning are given, followed by the fourfold classification of accidental burns (tuccha, durdagdha, samyagdagdha, atidagdha) and their treatment. The chapter and the whole Sūtrasthāna close with a warning that knife, alkali and fire are weapons of death in careless hands. It is very important for Śalya Tantra exams, especially kṣāra-sūtra related topics.",
+  "summary_hi": "सूत्रस्थान का अंतिम अध्याय दो सबसे शक्तिशाली अनुशस्त्र विधियों, क्षार कर्म और अग्निकर्म, के बारे में है। क्षार को सभी शस्त्रों और अनुशस्त्रों में श्रेष्ठ कहा गया है, क्योंकि वह कठिन स्थानों पर भी छेदन, भेदन और लेखन कर सकता है, और उसे पिया भी जा सकता है। अध्याय में पानीय (आंतरिक) और प्रतिसारणीय (बाहरी) क्षार के संकेत, निषेधों की लंबी सूची, मुष्कक क्षार बनाने की विस्तृत विधि और उसकी तीन श्रेणियाँ (मृदु, मध्यम, तीक्ष्ण), तथा अच्छे क्षार के दस गुण बताए गए हैं। फिर क्षार लगाने की विधि (100 मात्रा, नाक और कान में 50), ठीक, कम और अधिक जलने के लक्षण, गुदा और नाक में उपद्रव, और खट्टे द्रव्यों से क्षार को शांत करना बताया गया है। अग्निकर्म को क्षार से भी श्रेष्ठ कहा गया है क्योंकि उससे चिकित्सित रोग फिर नहीं होते; उसके छह स्थान, संकेत, दहन के साधन, निषेध और ठीक से जलने के लक्षण दिए गए हैं, फिर असावधानी से जलने के चार प्रकार (तुच्छ, दुर्दग्ध, सम्यग्दग्ध, अतिदग्ध) और उनका उपचार है। अध्याय और पूरा सूत्रस्थान इस चेतावनी के साथ समाप्त होता है कि लापरवाह हाथों में शस्त्र, क्षार और अग्नि मृत्यु के हथियार हैं। शल्य तंत्र की परीक्षा के लिए, विशेषकर क्षारसूत्र से जुड़े विषयों के लिए, यह अध्याय बहुत महत्वपूर्ण है।",
+  "key_concepts": [
+   "kṣāra",
+   "pānīya kṣāra",
+   "pratisāraṇīya kṣāra",
+   "mṛdu-madhyama-tīkṣṇa kṣāra",
+   "kṣāra guṇa",
+   "mātrāśata",
+   "samyak dagdha",
+   "amla nirvāpaṇa",
+   "agnikarma",
+   "dahana sthāna",
+   "dahanopakaraṇa",
+   "pramādadagdha"
+  ],
+  "exam_focus_en": [
+   "Why kṣāra is the best of śastra and anuśastra; indications of pānīya and pratisāraṇīya kṣāra (30.1-4).",
+   "Contraindications of kṣāra (patient, disease, site and season factors) (30.4-8).",
+   "Preparation of muṣkaka kṣāra and its three grades: mṛdu, madhyama, tīkṣṇa (30.8-23).",
+   "Ten qualities of an ideal kṣāra; application time (100 mātrā, 50 for nose and ear); signs of samyak, dur- and atidagdha; neutralisation with amla (30.24-39).",
+   "Superiority of agnikarma (apunarbhava); six dahana sthānas, indications, instruments and contraindications (30.40-44).",
+   "Signs of samyak dagdha in agnikarma and the four types of pramādadagdha (tuccha, durdagdha, samyagdagdha, atidagdha) with treatment (30.45-52)."
+  ],
+  "exam_focus_hi": [
+   "क्षार शस्त्र-अनुशस्त्रों में श्रेष्ठ क्यों; पानीय और प्रतिसारणीय क्षार के संकेत (30.1-4)।",
+   "क्षार के निषेध (रोगी, रोग, स्थान और ऋतु संबंधी) (30.4-8)।",
+   "मुष्कक क्षार का निर्माण और उसकी तीन श्रेणियाँ: मृदु, मध्यम, तीक्ष्ण (30.8-23)।",
+   "आदर्श क्षार के दस गुण; लगाने का समय (100 मात्रा, नाक-कान में 50); सम्यक्, दुर्दग्ध और अतिदग्ध के लक्षण; अम्ल से शांत करना (30.24-39)।",
+   "अग्निकर्म की श्रेष्ठता (अपुनर्भव); छह दहन स्थान, संकेत, उपकरण और निषेध (30.40-44)।",
+   "अग्निकर्म में सम्यक् दग्ध के लक्षण और प्रमाददग्ध के चार प्रकार (तुच्छ, दुर्दग्ध, सम्यग्दग्ध, अतिदग्ध) तथा उपचार (30.45-52)।"
+  ],
+  "syllabus_refs": [
+   "AyUG-SA1"
+  ],
+  "review_status": "ai_draft"
+ },
+ "verses": [
+  {
+   "id": "AH.sutra.30.1",
+   "word_meanings": [
+    {
+     "sa": "सर्व",
+     "iast": "sarva",
+     "en": "all",
+     "hi": "सभी"
+    },
+    {
+     "sa": "शस्त्र",
+     "iast": "śastra",
+     "en": "sharp instruments",
+     "hi": "शस्त्र"
+    },
+    {
+     "sa": "अनुशस्त्राणाम्",
+     "iast": "anuśastrāṇām",
+     "en": "and substitute instruments",
+     "hi": "और अनुशस्त्रों में"
+    },
+    {
+     "sa": "क्षारः",
+     "iast": "kṣāraḥ",
+     "en": "alkali (caustic)",
+     "hi": "क्षार"
+    },
+    {
+     "sa": "श्रेष्ठः",
+     "iast": "śreṣṭhaḥ",
+     "en": "the best",
+     "hi": "श्रेष्ठ"
+    },
+    {
+     "sa": "बहूनि",
+     "iast": "bahūni",
+     "en": "many",
+     "hi": "अनेक"
+    },
+    {
+     "sa": "यत्",
+     "iast": "yat",
+     "en": "because",
+     "hi": "क्योंकि"
+    },
+    {
+     "sa": "छेद्य",
+     "iast": "chedya",
+     "en": "excision",
+     "hi": "छेदन"
+    },
+    {
+     "sa": "भेद्य",
+     "iast": "bhedya",
+     "en": "incision",
+     "hi": "भेदन"
+    },
+    {
+     "sa": "आदि",
+     "iast": "ādi",
+     "en": "etc.",
+     "hi": "आदि"
+    },
+    {
+     "sa": "कर्माणि",
+     "iast": "karmāṇi",
+     "en": "procedures",
+     "hi": "कर्म"
+    },
+    {
+     "sa": "कुरुते",
+     "iast": "kurute",
+     "en": "performs",
+     "hi": "करता है"
+    },
+    {
+     "sa": "विषमेषु",
+     "iast": "viṣameṣu",
+     "en": "in difficult (irregular) places",
+     "hi": "कठिन (विषम) स्थानों में"
+    },
+    {
+     "sa": "अपि",
+     "iast": "api",
+     "en": "even",
+     "hi": "भी"
+    }
+   ],
+   "english": "Of all śastras (sharp instruments) and anuśastras (substitute instruments), kṣāra (caustic alkali) is the best, because it performs many procedures such as excision (chedya) and incision (bhedya), even in difficult, irregular places,",
+   "hindi": "सभी शस्त्रों और अनुशस्त्रों में क्षार श्रेष्ठ है, क्योंकि वह छेदन, भेदन आदि अनेक कर्म कठिन (विषम) स्थानों में भी कर देता है,",
+   "explanation_en": "The chapter on alkali and fire therapy (Kṣārāgnikarmavidhi) opens by praising kṣāra as the best of all śastra and anuśastra. Reasons continue in verse 2. The statement 'kṣāraḥ śreṣṭhaḥ sarvaśastrānuśastrāṇām' is a very common exam quotation, often asked as 'why is kṣāra superior?'.",
+   "explanation_hi": "क्षाराग्निकर्मविधि अध्याय क्षार की प्रशंसा से शुरू होता है कि वह सब शस्त्र-अनुशस्त्रों में श्रेष्ठ है। कारण श्लोक 2 में आगे हैं। 'क्षारः श्रेष्ठः सर्वशस्त्रानुशस्त्राणाम्' परीक्षा का बहुत प्रसिद्ध उद्धरण है, जो 'क्षार श्रेष्ठ क्यों है?' के रूप में पूछा जाता है।",
+   "modern_correlation": {
+    "en": "Kṣāra karma is often compared to chemical cauterisation in modern practice (e.g. with silver nitrate, phenol or trichloroacetic acid), which can destroy or excise tissue in sites where cutting is difficult.",
+    "hi": "क्षार कर्म की तुलना अक्सर आधुनिक chemical cauterisation (जैसे silver nitrate, phenol या trichloroacetic acid से) से की जाती है, जो उन स्थानों पर ऊतक नष्ट या अलग कर सकता है जहाँ काटना कठिन हो।"
+   },
+   "key_terms": [
+    "kṣāra",
+    "śastra",
+    "anuśastra",
+    "chedana",
+    "bhedana"
+   ],
+   "tags": [
+    "kshara",
+    "definitions",
+    "superiority"
+   ],
+   "importance": "high",
+   "mnemonic": "Kṣāra = king of anuśastras: cuts, opens, scrapes without a knife.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.2",
+   "word_meanings": [
+    {
+     "sa": "दुःखावचार्यशस्त्रेषु",
+     "iast": "duḥkhāvacāryaśastreṣu",
+     "en": "in those on whom the knife is hard to use",
+     "hi": "जिन पर शस्त्र चलाना कठिन हो"
+    },
+    {
+     "sa": "तेन",
+     "iast": "tena",
+     "en": "by it (the knife)",
+     "hi": "उससे (शस्त्र से)"
+    },
+    {
+     "sa": "सिद्धिम् अयात्सु",
+     "iast": "siddhim ayātsu",
+     "en": "in those not attaining cure",
+     "hi": "जो ठीक न हो रहे हों"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "अतिकृच्छ्रेषु",
+     "iast": "atikṛcchreṣu",
+     "en": "very difficult",
+     "hi": "अत्यंत कठिन"
+    },
+    {
+     "sa": "रोगेषु",
+     "iast": "rogeṣu",
+     "en": "in diseases",
+     "hi": "रोगों में"
+    },
+    {
+     "sa": "यत् च",
+     "iast": "yat ca",
+     "en": "and because",
+     "hi": "और क्योंकि"
+    },
+    {
+     "sa": "पाने अपि",
+     "iast": "pāne api",
+     "en": "even internally (as a drink)",
+     "hi": "पीने में भी"
+    },
+    {
+     "sa": "युज्यते",
+     "iast": "yujyate",
+     "en": "is used",
+     "hi": "प्रयोग होता है"
+    }
+   ],
+   "english": "(and because it is useful) in patients on whom the knife is hard to use, in those not cured by it (the knife), and in very difficult diseases; and because it is used even internally (as a drink).",
+   "hindi": "(और क्योंकि वह उपयोगी है) उन रोगियों में जिन पर शस्त्र चलाना कठिन हो, जो शस्त्र से ठीक न हुए हों, और अत्यंत कठिन रोगों में; और क्योंकि उसका प्रयोग पीने (आंतरिक) में भी होता है।",
+   "explanation_en": "Reasons for kṣāra's superiority: it works where the knife cannot (fearful patients, difficult sites), where surgery has failed, in very hard diseases, and it is both internal and external. This introduces the two types, pānīya (to be drunk) and pratisāraṇīya (external), detailed in verse 3.",
+   "explanation_hi": "क्षार की श्रेष्ठता के कारण: वह वहाँ काम करता है जहाँ शस्त्र नहीं कर सकता (डरपोक रोगी, कठिन स्थान), जहाँ शस्त्र असफल रहा हो, अत्यंत कठिन रोगों में, और वह आंतरिक तथा बाह्य दोनों प्रकार से प्रयोग होता है। इससे दो प्रकार आते हैं: पानीय (पीने वाला) और प्रतिसारणीय (बाहरी), जिनका विवरण श्लोक 3 में है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "kṣāra",
+    "pānīya kṣāra",
+    "śastra"
+   ],
+   "tags": [
+    "kshara",
+    "superiority",
+    "types"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.3",
+   "word_meanings": [
+    {
+     "sa": "सः",
+     "iast": "saḥ",
+     "en": "it (kṣāra)",
+     "hi": "वह (क्षार)"
+    },
+    {
+     "sa": "पेयः",
+     "iast": "peyaḥ",
+     "en": "should be drunk",
+     "hi": "पीना चाहिए"
+    },
+    {
+     "sa": "अर्शः",
+     "iast": "arśaḥ",
+     "en": "haemorrhoids",
+     "hi": "अर्श (बवासीर)"
+    },
+    {
+     "sa": "अग्निसाद",
+     "iast": "agnisāda",
+     "en": "weak digestion",
+     "hi": "अग्निमांद्य"
+    },
+    {
+     "sa": "अश्म",
+     "iast": "aśma",
+     "en": "urinary stone",
+     "hi": "अश्मरी"
+    },
+    {
+     "sa": "गुल्म",
+     "iast": "gulma",
+     "en": "abdominal lump",
+     "hi": "गुल्म"
+    },
+    {
+     "sa": "उदर",
+     "iast": "udara",
+     "en": "abdominal enlargement",
+     "hi": "उदर रोग"
+    },
+    {
+     "sa": "गर",
+     "iast": "gara",
+     "en": "artificial (slow) poison",
+     "hi": "गर विष"
+    },
+    {
+     "sa": "आदिषु",
+     "iast": "ādiṣu",
+     "en": "etc.",
+     "hi": "आदि में"
+    },
+    {
+     "sa": "योज्यः",
+     "iast": "yojyaḥ",
+     "en": "to be applied",
+     "hi": "प्रयोग करना चाहिए"
+    },
+    {
+     "sa": "साक्षात्",
+     "iast": "sākṣāt",
+     "en": "directly (externally)",
+     "hi": "सीधे (बाहर से)"
+    },
+    {
+     "sa": "मष",
+     "iast": "maṣa",
+     "en": "moles",
+     "hi": "मस्सा (तिल)"
+    },
+    {
+     "sa": "श्वित्र",
+     "iast": "śvitra",
+     "en": "leucoderma",
+     "hi": "श्वित्र (सफ़ेद दाग)"
+    },
+    {
+     "sa": "बाह्यार्शः",
+     "iast": "bāhyārśaḥ",
+     "en": "external piles",
+     "hi": "बाहरी अर्श"
+    },
+    {
+     "sa": "कुष्ठ",
+     "iast": "kuṣṭha",
+     "en": "skin diseases",
+     "hi": "कुष्ठ"
+    },
+    {
+     "sa": "सुप्तिषु",
+     "iast": "suptiṣu",
+     "en": "numbness",
+     "hi": "सुन्नपन में"
+    }
+   ],
+   "english": "It (pānīya kṣāra) should be drunk in haemorrhoids (arśas), weak digestion (agnisāda), urinary stone (aśmarī), gulma (abdominal lump), udara (abdominal enlargement), gara (slow poison) and the like. It should be applied directly (externally, pratisāraṇīya) in moles (maṣa), leucoderma (śvitra), external piles, kuṣṭha (skin diseases), numbness (supti),",
+   "hindi": "पानीय क्षार अर्श (बवासीर), अग्निमांद्य, अश्मरी (पथरी), गुल्म, उदर रोग, गर विष आदि में पीना चाहिए। प्रतिसारणीय (बाहरी) क्षार सीधे मस्सा (मष), श्वित्र (सफ़ेद दाग), बाहरी अर्श, कुष्ठ, सुप्ति (सुन्नपन),",
+   "explanation_en": "This lists indications for the two kinds of kṣāra: pānīya (internal) and pratisāraṇīya (external application). External indications continue in verse 4. This is one of the most frequently asked questions in Śalya Tantra: 'indications of pānīya and pratisāraṇīya kṣāra'.",
+   "explanation_hi": "यह दोनों प्रकार के क्षार के संकेत बताता है: पानीय (आंतरिक) और प्रतिसारणीय (बाहरी)। बाहरी संकेत श्लोक 4 में आगे हैं। शल्य तंत्र में यह बहुत पूछा जाने वाला प्रश्न है: 'पानीय और प्रतिसारणीय क्षार के संकेत'।",
+   "modern_correlation": {
+    "en": "External caustic application to moles, warts and skin lesions broadly parallels modern chemical cautery of superficial lesions. Internal alkaline preparations are sometimes compared to antacids, but the classical pānīya kṣāra is a different preparation and should not be equated with modern drugs.",
+    "hi": "मस्सों और त्वचा के घावों पर बाहरी क्षार लगाना आधुनिक सतही घावों के chemical cautery से मोटे तौर पर मिलता है। आंतरिक क्षारीय योगों की तुलना कभी-कभी antacid से की जाती है, पर शास्त्रीय पानीय क्षार एक अलग योग है और उसे आधुनिक दवाओं के बराबर नहीं मानना चाहिए।"
+   },
+   "key_terms": [
+    "pānīya kṣāra",
+    "pratisāraṇīya kṣāra",
+    "arśas",
+    "aśmarī",
+    "gulma",
+    "śvitra"
+   ],
+   "tags": [
+    "kshara",
+    "types",
+    "indications"
+   ],
+   "importance": "high",
+   "mnemonic": "Drink kṣāra for inside lumps & stones (arśas, aśmarī, gulma, udara); apply kṣāra for outside spots (maṣa, śvitra, kuṣṭha).",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.4",
+   "word_meanings": [
+    {
+     "sa": "भगन्दर",
+     "iast": "bhagandara",
+     "en": "fistula-in-ano",
+     "hi": "भगन्दर"
+    },
+    {
+     "sa": "अर्बुद",
+     "iast": "arbuda",
+     "en": "tumour",
+     "hi": "अर्बुद"
+    },
+    {
+     "sa": "ग्रन्थि",
+     "iast": "granthi",
+     "en": "cyst/nodule",
+     "hi": "ग्रन्थि"
+    },
+    {
+     "sa": "दुष्टनाडीव्रण",
+     "iast": "duṣṭanāḍīvraṇa",
+     "en": "chronic ulcer and sinus",
+     "hi": "दुष्ट व्रण और नाड़ीव्रण"
+    },
+    {
+     "sa": "आदिषु",
+     "iast": "ādiṣu",
+     "en": "etc.",
+     "hi": "आदि में"
+    },
+    {
+     "sa": "न तु",
+     "iast": "na tu",
+     "en": "but not",
+     "hi": "परंतु नहीं"
+    },
+    {
+     "sa": "उभयः अपि",
+     "iast": "ubhayaḥ api",
+     "en": "either of the two",
+     "hi": "दोनों में से कोई भी"
+    },
+    {
+     "sa": "योक्तव्यः",
+     "iast": "yoktavyaḥ",
+     "en": "should be used",
+     "hi": "प्रयोग करना चाहिए"
+    },
+    {
+     "sa": "पित्ते",
+     "iast": "pitte",
+     "en": "in pitta (disorders)",
+     "hi": "पित्त (विकारों) में"
+    },
+    {
+     "sa": "रक्ते",
+     "iast": "rakte",
+     "en": "in bleeding disorders",
+     "hi": "रक्त (विकारों) में"
+    },
+    {
+     "sa": "चले",
+     "iast": "cale",
+     "en": "in (aggravated) vāta / restless",
+     "hi": "चल (वात) में"
+    },
+    {
+     "sa": "अबले",
+     "iast": "abale",
+     "en": "in the weak",
+     "hi": "दुर्बल में"
+    }
+   ],
+   "english": "fistula-in-ano (bhagandara), tumours (arbuda), nodules (granthi), chronic ulcers and sinuses (duṣṭa vraṇa, nāḍī vraṇa) and the like. But neither of the two (types) should be used in (disorders of) pitta and rakta, in (aggravated) vāta (cala), or in a weak person,",
+   "hindi": "भगन्दर, अर्बुद, ग्रन्थि, दुष्ट व्रण और नाड़ीव्रण (साइनस) आदि में (लगाना चाहिए)। परंतु दोनों में से कोई भी (क्षार) पित्त और रक्त विकारों में, (बढ़े हुए) वात (चल) में, या दुर्बल व्यक्ति में प्रयोग नहीं करना चाहिए,",
+   "explanation_en": "Bhagandara and nāḍī vraṇa are key indications; this is the classical basis of kṣāra sūtra therapy (a medicated thread coated with kṣāra), widely used today for fistula-in-ano. The second half starts the long list of contraindications (verses 4-8). The word 'cale' is variously explained (vāta disorders, or an unsteady/restless patient).",
+   "explanation_hi": "भगन्दर और नाड़ीव्रण मुख्य संकेत हैं; यही क्षारसूत्र चिकित्सा (क्षार लगा औषधीय धागा) का शास्त्रीय आधार है, जो आज भगन्दर में व्यापक रूप से प्रयोग होती है। दूसरा भाग निषेधों की लंबी सूची शुरू करता है (श्लोक 4-8)। 'चले' शब्द की अलग-अलग व्याख्या है (वात विकार, या अस्थिर/बेचैन रोगी)।",
+   "modern_correlation": {
+    "en": "Use of kṣāra in fistula-in-ano is the basis of kṣāra-sūtra therapy, which has been evaluated in clinical studies, including comparisons with conventional fistulotomy. Chemical destruction of sinus tracts broadly parallels some modern chemical methods for sinus and fistula management.",
+    "hi": "भगन्दर में क्षार का प्रयोग क्षारसूत्र चिकित्सा का आधार है, जिसका मूल्यांकन नैदानिक अध्ययनों में हुआ है, जिनमें सामान्य fistulotomy से तुलना भी शामिल है। साइनस मार्ग को रासायनिक रूप से नष्ट करना आधुनिक साइनस और fistula के कुछ रासायनिक उपचारों से मोटे तौर पर मिलता है।"
+   },
+   "key_terms": [
+    "bhagandara",
+    "arbuda",
+    "nāḍīvraṇa",
+    "kṣārasūtra",
+    "kṣāra contraindications"
+   ],
+   "tags": [
+    "kshara",
+    "indications",
+    "contraindications",
+    "kshara-sutra"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.5",
+   "word_meanings": [
+    {
+     "sa": "ज्वरे",
+     "iast": "jvare",
+     "en": "in fever",
+     "hi": "ज्वर में"
+    },
+    {
+     "sa": "अतीसारे",
+     "iast": "atīsāre",
+     "en": "in diarrhoea",
+     "hi": "अतिसार में"
+    },
+    {
+     "sa": "हृन्मूर्धरोगे",
+     "iast": "hṛnmūrdharoge",
+     "en": "in heart and head diseases",
+     "hi": "हृदय और सिर के रोगों में"
+    },
+    {
+     "sa": "पाण्ड्वामये",
+     "iast": "pāṇḍvāmaye",
+     "en": "in anaemia (pāṇḍu)",
+     "hi": "पाण्डु रोग में"
+    },
+    {
+     "sa": "अरुचौ",
+     "iast": "arucau",
+     "en": "in anorexia",
+     "hi": "अरुचि में"
+    },
+    {
+     "sa": "तिमिरे",
+     "iast": "timire",
+     "en": "in timira (eye disease)",
+     "hi": "तिमिर (नेत्र रोग) में"
+    },
+    {
+     "sa": "कृतसंशुद्धौ",
+     "iast": "kṛtasaṃśuddhau",
+     "en": "in one who has undergone purification",
+     "hi": "जिसका शोधन हुआ हो"
+    },
+    {
+     "sa": "श्वयथौ",
+     "iast": "śvayathau",
+     "en": "in swelling",
+     "hi": "सूजन में"
+    },
+    {
+     "sa": "सर्वगात्रगे",
+     "iast": "sarvagātrage",
+     "en": "spread over the whole body",
+     "hi": "पूरे शरीर में फैली"
+    }
+   ],
+   "english": "in fever, diarrhoea, diseases of the heart and head, anaemia (pāṇḍu), anorexia, timira (an eye disease), in one who has just undergone purification (śodhana), and in swelling spread over the whole body,",
+   "hindi": "ज्वर, अतिसार, हृदय और सिर के रोग, पाण्डु, अरुचि, तिमिर (नेत्र रोग), जिसका अभी शोधन हुआ हो, और पूरे शरीर में फैली सूजन में (क्षार नहीं देना चाहिए),",
+   "explanation_en": "These contraindications cover systemic illness and weakness, where kṣāra (which is sharp, hot and depleting) would harm the patient. The list continues in verses 6-8.",
+   "explanation_hi": "ये निषेध सार्वदैहिक रोग और दुर्बलता से संबंधित हैं, जहाँ क्षार (जो तीक्ष्ण, उष्ण और कृश करने वाला है) रोगी को हानि पहुँचाएगा। सूची श्लोक 6-8 में आगे है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "kṣāra contraindications",
+    "jvara",
+    "pāṇḍu",
+    "śvayathu"
+   ],
+   "tags": [
+    "kshara",
+    "contraindications"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.6",
+   "word_meanings": [
+    {
+     "sa": "भीरु",
+     "iast": "bhīru",
+     "en": "timid",
+     "hi": "डरपोक"
+    },
+    {
+     "sa": "गर्भिणी",
+     "iast": "garbhiṇī",
+     "en": "pregnant woman",
+     "hi": "गर्भवती"
+    },
+    {
+     "sa": "ऋतुमती",
+     "iast": "ṛtumatī",
+     "en": "menstruating woman",
+     "hi": "रजस्वला"
+    },
+    {
+     "sa": "प्रोद्वृत्तफलयोनिषु",
+     "iast": "prodvṛttaphalayoniṣu",
+     "en": "in prolapse of uterus/vagina",
+     "hi": "गर्भाशय/योनि के बाहर निकलने (भ्रंश) में"
+    },
+    {
+     "sa": "अजीर्णे अन्ने",
+     "iast": "ajīrṇe anne",
+     "en": "when food is undigested",
+     "hi": "भोजन न पचा हो"
+    },
+    {
+     "sa": "शिशौ",
+     "iast": "śiśau",
+     "en": "in a child",
+     "hi": "शिशु में"
+    },
+    {
+     "sa": "वृद्धे",
+     "iast": "vṛddhe",
+     "en": "in the elderly",
+     "hi": "वृद्ध में"
+    },
+    {
+     "sa": "धमनी",
+     "iast": "dhamanī",
+     "en": "arteries",
+     "hi": "धमनियों"
+    },
+    {
+     "sa": "संधि",
+     "iast": "saṃdhi",
+     "en": "joints",
+     "hi": "जोड़ों"
+    },
+    {
+     "sa": "मर्मसु",
+     "iast": "marmasu",
+     "en": "and vital points",
+     "hi": "और मर्मों पर"
+    }
+   ],
+   "english": "in the timid, in pregnant and menstruating women, in uterine/vaginal prolapse, when food is undigested, in children and the elderly, and over arteries (dhamanī), joints and marmas,",
+   "hindi": "डरपोक, गर्भवती और रजस्वला स्त्री में, गर्भाशय/योनि भ्रंश में, भोजन न पचा हो तब, शिशु और वृद्ध में, और धमनी, जोड़ों तथा मर्मों पर (क्षार नहीं लगाना चाहिए),",
+   "explanation_en": "Patient-related (timid, pregnant, child, elderly) and site-related (arteries, joints, marmas) contraindications. The site list continues in verse 7. Exam tip: divide contraindications into patient factors, disease factors, site factors and season factors.",
+   "explanation_hi": "रोगी संबंधी (डरपोक, गर्भवती, शिशु, वृद्ध) और स्थान संबंधी (धमनी, जोड़, मर्म) निषेध। स्थानों की सूची श्लोक 7 में आगे है। परीक्षा टिप: निषेधों को रोगी, रोग, स्थान और ऋतु के कारकों में बाँटकर लिखें।",
+   "modern_correlation": null,
+   "key_terms": [
+    "kṣāra contraindications",
+    "garbhiṇī",
+    "marma"
+   ],
+   "tags": [
+    "kshara",
+    "contraindications"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.7",
+   "word_meanings": [
+    {
+     "sa": "तरुणास्थि",
+     "iast": "taruṇāsthi",
+     "en": "cartilage (tender bone)",
+     "hi": "तरुणास्थि (उपास्थि)"
+    },
+    {
+     "sa": "सिरा",
+     "iast": "sirā",
+     "en": "veins",
+     "hi": "सिराएँ"
+    },
+    {
+     "sa": "स्नायु",
+     "iast": "snāyu",
+     "en": "ligaments",
+     "hi": "स्नायु"
+    },
+    {
+     "sa": "सेवनी",
+     "iast": "sevanī",
+     "en": "sutures (raphe)",
+     "hi": "सेवनी"
+    },
+    {
+     "sa": "गल",
+     "iast": "gala",
+     "en": "throat",
+     "hi": "गला"
+    },
+    {
+     "sa": "नाभिषु",
+     "iast": "nābhiṣu",
+     "en": "navel",
+     "hi": "नाभि"
+    },
+    {
+     "sa": "देशे अल्पमांसे",
+     "iast": "deśe alpamāṃse",
+     "en": "in a region with little flesh",
+     "hi": "कम मांस वाले स्थान में"
+    },
+    {
+     "sa": "वृषण",
+     "iast": "vṛṣaṇa",
+     "en": "testes",
+     "hi": "वृषण"
+    },
+    {
+     "sa": "मेढ्र",
+     "iast": "meḍhra",
+     "en": "penis",
+     "hi": "शिश्न"
+    },
+    {
+     "sa": "स्रोतः",
+     "iast": "srotaḥ",
+     "en": "channel openings",
+     "hi": "स्रोतस"
+    },
+    {
+     "sa": "नखान्तरे",
+     "iast": "nakhāntare",
+     "en": "under the nails",
+     "hi": "नाखूनों के बीच/नीचे"
+    }
+   ],
+   "english": "over cartilage (taruṇāsthi), veins, ligaments, sutures (sevanī), throat, navel, regions with little flesh, testes, penis, channels (srotas) and under the nails,",
+   "hindi": "तरुणास्थि (उपास्थि), सिरा, स्नायु, सेवनी, गला, नाभि, कम मांस वाले स्थान, वृषण, शिश्न, स्रोतस और नाखूनों के नीचे (क्षार नहीं लगाना चाहिए),",
+   "explanation_en": "These delicate structures could be destroyed or stenosed by a caustic. The list ends in verse 8 with the eyes and unfavourable weather.",
+   "explanation_hi": "इन नाज़ुक रचनाओं को क्षार नष्ट कर सकता है या संकरा (stenosis) कर सकता है। सूची श्लोक 8 में आँखों और प्रतिकूल मौसम के साथ समाप्त होती है।",
+   "modern_correlation": {
+    "en": "Avoiding caustics over thin-skinned areas, cartilage, genitalia and orifices broadly parallels modern caution with chemical cautery near delicate structures, where it can cause deep injury or scarring and stricture.",
+    "hi": "पतली त्वचा, उपास्थि, जननांगों और छिद्रों पर क्षार से बचना, आधुनिक chemical cautery में नाज़ुक रचनाओं के पास सावधानी से मोटे तौर पर मिलता है, जहाँ इससे गहरी क्षति या निशान और संकुचन (stricture) हो सकता है।"
+   },
+   "key_terms": [
+    "kṣāra contraindications",
+    "taruṇāsthi",
+    "sevanī",
+    "srotas"
+   ],
+   "tags": [
+    "kshara",
+    "contraindications",
+    "sites"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.8",
+   "word_meanings": [
+    {
+     "sa": "वर्त्मरोगात् ऋते",
+     "iast": "vartmarogāt ṛte",
+     "en": "except in eyelid diseases",
+     "hi": "पलक के रोगों को छोड़कर"
+    },
+    {
+     "sa": "अक्ष्णोः",
+     "iast": "akṣṇoḥ",
+     "en": "of the eyes",
+     "hi": "आँखों में"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "शीत",
+     "iast": "śīta",
+     "en": "cold",
+     "hi": "ठंडे"
+    },
+    {
+     "sa": "वर्ष",
+     "iast": "varṣa",
+     "en": "rainy",
+     "hi": "वर्षा"
+    },
+    {
+     "sa": "उष्ण",
+     "iast": "uṣṇa",
+     "en": "hot",
+     "hi": "गर्म"
+    },
+    {
+     "sa": "दुर्दिने",
+     "iast": "durdine",
+     "en": "on a bad (cloudy) day",
+     "hi": "खराब (बादल वाले) दिन में"
+    },
+    {
+     "sa": "कालमुष्कक",
+     "iast": "kālamuṣkaka",
+     "en": "kāla-muṣkaka tree",
+     "hi": "कालमुष्कक"
+    },
+    {
+     "sa": "शम्याक",
+     "iast": "śamyāka",
+     "en": "āragvadha (Indian laburnum)",
+     "hi": "अमलतास"
+    },
+    {
+     "sa": "कदली",
+     "iast": "kadalī",
+     "en": "banana plant",
+     "hi": "केला"
+    },
+    {
+     "sa": "पारिभद्रकान्",
+     "iast": "pāribhadrakān",
+     "en": "coral tree",
+     "hi": "पारिभद्र (फरहद)"
+    }
+   ],
+   "english": "and in the eyes, except for eyelid diseases; and on cold, rainy, hot or cloudy days. (Preparation:) kāla-muṣkaka, śamyāka (āragvadha), banana (kadalī), pāribhadraka (coral tree),",
+   "hindi": "और आँखों में, पलक के रोगों को छोड़कर; और ठंडे, बरसात, बहुत गर्म या बादल वाले दिनों में (क्षार प्रयोग नहीं करना चाहिए)। (क्षार निर्माण:) कालमुष्कक, अमलतास, केला, पारिभद्र,",
+   "explanation_en": "The contraindications end with the eyes (except vartma roga) and extreme or cloudy weather. The second half begins the famous method of preparing kṣāra (kṣāra-kalpanā), which runs through verse 20. The main plant is muṣkaka (Schrebera swietenioides), so it is often called muṣkaka kṣāra.",
+   "explanation_hi": "निषेध आँखों (वर्त्म रोग को छोड़कर) और अति या बादल वाले मौसम के साथ समाप्त होते हैं। दूसरा भाग क्षार बनाने की प्रसिद्ध विधि (क्षार-कल्पना) शुरू करता है, जो श्लोक 20 तक चलती है। मुख्य वनस्पति मुष्कक है, इसलिए इसे अक्सर मुष्कक क्षार कहते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "kṣāra contraindications",
+    "vartmaroga",
+    "kṣāra kalpanā",
+    "muṣkaka"
+   ],
+   "tags": [
+    "kshara",
+    "contraindications",
+    "preparation"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.9",
+   "word_meanings": [
+    {
+     "sa": "अश्वकर्ण",
+     "iast": "aśvakarṇa",
+     "en": "aśvakarṇa (sal-like tree)",
+     "hi": "अश्वकर्ण"
+    },
+    {
+     "sa": "महावृक्ष",
+     "iast": "mahāvṛkṣa",
+     "en": "snuhī (spurge)",
+     "hi": "महावृक्ष (स्नुही, थूहर)"
+    },
+    {
+     "sa": "पलाश",
+     "iast": "palāśa",
+     "en": "palāśa (flame of the forest)",
+     "hi": "पलाश (ढाक)"
+    },
+    {
+     "sa": "आस्फोत",
+     "iast": "āsphota",
+     "en": "āsphota",
+     "hi": "आस्फोत"
+    },
+    {
+     "sa": "वृक्षकान्",
+     "iast": "vṛkṣakān",
+     "en": "kuṭaja",
+     "hi": "वृक्षक (कुटज)"
+    },
+    {
+     "sa": "इन्द्रवृक्ष",
+     "iast": "indravṛkṣa",
+     "en": "indravṛkṣa (arjuna/kuṭaja)",
+     "hi": "इन्द्रवृक्ष"
+    },
+    {
+     "sa": "अर्क",
+     "iast": "arka",
+     "en": "arka (calotropis)",
+     "hi": "आक"
+    },
+    {
+     "sa": "पूतीक",
+     "iast": "pūtīka",
+     "en": "pūtīka (karañja variety)",
+     "hi": "पूतीक"
+    },
+    {
+     "sa": "नक्तमाल",
+     "iast": "naktamāla",
+     "en": "naktamāla (karañja)",
+     "hi": "नक्तमाल (करंज)"
+    },
+    {
+     "sa": "अश्वमारकान्",
+     "iast": "aśvamārakān",
+     "en": "aśvamāraka (oleander)",
+     "hi": "अश्वमारक (कनेर)"
+    }
+   ],
+   "english": "aśvakarṇa, mahāvṛkṣa (snuhī), palāśa, āsphota, vṛkṣaka (kuṭaja), indravṛkṣa, arka, pūtīka, naktamāla and aśvamāraka (oleander),",
+   "hindi": "अश्वकर्ण, महावृक्ष (थूहर), पलाश, आस्फोत, वृक्षक (कुटज), इन्द्रवृक्ष, आक, पूतीक, नक्तमाल (करंज) और अश्वमारक (कनेर),",
+   "explanation_en": "This continues the list of plants burnt to make alkali ash. Many are latex-bearing or sharp (tīkṣṇa) plants. Plant identifications given are the common traditional ones; some (āsphota, indravṛkṣa) vary among authorities.",
+   "explanation_hi": "यह क्षार की राख के लिए जलाई जाने वाली वनस्पतियों की सूची आगे बढ़ाता है। अनेक दूध वाले या तीक्ष्ण पौधे हैं। दी गई पहचानें प्रचलित पारंपरिक हैं; कुछ (आस्फोत, इन्द्रवृक्ष) पर विद्वानों में मतभेद है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "kṣāra kalpanā",
+    "snuhī",
+    "palāśa",
+    "arka"
+   ],
+   "tags": [
+    "kshara",
+    "preparation",
+    "herbs"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.10",
+   "word_meanings": [
+    {
+     "sa": "काकजङ्घाम्",
+     "iast": "kākajaṅghām",
+     "en": "kākajaṅghā",
+     "hi": "काकजंघा"
+    },
+    {
+     "sa": "अपामार्गम्",
+     "iast": "apāmārgam",
+     "en": "apāmārga (prickly chaff flower)",
+     "hi": "अपामार्ग (चिरचिटा)"
+    },
+    {
+     "sa": "अग्निमन्थ",
+     "iast": "agnimantha",
+     "en": "agnimantha",
+     "hi": "अग्निमंथ (अरणी)"
+    },
+    {
+     "sa": "अग्नितिल्वकान्",
+     "iast": "agnitilvakān",
+     "en": "agnitilvaka",
+     "hi": "अग्नितिल्वक"
+    },
+    {
+     "sa": "सार्द्रान्",
+     "iast": "sārdrān",
+     "en": "(while still) wet/green",
+     "hi": "गीले (हरे)"
+    },
+    {
+     "sa": "समूलशाखादीन्",
+     "iast": "samūlaśākhādīn",
+     "en": "with roots, branches etc.",
+     "hi": "जड़, शाखा आदि सहित"
+    },
+    {
+     "sa": "खण्डशः",
+     "iast": "khaṇḍaśaḥ",
+     "en": "in pieces",
+     "hi": "टुकड़ों में"
+    },
+    {
+     "sa": "परिकल्पितान्",
+     "iast": "parikalpitān",
+     "en": "cut",
+     "hi": "काटे हुए"
+    }
+   ],
+   "english": "kākajaṅghā, apāmārga, agnimantha and agnitilvaka — (taking these) green, with their roots, branches and other parts, cut into pieces,",
+   "hindi": "काकजंघा, अपामार्ग, अग्निमंथ और अग्नितिल्वक — (इन्हें) हरे, जड़, शाखा आदि सहित, टुकड़ों में काटकर,",
+   "explanation_en": "Apāmārga is one of the most important kṣāra plants (apāmārga kṣāra is used in kṣāra-sūtra). The plants are taken whole and green and chopped before burning. The process continues in verse 11.",
+   "explanation_hi": "अपामार्ग सबसे महत्वपूर्ण क्षार-वनस्पतियों में से है (अपामार्ग क्षार क्षारसूत्र में प्रयोग होता है)। पौधों को पूरा और हरा लेकर काटा जाता है, फिर जलाया जाता है। प्रक्रिया श्लोक 11 में आगे है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "kṣāra kalpanā",
+    "apāmārga"
+   ],
+   "tags": [
+    "kshara",
+    "preparation",
+    "herbs"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.11",
+   "word_meanings": [
+    {
+     "sa": "कोशातकीः",
+     "iast": "kośātakīḥ",
+     "en": "kośātakī (ridge gourd types)",
+     "hi": "कोशातकी (तोरई)"
+    },
+    {
+     "sa": "चतस्रः",
+     "iast": "catasraḥ",
+     "en": "four (kinds)",
+     "hi": "चार (प्रकार की)"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "शूकम्",
+     "iast": "śūkam",
+     "en": "awns",
+     "hi": "सींकुर"
+    },
+    {
+     "sa": "नालम्",
+     "iast": "nālam",
+     "en": "stalk",
+     "hi": "डंठल"
+    },
+    {
+     "sa": "यवस्य",
+     "iast": "yavasya",
+     "en": "of barley",
+     "hi": "जौ के"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "निवाते",
+     "iast": "nivāte",
+     "en": "in a windless place",
+     "hi": "हवा-रहित स्थान में"
+    },
+    {
+     "sa": "निचयीकृत्य",
+     "iast": "nicayīkṛtya",
+     "en": "having heaped up",
+     "hi": "ढेर बनाकर"
+    },
+    {
+     "sa": "पृथक्",
+     "iast": "pṛthak",
+     "en": "separately",
+     "hi": "अलग-अलग"
+    },
+    {
+     "sa": "तानि",
+     "iast": "tāni",
+     "en": "them",
+     "hi": "उन्हें"
+    },
+    {
+     "sa": "शिलातले",
+     "iast": "śilātale",
+     "en": "on a stone slab",
+     "hi": "पत्थर की शिला पर"
+    }
+   ],
+   "english": "and the four kinds of kośātakī, and the awns and stalks of barley: having heaped them up separately on a stone slab in a windless place,",
+   "hindi": "और चार प्रकार की कोशातकी, और जौ के सींकुर तथा डंठल: इन्हें हवा-रहित स्थान में पत्थर की शिला पर अलग-अलग ढेर बनाकर,",
+   "explanation_en": "A windless place prevents the ash from blowing away and allows even burning. Heaping on stone keeps the ash clean. Continued in verse 12.",
+   "explanation_hi": "हवा-रहित स्थान से राख उड़ती नहीं और जलना बराबर होता है। पत्थर पर ढेर बनाने से राख साफ़ रहती है। श्लोक 12 में आगे।",
+   "modern_correlation": null,
+   "key_terms": [
+    "kṣāra kalpanā",
+    "kośātakī",
+    "yava"
+   ],
+   "tags": [
+    "kshara",
+    "preparation"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.12",
+   "word_meanings": [
+    {
+     "sa": "प्रक्षिप्य",
+     "iast": "prakṣipya",
+     "en": "having put",
+     "hi": "डालकर"
+    },
+    {
+     "sa": "मुष्ककचये",
+     "iast": "muṣkakacaye",
+     "en": "into the heap of muṣkaka",
+     "hi": "मुष्कक के ढेर में"
+    },
+    {
+     "sa": "सुधाश्मानि",
+     "iast": "sudhāśmāni",
+     "en": "limestone pieces",
+     "hi": "चूना-पत्थर"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "दीपयेत्",
+     "iast": "dīpayet",
+     "en": "should ignite",
+     "hi": "जलाना चाहिए"
+    },
+    {
+     "sa": "ततः",
+     "iast": "tataḥ",
+     "en": "then",
+     "hi": "फिर"
+    },
+    {
+     "sa": "तिलानाम्",
+     "iast": "tilānām",
+     "en": "of sesame",
+     "hi": "तिल के"
+    },
+    {
+     "sa": "कुतलैः",
+     "iast": "kutalaiḥ",
+     "en": "with stalks",
+     "hi": "डंठलों से"
+    },
+    {
+     "sa": "दग्ध्वा",
+     "iast": "dagdhvā",
+     "en": "having burnt",
+     "hi": "जलाकर"
+    },
+    {
+     "sa": "अग्नौ विगते",
+     "iast": "agnau vigate",
+     "en": "when the fire has died down",
+     "hi": "आग बुझ जाने पर"
+    },
+    {
+     "sa": "पृथक्",
+     "iast": "pṛthak",
+     "en": "separately",
+     "hi": "अलग से"
+    }
+   ],
+   "english": "and putting limestone pieces (sudhāśma) into the heap of muṣkaka, one should ignite them with sesame stalks (kutala); having burnt them, when the fire has died down, separately",
+   "hindi": "और मुष्कक के ढेर में चूना-पत्थर (सुधाश्म) डालकर, तिल के डंठलों से आग लगाएँ; जलाकर, आग बुझ जाने पर, अलग से",
+   "explanation_en": "Limestone is burnt along with the muṣkaka heap to produce quicklime (sudhā), which strengthens the alkali. The ash of the limestone and the plant ash are collected separately (verse 13).",
+   "explanation_hi": "चूना-पत्थर को मुष्कक के ढेर के साथ जलाया जाता है ताकि बुझा हुआ चूना (सुधा) बने, जो क्षार को तेज़ बनाता है। चूने की राख और वनस्पति की राख अलग-अलग इकट्ठी की जाती है (श्लोक 13)।",
+   "modern_correlation": {
+    "en": "Burning limestone produces quicklime (calcium oxide); adding lime to plant ash lye is known in chemistry to produce a stronger caustic solution (containing hydroxides), which broadly explains why limestone is included.",
+    "hi": "चूना-पत्थर जलाने से बिना बुझा चूना (calcium oxide) बनता है; वनस्पति-राख के घोल में चूना मिलाने से रसायन शास्त्र के अनुसार अधिक तीव्र क्षारीय घोल (hydroxides युक्त) बनता है, जो मोटे तौर पर बताता है कि चूना-पत्थर क्यों मिलाया जाता है।"
+   },
+   "key_terms": [
+    "kṣāra kalpanā",
+    "sudhā",
+    "muṣkaka"
+   ],
+   "tags": [
+    "kshara",
+    "preparation"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.13",
+   "word_meanings": [
+    {
+     "sa": "कृत्वा",
+     "iast": "kṛtvā",
+     "en": "having made",
+     "hi": "बनाकर"
+    },
+    {
+     "sa": "सुधाश्मनाम्",
+     "iast": "sudhāśmanām",
+     "en": "of the limestone",
+     "hi": "चूना-पत्थर की"
+    },
+    {
+     "sa": "भस्म",
+     "iast": "bhasma",
+     "en": "ash",
+     "hi": "राख"
+    },
+    {
+     "sa": "द्रोणम्",
+     "iast": "droṇam",
+     "en": "one droṇa (a measure)",
+     "hi": "एक द्रोण (माप)"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "इतरभस्मनः",
+     "iast": "itarabhasmanaḥ",
+     "en": "of the other ash",
+     "hi": "दूसरी राख का"
+    },
+    {
+     "sa": "मुष्ककोत्तरम्",
+     "iast": "muṣkakottaram",
+     "en": "predominantly of muṣkaka",
+     "hi": "मुष्कक प्रधान"
+    },
+    {
+     "sa": "आदाय",
+     "iast": "ādāya",
+     "en": "having taken",
+     "hi": "लेकर"
+    },
+    {
+     "sa": "प्रत्येकम्",
+     "iast": "pratyekam",
+     "en": "each",
+     "hi": "प्रत्येक"
+    },
+    {
+     "sa": "जलमूत्रयोः",
+     "iast": "jalamūtrayoḥ",
+     "en": "of water and (cow's) urine",
+     "hi": "पानी और (गो)मूत्र का"
+    }
+   ],
+   "english": "making the ash of the limestone, and taking one droṇa of the other ash, mostly that of muṣkaka, (one should mix it) with water and with (cow's) urine, each (in the stated quantity),",
+   "hindi": "चूना-पत्थर की राख बनाकर, और दूसरी राख (अधिकतर मुष्कक की) एक द्रोण लेकर, (उसे) पानी और गोमूत्र के साथ, प्रत्येक (निर्धारित मात्रा में मिलाकर),",
+   "explanation_en": "Droṇa is a classical measure (about 12.288 kg/litres by the commonly used conversion). The ash is mixed with water or cow's urine; the quantity (half a bhāra) is given in verse 14, and the mixture is then filtered.",
+   "explanation_hi": "द्रोण एक शास्त्रीय माप है (सामान्य रूपांतरण से लगभग 12.288 किलो/लीटर)। राख को पानी या गोमूत्र में मिलाया जाता है; मात्रा (आधा भार) श्लोक 14 में दी गई है, फिर मिश्रण को छाना जाता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "kṣāra kalpanā",
+    "droṇa",
+    "gomūtra"
+   ],
+   "tags": [
+    "kshara",
+    "preparation",
+    "measures"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.14",
+   "word_meanings": [
+    {
+     "sa": "गालयेत्",
+     "iast": "gālayet",
+     "en": "should filter",
+     "hi": "छानना चाहिए"
+    },
+    {
+     "sa": "अर्धभारेण",
+     "iast": "ardhabhāreṇa",
+     "en": "with half a bhāra (measure)",
+     "hi": "आधे भार (माप) से"
+    },
+    {
+     "sa": "महता",
+     "iast": "mahatā",
+     "en": "with a large",
+     "hi": "बड़े"
+    },
+    {
+     "sa": "वाससा",
+     "iast": "vāsasā",
+     "en": "cloth",
+     "hi": "कपड़े से"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "तत्",
+     "iast": "tat",
+     "en": "that",
+     "hi": "उसे"
+    },
+    {
+     "sa": "यावत्",
+     "iast": "yāvat",
+     "en": "until",
+     "hi": "जब तक"
+    },
+    {
+     "sa": "पिच्छिल",
+     "iast": "picchila",
+     "en": "slimy",
+     "hi": "चिपचिपा"
+    },
+    {
+     "sa": "रक्त",
+     "iast": "rakta",
+     "en": "reddish",
+     "hi": "लाल"
+    },
+    {
+     "sa": "अच्छः",
+     "iast": "acchaḥ",
+     "en": "clear",
+     "hi": "स्वच्छ"
+    },
+    {
+     "sa": "तीक्ष्णः",
+     "iast": "tīkṣṇaḥ",
+     "en": "sharp",
+     "hi": "तीक्ष्ण"
+    },
+    {
+     "sa": "जातः",
+     "iast": "jātaḥ",
+     "en": "has become",
+     "hi": "हो जाए"
+    },
+    {
+     "sa": "तदा",
+     "iast": "tadā",
+     "en": "then",
+     "hi": "तब"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "तम्",
+     "iast": "tam",
+     "en": "it",
+     "hi": "उसे"
+    }
+   ],
+   "english": "with half a bhāra (of each liquid), and filter it through a large cloth (repeatedly) until it becomes slimy, reddish, clear and sharp; then",
+   "hindi": "(प्रत्येक द्रव) आधा भार लेकर, बड़े कपड़े से तब तक (बार-बार) छानें जब तक वह चिपचिपा, लाल, स्वच्छ और तीक्ष्ण न हो जाए; तब",
+   "explanation_en": "Repeated filtration (traditionally 21 times in Suśruta) yields a strong alkaline filtrate. The signs 'picchila, rakta, accha, tīkṣṇa' tell when the filtrate is ready. Continued in verse 15.",
+   "explanation_hi": "बार-बार छानने (सुश्रुत में परंपरागत रूप से 21 बार) से तीव्र क्षारीय घोल मिलता है। 'पिच्छिल, रक्त, अच्छ, तीक्ष्ण' लक्षण बताते हैं कि घोल तैयार है। श्लोक 15 में आगे।",
+   "modern_correlation": {
+    "en": "Leaching ash with water and filtering repeatedly to obtain a strong alkaline liquid broadly parallels the traditional preparation of lye (potash solution) from wood ash.",
+    "hi": "राख को पानी में घोलकर बार-बार छानकर तीव्र क्षारीय द्रव बनाना, लकड़ी की राख से lye (potash का घोल) बनाने की पारंपरिक विधि से मोटे तौर पर मिलता है।"
+   },
+   "key_terms": [
+    "kṣāra kalpanā",
+    "gālana",
+    "bhāra"
+   ],
+   "tags": [
+    "kshara",
+    "preparation"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.15",
+   "word_meanings": [
+    {
+     "sa": "गृहीत्वा",
+     "iast": "gṛhītvā",
+     "en": "having taken",
+     "hi": "लेकर"
+    },
+    {
+     "sa": "क्षारनिष्यन्दम्",
+     "iast": "kṣāraniṣyandam",
+     "en": "the alkaline filtrate",
+     "hi": "क्षार का छना हुआ द्रव"
+    },
+    {
+     "sa": "पचेत्",
+     "iast": "pacet",
+     "en": "should cook",
+     "hi": "पकाना चाहिए"
+    },
+    {
+     "sa": "लौह्याम्",
+     "iast": "lauhyām",
+     "en": "in an iron vessel",
+     "hi": "लोहे के बर्तन में"
+    },
+    {
+     "sa": "विघट्टयन्",
+     "iast": "vighaṭṭayan",
+     "en": "stirring",
+     "hi": "चलाते हुए"
+    },
+    {
+     "sa": "पच्यमाने",
+     "iast": "pacyamāne",
+     "en": "while it is cooking",
+     "hi": "पकते समय"
+    },
+    {
+     "sa": "ततः",
+     "iast": "tataḥ",
+     "en": "then",
+     "hi": "फिर"
+    },
+    {
+     "sa": "तस्मिन्",
+     "iast": "tasmin",
+     "en": "in it",
+     "hi": "उसमें"
+    },
+    {
+     "sa": "ताः",
+     "iast": "tāḥ",
+     "en": "those",
+     "hi": "वे"
+    },
+    {
+     "sa": "सुधाभस्मशर्कराः",
+     "iast": "sudhābhasmaśarkarāḥ",
+     "en": "lumps of limestone ash",
+     "hi": "चूने की राख के टुकड़े"
+    }
+   ],
+   "english": "taking that alkaline filtrate (kṣāra-niṣyanda), one should cook it in an iron vessel, stirring (continuously). Then, while it is cooking, (taking) those lumps of limestone ash,",
+   "hindi": "उस क्षारीय छने द्रव (क्षार-निष्यन्द) को लेकर लोहे के बर्तन में (लगातार) चलाते हुए पकाएँ। फिर उसके पकते समय, चूने की राख के उन टुकड़ों को,",
+   "explanation_en": "The filtrate is boiled down in an iron pan. The limestone lumps, shells and conch pieces are heated and quenched in a portion of the alkali (verses 16-17) to make the 'prativāpa' (additive) that strengthens the medium kṣāra.",
+   "explanation_hi": "छने द्रव को लोहे की कड़ाही में उबालकर गाढ़ा किया जाता है। चूने के टुकड़े, सीपियाँ और शंख के टुकड़े गर्म करके क्षार के एक भाग में बुझाए जाते हैं (श्लोक 16-17), जिससे 'प्रतीवाप' (मिलाने वाला द्रव्य) बनता है जो मध्यम क्षार को तेज़ करता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "kṣāra kalpanā",
+    "kṣāraniṣyanda",
+    "sudhā"
+   ],
+   "tags": [
+    "kshara",
+    "preparation"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.16",
+   "word_meanings": [
+    {
+     "sa": "शुक्तीः",
+     "iast": "śuktīḥ",
+     "en": "oyster shells",
+     "hi": "सीपियाँ"
+    },
+    {
+     "sa": "क्षीरपकम्",
+     "iast": "kṣīrapakam",
+     "en": "kṣīrapaka (a shell/substance)",
+     "hi": "क्षीरपक"
+    },
+    {
+     "sa": "शङ्खनाभीः",
+     "iast": "śaṅkhanābhīḥ",
+     "en": "conch centres",
+     "hi": "शंखनाभि"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "आयसभाजने",
+     "iast": "āyasabhājane",
+     "en": "in an iron vessel",
+     "hi": "लोहे के बर्तन में"
+    },
+    {
+     "sa": "कृत्वा",
+     "iast": "kṛtvā",
+     "en": "having made",
+     "hi": "करके"
+    },
+    {
+     "sa": "अग्निवर्णान्",
+     "iast": "agnivarṇān",
+     "en": "fire-coloured (red-hot)",
+     "hi": "अग्नि के रंग का (लाल-गर्म)"
+    },
+    {
+     "sa": "बहुशः",
+     "iast": "bahuśaḥ",
+     "en": "many times",
+     "hi": "कई बार"
+    },
+    {
+     "sa": "क्षारोत्थे",
+     "iast": "kṣārotthe",
+     "en": "in liquid alkali",
+     "hi": "क्षार द्रव में"
+    },
+    {
+     "sa": "कुडवोन्मिते",
+     "iast": "kuḍavonmite",
+     "en": "measuring one kuḍava",
+     "hi": "एक कुडव मात्रा के"
+    }
+   ],
+   "english": "oyster shells (śukti), kṣīrapaka and conch centres (śaṅkha-nābhi), making them red-hot many times in an iron vessel, (and quenching them) in liquid alkali measuring one kuḍava,",
+   "hindi": "सीपियाँ (शुक्ति), क्षीरपक और शंखनाभि को लोहे के बर्तन में कई बार लाल-गर्म करके, (उन्हें) एक कुडव मात्रा के क्षार-द्रव में (बुझाकर),",
+   "explanation_en": "Shells are calcium-rich; heating and quenching them in alkali makes them brittle and adds lime-like material. 'Kṣīrapaka' is obscure; the variant reading suggests a shell or similar substance. The process continues in verse 17.",
+   "explanation_hi": "सीपियाँ कैल्शियम से भरपूर होती हैं; उन्हें गर्म करके क्षार में बुझाने से वे भुरभुरी हो जाती हैं और चूने जैसा पदार्थ मिलता है। 'क्षीरपक' अस्पष्ट शब्द है; यह शायद कोई सीप या ऐसा ही पदार्थ है। प्रक्रिया श्लोक 17 में आगे है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "kṣāra kalpanā",
+    "śukti",
+    "śaṅkhanābhi",
+    "prativāpa",
+    "kuḍava"
+   ],
+   "tags": [
+    "kshara",
+    "preparation"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.17",
+   "word_meanings": [
+    {
+     "sa": "निर्वाप्य",
+     "iast": "nirvāpya",
+     "en": "having quenched",
+     "hi": "बुझाकर"
+    },
+    {
+     "sa": "पिष्ट्वा",
+     "iast": "piṣṭvā",
+     "en": "having ground",
+     "hi": "पीसकर"
+    },
+    {
+     "sa": "तेन एव",
+     "iast": "tena eva",
+     "en": "with that same (alkali)",
+     "hi": "उसी (क्षार) से"
+    },
+    {
+     "sa": "प्रतीवापम्",
+     "iast": "pratīvāpam",
+     "en": "as additive",
+     "hi": "प्रतीवाप (मिलाने वाले द्रव्य) के रूप में"
+    },
+    {
+     "sa": "विनिक्षिपेत्",
+     "iast": "vinikṣipet",
+     "en": "should add",
+     "hi": "डालना चाहिए"
+    },
+    {
+     "sa": "श्लक्ष्णम्",
+     "iast": "ślakṣṇam",
+     "en": "fine",
+     "hi": "बारीक"
+    },
+    {
+     "sa": "शकृत्",
+     "iast": "śakṛt",
+     "en": "dung",
+     "hi": "बीट"
+    },
+    {
+     "sa": "दक्ष",
+     "iast": "dakṣa",
+     "en": "cock",
+     "hi": "मुर्गा"
+    },
+    {
+     "sa": "शिखि",
+     "iast": "śikhi",
+     "en": "peacock",
+     "hi": "मोर"
+    },
+    {
+     "sa": "गृध्र",
+     "iast": "gṛdhra",
+     "en": "vulture",
+     "hi": "गिद्ध"
+    },
+    {
+     "sa": "कङ्क",
+     "iast": "kaṅka",
+     "en": "heron",
+     "hi": "कंक"
+    },
+    {
+     "sa": "कपोतजम्",
+     "iast": "kapotajam",
+     "en": "and of pigeon",
+     "hi": "और कबूतर की"
+    }
+   ],
+   "english": "having quenched them, one should grind them with that same (alkali) and add them as an additive (prativāpa). (For the strong kṣāra, also add) fine dung of cock, peacock, vulture, heron and pigeon,",
+   "hindi": "बुझाकर, उन्हें उसी क्षार के साथ पीसकर प्रतीवाप (मिलाने वाले द्रव्य) के रूप में डालें। (तीक्ष्ण क्षार के लिए) मुर्गे, मोर, गिद्ध, कंक और कबूतर की बारीक बीट भी (मिलाएँ),",
+   "explanation_en": "Adding the ground shells as prativāpa produces the madhyama (medium) kṣāra. The second line begins further additives (bird droppings, biles, minerals, salts) listed through verse 18. Commentators differ on whether these belong to the medium or the strong kṣāra.",
+   "explanation_hi": "पिसी सीपियों को प्रतीवाप के रूप में मिलाने से मध्यम क्षार बनता है। दूसरी पंक्ति से और द्रव्य (पक्षियों की बीट, पित्त, खनिज, लवण) शुरू होते हैं, जो श्लोक 18 तक हैं। टीकाकारों में मतभेद है कि ये मध्यम क्षार के हैं या तीक्ष्ण के।",
+   "modern_correlation": null,
+   "key_terms": [
+    "kṣāra kalpanā",
+    "prativāpa",
+    "madhyama kṣāra"
+   ],
+   "tags": [
+    "kshara",
+    "preparation"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.18",
+   "word_meanings": [
+    {
+     "sa": "चतुष्पात्",
+     "iast": "catuṣpāt",
+     "en": "quadrupeds",
+     "hi": "चौपाये"
+    },
+    {
+     "sa": "पक्षि",
+     "iast": "pakṣi",
+     "en": "birds",
+     "hi": "पक्षी"
+    },
+    {
+     "sa": "पित्त",
+     "iast": "pitta",
+     "en": "bile",
+     "hi": "पित्त"
+    },
+    {
+     "sa": "आल",
+     "iast": "āla",
+     "en": "haritāla (orpiment)",
+     "hi": "हरताल"
+    },
+    {
+     "sa": "मनोह्वा",
+     "iast": "manohvā",
+     "en": "manaḥśilā (realgar)",
+     "hi": "मनःशिला (मैनसिल)"
+    },
+    {
+     "sa": "लवणानि",
+     "iast": "lavaṇāni",
+     "en": "salts",
+     "hi": "लवण"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "परितः",
+     "iast": "paritaḥ",
+     "en": "all around",
+     "hi": "चारों ओर"
+    },
+    {
+     "sa": "सुतराम्",
+     "iast": "sutarām",
+     "en": "thoroughly",
+     "hi": "अच्छी तरह"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "अतः",
+     "iast": "ataḥ",
+     "en": "thereafter",
+     "hi": "इसके बाद"
+    },
+    {
+     "sa": "दर्व्या",
+     "iast": "darvyā",
+     "en": "with a ladle",
+     "hi": "करछी से"
+    },
+    {
+     "sa": "तम्",
+     "iast": "tam",
+     "en": "it",
+     "hi": "उसे"
+    },
+    {
+     "sa": "अवघट्टयेत्",
+     "iast": "avaghaṭṭayet",
+     "en": "should stir",
+     "hi": "चलाना चाहिए"
+    }
+   ],
+   "english": "the bile of quadrupeds and birds, haritāla (orpiment), manaḥśilā (realgar) and salts; and thereafter one should stir it thoroughly all around with a ladle,",
+   "hindi": "चौपायों और पक्षियों का पित्त, हरताल, मनःशिला (मैनसिल) और लवण (मिलाएँ); और इसके बाद करछी से उसे चारों ओर से अच्छी तरह चलाएँ,",
+   "explanation_en": "Constant stirring prevents burning at the bottom and gives an even consistency. The end-point of cooking is described in verse 19. Note that haritāla and manaḥśilā are arsenic compounds and are toxic.",
+   "explanation_hi": "लगातार चलाने से नीचे जलता नहीं और गाढ़ापन एक जैसा रहता है। पकाने का अंतिम बिंदु श्लोक 19 में है। ध्यान दें कि हरताल और मनःशिला आर्सेनिक के यौगिक हैं और विषैले हैं।",
+   "modern_correlation": {
+    "en": "Haritāla (orpiment) and manaḥśilā (realgar) are arsenic sulphides; modern toxicology recognises them as poisonous, so this historical recipe should not be reproduced outside regulated pharmaceutical settings.",
+    "hi": "हरताल (orpiment) और मनःशिला (realgar) आर्सेनिक के सल्फ़ाइड हैं; आधुनिक विष-विज्ञान इन्हें विषैला मानता है, इसलिए यह ऐतिहासिक नुस्खा नियंत्रित औषधि-निर्माण व्यवस्था के बाहर नहीं दोहराना चाहिए।"
+   },
+   "key_terms": [
+    "kṣāra kalpanā",
+    "haritāla",
+    "manaḥśilā",
+    "lavaṇa"
+   ],
+   "tags": [
+    "kshara",
+    "preparation",
+    "minerals"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.19",
+   "word_meanings": [
+    {
+     "sa": "सबाष्पैः",
+     "iast": "sabāṣpaiḥ",
+     "en": "with vapours",
+     "hi": "भाप के साथ"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "यदा",
+     "iast": "yadā",
+     "en": "when",
+     "hi": "जब"
+    },
+    {
+     "sa": "उत्तिष्ठेत्",
+     "iast": "uttiṣṭhet",
+     "en": "rises",
+     "hi": "ऊपर उठे"
+    },
+    {
+     "sa": "बुद्बुदैः",
+     "iast": "budbudaiḥ",
+     "en": "with bubbles",
+     "hi": "बुलबुलों के साथ"
+    },
+    {
+     "sa": "लेहवत्",
+     "iast": "lehavat",
+     "en": "like a linctus",
+     "hi": "अवलेह की तरह"
+    },
+    {
+     "sa": "घनः",
+     "iast": "ghanaḥ",
+     "en": "thick",
+     "hi": "गाढ़ा"
+    },
+    {
+     "sa": "अवतार्य",
+     "iast": "avatārya",
+     "en": "having taken down",
+     "hi": "उतारकर"
+    },
+    {
+     "sa": "तदा",
+     "iast": "tadā",
+     "en": "then",
+     "hi": "तब"
+    },
+    {
+     "sa": "शीतः",
+     "iast": "śītaḥ",
+     "en": "(when) cool",
+     "hi": "ठंडा होने पर"
+    },
+    {
+     "sa": "यवराशौ",
+     "iast": "yavarāśau",
+     "en": "in a heap of barley",
+     "hi": "जौ के ढेर में"
+    },
+    {
+     "sa": "अयोमये",
+     "iast": "ayomaye",
+     "en": "in an iron (vessel)",
+     "hi": "लोहे के (पात्र) में"
+    }
+   ],
+   "english": "When it rises with vapours and bubbles and becomes thick like a linctus (leha), one should take it down (from the fire); then, when cool, in an iron vessel (kept) in a heap of barley,",
+   "hindi": "जब वह भाप और बुलबुलों के साथ ऊपर उठने लगे और अवलेह की तरह गाढ़ा हो जाए, तब उसे (आग से) उतार लें; फिर ठंडा होने पर, लोहे के पात्र में, जौ के ढेर में,",
+   "explanation_en": "These are the signs that the kṣāra is properly cooked: bubbling, vapour and a thick, linctus-like consistency. Storage in an iron vessel buried in barley protects it from moisture (barley absorbs moisture). Continued in verse 20.",
+   "explanation_hi": "ये क्षार के ठीक से पकने के लक्षण हैं: बुलबुले, भाप और अवलेह जैसा गाढ़ापन। लोहे के पात्र में जौ के ढेर में रखने से वह नमी से बचता है (जौ नमी सोख लेता है)। श्लोक 20 में आगे।",
+   "modern_correlation": {
+    "en": "Storing a hygroscopic caustic in a closed iron container surrounded by dry grain to keep it dry broadly parallels the modern need to store alkalis such as sodium or potassium hydroxide in airtight containers away from moisture.",
+    "hi": "नमी सोखने वाले क्षार को लोहे के बंद पात्र में सूखे अनाज से घेरकर रखना, आधुनिक आवश्यकता से मोटे तौर पर मिलता है कि sodium या potassium hydroxide जैसे क्षारों को नमी से दूर, हवा-बंद पात्रों में रखा जाए।"
+   },
+   "key_terms": [
+    "kṣāra kalpanā",
+    "lehavat",
+    "yavarāśi"
+   ],
+   "tags": [
+    "kshara",
+    "preparation",
+    "storage"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.20",
+   "word_meanings": [
+    {
+     "sa": "शीते",
+     "iast": "śīte",
+     "en": "when cool (repeated fragment)",
+     "hi": "ठंडा होने पर (दोहराया अंश)"
+    },
+    {
+     "sa": "स्थाप्यः",
+     "iast": "sthāpyaḥ",
+     "en": "should be stored",
+     "hi": "रखना चाहिए"
+    },
+    {
+     "sa": "अयम्",
+     "iast": "ayam",
+     "en": "this",
+     "hi": "यह"
+    },
+    {
+     "sa": "मध्यमः",
+     "iast": "madhyamaḥ",
+     "en": "medium (strength)",
+     "hi": "मध्यम"
+    },
+    {
+     "sa": "क्षारः",
+     "iast": "kṣāraḥ",
+     "en": "alkali",
+     "hi": "क्षार"
+    },
+    {
+     "sa": "न तु",
+     "iast": "na tu",
+     "en": "but not",
+     "hi": "परंतु नहीं"
+    },
+    {
+     "sa": "पिष्ट्वा",
+     "iast": "piṣṭvā",
+     "en": "having ground",
+     "hi": "पीसकर"
+    },
+    {
+     "sa": "क्षिपेत्",
+     "iast": "kṣipet",
+     "en": "should add",
+     "hi": "डालना चाहिए"
+    },
+    {
+     "sa": "मृदौ",
+     "iast": "mṛdau",
+     "en": "in the mild (kṣāra)",
+     "hi": "मृदु (क्षार) में"
+    },
+    {
+     "sa": "निर्वाप्य",
+     "iast": "nirvāpya",
+     "en": "having quenched",
+     "hi": "बुझाकर"
+    },
+    {
+     "sa": "अपनयेत्",
+     "iast": "apanayet",
+     "en": "should remove",
+     "hi": "निकाल देना चाहिए"
+    },
+    {
+     "sa": "तीक्ष्णे",
+     "iast": "tīkṣṇe",
+     "en": "in the strong (kṣāra)",
+     "hi": "तीक्ष्ण (क्षार) में"
+    },
+    {
+     "sa": "पूर्ववत्",
+     "iast": "pūrvavat",
+     "en": "as before",
+     "hi": "पहले की तरह"
+    },
+    {
+     "sa": "प्रतिवापनम्",
+     "iast": "prativāpanam",
+     "en": "adding of additives",
+     "hi": "प्रतीवाप डालना"
+    }
+   ],
+   "english": "[The entry begins with a repeated fragment, 'when cool'.] this medium (madhyama) kṣāra should be stored. For the mild (mṛdu) kṣāra, however, one should not grind and add (the quenched pieces); after quenching, one should remove them. For the strong (tīkṣṇa) kṣāra, the additives are put in as before, (and also)",
+   "hindi": "[प्रविष्टि 'ठंडा होने पर' वाले दोहराए अंश से शुरू होती है।] यह मध्यम क्षार रखा जाना चाहिए। मृदु क्षार में (बुझाए गए टुकड़ों को) पीसकर नहीं डालना चाहिए; बुझाने के बाद उन्हें निकाल देना चाहिए। तीक्ष्ण क्षार में पहले की तरह प्रतीवाप डालें, (और साथ में)",
+   "explanation_en": "This gives the classic three grades of pratisāraṇīya kṣāra: mṛdu (mild: no prativāpa, the quenched pieces are removed), madhyama (medium: with the ground prativāpa) and tīkṣṇa (strong: prativāpa plus additional sharp drugs, verses 21-22). 'Three types of kṣāra and their preparation' is a standard exam question.",
+   "explanation_hi": "यह प्रतिसारणीय क्षार की तीन प्रसिद्ध श्रेणियाँ देता है: मृदु (बिना प्रतीवाप, बुझाए टुकड़े निकाल दिए जाते हैं), मध्यम (पिसे प्रतीवाप सहित) और तीक्ष्ण (प्रतीवाप के साथ अतिरिक्त तीक्ष्ण द्रव्य, श्लोक 21-22)। 'क्षार के तीन प्रकार और निर्माण' परीक्षा का मानक प्रश्न है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "mṛdu kṣāra",
+    "madhyama kṣāra",
+    "tīkṣṇa kṣāra",
+    "prativāpa"
+   ],
+   "tags": [
+    "kshara",
+    "preparation",
+    "types"
+   ],
+   "importance": "high",
+   "mnemonic": "Mṛdu = no additive; Madhyama = shells added; Tīkṣṇa = shells + sharp herbs.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.21",
+   "word_meanings": [
+    {
+     "sa": "तथा",
+     "iast": "tathā",
+     "en": "likewise",
+     "hi": "उसी प्रकार"
+    },
+    {
+     "sa": "लाङ्गलिका",
+     "iast": "lāṅgalikā",
+     "en": "lāṅgalī (glory lily)",
+     "hi": "लांगली (कलिहारी)"
+    },
+    {
+     "sa": "दन्ती",
+     "iast": "dantī",
+     "en": "dantī",
+     "hi": "दन्ती"
+    },
+    {
+     "sa": "चित्रक",
+     "iast": "citraka",
+     "en": "citraka (leadwort)",
+     "hi": "चित्रक"
+    },
+    {
+     "sa": "अतिविषा",
+     "iast": "ativiṣā",
+     "en": "ativiṣā",
+     "hi": "अतिविषा"
+    },
+    {
+     "sa": "वचाः",
+     "iast": "vacāḥ",
+     "en": "vacā",
+     "hi": "वचा"
+    },
+    {
+     "sa": "स्वर्जिका",
+     "iast": "svarjikā",
+     "en": "natron (sarjikā kṣāra)",
+     "hi": "सज्जीखार"
+    },
+    {
+     "sa": "कनकक्षीरी",
+     "iast": "kanakakṣīrī",
+     "en": "kanakakṣīrī (Mexican poppy?)",
+     "hi": "कनकक्षीरी (स्वर्णक्षीरी)"
+    },
+    {
+     "sa": "हिङ्गु",
+     "iast": "hiṅgu",
+     "en": "asafoetida",
+     "hi": "हींग"
+    },
+    {
+     "sa": "पूतिकपल्लवाः",
+     "iast": "pūtikapallavāḥ",
+     "en": "young leaves of pūtika",
+     "hi": "पूतिक के कोमल पत्ते"
+    }
+   ],
+   "english": "likewise lāṅgalī, dantī, citraka, ativiṣā, vacā, natron (svarjikā), kanakakṣīrī, asafoetida (hiṅgu), tender leaves of pūtika,",
+   "hindi": "उसी प्रकार लांगली (कलिहारी), दन्ती, चित्रक, अतिविषा, वचा, सज्जीखार (स्वर्जिका), कनकक्षीरी, हींग, पूतिक के कोमल पत्ते,",
+   "explanation_en": "These sharp, hot (tīkṣṇa, uṣṇa) drugs are added only to the strong (tīkṣṇa) kṣāra. The list finishes in verse 22. Kanakakṣīrī is often identified with svarṇakṣīrī (Argemone mexicana), but this is debated.",
+   "explanation_hi": "ये तीक्ष्ण और उष्ण द्रव्य केवल तीक्ष्ण क्षार में मिलाए जाते हैं। सूची श्लोक 22 में पूरी होती है। कनकक्षीरी को प्रायः स्वर्णक्षीरी (Argemone mexicana) माना जाता है, पर इस पर मतभेद है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "tīkṣṇa kṣāra",
+    "citraka",
+    "dantī",
+    "svarjikā",
+    "hiṅgu"
+   ],
+   "tags": [
+    "kshara",
+    "preparation",
+    "herbs"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.22",
+   "word_meanings": [
+    {
+     "sa": "तालपत्त्री",
+     "iast": "tālapattrī",
+     "en": "tālapattrī",
+     "hi": "तालपत्री"
+    },
+    {
+     "sa": "विडम्",
+     "iast": "viḍam",
+     "en": "viḍa salt",
+     "hi": "बिड लवण"
+    },
+    {
+     "sa": "च इति",
+     "iast": "ca iti",
+     "en": "and thus",
+     "hi": "और"
+    },
+    {
+     "sa": "सप्तरात्रात् परम्",
+     "iast": "saptarātrāt param",
+     "en": "after seven nights",
+     "hi": "सात रातों के बाद"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "परंतु"
+    },
+    {
+     "sa": "सः",
+     "iast": "saḥ",
+     "en": "it",
+     "hi": "वह"
+    },
+    {
+     "sa": "योज्यः",
+     "iast": "yojyaḥ",
+     "en": "should be used",
+     "hi": "प्रयोग करना चाहिए"
+    },
+    {
+     "sa": "तीक्ष्णः",
+     "iast": "tīkṣṇaḥ",
+     "en": "the strong (kṣāra)",
+     "hi": "तीक्ष्ण (क्षार)"
+    },
+    {
+     "sa": "अनिल",
+     "iast": "anila",
+     "en": "vāta",
+     "hi": "वात"
+    },
+    {
+     "sa": "श्लेष्म",
+     "iast": "śleṣma",
+     "en": "kapha",
+     "hi": "कफ"
+    },
+    {
+     "sa": "मेदोजेषु",
+     "iast": "medojeṣu",
+     "en": "and those arising from fat",
+     "hi": "और मेद से उत्पन्न"
+    },
+    {
+     "sa": "अर्बुदादिषु",
+     "iast": "arbudādiṣu",
+     "en": "in tumours etc.",
+     "hi": "अर्बुद आदि में"
+    }
+   ],
+   "english": "tālapattrī and viḍa salt (are added). After seven nights, this strong (tīkṣṇa) kṣāra should be used in tumours (arbuda) and similar growths arising from vāta, kapha and medas (fat).",
+   "hindi": "तालपत्री और बिड लवण (भी मिलाएँ)। सात रातों के बाद यह तीक्ष्ण क्षार वात, कफ और मेद से उत्पन्न अर्बुद आदि में प्रयोग करना चाहिए।",
+   "explanation_en": "The strong kṣāra is kept for seven nights before use (to mature) and is reserved for hard, kapha-vāta-medas growths. Verse 23 assigns the medium and mild kṣāra to other conditions. The reading 'viḍam' has a variant 'viḍaṅgam'.",
+   "explanation_hi": "तीक्ष्ण क्षार को प्रयोग से पहले सात रात रखा जाता है (परिपक्व होने के लिए) और यह कठोर, कफ-वात-मेद वाली गाँठों के लिए है। श्लोक 23 मध्यम और मृदु क्षार के उपयोग बताता है। 'विडम्' का एक पाठभेद 'विडङ्गम्' है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "tīkṣṇa kṣāra",
+    "arbuda",
+    "vāta",
+    "kapha",
+    "medas"
+   ],
+   "tags": [
+    "kshara",
+    "types",
+    "indications"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.23",
+   "word_meanings": [
+    {
+     "sa": "मध्येषु",
+     "iast": "madhyeṣu",
+     "en": "in moderate (forms)",
+     "hi": "मध्यम (अवस्थाओं) में"
+    },
+    {
+     "sa": "एषु एव",
+     "iast": "eṣu eva",
+     "en": "of these same",
+     "hi": "इन्हीं के"
+    },
+    {
+     "sa": "मध्यः",
+     "iast": "madhyaḥ",
+     "en": "the medium (kṣāra)",
+     "hi": "मध्यम (क्षार)"
+    },
+    {
+     "sa": "अन्यः",
+     "iast": "anyaḥ",
+     "en": "the other (mild)",
+     "hi": "दूसरा (मृदु)"
+    },
+    {
+     "sa": "पित्त",
+     "iast": "pitta",
+     "en": "pitta",
+     "hi": "पित्त"
+    },
+    {
+     "sa": "अस्र",
+     "iast": "asra",
+     "en": "blood",
+     "hi": "रक्त"
+    },
+    {
+     "sa": "गुदजन्मसु",
+     "iast": "gudajanmasu",
+     "en": "and (diseases) arising in the anus",
+     "hi": "और गुदा में उत्पन्न (रोगों) में"
+    },
+    {
+     "sa": "बलार्थम्",
+     "iast": "balārtham",
+     "en": "for (restoring) potency",
+     "hi": "शक्ति के लिए"
+    },
+    {
+     "sa": "क्षीणपानीये",
+     "iast": "kṣīṇapānīye",
+     "en": "when it has lost its liquid (become weak)",
+     "hi": "जब उसका द्रव घट जाए"
+    },
+    {
+     "sa": "क्षाराम्बु",
+     "iast": "kṣārāmbu",
+     "en": "alkaline water",
+     "hi": "क्षार-जल"
+    },
+    {
+     "sa": "पुनः",
+     "iast": "punaḥ",
+     "en": "again",
+     "hi": "फिर से"
+    },
+    {
+     "sa": "आवपेत्",
+     "iast": "āvapet",
+     "en": "should add",
+     "hi": "मिलाना चाहिए"
+    }
+   ],
+   "english": "In moderate forms of these same (diseases), the medium kṣāra; the other (mild one) in (diseases) of pitta and blood and those arising in the anus. To restore potency, when it has lost its liquid (and weakened on storage), one should add alkaline water to it again.",
+   "hindi": "इन्हीं (रोगों) की मध्यम अवस्थाओं में मध्यम क्षार; और दूसरा (मृदु क्षार) पित्त और रक्त के रोगों तथा गुदा में उत्पन्न रोगों में (प्रयोग करें)। (रखे-रखे) द्रव घटकर शक्ति कम हो जाए, तो उसे फिर से बल देने के लिए क्षार-जल मिलाना चाहिए।",
+   "explanation_en": "Choice of kṣāra strength: tīkṣṇa for hard vāta-kapha-medas growths, madhyama for moderate ones, mṛdu for pitta-rakta conditions and anal diseases (e.g. arśas). The tip on re-strengthening stored kṣāra with fresh alkaline water is a practical pharmacy note.",
+   "explanation_hi": "क्षार की शक्ति का चुनाव: कठोर वात-कफ-मेद गाँठों में तीक्ष्ण, मध्यम में मध्यम, और पित्त-रक्त तथा गुदा रोगों (जैसे अर्श) में मृदु। रखे हुए क्षार को ताज़े क्षार-जल से फिर से शक्तिशाली बनाना एक व्यावहारिक भैषज्य टिप है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "mṛdu kṣāra",
+    "madhyama kṣāra",
+    "gudaja roga",
+    "kṣārāmbu"
+   ],
+   "tags": [
+    "kshara",
+    "types",
+    "indications"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.24",
+   "word_meanings": [
+    {
+     "sa": "अन्यः",
+     "iast": "anyaḥ",
+     "en": "the other (repeated fragment)",
+     "hi": "दूसरा (दोहराया अंश)"
+    },
+    {
+     "sa": "न अतितीक्ष्णमृदुः",
+     "iast": "na atitīkṣṇamṛduḥ",
+     "en": "neither too strong nor too mild",
+     "hi": "न बहुत तीक्ष्ण न बहुत मृदु"
+    },
+    {
+     "sa": "श्लक्ष्णः",
+     "iast": "ślakṣṇaḥ",
+     "en": "smooth",
+     "hi": "चिकना"
+    },
+    {
+     "sa": "पिच्छिलः",
+     "iast": "picchilaḥ",
+     "en": "slimy",
+     "hi": "चिपचिपा"
+    },
+    {
+     "sa": "शीघ्रगः",
+     "iast": "śīghragaḥ",
+     "en": "quick-acting/spreading quickly",
+     "hi": "शीघ्र कार्य करने वाला"
+    },
+    {
+     "sa": "सितः",
+     "iast": "sitaḥ",
+     "en": "white",
+     "hi": "सफ़ेद"
+    },
+    {
+     "sa": "शिखरी",
+     "iast": "śikharī",
+     "en": "rising to a peak (well-heaped, firm)",
+     "hi": "शिखर बनाने वाला (गाढ़ा)"
+    },
+    {
+     "sa": "सुखनिर्वाप्यः",
+     "iast": "sukhanirvāpyaḥ",
+     "en": "easily neutralised/removed",
+     "hi": "आसानी से शांत/हटाने योग्य"
+    },
+    {
+     "sa": "न विष्यन्दी",
+     "iast": "na viṣyandī",
+     "en": "not running/spreading",
+     "hi": "न बहने वाला"
+    },
+    {
+     "sa": "न च अतिरुक्",
+     "iast": "na ca atiruk",
+     "en": "and not too painful",
+     "hi": "और बहुत दर्द न करने वाला"
+    }
+   ],
+   "english": "[The entry begins with a repeated fragment, 'the other'.] (Good kṣāra is) neither too strong nor too mild, smooth, slimy, quick-acting, white, heaping up (śikharī), easily neutralised (sukha-nirvāpya), not running, and not causing excessive pain.",
+   "hindi": "[प्रविष्टि 'दूसरा' वाले दोहराए अंश से शुरू होती है।] (अच्छा क्षार) न बहुत तीक्ष्ण न बहुत मृदु, चिकना, चिपचिपा, शीघ्र काम करने वाला, सफ़ेद, शिखर बनाने वाला (गाढ़ा), आसानी से शांत होने वाला, न बहने वाला, और बहुत दर्द न देने वाला होता है।",
+   "explanation_en": "These are the ten qualities (daśa guṇa) of an ideal kṣāra, one of the most frequently asked exam questions in Śalya Tantra. Verse 25 calls kṣāra with these qualities 'daśaguṇa'. Learn them as pairs: strength (not too tīkṣṇa/mṛdu), texture (ślakṣṇa, picchila), action (śīghraga), colour (sita), consistency (śikharī, na viṣyandī), safety (sukhanirvāpya, na atiruk).",
+   "explanation_hi": "ये आदर्श क्षार के दस गुण (दशगुण) हैं, जो शल्य तंत्र में सबसे अधिक पूछे जाने वाले प्रश्नों में से हैं। श्लोक 25 में इन गुणों वाले क्षार को 'दशगुण' कहा गया है। इन्हें जोड़ियों में याद करें: शक्ति (न अति तीक्ष्ण/मृदु), बनावट (श्लक्ष्ण, पिच्छिल), कार्य (शीघ्रग), रंग (सित), गाढ़ापन (शिखरी, न विष्यन्दी), सुरक्षा (सुखनिर्वाप्य, न अतिरुक्)।",
+   "modern_correlation": {
+    "en": "The requirement that a caustic stay where applied (non-spreading), act quickly, be controllable and easily neutralised broadly parallels the properties sought in modern chemical cautery agents, which should act locally and predictably without spreading to healthy tissue.",
+    "hi": "क्षार का लगाई जगह पर टिके रहना (न फैलना), जल्दी काम करना, नियंत्रित होना और आसानी से शांत होना, आधुनिक chemical cautery द्रव्यों में चाहे जाने वाले गुणों से मोटे तौर पर मिलता है, जो स्थानीय और अनुमानित रूप से काम करें और स्वस्थ ऊतक में न फैलें।"
+   },
+   "key_terms": [
+    "kṣāra guṇa",
+    "daśaguṇa kṣāra",
+    "śikharī",
+    "sukhanirvāpya",
+    "picchila"
+   ],
+   "tags": [
+    "kshara",
+    "qualities",
+    "definitions"
+   ],
+   "importance": "high",
+   "mnemonic": "10 guṇas: Not-too-sharp, Not-too-mild, Smooth, Slimy, Swift, White, Peaked, Easily-neutralised, Non-spreading, Not-too-painful.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.25",
+   "word_meanings": [
+    {
+     "sa": "क्षारः",
+     "iast": "kṣāraḥ",
+     "en": "kṣāra",
+     "hi": "क्षार"
+    },
+    {
+     "sa": "दशगुणः",
+     "iast": "daśaguṇaḥ",
+     "en": "having (these) ten qualities",
+     "hi": "(इन) दस गुणों वाला"
+    },
+    {
+     "sa": "शस्त्रतेजसोः",
+     "iast": "śastratejasoḥ",
+     "en": "of the knife and of fire",
+     "hi": "शस्त्र और अग्नि का"
+    },
+    {
+     "sa": "अपि",
+     "iast": "api",
+     "en": "even",
+     "hi": "भी"
+    },
+    {
+     "sa": "कर्मकृत्",
+     "iast": "karmakṛt",
+     "en": "doing the work",
+     "hi": "कार्य करने वाला"
+    },
+    {
+     "sa": "आचूषन् इव",
+     "iast": "ācūṣan iva",
+     "en": "as if sucking",
+     "hi": "मानो चूसते हुए"
+    },
+    {
+     "sa": "संरम्भात्",
+     "iast": "saṃrambhāt",
+     "en": "from the inflamed swelling",
+     "hi": "सूजन से"
+    },
+    {
+     "sa": "गात्रम्",
+     "iast": "gātram",
+     "en": "the body (part)",
+     "hi": "शरीर (के भाग) को"
+    },
+    {
+     "sa": "आपीडयन् इव",
+     "iast": "āpīḍayan iva",
+     "en": "as if squeezing",
+     "hi": "मानो दबाते हुए"
+    }
+   ],
+   "english": "Kṣāra possessing these ten qualities does the work even of the knife and of fire. As if sucking out (the doṣas) from the inflamed swelling and as if squeezing the body part,",
+   "hindi": "इन दस गुणों वाला क्षार शस्त्र और अग्नि दोनों का कार्य करता है। मानो सूजन में से (दोषों को) चूसते हुए और मानो शरीर के भाग को दबाते हुए,",
+   "explanation_en": "'Daśaguṇa' refers back to the ten qualities in verse 24. Kṣāra can cut like a knife (chedana, bhedana, lekhana) and burn like fire (dahana). The vivid description of its action continues in verse 26.",
+   "explanation_hi": "'दशगुण' श्लोक 24 के दस गुणों की ओर संकेत है। क्षार शस्त्र की तरह काट सकता है (छेदन, भेदन, लेखन) और अग्नि की तरह जला सकता है (दहन)। इसकी क्रिया का जीवंत वर्णन श्लोक 26 में आगे है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "daśaguṇa kṣāra",
+    "śastra",
+    "agni",
+    "karma"
+   ],
+   "tags": [
+    "kshara",
+    "action",
+    "superiority"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.26",
+   "word_meanings": [
+    {
+     "sa": "सर्वतः",
+     "iast": "sarvataḥ",
+     "en": "from all sides",
+     "hi": "सब ओर से"
+    },
+    {
+     "sa": "अनुसरन्",
+     "iast": "anusaran",
+     "en": "following",
+     "hi": "पीछा करते हुए"
+    },
+    {
+     "sa": "दोषान्",
+     "iast": "doṣān",
+     "en": "the doṣas",
+     "hi": "दोषों का"
+    },
+    {
+     "sa": "उन्मूलयति",
+     "iast": "unmūlayati",
+     "en": "uproots",
+     "hi": "जड़ से उखाड़ देता है"
+    },
+    {
+     "sa": "मूलतः",
+     "iast": "mūlataḥ",
+     "en": "from the root",
+     "hi": "जड़ से"
+    },
+    {
+     "sa": "कर्म",
+     "iast": "karma",
+     "en": "its action",
+     "hi": "अपना कार्य"
+    },
+    {
+     "sa": "कृत्वा",
+     "iast": "kṛtvā",
+     "en": "having done",
+     "hi": "करके"
+    },
+    {
+     "sa": "गतरुजः",
+     "iast": "gatarujaḥ",
+     "en": "(the patient) free of pain",
+     "hi": "(रोगी) दर्द से मुक्त"
+    },
+    {
+     "sa": "स्वयम् एव",
+     "iast": "svayam eva",
+     "en": "by itself",
+     "hi": "स्वयं ही"
+    },
+    {
+     "sa": "उपशाम्यति",
+     "iast": "upaśāmyati",
+     "en": "subsides",
+     "hi": "शांत हो जाता है"
+    }
+   ],
+   "english": "following the doṣas on all sides, it uproots them from the root; having done its work, it subsides by itself, leaving (the patient) free of pain.",
+   "hindi": "सब ओर से दोषों का पीछा करते हुए, उन्हें जड़ से उखाड़ देता है; अपना कार्य करके, वह स्वयं ही शांत हो जाता है और रोगी दर्द से मुक्त हो जाता है।",
+   "explanation_en": "The ability to reach into irregular tracks and 'uproot from the root' explains why kṣāra is valued for fistulae, sinuses and piles. Its self-limiting action (it subsides after acting) is linked to the quality 'sukhanirvāpya'.",
+   "explanation_hi": "टेढ़े-मेढ़े रास्तों में पहुँचकर 'जड़ से उखाड़ने' की क्षमता बताती है कि क्षार भगन्दर, नाड़ीव्रण और अर्श में क्यों मूल्यवान है। कार्य के बाद स्वयं शांत होना 'सुखनिर्वाप्य' गुण से जुड़ा है।",
+   "modern_correlation": {
+    "en": "A caustic agent that penetrates irregular tracts and destroys the lining epithelium is often cited to explain how kṣāra-sūtra works in fistula-in-ano, where the chemical action is thought to destroy the tract lining while the thread cuts through gradually.",
+    "hi": "टेढ़े-मेढ़े मार्गों में घुसकर अंदर की परत (epithelium) को नष्ट करने वाले क्षार को अक्सर क्षारसूत्र की कार्य-प्रणाली समझाने के लिए उद्धृत किया जाता है, जहाँ माना जाता है कि रासायनिक क्रिया fistula की परत को नष्ट करती है और धागा धीरे-धीरे काटता जाता है।"
+   },
+   "key_terms": [
+    "kṣāra karma",
+    "unmūlana",
+    "doṣa"
+   ],
+   "tags": [
+    "kshara",
+    "action"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.27",
+   "word_meanings": [
+    {
+     "sa": "क्षारसाध्ये",
+     "iast": "kṣārasādhye",
+     "en": "curable by kṣāra",
+     "hi": "क्षार से साध्य"
+    },
+    {
+     "sa": "गदे",
+     "iast": "gade",
+     "en": "in a disease",
+     "hi": "रोग में"
+    },
+    {
+     "sa": "छिन्ने",
+     "iast": "chinne",
+     "en": "after excision",
+     "hi": "काटने के बाद"
+    },
+    {
+     "sa": "लिखिते",
+     "iast": "likhite",
+     "en": "after scraping",
+     "hi": "खुरचने के बाद"
+    },
+    {
+     "sa": "स्राविते",
+     "iast": "srāvite",
+     "en": "after making it bleed/drain",
+     "hi": "रक्त/स्राव निकालने के बाद"
+    },
+    {
+     "sa": "अथवा",
+     "iast": "athavā",
+     "en": "or",
+     "hi": "अथवा"
+    },
+    {
+     "sa": "क्षारम्",
+     "iast": "kṣāram",
+     "en": "the kṣāra",
+     "hi": "क्षार को"
+    },
+    {
+     "sa": "शलाकया",
+     "iast": "śalākayā",
+     "en": "with a probe",
+     "hi": "शलाका से"
+    },
+    {
+     "sa": "दत्त्वा",
+     "iast": "dattvā",
+     "en": "having applied",
+     "hi": "लगाकर"
+    },
+    {
+     "sa": "प्लोतप्रावृतदेहया",
+     "iast": "plotaprāvṛtadehayā",
+     "en": "whose shaft is wrapped in cloth",
+     "hi": "जिसका शरीर कपड़े से लिपटा हो"
+    }
+   ],
+   "english": "In a disease curable by kṣāra, after excising, scraping or draining (the lesion), one should apply the kṣāra with a probe (śalākā) whose shaft is wrapped in cloth (plota),",
+   "hindi": "क्षार से साध्य रोग में, (घाव को) काटकर, खुरचकर या उसका स्राव निकालकर, कपड़े (प्लोत) से लिपटी शलाका से क्षार लगाना चाहिए,",
+   "explanation_en": "This begins the procedure of kṣāra karma: preparation of the lesion (chedana, lekhana or visrāvaṇa) so that the alkali can act, then application with a cloth-wrapped probe. The timing (100 mātrās) follows in verse 28.",
+   "explanation_hi": "यह क्षारकर्म की विधि शुरू करता है: पहले घाव को तैयार करना (छेदन, लेखन या विस्रावण) ताकि क्षार काम कर सके, फिर कपड़े से लिपटी शलाका से लगाना। समय (100 मात्रा) श्लोक 28 में है।",
+   "modern_correlation": {
+    "en": "Debriding or scraping a lesion before applying a chemical cauterising agent, and applying it with a cotton-tipped applicator, broadly parallels modern technique in chemical cautery (for example, applying a caustic with a cotton-tipped stick after curettage).",
+    "hi": "क्षार लगाने से पहले घाव को खुरचना/साफ़ करना, और रुई लगी सलाई से लगाना, आधुनिक chemical cautery की तकनीक से मोटे तौर पर मिलता है (जैसे curettage के बाद रुई लगी स्टिक से caustic लगाना)।"
+   },
+   "key_terms": [
+    "kṣāra karma",
+    "śalākā",
+    "plota",
+    "lekhana"
+   ],
+   "tags": [
+    "kshara",
+    "procedure"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.28",
+   "word_meanings": [
+    {
+     "sa": "मात्राशतम्",
+     "iast": "mātrāśatam",
+     "en": "one hundred mātrās (time units)",
+     "hi": "सौ मात्रा (समय की इकाई)"
+    },
+    {
+     "sa": "उपेक्षेत",
+     "iast": "upekṣeta",
+     "en": "should wait",
+     "hi": "प्रतीक्षा करनी चाहिए"
+    },
+    {
+     "sa": "तत्र",
+     "iast": "tatra",
+     "en": "there",
+     "hi": "वहाँ"
+    },
+    {
+     "sa": "अर्शःसु",
+     "iast": "arśaḥsu",
+     "en": "in piles",
+     "hi": "अर्श में"
+    },
+    {
+     "sa": "आवृताननम्",
+     "iast": "āvṛtānanam",
+     "en": "with its opening covered",
+     "hi": "मुँह ढका हुआ"
+    },
+    {
+     "sa": "हस्तेन",
+     "iast": "hastena",
+     "en": "with the hand",
+     "hi": "हाथ से"
+    },
+    {
+     "sa": "यन्त्रम्",
+     "iast": "yantram",
+     "en": "the instrument",
+     "hi": "यंत्र (अर्शोयंत्र)"
+    },
+    {
+     "sa": "कुर्वीत",
+     "iast": "kurvīta",
+     "en": "should make/keep",
+     "hi": "रखना चाहिए"
+    },
+    {
+     "sa": "वर्त्मरोगेषु",
+     "iast": "vartmarogeṣu",
+     "en": "in eyelid diseases",
+     "hi": "पलक के रोगों में"
+    },
+    {
+     "sa": "वर्त्मनी",
+     "iast": "vartmanī",
+     "en": "the eyelids",
+     "hi": "पलकों को"
+    }
+   ],
+   "english": "and wait for one hundred mātrās (units of time). There, in piles, one should keep the opening of the instrument (arśo-yantra) covered with the hand. In eyelid diseases, the eyelids,",
+   "hindi": "और सौ मात्रा (समय की इकाई) तक प्रतीक्षा करनी चाहिए। वहाँ, अर्श में, यंत्र (अर्शोयंत्र) का मुँह हाथ से ढककर रखना चाहिए। पलक के रोगों में, पलकों को",
+   "explanation_en": "A mātrā is the time taken to blink or to circle the knee with the hand once (roughly a second), so 100 mātrās is the standard contact time; 50 for the nose and ear (verse 30). In piles, the alkali is applied through the window of the arśoyantra (proctoscope-like instrument), which is closed with the palm during contact. Exam point: 'mātrāśata' for kṣāra karma.",
+   "explanation_hi": "एक मात्रा पलक झपकने या हाथ से घुटने का एक चक्कर लगाने जितना समय है (लगभग एक सेकंड), इसलिए 100 मात्रा मानक संपर्क-समय है; नाक और कान में 50 (श्लोक 30)। अर्श में क्षार अर्शोयंत्र (proctoscope जैसा यंत्र) की खिड़की से लगाया जाता है, जिसे संपर्क के समय हथेली से बंद रखा जाता है। परीक्षा बिंदु: क्षारकर्म के लिए 'मात्राशत'।",
+   "modern_correlation": {
+    "en": "A fixed contact time before neutralising the caustic, and applying it through a slotted anal speculum for haemorrhoids, broadly parallel modern controlled application of chemical agents through a proctoscope (for example, in injection or chemical treatment of piles).",
+    "hi": "क्षार को शांत करने से पहले निश्चित संपर्क-समय, और अर्श में खिड़की वाले गुदा-यंत्र से लगाना, आधुनिक proctoscope द्वारा रासायनिक द्रव्यों के नियंत्रित प्रयोग (जैसे बवासीर का injection/chemical उपचार) से मोटे तौर पर मिलता है।"
+   },
+   "key_terms": [
+    "mātrā",
+    "mātrāśata",
+    "arśoyantra",
+    "vartmaroga"
+   ],
+   "tags": [
+    "kshara",
+    "procedure",
+    "piles"
+   ],
+   "importance": "high",
+   "mnemonic": "Kṣāra contact: 100 mātrā (general), 50 mātrā for nose and ear.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.29",
+   "word_meanings": [
+    {
+     "sa": "निर्भुज्य",
+     "iast": "nirbhujya",
+     "en": "having everted",
+     "hi": "उलटकर"
+    },
+    {
+     "sa": "पिचुना",
+     "iast": "picunā",
+     "en": "with a cotton swab",
+     "hi": "रुई के फाहे से"
+    },
+    {
+     "sa": "आच्छाद्य",
+     "iast": "ācchādya",
+     "en": "having covered",
+     "hi": "ढककर"
+    },
+    {
+     "sa": "कृष्णभागम्",
+     "iast": "kṛṣṇabhāgam",
+     "en": "the black part (cornea/iris)",
+     "hi": "काला भाग (आँख का)"
+    },
+    {
+     "sa": "विनिक्षिपेत्",
+     "iast": "vinikṣipet",
+     "en": "should apply",
+     "hi": "लगाना चाहिए"
+    },
+    {
+     "sa": "पद्मपत्त्रतनुः",
+     "iast": "padmapattratanuḥ",
+     "en": "thin as a lotus leaf",
+     "hi": "कमल के पत्ते जितना पतला"
+    },
+    {
+     "sa": "क्षारलेपः",
+     "iast": "kṣāralepaḥ",
+     "en": "kṣāra paste",
+     "hi": "क्षार का लेप"
+    },
+    {
+     "sa": "घ्राणार्बुदेषु",
+     "iast": "ghrāṇārbudeṣu",
+     "en": "in nasal tumours/polyps",
+     "hi": "नाक के अर्बुद में"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    }
+   ],
+   "english": "having everted (the eyelids) and covered the black part of the eye with a cotton swab (picu), one should apply (the kṣāra). In nasal tumours (ghrāṇa-arbuda), a kṣāra paste as thin as a lotus leaf (is applied),",
+   "hindi": "पलकों को उलटकर, आँख के काले भाग को रुई के फाहे से ढककर, क्षार लगाना चाहिए। नाक के अर्बुद में कमल के पत्ते जितना पतला क्षार-लेप (लगाया जाता है),",
+   "explanation_en": "Protecting the cornea with cotton during eyelid application shows care for surrounding structures. For nasal growths, a very thin layer is used because the area is delicate. The nasal procedure continues in verse 30.",
+   "explanation_hi": "पलक पर क्षार लगाते समय आँख के काले भाग (कॉर्निया) को रुई से बचाना आसपास की रचनाओं के प्रति सावधानी दिखाता है। नाक की गाँठों में बहुत पतली परत लगाई जाती है क्योंकि वह स्थान नाज़ुक है। नाक की विधि श्लोक 30 में आगे है।",
+   "modern_correlation": {
+    "en": "Shielding the cornea before applying a caustic to the everted eyelid broadly parallels the modern principle of protecting adjacent healthy tissue during chemical cautery; alkali injury to the eye is a serious emergency in modern ophthalmology.",
+    "hi": "उलटी पलक पर क्षार लगाने से पहले कॉर्निया को ढकना, आधुनिक chemical cautery में आसपास के स्वस्थ ऊतक की रक्षा के सिद्धांत से मोटे तौर पर मिलता है; आधुनिक नेत्र चिकित्सा में आँख पर क्षार लगना गंभीर आपात स्थिति है।"
+   },
+   "key_terms": [
+    "kṣāralepa",
+    "vartmaroga",
+    "picu",
+    "ghrāṇārbuda"
+   ],
+   "tags": [
+    "kshara",
+    "procedure",
+    "eye",
+    "nose"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.30",
+   "word_meanings": [
+    {
+     "sa": "प्रत्यादित्यम्",
+     "iast": "pratyādityam",
+     "en": "facing the sun",
+     "hi": "सूर्य की ओर मुँह करके"
+    },
+    {
+     "sa": "निषण्णस्य",
+     "iast": "niṣaṇṇasya",
+     "en": "of one seated",
+     "hi": "बैठे हुए (रोगी) की"
+    },
+    {
+     "sa": "समुन्नम्य",
+     "iast": "samunnamya",
+     "en": "having raised",
+     "hi": "ऊपर उठाकर"
+    },
+    {
+     "sa": "अग्रनासिकाम्",
+     "iast": "agranāsikām",
+     "en": "the tip of the nose",
+     "hi": "नाक का अगला सिरा"
+    },
+    {
+     "sa": "मात्राः",
+     "iast": "mātrāḥ",
+     "en": "mātrās",
+     "hi": "मात्राएँ"
+    },
+    {
+     "sa": "विधार्यः",
+     "iast": "vidhāryaḥ",
+     "en": "to be kept",
+     "hi": "रखना चाहिए"
+    },
+    {
+     "sa": "पञ्चाशत्",
+     "iast": "pañcāśat",
+     "en": "fifty",
+     "hi": "पचास"
+    },
+    {
+     "sa": "तद्वत्",
+     "iast": "tadvat",
+     "en": "likewise",
+     "hi": "उसी प्रकार"
+    },
+    {
+     "sa": "अर्शसि",
+     "iast": "arśasi",
+     "en": "in piles (growths)",
+     "hi": "अर्श में"
+    },
+    {
+     "sa": "कर्णजे",
+     "iast": "karṇaje",
+     "en": "arising in the ear",
+     "hi": "कान में उत्पन्न"
+    }
+   ],
+   "english": "of the patient seated facing the sun, after raising the tip of his nose; it should be kept on for fifty mātrās. The same applies to arśas (polypoid growths) in the ear.",
+   "hindi": "सूर्य की ओर मुँह करके बैठे रोगी की नाक का अगला सिरा ऊपर उठाकर (लेप लगाएँ); इसे पचास मात्रा तक रखना चाहिए। कान में होने वाले अर्श (गाँठों) में भी ऐसा ही करें।",
+   "explanation_en": "Facing the sun provides light to see inside the nose. The shorter contact time (50 mātrās) for nose and ear, compared with 100 elsewhere, reflects the delicacy of these sites. Exam point: contact times in kṣāra karma.",
+   "explanation_hi": "सूर्य की ओर मुँह करने से नाक के अंदर देखने के लिए प्रकाश मिलता है। नाक और कान में कम संपर्क-समय (50 मात्रा), बाकी जगह 100 की तुलना में, इन स्थानों की कोमलता दिखाता है। परीक्षा बिंदु: क्षारकर्म में संपर्क-समय।",
+   "modern_correlation": {
+    "en": "Using sunlight to illuminate the nasal cavity broadly parallels the modern use of a headlight or head mirror for anterior rhinoscopy; chemical cautery of nasal lesions (e.g. with silver nitrate) is still practised.",
+    "hi": "नाक के अंदर रोशनी के लिए सूर्य के प्रकाश का प्रयोग, आधुनिक anterior rhinoscopy में headlight या head mirror के प्रयोग से मोटे तौर पर मिलता है; नाक के घावों का chemical cautery (जैसे silver nitrate से) आज भी किया जाता है।"
+   },
+   "key_terms": [
+    "mātrā",
+    "ghrāṇārbuda",
+    "karṇārśas"
+   ],
+   "tags": [
+    "kshara",
+    "procedure",
+    "nose",
+    "ear"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.31",
+   "word_meanings": [
+    {
+     "sa": "मात्राः विधार्याः पञ्चाशत्",
+     "iast": "mātrāḥ vidhāryāḥ pañcāśat",
+     "en": "fifty mātrās to be kept (repeated line)",
+     "hi": "पचास मात्रा रखनी चाहिए (दोहराई पंक्ति)"
+    },
+    {
+     "sa": "क्षारम्",
+     "iast": "kṣāram",
+     "en": "the kṣāra",
+     "hi": "क्षार को"
+    },
+    {
+     "sa": "प्रमार्जनेन",
+     "iast": "pramārjanena",
+     "en": "with a wiper (swab)",
+     "hi": "पोंछने वाले (फाहे) से"
+    },
+    {
+     "sa": "अनु",
+     "iast": "anu",
+     "en": "afterwards",
+     "hi": "बाद में"
+    },
+    {
+     "sa": "परिमृज्य",
+     "iast": "parimṛjya",
+     "en": "having wiped off",
+     "hi": "पोंछकर"
+    },
+    {
+     "sa": "अवगम्य",
+     "iast": "avagamya",
+     "en": "having ascertained",
+     "hi": "जानकर"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "सुदग्धम्",
+     "iast": "sudagdham",
+     "en": "properly burnt",
+     "hi": "ठीक से जला"
+    },
+    {
+     "sa": "घृतमध्वक्तम्",
+     "iast": "ghṛtamadhvaktam",
+     "en": "smeared with ghee and honey",
+     "hi": "घी और शहद लगा"
+    },
+    {
+     "sa": "तत्",
+     "iast": "tat",
+     "en": "that",
+     "hi": "उसे"
+    },
+    {
+     "sa": "पयः",
+     "iast": "payaḥ",
+     "en": "milk",
+     "hi": "दूध"
+    },
+    {
+     "sa": "मस्तु",
+     "iast": "mastu",
+     "en": "whey",
+     "hi": "दही का पानी"
+    },
+    {
+     "sa": "काञ्जिकैः",
+     "iast": "kāñjikaiḥ",
+     "en": "and sour gruel",
+     "hi": "और काँजी से"
+    }
+   ],
+   "english": "[The entry repeats the line 'fifty mātrās are to be kept'.] Then, wiping off the kṣāra with a swab (pramārjana), and having ascertained that (the part) is properly burnt, smearing it with ghee and honey, (one should cool) it with milk, whey (mastu) and sour gruel (kāñjika),",
+   "hindi": "[प्रविष्टि में 'पचास मात्रा रखनी चाहिए' पंक्ति दोहराई गई है।] फिर फाहे से क्षार को पोंछकर, और यह जानकर कि (भाग) ठीक से जल गया है, उस पर घी और शहद लगाकर, दूध, मस्तु (दही का पानी) और काँजी से (शांत करें),",
+   "explanation_en": "After the contact time, the alkali is wiped off and the part checked for samyak dagdha (proper burn; signs in verse 34). It is then neutralised/cooled with milk, whey and sour gruel; the sour items work by neutralising the alkali (explained in verse 39). Continued in verse 32.",
+   "explanation_hi": "संपर्क-समय के बाद क्षार पोंछा जाता है और देखा जाता है कि ठीक से जला (सम्यक् दग्ध; लक्षण श्लोक 34 में) या नहीं। फिर दूध, मस्तु और काँजी से शांत/ठंडा किया जाता है; खट्टे द्रव्य क्षार को उदासीन (neutralise) करते हैं (श्लोक 39 में समझाया गया)। श्लोक 32 में आगे।",
+   "modern_correlation": {
+    "en": "Wiping off the caustic after a set time and then applying a mildly acidic liquid broadly parallels the modern practice of stopping a chemical cautery's action at the desired depth, sometimes with a neutralising solution.",
+    "hi": "निश्चित समय के बाद क्षार पोंछना और फिर हल्का अम्लीय द्रव लगाना, आधुनिक chemical cautery की क्रिया को इच्छित गहराई पर रोकने की पद्धति से मोटे तौर पर मिलता है, जिसमें कभी-कभी उदासीन करने वाला (neutralising) घोल प्रयोग होता है।"
+   },
+   "key_terms": [
+    "pramārjana",
+    "samyak dagdha",
+    "nirvāpaṇa",
+    "kāñjika",
+    "mastu"
+   ],
+   "tags": [
+    "kshara",
+    "procedure",
+    "neutralisation"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.32",
+   "word_meanings": [
+    {
+     "sa": "निर्वापयेत्",
+     "iast": "nirvāpayet",
+     "en": "should cool/neutralise",
+     "hi": "शांत (ठंडा) करना चाहिए"
+    },
+    {
+     "sa": "ततः",
+     "iast": "tataḥ",
+     "en": "then",
+     "hi": "फिर"
+    },
+    {
+     "sa": "साज्यैः",
+     "iast": "sājyaiḥ",
+     "en": "with ghee",
+     "hi": "घी के साथ"
+    },
+    {
+     "sa": "स्वादुशीतैः",
+     "iast": "svāduśītaiḥ",
+     "en": "with sweet and cold (drugs)",
+     "hi": "मधुर और शीतल (द्रव्यों) से"
+    },
+    {
+     "sa": "प्रदेहयेत्",
+     "iast": "pradehayet",
+     "en": "should apply a paste",
+     "hi": "लेप करना चाहिए"
+    },
+    {
+     "sa": "अभिष्यन्दीनि",
+     "iast": "abhiṣyandīni",
+     "en": "channel-moistening (heavy)",
+     "hi": "अभिष्यन्दी (स्रोतस को गीला करने वाले)"
+    },
+    {
+     "sa": "भोज्यानि",
+     "iast": "bhojyāni",
+     "en": "foods",
+     "hi": "भोजन"
+    },
+    {
+     "sa": "भोज्यानि",
+     "iast": "bhojyāni",
+     "en": "(are to be) eaten",
+     "hi": "खाने चाहिए"
+    },
+    {
+     "sa": "क्लेदनाय",
+     "iast": "kledanāya",
+     "en": "for moistening (sloughing)",
+     "hi": "क्लेदन (गीला करके अलग करने) के लिए"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    }
+   ],
+   "english": "one should cool it. Then one should apply a paste of sweet and cold drugs with ghee. Moistening (abhiṣyandī) foods should be eaten, to promote moistening (kledana, i.e. separation of the burnt slough).",
+   "hindi": "(उसे) शांत करें। फिर घी के साथ मधुर और शीतल द्रव्यों का लेप लगाएँ। अभिष्यन्दी (गीलापन बढ़ाने वाले) भोजन खाने चाहिए, ताकि क्लेदन (जले भाग का गीला होकर अलग होना) हो।",
+   "explanation_en": "Unusually, here kapha-increasing, moistening foods are advised: they help the dry burnt slough (eschar) soften and separate. Verse 33 adds local measures if the slough does not separate.",
+   "explanation_hi": "यहाँ असामान्य रूप से कफ बढ़ाने वाले, गीलापन लाने वाले भोजन बताए गए हैं: इनसे सूखा जला भाग (eschar) नरम होकर अलग होता है। श्लोक 33 में बताया है कि अगर वह अलग न हो तो स्थानीय रूप से क्या करें।",
+   "modern_correlation": {
+    "en": "Promoting softening and separation of the dry burnt slough broadly parallels the modern concept of eschar separation after cauterisation; modern care uses moist dressings rather than diet for this purpose.",
+    "hi": "सूखे जले भाग को नरम करके अलग करना, cautery के बाद eschar के अलग होने की आधुनिक अवधारणा से मोटे तौर पर मिलता है; आधुनिक देखभाल में इसके लिए आहार की जगह नम ड्रेसिंग प्रयोग होती है।"
+   },
+   "key_terms": [
+    "nirvāpaṇa",
+    "abhiṣyandī",
+    "kledana",
+    "pradeha"
+   ],
+   "tags": [
+    "kshara",
+    "post-procedure"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.33",
+   "word_meanings": [
+    {
+     "sa": "यदि च",
+     "iast": "yadi ca",
+     "en": "and if",
+     "hi": "और यदि"
+    },
+    {
+     "sa": "स्थिरमूलत्वात्",
+     "iast": "sthiramūlatvāt",
+     "en": "because of a firm root",
+     "hi": "जड़ मज़बूत होने से"
+    },
+    {
+     "sa": "क्षारदग्धम्",
+     "iast": "kṣāradagdham",
+     "en": "the kṣāra-burnt (part)",
+     "hi": "क्षार से जला (भाग)"
+    },
+    {
+     "sa": "न शीर्यते",
+     "iast": "na śīryate",
+     "en": "does not slough off",
+     "hi": "अलग नहीं होता"
+    },
+    {
+     "sa": "धान्याम्ल",
+     "iast": "dhānyāmla",
+     "en": "sour fermented gruel",
+     "hi": "धान्याम्ल (काँजी)"
+    },
+    {
+     "sa": "बीज",
+     "iast": "bīja",
+     "en": "seeds",
+     "hi": "बीज"
+    },
+    {
+     "sa": "यष्ट्याह्व",
+     "iast": "yaṣṭyāhva",
+     "en": "liquorice (yaṣṭimadhu)",
+     "hi": "मुलेठी"
+    },
+    {
+     "sa": "तिलैः",
+     "iast": "tilaiḥ",
+     "en": "and sesame",
+     "hi": "और तिल से"
+    },
+    {
+     "sa": "आलेपयेत्",
+     "iast": "ālepayet",
+     "en": "should apply a paste",
+     "hi": "लेप करना चाहिए"
+    },
+    {
+     "sa": "ततः",
+     "iast": "tataḥ",
+     "en": "then",
+     "hi": "तब"
+    }
+   ],
+   "english": "And if, because of a firm root, the kṣāra-burnt part does not slough off, one should then apply a paste of sour fermented gruel (dhānyāmla), seeds, liquorice (yaṣṭi) and sesame.",
+   "hindi": "और यदि जड़ मज़बूत होने के कारण क्षार से जला भाग अलग न हो, तो धान्याम्ल (काँजी), बीज, मुलेठी और तिल का लेप लगाना चाहिए।",
+   "explanation_en": "A firmly rooted growth may leave a slough that does not separate; a sour, softening paste helps it to separate. Which 'seeds' are meant is not specified (commentators suggest various). Verse 34 then gives the healing paste.",
+   "explanation_hi": "मज़बूत जड़ वाली गाँठ का जला भाग अलग न हो सकता है; खट्टा, नरम करने वाला लेप उसे अलग होने में मदद करता है। कौन-से 'बीज' अभिप्रेत हैं, यह स्पष्ट नहीं है (टीकाकार अलग-अलग बताते हैं)। श्लोक 34 में घाव भरने वाला लेप है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "kṣāradagdha",
+    "dhānyāmla",
+    "yaṣṭimadhu",
+    "tila"
+   ],
+   "tags": [
+    "kshara",
+    "post-procedure"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.34",
+   "word_meanings": [
+    {
+     "sa": "तिलकल्कः",
+     "iast": "tilakalkaḥ",
+     "en": "sesame paste",
+     "hi": "तिल का कल्क"
+    },
+    {
+     "sa": "समधुकः",
+     "iast": "samadhukaḥ",
+     "en": "with liquorice",
+     "hi": "मुलेठी सहित"
+    },
+    {
+     "sa": "घृताक्तः",
+     "iast": "ghṛtāktaḥ",
+     "en": "smeared with ghee",
+     "hi": "घी लगा"
+    },
+    {
+     "sa": "व्रणरोपणः",
+     "iast": "vraṇaropaṇaḥ",
+     "en": "heals the wound",
+     "hi": "घाव भरने वाला"
+    },
+    {
+     "sa": "पक्वजम्ब्वसितम्",
+     "iast": "pakvajambvasitam",
+     "en": "black like a ripe jambū fruit",
+     "hi": "पके जामुन जैसा काला"
+    },
+    {
+     "sa": "सन्नम्",
+     "iast": "sannam",
+     "en": "depressed, sunken",
+     "hi": "धँसा हुआ"
+    },
+    {
+     "sa": "सम्यग्दग्धम्",
+     "iast": "samyagdagdham",
+     "en": "properly burnt",
+     "hi": "ठीक से जला"
+    },
+    {
+     "sa": "विपर्यये",
+     "iast": "viparyaye",
+     "en": "in the opposite case",
+     "hi": "इसके विपरीत होने पर"
+    }
+   ],
+   "english": "Sesame paste with liquorice (madhuka), smeared with ghee, heals the wound (vraṇa-ropaṇa). (A part that is) black like a ripe jambū fruit and sunken is properly burnt (samyag-dagdha); in the opposite case,",
+   "hindi": "मुलेठी सहित, घी लगा तिल का कल्क घाव भरता है (व्रण-रोपण)। पके जामुन जैसा काला और धँसा हुआ भाग ठीक से जला (सम्यग्दग्ध) है; इसके विपरीत होने पर,",
+   "explanation_en": "The signs of samyak kṣāra-dagdha (proper alkali burn) are a very common exam question: black like ripe jambū and depressed. The signs of under-burn (durdagdha) and over-burn (atidagdha) follow in verse 35.",
+   "explanation_hi": "सम्यक् क्षारदग्ध (ठीक से क्षार-जले) के लक्षण परीक्षा में बहुत पूछे जाते हैं: पके जामुन जैसा काला और धँसा हुआ। कम जलने (दुर्दग्ध) और अधिक जलने (अतिदग्ध) के लक्षण श्लोक 35 में हैं।",
+   "modern_correlation": {
+    "en": "A dark, depressed eschar after chemical cautery broadly parallels the coagulation necrosis seen after adequate chemical cauterisation; the colour change is a practical end-point sign.",
+    "hi": "chemical cautery के बाद काला, धँसा हुआ भाग (eschar), पर्याप्त chemical cauterisation के बाद दिखने वाले coagulation necrosis से मोटे तौर पर मिलता है; रंग बदलना एक व्यावहारिक अंतिम-बिंदु लक्षण है।"
+   },
+   "key_terms": [
+    "samyak kṣāradagdha",
+    "vraṇaropaṇa",
+    "tila kalka",
+    "madhuka"
+   ],
+   "tags": [
+    "kshara",
+    "burn-assessment",
+    "post-procedure"
+   ],
+   "importance": "high",
+   "mnemonic": "Proper kṣāra burn = 'jāmun-black and sunk'.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.35",
+   "word_meanings": [
+    {
+     "sa": "ताम्रता",
+     "iast": "tāmratā",
+     "en": "coppery colour",
+     "hi": "ताँबे जैसा रंग"
+    },
+    {
+     "sa": "तोद",
+     "iast": "toda",
+     "en": "pricking pain",
+     "hi": "चुभन"
+    },
+    {
+     "sa": "कण्ड्वाद्यैः",
+     "iast": "kaṇḍvādyaiḥ",
+     "en": "itching etc.",
+     "hi": "खुजली आदि से"
+    },
+    {
+     "sa": "दुर्दग्धम्",
+     "iast": "durdagdham",
+     "en": "improperly (under-)burnt",
+     "hi": "ठीक से न जला (कम जला)"
+    },
+    {
+     "sa": "तम्",
+     "iast": "tam",
+     "en": "it",
+     "hi": "उसे"
+    },
+    {
+     "sa": "पुनः",
+     "iast": "punaḥ",
+     "en": "again",
+     "hi": "फिर से"
+    },
+    {
+     "sa": "दहेत्",
+     "iast": "dahet",
+     "en": "should burn",
+     "hi": "जलाना चाहिए"
+    },
+    {
+     "sa": "अतिदग्धे",
+     "iast": "atidagdhe",
+     "en": "in over-burning",
+     "hi": "अधिक जलने पर"
+    },
+    {
+     "sa": "स्रवेत्",
+     "iast": "sravet",
+     "en": "flows",
+     "hi": "बहता है"
+    },
+    {
+     "sa": "रक्तम्",
+     "iast": "raktam",
+     "en": "blood",
+     "hi": "रक्त"
+    },
+    {
+     "sa": "मूर्च्छा",
+     "iast": "mūrchā",
+     "en": "fainting",
+     "hi": "मूर्च्छा"
+    },
+    {
+     "sa": "दाह",
+     "iast": "dāha",
+     "en": "burning",
+     "hi": "जलन"
+    },
+    {
+     "sa": "ज्वर",
+     "iast": "jvara",
+     "en": "fever",
+     "hi": "ज्वर"
+    },
+    {
+     "sa": "आदयः",
+     "iast": "ādayaḥ",
+     "en": "etc.",
+     "hi": "आदि"
+    }
+   ],
+   "english": "(recognised) by coppery colour, pricking pain, itching etc., it is under-burnt (durdagdha), and one should burn it again. In over-burning (atidagdha), blood flows, and fainting, burning, fever and the like occur.",
+   "hindi": "ताँबे जैसा रंग, चुभन, खुजली आदि से पहचाना जाए तो वह दुर्दग्ध (कम जला) है, उसे फिर से जलाना चाहिए। अतिदग्ध (अधिक जलने) में रक्त बहता है, और मूर्च्छा, जलन, ज्वर आदि होते हैं।",
+   "explanation_en": "Three outcomes of kṣāra karma: samyak (proper), durdagdha (under) and atidagdha (over). Under-burn is simply repeated; over-burn produces bleeding and systemic symptoms, with special dangers at the anus and nose (verses 36-37) and treatment in verses 38-39.",
+   "explanation_hi": "क्षारकर्म के तीन परिणाम: सम्यक् (ठीक), दुर्दग्ध (कम) और अतिदग्ध (अधिक)। कम जलने पर क्रिया दोहराई जाती है; अधिक जलने से रक्तस्राव और सार्वदैहिक लक्षण होते हैं, गुदा और नाक में विशेष खतरे हैं (श्लोक 36-37), और उपचार श्लोक 38-39 में है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "durdagdha",
+    "atidagdha",
+    "samyak dagdha",
+    "kṣāra karma"
+   ],
+   "tags": [
+    "kshara",
+    "burn-assessment",
+    "complications"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.36",
+   "word_meanings": [
+    {
+     "sa": "गुदे",
+     "iast": "gude",
+     "en": "in the anus",
+     "hi": "गुदा में"
+    },
+    {
+     "sa": "विशेषात्",
+     "iast": "viśeṣāt",
+     "en": "especially",
+     "hi": "विशेष रूप से"
+    },
+    {
+     "sa": "विण्मूत्रसंरोधः",
+     "iast": "viṇmūtrasaṃrodhaḥ",
+     "en": "retention of faeces and urine",
+     "hi": "मल-मूत्र का रुकना"
+    },
+    {
+     "sa": "अतिप्रवर्तनम्",
+     "iast": "atipravartanam",
+     "en": "or excessive discharge",
+     "hi": "या अधिक निकलना"
+    },
+    {
+     "sa": "पुंस्त्वोपघातः",
+     "iast": "puṃstvopaghātaḥ",
+     "en": "loss of virility",
+     "hi": "पुंसत्व की हानि"
+    },
+    {
+     "sa": "मृत्युः",
+     "iast": "mṛtyuḥ",
+     "en": "death",
+     "hi": "मृत्यु"
+    },
+    {
+     "sa": "वा",
+     "iast": "vā",
+     "en": "or",
+     "hi": "या"
+    },
+    {
+     "sa": "गुदस्य",
+     "iast": "gudasya",
+     "en": "of the anus",
+     "hi": "गुदा के"
+    },
+    {
+     "sa": "शातनात्",
+     "iast": "śātanāt",
+     "en": "from destruction",
+     "hi": "नष्ट होने से"
+    },
+    {
+     "sa": "ध्रुवम्",
+     "iast": "dhruvam",
+     "en": "certainly",
+     "hi": "निश्चित रूप से"
+    }
+   ],
+   "english": "In the anus especially, (over-burning causes) retention of faeces and urine or their excessive discharge (incontinence), loss of virility, or certainly death from destruction (śātana) of the anus.",
+   "hindi": "गुदा में विशेष रूप से (अतिदग्ध से) मल-मूत्र का रुकना या अधिक निकलना (रोक न पाना), पुंसत्व की हानि, या गुदा के नष्ट होने से निश्चित रूप से मृत्यु हो जाती है।",
+   "explanation_en": "Over-burning at the anus can cause stricture (retention), sphincter damage (incontinence) and other serious injury. This warning is especially relevant for kṣāra karma in arśas and bhagandara. Exam point: complications of atidagdha in guda.",
+   "explanation_hi": "गुदा में अधिक जलने से संकुचन (मल-मूत्र रुकना), sphincter की क्षति (रोक न पाना) और अन्य गंभीर चोट हो सकती है। यह चेतावनी अर्श और भगन्दर में क्षारकर्म के लिए विशेष रूप से महत्वपूर्ण है। परीक्षा बिंदु: गुदा में अतिदग्ध के उपद्रव।",
+   "modern_correlation": {
+    "en": "Over-aggressive chemical or thermal treatment of the anal region causing stricture or incontinence is a recognised complication in modern proctology, which this warning broadly parallels.",
+    "hi": "गुदा क्षेत्र में अधिक तीव्र रासायनिक या ताप उपचार से संकुचन (stricture) या मल रोक न पाना (incontinence) आधुनिक proctology में भी माना हुआ उपद्रव है, जिससे यह चेतावनी मोटे तौर पर मिलती है।"
+   },
+   "key_terms": [
+    "atidagdha",
+    "guda",
+    "viṇmūtrasaṃrodha",
+    "puṃstvopaghāta"
+   ],
+   "tags": [
+    "kshara",
+    "complications",
+    "anorectal"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.37",
+   "word_meanings": [
+    {
+     "sa": "नासायाम्",
+     "iast": "nāsāyām",
+     "en": "in the nose",
+     "hi": "नाक में"
+    },
+    {
+     "sa": "नासिकावंश",
+     "iast": "nāsikāvaṃśa",
+     "en": "nasal bridge (septum)",
+     "hi": "नाक का बाँसा"
+    },
+    {
+     "sa": "दरण",
+     "iast": "daraṇa",
+     "en": "cracking, perforation",
+     "hi": "फटना"
+    },
+    {
+     "sa": "आकुञ्चन",
+     "iast": "ākuñcana",
+     "en": "contraction",
+     "hi": "सिकुड़ना"
+    },
+    {
+     "sa": "उद्भवः",
+     "iast": "udbhavaḥ",
+     "en": "arising",
+     "hi": "उत्पन्न होना"
+    },
+    {
+     "sa": "भवेत्",
+     "iast": "bhavet",
+     "en": "occurs",
+     "hi": "होता है"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "विषयाज्ञानम्",
+     "iast": "viṣayājñānam",
+     "en": "loss of perception of its object (smell)",
+     "hi": "अपने विषय (गंध) का ज्ञान न होना"
+    },
+    {
+     "sa": "तद्वत्",
+     "iast": "tadvat",
+     "en": "likewise",
+     "hi": "उसी प्रकार"
+    },
+    {
+     "sa": "श्रोत्रादिकेषु",
+     "iast": "śrotrādikeṣu",
+     "en": "in the ear etc.",
+     "hi": "कान आदि में"
+    },
+    {
+     "sa": "अपि",
+     "iast": "api",
+     "en": "also",
+     "hi": "भी"
+    }
+   ],
+   "english": "[The entry begins with a variant note on the previous verse.] In the nose, (over-burning causes) cracking and contraction of the nasal bridge (vaṃśa), and loss of perception of its object (smell); likewise in the ear and other (sense organs).",
+   "hindi": "[प्रविष्टि पिछले श्लोक के पाठभेद की टिप्पणी से शुरू होती है।] नाक में (अतिदग्ध से) नाक के बाँसे का फटना और सिकुड़ना होता है, और गंध का ज्ञान नहीं रहता; इसी प्रकार कान आदि (इंद्रियों) में भी (उनके विषय का ज्ञान नष्ट हो जाता है)।",
+   "explanation_en": "Over-burning in the sense organs can destroy their function (e.g. loss of smell or hearing) and deform them (septal perforation, contraction). The treatment of atidagdha follows in verses 38-39. The first line of this corpus entry is an editorial variant note and is not translated as text.",
+   "explanation_hi": "इंद्रियों में अधिक जलने से उनका कार्य नष्ट हो सकता है (जैसे गंध या सुनने की शक्ति जाना) और आकार बिगड़ सकता है (बाँसे में छेद, सिकुड़न)। अतिदग्ध का उपचार श्लोक 38-39 में है। इस प्रविष्टि की पहली पंक्ति संपादकीय पाठभेद-टिप्पणी है, उसका अनुवाद पाठ के रूप में नहीं किया गया।",
+   "modern_correlation": {
+    "en": "Septal perforation, scarring and loss of smell are recognised complications of excessive cautery inside the nose in modern ENT practice, which this description broadly parallels.",
+    "hi": "आधुनिक ENT में नाक के अंदर अधिक cautery से septum में छेद, निशान और गंध की हानि माने हुए उपद्रव हैं, जिनसे यह वर्णन मोटे तौर पर मिलता है।"
+   },
+   "key_terms": [
+    "atidagdha",
+    "nāsā",
+    "nāsāvaṃśa",
+    "viṣayājñāna"
+   ],
+   "tags": [
+    "kshara",
+    "complications",
+    "nose",
+    "ear"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.38",
+   "word_meanings": [
+    {
+     "sa": "विशेषात्",
+     "iast": "viśeṣāt",
+     "en": "especially",
+     "hi": "विशेष रूप से"
+    },
+    {
+     "sa": "अत्र",
+     "iast": "atra",
+     "en": "here (in over-burning)",
+     "hi": "यहाँ (अतिदग्ध में)"
+    },
+    {
+     "sa": "सेकः",
+     "iast": "sekaḥ",
+     "en": "affusion",
+     "hi": "सेक"
+    },
+    {
+     "sa": "अम्लैः",
+     "iast": "amlaiḥ",
+     "en": "with sour (liquids)",
+     "hi": "खट्टे (द्रवों) से"
+    },
+    {
+     "sa": "लेपः",
+     "iast": "lepaḥ",
+     "en": "paste",
+     "hi": "लेप"
+    },
+    {
+     "sa": "मधु",
+     "iast": "madhu",
+     "en": "honey",
+     "hi": "शहद"
+    },
+    {
+     "sa": "घृतम्",
+     "iast": "ghṛtam",
+     "en": "ghee",
+     "hi": "घी"
+    },
+    {
+     "sa": "तिलाः",
+     "iast": "tilāḥ",
+     "en": "sesame",
+     "hi": "तिल"
+    },
+    {
+     "sa": "वातपित्तहरा",
+     "iast": "vātapittaharā",
+     "en": "pacifying vāta and pitta",
+     "hi": "वात-पित्त नाशक"
+    },
+    {
+     "sa": "चेष्टा",
+     "iast": "ceṣṭā",
+     "en": "regimen",
+     "hi": "आचरण"
+    },
+    {
+     "sa": "सर्वा एव",
+     "iast": "sarvā eva",
+     "en": "all",
+     "hi": "सारी"
+    },
+    {
+     "sa": "शिशिरा",
+     "iast": "śiśirā",
+     "en": "cooling",
+     "hi": "शीतल"
+    },
+    {
+     "sa": "क्रिया",
+     "iast": "kriyā",
+     "en": "treatment",
+     "hi": "चिकित्सा"
+    }
+   ],
+   "english": "Here (in over-burning) especially, affusion with sour liquids (amla), a paste of honey, ghee and sesame, a regimen that pacifies vāta and pitta, and all cooling measures (are advised).",
+   "hindi": "यहाँ (अतिदग्ध में) विशेष रूप से खट्टे द्रवों से सेक, शहद, घी और तिल का लेप, वात-पित्त शांत करने वाला आचरण, और सारी शीतल चिकित्सा (करनी चाहिए)।",
+   "explanation_en": "Management of atidagdha (kṣāra over-burn): neutralise with sour liquids, soothe with honey-ghee-sesame, and use cooling, vāta-pitta-pacifying measures. Verse 39 explains why sour liquids are used. A standard exam point: 'treatment of kṣāra atidagdha'.",
+   "explanation_hi": "अतिदग्ध (क्षार से अधिक जलने) का उपचार: खट्टे द्रवों से उदासीन करना, शहद-घी-तिल से शांत करना, और शीतल, वात-पित्त नाशक उपाय। श्लोक 39 बताता है कि खट्टे द्रव क्यों प्रयोग होते हैं। मानक परीक्षा बिंदु: 'क्षार अतिदग्ध की चिकित्सा'।",
+   "modern_correlation": null,
+   "key_terms": [
+    "atidagdha",
+    "amla seka",
+    "madhu",
+    "ghṛta",
+    "śiśira kriyā"
+   ],
+   "tags": [
+    "kshara",
+    "complications",
+    "management"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.39",
+   "word_meanings": [
+    {
+     "sa": "अम्लः",
+     "iast": "amlaḥ",
+     "en": "sour (substance)",
+     "hi": "खट्टा (द्रव्य)"
+    },
+    {
+     "sa": "हि",
+     "iast": "hi",
+     "en": "indeed",
+     "hi": "निश्चय ही"
+    },
+    {
+     "sa": "शीतः",
+     "iast": "śītaḥ",
+     "en": "cold",
+     "hi": "शीतल"
+    },
+    {
+     "sa": "स्पर्शेन",
+     "iast": "sparśena",
+     "en": "to the touch",
+     "hi": "स्पर्श में"
+    },
+    {
+     "sa": "क्षारः",
+     "iast": "kṣāraḥ",
+     "en": "alkali",
+     "hi": "क्षार"
+    },
+    {
+     "sa": "तेन",
+     "iast": "tena",
+     "en": "with it",
+     "hi": "उससे"
+    },
+    {
+     "sa": "उपसंहितः",
+     "iast": "upasaṃhitaḥ",
+     "en": "combined",
+     "hi": "मिलकर"
+    },
+    {
+     "sa": "याति",
+     "iast": "yāti",
+     "en": "attains",
+     "hi": "प्राप्त करता है"
+    },
+    {
+     "sa": "आशु",
+     "iast": "āśu",
+     "en": "quickly",
+     "hi": "जल्दी"
+    },
+    {
+     "sa": "स्वादुताम्",
+     "iast": "svādutām",
+     "en": "sweetness (mildness)",
+     "hi": "मधुरता (सौम्यता)"
+    },
+    {
+     "sa": "तस्मात्",
+     "iast": "tasmāt",
+     "en": "therefore",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "अम्लैः",
+     "iast": "amlaiḥ",
+     "en": "with sour (substances)",
+     "hi": "खट्टे द्रव्यों से"
+    },
+    {
+     "sa": "निर्वापयेत्तराम्",
+     "iast": "nirvāpayettarām",
+     "en": "should especially cool/neutralise",
+     "hi": "विशेष रूप से शांत करना चाहिए"
+    }
+   ],
+   "english": "Sour (amla) substances are cold to the touch, and kṣāra combined with them quickly becomes mild (sweet). Therefore one should neutralise it especially with sour substances.",
+   "hindi": "खट्टे (अम्ल) द्रव्य स्पर्श में शीतल होते हैं, और उनसे मिलकर क्षार जल्दी मधुर (सौम्य) हो जाता है। इसलिए (क्षार को) विशेष रूप से खट्टे द्रव्यों से शांत करना चाहिए।",
+   "explanation_en": "This is the famous verse on neutralising kṣāra with amla: the alkali loses its sharpness and becomes 'sweet' (mild) when mixed with sour substances. It is frequently quoted as an early observation of acid-base neutralisation and is a high-yield exam point.",
+   "explanation_hi": "यह क्षार को अम्ल से शांत करने का प्रसिद्ध श्लोक है: खट्टे द्रव्यों से मिलकर क्षार अपनी तीक्ष्णता खो देता है और 'मधुर' (सौम्य) हो जाता है। इसे अक्सर अम्ल-क्षार उदासीनीकरण (neutralisation) के प्राचीन अवलोकन के रूप में उद्धृत किया जाता है, और यह परीक्षा का महत्वपूर्ण बिंदु है।",
+   "modern_correlation": {
+    "en": "Using sour (acidic) liquids to stop an alkali's action is often compared to acid-base neutralisation in chemistry. In modern first aid for chemical burns, however, copious irrigation with water is preferred, and deliberate neutralisation with acids is generally avoided on skin and eyes because the reaction can produce heat.",
+    "hi": "क्षार की क्रिया रोकने के लिए खट्टे (अम्लीय) द्रवों का प्रयोग अक्सर रसायन शास्त्र के अम्ल-क्षार उदासीनीकरण (neutralisation) से तुलना किया जाता है। परंतु आधुनिक प्राथमिक उपचार में रासायनिक जलन पर भरपूर पानी से धोना पसंद किया जाता है, और त्वचा तथा आँख पर जानबूझकर अम्ल से उदासीन करना सामान्यतः टाला जाता है क्योंकि इस क्रिया से गर्मी पैदा हो सकती है।"
+   },
+   "key_terms": [
+    "amla",
+    "kṣāra",
+    "nirvāpaṇa",
+    "svādutā"
+   ],
+   "tags": [
+    "kshara",
+    "neutralisation",
+    "principles"
+   ],
+   "importance": "high",
+   "mnemonic": "Amla tames kṣāra: sour makes the alkali 'sweet'.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.40",
+   "word_meanings": [
+    {
+     "sa": "विष",
+     "iast": "viṣa",
+     "en": "poison",
+     "hi": "विष"
+    },
+    {
+     "sa": "अग्नि",
+     "iast": "agni",
+     "en": "fire",
+     "hi": "अग्नि"
+    },
+    {
+     "sa": "शस्त्र",
+     "iast": "śastra",
+     "en": "weapon, knife",
+     "hi": "शस्त्र"
+    },
+    {
+     "sa": "अशनि",
+     "iast": "aśani",
+     "en": "thunderbolt",
+     "hi": "वज्र (बिजली)"
+    },
+    {
+     "sa": "मृत्यु",
+     "iast": "mṛtyu",
+     "en": "death",
+     "hi": "मृत्यु"
+    },
+    {
+     "sa": "तुल्यः",
+     "iast": "tulyaḥ",
+     "en": "equal to",
+     "hi": "के समान"
+    },
+    {
+     "sa": "क्षारः",
+     "iast": "kṣāraḥ",
+     "en": "kṣāra",
+     "hi": "क्षार"
+    },
+    {
+     "sa": "भवेत्",
+     "iast": "bhavet",
+     "en": "becomes",
+     "hi": "हो जाता है"
+    },
+    {
+     "sa": "अल्पमतिप्रयुक्तः",
+     "iast": "alpamatiprayuktaḥ",
+     "en": "used by one of little understanding",
+     "hi": "अल्पबुद्धि द्वारा प्रयोग किया गया"
+    },
+    {
+     "sa": "रोगान्",
+     "iast": "rogān",
+     "en": "diseases",
+     "hi": "रोगों को"
+    },
+    {
+     "sa": "निहन्यात्",
+     "iast": "nihanyāt",
+     "en": "destroys",
+     "hi": "नष्ट करता है"
+    },
+    {
+     "sa": "अचिरेण",
+     "iast": "acireṇa",
+     "en": "quickly",
+     "hi": "शीघ्र"
+    },
+    {
+     "sa": "घोरान्",
+     "iast": "ghorān",
+     "en": "severe",
+     "hi": "भयंकर"
+    },
+    {
+     "sa": "धीमता",
+     "iast": "dhīmatā",
+     "en": "by the wise",
+     "hi": "बुद्धिमान द्वारा"
+    },
+    {
+     "sa": "सम्यक् अनुप्रयुक्तः",
+     "iast": "samyak anuprayuktaḥ",
+     "en": "properly applied",
+     "hi": "ठीक से प्रयोग किया गया"
+    },
+    {
+     "sa": "अग्निः",
+     "iast": "agniḥ",
+     "en": "fire (cautery)",
+     "hi": "अग्नि (अग्निकर्म)"
+    },
+    {
+     "sa": "क्षारात् अपि",
+     "iast": "kṣārāt api",
+     "en": "even than kṣāra",
+     "hi": "क्षार से भी"
+    },
+    {
+     "sa": "श्रेष्ठः",
+     "iast": "śreṣṭhaḥ",
+     "en": "superior",
+     "hi": "श्रेष्ठ"
+    },
+    {
+     "sa": "तद्दग्धानाम्",
+     "iast": "taddagdhānām",
+     "en": "of (diseases) burnt by it",
+     "hi": "उससे जलाए गए (रोगों) का"
+    },
+    {
+     "sa": "असंभवात्",
+     "iast": "asaṃbhavāt",
+     "en": "non-recurrence",
+     "hi": "फिर न होने से"
+    },
+    {
+     "sa": "भेषज",
+     "iast": "bheṣaja",
+     "en": "medicines",
+     "hi": "औषधि"
+    },
+    {
+     "sa": "क्षार",
+     "iast": "kṣāra",
+     "en": "alkali",
+     "hi": "क्षार"
+    },
+    {
+     "sa": "शस्त्रैः",
+     "iast": "śastraiḥ",
+     "en": "and knife",
+     "hi": "और शस्त्र से"
+    },
+    {
+     "sa": "न सिद्धानाम्",
+     "iast": "na siddhānām",
+     "en": "of those not cured",
+     "hi": "जो ठीक न हुए हों"
+    },
+    {
+     "sa": "प्रसाधनात्",
+     "iast": "prasādhanāt",
+     "en": "because of curing",
+     "hi": "ठीक करने के कारण"
+    }
+   ],
+   "english": "[Additional verse 39+1:] Kṣāra, when used by a person of little understanding (or used wrongly), becomes equal to poison, fire, a weapon, a thunderbolt or death; when properly applied by a wise physician, it quickly destroys severe diseases. [Verse 40:] Agni (fire cautery) is superior even to kṣāra, because diseases burnt by it do not recur, and because it cures those not cured by medicines, kṣāra or the knife.",
+   "hindi": "[अतिरिक्त श्लोक 39+1:] अल्पबुद्धि द्वारा (या गलत ढंग से) प्रयोग किया गया क्षार विष, अग्नि, शस्त्र, वज्र या मृत्यु के समान हो जाता है; बुद्धिमान वैद्य द्वारा ठीक से प्रयोग किया गया वह भयंकर रोगों को शीघ्र नष्ट कर देता है। [श्लोक 40:] अग्नि (अग्निकर्म) क्षार से भी श्रेष्ठ है, क्योंकि उससे जलाए गए रोग फिर नहीं होते, और क्योंकि वह उन रोगों को भी ठीक करता है जो औषधि, क्षार या शस्त्र से ठीक नहीं हुए।",
+   "explanation_en": "The extra verse is a warning that kṣāra is a double-edged tool. (The corpus divides 'alpam ati-prayuktaḥ'; the usual reading is 'alpamati-prayuktaḥ', 'used by a dull-witted person'; both senses are reflected above.) Verse 40 begins the agnikarma section with the famous statement of agni's superiority: no recurrence (apunarbhava) and success where other methods fail. A top exam quotation.",
+   "explanation_hi": "अतिरिक्त श्लोक चेतावनी है कि क्षार दोधारी साधन है। (मूल पाठ में 'अल्पम् अति-प्रयुक्तः' अलग किया गया है; प्रचलित पाठ 'अल्पमति-प्रयुक्तः' है, यानी 'मंदबुद्धि द्वारा प्रयुक्त'; ऊपर दोनों अर्थ दिए गए हैं।) श्लोक 40 अग्निकर्म का भाग अग्नि की श्रेष्ठता के प्रसिद्ध कथन से शुरू करता है: रोग फिर नहीं होता (अपुनर्भव) और जहाँ अन्य उपाय असफल हों वहाँ भी सफल। परीक्षा का सबसे प्रसिद्ध उद्धरण।",
+   "modern_correlation": {
+    "en": "Agnikarma (therapeutic thermal cautery) is often compared to modern thermal cautery and electrocautery, used to destroy tissue and control bleeding. The classical claim of 'no recurrence' is a traditional statement and should not be read as proven for all conditions.",
+    "hi": "अग्निकर्म (चिकित्सीय ताप-दहन) की तुलना अक्सर आधुनिक thermal cautery और electrocautery से की जाती है, जो ऊतक नष्ट करने और रक्तस्राव रोकने में प्रयोग होते हैं। 'रोग फिर नहीं होता' का शास्त्रीय दावा पारंपरिक कथन है, इसे सब रोगों के लिए प्रमाणित नहीं मानना चाहिए।"
+   },
+   "key_terms": [
+    "kṣāra",
+    "agnikarma",
+    "apunarbhava",
+    "agni śreṣṭhatva"
+   ],
+   "tags": [
+    "agnikarma",
+    "kshara",
+    "superiority",
+    "definitions"
+   ],
+   "importance": "high",
+   "mnemonic": "Agni > Kṣāra > Śastra: fire leaves no return (apunarbhava).",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.41",
+   "word_meanings": [
+    {
+     "sa": "त्वचि",
+     "iast": "tvaci",
+     "en": "in the skin",
+     "hi": "त्वचा में"
+    },
+    {
+     "sa": "मांसे",
+     "iast": "māṃse",
+     "en": "in the flesh",
+     "hi": "मांस में"
+    },
+    {
+     "sa": "सिरा",
+     "iast": "sirā",
+     "en": "vessels",
+     "hi": "सिरा"
+    },
+    {
+     "sa": "स्नायु",
+     "iast": "snāyu",
+     "en": "ligaments",
+     "hi": "स्नायु"
+    },
+    {
+     "sa": "संधि",
+     "iast": "saṃdhi",
+     "en": "joints",
+     "hi": "संधि"
+    },
+    {
+     "sa": "अस्थिषु",
+     "iast": "asthiṣu",
+     "en": "and bones",
+     "hi": "और अस्थि में"
+    },
+    {
+     "sa": "सः",
+     "iast": "saḥ",
+     "en": "it (agnikarma)",
+     "hi": "वह (अग्निकर्म)"
+    },
+    {
+     "sa": "युज्यते",
+     "iast": "yujyate",
+     "en": "is applied",
+     "hi": "प्रयोग होता है"
+    },
+    {
+     "sa": "मष",
+     "iast": "maṣa",
+     "en": "moles",
+     "hi": "मस्से"
+    },
+    {
+     "sa": "अङ्गग्लानि",
+     "iast": "aṅgaglāni",
+     "en": "local weakness of a part",
+     "hi": "अंग की शिथिलता"
+    },
+    {
+     "sa": "मूर्धार्ति",
+     "iast": "mūrdhārti",
+     "en": "headache",
+     "hi": "सिरदर्द"
+    },
+    {
+     "sa": "मन्थ",
+     "iast": "mantha",
+     "en": "adhimantha (eye disease)",
+     "hi": "अधिमंथ (नेत्र रोग)"
+    },
+    {
+     "sa": "कील",
+     "iast": "kīla",
+     "en": "kīla (horny growth/corn)",
+     "hi": "कील"
+    },
+    {
+     "sa": "तिल",
+     "iast": "tila",
+     "en": "tilakālaka (black mole)",
+     "hi": "तिलकालक (तिल)"
+    },
+    {
+     "sa": "आदिषु",
+     "iast": "ādiṣu",
+     "en": "etc.",
+     "hi": "आदि में"
+    }
+   ],
+   "english": "It (agnikarma) is applied in the skin, flesh, vessels, ligaments, joints and bones. (In the skin, it is used) in moles (maṣa), local weakness of a part (aṅgaglāni), headache, adhimantha (mantha, an eye disease), kīla (corn-like growths), tila (black moles) and the like,",
+   "hindi": "अग्निकर्म त्वचा, मांस, सिरा, स्नायु, संधि और अस्थि में प्रयोग होता है। (त्वचा में) मस्से, अंग की शिथिलता, सिरदर्द, अधिमंथ (नेत्र रोग), कील, तिल आदि में (प्रयोग होता है),",
+   "explanation_en": "This verse names the six sites (dahana sthāna) of agnikarma and starts the list of skin-level indications. Verses 41-44 pair each level with its indications and the heating instruments (dahanopakaraṇa). Exam favourite: 'sites, indications and instruments of agnikarma'.",
+   "explanation_hi": "यह श्लोक अग्निकर्म के छह स्थान (दहन स्थान) बताता है और त्वचा स्तर के संकेत शुरू करता है। श्लोक 41-44 हर स्तर को उसके संकेतों और दहन के साधनों (दहनोपकरण) से जोड़ते हैं। परीक्षा में प्रिय प्रश्न: 'अग्निकर्म के स्थान, संकेत और उपकरण'।",
+   "modern_correlation": {
+    "en": "Thermal destruction of moles, corns and warts broadly parallels modern electrocautery or thermocautery of benign skin lesions. Modern agnikarma research has explored its use for painful musculoskeletal conditions, but this does not establish it as standard treatment.",
+    "hi": "मस्सों, कील और wart को ताप से नष्ट करना आधुनिक electrocautery या thermocautery से त्वचा की सामान्य गाँठों के उपचार से मोटे तौर पर मिलता है। आधुनिक अग्निकर्म शोध ने दर्द वाले मांसपेशी-अस्थि रोगों में इसके प्रयोग की जाँच की है, पर इससे यह मानक उपचार सिद्ध नहीं होता।"
+   },
+   "key_terms": [
+    "agnikarma",
+    "dahana sthāna",
+    "maṣa",
+    "kīla",
+    "tilakālaka",
+    "adhimantha"
+   ],
+   "tags": [
+    "agnikarma",
+    "sites",
+    "indications"
+   ],
+   "importance": "high",
+   "mnemonic": "6 dahana sites: Tvak, Māṃsa, Sirā, Snāyu, Sandhi, Asthi.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.42",
+   "word_meanings": [
+    {
+     "sa": "त्वग्दाहः",
+     "iast": "tvagdāhaḥ",
+     "en": "burning of the skin",
+     "hi": "त्वचा का दहन"
+    },
+    {
+     "sa": "वर्ति",
+     "iast": "varti",
+     "en": "(pippalī) wick",
+     "hi": "वर्ति (बत्ती)"
+    },
+    {
+     "sa": "गोदन्त",
+     "iast": "godanta",
+     "en": "cow's tooth",
+     "hi": "गाय का दाँत"
+    },
+    {
+     "sa": "सूर्यकान्त",
+     "iast": "sūryakānta",
+     "en": "sun-stone (lens)",
+     "hi": "सूर्यकांत (सूर्य-मणि)"
+    },
+    {
+     "sa": "शर",
+     "iast": "śara",
+     "en": "reed/arrow-shaft",
+     "hi": "शर (सरकंडा)"
+    },
+    {
+     "sa": "आदिभिः",
+     "iast": "ādibhiḥ",
+     "en": "etc.",
+     "hi": "आदि से"
+    },
+    {
+     "sa": "अर्शः",
+     "iast": "arśaḥ",
+     "en": "piles",
+     "hi": "अर्श"
+    },
+    {
+     "sa": "भगन्दर",
+     "iast": "bhagandara",
+     "en": "fistula-in-ano",
+     "hi": "भगन्दर"
+    },
+    {
+     "sa": "ग्रन्थि",
+     "iast": "granthi",
+     "en": "nodule",
+     "hi": "ग्रन्थि"
+    },
+    {
+     "sa": "नाडी",
+     "iast": "nāḍī",
+     "en": "sinus",
+     "hi": "नाड़ीव्रण"
+    },
+    {
+     "sa": "दुष्टव्रण",
+     "iast": "duṣṭavraṇa",
+     "en": "chronic ulcer",
+     "hi": "दुष्ट व्रण"
+    },
+    {
+     "sa": "आदिषु",
+     "iast": "ādiṣu",
+     "en": "etc.",
+     "hi": "आदि में"
+    }
+   ],
+   "english": "burning of the skin (tvag-dāha) being done with a wick (varti), a cow's tooth, a sun-stone (sūryakānta lens), reeds (śara) and the like. In piles, fistula-in-ano, nodules (granthi), sinuses (nāḍī), chronic ulcers and the like,",
+   "hindi": "त्वचा का दहन बत्ती (वर्ति), गाय के दाँत, सूर्यकांत (सूर्य की किरणें केंद्रित करने वाली मणि), शर (सरकंडे) आदि से किया जाता है। अर्श, भगन्दर, ग्रन्थि, नाड़ीव्रण, दुष्ट व्रण आदि में,",
+   "explanation_en": "Skin-level instruments are relatively mild heat sources. The sūryakānta (a lens focusing sunlight) is a notable item. The second half begins the flesh-level (māṃsa-dāha) indications, whose instruments are named in verse 43.",
+   "explanation_hi": "त्वचा स्तर के साधन अपेक्षाकृत हल्के ताप-स्रोत हैं। सूर्यकांत (सूर्य का प्रकाश केंद्रित करने वाला लेंस) विशेष उल्लेखनीय है। दूसरा भाग मांस स्तर (मांसदहन) के संकेत शुरू करता है, जिनके साधन श्लोक 43 में हैं।",
+   "modern_correlation": {
+    "en": "Using a lens to focus sunlight for cautery is an interesting historical parallel to focused energy devices; modern practice uses controlled electrical, laser or radiofrequency energy for thermal tissue destruction.",
+    "hi": "सूर्य का प्रकाश लेंस से केंद्रित करके दहन करना, केंद्रित ऊर्जा उपकरणों का रोचक ऐतिहासिक समानांतर है; आधुनिक पद्धति में ऊतक को ताप से नष्ट करने के लिए नियंत्रित विद्युत, लेज़र या radiofrequency ऊर्जा प्रयोग होती है।"
+   },
+   "key_terms": [
+    "tvagdāha",
+    "dahanopakaraṇa",
+    "sūryakānta",
+    "godanta",
+    "varti"
+   ],
+   "tags": [
+    "agnikarma",
+    "instruments",
+    "indications"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.43",
+   "word_meanings": [
+    {
+     "sa": "मांसदाहः",
+     "iast": "māṃsadāhaḥ",
+     "en": "burning of the flesh",
+     "hi": "मांस का दहन"
+    },
+    {
+     "sa": "मधु",
+     "iast": "madhu",
+     "en": "honey",
+     "hi": "शहद"
+    },
+    {
+     "sa": "स्नेह",
+     "iast": "sneha",
+     "en": "oil/ghee",
+     "hi": "स्नेह (तेल/घी)"
+    },
+    {
+     "sa": "जाम्बवौष्ठ",
+     "iast": "jāmbavauṣṭha",
+     "en": "jāmbavauṣṭha (a stone probe)",
+     "hi": "जाम्बवौष्ठ (काले पत्थर की शलाका)"
+    },
+    {
+     "sa": "गुड",
+     "iast": "guḍa",
+     "en": "jaggery",
+     "hi": "गुड़"
+    },
+    {
+     "sa": "आदिभिः",
+     "iast": "ādibhiḥ",
+     "en": "etc.",
+     "hi": "आदि से"
+    },
+    {
+     "sa": "श्लिष्टवर्त्मनि",
+     "iast": "śliṣṭavartmani",
+     "en": "in adherent eyelids",
+     "hi": "चिपकी पलकों में"
+    },
+    {
+     "sa": "असृक्स्राव",
+     "iast": "asṛksrāva",
+     "en": "bleeding",
+     "hi": "रक्तस्राव"
+    },
+    {
+     "sa": "नीली",
+     "iast": "nīlī",
+     "en": "nīlī (bluish discoloration?)",
+     "hi": "नीली"
+    },
+    {
+     "sa": "असम्यग्व्यध",
+     "iast": "asamyagvyadha",
+     "en": "improper venesection",
+     "hi": "गलत सिरावेध"
+    },
+    {
+     "sa": "आदिषु",
+     "iast": "ādiṣu",
+     "en": "etc.",
+     "hi": "आदि में"
+    }
+   ],
+   "english": "burning of the flesh (māṃsa-dāha) is done with (heated) honey, oil/ghee (sneha), the jāmbavauṣṭha (stone probe), jaggery and the like. In adherent eyelids (śliṣṭa-vartma), bleeding, nīlī and improper venesection and the like,",
+   "hindi": "मांस का दहन (गर्म) शहद, स्नेह (तेल/घी), जाम्बवौष्ठ (पत्थर की शलाका), गुड़ आदि से किया जाता है। चिपकी पलकों (श्लिष्ट वर्त्म), रक्तस्राव, नीली और गलत सिरावेध आदि में,",
+   "explanation_en": "Heated liquids (honey, oil, jaggery) hold more heat and penetrate deeper, so they are used for flesh. The second half begins indications for burning vessels and ligaments (sirā-snāyu-dāha), whose instruments are 'those same' (verse 44). The meaning of 'nīlī' here is uncertain.",
+   "explanation_hi": "गर्म द्रव (शहद, तेल, गुड़) अधिक ताप रखते हैं और गहराई तक पहुँचते हैं, इसलिए मांस के लिए प्रयोग होते हैं। दूसरा भाग सिरा-स्नायु दहन के संकेत शुरू करता है, जिनके साधन 'वही' हैं (श्लोक 44)। यहाँ 'नीली' का अर्थ निश्चित नहीं है।",
+   "modern_correlation": {
+    "en": "Using cautery to control bleeding (for example after an imperfect venesection) broadly parallels modern thermal haemostasis by electrocautery.",
+    "hi": "रक्तस्राव रोकने के लिए दहन (जैसे गलत सिरावेध के बाद), आधुनिक electrocautery द्वारा ताप से रक्तस्राव रोकने (thermal haemostasis) से मोटे तौर पर मिलता है।"
+   },
+   "key_terms": [
+    "māṃsadāha",
+    "jāmbavauṣṭha",
+    "madhu",
+    "guḍa",
+    "sneha"
+   ],
+   "tags": [
+    "agnikarma",
+    "instruments",
+    "indications"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.44",
+   "word_meanings": [
+    {
+     "sa": "सिरादिदाहः",
+     "iast": "sirādidāhaḥ",
+     "en": "burning of vessels etc.",
+     "hi": "सिरा आदि का दहन"
+    },
+    {
+     "sa": "तैः एव",
+     "iast": "taiḥ eva",
+     "en": "with those same",
+     "hi": "उन्हीं से"
+    },
+    {
+     "sa": "न दहेत्",
+     "iast": "na dahet",
+     "en": "should not burn",
+     "hi": "दहन नहीं करना चाहिए"
+    },
+    {
+     "sa": "क्षारवारितान्",
+     "iast": "kṣāravāritān",
+     "en": "those forbidden for kṣāra",
+     "hi": "क्षार के लिए वर्जित"
+    },
+    {
+     "sa": "अन्तःशल्य",
+     "iast": "antaḥśalya",
+     "en": "with an internal foreign body",
+     "hi": "अंदर शल्य वाले"
+    },
+    {
+     "sa": "असृजः",
+     "iast": "asṛjaḥ",
+     "en": "with (internal) bleeding",
+     "hi": "(अंदर) रक्तस्राव वाले"
+    },
+    {
+     "sa": "भिन्नकोष्ठान्",
+     "iast": "bhinnakoṣṭhān",
+     "en": "with perforated abdomen",
+     "hi": "फटे कोष्ठ वाले"
+    },
+    {
+     "sa": "भूरिव्रणातुरान्",
+     "iast": "bhūrivraṇāturān",
+     "en": "suffering from many wounds",
+     "hi": "अनेक घावों से पीड़ित"
+    }
+   ],
+   "english": "burning of vessels and the other (deeper structures) is done with those same (substances). One should not burn those for whom kṣāra is forbidden, or those with an internal foreign body or bleeding, with a perforated abdomen (bhinna-koṣṭha), or suffering from many wounds.",
+   "hindi": "सिरा आदि (गहरी रचनाओं) का दहन उन्हीं (द्रव्यों) से किया जाता है। जिनके लिए क्षार वर्जित है, जिनके अंदर शल्य या रक्तस्राव हो, जिनका कोष्ठ फटा हो, या जो अनेक घावों से पीड़ित हों, उनमें अग्निकर्म नहीं करना चाहिए।",
+   "explanation_en": "The contraindications of agnikarma include all those of kṣāra (verses 4-8) plus internal śalya, internal haemorrhage, perforated abdomen and multiple wounds. Exam tip: answer 'contraindications of agnikarma' by citing 'kṣāra-vārita' and adding these four.",
+   "explanation_hi": "अग्निकर्म के निषेधों में क्षार के सभी निषेध (श्लोक 4-8) शामिल हैं, साथ में अंदर शल्य, अंदर रक्तस्राव, फटा कोष्ठ और अनेक घाव। परीक्षा टिप: 'अग्निकर्म के निषेध' के उत्तर में 'क्षारवारित' लिखकर ये चार और जोड़ें।",
+   "modern_correlation": null,
+   "key_terms": [
+    "agnikarma contraindications",
+    "kṣāravārita",
+    "antaḥśalya",
+    "bhinnakoṣṭha"
+   ],
+   "tags": [
+    "agnikarma",
+    "contraindications"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.45",
+   "word_meanings": [
+    {
+     "sa": "सुदग्धम्",
+     "iast": "sudagdham",
+     "en": "properly burnt (part)",
+     "hi": "ठीक से जला (भाग)"
+    },
+    {
+     "sa": "घृतमध्वक्तम्",
+     "iast": "ghṛtamadhvaktam",
+     "en": "smeared with ghee and honey",
+     "hi": "घी और शहद लगा"
+    },
+    {
+     "sa": "स्निग्धशीतैः",
+     "iast": "snigdhaśītaiḥ",
+     "en": "with unctuous and cold (drugs)",
+     "hi": "स्निग्ध और शीतल (द्रव्यों) से"
+    },
+    {
+     "sa": "प्रदेहयेत्",
+     "iast": "pradehayet",
+     "en": "should apply a paste",
+     "hi": "लेप करना चाहिए"
+    },
+    {
+     "sa": "तस्य",
+     "iast": "tasya",
+     "en": "its",
+     "hi": "उसका"
+    },
+    {
+     "sa": "लिङ्गम्",
+     "iast": "liṅgam",
+     "en": "sign",
+     "hi": "लक्षण"
+    },
+    {
+     "sa": "स्थिते रक्ते",
+     "iast": "sthite rakte",
+     "en": "when bleeding has stopped",
+     "hi": "रक्त रुक जाने पर"
+    },
+    {
+     "sa": "शब्दवत्",
+     "iast": "śabdavat",
+     "en": "with a (crackling) sound",
+     "hi": "(चटचट) आवाज़ के साथ"
+    },
+    {
+     "sa": "लसिकान्वितम्",
+     "iast": "lasikānvitam",
+     "en": "with serous exudate",
+     "hi": "लसीका (पानी जैसे स्राव) सहित"
+    }
+   ],
+   "english": "The properly burnt (part), smeared with ghee and honey, should be covered with a paste of unctuous and cold drugs. Its signs (of proper burning) are: bleeding stops, (burning occurs) with a crackling sound, with serous exudate (lasikā),",
+   "hindi": "ठीक से जले भाग पर घी और शहद लगाकर, स्निग्ध और शीतल द्रव्यों का लेप करना चाहिए। उसके (ठीक से जलने के) लक्षण हैं: रक्त रुक जाता है, (दहन) चटचट की आवाज़ के साथ होता है, लसीका (पानी जैसा स्राव) निकलता है,",
+   "explanation_en": "Post-agnikarma care uses ghee-honey and cooling, unctuous pastes. The signs of samyak dagdha (proper burn) are given here and in verse 46; compare kṣāra samyak-dagdha (verse 34). Exam favourite.",
+   "explanation_hi": "अग्निकर्म के बाद घी-शहद और शीतल, स्निग्ध लेप लगाए जाते हैं। सम्यक् दग्ध (ठीक से जले) के लक्षण यहाँ और श्लोक 46 में हैं; क्षार के सम्यक् दग्ध (श्लोक 34) से तुलना करें। परीक्षा में प्रिय।",
+   "modern_correlation": {
+    "en": "Cessation of bleeding with coagulation, crackling and serous exudation broadly parallels the observable effects of adequate thermal coagulation of tissue in electrocautery.",
+    "hi": "रक्तस्राव रुकना, चटचट की आवाज़ और पानी जैसा स्राव, electrocautery में ऊतक के पर्याप्त ताप-जमाव (thermal coagulation) के दिखने वाले प्रभावों से मोटे तौर पर मिलते हैं।"
+   },
+   "key_terms": [
+    "samyak dagdha",
+    "agnikarma",
+    "lasikā",
+    "paścātkarma"
+   ],
+   "tags": [
+    "agnikarma",
+    "burn-assessment",
+    "post-procedure"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.46",
+   "word_meanings": [
+    {
+     "sa": "पक्वताल",
+     "iast": "pakvatāla",
+     "en": "ripe palm fruit",
+     "hi": "पका ताड़ फल"
+    },
+    {
+     "sa": "कपोत",
+     "iast": "kapota",
+     "en": "pigeon",
+     "hi": "कबूतर"
+    },
+    {
+     "sa": "आभम्",
+     "iast": "ābham",
+     "en": "coloured like",
+     "hi": "जैसा रंग"
+    },
+    {
+     "sa": "सुरोहम्",
+     "iast": "suroham",
+     "en": "heals well",
+     "hi": "अच्छी तरह भरने वाला"
+    },
+    {
+     "sa": "न अतिवेदनम्",
+     "iast": "na ativedanam",
+     "en": "not very painful",
+     "hi": "बहुत दर्द न करने वाला"
+    },
+    {
+     "sa": "प्रमाददग्धवत्",
+     "iast": "pramādadagdhavat",
+     "en": "like accidental burns",
+     "hi": "असावधानी से जले की तरह"
+    },
+    {
+     "sa": "सर्वम्",
+     "iast": "sarvam",
+     "en": "all (treatment)",
+     "hi": "सारी (चिकित्सा)"
+    },
+    {
+     "sa": "दुर्दग्ध",
+     "iast": "durdagdha",
+     "en": "under-burnt",
+     "hi": "कम जला"
+    },
+    {
+     "sa": "अत्यर्थदग्धयोः",
+     "iast": "atyarthadagdhayoḥ",
+     "en": "and over-burnt",
+     "hi": "और बहुत अधिक जला"
+    }
+   ],
+   "english": "coloured like a ripe palm fruit or a pigeon, heals well and is not very painful. For under-burnt (durdagdha) and over-burnt (atyartha-dagdha) cases, all (treatment) is as for accidental burns (pramāda-dagdha).",
+   "hindi": "ताड़ के पके फल या कबूतर जैसा रंग, अच्छी तरह भरने वाला और बहुत दर्द न करने वाला (होता है)। दुर्दग्ध (कम जले) और अतिदग्ध (अधिक जले) में सारी चिकित्सा असावधानी से जले (प्रमाददग्ध) की तरह करनी चाहिए।",
+   "explanation_en": "Samyak dagdha after agnikarma: colour of ripe palm fruit or pigeon (dark/greyish), good healing, little pain. Faulty burns are managed like accidental burns, which are classified into four types in verse 47. Remember: 'tāla-kapota varṇa' for proper agnikarma.",
+   "explanation_hi": "अग्निकर्म के बाद सम्यक् दग्ध: पके ताड़ फल या कबूतर जैसा रंग (गहरा/धूसर), अच्छा भरना, कम दर्द। गलत दहन का उपचार असावधानी से जले की तरह होता है, जिसके चार प्रकार श्लोक 47 में हैं। याद रखें: सम्यक् अग्निकर्म के लिए 'ताल-कपोत वर्ण'।",
+   "modern_correlation": null,
+   "key_terms": [
+    "samyak dagdha",
+    "durdagdha",
+    "atidagdha",
+    "pramādadagdha"
+   ],
+   "tags": [
+    "agnikarma",
+    "burn-assessment"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.47",
+   "word_meanings": [
+    {
+     "sa": "चतुर्धा",
+     "iast": "caturdhā",
+     "en": "fourfold",
+     "hi": "चार प्रकार का"
+    },
+    {
+     "sa": "तत्",
+     "iast": "tat",
+     "en": "that (accidental burn)",
+     "hi": "वह (असावधानी से जलना)"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "परंतु"
+    },
+    {
+     "sa": "तुच्छेन सह",
+     "iast": "tucchena saha",
+     "en": "including tuccha (superficial)",
+     "hi": "तुच्छ (हल्के) सहित"
+    },
+    {
+     "sa": "तुच्छस्य",
+     "iast": "tucchasya",
+     "en": "of the superficial",
+     "hi": "तुच्छ का"
+    },
+    {
+     "sa": "लक्षणम्",
+     "iast": "lakṣaṇam",
+     "en": "sign",
+     "hi": "लक्षण"
+    },
+    {
+     "sa": "त्वक्",
+     "iast": "tvak",
+     "en": "the skin",
+     "hi": "त्वचा"
+    },
+    {
+     "sa": "विवर्णा",
+     "iast": "vivarṇā",
+     "en": "discoloured",
+     "hi": "रंग बदली हुई"
+    },
+    {
+     "sa": "उष्यते",
+     "iast": "uṣyate",
+     "en": "burns, is heated",
+     "hi": "जलती है"
+    },
+    {
+     "sa": "अत्यर्थम्",
+     "iast": "atyartham",
+     "en": "intensely",
+     "hi": "बहुत अधिक"
+    },
+    {
+     "sa": "न च",
+     "iast": "na ca",
+     "en": "and not",
+     "hi": "और नहीं"
+    },
+    {
+     "sa": "स्फोटसमुद्भवः",
+     "iast": "sphoṭasamudbhavaḥ",
+     "en": "formation of blisters",
+     "hi": "फफोले बनना"
+    }
+   ],
+   "english": "That (accidental burn) is fourfold, including tuccha (superficial). The sign of tuccha: the skin is discoloured and burns intensely, but no blisters form.",
+   "hindi": "वह (असावधानी से जलना) चार प्रकार का है, तुच्छ (हल्के) सहित। तुच्छ का लक्षण: त्वचा का रंग बदल जाता है और बहुत जलन होती है, पर फफोले नहीं बनते।",
+   "explanation_en": "The four types of pramāda-dagdha (accidental burns) are tuccha (also called pluṣṭa/tuttha: superficial), durdagdha (with blisters), samyag-dagdha and atidagdha. This classification is a classic exam question. The reading 'tuccha' has the variant 'tuttha'.",
+   "explanation_hi": "प्रमाददग्ध (असावधानी से जलने) के चार प्रकार हैं: तुच्छ (जिसे प्लुष्ट/तुत्थ भी कहते हैं: सतही), दुर्दग्ध (फफोलों वाला), सम्यग्दग्ध और अतिदग्ध। यह वर्गीकरण परीक्षा का प्रसिद्ध प्रश्न है। 'तुच्छ' का पाठभेद 'तुत्थ' है।",
+   "modern_correlation": {
+    "en": "The fourfold classification of burns by depth is often compared to modern burn-depth grading: tuccha (redness without blisters) resembles a superficial (first-degree) burn, durdagdha (with blisters) a superficial partial-thickness burn, and atidagdha (deep tissue destruction) a full-thickness burn.",
+    "hi": "गहराई के अनुसार जलने का चार प्रकार का वर्गीकरण अक्सर आधुनिक burn-depth grading से तुलना किया जाता है: तुच्छ (बिना फफोले लाली) superficial (first-degree) burn जैसा, दुर्दग्ध (फफोलों वाला) superficial partial-thickness burn जैसा, और अतिदग्ध (गहरे ऊतक का नाश) full-thickness burn जैसा।"
+   },
+   "key_terms": [
+    "pramādadagdha",
+    "tuccha",
+    "pluṣṭa",
+    "durdagdha",
+    "samyagdagdha",
+    "atidagdha"
+   ],
+   "tags": [
+    "agnikarma",
+    "burns",
+    "classification"
+   ],
+   "importance": "high",
+   "mnemonic": "Four burns: Tuccha (red, no blister), Dur (blister), Samyak (proper), Ati (deep, dangerous) - 'T-D-S-A'.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.48",
+   "word_meanings": [
+    {
+     "sa": "चतुर्धा तत्र तुच्छेन",
+     "iast": "caturdhā tatra tucchena",
+     "en": "fourfold, there with tuccha (repeated line)",
+     "hi": "चार प्रकार, वहाँ तुच्छ सहित (दोहराई पंक्ति)"
+    },
+    {
+     "sa": "सस्फोट",
+     "iast": "sasphoṭa",
+     "en": "with blisters",
+     "hi": "फफोलों सहित"
+    },
+    {
+     "sa": "दाह",
+     "iast": "dāha",
+     "en": "burning",
+     "hi": "जलन"
+    },
+    {
+     "sa": "तीव्रोषम्",
+     "iast": "tīvroṣam",
+     "en": "with intense heat",
+     "hi": "तीव्र गर्मी के साथ"
+    },
+    {
+     "sa": "दुर्दग्धम्",
+     "iast": "durdagdham",
+     "en": "badly burnt (second type)",
+     "hi": "दुर्दग्ध"
+    },
+    {
+     "sa": "अतिदाहतः",
+     "iast": "atidāhataḥ",
+     "en": "from excessive burning",
+     "hi": "अधिक जलने से"
+    },
+    {
+     "sa": "मांसलम्बन",
+     "iast": "māṃsalambana",
+     "en": "hanging of flesh",
+     "hi": "मांस लटकना"
+    },
+    {
+     "sa": "संकोच",
+     "iast": "saṃkoca",
+     "en": "contraction",
+     "hi": "सिकुड़न"
+    },
+    {
+     "sa": "दाह",
+     "iast": "dāha",
+     "en": "burning",
+     "hi": "जलन"
+    },
+    {
+     "sa": "धूपन",
+     "iast": "dhūpana",
+     "en": "fuming sensation",
+     "hi": "धुआँ उठने जैसी अनुभूति"
+    },
+    {
+     "sa": "वेदनाः",
+     "iast": "vedanāḥ",
+     "en": "pains",
+     "hi": "पीड़ाएँ"
+    }
+   ],
+   "english": "[The entry repeats the phrase 'fourfold, there with tuccha'.] (A burn) with blisters, burning and intense heat is durdagdha. From excessive burning (atidagdha): hanging of flesh, contraction, burning, a fuming (smoky) sensation and pain,",
+   "hindi": "[प्रविष्टि में 'चार प्रकार, वहाँ तुच्छ सहित' अंश दोहराया गया है।] फफोलों, जलन और तीव्र गर्मी वाला (जलना) दुर्दग्ध है। अधिक जलने (अतिदग्ध) से: मांस का लटकना, सिकुड़न, जलन, धुआँ उठने जैसी अनुभूति और पीड़ा,",
+   "explanation_en": "Durdagdha is marked by blisters; atidagdha by tissue destruction (hanging flesh, contracture) and systemic danger (continued in verse 49). Samyag-dagdha (described in verses 45-46 for therapeutic burns) is the third type.",
+   "explanation_hi": "दुर्दग्ध की पहचान फफोले हैं; अतिदग्ध की पहचान ऊतक-नाश (लटकता मांस, सिकुड़न) और सार्वदैहिक खतरा (श्लोक 49 में आगे) है। सम्यग्दग्ध (चिकित्सीय दहन के लिए श्लोक 45-46 में वर्णित) तीसरा प्रकार है।",
+   "modern_correlation": {
+    "en": "Blistering is the hallmark of partial-thickness burns, and contractures and deep tissue loss are typical of full-thickness burns in modern burn care, which these descriptions broadly parallel.",
+    "hi": "आधुनिक burn care में फफोले partial-thickness burn की पहचान हैं, और सिकुड़न (contracture) तथा गहरे ऊतक की हानि full-thickness burn की विशेषता है, जिनसे ये वर्णन मोटे तौर पर मिलते हैं।"
+   },
+   "key_terms": [
+    "durdagdha",
+    "atidagdha",
+    "sphoṭa",
+    "saṃkoca"
+   ],
+   "tags": [
+    "agnikarma",
+    "burns",
+    "classification"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.49",
+   "word_meanings": [
+    {
+     "sa": "सिरादिनाशः",
+     "iast": "sirādināśaḥ",
+     "en": "destruction of vessels etc.",
+     "hi": "सिरा आदि का नाश"
+    },
+    {
+     "sa": "तृट्",
+     "iast": "tṛṭ",
+     "en": "thirst",
+     "hi": "प्यास"
+    },
+    {
+     "sa": "मूर्च्छा",
+     "iast": "mūrchā",
+     "en": "fainting",
+     "hi": "मूर्च्छा"
+    },
+    {
+     "sa": "व्रणगाम्भीर्य",
+     "iast": "vraṇagāmbhīrya",
+     "en": "deep wounds",
+     "hi": "घाव की गहराई"
+    },
+    {
+     "sa": "मृत्यवः",
+     "iast": "mṛtyavaḥ",
+     "en": "and death",
+     "hi": "और मृत्यु"
+    },
+    {
+     "sa": "तुच्छस्य",
+     "iast": "tucchasya",
+     "en": "for the superficial (burn)",
+     "hi": "तुच्छ (हल्के जले) के लिए"
+    },
+    {
+     "sa": "अग्निप्रतपनम्",
+     "iast": "agnipratapanam",
+     "en": "warming by fire",
+     "hi": "आग से सेंकना"
+    },
+    {
+     "sa": "कार्यम्",
+     "iast": "kāryam",
+     "en": "should be done",
+     "hi": "करना चाहिए"
+    },
+    {
+     "sa": "उष्णम्",
+     "iast": "uṣṇam",
+     "en": "hot",
+     "hi": "गर्म"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "भेषजम्",
+     "iast": "bheṣajam",
+     "en": "medicine",
+     "hi": "औषधि"
+    }
+   ],
+   "english": "destruction of vessels and other structures, thirst, fainting, deep wounds and death. For the superficial (tuccha) burn, warming by fire and hot medicines should be used.",
+   "hindi": "सिरा आदि रचनाओं का नाश, प्यास, मूर्च्छा, गहरे घाव और मृत्यु (अतिदग्ध के परिणाम हैं)। तुच्छ (हल्के) जले में आग से सेंकना और गर्म औषधियाँ देनी चाहिए।",
+   "explanation_en": "Atidagdha can be fatal (systemic signs: thirst, fainting). The surprising rule that a superficial burn is treated with warmth is explained in verse 50 (heat liquefies stagnated blood and relieves pain). Exam tip: treatment of each of the four burns.",
+   "explanation_hi": "अतिदग्ध घातक हो सकता है (सार्वदैहिक लक्षण: प्यास, मूर्च्छा)। हल्के जले में गर्मी देने का आश्चर्यजनक नियम श्लोक 50 में समझाया गया है (गर्मी जमे रक्त को पिघलाकर दर्द कम करती है)। परीक्षा टिप: चारों प्रकार के जलने का उपचार।",
+   "modern_correlation": {
+    "en": "Thirst, fainting and death after extensive deep burns broadly parallel burn shock from fluid loss in modern medicine. Note that modern first aid for burns uses cool running water, not heat; the classical advice to warm a superficial burn reflects a different theoretical framework.",
+    "hi": "गहरे और विस्तृत जलने के बाद प्यास, मूर्च्छा और मृत्यु आधुनिक चिकित्सा के burn shock (द्रव की हानि) से मोटे तौर पर मिलते हैं। ध्यान दें कि आधुनिक प्राथमिक उपचार में जलने पर ठंडा बहता पानी डाला जाता है, गर्मी नहीं; हल्के जले को गर्मी देने की शास्त्रीय सलाह एक अलग सैद्धांतिक ढाँचे को दर्शाती है।"
+   },
+   "key_terms": [
+    "atidagdha",
+    "tuccha",
+    "agnipratapana",
+    "uṣṇa bheṣaja"
+   ],
+   "tags": [
+    "agnikarma",
+    "burns",
+    "management"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.50",
+   "word_meanings": [
+    {
+     "sa": "स्त्याने",
+     "iast": "styāne",
+     "en": "when solidified (stagnant)",
+     "hi": "जम जाने पर"
+    },
+    {
+     "sa": "अस्रे",
+     "iast": "asre",
+     "en": "the blood",
+     "hi": "रक्त"
+    },
+    {
+     "sa": "वेदना",
+     "iast": "vedanā",
+     "en": "pain",
+     "hi": "दर्द"
+    },
+    {
+     "sa": "अत्यर्थम्",
+     "iast": "atyartham",
+     "en": "is intense",
+     "hi": "बहुत अधिक"
+    },
+    {
+     "sa": "विलीने",
+     "iast": "vilīne",
+     "en": "when liquefied",
+     "hi": "पिघल जाने पर"
+    },
+    {
+     "sa": "मन्दता",
+     "iast": "mandatā",
+     "en": "lessening",
+     "hi": "कमी"
+    },
+    {
+     "sa": "रुजः",
+     "iast": "rujaḥ",
+     "en": "of pain",
+     "hi": "दर्द की"
+    },
+    {
+     "sa": "दुर्दग्धे",
+     "iast": "durdagdhe",
+     "en": "in durdagdha",
+     "hi": "दुर्दग्ध में"
+    },
+    {
+     "sa": "शीतम्",
+     "iast": "śītam",
+     "en": "cold",
+     "hi": "शीत"
+    },
+    {
+     "sa": "उष्णम्",
+     "iast": "uṣṇam",
+     "en": "hot",
+     "hi": "उष्ण"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "युञ्ज्यात्",
+     "iast": "yuñjyāt",
+     "en": "should apply",
+     "hi": "प्रयोग करना चाहिए"
+    },
+    {
+     "sa": "आदौ",
+     "iast": "ādau",
+     "en": "at first",
+     "hi": "पहले"
+    },
+    {
+     "sa": "ततः",
+     "iast": "tataḥ",
+     "en": "then",
+     "hi": "फिर"
+    },
+    {
+     "sa": "हिमम्",
+     "iast": "himam",
+     "en": "cold",
+     "hi": "शीतल"
+    }
+   ],
+   "english": "When the blood is solidified (stagnant), the pain is intense; when it is liquefied, the pain lessens. In durdagdha, one should use both cold and hot (measures) at first, and then cold (ones).",
+   "hindi": "जब रक्त जम जाता है, तो दर्द बहुत अधिक होता है; जब वह पिघल जाता है, तो दर्द कम हो जाता है। दुर्दग्ध में पहले शीत और उष्ण दोनों उपाय करें, फिर शीतल उपाय।",
+   "explanation_en": "This gives the rationale for warmth in tuccha (verse 49): heat liquefies stagnated blood and relieves pain. Durdagdha, being intermediate, receives alternating hot and cold measures first, then cold. A good 'reasoning' question for exams.",
+   "explanation_hi": "यह तुच्छ में गर्मी देने का कारण बताता है (श्लोक 49): गर्मी जमे रक्त को पिघलाकर दर्द कम करती है। दुर्दग्ध बीच की अवस्था है, इसलिए पहले गर्म-ठंडे दोनों उपाय, फिर ठंडे। परीक्षा के लिए अच्छा 'कारण बताइए' प्रश्न।",
+   "modern_correlation": null,
+   "key_terms": [
+    "durdagdha",
+    "styāna rakta",
+    "śīta",
+    "uṣṇa"
+   ],
+   "tags": [
+    "agnikarma",
+    "burns",
+    "management"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.51",
+   "word_meanings": [
+    {
+     "sa": "सम्यग्दग्धे",
+     "iast": "samyagdagdhe",
+     "en": "in a proper burn",
+     "hi": "सम्यग्दग्ध में"
+    },
+    {
+     "sa": "तवक्षीरी",
+     "iast": "tavakṣīrī",
+     "en": "tavakṣīrī (arrowroot-like starch)",
+     "hi": "तवक्षीर (वंशलोचन/तवक्षीरी)"
+    },
+    {
+     "sa": "प्लक्ष",
+     "iast": "plakṣa",
+     "en": "plakṣa (a fig tree)",
+     "hi": "प्लक्ष (पाकड़)"
+    },
+    {
+     "sa": "चन्दन",
+     "iast": "candana",
+     "en": "sandalwood",
+     "hi": "चंदन"
+    },
+    {
+     "sa": "गैरिकैः",
+     "iast": "gairikaiḥ",
+     "en": "and red ochre",
+     "hi": "और गेरू से"
+    },
+    {
+     "sa": "लिम्पेत्",
+     "iast": "limpet",
+     "en": "should smear",
+     "hi": "लेप करना चाहिए"
+    },
+    {
+     "sa": "साज्य",
+     "iast": "sājya",
+     "en": "with ghee",
+     "hi": "घी सहित"
+    },
+    {
+     "sa": "अमृतैः",
+     "iast": "amṛtaiḥ",
+     "en": "with amṛtā (guḍūcī)",
+     "hi": "अमृता (गिलोय) से"
+    },
+    {
+     "sa": "ऊर्ध्वम्",
+     "iast": "ūrdhvam",
+     "en": "thereafter",
+     "hi": "इसके बाद"
+    },
+    {
+     "sa": "पित्तविद्रधिवत्",
+     "iast": "pittavidradhivat",
+     "en": "as for pitta abscess",
+     "hi": "पित्तज विद्रधि की तरह"
+    },
+    {
+     "sa": "क्रिया",
+     "iast": "kriyā",
+     "en": "treatment",
+     "hi": "चिकित्सा"
+    }
+   ],
+   "english": "In a proper burn (samyag-dagdha), one should smear (the part) with tavakṣīrī, plakṣa, sandalwood and red ochre (gairika), with ghee and amṛtā (guḍūcī); thereafter, treatment is as for a pitta-type abscess (pitta-vidradhi).",
+   "hindi": "सम्यग्दग्ध में तवक्षीरी, प्लक्ष, चंदन और गेरू को घी और अमृता (गिलोय) के साथ लेप करना चाहिए; इसके बाद चिकित्सा पित्तज विद्रधि (फोड़े) की तरह करें।",
+   "explanation_en": "Cooling, pitta-pacifying drugs are used after a proper burn, then the wound is treated like pittaja vidradhi (which has its own chapter in Cikitsāsthāna). The reading 'tavakṣīrī' has a variant 'tukākṣīrī'; identification of the drug varies.",
+   "explanation_hi": "सम्यग्दग्ध के बाद शीतल, पित्त-शामक द्रव्य लगाए जाते हैं, फिर घाव का उपचार पित्तज विद्रधि की तरह होता है (जिसका अपना अध्याय चिकित्सास्थान में है)। 'तवक्षीरी' का पाठभेद 'तुकाक्षीरी' है; इस द्रव्य की पहचान पर मतभेद है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "samyagdagdha",
+    "tavakṣīrī",
+    "candana",
+    "gairika",
+    "pittavidradhi"
+   ],
+   "tags": [
+    "agnikarma",
+    "burns",
+    "management"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.52",
+   "word_meanings": [
+    {
+     "sa": "पित्तविद्रधिवत् क्रियाः",
+     "iast": "pittavidradhivat kriyāḥ",
+     "en": "treatments as for pitta abscess (repeated line)",
+     "hi": "पित्तज विद्रधि जैसी चिकित्सा (दोहराई पंक्ति)"
+    },
+    {
+     "sa": "अतिदग्धे",
+     "iast": "atidagdhe",
+     "en": "in over-burning",
+     "hi": "अतिदग्ध में"
+    },
+    {
+     "sa": "द्रुतम्",
+     "iast": "drutam",
+     "en": "quickly",
+     "hi": "शीघ्र"
+    },
+    {
+     "sa": "कुर्यात्",
+     "iast": "kuryāt",
+     "en": "should do",
+     "hi": "करना चाहिए"
+    },
+    {
+     "sa": "सर्वम्",
+     "iast": "sarvam",
+     "en": "everything",
+     "hi": "सब कुछ"
+    },
+    {
+     "sa": "पित्तविसर्पवत्",
+     "iast": "pittavisarpavat",
+     "en": "as for pitta-type visarpa",
+     "hi": "पित्तज विसर्प की तरह"
+    },
+    {
+     "sa": "स्नेहदग्धे",
+     "iast": "snehadagdhe",
+     "en": "in a burn by hot oil/fat",
+     "hi": "गर्म तेल/घी से जले में"
+    },
+    {
+     "sa": "भृशतरम्",
+     "iast": "bhṛśataram",
+     "en": "very much",
+     "hi": "बहुत अधिक"
+    },
+    {
+     "sa": "रूक्षम्",
+     "iast": "rūkṣam",
+     "en": "dry (treatment)",
+     "hi": "रूक्ष (उपचार)"
+    },
+    {
+     "sa": "तत्र",
+     "iast": "tatra",
+     "en": "there",
+     "hi": "वहाँ"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "परंतु"
+    },
+    {
+     "sa": "योजयेत्",
+     "iast": "yojayet",
+     "en": "should apply",
+     "hi": "प्रयोग करना चाहिए"
+    }
+   ],
+   "english": "[The entry repeats the phrase 'treatments as for pitta abscess'.] In over-burning (atidagdha), one should quickly do everything as for pitta-type visarpa (spreading inflammation). In a burn caused by hot oil or fat (sneha-dagdha), however, one should apply strongly drying (rūkṣa) treatment.",
+   "hindi": "[प्रविष्टि में 'पित्तज विद्रधि जैसी चिकित्सा' अंश दोहराया गया है।] अतिदग्ध में शीघ्र ही सब कुछ पित्तज विसर्प की तरह करना चाहिए। परंतु गर्म तेल या घी से जले (स्नेहदग्ध) में बहुत अधिक रूक्ष (सुखाने वाला) उपचार करना चाहिए।",
+   "explanation_en": "Atidagdha is an emergency treated urgently like pittaja visarpa. Sneha-dagdha (scald from hot oil) is a special case: since the burning agent is unctuous, the remedy must be dry (opposite qualities). Exam point: treatment of sneha-dagdha.",
+   "explanation_hi": "अतिदग्ध एक आपात स्थिति है जिसका शीघ्र उपचार पित्तज विसर्प की तरह होता है। स्नेहदग्ध (गर्म तेल से जलना) विशेष स्थिति है: जलाने वाला पदार्थ स्निग्ध है, इसलिए उपचार रूक्ष (विपरीत गुण) होना चाहिए। परीक्षा बिंदु: स्नेहदग्ध की चिकित्सा।",
+   "modern_correlation": {
+    "en": "Treating deep burns urgently and recognising oil scalds as a distinct type broadly parallels modern burn care, where deep burns need urgent specialist management and hot-oil scalds are known to cause deeper injury than water scalds.",
+    "hi": "गहरे जलने का शीघ्र उपचार और तेल से जलने को अलग प्रकार मानना, आधुनिक burn care से मोटे तौर पर मिलता है, जहाँ गहरे जलने में शीघ्र विशेषज्ञ उपचार चाहिए और गर्म तेल से जलना पानी से जलने की तुलना में अधिक गहरी चोट करता है।"
+   },
+   "key_terms": [
+    "atidagdha",
+    "pittavisarpa",
+    "snehadagdha",
+    "rūkṣa"
+   ],
+   "tags": [
+    "agnikarma",
+    "burns",
+    "management"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.30.53",
+   "word_meanings": [
+    {
+     "sa": "शस्त्र",
+     "iast": "śastra",
+     "en": "knife",
+     "hi": "शस्त्र"
+    },
+    {
+     "sa": "क्षार",
+     "iast": "kṣāra",
+     "en": "alkali",
+     "hi": "क्षार"
+    },
+    {
+     "sa": "अग्नयः",
+     "iast": "agnayaḥ",
+     "en": "and fire",
+     "hi": "और अग्नि"
+    },
+    {
+     "sa": "यस्मात्",
+     "iast": "yasmāt",
+     "en": "since",
+     "hi": "क्योंकि"
+    },
+    {
+     "sa": "मृत्योः",
+     "iast": "mṛtyoḥ",
+     "en": "of death",
+     "hi": "मृत्यु के"
+    },
+    {
+     "sa": "परमम्",
+     "iast": "paramam",
+     "en": "supreme",
+     "hi": "परम"
+    },
+    {
+     "sa": "आयुधम्",
+     "iast": "āyudham",
+     "en": "weapon",
+     "hi": "आयुध (हथियार)"
+    },
+    {
+     "sa": "अप्रमत्तः",
+     "iast": "apramattaḥ",
+     "en": "vigilant",
+     "hi": "सावधान"
+    },
+    {
+     "sa": "भिषक्",
+     "iast": "bhiṣak",
+     "en": "physician",
+     "hi": "वैद्य"
+    },
+    {
+     "sa": "तस्मात्",
+     "iast": "tasmāt",
+     "en": "therefore",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "तान्",
+     "iast": "tān",
+     "en": "them",
+     "hi": "उनका"
+    },
+    {
+     "sa": "सम्यक्",
+     "iast": "samyak",
+     "en": "properly",
+     "hi": "ठीक से"
+    },
+    {
+     "sa": "अवचारयेत्",
+     "iast": "avacārayet",
+     "en": "should employ",
+     "hi": "प्रयोग करना चाहिए"
+    },
+    {
+     "sa": "समाप्यते",
+     "iast": "samāpyate",
+     "en": "is concluded",
+     "hi": "समाप्त होता है"
+    },
+    {
+     "sa": "स्थानम्",
+     "iast": "sthānam",
+     "en": "section",
+     "hi": "स्थान"
+    },
+    {
+     "sa": "इदम्",
+     "iast": "idam",
+     "en": "this",
+     "hi": "यह"
+    },
+    {
+     "sa": "हृदयस्य",
+     "iast": "hṛdayasya",
+     "en": "of the Hṛdaya (Aṣṭāṅgahṛdaya)",
+     "hi": "(अष्टांग)हृदय का"
+    },
+    {
+     "sa": "रहस्यवत्",
+     "iast": "rahasyavat",
+     "en": "like a secret (essence)",
+     "hi": "रहस्य की तरह"
+    },
+    {
+     "sa": "अत्र",
+     "iast": "atra",
+     "en": "here",
+     "hi": "यहाँ"
+    },
+    {
+     "sa": "अर्थाः",
+     "iast": "arthāḥ",
+     "en": "meanings, topics",
+     "hi": "विषय"
+    },
+    {
+     "sa": "सूत्रिताः",
+     "iast": "sūtritāḥ",
+     "en": "outlined in brief (sūtra form)",
+     "hi": "सूत्र रूप में बताए गए"
+    },
+    {
+     "sa": "सूक्ष्माः",
+     "iast": "sūkṣmāḥ",
+     "en": "subtle",
+     "hi": "सूक्ष्म"
+    },
+    {
+     "sa": "प्रतन्यन्ते",
+     "iast": "pratanyante",
+     "en": "are expanded",
+     "hi": "विस्तार किए जाते हैं"
+    },
+    {
+     "sa": "हि",
+     "iast": "hi",
+     "en": "indeed",
+     "hi": "निश्चय ही"
+    },
+    {
+     "sa": "सर्वतः",
+     "iast": "sarvataḥ",
+     "en": "everywhere (in other sections)",
+     "hi": "सब जगह (अन्य स्थानों में)"
+    }
+   ],
+   "english": "[Additional verse 52+1:] Since the knife, kṣāra and fire are the supreme weapons of death (if misused), the vigilant physician should employ them properly. [Verse 53:] This section (Sūtrasthāna) of the Hṛdaya is concluded, like a secret (essence); here the subtle topics are outlined in brief (sūtra form), which are expanded everywhere (in the other sections).",
+   "hindi": "[अतिरिक्त श्लोक 52+1:] क्योंकि शस्त्र, क्षार और अग्नि (गलत प्रयोग पर) मृत्यु के परम हथियार हैं, इसलिए सावधान वैद्य को इनका ठीक से प्रयोग करना चाहिए। [श्लोक 53:] (अष्टांग)हृदय का यह स्थान (सूत्रस्थान) रहस्य (सार) की तरह समाप्त होता है; यहाँ सूक्ष्म विषय सूत्र रूप में संक्षेप में बताए गए हैं, जिनका विस्तार (अन्य स्थानों में) सब जगह किया गया है।",
+   "explanation_en": "The extra verse sums up the three main surgical tools (śastra, kṣāra, agni) with a warning about their power. Verse 53 concludes the entire Sūtrasthāna: it is the 'heart' of the work, where principles are stated briefly (sūtra) and elaborated in the later sthānas. Exam tip: 'Sūtrasthāna has 30 chapters, ending with Kṣārāgnikarmavidhi'.",
+   "explanation_hi": "अतिरिक्त श्लोक तीन मुख्य शल्य साधनों (शस्त्र, क्षार, अग्नि) को उनकी शक्ति की चेतावनी के साथ समेटता है। श्लोक 53 पूरे सूत्रस्थान को समाप्त करता है: यह ग्रंथ का 'हृदय' है, जहाँ सिद्धांत संक्षेप में (सूत्र रूप में) बताए गए हैं और बाद के स्थानों में उनका विस्तार है। परीक्षा टिप: 'सूत्रस्थान में 30 अध्याय हैं, जो क्षाराग्निकर्मविधि पर समाप्त होता है'।",
+   "modern_correlation": null,
+   "key_terms": [
+    "śastra",
+    "kṣāra",
+    "agni",
+    "Sūtrasthāna",
+    "sūtra"
+   ],
+   "tags": [
+    "kshara",
+    "agnikarma",
+    "conclusion",
+    "sutrasthana"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  }
+ ]
+}

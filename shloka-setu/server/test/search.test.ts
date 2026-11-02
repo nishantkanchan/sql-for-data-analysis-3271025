@@ -102,3 +102,32 @@ describe("GET /v1/verse/:id", () => {
     expect(bad.status).toBe(400);
   });
 });
+
+describe("multi-text corpus (Caraka + Suśruta complete files)", () => {
+  const store = testStore();
+  const hasFull = store.content.stats.texts.SS !== undefined && (store.content.stats.texts.CS ?? 0) > 5000;
+
+  it.runIf(hasFull)("ranks Caraka and Suśruta verses top-1 from loose / Devanagari input", () => {
+    expect(top1("vayuh pittam kaphashcoktah shariro doshasangrahah manasah punaruddishto")?.id).toBe("CS.sutra.1.57");
+    expect(top1("दोषधातुमलमूलं हि शरीरं तस्मादेतेषां लक्षणमुच्यमानमुपधारय")?.id).toBe("SS.sutra.15.3");
+  });
+
+  it.runIf(hasFull)("exposes ref / provenance and pada-aware source titles", async () => {
+    const res = await makeApp().request("/v1/verse/CS.chikitsa.1.202");
+    const v = (await res.json()) as any;
+    expect(v.ref).toBe("Ca. Ci. 1.2.2");
+    expect(v.pada).toBe(2);
+    expect(v.verse_in_pada).toBe(2);
+    expect(typeof v.source).toBe("string");
+    expect(v.source_title).toBe("Carakasaṃhitā, Cikitsāsthāna 1.2.2");
+    const ah = (await (await makeApp().request("/v1/verse/AH.sutra.1.6")).json()) as any;
+    expect(ah.ref).toBeNull();
+  });
+
+  it.runIf(hasFull)("skips the obsolete charaka_selected.json when present", () => {
+    const skipped = store.content.stats.skipped_files.map((s) => s.file);
+    const selectedPresent = skipped.some((f) => f.endsWith("charaka_selected.json"));
+    if (selectedPresent) expect(store.content.byId.has("CS.chikitsa.1.1")).toBe(false); // selected-only numbering
+    expect(store.content.textTitles.get("CS")).toMatch(/complete/);
+  });
+});

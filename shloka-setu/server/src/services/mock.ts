@@ -56,7 +56,7 @@ export function mockScanResult(deps: Deps): ScanResult {
   if (view) {
     const withTranslation = view.translation ? view : { ...view, translation: DEMO_TRANSLATION };
     const hit = { id: view.id, score: 1 };
-    const res = curatedResult(deps, withTranslation, hit, [{ id: view.id, score: 1, source_title: view.source_title }], DEMO_OCR_TEXT);
+    const res = curatedResult(deps, withTranslation, hit, [{ id: view.id, score: 1, source_title: view.source_title, ref: view.ref }], DEMO_OCR_TEXT);
     return { ...res, source: "mock", mock: true, notice, ocr_legibility: "clear" };
   }
   // Corpus not loaded (should not happen in practice): fully static fallback.
@@ -64,7 +64,7 @@ export function mockScanResult(deps: Deps): ScanResult {
     ocr_text: DEMO_OCR_TEXT,
     iast: "aṣṭāv aṅgāni tasyāhuś cikitsā yeṣu saṃśritā |\nvāyuḥ pittaṃ kaphaś ceti trayo doṣāḥ samāsataḥ || 6 ||",
     devanagari: DEMO_OCR_TEXT,
-    match: { id: MOCK_SCAN_VERSE_ID, score: 1, source_title: "Aṣṭāṅgahṛdaya, Sūtrasthāna 1.6" },
+    match: { id: MOCK_SCAN_VERSE_ID, score: 1, source_title: "Aṣṭāṅgahṛdaya, Sūtrasthāna 1.6", ref: null },
     word_meanings: DEMO_TRANSLATION.word_meanings,
     english: DEMO_TRANSLATION.english,
     hindi: DEMO_TRANSLATION.hindi,

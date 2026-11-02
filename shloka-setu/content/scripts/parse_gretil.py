@@ -73,7 +73,7 @@ def strip_dandas(s: str) -> str:
 
 # ---------------------------------------------------------------- Astangahrdaya
 AH_VERSE_END = re.compile(r"\|\|\s*(\d+)([a-f]*)\s*\|\|\s*$")
-AH_VARIANT = re.compile(r"^\s+(\d+)\.(\d+)([a-f]+)v\s+(.*)$")
+AH_VARIANT = re.compile(r"^\s*(\d+)\.(\d+)([a-f]+)v\s+(.*)$")
 
 
 def parse_ah() -> list[dict]:

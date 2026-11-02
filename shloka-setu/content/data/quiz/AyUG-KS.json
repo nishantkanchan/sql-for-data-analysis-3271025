@@ -1770,8 +1770,8 @@
         }
       ],
       "answer_index": 0,
-      "explanation_en": "CS Ci 15.17: \"rasāt stanyaṃ tato raktam asṛjaḥ kaṇḍarāḥ sirāḥ, māṃsād vasā tvacaḥ ṣaṭ ca medasaḥ snāyusambhavaḥ\". Stanya and rajas come from rasa, vasā and tvak from māṃsa, snāyu from medas.",
-      "explanation_hi": "च.चि. 15.17: \"रसात्स्तन्यं ततो रक्तमसृजः कण्डराः सिराः, मांसाद्वसा त्वचः षट् च मेदसः स्नायुसम्भवः\"। स्तन्य व रज रस से, वसा व त्वचा मांस से और स्नायु मेद से बनते हैं।",
+      "explanation_en": "CS Ci 15.17: \"rasāt stanyaṃ striyāḥ raktam asṛjaḥ kaṇḍarāḥ sirāḥ, māṃsād vasā tvacaḥ ṣaṭ ca medasaḥ snāyusaṃdhayaḥ\". Stanya and (in women) rakta/rajas come from rasa, vasā and the six tvak from māṃsa, snāyu and sandhi from medas.",
+      "explanation_hi": "च.चि. 15.17: \"रसात्स्तन्यं स्त्रियाः रक्तमसृजः कण्डराः सिराः, मांसाद्वसा त्वचः षट् च मेदसः स्नायुसन्धयः\"। स्तन्य व (स्त्रियों में) रज रस से, वसा व छह त्वचाएँ मांस से और स्नायु व सन्धि मेद से बनते हैं।",
       "reference": "CS.chikitsa.15.17",
       "difficulty": "medium",
       "exam_tags": [
@@ -1846,8 +1846,8 @@
         }
       ],
       "answer_index": 0,
-      "explanation_en": "\"Medasaḥ snāyusambhavaḥ\" (CS Ci 15.17).",
-      "explanation_hi": "\"मेदसः स्नायुसम्भवः\" (च.चि. 15.17)।",
+      "explanation_en": "\"Medasaḥ snāyusaṃdhayaḥ\" (CS Ci 15.17): snāyu (and sandhi) arise from medas. Vasā comes from māṃsa; asthi and majjā have no upadhātu in this verse.",
+      "explanation_hi": "\"मेदसः स्नायुसन्धयः\" (च.चि. 15.17): स्नायु (और सन्धि) मेद से बनते हैं। वसा मांस से बनती है; इस श्लोक में अस्थि और मज्जा की उपधातु नहीं बताई गई।",
       "reference": "CS.chikitsa.15.17",
       "difficulty": "easy",
       "exam_tags": [
@@ -2617,9 +2617,9 @@
         }
       ],
       "answer_index": 1,
-      "explanation_en": "CS Vi 5.8: prāṇavaha - hṛdaya, mahāsrotas; udakavaha - tālu, kloma; raktavaha - yakṛt, plīhā; medovaha - vṛkka, vapāvahana.",
-      "explanation_hi": "च.वि. 5.8: प्राणवह - हृदय, महास्रोतस्; उदकवह - तालु, क्लोम; रक्तवह - यकृत्, प्लीहा; मेदोवह - वृक्क, वपावहन।",
-      "reference": "CS.vimana.5.8",
+      "explanation_en": "CS Vi 5.6: prāṇavaha - hṛdaya, mahāsrotas; udakavaha - tālu, kloma; raktavaha - yakṛt, plīhā; medovaha - vṛkka, vapāvahana.",
+      "explanation_hi": "च.वि. 5.6: प्राणवह - हृदय, महास्रोतस्; उदकवह - तालु, क्लोम; रक्तवह - यकृत्, प्लीहा; मेदोवह - वृक्क, वपावहन।",
+      "reference": "CS.vimana.5.6",
       "difficulty": "easy",
       "exam_tags": [
         "university",
@@ -2655,9 +2655,9 @@
         }
       ],
       "answer_index": 0,
-      "explanation_en": "CS Vi 5.8: raktavaha srotas has yakṛt and plīhā as its roots. Hṛdaya-10 dhamanī is rasavaha, snāyu-tvak māṃsavaha, medas-jaghana asthivaha.",
-      "explanation_hi": "च.वि. 5.8: रक्तवह स्रोतस् का मूल यकृत् और प्लीहा है। हृदय-दस धमनी रसवह, स्नायु-त्वक् मांसवह और मेद-जघन अस्थिवह का मूल है।",
-      "reference": "CS.vimana.5.8",
+      "explanation_en": "CS Vi 5.6: raktavaha srotas has yakṛt and plīhā as its roots. Hṛdaya-10 dhamanī is rasavaha, snāyu-tvak māṃsavaha, medas-jaghana asthivaha.",
+      "explanation_hi": "च.वि. 5.6: रक्तवह स्रोतस् का मूल यकृत् और प्लीहा है। हृदय-दस धमनी रसवह, स्नायु-त्वक् मांसवह और मेद-जघन अस्थिवह का मूल है।",
+      "reference": "CS.vimana.5.6",
       "difficulty": "easy",
       "exam_tags": [
         "university",
@@ -2693,9 +2693,9 @@
         }
       ],
       "answer_index": 2,
-      "explanation_en": "CS Vi 5.8: udakavaha - tālu, kloma; annavaha - āmāśaya, vāma pārśva; mūtravaha - basti, vaṅkṣaṇa; purīṣavaha - pakvāśaya, sthūla guda.",
-      "explanation_hi": "च.वि. 5.8: उदकवह - तालु, क्लोम; अन्नवह - आमाशय, वाम पार्श्व; मूत्रवह - बस्ति, वङ्क्षण; पुरीषवह - पक्वाशय, स्थूल गुद।",
-      "reference": "CS.vimana.5.8",
+      "explanation_en": "CS Vi 5.6: udakavaha - tālu, kloma; annavaha - āmāśaya, vāma pārśva; mūtravaha - basti, vaṅkṣaṇa; purīṣavaha - pakvāśaya, sthūla guda.",
+      "explanation_hi": "च.वि. 5.6: उदकवह - तालु, क्लोम; अन्नवह - आमाशय, वाम पार्श्व; मूत्रवह - बस्ति, वङ्क्षण; पुरीषवह - पक्वाशय, स्थूल गुद।",
+      "reference": "CS.vimana.5.6",
       "difficulty": "medium",
       "exam_tags": [
         "university",
@@ -2733,7 +2733,7 @@
       "answer_index": 1,
       "explanation_en": "Caraka: vṛkka and vapāvahana (omentum). 'Kaṭi and vṛkka' is Suśruta's description; medas-lomakūpa is svedavaha; asthi-sandhi is majjāvaha.",
       "explanation_hi": "चरक: वृक्क और वपावहन। 'कटि और वृक्क' सुश्रुत का वर्णन है; मेद-लोमकूप स्वेदवह और अस्थि-सन्धि मज्जावह का मूल है।",
-      "reference": "CS.vimana.5.8",
+      "reference": "CS.vimana.5.6",
       "difficulty": "medium",
       "exam_tags": [
         "university",
@@ -2769,9 +2769,9 @@
         }
       ],
       "answer_index": 3,
-      "explanation_en": "CS Vi 5.8: svedavaha - medas and lomakūpa (hair follicles), linking sweat to medas (sveda is the mala of medas).",
-      "explanation_hi": "च.वि. 5.8: स्वेदवह - मेद और लोमकूप; यह स्वेद को मेद से जोड़ता है (स्वेद मेद का मल है)।",
-      "reference": "CS.vimana.5.8",
+      "explanation_en": "CS Vi 5.6: svedavaha - medas and lomakūpa (hair follicles), linking sweat to medas (sveda is the mala of medas).",
+      "explanation_hi": "च.वि. 5.6: स्वेदवह - मेद और लोमकूप; यह स्वेद को मेद से जोड़ता है (स्वेद मेद का मल है)।",
+      "reference": "CS.vimana.5.6",
       "difficulty": "hard",
       "exam_tags": [
         "university",
@@ -2807,9 +2807,9 @@
         }
       ],
       "answer_index": 0,
-      "explanation_en": "CS Vi 5.24: atipravṛtti (excess flow), saṅga (obstruction), sirāgranthi (nodular dilatation) and vimārgagamana (flow in a wrong channel). Pratiloma gati is not one of the listed four.",
-      "explanation_hi": "च.वि. 5.24: अतिप्रवृत्ति, सङ्ग, सिराग्रन्थि और विमार्गगमन। प्रतिलोम गति इन चार में नहीं है।",
-      "reference": "CS.vimana.5.24",
+      "explanation_en": "CS Vi 5.22: atipravṛtti (excess flow), saṅga (obstruction), sirāgranthi (nodular dilatation) and vimārgagamana (flow in a wrong channel). Pratiloma gati is not one of the listed four.",
+      "explanation_hi": "च.वि. 5.22: अतिप्रवृत्ति, सङ्ग, सिराग्रन्थि और विमार्गगमन। प्रतिलोम गति इन चार में नहीं है।",
+      "reference": "CS.vimana.5.22",
       "difficulty": "medium",
       "exam_tags": [
         "university",
@@ -2837,9 +2837,9 @@
         }
       ],
       "answer_index": 0,
-      "explanation_en": "True. CS Vi 5.8: mūtravaha srotas - basti and vaṅkṣaṇa (Suśruta: basti and meḍhra).",
-      "explanation_hi": "सत्य। च.वि. 5.8: मूत्रवह स्रोतस् - बस्ति और वङ्क्षण (सुश्रुत: बस्ति और मेढ्र)।",
-      "reference": "CS.vimana.5.8",
+      "explanation_en": "True. CS Vi 5.6: mūtravaha srotas - basti and vaṅkṣaṇa (Suśruta: basti and meḍhra).",
+      "explanation_hi": "सत्य। च.वि. 5.6: मूत्रवह स्रोतस् - बस्ति और वङ्क्षण (सुश्रुत: बस्ति और मेढ्र)।",
+      "reference": "CS.vimana.5.6",
       "difficulty": "medium",
       "exam_tags": [
         "university"
@@ -2990,7 +2990,7 @@
       "answer_index": 3,
       "explanation_en": "Tāmasa: pāśava, mātsya, vānaspatya. Brāhma and gāndharva are sāttvika; āsura is rājasa.",
       "explanation_hi": "तामस: पाशव, मात्स्य, वानस्पत्य। ब्राह्म और गान्धर्व सात्त्विक हैं; आसुर राजस है।",
-      "reference": "CS.sharira.4.37",
+      "reference": "CS.sharira.4.39",
       "difficulty": "medium",
       "exam_tags": [
         "university",
@@ -3028,7 +3028,7 @@
       "answer_index": 1,
       "explanation_en": "Rājasa (6): āsura, rākṣasa, paiśāca, sārpa, praita, śākuna. Vāruṇa and kaubera are sāttvika; vānaspatya is tāmasa.",
       "explanation_hi": "राजस (6): आसुर, राक्षस, पैशाच, सार्प, प्रैत, शाकुन। वारुण व कौबेर सात्त्विक हैं; वानस्पत्य तामस है।",
-      "reference": "CS.sharira.4.37",
+      "reference": "CS.sharira.4.38",
       "difficulty": "hard",
       "exam_tags": [
         "university"
@@ -3168,9 +3168,9 @@
         }
       ],
       "answer_index": 3,
-      "explanation_en": "CS Sū 21.42: in grīṣma, nights are short, vāta accumulates and the body is dry, so day sleep is wholesome. In other seasons it aggravates kapha and pitta.",
-      "explanation_hi": "च.सू. 21.42: ग्रीष्म में रातें छोटी होती हैं, वात संचित होता है और शरीर रूक्ष होता है, इसलिए दिन में सोना हितकर है। अन्य ऋतुओं में यह कफ-पित्त बढ़ाता है।",
-      "reference": "CS.sutra.21.42",
+      "explanation_en": "CS Sū 21.43: in grīṣma, nights are short, vāta accumulates and the body is dry, so day sleep is wholesome. In other seasons it aggravates kapha and pitta.",
+      "explanation_hi": "च.सू. 21.43: ग्रीष्म में रातें छोटी होती हैं, वात संचित होता है और शरीर रूक्ष होता है, इसलिए दिन में सोना हितकर है। अन्य ऋतुओं में यह कफ-पित्त बढ़ाता है।",
+      "reference": "CS.sutra.21.43",
       "difficulty": "easy",
       "exam_tags": [
         "university",
@@ -4073,6 +4073,347 @@
       "answer_index": 1,
       "explanation_en": "False. Central chemoreceptors respond to H+ in CSF, which reflects arterial PCO2. Hypoxia is sensed mainly by peripheral chemoreceptors (carotid and aortic bodies).",
       "explanation_hi": "असत्य। केन्द्रीय रसायनग्राही CSF के H+ पर प्रतिक्रिया करते हैं, जो धमनी PCO2 को दर्शाता है। हाइपोक्सिया मुख्यतः परिधीय रसायनग्राहियों (कैरोटिड व एओर्टिक बॉडी) द्वारा भाँपा जाता है।",
+      "reference": "Guyton",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-KS-0112",
+      "subject_id": "AyUG-KS",
+      "topic_id": "ks-gi",
+      "topic_en": "Gastrointestinal physiology (modern)",
+      "topic_hi": "पाचन तन्त्र क्रिया विज्ञान (आधुनिक)",
+      "type": "mcq",
+      "question_en": "Hydrochloric acid in the stomach is secreted by:",
+      "question_hi": "आमाशय में हाइड्रोक्लोरिक अम्ल किससे स्रावित होता है?",
+      "options": [
+        {
+          "en": "Chief cells",
+          "hi": "चीफ कोशिकाएँ"
+        },
+        {
+          "en": "G cells",
+          "hi": "G कोशिकाएँ"
+        },
+        {
+          "en": "Mucous neck cells",
+          "hi": "म्यूकस नेक कोशिकाएँ"
+        },
+        {
+          "en": "Parietal (oxyntic) cells",
+          "hi": "पेराइटल (ऑक्सिन्टिक) कोशिकाएँ"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "Parietal cells secrete HCl (via the H+/K+ ATPase proton pump) and intrinsic factor. Chief cells secrete pepsinogen, G cells gastrin, mucous cells mucus.",
+      "explanation_hi": "पेराइटल कोशिकाएँ HCl (H+/K+ ATPase प्रोटॉन पम्प द्वारा) और इन्ट्रिन्सिक फैक्टर बनाती हैं। चीफ कोशिकाएँ पेप्सिनोजन, G कोशिकाएँ गैस्ट्रिन और म्यूकस कोशिकाएँ श्लेष्मा बनाती हैं।",
+      "reference": "Guyton",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-KS-0113",
+      "subject_id": "AyUG-KS",
+      "topic_id": "ks-gi",
+      "topic_en": "Gastrointestinal physiology (modern)",
+      "topic_hi": "पाचन तन्त्र क्रिया विज्ञान (आधुनिक)",
+      "type": "mcq",
+      "question_en": "Which hormone, released from the duodenum in response to fat and protein, causes gallbladder contraction and enzyme-rich pancreatic secretion?",
+      "question_hi": "वसा और प्रोटीन के उत्तर में ग्रहणी (ड्यूओडिनम) से निकलने वाला कौन-सा हार्मोन पित्ताशय संकुचन और एन्जाइम-युक्त अग्न्याशय स्राव कराता है?",
+      "options": [
+        {
+          "en": "Secretin",
+          "hi": "सीक्रेटिन"
+        },
+        {
+          "en": "Cholecystokinin (CCK)",
+          "hi": "कोलेसिस्टोकाइनिन (CCK)"
+        },
+        {
+          "en": "Gastrin",
+          "hi": "गैस्ट्रिन"
+        },
+        {
+          "en": "Motilin",
+          "hi": "मोटिलिन"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "CCK from I cells contracts the gallbladder and stimulates pancreatic enzymes. Secretin (S cells, response to acid) stimulates bicarbonate-rich pancreatic juice; gastrin stimulates acid; motilin drives the migrating motor complex.",
+      "explanation_hi": "I कोशिकाओं से CCK पित्ताशय को संकुचित करता है और अग्न्याशय एन्जाइम बढ़ाता है। सीक्रेटिन (S कोशिकाएँ, अम्ल के उत्तर में) बाइकार्बोनेट-युक्त स्राव, गैस्ट्रिन अम्ल स्राव और मोटिलिन माइग्रेटिंग मोटर कॉम्प्लेक्स बढ़ाता है।",
+      "reference": "Guyton",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-KS-0114",
+      "subject_id": "AyUG-KS",
+      "topic_id": "ks-renal",
+      "topic_en": "Renal physiology (modern)",
+      "topic_hi": "वृक्क क्रिया विज्ञान (आधुनिक)",
+      "type": "mcq",
+      "question_en": "The structural and functional unit of the kidney is the:",
+      "question_hi": "वृक्क की संरचनात्मक और क्रियात्मक इकाई है:",
+      "options": [
+        {
+          "en": "Nephron",
+          "hi": "नेफ्रॉन"
+        },
+        {
+          "en": "Neuron",
+          "hi": "न्यूरॉन"
+        },
+        {
+          "en": "Alveolus",
+          "hi": "एल्वियोलस"
+        },
+        {
+          "en": "Lobule",
+          "hi": "लोब्यूल"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "Each kidney has about one million nephrons, each consisting of a glomerulus and a tubule. The neuron is the unit of the nervous system and the alveolus of the lung.",
+      "explanation_hi": "प्रत्येक वृक्क में लगभग दस लाख नेफ्रॉन होते हैं, जिनमें ग्लोमेरुलस और नलिका होती है। न्यूरॉन तन्त्रिका तन्त्र की और एल्वियोलस फेफड़े की इकाई है।",
+      "reference": "Guyton",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-KS-0115",
+      "subject_id": "AyUG-KS",
+      "topic_id": "ks-renal",
+      "topic_en": "Renal physiology (modern)",
+      "topic_hi": "वृक्क क्रिया विज्ञान (आधुनिक)",
+      "type": "mcq",
+      "question_en": "The normal glomerular filtration rate (GFR) in an adult is about:",
+      "question_hi": "वयस्क में सामान्य ग्लोमेरुलर फिल्ट्रेशन रेट (GFR) लगभग है:",
+      "options": [
+        {
+          "en": "25 ml/min",
+          "hi": "25 ml/मिनट"
+        },
+        {
+          "en": "650 ml/min",
+          "hi": "650 ml/मिनट"
+        },
+        {
+          "en": "125 ml/min",
+          "hi": "125 ml/मिनट"
+        },
+        {
+          "en": "1200 ml/min",
+          "hi": "1200 ml/मिनट"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "GFR ≈ 125 ml/min (about 180 L/day), of which about 99% is reabsorbed, leaving about 1-1.5 L of urine. About 650 ml/min is renal plasma flow and about 1200 ml/min renal blood flow.",
+      "explanation_hi": "GFR ≈ 125 ml/मिनट (लगभग 180 L/दिन), जिसका लगभग 99% पुनः अवशोषित होता है और 1-1.5 L मूत्र बचता है। लगभग 650 ml/मिनट वृक्कीय प्लाज्मा प्रवाह और 1200 ml/मिनट वृक्कीय रक्त प्रवाह है।",
+      "reference": "Guyton",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-KS-0116",
+      "subject_id": "AyUG-KS",
+      "topic_id": "ks-renal",
+      "topic_en": "Renal physiology (modern)",
+      "topic_hi": "वृक्क क्रिया विज्ञान (आधुनिक)",
+      "type": "mcq",
+      "question_en": "Antidiuretic hormone (ADH) increases water reabsorption by inserting aquaporin-2 channels mainly in the:",
+      "question_hi": "ADH मुख्यतः कहाँ एक्वापोरिन-2 चैनल लगाकर जल का पुनः अवशोषण बढ़ाता है?",
+      "options": [
+        {
+          "en": "Late distal tubule and collecting duct",
+          "hi": "अन्तिम डिस्टल ट्यूब्यूल और कलेक्टिंग डक्ट"
+        },
+        {
+          "en": "Proximal convoluted tubule",
+          "hi": "प्रॉक्सिमल कन्वोल्यूटेड ट्यूब्यूल"
+        },
+        {
+          "en": "Descending loop of Henle",
+          "hi": "हेनले लूप की अवरोही भुजा"
+        },
+        {
+          "en": "Glomerulus",
+          "hi": "ग्लोमेरुलस"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "ADH (made in the hypothalamus, released from the posterior pituitary) acts on principal cells of the late distal tubule and collecting duct. The PCT reabsorbs about 65% of filtered water independently of ADH.",
+      "explanation_hi": "ADH (हाइपोथैलेमस में बनता, पश्च पीयूष से निकलता) अन्तिम डिस्टल ट्यूब्यूल और कलेक्टिंग डक्ट की प्रिंसिपल कोशिकाओं पर कार्य करता है। PCT लगभग 65% जल ADH के बिना ही पुनः अवशोषित करता है।",
+      "reference": "Guyton",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-KS-0117",
+      "subject_id": "AyUG-KS",
+      "topic_id": "ks-endocrine",
+      "topic_en": "Endocrine physiology (modern)",
+      "topic_hi": "अन्तःस्रावी क्रिया विज्ञान (आधुनिक)",
+      "type": "mcq",
+      "question_en": "Insulin is secreted by which cells of the islets of Langerhans?",
+      "question_hi": "लैंगरहैन्स द्वीपों की कौन-सी कोशिकाएँ इंसुलिन स्रावित करती हैं?",
+      "options": [
+        {
+          "en": "Alpha cells",
+          "hi": "अल्फा कोशिकाएँ"
+        },
+        {
+          "en": "Delta cells",
+          "hi": "डेल्टा कोशिकाएँ"
+        },
+        {
+          "en": "Beta cells",
+          "hi": "बीटा कोशिकाएँ"
+        },
+        {
+          "en": "PP cells",
+          "hi": "PP कोशिकाएँ"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "Beta cells secrete insulin; alpha cells glucagon; delta cells somatostatin; PP cells pancreatic polypeptide.",
+      "explanation_hi": "बीटा कोशिकाएँ इंसुलिन, अल्फा ग्लूकागॉन, डेल्टा सोमैटोस्टैटिन और PP कोशिकाएँ पैन्क्रियाटिक पॉलिपेप्टाइड बनाती हैं।",
+      "reference": "Guyton",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-KS-0118",
+      "subject_id": "AyUG-KS",
+      "topic_id": "ks-endocrine",
+      "topic_en": "Endocrine physiology (modern)",
+      "topic_hi": "अन्तःस्रावी क्रिया विज्ञान (आधुनिक)",
+      "type": "mcq",
+      "question_en": "Excess growth hormone after closure of the epiphyses (in adults) causes:",
+      "question_hi": "एपिफिसिस बन्द होने के बाद (वयस्क में) ग्रोथ हार्मोन की अधिकता से होता है:",
+      "options": [
+        {
+          "en": "Gigantism",
+          "hi": "जाइगैन्टिज़्म"
+        },
+        {
+          "en": "Acromegaly",
+          "hi": "एक्रोमेगाली"
+        },
+        {
+          "en": "Cretinism",
+          "hi": "क्रेटिनिज़्म"
+        },
+        {
+          "en": "Dwarfism",
+          "hi": "बौनापन"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "In adults, excess GH enlarges hands, feet, jaw and soft tissues (acromegaly) because long bones can no longer lengthen. Before epiphyseal closure it causes gigantism; cretinism is childhood hypothyroidism; dwarfism results from GH deficiency.",
+      "explanation_hi": "वयस्क में GH अधिकता से हाथ, पैर, जबड़ा और कोमल ऊतक बढ़ते हैं (एक्रोमेगाली), क्योंकि लम्बी हड्डियाँ अब लम्बी नहीं हो सकतीं। एपिफिसिस बन्द होने से पहले जाइगैन्टिज़्म होता है; क्रेटिनिज़्म बचपन का हाइपोथायरायडिज़्म है; बौनापन GH की कमी से होता है।",
+      "reference": "Guyton",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-KS-0119",
+      "subject_id": "AyUG-KS",
+      "topic_id": "ks-nervous",
+      "topic_en": "Nervous system physiology (modern)",
+      "topic_hi": "तन्त्रिका तन्त्र क्रिया विज्ञान (आधुनिक)",
+      "type": "mcq",
+      "question_en": "The neurotransmitter released at the skeletal neuromuscular junction is:",
+      "question_hi": "कंकाल पेशी के न्यूरोमस्कुलर जंक्शन पर निकलने वाला न्यूरोट्रांसमीटर है:",
+      "options": [
+        {
+          "en": "Noradrenaline",
+          "hi": "नॉरएड्रिनलिन"
+        },
+        {
+          "en": "Dopamine",
+          "hi": "डोपामीन"
+        },
+        {
+          "en": "GABA",
+          "hi": "GABA"
+        },
+        {
+          "en": "Acetylcholine",
+          "hi": "एसिटाइलकोलीन"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "Acetylcholine acts on nicotinic receptors of the motor end plate. Noradrenaline is the main sympathetic postganglionic transmitter; dopamine and GABA are central transmitters.",
+      "explanation_hi": "एसिटाइलकोलीन मोटर एण्ड प्लेट के निकोटिनिक रिसेप्टर पर कार्य करता है। नॉरएड्रिनलिन मुख्य अनुकम्पी पोस्टगैंग्लियोनिक ट्रांसमीटर है; डोपामीन और GABA केन्द्रीय ट्रांसमीटर हैं।",
+      "reference": "Guyton",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-KS-0120",
+      "subject_id": "AyUG-KS",
+      "topic_id": "ks-nervous",
+      "topic_en": "Nervous system physiology (modern)",
+      "topic_hi": "तन्त्रिका तन्त्र क्रिया विज्ञान (आधुनिक)",
+      "type": "mcq",
+      "question_en": "Fine touch, vibration and conscious proprioception are carried to the brain mainly by the:",
+      "question_hi": "सूक्ष्म स्पर्श, कम्पन और सचेत प्रोप्रियोसेप्शन मुख्यतः किससे मस्तिष्क तक पहुँचते हैं?",
+      "options": [
+        {
+          "en": "Lateral spinothalamic tract",
+          "hi": "लेटरल स्पाइनोथैलेमिक ट्रैक्ट"
+        },
+        {
+          "en": "Corticospinal tract",
+          "hi": "कॉर्टिकोस्पाइनल ट्रैक्ट"
+        },
+        {
+          "en": "Dorsal column-medial lemniscus pathway",
+          "hi": "डॉर्सल कॉलम-मीडियल लेम्निस्कस पथ"
+        },
+        {
+          "en": "Spinocerebellar tract",
+          "hi": "स्पाइनोसेरेबेलर ट्रैक्ट"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "The dorsal column (fasciculus gracilis and cuneatus) carries fine touch, vibration and conscious proprioception. The lateral spinothalamic tract carries pain and temperature; the corticospinal tract is motor; spinocerebellar tracts carry unconscious proprioception.",
+      "explanation_hi": "डॉर्सल कॉलम (फैसिकुलस ग्रेसिलिस व क्यूनिएटस) सूक्ष्म स्पर्श, कम्पन और सचेत प्रोप्रियोसेप्शन ले जाता है। लेटरल स्पाइनोथैलेमिक पीड़ा व ताप, कॉर्टिकोस्पाइनल गति और स्पाइनोसेरेबेलर अचेतन प्रोप्रियोसेप्शन ले जाते हैं।",
       "reference": "Guyton",
       "difficulty": "hard",
       "exam_tags": [

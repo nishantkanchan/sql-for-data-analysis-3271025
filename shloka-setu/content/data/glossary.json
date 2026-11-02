@@ -6977,6 +6977,3548 @@
         "amalaki"
       ],
       "review_status": "ai_draft"
+    },
+    {
+      "id": "rasashastra",
+      "devanagari": "रसशास्त्र",
+      "iast": "rasaśāstra",
+      "simple": "Rasashastra",
+      "en": "Iatrochemistry: the science of processing mercury, metals, minerals and gems into medicines. Key texts: Rasaratnasamuccaya, Rasendracūḍāmaṇi, Rasataraṅgiṇī. Taught with bhaiṣajya kalpanā (pharmaceutics).",
+      "hi": "रसशास्त्र - पारद, धातु, खनिज और रत्नों से औषध निर्माण का शास्त्र; मुख्य ग्रन्थ रसरत्नसमुच्चय, रसतरङ्गिणी।",
+      "modern": "Comparable to traditional mineral pharmaceutics / iatrochemistry; safety of metal-based drugs depends on proper processing and dose.",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "rasa-mercury",
+        "bhasma",
+        "shodhana",
+        "marana",
+        "bhaishajya-kalpana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "rasa-mercury",
+      "devanagari": "रस (पारद)",
+      "iast": "rasa / pārada",
+      "simple": "Rasa / Parada (Mercury)",
+      "en": "Mercury, called rasa or pārada; considered the king of rasaśāstra and believed, when processed, to confer health and longevity. Raw mercury is toxic and must undergo saṃskāras. Distinct from rasa (taste) and rasa dhātu.",
+      "hi": "रस (पारद) - पारा; रसशास्त्र का राजा; कच्चा पारद विषैला, संस्कार के बाद ही प्रयोग।",
+      "modern": "Mercury (Hg); elemental and inorganic mercury are toxic, so safety concerns are central.",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "ashta-samskara",
+        "kajjali",
+        "rasasindura",
+        "hingula",
+        "rasa-taste",
+        "rasa-dhatu"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "ashta-samskara",
+      "devanagari": "अष्टसंस्कार",
+      "iast": "aṣṭasaṃskāra",
+      "simple": "Ashta Samskara",
+      "en": "Eight purificatory processes of mercury for therapeutic use: svedana, mardana, mūrcchana, utthāpana, pātana, rodhana (bodhana), niyamana and dīpana. Texts describe 18 saṃskāras in all.",
+      "hi": "अष्टसंस्कार - पारद के आठ शोधन संस्कार: स्वेदन, मर्दन, मूर्च्छन, उत्थापन, पातन, रोधन, नियमन, दीपन।",
+      "modern": "",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "rasa-mercury",
+        "shodhana",
+        "patana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "patana",
+      "devanagari": "पातन",
+      "iast": "pātana",
+      "simple": "Patana",
+      "en": "Sublimation/distillation of mercury to separate impurities; three types: ūrdhva (upward), adhaḥ (downward) and tiryak (sideways) pātana. Also used to extract mercury from hiṅgula.",
+      "hi": "पातन - पारद का ऊर्ध्व, अधः, तिर्यक् पातन (उर्ध्वपातन आदि) द्वारा शोधन।",
+      "modern": "Comparable to sublimation/distillation.",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "ashta-samskara",
+        "hingula"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "shodhana",
+      "devanagari": "शोधन",
+      "iast": "śodhana",
+      "simple": "Shodhana (Purification)",
+      "en": "Pharmaceutical purification: processes (heating and quenching, trituration, boiling in specific liquids, etc.) that remove physical and chemical impurities and toxicity and enhance potency. Distinct from śodhana therapy (saṃśodhana).",
+      "hi": "शोधन - द्रव्य की अशुद्धि और विषाक्तता दूर कर गुण बढ़ाने वाली औषध-निर्माण प्रक्रिया। (संशोधन चिकित्सा से भिन्न)",
+      "modern": "Comparable to detoxification/purification steps in pharmaceutical processing; e.g. reduces toxic alkaloids in vatsanābha.",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "samanya-shodhana",
+        "vishesha-shodhana",
+        "marana",
+        "samshodhana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "samanya-shodhana",
+      "devanagari": "सामान्य शोधन",
+      "iast": "sāmānya śodhana",
+      "simple": "Samanya Shodhana",
+      "en": "General purification common to a group, e.g. heating metal sheets red-hot and quenching seven times each in taila, takra, kāñjī, gomūtra and kulattha decoction.",
+      "hi": "सामान्य शोधन - समूह के लिए सामान्य शोधन; जैसे धातु-पत्र को तपाकर तैल, तक्र, काञ्जी, गोमूत्र, कुलत्थ क्वाथ में सात-सात बार बुझाना।",
+      "modern": "",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "shodhana",
+        "vishesha-shodhana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "vishesha-shodhana",
+      "devanagari": "विशेष शोधन",
+      "iast": "viśeṣa śodhana",
+      "simple": "Vishesha Shodhana",
+      "en": "Specific purification prescribed for a particular substance (e.g. gandhaka melted in ghee and poured into milk; vatsanābha boiled in cow's urine).",
+      "hi": "विशेष शोधन - किसी विशेष द्रव्य के लिए निर्दिष्ट शोधन।",
+      "modern": "",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "shodhana",
+        "samanya-shodhana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "marana",
+      "devanagari": "मारण",
+      "iast": "māraṇa",
+      "simple": "Marana (Incineration)",
+      "en": "'Killing' a metal or mineral: converting the purified substance into bhasma by trituration with herbal juices and repeated heating in puṭas until it loses metallic properties.",
+      "hi": "मारण - शुद्ध धातु/खनिज को भावना और पुट द्वारा भस्म बनाना।",
+      "modern": "Comparable to calcination; produces oxides/sulphides of fine particle size.",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "bhasma",
+        "puta",
+        "bhavana",
+        "shodhana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "jarana",
+      "devanagari": "जारण",
+      "iast": "jāraṇa",
+      "simple": "Jarana",
+      "en": "Assimilation of a metal, mineral or sulphur into mercury by heating (e.g. gandhaka-jāraṇa), increasing the potency of mercury.",
+      "hi": "जारण - पारद में गन्धक/धातु का पाचन (आत्मसात्) कराना।",
+      "modern": "",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "rasa-mercury",
+        "gandhaka"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "murchana",
+      "devanagari": "मूर्च्छन",
+      "iast": "mūrcchana",
+      "simple": "Murchana",
+      "en": "Process of 'swooning' mercury, making it lose its mobility and form, usually by combining it with sulphur (sagandha) as in kajjalī; also one of the aṣṭasaṃskāras.",
+      "hi": "मूर्च्छन - पारद को गतिहीन बनाना, प्रायः गन्धक के साथ (कज्जली)।",
+      "modern": "",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "kajjali",
+        "ashta-samskara"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "bhavana",
+      "devanagari": "भावना",
+      "iast": "bhāvanā",
+      "simple": "Bhavana (Levigation)",
+      "en": "Trituration of a powder with liquid (juice, decoction) until it dries, often repeated many times, to impart properties and fineness.",
+      "hi": "भावना - चूर्ण को द्रव (स्वरस, क्वाथ) के साथ सूखने तक मर्दन करना।",
+      "modern": "Comparable to wet trituration/levigation.",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "marana",
+        "khalva-yantra"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "puta",
+      "devanagari": "पुट",
+      "iast": "puṭa",
+      "simple": "Puta",
+      "en": "Measured heating unit used in māraṇa: the material in a sealed earthen pot (śarāva-saṃpuṭa) is heated with a fixed quantity of cow-dung cakes. Sizes include mahāpuṭa, gajapuṭa, varāhapuṭa, kukkuṭapuṭa and kapotapuṭa; electric muffle furnaces are now often used.",
+      "hi": "पुट - मारण हेतु निश्चित मात्रा में ऊष्मा देना (शराव-सम्पुट, उपले); गजपुट, वराहपुट, कुक्कुटपुट, कपोतपुट आदि।",
+      "modern": "Comparable to controlled calcination; temperature profiles are now standardised with furnaces.",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "gajaputa",
+        "kapotaputa",
+        "marana",
+        "bhasma"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "gajaputa",
+      "devanagari": "गजपुट",
+      "iast": "gajapuṭa",
+      "simple": "Gajaputa",
+      "en": "A large puṭa: a pit about one rājahasta in each dimension filled with roughly a thousand cow-dung cakes (numbers vary in texts); used for hard metals like lauha and abhraka.",
+      "hi": "गजपुट - बड़ा पुट; लगभग एक राजहस्त गहरे गड्ढे में लगभग हज़ार उपले (ग्रन्थों में भिन्नता)।",
+      "modern": "",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "puta"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "kapotaputa",
+      "devanagari": "कपोतपुट",
+      "iast": "kapotapuṭa",
+      "simple": "Kapotaputa",
+      "en": "A small puṭa using only about eight cow-dung cakes, without a pit; for delicate materials (e.g. some mercurials).",
+      "hi": "कपोतपुट - छोटा पुट, लगभग आठ उपले, बिना गड्ढे के।",
+      "modern": "",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "puta"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "bhasma",
+      "devanagari": "भस्म",
+      "iast": "bhasma",
+      "simple": "Bhasma",
+      "en": "Calcined, extremely fine powder (ash) of a purified metal, mineral or gem, made by śodhana and māraṇa with repeated puṭas; must pass bhasma-parīkṣā before use (e.g. svarṇa, lauha, abhraka bhasma).",
+      "hi": "भस्म - शुद्ध धातु/खनिज/रत्न को शोधन-मारण से बनाया अत्यन्त सूक्ष्म चूर्ण; प्रयोग से पहले परीक्षा।",
+      "modern": "Often compared to nanoparticle/micro-particle metal oxides and sulphides; toxicity depends on proper processing.",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "marana",
+        "puta",
+        "bhasma-pariksha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "bhasma-pariksha",
+      "devanagari": "भस्म परीक्षा",
+      "iast": "bhasma parīkṣā",
+      "simple": "Bhasma Pariksha",
+      "en": "Classical quality tests for bhasma: vāritara (floats on water), rekhāpūrṇatva (enters finger lines), niścandratva (no metallic shine), apunarbhava (does not revert to metal), nirutthatva (does not revert or combine with silver), uttama/unāma (floating bhasma bears a grain), nirdhūma, dantāgre kacakacābhāva (no grittiness) and others.",
+      "hi": "भस्म परीक्षा - वारितर, रेखापूर्णत्व, निश्चन्द्रत्व, अपुनर्भव, निरुत्थ, उत्तम (उनाम), दन्ताग्रे कचकचाभाव आदि।",
+      "modern": "Comparable to crude tests of particle fineness and completeness of reaction; modern analysis (XRD, SEM, ICP) supplements them.",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "varitara",
+        "rekhapurnatva",
+        "nishchandratva",
+        "apunarbhava",
+        "niruttha",
+        "bhasma"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "varitara",
+      "devanagari": "वारितर",
+      "iast": "vāritara",
+      "simple": "Varitara",
+      "en": "Bhasma test: a pinch sprinkled gently on still water should float, indicating lightness and fineness.",
+      "hi": "वारितर - भस्म जल पर तैरे तो सूक्ष्म और लघु।",
+      "modern": "Indicates very fine particles held by surface tension.",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "bhasma-pariksha",
+        "unama"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "unama",
+      "devanagari": "उनाम (उत्तम)",
+      "iast": "unāma / uttama",
+      "simple": "Unama Test",
+      "en": "Extension of vāritara: a rice grain placed on the floating bhasma layer should remain afloat.",
+      "hi": "उनाम परीक्षा - तैरती भस्म पर चावल का दाना रखने पर भी तैरता रहे।",
+      "modern": "",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "varitara",
+        "bhasma-pariksha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "rekhapurnatva",
+      "devanagari": "रेखापूर्णत्व",
+      "iast": "rekhāpūrṇatva",
+      "simple": "Rekhapurnatva",
+      "en": "Bhasma test: rubbed between thumb and finger, the bhasma should enter and fill the finger lines (fineness).",
+      "hi": "रेखापूर्णत्व - अंगूठे-उंगली में मलने पर भस्म अंगुलि-रेखाओं में भर जाए।",
+      "modern": "Indicates fine particle size.",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "bhasma-pariksha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "nishchandratva",
+      "devanagari": "निश्चन्द्रत्व",
+      "iast": "niścandratva",
+      "simple": "Nishchandratva",
+      "en": "Bhasma test: absence of metallic lustre (candrikā) when seen in bright light, showing complete conversion.",
+      "hi": "निश्चन्द्रत्व - तेज प्रकाश में भस्म में धात्विक चमक न हो।",
+      "modern": "",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "bhasma-pariksha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "apunarbhava",
+      "devanagari": "अपुनर्भव",
+      "iast": "apunarbhava",
+      "simple": "Apunarbhava",
+      "en": "Bhasma test: heated with mitra-pañcaka (guḍa, guñjā, ṭaṅkaṇa, madhu, ghṛta), the bhasma should not revert to its metallic state.",
+      "hi": "अपुनर्भव - मित्रपञ्चक के साथ तपाने पर भस्म पुनः धातु न बने।",
+      "modern": "",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "bhasma-pariksha",
+        "niruttha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "niruttha",
+      "devanagari": "निरुत्थ",
+      "iast": "niruttha",
+      "simple": "Niruttha",
+      "en": "Bhasma test: heated with a piece of silver, the bhasma should not revert or be absorbed, so the silver's weight stays unchanged.",
+      "hi": "निरुत्थ - चाँदी के साथ तपाने पर चाँदी का भार न बढ़े।",
+      "modern": "",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "bhasma-pariksha",
+        "apunarbhava"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "kajjali",
+      "devanagari": "कज्जली",
+      "iast": "kajjalī",
+      "simple": "Kajjali",
+      "en": "Black, lusterless, fine powder made by triturating purified mercury and sulphur together until no mercury globules are seen; base of many rasauṣadhis (e.g. rasaparpaṭī, kūpīpakva preparations).",
+      "hi": "कज्जली - शुद्ध पारद और गन्धक को मर्दन कर काजल जैसा काला, चमकहीन चूर्ण।",
+      "modern": "Mainly black mercuric sulphide (metacinnabar).",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "rasa-mercury",
+        "gandhaka",
+        "parpati",
+        "kupipakva-rasayana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "parpati",
+      "devanagari": "पर्पटी",
+      "iast": "parpaṭī",
+      "simple": "Parpati",
+      "en": "Thin flakes made by melting kajjalī (with or without other drugs) and pressing it between leaves on cow dung; e.g. rasaparpaṭī, used especially in grahaṇī.",
+      "hi": "पर्पटी - कज्जली को पिघलाकर पत्तों के बीच दबाकर बनाए पतले पत्र; ग्रहणी में (रसपर्पटी)।",
+      "modern": "",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "kajjali",
+        "grahani-roga"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "kupipakva-rasayana",
+      "devanagari": "कूपीपक्व रसायन",
+      "iast": "kūpīpakva rasāyana",
+      "simple": "Kupipakva Rasayana",
+      "en": "Preparations made by gradually heating kajjalī in a glass bottle (kūpī) coated with clay, in a sand bath (vālukā yantra), so the product sublimes at the neck or settles at the bottom; e.g. rasasindūra, makaradhvaja.",
+      "hi": "कूपीपक्व रसायन - कज्जली को काँच की कूपी में वालुका यन्त्र में क्रमिक ताप देकर बनाए योग; जैसे रससिन्दूर।",
+      "modern": "",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "rasasindura",
+        "kajjali",
+        "valuka-yantra"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "rasasindura",
+      "devanagari": "रससिन्दूर",
+      "iast": "rasasindūra",
+      "simple": "Rasasindura",
+      "en": "Red sublimate of mercury and sulphur made by the kūpīpakva method; used as a rasāyana and yogavāhī in small doses.",
+      "hi": "रससिन्दूर - कूपीपक्व विधि से बना पारद-गन्धक का लाल ऊर्ध्वपातित योग।",
+      "modern": "Mainly red mercuric sulphide (HgS, cinnabar form).",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "kupipakva-rasayana",
+        "rasa-mercury"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "hingula",
+      "devanagari": "हिङ्गुल",
+      "iast": "hiṅgula",
+      "simple": "Hingula",
+      "en": "Red mineral classed among sādhāraṇa rasas; mercury is extracted from it by ūrdhvapātana (hiṅgulottha pārada).",
+      "hi": "हिङ्गुल (सिंगरफ) - लाल खनिज; इससे ऊर्ध्वपातन द्वारा पारद निकाला जाता है।",
+      "modern": "Cinnabar (mercuric sulphide, HgS).",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "rasa-mercury",
+        "patana",
+        "sadharana-rasa"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "gandhaka",
+      "devanagari": "गन्धक",
+      "iast": "gandhaka",
+      "simple": "Gandhaka",
+      "en": "Sulphur, chief of the uparasas; purified by melting in ghee and pouring into milk; used in skin diseases and with mercury (kajjalī). Called bali.",
+      "hi": "गन्धक - उपरस; घी में पिघलाकर दूध में डालकर शोधन; त्वचा रोगों में और पारद के साथ।",
+      "modern": "Sulphur.",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "uparasa",
+        "kajjali",
+        "jarana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "abhraka",
+      "devanagari": "अभ्रक",
+      "iast": "abhraka",
+      "simple": "Abhraka",
+      "en": "Mica, a mahārasa; the black (kṛṣṇa) vajra variety is preferred; processed into abhraka bhasma, used as rasāyana and in respiratory disorders.",
+      "hi": "अभ्रक - महारस; कृष्ण वज्र अभ्रक श्रेष्ठ; अभ्रक भस्म रसायन व श्वास रोग में।",
+      "modern": "Mica (biotite-type is preferred for black abhraka).",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "maharasa",
+        "bhasma"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "shilajatu",
+      "devanagari": "शिलाजतु",
+      "iast": "śilājatu",
+      "simple": "Shilajatu",
+      "en": "Rock exudate that oozes from Himalayan rocks in summer; classed as a mahārasa (Rasaratnasamuccaya) or uparasa in different texts; a celebrated rasāyana, especially in prameha (Caraka: there is no curable disease it cannot cure when properly used).",
+      "hi": "शिलाजतु (शिलाजीत) - हिमालयी चट्टानों से रिसने वाला पदार्थ; महारस/उपरस; प्रमेह में श्रेष्ठ रसायन।",
+      "modern": "Complex mixture rich in humic and fulvic acids of plant origin.",
+      "category": "rasashastra",
+      "source_refs": [
+        "CS.chikitsa.1"
+      ],
+      "related": [
+        "maharasa",
+        "rasayana",
+        "prameha",
+        "chhedana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "maharasa",
+      "devanagari": "महारस",
+      "iast": "mahārasa",
+      "simple": "Maharasa",
+      "en": "Group of eight important minerals in Rasaratnasamuccaya: abhraka, vaikrānta, mākṣika, vimala, śilājatu, sasyaka, capala and rasaka. Classifications differ between texts.",
+      "hi": "महारस - रसरत्नसमुच्चय के अनुसार आठ: अभ्रक, वैक्रान्त, माक्षिक, विमल, शिलाजतु, सस्यक, चपल, रसक।",
+      "modern": "",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "uparasa",
+        "sadharana-rasa",
+        "abhraka",
+        "shilajatu",
+        "makshika"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "uparasa",
+      "devanagari": "उपरस",
+      "iast": "uparasa",
+      "simple": "Uparasa",
+      "en": "Group of eight secondary minerals in Rasaratnasamuccaya: gandhaka, gairika, kāsīsa, sphaṭikā (alum), haritāla, manaḥśilā, añjana and kaṅkuṣṭha. Classifications differ between texts.",
+      "hi": "उपरस - आठ: गन्धक, गैरिक, कासीस, स्फटिका, हरिताल, मनःशिला, अञ्जन, कङ्कुष्ठ।",
+      "modern": "",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "maharasa",
+        "gandhaka",
+        "haratala",
+        "manahshila"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "sadharana-rasa",
+      "devanagari": "साधारण रस",
+      "iast": "sādhāraṇa rasa",
+      "simple": "Sadharana Rasa",
+      "en": "Group of eight common minerals in Rasaratnasamuccaya: kampillaka, gaurīpāṣāṇa, navasāra, kapardikā (cowrie), agnijāra, girisindūra, hiṅgula and mṛddāraśṛṅga.",
+      "hi": "साधारण रस - आठ: कम्पिल्लक, गौरीपाषाण, नवसार, कपर्दिका, अग्निजार, गिरिसिन्दूर, हिङ्गुल, मृद्दारशृङ्ग।",
+      "modern": "",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "maharasa",
+        "hingula"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "makshika",
+      "devanagari": "माक्षिक",
+      "iast": "mākṣika",
+      "simple": "Makshika",
+      "en": "Svarṇa mākṣika, a golden mineral among the mahārasas; its bhasma is used in pāṇḍu and as rasāyana.",
+      "hi": "स्वर्ण माक्षिक - सुनहरा खनिज (महारस); पाण्डु में।",
+      "modern": "Chalcopyrite (copper iron sulphide).",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "maharasa",
+        "pandu"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "haratala",
+      "devanagari": "हरिताल",
+      "iast": "haritāla",
+      "simple": "Haratala",
+      "en": "Yellow arsenic mineral among the uparasas; used after strict śodhana in skin diseases and fevers; highly toxic.",
+      "hi": "हरिताल - पीला संखिया खनिज (उपरस); कठोर शोधन के बाद; अति विषैला।",
+      "modern": "Orpiment (arsenic trisulphide, As2S3).",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "uparasa",
+        "manahshila"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "manahshila",
+      "devanagari": "मनःशिला",
+      "iast": "manaḥśilā",
+      "simple": "Manahshila",
+      "en": "Red-orange arsenic mineral among the uparasas; used after śodhana in respiratory disorders and externally; toxic.",
+      "hi": "मनःशिला (मैनसिल) - लाल-नारंगी संखिया खनिज (उपरस); विषैला।",
+      "modern": "Realgar (arsenic sulphide, As4S4).",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "uparasa",
+        "haratala"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "dhatu-metal",
+      "devanagari": "धातु (लोह वर्ग)",
+      "iast": "dhātu (loha)",
+      "simple": "Dhatu (Metals)",
+      "en": "In rasaśāstra, metals: śuddha loha (svarṇa gold, rajata silver, tāmra copper, lauha iron), pūti loha (nāga lead, vaṅga tin) and miśra loha (pittala brass, kāṃsya bronze); yaśada (zinc) is added later. Distinct from body dhātus.",
+      "hi": "धातु (रसशास्त्र) - शुद्ध लोह: स्वर्ण, रजत, ताम्र, लौह; पूति लोह: नाग, वङ्ग; मिश्र लोह: पित्तल, कांस्य।",
+      "modern": "Metals.",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "svarna",
+        "lauha-metal",
+        "bhasma",
+        "dhatu"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "svarna",
+      "devanagari": "स्वर्ण",
+      "iast": "svarṇa",
+      "simple": "Svarna",
+      "en": "Gold; its bhasma is used as rasāyana, medhya, hṛdya and to increase ojas; given to newborns in suvarṇaprāśana.",
+      "hi": "स्वर्ण - सोना; स्वर्ण भस्म रसायन, मेध्य, हृद्य; सुवर्णप्राशन में।",
+      "modern": "Gold.",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "dhatu-metal",
+        "bhasma",
+        "suvarnaprashana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "lauha-metal",
+      "devanagari": "लौह",
+      "iast": "lauha",
+      "simple": "Lauha (Iron)",
+      "en": "Iron (also called loha or ayas); lauha bhasma is used mainly in pāṇḍu (anaemia) and as rasāyana.",
+      "hi": "लौह (लोहा) - लौह भस्म पाण्डु में मुख्य।",
+      "modern": "Iron; lauha bhasma is mainly iron oxide.",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "dhatu-metal",
+        "pandu",
+        "bhasma"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "ratna",
+      "devanagari": "रत्न",
+      "iast": "ratna",
+      "simple": "Ratna",
+      "en": "Gems; the nine ratnas: māṇikya (ruby), muktā (pearl), pravāla (coral), marakata (emerald), puṣparāga (yellow sapphire/topaz), vajra (diamond), nīla (blue sapphire), gomeda (hessonite) and vaidūrya (cat's eye). Uparatnas are semi-precious stones.",
+      "hi": "रत्न - नवरत्न: माणिक्य, मुक्ता, प्रवाल, मरकत, पुष्पराग, वज्र, नील, गोमेद, वैदूर्य।",
+      "modern": "Gemstones; pearl and coral are biological calcium carbonate.",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "bhasma"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "khalva-yantra",
+      "devanagari": "खल्व यन्त्र",
+      "iast": "khalva yantra",
+      "simple": "Khalva Yantra",
+      "en": "Mortar and pestle (of stone or iron) used for trituration (mardana, bhāvanā).",
+      "hi": "खल्व यन्त्र - खरल; मर्दन और भावना के लिए।",
+      "modern": "Mortar and pestle.",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "bhavana",
+        "yantra-rasa"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "valuka-yantra",
+      "devanagari": "वालुका यन्त्र",
+      "iast": "vālukā yantra",
+      "simple": "Valuka Yantra",
+      "en": "Sand-bath apparatus: a vessel filled with sand in which a kūpī or pot is heated gradually and evenly (used for kūpīpakva rasāyanas).",
+      "hi": "वालुका यन्त्र - रेत से भरा पात्र, जिसमें कूपी को धीरे-धीरे समान ताप दिया जाता है।",
+      "modern": "Sand bath.",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "kupipakva-rasayana",
+        "yantra-rasa"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "yantra-rasa",
+      "devanagari": "यन्त्र (रसशास्त्र)",
+      "iast": "yantra",
+      "simple": "Yantra (Rasashastra)",
+      "en": "Apparatus used in rasaśāstra, e.g. khalva, dolā (for boiling suspended drugs), vālukā, pātana and ḍamaru yantra. Distinct from surgical yantras.",
+      "hi": "यन्त्र (रसशास्त्र) - उपकरण: खल्व, दोला, वालुका, पातन, डमरू यन्त्र।",
+      "modern": "",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "khalva-yantra",
+        "valuka-yantra",
+        "yantra"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "bhaishajya-kalpana",
+      "devanagari": "भैषज्य कल्पना",
+      "iast": "bhaiṣajya kalpanā",
+      "simple": "Bhaishajya Kalpana",
+      "en": "Ayurvedic pharmaceutics: the methods of preparing dosage forms (kalpanā) from crude drugs, from basic forms like svarasa and kvātha to secondary forms like avaleha, āsava and sneha. Śārṅgadhara Saṃhitā is the key text.",
+      "hi": "भैषज्य कल्पना - औषध-निर्माण विज्ञान; स्वरस, क्वाथ से लेकर अवलेह, आसव, स्नेह तक; मुख्य ग्रन्थ शार्ङ्गधर संहिता।",
+      "modern": "Comparable to pharmaceutics / dosage-form science.",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "pancha-vidha-kashaya-kalpana",
+        "rasashastra"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "pancha-vidha-kashaya-kalpana",
+      "devanagari": "पञ्चविध कषाय कल्पना",
+      "iast": "pañcavidha kaṣāya kalpanā",
+      "simple": "Five Basic Kalpanas",
+      "en": "The five primary preparations: svarasa (juice), kalka (paste), kvātha/śṛta (decoction), hima/śīta (cold infusion) and phāṇṭa (hot infusion); each is lighter than the one before it.",
+      "hi": "पञ्चविध कषाय कल्पना - स्वरस, कल्क, क्वाथ (शृत), हिम (शीत), फाण्ट; उत्तरोत्तर लघु।",
+      "modern": "",
+      "category": "rasashastra",
+      "source_refs": [
+        "CS.sutra.4"
+      ],
+      "related": [
+        "svarasa",
+        "kalka",
+        "kvatha",
+        "hima",
+        "phanta"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "svarasa",
+      "devanagari": "स्वरस",
+      "iast": "svarasa",
+      "simple": "Svarasa",
+      "en": "Fresh juice expressed from a freshly pounded herb; the most potent of the five basic kalpanās. Dose about half a pala (Śārṅgadhara Saṃhitā, Madhyamakhaṇḍa).",
+      "hi": "स्वरस - ताज़ी वनस्पति को कूटकर निचोड़ा गया रस; पाँचों में सबसे गुरु/बलवान; मात्रा अर्ध पल।",
+      "modern": "Fresh plant juice.",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "pancha-vidha-kashaya-kalpana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "kalka",
+      "devanagari": "कल्क",
+      "iast": "kalka",
+      "simple": "Kalka",
+      "en": "Fine paste of a fresh or dry drug ground with a little water; also an ingredient in sneha-pāka. Dose about one karṣa (Śārṅgadhara Saṃhitā, Madhyamakhaṇḍa).",
+      "hi": "कल्क - द्रव्य को थोड़ा जल मिलाकर पीसा गया लेप जैसा पिष्ट; स्नेहपाक का अंग; मात्रा एक कर्ष।",
+      "modern": "Herbal paste.",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "pancha-vidha-kashaya-kalpana",
+        "sneha-kalpana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "kvatha",
+      "devanagari": "क्वाथ",
+      "iast": "kvātha",
+      "simple": "Kvatha",
+      "en": "Decoction: one part coarse drug boiled in sixteen parts water reduced to one-eighth (Śārṅgadhara Saṃhitā, Madhyamakhaṇḍa). Also called kaṣāya, śṛta, niryūha. Other texts vary the water (4, 8 or 16 parts) by the hardness of the drug.",
+      "hi": "क्वाथ (कषाय) - 1 भाग यवकुट द्रव्य, 16 भाग जल में उबालकर 1/8 शेष (शार्ङ्गधर)।",
+      "modern": "Decoction.",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "pancha-vidha-kashaya-kalpana",
+        "arishta"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "hima",
+      "devanagari": "हिम",
+      "iast": "hima",
+      "simple": "Hima",
+      "en": "Cold infusion: one part drug soaked overnight in six parts cold water, filtered in the morning (Śārṅgadhara Saṃhitā, Madhyamakhaṇḍa); suited to pitta conditions and aromatic/delicate drugs. Also called śīta kaṣāya.",
+      "hi": "हिम (शीत कषाय) - 1 भाग द्रव्य को 6 भाग शीतल जल में रातभर भिगोकर सुबह छानना।",
+      "modern": "Cold infusion.",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "pancha-vidha-kashaya-kalpana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "phanta",
+      "devanagari": "फाण्ट",
+      "iast": "phāṇṭa",
+      "simple": "Phanta",
+      "en": "Hot infusion: one part drug steeped in four parts hot water, then filtered when cool (Śārṅgadhara Saṃhitā, Madhyamakhaṇḍa). The lightest of the five basic kalpanās.",
+      "hi": "फाण्ट - 1 भाग द्रव्य को 4 भाग गरम जल में डालकर ठण्डा होने पर छानना; सबसे लघु।",
+      "modern": "Hot infusion (like tea).",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "pancha-vidha-kashaya-kalpana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "churna",
+      "devanagari": "चूर्ण",
+      "iast": "cūrṇa",
+      "simple": "Churna",
+      "en": "Fine powder of dried drugs, sieved through cloth (vastragālita); e.g. triphalā cūrṇa, sitopalādi cūrṇa. Dose about one karṣa (Śārṅgadhara Saṃhitā, Madhyamakhaṇḍa).",
+      "hi": "चूर्ण - सूखे द्रव्यों का कपड़छन बारीक चूर्ण; जैसे त्रिफला, सितोपलादि चूर्ण।",
+      "modern": "Herbal powder.",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "vati",
+        "triphala"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "vati",
+      "devanagari": "वटी / गुटिका",
+      "iast": "vaṭī / guṭikā",
+      "simple": "Vati / Gutika",
+      "en": "Pills or tablets made from cūrṇa, extracts or minerals with a binder (guḍa, guggulu, madhu, juice), e.g. sañjīvanī vaṭī, candraprabhā vaṭī.",
+      "hi": "वटी/गुटिका - चूर्ण आदि को गुड़, गुग्गुलु, मधु या रस से बाँधकर बनाई गोलियाँ।",
+      "modern": "Pills/tablets.",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "churna",
+        "guggulu"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "avaleha",
+      "devanagari": "अवलेह",
+      "iast": "avaleha",
+      "simple": "Avaleha",
+      "en": "Semi-solid confection made by reheating decoction or juice with sugar or jaggery (and adding powders, ghee, honey), e.g. cyavanaprāśa, vāsāvaleha. Signs of completion include thread formation (tantuvat) and sinking in water. Also called leha.",
+      "hi": "अवलेह (लेह) - क्वाथ/स्वरस को शर्करा/गुड़ के साथ पकाकर बना अर्धठोस; जैसे च्यवनप्राश; तन्तुवत् लक्षण।",
+      "modern": "Medicated jam/confection.",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "chyavanaprasha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "chyavanaprasha",
+      "devanagari": "च्यवनप्राश",
+      "iast": "cyavanaprāśa",
+      "simple": "Chyavanaprasha",
+      "en": "Famous rasāyana avaleha based on āmalakī, named after the sage Cyavana who regained youth by it (Caraka).",
+      "hi": "च्यवनप्राश - आमलकी आधारित प्रसिद्ध रसायन अवलेह; ऋषि च्यवन के नाम पर।",
+      "modern": "",
+      "category": "rasashastra",
+      "source_refs": [
+        "CS.chikitsa.1"
+      ],
+      "related": [
+        "avaleha",
+        "amalaki",
+        "rasayana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "sandhana-kalpana",
+      "devanagari": "सन्धान कल्पना",
+      "iast": "sandhāna kalpanā",
+      "simple": "Sandhana Kalpana",
+      "en": "Fermented preparations: āsava, ariṣṭa, surā, sīdhu, śukta, kāñjika and others; self-generated alcohol extracts and preserves the drug.",
+      "hi": "सन्धान कल्पना - किण्वित योग: आसव, अरिष्ट, सुरा, शुक्त, काञ्जिक आदि।",
+      "modern": "Fermented herbal preparations (self-generated alcohol, roughly 5-10%).",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "asava",
+        "arishta",
+        "dhataki"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "asava",
+      "devanagari": "आसव",
+      "iast": "āsava",
+      "simple": "Asava",
+      "en": "Fermented preparation made from fresh juice or cold infusion of drugs without boiling (the drug is not decocted), e.g. kumāryāsava, uśīrāsava.",
+      "hi": "आसव - बिना उबाले (स्वरस/शीत कषाय से) बनाया किण्वित योग; जैसे कुमार्यासव।",
+      "modern": "Fermented herbal liquid (no decoction step).",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "sandhana-kalpana",
+        "arishta",
+        "dhataki"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "arishta",
+      "devanagari": "अरिष्ट",
+      "iast": "ariṣṭa",
+      "simple": "Arishta",
+      "en": "Fermented preparation made from a decoction (kvātha) of drugs, with jaggery/honey and dhātakī flowers as starter, e.g. daśamūlāriṣṭa, aśokāriṣṭa. Difference from āsava: ariṣṭa uses a boiled decoction. (Ariṣṭa also means a fatal sign; see riṣṭa.)",
+      "hi": "अरिष्ट - क्वाथ से बनाया किण्वित योग; जैसे दशमूलारिष्ट। आसव में क्वाथ नहीं, अरिष्ट में क्वाथ।",
+      "modern": "Fermented decoction.",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "sandhana-kalpana",
+        "asava",
+        "kvatha",
+        "arishta-sign"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "sneha-kalpana",
+      "devanagari": "स्नेह कल्पना",
+      "iast": "sneha kalpanā",
+      "simple": "Sneha Kalpana",
+      "en": "Medicated ghee or oil: generally one part kalka, four parts sneha and sixteen parts liquid (drava) cooked together until the signs of completion (sneha-siddhi lakṣaṇa) appear (Śārṅgadhara Saṃhitā, Madhyamakhaṇḍa).",
+      "hi": "स्नेह कल्पना - औषधसिद्ध घृत/तैल; सामान्यतः 1 भाग कल्क, 4 भाग स्नेह, 16 भाग द्रव; स्नेहसिद्धि लक्षण तक पाक।",
+      "modern": "Medicated lipid preparations; lipids help extract fat-soluble constituents.",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "ghrita",
+        "taila",
+        "sneha-paka",
+        "kalka"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "sneha-paka",
+      "devanagari": "स्नेहपाक",
+      "iast": "snehapāka",
+      "simple": "Sneha Paka",
+      "en": "Degree of cooking of medicated sneha: mṛdu (soft, kalka still sticky; for nasya), madhyama (kalka rolls into a non-sticky wick; for internal use and general purposes) and khara (kalka hard and brittle; for abhyaṅga) (Śārṅgadhara Saṃhitā, Madhyamakhaṇḍa).",
+      "hi": "स्नेहपाक - मृदु (नस्य), मध्यम (पान, सर्वकर्म), खर (अभ्यंग)।",
+      "modern": "",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "sneha-kalpana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "ghrita",
+      "devanagari": "घृत",
+      "iast": "ghṛta",
+      "simple": "Ghrita",
+      "en": "Ghee (clarified butter), the best of the four snehas because it takes on the properties of drugs processed with it without losing its own; pacifies pitta and vāta; base of medicated ghṛtas (e.g. brāhmī ghṛta, phala ghṛta).",
+      "hi": "घृत (घी) - चार स्नेहों में श्रेष्ठ, संस्कार का अनुवर्तन करता है; पित्त-वातशामक; औषधसिद्ध घृत।",
+      "modern": "Clarified butter; medicated ghṛtas are lipid-based formulations.",
+      "category": "rasashastra",
+      "source_refs": [
+        "AH.sutra.16.2",
+        "AH.sutra.16.3",
+        "AH.sutra.9.27"
+      ],
+      "related": [
+        "sneha-kalpana",
+        "snehana",
+        "taila"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "taila",
+      "devanagari": "तैल",
+      "iast": "taila",
+      "simple": "Taila",
+      "en": "Oil, especially sesame oil (tila taila, from which the word comes); best for vāta and kapha; base of medicated oils (e.g. mahānārāyaṇa taila, kṣīrabalā taila).",
+      "hi": "तैल - विशेषतः तिल तैल; वात-कफ में श्रेष्ठ; औषधसिद्ध तैल।",
+      "modern": "Oil; medicated oils are lipid-based formulations.",
+      "category": "rasashastra",
+      "source_refs": [
+        "AH.sutra.16.2",
+        "AH.sutra.16.3"
+      ],
+      "related": [
+        "sneha-kalpana",
+        "tila",
+        "snehana",
+        "ghrita"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "arka-kalpana",
+      "devanagari": "अर्क (कल्पना)",
+      "iast": "arka",
+      "simple": "Arka (Distillate)",
+      "en": "Aromatic distillate prepared by distilling drugs soaked in water (described in Arkaprakāśa), e.g. ajamodā arka.",
+      "hi": "अर्क कल्पना - द्रव्यों को जल में भिगोकर आसवन से प्राप्त सुगन्धित अर्क।",
+      "modern": "Hydro-distillate.",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "arka"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "kshirapaka",
+      "devanagari": "क्षीरपाक",
+      "iast": "kṣīrapāka",
+      "simple": "Kshirapaka",
+      "en": "Medicated milk: drug boiled in milk with water (commonly 1 part drug : 8 parts milk : 32 parts water) until only the milk remains (Śārṅgadhara Saṃhitā, Madhyamakhaṇḍa); e.g. arjuna kṣīrapāka.",
+      "hi": "क्षीरपाक - द्रव्य को दूध व जल में उबालकर केवल दूध शेष रखना (सामान्यतः 1:8:32)।",
+      "modern": "Medicated milk decoction.",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "kshira",
+        "arjuna"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "lepa",
+      "devanagari": "लेप",
+      "iast": "lepa",
+      "simple": "Lepa",
+      "en": "Medicated paste applied externally; types include pralepa (thin, cold), pradeha (thick, warm) and ālepa (medium). It should be applied against the direction of hair and removed before it dries.",
+      "hi": "लेप - बाहरी लेप; प्रलेप, प्रदेह, आलेप; सूखने से पहले हटाना।",
+      "modern": "Topical paste/poultice.",
+      "category": "rasashastra",
+      "source_refs": [
+        "SS.sutra.18"
+      ],
+      "related": [
+        "kalka"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "varti",
+      "devanagari": "वर्ति",
+      "iast": "varti",
+      "simple": "Varti",
+      "en": "Medicated wick or suppository-like stick (e.g. phala varti for the rectum/vagina, netra varti for the eyes, dhūma varti for smoking).",
+      "hi": "वर्ति - औषधीय बत्ती (फल वर्ति, नेत्र वर्ति, धूम वर्ति)।",
+      "modern": "Suppository/wick.",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "dhumapana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "kshara",
+      "devanagari": "क्षार",
+      "iast": "kṣāra",
+      "simple": "Kshara",
+      "en": "Alkali obtained from plant ash (e.g. apāmārga, palāśa, yava); used internally (pānīya kṣāra) and externally (pratisāraṇīya kṣāra) as a chemical cautery. Suśruta calls it superior to sharp instruments; it is mild, medium or strong.",
+      "hi": "क्षार - वनस्पति-भस्म से प्राप्त क्षार; पानीय और प्रतिसारणीय; सुश्रुत: शस्त्र-अनुशस्त्रों में श्रेष्ठ।",
+      "modern": "Caustic alkali (mainly potassium salts).",
+      "category": "rasashastra",
+      "source_refs": [
+        "SS.sutra.11",
+        "AH.sutra.30"
+      ],
+      "related": [
+        "kshara-karma",
+        "kshara-sutra",
+        "apamarga"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "matra",
+      "devanagari": "मात्रा",
+      "iast": "mātrā",
+      "simple": "Matra (Dose)",
+      "en": "Dose or measured quantity; depends on agni, bala, age, disease and drug. In diet, mātrā is the quantity that is digested in due time without disturbing health.",
+      "hi": "मात्रा - औषध या आहार की उचित मात्रा; अग्नि, बल, आयु, रोग के अनुसार।",
+      "modern": "Dose.",
+      "category": "rasashastra",
+      "source_refs": [
+        "AH.sutra.8.1",
+        "CS.sutra.5"
+      ],
+      "related": [
+        "mana",
+        "matrashita"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "mana",
+      "devanagari": "मान",
+      "iast": "māna",
+      "simple": "Mana (Measures)",
+      "en": "Classical system of weights and measures (Māgadha māna). Commonly used conversions: 1 guñjā (ratti) about 125 mg, 1 māṣa about 1 g, 1 karṣa (tolā) about 12 g, 1 pala about 48 g, 1 kuḍava about 192 g, 1 prastha about 768 g. Liquids and fresh drugs are often taken double (dvaiguṇya).",
+      "hi": "मान - तौल-माप पद्धति (मागध मान); प्रचलित: गुञ्जा ≈125 mg, माष ≈1 g, कर्ष ≈12 g, पल ≈48 g, कुडव ≈192 g, प्रस्थ ≈768 g।",
+      "modern": "Conventional metric equivalents as used in the Ayurvedic Formulary of India; texts differ.",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "matra",
+        "pala",
+        "karsha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "pala",
+      "devanagari": "पल",
+      "iast": "pala",
+      "simple": "Pala",
+      "en": "Unit of weight equal to four karṣas, conventionally taken as about 48 g.",
+      "hi": "पल - चार कर्ष; लगभग 48 ग्राम।",
+      "modern": "About 48 g.",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "mana",
+        "karsha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "karsha",
+      "devanagari": "कर्ष",
+      "iast": "karṣa",
+      "simple": "Karsha",
+      "en": "Unit of weight equal to one tolā, conventionally about 12 g; also called akṣa or suvarṇa.",
+      "hi": "कर्ष (तोला) - लगभग 12 ग्राम।",
+      "modern": "About 12 g.",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "mana",
+        "pala"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "anupana",
+      "devanagari": "अनुपान",
+      "iast": "anupāna",
+      "simple": "Anupana",
+      "en": "Vehicle or after-drink taken with or after medicine or food (e.g. warm water, honey, milk, ghee); it helps the drug spread quickly and act better.",
+      "hi": "अनुपान - औषध/आहार के साथ या बाद में लिया जाने वाला द्रव (उष्ण जल, मधु, दूध); औषध के प्रसार में सहायक।",
+      "modern": "Comparable to a drug vehicle.",
+      "category": "rasashastra",
+      "source_refs": [
+        "CS.sutra.27",
+        "AH.sutra.8"
+      ],
+      "related": [
+        "yogavahi",
+        "bheshaja-kala"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "bheshaja-kala",
+      "devanagari": "भैषज्य काल",
+      "iast": "bhaiṣajya kāla",
+      "simple": "Bheshaja Kala",
+      "en": "Times of taking medicine, chosen according to the doṣa and disease: e.g. on empty stomach (abhakta), before, during or after meals, between meals, with every morsel, repeatedly, and at night. Vāgbhaṭa lists about ten.",
+      "hi": "भैषज्य काल - औषध सेवन के समय: अन्न रहित, अन्न से पहले, मध्य, अन्त, ग्रास-ग्रास में, बार-बार, रात्रि आदि।",
+      "modern": "Comparable to timing of drug administration relative to meals (chronopharmacology).",
+      "category": "rasashastra",
+      "source_refs": [
+        "AH.sutra.13.37",
+        "AH.sutra.13.38",
+        "CS.chikitsa.30"
+      ],
+      "related": [
+        "kala",
+        "anupana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "saviryata-avadhi",
+      "devanagari": "सवीर्यता अवधि",
+      "iast": "savīryatā avadhi",
+      "simple": "Saviryata Avadhi",
+      "en": "Period during which a preparation retains potency (shelf life), e.g. cūrṇa about two months and āsava-ariṣṭa improving with age per Śārṅgadhara; modern Indian drug rules fix specific shelf lives.",
+      "hi": "सवीर्यता अवधि - औषध की वीर्यवत्ता की अवधि (शेल्फ लाइफ); चूर्ण लगभग 2 माह, आसव-अरिष्ट पुराने होने पर अधिक गुणकारी।",
+      "modern": "Shelf life.",
+      "category": "rasashastra",
+      "source_refs": [],
+      "related": [
+        "churna",
+        "asava"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "rachana-sharira",
+      "devanagari": "रचना शारीर",
+      "iast": "racanā śārīra",
+      "simple": "Rachana Sharira",
+      "en": "Ayurvedic anatomy: knowledge of the structure of the body. Suśruta insisted on dissection (of a cadaver softened in water) for direct knowledge.",
+      "hi": "रचना शारीर - शरीर-रचना विज्ञान; सुश्रुत ने शव-विच्छेदन पर बल दिया।",
+      "modern": "Anatomy.",
+      "category": "sharira",
+      "source_refs": [
+        "SS.sharira.5"
+      ],
+      "related": [
+        "sharira",
+        "asthi",
+        "marma"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "asthi",
+      "devanagari": "अस्थि",
+      "iast": "asthi",
+      "simple": "Asthi (Bones)",
+      "en": "Bones. Caraka (Ātreya) counts 360 including teeth and nails; Suśruta (Dhanvantari) counts 300. Suśruta's five types: kapāla, rucaka, taruṇa, valaya and nalaka.",
+      "hi": "अस्थि - हड्डियाँ; चरक: 360 (दाँत-नख सहित), सुश्रुत: 300; सुश्रुत के 5 प्रकार: कपाल, रुचक, तरुण, वलय, नलक।",
+      "modern": "Bones (modern count 206 in adults); classical counts include teeth, nails and cartilages.",
+      "category": "sharira",
+      "source_refs": [
+        "AH.sharira.3.16",
+        "CS.sharira.7",
+        "SS.sharira.5"
+      ],
+      "related": [
+        "asthi-dhatu",
+        "sandhi-joint",
+        "asthi-marma"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "sandhi-joint",
+      "devanagari": "सन्धि (शारीर)",
+      "iast": "sandhi",
+      "simple": "Sandhi (Joint)",
+      "en": "Joints. Suśruta counts 210 and classifies them as ceṣṭāvanta (movable) and sthira (fixed), with eight structural types (kora, ulūkhala, sāmudga, pratara, tunnasevanī, vāyasatuṇḍa, maṇḍala, śaṅkhāvarta). Not to be confused with grammatical sandhi.",
+      "hi": "सन्धि (जोड़) - सुश्रुत: 210; चल और स्थिर; आठ आकृति-भेद।",
+      "modern": "Joints.",
+      "category": "sharira",
+      "source_refs": [
+        "AH.sharira.3.16",
+        "SS.sharira.5"
+      ],
+      "related": [
+        "asthi",
+        "shleshaka-kapha",
+        "sandhi-marma",
+        "sandhi-grammar"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "snayu",
+      "devanagari": "स्नायु",
+      "iast": "snāyu",
+      "simple": "Snayu",
+      "en": "Ligaments and tendon-like binding structures; Suśruta counts 900 and compares them to the lashings that hold a boat together. Upadhātu of medas (Caraka).",
+      "hi": "स्नायु - शरीर को बाँधने वाली रचनाएँ; सुश्रुत: 900; नाव के बन्धन की तरह।",
+      "modern": "Often compared to ligaments, tendons and fascia (not nerves, despite modern Hindi usage).",
+      "category": "sharira",
+      "source_refs": [
+        "AH.sharira.3.17",
+        "SS.sharira.5"
+      ],
+      "related": [
+        "upadhatu",
+        "snayu-marma",
+        "kandara"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "peshi",
+      "devanagari": "पेशी",
+      "iast": "peśī",
+      "simple": "Peshi",
+      "en": "Muscles: Suśruta counts 500, with 20 extra in women (in breasts and genital region). They cover the bones, joints, vessels and snāyus.",
+      "hi": "पेशी - मांसपेशियाँ; सुश्रुत: 500, स्त्रियों में 20 अधिक।",
+      "modern": "Muscles.",
+      "category": "sharira",
+      "source_refs": [
+        "AH.sharira.3.17",
+        "AH.sharira.3.18",
+        "SS.sharira.5"
+      ],
+      "related": [
+        "mamsa-dhatu",
+        "mamsa-marma"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "sira",
+      "devanagari": "सिरा",
+      "iast": "sirā",
+      "simple": "Sira",
+      "en": "Vessels: 700 sirās arise from ten root vessels in the navel/heart region and spread like leaf veins. Suśruta classifies them by doṣa carried: vātavaha (aruṇa), pittavaha (nīla), kaphavaha (gaurī) and raktavaha (rohiṇī). Upadhātu of rakta (Caraka).",
+      "hi": "सिरा - 700 सिराएँ, दस मूल सिराओं से पत्ते की नसों जैसी फैली; वातवह, पित्तवह, कफवह, रक्तवह।",
+      "modern": "Often compared to veins and other vessels in general.",
+      "category": "sharira",
+      "source_refs": [
+        "AH.sharira.3.18",
+        "AH.sharira.3.19",
+        "AH.sharira.3.20",
+        "SS.sharira.7"
+      ],
+      "related": [
+        "dhamani",
+        "srotas",
+        "siravyadha",
+        "upadhatu"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "dhamani",
+      "devanagari": "धमनी",
+      "iast": "dhamanī",
+      "simple": "Dhamani",
+      "en": "Pulsating vessels (from 'dhmā', to blow): Suśruta describes 24 dhamanīs arising from the navel (10 upward, 10 downward, 4 oblique); Caraka names ten great vessels (mahāmūla) attached to the heart carrying ojas.",
+      "hi": "धमनी - स्पन्दन करने वाली नलिकाएँ; सुश्रुत: नाभि से 24; चरक: हृदय से जुड़ी 10 महामूला धमनियाँ।",
+      "modern": "Often compared to arteries, though classical dhamanīs also include nerve-like and other channels.",
+      "category": "sharira",
+      "source_refs": [
+        "SS.sharira.9",
+        "CS.sutra.30"
+      ],
+      "related": [
+        "sira",
+        "srotas",
+        "apara-ojas"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "srotas",
+      "devanagari": "स्रोतस्",
+      "iast": "srotas",
+      "simple": "Srotas",
+      "en": "Channels of transport and transformation (from 'sru', to flow), each named for what it carries. Caraka lists 13 (plus manovaha implied); Suśruta lists 11 pairs (22). Each has a mūla (root). Signs of vitiation: atipravṛtti, saṅga, sirāgranthi, vimārgagamana.",
+      "hi": "स्रोतस् - वहन करने वाले मार्ग ('स्रु' = बहना); चरक: 13, सुश्रुत: 11 जोड़े (22); प्रत्येक का मूल; दुष्टि के चार लक्षण।",
+      "modern": "Often compared to physiological transport systems from vessels and ducts down to cell-membrane pathways.",
+      "category": "sharira",
+      "source_refs": [
+        "CS.vimana.5",
+        "SS.sharira.9",
+        "AH.sharira.3.41",
+        "AH.sharira.3.42",
+        "AH.sharira.3.43"
+      ],
+      "related": [
+        "srotodushti",
+        "pranavaha-srotas",
+        "annavaha-srotas",
+        "sira",
+        "dhamani"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "pranavaha-srotas",
+      "devanagari": "प्राणवह स्रोतस्",
+      "iast": "prāṇavaha srotas",
+      "simple": "Pranavaha Srotas",
+      "en": "One of Caraka's thirteen srotas (CS.vimana.5). Carries prāṇa (breath/life). Mūla per Caraka: hṛdaya and mahāsrotas; per Suśruta: hṛdaya and rasavāhinī dhamanīs. Vitiation causes abnormal breathing.",
+      "hi": "चरक के 13 स्रोतों में एक। प्राणवह - मूल: हृदय, महास्रोतस् (चरक)।",
+      "modern": "Often compared to the respiratory system.",
+      "category": "sharira",
+      "source_refs": [
+        "CS.vimana.5",
+        "SS.sharira.9"
+      ],
+      "related": [
+        "srotas",
+        "prana-vayu",
+        "shvasa"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "udakavaha-srotas",
+      "devanagari": "उदकवह स्रोतस्",
+      "iast": "udakavaha srotas",
+      "simple": "Udakavaha Srotas",
+      "en": "One of Caraka's thirteen srotas (CS.vimana.5). Carries water/fluids. Mūla: tālu (palate) and kloma. Vitiation causes dryness of mouth and excessive thirst.",
+      "hi": "चरक के 13 स्रोतों में एक। उदकवह - मूल: तालु, क्लोम।",
+      "modern": "Often compared to fluid balance and thirst regulation.",
+      "category": "sharira",
+      "source_refs": [
+        "CS.vimana.5",
+        "SS.sharira.9"
+      ],
+      "related": [
+        "srotas",
+        "kloma",
+        "trishna"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "annavaha-srotas",
+      "devanagari": "अन्नवह स्रोतस्",
+      "iast": "annavaha srotas",
+      "simple": "Annavaha Srotas",
+      "en": "One of Caraka's thirteen srotas (CS.vimana.5). Carries food. Mūla per Caraka: āmāśaya and vāma pārśva (left side); per Suśruta: āmāśaya and annavāhinī dhamanīs. Vitiation causes anorexia, indigestion and vomiting.",
+      "hi": "चरक के 13 स्रोतों में एक। अन्नवह - मूल: आमाशय, वाम पार्श्व।",
+      "modern": "Often compared to the upper digestive tract.",
+      "category": "sharira",
+      "source_refs": [
+        "CS.vimana.5",
+        "SS.sharira.9"
+      ],
+      "related": [
+        "srotas",
+        "amashaya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "rasavaha-srotas",
+      "devanagari": "रसवह स्रोतस्",
+      "iast": "rasavaha srotas",
+      "simple": "Rasavaha Srotas",
+      "en": "One of Caraka's thirteen srotas (CS.vimana.5). Carries rasa dhātu. Mūla: hṛdaya and the ten dhamanīs (Caraka); Suśruta: hṛdaya and rasavāhinī dhamanīs.",
+      "hi": "चरक के 13 स्रोतों में एक। रसवह - मूल: हृदय, दस धमनियाँ।",
+      "modern": "Often compared to the lymphatic/circulatory transport of plasma.",
+      "category": "sharira",
+      "source_refs": [
+        "CS.vimana.5",
+        "SS.sharira.9"
+      ],
+      "related": [
+        "srotas",
+        "rasa-dhatu",
+        "hridaya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "raktavaha-srotas",
+      "devanagari": "रक्तवह स्रोतस्",
+      "iast": "raktavaha srotas",
+      "simple": "Raktavaha Srotas",
+      "en": "One of Caraka's thirteen srotas (CS.vimana.5). Carries rakta. Mūla: yakṛt (liver) and plīhā (spleen).",
+      "hi": "चरक के 13 स्रोतों में एक। रक्तवह - मूल: यकृत, प्लीहा।",
+      "modern": "Often compared to haemopoietic and blood-circulating structures.",
+      "category": "sharira",
+      "source_refs": [
+        "CS.vimana.5",
+        "SS.sharira.9"
+      ],
+      "related": [
+        "srotas",
+        "rakta-dhatu",
+        "yakrit",
+        "pliha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "mamsavaha-srotas",
+      "devanagari": "मांसवह स्रोतस्",
+      "iast": "māṃsavaha srotas",
+      "simple": "Mamsavaha Srotas",
+      "en": "One of Caraka's thirteen srotas (CS.vimana.5). Carries/nourishes māṃsa. Mūla: snāyu and tvak (Caraka); Suśruta adds raktavāhinī dhamanīs.",
+      "hi": "चरक के 13 स्रोतों में एक। मांसवह - मूल: स्नायु, त्वक्।",
+      "modern": "",
+      "category": "sharira",
+      "source_refs": [
+        "CS.vimana.5",
+        "SS.sharira.9"
+      ],
+      "related": [
+        "srotas",
+        "mamsa-dhatu"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "medovaha-srotas",
+      "devanagari": "मेदोवह स्रोतस्",
+      "iast": "medovaha srotas",
+      "simple": "Medovaha Srotas",
+      "en": "One of Caraka's thirteen srotas (CS.vimana.5). Carries/nourishes medas. Mūla: vṛkka (kidneys) and vapāvahana (omentum) per Caraka; kaṭi and vṛkka per Suśruta.",
+      "hi": "चरक के 13 स्रोतों में एक। मेदोवह - मूल: वृक्क, वपावहन (चरक)।",
+      "modern": "",
+      "category": "sharira",
+      "source_refs": [
+        "CS.vimana.5",
+        "SS.sharira.9"
+      ],
+      "related": [
+        "srotas",
+        "meda-dhatu",
+        "vrikka"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "asthivaha-srotas",
+      "devanagari": "अस्थिवह स्रोतस्",
+      "iast": "asthivaha srotas",
+      "simple": "Asthivaha Srotas",
+      "en": "One of Caraka's thirteen srotas (CS.vimana.5). Nourishes asthi. Mūla: medas and jaghana (hip region). Not in Suśruta's list.",
+      "hi": "चरक के 13 स्रोतों में एक। अस्थिवह - मूल: मेद, जघन।",
+      "modern": "",
+      "category": "sharira",
+      "source_refs": [
+        "CS.vimana.5"
+      ],
+      "related": [
+        "srotas",
+        "asthi-dhatu"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "majjavaha-srotas",
+      "devanagari": "मज्जवह स्रोतस्",
+      "iast": "majjavaha srotas",
+      "simple": "Majjavaha Srotas",
+      "en": "One of Caraka's thirteen srotas (CS.vimana.5). Nourishes majjā. Mūla: asthi (bones) and sandhi (joints). Not in Suśruta's list.",
+      "hi": "चरक के 13 स्रोतों में एक। मज्जवह - मूल: अस्थि, सन्धि।",
+      "modern": "",
+      "category": "sharira",
+      "source_refs": [
+        "CS.vimana.5"
+      ],
+      "related": [
+        "srotas",
+        "majja-dhatu"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "shukravaha-srotas",
+      "devanagari": "शुक्रवह स्रोतस्",
+      "iast": "śukravaha srotas",
+      "simple": "Shukravaha Srotas",
+      "en": "One of Caraka's thirteen srotas (CS.vimana.5). Carries śukra. Mūla: vṛṣaṇa (testes) and śepha (penis) per Caraka; stana and vṛṣaṇa per Suśruta.",
+      "hi": "चरक के 13 स्रोतों में एक। शुक्रवह - मूल: वृषण, शेफ (चरक)।",
+      "modern": "Often compared to the male reproductive tract.",
+      "category": "sharira",
+      "source_refs": [
+        "CS.vimana.5",
+        "SS.sharira.9"
+      ],
+      "related": [
+        "srotas",
+        "shukra-dhatu"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "mutravaha-srotas",
+      "devanagari": "मूत्रवह स्रोतस्",
+      "iast": "mūtravaha srotas",
+      "simple": "Mutravaha Srotas",
+      "en": "One of Caraka's thirteen srotas (CS.vimana.5). Carries urine. Mūla: basti (bladder) and vaṅkṣaṇa (groin) per Caraka; basti and meḍhra per Suśruta.",
+      "hi": "चरक के 13 स्रोतों में एक। मूत्रवह - मूल: बस्ति, वङ्क्षण (चरक)।",
+      "modern": "Often compared to the urinary tract.",
+      "category": "sharira",
+      "source_refs": [
+        "CS.vimana.5",
+        "SS.sharira.9"
+      ],
+      "related": [
+        "srotas",
+        "mutra",
+        "basti"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "purishavaha-srotas",
+      "devanagari": "पुरीषवह स्रोतस्",
+      "iast": "purīṣavaha srotas",
+      "simple": "Purishavaha Srotas",
+      "en": "One of Caraka's thirteen srotas (CS.vimana.5). Carries faeces. Mūla: pakvāśaya and sthūlaguda (rectum) per Caraka; pakvāśaya and guda per Suśruta.",
+      "hi": "चरक के 13 स्रोतों में एक। पुरीषवह - मूल: पक्वाशय, स्थूलगुद।",
+      "modern": "Often compared to the colon and rectum.",
+      "category": "sharira",
+      "source_refs": [
+        "CS.vimana.5",
+        "SS.sharira.9"
+      ],
+      "related": [
+        "srotas",
+        "purisha",
+        "pakvashaya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "svedavaha-srotas",
+      "devanagari": "स्वेदवह स्रोतस्",
+      "iast": "svedavaha srotas",
+      "simple": "Svedavaha Srotas",
+      "en": "One of Caraka's thirteen srotas (CS.vimana.5). Carries sweat. Mūla: medas and lomakūpa (hair follicles). Not in Suśruta's list.",
+      "hi": "चरक के 13 स्रोतों में एक। स्वेदवह - मूल: मेद, लोमकूप।",
+      "modern": "Often compared to sweat glands and ducts.",
+      "category": "sharira",
+      "source_refs": [
+        "CS.vimana.5"
+      ],
+      "related": [
+        "srotas",
+        "sveda"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "artavavaha-srotas",
+      "devanagari": "आर्तववह स्रोतस्",
+      "iast": "ārtavavaha srotas",
+      "simple": "Artavavaha Srotas",
+      "en": "Suśruta's channel carrying ārtava, with mūla in garbhāśaya (uterus) and ārtavavāhinī dhamanīs; not in Caraka's list of thirteen.",
+      "hi": "आर्तववह स्रोतस् - सुश्रुत; मूल: गर्भाशय, आर्तववाहिनी धमनियाँ।",
+      "modern": "Often compared to the female reproductive tract.",
+      "category": "sharira",
+      "source_refs": [
+        "SS.sharira.9"
+      ],
+      "related": [
+        "srotas",
+        "artava",
+        "garbhashaya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "manovaha-srotas",
+      "devanagari": "मनोवह स्रोतस्",
+      "iast": "manovaha srotas",
+      "simple": "Manovaha Srotas",
+      "en": "Channels of the mind, mentioned by Caraka in the context of unmāda and apasmāra; not counted among the thirteen. Commentators place them in the whole body with the heart as seat.",
+      "hi": "मनोवह स्रोतस् - मन के मार्ग; चरक ने उन्माद-अपस्मार में उल्लेख किया।",
+      "modern": "Loosely compared to neural pathways of mental function.",
+      "category": "sharira",
+      "source_refs": [
+        "CS.chikitsa.9"
+      ],
+      "related": [
+        "srotas",
+        "manas",
+        "unmada"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "srotodushti",
+      "devanagari": "स्रोतोदुष्टि",
+      "iast": "srotoduṣṭi",
+      "simple": "Srotodushti",
+      "en": "Four signs of vitiated channels: atipravṛtti (excess flow), saṅga (obstruction), sirāgranthi (nodular dilatation) and vimārgagamana (flow in the wrong path).",
+      "hi": "स्रोतोदुष्टि - चार लक्षण: अतिप्रवृत्ति, सङ्ग, सिराग्रन्थि, विमार्गगमन।",
+      "modern": "Comparable to hypersecretion, obstruction, varicosity/tumour-like swelling and reflux/extravasation.",
+      "category": "sharira",
+      "source_refs": [
+        "CS.vimana.5",
+        "AH.sharira.3.45"
+      ],
+      "related": [
+        "srotas",
+        "samprapti-ghataka"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "kala-membrane",
+      "devanagari": "कला",
+      "iast": "kalā",
+      "simple": "Kala (Membrane)",
+      "en": "Membranes forming the boundary between dhātus and their āśayas, compared to the heartwood layer of a tree. Seven kalās: māṃsadharā, raktadharā, medodharā, śleṣmadharā, purīṣadharā, pittadharā and śukradharā (Suśruta). Also kalā means a unit of time.",
+      "hi": "कला - धातु और आशय के बीच की झिल्ली; सात कलाएँ: मांसधरा, रक्तधरा, मेदोधरा, श्लेष्मधरा, पुरीषधरा, पित्तधरा, शुक्रधरा।",
+      "modern": "Often compared to membranes and epithelial/serous linings (e.g. pittadharā to the small-intestinal mucosa).",
+      "category": "sharira",
+      "source_refs": [
+        "SS.sharira.4",
+        "AH.sharira.3.9",
+        "AH.sharira.3.10"
+      ],
+      "related": [
+        "ashaya",
+        "pittadhara-kala",
+        "grahani"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "pittadhara-kala",
+      "devanagari": "पित्तधरा कला",
+      "iast": "pittadharā kalā",
+      "simple": "Pittadhara Kala",
+      "en": "Sixth kalā, located between āmāśaya and pakvāśaya; it holds the four kinds of food and is identified with grahaṇī by Suśruta.",
+      "hi": "पित्तधरा कला - छठी कला; आमाशय-पक्वाशय के बीच; ग्रहणी।",
+      "modern": "Often compared to the mucosa of the duodenum/small intestine.",
+      "category": "sharira",
+      "source_refs": [
+        "SS.sharira.4",
+        "SS.uttara.40"
+      ],
+      "related": [
+        "kala-membrane",
+        "grahani"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "ashaya",
+      "devanagari": "आशय",
+      "iast": "āśaya",
+      "simple": "Ashaya",
+      "en": "Receptacles/viscera that hold something: seven in men (vātāśaya, pittāśaya, śleṣmāśaya, raktāśaya, āmāśaya, pakvāśaya, mūtrāśaya), with an eighth, garbhāśaya, in women.",
+      "hi": "आशय - धारण करने वाले अंग; सात (वात, पित्त, श्लेष्म, रक्त, आम, पक्व, मूत्र आशय) + स्त्रियों में गर्भाशय।",
+      "modern": "Hollow organs/cavities.",
+      "category": "sharira",
+      "source_refs": [
+        "AH.sharira.3.10",
+        "AH.sharira.3.11",
+        "SS.sharira.5"
+      ],
+      "related": [
+        "amashaya",
+        "pakvashaya",
+        "garbhashaya",
+        "kala-membrane"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "koshtha-anatomy",
+      "devanagari": "कोष्ठ (शारीर)",
+      "iast": "koṣṭha",
+      "simple": "Koshtha (Trunk / Viscera)",
+      "en": "The trunk cavity and its contents, also the mahāsrotas (alimentary tract) from mouth to anus. Organs in it (koṣṭhāṅga) include hṛdaya, kloma, phupphusa, yakṛt, plīhā, uṇḍuka, vṛkka, nābhi, antra and basti. Distinct from koṣṭha as bowel nature.",
+      "hi": "कोष्ठ (शारीर) - धड़ की गुहा व महास्रोतस्; कोष्ठाङ्ग: हृदय, क्लोम, फुफ्फुस, यकृत, प्लीहा, उण्डुक, वृक्क, नाभि, आन्त्र, बस्ति।",
+      "modern": "Thoraco-abdominal cavity and gastrointestinal tract.",
+      "category": "sharira",
+      "source_refs": [
+        "AH.sharira.3.12",
+        "CS.sharira.7"
+      ],
+      "related": [
+        "koshtha",
+        "hridaya",
+        "yakrit",
+        "pliha",
+        "vrikka"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "tvak-skin",
+      "devanagari": "त्वचा",
+      "iast": "tvak / tvacā",
+      "simple": "Tvak (Skin)",
+      "en": "Skin. Suśruta describes seven layers (avabhāsinī, lohitā, śvetā, tāmrā, vedinī, rohiṇī, māṃsadharā); Caraka describes six. It forms from rakta during development like cream on boiling milk.",
+      "hi": "त्वचा - सुश्रुत: सात स्तर (अवभासिनी, लोहिता, श्वेता, ताम्रा, वेदिनी, रोहिणी, मांसधरा); चरक: छह।",
+      "modern": "Skin (epidermis and dermis layers); correlation of each classical layer is speculative.",
+      "category": "sharira",
+      "source_refs": [
+        "SS.sharira.4",
+        "CS.sharira.7",
+        "AH.sharira.3.8"
+      ],
+      "related": [
+        "bhrajaka-pitta",
+        "kushtha",
+        "upadhatu"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "kandara",
+      "devanagari": "कण्डरा",
+      "iast": "kaṇḍarā",
+      "simple": "Kandara",
+      "en": "Sixteen great snāyus (tendons) in the limbs, neck and back; upadhātu of rakta (Caraka).",
+      "hi": "कण्डरा - सोलह बड़ी स्नायुएँ (हाथ, पैर, गर्दन, पीठ); रक्त का उपधातु।",
+      "modern": "Often compared to large tendons (e.g. calcaneal tendon).",
+      "category": "sharira",
+      "source_refs": [
+        "AH.sharira.3.14",
+        "SS.sharira.5"
+      ],
+      "related": [
+        "snayu",
+        "upadhatu"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "shadanga",
+      "devanagari": "षडङ्ग",
+      "iast": "ṣaḍaṅga",
+      "simple": "Shadanga",
+      "en": "The six major parts of the body: head (with neck), trunk (antarādhi), two upper limbs and two lower limbs.",
+      "hi": "षडङ्ग - शरीर के छह अंग: शिर, अन्तराधि (धड़), दो बाहु, दो सक्थि।",
+      "modern": "",
+      "category": "sharira",
+      "source_refs": [
+        "AH.sharira.3.1",
+        "SS.sharira.5"
+      ],
+      "related": [
+        "pratyanga"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "pratyanga",
+      "devanagari": "प्रत्यङ्ग",
+      "iast": "pratyaṅga",
+      "simple": "Pratyanga",
+      "en": "Sub-parts of the body such as forehead, nose, chin, eyes, fingers, organs like heart and liver, etc.",
+      "hi": "प्रत्यङ्ग - उप-अंग जैसे ललाट, नासा, नेत्र, अंगुलि, हृदय आदि।",
+      "modern": "",
+      "category": "sharira",
+      "source_refs": [
+        "SS.sharira.5"
+      ],
+      "related": [
+        "shadanga"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "anguli-pramana",
+      "devanagari": "अङ्गुलि प्रमाण",
+      "iast": "aṅguli pramāṇa",
+      "simple": "Anguli Pramana",
+      "en": "Measurement of the body and its parts in units of the person's own finger-breadth (svāṅguli); an ideal body is 84 aṅgulas tall (Caraka; Suśruta gives 120).",
+      "hi": "अङ्गुलि प्रमाण - अपनी अंगुलि से शरीर का माप; आदर्श ऊँचाई 84 अंगुल (चरक), 120 (सुश्रुत)।",
+      "modern": "Comparable to proportional anthropometry.",
+      "category": "sharira",
+      "source_refs": [
+        "CS.vimana.8",
+        "SS.sutra.35"
+      ],
+      "related": [
+        "pramana-pariksha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "jivita-dhama",
+      "devanagari": "जीवितधाम",
+      "iast": "jīvitadhāma",
+      "simple": "Jivita Dhama",
+      "en": "Ten seats of life (daśa prāṇāyatana): head, tongue root (rasana-bandhana), throat, blood, heart, navel, bladder, śukra, ojas and anus.",
+      "hi": "जीवितधाम (दश प्राणायतन) - शिर, रसनाबन्धन, कण्ठ, रक्त, हृदय, नाभि, बस्ति, शुक्र, ओज, गुद।",
+      "modern": "",
+      "category": "sharira",
+      "source_refs": [
+        "AH.sharira.3.13",
+        "CS.sutra.29"
+      ],
+      "related": [
+        "marma",
+        "ojas"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "hridaya",
+      "devanagari": "हृदय",
+      "iast": "hṛdaya",
+      "simple": "Hridaya",
+      "en": "The heart: seat of consciousness (cetanā), ojas, sādhaka pitta, avalambaka kapha and vyāna vāyu; root of rasavaha and prāṇavaha srotas; one of the trimarmas and a sadyaḥ-prāṇahara sirā marma. Described as shaped like an inverted lotus bud.",
+      "hi": "हृदय - चेतना, ओज का स्थान; रसवह व प्राणवह स्रोतस् का मूल; त्रिमर्म में एक; अधोमुख कमल-कलिका जैसा।",
+      "modern": "Heart; classical texts also attribute mental functions to it.",
+      "category": "sharira",
+      "source_refs": [
+        "CS.sutra.30",
+        "SS.sharira.4",
+        "SS.sharira.6"
+      ],
+      "related": [
+        "ojas",
+        "trimarma",
+        "rasavaha-srotas",
+        "sadhaka-pitta"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "kloma",
+      "devanagari": "क्लोम",
+      "iast": "kloma",
+      "simple": "Kloma",
+      "en": "An organ named as a root of udakavaha srotas and a seat of kapha; its identity is disputed (pancreas, gall bladder, right lung, trachea and others have been proposed).",
+      "hi": "क्लोम - उदकवह स्रोतस् का मूल; पहचान विवादित (अग्न्याशय, पित्ताशय आदि)।",
+      "modern": "Identity disputed; often compared to the pancreas, but there is no consensus.",
+      "category": "sharira",
+      "source_refs": [
+        "AH.sharira.3.12",
+        "CS.vimana.5"
+      ],
+      "related": [
+        "udakavaha-srotas",
+        "koshtha-anatomy"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "phupphusa",
+      "devanagari": "फुफ्फुस",
+      "iast": "phupphusa",
+      "simple": "Phupphusa",
+      "en": "The lungs; formed from the froth (phena) of blood during foetal development, located to the left of the heart (Suśruta).",
+      "hi": "फुफ्फुस - फेफड़े; गर्भ में रक्त के फेन से बनते हैं।",
+      "modern": "Lungs.",
+      "category": "sharira",
+      "source_refs": [
+        "AH.sharira.3.12",
+        "SS.sharira.4"
+      ],
+      "related": [
+        "koshtha-anatomy",
+        "pranavaha-srotas"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "yakrit",
+      "devanagari": "यकृत्",
+      "iast": "yakṛt",
+      "simple": "Yakrit",
+      "en": "The liver, located on the right side below the heart; formed from rakta during development; root of raktavaha srotas and seat of rañjaka pitta (Suśruta).",
+      "hi": "यकृत् - जिगर; दक्षिण भाग में; रक्तवह स्रोतस् का मूल; रञ्जक पित्त का स्थान (सुश्रुत)।",
+      "modern": "Liver.",
+      "category": "sharira",
+      "source_refs": [
+        "AH.sharira.3.12",
+        "SS.sharira.4",
+        "CS.vimana.5"
+      ],
+      "related": [
+        "pliha",
+        "raktavaha-srotas",
+        "ranjaka-pitta"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "pliha",
+      "devanagari": "प्लीहा",
+      "iast": "plīhā",
+      "simple": "Pliha",
+      "en": "The spleen, on the left side below the heart; formed from rakta; root of raktavaha srotas.",
+      "hi": "प्लीहा (तिल्ली) - वाम भाग में; रक्तवह स्रोतस् का मूल।",
+      "modern": "Spleen.",
+      "category": "sharira",
+      "source_refs": [
+        "AH.sharira.3.12",
+        "SS.sharira.4"
+      ],
+      "related": [
+        "yakrit",
+        "raktavaha-srotas"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "unduka",
+      "devanagari": "उण्डुक",
+      "iast": "uṇḍuka",
+      "simple": "Unduka",
+      "en": "A koṣṭhāṅga where faeces collect; Suśruta says it forms from the essence of blood and kapha.",
+      "hi": "उण्डुक - कोष्ठाङ्ग जहाँ मल एकत्र होता है।",
+      "modern": "Often compared to the caecum (with the appendix).",
+      "category": "sharira",
+      "source_refs": [
+        "AH.sharira.3.12",
+        "SS.sharira.4"
+      ],
+      "related": [
+        "koshtha-anatomy",
+        "pakvashaya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "vrikka",
+      "devanagari": "वृक्क",
+      "iast": "vṛkka",
+      "simple": "Vrikka",
+      "en": "The two kidneys, formed from the essence of rakta and medas; root of medovaha srotas (Caraka).",
+      "hi": "वृक्क - दो गुर्दे; रक्त-मेद के सार से बने; मेदोवह स्रोतस् का मूल।",
+      "modern": "Kidneys.",
+      "category": "sharira",
+      "source_refs": [
+        "AH.sharira.3.12",
+        "SS.sharira.4",
+        "CS.vimana.5"
+      ],
+      "related": [
+        "medovaha-srotas",
+        "basti"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "antra",
+      "devanagari": "आन्त्र",
+      "iast": "āntra",
+      "simple": "Antra",
+      "en": "Intestines; Suśruta gives their length as 3.5 vyāmas in men and 3 in women.",
+      "hi": "आन्त्र - आँतें; सुश्रुत: पुरुष में 3.5 व्याम, स्त्री में 3 व्याम।",
+      "modern": "Intestines.",
+      "category": "sharira",
+      "source_refs": [
+        "AH.sharira.3.12",
+        "SS.sharira.5"
+      ],
+      "related": [
+        "koshtha-anatomy",
+        "grahani",
+        "pakvashaya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "basti",
+      "devanagari": "बस्ति",
+      "iast": "basti",
+      "simple": "Basti (Bladder)",
+      "en": "Urinary bladder, root of mūtravaha srotas and one of the trimarmas (a sadyaḥ-prāṇahara snāyu marma). The same word denotes the enema therapy (basti karma), named after the animal bladder used as its bag.",
+      "hi": "बस्ति - मूत्राशय; मूत्रवह स्रोतस् का मूल; त्रिमर्म में एक। (बस्ति चिकित्सा भी)",
+      "modern": "Urinary bladder.",
+      "category": "sharira",
+      "source_refs": [
+        "SS.nidana.3",
+        "CS.siddhi.9"
+      ],
+      "related": [
+        "mutravaha-srotas",
+        "trimarma",
+        "basti-karma"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "amashaya",
+      "devanagari": "आमाशय",
+      "iast": "āmāśaya",
+      "simple": "Amashaya",
+      "en": "The receptacle of unripe (undigested) food, located between the navel and nipples; seat of kledaka and avalambaka kapha and of āma; root of annavaha srotas.",
+      "hi": "आमाशय - अपक्व अन्न का आशय; नाभि-स्तन के बीच; कफ का स्थान; अन्नवह स्रोतस् का मूल।",
+      "modern": "Often compared to the stomach (and upper small intestine).",
+      "category": "sharira",
+      "source_refs": [
+        "AH.sharira.3.11",
+        "AH.sharira.3.57"
+      ],
+      "related": [
+        "annavaha-srotas",
+        "ashaya",
+        "pakvashaya",
+        "kledaka-kapha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "pakvashaya",
+      "devanagari": "पक्वाशय",
+      "iast": "pakvāśaya",
+      "simple": "Pakvashaya",
+      "en": "Receptacle of digested food and the chief seat of vāta; root of purīṣavaha srotas.",
+      "hi": "पक्वाशय - पचे अन्न का आशय; वात का मुख्य स्थान; पुरीषवह स्रोतस् का मूल।",
+      "modern": "Often compared to the large intestine (colon).",
+      "category": "sharira",
+      "source_refs": [
+        "AH.sutra.12.1",
+        "AH.sharira.3.58"
+      ],
+      "related": [
+        "amashaya",
+        "purishavaha-srotas",
+        "vata"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "grahani",
+      "devanagari": "ग्रहणी",
+      "iast": "grahaṇī",
+      "simple": "Grahani (organ)",
+      "en": "The organ that 'holds' (grahaṇa) food until it is digested, situated at the door of the pakvāśaya, above the navel; the seat of agni (it is supported by agni and agni depends on it). Its weakness causes grahaṇī roga.",
+      "hi": "ग्रहणी - अन्न को पचने तक धारण करने वाला अंग; पक्वाशय-द्वार पर; अग्नि का अधिष्ठान।",
+      "modern": "Often compared to the duodenum and small intestine.",
+      "category": "sharira",
+      "source_refs": [
+        "AH.sharira.3.51",
+        "AH.sharira.3.52",
+        "AH.sharira.3.53",
+        "CS.chikitsa.15"
+      ],
+      "related": [
+        "jatharagni",
+        "grahani-roga",
+        "pittadhara-kala"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "guda",
+      "devanagari": "गुद",
+      "iast": "guda",
+      "simple": "Guda",
+      "en": "Anus and rectum: 4.5 aṅgulas long with three folds (valis) named pravāhaṇī, visarjanī and saṃvaraṇī (Suśruta); a sadyaḥ-prāṇahara māṃsa marma and one of the ten seats of life.",
+      "hi": "गुद - गुदा-मलाशय; तीन वलियाँ: प्रवाहणी, विसर्जनी, संवरणी; सद्यःप्राणहर मर्म।",
+      "modern": "Anal canal and rectum.",
+      "category": "sharira",
+      "source_refs": [
+        "SS.nidana.2",
+        "AH.sharira.3.13"
+      ],
+      "related": [
+        "arsha",
+        "bhagandara",
+        "purishavaha-srotas"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "nabhi",
+      "devanagari": "नाभि",
+      "iast": "nābhi",
+      "simple": "Nabhi",
+      "en": "Navel/central abdomen: chief seat of pitta, origin of the 24 dhamanīs (Suśruta), a seat of life and a sadyaḥ-prāṇahara sirā marma.",
+      "hi": "नाभि - पित्त का मुख्य स्थान; 24 धमनियों का उद्गम; सद्यःप्राणहर मर्म।",
+      "modern": "Umbilical region.",
+      "category": "sharira",
+      "source_refs": [
+        "AH.sutra.12.2",
+        "SS.sharira.9"
+      ],
+      "related": [
+        "pitta",
+        "dhamani",
+        "jivita-dhama"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "mastulunga",
+      "devanagari": "मस्तुलुङ्ग",
+      "iast": "mastuluṅga",
+      "simple": "Mastulunga",
+      "en": "Brain matter, described as ghee-like substance in the skull; also called mastiṣka.",
+      "hi": "मस्तुलुङ्ग (मस्तिष्क) - खोपड़ी में घृत जैसा पदार्थ।",
+      "modern": "Brain tissue.",
+      "category": "sharira",
+      "source_refs": [
+        "CS.sharira.7"
+      ],
+      "related": [
+        "majja-dhatu",
+        "shiras"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "shiras",
+      "devanagari": "शिरस्",
+      "iast": "śiras",
+      "simple": "Shiras",
+      "en": "The head, called uttamāṅga (best part), where prāṇa and all senses reside; one of the trimarmas. (Not to be confused with sirā, vessel.)",
+      "hi": "शिरस् - सिर; उत्तमाङ्ग; प्राण और सभी इन्द्रियों का आश्रय; त्रिमर्म में एक। (सिरा से भिन्न)",
+      "modern": "Head.",
+      "category": "sharira",
+      "source_refs": [
+        "CS.siddhi.9"
+      ],
+      "related": [
+        "trimarma",
+        "tarpaka-kapha",
+        "prana-vayu"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "marma",
+      "devanagari": "मर्म",
+      "iast": "marma",
+      "simple": "Marma",
+      "en": "Vital points where māṃsa, sirā, snāyu, asthi and sandhi meet and prāṇa specially resides; injury causes death or disability. Suśruta and Vāgbhaṭa count 107: 44 in the limbs (11 each), 26 in the trunk and 37 above the clavicle.",
+      "hi": "मर्म - जहाँ मांस, सिरा, स्नायु, अस्थि, सन्धि मिलते हैं और प्राण विशेष रूप से रहता है; 107 मर्म।",
+      "modern": "Often compared to anatomically vulnerable sites (major vessels, nerves, joints); not the same as acupuncture points.",
+      "category": "sharira",
+      "source_refs": [
+        "SS.sharira.6",
+        "AH.sharira.4.1",
+        "AH.sharira.4.2"
+      ],
+      "related": [
+        "trimarma",
+        "sadyah-pranahara",
+        "kalantara-pranahara",
+        "vishalyaghna",
+        "vaikalyakara",
+        "rujakara",
+        "mamsa-marma"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "trimarma",
+      "devanagari": "त्रिमर्म",
+      "iast": "trimarma",
+      "simple": "Trimarma",
+      "en": "The three principal marmas: śiras (head), hṛdaya (heart) and basti (bladder); Caraka devotes a chapter to their protection and diseases.",
+      "hi": "त्रिमर्म - तीन प्रधान मर्म: शिर, हृदय, बस्ति।",
+      "modern": "",
+      "category": "sharira",
+      "source_refs": [
+        "CS.siddhi.9",
+        "CS.chikitsa.26"
+      ],
+      "related": [
+        "marma",
+        "shiras",
+        "hridaya",
+        "basti"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "mamsa-marma",
+      "devanagari": "मांस मर्म",
+      "iast": "māṃsa marma",
+      "simple": "Mamsa Marma",
+      "en": "Marmas where muscle predominates; Suśruta counts 11 (e.g. talahṛdaya, indrabasti, guda, stanarohita).",
+      "hi": "मांस मर्म - मांस प्रधान; सुश्रुत: 11 (तलहृदय, इन्द्रबस्ति, गुद आदि)।",
+      "modern": "",
+      "category": "sharira",
+      "source_refs": [
+        "SS.sharira.6"
+      ],
+      "related": [
+        "marma",
+        "talahridaya",
+        "indrabasti"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "sira-marma",
+      "devanagari": "सिरा मर्म",
+      "iast": "sirā marma",
+      "simple": "Sira Marma",
+      "en": "Marmas where vessels predominate; Suśruta counts 41 (e.g. hṛdaya, nābhi, śṛṅgāṭaka, sthapanī). Vāgbhaṭa counts 37 and adds 9 dhamanī marmas.",
+      "hi": "सिरा मर्म - सिरा प्रधान; सुश्रुत: 41 (हृदय, नाभि, शृङ्गाटक, स्थपनी आदि)।",
+      "modern": "",
+      "category": "sharira",
+      "source_refs": [
+        "SS.sharira.6",
+        "AH.sharira.4"
+      ],
+      "related": [
+        "marma",
+        "sira"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "snayu-marma",
+      "devanagari": "स्नायु मर्म",
+      "iast": "snāyu marma",
+      "simple": "Snayu Marma",
+      "en": "Marmas where snāyu predominates; Suśruta counts 27 (e.g. kṣipra, basti, utkṣepa).",
+      "hi": "स्नायु मर्म - स्नायु प्रधान; सुश्रुत: 27 (क्षिप्र, बस्ति, उत्क्षेप आदि)।",
+      "modern": "",
+      "category": "sharira",
+      "source_refs": [
+        "SS.sharira.6"
+      ],
+      "related": [
+        "marma",
+        "snayu",
+        "kshipra"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "asthi-marma",
+      "devanagari": "अस्थि मर्म",
+      "iast": "asthi marma",
+      "simple": "Asthi Marma",
+      "en": "Marmas where bone predominates; 8 in number (e.g. śaṅkha, kaṭīkataruṇa).",
+      "hi": "अस्थि मर्म - अस्थि प्रधान; 8 (शङ्ख आदि)।",
+      "modern": "",
+      "category": "sharira",
+      "source_refs": [
+        "SS.sharira.6"
+      ],
+      "related": [
+        "marma",
+        "asthi",
+        "shankha-marma"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "sandhi-marma",
+      "devanagari": "सन्धि मर्म",
+      "iast": "sandhi marma",
+      "simple": "Sandhi Marma",
+      "en": "Marmas at joints; 20 in number (e.g. jānu, kūrpara, gulpha, maṇibandha, adhipati).",
+      "hi": "सन्धि मर्म - सन्धि प्रधान; 20 (जानु, कूर्पर, गुल्फ, मणिबन्ध, अधिपति आदि)।",
+      "modern": "",
+      "category": "sharira",
+      "source_refs": [
+        "SS.sharira.6"
+      ],
+      "related": [
+        "marma",
+        "sandhi-joint",
+        "janu-marma",
+        "adhipati"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "sadyah-pranahara",
+      "devanagari": "सद्यःप्राणहर",
+      "iast": "sadyaḥprāṇahara",
+      "simple": "Sadyah Pranahara Marma",
+      "en": "Marmas whose injury causes immediate death; 19 in number (e.g. śṛṅgāṭaka, adhipati, śaṅkha, hṛdaya, nābhi, basti, guda). Predominantly āgneya.",
+      "hi": "सद्यःप्राणहर मर्म - आघात से तुरन्त मृत्यु; 19 (हृदय, नाभि, बस्ति, गुद, शङ्ख, अधिपति आदि)।",
+      "modern": "",
+      "category": "sharira",
+      "source_refs": [
+        "SS.sharira.6"
+      ],
+      "related": [
+        "marma",
+        "kalantara-pranahara"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "kalantara-pranahara",
+      "devanagari": "कालान्तरप्राणहर",
+      "iast": "kālāntaraprāṇahara",
+      "simple": "Kalantara Pranahara Marma",
+      "en": "Marmas whose injury causes death after some time; 33 in number (e.g. kṣipra, talahṛdaya, indrabasti). Saumya and āgneya in nature.",
+      "hi": "कालान्तरप्राणहर मर्म - कुछ समय बाद मृत्यु; 33 (क्षिप्र, तलहृदय, इन्द्रबस्ति आदि)।",
+      "modern": "",
+      "category": "sharira",
+      "source_refs": [
+        "SS.sharira.6"
+      ],
+      "related": [
+        "marma",
+        "sadyah-pranahara"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "vishalyaghna",
+      "devanagari": "विशल्यघ्न",
+      "iast": "viśalyaghna",
+      "simple": "Vishalyaghna Marma",
+      "en": "Marmas where death follows only when the embedded foreign body (śalya) is removed; 3 in number (two utkṣepa and one sthapanī). Vāyavya in nature.",
+      "hi": "विशल्यघ्न मर्म - शल्य निकालने पर मृत्यु; 3 (दो उत्क्षेप, एक स्थपनी)।",
+      "modern": "",
+      "category": "sharira",
+      "source_refs": [
+        "SS.sharira.6"
+      ],
+      "related": [
+        "marma",
+        "shalya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "vaikalyakara",
+      "devanagari": "वैकल्यकर",
+      "iast": "vaikalyakara",
+      "simple": "Vaikalyakara Marma",
+      "en": "Marmas whose injury causes deformity or disability; 44 in number (e.g. jānu, kūrpara, nīlā, manyā). Saumya in nature.",
+      "hi": "वैकल्यकर मर्म - विकलाङ्गता करने वाले; 44 (जानु, कूर्पर आदि)।",
+      "modern": "",
+      "category": "sharira",
+      "source_refs": [
+        "SS.sharira.6"
+      ],
+      "related": [
+        "marma",
+        "janu-marma"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "rujakara",
+      "devanagari": "रुजाकर",
+      "iast": "rujākara",
+      "simple": "Rujakara Marma",
+      "en": "Marmas whose injury causes severe pain; 8 in number (gulpha, maṇibandha and kūrca-śiras on each side). Āgneya and vāyavya in nature.",
+      "hi": "रुजाकर मर्म - तीव्र वेदना करने वाले; 8 (गुल्फ, मणिबन्ध, कूर्चशिर)।",
+      "modern": "",
+      "category": "sharira",
+      "source_refs": [
+        "SS.sharira.6"
+      ],
+      "related": [
+        "marma"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "kshipra",
+      "devanagari": "क्षिप्र",
+      "iast": "kṣipra",
+      "simple": "Kshipra Marma",
+      "en": "Snāyu marma between the great toe/thumb and the second digit; kālāntara-prāṇahara, injury causes death by convulsions (ākṣepaka).",
+      "hi": "क्षिप्र मर्म - अंगूठे और तर्जनी के बीच; स्नायु मर्म; आक्षेपक से मृत्यु।",
+      "modern": "",
+      "category": "sharira",
+      "source_refs": [
+        "AH.sharira.4.3",
+        "SS.sharira.6"
+      ],
+      "related": [
+        "marma",
+        "snayu-marma"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "talahridaya",
+      "devanagari": "तलहृदय",
+      "iast": "talahṛdaya",
+      "simple": "Talahridaya Marma",
+      "en": "Māṃsa marma in the centre of the sole/palm in line with the middle digit; kālāntara-prāṇahara, injury causes death through pain.",
+      "hi": "तलहृदय मर्म - तलवे/हथेली के मध्य; मांस मर्म; वेदना से मृत्यु।",
+      "modern": "",
+      "category": "sharira",
+      "source_refs": [
+        "AH.sharira.4.2",
+        "AH.sharira.4.3",
+        "SS.sharira.6"
+      ],
+      "related": [
+        "marma",
+        "mamsa-marma"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "indrabasti",
+      "devanagari": "इन्द्रबस्ति",
+      "iast": "indrabasti",
+      "simple": "Indrabasti Marma",
+      "en": "Māṃsa marma in the middle of the calf (and forearm); kālāntara-prāṇahara, injury causes death from blood loss.",
+      "hi": "इन्द्रबस्ति मर्म - पिंडली के मध्य; रक्तक्षय से मृत्यु।",
+      "modern": "",
+      "category": "sharira",
+      "source_refs": [
+        "AH.sharira.4.5",
+        "SS.sharira.6"
+      ],
+      "related": [
+        "marma",
+        "mamsa-marma"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "janu-marma",
+      "devanagari": "जानु",
+      "iast": "jānu",
+      "simple": "Janu Marma",
+      "en": "Sandhi marma at the knee; vaikalyakara, injury causes lameness.",
+      "hi": "जानु मर्म - घुटना; सन्धि मर्म; लंगड़ापन।",
+      "modern": "",
+      "category": "sharira",
+      "source_refs": [
+        "AH.sharira.4.6",
+        "SS.sharira.6"
+      ],
+      "related": [
+        "marma",
+        "sandhi-marma",
+        "vaikalyakara"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "adhipati",
+      "devanagari": "अधिपति",
+      "iast": "adhipati",
+      "simple": "Adhipati Marma",
+      "en": "Sandhi marma at the crown of the head (vertex); sadyaḥ-prāṇahara.",
+      "hi": "अधिपति मर्म - सिर के शीर्ष पर; सद्यःप्राणहर।",
+      "modern": "",
+      "category": "sharira",
+      "source_refs": [
+        "SS.sharira.6"
+      ],
+      "related": [
+        "marma",
+        "sadyah-pranahara"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "shankha-marma",
+      "devanagari": "शङ्ख",
+      "iast": "śaṅkha",
+      "simple": "Shankha Marma",
+      "en": "Asthi marma at the temples; sadyaḥ-prāṇahara.",
+      "hi": "शङ्ख मर्म - कनपटी; अस्थि मर्म; सद्यःप्राणहर।",
+      "modern": "Temporal region (pterion area).",
+      "category": "sharira",
+      "source_refs": [
+        "SS.sharira.6"
+      ],
+      "related": [
+        "marma",
+        "asthi-marma",
+        "sadyah-pranahara"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "sthapani",
+      "devanagari": "स्थपनी",
+      "iast": "sthapanī",
+      "simple": "Sthapani Marma",
+      "en": "Sirā marma between the eyebrows; viśalyaghna.",
+      "hi": "स्थपनी मर्म - भौंहों के बीच; विशल्यघ्न।",
+      "modern": "",
+      "category": "sharira",
+      "source_refs": [
+        "SS.sharira.6"
+      ],
+      "related": [
+        "marma",
+        "vishalyaghna"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "nidana",
+      "devanagari": "निदान",
+      "iast": "nidāna",
+      "simple": "Nidana",
+      "en": "(1) Cause of disease (synonyms: hetu, nimitta, āyatana, pratyaya, utthāna, kāraṇa). (2) Diagnosis as a whole, i.e. knowledge of disease through the nidāna pañcaka. Mādhava Nidāna is the classic diagnostic text.",
+      "hi": "निदान - (1) रोग का कारण (हेतु, निमित्त, आयतन, प्रत्यय, उत्थान, कारण); (2) रोग-निर्णय (निदान पञ्चक द्वारा)।",
+      "modern": "Aetiology; also diagnosis.",
+      "category": "nidana",
+      "source_refs": [
+        "AH.nidana.1.2",
+        "AH.nidana.1.3"
+      ],
+      "related": [
+        "nidana-panchaka",
+        "hetu",
+        "madhava-nidana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "nidana-panchaka",
+      "devanagari": "निदान पञ्चक",
+      "iast": "nidāna pañcaka",
+      "simple": "Nidana Panchaka",
+      "en": "The five means of knowing a disease: nidāna (cause), pūrvarūpa (prodrome), rūpa (signs and symptoms), upaśaya (therapeutic test/what relieves) and saṃprāpti (pathogenesis).",
+      "hi": "निदान पञ्चक - रोग ज्ञान के पाँच साधन: निदान, पूर्वरूप, रूप, उपशय, सम्प्राप्ति।",
+      "modern": "Comparable to aetiology, prodrome, clinical features, therapeutic trial and pathogenesis.",
+      "category": "nidana",
+      "source_refs": [
+        "AH.nidana.1.2",
+        "CS.nidana.1"
+      ],
+      "related": [
+        "nidana",
+        "purvarupa",
+        "rupa",
+        "upashaya",
+        "samprapti"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "hetu",
+      "devanagari": "हेतु",
+      "iast": "hetu",
+      "simple": "Hetu",
+      "en": "Cause. Classified as sannikṛṣṭa (immediate), viprakṛṣṭa (distant), vyabhicārī (weak, not always producing disease) and prādhānika (dominant, e.g. poison); also as doṣa-, vyādhi- and ubhaya-hetu. Caraka's three root causes are asātmyendriyārtha-saṃyoga, prajñāparādha and pariṇāma.",
+      "hi": "हेतु - कारण; सन्निकृष्ट, विप्रकृष्ट, व्यभिचारी, प्राधानिक; मूल त्रिविध हेतु: असात्म्येन्द्रियार्थसंयोग, प्रज्ञापराध, परिणाम।",
+      "modern": "Aetiological factor.",
+      "category": "nidana",
+      "source_refs": [
+        "AH.nidana.1.3",
+        "CS.sutra.11"
+      ],
+      "related": [
+        "nidana",
+        "trividha-hetu"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "trividha-hetu",
+      "devanagari": "त्रिविध हेतु",
+      "iast": "trividha hetu",
+      "simple": "Three Root Causes",
+      "en": "Caraka's three causes of all disease: asātmyendriyārtha-saṃyoga (improper contact of senses with objects), prajñāparādha (intellectual error) and pariṇāma/kāla (time/season), each as hīna, mithyā or ati-yoga.",
+      "hi": "त्रिविध हेतु - असात्म्येन्द्रियार्थसंयोग, प्रज्ञापराध, परिणाम (काल)।",
+      "modern": "",
+      "category": "nidana",
+      "source_refs": [
+        "CS.sutra.11",
+        "AH.sutra.1.19"
+      ],
+      "related": [
+        "prajnaparadha",
+        "asatmyendriyartha-samyoga",
+        "parinama",
+        "hina-mithya-atiyoga"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "prajnaparadha",
+      "devanagari": "प्रज्ञापराध",
+      "iast": "prajñāparādha",
+      "simple": "Prajnaparadha",
+      "en": "'Offence against wisdom': wrong action by body, speech or mind due to impairment of dhī (understanding), dhṛti (restraint) and smṛti (memory), e.g. suppressing natural urges or acting rashly. Caraka considers it a root cause of disease.",
+      "hi": "प्रज्ञापराध - धी, धृति, स्मृति के भ्रंश से शरीर, वाणी, मन द्वारा किया गया गलत कर्म; रोग का मूल कारण।",
+      "modern": "Comparable to unhealthy behavioural choices (lifestyle risk factors).",
+      "category": "nidana",
+      "source_refs": [
+        "CS.sharira.1",
+        "CS.sutra.7"
+      ],
+      "related": [
+        "trividha-hetu",
+        "buddhi"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "asatmyendriyartha-samyoga",
+      "devanagari": "असात्म्येन्द्रियार्थसंयोग",
+      "iast": "asātmyendriyārtha-saṃyoga",
+      "simple": "Asatmyendriyartha Samyoga",
+      "en": "Unwholesome contact of the senses with their objects: deficient (hīna), wrong (mithyā) or excessive (ati) use of eyes, ears, nose, tongue and skin.",
+      "hi": "असात्म्येन्द्रियार्थसंयोग - इन्द्रियों का विषयों से हीन, मिथ्या या अति योग।",
+      "modern": "Comparable to sensory overload/deprivation or harmful exposures.",
+      "category": "nidana",
+      "source_refs": [
+        "CS.sutra.11",
+        "AH.sutra.12.36"
+      ],
+      "related": [
+        "trividha-hetu",
+        "indriya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "parinama",
+      "devanagari": "परिणाम",
+      "iast": "pariṇāma",
+      "simple": "Parinama (Kala)",
+      "en": "Time as a cause of disease, especially abnormal seasons (hīna, mithyā or atiyoga of season). Pariṇāma also means transformation.",
+      "hi": "परिणाम (काल) - रोग के कारण के रूप में काल, विशेषतः ऋतुओं का हीन, मिथ्या, अतियोग।",
+      "modern": "",
+      "category": "nidana",
+      "source_refs": [
+        "CS.sutra.11"
+      ],
+      "related": [
+        "trividha-hetu",
+        "kala"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "hina-mithya-atiyoga",
+      "devanagari": "हीन-मिथ्या-अतियोग",
+      "iast": "hīna-mithyā-atiyoga",
+      "simple": "Hina Mithya Atiyoga",
+      "en": "Deficient, wrong and excessive use of time (kāla), sense objects (artha) and actions (karma); these are the sole cause of disease, while their samyag-yoga (proper use) is the cause of health.",
+      "hi": "हीन-मिथ्या-अतियोग - काल, अर्थ, कर्म का कम, गलत और अधिक प्रयोग = रोग का कारण; सम्यग्योग = आरोग्य।",
+      "modern": "",
+      "category": "nidana",
+      "source_refs": [
+        "AH.sutra.1.19",
+        "CS.sutra.1"
+      ],
+      "related": [
+        "trividha-hetu"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "purvarupa",
+      "devanagari": "पूर्वरूप",
+      "iast": "pūrvarūpa",
+      "simple": "Purvarupa",
+      "en": "Prodromal signs and symptoms that appear before a disease manifests fully; they indicate the coming disease (sāmānya, general, and viśeṣa, specific).",
+      "hi": "पूर्वरूप - रोग प्रकट होने से पहले के लक्षण; सामान्य और विशेष।",
+      "modern": "Prodrome.",
+      "category": "nidana",
+      "source_refs": [
+        "AH.nidana.1.3",
+        "AH.nidana.1.4"
+      ],
+      "related": [
+        "nidana-panchaka",
+        "rupa",
+        "sthanasamshraya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "rupa",
+      "devanagari": "रूप",
+      "iast": "rūpa",
+      "simple": "Rupa (Signs and Symptoms)",
+      "en": "The fully manifested signs and symptoms of a disease (synonyms: liṅga, lakṣaṇa, ākṛti, cihna). Also: visible form, the object of sight.",
+      "hi": "रूप - रोग के व्यक्त लक्षण (लिङ्ग, लक्षण, चिह्न)।",
+      "modern": "Clinical features.",
+      "category": "nidana",
+      "source_refs": [
+        "AH.nidana.1.5",
+        "AH.nidana.1.6"
+      ],
+      "related": [
+        "nidana-panchaka",
+        "purvarupa",
+        "vyakti"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "upashaya",
+      "devanagari": "उपशय",
+      "iast": "upaśaya",
+      "simple": "Upashaya",
+      "en": "Relief obtained from medicine, diet or regimen that acts against the cause, the disease or both (or acts in a reverse-seeming way); equated with sātmya. Used as a diagnostic test when the disease is unclear. Classical texts describe 18 types.",
+      "hi": "उपशय - हेतु, व्याधि या दोनों के विपरीत (या विपरीतार्थकारी) औषध, अन्न, विहार से सुख; अस्पष्ट रोग में निदान हेतु; 18 प्रकार।",
+      "modern": "Comparable to a therapeutic trial / diagnostic test of treatment.",
+      "category": "nidana",
+      "source_refs": [
+        "AH.nidana.1.6",
+        "AH.nidana.1.7"
+      ],
+      "related": [
+        "anupashaya",
+        "nidana-panchaka",
+        "satmya",
+        "viparitarthakari"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "anupashaya",
+      "devanagari": "अनुपशय",
+      "iast": "anupaśaya",
+      "simple": "Anupashaya",
+      "en": "The opposite of upaśaya: factors that aggravate the disease (vyādhi-asātmya).",
+      "hi": "अनुपशय - जिससे रोग बढ़े (व्याधि-असात्म्य)।",
+      "modern": "Aggravating factors.",
+      "category": "nidana",
+      "source_refs": [
+        "AH.nidana.1.7"
+      ],
+      "related": [
+        "upashaya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "samprapti",
+      "devanagari": "सम्प्राप्ति",
+      "iast": "saṃprāpti",
+      "simple": "Samprapti",
+      "en": "Pathogenesis: how the vitiated doṣa spreads and produces the disease (synonyms: jāti, āgati). Types: saṅkhyā (number), vikalpa (proportion of doṣas), prādhānya (primary/secondary), bala (strength) and kāla (time).",
+      "hi": "सम्प्राप्ति - दुष्ट दोष किस प्रकार फैलकर रोग उत्पन्न करता है (जाति, आगति); भेद: संख्या, विकल्प, प्राधान्य, बल, काल।",
+      "modern": "Pathogenesis.",
+      "category": "nidana",
+      "source_refs": [
+        "AH.nidana.1.8",
+        "AH.nidana.1.9"
+      ],
+      "related": [
+        "nidana-panchaka",
+        "samprapti-ghataka",
+        "shatkriyakala"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "samprapti-ghataka",
+      "devanagari": "सम्प्राप्ति घटक",
+      "iast": "saṃprāpti ghaṭaka",
+      "simple": "Samprapti Ghataka",
+      "en": "Components used to analyse pathogenesis in teaching and clinic: doṣa, dūṣya, srotas, srotoduṣṭi type, agni, āma, udbhava-sthāna (site of origin), adhiṣṭhāna (site of settling), vyakta-sthāna (site of manifestation), rogamārga and svabhāva.",
+      "hi": "सम्प्राप्ति घटक - दोष, दूष्य, स्रोतस्, स्रोतोदुष्टि, अग्नि, आम, उद्भवस्थान, अधिष्ठान, व्यक्तस्थान, रोगमार्ग।",
+      "modern": "",
+      "category": "nidana",
+      "source_refs": [],
+      "related": [
+        "samprapti",
+        "dushya",
+        "srotodushti"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "dushya",
+      "devanagari": "दूष्य",
+      "iast": "dūṣya",
+      "simple": "Dushya",
+      "en": "That which is vitiated: the dhātus and malas, which the doṣas spoil to produce disease.",
+      "hi": "दूष्य - जिसे दूषित किया जाए: धातु और मल।",
+      "modern": "Affected tissues.",
+      "category": "nidana",
+      "source_refs": [
+        "AH.sutra.1.13"
+      ],
+      "related": [
+        "dhatu",
+        "dosha",
+        "samprapti-ghataka"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "kha-vaigunya",
+      "devanagari": "खवैगुण्य",
+      "iast": "khavaiguṇya",
+      "simple": "Kha Vaigunya",
+      "en": "Defect or weakness in a channel (kha = srotas) that allows circulating aggravated doṣas to lodge there and start disease.",
+      "hi": "खवैगुण्य - स्रोतस् की दुर्बलता/विकृति, जहाँ फैलते दोष ठहरकर रोग उत्पन्न करते हैं।",
+      "modern": "Comparable to a locus minoris resistentiae (site of lowered resistance).",
+      "category": "nidana",
+      "source_refs": [],
+      "related": [
+        "sthanasamshraya",
+        "srotas"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "shatkriyakala",
+      "devanagari": "षट्क्रियाकाल",
+      "iast": "ṣaṭkriyākāla",
+      "simple": "Shatkriyakala",
+      "en": "Suśruta's six stages of disease and opportunities for treatment: sañcaya (accumulation), prakopa (aggravation), prasara (spread), sthānasaṃśraya (localisation), vyakti (manifestation) and bheda (differentiation/complication). Earlier treatment is easier.",
+      "hi": "षट्क्रियाकाल - रोग की छह अवस्थाएँ (चिकित्सा के अवसर): सञ्चय, प्रकोप, प्रसर, स्थानसंश्रय, व्यक्ति, भेद।",
+      "modern": "Comparable to stages of disease progression and levels of prevention.",
+      "category": "nidana",
+      "source_refs": [
+        "SS.sutra.21"
+      ],
+      "related": [
+        "sanchaya",
+        "prakopa",
+        "prasara",
+        "sthanasamshraya",
+        "vyakti",
+        "bheda"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "sanchaya",
+      "devanagari": "सञ्चय",
+      "iast": "sañcaya",
+      "simple": "Sanchaya",
+      "en": "Stage of Suśruta's ṣaṭkriyākāla (SS.sutra.21). Accumulation of a doṣa in its own site (also caya); signs include dislike of causative factors and liking for opposite qualities (e.g. vāta: stiffness and fullness of abdomen).",
+      "hi": "षट्क्रियाकाल की एक अवस्था। सञ्चय - दोष का अपने स्थान में संचय; विपरीत गुणों की इच्छा।",
+      "modern": "",
+      "category": "nidana",
+      "source_refs": [
+        "SS.sutra.21",
+        "AH.sutra.12.22"
+      ],
+      "related": [
+        "shatkriyakala",
+        "prakopa"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "prakopa",
+      "devanagari": "प्रकोप",
+      "iast": "prakopa",
+      "simple": "Prakopa",
+      "en": "Stage of Suśruta's ṣaṭkriyākāla (SS.sutra.21). Aggravation of the accumulated doṣa, which becomes excited and tends to leave its site (also kopa).",
+      "hi": "षट्क्रियाकाल की एक अवस्था। प्रकोप - संचित दोष का उत्तेजित होना।",
+      "modern": "",
+      "category": "nidana",
+      "source_refs": [
+        "SS.sutra.21",
+        "AH.sutra.12.23"
+      ],
+      "related": [
+        "shatkriyakala",
+        "sanchaya",
+        "prasara"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "prasara",
+      "devanagari": "प्रसर",
+      "iast": "prasara",
+      "simple": "Prasara",
+      "en": "Stage of Suśruta's ṣaṭkriyākāla (SS.sutra.21). Spread of aggravated doṣa beyond its site through the body, alone or in combination (15 kinds of spread).",
+      "hi": "षट्क्रियाकाल की एक अवस्था। प्रसर - दोष का अपने स्थान से बाहर पूरे शरीर में फैलना (15 प्रकार)।",
+      "modern": "",
+      "category": "nidana",
+      "source_refs": [
+        "SS.sutra.21"
+      ],
+      "related": [
+        "shatkriyakala",
+        "prakopa",
+        "sthanasamshraya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "sthanasamshraya",
+      "devanagari": "स्थानसंश्रय",
+      "iast": "sthānasaṃśraya",
+      "simple": "Sthanasamshraya",
+      "en": "Stage of Suśruta's ṣaṭkriyākāla (SS.sutra.21). Localisation: circulating doṣas lodge in a weak site (kha-vaiguṇya) and interact with dūṣyas; prodromal signs (pūrvarūpa) appear.",
+      "hi": "षट्क्रियाकाल की एक अवस्था। स्थानसंश्रय - दोष का दुर्बल स्थान में ठहरना; पूर्वरूप प्रकट।",
+      "modern": "",
+      "category": "nidana",
+      "source_refs": [
+        "SS.sutra.21"
+      ],
+      "related": [
+        "shatkriyakala",
+        "kha-vaigunya",
+        "purvarupa"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "vyakti",
+      "devanagari": "व्यक्ति",
+      "iast": "vyakti",
+      "simple": "Vyakti",
+      "en": "Stage of Suśruta's ṣaṭkriyākāla (SS.sutra.21). Manifestation: the disease appears with its full signs and symptoms (rūpa).",
+      "hi": "षट्क्रियाकाल की एक अवस्था। व्यक्ति - रोग के पूर्ण लक्षण प्रकट।",
+      "modern": "",
+      "category": "nidana",
+      "source_refs": [
+        "SS.sutra.21"
+      ],
+      "related": [
+        "shatkriyakala",
+        "rupa"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "bheda",
+      "devanagari": "भेद",
+      "iast": "bheda",
+      "simple": "Bheda",
+      "en": "Stage of Suśruta's ṣaṭkriyākāla (SS.sutra.21). Differentiation: the disease becomes chronic or complicated and its type (doṣa variety) becomes distinguishable.",
+      "hi": "षट्क्रियाकाल की एक अवस्था। भेद - रोग का प्रकार स्पष्ट; जीर्ण या उपद्रवयुक्त।",
+      "modern": "",
+      "category": "nidana",
+      "source_refs": [
+        "SS.sutra.21"
+      ],
+      "related": [
+        "shatkriyakala",
+        "upadrava"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "chaya-prakopa-prashama",
+      "devanagari": "चय-प्रकोप-प्रशम",
+      "iast": "caya-prakopa-praśama",
+      "simple": "Chaya Prakopa Prashama",
+      "en": "Seasonal cycle of the doṣas: vāta accumulates in grīṣma, aggravates in varṣā and subsides in śarad; pitta accumulates in varṣā, aggravates in śarad and subsides in hemanta; kapha accumulates in śiśira, aggravates in vasanta and subsides in grīṣma.",
+      "hi": "चय-प्रकोप-प्रशम - ऋतु अनुसार दोषों का चक्र: वात - ग्रीष्म चय, वर्षा प्रकोप, शरद् प्रशम; पित्त - वर्षा, शरद्, हेमन्त; कफ - शिशिर, वसन्त, ग्रीष्म।",
+      "modern": "",
+      "category": "nidana",
+      "source_refs": [
+        "AH.sutra.12.24",
+        "AH.sutra.12.27"
+      ],
+      "related": [
+        "ritu",
+        "sanchaya",
+        "prakopa",
+        "ritucharya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "vyadhi",
+      "devanagari": "व्याधि",
+      "iast": "vyādhi",
+      "simple": "Vyadhi",
+      "en": "Disease, literally 'that which causes various kinds of suffering'; a synonym of roga.",
+      "hi": "व्याधि - अनेक प्रकार का दुःख देने वाला; रोग का पर्याय।",
+      "modern": "Disease.",
+      "category": "nidana",
+      "source_refs": [
+        "AH.nidana.1.1"
+      ],
+      "related": [
+        "roga",
+        "sadhya",
+        "asadhya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "sadhya",
+      "devanagari": "साध्य",
+      "iast": "sādhya",
+      "simple": "Sadhya",
+      "en": "Curable disease; divided into sukhasādhya (easily curable) and kṛcchrasādhya (curable with difficulty).",
+      "hi": "साध्य - चिकित्सा योग्य रोग; सुखसाध्य और कृच्छ्रसाध्य।",
+      "modern": "Curable.",
+      "category": "nidana",
+      "source_refs": [
+        "AH.sutra.1.30",
+        "AH.sutra.1.31",
+        "AH.sutra.1.32"
+      ],
+      "related": [
+        "sukhasadhya",
+        "kricchrasadhya",
+        "asadhya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "sukhasadhya",
+      "devanagari": "सुखसाध्य",
+      "iast": "sukhasādhya",
+      "simple": "Sukhasadhya",
+      "en": "Easily curable: recent, single-doṣa disease in a strong young patient with dissimilar doṣa and dūṣya, favourable season and constitution and all four limbs of treatment present.",
+      "hi": "सुखसाध्य - नया, एकदोषज, बलवान युवा रोगी, दोष-दूष्य असमान, अनुकूल ऋतु-प्रकृति।",
+      "modern": "Good prognosis.",
+      "category": "nidana",
+      "source_refs": [
+        "AH.sutra.1.30",
+        "AH.sutra.1.31"
+      ],
+      "related": [
+        "sadhya",
+        "kricchrasadhya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "kricchrasadhya",
+      "devanagari": "कृच्छ्रसाध्य",
+      "iast": "kṛcchrasādhya",
+      "simple": "Kricchrasadhya",
+      "en": "Curable with difficulty: needs surgery, caustics or cautery, or involves mixed factors.",
+      "hi": "कृच्छ्रसाध्य - कठिनाई से साध्य; शस्त्र आदि की आवश्यकता।",
+      "modern": "Guarded prognosis.",
+      "category": "nidana",
+      "source_refs": [
+        "AH.sutra.1.32"
+      ],
+      "related": [
+        "sadhya",
+        "sukhasadhya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "asadhya",
+      "devanagari": "असाध्य",
+      "iast": "asādhya",
+      "simple": "Asadhya",
+      "en": "Incurable disease; divided into yāpya (controllable while treatment continues) and anupakrama/pratyākhyeya (beyond treatment).",
+      "hi": "असाध्य - अचिकित्स्य; याप्य और अनुपक्रम (प्रत्याख्येय)।",
+      "modern": "Incurable.",
+      "category": "nidana",
+      "source_refs": [
+        "AH.sutra.1.30",
+        "AH.sutra.1.33"
+      ],
+      "related": [
+        "yapya",
+        "anupakrama",
+        "sadhya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "yapya",
+      "devanagari": "याप्य",
+      "iast": "yāpya",
+      "simple": "Yapya",
+      "en": "Palliable: a disease that remains controlled only as long as wholesome treatment and regimen continue, and relapses when they stop.",
+      "hi": "याप्य - पथ्य-चिकित्सा जारी रहने तक नियन्त्रित, छोड़ने पर पुनः।",
+      "modern": "Comparable to chronic controllable diseases (e.g. diabetes, hypertension).",
+      "category": "nidana",
+      "source_refs": [
+        "AH.sutra.1.32"
+      ],
+      "related": [
+        "asadhya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "anupakrama",
+      "devanagari": "अनुपक्रम",
+      "iast": "anupakrama",
+      "simple": "Anupakrama",
+      "en": "Beyond treatment (pratyākhyeya): a disease with fatal signs (riṣṭa) or the reverse of all favourable factors, which the physician should decline.",
+      "hi": "अनुपक्रम (प्रत्याख्येय) - चिकित्सा से परे; अरिष्ट लक्षण युक्त।",
+      "modern": "Terminal condition.",
+      "category": "nidana",
+      "source_refs": [
+        "AH.sutra.1.33"
+      ],
+      "related": [
+        "asadhya",
+        "arishta-sign"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "upadrava",
+      "devanagari": "उपद्रव",
+      "iast": "upadrava",
+      "simple": "Upadrava",
+      "en": "Complication: a secondary disease arising from the same doṣa as the main disease and appearing later; it should be treated quickly, as it weakens the patient.",
+      "hi": "उपद्रव - मुख्य रोग के ही दोष से बाद में उत्पन्न गौण रोग।",
+      "modern": "Complication.",
+      "category": "nidana",
+      "source_refs": [
+        "CS.chikitsa.21"
+      ],
+      "related": [
+        "bheda"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "arishta-sign",
+      "devanagari": "अरिष्ट (रिष्ट)",
+      "iast": "ariṣṭa / riṣṭa",
+      "simple": "Arishta (Fatal Sign)",
+      "en": "Signs indicating approaching death, described in Caraka's Indriyasthāna and AH.sharira.5; they appear as flowers foretell fruit. Not to be confused with ariṣṭa the fermented preparation.",
+      "hi": "अरिष्ट (रिष्ट) - मृत्यु-सूचक लक्षण; चरक इन्द्रियस्थान। (अरिष्ट कल्पना से भिन्न)",
+      "modern": "Comparable to poor prognostic signs.",
+      "category": "nidana",
+      "source_refs": [
+        "CS.indriya.1",
+        "AH.sharira.5.1"
+      ],
+      "related": [
+        "anupakrama",
+        "arishta"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "avarana",
+      "devanagari": "आवरण",
+      "iast": "āvaraṇa",
+      "simple": "Avarana",
+      "en": "Occlusion: one vāta subtype or a doṣa, dhātu or mala obstructing the movement of vāta (e.g. kapha-āvṛta vāta), producing complex symptoms. Caraka describes it in vātavyādhi.",
+      "hi": "आवरण - किसी दोष, धातु या मल द्वारा वात की गति का अवरोध (जैसे कफावृत वात)।",
+      "modern": "",
+      "category": "nidana",
+      "source_refs": [
+        "CS.chikitsa.28"
+      ],
+      "related": [
+        "vata",
+        "vatavyadhi"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "nanatmaja-vyadhi",
+      "devanagari": "नानात्मज व्याधि",
+      "iast": "nānātmaja vyādhi",
+      "simple": "Nanatmaja Vyadhi",
+      "en": "Diseases caused by a single specific doṣa: 80 of vāta, 40 of pitta and 20 of kapha (Caraka), as opposed to sāmānyaja diseases caused by any doṣa.",
+      "hi": "नानात्मज व्याधि - एक विशिष्ट दोष से: वात 80, पित्त 40, कफ 20 (चरक)।",
+      "modern": "",
+      "category": "nidana",
+      "source_refs": [
+        "CS.sutra.20"
+      ],
+      "related": [
+        "samanyaja-vyadhi",
+        "vata",
+        "pitta",
+        "kapha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "samanyaja-vyadhi",
+      "devanagari": "सामान्यज व्याधि",
+      "iast": "sāmānyaja vyādhi",
+      "simple": "Samanyaja Vyadhi",
+      "en": "Diseases that can be produced by any of the doṣas (e.g. jvara, atisāra), classified by the doṣa involved.",
+      "hi": "सामान्यज व्याधि - किसी भी दोष से होने वाले रोग (ज्वर, अतिसार)।",
+      "modern": "",
+      "category": "nidana",
+      "source_refs": [
+        "CS.sutra.20"
+      ],
+      "related": [
+        "nanatmaja-vyadhi"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "madhava-nidana",
+      "devanagari": "माधव निदान",
+      "iast": "mādhava nidāna",
+      "simple": "Madhava Nidana",
+      "en": "Rugviniścaya of Mādhavakara (about 7th-8th century CE), the standard text of diagnosis, arranged disease-wise by nidāna pañcaka; first to describe āmavāta and amlapitta as separate diseases.",
+      "hi": "माधव निदान (रुग्विनिश्चय) - माधवकर; निदान का प्रमुख ग्रन्थ; आमवात, अम्लपित्त का प्रथम स्वतन्त्र वर्णन।",
+      "modern": "",
+      "category": "nidana",
+      "source_refs": [],
+      "related": [
+        "nidana-panchaka",
+        "amavata",
+        "amlapitta"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "rogi-pariksha",
+      "devanagari": "रोगी परीक्षा",
+      "iast": "rogī parīkṣā",
+      "simple": "Rogi Pariksha",
+      "en": "Examination of the patient (to know strength and constitution), as distinct from roga parīkṣā (examination of the disease by nidāna pañcaka). Caraka's tenfold examination is the main method.",
+      "hi": "रोगी परीक्षा - रोगी का बल, प्रकृति आदि जानना; रोग परीक्षा (निदान पञ्चक) से भिन्न।",
+      "modern": "",
+      "category": "nidana",
+      "source_refs": [
+        "CS.vimana.8"
+      ],
+      "related": [
+        "dashavidha-pariksha",
+        "nidana-panchaka"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "trividha-pariksha",
+      "devanagari": "त्रिविध परीक्षा",
+      "iast": "trividha parīkṣā",
+      "simple": "Trividha Pariksha",
+      "en": "Threefold examination of the patient by darśana (inspection), sparśana (touch/palpation) and praśna (questioning) (Vāgbhaṭa). Caraka uses 'trividha parīkṣā' also for the three pramāṇas.",
+      "hi": "त्रिविध परीक्षा - दर्शन, स्पर्शन, प्रश्न (वाग्भट)।",
+      "modern": "Inspection, palpation and history-taking.",
+      "category": "nidana",
+      "source_refs": [
+        "AH.sutra.1.22",
+        "CS.vimana.4"
+      ],
+      "related": [
+        "ashtavidha-pariksha",
+        "shadvidha-pariksha",
+        "pramana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "shadvidha-pariksha",
+      "devanagari": "षड्विध परीक्षा",
+      "iast": "ṣaḍvidha parīkṣā",
+      "simple": "Shadvidha Pariksha",
+      "en": "Suśruta's sixfold examination: by the five senses (hearing, touch, sight, taste, smell) and by questioning (praśna).",
+      "hi": "षड्विध परीक्षा (सुश्रुत) - पाँच ज्ञानेन्द्रियाँ + प्रश्न।",
+      "modern": "",
+      "category": "nidana",
+      "source_refs": [
+        "SS.sutra.10"
+      ],
+      "related": [
+        "trividha-pariksha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "ashtavidha-pariksha",
+      "devanagari": "अष्टविध परीक्षा",
+      "iast": "aṣṭavidha parīkṣā",
+      "simple": "Ashtavidha Pariksha",
+      "en": "Eightfold examination popularised by Yogaratnākara: nāḍī (pulse), mūtra (urine), mala (stool), jihvā (tongue), śabda (voice/sounds), sparśa (touch), dṛk (eyes) and ākṛti (general appearance).",
+      "hi": "अष्टविध परीक्षा (योगरत्नाकर) - नाडी, मूत्र, मल, जिह्वा, शब्द, स्पर्श, दृक्, आकृति।",
+      "modern": "Comparable to a bedside general and systemic examination.",
+      "category": "nidana",
+      "source_refs": [],
+      "related": [
+        "nadi-pariksha",
+        "jihva-pariksha",
+        "mutra-pariksha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "nadi-pariksha",
+      "devanagari": "नाडी परीक्षा",
+      "iast": "nāḍī parīkṣā",
+      "simple": "Nadi Pariksha",
+      "en": "Pulse examination at the radial artery with three fingers (index for vāta, middle for pitta, ring for kapha). Pulse movement is likened to a snake (vāta), frog (pitta) and swan (kapha). Not described in the Bṛhattrayī; developed by Śārṅgadhara and later texts.",
+      "hi": "नाडी परीक्षा - तीन अंगुलियों से कलाई की नाडी; वात सर्प, पित्त मण्डूक, कफ हंस गति; बृहत्त्रयी में वर्णित नहीं।",
+      "modern": "Radial pulse examination; the doṣa-wise interpretation has limited validation.",
+      "category": "nidana",
+      "source_refs": [],
+      "related": [
+        "ashtavidha-pariksha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "jihva-pariksha",
+      "devanagari": "जिह्वा परीक्षा",
+      "iast": "jihvā parīkṣā",
+      "simple": "Jihva Pariksha",
+      "en": "Tongue examination: a coated (lipta) tongue suggests āma; dry, cracked tongue suggests vāta; red/yellow suggests pitta; white, slimy suggests kapha.",
+      "hi": "जिह्वा परीक्षा - लिप्त जिह्वा = आम; रूक्ष-फटी = वात; लाल-पीली = पित्त; श्वेत-पिच्छिल = कफ।",
+      "modern": "Tongue inspection.",
+      "category": "nidana",
+      "source_refs": [],
+      "related": [
+        "ashtavidha-pariksha",
+        "ama"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "mutra-pariksha",
+      "devanagari": "मूत्र परीक्षा",
+      "iast": "mūtra parīkṣā",
+      "simple": "Mutra Pariksha",
+      "en": "Urine examination including colour and the taila-bindu test (behaviour of an oil drop placed on urine) described in later texts to judge doṣa and prognosis.",
+      "hi": "मूत्र परीक्षा - रंग आदि और तैल-बिन्दु परीक्षा (मूत्र पर तेल की बूँद का व्यवहार)।",
+      "modern": "Urinalysis (crude); the oil-drop test is not validated.",
+      "category": "nidana",
+      "source_refs": [],
+      "related": [
+        "ashtavidha-pariksha",
+        "mutra"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "dashavidha-pariksha",
+      "devanagari": "दशविध परीक्षा",
+      "iast": "daśavidha parīkṣā",
+      "simple": "Dashavidha Pariksha",
+      "en": "Caraka's tenfold examination of the patient: prakṛti, vikṛti, sāra, saṃhanana, pramāṇa, sātmya, sattva, āhāraśakti, vyāyāmaśakti and vayas; used to judge strength (bala) and plan dose.",
+      "hi": "दशविध परीक्षा (चरक) - प्रकृति, विकृति, सार, संहनन, प्रमाण, सात्म्य, सत्त्व, आहारशक्ति, व्यायामशक्ति, वय।",
+      "modern": "Comparable to a holistic assessment of constitution, fitness and tolerance.",
+      "category": "nidana",
+      "source_refs": [
+        "CS.vimana.8"
+      ],
+      "related": [
+        "prakriti",
+        "vikriti",
+        "sara-pariksha",
+        "samhanana",
+        "pramana-pariksha",
+        "satmya",
+        "vaya"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "vikriti",
+      "devanagari": "विकृति",
+      "iast": "vikṛti",
+      "simple": "Vikriti",
+      "en": "The morbid state: the disease and its strength, assessed through hetu, doṣa, dūṣya, prakṛti, deśa, kāla and signs. Second item of the tenfold examination.",
+      "hi": "विकृति - विकार की अवस्था और बल; दशविध परीक्षा का दूसरा अंग।",
+      "modern": "",
+      "category": "nidana",
+      "source_refs": [
+        "CS.vimana.8"
+      ],
+      "related": [
+        "dashavidha-pariksha",
+        "prakriti"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "sara-pariksha",
+      "devanagari": "सार परीक्षा",
+      "iast": "sāra parīkṣā",
+      "simple": "Sara (Tissue Excellence)",
+      "en": "Assessment of the best-developed tissue: eight sāras - tvak (rasa), rakta, māṃsa, medas, asthi, majjā, śukra and sattva. A person with all sāras is strongest. Distinct from sara (mobile) guṇa.",
+      "hi": "सार परीक्षा - सबसे उत्तम धातु का ज्ञान; आठ सार: त्वक् (रस), रक्त, मांस, मेद, अस्थि, मज्जा, शुक्र, सत्त्व।",
+      "modern": "Loosely comparable to assessing tissue quality/physical fitness.",
+      "category": "nidana",
+      "source_refs": [
+        "CS.vimana.8"
+      ],
+      "related": [
+        "dashavidha-pariksha",
+        "dhatu"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "samhanana",
+      "devanagari": "संहनन",
+      "iast": "saṃhanana",
+      "simple": "Samhanana",
+      "en": "Compactness of body build: well-knit (susaṃhata) body with balanced bones, joints and muscles indicates strength.",
+      "hi": "संहनन - शरीर का सुगठन; सुसंहत शरीर बलवान।",
+      "modern": "Body build.",
+      "category": "nidana",
+      "source_refs": [
+        "CS.vimana.8"
+      ],
+      "related": [
+        "dashavidha-pariksha"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "pramana-pariksha",
+      "devanagari": "प्रमाण परीक्षा",
+      "iast": "pramāṇa parīkṣā",
+      "simple": "Pramana (Body Measurement)",
+      "en": "Examination of body measurements in the person's own aṅgulas; proportionate measure indicates long life and strength.",
+      "hi": "प्रमाण परीक्षा - अपनी अंगुलि से शरीर के माप; समप्रमाण शरीर दीर्घायु।",
+      "modern": "Anthropometry.",
+      "category": "nidana",
+      "source_refs": [
+        "CS.vimana.8"
+      ],
+      "related": [
+        "dashavidha-pariksha",
+        "anguli-pramana"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "ahara-shakti",
+      "devanagari": "आहारशक्ति",
+      "iast": "āhāraśakti",
+      "simple": "Ahara Shakti",
+      "en": "Capacity for food: abhyavaharaṇa śakti (ability to take food) and jaraṇa śakti (ability to digest), indicating agni and strength.",
+      "hi": "आहारशक्ति - अभ्यवहरण शक्ति (भोजन ग्रहण) और जरण शक्ति (पाचन)।",
+      "modern": "",
+      "category": "nidana",
+      "source_refs": [
+        "CS.vimana.8"
+      ],
+      "related": [
+        "dashavidha-pariksha",
+        "agni"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "vyayama-shakti",
+      "devanagari": "व्यायामशक्ति",
+      "iast": "vyāyāmaśakti",
+      "simple": "Vyayama Shakti",
+      "en": "Capacity for exercise, judged by tolerance of physical work; indicates strength.",
+      "hi": "व्यायामशक्ति - शारीरिक श्रम की क्षमता।",
+      "modern": "Exercise tolerance.",
+      "category": "nidana",
+      "source_refs": [
+        "CS.vimana.8"
+      ],
+      "related": [
+        "dashavidha-pariksha",
+        "vyayama"
+      ],
+      "review_status": "ai_draft"
     }
   ]
 }

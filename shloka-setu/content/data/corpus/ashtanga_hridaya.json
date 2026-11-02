@@ -6055,6 +6055,10 @@
     {
      "pada": "d",
      "reading": "klidyate candrikānvitaḥ     7.4dv  klidyate candrakācitaḥ"
+    },
+    {
+     "pada": "d",
+     "reading": "klidyate candrakānvitaḥ"
     }
    ]
   },
@@ -6066,8 +6070,8 @@
    "sthana_devanagari": "सूत्रस्थान",
    "chapter": 7,
    "verse": 5,
-   "iast": "7.4dv  klidyate candrakānvitaḥ\nvyañjanāny āśu śuṣyanti dhyāma-kvāthāni tatra ca |\nhīnātiriktā vikṛtā chāyā dṛśyeta naiva vā || 5 ||",
-   "devanagari": "७.४द्व्क्लिद्यते चन्द्रकान्वितः\nव्यञ्जनान्याशु शुष्यन्ति ध्यामक्वाथानि तत्र च ।\nहीनातिरिक्ता विकृता छाया दृश्येत नैव वा ॥ ५ ॥",
+   "iast": "vyañjanāny āśu śuṣyanti dhyāma-kvāthāni tatra ca |\nhīnātiriktā vikṛtā chāyā dṛśyeta naiva vā || 5 ||",
+   "devanagari": "व्यञ्जनान्याशु शुष्यन्ति ध्यामक्वाथानि तत्र च ।\nहीनातिरिक्ता विकृता छाया दृश्येत नैव वा ॥ ५ ॥",
    "variants": [
     {
      "pada": "d",
@@ -11208,6 +11212,10 @@
     {
      "pada": "c",
      "reading": "kṣut-tṛṣṇā-nigrahair doṣair     14.14cv  kṣut-tṛṣṇā-nigrahair doṣaiś"
+    },
+    {
+     "pada": "d",
+     "reading": "cārtān madhya-balair dṛḍhān"
     }
    ]
   },
@@ -11219,8 +11227,8 @@
    "sthana_devanagari": "सूत्रस्थान",
    "chapter": 14,
    "verse": 15,
-   "iast": "14.14dv  cārtān madhya-balair dṛḍhān\nsamīraṇātapāyāsaiḥ kim utālpa-balair narān |\nna bṛṃhayel laṅghanīyān bṛṃhyāṃs tu mṛdu laṅghayet || 15 ||",
-   "devanagari": "१४.१४द्व्चार्तान्मध्यबलैर्दृढान्\nसमीरणातपायासैः किमुताल्पबलैर्नरान् ।\nन बृंहयेल्लङ्घनीयान्बृंह्यांस्तु मृदु लङ्घयेत् ॥ १५ ॥",
+   "iast": "samīraṇātapāyāsaiḥ kim utālpa-balair narān |\nna bṛṃhayel laṅghanīyān bṛṃhyāṃs tu mṛdu laṅghayet || 15 ||",
+   "devanagari": "समीरणातपायासैः किमुताल्पबलैर्नरान् ।\nन बृंहयेल्लङ्घनीयान्बृंह्यांस्तु मृदु लङ्घयेत् ॥ १५ ॥",
    "variants": []
   },
   {
@@ -11459,6 +11467,10 @@
     {
      "pada": "a",
      "reading": "bṛṃhaṇaṃ laṅghanaṃ nālam     14.32cv  madhura-sneha-sauhityair"
+    },
+    {
+     "pada": "d",
+     "reading": "yat saukhyena vinaśyati"
     }
    ]
   },
@@ -11470,8 +11482,8 @@
    "sthana_devanagari": "सूत्रस्थान",
    "chapter": 14,
    "verse": 33,
-   "iast": "14.32dv  yat saukhyena vinaśyati\nkraśimā sthavimāty-anta-viparīta-niṣevaṇaiḥ |\nyojayed bṛṃhaṇaṃ tatra sarvaṃ pānānna-bheṣajam || 33 ||",
-   "devanagari": "१४.३२द्व्यत्सौख्येन विनश्यति\nक्रशिमा स्थविमात्यन्तविपरीतनिषेवणैः ।\nयोजयेद्बृंहणं तत्र सर्वं पानान्नभेषजम् ॥ ३३ ॥",
+   "iast": "kraśimā sthavimāty-anta-viparīta-niṣevaṇaiḥ |\nyojayed bṛṃhaṇaṃ tatra sarvaṃ pānānna-bheṣajam || 33 ||",
+   "devanagari": "क्रशिमा स्थविमात्यन्तविपरीतनिषेवणैः ।\nयोजयेद्बृंहणं तत्र सर्वं पानान्नभेषजम् ॥ ३३ ॥",
    "variants": []
   },
   {
@@ -11737,6 +11749,10 @@
     {
      "pada": "b",
      "reading": "-dhānyakā-rakta-candanam     15.16bv  -dhānyakaṃ rakta-candanam"
+    },
+    {
+     "pada": "b",
+     "reading": "-dhanikā-rakta-candanam"
     }
    ]
   },
@@ -11748,8 +11764,8 @@
    "sthana_devanagari": "सूत्रस्थान",
    "chapter": 15,
    "verse": 18,
-   "iast": "15.16bv  -dhanikā-rakta-candanam\nāragvadhendrayava-pāṭali-kākatiktā-nimbāmṛtā-madhurasā-sruva-vṛkṣa-pāṭhāḥ |\nbhūnimba-sairyaka-paṭola-karañja-yugma-saptacchadāgni-suṣavī-phala-bāṇa-ghoṇṭāḥ ||\n17 ||\nāragvadhādir jayati cchardi-kuṣṭha-viṣa-jvarān |\nkaphaṃ kaṇḍūṃ pramehaṃ ca duṣṭa-vraṇa-viśodhanaḥ || 18 ||",
-   "devanagari": "१५.१६ब्व्धनिकारक्तचन्दनम्\nआरग्वधेन्द्रयवपाटलिकाकतिक्तानिम्बामृतामधुरसास्रुववृक्षपाठाः ।\nभूनिम्बसैर्यकपटोलकरञ्जयुग्मसप्तच्छदाग्निसुषवीफलबाणघोण्टाः ॥\n१७ ॥\nआरग्वधादिर्जयति च्छर्दिकुष्ठविषज्वरान् ।\nकफं कण्डूं प्रमेहं च दुष्टव्रणविशोधनः ॥ १८ ॥",
+   "iast": "āragvadhendrayava-pāṭali-kākatiktā-nimbāmṛtā-madhurasā-sruva-vṛkṣa-pāṭhāḥ |\nbhūnimba-sairyaka-paṭola-karañja-yugma-saptacchadāgni-suṣavī-phala-bāṇa-ghoṇṭāḥ ||\n17 ||\nāragvadhādir jayati cchardi-kuṣṭha-viṣa-jvarān |\nkaphaṃ kaṇḍūṃ pramehaṃ ca duṣṭa-vraṇa-viśodhanaḥ || 18 ||",
+   "devanagari": "आरग्वधेन्द्रयवपाटलिकाकतिक्तानिम्बामृतामधुरसास्रुववृक्षपाठाः ।\nभूनिम्बसैर्यकपटोलकरञ्जयुग्मसप्तच्छदाग्निसुषवीफलबाणघोण्टाः ॥\n१७ ॥\nआरग्वधादिर्जयति च्छर्दिकुष्ठविषज्वरान् ।\nकफं कण्डूं प्रमेहं च दुष्टव्रणविशोधनः ॥ १८ ॥",
    "variants": [
     {
      "pada": "d",
@@ -12515,6 +12531,10 @@
     {
      "pada": "b",
      "reading": "-bhāṣyābhyāsana-saṃsthitīḥ     16.27bv  -bhāṣyāty-aśana-saṃsthitīḥ"
+    },
+    {
+     "pada": "b",
+     "reading": "-bhāṣyāty-āśana-saṃsthitīḥ"
     }
    ]
   },
@@ -12526,8 +12546,8 @@
    "sthana_devanagari": "सूत्रस्थान",
    "chapter": 16,
    "verse": 28,
-   "iast": "16.27bv  -bhāṣyāty-āśana-saṃsthitīḥ\nyāny ahāni pibet tāni tāvanty anyāny api tyajet |\nsarva-karmasv ayaṃ prāyo vyādhi-kṣīṇeṣu ca kramaḥ || 28 ||",
-   "devanagari": "१६.२७ब्व्भाष्यात्याशनसंस्थितीः\nयान्यहानि पिबेत्तानि तावन्त्यन्यान्यपि त्यजेत् ।\nसर्वकर्मस्वयं प्रायो व्याधिक्षीणेषु च क्रमः ॥ २८ ॥",
+   "iast": "yāny ahāni pibet tāni tāvanty anyāny api tyajet |\nsarva-karmasv ayaṃ prāyo vyādhi-kṣīṇeṣu ca kramaḥ || 28 ||",
+   "devanagari": "यान्यहानि पिबेत्तानि तावन्त्यन्यान्यपि त्यजेत् ।\nसर्वकर्मस्वयं प्रायो व्याधिक्षीणेषु च क्रमः ॥ २८ ॥",
    "variants": []
   },
   {
@@ -13452,6 +13472,10 @@
     {
      "pada": "a",
      "reading": "prāṅ-mukhaṃ pāyayet pītaṃ     18.18av  prāṅ-mukhaṃ pāyayet pīte"
+    },
+    {
+     "pada": "d",
+     "reading": "-prasekaṃ chardayet tataḥ"
     }
    ]
   },
@@ -13463,8 +13487,8 @@
    "sthana_devanagari": "सूत्रस्थान",
    "chapter": 18,
    "verse": 19,
-   "iast": "18.18dv  -prasekaṃ chardayet tataḥ\naṅgulībhyām an-āyasto nālena mṛdunātha-vā |\ngala-tālv a-rujan vegān a-pravṛttān pravartayan || 19 ||",
-   "devanagari": "१८.१८द्व्प्रसेकं छर्दयेत्ततः\nअङ्गुलीभ्यामनायस्तो नालेन मृदुनाथवा ।\nगलताल्वरुजन्वेगानप्रवृत्तान्प्रवर्तयन् ॥ १९ ॥",
+   "iast": "aṅgulībhyām an-āyasto nālena mṛdunātha-vā |\ngala-tālv a-rujan vegān a-pravṛttān pravartayan || 19 ||",
+   "devanagari": "अङ्गुलीभ्यामनायस्तो नालेन मृदुनाथवा ।\nगलताल्वरुजन्वेगानप्रवृत्तान्प्रवर्तयन् ॥ १९ ॥",
    "variants": [
     {
      "pada": "d",
@@ -19162,6 +19186,10 @@
     {
      "pada": "a",
      "reading": "samyag-viddhe sraved dhārā     27.34bv  yantre mukte ca na sravet"
+    },
+    {
+     "pada": "d",
+     "reading": "dur-viddhā taila-cūrṇitaiḥ"
     }
    ]
   },
@@ -19173,8 +19201,8 @@
    "sthana_devanagari": "सूत्रस्थान",
    "chapter": 27,
    "verse": 35,
-   "iast": "27.34dv  dur-viddhā taila-cūrṇitaiḥ\nsa-śabdam ati-viddhā tu sraved duḥkhena dhāryate |\nbhī-mūrchā-yantra-śaithilya-kuṇṭha-śastrāti-tṛptayaḥ || 35 ||",
-   "devanagari": "२७.३४द्व्दुर्विद्धा तैलचूर्णितैः\nसशब्दमतिविद्धा तु स्रवेद्दुःखेन धार्यते ।\nभीमूर्छायन्त्रशैथिल्यकुण्ठशस्त्रातितृप्तयः ॥ ३५ ॥",
+   "iast": "sa-śabdam ati-viddhā tu sraved duḥkhena dhāryate |\nbhī-mūrchā-yantra-śaithilya-kuṇṭha-śastrāti-tṛptayaḥ || 35 ||",
+   "devanagari": "सशब्दमतिविद्धा तु स्रवेद्दुःखेन धार्यते ।\nभीमूर्छायन्त्रशैथिल्यकुण्ठशस्त्रातितृप्तयः ॥ ३५ ॥",
    "variants": []
   },
   {
@@ -21811,6 +21839,10 @@
     {
      "pada": "d",
      "reading": "gudasya śātanaṃ dhruvam     30.36dv  gudasya sadanād dhruvam"
+    },
+    {
+     "pada": "d",
+     "reading": "gudasya sadanaṃ dhruvam"
     }
    ]
   },
@@ -21822,8 +21854,8 @@
    "sthana_devanagari": "सूत्रस्थान",
    "chapter": 30,
    "verse": 37,
-   "iast": "30.36dv  gudasya sadanaṃ dhruvam\nnāsāyāṃ nāsikā-vaṃśa-daraṇākuñcanodbhavaḥ |\nbhavec ca viṣayā-jñānaṃ tad-vac chrotrādikeṣv api || 37 ||",
-   "devanagari": "३०.३६द्व्गुदस्य सदनं ध्रुवम्\nनासायां नासिकावंशदरणाकुञ्चनोद्भवः ।\nभवेच्च विषयाज्ञानं तद्वच्छ्रोत्रादिकेष्वपि ॥ ३७ ॥",
+   "iast": "nāsāyāṃ nāsikā-vaṃśa-daraṇākuñcanodbhavaḥ |\nbhavec ca viṣayā-jñānaṃ tad-vac chrotrādikeṣv api || 37 ||",
+   "devanagari": "नासायां नासिकावंशदरणाकुञ्चनोद्भवः ।\nभवेच्च विषयाज्ञानं तद्वच्छ्रोत्रादिकेष्वपि ॥ ३७ ॥",
    "variants": []
   },
   {
@@ -25508,6 +25540,10 @@
     {
      "pada": "a",
      "reading": "alpa-pitta-kapha-jīvita-nidrāḥ     3.86av  alpa-vitta-kapha-jīvita-nidrāḥ"
+    },
+    {
+     "pada": "a",
+     "reading": "alpa-pitta-bala-jīvita-nidrāḥ"
     }
    ]
   },
@@ -25519,8 +25555,8 @@
    "sthana_devanagari": "शारीरस्थान",
    "chapter": 3,
    "verse": 87,
-   "iast": "3.86av  alpa-pitta-bala-jīvita-nidrāḥ\nmadhurāmla-paṭūṣṇa-sātmya-kāṅkṣāḥ kṛśa-dīrghākṛtayaḥ sa-śabda-yātāḥ |\nna dṛḍhā na jitendriyā na cāryā na ca kāntā-dayitā bahu-prajā vā || 87 ||",
-   "devanagari": "३.८६अवल्पपित्तबलजीवितनिद्राः\nमधुराम्लपटूष्णसात्म्यकाङ्क्षाः कृशदीर्घाकृतयः सशब्दयाताः ।\nन दृढा न जितेन्द्रिया न चार्या न च कान्तादयिता बहुप्रजा वा ॥ ८७ ॥",
+   "iast": "madhurāmla-paṭūṣṇa-sātmya-kāṅkṣāḥ kṛśa-dīrghākṛtayaḥ sa-śabda-yātāḥ |\nna dṛḍhā na jitendriyā na cāryā na ca kāntā-dayitā bahu-prajā vā || 87 ||",
+   "devanagari": "मधुराम्लपटूष्णसात्म्यकाङ्क्षाः कृशदीर्घाकृतयः सशब्दयाताः ।\nन दृढा न जितेन्द्रिया न चार्या न च कान्तादयिता बहुप्रजा वा ॥ ८७ ॥",
    "variants": [
     {
      "pada": "b",
@@ -26289,6 +26325,10 @@
     {
      "pada": "b",
      "reading": "madhyau jaghana-pārśvayoḥ     4.22cv  nirdiṣṭau pārśva-saṃdhī tau"
+    },
+    {
+     "pada": "d",
+     "reading": "tiryag ūrdhvaṃ tayor vyadhāt"
     }
    ]
   },
@@ -26300,8 +26340,8 @@
    "sthana_devanagari": "शारीरस्थान",
    "chapter": 4,
    "verse": 23,
-   "iast": "4.22dv  tiryag ūrdhvaṃ tayor vyadhāt\nrakta-pūrita-koṣṭhasya śarīrāntara-saṃbhavaḥ |\nstana-mūlārjave bhāge pṛṣṭha-vaṃśāśraye sire || 23 ||",
-   "devanagari": "४.२२द्व्तिर्यगूर्ध्वं तयोर्व्यधात्\nरक्तपूरितकोष्ठस्य शरीरान्तरसंभवः ।\nस्तनमूलार्जवे भागे पृष्ठवंशाश्रये सिरे ॥ २३ ॥",
+   "iast": "rakta-pūrita-koṣṭhasya śarīrāntara-saṃbhavaḥ |\nstana-mūlārjave bhāge pṛṣṭha-vaṃśāśraye sire || 23 ||",
+   "devanagari": "रक्तपूरितकोष्ठस्य शरीरान्तरसंभवः ।\nस्तनमूलार्जवे भागे पृष्ठवंशाश्रये सिरे ॥ २३ ॥",
    "variants": []
   },
   {
@@ -28837,6 +28877,10 @@
     {
      "pada": "c",
      "reading": "śastriṇaṃ daṇḍinaṃ khaṇḍaṃ     6.2dv  muṇḍa-śmaśruṃ jaṭā-dharam"
+    },
+    {
+     "pada": "d",
+     "reading": "muṇḍaṃ śmaśru-jaṭā-dharam"
     }
    ]
   },
@@ -28848,8 +28892,8 @@
    "sthana_devanagari": "शारीरस्थान",
    "chapter": 6,
    "verse": 3,
-   "iast": "6.2dv  muṇḍaṃ śmaśru-jaṭā-dharam\na-maṅgalāhvayaṃ krūra-karmāṇaṃ malinaṃ striyam |\nanekaṃ vyādhitaṃ vyaṅgaṃ rakta-mālyānulepanam || 3 ||",
-   "devanagari": "६.२द्व्मुण्डं श्मश्रुजटाधरम्\nअमङ्गलाह्वयं क्रूरकर्माणं मलिनं स्त्रियम् ।\nअनेकं व्याधितं व्यङ्गं रक्तमाल्यानुलेपनम् ॥ ३ ॥",
+   "iast": "a-maṅgalāhvayaṃ krūra-karmāṇaṃ malinaṃ striyam |\nanekaṃ vyādhitaṃ vyaṅgaṃ rakta-mālyānulepanam || 3 ||",
+   "devanagari": "अमङ्गलाह्वयं क्रूरकर्माणं मलिनं स्त्रियम् ।\nअनेकं व्याधितं व्यङ्गं रक्तमाल्यानुलेपनम् ॥ ३ ॥",
    "variants": []
   },
   {
@@ -40128,6 +40172,10 @@
     {
      "pada": "a",
      "reading": "viḍ-āvṛte 'ti-viḍ-rodhaḥ"
+    },
+    {
+     "pada": "b",
+     "reading": "sve sthāne parikṛntati"
     }
    ]
   },
@@ -40139,8 +40187,8 @@
    "sthana_devanagari": "निदानस्थान",
    "chapter": 16,
    "verse": 41,
-   "iast": "16.40bv  sve sthāne parikṛntati\nśakṛt pīḍitam annena duḥkhaṃ śuṣkaṃ cirāt sṛjet |\nsarva-dhātv-āvṛte vāyau śroṇi-vaṅkṣaṇa-pṛṣṭha-ruk || 41 ||",
-   "devanagari": "१६.४०ब्व्स्वे स्थाने परिकृन्तति\nशकृत्पीडितमन्नेन दुःखं शुष्कं चिरात्सृजेत् ।\nसर्वधात्वावृते वायौ श्रोणिवङ्क्षणपृष्ठरुक् ॥ ४१ ॥",
+   "iast": "śakṛt pīḍitam annena duḥkhaṃ śuṣkaṃ cirāt sṛjet |\nsarva-dhātv-āvṛte vāyau śroṇi-vaṅkṣaṇa-pṛṣṭha-ruk || 41 ||",
+   "devanagari": "शकृत्पीडितमन्नेन दुःखं शुष्कं चिरात्सृजेत् ।\nसर्वधात्वावृते वायौ श्रोणिवङ्क्षणपृष्ठरुक् ॥ ४१ ॥",
    "variants": []
   },
   {
@@ -59096,6 +59144,10 @@
     {
      "pada": "a",
      "reading": "chittvā chittvāśayāt kṣāraḥ     14.108av  chittvā bhittvāśayaṃ kṣāraḥ"
+    },
+    {
+     "pada": "b",
+     "reading": "kṣāra-tvāt pātayaty adhaḥ"
     }
    ]
   },
@@ -59107,8 +59159,8 @@
    "sthana_devanagari": "चिकित्सास्थान",
    "chapter": 14,
    "verse": 109,
-   "iast": "14.108bv  kṣāra-tvāt pātayaty adhaḥ\nyojayed āsavāriṣṭān nigadān mārga-śuddhaye |\nśālayaḥ ṣaṣṭikā jīrṇāḥ kulatthā jāṅgalaṃ palam || 109 ||",
-   "devanagari": "१४.१०८ब्व्क्षारत्वात्पातयत्यधः\nयोजयेदासवारिष्टान्निगदान्मार्गशुद्धये ।\nशालयः षष्टिका जीर्णाः कुलत्था जाङ्गलं पलम् ॥ १०९ ॥",
+   "iast": "yojayed āsavāriṣṭān nigadān mārga-śuddhaye |\nśālayaḥ ṣaṣṭikā jīrṇāḥ kulatthā jāṅgalaṃ palam || 109 ||",
+   "devanagari": "योजयेदासवारिष्टान्निगदान्मार्गशुद्धये ।\nशालयः षष्टिका जीर्णाः कुलत्था जाङ्गलं पलम् ॥ १०९ ॥",
    "variants": []
   },
   {
@@ -67226,6 +67278,10 @@
     },
     {
      "pada": "d",
+     "reading": "gandha-saṃpat-sukhocitam"
+    },
+    {
+     "pada": "d",
      "reading": "gandhaṃ samyak sukhocitam"
     }
    ]
@@ -67238,8 +67294,8 @@
    "sthana_devanagari": "कल्पस्थान",
    "chapter": 1,
    "verse": 35,
-   "iast": "1.34dv  gandha-saṃpat-sukhocitam\nkāsa-gulmodara-gare vāte śleṣmāśaya-sthite |\nkaphe ca kaṇṭha-vaktra-sthe kapha-saṃcaya-jeṣu ca || 35 ||",
-   "devanagari": "१.३४द्व्गन्धसंपत्सुखोचितम्\nकासगुल्मोदरगरे वाते श्लेष्माशयस्थिते ।\nकफे च कण्ठवक्त्रस्थे कफसंचयजेषु च ॥ ३५ ॥",
+   "iast": "kāsa-gulmodara-gare vāte śleṣmāśaya-sthite |\nkaphe ca kaṇṭha-vaktra-sthe kapha-saṃcaya-jeṣu ca || 35 ||",
+   "devanagari": "कासगुल्मोदरगरे वाते श्लेष्माशयस्थिते ।\nकफे च कण्ठवक्त्रस्थे कफसंचयजेषु च ॥ ३५ ॥",
    "variants": [
     {
      "pada": "d",
@@ -67623,6 +67679,10 @@
      "reading": "dvi-dhā kṛtvekṣu-gaṇḍikāḥ     2.12bv  dvi-dhā kṛtvekṣu-kaṇḍikām"
     },
     {
+     "pada": "b",
+     "reading": "dvi-dhā kṛtvekṣu-kāṇḍikām"
+    },
+    {
      "pada": "c",
      "reading": "ekī-kṛtaṃ ca tat svinnaṃ     2.12cv  ekī-kṛtya ca su-svinnaṃ     2.12cv"
     }
@@ -67636,8 +67696,8 @@
    "sthana_devanagari": "कल्पस्थान",
    "chapter": 2,
    "verse": 13,
-   "iast": "2.12bv  dvi-dhā kṛtvekṣu-kāṇḍikām\nekī-kṛtya tu tat svinnaṃ\nbhṛṅgailābhyāṃ samā nīlī tais trivṛtaiś ca śarkarā |\ncūrṇaṃ phala-rasa-kṣaudra-saktubhis tarpaṇaṃ pibet || 13 ||",
-   "devanagari": "२.१२ब्व्द्विधा कृत्वेक्षुकाण्डिकाम्\nएकीकृत्य तु तत्स्विन्नं\nभृङ्गैलाभ्यां समा नीली तैस्त्रिवृतैश्च शर्करा ।\nचूर्णं फलरसक्षौद्रसक्तुभिस्तर्पणं पिबेत् ॥ १३ ॥",
+   "iast": "ekī-kṛtya tu tat svinnaṃ\nbhṛṅgailābhyāṃ samā nīlī tais trivṛtaiś ca śarkarā |\ncūrṇaṃ phala-rasa-kṣaudra-saktubhis tarpaṇaṃ pibet || 13 ||",
+   "devanagari": "एकीकृत्य तु तत्स्विन्नं\nभृङ्गैलाभ्यां समा नीली तैस्त्रिवृतैश्च शर्करा ।\nचूर्णं फलरसक्षौद्रसक्तुभिस्तर्पणं पिबेत् ॥ १३ ॥",
    "variants": [
     {
      "pada": "a",
@@ -70000,6 +70060,10 @@
     },
     {
      "pada": "d",
+     "reading": "kṣīrādyaiś caiva mārdavam"
+    },
+    {
+     "pada": "d",
      "reading": "ghṛta-kṣīrais tu mārdavam"
     }
    ]
@@ -70012,8 +70076,8 @@
    "sthana_devanagari": "कल्पस्थान",
    "chapter": 4,
    "verse": 70,
-   "iast": "4.69dv  kṣīrādyaiś caiva mārdavam\nbala-kāla-roga-doṣa-prakṛtīḥ pravibhajya yojito vastiḥ |\nsvaiḥ svair auṣadha-vargaiḥ svān svān rogān nivartayati || 70 ||",
-   "devanagari": "४.६९द्व्क्षीराद्यैश्चैव मार्दवम्\nबलकालरोगदोषप्रकृतीः प्रविभज्य योजितो वस्तिः ।\nस्वैः स्वैरौषधवर्गैः स्वान्स्वान्रोगान्निवर्तयति ॥ ७० ॥",
+   "iast": "bala-kāla-roga-doṣa-prakṛtīḥ pravibhajya yojito vastiḥ |\nsvaiḥ svair auṣadha-vargaiḥ svān svān rogān nivartayati || 70 ||",
+   "devanagari": "बलकालरोगदोषप्रकृतीः प्रविभज्य योजितो वस्तिः ।\nस्वैः स्वैरौषधवर्गैः स्वान्स्वान्रोगान्निवर्तयति ॥ ७० ॥",
    "variants": [
     {
      "pada": "b",
@@ -73661,6 +73725,10 @@
      "reading": "kṣata-jihvaḥ kvaṇan bāḍham     3.33cv  kṣata-jihvaḥ kvaṇed gāḍham"
     },
     {
+     "pada": "c",
+     "reading": "kṣata-jihvo vamed bāḍham"
+    },
+    {
      "pada": "d",
      "reading": "a-sukhī sāsra-locanaḥ"
     }
@@ -73674,8 +73742,8 @@
    "sthana_devanagari": "उत्तरस्थान",
    "chapter": 3,
    "verse": 34,
-   "iast": "3.33cv  kṣata-jihvo vamed bāḍham\ndur-varṇo hīna-vacanaḥ pūti-gandhiś ca jāyate |\nkṣāmo mūtra-purīṣaṃ svaṃ mṛdnāti na jugupsate || 34 ||",
-   "devanagari": "३.३३च्व्क्षतजिह्वो वमेद्बाढम्\nदुर्वर्णो हीनवचनः पूतिगन्धिश्च जायते ।\nक्षामो मूत्रपुरीषं स्वं मृद्नाति न जुगुप्सते ॥ ३४ ॥",
+   "iast": "dur-varṇo hīna-vacanaḥ pūti-gandhiś ca jāyate |\nkṣāmo mūtra-purīṣaṃ svaṃ mṛdnāti na jugupsate || 34 ||",
+   "devanagari": "दुर्वर्णो हीनवचनः पूतिगन्धिश्च जायते ।\nक्षामो मूत्रपुरीषं स्वं मृद्नाति न जुगुप्सते ॥ ३४ ॥",
    "variants": [
     {
      "pada": "b",
@@ -75949,6 +76017,10 @@
     {
      "pada": "a",
      "reading": "kapha-pittodbhave 'py ādau     6.19cv  snigdha-svinnasya vastīṃś ca"
+    },
+    {
+     "pada": "d",
+     "reading": "śirasaś ca virecanam"
     }
    ]
   },
@@ -75960,8 +76032,8 @@
    "sthana_devanagari": "उत्तरस्थान",
    "chapter": 6,
    "verse": 20,
-   "iast": "6.19dv  śirasaś ca virecanam\ntathāsya śuddha-dehasya prasādaṃ labhate manaḥ |\nittham apy anuvṛttau tu tīkṣṇaṃ nāvanam añjanam || 20 ||",
-   "devanagari": "६.१९द्व्शिरसश्च विरेचनम्\nतथास्य शुद्धदेहस्य प्रसादं लभते मनः ।\nइत्थमप्यनुवृत्तौ तु तीक्ष्णं नावनमञ्जनम् ॥ २० ॥",
+   "iast": "tathāsya śuddha-dehasya prasādaṃ labhate manaḥ |\nittham apy anuvṛttau tu tīkṣṇaṃ nāvanam añjanam || 20 ||",
+   "devanagari": "तथास्य शुद्धदेहस्य प्रसादं लभते मनः ।\nइत्थमप्यनुवृत्तौ तु तीक्ष्णं नावनमञ्जनम् ॥ २० ॥",
    "variants": [
     {
      "pada": "a",
@@ -78937,6 +79009,10 @@
      "reading": "doṣānubandhāc chukreṣu     11.29bv  snigdhā rūkṣā varā ghṛtam"
     },
     {
+     "pada": "b",
+     "reading": "snigdha-rūkṣa-varā ghṛtam"
+    },
+    {
      "pada": "c",
      "reading": "tiktam ūrdhvam asṛk-srāva-     11.29dv  -reka-sekādi ceṣyate"
     }
@@ -78950,8 +79026,8 @@
    "sthana_devanagari": "उत्तरस्थान",
    "chapter": 11,
    "verse": 30,
-   "iast": "11.29bv  snigdha-rūkṣa-varā ghṛtam\ntris trivṛd-vāriṇā pakvaṃ kṣata-śukre ghṛtaṃ pibet |\nsirayānu hared raktaṃ jalaukobhiś ca locanāt || 30 ||",
-   "devanagari": "११.२९ब्व्स्निग्धरूक्षवरा घृतम्\nत्रिस्त्रिवृद्वारिणा पक्वं क्षतशुक्रे घृतं पिबेत् ।\nसिरयानु हरेद्रक्तं जलौकोभिश्च लोचनात् ॥ ३० ॥",
+   "iast": "tris trivṛd-vāriṇā pakvaṃ kṣata-śukre ghṛtaṃ pibet |\nsirayānu hared raktaṃ jalaukobhiś ca locanāt || 30 ||",
+   "devanagari": "त्रिस्त्रिवृद्वारिणा पक्वं क्षतशुक्रे घृतं पिबेत् ।\nसिरयानु हरेद्रक्तं जलौकोभिश्च लोचनात् ॥ ३० ॥",
    "variants": []
   },
   {
@@ -81830,6 +81906,10 @@
     {
      "pada": "c",
      "reading": "tad-vaj jihmaṃ bhaven netraṃ     15.7cv  tad-van netraṃ bhavej jihmam"
+    },
+    {
+     "pada": "d",
+     "reading": "śūnaṃ vā vāta-paryaye"
     }
    ]
   },
@@ -81841,8 +81921,8 @@
    "sthana_devanagari": "उत्तरस्थान",
    "chapter": 15,
    "verse": 8,
-   "iast": "15.7dv  śūnaṃ vā vāta-paryaye\ndāho dhūmāyanaṃ śophaḥ śyāva-tā vartmano bahiḥ |\nantaḥ-kledo 'śru pītoṣṇaṃ rāgaḥ pītābha-darśanam || 8 ||",
-   "devanagari": "१५.७द्व्शूनं वा वातपर्यये\nदाहो धूमायनं शोफः श्यावता वर्त्मनो बहिः ।\nअन्तःक्लेदोऽश्रु पीतोष्णं रागः पीताभदर्शनम् ॥ ८ ॥",
+   "iast": "dāho dhūmāyanaṃ śophaḥ śyāva-tā vartmano bahiḥ |\nantaḥ-kledo 'śru pītoṣṇaṃ rāgaḥ pītābha-darśanam || 8 ||",
+   "devanagari": "दाहो धूमायनं शोफः श्यावता वर्त्मनो बहिः ।\nअन्तःक्लेदोऽश्रु पीतोष्णं रागः पीताभदर्शनम् ॥ ८ ॥",
    "variants": []
   },
   {
@@ -89563,6 +89643,10 @@
     {
      "pada": "d",
      "reading": "siddhaiḥ piṣṭaiḥ pralepayet     25.33dv  siddhaṃ piṣṭaṃ pralepayet"
+    },
+    {
+     "pada": "d",
+     "reading": "dugdha-piṣṭaiḥ pralepayet"
     }
    ]
   },
@@ -89574,8 +89658,8 @@
    "sthana_devanagari": "उत्तरस्थान",
    "chapter": 25,
    "verse": 34,
-   "iast": "25.33dv  dugdha-piṣṭaiḥ pralepayet\nvilīyate sa cen naivaṃ tatas tam upanāhayet |\na-vidagdhas tathā śāntiṃ vidagdhaḥ pākam aśnute || 34 ||",
-   "devanagari": "२५.३३द्व्दुग्धपिष्टैः प्रलेपयेत्\nविलीयते स चेन्नैवं ततस्तमुपनाहयेत् ।\nअविदग्धस्तथा शान्तिं विदग्धः पाकमश्नुते ॥ ३४ ॥",
+   "iast": "vilīyate sa cen naivaṃ tatas tam upanāhayet |\na-vidagdhas tathā śāntiṃ vidagdhaḥ pākam aśnute || 34 ||",
+   "devanagari": "विलीयते स चेन्नैवं ततस्तमुपनाहयेत् ।\nअविदग्धस्तथा शान्तिं विदग्धः पाकमश्नुते ॥ ३४ ॥",
    "variants": []
   },
   {
@@ -89807,6 +89891,10 @@
     {
      "pada": "a",
      "reading": "vraṇān su-duḥkha-sādhyāṃś ca     25.50bv  yojayet kṣāra-karmaṇā"
+    },
+    {
+     "pada": "d",
+     "reading": "ye cānye kṣata-vāhinaḥ"
     }
    ]
   },
@@ -89818,8 +89906,8 @@
    "sthana_devanagari": "उत्तरस्थान",
    "chapter": 25,
    "verse": 51,
-   "iast": "25.50dv  ye cānye kṣata-vāhinaḥ\nchinnāś ca saṃdhayo yeṣāṃ yathoktair ye ca śodhanaiḥ |\nśodhyamānā na śudhyanti śodhyāḥ syus te 'gni-karmaṇā || 51 ||",
-   "devanagari": "२५.५०द्व्ये चान्ये क्षतवाहिनः\nछिन्नाश्च संधयो येषां यथोक्तैर्ये च शोधनैः ।\nशोध्यमाना न शुध्यन्ति शोध्याः स्युस्तेऽग्निकर्मणा ॥ ५१ ॥",
+   "iast": "chinnāś ca saṃdhayo yeṣāṃ yathoktair ye ca śodhanaiḥ |\nśodhyamānā na śudhyanti śodhyāḥ syus te 'gni-karmaṇā || 51 ||",
+   "devanagari": "छिन्नाश्च संधयो येषां यथोक्तैर्ये च शोधनैः ।\nशोध्यमाना न शुध्यन्ति शोध्याः स्युस्तेऽग्निकर्मणा ॥ ५१ ॥",
    "variants": [
     {
      "pada": "b",
@@ -91437,6 +91525,10 @@
     {
      "pada": "a",
      "reading": "saṃdhīṃś cira-vimuktāṃś ca     27.30cv  uktair vidhānair yuktyā ca"
+    },
+    {
+     "pada": "c",
+     "reading": "uktair vidhānair yuktyā vā"
     }
    ]
   },
@@ -91448,8 +91540,8 @@
    "sthana_devanagari": "उत्तरस्थान",
    "chapter": 27,
    "verse": 31,
-   "iast": "27.30cv  uktair vidhānair yuktyā vā\na-saṃdhi-bhagne rūḍhe tu viṣamolbaṇa-sādhite |\nāpothya bhaṅgaṃ yamayet tato bhagna-vad ācaret || 31 ||",
-   "devanagari": "२७.३०च्वुक्तैर्विधानैर्युक्त्या वा\nअसंधिभग्ने रूढे तु विषमोल्बणसाधिते ।\nआपोथ्य भङ्गं यमयेत्ततो भग्नवदाचरेत् ॥ ३१ ॥",
+   "iast": "a-saṃdhi-bhagne rūḍhe tu viṣamolbaṇa-sādhite |\nāpothya bhaṅgaṃ yamayet tato bhagna-vad ācaret || 31 ||",
+   "devanagari": "असंधिभग्ने रूढे तु विषमोल्बणसाधिते ।\nआपोथ्य भङ्गं यमयेत्ततो भग्नवदाचरेत् ॥ ३१ ॥",
    "variants": [
     {
      "pada": "a",
@@ -92113,6 +92205,10 @@
     {
      "pada": "a",
      "reading": "yateta koṣṭha-śuddhyai ca     28.33av  yateta koṣṭha-saṃśuddhau"
+    },
+    {
+     "pada": "d",
+     "reading": "tri-phalā-rasa-kalkitaḥ"
     }
    ]
   },
@@ -92124,8 +92220,8 @@
    "sthana_devanagari": "उत्तरस्थान",
    "chapter": 28,
    "verse": 34,
-   "iast": "28.33dv  tri-phalā-rasa-kalkitaḥ\njyotiṣmatī-malayu-lāṅgali-śelu-pāṭhā-kumbhāgni-sarja-karavīra-vacā-sudhārkaiḥ |\nabhyañjanāya vipaceta bhagandarāṇāṃ tailaṃ vadanti paramaṃ hitam etad eṣām || 34 ||",
-   "devanagari": "२८.३३द्व्त्रिफलारसकल्कितः\nज्योतिष्मतीमलयुलाङ्गलिशेलुपाठाकुम्भाग्निसर्जकरवीरवचासुधार्कैः ।\nअभ्यञ्जनाय विपचेत भगन्दराणां तैलं वदन्ति परमं हितमेतदेषाम् ॥ ३४ ॥",
+   "iast": "jyotiṣmatī-malayu-lāṅgali-śelu-pāṭhā-kumbhāgni-sarja-karavīra-vacā-sudhārkaiḥ |\nabhyañjanāya vipaceta bhagandarāṇāṃ tailaṃ vadanti paramaṃ hitam etad eṣām || 34 ||",
+   "devanagari": "ज्योतिष्मतीमलयुलाङ्गलिशेलुपाठाकुम्भाग्निसर्जकरवीरवचासुधार्कैः ।\nअभ्यञ्जनाय विपचेत भगन्दराणां तैलं वदन्ति परमं हितमेतदेषाम् ॥ ३४ ॥",
    "variants": [
     {
      "pada": "b",
@@ -95717,7 +95813,15 @@
     },
     {
      "pada": "a",
+     "reading": "śuṇṭhī-madhuka-mārdvīka-"
+    },
+    {
+     "pada": "a",
      "reading": "śuṇṭhī-madhuka-mārdvīkā-     34.47av  śuṇṭhī-madhūka-mṛdvīkā-"
+    },
+    {
+     "pada": "d",
+     "reading": "-dhātakī-madhukāñjanam"
     }
    ]
   },
@@ -95729,8 +95833,8 @@
    "sthana_devanagari": "उत्तरस्थान",
    "chapter": 34,
    "verse": 48,
-   "iast": "34.47av  śuṇṭhī-madhuka-mārdvīka-\n34.47dv  -dhātakī-madhukāñjanam\npuṣye gṛhītvā saṃcūrṇya sa-kṣaudraṃ taṇḍulāmbhasā |\npibed arśaḥsv atīsāre raktaṃ yaś copaveśyate || 48 ||",
-   "devanagari": "३४.४७अव्शुण्ठीमधुकमार्द्वीक\n३४.४७द्व्धातकीमधुकाञ्जनम्\nपुष्ये गृहीत्वा संचूर्ण्य सक्षौद्रं तण्डुलाम्भसा ।\nपिबेदर्शःस्वतीसारे रक्तं यश्चोपवेश्यते ॥ ४८ ॥",
+   "iast": "puṣye gṛhītvā saṃcūrṇya sa-kṣaudraṃ taṇḍulāmbhasā |\npibed arśaḥsv atīsāre raktaṃ yaś copaveśyate || 48 ||",
+   "devanagari": "पुष्ये गृहीत्वा संचूर्ण्य सक्षौद्रं तण्डुलाम्भसा ।\nपिबेदर्शःस्वतीसारे रक्तं यश्चोपवेश्यते ॥ ४८ ॥",
    "variants": [
     {
      "pada": "b",
@@ -95990,6 +96094,10 @@
      "reading": "piṣṭvākṣāṃśair ghṛta-prasthaṃ     34.65bv  pacet kṣīraṃ catur-guṇam"
     },
     {
+     "pada": "b",
+     "reading": "pacet kṣīre catur-guṇe"
+    },
+    {
      "pada": "d",
      "reading": "tat sarveṣu ca śasyate"
     }
@@ -96003,8 +96111,8 @@
    "sthana_devanagari": "उत्तरस्थान",
    "chapter": 34,
    "verse": 66,
-   "iast": "34.65bv  pacet kṣīre catur-guṇe\nāyuṣyaṃ pauṣṭikaṃ medhyaṃ dhanyaṃ puṃ-savanaṃ param |\nphala-sarpir iti khyātaṃ puṣpe pītaṃ phalāya yat || 66 ||",
-   "devanagari": "३४.६५ब्व्पचेत्क्षीरे चतुर्गुणे\nआयुष्यं पौष्टिकं मेध्यं धन्यं पुंसवनं परम् ।\nफलसर्पिरिति ख्यातं पुष्पे पीतं फलाय यत् ॥ ६६ ॥",
+   "iast": "āyuṣyaṃ pauṣṭikaṃ medhyaṃ dhanyaṃ puṃ-savanaṃ param |\nphala-sarpir iti khyātaṃ puṣpe pītaṃ phalāya yat || 66 ||",
+   "devanagari": "आयुष्यं पौष्टिकं मेध्यं धन्यं पुंसवनं परम् ।\nफलसर्पिरिति ख्यातं पुष्पे पीतं फलाय यत् ॥ ६६ ॥",
    "variants": []
   },
   {
@@ -97218,6 +97326,10 @@
      "reading": "-mātraṃ gātreṣu dṛśyate     36.11cv  na tu daṃṣṭrā-kṣataṃ daṃśaṃ"
     },
     {
+     "pada": "c",
+     "reading": "na tu daṃṣṭrā-kṣataṃ daṃśe"
+    },
+    {
      "pada": "d",
      "reading": "taṃ tuṇḍāhataṃ ādiśet"
     }
@@ -97231,8 +97343,8 @@
    "sthana_devanagari": "उत्तरस्थान",
    "chapter": 36,
    "verse": 12,
-   "iast": "36.11cv  na tu daṃṣṭrā-kṣataṃ daṃśe\nekaṃ daṃṣṭrā-padaṃ dve vā vyālīḍhākhyam a-śoṇitam |\ndaṃṣṭrā-pade sa-rakte dve vyāluptaṃ trīṇi tāni tu || 12 ||",
-   "devanagari": "३६.११च्व्न तु दंष्ट्राक्षतं दंशे\nएकं दंष्ट्रापदं द्वे वा व्यालीढाख्यमशोणितम् ।\nदंष्ट्रापदे सरक्ते द्वे व्यालुप्तं त्रीणि तानि तु ॥ १२ ॥",
+   "iast": "ekaṃ daṃṣṭrā-padaṃ dve vā vyālīḍhākhyam a-śoṇitam |\ndaṃṣṭrā-pade sa-rakte dve vyāluptaṃ trīṇi tāni tu || 12 ||",
+   "devanagari": "एकं दंष्ट्रापदं द्वे वा व्यालीढाख्यमशोणितम् ।\nदंष्ट्रापदे सरक्ते द्वे व्यालुप्तं त्रीणि तानि तु ॥ १२ ॥",
    "variants": [
     {
      "pada": "d",
@@ -97929,6 +98041,10 @@
     {
      "pada": "b",
      "reading": "nasyaṃ sa-madhu pākalam     36.58bv  nasyaṃ sa-madhu vālakam"
+    },
+    {
+     "pada": "b",
+     "reading": "nasyaṃ madhu sa-vālakam"
     }
    ]
   },
@@ -97940,8 +98056,8 @@
    "sthana_devanagari": "उत्तरस्थान",
    "chapter": 36,
    "verse": 59,
-   "iast": "36.58bv  nasyaṃ madhu sa-vālakam\ncāraṭī-nākulībhyāṃ vā tīkṣṇa-mūla-viṣeṇa vā |\npānaṃ ca kṣaudra-mañjiṣṭhā-gṛha-dhūma-yutaṃ ghṛtam || 59 ||",
-   "devanagari": "३६.५८ब्व्नस्यं मधु सवालकम्\nचारटीनाकुलीभ्यां वा तीक्ष्णमूलविषेण वा ।\nपानं च क्षौद्रमञ्जिष्ठागृहधूमयुतं घृतम् ॥ ५९ ॥",
+   "iast": "cāraṭī-nākulībhyāṃ vā tīkṣṇa-mūla-viṣeṇa vā |\npānaṃ ca kṣaudra-mañjiṣṭhā-gṛha-dhūma-yutaṃ ghṛtam || 59 ||",
+   "devanagari": "चारटीनाकुलीभ्यां वा तीक्ष्णमूलविषेण वा ।\nपानं च क्षौद्रमञ्जिष्ठागृहधूमयुतं घृतम् ॥ ५९ ॥",
    "variants": [
     {
      "pada": "c",
@@ -99290,6 +99406,10 @@
     {
      "pada": "d",
      "reading": "ūrdhvaṃ vādhaś ca kīṭakāḥ     37.59dv  ūrdhvaṃ cādhaś ca kīṭakaḥ"
+    },
+    {
+     "pada": "d",
+     "reading": "adhaś ca viṣa-kīṭakāḥ"
     }
    ]
   },
@@ -99301,8 +99421,8 @@
    "sthana_devanagari": "उत्तरस्थान",
    "chapter": 37,
    "verse": 60,
-   "iast": "lūtā nābher daśanty ūrdhvam\n37.59dv  adhaś ca viṣa-kīṭakāḥ\ntad-dūṣitaṃ ca vastrādi dehe pṛktaṃ vikāra-kṛt |\ndinārdhaṃ lakṣyate naiva daṃśo lūtā-viṣodbhavaḥ || 60 ||",
-   "devanagari": "लूता नाभेर्दशन्त्यूर्ध्वम्\n३७.५९द्वधश्च विषकीटकाः\nतद्दूषितं च वस्त्रादि देहे पृक्तं विकारकृत् ।\nदिनार्धं लक्ष्यते नैव दंशो लूताविषोद्भवः ॥ ६० ॥",
+   "iast": "lūtā nābher daśanty ūrdhvam\ntad-dūṣitaṃ ca vastrādi dehe pṛktaṃ vikāra-kṛt |\ndinārdhaṃ lakṣyate naiva daṃśo lūtā-viṣodbhavaḥ || 60 ||",
+   "devanagari": "लूता नाभेर्दशन्त्यूर्ध्वम्\nतद्दूषितं च वस्त्रादि देहे पृक्तं विकारकृत् ।\nदिनार्धं लक्ष्यते नैव दंशो लूताविषोद्भवः ॥ ६० ॥",
    "variants": []
   },
   {
@@ -99696,6 +99816,10 @@
     {
      "pada": "d",
      "reading": "ku-gatīr iva dārayanty ete     37.85dv  ku-matīr iva dārayanty ete"
+    },
+    {
+     "pada": "d",
+     "reading": "ku-matīr iva vārayanty ete"
     }
    ]
   },
@@ -99707,8 +99831,8 @@
    "sthana_devanagari": "उत्तरस्थान",
    "chapter": 37,
    "verse": 86,
-   "iast": "37.85dv  ku-matīr iva vārayanty ete\nlodhraṃ sevyaṃ padmakaṃ padma-reṇuḥ kālīyākhyaṃ candanaṃ yac ca raktam |\nkāntā-puṣpaṃ dugdhinīkā mṛṇālaṃ lūtāḥ sarvā ghnanti sarva-kriyābhiḥ || 86 ||",
-   "devanagari": "३७.८५द्व्कुमतीरिव वारयन्त्येते\nलोध्रं सेव्यं पद्मकं पद्मरेणुः कालीयाख्यं चन्दनं यच्च रक्तम् ।\nकान्तापुष्पं दुग्धिनीका मृणालं लूताः सर्वा घ्नन्ति सर्वक्रियाभिः ॥ ८६ ॥",
+   "iast": "lodhraṃ sevyaṃ padmakaṃ padma-reṇuḥ kālīyākhyaṃ candanaṃ yac ca raktam |\nkāntā-puṣpaṃ dugdhinīkā mṛṇālaṃ lūtāḥ sarvā ghnanti sarva-kriyābhiḥ || 86 ||",
+   "devanagari": "लोध्रं सेव्यं पद्मकं पद्मरेणुः कालीयाख्यं चन्दनं यच्च रक्तम् ।\nकान्तापुष्पं दुग्धिनीका मृणालं लूताः सर्वा घ्नन्ति सर्वक्रियाभिः ॥ ८६ ॥",
    "variants": []
   },
   {
@@ -99792,6 +99916,10 @@
     {
      "pada": "c",
      "reading": "śleṣmānubandha-bahv-ākhu-     38.5cv  śleṣmānuviddha-bahv-ākhu-"
+    },
+    {
+     "pada": "d",
+     "reading": "-potaka-cchardanaṃ sakṛt"
     }
    ]
   },
@@ -99803,8 +99931,8 @@
    "sthana_devanagari": "उत्तरस्थान",
    "chapter": 38,
    "verse": 6,
-   "iast": "38.5dv  -potaka-cchardanaṃ sakṛt\nvyavāyy ākhu-viṣaṃ kṛcchraṃ bhūyo bhūyaś ca kupyati |\nmūrchāṅga-śopha-vaivarṇya-kleda-śabdā-śruti-jvarāḥ || 6 ||",
-   "devanagari": "३८.५द्व्पोतकच्छर्दनं सकृत्\nव्यवाय्याखुविषं कृच्छ्रं भूयो भूयश्च कुप्यति ।\nमूर्छाङ्गशोफवैवर्ण्यक्लेदशब्दाश्रुतिज्वराः ॥ ६ ॥",
+   "iast": "vyavāyy ākhu-viṣaṃ kṛcchraṃ bhūyo bhūyaś ca kupyati |\nmūrchāṅga-śopha-vaivarṇya-kleda-śabdā-śruti-jvarāḥ || 6 ||",
+   "devanagari": "व्यवाय्याखुविषं कृच्छ्रं भूयो भूयश्च कुप्यति ।\nमूर्छाङ्गशोफवैवर्ण्यक्लेदशब्दाश्रुतिज्वराः ॥ ६ ॥",
    "variants": []
   },
   {
@@ -102073,6 +102201,10 @@
     {
      "pada": "c",
      "reading": "dhārayet sāmbu-kaṇikāṃ     39.121dv  muktāṃ karpūra-mālikām"
+    },
+    {
+     "pada": "d",
+     "reading": "muktā-karpūra-mālikām"
     }
    ]
   },
@@ -102084,8 +102216,8 @@
    "sthana_devanagari": "उत्तरस्थान",
    "chapter": 39,
    "verse": 122,
-   "iast": "39.121dv  muktā-karpūra-mālikām\nkuḍavo 'sya parā mātrā tad-ardhaṃ kevalasya tu |\npalaṃ piṣṭasya tan-majjñaḥ sa-bhaktaṃ prāk ca śīlayet || 122 ||",
-   "devanagari": "३९.१२१द्व्मुक्ताकर्पूरमालिकाम्\nकुडवोऽस्य परा मात्रा तदर्धं केवलस्य तु ।\nपलं पिष्टस्य तन्मज्ज्ञः सभक्तं प्राक्च शीलयेत् ॥ १२२ ॥",
+   "iast": "kuḍavo 'sya parā mātrā tad-ardhaṃ kevalasya tu |\npalaṃ piṣṭasya tan-majjñaḥ sa-bhaktaṃ prāk ca śīlayet || 122 ||",
+   "devanagari": "कुडवोऽस्य परा मात्रा तदर्धं केवलस्य तु ।\nपलं पिष्टस्य तन्मज्ज्ञः सभक्तं प्राक्च शीलयेत् ॥ १२२ ॥",
    "variants": []
   },
   {
@@ -102116,6 +102248,10 @@
      "reading": "madyam ekaṃ pibet tv atra     39.124bv  tṛṭ-[pra]vṛddhe jalānvitam"
     },
     {
+     "pada": "b",
+     "reading": "tṛḍ-vibandhe jalānvitam"
+    },
+    {
      "pada": "d",
      "reading": "phalāmbu parisikthikām     39.124dv  phalāmbu parisitthikām     39.124dv"
     },
@@ -102133,8 +102269,8 @@
    "sthana_devanagari": "उत्तरस्थान",
    "chapter": 39,
    "verse": 125,
-   "iast": "39.124bv  tṛḍ-vibandhe jalānvitam\nphalāmbu parisikthikam\ntat-kalkaṃ vā sama-ghṛtaṃ ghṛta-pātre khajāhatam |\nsthitaṃ daśāhād aśnīyāt tad-vad vā vasayā samam || 125 ||",
-   "devanagari": "३९.१२४ब्व्तृड्विबन्धे जलान्वितम्\nफलाम्बु परिसिक्थिकम्\nतत्कल्कं वा समघृतं घृतपात्रे खजाहतम् ।\nस्थितं दशाहादश्नीयात्तद्वद्वा वसया समम् ॥ १२५ ॥",
+   "iast": "phalāmbu parisikthikam\ntat-kalkaṃ vā sama-ghṛtaṃ ghṛta-pātre khajāhatam |\nsthitaṃ daśāhād aśnīyāt tad-vad vā vasayā samam || 125 ||",
+   "devanagari": "फलाम्बु परिसिक्थिकम्\nतत्कल्कं वा समघृतं घृतपात्रे खजाहतम् ।\nस्थितं दशाहादश्नीयात्तद्वद्वा वसया समम् ॥ १२५ ॥",
    "variants": [
     {
      "pada": "d",
@@ -102390,6 +102526,10 @@
     {
      "pada": "a",
      "reading": "kuṭī-praveśaḥ kṣamiṇāṃ     39.143av  kuṭī-praveśaḥ kṣīṇānāṃ"
+    },
+    {
+     "pada": "d",
+     "reading": "sūrya-mārutiko vidhiḥ"
     }
    ]
   },
@@ -102401,8 +102541,8 @@
    "sthana_devanagari": "उत्तरस्थान",
    "chapter": 39,
    "verse": 144,
-   "iast": "39.143dv  sūrya-mārutiko vidhiḥ\nvātātapa-sahā yogā vakṣyante 'to viśeṣataḥ |\nsukhopacārā bhraṃśe 'pi ye na dehasya bādhakāḥ || 144 ||",
-   "devanagari": "३९.१४३द्व्सूर्यमारुतिको विधिः\nवातातपसहा योगा वक्ष्यन्तेऽतो विशेषतः ।\nसुखोपचारा भ्रंशेऽपि ये न देहस्य बाधकाः ॥ १४४ ॥",
+   "iast": "vātātapa-sahā yogā vakṣyante 'to viśeṣataḥ |\nsukhopacārā bhraṃśe 'pi ye na dehasya bādhakāḥ || 144 ||",
+   "devanagari": "वातातपसहा योगा वक्ष्यन्तेऽतो विशेषतः ।\nसुखोपचारा भ्रंशेऽपि ये न देहस्य बाधकाः ॥ १४४ ॥",
    "variants": []
   },
   {

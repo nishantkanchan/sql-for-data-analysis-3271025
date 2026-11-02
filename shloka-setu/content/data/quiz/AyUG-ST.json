@@ -31,7 +31,7 @@
       "answer_index": 2,
       "explanation_en": "SS Sū 7: 101 yantras. Twenty is the number of śastras; 107 is the number of marmas; 60 is the number of vraṇa upakramas.",
       "explanation_hi": "सुश्रुत सूत्र 7: 101 यन्त्र। बीस शस्त्रों की संख्या है; 107 मर्मों की; 60 व्रण उपक्रमों की।",
-      "reference": "SS.sutra.7",
+      "reference": "SS.sutra.7.3",
       "difficulty": "easy",
       "exam_tags": [
         "university",
@@ -69,7 +69,7 @@
       "answer_index": 1,
       "explanation_en": "SS Sū 7: the hand is the pradhāna yantra, because no yantra can work without it. Among the instruments themselves, kaṅkamukha is praised as the best.",
       "explanation_hi": "सुश्रुत सूत्र 7: हाथ प्रधान यन्त्र है, क्योंकि उसके बिना कोई यन्त्र काम नहीं कर सकता। स्वयं यन्त्रों में कङ्कमुख को श्रेष्ठ बताया गया है।",
-      "reference": "SS.sutra.7",
+      "reference": "SS.sutra.7.3",
       "difficulty": "easy",
       "exam_tags": [
         "university",
@@ -107,7 +107,7 @@
       "answer_index": 0,
       "explanation_en": "SS Sū 7: kaṅkamukha is the best yantra because it enters easily, grips firmly, turns and extracts the foreign body without injury, and can be used in all parts of the body.",
       "explanation_hi": "सुश्रुत सूत्र 7: कङ्कमुख श्रेष्ठ यन्त्र है क्योंकि यह आसानी से भीतर जाता है, दृढ़ता से पकड़ता है, घूमता है और बिना क्षति के शल्य निकालता है, तथा शरीर के सभी भागों में प्रयोग हो सकता है।",
-      "reference": "SS.sutra.7",
+      "reference": "SS.sutra.7.22",
       "difficulty": "medium",
       "exam_tags": [
         "university",
@@ -145,7 +145,7 @@
       "answer_index": 0,
       "explanation_en": "SS Sū 7: svastika 24, saṃdaṃśa 2, tāla 2, nāḍī 20, śalākā 28 and upayantra 25 — total 101. The distractors are the counts of the other groups.",
       "explanation_hi": "सुश्रुत सूत्र 7: स्वस्तिक 24, संदंश 2, ताल 2, नाडी 20, शलाका 28 और उपयन्त्र 25 - कुल 101। अन्य विकल्प दूसरे वर्गों की संख्याएँ हैं।",
-      "reference": "SS.sutra.7",
+      "reference": "SS.sutra.7.6",
       "difficulty": "hard",
       "exam_tags": [
         "university",
@@ -183,7 +183,7 @@
       "answer_index": 0,
       "explanation_en": "Śalākā yantras (rods/probes) number 28, the largest group, followed by upayantra 25, svastika 24 and nāḍī 20 (SS Sū 7).",
       "explanation_hi": "शलाका यन्त्र 28 हैं, जो सबसे बड़ा वर्ग है; उसके बाद उपयन्त्र 25, स्वस्तिक 24 और नाडी 20 (सुश्रुत सूत्र 7)।",
-      "reference": "SS.sutra.7",
+      "reference": "SS.sutra.7.6",
       "difficulty": "hard",
       "exam_tags": [
         "university",
@@ -221,7 +221,7 @@
       "answer_index": 1,
       "explanation_en": "SS Sū 8 describes 20 śastras, from maṇḍalāgra and karapatra to baḍiśa, dantaśaṅku and eṣaṇī. 101 is the number of yantras; 8 is the number of śastrakarmas.",
       "explanation_hi": "सुश्रुत सूत्र 8 में 20 शस्त्र हैं, मण्डलाग्र और करपत्र से लेकर बडिश, दन्तशङ्कु और एषणी तक। 101 यन्त्रों की संख्या है; 8 शस्त्रकर्मों की।",
-      "reference": "SS.sutra.8",
+      "reference": "SS.sutra.8.3",
       "difficulty": "easy",
       "exam_tags": [
         "university",
@@ -259,8 +259,8 @@
       "answer_index": 0,
       "explanation_en": "Vrīhimukha (rice-grain tipped) is used for vyadhana, including sirāvyadha (SS Sū 8). Karapatra is a saw for bone, maṇḍalāgra for chedana/lekhana, and baḍiśa (hook) for āharaṇa.",
       "explanation_hi": "व्रीहिमुख (धान के दाने जैसी नोक) व्यधन में, सिराव्यध सहित, प्रयुक्त होता है (सुश्रुत सूत्र 8)। करपत्र अस्थि काटने की आरी है, मण्डलाग्र छेदन/लेखन के लिए और बडिश (काँटा) आहरण के लिए।",
-      "reference": "SS.sutra.8",
-      "difficulty": "medium",
+      "reference": "SS.sutra.8.4",
+      "difficulty": "easy",
       "exam_tags": [
         "university",
         "aiapget"
@@ -335,7 +335,7 @@
       "answer_index": 1,
       "explanation_en": "SS Sū 8: eight śastra doṣas — kuṇṭha (blunt), khaṇḍa (broken), tanu (too thin), sthūla (too thick), hrasva (too short), dīrgha (too long), vakra (bent) and khara-dhāra (rough edge).",
       "explanation_hi": "सुश्रुत सूत्र 8: आठ शस्त्र दोष - कुण्ठ (भोथरा), खण्ड (टूटा), तनु (बहुत पतला), स्थूल (बहुत मोटा), ह्रस्व (छोटा), दीर्घ (लम्बा), वक्र (टेढ़ा) और खरधार (खुरदरी धार)।",
-      "reference": "SS.sutra.8",
+      "reference": "SS.sutra.8.9",
       "difficulty": "hard",
       "exam_tags": [
         "university",
@@ -371,10 +371,10 @@
         }
       ],
       "answer_index": 3,
-      "explanation_en": "SS Sū 8: pāyana is done in kṣāra, jala or taila. Kṣāra-pāyana is for cutting bone and hard tissue, jala-pāyana for cutting and splitting flesh, and taila-pāyana for sirāvyadha and cutting snāyu. Ghee is not used.",
-      "explanation_hi": "सुश्रुत सूत्र 8: पायन क्षार, जल या तैल में होता है। क्षार पायन अस्थि जैसे कठोर ऊतक काटने के लिए, जल पायन मांस के छेदन-भेदन के लिए, और तैल पायन सिराव्यध व स्नायु छेदन के लिए। घृत का प्रयोग नहीं होता।",
-      "reference": "SS.sutra.8",
-      "difficulty": "medium",
+      "explanation_en": "SS Sū 8.12: pāyana is done in kṣāra, jala or taila. Kṣāra-pāyana is for arrows/foreign bodies and cutting bone, jala-pāyana for cutting and splitting flesh, and taila-pāyana for sirāvyadha and cutting snāyu. Ghee is not used.",
+      "explanation_hi": "सुश्रुत सूत्र 8: पायन क्षार, जल या तैल में होता है। क्षार पायन शर-शल्य और अस्थि छेदन के लिए, जल पायन मांस के छेदन-भेदन के लिए, और तैल पायन सिराव्यध व स्नायु छेदन के लिए। घृत का प्रयोग नहीं होता।",
+      "reference": "SS.sutra.8.12",
+      "difficulty": "hard",
       "exam_tags": [
         "university",
         "aiapget"
@@ -411,7 +411,7 @@
       "answer_index": 3,
       "explanation_en": "SS Sū 5: chedana, bhedana, lekhana, vedhana (vyadhana), eṣaṇa, āharaṇa, visrāvaṇa and sīvana. Bandhana (bandaging) is a separate post-operative procedure, not one of the eight.",
       "explanation_hi": "सुश्रुत सूत्र 5: छेदन, भेदन, लेखन, वेधन (व्यधन), एषण, आहरण, विस्रावण और सीवन। बन्धन (पट्टी बाँधना) अलग पश्चात् कर्म है, आठ में नहीं।",
-      "reference": "SS.sutra.5",
+      "reference": "SS.sutra.5.5",
       "difficulty": "easy",
       "exam_tags": [
         "university",
@@ -487,7 +487,7 @@
       "answer_index": 3,
       "explanation_en": "SS Sū 9: lekhana is practised on hide with hair; bhedana on a leather bag or bladder filled with water/mud; vedhana on vessels of dead animals and lotus stalks; eṣaṇa on worm-eaten wood or bamboo.",
       "explanation_hi": "सुश्रुत सूत्र 9: लेखन का अभ्यास रोमयुक्त चर्म पर; भेदन जल/कीचड़ से भरी चमड़े की थैली या मूत्राशय पर; वेधन मृत पशुओं की सिराओं और कमल नाल पर; एषण घुन लगी लकड़ी या बाँस पर।",
-      "reference": "SS.sutra.9",
+      "reference": "SS.sutra.9.4",
       "difficulty": "medium",
       "exam_tags": [
         "university",
@@ -563,7 +563,7 @@
       "answer_index": 0,
       "explanation_en": "SS Ci 1 describes ṣaṣṭi (60) upakramas for vraṇa, from apatarpaṇa to rakṣāvidhāna. Caraka (Ci 25) gives 36 upakramas.",
       "explanation_hi": "सुश्रुत चिकित्सा 1 में व्रण के षष्टि (60) उपक्रम हैं, अपतर्पण से रक्षाविधान तक। चरक (चिकित्सा 25) ने 36 उपक्रम बताए हैं।",
-      "reference": "SS.chikitsa.1",
+      "reference": "SS.chikitsa.1.8",
       "difficulty": "easy",
       "exam_tags": [
         "university",
@@ -601,7 +601,7 @@
       "answer_index": 3,
       "explanation_en": "SS Ci 2: six sadyovraṇas — chinna (incised), bhinna (punctured into a cavity), viddha (pierced), kṣata (lacerated), piccita (crushed) and ghṛṣṭa (abraded).",
       "explanation_hi": "सुश्रुत चिकित्सा 2: छह सद्योव्रण - छिन्न (कटा), भिन्न (कोष्ठ में भेदा), विद्ध (बिंधा), क्षत (फटा), पिच्चित (कुचला) और घृष्ट (रगड़ से छिला)।",
-      "reference": "SS.chikitsa.2",
+      "reference": "SS.chikitsa.2.9",
       "difficulty": "medium",
       "exam_tags": [
         "university",
@@ -677,7 +677,7 @@
       "answer_index": 0,
       "explanation_en": "SS Sū 22: eight vraṇa vastu — tvak, māṃsa, sirā, snāyu, asthi, sandhi, koṣṭha and marma.",
       "explanation_hi": "सुश्रुत सूत्र 22: आठ व्रण वस्तु - त्वक्, मांस, सिरा, स्नायु, अस्थि, सन्धि, कोष्ठ और मर्म।",
-      "reference": "SS.sutra.22",
+      "reference": "SS.sutra.22.3",
       "difficulty": "medium",
       "exam_tags": [
         "university",
@@ -821,7 +821,7 @@
       "answer_index": 0,
       "explanation_en": "SS Sū 11: kṣāra is the chief among śastra and anuśastra because it can cut, split and scrape, acts on all three doṣas, and can be used where instruments cannot reach. However, agni is said to be even superior to kṣāra (SS Sū 12).",
       "explanation_hi": "सुश्रुत सूत्र 11: क्षार शस्त्र और अनुशस्त्र में प्रधानतम है, क्योंकि यह छेदन, भेदन, लेखन करता है, त्रिदोषघ्न है और जहाँ शस्त्र न पहुँचें वहाँ भी प्रयोग होता है। परन्तु अग्नि को क्षार से भी श्रेष्ठ बताया गया है (सुश्रुत सूत्र 12)।",
-      "reference": "SS.sutra.11",
+      "reference": "SS.sutra.11.3",
       "difficulty": "medium",
       "exam_tags": [
         "university",
@@ -933,8 +933,8 @@
         }
       ],
       "answer_index": 0,
-      "explanation_en": "The standardised method (CCRAS/BHU): 11 coats of snuhī latex alone, then 7 coats of snuhī latex with apāmārga kṣāra, then 3 coats of snuhī latex with haridrā powder — 21 coats in all, drying after each.",
-      "explanation_hi": "मानक विधि (CCRAS/BHU): पहले केवल स्नुही क्षीर के 11 लेप, फिर स्नुही क्षीर व अपामार्ग क्षार के 7 लेप, फिर स्नुही क्षीर व हरिद्रा चूर्ण के 3 लेप - कुल 21 लेप, हर बार सुखाकर।",
+      "explanation_en": "Suśruta already advises kṣārasūtra for nāḍīvraṇa (SS Ci 17.29) and Caraka for bhagandara (CS Ci 12.97). The standardised modern method (CCRAS/BHU): 11 coats of snuhī latex alone, then 7 coats of snuhī latex with apāmārga kṣāra, then 3 coats of snuhī latex with haridrā powder — 21 coats in all, drying after each.",
+      "explanation_hi": "सुश्रुत नाडीव्रण में (सुश्रुत चि. 17.29) और चरक भगन्दर में (चरक चि. 12.97) क्षारसूत्र बताते हैं। आधुनिक मानक विधि (CCRAS/BHU): पहले केवल स्नुही क्षीर के 11 लेप, फिर स्नुही क्षीर व अपामार्ग क्षार के 7 लेप, फिर स्नुही क्षीर व हरिद्रा चूर्ण के 3 लेप - कुल 21 लेप, हर बार सुखाकर।",
       "reference": "CCRAS standard kṣārasūtra method",
       "difficulty": "hard",
       "exam_tags": [
@@ -1010,7 +1010,7 @@
       "answer_index": 1,
       "explanation_en": "SS Sū 12: agni is superior to kṣāra because diseases burnt by agni do not recur, and it can treat conditions not cured by drugs, śastra or kṣāra.",
       "explanation_hi": "सुश्रुत सूत्र 12: अग्नि क्षार से श्रेष्ठ है क्योंकि अग्नि से दग्ध रोग दोबारा नहीं होते, और यह उन रोगों को भी ठीक करती है जो औषध, शस्त्र या क्षार से ठीक न हों।",
-      "reference": "SS.sutra.12",
+      "reference": "SS.sutra.12.3",
       "difficulty": "easy",
       "exam_tags": [
         "university",
@@ -1046,9 +1046,9 @@
         }
       ],
       "answer_index": 1,
-      "explanation_en": "SS Sū 12.3: agnikarma is done in all seasons except śarad and grīṣma, when pitta and heat are high. In an emergency it may still be done with cooling precautions.",
-      "explanation_hi": "सुश्रुत सूत्र 12.3: अग्निकर्म शरद् और ग्रीष्म को छोड़कर सभी ऋतुओं में किया जाता है, क्योंकि इनमें पित्त और ताप अधिक होता है। आपात स्थिति में शीतल उपायों के साथ फिर भी किया जा सकता है।",
-      "reference": "SS.sutra.12.3",
+      "explanation_en": "SS Sū 12.5: agnikarma is done in all seasons except śarad and grīṣma, when pitta and heat are high. In an emergency it may still be done with cooling precautions.",
+      "explanation_hi": "सुश्रुत सूत्र 12.5: अग्निकर्म शरद् और ग्रीष्म को छोड़कर सभी ऋतुओं में किया जाता है, क्योंकि इनमें पित्त और ताप अधिक होता है। आपात स्थिति में शीतल उपायों के साथ फिर भी किया जा सकता है।",
+      "reference": "SS.sutra.12.5",
       "difficulty": "medium",
       "exam_tags": [
         "university",
@@ -1086,8 +1086,8 @@
       "answer_index": 3,
       "explanation_en": "SS Sū 12: four types — pluṣṭa (scorched/discoloured), durdagdha (blisters, burning), samyag-dagdha (properly burnt) and atidagdha (deep, with loss of tissue).",
       "explanation_hi": "सुश्रुत सूत्र 12: चार प्रकार - प्लुष्ट (झुलसा, वर्ण परिवर्तन), दुर्दग्ध (फफोले, दाह), सम्यग्दग्ध (उचित दग्ध) और अतिदग्ध (गहरा, ऊतक नाश सहित)।",
-      "reference": "SS.sutra.12",
-      "difficulty": "medium",
+      "reference": "SS.sutra.12.16",
+      "difficulty": "easy",
       "exam_tags": [
         "university",
         "aiapget"
@@ -1124,7 +1124,7 @@
       "answer_index": 2,
       "explanation_en": "SS Sū 12: for skin — pippalī, ajāśakṛt, godanta, śara, śalākā; for māṃsa — jāmbavauṣṭha and metal rods; for sirā, snāyu, sandhi and asthi — heated honey, jaggery and sneha (oil/fat), which carry heat deeper.",
       "explanation_hi": "सुश्रुत सूत्र 12: त्वचा के लिए - पिप्पली, अजाशकृत्, गोदन्त, शर, शलाका; मांस के लिए - जाम्बवौष्ठ और धातु शलाका; सिरा, स्नायु, सन्धि, अस्थि के लिए - तप्त मधु, गुड़ और स्नेह, जो ताप को गहराई तक ले जाते हैं।",
-      "reference": "SS.sutra.12",
+      "reference": "SS.sutra.12.4",
       "difficulty": "medium",
       "exam_tags": [
         "university",
@@ -1192,7 +1192,7 @@
       "answer_index": 0,
       "explanation_en": "SS Ni 4: five — śataponaka (vāta), uṣṭragrīva (pitta), parisrāvī (kapha), śambūkāvarta (sannipāta) and unmārgī (āgantuja/kṣataja).",
       "explanation_hi": "सुश्रुत निदान 4: पाँच - शतपोनक (वात), उष्ट्रग्रीव (पित्त), परिस्रावी (कफ), शम्बूकावर्त (सन्निपात) और उन्मार्गी (आगन्तुज/क्षतज)।",
-      "reference": "SS.nidana.4",
+      "reference": "SS.nidana.4.3",
       "difficulty": "easy",
       "exam_tags": [
         "university",
@@ -1230,8 +1230,8 @@
       "answer_index": 2,
       "explanation_en": "Uṣṭragrīva (shaped like a camel's neck) is pittaja. Śataponaka (many openings like a sieve) is vātaja, parisrāvī is kaphaja and śambūkāvarta is sannipātaja (SS Ni 4).",
       "explanation_hi": "उष्ट्रग्रीव (ऊँट की गर्दन जैसा) पित्तज है। शतपोनक (छलनी जैसे अनेक छिद्र) वातज, परिस्रावी कफज और शम्बूकावर्त सन्निपातज है (सुश्रुत निदान 4)।",
-      "reference": "SS.nidana.4",
-      "difficulty": "medium",
+      "reference": "SS.nidana.4.3",
+      "difficulty": "easy",
       "exam_tags": [
         "university",
         "aiapget"
@@ -1268,7 +1268,7 @@
       "answer_index": 2,
       "explanation_en": "SS Ni 4: the tridoṣaja śambūkāvarta and the traumatic unmārgī (kṣataja) bhagandara are asādhya; the other three are kṛcchrasādhya (curable with difficulty).",
       "explanation_hi": "सुश्रुत निदान 4: त्रिदोषज शम्बूकावर्त और आघातजन्य उन्मार्गी (क्षतज) भगन्दर असाध्य हैं; शेष तीन कृच्छ्रसाध्य हैं।",
-      "reference": "SS.nidana.4",
+      "reference": "SS.nidana.4.13",
       "difficulty": "hard",
       "exam_tags": [
         "university",
@@ -1381,8 +1381,8 @@
       "answer_index": 1,
       "explanation_en": "SS Ni 2: guda is 4.5 aṅgula long with three valis — pravāhiṇī, visarjanī and saṃvaraṇī — each about 1.5 aṅgula.",
       "explanation_hi": "सुश्रुत निदान 2: गुद 4.5 अङ्गुल लम्बा है और उसमें तीन वलियाँ हैं - प्रवाहिणी, विसर्जनी और संवरणी - प्रत्येक लगभग 1.5 अङ्गुल।",
-      "reference": "SS.nidana.2",
-      "difficulty": "medium",
+      "reference": "SS.nidana.2.5",
+      "difficulty": "hard",
       "exam_tags": [
         "university",
         "aiapget"
@@ -1493,7 +1493,7 @@
       "answer_index": 3,
       "explanation_en": "SS Ni 15: sandhimukta is of 6 types (utpiṣṭa, viśliṣṭa, vivartita, avakṣipta, atikṣipta, tiryakkṣipta) and kāṇḍabhagna of 12 types (karkaṭaka, aśvakarṇa, cūrṇita, etc.).",
       "explanation_hi": "सुश्रुत निदान 15: सन्धिमुक्त 6 प्रकार का (उत्पिष्ट, विश्लिष्ट, विवर्तित, अवक्षिप्त, अतिक्षिप्त, तिर्यक्क्षिप्त) और काण्डभग्न 12 प्रकार का (कर्कटक, अश्वकर्ण, चूर्णित आदि)।",
-      "reference": "SS.nidana.15",
+      "reference": "SS.nidana.15.4",
       "difficulty": "hard",
       "exam_tags": [
         "university",
@@ -1531,8 +1531,8 @@
       "answer_index": 2,
       "explanation_en": "SS Ni 3: four aśmarīs — śleṣmaja, pittaja, vātaja and śukraja. Śukrāśmarī is formed from obstructed semen.",
       "explanation_hi": "सुश्रुत निदान 3: चार अश्मरी - श्लेष्मज, पित्तज, वातज और शुक्रज। शुक्राश्मरी रुके हुए शुक्र से बनती है।",
-      "reference": "SS.nidana.3",
-      "difficulty": "medium",
+      "reference": "SS.nidana.3.3",
+      "difficulty": "easy",
       "exam_tags": [
         "university",
         "aiapget"
@@ -1567,9 +1567,9 @@
         }
       ],
       "answer_index": 3,
-      "explanation_en": "SS Ci 7: the incision is made on the left side of the perineal raphe, leaving one yava's breadth from the sevanī, to avoid injuring it. Cutting on the sevanī itself is warned against.",
-      "explanation_hi": "सुश्रुत चिकित्सा 7: छेदन सेवनी के बायीं ओर, सेवनी से एक यव छोड़कर किया जाता है, ताकि सेवनी को क्षति न हो। सेवनी पर ही काटना निषिद्ध है।",
-      "reference": "SS.chikitsa.7",
+      "explanation_en": "SS Ci 7: the incision is made on the left side of the perineal raphe, leaving one yava's breadth from the sevanī, to avoid injuring it. Cutting on the sevanī itself is warned against; the text notes that some surgeons cut on the right side for convenience.",
+      "explanation_hi": "सुश्रुत चिकित्सा 7: छेदन सेवनी के बायीं ओर, सेवनी से एक यव छोड़कर किया जाता है, ताकि सेवनी को क्षति न हो। सेवनी पर ही काटना निषिद्ध है; ग्रंथ यह भी बताता है कि कुछ आचार्य सुविधा के लिए दायीं ओर काटते हैं।",
+      "reference": "SS.chikitsa.7.33",
       "difficulty": "hard",
       "exam_tags": [
         "university",
@@ -1607,7 +1607,7 @@
       "answer_index": 2,
       "explanation_en": "SS Śā 6: 107 marmas. 101 is the number of yantras; 108 is a popular but incorrect guess.",
       "explanation_hi": "सुश्रुत शारीर 6: 107 मर्म। 101 यन्त्रों की संख्या है; 108 प्रचलित पर गलत अनुमान है।",
-      "reference": "SS.sharira.6",
+      "reference": "SS.sharira.6.3",
       "difficulty": "easy",
       "exam_tags": [
         "university",
@@ -1645,7 +1645,7 @@
       "answer_index": 1,
       "explanation_en": "SS Śā 6: sadyaḥ-prāṇahara 19, kālāntara-prāṇahara 33, viśalyaghna 3, vaikalyakara 44 and rujākara 8 — total 107.",
       "explanation_hi": "सुश्रुत शारीर 6: सद्यःप्राणहर 19, कालान्तरप्राणहर 33, विशल्यघ्न 3, वैकल्यकर 44 और रुजाकर 8 - कुल 107।",
-      "reference": "SS.sharira.6",
+      "reference": "SS.sharira.6.8",
       "difficulty": "hard",
       "exam_tags": [
         "university",
@@ -1683,7 +1683,7 @@
       "answer_index": 0,
       "explanation_en": "SS Sū 26: śalya is śārīra (arising from the body, e.g. hair, nails, dhātus, malas) or āgantuja (from outside, e.g. arrows, splinters). Sthāvara–jaṅgama is a classification of drugs and poisons.",
       "explanation_hi": "सुश्रुत सूत्र 26: शल्य शारीर (शरीर से उत्पन्न, जैसे केश, नख, धातु, मल) या आगन्तुज (बाहर से, जैसे बाण, काँटा) होता है। स्थावर-जङ्गम द्रव्यों और विषों का वर्गीकरण है।",
-      "reference": "SS.sutra.26",
+      "reference": "SS.sutra.26.4",
       "difficulty": "medium",
       "exam_tags": [
         "university",
@@ -2124,6 +2124,96 @@
       "difficulty": "medium",
       "exam_tags": [
         "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-ST-0058",
+      "subject_id": "AyUG-ST",
+      "topic_id": "st-bhagna-asmari-marma",
+      "topic_en": "Bhagna, Aśmarī and Marma",
+      "topic_hi": "भग्न, अश्मरी और मर्म",
+      "type": "true_false",
+      "question_en": "True or False: Suśruta describes 20 yantras and 101 śastras.",
+      "question_hi": "सत्य या असत्य: सुश्रुत ने 20 यन्त्र और 101 शस्त्र बताए हैं।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "False. It is the reverse: 101 yantras (SS Sū 7.3) and 20 śastras (SS Sū 8.3).",
+      "explanation_hi": "असत्य। उलटा है: 101 यन्त्र (सुश्रुत सूत्र 7.3) और 20 शस्त्र (सुश्रुत सूत्र 8.3)।",
+      "reference": "SS.sutra.7.3",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-ST-0059",
+      "subject_id": "AyUG-ST",
+      "topic_id": "st-bhagandara",
+      "topic_en": "Bhagandara (fistula-in-ano)",
+      "topic_hi": "भगन्दर",
+      "type": "true_false",
+      "question_en": "True or False: For a nāḍīvraṇa (sinus) in an emaciated, weak or timid patient, or one located near a marma, Suśruta advises cutting it with kṣārasūtra rather than a knife.",
+      "question_hi": "सत्य या असत्य: कृश, दुर्बल या भीरु रोगी में, या मर्म के पास स्थित नाडीव्रण को सुश्रुत शस्त्र के बजाय क्षारसूत्र से काटने को कहते हैं।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "True. SS Ci 17.29: 'kṛśadurbalabhīrūṇāṃ nāḍī marmāśritā ca yā, kṣārasūtreṇa tāṃ chindyān na tu śastreṇa buddhimān.' This is the classical basis of kṣārasūtra therapy, now widely used for bhagandara.",
+      "explanation_hi": "सत्य। सुश्रुत चिकित्सा 17.29: 'कृशदुर्बलभीरूणां नाडी मर्माश्रिता च या। क्षारसूत्रेण तां छिन्द्यान्न तु शस्त्रेण बुद्धिमान्॥' यही क्षारसूत्र चिकित्सा का शास्त्रीय आधार है, जो आज भगन्दर में व्यापक रूप से प्रयुक्त होती है।",
+      "reference": "SS.chikitsa.17.29",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-ST-0060",
+      "subject_id": "AyUG-ST",
+      "topic_id": "st-bhagna-asmari-marma",
+      "topic_en": "Bhagna, Aśmarī and Marma",
+      "topic_hi": "भग्न, अश्मरी और मर्म",
+      "type": "true_false",
+      "question_en": "True or False: Suśruta lists twenty-four yantra-karmas (actions performed with blunt instruments), such as nirghātana, pūraṇa, bandhana and vyūhana.",
+      "question_hi": "सत्य या असत्य: सुश्रुत ने चौबीस यन्त्रकर्म (यन्त्रों से किए जाने वाले कार्य) बताए हैं, जैसे निर्घातन, पूरण, बन्धन और व्यूहन।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "True. SS Sū 7.17 lists 24 yantra-karmas, beginning with nirghātana, pūraṇa, bandhana, vyūhana, vartana, cālana and ending with prakṣālana, pradhamana and pramārjana. Do not confuse with the 8 śastrakarmas.",
+      "explanation_hi": "सत्य। सुश्रुत सूत्र 7.17 में 24 यन्त्रकर्म हैं, जो निर्घातन, पूरण, बन्धन, व्यूहन, वर्तन, चालन से आरम्भ होकर प्रक्षालन, प्रधमन और प्रमार्जन पर समाप्त होते हैं। इन्हें 8 शस्त्रकर्मों से न मिलाएँ।",
+      "reference": "SS.sutra.7.17",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
       ],
       "review_status": "ai_draft"
     }

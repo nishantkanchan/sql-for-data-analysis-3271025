@@ -5,7 +5,7 @@ import { FlatList, Pressable, Text, View } from 'react-native';
 
 import { BiText } from '@/components/verse';
 import { AiDraftBadge, Badge, Card, Chip, Empty, Header, Row, T } from '@/components/ui';
-import { getChapter, getChapterSummary, getText, isTranslated, parseId } from '@/content';
+import { displayVerseNumber, getChapter, getChapterSummary, getText, isTranslated, parseId } from '@/content';
 import { useI18n, usePalette } from '@/hooks';
 import { useStore } from '@/state/store';
 import type { BundleVerse } from '@/types/content';
@@ -139,7 +139,7 @@ function VerseRow({ v, index, studied }: { v: BundleVerse; index: number; studie
       })}>
       <View style={{ width: 34, alignItems: 'center', paddingTop: 4, gap: 4 }}>
         <T variant="small" muted style={{ fontWeight: '600' }}>
-          {v.verse}
+          {displayVerseNumber(v)}
         </T>
         {v.importance === 'high' ? <Ionicons name="star" size={13} color={p.accent} /> : null}
         {studied ? <Ionicons name="checkmark-circle" size={13} color={p.success} /> : null}
@@ -168,7 +168,7 @@ export default function ChapterScreen() {
   const parsed = parseId(chapterId);
   const text = parsed ? getText(parsed.text) : undefined;
   const sthana = text?.sthanas.find((s) => s.key === parsed?.sthana);
-  const header = useMemo(() => (ch ? <ChapterHeader chapterId={chapterId} /> : null), [ch, chapterId]);
+  const header = useMemo(() => (ch ? <ChapterHeader chapterId={chapterId} /> : undefined), [ch, chapterId]);
   if (!ch) return <Empty title={t('empty')} />;
   return (
     <View style={{ flex: 1, backgroundColor: p.bg }}>

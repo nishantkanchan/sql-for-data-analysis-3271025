@@ -1464,7 +1464,7 @@
       "answer_index": 3,
       "explanation_en": "Śvayathuhara (anti-oedema) mahākaṣāya: pāṭalā, agnimantha, śyonāka, bilva, kāśmarya, kaṇṭakārī, bṛhatī, śālaparṇī, pṛśniparṇī and gokṣura, i.e. the Daśamūla. Jīvanīya contains the aṣṭavarga drugs; Vayaḥsthāpana contains Amṛtā, Abhayā, Dhātrī etc.",
       "explanation_hi": "श्वयथुहर महाकषाय: पाटला, अग्निमन्थ, श्योनाक, बिल्व, काश्मर्य, कण्टकारी, बृहती, शालपर्णी, पृश्निपर्णी और गोक्षुर, अर्थात् दशमूल। जीवनीय में अष्टवर्ग द्रव्य हैं; वयःस्थापन में अमृता, अभया, धात्री आदि हैं।",
-      "reference": "CS.sutra.4",
+      "reference": "CS.sutra.4.16",
       "difficulty": "medium",
       "exam_tags": [
         "university",
@@ -1502,7 +1502,7 @@
       "answer_index": 0,
       "explanation_en": "Caraka's Hṛdya group is made of sour fruits: āmra, āmrātaka, likuca, karamarda, vṛkṣāmla, amlavetasa, kuvala, badara, dāḍima, mātuluṅga (consistent with 'amlaṃ hṛdyānām' in Sū. 25). Arjuna is famous as a cardiac drug from later texts (e.g. Cakradatta), which makes it a tempting but wrong choice.",
       "explanation_hi": "चरक का हृद्य महाकषाय अम्ल फलों से बना है: आम्र, आम्रातक, लिकुच, करमर्द, वृक्षाम्ल, अम्लवेतस, कुवल, बदर, दाडिम, मातुलुङ्ग (सू. 25 के 'अम्लं हृद्यानाम्' के अनुरूप)। अर्जुन बाद के ग्रंथों (जैसे चक्रदत्त) से हृद्य औषधि के रूप में प्रसिद्ध है, इसलिए यह भ्रामक विकल्प है।",
-      "reference": "CS.sutra.4",
+      "reference": "CS.sutra.4.10",
       "difficulty": "hard",
       "exam_tags": [
         "university",
@@ -1540,7 +1540,7 @@
       "answer_index": 0,
       "explanation_en": "Vayaḥsthāpana (anti-ageing) mahākaṣāya: amṛtā, abhayā, dhātrī, muktā, śvetā, jīvantī, atirasā, maṇḍūkaparṇī, sthirā, punarnavā. Lekhanīya includes musta, kuṣṭha, haridrā; Dīpanīya includes pippalī, citraka, śṛṅgavera.",
       "explanation_hi": "वयःस्थापन महाकषाय: अमृता, अभया, धात्री, मुक्ता, श्वेता, जीवन्ती, अतिरसा, मण्डूकपर्णी, स्थिरा, पुनर्नवा। लेखनीय में मुस्ता, कुष्ठ, हरिद्रा; दीपनीय में पिप्पली, चित्रक, शृङ्गवेर हैं।",
-      "reference": "CS.sutra.4",
+      "reference": "CS.sutra.4.18",
       "difficulty": "medium",
       "exam_tags": [
         "university",
@@ -1943,7 +1943,7 @@
       "answer_index": 1,
       "explanation_en": "Caraka's mahāsnehas are sarpis, taila, vasā and majjā. Navanīta is a dairy product but not one of the four great unctuous substances; among them sarpis is called the best.",
       "explanation_hi": "चरक के महास्नेह हैं: सर्पि, तैल, वसा और मज्जा। नवनीत दुग्ध उत्पाद है पर चार महास्नेहों में नहीं; इनमें सर्पि श्रेष्ठ कहा गया है।",
-      "reference": "CS.sutra.1",
+      "reference": "CS.sutra.1.86",
       "difficulty": "medium",
       "exam_tags": [
         "university"
@@ -1980,7 +1980,7 @@
       "answer_index": 2,
       "explanation_en": "Caraka's eight mūtras: sheep (avi), goat (aja), cow (go), buffalo (mahiṣa), elephant (hasti), camel (uṣṭra), horse (haya) and donkey (khara). Dog urine is not included.",
       "explanation_hi": "चरक के आठ मूत्र: भेड़ (अवि), बकरी (अजा), गाय (गो), भैंस (महिष), हाथी (हस्ती), ऊँट (उष्ट्र), घोड़ा (हय) और गधा (खर)। कुत्ते का मूत्र सम्मिलित नहीं है।",
-      "reference": "CS.sutra.1",
+      "reference": "CS.sutra.1.93-94",
       "difficulty": "medium",
       "exam_tags": [
         "university"
@@ -2017,7 +2017,7 @@
       "answer_index": 2,
       "explanation_en": "Caraka Sū. 1 names five lavaṇas: sauvarcala, saindhava, viḍa, audbhida and sāmudra. Yavakṣāra is an alkali (kṣāra) prepared from barley ash, not a lavaṇa.",
       "explanation_hi": "चरक सूत्र 1 में पाँच लवण: सौवर्चल, सैन्धव, विड, औद्भिद और सामुद्र। यवक्षार जौ की भस्म से बना क्षार है, लवण नहीं।",
-      "reference": "CS.sutra.1",
+      "reference": "CS.sutra.1.88",
       "difficulty": "medium",
       "exam_tags": [
         "university"
@@ -2378,7 +2378,7 @@
       "answer_index": 2,
       "explanation_en": "Caraka Ci. 1.3.30-31 names Maṇḍūkaparṇī svarasa, Yaṣṭimadhu cūrṇa with milk, Guḍūcī svarasa and Śaṅkhapuṣpī kalka, calling Śaṅkhapuṣpī the best. Brāhmī (Bacopa) is a well-known medhya drug from other texts, and some commentators equate Maṇḍūkaparṇī with Brāhmī, which causes this confusion.",
       "explanation_hi": "चरक चिकित्सा 1.3.30-31 में मण्डूकपर्णी स्वरस, दूध के साथ यष्टिमधु चूर्ण, गुडूची स्वरस और शङ्खपुष्पी कल्क बताए गए हैं, जिनमें शङ्खपुष्पी श्रेष्ठ है। ब्राह्मी (Bacopa) अन्य ग्रंथों में प्रसिद्ध मेध्य द्रव्य है, और कुछ टीकाकार मण्डूकपर्णी को ब्राह्मी मानते हैं, इसी से भ्रम होता है।",
-      "reference": "CS.chikitsa.1.3.30-31",
+      "reference": "CS.chikitsa.1.330-331",
       "difficulty": "hard",
       "exam_tags": [
         "university",

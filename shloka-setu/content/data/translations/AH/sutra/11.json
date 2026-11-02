@@ -1,0 +1,4155 @@
+{
+ "chapter": {
+  "id": "AH.sutra.11",
+  "text": "ashtanga_hridaya",
+  "sthana": "sutra",
+  "chapter": 11,
+  "title_iast": "Doṣādivijñānīya Adhyāya",
+  "title_devanagari": "दोषादिविज्ञानीयोऽध्यायः",
+  "title_en": "The chapter on knowledge of doṣa, dhātu and mala",
+  "title_hi": "दोषादिविज्ञानीय अध्याय (दोष, धातु और मल का ज्ञान)",
+  "summary_en": "This chapter declares that doṣa, dhātu and mala are the root of the body and describes their normal functions: the prākṛta karma of vāta, pitta and kapha, the chief functions of the seven dhātus (prīṇana, jīvana, lepa, sneha, dhāraṇa, pūraṇa, garbhotpāda) and of the three malas. It then gives the signs of increase (vṛddhi) and decrease (kṣaya) of each doṣa, dhātu and mala, with the general principle that mala-kṣaya is more distressing than mala-vṛddhi. It explains the āśraya-āśrayī relationship (vāta in bone, pitta in blood and sweat, kapha in the rest) and its exception for vāta and asthi, and sets out the treatment of vṛddhi with laṅghana and kṣaya with bṛṃhaṇa, with specific measures for each dhātu and mala. The concept of dhātvagni (portions of kāyāgni in the dhātus) explains dhātu growth and wasting, and the chain doṣa → dhātu → mala explains pathology. The chapter gives Vāgbhaṭa's classic account of ojas: definition, nature, causes and signs of its decrease, and treatment, and ends with the principle that balanced doṣas sustain the body and imbalanced ones destroy it. It is a core chapter for Kriyā Śārīra and Samhitā papers.",
+  "summary_hi": "यह अध्याय बताता है कि दोष, धातु और मल शरीर के मूल हैं, और उनके प्राकृत कर्म बताता है: वात, पित्त, कफ के कर्म, सात धातुओं के श्रेष्ठ कर्म (प्रीणन, जीवन, लेपन, स्नेहन, धारण, पूरण, गर्भोत्पादन) और तीन मलों के कर्म। फिर हर दोष, धातु और मल की वृद्धि और क्षय के लक्षण दिए गए हैं, और यह सिद्धांत कि मल क्षय, मल वृद्धि से अधिक कष्टदायक है। आश्रय-आश्रयी भाव (वात अस्थि में, पित्त रक्त और स्वेद में, कफ शेष में) और वात-अस्थि का अपवाद समझाया गया है, तथा वृद्धि की चिकित्सा लंघन से और क्षय की बृंहण से, हर धातु और मल के लिए विशेष उपायों सहित बताई गई है। धात्वग्नि (धातुओं में कायाग्नि के अंश) की अवधारणा धातु वृद्धि-क्षय को समझाती है, और दोष → धातु → मल की श्रृंखला विकृति को। अध्याय में ओज का प्रसिद्ध वाग्भटीय वर्णन है: परिभाषा, स्वरूप, क्षय के कारण और लक्षण, और चिकित्सा; अंत में सिद्धांत है कि सम दोष शरीर को धारण करते हैं और विषम दोष नष्ट करते हैं। यह क्रिया शारीर और संहिता प्रश्नपत्रों का मूल अध्याय है।",
+  "key_concepts": [
+   "doṣa-dhātu-mala",
+   "prākṛta-karma",
+   "dhātu-karma",
+   "vṛddhi-lakṣaṇa",
+   "kṣaya-lakṣaṇa",
+   "āśraya-āśrayī",
+   "laṅghana-bṛṃhaṇa",
+   "dhātvagni",
+   "doṣa-dūṣya",
+   "malāyana",
+   "ojas"
+  ],
+  "exam_focus_en": [
+   "Normal functions of vāta, pitta, kapha; chief functions of the seven dhātus and three malas (11.1-5)",
+   "Vṛddhi and kṣaya lakṣaṇa of doṣas, dhātus and malas, e.g. adhyasthi in asthi-vṛddhi, plīha-vṛddhi in medo-kṣaya, śabdāsahiṣṇutā in rasa-kṣaya (11.5-23)",
+   "Mala-kṣaya is more distressing than mala-vṛddhi (11.25)",
+   "Āśraya-āśrayī bhāva and the vāta-asthi exception; asthi-kṣaya treated with tikta-kṣīra-ghṛta and basti (11.26-31)",
+   "Dhātvagni: māndya → dhātu-vṛddhi, tīkṣṇatā → dhātu-kṣaya; doṣa → dhātu → mala chain (11.34-35)",
+   "Ojas: definition, location, properties, causes and signs of kṣaya, treatment (11.37-41)"
+  ],
+  "exam_focus_hi": [
+   "वात, पित्त, कफ के प्राकृत कर्म; सात धातुओं और तीन मलों के श्रेष्ठ कर्म (11.1-5)",
+   "दोष, धातु, मल के वृद्धि और क्षय लक्षण, जैसे अस्थि वृद्धि में अध्यस्थि, मेद क्षय में प्लीहा वृद्धि, रस क्षय में शब्दासहिष्णुता (11.5-23)",
+   "मल क्षय, मल वृद्धि से अधिक कष्टदायक (11.25)",
+   "आश्रय-आश्रयी भाव और वात-अस्थि अपवाद; अस्थि क्षय में तिक्त क्षीर-घृत और बस्ति (11.26-31)",
+   "धात्वग्नि: मांद्य → धातु वृद्धि, तीक्ष्णता → धातु क्षय; दोष → धातु → मल श्रृंखला (11.34-35)",
+   "ओज: परिभाषा, स्थान, गुण, क्षय के कारण और लक्षण, चिकित्सा (11.37-41)"
+  ],
+  "syllabus_refs": [
+   "AyUG-SA1"
+  ],
+  "review_status": "ai_draft"
+ },
+ "verses": [
+  {
+   "id": "AH.sutra.11.1",
+   "word_meanings": [
+    {
+     "sa": "दोषधातुमलाः",
+     "iast": "doṣa-dhātu-malāḥ",
+     "en": "doṣas, tissues and wastes",
+     "hi": "दोष, धातु और मल"
+    },
+    {
+     "sa": "मूलम्",
+     "iast": "mūlam",
+     "en": "the root",
+     "hi": "मूल"
+    },
+    {
+     "sa": "सदा",
+     "iast": "sadā",
+     "en": "always",
+     "hi": "सदा"
+    },
+    {
+     "sa": "देहस्य",
+     "iast": "dehasya",
+     "en": "of the body",
+     "hi": "शरीर का"
+    },
+    {
+     "sa": "तम्",
+     "iast": "tam",
+     "en": "it (the body)",
+     "hi": "उसे (शरीर को)"
+    },
+    {
+     "sa": "चलः",
+     "iast": "calaḥ",
+     "en": "vāta (the mobile one)",
+     "hi": "वात (चल)"
+    },
+    {
+     "sa": "उत्साह",
+     "iast": "utsāha",
+     "en": "enthusiasm",
+     "hi": "उत्साह"
+    },
+    {
+     "sa": "उच्छ्वास",
+     "iast": "ucchvāsa",
+     "en": "inspiration",
+     "hi": "श्वास लेना"
+    },
+    {
+     "sa": "निश्वास",
+     "iast": "niśvāsa",
+     "en": "expiration",
+     "hi": "श्वास छोड़ना"
+    },
+    {
+     "sa": "चेष्टा",
+     "iast": "ceṣṭā",
+     "en": "movements",
+     "hi": "चेष्टा (गतिविधि)"
+    },
+    {
+     "sa": "वेगप्रवर्तनैः",
+     "iast": "vega-pravartanaiḥ",
+     "en": "by initiating natural urges",
+     "hi": "वेगों को प्रवृत्त करने से"
+    }
+   ],
+   "english": "Doṣas, dhātus (tissues) and malas (wastes) are always the root of the body. Vāta (cala, the mobile one), when unvitiated, supports the body through enthusiasm, inspiration, expiration, movements, initiation of natural urges,...",
+   "hindi": "दोष, धातु और मल सदा शरीर के मूल हैं। अविकृत (सामान्य) वात शरीर को उत्साह, श्वास लेने और छोड़ने, चेष्टाओं (गतिविधियों), मल-मूत्र आदि वेगों को प्रवृत्त करने,...",
+   "explanation_en": "The chapter title Doṣādivijñānīya means 'knowledge of doṣa, dhātu and mala'. 'Doṣa-dhātu-malā mūlaṃ hi śarīrasya' is a foundational quote. Verses 1-3 give the normal functions (prākṛta karma) of the three doṣas, a must-learn topic.",
+   "explanation_hi": "अध्याय का नाम दोषादिविज्ञानीय यानी 'दोष, धातु और मल का ज्ञान'। 'दोषधातुमला मूलं' एक मूलभूत उद्धरण है। श्लोक 1-3 में तीनों दोषों के प्राकृत कर्म हैं, जो अवश्य याद करने योग्य हैं।",
+   "modern_correlation": {
+    "en": "Vāta's normal functions (respiration, movement, initiation of urges, sensory keenness) are often compared to the roles of the nervous system and neuromuscular activity.",
+    "hi": "वात के प्राकृत कर्म (श्वसन, गति, वेगों की प्रवृत्ति, इंद्रियों की कुशलता) की तुलना अक्सर तंत्रिका तंत्र और तंत्रिका-पेशी गतिविधि की भूमिकाओं से की जाती है।"
+   },
+   "key_terms": [
+    "doṣa",
+    "dhātu",
+    "mala",
+    "vāta-karma"
+   ],
+   "tags": [
+    "dosha",
+    "prakrita-karma",
+    "vata"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.11.2",
+   "word_meanings": [
+    {
+     "sa": "सम्यग्गत्या",
+     "iast": "samyag-gatyā",
+     "en": "by proper movement",
+     "hi": "उचित गति से"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "धातूनाम्",
+     "iast": "dhātūnām",
+     "en": "of the tissues",
+     "hi": "धातुओं की"
+    },
+    {
+     "sa": "अक्षाणाम्",
+     "iast": "akṣāṇām",
+     "en": "of the senses",
+     "hi": "इंद्रियों की"
+    },
+    {
+     "sa": "पाटवेन",
+     "iast": "pāṭavena",
+     "en": "by keenness",
+     "hi": "कुशलता से"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "अनुगृह्णाति",
+     "iast": "anugṛhṇāti",
+     "en": "supports",
+     "hi": "अनुग्रह (सहारा) करता है"
+    },
+    {
+     "sa": "अविकृतः",
+     "iast": "avikṛtaḥ",
+     "en": "unvitiated",
+     "hi": "अविकृत"
+    },
+    {
+     "sa": "पित्तम्",
+     "iast": "pittam",
+     "en": "pitta",
+     "hi": "पित्त"
+    },
+    {
+     "sa": "पक्ति",
+     "iast": "pakti",
+     "en": "digestion",
+     "hi": "पाचन"
+    },
+    {
+     "sa": "ऊष्म",
+     "iast": "ūṣma",
+     "en": "body heat",
+     "hi": "शरीर की गर्मी"
+    },
+    {
+     "sa": "दर्शनैः",
+     "iast": "darśanaiḥ",
+     "en": "vision",
+     "hi": "दृष्टि"
+    }
+   ],
+   "english": "...proper movement of the dhātus and keenness of the senses. Pitta (when unvitiated supports the body) through digestion, body heat, vision,...",
+   "hindi": "...धातुओं की उचित गति और इंद्रियों की कुशलता द्वारा सहारा देता है। अविकृत पित्त पाचन, शरीर की गर्मी, दृष्टि,...",
+   "explanation_en": "Vāta's normal karma: utsāha, ucchvāsa, niśvāsa, ceṣṭā, vega-pravartana, dhātu-gati, indriya-pāṭava. Pitta's normal karma begins: pakti, ūṣmā, darśana.",
+   "explanation_hi": "वात के प्राकृत कर्म: उत्साह, उच्छ्वास, निश्वास, चेष्टा, वेग प्रवर्तन, धातु गति, इंद्रिय पाटव। पित्त के प्राकृत कर्म शुरू: पक्ति, ऊष्मा, दर्शन।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vāta-karma",
+    "pitta-karma",
+    "prākṛta-doṣa"
+   ],
+   "tags": [
+    "dosha",
+    "prakrita-karma",
+    "vata",
+    "pitta"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.11.3",
+   "word_meanings": [
+    {
+     "sa": "क्षुत्",
+     "iast": "kṣut",
+     "en": "hunger",
+     "hi": "भूख"
+    },
+    {
+     "sa": "तृट्",
+     "iast": "tṛṭ",
+     "en": "thirst",
+     "hi": "प्यास"
+    },
+    {
+     "sa": "रुचि",
+     "iast": "ruci",
+     "en": "appetite, relish",
+     "hi": "रुचि"
+    },
+    {
+     "sa": "प्रभा",
+     "iast": "prabhā",
+     "en": "lustre",
+     "hi": "कांति"
+    },
+    {
+     "sa": "मेधा",
+     "iast": "medhā",
+     "en": "retention, intellect",
+     "hi": "मेधा"
+    },
+    {
+     "sa": "धी",
+     "iast": "dhī",
+     "en": "understanding",
+     "hi": "बुद्धि"
+    },
+    {
+     "sa": "शौर्य",
+     "iast": "śaurya",
+     "en": "courage",
+     "hi": "शौर्य"
+    },
+    {
+     "sa": "तनुमार्दवैः",
+     "iast": "tanu-mārdavaiḥ",
+     "en": "softness of the body",
+     "hi": "शरीर की कोमलता"
+    },
+    {
+     "sa": "श्लेष्मा",
+     "iast": "śleṣmā",
+     "en": "kapha",
+     "hi": "कफ"
+    },
+    {
+     "sa": "स्थिरत्व",
+     "iast": "sthiratva",
+     "en": "stability",
+     "hi": "स्थिरता"
+    },
+    {
+     "sa": "स्निग्धत्व",
+     "iast": "snigdhatva",
+     "en": "unctuousness",
+     "hi": "स्निग्धता"
+    },
+    {
+     "sa": "संधिबन्ध",
+     "iast": "saṃdhi-bandha",
+     "en": "binding of joints",
+     "hi": "संधियों का बंधन"
+    },
+    {
+     "sa": "क्षमा",
+     "iast": "kṣamā",
+     "en": "forbearance, endurance",
+     "hi": "क्षमा, सहनशीलता"
+    },
+    {
+     "sa": "आदिभिः",
+     "iast": "ādibhiḥ",
+     "en": "and others",
+     "hi": "आदि से"
+    }
+   ],
+   "english": "...hunger, thirst, relish for food, lustre, intellect (medhā), understanding (dhī), courage and softness of the body. Kapha (śleṣman) supports it through stability, unctuousness, firm binding of the joints, forbearance and the like.",
+   "hindi": "...भूख, प्यास, रुचि, कांति, मेधा, बुद्धि, शौर्य और शरीर की कोमलता द्वारा सहारा देता है। कफ स्थिरता, स्निग्धता, संधियों के दृढ़ बंधन, क्षमा (सहनशीलता) आदि द्वारा शरीर को सहारा देता है।",
+   "explanation_en": "Pitta karma: pakti, ūṣmā, darśana, kṣut, tṛṭ, ruci, prabhā, medhā, dhī, śaurya, tanu-mārdava. Kapha karma: sthiratva, snigdhatva, sandhi-bandha, kṣamā. Note that mental qualities are included: courage (pitta), forbearance (kapha).",
+   "explanation_hi": "पित्त कर्म: पक्ति, ऊष्मा, दर्शन, क्षुधा, तृष्णा, रुचि, प्रभा, मेधा, धी, शौर्य, तनु मार्दव। कफ कर्म: स्थिरत्व, स्निग्धत्व, संधि बंध, क्षमा। ध्यान दें कि मानसिक गुण भी शामिल हैं: शौर्य (पित्त), क्षमा (कफ)।",
+   "modern_correlation": {
+    "en": "Pitta's normal functions (digestion, heat, vision, hunger) are often compared to metabolic, enzymatic and thermoregulatory processes, and kapha's (stability, lubrication, joint cohesion) to structural and lubricating functions such as synovial fluid and connective tissue.",
+    "hi": "पित्त के प्राकृत कर्म (पाचन, गर्मी, दृष्टि, भूख) की तुलना अक्सर चयापचय, एंज़ाइम और ताप-नियमन से, और कफ के (स्थिरता, स्नेहन, संधि बंधन) की तुलना संरचनात्मक और स्नेहक कार्यों जैसे साइनोवियल द्रव और संयोजी ऊतक से की जाती है।"
+   },
+   "key_terms": [
+    "pitta-karma",
+    "kapha-karma",
+    "medhā",
+    "kṣamā"
+   ],
+   "tags": [
+    "dosha",
+    "prakrita-karma",
+    "pitta",
+    "kapha"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.11.4",
+   "word_meanings": [
+    {
+     "sa": "प्रीणनम्",
+     "iast": "prīṇanam",
+     "en": "nourishing, satisfying",
+     "hi": "प्रीणन (तृप्ति)"
+    },
+    {
+     "sa": "जीवनम्",
+     "iast": "jīvanam",
+     "en": "sustaining life",
+     "hi": "जीवन"
+    },
+    {
+     "sa": "लेपः",
+     "iast": "lepaḥ",
+     "en": "covering, plastering",
+     "hi": "लेपन"
+    },
+    {
+     "sa": "स्नेहः",
+     "iast": "snehaḥ",
+     "en": "lubrication",
+     "hi": "स्नेहन"
+    },
+    {
+     "sa": "धारणपूरणे",
+     "iast": "dhāraṇa-pūraṇe",
+     "en": "supporting and filling",
+     "hi": "धारण और पूरण"
+    },
+    {
+     "sa": "गर्भोत्पादः",
+     "iast": "garbhotpādaḥ",
+     "en": "producing the embryo",
+     "hi": "गर्भ की उत्पत्ति"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "धातूनाम्",
+     "iast": "dhātūnām",
+     "en": "of the tissues",
+     "hi": "धातुओं का"
+    },
+    {
+     "sa": "श्रेष्ठम्",
+     "iast": "śreṣṭham",
+     "en": "chief",
+     "hi": "श्रेष्ठ"
+    },
+    {
+     "sa": "कर्म",
+     "iast": "karma",
+     "en": "function",
+     "hi": "कर्म"
+    },
+    {
+     "sa": "क्रमात्",
+     "iast": "kramāt",
+     "en": "in order",
+     "hi": "क्रम से"
+    },
+    {
+     "sa": "स्मृतम्",
+     "iast": "smṛtam",
+     "en": "is known",
+     "hi": "बताया गया है"
+    }
+   ],
+   "english": "Nourishing (prīṇana), sustaining life (jīvana), covering (lepa), lubricating (sneha), supporting (dhāraṇa), filling (pūraṇa) and producing the embryo (garbhotpāda) are known to be the chief functions of the dhātus, in order (rasa, rakta, māṃsa, medas, asthi, majjā, śukra).",
+   "hindi": "प्रीणन (तृप्ति), जीवन, लेपन, स्नेहन, धारण, पूरण और गर्भ उत्पत्ति, ये क्रम से सात धातुओं (रस, रक्त, मांस, मेद, अस्थि, मज्जा, शुक्र) के श्रेष्ठ कर्म हैं।",
+   "explanation_en": "The seven dhātu-karmas are among the most asked one-liners in BAMS: rasa-prīṇana, rakta-jīvana, māṃsa-lepana, medas-snehana, asthi-dhāraṇa, majjā-pūraṇa, śukra-garbhotpāda.",
+   "explanation_hi": "सात धातु कर्म BAMS में सबसे ज़्यादा पूछे जाने वाले एक-पंक्ति प्रश्नों में हैं: रस-प्रीणन, रक्त-जीवन, मांस-लेपन, मेद-स्नेहन, अस्थि-धारण, मज्जा-पूरण, शुक्र-गर्भोत्पादन।",
+   "modern_correlation": {
+    "en": "These functions broadly parallel modern roles: plasma/lymph distributing nutrients (prīṇana), blood carrying oxygen essential to life (jīvana), muscle covering the skeleton (lepa), adipose tissue lubricating and insulating (sneha), bone supporting the body (dhāraṇa), marrow filling bone cavities (pūraṇa), and reproductive tissue enabling conception.",
+    "hi": "ये कर्म आधुनिक भूमिकाओं से मिलते हैं: प्लाज़्मा/लसीका पोषण पहुँचाना (प्रीणन), रक्त जीवन के लिए आवश्यक ऑक्सीजन ले जाना (जीवन), मांसपेशी कंकाल को ढकना (लेपन), वसा ऊतक स्नेहन और ताप-रोधन (स्नेह), हड्डी सहारा देना (धारण), मज्जा अस्थि-गुहा भरना (पूरण), और प्रजनन ऊतक गर्भधारण संभव करना।"
+   },
+   "key_terms": [
+    "saptadhātu",
+    "dhātu-karma",
+    "prīṇana",
+    "jīvana"
+   ],
+   "tags": [
+    "dhatu",
+    "prakrita-karma"
+   ],
+   "importance": "high",
+   "mnemonic": "Pr-Jī-Le-Sne-Dhā-Pū-Ga: Rasa-Rakta-Māṃsa-Medas-Asthi-Majjā-Śukra",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.11.5",
+   "word_meanings": [
+    {
+     "sa": "अवष्टम्भः",
+     "iast": "avaṣṭambhaḥ",
+     "en": "support",
+     "hi": "सहारा (अवष्टम्भ)"
+    },
+    {
+     "sa": "पुरीषस्य",
+     "iast": "purīṣasya",
+     "en": "of faeces",
+     "hi": "मल का"
+    },
+    {
+     "sa": "मूत्रस्य",
+     "iast": "mūtrasya",
+     "en": "of urine",
+     "hi": "मूत्र का"
+    },
+    {
+     "sa": "क्लेदवाहनम्",
+     "iast": "kleda-vāhanam",
+     "en": "carrying away excess moisture",
+     "hi": "क्लेद का वहन (निकालना)"
+    },
+    {
+     "sa": "स्वेदस्य",
+     "iast": "svedasya",
+     "en": "of sweat",
+     "hi": "पसीने का"
+    },
+    {
+     "sa": "क्लेदविधृतिः",
+     "iast": "kleda-vidhṛtiḥ",
+     "en": "retaining moisture",
+     "hi": "क्लेद का धारण"
+    },
+    {
+     "sa": "वृद्धः",
+     "iast": "vṛddhaḥ",
+     "en": "increased",
+     "hi": "बढ़ा हुआ"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "परंतु"
+    },
+    {
+     "sa": "कुरुते",
+     "iast": "kurute",
+     "en": "causes",
+     "hi": "करता है"
+    },
+    {
+     "sa": "अनिलः",
+     "iast": "anilaḥ",
+     "en": "vāta",
+     "hi": "वात"
+    }
+   ],
+   "english": "Support (avaṣṭambha) is the function of faeces; carrying away excess moisture (kleda) is that of urine; and holding moisture (in the skin) is that of sweat. Vāta, when increased, causes...",
+   "hindi": "मल का कर्म शरीर को सहारा देना (अवष्टम्भ) है; मूत्र का कर्म क्लेद (अतिरिक्त नमी) को बाहर निकालना है; और पसीने का कर्म (त्वचा में) नमी बनाए रखना है। बढ़ा हुआ वात...",
+   "explanation_en": "Mala-karma: purīṣa-avaṣṭambha, mūtra-kleda-vāhana, sveda-kleda-vidhṛti. Then the vṛddhi-lakṣaṇa (signs of increase) of doṣas begin (verses 5-8), then dhātus (8-12) and malas (13-14). This vṛddhi-kṣaya section is among the most asked parts of the Sūtrasthāna.",
+   "explanation_hi": "मल कर्म: पुरीष-अवष्टम्भ, मूत्र-क्लेद वाहन, स्वेद-क्लेद विधृति। फिर दोषों के वृद्धि लक्षण (श्लोक 5-8), धातुओं के (8-12) और मलों के (13-14) शुरू होते हैं। यह वृद्धि-क्षय भाग सूत्रस्थान के सबसे ज़्यादा पूछे जाने वाले भागों में है।",
+   "modern_correlation": {
+    "en": "Urine's role in eliminating excess water and solutes and sweat's role in skin moisture and thermoregulation broadly parallel the classical mala functions.",
+    "hi": "अतिरिक्त पानी और विलेय पदार्थ निकालने में मूत्र की भूमिका और त्वचा की नमी व ताप-नियमन में पसीने की भूमिका, शास्त्रीय मल कर्मों से मिलती है।"
+   },
+   "key_terms": [
+    "mala-karma",
+    "purīṣa",
+    "mūtra",
+    "sveda"
+   ],
+   "tags": [
+    "mala",
+    "prakrita-karma"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.11.6",
+   "word_meanings": [
+    {
+     "sa": "कार्श्य",
+     "iast": "kārśya",
+     "en": "emaciation",
+     "hi": "कृशता"
+    },
+    {
+     "sa": "कार्ष्ण्य",
+     "iast": "kārṣṇya",
+     "en": "blackish discolouration",
+     "hi": "कालापन"
+    },
+    {
+     "sa": "उष्णकामत्व",
+     "iast": "uṣṇa-kāmatva",
+     "en": "desire for warmth",
+     "hi": "गर्मी की इच्छा"
+    },
+    {
+     "sa": "कम्प",
+     "iast": "kampa",
+     "en": "tremor",
+     "hi": "कंपन"
+    },
+    {
+     "sa": "आनाह",
+     "iast": "ānāha",
+     "en": "distension with retention",
+     "hi": "आनाह"
+    },
+    {
+     "sa": "शकृद्ग्रहान्",
+     "iast": "śakṛd-grahān",
+     "en": "constipation",
+     "hi": "मल का रुकना"
+    },
+    {
+     "sa": "बलनिद्रेन्द्रियभ्रंश",
+     "iast": "bala-nidrendriya-bhraṃśa",
+     "en": "loss of strength, sleep and sensory function",
+     "hi": "बल, नींद और इंद्रियों की हानि"
+    },
+    {
+     "sa": "प्रलाप",
+     "iast": "pralāpa",
+     "en": "incoherent talk",
+     "hi": "प्रलाप"
+    },
+    {
+     "sa": "भ्रम",
+     "iast": "bhrama",
+     "en": "giddiness",
+     "hi": "चक्कर"
+    },
+    {
+     "sa": "दीनताः",
+     "iast": "dīnatāḥ",
+     "en": "depression, dejection",
+     "hi": "दीनता"
+    }
+   ],
+   "english": "...emaciation, blackish discolouration, desire for warmth, tremor, distension, constipation, loss of strength, sleep and sensory function, incoherent talk, giddiness and dejection.",
+   "hindi": "...कृशता, कालापन, गर्मी की इच्छा, कंपन, आनाह (पेट फूलना), कब्ज़, बल, नींद और इंद्रियों की शक्ति की हानि, प्रलाप (बड़बड़ाना), चक्कर और दीनता (उदासी) पैदा करता है।",
+   "explanation_en": "Vāta-vṛddhi lakṣaṇa. Note how each sign reflects vāta's qualities: rūkṣa → kārśya; śīta → uṣṇakāmatva; cala → kampa, bhrama, pralāpa. Linking signs to guṇas helps recall.",
+   "explanation_hi": "वात वृद्धि लक्षण। देखें कि हर लक्षण वात के गुण से जुड़ा है: रूक्ष → कृशता; शीत → उष्णकामत्व; चल → कंपन, भ्रम, प्रलाप। लक्षणों को गुणों से जोड़कर याद करना आसान है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vāta-vṛddhi",
+    "kārśya",
+    "kampa"
+   ],
+   "tags": [
+    "dosha",
+    "vriddhi-lakshana",
+    "vata"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.11.7",
+   "word_meanings": [
+    {
+     "sa": "पीत",
+     "iast": "pīta",
+     "en": "yellowness",
+     "hi": "पीलापन"
+    },
+    {
+     "sa": "विण्मूत्रनेत्रत्वक्",
+     "iast": "viṇ-mūtra-netra-tvak",
+     "en": "of faeces, urine, eyes and skin",
+     "hi": "मल, मूत्र, आँख और त्वचा का"
+    },
+    {
+     "sa": "क्षुत्",
+     "iast": "kṣut",
+     "en": "(excess) hunger",
+     "hi": "(अधिक) भूख"
+    },
+    {
+     "sa": "तृट्",
+     "iast": "tṛṭ",
+     "en": "thirst",
+     "hi": "प्यास"
+    },
+    {
+     "sa": "दाह",
+     "iast": "dāha",
+     "en": "burning",
+     "hi": "जलन"
+    },
+    {
+     "sa": "अल्पनिद्रताः",
+     "iast": "alpa-nidratāḥ",
+     "en": "little sleep",
+     "hi": "कम नींद"
+    },
+    {
+     "sa": "पित्तम्",
+     "iast": "pittam",
+     "en": "pitta",
+     "hi": "पित्त"
+    },
+    {
+     "sa": "श्लेष्मा",
+     "iast": "śleṣmā",
+     "en": "kapha",
+     "hi": "कफ"
+    },
+    {
+     "sa": "अग्निसदन",
+     "iast": "agni-sadana",
+     "en": "weak digestion",
+     "hi": "अग्नि मंद होना"
+    },
+    {
+     "sa": "प्रसेक",
+     "iast": "praseka",
+     "en": "salivation",
+     "hi": "लार आना"
+    },
+    {
+     "sa": "आलस्य",
+     "iast": "ālasya",
+     "en": "laziness",
+     "hi": "आलस्य"
+    },
+    {
+     "sa": "गौरवम्",
+     "iast": "gauravam",
+     "en": "heaviness",
+     "hi": "भारीपन"
+    }
+   ],
+   "english": "Increased pitta causes yellowness of faeces, urine, eyes and skin, (excessive) hunger, thirst, burning and little sleep. Increased kapha causes weak digestion, salivation, laziness, heaviness,...",
+   "hindi": "बढ़ा हुआ पित्त मल, मूत्र, आँखों और त्वचा में पीलापन, अधिक भूख, प्यास, जलन और कम नींद पैदा करता है। बढ़ा हुआ कफ अग्निमांद्य, लार आना, आलस्य, भारीपन,...",
+   "explanation_en": "Pitta-vṛddhi: yellowness and heat signs; kapha-vṛddhi (continued in verse 8): heaviness, sluggishness and whiteness. Contrast sleep: vāta and pitta increase → little sleep; kapha increase → excess sleep.",
+   "explanation_hi": "पित्त वृद्धि: पीलापन और गर्मी के लक्षण; कफ वृद्धि (श्लोक 8 में जारी): भारीपन, सुस्ती और सफ़ेदी। नींद का अंतर: वात और पित्त वृद्धि → कम नींद; कफ वृद्धि → अधिक नींद।",
+   "modern_correlation": null,
+   "key_terms": [
+    "pitta-vṛddhi",
+    "kapha-vṛddhi",
+    "agnimāndya"
+   ],
+   "tags": [
+    "dosha",
+    "vriddhi-lakshana",
+    "pitta",
+    "kapha"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.11.8",
+   "word_meanings": [
+    {
+     "sa": "श्वैत्य",
+     "iast": "śvaitya",
+     "en": "whiteness",
+     "hi": "सफ़ेदी"
+    },
+    {
+     "sa": "शैत्य",
+     "iast": "śaitya",
+     "en": "coldness",
+     "hi": "ठंडक"
+    },
+    {
+     "sa": "श्लथाङ्गत्वम्",
+     "iast": "ślathāṅgatvam",
+     "en": "looseness of limbs",
+     "hi": "अंगों की शिथिलता"
+    },
+    {
+     "sa": "श्वास",
+     "iast": "śvāsa",
+     "en": "dyspnoea",
+     "hi": "श्वास"
+    },
+    {
+     "sa": "कास",
+     "iast": "kāsa",
+     "en": "cough",
+     "hi": "खाँसी"
+    },
+    {
+     "sa": "अतिनिद्रताः",
+     "iast": "ati-nidratāḥ",
+     "en": "excessive sleep",
+     "hi": "अधिक नींद"
+    },
+    {
+     "sa": "रसः",
+     "iast": "rasaḥ",
+     "en": "rasa dhātu",
+     "hi": "रस धातु"
+    },
+    {
+     "sa": "अपि",
+     "iast": "api",
+     "en": "also",
+     "hi": "भी"
+    },
+    {
+     "sa": "श्लेष्मवत्",
+     "iast": "śleṣmavat",
+     "en": "like kapha",
+     "hi": "कफ के समान"
+    },
+    {
+     "sa": "रक्तम्",
+     "iast": "raktam",
+     "en": "rakta",
+     "hi": "रक्त"
+    },
+    {
+     "sa": "विसर्प",
+     "iast": "visarpa",
+     "en": "erysipelas",
+     "hi": "विसर्प"
+    },
+    {
+     "sa": "प्लीह",
+     "iast": "plīha",
+     "en": "splenic enlargement",
+     "hi": "प्लीहा वृद्धि"
+    },
+    {
+     "sa": "विद्रधीन्",
+     "iast": "vidradhīn",
+     "en": "abscesses",
+     "hi": "विद्रधि"
+    }
+   ],
+   "english": "...whiteness, coldness, looseness of the limbs, dyspnoea, cough and excessive sleep. Increased rasa (dhātu) also produces signs like those of kapha. Increased rakta causes erysipelas (visarpa), splenic enlargement, abscesses (vidradhi),...",
+   "hindi": "...सफ़ेदी, ठंडक, अंगों की शिथिलता, श्वास, खाँसी और अधिक नींद पैदा करता है। बढ़ा हुआ रस धातु भी कफ जैसे लक्षण देता है। बढ़ा हुआ रक्त विसर्प, प्लीहा वृद्धि, विद्रधि,...",
+   "explanation_en": "Rasa-vṛddhi = kapha-vṛddhi signs (rasa and kapha are closely related). Rakta-vṛddhi list continues in verse 9 and is mostly pitta-type disorders.",
+   "explanation_hi": "रस वृद्धि = कफ वृद्धि जैसे लक्षण (रस और कफ निकट संबंधी हैं)। रक्त वृद्धि की सूची श्लोक 9 में जारी है और अधिकतर पित्त-प्रकार के रोग हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "kapha-vṛddhi",
+    "rasa-vṛddhi",
+    "rakta-vṛddhi"
+   ],
+   "tags": [
+    "dhatu",
+    "vriddhi-lakshana"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.11.9",
+   "word_meanings": [
+    {
+     "sa": "कुष्ठ",
+     "iast": "kuṣṭha",
+     "en": "skin diseases",
+     "hi": "कुष्ठ"
+    },
+    {
+     "sa": "वातास्र",
+     "iast": "vātāsra",
+     "en": "vātarakta (gout-like disorder)",
+     "hi": "वातरक्त"
+    },
+    {
+     "sa": "पित्तास्र",
+     "iast": "pittāsra",
+     "en": "raktapitta (bleeding disorder)",
+     "hi": "रक्तपित्त"
+    },
+    {
+     "sa": "गुल्म",
+     "iast": "gulma",
+     "en": "abdominal lump",
+     "hi": "गुल्म"
+    },
+    {
+     "sa": "उपकुश",
+     "iast": "upakuśa",
+     "en": "gum disease",
+     "hi": "उपकुश (मसूड़ों का रोग)"
+    },
+    {
+     "sa": "कामलाः",
+     "iast": "kāmalāḥ",
+     "en": "jaundice",
+     "hi": "कामला"
+    },
+    {
+     "sa": "व्यङ्ग",
+     "iast": "vyaṅga",
+     "en": "facial pigmentation",
+     "hi": "व्यंग (झाइयाँ)"
+    },
+    {
+     "sa": "अग्निनाश",
+     "iast": "agni-nāśa",
+     "en": "loss of digestive fire",
+     "hi": "अग्नि नाश"
+    },
+    {
+     "sa": "संमोह",
+     "iast": "saṃmoha",
+     "en": "confusion",
+     "hi": "संमोह"
+    },
+    {
+     "sa": "रक्तत्वङ्नेत्रमूत्रताः",
+     "iast": "rakta-tvaṅ-netra-mūtratāḥ",
+     "en": "redness of skin, eyes and urine",
+     "hi": "त्वचा, आँख और मूत्र की लाली"
+    }
+   ],
+   "english": "...skin diseases (kuṣṭha), vātarakta, raktapitta, gulma, gum disease (upakuśa), jaundice (kāmalā), facial pigmentation (vyaṅga), loss of digestive fire, confusion, and redness of the skin, eyes and urine.",
+   "hindi": "...कुष्ठ, वातरक्त, रक्तपित्त, गुल्म, उपकुश (मसूड़ों का रोग), कामला (पीलिया), व्यंग (चेहरे की झाइयाँ), अग्नि नाश, संमोह, और त्वचा, आँख तथा मूत्र में लाली पैदा करता है।",
+   "explanation_en": "Rakta-vṛddhi disorders overlap with the rakta-pradoṣaja vikāras of Caraka (Sū. 24). Learn 5-6 of them; redness of skin, eyes and urine is the general sign.",
+   "explanation_hi": "रक्त वृद्धि के रोग चरक (सू. 24) के रक्तप्रदोषज विकारों से मिलते हैं। इनमें से 5-6 याद करें; त्वचा, आँख और मूत्र की लाली सामान्य लक्षण है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "rakta-vṛddhi",
+    "raktapitta",
+    "vātarakta",
+    "kāmalā"
+   ],
+   "tags": [
+    "dhatu",
+    "vriddhi-lakshana",
+    "rakta"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.11.10",
+   "word_meanings": [
+    {
+     "sa": "मांसम्",
+     "iast": "māṃsam",
+     "en": "muscle tissue",
+     "hi": "मांस धातु"
+    },
+    {
+     "sa": "गण्ड",
+     "iast": "gaṇḍa",
+     "en": "cervical/glandular swelling",
+     "hi": "गण्ड (गले की सूजन)"
+    },
+    {
+     "sa": "अर्बुद",
+     "iast": "arbuda",
+     "en": "tumour",
+     "hi": "अर्बुद"
+    },
+    {
+     "sa": "ग्रन्थि",
+     "iast": "granthi",
+     "en": "cyst, nodule",
+     "hi": "ग्रन्थि (गाँठ)"
+    },
+    {
+     "sa": "गण्डोरूदरवृद्धिताः",
+     "iast": "gaṇḍorūdara-vṛddhitāḥ",
+     "en": "enlargement of cheeks, thighs and abdomen",
+     "hi": "गाल, जाँघ और पेट का बढ़ना"
+    },
+    {
+     "sa": "कण्ठादिषु",
+     "iast": "kaṇṭhādiṣu",
+     "en": "in the throat etc.",
+     "hi": "गले आदि में"
+    },
+    {
+     "sa": "अधिमांसम्",
+     "iast": "adhimāṃsam",
+     "en": "excess muscle growth",
+     "hi": "अधिमांस (अतिरिक्त मांस)"
+    },
+    {
+     "sa": "तद्वत्",
+     "iast": "tadvat",
+     "en": "similarly",
+     "hi": "उसी प्रकार"
+    },
+    {
+     "sa": "मेदः",
+     "iast": "medaḥ",
+     "en": "fat tissue",
+     "hi": "मेद धातु"
+    },
+    {
+     "sa": "तथा",
+     "iast": "tathā",
+     "en": "also",
+     "hi": "तथा"
+    },
+    {
+     "sa": "श्रमम्",
+     "iast": "śramam",
+     "en": "fatigue",
+     "hi": "थकान"
+    }
+   ],
+   "english": "Increased māṃsa causes glandular swellings (gaṇḍa), tumours (arbuda), nodules (granthi), enlargement of the cheeks, thighs and abdomen, and excess muscular growths in the throat and other parts. Increased medas causes similar (signs), and also fatigue,...",
+   "hindi": "बढ़ा हुआ मांस धातु गण्ड, अर्बुद, ग्रन्थि (गाँठें), गाल, जाँघ और पेट का बढ़ना, तथा गले आदि में अधिमांस (अतिरिक्त मांस) पैदा करता है। बढ़ा हुआ मेद भी ऐसे ही लक्षण और थकान,...",
+   "explanation_en": "Māṃsa-vṛddhi is characterised by growths and enlargements. Medo-vṛddhi (continued in verse 11) adds breathlessness on exertion and pendulous buttocks, breasts and abdomen: the classical picture of obesity.",
+   "explanation_hi": "मांस वृद्धि में गाँठें और अंगों का बढ़ना मुख्य है। मेद वृद्धि (श्लोक 11 में जारी) में थोड़े परिश्रम से साँस फूलना और नितंब, स्तन व पेट का लटकना भी है: मोटापे का शास्त्रीय चित्र।",
+   "modern_correlation": null,
+   "key_terms": [
+    "māṃsa-vṛddhi",
+    "medo-vṛddhi",
+    "arbuda",
+    "granthi"
+   ],
+   "tags": [
+    "dhatu",
+    "vriddhi-lakshana"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.11.11",
+   "word_meanings": [
+    {
+     "sa": "अल्पे अपि चेष्टिते",
+     "iast": "alpe api ceṣṭite",
+     "en": "even on slight exertion",
+     "hi": "थोड़े परिश्रम पर भी"
+    },
+    {
+     "sa": "श्वासम्",
+     "iast": "śvāsam",
+     "en": "breathlessness",
+     "hi": "साँस फूलना"
+    },
+    {
+     "sa": "स्फिक्स्तनोदरलम्बनम्",
+     "iast": "sphik-stanodara-lambanam",
+     "en": "sagging of buttocks, breasts and abdomen",
+     "hi": "नितंब, स्तन और पेट का लटकना"
+    },
+    {
+     "sa": "अस्थि",
+     "iast": "asthi",
+     "en": "bone tissue",
+     "hi": "अस्थि धातु"
+    },
+    {
+     "sa": "अध्यस्थि",
+     "iast": "adhyasthi",
+     "en": "extra bony growth",
+     "hi": "अध्यस्थि (अतिरिक्त हड्डी)"
+    },
+    {
+     "sa": "अधिदन्तान्",
+     "iast": "adhidantān",
+     "en": "extra teeth",
+     "hi": "अधिदंत (अतिरिक्त दाँत)"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "मज्जा",
+     "iast": "majjā",
+     "en": "marrow",
+     "hi": "मज्जा धातु"
+    },
+    {
+     "sa": "नेत्राङ्गगौरवम्",
+     "iast": "netrāṅga-gauravam",
+     "en": "heaviness of eyes and limbs",
+     "hi": "आँखों और अंगों का भारीपन"
+    }
+   ],
+   "english": "...breathlessness even on slight exertion, and sagging of the buttocks, breasts and abdomen. Increased asthi causes extra bony growths (adhyasthi) and extra teeth (adhidanta). Increased majjā causes heaviness of the eyes and limbs,...",
+   "hindi": "...थोड़े परिश्रम पर भी साँस फूलना, और नितंब, स्तन तथा पेट का लटकना। बढ़ा हुआ अस्थि धातु अध्यस्थि (अतिरिक्त हड्डी) और अधिदंत (अतिरिक्त दाँत) पैदा करता है। बढ़ी हुई मज्जा आँखों और अंगों में भारीपन,...",
+   "explanation_en": "Asthi-vṛddhi: adhyasthi, adhidanta (a favourite MCQ). Majjā-vṛddhi continues in verse 12.",
+   "explanation_hi": "अस्थि वृद्धि: अध्यस्थि, अधिदंत (प्रिय MCQ)। मज्जा वृद्धि श्लोक 12 में जारी है।",
+   "modern_correlation": {
+    "en": "Adhyasthi and adhidanta are often compared to bony outgrowths such as exostoses and to supernumerary teeth.",
+    "hi": "अध्यस्थि और अधिदंत की तुलना अक्सर एक्सोस्टोसिस जैसी हड्डी की अतिरिक्त वृद्धि और अतिरिक्त (सुपरन्यूमरेरी) दाँतों से की जाती है।"
+   },
+   "key_terms": [
+    "medo-vṛddhi",
+    "asthi-vṛddhi",
+    "adhyasthi",
+    "majjā-vṛddhi"
+   ],
+   "tags": [
+    "dhatu",
+    "vriddhi-lakshana"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.11.12",
+   "word_meanings": [
+    {
+     "sa": "पर्वसु",
+     "iast": "parvasu",
+     "en": "at the joints",
+     "hi": "जोड़ों पर"
+    },
+    {
+     "sa": "स्थूलमूलानि",
+     "iast": "sthūla-mūlāni",
+     "en": "with thick bases",
+     "hi": "मोटी जड़ वाले"
+    },
+    {
+     "sa": "कुर्यात्",
+     "iast": "kuryāt",
+     "en": "produces",
+     "hi": "करता है"
+    },
+    {
+     "sa": "कृच्छ्राणि",
+     "iast": "kṛcchrāṇi",
+     "en": "difficult to heal",
+     "hi": "कठिन (कष्टसाध्य)"
+    },
+    {
+     "sa": "अरूंषि",
+     "iast": "arūṃṣi",
+     "en": "boils, ulcers",
+     "hi": "फोड़े, व्रण"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "अतिस्त्रीकामताम्",
+     "iast": "ati-strī-kāmatām",
+     "en": "excessive sexual desire",
+     "hi": "अत्यधिक काम इच्छा"
+    },
+    {
+     "sa": "वृद्धम्",
+     "iast": "vṛddham",
+     "en": "increased",
+     "hi": "बढ़ा हुआ"
+    },
+    {
+     "sa": "शुक्रम्",
+     "iast": "śukram",
+     "en": "reproductive tissue",
+     "hi": "शुक्र धातु"
+    },
+    {
+     "sa": "शुक्राश्मरीम्",
+     "iast": "śukrāśmarīm",
+     "en": "seminal calculus",
+     "hi": "शुक्राश्मरी"
+    },
+    {
+     "sa": "अपि",
+     "iast": "api",
+     "en": "also",
+     "hi": "भी"
+    }
+   ],
+   "english": "...and produces boils with thick bases at the joints that are difficult to heal. Increased śukra causes excessive sexual desire and also seminal calculi (śukrāśmarī).",
+   "hindi": "...और जोड़ों पर मोटी जड़ वाले कष्टसाध्य फोड़े पैदा करती है। बढ़ा हुआ शुक्र अत्यधिक काम इच्छा और शुक्राश्मरी (वीर्य की पथरी) पैदा करता है।",
+   "explanation_en": "Śukra-vṛddhi: ati-strī-kāmatā, śukrāśmarī. Śukrāśmarī is one of the four types of aśmarī in Suśruta. This completes the dhātu-vṛddhi signs.",
+   "explanation_hi": "शुक्र वृद्धि: अति स्त्री कामता, शुक्राश्मरी। शुक्राश्मरी सुश्रुत के चार प्रकार की अश्मरियों में से एक है। इससे धातु वृद्धि लक्षण पूरे होते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "majjā-vṛddhi",
+    "śukra-vṛddhi",
+    "śukrāśmarī"
+   ],
+   "tags": [
+    "dhatu",
+    "vriddhi-lakshana"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.11.13",
+   "word_meanings": [
+    {
+     "sa": "कुक्षौ",
+     "iast": "kukṣau",
+     "en": "in the abdomen",
+     "hi": "पेट में"
+    },
+    {
+     "sa": "आध्मानम्",
+     "iast": "ādhmānam",
+     "en": "flatulent distension",
+     "hi": "अफारा"
+    },
+    {
+     "sa": "आटोपम्",
+     "iast": "āṭopam",
+     "en": "gurgling",
+     "hi": "गुड़गुड़ाहट"
+    },
+    {
+     "sa": "गौरवम्",
+     "iast": "gauravam",
+     "en": "heaviness",
+     "hi": "भारीपन"
+    },
+    {
+     "sa": "वेदनाम्",
+     "iast": "vedanām",
+     "en": "pain",
+     "hi": "दर्द"
+    },
+    {
+     "sa": "शकृत्",
+     "iast": "śakṛt",
+     "en": "faeces",
+     "hi": "मल"
+    },
+    {
+     "sa": "मूत्रम्",
+     "iast": "mūtram",
+     "en": "urine",
+     "hi": "मूत्र"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "तो"
+    },
+    {
+     "sa": "वस्तिनिस्तोदम्",
+     "iast": "vasti-nistodam",
+     "en": "pricking pain in the bladder",
+     "hi": "मूत्राशय में चुभन"
+    },
+    {
+     "sa": "कृते अपि",
+     "iast": "kṛte api",
+     "en": "even after voiding",
+     "hi": "त्याग करने पर भी"
+    },
+    {
+     "sa": "अकृतसंज्ञताम्",
+     "iast": "akṛta-saṃjñatām",
+     "en": "feeling of not having voided",
+     "hi": "त्याग न करने जैसी अनुभूति"
+    }
+   ],
+   "english": "Increased faeces (śakṛt) cause flatulent distension, gurgling, heaviness and pain in the abdomen. Increased urine causes pricking pain in the bladder and a feeling of not having passed urine even after voiding.",
+   "hindi": "बढ़ा हुआ मल पेट में अफारा, गुड़गुड़ाहट, भारीपन और दर्द करता है। बढ़ा हुआ मूत्र मूत्राशय में चुभन और मूत्र त्याग के बाद भी ऐसा लगना कि त्याग नहीं हुआ, पैदा करता है।",
+   "explanation_en": "Mala-vṛddhi lakṣaṇa. The feeling of incomplete voiding ('kṛte 'py akṛta-saṃjñatā') is a characteristic sign often asked.",
+   "explanation_hi": "मल वृद्धि लक्षण। अधूरे त्याग की अनुभूति ('कृतेऽप्यकृतसंज्ञता') एक विशेष लक्षण है जो अक्सर पूछा जाता है।",
+   "modern_correlation": {
+    "en": "A sense of incomplete bladder emptying with bladder discomfort broadly parallels lower urinary tract symptoms seen in urinary retention or bladder outlet obstruction.",
+    "hi": "मूत्राशय में असहजता के साथ अधूरे खाली होने की अनुभूति, मूत्र रुकने या मूत्राशय द्वार की रुकावट में दिखने वाले लक्षणों से मिलती है।"
+   },
+   "key_terms": [
+    "purīṣa-vṛddhi",
+    "mūtra-vṛddhi",
+    "āṭopa"
+   ],
+   "tags": [
+    "mala",
+    "vriddhi-lakshana"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.11.14",
+   "word_meanings": [
+    {
+     "sa": "स्वेदः",
+     "iast": "svedaḥ",
+     "en": "sweat",
+     "hi": "पसीना"
+    },
+    {
+     "sa": "अतिस्वेद",
+     "iast": "ati-sveda",
+     "en": "excessive sweating",
+     "hi": "अधिक पसीना"
+    },
+    {
+     "sa": "दौर्गन्ध्य",
+     "iast": "daurgandhya",
+     "en": "foul smell",
+     "hi": "दुर्गंध"
+    },
+    {
+     "sa": "कण्डूः",
+     "iast": "kaṇḍūḥ",
+     "en": "itching",
+     "hi": "खुजली"
+    },
+    {
+     "sa": "एवम्",
+     "iast": "evam",
+     "en": "in this way",
+     "hi": "इसी प्रकार"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "लक्षयेत्",
+     "iast": "lakṣayet",
+     "en": "should recognise",
+     "hi": "पहचानें"
+    },
+    {
+     "sa": "दूषिकादीन्",
+     "iast": "dūṣikādīn",
+     "en": "eye discharge and others",
+     "hi": "आँख का कीचड़ आदि"
+    },
+    {
+     "sa": "अपि",
+     "iast": "api",
+     "en": "also",
+     "hi": "भी"
+    },
+    {
+     "sa": "मलान्",
+     "iast": "malān",
+     "en": "waste products",
+     "hi": "मलों को"
+    },
+    {
+     "sa": "बाहुल्यगुरुतादिभिः",
+     "iast": "bāhulya-gurutādibhiḥ",
+     "en": "by abundance, heaviness etc.",
+     "hi": "अधिकता, भारीपन आदि से"
+    }
+   ],
+   "english": "Increased sweat causes excessive sweating, foul body odour and itching. In the same way one should recognise (the increase of) other malas such as eye discharge (dūṣikā) by their abundance, heaviness and so on.",
+   "hindi": "बढ़ा हुआ पसीना अधिक पसीना, शरीर की दुर्गंध और खुजली पैदा करता है। इसी प्रकार आँख के कीचड़ (दूषिका) आदि अन्य मलों की वृद्धि को उनकी अधिकता, भारीपन आदि से पहचानना चाहिए।",
+   "explanation_en": "Sveda-vṛddhi signs. The second line extends the method to the minor malas (dūṣikā, ear wax, nasal secretions, nails, hair etc.): judge by their quantity and heaviness.",
+   "explanation_hi": "स्वेद वृद्धि लक्षण। दूसरी पंक्ति यही विधि छोटे मलों (आँख का कीचड़, कान का मैल, नाक का स्राव, नख, केश आदि) पर लागू करती है: उनकी मात्रा और भारीपन से पहचानें।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sveda-vṛddhi",
+    "dūṣikā",
+    "mala"
+   ],
+   "tags": [
+    "mala",
+    "vriddhi-lakshana"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.11.15",
+   "word_meanings": [
+    {
+     "sa": "लिङ्गम्",
+     "iast": "liṅgam",
+     "en": "sign",
+     "hi": "लक्षण"
+    },
+    {
+     "sa": "क्षीणे",
+     "iast": "kṣīṇe",
+     "en": "when decreased",
+     "hi": "क्षीण होने पर"
+    },
+    {
+     "sa": "अनिले",
+     "iast": "anile",
+     "en": "vāta",
+     "hi": "वात"
+    },
+    {
+     "sa": "अङ्गस्य",
+     "iast": "aṅgasya",
+     "en": "of the body",
+     "hi": "शरीर की"
+    },
+    {
+     "sa": "सादः",
+     "iast": "sādaḥ",
+     "en": "weakness, lassitude",
+     "hi": "शिथिलता"
+    },
+    {
+     "sa": "अल्पम्",
+     "iast": "alpam",
+     "en": "little",
+     "hi": "कम"
+    },
+    {
+     "sa": "भाषितेहितम्",
+     "iast": "bhāṣitehitam",
+     "en": "speech and activity",
+     "hi": "बोलना और चेष्टा"
+    },
+    {
+     "sa": "संज्ञामोहः",
+     "iast": "saṃjñā-mohaḥ",
+     "en": "clouding of consciousness",
+     "hi": "संज्ञा (चेतना) में मोह"
+    },
+    {
+     "sa": "तथा",
+     "iast": "tathā",
+     "en": "also",
+     "hi": "तथा"
+    },
+    {
+     "sa": "श्लेष्मवृद्ध्युक्तामयसंभवः",
+     "iast": "śleṣma-vṛddhy-uktāmaya-saṃbhavaḥ",
+     "en": "occurrence of the diseases described under increase of kapha",
+     "hi": "कफ वृद्धि में बताए रोगों का होना"
+    }
+   ],
+   "english": "Signs of decreased vāta: lassitude of the body, reduced speech and activity, clouding of consciousness, and the appearance of the disorders described under increased kapha.",
+   "hindi": "वात क्षय के लक्षण: शरीर में शिथिलता, कम बोलना और कम चेष्टा, चेतना में मोह (धुंधलापन), और कफ वृद्धि में बताए गए रोगों का होना।",
+   "explanation_en": "Kṣaya-lakṣaṇa (signs of decrease) of doṣas start here (verses 15-16), then dhātus (17-20) and malas (21-23). A useful principle: when one doṣa decreases, the opposing one tends to dominate (vāta-kṣaya → kapha-vṛddhi signs).",
+   "explanation_hi": "यहाँ से दोषों के क्षय लक्षण (श्लोक 15-16), फिर धातुओं के (17-20) और मलों के (21-23) शुरू होते हैं। उपयोगी सिद्धांत: एक दोष घटने पर विरोधी दोष प्रबल होता है (वात क्षय → कफ वृद्धि लक्षण)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vāta-kṣaya",
+    "kṣaya-lakṣaṇa"
+   ],
+   "tags": [
+    "dosha",
+    "kshaya-lakshana",
+    "vata"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.11.16",
+   "word_meanings": [
+    {
+     "sa": "पित्ते",
+     "iast": "pitte",
+     "en": "in (decreased) pitta",
+     "hi": "पित्त (क्षय) में"
+    },
+    {
+     "sa": "मन्दः",
+     "iast": "mandaḥ",
+     "en": "weak",
+     "hi": "मंद"
+    },
+    {
+     "sa": "अनलः",
+     "iast": "analaḥ",
+     "en": "digestive fire",
+     "hi": "अग्नि"
+    },
+    {
+     "sa": "शीतम्",
+     "iast": "śītam",
+     "en": "coldness",
+     "hi": "ठंडक"
+    },
+    {
+     "sa": "प्रभाहानिः",
+     "iast": "prabhā-hāniḥ",
+     "en": "loss of lustre",
+     "hi": "कांति की हानि"
+    },
+    {
+     "sa": "कफे",
+     "iast": "kaphe",
+     "en": "in (decreased) kapha",
+     "hi": "कफ (क्षय) में"
+    },
+    {
+     "sa": "भ्रमः",
+     "iast": "bhramaḥ",
+     "en": "giddiness",
+     "hi": "चक्कर"
+    },
+    {
+     "sa": "श्लेष्माशयानाम्",
+     "iast": "śleṣmāśayānām",
+     "en": "of the seats of kapha",
+     "hi": "कफ के स्थानों की"
+    },
+    {
+     "sa": "शून्यत्वम्",
+     "iast": "śūnyatvam",
+     "en": "emptiness",
+     "hi": "खालीपन"
+    },
+    {
+     "sa": "हृद्द्रवः",
+     "iast": "hṛd-dravaḥ",
+     "en": "palpitation",
+     "hi": "हृदय की धड़कन बढ़ना"
+    },
+    {
+     "sa": "श्लथसंधिता",
+     "iast": "ślatha-saṃdhitā",
+     "en": "looseness of joints",
+     "hi": "जोड़ों की शिथिलता"
+    }
+   ],
+   "english": "In decreased pitta: weak digestive fire, coldness and loss of lustre. In decreased kapha: giddiness, a feeling of emptiness in the seats of kapha, palpitation (hṛd-drava) and looseness of the joints.",
+   "hindi": "पित्त क्षय में: अग्नि मंद, ठंडक और कांति की हानि। कफ क्षय में: चक्कर, कफ के स्थानों (छाती, सिर, जोड़ आदि) में खालीपन, हृदय की धड़कन बढ़ना (हृद्द्रव) और जोड़ों में ढीलापन।",
+   "explanation_en": "Pitta-kṣaya = loss of pitta's normal functions (agni, heat, prabhā). Kapha-kṣaya = loss of stability and cohesion (bhrama, ślatha sandhi). Kṣaya signs are essentially the absence of normal karma.",
+   "explanation_hi": "पित्त क्षय = पित्त के प्राकृत कर्मों (अग्नि, गर्मी, प्रभा) की हानि। कफ क्षय = स्थिरता और बंधन की हानि (भ्रम, श्लथ संधि)। क्षय लक्षण मूल रूप से प्राकृत कर्मों का अभाव हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "pitta-kṣaya",
+    "kapha-kṣaya",
+    "hṛd-drava"
+   ],
+   "tags": [
+    "dosha",
+    "kshaya-lakshana"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.11.17",
+   "word_meanings": [
+    {
+     "sa": "रसे",
+     "iast": "rase",
+     "en": "in (decreased) rasa",
+     "hi": "रस क्षय में"
+    },
+    {
+     "sa": "रौक्ष्यम्",
+     "iast": "raukṣyam",
+     "en": "dryness",
+     "hi": "रूखापन"
+    },
+    {
+     "sa": "श्रमः",
+     "iast": "śramaḥ",
+     "en": "fatigue",
+     "hi": "थकान"
+    },
+    {
+     "sa": "शोषः",
+     "iast": "śoṣaḥ",
+     "en": "emaciation, drying",
+     "hi": "शोष"
+    },
+    {
+     "sa": "ग्लानिः",
+     "iast": "glāniḥ",
+     "en": "exhaustion",
+     "hi": "ग्लानि"
+    },
+    {
+     "sa": "शब्दासहिष्णुता",
+     "iast": "śabdāsahiṣṇutā",
+     "en": "intolerance of sound",
+     "hi": "शब्द सहन न होना"
+    },
+    {
+     "sa": "रक्ते",
+     "iast": "rakte",
+     "en": "in (decreased) rakta",
+     "hi": "रक्त क्षय में"
+    },
+    {
+     "sa": "अम्लशिशिरप्रीति",
+     "iast": "amla-śiśira-prīti",
+     "en": "desire for sour and cold things",
+     "hi": "खट्टे और ठंडे की इच्छा"
+    },
+    {
+     "sa": "सिराशैथिल्य",
+     "iast": "sirā-śaithilya",
+     "en": "laxity of vessels",
+     "hi": "सिराओं की शिथिलता"
+    },
+    {
+     "sa": "रूक्षताः",
+     "iast": "rūkṣatāḥ",
+     "en": "dryness",
+     "hi": "रूखापन"
+    }
+   ],
+   "english": "In decreased rasa: dryness, fatigue, emaciation, exhaustion and intolerance of sound. In decreased rakta: craving for sour and cold things, laxity of the blood vessels and dryness.",
+   "hindi": "रस क्षय में: रूखापन, थकान, शोष (सूखना), ग्लानि और शब्द (आवाज़) सहन न होना। रक्त क्षय में: खट्टे और ठंडे पदार्थों की इच्छा, सिराओं की शिथिलता और रूखापन।",
+   "explanation_en": "'Śabdāsahiṣṇutā' (intolerance of noise) in rasa-kṣaya and 'amla-śiśira-prīti' in rakta-kṣaya are classic MCQ facts.",
+   "explanation_hi": "रस क्षय में 'शब्दासहिष्णुता' (शोर सहन न होना) और रक्त क्षय में 'अम्ल-शिशिर प्रीति' प्रसिद्ध MCQ तथ्य हैं।",
+   "modern_correlation": {
+    "en": "Signs of rasa and rakta depletion (dryness, fatigue, weak vessels) are often compared to dehydration and anaemia; craving for unusual items is also reported in iron-deficiency states, though this comparison is approximate.",
+    "hi": "रस और रक्त क्षय के लक्षणों (रूखापन, थकान, कमज़ोर सिराएँ) की तुलना अक्सर निर्जलीकरण और एनीमिया से की जाती है; आयरन की कमी में असामान्य चीज़ों की इच्छा भी देखी जाती है, हालाँकि यह तुलना अनुमानित है।"
+   },
+   "key_terms": [
+    "rasa-kṣaya",
+    "rakta-kṣaya",
+    "śabdāsahiṣṇutā"
+   ],
+   "tags": [
+    "dhatu",
+    "kshaya-lakshana"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.11.18",
+   "word_meanings": [
+    {
+     "sa": "मांसे",
+     "iast": "māṃse",
+     "en": "in (decreased) māṃsa",
+     "hi": "मांस क्षय में"
+    },
+    {
+     "sa": "अक्षग्लानि",
+     "iast": "akṣa-glāni",
+     "en": "weakness of the senses",
+     "hi": "इंद्रियों की थकान"
+    },
+    {
+     "sa": "गण्डस्फिक्शुष्कता",
+     "iast": "gaṇḍa-sphik-śuṣkatā",
+     "en": "wasting of cheeks and buttocks",
+     "hi": "गाल और नितंबों का सूखना"
+    },
+    {
+     "sa": "संधिवेदनाः",
+     "iast": "saṃdhi-vedanāḥ",
+     "en": "joint pains",
+     "hi": "जोड़ों में दर्द"
+    },
+    {
+     "sa": "मेदसि",
+     "iast": "medasi",
+     "en": "in (decreased) medas",
+     "hi": "मेद क्षय में"
+    },
+    {
+     "sa": "स्वपनम्",
+     "iast": "svapanam",
+     "en": "numbness",
+     "hi": "सुन्नपन"
+    },
+    {
+     "sa": "कट्याः",
+     "iast": "kaṭyāḥ",
+     "en": "of the waist",
+     "hi": "कमर का"
+    },
+    {
+     "sa": "प्लीह्नः",
+     "iast": "plīhnaḥ",
+     "en": "of the spleen",
+     "hi": "प्लीहा की"
+    },
+    {
+     "sa": "वृद्धिः",
+     "iast": "vṛddhiḥ",
+     "en": "enlargement",
+     "hi": "वृद्धि"
+    },
+    {
+     "sa": "कृशाङ्गता",
+     "iast": "kṛśāṅgatā",
+     "en": "emaciation of the body",
+     "hi": "शरीर की कृशता"
+    }
+   ],
+   "english": "In decreased māṃsa: weakness of the senses, wasting of the cheeks and buttocks, and joint pains. In decreased medas: numbness of the waist, enlargement of the spleen and emaciation of the body.",
+   "hindi": "मांस क्षय में: इंद्रियों की थकान, गालों और नितंबों का सूख जाना, और जोड़ों में दर्द। मेद क्षय में: कमर में सुन्नपन, प्लीहा का बढ़ना और शरीर की कृशता।",
+   "explanation_en": "Note the surprising 'plīha-vṛddhi' in medo-kṣaya, a well-known MCQ. Wasting of the cheeks and buttocks is the typical visible sign of muscle loss.",
+   "explanation_hi": "मेद क्षय में 'प्लीहा वृद्धि' चौंकाने वाला पर प्रसिद्ध MCQ है। गालों और नितंबों का सूखना मांस क्षय का विशिष्ट दिखने वाला लक्षण है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "māṃsa-kṣaya",
+    "medo-kṣaya",
+    "plīha-vṛddhi"
+   ],
+   "tags": [
+    "dhatu",
+    "kshaya-lakshana"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.11.19",
+   "word_meanings": [
+    {
+     "sa": "अस्थ्नि",
+     "iast": "asthni",
+     "en": "in (decreased) asthi",
+     "hi": "अस्थि क्षय में"
+    },
+    {
+     "sa": "अस्थितोदः",
+     "iast": "asthi-todaḥ",
+     "en": "pricking pain in bones",
+     "hi": "हड्डियों में चुभन"
+    },
+    {
+     "sa": "शदनम्",
+     "iast": "śadanam",
+     "en": "falling out",
+     "hi": "गिरना"
+    },
+    {
+     "sa": "दन्तकेशनखादिषु",
+     "iast": "danta-keśa-nakhādiṣu",
+     "en": "of teeth, hair, nails etc.",
+     "hi": "दाँत, बाल, नख आदि का"
+    },
+    {
+     "sa": "अस्थ्नाम्",
+     "iast": "asthnām",
+     "en": "of bones",
+     "hi": "हड्डियों की"
+    },
+    {
+     "sa": "मज्जनि",
+     "iast": "majjani",
+     "en": "in (decreased) majjā",
+     "hi": "मज्जा क्षय में"
+    },
+    {
+     "sa": "सौषिर्यम्",
+     "iast": "sauṣiryam",
+     "en": "porosity, hollowness",
+     "hi": "खोखलापन"
+    },
+    {
+     "sa": "भ्रमः",
+     "iast": "bhramaḥ",
+     "en": "giddiness",
+     "hi": "चक्कर"
+    },
+    {
+     "sa": "तिमिरदर्शनम्",
+     "iast": "timira-darśanam",
+     "en": "seeing darkness",
+     "hi": "आँखों के आगे अँधेरा"
+    }
+   ],
+   "english": "In decreased asthi: pricking pain in the bones and falling out of teeth, hair, nails etc. In decreased majjā: porosity (hollowness) of the bones, giddiness and seeing darkness before the eyes.",
+   "hindi": "अस्थि क्षय में: हड्डियों में चुभन, और दाँत, बाल, नख आदि का गिरना। मज्जा क्षय में: हड्डियों में खोखलापन (सौषिर्य), चक्कर और आँखों के आगे अँधेरा।",
+   "explanation_en": "Hair, nails and teeth are considered upadhātu/mala of asthi, so they suffer in asthi-kṣaya. 'Asthi-sauṣirya' in majjā-kṣaya is often compared to osteoporosis.",
+   "explanation_hi": "केश, नख और दाँत अस्थि के उपधातु/मल माने जाते हैं, इसलिए अस्थि क्षय में ये प्रभावित होते हैं। मज्जा क्षय में 'अस्थि सौषिर्य' की तुलना अक्सर ऑस्टियोपोरोसिस से की जाती है।",
+   "modern_correlation": {
+    "en": "Porous, hollow bones (asthi-sauṣirya) are often compared to osteoporosis, in which bone mineral density falls and bones become fragile.",
+    "hi": "खोखली, छिद्रयुक्त हड्डियों (अस्थि सौषिर्य) की तुलना अक्सर ऑस्टियोपोरोसिस से की जाती है, जिसमें हड्डियों का खनिज घनत्व घटता है और हड्डियाँ कमज़ोर हो जाती हैं।"
+   },
+   "key_terms": [
+    "asthi-kṣaya",
+    "majjā-kṣaya",
+    "sauṣirya"
+   ],
+   "tags": [
+    "dhatu",
+    "kshaya-lakshana"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.11.20",
+   "word_meanings": [
+    {
+     "sa": "शुक्रे",
+     "iast": "śukre",
+     "en": "in (decreased) śukra",
+     "hi": "शुक्र क्षय में"
+    },
+    {
+     "sa": "चिरात्",
+     "iast": "cirāt",
+     "en": "after a long time",
+     "hi": "देर से"
+    },
+    {
+     "sa": "प्रसिच्येत",
+     "iast": "prasicyeta",
+     "en": "is ejaculated",
+     "hi": "स्खलित होता है"
+    },
+    {
+     "sa": "शुक्रम्",
+     "iast": "śukram",
+     "en": "semen",
+     "hi": "वीर्य"
+    },
+    {
+     "sa": "शोणितम्",
+     "iast": "śoṇitam",
+     "en": "blood",
+     "hi": "रक्त"
+    },
+    {
+     "sa": "एव वा",
+     "iast": "eva vā",
+     "en": "or even",
+     "hi": "या ही"
+    },
+    {
+     "sa": "तोदः",
+     "iast": "todaḥ",
+     "en": "pricking pain",
+     "hi": "चुभन"
+    },
+    {
+     "sa": "अत्यर्थम्",
+     "iast": "atyartham",
+     "en": "severe",
+     "hi": "अत्यधिक"
+    },
+    {
+     "sa": "वृषणयोः",
+     "iast": "vṛṣaṇayoḥ",
+     "en": "in the testes",
+     "hi": "अंडकोषों में"
+    },
+    {
+     "sa": "मेढ्रम्",
+     "iast": "meḍhram",
+     "en": "the penis",
+     "hi": "शिश्न"
+    },
+    {
+     "sa": "धूमायति इव",
+     "iast": "dhūmāyati iva",
+     "en": "as if emitting smoke (burning)",
+     "hi": "जैसे धुआँ निकल रहा हो (जलन)"
+    }
+   ],
+   "english": "In decreased śukra: semen is ejaculated after a long time, or blood alone is ejaculated; there is severe pricking pain in the testes, and the penis feels as if it is emitting smoke (burning).",
+   "hindi": "शुक्र क्षय में: वीर्य देर से स्खलित होता है, या केवल रक्त निकलता है; अंडकोषों में तीव्र चुभन होती है, और शिश्न में ऐसी जलन होती है मानो धुआँ निकल रहा हो।",
+   "explanation_en": "Śukra-kṣaya signs complete the dhātu-kṣaya list. The striking image 'meḍhraṃ dhūmāyatīva' (as if smoking) is easy to remember.",
+   "explanation_hi": "शुक्र क्षय के लक्षण धातु क्षय सूची पूरी करते हैं। 'मेढ्रं धूमायतीव' (धुआँ निकलने जैसा) की कल्पना याद रखना आसान है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "śukra-kṣaya"
+   ],
+   "tags": [
+    "dhatu",
+    "kshaya-lakshana"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.11.21",
+   "word_meanings": [
+    {
+     "sa": "पुरीषे",
+     "iast": "purīṣe",
+     "en": "in (decreased) faeces",
+     "hi": "पुरीष क्षय में"
+    },
+    {
+     "sa": "वायुः",
+     "iast": "vāyuḥ",
+     "en": "vāta",
+     "hi": "वायु"
+    },
+    {
+     "sa": "अन्त्राणि",
+     "iast": "antrāṇi",
+     "en": "the intestines",
+     "hi": "आँतों को"
+    },
+    {
+     "sa": "सशब्दः",
+     "iast": "saśabdaḥ",
+     "en": "with sound",
+     "hi": "आवाज़ के साथ"
+    },
+    {
+     "sa": "वेष्टयन् इव",
+     "iast": "veṣṭayan iva",
+     "en": "as if twisting around",
+     "hi": "जैसे लपेटते हुए"
+    },
+    {
+     "sa": "कुक्षौ",
+     "iast": "kukṣau",
+     "en": "in the abdomen",
+     "hi": "पेट में"
+    },
+    {
+     "sa": "भ्रमति",
+     "iast": "bhramati",
+     "en": "moves about",
+     "hi": "घूमता है"
+    },
+    {
+     "sa": "याति",
+     "iast": "yāti",
+     "en": "goes",
+     "hi": "जाता है"
+    },
+    {
+     "sa": "ऊर्ध्वम्",
+     "iast": "ūrdhvam",
+     "en": "upward",
+     "hi": "ऊपर"
+    },
+    {
+     "sa": "हृत्पार्श्वे",
+     "iast": "hṛt-pārśve",
+     "en": "the heart region and flanks",
+     "hi": "हृदय और पसलियों को"
+    },
+    {
+     "sa": "पीडयन्",
+     "iast": "pīḍayan",
+     "en": "pressing",
+     "hi": "दबाते हुए"
+    },
+    {
+     "sa": "भृशम्",
+     "iast": "bhṛśam",
+     "en": "severely",
+     "hi": "अत्यधिक"
+    }
+   ],
+   "english": "In decreased faeces: vāta moves about in the abdomen with a gurgling sound, as if twisting around the intestines, and goes upward, pressing severely on the heart region and flanks.",
+   "hindi": "पुरीष (मल) क्षय में: वायु आवाज़ के साथ पेट में घूमती है, मानो आँतों को लपेट रही हो, और ऊपर की ओर जाकर हृदय और पसलियों को बहुत दबाती है।",
+   "explanation_en": "When faeces decrease, the space is occupied by vāta, which moves wrongly (upward). This illustrates the 'mala is needed by the body' principle stated in verse 25.",
+   "explanation_hi": "जब मल घटता है तो उसकी जगह वायु भर जाती है, जो गलत दिशा (ऊपर) में चलती है। यह श्लोक 25 के 'शरीर को मल की आवश्यकता है' सिद्धांत को दिखाता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "purīṣa-kṣaya",
+    "vāta",
+    "pratiloma"
+   ],
+   "tags": [
+    "mala",
+    "kshaya-lakshana"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.11.22",
+   "word_meanings": [
+    {
+     "sa": "मूत्रे",
+     "iast": "mūtre",
+     "en": "in (decreased) urine",
+     "hi": "मूत्र क्षय में"
+    },
+    {
+     "sa": "अल्पम्",
+     "iast": "alpam",
+     "en": "little",
+     "hi": "थोड़ा"
+    },
+    {
+     "sa": "मूत्रयेत्",
+     "iast": "mūtrayet",
+     "en": "passes urine",
+     "hi": "मूत्र त्याग करता है"
+    },
+    {
+     "sa": "कृच्छ्रात्",
+     "iast": "kṛcchrāt",
+     "en": "with difficulty",
+     "hi": "कठिनाई से"
+    },
+    {
+     "sa": "विवर्णम्",
+     "iast": "vivarṇam",
+     "en": "discoloured",
+     "hi": "बदले रंग का"
+    },
+    {
+     "sa": "सास्रम्",
+     "iast": "sāsram",
+     "en": "with blood",
+     "hi": "रक्त सहित"
+    },
+    {
+     "sa": "एव वा",
+     "iast": "eva vā",
+     "en": "or",
+     "hi": "या"
+    },
+    {
+     "sa": "स्वेदे",
+     "iast": "svede",
+     "en": "in (decreased) sweat",
+     "hi": "स्वेद क्षय में"
+    },
+    {
+     "sa": "रोमच्युतिः",
+     "iast": "roma-cyutiḥ",
+     "en": "falling of body hair",
+     "hi": "रोमों का गिरना"
+    },
+    {
+     "sa": "स्तब्धरोमता",
+     "iast": "stabdha-romatā",
+     "en": "stiffness of hair",
+     "hi": "रोमों का खड़ा/कड़ा होना"
+    },
+    {
+     "sa": "स्फुटनम्",
+     "iast": "sphuṭanam",
+     "en": "cracking",
+     "hi": "फटना"
+    },
+    {
+     "sa": "त्वचः",
+     "iast": "tvacaḥ",
+     "en": "of the skin",
+     "hi": "त्वचा का"
+    }
+   ],
+   "english": "In decreased urine: one passes a small amount of urine with difficulty, discoloured or mixed with blood. In decreased sweat: falling of body hair, stiffness of hair and cracking of the skin.",
+   "hindi": "मूत्र क्षय में: व्यक्ति कठिनाई से थोड़ा मूत्र त्याग करता है, जो बदले रंग का या रक्त मिला होता है। स्वेद क्षय में: रोम गिरना, रोम कड़े होना और त्वचा फटना।",
+   "explanation_en": "Mūtra-kṣaya and sveda-kṣaya signs. Sweat keeps skin and hair moist (kleda-vidhṛti, verse 5); its loss shows as cracked skin and brittle hair.",
+   "explanation_hi": "मूत्र क्षय और स्वेद क्षय के लक्षण। पसीना त्वचा और रोमों को नम रखता है (क्लेद विधृति, श्लोक 5); इसकी कमी से त्वचा फटती है और रोम रूखे हो जाते हैं।",
+   "modern_correlation": {
+    "en": "Reduced, concentrated urine passed with difficulty broadly parallels oliguria seen in dehydration or renal and urinary tract disorders; reduced sweating is associated with dry, cracked skin.",
+    "hi": "कम, गाढ़ा और कठिनाई से निकलने वाला मूत्र, निर्जलीकरण या गुर्दे व मूत्र मार्ग के विकारों में दिखने वाले ऑलिगुरिया से मिलता है; कम पसीना सूखी, फटी त्वचा से जुड़ा है।"
+   },
+   "key_terms": [
+    "mūtra-kṣaya",
+    "sveda-kṣaya"
+   ],
+   "tags": [
+    "mala",
+    "kshaya-lakshana"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.11.23",
+   "word_meanings": [
+    {
+     "sa": "मलानाम्",
+     "iast": "malānām",
+     "en": "of the malas",
+     "hi": "मलों का"
+    },
+    {
+     "sa": "अतिसूक्ष्माणाम्",
+     "iast": "ati-sūkṣmāṇām",
+     "en": "very subtle",
+     "hi": "अति सूक्ष्म"
+    },
+    {
+     "sa": "दुर्लक्ष्यम्",
+     "iast": "durlakṣyam",
+     "en": "hard to observe",
+     "hi": "कठिनाई से दिखने वाला"
+    },
+    {
+     "sa": "लक्षयेत्",
+     "iast": "lakṣayet",
+     "en": "should infer",
+     "hi": "पहचानें"
+    },
+    {
+     "sa": "क्षयम्",
+     "iast": "kṣayam",
+     "en": "decrease",
+     "hi": "क्षय"
+    },
+    {
+     "sa": "स्वमलायनसंशोष",
+     "iast": "sva-malāyana-saṃśoṣa",
+     "en": "drying of their own excretory passages",
+     "hi": "अपने निकास मार्गों का सूखना"
+    },
+    {
+     "sa": "तोद",
+     "iast": "toda",
+     "en": "pricking pain",
+     "hi": "चुभन"
+    },
+    {
+     "sa": "शून्यत्व",
+     "iast": "śūnyatva",
+     "en": "emptiness",
+     "hi": "खालीपन"
+    },
+    {
+     "sa": "लाघवैः",
+     "iast": "lāghavaiḥ",
+     "en": "by lightness",
+     "hi": "हल्केपन से"
+    }
+   ],
+   "english": "The decrease of very subtle malas (such as eye and ear secretions), which is hard to observe, should be inferred from drying of their own excretory passages, pricking pain, a feeling of emptiness and lightness (in those places).",
+   "hindi": "अति सूक्ष्म मलों (जैसे आँख, कान के स्राव) का क्षय, जो आसानी से दिखता नहीं, उनके अपने निकास मार्गों के सूखने, चुभन, खालीपन और हल्केपन से पहचानना चाहिए।",
+   "explanation_en": "A general method: decrease of minor malas is inferred from the state of their passages (malāyana). Pairs with verse 14, which gave the method for their increase.",
+   "explanation_hi": "सामान्य विधि: छोटे मलों का क्षय उनके मार्गों (मलायन) की स्थिति से अनुमानित होता है। श्लोक 14 के साथ जोड़ें, जिसमें उनकी वृद्धि की विधि थी।",
+   "modern_correlation": null,
+   "key_terms": [
+    "mala-kṣaya",
+    "malāyana"
+   ],
+   "tags": [
+    "mala",
+    "kshaya-lakshana"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.11.24",
+   "word_meanings": [
+    {
+     "sa": "दोषादीनाम्",
+     "iast": "doṣādīnām",
+     "en": "of doṣas etc.",
+     "hi": "दोष आदि का"
+    },
+    {
+     "sa": "यथास्वम्",
+     "iast": "yathā-svam",
+     "en": "each according to its own (signs)",
+     "hi": "अपने-अपने अनुसार"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "विद्यात्",
+     "iast": "vidyāt",
+     "en": "should know",
+     "hi": "जाने"
+    },
+    {
+     "sa": "वृद्धिक्षयौ",
+     "iast": "vṛddhi-kṣayau",
+     "en": "increase and decrease",
+     "hi": "वृद्धि और क्षय"
+    },
+    {
+     "sa": "भिषक्",
+     "iast": "bhiṣak",
+     "en": "the physician",
+     "hi": "वैद्य"
+    },
+    {
+     "sa": "क्षयेण",
+     "iast": "kṣayeṇa",
+     "en": "by the decrease",
+     "hi": "कमी से"
+    },
+    {
+     "sa": "विपरीतानाम्",
+     "iast": "viparītānām",
+     "en": "of the opposite",
+     "hi": "विपरीत (गुणों) की"
+    },
+    {
+     "sa": "गुणानाम्",
+     "iast": "guṇānām",
+     "en": "qualities",
+     "hi": "गुणों की"
+    },
+    {
+     "sa": "वर्धनेन",
+     "iast": "vardhanena",
+     "en": "by the increase",
+     "hi": "बढ़ने से"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    }
+   ],
+   "english": "The physician should recognise the increase and decrease of doṣas, dhātus etc., each by its own (signs): increase by the decrease of opposite qualities and the increase of its own (and decrease by the reverse);",
+   "hindi": "वैद्य को दोष, धातु आदि की वृद्धि और क्षय उनके अपने-अपने लक्षणों से पहचानना चाहिए: विपरीत गुणों के घटने और अपने गुणों के बढ़ने से वृद्धि (और इसके उलट से क्षय) होती है;",
+   "explanation_en": "This restates the sāmānya-viśeṣa principle (like increases like, opposites decrease) applied to diagnosis. Verse 25 adds the special rule for malas.",
+   "explanation_hi": "यह सामान्य-विशेष सिद्धांत (समान से वृद्धि, विपरीत से ह्रास) को निदान पर लागू करता है। श्लोक 25 में मलों का विशेष नियम है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vṛddhi-kṣaya",
+    "sāmānya-viśeṣa"
+   ],
+   "tags": [
+    "dosha",
+    "vriddhi-kshaya",
+    "principle"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.11.25",
+   "word_meanings": [
+    {
+     "sa": "वृद्धिम्",
+     "iast": "vṛddhim",
+     "en": "increase",
+     "hi": "वृद्धि"
+    },
+    {
+     "sa": "मलानाम्",
+     "iast": "malānām",
+     "en": "of malas",
+     "hi": "मलों की"
+    },
+    {
+     "sa": "सङ्गात्",
+     "iast": "saṅgāt",
+     "en": "from retention",
+     "hi": "रुकने से"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "क्षयम्",
+     "iast": "kṣayam",
+     "en": "decrease",
+     "hi": "क्षय"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "अतिविसर्गतः",
+     "iast": "ati-visargataḥ",
+     "en": "from excessive elimination",
+     "hi": "अधिक निकलने से"
+    },
+    {
+     "sa": "मलोचितत्वात्",
+     "iast": "malocitatvāt",
+     "en": "because of being accustomed to malas",
+     "hi": "मलों का अभ्यस्त होने से"
+    },
+    {
+     "sa": "देहस्य",
+     "iast": "dehasya",
+     "en": "of the body",
+     "hi": "शरीर के"
+    },
+    {
+     "sa": "क्षयः",
+     "iast": "kṣayaḥ",
+     "en": "decrease",
+     "hi": "क्षय"
+    },
+    {
+     "sa": "वृद्धेः",
+     "iast": "vṛddheḥ",
+     "en": "than increase",
+     "hi": "वृद्धि से"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "परंतु"
+    },
+    {
+     "sa": "पीडनः",
+     "iast": "pīḍanaḥ",
+     "en": "more distressing",
+     "hi": "अधिक कष्टदायक"
+    }
+   ],
+   "english": "...and the increase of malas from their retention (saṅga) and their decrease from excessive elimination. Because the body is accustomed to its malas, their decrease is more distressing than their increase.",
+   "hindi": "...और मलों की वृद्धि उनके रुकने (संग) से तथा क्षय अधिक निकलने से जानें। क्योंकि शरीर अपने मलों का अभ्यस्त है, इसलिए मलों का क्षय उनकी वृद्धि से अधिक कष्टदायक होता है।",
+   "explanation_en": "An important and often-asked concept: 'malocitatvād dehasya kṣayo vṛddhes tu pīḍanaḥ', i.e. mala-kṣaya is worse than mala-vṛddhi. Malas are not just waste; they have supportive functions (verse 5).",
+   "explanation_hi": "महत्वपूर्ण और अक्सर पूछी जाने वाली अवधारणा: 'मलोचितत्वाद्देहस्य क्षयो वृद्धेस्तु पीडनः', यानी मल क्षय, मल वृद्धि से अधिक हानिकारक है। मल केवल अपशिष्ट नहीं; उनके सहायक कर्म भी हैं (श्लोक 5)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "mala-vṛddhi",
+    "mala-kṣaya",
+    "saṅga"
+   ],
+   "tags": [
+    "mala",
+    "vriddhi-kshaya",
+    "principle"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.11.26",
+   "word_meanings": [
+    {
+     "sa": "तत्र",
+     "iast": "tatra",
+     "en": "there",
+     "hi": "उनमें"
+    },
+    {
+     "sa": "अस्थनि",
+     "iast": "asthani",
+     "en": "in bone",
+     "hi": "अस्थि में"
+    },
+    {
+     "sa": "स्थितः",
+     "iast": "sthitaḥ",
+     "en": "resides",
+     "hi": "स्थित है"
+    },
+    {
+     "sa": "वायुः",
+     "iast": "vāyuḥ",
+     "en": "vāta",
+     "hi": "वायु"
+    },
+    {
+     "sa": "पित्तम्",
+     "iast": "pittam",
+     "en": "pitta",
+     "hi": "पित्त"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "तो"
+    },
+    {
+     "sa": "स्वेदरक्तयोः",
+     "iast": "sveda-raktayoḥ",
+     "en": "in sweat and blood",
+     "hi": "पसीने और रक्त में"
+    },
+    {
+     "sa": "श्लेष्मा",
+     "iast": "śleṣmā",
+     "en": "kapha",
+     "hi": "कफ"
+    },
+    {
+     "sa": "शेषेषु",
+     "iast": "śeṣeṣu",
+     "en": "in the rest",
+     "hi": "शेष में"
+    },
+    {
+     "sa": "तेन",
+     "iast": "tena",
+     "en": "therefore",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "एषाम्",
+     "iast": "eṣām",
+     "en": "of these",
+     "hi": "इनके"
+    },
+    {
+     "sa": "आश्रयाश्रयिणाम्",
+     "iast": "āśrayāśrayiṇām",
+     "en": "of abode and resident",
+     "hi": "आश्रय और आश्रयी का"
+    },
+    {
+     "sa": "मिथः",
+     "iast": "mithaḥ",
+     "en": "mutually",
+     "hi": "परस्पर"
+    }
+   ],
+   "english": "Of these, vāta resides in bone (asthi), pitta in sweat and blood, and kapha in the rest (rasa, māṃsa, medas, majjā, śukra, faeces, urine). Therefore, between these abodes (āśraya) and residents (āśrayī), mutually,...",
+   "hindi": "इनमें वात अस्थि में, पित्त पसीने और रक्त में, और कफ शेष (रस, मांस, मेद, मज्जा, शुक्र, मल, मूत्र) में रहता है। इसलिए इन आश्रय (स्थान) और आश्रयी (रहने वाले) में परस्पर,...",
+   "explanation_en": "The āśraya-āśrayī bhāva (abode-resident relationship) between doṣas and dhātu/malas is a high-yield topic: vāta-asthi, pitta-rakta/sveda, kapha-the rest. Verses 27-28 give its therapeutic use and the exception (vāta-asthi).",
+   "explanation_hi": "दोषों और धातु/मलों के बीच आश्रय-आश्रयी भाव महत्वपूर्ण विषय है: वात-अस्थि, पित्त-रक्त/स्वेद, कफ-शेष। श्लोक 27-28 में इसका चिकित्सा उपयोग और अपवाद (वात-अस्थि) है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "āśraya-āśrayī",
+    "vāta-asthi",
+    "pitta-rakta"
+   ],
+   "tags": [
+    "dosha",
+    "dhatu",
+    "ashraya-ashrayi"
+   ],
+   "importance": "high",
+   "mnemonic": "Vāta-Asthi, Pitta-Rakta & Sveda, Kapha-all the rest",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.11.27",
+   "word_meanings": [
+    {
+     "sa": "यत्",
+     "iast": "yat",
+     "en": "what",
+     "hi": "जो"
+    },
+    {
+     "sa": "एकस्य",
+     "iast": "ekasya",
+     "en": "of one",
+     "hi": "एक का"
+    },
+    {
+     "sa": "तत्",
+     "iast": "tat",
+     "en": "that",
+     "hi": "वह"
+    },
+    {
+     "sa": "अन्यस्य",
+     "iast": "anyasya",
+     "en": "of the other",
+     "hi": "दूसरे का"
+    },
+    {
+     "sa": "वर्धनक्षपणौषधम्",
+     "iast": "vardhana-kṣapaṇauṣadham",
+     "en": "medicine for increasing or decreasing",
+     "hi": "बढ़ाने या घटाने की औषधि"
+    },
+    {
+     "sa": "अस्थिमारुतयोः",
+     "iast": "asthi-mārutayoḥ",
+     "en": "of bone and vāta",
+     "hi": "अस्थि और वात का"
+    },
+    {
+     "sa": "न एवम्",
+     "iast": "na evam",
+     "en": "not so",
+     "hi": "ऐसा नहीं"
+    },
+    {
+     "sa": "प्रायः",
+     "iast": "prāyaḥ",
+     "en": "generally",
+     "hi": "प्रायः"
+    },
+    {
+     "sa": "वृद्धिः",
+     "iast": "vṛddhiḥ",
+     "en": "increase",
+     "hi": "वृद्धि"
+    },
+    {
+     "sa": "हि",
+     "iast": "hi",
+     "en": "because",
+     "hi": "क्योंकि"
+    },
+    {
+     "sa": "तर्पणात्",
+     "iast": "tarpaṇāt",
+     "en": "from nourishment",
+     "hi": "तर्पण (पोषण) से"
+    }
+   ],
+   "english": "...whatever increases or decreases one also increases or decreases the other. This is not so with bone and vāta, because (bone) generally grows by nourishment (tarpaṇa),...",
+   "hindi": "...जो औषधि एक को बढ़ाती या घटाती है, वही दूसरे को भी बढ़ाती या घटाती है। अस्थि और वात में ऐसा नहीं होता, क्योंकि अस्थि की वृद्धि प्रायः तर्पण (पोषण) से होती है,...",
+   "explanation_en": "Rule: an abode and its resident increase or decrease together (e.g. kapha and medas). Exception: asthi and vāta move in opposite directions. Asthi increases with nourishment (which reduces vāta), and decreases with depletion (which increases vāta). Very commonly asked.",
+   "explanation_hi": "नियम: आश्रय और आश्रयी साथ-साथ बढ़ते-घटते हैं (जैसे कफ और मेद)। अपवाद: अस्थि और वात विपरीत दिशा में चलते हैं। अस्थि पोषण से बढ़ती है (जो वात घटाता है), और अपतर्पण से घटती है (जो वात बढ़ाता है)। बहुत पूछा जाता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "āśraya-āśrayī",
+    "asthi",
+    "vāta",
+    "tarpaṇa"
+   ],
+   "tags": [
+    "dosha",
+    "dhatu",
+    "ashraya-ashrayi"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.11.28",
+   "word_meanings": [
+    {
+     "sa": "श्लेष्मणा",
+     "iast": "śleṣmaṇā",
+     "en": "by kapha",
+     "hi": "कफ से"
+    },
+    {
+     "sa": "अनुगता",
+     "iast": "anugatā",
+     "en": "accompanied",
+     "hi": "युक्त"
+    },
+    {
+     "sa": "तस्मात्",
+     "iast": "tasmāt",
+     "en": "therefore",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "संक्षयः",
+     "iast": "saṃkṣayaḥ",
+     "en": "decrease",
+     "hi": "क्षय"
+    },
+    {
+     "sa": "तद्विपर्ययात्",
+     "iast": "tad-viparyayāt",
+     "en": "from the opposite of that",
+     "hi": "उसके विपरीत से"
+    },
+    {
+     "sa": "वायुना",
+     "iast": "vāyunā",
+     "en": "by vāta",
+     "hi": "वायु से"
+    },
+    {
+     "sa": "अनुगतः",
+     "iast": "anugataḥ",
+     "en": "accompanied",
+     "hi": "युक्त"
+    },
+    {
+     "sa": "अस्मात्",
+     "iast": "asmāt",
+     "en": "therefore",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "वृद्धिक्षयसमुद्भवान्",
+     "iast": "vṛddhi-kṣaya-samudbhavān",
+     "en": "arising from increase and decrease",
+     "hi": "वृद्धि और क्षय से उत्पन्न"
+    }
+   ],
+   "english": "...accompanied by kapha; its decrease comes from the opposite (depletion), accompanied by vāta. Therefore, (the disorders) arising from increase and decrease...",
+   "hindi": "...जो कफ के साथ होता है; और अस्थि का क्षय उसके विपरीत (अपतर्पण) से होता है, जो वात के साथ होता है। इसलिए वृद्धि और क्षय से उत्पन्न (विकारों को)...",
+   "explanation_en": "Completes the vāta-asthi exception: asthi-vṛddhi goes with kapha, asthi-kṣaya with vāta. Hence in asthi-kṣaya, vāta is increased, which explains the use of tikta-ghṛta and basti (verse 31).",
+   "explanation_hi": "वात-अस्थि अपवाद पूरा: अस्थि वृद्धि कफ के साथ, अस्थि क्षय वात के साथ। इसलिए अस्थि क्षय में वात बढ़ा होता है, जिससे तिक्त घृत और बस्ति का उपयोग समझ आता है (श्लोक 31)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "asthi-kṣaya",
+    "vāta",
+    "kapha"
+   ],
+   "tags": [
+    "dosha",
+    "dhatu",
+    "ashraya-ashrayi"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.11.29",
+   "word_meanings": [
+    {
+     "sa": "विकारान्",
+     "iast": "vikārān",
+     "en": "disorders",
+     "hi": "विकारों को"
+    },
+    {
+     "sa": "साधयेत्",
+     "iast": "sādhayet",
+     "en": "should treat",
+     "hi": "ठीक करें"
+    },
+    {
+     "sa": "शीघ्रम्",
+     "iast": "śīghram",
+     "en": "quickly",
+     "hi": "शीघ्र"
+    },
+    {
+     "sa": "क्रमात्",
+     "iast": "kramāt",
+     "en": "respectively",
+     "hi": "क्रम से"
+    },
+    {
+     "sa": "लङ्घनबृंहणैः",
+     "iast": "laṅghana-bṛṃhaṇaiḥ",
+     "en": "by depleting and nourishing therapies",
+     "hi": "लंघन और बृंहण से"
+    },
+    {
+     "sa": "वायोः",
+     "iast": "vāyoḥ",
+     "en": "of vāta",
+     "hi": "वात के"
+    },
+    {
+     "sa": "अन्यत्र",
+     "iast": "anyatra",
+     "en": "in the other case",
+     "hi": "अन्य स्थिति में / अपवाद में"
+    },
+    {
+     "sa": "तज्जान्",
+     "iast": "taj-jān",
+     "en": "those arising from it",
+     "hi": "उससे उत्पन्न"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "परंतु"
+    },
+    {
+     "sa": "तैः एव",
+     "iast": "taiḥ eva",
+     "en": "by those same",
+     "hi": "उन्हीं से"
+    },
+    {
+     "sa": "उत्क्रमयोजितैः",
+     "iast": "utkrama-yojitaiḥ",
+     "en": "applied in reverse order",
+     "hi": "उलटे क्रम से प्रयुक्त"
+    }
+   ],
+   "english": "...should be treated quickly with depleting (laṅghana) and nourishing (bṛṃhaṇa) therapies respectively (increase → laṅghana, decrease → bṛṃhaṇa). But in the case of vāta, the disorders arising from it should be treated with these same measures applied in reverse order.",
+   "hindi": "...क्रम से लंघन (हल्का करने) और बृंहण (पोषण) चिकित्सा से शीघ्र ठीक करना चाहिए (वृद्धि → लंघन, क्षय → बृंहण)। परंतु वात के मामले में, उससे होने वाले विकारों में यही उपाय उलटे क्रम से देने चाहिए।",
+   "explanation_en": "General rule: vṛddhi → laṅghana, kṣaya → bṛṃhaṇa. Vāta is the exception because vāta itself increases with laṅghana: so vāta-vṛddhi is treated with bṛṃhaṇa. Commentators explain 'vāyor anyatra' in slightly different ways; the essential point is the reversal for vāta.",
+   "explanation_hi": "सामान्य नियम: वृद्धि → लंघन, क्षय → बृंहण। वात अपवाद है क्योंकि वात स्वयं लंघन से बढ़ता है: इसलिए वात वृद्धि की चिकित्सा बृंहण से होती है। 'वायोरन्यत्र' की व्याख्या टीकाकार थोड़ी अलग-अलग करते हैं; मुख्य बात वात के लिए उलटा क्रम है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "laṅghana",
+    "bṛṃhaṇa",
+    "vṛddhi-kṣaya-cikitsā"
+   ],
+   "tags": [
+    "chikitsa-siddhanta",
+    "vriddhi-kshaya"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.11.30",
+   "word_meanings": [
+    {
+     "sa": "विशेषात्",
+     "iast": "viśeṣāt",
+     "en": "specifically",
+     "hi": "विशेष रूप से"
+    },
+    {
+     "sa": "रक्तवृद्ध्युत्थान्",
+     "iast": "rakta-vṛddhy-utthān",
+     "en": "arising from increased blood",
+     "hi": "रक्त वृद्धि से उत्पन्न"
+    },
+    {
+     "sa": "रक्तस्रुति",
+     "iast": "rakta-sruti",
+     "en": "bloodletting",
+     "hi": "रक्तमोक्षण"
+    },
+    {
+     "sa": "विरेचनैः",
+     "iast": "virecanaiḥ",
+     "en": "by purgation",
+     "hi": "विरेचन से"
+    },
+    {
+     "sa": "मांसवृद्धिभवान्",
+     "iast": "māṃsa-vṛddhi-bhavān",
+     "en": "arising from increased muscle",
+     "hi": "मांस वृद्धि से उत्पन्न"
+    },
+    {
+     "sa": "रोगान्",
+     "iast": "rogān",
+     "en": "diseases",
+     "hi": "रोगों को"
+    },
+    {
+     "sa": "शस्त्रक्षाराग्निकर्मभिः",
+     "iast": "śastra-kṣārāgni-karmabhiḥ",
+     "en": "by surgery, caustic alkali and cautery",
+     "hi": "शस्त्र, क्षार और अग्नि कर्म से"
+    }
+   ],
+   "english": "Specifically, disorders arising from increased blood should be treated by bloodletting (raktamokṣaṇa) and purgation (virecana); diseases from increased muscle tissue by surgery (śastra), caustic alkali (kṣāra) and cautery (agni-karma).",
+   "hindi": "विशेष रूप से, रक्त वृद्धि से होने वाले रोगों की चिकित्सा रक्तमोक्षण और विरेचन से; और मांस वृद्धि से होने वाले रोगों की चिकित्सा शस्त्र कर्म, क्षार कर्म और अग्नि कर्म से करनी चाहिए।",
+   "explanation_en": "Specific treatments by dhātu (verses 30-33): rakta-vṛddhi → raktamokṣaṇa + virecana; māṃsa-vṛddhi → śastra, kṣāra, agni (for growths like arbuda, granthi). A common short-answer question.",
+   "explanation_hi": "धातु अनुसार विशेष चिकित्सा (श्लोक 30-33): रक्त वृद्धि → रक्तमोक्षण + विरेचन; मांस वृद्धि → शस्त्र, क्षार, अग्नि (अर्बुद, ग्रन्थि जैसी वृद्धियों के लिए)। आम लघु प्रश्न।",
+   "modern_correlation": null,
+   "key_terms": [
+    "raktamokṣaṇa",
+    "virecana",
+    "śastra-karma",
+    "kṣāra-karma",
+    "agni-karma"
+   ],
+   "tags": [
+    "chikitsa",
+    "dhatu",
+    "vriddhi-kshaya"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.11.31",
+   "word_meanings": [
+    {
+     "sa": "स्थौल्यकार्श्योपचारेण",
+     "iast": "sthaulya-kārśyopacāreṇa",
+     "en": "by the treatment for obesity and emaciation",
+     "hi": "स्थौल्य और कार्श्य की चिकित्सा से"
+    },
+    {
+     "sa": "मेदोजान्",
+     "iast": "medo-jān",
+     "en": "those arising from fat",
+     "hi": "मेद से उत्पन्न"
+    },
+    {
+     "sa": "अस्थिसंक्षयात्",
+     "iast": "asthi-saṃkṣayāt",
+     "en": "from depletion of bone",
+     "hi": "अस्थि क्षय से"
+    },
+    {
+     "sa": "जातान्",
+     "iast": "jātān",
+     "en": "arisen",
+     "hi": "उत्पन्न"
+    },
+    {
+     "sa": "क्षीरघृतैः",
+     "iast": "kṣīra-ghṛtaiḥ",
+     "en": "by milk and ghee",
+     "hi": "दूध और घी से"
+    },
+    {
+     "sa": "तिक्तसंयुतैः",
+     "iast": "tikta-saṃyutaiḥ",
+     "en": "combined with bitters",
+     "hi": "तिक्त द्रव्यों से युक्त"
+    },
+    {
+     "sa": "वस्तिभिः",
+     "iast": "vastibhiḥ",
+     "en": "by enemas",
+     "hi": "बस्ति से"
+    },
+    {
+     "sa": "तथा",
+     "iast": "tathā",
+     "en": "also",
+     "hi": "तथा"
+    }
+   ],
+   "english": "Disorders arising from (increase or decrease of) medas should be treated as obesity and emaciation (respectively); those arising from depletion of bone with milk and ghee combined with bitter drugs, and with enemas (basti).",
+   "hindi": "मेद (की वृद्धि या क्षय) से होने वाले रोगों की चिकित्सा क्रम से स्थौल्य और कार्श्य की तरह; और अस्थि क्षय से होने वाले रोगों की चिकित्सा तिक्त द्रव्यों से युक्त दूध और घी तथा बस्ति से करनी चाहिए।",
+   "explanation_en": "Asthi-kṣaya → tikta-kṣīra-ghṛta and basti: a classic exam answer. Logic: bone loss is accompanied by vāta (verse 28); basti is the best vāta therapy; tikta drugs (by pāñcabhautika make-up, vāyu + ākāśa) are thought to reach and support bone.",
+   "explanation_hi": "अस्थि क्षय → तिक्त क्षीर-घृत और बस्ति: प्रसिद्ध परीक्षा उत्तर। तर्क: अस्थि क्षय वात के साथ होता है (श्लोक 28); बस्ति सर्वश्रेष्ठ वात चिकित्सा है; तिक्त द्रव्य (वायु + आकाश रचना) अस्थि तक पहुँचकर उसे सहारा देते माने जाते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "asthi-kṣaya",
+    "tikta-ghṛta",
+    "basti",
+    "sthaulya",
+    "kārśya"
+   ],
+   "tags": [
+    "chikitsa",
+    "dhatu",
+    "vriddhi-kshaya"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.11.32",
+   "word_meanings": [
+    {
+     "sa": "मज्जशुक्रोद्भवान्",
+     "iast": "majja-śukrodbhavān",
+     "en": "arising from marrow and semen",
+     "hi": "मज्जा और शुक्र से उत्पन्न"
+    },
+    {
+     "sa": "रोगान्",
+     "iast": "rogān",
+     "en": "diseases",
+     "hi": "रोगों को"
+    },
+    {
+     "sa": "भोजनैः",
+     "iast": "bhojanaiḥ",
+     "en": "by foods",
+     "hi": "भोजन से"
+    },
+    {
+     "sa": "स्वादुतिक्तकैः",
+     "iast": "svādu-tiktakaiḥ",
+     "en": "sweet and bitter",
+     "hi": "मधुर और तिक्त"
+    },
+    {
+     "sa": "वृद्धम्",
+     "iast": "vṛddham",
+     "en": "increased",
+     "hi": "बढ़ा हुआ"
+    },
+    {
+     "sa": "शुक्रम्",
+     "iast": "śukram",
+     "en": "semen",
+     "hi": "शुक्र"
+    },
+    {
+     "sa": "व्यवायाद्यैः",
+     "iast": "vyavāyādyaiḥ",
+     "en": "by sexual activity etc.",
+     "hi": "मैथुन आदि से"
+    },
+    {
+     "sa": "शुक्रशोषिकम्",
+     "iast": "śukra-śoṣikam",
+     "en": "that which dries semen",
+     "hi": "शुक्र को सुखाने वाला"
+    },
+    {
+     "sa": "विड्वृद्धिजान्",
+     "iast": "viḍ-vṛddhi-jān",
+     "en": "arising from increased faeces",
+     "hi": "मल वृद्धि से उत्पन्न"
+    },
+    {
+     "sa": "अतीसारक्रियया",
+     "iast": "atīsāra-kriyayā",
+     "en": "by the treatment for diarrhoea",
+     "hi": "अतिसार की चिकित्सा से"
+    },
+    {
+     "sa": "विट्क्षयोद्भवान्",
+     "iast": "viṭ-kṣayodbhavān",
+     "en": "arising from decreased faeces",
+     "hi": "मल क्षय से उत्पन्न"
+    },
+    {
+     "sa": "मेषाजमध्य",
+     "iast": "meṣāja-madhya",
+     "en": "middle portion (of the body) of sheep and goat",
+     "hi": "भेड़ और बकरी का मध्य भाग"
+    },
+    {
+     "sa": "कुल्माष",
+     "iast": "kulmāṣa",
+     "en": "kulmāṣa (half-cooked pulses)",
+     "hi": "कुल्माष (घुघरी)"
+    },
+    {
+     "sa": "यव",
+     "iast": "yava",
+     "en": "barley",
+     "hi": "जौ"
+    },
+    {
+     "sa": "माषद्वय",
+     "iast": "māṣa-dvaya",
+     "en": "the two māṣas (black gram and rājamāṣa)",
+     "hi": "दोनों माष (उड़द और राजमाष)"
+    },
+    {
+     "sa": "आदिभिः",
+     "iast": "ādibhiḥ",
+     "en": "and others",
+     "hi": "आदि से"
+    }
+   ],
+   "english": "Diseases arising from (depletion of) marrow and semen should be treated with sweet and bitter foods; increased semen by sexual activity and the like, and whatever else dries up semen. Disorders from increased faeces should be treated as diarrhoea; those from decreased faeces with the middle portion (meat) of sheep and goat, kulmāṣa, barley, the two kinds of māṣa and the like.",
+   "hindi": "मज्जा और शुक्र (क्षय) से होने वाले रोगों की चिकित्सा मधुर और तिक्त भोजन से; बढ़े हुए शुक्र की चिकित्सा मैथुन आदि से और शुक्र को सुखाने वाले उपायों से करनी चाहिए। मल वृद्धि से होने वाले रोगों की चिकित्सा अतिसार की तरह; मल क्षय से होने वाले रोगों की चिकित्सा भेड़-बकरी के मध्य भाग (मांस), कुल्माष, जौ, दोनों प्रकार के माष आदि से करनी चाहिए।",
+   "explanation_en": "This corpus verse joins an extra half-verse (31+1) with verse 32. Purīṣa-kṣaya is treated with bulk-forming foods (barley, pulses, kulmāṣa), which is easy to understand. The exact meaning of 'meṣāja-madhya' is debated; it is usually taken as the meat of the middle part of sheep and goat.",
+   "explanation_hi": "यह श्लोक एक अतिरिक्त आधा श्लोक (31+1) और श्लोक 32 को जोड़ता है। मल क्षय की चिकित्सा मल बढ़ाने वाले आहार (जौ, दालें, कुल्माष) से होती है, जो समझना आसान है। 'मेषाजमध्य' का सटीक अर्थ विवादित है; प्रायः इसे भेड़-बकरी के मध्य भाग का मांस माना जाता है।",
+   "modern_correlation": {
+    "en": "Using high-residue foods such as barley and pulses to increase stool bulk broadly parallels the modern use of dietary fibre to increase faecal mass.",
+    "hi": "मल की मात्रा बढ़ाने के लिए जौ और दालों जैसे अधिक अवशेष वाले आहार का उपयोग, आधुनिक चिकित्सा में मल बढ़ाने के लिए आहारीय रेशे (फ़ाइबर) के उपयोग से मिलता है।"
+   },
+   "key_terms": [
+    "majjā-kṣaya",
+    "śukra-vṛddhi",
+    "purīṣa-vṛddhi",
+    "purīṣa-kṣaya"
+   ],
+   "tags": [
+    "chikitsa",
+    "dhatu",
+    "mala",
+    "vriddhi-kshaya"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.11.33",
+   "word_meanings": [
+    {
+     "sa": "मूत्रवृद्धिक्षयोत्थान्",
+     "iast": "mūtra-vṛddhi-kṣayotthān",
+     "en": "arising from increase and decrease of urine",
+     "hi": "मूत्र वृद्धि और क्षय से उत्पन्न"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "मेहकृच्छ्रचिकित्सया",
+     "iast": "meha-kṛcchra-cikitsayā",
+     "en": "by the treatment for prameha and dysuria",
+     "hi": "प्रमेह और मूत्रकृच्छ्र की चिकित्सा से"
+    },
+    {
+     "sa": "व्यायाम",
+     "iast": "vyāyāma",
+     "en": "exercise",
+     "hi": "व्यायाम"
+    },
+    {
+     "sa": "अभ्यञ्जन",
+     "iast": "abhyañjana",
+     "en": "oil massage",
+     "hi": "अभ्यंग"
+    },
+    {
+     "sa": "स्वेद",
+     "iast": "sveda",
+     "en": "sudation",
+     "hi": "स्वेदन"
+    },
+    {
+     "sa": "मद्यैः",
+     "iast": "madyaiḥ",
+     "en": "by wine",
+     "hi": "मद्य से"
+    },
+    {
+     "sa": "स्वेदक्षयोद्भवान्",
+     "iast": "sveda-kṣayodbhavān",
+     "en": "arising from decreased sweat",
+     "hi": "स्वेद क्षय से उत्पन्न"
+    }
+   ],
+   "english": "Disorders arising from increase and decrease of urine should be treated as prameha and mūtrakṛcchra (dysuria) respectively; those from decreased sweat with exercise, oil massage, sudation and wine.",
+   "hindi": "मूत्र वृद्धि से होने वाले रोगों की चिकित्सा प्रमेह की तरह, और मूत्र क्षय से होने वाले रोगों की चिकित्सा मूत्रकृच्छ्र की तरह; और स्वेद क्षय से होने वाले रोगों की चिकित्सा व्यायाम, अभ्यंग, स्वेदन और मद्य से करनी चाहिए।",
+   "explanation_en": "Mūtra-vṛddhi → prameha-cikitsā; mūtra-kṣaya → mūtrakṛcchra-cikitsā; sveda-kṣaya → vyāyāma, abhyaṅga, sveda, madya. Completes the treatment table of vṛddhi-kṣaya.",
+   "explanation_hi": "मूत्र वृद्धि → प्रमेह चिकित्सा; मूत्र क्षय → मूत्रकृच्छ्र चिकित्सा; स्वेद क्षय → व्यायाम, अभ्यंग, स्वेद, मद्य। वृद्धि-क्षय चिकित्सा तालिका पूरी।",
+   "modern_correlation": null,
+   "key_terms": [
+    "mūtra-vṛddhi",
+    "mūtra-kṣaya",
+    "sveda-kṣaya",
+    "prameha"
+   ],
+   "tags": [
+    "chikitsa",
+    "mala",
+    "vriddhi-kshaya"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.11.34",
+   "word_meanings": [
+    {
+     "sa": "स्वस्थानस्थस्य",
+     "iast": "sva-sthāna-sthasya",
+     "en": "situated in its own place",
+     "hi": "अपने स्थान पर स्थित"
+    },
+    {
+     "sa": "कायाग्नेः",
+     "iast": "kāyāgneḥ",
+     "en": "of the body fire (jāṭharāgni)",
+     "hi": "कायाग्नि (जठराग्नि) के"
+    },
+    {
+     "sa": "अंशाः",
+     "iast": "aṃśāḥ",
+     "en": "portions",
+     "hi": "अंश"
+    },
+    {
+     "sa": "धातुषु",
+     "iast": "dhātuṣu",
+     "en": "in the tissues",
+     "hi": "धातुओं में"
+    },
+    {
+     "sa": "संश्रिताः",
+     "iast": "saṃśritāḥ",
+     "en": "reside",
+     "hi": "आश्रित हैं"
+    },
+    {
+     "sa": "तेषाम्",
+     "iast": "teṣām",
+     "en": "of them",
+     "hi": "उनके"
+    },
+    {
+     "sa": "सादातिदीप्तिभ्याम्",
+     "iast": "sādāti-dīptibhyām",
+     "en": "by sluggishness and over-activity",
+     "hi": "मंदता और अति तीव्रता से"
+    },
+    {
+     "sa": "धातुवृद्धिक्षयोद्भवः",
+     "iast": "dhātu-vṛddhi-kṣayodbhavaḥ",
+     "en": "arise increase and decrease of tissues",
+     "hi": "धातुओं की वृद्धि और क्षय होते हैं"
+    }
+   ],
+   "english": "Portions (aṃśa) of the body fire (kāyāgni), which is situated in its own place (the digestive tract), reside in the dhātus. From their sluggishness and over-activity arise the increase and decrease of the dhātus (respectively).",
+   "hindi": "अपने स्थान (पाचन तंत्र) पर स्थित कायाग्नि (जठराग्नि) के अंश धातुओं में रहते हैं (धात्वग्नि)। उनकी मंदता से धातुओं की वृद्धि और अति तीव्रता से धातुओं का क्षय होता है।",
+   "explanation_en": "This is the concept of dhātvagni as portions of jāṭharāgni. Key logic: dhātvagni-māndya → dhātu-vṛddhi (unprocessed excess); dhātvagni-tīkṣṇatā → dhātu-kṣaya. Very important for Kriyā Śārīra.",
+   "explanation_hi": "यह धात्वग्नि की अवधारणा है, जो जठराग्नि के अंश हैं। मुख्य तर्क: धात्वग्नि मांद्य → धातु वृद्धि (अपक्व अधिकता); धात्वग्नि तीक्ष्णता → धातु क्षय। क्रिया शारीर के लिए बहुत महत्वपूर्ण।",
+   "modern_correlation": {
+    "en": "Dhātvagni is often compared to tissue-level metabolism: reduced metabolic activity can lead to accumulation (for example of fat), while excessive catabolism leads to tissue wasting. The analogy is helpful but approximate.",
+    "hi": "धात्वग्नि की तुलना अक्सर ऊतक स्तर के चयापचय से की जाती है: कम चयापचय से संचय (जैसे वसा का) और अधिक अपचय (कैटाबोलिज़्म) से ऊतकों का क्षय होता है। यह तुलना उपयोगी पर अनुमानित है।"
+   },
+   "key_terms": [
+    "dhātvagni",
+    "kāyāgni",
+    "jāṭharāgni",
+    "dhātu-vṛddhi-kṣaya"
+   ],
+   "tags": [
+    "agni",
+    "dhatu",
+    "dhatvagni"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.11.35",
+   "word_meanings": [
+    {
+     "sa": "पूर्वः",
+     "iast": "pūrvaḥ",
+     "en": "the preceding",
+     "hi": "पहला"
+    },
+    {
+     "sa": "धातुः",
+     "iast": "dhātuḥ",
+     "en": "tissue",
+     "hi": "धातु"
+    },
+    {
+     "sa": "परम्",
+     "iast": "param",
+     "en": "the next",
+     "hi": "अगले को"
+    },
+    {
+     "sa": "कुर्यात्",
+     "iast": "kuryāt",
+     "en": "makes",
+     "hi": "करता है"
+    },
+    {
+     "sa": "वृद्धः",
+     "iast": "vṛddhaḥ",
+     "en": "increased",
+     "hi": "बढ़ा हुआ"
+    },
+    {
+     "sa": "क्षीणः",
+     "iast": "kṣīṇaḥ",
+     "en": "decreased",
+     "hi": "घटा हुआ"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "तद्विधम्",
+     "iast": "tad-vidham",
+     "en": "of the same kind",
+     "hi": "वैसा ही"
+    },
+    {
+     "sa": "दोषाः",
+     "iast": "doṣāḥ",
+     "en": "doṣas",
+     "hi": "दोष"
+    },
+    {
+     "sa": "दुष्टाः",
+     "iast": "duṣṭāḥ",
+     "en": "vitiated",
+     "hi": "दूषित"
+    },
+    {
+     "sa": "रसैः",
+     "iast": "rasaiḥ",
+     "en": "through rasa (circulating nutrient fluid)",
+     "hi": "रस के माध्यम से"
+    },
+    {
+     "sa": "धातून्",
+     "iast": "dhātūn",
+     "en": "tissues",
+     "hi": "धातुओं को"
+    },
+    {
+     "sa": "दूषयन्ति",
+     "iast": "dūṣayanti",
+     "en": "vitiate",
+     "hi": "दूषित करते हैं"
+    },
+    {
+     "sa": "उभये",
+     "iast": "ubhaye",
+     "en": "both",
+     "hi": "दोनों"
+    },
+    {
+     "sa": "मलान्",
+     "iast": "malān",
+     "en": "wastes",
+     "hi": "मलों को"
+    }
+   ],
+   "english": "The preceding dhātu, when increased or decreased, makes the next one likewise (increased or decreased). Vitiated doṣas vitiate the dhātus through rasa (the circulating nutrient fluid), and both (doṣas and dhātus) vitiate the malas.",
+   "hindi": "पहला धातु जब बढ़ता या घटता है, तो अगले धातु को भी वैसा ही (बढ़ा या घटा) बना देता है। दूषित दोष रस के माध्यम से धातुओं को दूषित करते हैं, और दोनों (दोष और धातु) मिलकर मलों को दूषित करते हैं।",
+   "explanation_en": "First line: sequential nourishment of dhātus (rasa → rakta → māṃsa ...), so change in one passes to the next. Second line: chain of pathology doṣa → dhātu → mala (doṣa = dūṣaka, dhātu/mala = dūṣya). Some read 'rasaiḥ' differently, but the doṣa-dūṣya relation is the key point.",
+   "explanation_hi": "पहली पंक्ति: धातुओं का क्रमिक पोषण (रस → रक्त → मांस ...), इसलिए एक का परिवर्तन अगले तक जाता है। दूसरी पंक्ति: विकृति की श्रृंखला दोष → धातु → मल (दोष = दूषक, धातु/मल = दूष्य)। 'रसैः' की व्याख्या कुछ अलग भी की जाती है, पर दोष-दूष्य संबंध मुख्य बात है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "dhātu-poṣaṇa",
+    "doṣa-dūṣya",
+    "dūṣaka"
+   ],
+   "tags": [
+    "dhatu",
+    "samprapti",
+    "dosha-dushya"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.11.36",
+   "word_meanings": [
+    {
+     "sa": "अधः",
+     "iast": "adhaḥ",
+     "en": "below",
+     "hi": "नीचे"
+    },
+    {
+     "sa": "द्वे",
+     "iast": "dve",
+     "en": "two",
+     "hi": "दो"
+    },
+    {
+     "sa": "सप्त",
+     "iast": "sapta",
+     "en": "seven",
+     "hi": "सात"
+    },
+    {
+     "sa": "शिरसि",
+     "iast": "śirasi",
+     "en": "in the head",
+     "hi": "सिर में"
+    },
+    {
+     "sa": "खानि",
+     "iast": "khāni",
+     "en": "openings",
+     "hi": "छिद्र"
+    },
+    {
+     "sa": "स्वेदवहानि",
+     "iast": "sveda-vahāni",
+     "en": "sweat-carrying (pores)",
+     "hi": "पसीना बहाने वाले (रोमकूप)"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "मलाः",
+     "iast": "malāḥ",
+     "en": "wastes",
+     "hi": "मल"
+    },
+    {
+     "sa": "मलायनानि",
+     "iast": "malāyanāni",
+     "en": "passages of the wastes",
+     "hi": "मलों के मार्ग"
+    },
+    {
+     "sa": "स्युः",
+     "iast": "syuḥ",
+     "en": "are",
+     "hi": "हैं"
+    },
+    {
+     "sa": "यथास्वम्",
+     "iast": "yathā-svam",
+     "en": "respectively",
+     "hi": "अपने-अपने"
+    },
+    {
+     "sa": "तेषु",
+     "iast": "teṣu",
+     "en": "in them",
+     "hi": "उनमें"
+    },
+    {
+     "sa": "अतः",
+     "iast": "ataḥ",
+     "en": "hence",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "गदाः",
+     "iast": "gadāḥ",
+     "en": "diseases",
+     "hi": "रोग"
+    }
+   ],
+   "english": "The two openings below, the seven in the head and the sweat-carrying pores are the passages of the malas (malāyana), each for its own mala; hence diseases arise in them (when malas are disturbed).",
+   "hindi": "नीचे के दो छिद्र (गुदा और मूत्र मार्ग), सिर के सात छिद्र (दो आँख, दो कान, दो नथुने, मुँह) और पसीने के रोमकूप, ये अपने-अपने मलों के निकास मार्ग (मलायन) हैं; इसलिए मलों के बिगड़ने पर इन्हीं में रोग होते हैं।",
+   "explanation_en": "Malāyana: 2 (adhaḥ) + 7 (śiras) + sveda-vaha srotas. These are the external openings through which wastes leave the body.",
+   "explanation_hi": "मलायन: 2 (नीचे) + 7 (सिर में) + स्वेदवह स्रोतस। ये बाहरी छिद्र हैं जिनसे मल शरीर से निकलते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "malāyana",
+    "bahiḥsrotas"
+   ],
+   "tags": [
+    "mala",
+    "srotas"
+   ],
+   "importance": "medium",
+   "mnemonic": "2 below + 7 in the head + skin pores",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.11.37",
+   "word_meanings": [
+    {
+     "sa": "ओजः",
+     "iast": "ojaḥ",
+     "en": "ojas",
+     "hi": "ओज"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "now",
+     "hi": "अब"
+    },
+    {
+     "sa": "तेजः",
+     "iast": "tejaḥ",
+     "en": "essence, brilliance",
+     "hi": "तेज (सार)"
+    },
+    {
+     "sa": "धातूनाम्",
+     "iast": "dhātūnām",
+     "en": "of the tissues",
+     "hi": "धातुओं का"
+    },
+    {
+     "sa": "शुक्रान्तानाम्",
+     "iast": "śukrāntānām",
+     "en": "ending with śukra",
+     "hi": "शुक्र पर्यंत"
+    },
+    {
+     "sa": "परम्",
+     "iast": "param",
+     "en": "supreme",
+     "hi": "परम"
+    },
+    {
+     "sa": "स्मृतम्",
+     "iast": "smṛtam",
+     "en": "is known",
+     "hi": "कहा गया है"
+    },
+    {
+     "sa": "हृदयस्थम्",
+     "iast": "hṛdaya-stham",
+     "en": "located in the heart",
+     "hi": "हृदय में स्थित"
+    },
+    {
+     "sa": "अपि",
+     "iast": "api",
+     "en": "though",
+     "hi": "होते हुए भी"
+    },
+    {
+     "sa": "व्यापि",
+     "iast": "vyāpi",
+     "en": "pervading (the whole body)",
+     "hi": "पूरे शरीर में व्याप्त"
+    },
+    {
+     "sa": "देहस्थितिनिबन्धनम्",
+     "iast": "deha-sthiti-nibandhanam",
+     "en": "the basis of the body's maintenance",
+     "hi": "शरीर की स्थिति का आधार"
+    }
+   ],
+   "english": "Ojas is known as the supreme essence (tejas) of the dhātus from rasa to śukra. Though located in the heart, it pervades the whole body and is the basis of the body's continued existence.",
+   "hindi": "ओज रस से शुक्र तक सभी धातुओं का परम सार (तेज) कहा गया है। यह हृदय में स्थित होते हुए भी पूरे शरीर में व्याप्त है और शरीर के टिके रहने का आधार है।",
+   "explanation_en": "Verses 37-41 are the classic Vāgbhaṭa description of ojas: definition, location (hṛdaya), nature, signs of kṣaya and treatment. 'Ojas tu tejo dhātūnāṃ śukrāntānāṃ paraṃ smṛtam' is a must-learn definition.",
+   "explanation_hi": "श्लोक 37-41 ओज का प्रसिद्ध वाग्भटीय वर्णन हैं: परिभाषा, स्थान (हृदय), स्वरूप, क्षय लक्षण और चिकित्सा। 'ओजस्तु तेजो धातूनां शुक्रान्तानां परं स्मृतम्' अवश्य याद करने योग्य परिभाषा है।",
+   "modern_correlation": {
+    "en": "Ojas is sometimes compared to overall physiological reserve and immune resilience; this is an interpretive comparison, as ojas is a broader classical concept without a single modern equivalent.",
+    "hi": "ओज की तुलना कभी-कभी शरीर की समग्र शारीरिक क्षमता और रोग-प्रतिरोधक शक्ति से की जाती है; यह व्याख्यात्मक तुलना है, क्योंकि ओज एक व्यापक शास्त्रीय अवधारणा है जिसका कोई एक आधुनिक समकक्ष नहीं।"
+   },
+   "key_terms": [
+    "ojas",
+    "tejas",
+    "hṛdaya",
+    "dhātu-sāra"
+   ],
+   "tags": [
+    "ojas",
+    "definitions"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.11.38",
+   "word_meanings": [
+    {
+     "sa": "स्निग्धम्",
+     "iast": "snigdham",
+     "en": "unctuous",
+     "hi": "स्निग्ध"
+    },
+    {
+     "sa": "सोमात्मकम्",
+     "iast": "somātmakam",
+     "en": "of the nature of soma (cool, nourishing)",
+     "hi": "सोम स्वरूप (शीतल)"
+    },
+    {
+     "sa": "शुद्धम्",
+     "iast": "śuddham",
+     "en": "pure, clear",
+     "hi": "शुद्ध"
+    },
+    {
+     "sa": "ईषल्लोहितपीतकम्",
+     "iast": "īṣal-lohita-pītakam",
+     "en": "slightly reddish-yellow",
+     "hi": "हल्का लाल-पीला"
+    },
+    {
+     "sa": "यन्नाशे",
+     "iast": "yan-nāśe",
+     "en": "on whose destruction",
+     "hi": "जिसके नाश होने पर"
+    },
+    {
+     "sa": "नियतम्",
+     "iast": "niyatam",
+     "en": "certainly",
+     "hi": "निश्चित"
+    },
+    {
+     "sa": "नाशः",
+     "iast": "nāśaḥ",
+     "en": "death",
+     "hi": "नाश (मृत्यु)"
+    },
+    {
+     "sa": "यस्मिन्",
+     "iast": "yasmin",
+     "en": "in which",
+     "hi": "जिसके"
+    },
+    {
+     "sa": "तिष्ठति",
+     "iast": "tiṣṭhati",
+     "en": "remains",
+     "hi": "रहने पर"
+    },
+    {
+     "sa": "तिष्ठति",
+     "iast": "tiṣṭhati",
+     "en": "(life) remains",
+     "hi": "(जीवन) रहता है"
+    }
+   ],
+   "english": "It is unctuous, of the nature of soma (cool and nourishing), pure, and slightly reddish-yellow in colour. When it is destroyed, death is certain; as long as it remains, (life) remains.",
+   "hindi": "ओज स्निग्ध, सोम स्वरूप (शीतल और पोषक), शुद्ध और हल्के लाल-पीले रंग का होता है। इसके नष्ट होने पर मृत्यु निश्चित है; और जब तक यह रहता है, जीवन रहता है।",
+   "explanation_en": "Properties of ojas per Vāgbhaṭa: snigdha, somātmaka, śuddha, īṣat-lohita-pītaka. Compare Caraka, who describes ojas as sarpi-varṇa (colour of ghee), madhu-rasa, lāja-gandha. 'Yasmiṃs tiṣṭhati tiṣṭhati' is a memorable line.",
+   "explanation_hi": "वाग्भट के अनुसार ओज के गुण: स्निग्ध, सोमात्मक, शुद्ध, ईषत् लोहित-पीत। चरक से तुलना करें, जो ओज को सर्पि वर्ण (घी जैसा रंग), मधु रस, लाज गंध बताते हैं। 'यस्मिंस्तिष्ठति तिष्ठति' याद रखने योग्य पंक्ति है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "ojas",
+    "somātmaka",
+    "ojas-guṇa"
+   ],
+   "tags": [
+    "ojas"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.11.39",
+   "word_meanings": [
+    {
+     "sa": "निष्पद्यन्ते",
+     "iast": "niṣpadyante",
+     "en": "are produced",
+     "hi": "उत्पन्न होते हैं"
+    },
+    {
+     "sa": "यतः",
+     "iast": "yataḥ",
+     "en": "from which",
+     "hi": "जिससे"
+    },
+    {
+     "sa": "भावाः",
+     "iast": "bhāvāḥ",
+     "en": "states, entities",
+     "hi": "भाव"
+    },
+    {
+     "sa": "विविधाः",
+     "iast": "vividhāḥ",
+     "en": "various",
+     "hi": "विविध"
+    },
+    {
+     "sa": "देहसंश्रयाः",
+     "iast": "deha-saṃśrayāḥ",
+     "en": "dependent on the body",
+     "hi": "शरीर पर आश्रित"
+    },
+    {
+     "sa": "ओजः",
+     "iast": "ojaḥ",
+     "en": "ojas",
+     "hi": "ओज"
+    },
+    {
+     "sa": "क्षीयेत",
+     "iast": "kṣīyeta",
+     "en": "decreases",
+     "hi": "क्षीण होता है"
+    },
+    {
+     "sa": "कोप",
+     "iast": "kopa",
+     "en": "anger",
+     "hi": "क्रोध"
+    },
+    {
+     "sa": "क्षुत्",
+     "iast": "kṣut",
+     "en": "hunger",
+     "hi": "भूख"
+    },
+    {
+     "sa": "ध्यान",
+     "iast": "dhyāna",
+     "en": "anxiety, brooding",
+     "hi": "चिंता"
+    },
+    {
+     "sa": "शोक",
+     "iast": "śoka",
+     "en": "grief",
+     "hi": "शोक"
+    },
+    {
+     "sa": "श्रम",
+     "iast": "śrama",
+     "en": "exertion",
+     "hi": "परिश्रम"
+    },
+    {
+     "sa": "आदिभिः",
+     "iast": "ādibhiḥ",
+     "en": "and others",
+     "hi": "आदि से"
+    }
+   ],
+   "english": "From it the various states (functions) that depend on the body are produced. Ojas decreases due to anger, hunger, anxious brooding (dhyāna), grief, over-exertion and the like.",
+   "hindi": "इसी से शरीर पर आश्रित विविध भाव (क्रियाएँ) उत्पन्न होते हैं। ओज क्रोध, भूख, चिंता, शोक, अधिक परिश्रम आदि से क्षीण होता है।",
+   "explanation_en": "Causes of ojaḥ-kṣaya: kopa, kṣudhā, dhyāna, śoka, śrama. Note that most are mental factors, linking emotional stress with loss of vitality. Verse 40 gives the signs.",
+   "explanation_hi": "ओज क्षय के कारण: क्रोध, क्षुधा, चिंता, शोक, श्रम। ध्यान दें कि अधिकतर मानसिक कारण हैं, जो भावनात्मक तनाव को जीवन शक्ति की हानि से जोड़ते हैं। श्लोक 40 में लक्षण हैं।",
+   "modern_correlation": {
+    "en": "The link between chronic stress, grief, starvation and exhaustion and reduced vitality broadly parallels modern findings that chronic stress and malnutrition impair immune and physiological resilience.",
+    "hi": "लंबे तनाव, शोक, भूख और थकान का जीवन शक्ति घटाने से संबंध, आधुनिक निष्कर्षों से मिलता है कि लंबा तनाव और कुपोषण रोग-प्रतिरोधक और शारीरिक क्षमता को कमज़ोर करते हैं।"
+   },
+   "key_terms": [
+    "ojaḥ-kṣaya",
+    "ojas",
+    "hetu"
+   ],
+   "tags": [
+    "ojas",
+    "nidana"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.11.40",
+   "word_meanings": [
+    {
+     "sa": "बिभेति",
+     "iast": "bibheti",
+     "en": "fears",
+     "hi": "डरता है"
+    },
+    {
+     "sa": "दुर्बलः",
+     "iast": "durbalaḥ",
+     "en": "weak",
+     "hi": "दुर्बल"
+    },
+    {
+     "sa": "अभीक्ष्णम्",
+     "iast": "abhīkṣṇam",
+     "en": "constantly",
+     "hi": "बार-बार"
+    },
+    {
+     "sa": "ध्यायति",
+     "iast": "dhyāyati",
+     "en": "worries",
+     "hi": "चिंता करता है"
+    },
+    {
+     "sa": "व्यथितेन्द्रियः",
+     "iast": "vyathitendriyaḥ",
+     "en": "with afflicted senses",
+     "hi": "पीड़ित इंद्रियों वाला"
+    },
+    {
+     "sa": "दुश्छायः",
+     "iast": "duś-chāyaḥ",
+     "en": "with poor complexion",
+     "hi": "फीकी कांति वाला"
+    },
+    {
+     "sa": "दुर्मनाः",
+     "iast": "dur-manāḥ",
+     "en": "dejected",
+     "hi": "उदास मन वाला"
+    },
+    {
+     "sa": "रूक्षः",
+     "iast": "rūkṣaḥ",
+     "en": "dry",
+     "hi": "रूखा"
+    },
+    {
+     "sa": "भवेत्",
+     "iast": "bhavet",
+     "en": "becomes",
+     "hi": "हो जाता है"
+    },
+    {
+     "sa": "क्षामः",
+     "iast": "kṣāmaḥ",
+     "en": "emaciated",
+     "hi": "कृश"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "तत्क्षये",
+     "iast": "tat-kṣaye",
+     "en": "on its decrease",
+     "hi": "उसके क्षय होने पर"
+    }
+   ],
+   "english": "When ojas decreases, the person becomes fearful constantly, weak, worried, with afflicted senses, poor complexion, dejected mind, dryness and emaciation.",
+   "hindi": "ओज के क्षय होने पर व्यक्ति बार-बार डरता है, दुर्बल हो जाता है, चिंता करता है, उसकी इंद्रियाँ पीड़ित रहती हैं, कांति फीकी, मन उदास, शरीर रूखा और कृश हो जाता है।",
+   "explanation_en": "Ojaḥ-kṣaya lakṣaṇa: bibheti, durbala, dhyāyati, vyathitendriya, duśchāya, durmanā, rūkṣa, kṣāma. Easy to remember: fear and worry (mind) + weakness, dryness and emaciation (body).",
+   "explanation_hi": "ओज क्षय लक्षण: भय, दुर्बलता, चिंता, व्यथित इंद्रियाँ, दुश्छाया, दुर्मना, रूक्षता, कृशता। याद रखना आसान: भय और चिंता (मन) + दुर्बलता, रूखापन और कृशता (शरीर)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "ojaḥ-kṣaya",
+    "lakṣaṇa"
+   ],
+   "tags": [
+    "ojas",
+    "kshaya-lakshana"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.11.41",
+   "word_meanings": [
+    {
+     "sa": "जीवनीय",
+     "iast": "jīvanīya",
+     "en": "life-promoting (group of drugs)",
+     "hi": "जीवनीय (गण)"
+    },
+    {
+     "sa": "औषध",
+     "iast": "auṣadha",
+     "en": "medicines",
+     "hi": "औषधियाँ"
+    },
+    {
+     "sa": "क्षीर",
+     "iast": "kṣīra",
+     "en": "milk",
+     "hi": "दूध"
+    },
+    {
+     "sa": "रस",
+     "iast": "rasa",
+     "en": "meat soups",
+     "hi": "मांस रस"
+    },
+    {
+     "sa": "आद्याः",
+     "iast": "ādyāḥ",
+     "en": "and others",
+     "hi": "आदि"
+    },
+    {
+     "sa": "तत्र",
+     "iast": "tatra",
+     "en": "in that (condition)",
+     "hi": "उसमें"
+    },
+    {
+     "sa": "भेषजम्",
+     "iast": "bheṣajam",
+     "en": "remedy",
+     "hi": "औषधि"
+    },
+    {
+     "sa": "ओजोवृद्धौ",
+     "iast": "ojo-vṛddhau",
+     "en": "on increase of ojas",
+     "hi": "ओज बढ़ने पर"
+    },
+    {
+     "sa": "हि",
+     "iast": "hi",
+     "en": "indeed",
+     "hi": "ही"
+    },
+    {
+     "sa": "देहस्य",
+     "iast": "dehasya",
+     "en": "of the body",
+     "hi": "शरीर की"
+    },
+    {
+     "sa": "तुष्टि",
+     "iast": "tuṣṭi",
+     "en": "contentment",
+     "hi": "संतुष्टि"
+    },
+    {
+     "sa": "पुष्टि",
+     "iast": "puṣṭi",
+     "en": "nourishment",
+     "hi": "पुष्टि"
+    },
+    {
+     "sa": "बलोदयः",
+     "iast": "balodayaḥ",
+     "en": "rise of strength",
+     "hi": "बल का उदय"
+    }
+   ],
+   "english": "In that condition, the remedies are life-promoting (jīvanīya) drugs, milk, meat soups and the like. With the increase of ojas, the body gains contentment, nourishment and strength.",
+   "hindi": "ओज क्षय में जीवनीय गण की औषधियाँ, दूध, मांस रस आदि चिकित्सा हैं। ओज के बढ़ने पर शरीर में संतुष्टि, पुष्टि और बल का उदय होता है।",
+   "explanation_en": "Treatment of ojaḥ-kṣaya: jīvanīya gaṇa (jīvaka, ṛṣabhaka, medā etc.), kṣīra, māṃsarasa, i.e. madhura, nourishing, soma-like substances matching ojas's own nature.",
+   "explanation_hi": "ओज क्षय की चिकित्सा: जीवनीय गण (जीवक, ऋषभक, मेदा आदि), क्षीर, मांसरस, यानी मधुर, पोषक, सोम जैसे द्रव्य जो ओज के स्वभाव से मेल खाते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "ojaḥ-kṣaya-cikitsā",
+    "jīvanīya",
+    "kṣīra"
+   ],
+   "tags": [
+    "ojas",
+    "chikitsa"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.11.42",
+   "word_meanings": [
+    {
+     "sa": "तुष्टिपुष्टिबलोदयाः",
+     "iast": "tuṣṭi-puṣṭi-balodayāḥ",
+     "en": "contentment, nourishment and strength (repeated phrase)",
+     "hi": "संतुष्टि, पुष्टि और बल (दोहराया वाक्यांश)"
+    },
+    {
+     "sa": "यत्",
+     "iast": "yat",
+     "en": "which",
+     "hi": "जो"
+    },
+    {
+     "sa": "अन्नम्",
+     "iast": "annam",
+     "en": "food",
+     "hi": "भोजन"
+    },
+    {
+     "sa": "द्वेष्टि",
+     "iast": "dveṣṭi",
+     "en": "dislikes",
+     "hi": "नापसंद करता है"
+    },
+    {
+     "sa": "यत् अपि",
+     "iast": "yat api",
+     "en": "and whatever",
+     "hi": "और जो भी"
+    },
+    {
+     "sa": "प्रार्थयेत",
+     "iast": "prārthayeta",
+     "en": "craves",
+     "hi": "चाहता है"
+    },
+    {
+     "sa": "अविरोधि",
+     "iast": "avirodhi",
+     "en": "not harmful",
+     "hi": "अविरोधी (हानिरहित)"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "परंतु"
+    },
+    {
+     "sa": "तत् तत्",
+     "iast": "tat tat",
+     "en": "that respectively",
+     "hi": "वह वह"
+    },
+    {
+     "sa": "त्यजन्",
+     "iast": "tyajan",
+     "en": "giving up",
+     "hi": "छोड़ते हुए"
+    },
+    {
+     "sa": "समश्नन्",
+     "iast": "samaśnan",
+     "en": "eating",
+     "hi": "खाते हुए"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "तौ तौ",
+     "iast": "tau tau",
+     "en": "those respective",
+     "hi": "उन-उन"
+    },
+    {
+     "sa": "वृद्धिक्षयौ",
+     "iast": "vṛddhi-kṣayau",
+     "en": "increase and decrease",
+     "hi": "वृद्धि और क्षय को"
+    },
+    {
+     "sa": "जयेत्",
+     "iast": "jayet",
+     "en": "overcomes",
+     "hi": "जीत लेता है"
+    }
+   ],
+   "english": "(Contentment, nourishment and strength arise.) By giving up whatever food one dislikes and by eating whatever (non-harmful) food one craves, one overcomes the respective increase and decrease (of doṣas).",
+   "hindi": "(संतुष्टि, पुष्टि और बल का उदय होता है।) जो भोजन व्यक्ति को नापसंद हो उसे छोड़कर, और जो (हानिरहित) भोजन वह चाहता हो उसे खाकर, वह क्रमशः दोषों की वृद्धि और क्षय पर विजय पाता है।",
+   "explanation_en": "The corpus line begins with a repeated fragment 'tuṣṭi-puṣṭi-balodayāḥ' from verse 41, probably a manuscript repetition. The verse itself states that the patient's natural likes and dislikes are diagnostic and therapeutic clues; verse 43 explains why.",
+   "explanation_hi": "इस पाठ की शुरुआत में श्लोक 41 का अंश 'तुष्टिपुष्टिबलोदयाः' दोहराया गया है, जो संभवतः पांडुलिपि की पुनरावृत्ति है। श्लोक बताता है कि रोगी की स्वाभाविक रुचि-अरुचि निदान और चिकित्सा के संकेत हैं; श्लोक 43 इसका कारण बताता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "ruci",
+    "vṛddhi-kṣaya",
+    "āhāra"
+   ],
+   "tags": [
+    "dosha",
+    "vriddhi-kshaya",
+    "diagnosis"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.11.43",
+   "word_meanings": [
+    {
+     "sa": "कुर्वते",
+     "iast": "kurvate",
+     "en": "produce",
+     "hi": "उत्पन्न करते हैं"
+    },
+    {
+     "sa": "हि",
+     "iast": "hi",
+     "en": "because",
+     "hi": "क्योंकि"
+    },
+    {
+     "sa": "रुचिम्",
+     "iast": "rucim",
+     "en": "liking, craving",
+     "hi": "रुचि"
+    },
+    {
+     "sa": "दोषाः",
+     "iast": "doṣāḥ",
+     "en": "doṣas",
+     "hi": "दोष"
+    },
+    {
+     "sa": "विपरीतसमानयोः",
+     "iast": "viparīta-samānayoḥ",
+     "en": "for the opposite and the similar",
+     "hi": "विपरीत और समान के लिए"
+    },
+    {
+     "sa": "वृद्धाः",
+     "iast": "vṛddhāḥ",
+     "en": "increased",
+     "hi": "बढ़े हुए"
+    },
+    {
+     "sa": "क्षीणाः",
+     "iast": "kṣīṇāḥ",
+     "en": "decreased",
+     "hi": "घटे हुए"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "भूयिष्ठम्",
+     "iast": "bhūyiṣṭham",
+     "en": "mostly",
+     "hi": "अधिकतर"
+    },
+    {
+     "sa": "लक्षयन्ति",
+     "iast": "lakṣayanti",
+     "en": "notice",
+     "hi": "पहचानते हैं"
+    },
+    {
+     "sa": "अबुधाः",
+     "iast": "abudhāḥ",
+     "en": "the ignorant",
+     "hi": "अज्ञानी"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "परंतु"
+    },
+    {
+     "sa": "न",
+     "iast": "na",
+     "en": "not",
+     "hi": "नहीं"
+    }
+   ],
+   "english": "For increased doṣas mostly produce a craving for things of opposite qualities, and decreased doṣas a craving for things of similar qualities; the ignorant, however, do not notice this.",
+   "hindi": "क्योंकि बढ़े हुए दोष अधिकतर विपरीत गुण वाली चीज़ों की इच्छा पैदा करते हैं, और घटे हुए दोष समान गुण वाली चीज़ों की; परंतु अज्ञानी लोग इसे पहचान नहीं पाते।",
+   "explanation_en": "A subtle diagnostic clue: increased pitta → craving for cold; decreased kapha → craving for sweet/heavy food, etc. The body tends to seek balance. Useful for case taking (upaśaya-anupaśaya).",
+   "explanation_hi": "सूक्ष्म निदान संकेत: बढ़ा पित्त → ठंडे की इच्छा; घटा कफ → मीठे/भारी भोजन की इच्छा आदि। शरीर संतुलन की ओर जाता है। केस लेने (उपशय-अनुपशय) में उपयोगी।",
+   "modern_correlation": {
+    "en": "This broadly resembles the physiological idea of homeostatic cravings, such as thirst in dehydration or salt appetite in sodium depletion.",
+    "hi": "यह शारीरिक संतुलन (होमियोस्टेसिस) से जुड़ी इच्छाओं के विचार जैसा है, जैसे निर्जलीकरण में प्यास या सोडियम की कमी में नमक की इच्छा।"
+   },
+   "key_terms": [
+    "vṛddhi",
+    "kṣaya",
+    "ruci",
+    "upaśaya"
+   ],
+   "tags": [
+    "dosha",
+    "vriddhi-kshaya",
+    "diagnosis"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.11.44",
+   "word_meanings": [
+    {
+     "sa": "यथाबलम्",
+     "iast": "yathā-balam",
+     "en": "according to their strength",
+     "hi": "बल के अनुसार"
+    },
+    {
+     "sa": "यथास्वम्",
+     "iast": "yathā-svam",
+     "en": "according to their nature",
+     "hi": "अपने स्वभाव के अनुसार"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "दोषाः",
+     "iast": "doṣāḥ",
+     "en": "doṣas",
+     "hi": "दोष"
+    },
+    {
+     "sa": "वृद्धाः",
+     "iast": "vṛddhāḥ",
+     "en": "increased",
+     "hi": "बढ़े हुए"
+    },
+    {
+     "sa": "वितन्वते",
+     "iast": "vitanvate",
+     "en": "manifest",
+     "hi": "प्रकट करते हैं"
+    },
+    {
+     "sa": "रूपाणि",
+     "iast": "rūpāṇi",
+     "en": "their features",
+     "hi": "अपने लक्षण"
+    },
+    {
+     "sa": "जहति",
+     "iast": "jahati",
+     "en": "give up",
+     "hi": "छोड़ देते हैं"
+    },
+    {
+     "sa": "क्षीणाः",
+     "iast": "kṣīṇāḥ",
+     "en": "decreased",
+     "hi": "घटे हुए"
+    },
+    {
+     "sa": "समाः",
+     "iast": "samāḥ",
+     "en": "balanced",
+     "hi": "सम (संतुलित)"
+    },
+    {
+     "sa": "स्वम्",
+     "iast": "svam",
+     "en": "their own",
+     "hi": "अपना"
+    },
+    {
+     "sa": "कर्म",
+     "iast": "karma",
+     "en": "function",
+     "hi": "कर्म"
+    },
+    {
+     "sa": "कुर्वते",
+     "iast": "kurvate",
+     "en": "perform",
+     "hi": "करते हैं"
+    }
+   ],
+   "english": "Increased doṣas manifest their features according to their strength and nature; decreased ones give up their (normal) features; balanced ones perform their own normal functions.",
+   "hindi": "बढ़े हुए दोष अपने बल और स्वभाव के अनुसार अपने लक्षण प्रकट करते हैं; घटे हुए दोष अपने (सामान्य) लक्षण छोड़ देते हैं; और सम (संतुलित) दोष अपना स्वाभाविक कर्म करते हैं।",
+   "explanation_en": "A neat three-state summary: vṛddha → excess of own features; kṣīṇa → loss of own features; sama → normal function. Good for a one-paragraph answer on doṣa states.",
+   "explanation_hi": "तीन अवस्थाओं का सुंदर सार: वृद्ध → अपने लक्षणों की अधिकता; क्षीण → अपने लक्षणों की हानि; सम → सामान्य कर्म। दोष की अवस्थाओं पर एक-अनुच्छेद उत्तर के लिए अच्छा।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vṛddhi",
+    "kṣaya",
+    "sāmya",
+    "doṣa"
+   ],
+   "tags": [
+    "dosha",
+    "vriddhi-kshaya"
+   ],
+   "importance": "medium",
+   "mnemonic": "Vṛddha shows more, Kṣīṇa shows less, Sama works normally",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "AH.sutra.11.45",
+   "word_meanings": [
+    {
+     "sa": "ये एव",
+     "iast": "ye eva",
+     "en": "the very same which",
+     "hi": "वे ही जो"
+    },
+    {
+     "sa": "देहस्य",
+     "iast": "dehasya",
+     "en": "of the body",
+     "hi": "शरीर के"
+    },
+    {
+     "sa": "समाः",
+     "iast": "samāḥ",
+     "en": "balanced",
+     "hi": "सम"
+    },
+    {
+     "sa": "विवृद्ध्यै",
+     "iast": "vivṛddhyai",
+     "en": "for growth",
+     "hi": "वृद्धि (विकास) के लिए"
+    },
+    {
+     "sa": "ते एव",
+     "iast": "te eva",
+     "en": "those very",
+     "hi": "वे ही"
+    },
+    {
+     "sa": "दोषाः",
+     "iast": "doṣāḥ",
+     "en": "doṣas",
+     "hi": "दोष"
+    },
+    {
+     "sa": "विषमाः",
+     "iast": "viṣamāḥ",
+     "en": "imbalanced",
+     "hi": "विषम"
+    },
+    {
+     "sa": "वधाय",
+     "iast": "vadhāya",
+     "en": "for destruction",
+     "hi": "विनाश के लिए"
+    },
+    {
+     "sa": "यस्मात्",
+     "iast": "yasmāt",
+     "en": "since",
+     "hi": "क्योंकि"
+    },
+    {
+     "sa": "अतः",
+     "iast": "ataḥ",
+     "en": "therefore",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "ते",
+     "iast": "te",
+     "en": "they",
+     "hi": "वे"
+    },
+    {
+     "sa": "हितचर्यया",
+     "iast": "hita-caryayā",
+     "en": "by wholesome conduct",
+     "hi": "हितकर आचरण से"
+    },
+    {
+     "sa": "एव",
+     "iast": "eva",
+     "en": "indeed",
+     "hi": "ही"
+    },
+    {
+     "sa": "क्षयात्",
+     "iast": "kṣayāt",
+     "en": "from decrease",
+     "hi": "क्षय से"
+    },
+    {
+     "sa": "विवृद्धेः",
+     "iast": "vivṛddheḥ",
+     "en": "from increase",
+     "hi": "वृद्धि से"
+    },
+    {
+     "sa": "इव",
+     "iast": "iva",
+     "en": "as well as",
+     "hi": "की भाँति"
+    },
+    {
+     "sa": "रक्षणीयाः",
+     "iast": "rakṣaṇīyāḥ",
+     "en": "should be protected",
+     "hi": "रक्षा करनी चाहिए"
+    }
+   ],
+   "english": "The very doṣas that, when balanced, lead to the growth (well-being) of the body, lead to its destruction when imbalanced. Therefore they should be protected by wholesome conduct from decrease just as from increase.",
+   "hindi": "वही दोष जो सम (संतुलित) रहने पर शरीर के विकास और स्वास्थ्य का कारण हैं, विषम होने पर उसके विनाश का कारण बनते हैं। इसलिए हितकर आचरण से उनकी रक्षा वृद्धि की तरह क्षय से भी करनी चाहिए।",
+   "explanation_en": "The closing verse (in a longer metre) summarises the chapter: doṣa-sāmya = health, doṣa-vaiṣamya = disease; both increase and decrease must be prevented through hita-caryā (dinacaryā, ṛtucaryā, proper diet). A frequently quoted verse.",
+   "explanation_hi": "समापन श्लोक (लंबे छंद में) अध्याय का सार है: दोष साम्य = स्वास्थ्य, दोष वैषम्य = रोग; वृद्धि और क्षय दोनों को हितचर्या (दिनचर्या, ऋतुचर्या, उचित आहार) से रोकना चाहिए। अक्सर उद्धृत श्लोक।",
+   "modern_correlation": {
+    "en": "The idea that the same regulatory systems maintain health when balanced and cause disease when disturbed broadly parallels the modern concept of homeostasis.",
+    "hi": "यह विचार कि वही नियामक तंत्र संतुलित रहने पर स्वास्थ्य बनाए रखते हैं और बिगड़ने पर रोग करते हैं, आधुनिक 'होमियोस्टेसिस' की अवधारणा से मिलता है।"
+   },
+   "key_terms": [
+    "doṣa-sāmya",
+    "doṣa-vaiṣamya",
+    "hita-caryā"
+   ],
+   "tags": [
+    "dosha",
+    "principle",
+    "quotable"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  }
+ ]
+}

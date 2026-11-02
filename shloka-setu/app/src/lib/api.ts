@@ -61,7 +61,7 @@ export function askTutor(base: string, messages: TutorMessage[], verseId?: strin
 /** Quick reachability check: any HTTP answer from the server counts as reachable. */
 export async function ping(base: string): Promise<boolean> {
   try {
-    await request<unknown>(base, '/v1/search?q=dosha', { method: 'GET' }, 6_000);
+    await request<unknown>(base, '/health', { method: 'GET' }, 6_000);
     return true;
   } catch (e) {
     return e instanceof ApiError && !e.offline;

@@ -183,7 +183,7 @@
       "answer_index": 3,
       "explanation_en": "CS Ci 3 narrates that jvara was born from the anger of Maheśvara when Dakṣa's sacrifice was being destroyed. Dakṣa was the one who insulted Śiva, not the source of jvara; Indra and Brahmā are not linked to its origin.",
       "explanation_hi": "चरक चिकित्सा 3 में कथा है कि दक्ष यज्ञ के विध्वंस के समय महेश्वर के क्रोध से ज्वर उत्पन्न हुआ। दक्ष ने शिव का अपमान किया था, पर ज्वर उनके क्रोध से नहीं बना; इन्द्र और ब्रह्मा का इससे संबंध नहीं है।",
-      "reference": "CS.chikitsa.3",
+      "reference": "CS.chikitsa.3.25",
       "difficulty": "easy",
       "exam_tags": [
         "university",
@@ -295,9 +295,9 @@
         }
       ],
       "answer_index": 0,
-      "explanation_en": "Caraka begins jvara treatment with laṅghana ('jvarādau laṅghanam'), because fresh fever arises from āma and weak agni. Bṛṃhaṇa and snehapāna would increase āma; virecana is used later, when doṣas are ripe (pakva).",
+      "explanation_en": "Caraka begins jvara treatment with laṅghana ('jvare laṅghanam evādau', CS Ci 3.139), because fresh fever arises from āma and weak agni. Bṛṃhaṇa and snehapāna would increase āma; virecana is used later, when doṣas are ripe (pakva).",
       "explanation_hi": "चरक ज्वर के आरम्भ में लंघन बताते हैं, क्योंकि नवज्वर आम और मन्द अग्नि से होता है। बृंहण और स्नेहपान आम को बढ़ाएँगे; विरेचन बाद में, दोष पकने पर किया जाता है।",
-      "reference": "CS.chikitsa.3",
+      "reference": "CS.chikitsa.3.139",
       "difficulty": "easy",
       "exam_tags": [
         "university",
@@ -335,7 +335,7 @@
       "answer_index": 3,
       "explanation_en": "Ṣaḍaṅga pānīya (CS Ci 3) has six drugs: mustā, parpaṭaka, uśīra, candana, udīcya (bālaka) and nāgara. Guḍūcī is a famous jvaraghna drug but is not in this formula.",
       "explanation_hi": "षडङ्ग पानीय (चरक चिकित्सा 3) में छह द्रव्य हैं: मुस्ता, पर्पटक, उशीर, चन्दन, उदीच्य (बालक) और नागर। गुडूची प्रसिद्ध ज्वरघ्न द्रव्य है, पर इस योग में नहीं है।",
-      "reference": "CS.chikitsa.3",
+      "reference": "CS.chikitsa.3.145",
       "difficulty": "medium",
       "exam_tags": [
         "university",
@@ -365,7 +365,7 @@
       "answer_index": 0,
       "explanation_en": "True. In antarvegī jvara the heat is internal, with intense thirst, delirium, constipation and pain, and it is hard to cure. Bahirvegī jvara shows mainly external heat and is easy to cure (CS Ci 3).",
       "explanation_hi": "सत्य। अन्तर्वेगी ज्वर में ताप भीतर रहता है, साथ में तीव्र प्यास, प्रलाप, मलबद्धता और पीड़ा होती है और यह कष्टसाध्य है। बहिर्वेगी ज्वर में ताप मुख्यतः बाहर दिखता है और यह सुखसाध्य है (चरक चिकित्सा 3)।",
-      "reference": "CS.chikitsa.3",
+      "reference": "CS.chikitsa.3.40",
       "difficulty": "easy",
       "exam_tags": [
         "university",
@@ -380,8 +380,8 @@
       "topic_en": "Raktapitta (bleeding disorders)",
       "topic_hi": "रक्तपित्त",
       "type": "mcq",
-      "question_en": "Which drug is praised by Caraka as so effective that 'when it is available, a raktapitta patient need not despair'?",
-      "question_hi": "चरक ने किस द्रव्य की प्रशंसा की है कि 'उसके रहते रक्तपित्त का रोगी निराश नहीं होता'?",
+      "question_en": "Which drug is the most celebrated remedy for raktapitta, used by Caraka as Vāsā ghṛta that 'quickly arrests bleeding' (āśv eva nihanti raktam)?",
+      "question_hi": "रक्तपित्त की सबसे प्रसिद्ध औषधि कौन-सी है, जिसका चरक ने वासा घृत के रूप में प्रयोग बताया है जो 'शीघ्र रक्त को रोकता है' (आश्वेव निहन्ति रक्तम्)?",
       "options": [
         {
           "en": "Guḍūcī",
@@ -401,9 +401,9 @@
         }
       ],
       "answer_index": 3,
-      "explanation_en": "CS Ci 4 says that as long as vāsā is available, a patient of raktapitta, kṣaya or kāsa need not lose hope. Vāsā is tikta-kaṣāya and śīta, ideal for pitta and bleeding. Bhallātaka is uṣṇa-tīkṣṇa and would aggravate bleeding.",
-      "explanation_hi": "चरक चिकित्सा 4 कहता है कि जब तक वासा उपलब्ध है, रक्तपित्त, क्षय और कास का रोगी निराश न हो। वासा तिक्त-कषाय और शीत है, पित्त और रक्तस्राव में उत्तम। भल्लातक उष्ण-तीक्ष्ण है, रक्तस्राव बढ़ाएगा।",
-      "reference": "CS.chikitsa.4",
+      "explanation_en": "CS Ci 4.88 describes Vāsā ghṛta, prepared from the whole vāsā plant, which with honey quickly stops bleeding. Vāsā is tikta-kaṣāya and śīta, ideal for pitta and bleeding; a popular later saying also declares that while vāsā is available a raktapitta patient need not despair. Bhallātaka is uṣṇa-tīkṣṇa and would aggravate bleeding.",
+      "explanation_hi": "चरक चिकित्सा 4.88 में वासा घृत का वर्णन है, जो सम्पूर्ण वासा पौधे से बनता है और मधु के साथ शीघ्र रक्तस्राव रोकता है। वासा तिक्त-कषाय और शीत है, पित्त और रक्तस्राव में उत्तम; बाद के ग्रंथों की एक प्रसिद्ध उक्ति भी कहती है कि वासा के रहते रक्तपित्त रोगी निराश न हो। भल्लातक उष्ण-तीक्ष्ण है, रक्तस्राव बढ़ाएगा।",
+      "reference": "CS.chikitsa.4.88",
       "difficulty": "easy",
       "exam_tags": [
         "university",
@@ -439,9 +439,9 @@
         }
       ],
       "answer_index": 0,
-      "explanation_en": "CS Ni 2: ūrdhvaga raktapitta is sādhya, adhoga is yāpya, and ubhayaga (both routes) is asādhya. The reasoning involves the treatment route: adhoga needs vamana, which is a weaker remedy for pitta than virecana.",
-      "explanation_hi": "चरक निदान 2: ऊर्ध्वग रक्तपित्त साध्य, अधोग याप्य और उभयग (दोनों मार्ग) असाध्य है। कारण उपचार का मार्ग है: अधोग में वमन देना पड़ता है, जो पित्त के लिए विरेचन से कम प्रभावी है।",
-      "reference": "CS.nidana.2",
+      "explanation_en": "CS Ni 2.9: ūrdhvaga raktapitta is sādhya (it can be treated by virecana and many drugs are available), adhoga is yāpya (it needs vamana and few drugs suit it), and ubhayaga (both routes) is asādhya (neither vamana nor virecana can be used).",
+      "explanation_hi": "चरक निदान 2.9: ऊर्ध्वग रक्तपित्त साध्य है (विरेचन से उपचार संभव और औषधियाँ अनेक), अधोग याप्य है (वमन देना पड़ता है और उपयुक्त औषधियाँ कम), और उभयग असाध्य है (न वमन न विरेचन दिया जा सकता)।",
+      "reference": "CS.nidana.2.9",
       "difficulty": "medium",
       "exam_tags": [
         "university",
@@ -583,9 +583,9 @@
         }
       ],
       "answer_index": 0,
-      "explanation_en": "Raktaja gulma mimics pregnancy (amenorrhoea, abdominal mass). Caraka advises waiting until ten months have passed, so a real pregnancy is excluded before using strong measures (CS Ci 5).",
-      "explanation_hi": "रक्तज गुल्म गर्भ जैसा दिखता है (आर्तव बंद होना, उदर में गाँठ)। चरक दस मास बीतने तक प्रतीक्षा करने को कहते हैं, ताकि तीव्र उपचार से पहले वास्तविक गर्भ की संभावना समाप्त हो जाए (चरक चिकित्सा 5)।",
-      "reference": "CS.chikitsa.5",
+      "explanation_en": "Raktaja gulma mimics pregnancy (amenorrhoea, abdominal mass). Caraka says it should be treated after the tenth month has passed ('māse vyatīte daśame cikitsyaḥ', CS Ci 5.19), so that a real pregnancy is excluded before using strong measures.",
+      "explanation_hi": "रक्तज गुल्म गर्भ जैसा दिखता है (आर्तव बंद होना, उदर में गाँठ)। चरक कहते हैं कि दसवाँ मास बीतने पर इसकी चिकित्सा करें ('मासे व्यतीते दशमे चिकित्स्यः', चरक चिकित्सा 5.19), ताकि तीव्र उपचार से पहले वास्तविक गर्भ की संभावना समाप्त हो जाए।",
+      "reference": "CS.chikitsa.5.19",
       "difficulty": "hard",
       "exam_tags": [
         "university",
@@ -729,7 +729,7 @@
       "answer_index": 3,
       "explanation_en": "CS Ci 6 divides pramehīs into sthūla-balavān and kṛśa-durbala. The strong, obese patient is treated with saṃśodhana (purification); the lean, weak patient with bṛṃhaṇa. Bṛṃhaṇa would worsen the obese type.",
       "explanation_hi": "चरक चिकित्सा 6 में प्रमेही दो प्रकार के हैं: स्थूल-बलवान और कृश-दुर्बल। स्थूल बलवान रोगी में संशोधन और कृश दुर्बल में बृंहण किया जाता है। स्थूल रोगी में बृंहण रोग बढ़ाएगा।",
-      "reference": "CS.chikitsa.6",
+      "reference": "CS.chikitsa.6.15",
       "difficulty": "medium",
       "exam_tags": [
         "university",
@@ -765,9 +765,9 @@
         }
       ],
       "answer_index": 1,
-      "explanation_en": "CS Ni 4 lists the ten dūṣyas of prameha: medas, māṃsa, śarīra-kleda, śukra, śoṇita, vasā, majjā, lasīkā, rasa and ojas. Asthi is not among them.",
+      "explanation_en": "CS Ni 4.7 lists the ten dūṣyas of prameha: medas, māṃsa, śarīra-kleda, śukra, śoṇita, vasā, majjā, lasīkā, rasa and ojas. Asthi is not among them.",
       "explanation_hi": "चरक निदान 4 में प्रमेह के दस दूष्य हैं: मेद, मांस, शरीर-क्लेद, शुक्र, शोणित, वसा, मज्जा, लसीका, रस और ओज। अस्थि इनमें नहीं है।",
-      "reference": "CS.nidana.4",
+      "reference": "CS.nidana.4.7",
       "difficulty": "hard",
       "exam_tags": [
         "university",
@@ -805,7 +805,7 @@
       "answer_index": 0,
       "explanation_en": "Caraka describes 7 mahākuṣṭha and 11 kṣudrakuṣṭha, total 18 (CS Ci 7). Seven and eleven are the two sub-groups; twenty is the number of pramehas.",
       "explanation_hi": "चरक ने 7 महाकुष्ठ और 11 क्षुद्रकुष्ठ, कुल 18 बताए हैं (चरक चिकित्सा 7)। सात और ग्यारह दो उपवर्ग हैं; बीस प्रमेह की संख्या है।",
-      "reference": "CS.chikitsa.7",
+      "reference": "CS.chikitsa.7.13",
       "difficulty": "easy",
       "exam_tags": [
         "university",
@@ -934,8 +934,8 @@
       "topic_en": "Kuṣṭha (skin diseases)",
       "topic_hi": "कुष्ठ (त्वचा रोग)",
       "type": "mcq",
-      "question_en": "In kuṣṭha, Caraka advises repeated śodhana. At what interval should vamana be repeated?",
-      "question_hi": "कुष्ठ में चरक बार-बार शोधन बताते हैं। वमन किस अंतराल पर दोहराना चाहिए?",
+      "question_en": "In kuṣṭha, Suśruta and Vāgbhaṭa advise repeated śodhana. At what interval should vamana be repeated?",
+      "question_hi": "कुष्ठ में सुश्रुत और वाग्भट बार-बार शोधन बताते हैं। वमन किस अंतराल पर दोहराना चाहिए?",
       "options": [
         {
           "en": "Every month",
@@ -955,8 +955,8 @@
         }
       ],
       "answer_index": 1,
-      "explanation_en": "CS Ci 7 (also AH Ci 19.96): vamana every fortnight, virecana every month, nasya (śirovirecana) every three days and raktamokṣaṇa every six months. The distractors are the intervals for the other procedures.",
-      "explanation_hi": "चरक चिकित्सा 7 (तथा अष्टाङ्गहृदय चि. 19.96): वमन हर पक्ष, विरेचन हर मास, नस्य (शिरोविरेचन) हर तीन दिन और रक्तमोक्षण हर छह मास। अन्य विकल्प दूसरी क्रियाओं के अंतराल हैं।",
+      "explanation_en": "SS Ci 9.43 and AH Ci 19.96: vamana every fortnight, virecana every month, nasya (śirovirecana) every three days and raktamokṣaṇa every six months. The distractors are the intervals for the other procedures.",
+      "explanation_hi": "सुश्रुत चिकित्सा 9.43 और अष्टाङ्गहृदय चि. 19.96: वमन हर पक्ष, विरेचन हर मास, नस्य (शिरोविरेचन) हर तीन दिन और रक्तमोक्षण हर छह मास। अन्य विकल्प दूसरी क्रियाओं के अंतराल हैं।",
       "reference": "AH.chikitsa.19.96",
       "difficulty": "hard",
       "exam_tags": [
@@ -993,9 +993,9 @@
         }
       ],
       "answer_index": 3,
-      "explanation_en": "CS Ci 8 names four causes (āyatana) of rājayakṣmā: sāhasa, vega-sandhāraṇa, kṣaya (depletion) and viṣamāśana. Obesity is a santarpaṇa condition, the opposite of the depleting nature of yakṣmā.",
-      "explanation_hi": "चरक चिकित्सा 8 में राजयक्ष्मा के चार कारण हैं: साहस, वेग सन्धारण, क्षय और विषमाशन। स्थौल्य सन्तर्पण अवस्था है, जो क्षय करने वाले यक्ष्मा के विपरीत है।",
-      "reference": "CS.chikitsa.8",
+      "explanation_en": "CS Ni 6.3 (and Ci 8) names four causes (āyatana) of śoṣa/rājayakṣmā: sāhasa, vega-sandhāraṇa, kṣaya (depletion) and viṣamāśana. Obesity is a santarpaṇa condition, the opposite of the depleting nature of yakṣmā.",
+      "explanation_hi": "चरक निदान 6.3 (और चिकित्सा 8) में शोष/राजयक्ष्मा के चार कारण हैं: साहस, वेग सन्धारण, क्षय और विषमाशन। स्थौल्य सन्तर्पण अवस्था है, जो क्षय करने वाले यक्ष्मा के विपरीत है।",
+      "reference": "CS.nidana.6.3",
       "difficulty": "medium",
       "exam_tags": [
         "university",
@@ -1010,8 +1010,8 @@
       "topic_en": "Rājayakṣmā",
       "topic_hi": "राजयक्ष्मा",
       "type": "mcq",
-      "question_en": "In rājayakṣmā, Caraka says the physician should carefully protect which two things, because 'strength depends on one and life depends on the other'?",
-      "question_hi": "राजयक्ष्मा में चरक किन दो की विशेष रक्षा करने को कहते हैं, क्योंकि 'बल एक पर और जीवन दूसरे पर निर्भर है'?",
+      "question_en": "The well-known dictum on rājayakṣmā, 'śukrāyattaṃ balaṃ puṃsāṃ malāyattaṃ hi jīvitam', advises the physician to carefully protect which two things?",
+      "question_hi": "राजयक्ष्मा पर प्रसिद्ध उक्ति 'शुक्रायत्तं बलं पुंसां मलायत्तं हि जीवितम्' चिकित्सक को किन दो की विशेष रक्षा करने को कहती है?",
       "options": [
         {
           "en": "Śukra and mala (stool)",
@@ -1031,9 +1031,9 @@
         }
       ],
       "answer_index": 0,
-      "explanation_en": "CS Ci 8: 'śukrāyattaṃ balaṃ puṃsāṃ malāyattaṃ hi jīvitam' — strength depends on śukra and life on mala; so in the yakṣmā patient, śukra and mala must be protected. This is why strong purgation is avoided in such weak patients.",
-      "explanation_hi": "चरक चिकित्सा 8: 'शुक्रायत्तं बलं पुंसां मलायत्तं हि जीवितम्' - बल शुक्र पर और जीवन मल पर निर्भर है; इसलिए यक्ष्मा रोगी में शुक्र और मल की रक्षा करनी चाहिए। इसी कारण ऐसे दुर्बल रोगी में तीव्र विरेचन से बचा जाता है।",
-      "reference": "CS.chikitsa.8",
+      "explanation_en": "The dictum says strength depends on śukra and life depends on mala, so in a yakṣmā patient śukra and mala must be preserved. It is widely quoted in the rājayakṣmā context in later compendia (it is not found in the vulgate text of CS Ci 8, which however also stresses preserving strength and avoiding depletion). This is why strong purgation and sexual indulgence are avoided in such patients.",
+      "explanation_hi": "यह उक्ति कहती है कि बल शुक्र पर और जीवन मल पर निर्भर है, इसलिए यक्ष्मा रोगी में शुक्र और मल की रक्षा करनी चाहिए। यह बाद के संग्रह-ग्रंथों में राजयक्ष्मा के संदर्भ में बहुत उद्धृत है (चरक चिकित्सा 8 के प्रचलित पाठ में यह श्लोक नहीं मिलता, यद्यपि वहाँ भी बल-रक्षा और क्षय से बचने पर बल है)। इसी कारण ऐसे रोगी में तीव्र विरेचन और अति मैथुन वर्जित हैं।",
+      "reference": "Classical dictum on rājayakṣmā (later compendia); cf. CS.chikitsa.8",
       "difficulty": "medium",
       "exam_tags": [
         "university",
@@ -1071,7 +1071,7 @@
       "answer_index": 0,
       "explanation_en": "Caraka's trirūpa: pain in shoulders and flanks (aṃsa-pārśva abhitāpa), burning of hands and feet, and fever all over the body. Haemoptysis, hoarseness and diarrhoea appear in the larger ṣaḍrūpa / ekādaśarūpa lists.",
       "explanation_hi": "चरक का त्रिरूप: कंधों और पार्श्वों में पीड़ा (अंसपार्श्वाभिताप), हाथ-पैरों में दाह, और पूरे शरीर में ज्वर। रक्तष्ठीवन, स्वरभेद और अतिसार बड़े षड्रूप / एकादशरूप सूचियों में आते हैं।",
-      "reference": "CS.chikitsa.8",
+      "reference": "CS.chikitsa.8.52",
       "difficulty": "hard",
       "exam_tags": [
         "university",
@@ -1223,7 +1223,7 @@
       "answer_index": 1,
       "explanation_en": "Atattvābhiniveśa is described at the end of CS Ci 10 (Apasmāra cikitsā). It is a mental disorder where mind and intellect are vitiated and the patient cannot distinguish right from wrong. Students often guess unmāda because it is also a mental disease.",
       "explanation_hi": "अतत्त्वाभिनिवेश का वर्णन चरक चिकित्सा 10 (अपस्मार चिकित्सा) के अंत में है। इसमें मन और बुद्धि दूषित होकर रोगी हित-अहित का भेद नहीं कर पाता। विद्यार्थी प्रायः उन्माद चुनते हैं क्योंकि वह भी मानस रोग है।",
-      "reference": "CS.chikitsa.10",
+      "reference": "CS.chikitsa.10.55",
       "difficulty": "hard",
       "exam_tags": [
         "university",
@@ -1261,7 +1261,7 @@
       "answer_index": 0,
       "explanation_en": "CS Sū 20: nānātmaja disorders are 80 of vāta, 40 of pitta and 20 of kapha.",
       "explanation_hi": "चरक सूत्र 20: नानात्मज विकार वात के 80, पित्त के 40 और कफ के 20 हैं।",
-      "reference": "CS.sutra.20",
+      "reference": "CS.chikitsa.28.13",
       "difficulty": "easy",
       "exam_tags": [
         "university",
@@ -1297,9 +1297,9 @@
         }
       ],
       "answer_index": 0,
-      "explanation_en": "CS Ci 28: 'svedanaṃ snehasaṃyuktaṃ pakṣāghāte virecanam' — in pakṣāghāta, svedana with sneha followed by virecana is advised. Vamana and laṅghana are not the main lines here.",
+      "explanation_en": "CS Ci 28.100: 'svedanaṃ snehasaṃyuktaṃ pakṣāghāte virecanam' — in pakṣāghāta, svedana with sneha followed by virecana is advised. Vamana and laṅghana are not the main lines here.",
       "explanation_hi": "चरक चिकित्सा 28: 'स्वेदनं स्नेहसंयुक्तं पक्षाघाते विरेचनम्' - पक्षाघात में स्नेहयुक्त स्वेदन और फिर विरेचन बताया गया है। वमन और लंघन यहाँ मुख्य उपचार नहीं हैं।",
-      "reference": "CS.chikitsa.28",
+      "reference": "CS.chikitsa.28.100",
       "difficulty": "medium",
       "exam_tags": [
         "university",
@@ -1373,9 +1373,9 @@
         }
       ],
       "answer_index": 1,
-      "explanation_en": "CS Ci 27: ūrustambha is caused by āma-kapha-medas. Snehana and basti (and other śodhanas) are not advised; the line of treatment is rūkṣaṇa (drying) and kṣapaṇa (reducing kapha-medas), e.g. dry exercise, swimming against current, rūkṣa diet.",
+      "explanation_en": "CS Ci 27.20–21: ūrustambha is caused by āma-kapha-medas. Snehana, basti, virecana and vamana are all not advised; the line of treatment is rūkṣaṇa (drying) and kṣapaṇa (reducing kapha-medas), e.g. dry exercise, swimming against current, rūkṣa diet.",
       "explanation_hi": "चरक चिकित्सा 27: ऊरुस्तम्भ आम-कफ-मेद से होता है। इसमें स्नेहन और बस्ति (और अन्य शोधन) नहीं किए जाते; उपचार रूक्षण और क्षपण है, जैसे रूक्ष आहार, व्यायाम, धारा के विरुद्ध तैरना।",
-      "reference": "CS.chikitsa.27",
+      "reference": "CS.chikitsa.27.20",
       "difficulty": "hard",
       "exam_tags": [
         "university",
@@ -1527,7 +1527,7 @@
       "answer_index": 2,
       "explanation_en": "CS Ci 29: uttāna (superficial, in tvak and māṃsa) and gambhīra (deep). Śuṣka/ārdra are arśas types; ūrdhvaga/adhoga are raktapitta types.",
       "explanation_hi": "चरक चिकित्सा 29: उत्तान (सतही, त्वचा-मांस में) और गम्भीर (गहरा)। शुष्क/आर्द्र अर्श के प्रकार हैं; ऊर्ध्वग/अधोग रक्तपित्त के।",
-      "reference": "CS.chikitsa.29",
+      "reference": "CS.chikitsa.29.19",
       "difficulty": "easy",
       "exam_tags": [
         "university",
@@ -1563,9 +1563,9 @@
         }
       ],
       "answer_index": 0,
-      "explanation_en": "CS Ci 29: 'nāsti bastisamaṃ kiñcid vātaraktacikitsitam' — nothing equals basti in treating vātarakta. Raktamokṣaṇa is also important, but basti gets this special praise. Agnikarma is not a standard line here.",
-      "explanation_hi": "चरक चिकित्सा 29: 'नास्ति बस्तिसमं किञ्चिद् वातरक्तचिकित्सितम्' - वातरक्त में बस्ति के समान कुछ नहीं। रक्तमोक्षण भी महत्वपूर्ण है, पर यह विशेष प्रशंसा बस्ति की है।",
-      "reference": "CS.chikitsa.29",
+      "explanation_en": "CS Ci 29.88: 'na hi bastisamaṃ kiṃcid vātaraktacikitsitam' — nothing equals basti in treating vātarakta. Raktamokṣaṇa is also important, but basti gets this special praise. Agnikarma is not a standard line here.",
+      "explanation_hi": "चरक चिकित्सा 29: 'न हि बस्तिसमं किंचिद्वातरक्तचिकित्सितम्' - वातरक्त में बस्ति के समान कुछ नहीं। रक्तमोक्षण भी महत्वपूर्ण है, पर यह विशेष प्रशंसा बस्ति की है।",
+      "reference": "CS.chikitsa.29.88",
       "difficulty": "medium",
       "exam_tags": [
         "university",
@@ -1633,7 +1633,7 @@
       "answer_index": 2,
       "explanation_en": "CS Ci 16: in rūddhapatha kāmalā, kapha-vāta block the passage of pitta, so the stool is pale like sesame paste (tila-piṣṭa nibha) while eyes and skin are yellow. This matches obstructive jaundice with clay-coloured stool. In koṣṭhāśrita (bahupitta) kāmalā the stool is deep yellow.",
       "explanation_hi": "चरक चिकित्सा 16: रुद्धपथ कामला में कफ-वात पित्त का मार्ग रोकते हैं, इसलिए मल तिल-पिष्ट के समान फीका होता है जबकि आँखें और त्वचा पीली। यह अवरोधी पीलिया (मिट्टी जैसा मल) से मेल खाता है। कोष्ठाश्रित (बहुपित्त) कामला में मल गहरा पीला होता है।",
-      "reference": "CS.chikitsa.16",
+      "reference": "CS.chikitsa.16.124",
       "difficulty": "hard",
       "exam_tags": [
         "university",
@@ -1747,7 +1747,7 @@
       "answer_index": 3,
       "explanation_en": "CS Ci 17: kṣudra śvāsa is sādhya, tamaka is yāpya (it can become sādhya if recent and in a strong patient), and mahā, ūrdhva and chinna are asādhya. Tamaka śvāsa correlates with bronchial asthma.",
       "explanation_hi": "चरक चिकित्सा 17: क्षुद्र श्वास साध्य, तमक याप्य (नया हो और रोगी बलवान हो तो साध्य भी), और महा, ऊर्ध्व, छिन्न असाध्य हैं। तमक श्वास का सहसंबंध ब्रोंकियल अस्थमा से है।",
-      "reference": "CS.chikitsa.17",
+      "reference": "CS.chikitsa.17.62",
       "difficulty": "medium",
       "exam_tags": [
         "university",
@@ -1783,9 +1783,9 @@
         }
       ],
       "answer_index": 2,
-      "explanation_en": "CS Ci 17: 'kaphavātātmakāv etau pittasthānasamudbhavau' — they are kapha-vāta in nature but arise from the seat of pitta (āmāśaya region). This is why āmāśaya-based measures like vamana and virecana are used. The tempting answer 'uras' is where symptoms show, not the stated origin.",
+      "explanation_en": "CS Ci 17.8: 'kaphavātātmakāv etau pittasthānasamudbhavau' — they are kapha-vāta in nature but arise from the seat of pitta (āmāśaya region). This is why āmāśaya-based measures like vamana and virecana are used. The tempting answer 'uras' is where symptoms show, not the stated origin.",
       "explanation_hi": "चरक चिकित्सा 17: 'कफवातात्मकावेतौ पित्तस्थानसमुद्भवौ' - ये कफ-वात स्वभाव के हैं पर पित्त के स्थान (आमाशय क्षेत्र) से उत्पन्न होते हैं। इसीलिए वमन-विरेचन जैसे उपाय किए जाते हैं। 'उरस्' में लक्षण दिखते हैं, पर उत्पत्ति स्थान वह नहीं बताया गया।",
-      "reference": "CS.chikitsa.17",
+      "reference": "CS.chikitsa.17.8",
       "difficulty": "hard",
       "exam_tags": [
         "university",
@@ -1823,7 +1823,7 @@
       "answer_index": 2,
       "explanation_en": "CS Ci 15 praises takra as best for grahaṇī because it is dīpana, grāhī and light. Curd is heavy and abhiṣyandī; milk is heavy for weak agni.",
       "explanation_hi": "चरक चिकित्सा 15 ग्रहणी में तक्र को श्रेष्ठ बताते हैं क्योंकि यह दीपन, ग्राही और लघु है। दही भारी और अभिष्यन्दी है; मन्द अग्नि में दूध भारी पड़ता है।",
-      "reference": "CS.chikitsa.15",
+      "reference": "CS.chikitsa.15.117",
       "difficulty": "easy",
       "exam_tags": [
         "university",
@@ -1891,7 +1891,7 @@
       "answer_index": 0,
       "explanation_en": "True. CS Ci 14 praises takra in arśas: piles destroyed by takra do not grow again, just as plants burnt do not regrow from the ground.",
       "explanation_hi": "सत्य। चरक चिकित्सा 14 अर्श में तक्र की प्रशंसा करते हैं: तक्र से नष्ट अर्श फिर नहीं उगते, जैसे जली हुई वनस्पति भूमि से फिर नहीं उगती।",
-      "reference": "CS.chikitsa.14",
+      "reference": "CS.chikitsa.14.85",
       "difficulty": "medium",
       "exam_tags": [
         "university",
@@ -1944,8 +1944,8 @@
       "topic_en": "Udara and Śotha",
       "topic_hi": "उदर और शोथ",
       "type": "mcq",
-      "question_en": "Which factor does Caraka state is the root cause of all diseases, especially udara?",
-      "question_hi": "चरक के अनुसार सभी रोगों, विशेषकर उदर रोग, का मूल कारण क्या है?",
+      "question_en": "'Rogāḥ sarve 'pi mande 'gnau sutarām udarāṇi tu' — according to Vāgbhaṭa, which factor is the root of all diseases and especially of udara?",
+      "question_hi": "'रोगाः सर्वेऽपि मन्देऽग्नौ सुतरामुदराणि तु' - वाग्भट के अनुसार सभी रोगों, विशेषकर उदर रोग, का मूल कारण क्या है?",
       "options": [
         {
           "en": "Mandāgni (weak digestive fire)",
@@ -1965,9 +1965,9 @@
         }
       ],
       "answer_index": 0,
-      "explanation_en": "CS Ci 13: 'rogāḥ sarve 'pi mande 'gnau sutarām udarāṇi ca' — all diseases arise from weak agni, and udara especially so.",
-      "explanation_hi": "चरक चिकित्सा 13: 'रोगाः सर्वेऽपि मन्देऽग्नौ सुतरामुदराणि च' - सभी रोग मन्द अग्नि से होते हैं, और उदर रोग तो विशेष रूप से।",
-      "reference": "CS.chikitsa.13",
+      "explanation_en": "AH Ni 12.1: all diseases arise when agni is weak, and udara most of all. Caraka says the same in CS Ci 13.10 and 13.15 — udara arises in those with mandāgni from accumulation of doṣas due to indigestion.",
+      "explanation_hi": "अष्टाङ्गहृदय निदान 12.1: अग्नि मन्द होने पर सभी रोग होते हैं, और उदर रोग तो विशेष रूप से। चरक भी चिकित्सा 13.10 और 13.15 में यही कहते हैं - मन्दाग्नि वालों में अपाक से दोष संचय होकर उदर रोग होता है।",
+      "reference": "AH.nidana.12.1",
       "difficulty": "medium",
       "exam_tags": [
         "university",
@@ -1982,8 +1982,8 @@
       "topic_en": "Udara and Śotha",
       "topic_hi": "उदर और शोथ",
       "type": "mcq",
-      "question_en": "According to Caraka, a śotha (oedema) that begins in the feet is difficult to cure in which group, and one beginning in the face is difficult in which group?",
-      "question_hi": "चरक के अनुसार पैरों से आरम्भ होने वाला शोथ किसमें और मुख से आरम्भ होने वाला शोथ किसमें कष्टसाध्य है?",
+      "question_en": "According to Suśruta, a śopha (oedema) arising in the feet is a grave sign in whom, and one arising in the face is grave in whom?",
+      "question_hi": "सुश्रुत के अनुसार पैरों से उत्पन्न शोफ किसमें और मुख से उत्पन्न शोफ किसमें घातक लक्षण है?",
       "options": [
         {
           "en": "Feet – in women; face – in men",
@@ -2003,9 +2003,9 @@
         }
       ],
       "answer_index": 2,
-      "explanation_en": "CS Ci 12: oedema starting from the feet in men and from the face in women is kṛcchra (difficult); oedema starting in the genital region is difficult in both sexes.",
-      "explanation_hi": "चरक चिकित्सा 12: पुरुषों में पैरों से और स्त्रियों में मुख से आरम्भ होने वाला शोथ कृच्छ्र (कष्टसाध्य) है; गुह्य प्रदेश से आरम्भ होने वाला शोथ दोनों में कष्टसाध्य है।",
-      "reference": "CS.chikitsa.12",
+      "explanation_en": "SS Sū 31.19: an oedema starting in the feet (not as a complication of another disease) kills a man, one starting in the face kills a woman, and one starting in the genital region kills both. Caraka (CS Sū 18.16) similarly calls oedema spreading from the feet, and in women from the face, very difficult.",
+      "explanation_hi": "सुश्रुत सूत्र 31.19: पैरों से आरम्भ होने वाला (अन्य रोग के उपद्रव के रूप में नहीं) शोफ पुरुष को, मुख से आरम्भ होने वाला स्त्री को, और गुह्य प्रदेश से आरम्भ होने वाला दोनों को मारता है। चरक (सूत्र 18.16) भी पैरों से, और स्त्रियों में मुख से, फैलने वाले शोथ को अति कष्टसाध्य कहते हैं।",
+      "reference": "SS.sutra.31.19",
       "difficulty": "hard",
       "exam_tags": [
         "university",
@@ -2043,7 +2043,7 @@
       "answer_index": 2,
       "explanation_en": "CS Ci 1-1.16: kuṭīprāveśika (inside a specially built hut, with strict regimen) and vātātapika (while continuing normal life, exposed to wind and sun). Kāmya and naimittika are a later classification by purpose.",
       "explanation_hi": "चरक चि. 1-1.16: कुटीप्रावेशिक (विशेष कुटी में, कठोर नियमों के साथ) और वातातपिक (सामान्य जीवन जीते हुए, हवा-धूप में)। काम्य-नैमित्तिक प्रयोजन के अनुसार बाद का वर्गीकरण है।",
-      "reference": "CS.chikitsa.1.16",
+      "reference": "CS.chikitsa.1.116",
       "difficulty": "easy",
       "exam_tags": [
         "university",
@@ -2081,7 +2081,7 @@
       "answer_index": 3,
       "explanation_en": "CS Ci 1-3.30: maṇḍūkaparṇī svarasa, yaṣṭīmadhu cūrṇa with milk, guḍūcī svarasa (with root and flower) and śaṅkhapuṣpī kalka. Brāhmī is a renowned medhya drug, but it is not one of these four.",
       "explanation_hi": "चरक चि. 1-3.30: मण्डूकपर्णी स्वरस, दूध के साथ यष्टीमधु चूर्ण, गुडूची स्वरस (मूल-पुष्प सहित) और शङ्खपुष्पी कल्क। ब्राह्मी प्रसिद्ध मेध्य द्रव्य है, पर इन चार में नहीं है।",
-      "reference": "CS.chikitsa.1.3.30",
+      "reference": "CS.chikitsa.1.330",
       "difficulty": "medium",
       "exam_tags": [
         "university",
@@ -2111,7 +2111,7 @@
       "answer_index": 0,
       "explanation_en": "True. Caraka (Ci 1-1.9–12) explains that vājīkaraṇa produces progeny and immediate exhilaration, so that a man goes to women unimpeded like a horse (vājī), and it brings fame, strength and nourishment.",
       "explanation_hi": "सत्य। चरक (चि. 1-1.9-12) बताते हैं कि वाजीकरण संतान देता है और तुरन्त हर्ष उत्पन्न करता है, जिससे पुरुष घोड़े (वाजी) की तरह अबाधित होता है, और यह यश, बल व पुष्टि देता है।",
-      "reference": "CS.chikitsa.1.9",
+      "reference": "CS.chikitsa.1.109",
       "difficulty": "easy",
       "exam_tags": [
         "university",

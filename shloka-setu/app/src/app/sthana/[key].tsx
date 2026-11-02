@@ -34,7 +34,7 @@ export default function SthanaScreen() {
             <Row style={{ marginBottom: space.sm }}>
               <Chip label={t('onlyTranslated')} icon="checkmark-circle-outline" selected={onlyTr} onPress={() => setOnlyTr(!onlyTr)} />
             </Row>
-          ) : null
+          ) : undefined
         }
         renderItem={({ item: c }) => {
           const studied = Object.keys(data.studied).filter((id) => id.startsWith(c.id + '.')).length;

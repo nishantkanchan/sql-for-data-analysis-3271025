@@ -88,7 +88,8 @@ export class Content {
     const code = textCode(v.id);
     const title = TEXT_TITLES[code] ?? this.textTitles.get(code) ?? code;
     const sthana = v.sthana_iast || v.sthana;
-    return `${title}, ${sthana} ${v.chapter}.${v.verse}`;
+    const num = v.pada != null && v.verse_in_pada != null ? `${v.chapter}.${v.pada}.${v.verse_in_pada}` : `${v.chapter}.${v.verse}`;
+    return `${title}, ${sthana} ${num}`;
   }
 
   neighbours(id: string): { prev_id: string | null; next_id: string | null } {
@@ -117,6 +118,10 @@ export class Content {
       iast: v.iast,
       devanagari: v.devanagari,
       variants: v.variants.map((x) => ({ pada: x.pada, reading: x.reading })),
+      ref: v.ref ?? null,
+      source: v.source ?? null,
+      pada: v.pada ?? null,
+      verse_in_pada: v.verse_in_pada ?? null,
       source_title: this.sourceTitle(v),
       translation: this.translations.get(id) ?? null,
       chapter_info: ch

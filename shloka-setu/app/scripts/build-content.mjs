@@ -114,10 +114,11 @@ const SUBJECT_FALLBACK = {
 /** "athāto dīrghaṃjīvitīyam adhyāyaṃ vyākhyāsyāmaḥ" -> "Dīrghaṃjīvitīya" (used only when no title is known) */
 function titleFromOpening(iast) {
   if (!iast) return undefined;
-  const m = /athāt[oa]\s*(.+?)\s*vyākhyāsyāmaḥ/.exec(iast.replace(/\n/g, ' '));
+  const m = /athāt(?:aḥ|as|aś|o|a)\s*(.+?)\s*vyākhyāsyāmaḥ/.exec(iast.replace(/\n/g, ' '));
   if (!m || m[1].length > 48) return undefined;
   let w = m[1].replace(/^'/, 'a').replace(/[\s\-']/g, '');
   w = w.replace(/m?(adhyāyaṃ|adhyāyam|indriyaṃ|indriyam)$/, '').replace(/[ṃm]$/, '');
+  w = w.replace(/ṃ(?=(vimāna|śārīra|cikitsita|kalpa|siddhi|nidāna|rasāyanapāda|vājīkaraṇapāda|garbhāvakrānti))/g, 'ṃ ');
   if (w.length < 3) return undefined;
   return w.charAt(0).toUpperCase() + w.slice(1);
 }

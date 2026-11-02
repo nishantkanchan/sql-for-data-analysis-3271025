@@ -31,7 +31,7 @@
       "answer_index": 1,
       "explanation_en": "CS Sū 13: the four mahāsnehas are sarpi, taila, vasā and majjā; ghee is the best because it takes on the properties of the drugs processed with it (saṃskārānuvartana) without losing its own. Taila is best for vāta and for strengthening, but ghee is ranked first overall.",
       "explanation_hi": "चरक सूत्र 13: चार महास्नेह हैं - सर्पि, तैल, वसा और मज्जा; घृत श्रेष्ठ है क्योंकि यह अपने गुण छोड़े बिना संस्कारित द्रव्यों के गुण ग्रहण कर लेता है। तैल वात में उत्तम है, पर समग्र रूप से घृत प्रथम है।",
-      "reference": "CS.sutra.13",
+      "reference": "CS.sutra.13.13",
       "difficulty": "easy",
       "exam_tags": [
         "university",
@@ -221,7 +221,7 @@
       "answer_index": 2,
       "explanation_en": "CS Sū 13: the uttama mātrā digests in an ahorātra (24 h), madhyama in a day (about 12 h) and hrasva in half a day (about 6 h). A smaller trial dose (hrasīyasī) is given first to assess agni.",
       "explanation_hi": "चरक सूत्र 13: उत्तम मात्रा एक अहोरात्र (24 घंटे) में, मध्यम एक दिन (लगभग 12 घंटे) में और ह्रस्व आधे दिन (लगभग 6 घंटे) में पचती है। अग्नि जाँचने के लिए पहले छोटी परीक्षण मात्रा (ह्रसीयसी) दी जाती है।",
-      "reference": "CS.sutra.13",
+      "reference": "CS.sutra.13.29",
       "difficulty": "hard",
       "exam_tags": [
         "university",
@@ -259,7 +259,7 @@
       "answer_index": 2,
       "explanation_en": "CS Sū 14 describes 13 sāgni svedas (saṅkara, prastara, nāḍī, pariṣeka, avagāha, jentāka, aśmaghana, karṣū, kuṭī, bhū, kumbhī, kūpa, holāka) and 10 niragni svedas. Four is Suśruta's classification.",
       "explanation_hi": "चरक सूत्र 14 में 13 साग्नि स्वेद (संकर, प्रस्तर, नाडी, परिषेक, अवगाह, जेन्ताक, अश्मघन, कर्षू, कुटी, भू, कुम्भी, कूप, होलाक) और 10 निरग्नि स्वेद हैं। चार सुश्रुत का वर्गीकरण है।",
-      "reference": "CS.sutra.14",
+      "reference": "CS.sutra.14.70",
       "difficulty": "easy",
       "exam_tags": [
         "university",
@@ -335,7 +335,7 @@
       "answer_index": 1,
       "explanation_en": "SS Ci 32: tāpa, ūṣma, upanāha and drava sveda. Jentāka (a sweat-house) is one of Caraka's 13 sāgni svedas.",
       "explanation_hi": "सुश्रुत चिकित्सा 32: ताप, ऊष्म, उपनाह और द्रव स्वेद। जेन्ताक (स्वेद-गृह) चरक के 13 साग्नि स्वेदों में से एक है।",
-      "reference": "SS.chikitsa.32",
+      "reference": "SS.chikitsa.32.3",
       "difficulty": "medium",
       "exam_tags": [
         "university",
@@ -439,9 +439,9 @@
         }
       ],
       "answer_index": 1,
-      "explanation_en": "CS Ka 1: madanaphala is the best emetic because it is harmless (anapāyitva). Trivṛt, āragvadha and snuhī are virecana drugs.",
+      "explanation_en": "CS Ka 1.13: madanaphala is the best emetic because it is harmless (anapāyitva). Trivṛt, āragvadha and snuhī are virecana drugs.",
       "explanation_hi": "चरक कल्प 1: मदनफल सर्वश्रेष्ठ वमन द्रव्य है क्योंकि यह निरापद (अनपायी) है। त्रिवृत्, आरग्वध और स्नुही विरेचन द्रव्य हैं।",
-      "reference": "CS.kalpa.1",
+      "reference": "CS.kalpa.1.13",
       "difficulty": "easy",
       "exam_tags": [
         "university",
@@ -593,7 +593,7 @@
       "answer_index": 2,
       "explanation_en": "CS Sū 25 (agrya): vamana is best for kapha, virecana for pitta and basti for vāta. Raktamokṣaṇa is used for rakta-pitta disorders.",
       "explanation_hi": "चरक सूत्र 25 (अग्र्य): कफ के लिए वमन, पित्त के लिए विरेचन और वात के लिए बस्ति श्रेष्ठ है। रक्त विकार में रक्तमोक्षण किया जाता है।",
-      "reference": "CS.sutra.25",
+      "reference": "CS.sutra.25.40",
       "difficulty": "easy",
       "exam_tags": [
         "university",
@@ -631,7 +631,7 @@
       "answer_index": 0,
       "explanation_en": "CS Sū 25: trivṛt is best for sukha virecana, caturaṅgula (āragvadha) for mṛdu virecana and snuhī latex for tīkṣṇa virecana. Eraṇḍa taila is praised for vāta disorders and as a purgative but is not the agrya for sukha virecana.",
       "explanation_hi": "चरक सूत्र 25: सुख विरेचन में त्रिवृत्, मृदु विरेचन में चतुरङ्गुल (आरग्वध) और तीक्ष्ण विरेचन में स्नुही क्षीर श्रेष्ठ है। एरण्ड तैल वात विकारों में प्रशंसित है, पर सुख विरेचन का अग्र्य नहीं।",
-      "reference": "CS.sutra.25",
+      "reference": "CS.sutra.25.40",
       "difficulty": "medium",
       "exam_tags": [
         "university",
@@ -851,7 +851,7 @@
       "answer_index": 3,
       "explanation_en": "CS Si 6 lists ten vyāpads of vamana-virecana: ādhmāna, parikartikā, parisrāva, hṛdayopasaraṇa (hṛdgraha), aṅgagraha, jīvādāna, vibhraṃśa, stambha, klama and upadrava. Twelve is the number of basti vyāpads in Si 7.",
       "explanation_hi": "चरक सिद्धि 6 में वमन-विरेचन की दस व्यापद् हैं: आध्मान, परिकर्तिका, परिस्राव, हृदयोपसरण (हृद्ग्रह), अङ्गग्रह, जीवादान, विभ्रंश, स्तम्भ, क्लम और उपद्रव। बारह सिद्धि 7 में बस्ति व्यापद् की संख्या है।",
-      "reference": "CS.siddhi.6",
+      "reference": "CS.siddhi.6.29",
       "difficulty": "hard",
       "exam_tags": [
         "university",
@@ -889,7 +889,7 @@
       "answer_index": 3,
       "explanation_en": "Jīvādāna is a severe atiyoga complication in which jīva-rakta (blood, the 'life') is expelled. Caraka gives a test: the blood is examined (e.g. soaking a cloth in it, or offering it mixed with food to a dog) to distinguish it from raktapitta. Plain water or kapha loss would not have this name.",
       "explanation_hi": "जीवादान अतियोग की गंभीर जटिलता है जिसमें जीव-रक्त निकलता है। चरक इसे रक्तपित्त से अलग पहचानने के लिए परीक्षा बताते हैं (जैसे उसमें वस्त्र भिगोकर देखना, या भोजन में मिलाकर कुत्ते को देना)। केवल जल या कफ निकलना इस नाम से नहीं जाना जाता।",
-      "reference": "CS.siddhi.6",
+      "reference": "CS.siddhi.6.29",
       "difficulty": "hard",
       "exam_tags": [
         "university",
@@ -957,7 +957,7 @@
       "answer_index": 3,
       "explanation_en": "CS Ka 8 (Caturaṅgula kalpa) describes āragvadha as mṛdu (mild) and safe even for children, the old, the weak and those with injuries. Snuhī and dantī are tīkṣṇa purgatives; jayapāla (croton) is very drastic.",
       "explanation_hi": "चरक कल्प 8 (चतुरङ्गुल कल्प) में आरग्वध को मृदु और बच्चों, वृद्धों, दुर्बलों व क्षतयुक्त लोगों के लिए भी सुरक्षित बताया गया है। स्नुही और दन्ती तीक्ष्ण विरेचक हैं; जयपाल अत्यंत तीव्र है।",
-      "reference": "CS.kalpa.8",
+      "reference": "CS.kalpa.8.5",
       "difficulty": "easy",
       "exam_tags": [
         "university",
@@ -1145,9 +1145,9 @@
         }
       ],
       "answer_index": 0,
-      "explanation_en": "CS Si 4: mātrā basti is given in the dose of hrasva snehapāna mātrā. Being small and harmless, it can be given at any time, to anyone (children, elderly, the weak) without strict restrictions.",
+      "explanation_en": "CS Si 4.53: mātrā basti is given in the dose of hrasva snehapāna mātrā. Being small and harmless, it can be given at any time, to anyone (children, elderly, the weak) without strict restrictions.",
       "explanation_hi": "चरक सिद्धि 4: मात्रा बस्ति स्नेहपान की ह्रस्व मात्रा के बराबर दी जाती है। छोटी और निरापद होने से यह किसी भी समय, किसी को भी (बच्चे, वृद्ध, दुर्बल) बिना कठोर परहेज के दी जा सकती है।",
-      "reference": "CS.siddhi.4",
+      "reference": "CS.siddhi.4.53",
       "difficulty": "medium",
       "exam_tags": [
         "university",
@@ -1291,7 +1291,7 @@
       "answer_index": 0,
       "explanation_en": "CS Si 7 describes 12 basti vyāpads, including ayoga, atiyoga, klama, ādhmāna, hikkā, hṛtprāpti, ūrdhvatā, pravāhikā, śiro-arti, aṅgārti, parikartikā and parisrāva. Ten is the count of vamana-virecana vyāpads (Si 6).",
       "explanation_hi": "चरक सिद्धि 7 में 12 बस्ति व्यापद् हैं, जैसे अयोग, अतियोग, क्लम, आध्मान, हिक्का, हृत्प्राप्ति, ऊर्ध्वता, प्रवाहिका, शिरोऽर्ति, अङ्गार्ति, परिकर्तिका और परिस्राव। दस वमन-विरेचन व्यापद् की संख्या है (सिद्धि 6)।",
-      "reference": "CS.siddhi.7",
+      "reference": "CS.siddhi.7.6",
       "difficulty": "hard",
       "exam_tags": [
         "university",
@@ -1587,7 +1587,7 @@
       "answer_index": 0,
       "explanation_en": "SS Sū 13: 12 jalaukās — 6 saviṣa (kṛṣṇā, karburā, alagardā, indrāyudhā, sāmudrikā, gocandanā) and 6 nirviṣa (kapilā, piṅgalā, śaṅkumukhī, mūṣikā, puṇḍarīkamukhī, sāvarikā).",
       "explanation_hi": "सुश्रुत सूत्र 13: 12 जलौका - 6 सविष (कृष्णा, कर्बुरा, अलगर्दा, इन्द्रायुधा, सामुद्रिका, गोचन्दना) और 6 निर्विष (कपिला, पिङ्गला, शङ्कुमुखी, मूषिका, पुण्डरीकमुखी, सावरिका)।",
-      "reference": "SS.sutra.13",
+      "reference": "SS.sutra.13.10",
       "difficulty": "medium",
       "exam_tags": [
         "university",
@@ -1625,7 +1625,7 @@
       "answer_index": 2,
       "explanation_en": "Kapilā is one of the six nirviṣa leeches. Kṛṣṇā, karburā and indrāyudhā are saviṣa and must not be used (SS Sū 13).",
       "explanation_hi": "कपिला छह निर्विष जलौकाओं में से है। कृष्णा, कर्बुरा और इन्द्रायुधा सविष हैं और इनका प्रयोग नहीं करना चाहिए (सुश्रुत सूत्र 13)।",
-      "reference": "SS.sutra.13",
+      "reference": "SS.sutra.13.10",
       "difficulty": "medium",
       "exam_tags": [
         "university",
@@ -1739,7 +1739,7 @@
       "answer_index": 3,
       "explanation_en": "SS Sū 13: when the leech does not let go, saindhava powder is sprinkled on its mouth. Pulling it off forcibly can leave its teeth in the wound. Honey, sugar or ghee would not make it detach.",
       "explanation_hi": "सुश्रुत सूत्र 13: जलौका न छूटे तो उसके मुख पर सैन्धव चूर्ण छिड़का जाता है। ज़बरदस्ती खींचने से उसके दाँत व्रण में रह सकते हैं। मधु, शर्करा या घृत से वह नहीं छूटती।",
-      "reference": "SS.sutra.13",
+      "reference": "SS.sutra.13.21",
       "difficulty": "easy",
       "exam_tags": [
         "university",
@@ -2071,7 +2071,7 @@
       "answer_index": 0,
       "explanation_en": "CS Sū 5: dhūmanetra is 36 aṅgula for prāyogika, 32 for snaihika and 24 for vairecanika. The shorter pipe delivers stronger smoke for cleansing.",
       "explanation_hi": "चरक सूत्र 5: धूमनेत्र प्रायोगिक के लिए 36 अङ्गुल, स्नैहिक के लिए 32 और वैरेचनिक के लिए 24 अङ्गुल। छोटा नेत्र शोधन के लिए तीव्र धूम देता है।",
-      "reference": "CS.sutra.5",
+      "reference": "CS.sutra.5.49",
       "difficulty": "hard",
       "exam_tags": [
         "university",

@@ -34,7 +34,7 @@ export function retrieve(deps: Deps, text: string): RetrievalResult {
 
 function toMatch(deps: Deps, h: SearchHit): MatchInfo {
   const v = deps.store.content.byId.get(h.id);
-  return { id: h.id, score: h.score, source_title: v ? deps.store.content.sourceTitle(v) : h.id };
+  return { id: h.id, score: h.score, source_title: v ? deps.store.content.sourceTitle(v) : h.id, ref: v?.ref ?? null };
 }
 
 /** Build a ScanResult from curated (translation-file) content. No LLM involved. */
@@ -46,7 +46,7 @@ export function curatedResult(deps: Deps, view: VerseView, hit: SearchHit, candi
     ocr_text: inputText,
     iast: view.iast,
     devanagari: view.devanagari,
-    match: { id: view.id, score: hit.score, source_title: view.source_title },
+    match: { id: view.id, score: hit.score, source_title: view.source_title, ref: view.ref },
     word_meanings: t.word_meanings,
     english: t.english,
     hindi: t.hindi,
@@ -71,7 +71,7 @@ function corpusOnlyResult(deps: Deps, view: VerseView, hit: SearchHit, candidate
     ocr_text: inputText,
     iast: view.iast,
     devanagari: view.devanagari,
-    match: { id: view.id, score: hit.score, source_title: view.source_title },
+    match: { id: view.id, score: hit.score, source_title: view.source_title, ref: view.ref },
     word_meanings: [],
     english: "",
     hindi: "",

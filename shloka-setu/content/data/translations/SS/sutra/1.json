@@ -1,0 +1,4660 @@
+{
+ "chapter": {
+  "id": "SS.sutra.1",
+  "text": "sushruta_samhita",
+  "sthana": "sutra",
+  "chapter": 1,
+  "title_iast": "Vedotpatti Adhyāya",
+  "title_devanagari": "वेदोत्पत्तिरध्यायः",
+  "title_en": "The chapter on the origin of Āyurveda (the Veda of life)",
+  "title_hi": "वेदोत्पत्ति अध्याय (आयुर्वेद की उत्पत्ति)",
+  "summary_en": "The opening chapter of the Suśrutasaṃhitā tells how Āyurveda came to the world and why surgery (śalya) is its first and foremost branch. Suśruta and other disciples approach Divodāsa Dhanvantari, king of Kāśī, out of compassion for the sick, and he teaches them with surgery as the basis. The chapter calls Āyurveda an upāṅga of the Atharvaveda, defines its eight branches (with the classic definition of śalya tantra), states its twofold purpose, gives the derivation of the word Āyurveda and the lineage Brahmā to Prajāpati to the Aśvins to Indra to Dhanvantari. It then defines puruṣa as the union of the five mahābhūtas and the soul, defines disease as contact with suffering, classifies disease into four types (āgantu, śārīra, mānasa, svābhāvika), names four groups of medicinal substances, and sets out the catuṣṭaya (puruṣa, vyādhi, auṣadha, kriyākāla). It closes with the plan of the text: 120 chapters in five sthānas plus the Uttaratantra. The chapter is central to the history of Āyurveda and to questions on the aṣṭāṅga and śalya tantra.",
+  "summary_hi": "सुश्रुतसंहिता का पहला अध्याय बताता है कि आयुर्वेद संसार में कैसे आया और शल्य उसका पहला व सबसे श्रेष्ठ अंग क्यों है। सुश्रुत और अन्य शिष्य रोगियों के प्रति करुणा से काशी के राजा दिवोदास धन्वन्तरि के पास जाते हैं, और वे शल्य को आधार बनाकर उन्हें पढ़ाते हैं। अध्याय में आयुर्वेद को अथर्ववेद का उपांग कहा गया है, उसके आठ अंगों की परिभाषा (शल्य तन्त्र की प्रसिद्ध परिभाषा सहित), उसका दोहरा प्रयोजन, \"आयुर्वेद\" शब्द की निरुक्ति, और परम्परा ब्रह्मा → प्रजापति → अश्विनीकुमार → इन्द्र → धन्वन्तरि बताई गई है। फिर पुरुष को पाँच महाभूत और आत्मा का संयोग, रोग को दुःख का संयोग बताया गया है; रोगों के चार प्रकार (आगन्तुज, शारीरिक, मानसिक, स्वाभाविक), द्रव्यों के चार वर्ग और चतुष्टय (पुरुष, व्याधि, औषध, क्रियाकाल) बताए गए हैं। अंत में ग्रन्थ की योजना है: पाँच स्थानों में 120 अध्याय और उत्तरतन्त्र। आयुर्वेद के इतिहास, अष्टाङ्ग और शल्य तन्त्र के प्रश्नों के लिए यह अध्याय बहुत महत्वपूर्ण है।",
+  "key_concepts": [
+   "āyurvedāvataraṇa",
+   "Divodāsa Dhanvantari",
+   "upāṅga of Atharvaveda",
+   "aṣṭāṅga āyurveda",
+   "śalya tantra definition",
+   "āyurveda prayojana",
+   "āyurveda nirukti",
+   "pramāṇa catuṣṭaya",
+   "karma puruṣa",
+   "vyādhi lakṣaṇa",
+   "caturvidha vyādhi",
+   "caturvidha dravya",
+   "catuṣṭaya",
+   "sthāna division"
+  ],
+  "exam_focus_en": [
+   "Lineage of Āyurveda per Suśruta (Brahmā, Prajāpati, Aśvins, Indra, Dhanvantari) and the disciples of Dhanvantari (verses 3, 20).",
+   "Āyurveda as an upāṅga of the Atharvaveda; original extent of 1,00,000 ślokas and 1,000 chapters (verse 6).",
+   "Eight branches in Suśruta's order and the definition of śalya tantra; reasons for the superiority of śalya (verses 7, 8, 17, 18).",
+   "Purpose (prayojana) and derivation (nirukti) of Āyurveda (verses 14, 15).",
+   "Definition of puruṣa and of vyādhi; fourfold classification of disease (verses 22-25).",
+   "The catuṣṭaya (puruṣa, vyādhi, auṣadha, kriyākāla) and the structure of the Saṃhitā: 120 chapters in five sthānas plus Uttaratantra (verses 38-40)."
+  ],
+  "exam_focus_hi": [
+   "सुश्रुत के अनुसार आयुर्वेद की परम्परा (ब्रह्मा, प्रजापति, अश्विनीकुमार, इन्द्र, धन्वन्तरि) और धन्वन्तरि के शिष्य (श्लोक 3, 20)।",
+   "आयुर्वेद अथर्ववेद का उपांग; मूल रूप में 1,00,000 श्लोक और 1,000 अध्याय (श्लोक 6)।",
+   "सुश्रुत के क्रम में आठ अंग और शल्य तन्त्र की परिभाषा; शल्य की श्रेष्ठता के कारण (श्लोक 7, 8, 17, 18)।",
+   "आयुर्वेद का प्रयोजन और निरुक्ति (श्लोक 14, 15)।",
+   "पुरुष और व्याधि की परिभाषा; रोगों के चार प्रकार (श्लोक 22-25)।",
+   "चतुष्टय (पुरुष, व्याधि, औषध, क्रियाकाल) और संहिता की रचना: पाँच स्थानों में 120 अध्याय और उत्तरतन्त्र (श्लोक 38-40)।"
+  ],
+  "syllabus_refs": [
+   "AyUG-SN&AI"
+  ],
+  "review_status": "ai_draft"
+ },
+ "verses": [
+  {
+   "id": "SS.sutra.1.1",
+   "word_meanings": [
+    {
+     "sa": "अथ",
+     "iast": "atha",
+     "en": "now, hereafter (auspicious opening word)",
+     "hi": "अब (मंगलसूचक शब्द)"
+    },
+    {
+     "sa": "अतः",
+     "iast": "ataḥ",
+     "en": "therefore, after this",
+     "hi": "इसलिए, इसके बाद"
+    },
+    {
+     "sa": "वेदोत्पत्तिम्",
+     "iast": "vedotpattim",
+     "en": "the origin of the Veda (of life, Āyurveda)",
+     "hi": "वेद (आयुर्वेद) की उत्पत्ति"
+    },
+    {
+     "sa": "अध्यायम्",
+     "iast": "adhyāyam",
+     "en": "chapter",
+     "hi": "अध्याय"
+    },
+    {
+     "sa": "व्याख्यास्यामः",
+     "iast": "vyākhyāsyāmaḥ",
+     "en": "we shall explain",
+     "hi": "हम व्याख्या करेंगे"
+    }
+   ],
+   "english": "Now we shall explain the chapter on the origin of the Veda (Vedotpatti, the origin of Āyurveda).",
+   "hindi": "अब हम वेदोत्पत्ति (आयुर्वेद की उत्पत्ति) नामक अध्याय की व्याख्या करेंगे।",
+   "explanation_en": "Every chapter of the Suśrutasaṃhitā opens with this standard formula, which announces the chapter name. Here \"Veda\" means Āyurveda, the knowledge of life, and the chapter tells how it came into the world. \"Atha\" is traditionally regarded as an auspicious word (maṅgala) at the start of a work. Tip: chapter names in Suśruta are often taken from the first topic, so \"Vedotpatti\" = origin of Āyurveda.",
+   "explanation_hi": "सुश्रुतसंहिता का हर अध्याय इसी वाक्य से शुरू होता है, जिसमें अध्याय का नाम बताया जाता है। यहाँ \"वेद\" से अर्थ आयुर्वेद है, और यह अध्याय बताता है कि आयुर्वेद संसार में कैसे आया। \"अथ\" शब्द को ग्रन्थ के आरम्भ में मंगलकारी माना जाता है। याद रखें: वेदोत्पत्ति = आयुर्वेद की उत्पत्ति।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vedotpatti",
+    "adhyāya"
+   ],
+   "tags": [
+    "chapter-opening",
+    "history"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sutra.1.2",
+   "word_meanings": [
+    {
+     "sa": "यथा",
+     "iast": "yathā",
+     "en": "as",
+     "hi": "जैसा"
+    },
+    {
+     "sa": "उवाच",
+     "iast": "uvāca",
+     "en": "said, taught",
+     "hi": "कहा"
+    },
+    {
+     "sa": "भगवान्",
+     "iast": "bhagavān",
+     "en": "the revered, lord",
+     "hi": "भगवान्, पूज्य"
+    },
+    {
+     "sa": "धन्वन्तरिः",
+     "iast": "dhanvantariḥ",
+     "en": "Dhanvantari",
+     "hi": "धन्वन्तरि"
+    }
+   ],
+   "english": "As the revered Dhanvantari taught.",
+   "hindi": "जैसा भगवान् धन्वन्तरि ने उपदेश दिया था।",
+   "explanation_en": "This line names the original teacher of the Suśrutasaṃhitā: Dhanvantari, who is identified in the next verse with Divodāsa, king of Kāśī. Suśruta records what Dhanvantari taught, so the text is in the form of a teacher-disciple dialogue. Remember: Caraka's teacher is Ātreya (Punarvasu), Suśruta's teacher is Dhanvantari (Divodāsa).",
+   "explanation_hi": "यह पंक्ति सुश्रुतसंहिता के मूल उपदेशक का नाम बताती है: धन्वन्तरि, जिन्हें अगले वाक्य में काशी के राजा दिवोदास कहा गया है। सुश्रुत ने धन्वन्तरि का उपदेश लिखा, इसलिए ग्रन्थ गुरु-शिष्य संवाद के रूप में है। याद रखें: चरक के गुरु आत्रेय (पुनर्वसु), सुश्रुत के गुरु धन्वन्तरि (दिवोदास)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "Dhanvantari"
+   ],
+   "tags": [
+    "history",
+    "lineage"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sutra.1.3",
+   "word_meanings": [
+    {
+     "sa": "अथ खलु",
+     "iast": "atha khalu",
+     "en": "then indeed",
+     "hi": "तब"
+    },
+    {
+     "sa": "भगवन्तम्",
+     "iast": "bhagavantam",
+     "en": "to the revered one",
+     "hi": "भगवान् से"
+    },
+    {
+     "sa": "अमरवरम्",
+     "iast": "amaravaram",
+     "en": "the best among immortals (gods)",
+     "hi": "देवताओं में श्रेष्ठ"
+    },
+    {
+     "sa": "ऋषिगणपरिवृतम्",
+     "iast": "ṛṣigaṇaparivṛtam",
+     "en": "surrounded by groups of sages",
+     "hi": "ऋषियों के समूह से घिरे हुए"
+    },
+    {
+     "sa": "आश्रमस्थम्",
+     "iast": "āśramastham",
+     "en": "staying in his hermitage",
+     "hi": "आश्रम में स्थित"
+    },
+    {
+     "sa": "काशिराजम्",
+     "iast": "kāśirājam",
+     "en": "the king of Kāśī",
+     "hi": "काशी के राजा"
+    },
+    {
+     "sa": "दिवोदासम्",
+     "iast": "divodāsam",
+     "en": "Divodāsa",
+     "hi": "दिवोदास"
+    },
+    {
+     "sa": "धन्वन्तरिम्",
+     "iast": "dhanvantarim",
+     "en": "Dhanvantari",
+     "hi": "धन्वन्तरि"
+    },
+    {
+     "sa": "औपधेनव",
+     "iast": "aupadhenava",
+     "en": "Aupadhenava",
+     "hi": "औपधेनव"
+    },
+    {
+     "sa": "वैतरण",
+     "iast": "vaitaraṇa",
+     "en": "Vaitaraṇa",
+     "hi": "वैतरण"
+    },
+    {
+     "sa": "औरभ्र",
+     "iast": "aurabhra",
+     "en": "Aurabhra",
+     "hi": "औरभ्र"
+    },
+    {
+     "sa": "पौष्कलावत",
+     "iast": "pauṣkalāvata",
+     "en": "Pauṣkalāvata",
+     "hi": "पौष्कलावत"
+    },
+    {
+     "sa": "करवीर्य",
+     "iast": "karavīrya",
+     "en": "Karavīrya",
+     "hi": "करवीर्य"
+    },
+    {
+     "sa": "गोपुररक्षित",
+     "iast": "gopurarakṣita",
+     "en": "Gopurarakṣita",
+     "hi": "गोपुररक्षित"
+    },
+    {
+     "sa": "सुश्रुत",
+     "iast": "suśruta",
+     "en": "Suśruta",
+     "hi": "सुश्रुत"
+    },
+    {
+     "sa": "प्रभृतयः",
+     "iast": "prabhṛtayaḥ",
+     "en": "and others",
+     "hi": "आदि"
+    },
+    {
+     "sa": "ऊचुः",
+     "iast": "ūcuḥ",
+     "en": "said",
+     "hi": "बोले"
+    }
+   ],
+   "english": "Then Aupadhenava, Vaitaraṇa, Aurabhra, Pauṣkalāvata, Karavīrya, Gopurarakṣita, Suśruta and others spoke to the revered Dhanvantari, Divodāsa, king of Kāśī, best among the immortals, who was staying in his hermitage surrounded by groups of sages.",
+   "hindi": "तब औपधेनव, वैतरण, औरभ्र, पौष्कलावत, करवीर्य, गोपुररक्षित, सुश्रुत आदि शिष्यों ने, आश्रम में ऋषियों से घिरे बैठे, देवताओं में श्रेष्ठ, काशी के राजा दिवोदास धन्वन्तरि से कहा।",
+   "explanation_en": "This prose passage sets the scene: Dhanvantari, born as Divodāsa, king of Kāśī (Vārāṇasī), sits in his hermitage and his disciples approach him. Seven disciples are named with Suśruta last, and \"prabhṛtayaḥ\" (and others) shows there were more. These names are a common short-answer question on the history of Āyurveda. Memory tip: \"Au-Vai-Au-Pau-Ka-Go-Su\" for the seven named disciples.",
+   "explanation_hi": "यह गद्य भाग दृश्य बताता है: काशी (वाराणसी) के राजा दिवोदास के रूप में जन्मे धन्वन्तरि अपने आश्रम में बैठे हैं और शिष्य उनके पास आते हैं। सात शिष्यों के नाम दिए गए हैं, जिनमें सुश्रुत अंत में है, और \"प्रभृतयः\" (आदि) से पता चलता है कि और भी शिष्य थे। ये नाम आयुर्वेद के इतिहास में अक्सर पूछे जाते हैं। याद रखने का सूत्र: \"औ-वै-औ-पौ-क-गो-सु\"।",
+   "modern_correlation": null,
+   "key_terms": [
+    "Divodāsa",
+    "Kāśirāja",
+    "Suśruta",
+    "Aupadhenava",
+    "Vaitaraṇa",
+    "Aurabhra",
+    "Pauṣkalāvata"
+   ],
+   "tags": [
+    "history",
+    "lineage",
+    "disciples"
+   ],
+   "importance": "high",
+   "mnemonic": "Au-Vai-Au-Pau-Ka-Go-Su: Aupadhenava, Vaitaraṇa, Aurabhra, Pauṣkalāvata, Karavīrya, Gopurarakṣita, Suśruta",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sutra.1.4",
+   "word_meanings": [
+    {
+     "sa": "भगवन्",
+     "iast": "bhagavan",
+     "en": "O revered one",
+     "hi": "हे भगवन्"
+    },
+    {
+     "sa": "शारीर",
+     "iast": "śārīra",
+     "en": "bodily",
+     "hi": "शारीरिक"
+    },
+    {
+     "sa": "मानस",
+     "iast": "mānasa",
+     "en": "mental",
+     "hi": "मानसिक"
+    },
+    {
+     "sa": "आगन्तु",
+     "iast": "āgantu",
+     "en": "external, accidental",
+     "hi": "आगन्तुज (बाहरी)"
+    },
+    {
+     "sa": "व्याधिभिः",
+     "iast": "vyādhibhiḥ",
+     "en": "by diseases",
+     "hi": "रोगों से"
+    },
+    {
+     "sa": "विविध",
+     "iast": "vividha",
+     "en": "various",
+     "hi": "अनेक प्रकार की"
+    },
+    {
+     "sa": "वेदना",
+     "iast": "vedanā",
+     "en": "pain",
+     "hi": "पीड़ा"
+    },
+    {
+     "sa": "अभिघात",
+     "iast": "abhighāta",
+     "en": "injury, trauma",
+     "hi": "चोट"
+    },
+    {
+     "sa": "उपद्रुतान्",
+     "iast": "upadrutān",
+     "en": "afflicted",
+     "hi": "पीड़ित"
+    },
+    {
+     "sa": "सनाथान्",
+     "iast": "sanāthān",
+     "en": "having protectors",
+     "hi": "सहारे वाले"
+    },
+    {
+     "sa": "अपि",
+     "iast": "api",
+     "en": "even",
+     "hi": "भी"
+    },
+    {
+     "sa": "अनाथवत्",
+     "iast": "anāthavat",
+     "en": "like the helpless",
+     "hi": "अनाथ की तरह"
+    },
+    {
+     "sa": "विचेष्टमानान्",
+     "iast": "viceṣṭamānān",
+     "en": "writhing, struggling",
+     "hi": "छटपटाते हुए"
+    },
+    {
+     "sa": "विक्रोशतः",
+     "iast": "vikrośataḥ",
+     "en": "crying out",
+     "hi": "चिल्लाते हुए"
+    },
+    {
+     "sa": "मानवान्",
+     "iast": "mānavān",
+     "en": "human beings",
+     "hi": "मनुष्यों को"
+    },
+    {
+     "sa": "अभिसमीक्ष्य",
+     "iast": "abhisamīkṣya",
+     "en": "having seen",
+     "hi": "देखकर"
+    },
+    {
+     "sa": "मनसि",
+     "iast": "manasi",
+     "en": "in the mind",
+     "hi": "मन में"
+    },
+    {
+     "sa": "नः",
+     "iast": "naḥ",
+     "en": "our",
+     "hi": "हमारे"
+    },
+    {
+     "sa": "पीडा",
+     "iast": "pīḍā",
+     "en": "distress",
+     "hi": "पीड़ा, दुःख"
+    },
+    {
+     "sa": "भवति",
+     "iast": "bhavati",
+     "en": "arises",
+     "hi": "होती है"
+    },
+    {
+     "sa": "तेषाम्",
+     "iast": "teṣām",
+     "en": "of them",
+     "hi": "उनके"
+    },
+    {
+     "sa": "सुखैषिणाम्",
+     "iast": "sukhaiṣiṇām",
+     "en": "who seek happiness",
+     "hi": "सुख चाहने वाले"
+    },
+    {
+     "sa": "रोगोपशमार्थम्",
+     "iast": "rogopaśamārtham",
+     "en": "for relief of disease",
+     "hi": "रोग शान्त करने के लिए"
+    },
+    {
+     "sa": "आत्मनः",
+     "iast": "ātmanaḥ",
+     "en": "our own",
+     "hi": "अपने"
+    },
+    {
+     "sa": "प्राणयात्रार्थम्",
+     "iast": "prāṇayātrārtham",
+     "en": "for maintaining life (livelihood)",
+     "hi": "जीवन-निर्वाह के लिए"
+    },
+    {
+     "sa": "प्रजाहितहेतोः",
+     "iast": "prajāhitahetoḥ",
+     "en": "for the welfare of people",
+     "hi": "प्रजा के हित के लिए"
+    },
+    {
+     "sa": "आयुर्वेदम्",
+     "iast": "āyurvedam",
+     "en": "Āyurveda",
+     "hi": "आयुर्वेद"
+    },
+    {
+     "sa": "श्रोतुम्",
+     "iast": "śrotum",
+     "en": "to hear, learn",
+     "hi": "सुनना, सीखना"
+    },
+    {
+     "sa": "इच्छामः",
+     "iast": "icchāmaḥ",
+     "en": "we wish",
+     "hi": "हम चाहते हैं"
+    },
+    {
+     "sa": "उपदिश्यमानम्",
+     "iast": "upadiśyamānam",
+     "en": "being taught",
+     "hi": "उपदेश किया जाता हुआ"
+    },
+    {
+     "sa": "अत्र आयत्तम्",
+     "iast": "atra āyattam",
+     "en": "depending on this",
+     "hi": "इस पर आधारित"
+    },
+    {
+     "sa": "ऐहिकम्",
+     "iast": "aihikam",
+     "en": "of this world",
+     "hi": "इस लोक का"
+    },
+    {
+     "sa": "आमुष्मिकम्",
+     "iast": "āmuṣmikam",
+     "en": "of the next world",
+     "hi": "परलोक का"
+    },
+    {
+     "sa": "श्रेयः",
+     "iast": "śreyaḥ",
+     "en": "well-being, good",
+     "hi": "कल्याण"
+    },
+    {
+     "sa": "उपपन्नाः स्मः",
+     "iast": "upapannāḥ smaḥ",
+     "en": "we have approached",
+     "hi": "हम आए हैं"
+    },
+    {
+     "sa": "शिष्यत्वेन",
+     "iast": "śiṣyatvena",
+     "en": "as disciples",
+     "hi": "शिष्य के रूप में"
+    }
+   ],
+   "english": "\"O revered one, seeing human beings afflicted by bodily, mental and external (āgantu) diseases, with various pains and injuries, writhing and crying out like the helpless even though they have protectors, our minds are distressed. For the relief of the diseases of those who seek happiness, for our own livelihood, and for the welfare of all people, we wish to learn Āyurveda as taught here; on it depends well-being both in this world and the next. Therefore we have come to you as disciples.\"",
+   "hindi": "\"हे भगवन्! शारीरिक, मानसिक और आगन्तुज (बाहरी) रोगों से, तरह-तरह की पीड़ा और चोटों से दुःखी मनुष्यों को, जो सहारा होते हुए भी अनाथ की तरह छटपटाते और चिल्लाते हैं, देखकर हमारे मन में बहुत दुःख होता है। सुख चाहने वाले उन लोगों के रोग शान्त करने के लिए, अपने जीवन-निर्वाह के लिए और प्रजा के हित के लिए हम यहाँ पढ़ाया जाने वाला आयुर्वेद सीखना चाहते हैं, जिस पर इस लोक और परलोक दोनों का कल्याण निर्भर है। इसलिए हम शिष्य बनकर आपके पास आए हैं।\"",
+   "explanation_en": "The disciples give three motives for learning Āyurveda: compassion for the sick, their own livelihood, and public welfare. Diseases are first grouped here into three kinds (bodily, mental, external); later in this chapter (verse 24) Suśruta gives a fourfold scheme. Note the humane tone: suffering moves the students to study medicine. Exam tip: the motive of learning Āyurveda in Suśruta is \"prajāhita\" (welfare of people).",
+   "explanation_hi": "शिष्य आयुर्वेद सीखने के तीन कारण बताते हैं: रोगियों के प्रति करुणा, अपना जीवन-निर्वाह और लोक-कल्याण। यहाँ रोगों के तीन प्रकार (शारीरिक, मानसिक, आगन्तुज) बताए गए हैं; आगे श्लोक 24 में सुश्रुत चार प्रकार बताते हैं। ध्यान दें कि रोगियों का दुःख देखकर शिष्य चिकित्सा पढ़ना चाहते हैं। परीक्षा के लिए: सुश्रुत में आयुर्वेद पढ़ने का उद्देश्य \"प्रजाहित\" है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "āgantu vyādhi",
+    "śārīra",
+    "mānasa",
+    "prajāhita"
+   ],
+   "tags": [
+    "history",
+    "purpose",
+    "motivation"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sutra.1.5",
+   "word_meanings": [
+    {
+     "sa": "तान्",
+     "iast": "tān",
+     "en": "to them",
+     "hi": "उनसे"
+    },
+    {
+     "sa": "उवाच",
+     "iast": "uvāca",
+     "en": "said",
+     "hi": "कहा"
+    },
+    {
+     "sa": "भगवान्",
+     "iast": "bhagavān",
+     "en": "the revered one",
+     "hi": "भगवान्"
+    },
+    {
+     "sa": "स्वागतम्",
+     "iast": "svāgatam",
+     "en": "welcome",
+     "hi": "स्वागत है"
+    },
+    {
+     "sa": "वः",
+     "iast": "vaḥ",
+     "en": "to you",
+     "hi": "आपका"
+    },
+    {
+     "sa": "सर्वे",
+     "iast": "sarve",
+     "en": "all",
+     "hi": "सभी"
+    },
+    {
+     "sa": "एव",
+     "iast": "eva",
+     "en": "indeed",
+     "hi": "ही"
+    },
+    {
+     "sa": "अमीमांस्याः",
+     "iast": "amīmāṃsyāḥ",
+     "en": "not to be examined (accepted without test)",
+     "hi": "परीक्षा के योग्य नहीं (बिना परीक्षा स्वीकार्य)"
+    },
+    {
+     "sa": "अध्याप्याः",
+     "iast": "adhyāpyāḥ",
+     "en": "fit to be taught",
+     "hi": "पढ़ाने योग्य"
+    },
+    {
+     "sa": "भवन्तः",
+     "iast": "bhavantaḥ",
+     "en": "you",
+     "hi": "आप"
+    },
+    {
+     "sa": "वत्साः",
+     "iast": "vatsāḥ",
+     "en": "dear children",
+     "hi": "प्रिय वत्सो"
+    }
+   ],
+   "english": "The revered one said to them: \"Welcome to you all. Dear children, all of you are to be accepted without further examination and are fit to be taught.\"",
+   "hindi": "भगवान् ने उनसे कहा: \"आप सबका स्वागत है। प्रिय वत्सो, आप सब बिना किसी परीक्षा के स्वीकार करने योग्य हैं और पढ़ाने योग्य हैं।\"",
+   "explanation_en": "Normally a teacher tests a student before accepting him (Suśruta describes this in Sū 2, Śiṣyopanayanīya). Here Dhanvantari waives the test because the disciples' sincere and compassionate motive already shows their fitness. \"Vatsa\" (dear child) shows the affectionate guru-śiṣya relationship.",
+   "explanation_hi": "सामान्यतः गुरु शिष्य को स्वीकार करने से पहले उसकी परीक्षा करता है (इसका वर्णन सूत्रस्थान 2, शिष्योपनयनीय में है)। यहाँ धन्वन्तरि परीक्षा नहीं लेते, क्योंकि शिष्यों की सच्ची और करुणामय भावना ही उनकी योग्यता दिखाती है। \"वत्स\" शब्द गुरु-शिष्य के स्नेहपूर्ण सम्बन्ध को दर्शाता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "śiṣya",
+    "adhyāpya"
+   ],
+   "tags": [
+    "history",
+    "guru-shishya"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sutra.1.6",
+   "word_meanings": [
+    {
+     "sa": "इह",
+     "iast": "iha",
+     "en": "here, in this world",
+     "hi": "यहाँ"
+    },
+    {
+     "sa": "खलु",
+     "iast": "khalu",
+     "en": "indeed",
+     "hi": "निश्चय ही"
+    },
+    {
+     "sa": "आयुर्वेदः",
+     "iast": "āyurvedaḥ",
+     "en": "Āyurveda",
+     "hi": "आयुर्वेद"
+    },
+    {
+     "sa": "नाम",
+     "iast": "nāma",
+     "en": "named",
+     "hi": "नामक"
+    },
+    {
+     "sa": "उपाङ्गम्",
+     "iast": "upāṅgam",
+     "en": "subsidiary limb",
+     "hi": "उपांग"
+    },
+    {
+     "sa": "अथर्ववेदस्य",
+     "iast": "atharvavedasya",
+     "en": "of the Atharvaveda",
+     "hi": "अथर्ववेद का"
+    },
+    {
+     "sa": "अनुत्पाद्य",
+     "iast": "anutpādya",
+     "en": "without having created",
+     "hi": "उत्पन्न किए बिना"
+    },
+    {
+     "sa": "इव",
+     "iast": "iva",
+     "en": "just, as if (here: even before)",
+     "hi": "मानो (पहले ही)"
+    },
+    {
+     "sa": "प्रजाः",
+     "iast": "prajāḥ",
+     "en": "living beings",
+     "hi": "प्रजा, जीव"
+    },
+    {
+     "sa": "श्लोकशतसहस्रम्",
+     "iast": "ślokaśatasahasram",
+     "en": "one hundred thousand verses",
+     "hi": "एक लाख श्लोक"
+    },
+    {
+     "sa": "अध्यायसहस्रम्",
+     "iast": "adhyāyasahasram",
+     "en": "one thousand chapters",
+     "hi": "एक हज़ार अध्याय"
+    },
+    {
+     "sa": "कृतवान्",
+     "iast": "kṛtavān",
+     "en": "composed",
+     "hi": "रचा"
+    },
+    {
+     "sa": "स्वयम्भूः",
+     "iast": "svayambhūḥ",
+     "en": "the Self-born (Brahmā)",
+     "hi": "स्वयम्भू (ब्रह्मा)"
+    },
+    {
+     "sa": "ततः",
+     "iast": "tataḥ",
+     "en": "then",
+     "hi": "फिर"
+    },
+    {
+     "sa": "अल्पायुष्ट्वम्",
+     "iast": "alpāyuṣṭvam",
+     "en": "shortness of life",
+     "hi": "अल्प आयु"
+    },
+    {
+     "sa": "अल्पमेधस्त्वम्",
+     "iast": "alpamedhastvam",
+     "en": "limited intellect",
+     "hi": "अल्प बुद्धि"
+    },
+    {
+     "sa": "आलोक्य",
+     "iast": "ālokya",
+     "en": "seeing",
+     "hi": "देखकर"
+    },
+    {
+     "sa": "नराणाम्",
+     "iast": "narāṇām",
+     "en": "of men",
+     "hi": "मनुष्यों की"
+    },
+    {
+     "sa": "भूयः",
+     "iast": "bhūyaḥ",
+     "en": "again",
+     "hi": "फिर से"
+    },
+    {
+     "sa": "अष्टधा",
+     "iast": "aṣṭadhā",
+     "en": "in eight parts",
+     "hi": "आठ भागों में"
+    },
+    {
+     "sa": "प्रणीतवान्",
+     "iast": "praṇītavān",
+     "en": "arranged, set forth",
+     "hi": "विभाजित किया"
+    }
+   ],
+   "english": "Āyurveda is indeed a subsidiary limb (upāṅga) of the Atharvaveda. Even before creating living beings, the Self-born (Svayambhū, Brahmā) composed it in one hundred thousand verses and one thousand chapters. Then, seeing the short lifespan and limited intellect of human beings, he set it forth again in eight parts.",
+   "hindi": "आयुर्वेद अथर्ववेद का उपांग है। प्रजा (जीवों) को उत्पन्न करने से पहले ही स्वयम्भू ब्रह्मा ने इसे एक लाख श्लोकों और एक हज़ार अध्यायों में रचा। फिर मनुष्यों की कम आयु और कम बुद्धि देखकर उन्होंने इसे फिर से आठ भागों में बाँटा।",
+   "explanation_en": "This is a key exam point: Suśruta calls Āyurveda an upāṅga of the Atharvaveda, while Caraka calls it an upaveda and links it to the Atharvaveda too. The original text by Brahmā had 1,00,000 ślokas and 1,000 chapters; it was divided into eight branches (aṣṭāṅga) for people of shorter life and lesser intellect. \"Before creating beings\" shows the traditional view that Āyurveda is eternal and existed before disease.",
+   "explanation_hi": "यह परीक्षा का महत्वपूर्ण बिन्दु है: सुश्रुत आयुर्वेद को अथर्ववेद का उपांग कहते हैं। ब्रह्मा द्वारा रचित मूल आयुर्वेद में 1,00,000 श्लोक और 1,000 अध्याय थे; कम आयु और कम बुद्धि वाले मनुष्यों के लिए इसे आठ अंगों (अष्टाङ्ग) में बाँटा गया। \"प्रजा से पहले\" का अर्थ है कि परम्परा के अनुसार आयुर्वेद शाश्वत है और रोगों से पहले भी था।",
+   "modern_correlation": null,
+   "key_terms": [
+    "upāṅga",
+    "Atharvaveda",
+    "Svayambhū",
+    "aṣṭāṅga"
+   ],
+   "tags": [
+    "history",
+    "origin",
+    "ashtanga"
+   ],
+   "importance": "high",
+   "mnemonic": "Brahmā's Āyurveda: 1 lakh ślokas, 1000 adhyāyas, then 8 aṅgas.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sutra.1.7",
+   "word_meanings": [
+    {
+     "sa": "तद्यथा",
+     "iast": "tadyathā",
+     "en": "namely",
+     "hi": "जैसे कि"
+    },
+    {
+     "sa": "शल्यम्",
+     "iast": "śalyam",
+     "en": "surgery",
+     "hi": "शल्य"
+    },
+    {
+     "sa": "शालाक्यम्",
+     "iast": "śālākyam",
+     "en": "diseases above the clavicle (ENT, eye, head)",
+     "hi": "शालाक्य (गले से ऊपर के रोग)"
+    },
+    {
+     "sa": "कायचिकित्सा",
+     "iast": "kāyacikitsā",
+     "en": "internal medicine",
+     "hi": "कायचिकित्सा"
+    },
+    {
+     "sa": "भूतविद्या",
+     "iast": "bhūtavidyā",
+     "en": "science of possession / psychiatry",
+     "hi": "भूतविद्या"
+    },
+    {
+     "sa": "कौमारभृत्यम्",
+     "iast": "kaumārabhṛtyam",
+     "en": "paediatrics",
+     "hi": "कौमारभृत्य (बालरोग)"
+    },
+    {
+     "sa": "अगदतन्त्रम्",
+     "iast": "agadatantram",
+     "en": "toxicology",
+     "hi": "अगदतन्त्र (विष-चिकित्सा)"
+    },
+    {
+     "sa": "रसायनतन्त्रम्",
+     "iast": "rasāyanatantram",
+     "en": "rejuvenation",
+     "hi": "रसायनतन्त्र"
+    },
+    {
+     "sa": "वाजीकरणतन्त्रम्",
+     "iast": "vājīkaraṇatantram",
+     "en": "aphrodisiacs, reproductive health",
+     "hi": "वाजीकरणतन्त्र"
+    },
+    {
+     "sa": "इति",
+     "iast": "iti",
+     "en": "thus",
+     "hi": "इस प्रकार"
+    }
+   ],
+   "english": "Namely: śalya (surgery), śālākya (diseases of the parts above the clavicle), kāyacikitsā (internal medicine), bhūtavidyā (science of spirits / mental disorders), kaumārabhṛtya (paediatrics), agadatantra (toxicology), rasāyanatantra (rejuvenation) and vājīkaraṇatantra (virility and reproductive health).",
+   "hindi": "जैसे: शल्य (शल्य चिकित्सा), शालाक्य (गले से ऊपर के अंगों के रोग), कायचिकित्सा (सामान्य चिकित्सा), भूतविद्या (ग्रह/मानस रोग), कौमारभृत्य (बालरोग), अगदतन्त्र (विष-चिकित्सा), रसायनतन्त्र (कायाकल्प) और वाजीकरणतन्त्र (पुंसत्व व प्रजनन)।",
+   "explanation_en": "These are the eight branches (aṣṭāṅga) of Āyurveda. Note the order: Suśruta, being a surgeon, lists śalya first, whereas Caraka begins with kāyacikitsā. This difference in order is a favourite exam question. The definitions of each branch follow in the next verse.",
+   "explanation_hi": "ये आयुर्वेद के आठ अंग (अष्टाङ्ग) हैं। क्रम पर ध्यान दें: सुश्रुत शल्य-चिकित्सक थे, इसलिए उन्होंने शल्य को पहले रखा, जबकि चरक कायचिकित्सा से शुरू करते हैं। यह क्रम-भेद परीक्षा में अक्सर पूछा जाता है। हर अंग की परिभाषा अगले वाक्य में है।",
+   "modern_correlation": {
+    "en": "The eight branches broadly resemble modern specialties: surgery, ENT and ophthalmology, internal medicine, psychiatry, paediatrics, toxicology, geriatrics/preventive care, and reproductive medicine. The match is approximate, since the classical scope of each branch differs from the modern one.",
+    "hi": "आठ अंग मोटे तौर पर आधुनिक विशेषज्ञताओं जैसे हैं: शल्य चिकित्सा, नाक-कान-गला व नेत्र रोग, आन्तरिक चिकित्सा, मनोरोग, बालरोग, विष-विज्ञान, जरा/निवारक चिकित्सा और प्रजनन चिकित्सा। यह तुलना केवल अनुमानित है, क्योंकि हर अंग का प्राचीन दायरा आधुनिक विषय से अलग है।"
+   },
+   "key_terms": [
+    "aṣṭāṅga āyurveda",
+    "śalya",
+    "śālākya",
+    "kāyacikitsā",
+    "bhūtavidyā",
+    "kaumārabhṛtya",
+    "agadatantra",
+    "rasāyana",
+    "vājīkaraṇa"
+   ],
+   "tags": [
+    "ashtanga",
+    "history",
+    "definitions"
+   ],
+   "importance": "high",
+   "mnemonic": "Suśruta's order: \"Śa-Śā-Kā-Bhū-Kau-A-Ra-Vā\" (surgery first).",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sutra.1.8",
+   "word_meanings": [
+    {
+     "sa": "अथ",
+     "iast": "atha",
+     "en": "now",
+     "hi": "अब"
+    },
+    {
+     "sa": "अस्य",
+     "iast": "asya",
+     "en": "of this (Āyurveda)",
+     "hi": "इसके"
+    },
+    {
+     "sa": "प्रत्यङ्गलक्षणसमासः",
+     "iast": "pratyaṅgalakṣaṇasamāsaḥ",
+     "en": "brief definition of each branch",
+     "hi": "प्रत्येक अंग का संक्षिप्त लक्षण"
+    },
+    {
+     "sa": "शल्यम् नाम",
+     "iast": "śalyam nāma",
+     "en": "śalya is (the branch)",
+     "hi": "शल्य वह है"
+    },
+    {
+     "sa": "तृण",
+     "iast": "tṛṇa",
+     "en": "grass",
+     "hi": "तिनका"
+    },
+    {
+     "sa": "काष्ठ",
+     "iast": "kāṣṭha",
+     "en": "wood",
+     "hi": "लकड़ी"
+    },
+    {
+     "sa": "पाषाण",
+     "iast": "pāṣāṇa",
+     "en": "stone",
+     "hi": "पत्थर"
+    },
+    {
+     "sa": "पांशु",
+     "iast": "pāṃśu",
+     "en": "dust",
+     "hi": "धूल"
+    },
+    {
+     "sa": "लोह",
+     "iast": "loha",
+     "en": "metal",
+     "hi": "धातु (लोहा)"
+    },
+    {
+     "sa": "लोष्ट",
+     "iast": "loṣṭa",
+     "en": "clod of earth",
+     "hi": "मिट्टी का ढेला"
+    },
+    {
+     "sa": "अस्थि",
+     "iast": "asthi",
+     "en": "bone",
+     "hi": "हड्डी"
+    },
+    {
+     "sa": "वाल",
+     "iast": "vāla",
+     "en": "hair",
+     "hi": "बाल"
+    },
+    {
+     "sa": "नख",
+     "iast": "nakha",
+     "en": "nail",
+     "hi": "नाखून"
+    },
+    {
+     "sa": "पूय",
+     "iast": "pūya",
+     "en": "pus",
+     "hi": "पीब (मवाद)"
+    },
+    {
+     "sa": "आस्राव",
+     "iast": "āsrāva",
+     "en": "discharge",
+     "hi": "स्राव"
+    },
+    {
+     "sa": "दुष्टव्रण",
+     "iast": "duṣṭavraṇa",
+     "en": "infected / bad wound",
+     "hi": "दूषित व्रण"
+    },
+    {
+     "sa": "अन्तर्गर्भ",
+     "iast": "antargarbha",
+     "en": "retained / dead foetus",
+     "hi": "गर्भ के अंदर (मृत गर्भ)"
+    },
+    {
+     "sa": "शल्योद्धरणार्थम्",
+     "iast": "śalyoddharaṇārtham",
+     "en": "for extraction of foreign bodies",
+     "hi": "शल्य निकालने के लिए"
+    },
+    {
+     "sa": "यन्त्र",
+     "iast": "yantra",
+     "en": "blunt instruments",
+     "hi": "यन्त्र"
+    },
+    {
+     "sa": "शस्त्र",
+     "iast": "śastra",
+     "en": "sharp instruments",
+     "hi": "शस्त्र"
+    },
+    {
+     "sa": "क्षार",
+     "iast": "kṣāra",
+     "en": "caustic alkali",
+     "hi": "क्षार"
+    },
+    {
+     "sa": "अग्नि",
+     "iast": "agni",
+     "en": "cautery (fire)",
+     "hi": "अग्नि (दाहकर्म)"
+    },
+    {
+     "sa": "प्रणिधान",
+     "iast": "praṇidhāna",
+     "en": "application",
+     "hi": "प्रयोग"
+    },
+    {
+     "sa": "व्रणविनिश्चयार्थम्",
+     "iast": "vraṇaviniścayārtham",
+     "en": "for diagnosis of wounds",
+     "hi": "व्रण के निश्चय के लिए"
+    },
+    {
+     "sa": "ऊर्ध्वजत्रुगतानाम्",
+     "iast": "ūrdhvajatrugatānām",
+     "en": "located above the clavicle",
+     "hi": "जत्रु (हँसली) के ऊपर स्थित"
+    },
+    {
+     "sa": "श्रवण",
+     "iast": "śravaṇa",
+     "en": "ear",
+     "hi": "कान"
+    },
+    {
+     "sa": "नयन",
+     "iast": "nayana",
+     "en": "eye",
+     "hi": "आँख"
+    },
+    {
+     "sa": "वदन",
+     "iast": "vadana",
+     "en": "mouth",
+     "hi": "मुख"
+    },
+    {
+     "sa": "घ्राण",
+     "iast": "ghrāṇa",
+     "en": "nose",
+     "hi": "नाक"
+    },
+    {
+     "sa": "व्याधीनाम् उपशमनार्थम्",
+     "iast": "vyādhīnām upaśamanārtham",
+     "en": "for relief of diseases",
+     "hi": "रोगों की शान्ति के लिए"
+    },
+    {
+     "sa": "सर्वाङ्गसंश्रितानाम्",
+     "iast": "sarvāṅgasaṃśritānām",
+     "en": "affecting the whole body",
+     "hi": "पूरे शरीर में स्थित"
+    },
+    {
+     "sa": "ज्वर",
+     "iast": "jvara",
+     "en": "fever",
+     "hi": "ज्वर"
+    },
+    {
+     "sa": "रक्तपित्त",
+     "iast": "raktapitta",
+     "en": "bleeding disorder",
+     "hi": "रक्तपित्त"
+    },
+    {
+     "sa": "शोष",
+     "iast": "śoṣa",
+     "en": "wasting",
+     "hi": "शोष"
+    },
+    {
+     "sa": "उन्माद",
+     "iast": "unmāda",
+     "en": "insanity",
+     "hi": "उन्माद"
+    },
+    {
+     "sa": "अपस्मार",
+     "iast": "apasmāra",
+     "en": "epilepsy",
+     "hi": "अपस्मार"
+    },
+    {
+     "sa": "कुष्ठ",
+     "iast": "kuṣṭha",
+     "en": "skin disease",
+     "hi": "कुष्ठ"
+    },
+    {
+     "sa": "मेह",
+     "iast": "meha",
+     "en": "urinary disorders / diabetes",
+     "hi": "प्रमेह"
+    },
+    {
+     "sa": "अतिसार",
+     "iast": "atisāra",
+     "en": "diarrhoea",
+     "hi": "अतिसार"
+    },
+    {
+     "sa": "देव असुर गन्धर्व यक्ष रक्षः पितृ पिशाच नाग ग्रह",
+     "iast": "deva asura gandharva yakṣa rakṣaḥ pitṛ piśāca nāga graha",
+     "en": "gods, demons, celestial beings, spirits, ancestors, serpent-beings, seizers",
+     "hi": "देव, असुर, गन्धर्व, यक्ष, राक्षस, पितृ, पिशाच, नाग, ग्रह"
+    },
+    {
+     "sa": "उपसृष्टचेतसाम्",
+     "iast": "upasṛṣṭacetasām",
+     "en": "of those whose minds are afflicted",
+     "hi": "जिनका मन पीड़ित है"
+    },
+    {
+     "sa": "शान्तिकर्म",
+     "iast": "śāntikarma",
+     "en": "pacifying rites",
+     "hi": "शान्तिकर्म"
+    },
+    {
+     "sa": "बलिहरण",
+     "iast": "baliharaṇa",
+     "en": "offerings",
+     "hi": "बलि-अर्पण"
+    },
+    {
+     "sa": "कुमारभरण",
+     "iast": "kumārabharaṇa",
+     "en": "care of children",
+     "hi": "बच्चों का पालन"
+    },
+    {
+     "sa": "धात्रीक्षीरदोषसंशोधन",
+     "iast": "dhātrīkṣīradoṣasaṃśodhana",
+     "en": "purifying defects of the wet-nurse's milk",
+     "hi": "धात्री के दूध के दोष शुद्ध करना"
+    },
+    {
+     "sa": "दुष्टस्तन्य",
+     "iast": "duṣṭastanya",
+     "en": "vitiated breast-milk",
+     "hi": "दूषित स्तन्य"
+    },
+    {
+     "sa": "ग्रहसमुत्थानाम्",
+     "iast": "grahasamutthānām",
+     "en": "arising from grahas",
+     "hi": "ग्रहों से उत्पन्न"
+    },
+    {
+     "sa": "सर्प कीट लूता मूषक",
+     "iast": "sarpa kīṭa lūtā mūṣaka",
+     "en": "snake, insect, spider, rat",
+     "hi": "साँप, कीड़ा, मकड़ी, चूहा"
+    },
+    {
+     "sa": "दष्टविषव्यञ्जनार्थम्",
+     "iast": "daṣṭaviṣavyañjanārtham",
+     "en": "for signs of poison from bites",
+     "hi": "दंश के विष के लक्षण जानने के लिए"
+    },
+    {
+     "sa": "विषसंयोगोपशमनार्थम्",
+     "iast": "viṣasaṃyogopaśamanārtham",
+     "en": "for relief of poison combinations",
+     "hi": "विषों के संयोग की शान्ति के लिए"
+    },
+    {
+     "sa": "वयःस्थापनम्",
+     "iast": "vayaḥsthāpanam",
+     "en": "maintaining youth / arresting ageing",
+     "hi": "वयःस्थापन (आयु स्थिर रखना)"
+    },
+    {
+     "sa": "आयुर् मेधा बल करम्",
+     "iast": "āyur medhā bala karam",
+     "en": "promoting life, intellect and strength",
+     "hi": "आयु, बुद्धि और बल बढ़ाने वाला"
+    },
+    {
+     "sa": "रोगापहरणसमर्थम्",
+     "iast": "rogāpaharaṇasamartham",
+     "en": "capable of removing disease",
+     "hi": "रोग दूर करने में समर्थ"
+    },
+    {
+     "sa": "अल्प दुष्ट क्षीण विशुष्क रेतसाम्",
+     "iast": "alpa duṣṭa kṣīṇa viśuṣka retasām",
+     "en": "of those with scanty, vitiated, depleted or dried semen",
+     "hi": "अल्प, दूषित, क्षीण या सूखे शुक्र वालों का"
+    },
+    {
+     "sa": "आप्यायन प्रसाद उपचय जनन",
+     "iast": "āpyāyana prasāda upacaya janana",
+     "en": "nourishment, purification, increase and production",
+     "hi": "पोषण, शुद्धि, वृद्धि और उत्पत्ति"
+    },
+    {
+     "sa": "प्रहर्षजननार्थम्",
+     "iast": "praharṣajananārtham",
+     "en": "for producing sexual vigour",
+     "hi": "हर्ष (कामशक्ति) उत्पन्न करने के लिए"
+    }
+   ],
+   "english": "Now the brief definitions of each branch. Śalya is the branch for extracting foreign bodies of various kinds (grass, wood, stone, dust, metal, clods, bone, hair, nails, pus and discharges, bad wounds, and a foetus lodged inside), and for knowing the use of blunt instruments (yantra), sharp instruments (śastra), alkali (kṣāra) and fire (agni), and the diagnosis of wounds. Śālākya is for the relief of diseases situated above the clavicle (ūrdhvajatru), in the ear, eye, mouth, nose and so on. Kāyacikitsā is for the relief of diseases affecting the whole body, such as fever, raktapitta (bleeding disorder), śoṣa (wasting), unmāda (insanity), apasmāra (epilepsy), kuṣṭha (skin disease), meha (urinary disorders) and atisāra (diarrhoea). Bhūtavidyā is for pacifying grahas by pacifying rites, offerings and so on, in people whose minds are afflicted by gods, asuras, gandharvas, yakṣas, rākṣasas, ancestors, piśācas, nāgas and other grahas. Kaumārabhṛtya is for the care of children, for purifying defects of the wet-nurse's milk, and for relieving diseases arising from vitiated breast-milk and grahas. Agadatantra is for recognising the signs of poisoning from bites of snakes, insects, spiders, rats and so on, and for relieving various combined poisons. Rasāyanatantra arrests ageing (vayaḥsthāpana), promotes life, intellect and strength, and is able to remove disease. Vājīkaraṇatantra is for nourishing, purifying, increasing and producing semen in those whose semen is scanty, vitiated, depleted or dried, and for producing sexual vigour.",
+   "hindi": "अब हर अंग का संक्षिप्त लक्षण। शल्य वह अंग है जिसमें तिनका, लकड़ी, पत्थर, धूल, धातु, ढेला, हड्डी, बाल, नाखून, पीब-स्राव, दूषित व्रण और अंदर रुका गर्भ जैसे शल्यों को निकालना, तथा यन्त्र, शस्त्र, क्षार और अग्नि का प्रयोग और व्रण का निदान सिखाया जाता है। शालाक्य जत्रु (हँसली) से ऊपर, कान, आँख, मुख, नाक आदि में होने वाले रोगों की शान्ति के लिए है। कायचिकित्सा पूरे शरीर में होने वाले रोगों, जैसे ज्वर, रक्तपित्त, शोष, उन्माद, अपस्मार, कुष्ठ, प्रमेह, अतिसार आदि की शान्ति के लिए है। भूतविद्या उन लोगों के लिए है जिनका मन देव, असुर, गन्धर्व, यक्ष, राक्षस, पितृ, पिशाच, नाग आदि ग्रहों से पीड़ित है; इसमें शान्तिकर्म, बलि आदि से ग्रहों की शान्ति की जाती है। कौमारभृत्य बच्चों के पालन, धात्री (दाई) के दूध के दोषों की शुद्धि और दूषित दूध व ग्रहों से होने वाले रोगों की शान्ति के लिए है। अगदतन्त्र साँप, कीड़े, मकड़ी, चूहे आदि के काटने से हुए विष के लक्षण पहचानने और अनेक प्रकार के विष-संयोगों की शान्ति के लिए है। रसायनतन्त्र आयु को स्थिर रखता है, आयु, बुद्धि और बल बढ़ाता है और रोग दूर करने में समर्थ है। वाजीकरणतन्त्र अल्प, दूषित, क्षीण या सूखे शुक्र वालों में शुक्र का पोषण, शुद्धि, वृद्धि और उत्पत्ति करने तथा कामशक्ति बढ़ाने के लिए है।",
+   "explanation_en": "This is the classical definition of all eight branches and is one of the most frequently asked passages, especially the definition of śalya tantra. Śalya covers removal of foreign bodies (including an obstructed foetus) and the four tools of surgery: yantra, śastra, kṣāra and agni, plus diagnosis of wounds. Śālākya is defined by region (above the jatru/clavicle), kāyacikitsā by the whole body, and the others by their purpose. Learn the definition of śalya word for word for exams.",
+   "explanation_hi": "यह आठों अंगों की प्राचीन परिभाषा है और सबसे अधिक पूछे जाने वाले भागों में से है, विशेष रूप से शल्य तन्त्र की परिभाषा। शल्य में बाहरी वस्तुओं (और अटके गर्भ) को निकालना तथा शल्य के चार साधन: यन्त्र, शस्त्र, क्षार और अग्नि, और व्रण का निदान आते हैं। शालाक्य की परिभाषा स्थान (जत्रु के ऊपर) से, कायचिकित्सा की पूरे शरीर से और बाकी की उनके प्रयोजन से दी गई है। परीक्षा के लिए शल्य की परिभाषा शब्दशः याद करें।",
+   "modern_correlation": {
+    "en": "Śalya tantra, as defined here, corresponds broadly to surgery: removal of foreign bodies, wound management, and the use of instruments, chemical cautery (kṣāra) and thermal cautery (agni). Śālākya roughly corresponds to ENT, ophthalmology and head-neck care, and agadatantra to clinical toxicology. Bhūtavidyā is often linked with psychiatry, although its classical framework of grahas has no direct modern counterpart.",
+    "hi": "यहाँ दी गई शल्य तन्त्र की परिभाषा मोटे तौर पर सर्जरी से मेल खाती है: बाहरी वस्तु निकालना, घाव का प्रबन्धन, और यन्त्र, रासायनिक दाह (क्षार) और अग्नि-दाह का प्रयोग। शालाक्य लगभग नाक-कान-गला, नेत्र और सिर-गर्दन चिकित्सा से, और अगदतन्त्र क्लिनिकल विष-विज्ञान से मिलता है। भूतविद्या को अक्सर मनोरोग से जोड़ा जाता है, यद्यपि ग्रहों की प्राचीन अवधारणा का सीधा आधुनिक समकक्ष नहीं है।"
+   },
+   "key_terms": [
+    "śalya tantra",
+    "yantra",
+    "śastra",
+    "kṣāra",
+    "agni",
+    "ūrdhvajatru",
+    "śālākya",
+    "kāyacikitsā",
+    "bhūtavidyā",
+    "kaumārabhṛtya",
+    "agadatantra",
+    "rasāyana",
+    "vājīkaraṇa"
+   ],
+   "tags": [
+    "ashtanga",
+    "definitions",
+    "shalya"
+   ],
+   "importance": "high",
+   "mnemonic": "Four tools of śalya: Y-Ś-K-A = Yantra, Śastra, Kṣāra, Agni.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sutra.1.9",
+   "word_meanings": [
+    {
+     "sa": "एवम्",
+     "iast": "evam",
+     "en": "thus",
+     "hi": "इस प्रकार"
+    },
+    {
+     "sa": "अयम्",
+     "iast": "ayam",
+     "en": "this",
+     "hi": "यह"
+    },
+    {
+     "sa": "आयुर्वेदः",
+     "iast": "āyurvedaḥ",
+     "en": "Āyurveda",
+     "hi": "आयुर्वेद"
+    },
+    {
+     "sa": "अष्टाङ्गः",
+     "iast": "aṣṭāṅgaḥ",
+     "en": "having eight branches",
+     "hi": "आठ अंगों वाला"
+    },
+    {
+     "sa": "उपदिश्यते",
+     "iast": "upadiśyate",
+     "en": "is taught",
+     "hi": "उपदेश किया जाता है"
+    },
+    {
+     "sa": "अत्र",
+     "iast": "atra",
+     "en": "here",
+     "hi": "इसमें से"
+    },
+    {
+     "sa": "कस्मै",
+     "iast": "kasmai",
+     "en": "to whom",
+     "hi": "किसको"
+    },
+    {
+     "sa": "किम्",
+     "iast": "kim",
+     "en": "what",
+     "hi": "क्या"
+    },
+    {
+     "sa": "उच्यताम्",
+     "iast": "ucyatām",
+     "en": "should be told",
+     "hi": "कहा जाए"
+    },
+    {
+     "sa": "इति",
+     "iast": "iti",
+     "en": "thus (end of question)",
+     "hi": "ऐसा"
+    }
+   ],
+   "english": "\"Thus this Āyurveda is taught as having eight branches. Of these, what should be taught, and to whom?\"",
+   "hindi": "\"इस प्रकार यह आयुर्वेद आठ अंगों वाला बताया जाता है। इनमें से किसे क्या पढ़ाया जाए?\"",
+   "explanation_en": "Dhanvantari, having listed the eight branches, asks the disciples which branch each of them wants to learn. This sets up their choice of surgery in the next verse. It shows that teaching was adapted to the student's aim.",
+   "explanation_hi": "आठ अंग बताने के बाद धन्वन्तरि शिष्यों से पूछते हैं कि उनमें से कौन कौन-सा अंग सीखना चाहता है। इसी से अगले वाक्य में शल्य का चयन होता है। इससे पता चलता है कि शिक्षा शिष्य के उद्देश्य के अनुसार दी जाती थी।",
+   "modern_correlation": null,
+   "key_terms": [
+    "aṣṭāṅga"
+   ],
+   "tags": [
+    "history",
+    "dialogue"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sutra.1.10",
+   "word_meanings": [
+    {
+     "sa": "ते",
+     "iast": "te",
+     "en": "they",
+     "hi": "वे"
+    },
+    {
+     "sa": "ऊचुः",
+     "iast": "ūcuḥ",
+     "en": "said",
+     "hi": "बोले"
+    },
+    {
+     "sa": "अस्माकम्",
+     "iast": "asmākam",
+     "en": "to us",
+     "hi": "हमें"
+    },
+    {
+     "sa": "सर्वेषाम् एव",
+     "iast": "sarveṣām eva",
+     "en": "to all of us",
+     "hi": "हम सबको"
+    },
+    {
+     "sa": "शल्यज्ञानम्",
+     "iast": "śalyajñānam",
+     "en": "knowledge of surgery",
+     "hi": "शल्य का ज्ञान"
+    },
+    {
+     "sa": "मूलम्",
+     "iast": "mūlam",
+     "en": "basis, root",
+     "hi": "मूल, आधार"
+    },
+    {
+     "sa": "कृत्वा",
+     "iast": "kṛtvā",
+     "en": "having made",
+     "hi": "बनाकर"
+    },
+    {
+     "sa": "उपदिशतु",
+     "iast": "upadiśatu",
+     "en": "may teach",
+     "hi": "उपदेश करें"
+    },
+    {
+     "sa": "भगवान्",
+     "iast": "bhagavān",
+     "en": "the revered one",
+     "hi": "भगवान्"
+    },
+    {
+     "sa": "इति",
+     "iast": "iti",
+     "en": "thus",
+     "hi": "ऐसा"
+    }
+   ],
+   "english": "They said: \"May the revered one teach all of us, making the knowledge of surgery (śalya) the basis.\"",
+   "hindi": "वे बोले: \"भगवन्, हम सबको शल्य के ज्ञान को मूल (आधार) बनाकर उपदेश दीजिए।\"",
+   "explanation_en": "All the disciples choose śalya (surgery) as the foundation of their study, with the other branches built around it. This explains why the Suśrutasaṃhitā is the classical text of surgery (śalya-pradhāna), while the Carakasaṃhitā is the text of internal medicine.",
+   "explanation_hi": "सभी शिष्य शल्य को अपनी पढ़ाई का आधार चुनते हैं और बाकी अंग उसके साथ पढ़ना चाहते हैं। इसी कारण सुश्रुतसंहिता शल्य-प्रधान ग्रन्थ है, जबकि चरकसंहिता कायचिकित्सा-प्रधान है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "śalyajñāna"
+   ],
+   "tags": [
+    "history",
+    "shalya"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sutra.1.11",
+   "word_meanings": [
+    {
+     "sa": "सः",
+     "iast": "saḥ",
+     "en": "he",
+     "hi": "उन्होंने"
+    },
+    {
+     "sa": "उवाच",
+     "iast": "uvāca",
+     "en": "said",
+     "hi": "कहा"
+    },
+    {
+     "sa": "एवम्",
+     "iast": "evam",
+     "en": "so",
+     "hi": "ऐसा ही"
+    },
+    {
+     "sa": "अस्तु",
+     "iast": "astu",
+     "en": "let it be",
+     "hi": "हो"
+    },
+    {
+     "sa": "इति",
+     "iast": "iti",
+     "en": "thus",
+     "hi": "इस प्रकार"
+    }
+   ],
+   "english": "He said, \"So be it.\"",
+   "hindi": "उन्होंने कहा: \"ऐसा ही हो।\"",
+   "explanation_en": "Dhanvantari agrees to teach surgery as the main subject. This short reply is part of the dialogue frame of the chapter.",
+   "explanation_hi": "धन्वन्तरि शल्य को मुख्य विषय के रूप में पढ़ाने के लिए सहमत होते हैं। यह छोटा उत्तर अध्याय के संवाद का भाग है।",
+   "modern_correlation": null,
+   "key_terms": [],
+   "tags": [
+    "dialogue"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sutra.1.12",
+   "word_meanings": [
+    {
+     "sa": "ते",
+     "iast": "te",
+     "en": "they",
+     "hi": "वे"
+    },
+    {
+     "sa": "ऊचुः",
+     "iast": "ūcuḥ",
+     "en": "said",
+     "hi": "बोले"
+    },
+    {
+     "sa": "भूयः अपि",
+     "iast": "bhūyaḥ api",
+     "en": "once again",
+     "hi": "फिर से"
+    },
+    {
+     "sa": "भगवन्तम्",
+     "iast": "bhagavantam",
+     "en": "to the revered one",
+     "hi": "भगवान् से"
+    },
+    {
+     "sa": "अस्माकम्",
+     "iast": "asmākam",
+     "en": "our",
+     "hi": "हमारे"
+    },
+    {
+     "sa": "एकमतीनाम्",
+     "iast": "ekamatīnām",
+     "en": "who are of one mind",
+     "hi": "एक मत वाले"
+    },
+    {
+     "sa": "मतम्",
+     "iast": "matam",
+     "en": "opinion",
+     "hi": "मत"
+    },
+    {
+     "sa": "अभिसमीक्ष्य",
+     "iast": "abhisamīkṣya",
+     "en": "having considered",
+     "hi": "विचार करके"
+    },
+    {
+     "sa": "सुश्रुतः",
+     "iast": "suśrutaḥ",
+     "en": "Suśruta",
+     "hi": "सुश्रुत"
+    },
+    {
+     "sa": "प्रक्ष्यति",
+     "iast": "prakṣyati",
+     "en": "will ask",
+     "hi": "पूछेंगे"
+    },
+    {
+     "sa": "अस्मै",
+     "iast": "asmai",
+     "en": "to him",
+     "hi": "उन्हें"
+    },
+    {
+     "sa": "उपदिश्यमानम्",
+     "iast": "upadiśyamānam",
+     "en": "what is taught",
+     "hi": "जो पढ़ाया जाएगा"
+    },
+    {
+     "sa": "वयम् अपि",
+     "iast": "vayam api",
+     "en": "we too",
+     "hi": "हम भी"
+    },
+    {
+     "sa": "उपधारयिष्यामः",
+     "iast": "upadhārayiṣyāmaḥ",
+     "en": "shall grasp",
+     "hi": "ग्रहण करेंगे"
+    }
+   ],
+   "english": "They spoke again to the revered one: \"Having considered the opinion of all of us, who are of one mind, Suśruta will put questions to you, and we too shall grasp what is taught to him.\"",
+   "hindi": "वे फिर भगवान् से बोले: \"हम सब एक मत हैं; हमारे मत पर विचार करके सुश्रुत आपसे प्रश्न करेंगे, और जो उन्हें पढ़ाया जाएगा उसे हम भी ग्रहण करेंगे।\"",
+   "explanation_en": "The disciples choose Suśruta as their spokesman. This is why the whole text is addressed to Suśruta (\"vatsa Suśruta\") and is named after him. Exam tip: the Saṃhitā is called Suśruta because Suśruta asked the questions and recorded the answers of Dhanvantari.",
+   "explanation_hi": "शिष्य सुश्रुत को अपना प्रतिनिधि चुनते हैं। इसी कारण पूरा ग्रन्थ सुश्रुत को सम्बोधित है (\"वत्स सुश्रुत\") और उन्हीं के नाम से जाना जाता है। परीक्षा के लिए: इसे सुश्रुतसंहिता इसलिए कहते हैं क्योंकि सुश्रुत ने प्रश्न पूछे और धन्वन्तरि के उत्तर लिखे।",
+   "modern_correlation": null,
+   "key_terms": [
+    "Suśruta"
+   ],
+   "tags": [
+    "history",
+    "dialogue"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sutra.1.13",
+   "word_meanings": [
+    {
+     "sa": "सः",
+     "iast": "saḥ",
+     "en": "he",
+     "hi": "उन्होंने"
+    },
+    {
+     "sa": "ह",
+     "iast": "ha",
+     "en": "indeed",
+     "hi": "निश्चय ही"
+    },
+    {
+     "sa": "उवाच",
+     "iast": "uvāca",
+     "en": "said",
+     "hi": "कहा"
+    },
+    {
+     "sa": "एवम् अस्तु",
+     "iast": "evam astu",
+     "en": "so be it",
+     "hi": "ऐसा ही हो"
+    },
+    {
+     "sa": "इति",
+     "iast": "iti",
+     "en": "thus",
+     "hi": "इस प्रकार"
+    }
+   ],
+   "english": "He said, \"So be it.\"",
+   "hindi": "उन्होंने कहा: \"ऐसा ही हो।\"",
+   "explanation_en": "Dhanvantari accepts Suśruta as the questioner on behalf of all. From here on, the teaching is addressed directly to Suśruta.",
+   "explanation_hi": "धन्वन्तरि सबकी ओर से सुश्रुत को प्रश्नकर्ता स्वीकार करते हैं। यहाँ से आगे उपदेश सीधे सुश्रुत को दिया गया है।",
+   "modern_correlation": null,
+   "key_terms": [],
+   "tags": [
+    "dialogue"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sutra.1.14",
+   "word_meanings": [
+    {
+     "sa": "वत्स",
+     "iast": "vatsa",
+     "en": "dear child",
+     "hi": "वत्स"
+    },
+    {
+     "sa": "सुश्रुत",
+     "iast": "suśruta",
+     "en": "O Suśruta",
+     "hi": "हे सुश्रुत"
+    },
+    {
+     "sa": "इह",
+     "iast": "iha",
+     "en": "here",
+     "hi": "यहाँ"
+    },
+    {
+     "sa": "खलु",
+     "iast": "khalu",
+     "en": "indeed",
+     "hi": "निश्चय ही"
+    },
+    {
+     "sa": "आयुर्वेदप्रयोजनम्",
+     "iast": "āyurvedaprayojanam",
+     "en": "the purpose of Āyurveda",
+     "hi": "आयुर्वेद का प्रयोजन"
+    },
+    {
+     "sa": "व्याध्युपसृष्टानाम्",
+     "iast": "vyādhyupasṛṣṭānām",
+     "en": "of those afflicted by disease",
+     "hi": "रोग से पीड़ितों का"
+    },
+    {
+     "sa": "व्याधिपरिमोक्षः",
+     "iast": "vyādhiparimokṣaḥ",
+     "en": "freeing from disease",
+     "hi": "रोग से मुक्ति"
+    },
+    {
+     "sa": "स्वस्थस्य",
+     "iast": "svasthasya",
+     "en": "of the healthy",
+     "hi": "स्वस्थ व्यक्ति का"
+    },
+    {
+     "sa": "रक्षणम्",
+     "iast": "rakṣaṇam",
+     "en": "protection",
+     "hi": "रक्षा"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    }
+   ],
+   "english": "\"Dear Suśruta, the purpose of Āyurveda is to free those afflicted by disease from their disease, and to protect the health of the healthy.\"",
+   "hindi": "\"वत्स सुश्रुत! आयुर्वेद का प्रयोजन है: रोग से पीड़ित लोगों को रोग से मुक्त करना और स्वस्थ व्यक्ति के स्वास्थ्य की रक्षा करना।\"",
+   "explanation_en": "This is the famous twofold purpose (prayojana) of Āyurveda: curing the sick and preserving the health of the healthy. Caraka gives the same idea (Ca. Sū. 30.26) but puts the healthy first. Suśruta, writing as a clinician, puts treatment of the sick first. This verse is very commonly asked.",
+   "explanation_hi": "यह आयुर्वेद का प्रसिद्ध दोहरा प्रयोजन है: रोगी का रोग दूर करना और स्वस्थ के स्वास्थ्य की रक्षा करना। चरक भी यही कहते हैं (च. सू. 30.26) पर वे स्वस्थ को पहले रखते हैं। सुश्रुत, चिकित्सक होने के नाते, रोगी के उपचार को पहले रखते हैं। यह श्लोक बहुत अधिक पूछा जाता है।",
+   "modern_correlation": {
+    "en": "The twofold aim is often compared to the two arms of modern health care: curative medicine and preventive/promotive medicine (public health).",
+    "hi": "इस दोहरे उद्देश्य की तुलना अक्सर आधुनिक स्वास्थ्य-सेवा की दो शाखाओं से की जाती है: रोगनिवारक (curative) चिकित्सा और निवारक/संवर्धक (preventive/promotive) चिकित्सा।"
+   },
+   "key_terms": [
+    "āyurveda prayojana",
+    "svastha",
+    "vyādhiparimokṣa"
+   ],
+   "tags": [
+    "purpose",
+    "definitions"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sutra.1.15",
+   "word_meanings": [
+    {
+     "sa": "आयुः",
+     "iast": "āyuḥ",
+     "en": "life",
+     "hi": "आयु"
+    },
+    {
+     "sa": "अस्मिन्",
+     "iast": "asmin",
+     "en": "in this",
+     "hi": "इसमें"
+    },
+    {
+     "sa": "विद्यते",
+     "iast": "vidyate",
+     "en": "exists (is known)",
+     "hi": "है, जाना जाता है"
+    },
+    {
+     "sa": "अनेन",
+     "iast": "anena",
+     "en": "by this",
+     "hi": "इससे"
+    },
+    {
+     "sa": "वा",
+     "iast": "vā",
+     "en": "or",
+     "hi": "या"
+    },
+    {
+     "sa": "आयुः",
+     "iast": "āyuḥ",
+     "en": "life",
+     "hi": "आयु"
+    },
+    {
+     "sa": "विन्दति",
+     "iast": "vindati",
+     "en": "one obtains",
+     "hi": "प्राप्त करता है"
+    },
+    {
+     "sa": "इति",
+     "iast": "iti",
+     "en": "hence",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "आयुर्वेदः",
+     "iast": "āyurvedaḥ",
+     "en": "Āyurveda",
+     "hi": "आयुर्वेद"
+    }
+   ],
+   "english": "It is called Āyurveda because in it life (āyus) is known (vidyate), or because by it one obtains (vindati) life.",
+   "hindi": "इसे आयुर्वेद इसलिए कहते हैं क्योंकि इसमें आयु का ज्ञान है, या इसके द्वारा आयु प्राप्त होती है।",
+   "explanation_en": "This is Suśruta's derivation (nirukti) of the word Āyurveda, using two meanings of the root \"vid\": to know (vidyate) and to obtain (vindati). Note the sandhi: \"anena vā āyur\" appears as \"anena vāyur\". Compare Caraka's definition (Ca. Sū. 30.23) which defines it through hita-ahita and sukha-duḥkha āyu. Short-answer favourite: \"Define Āyurveda as per Suśruta.\"",
+   "explanation_hi": "यह आयुर्वेद शब्द की सुश्रुत द्वारा दी गई निरुक्ति है, जिसमें \"विद्\" धातु के दो अर्थ लिए गए हैं: जानना (विद्यते) और प्राप्त करना (विन्दति)। सन्धि पर ध्यान दें: \"अनेन वा आयुः\" ही \"अनेन वायुः\" के रूप में लिखा है। चरक की परिभाषा (च. सू. 30.23) से तुलना करें। परीक्षा में अक्सर पूछा जाता है: \"सुश्रुत के अनुसार आयुर्वेद की परिभाषा दें।\"",
+   "modern_correlation": null,
+   "key_terms": [
+    "āyurveda",
+    "nirukti",
+    "āyus"
+   ],
+   "tags": [
+    "definitions"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sutra.1.16",
+   "word_meanings": [
+    {
+     "sa": "तस्य",
+     "iast": "tasya",
+     "en": "of that (Āyurveda)",
+     "hi": "उस (आयुर्वेद) का"
+    },
+    {
+     "sa": "अङ्गवरम्",
+     "iast": "aṅgavaram",
+     "en": "the best branch",
+     "hi": "श्रेष्ठ अंग"
+    },
+    {
+     "sa": "आद्यम्",
+     "iast": "ādyam",
+     "en": "the first",
+     "hi": "पहला"
+    },
+    {
+     "sa": "प्रत्यक्ष",
+     "iast": "pratyakṣa",
+     "en": "direct perception",
+     "hi": "प्रत्यक्ष"
+    },
+    {
+     "sa": "आगम",
+     "iast": "āgama",
+     "en": "authoritative testimony",
+     "hi": "आगम (आप्तवचन)"
+    },
+    {
+     "sa": "अनुमान",
+     "iast": "anumāna",
+     "en": "inference",
+     "hi": "अनुमान"
+    },
+    {
+     "sa": "उपमानैः",
+     "iast": "upamānaiḥ",
+     "en": "and analogy",
+     "hi": "और उपमान से"
+    },
+    {
+     "sa": "अविरुद्धम्",
+     "iast": "aviruddham",
+     "en": "not contradicted",
+     "hi": "अविरुद्ध"
+    },
+    {
+     "sa": "उच्यमानम्",
+     "iast": "ucyamānam",
+     "en": "being taught",
+     "hi": "कहा जाता हुआ"
+    },
+    {
+     "sa": "उपधारय",
+     "iast": "upadhāraya",
+     "en": "grasp, understand",
+     "hi": "ग्रहण करो"
+    }
+   ],
+   "english": "\"Understand from me the first and best branch of Āyurveda (śalya), which I am teaching, and which is not contradicted by perception (pratyakṣa), authoritative testimony (āgama), inference (anumāna) and analogy (upamāna).\"",
+   "hindi": "\"आयुर्वेद के पहले और श्रेष्ठ अंग (शल्य) को, जिसे मैं बता रहा हूँ और जो प्रत्यक्ष, आगम, अनुमान और उपमान प्रमाणों से अविरुद्ध है, ध्यान से ग्रहण करो।\"",
+   "explanation_en": "Dhanvantari begins teaching śalya, calling it the first and best branch. He says it agrees with the four means of valid knowledge (pramāṇa): pratyakṣa, āgama, anumāna and upamāna. Note that Suśruta accepts four pramāṇas here (Caraka adds yukti in Sū 11). Exam tip: \"pramāṇa catuṣṭaya in Suśruta\".",
+   "explanation_hi": "धन्वन्तरि शल्य को पहला और श्रेष्ठ अंग कहकर उसका उपदेश शुरू करते हैं। वे कहते हैं कि यह चारों प्रमाणों से अविरुद्ध है: प्रत्यक्ष, आगम, अनुमान और उपमान। ध्यान दें कि यहाँ सुश्रुत चार प्रमाण मानते हैं (चरक सूत्रस्थान 11 में युक्ति भी जोड़ते हैं)। परीक्षा के लिए: \"सुश्रुत के अनुसार प्रमाण-चतुष्टय\"।",
+   "modern_correlation": null,
+   "key_terms": [
+    "pramāṇa",
+    "pratyakṣa",
+    "āgama",
+    "anumāna",
+    "upamāna"
+   ],
+   "tags": [
+    "pramana",
+    "shalya"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sutra.1.17",
+   "word_meanings": [
+    {
+     "sa": "एतत्",
+     "iast": "etat",
+     "en": "this",
+     "hi": "यह"
+    },
+    {
+     "sa": "हि",
+     "iast": "hi",
+     "en": "indeed",
+     "hi": "निश्चय ही"
+    },
+    {
+     "sa": "अङ्गम्",
+     "iast": "aṅgam",
+     "en": "branch",
+     "hi": "अंग"
+    },
+    {
+     "sa": "प्रथमम्",
+     "iast": "prathamam",
+     "en": "first",
+     "hi": "पहला"
+    },
+    {
+     "sa": "प्राक्",
+     "iast": "prāk",
+     "en": "earlier (in time)",
+     "hi": "पहले"
+    },
+    {
+     "sa": "अभिघातव्रणसंरोहात्",
+     "iast": "abhighātavraṇasaṃrohāt",
+     "en": "because of healing of traumatic wounds",
+     "hi": "चोट के घावों को भरने के कारण"
+    },
+    {
+     "sa": "यज्ञशिरःसंधानात्",
+     "iast": "yajñaśiraḥsaṃdhānāt",
+     "en": "because of rejoining the head of Yajña",
+     "hi": "यज्ञ के सिर को जोड़ने के कारण"
+    },
+    {
+     "sa": "श्रूयते",
+     "iast": "śrūyate",
+     "en": "it is heard (traditionally told)",
+     "hi": "सुना जाता है"
+    },
+    {
+     "sa": "रुद्रेण",
+     "iast": "rudreṇa",
+     "en": "by Rudra",
+     "hi": "रुद्र द्वारा"
+    },
+    {
+     "sa": "यज्ञस्य",
+     "iast": "yajñasya",
+     "en": "of Yajña",
+     "hi": "यज्ञ का"
+    },
+    {
+     "sa": "शिरः",
+     "iast": "śiraḥ",
+     "en": "head",
+     "hi": "सिर"
+    },
+    {
+     "sa": "छिन्नम्",
+     "iast": "chinnam",
+     "en": "cut off",
+     "hi": "काटा गया"
+    },
+    {
+     "sa": "देवाः",
+     "iast": "devāḥ",
+     "en": "the gods",
+     "hi": "देवता"
+    },
+    {
+     "sa": "अश्विनौ",
+     "iast": "aśvinau",
+     "en": "the two Aśvins",
+     "hi": "दोनों अश्विनीकुमार"
+    },
+    {
+     "sa": "अभिगम्य",
+     "iast": "abhigamya",
+     "en": "approaching",
+     "hi": "पास जाकर"
+    },
+    {
+     "sa": "भगवन्तौ",
+     "iast": "bhagavantau",
+     "en": "O revered pair",
+     "hi": "हे भगवन्तो"
+    },
+    {
+     "sa": "नः",
+     "iast": "naḥ",
+     "en": "our",
+     "hi": "हमारे"
+    },
+    {
+     "sa": "श्रेष्ठतमौ",
+     "iast": "śreṣṭhatamau",
+     "en": "the very best",
+     "hi": "सबसे श्रेष्ठ"
+    },
+    {
+     "sa": "युवाम्",
+     "iast": "yuvām",
+     "en": "you two",
+     "hi": "आप दोनों"
+    },
+    {
+     "sa": "भविष्यथः",
+     "iast": "bhaviṣyathaḥ",
+     "en": "will be",
+     "hi": "होंगे"
+    },
+    {
+     "sa": "संधातव्यम्",
+     "iast": "saṃdhātavyam",
+     "en": "should be joined",
+     "hi": "जोड़ा जाना चाहिए"
+    },
+    {
+     "sa": "ऊचतुः",
+     "iast": "ūcatuḥ",
+     "en": "the two said",
+     "hi": "दोनों बोले"
+    },
+    {
+     "sa": "तयोः अर्थे",
+     "iast": "tayoḥ arthe",
+     "en": "for their sake",
+     "hi": "उनके लिए"
+    },
+    {
+     "sa": "इन्द्रम्",
+     "iast": "indram",
+     "en": "Indra",
+     "hi": "इन्द्र को"
+    },
+    {
+     "sa": "यज्ञभागेन",
+     "iast": "yajñabhāgena",
+     "en": "with a share in the sacrifice",
+     "hi": "यज्ञ में भाग देकर"
+    },
+    {
+     "sa": "प्रासादयन्",
+     "iast": "prāsādayan",
+     "en": "pleased, propitiated",
+     "hi": "प्रसन्न किया"
+    },
+    {
+     "sa": "ताभ्याम्",
+     "iast": "tābhyām",
+     "en": "by those two",
+     "hi": "उन दोनों द्वारा"
+    },
+    {
+     "sa": "संहितम्",
+     "iast": "saṃhitam",
+     "en": "was joined",
+     "hi": "जोड़ा गया"
+    }
+   ],
+   "english": "\"This branch is the first (oldest), because it came earlier through the healing of traumatic wounds and the rejoining of the head of Yajña. For it is told that Rudra cut off the head of Yajña. Then the gods approached the two Aśvins and said: 'Revered ones, you two will be the best among us; you should join the head of Yajña.' The two said, 'So be it.' Then, for their sake, the gods pleased Indra by giving them a share in the sacrifice, and the two Aśvins rejoined the head of Yajña.\"",
+   "hindi": "\"यह अंग सबसे पहला (प्राचीन) है, क्योंकि चोट के घावों को भरना और यज्ञ के कटे सिर को जोड़ना पहले हुआ। कथा है कि रुद्र ने यज्ञ का सिर काट दिया था। तब देवता दोनों अश्विनीकुमारों के पास गए और बोले: 'आप दोनों हम सबमें श्रेष्ठ होंगे; आप यज्ञ का सिर जोड़ दीजिए।' दोनों ने कहा: 'ऐसा ही हो।' फिर उनके लिए देवताओं ने इन्द्र को प्रसन्न करके अश्विनों को यज्ञ में भाग दिलाया, और अश्विनों ने यज्ञ का सिर जोड़ दिया।\"",
+   "explanation_en": "Suśruta gives two reasons why śalya is the first branch: healing of injuries was humanity's earliest medical need, and the mythical first surgery was the Aśvins rejoining Yajña's severed head. The Aśvins are thus regarded as the first surgeons among the gods. This story is often asked as evidence of the antiquity of surgery in Indian tradition.",
+   "explanation_hi": "सुश्रुत शल्य को पहला अंग मानने के दो कारण देते हैं: चोटों को भरना मनुष्य की सबसे पुरानी चिकित्सा-आवश्यकता थी, और पौराणिक कथा में पहली शल्यक्रिया अश्विनीकुमारों द्वारा यज्ञ के कटे सिर को जोड़ना थी। इसलिए अश्विनीकुमार देवताओं के पहले शल्य-चिकित्सक माने जाते हैं। यह कथा शल्य की प्राचीनता के प्रमाण के रूप में अक्सर पूछी जाती है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "Aśvinīkumāra",
+    "yajñaśiraḥsaṃdhāna",
+    "abhighāta vraṇa"
+   ],
+   "tags": [
+    "history",
+    "shalya",
+    "mythology"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sutra.1.18",
+   "word_meanings": [
+    {
+     "sa": "अष्टासु अपि",
+     "iast": "aṣṭāsu api",
+     "en": "even among the eight",
+     "hi": "आठों में भी"
+    },
+    {
+     "sa": "आयुर्वेदतन्त्रेषु",
+     "iast": "āyurvedatantreṣu",
+     "en": "branches of Āyurveda",
+     "hi": "आयुर्वेद के तन्त्रों में"
+    },
+    {
+     "sa": "एतत् एव",
+     "iast": "etat eva",
+     "en": "this alone",
+     "hi": "यही"
+    },
+    {
+     "sa": "अधिकम्",
+     "iast": "adhikam",
+     "en": "superior",
+     "hi": "श्रेष्ठ"
+    },
+    {
+     "sa": "अभिमतम्",
+     "iast": "abhimatam",
+     "en": "is regarded",
+     "hi": "माना गया है"
+    },
+    {
+     "sa": "आशुक्रियाकरणात्",
+     "iast": "āśukriyākaraṇāt",
+     "en": "because it acts quickly",
+     "hi": "शीघ्र कार्य करने के कारण"
+    },
+    {
+     "sa": "यन्त्र शस्त्र क्षार अग्नि प्रणिधानात्",
+     "iast": "yantra śastra kṣāra agni praṇidhānāt",
+     "en": "because of the use of instruments, sharp tools, alkali and fire",
+     "hi": "यन्त्र, शस्त्र, क्षार और अग्नि के प्रयोग के कारण"
+    },
+    {
+     "sa": "सर्वतन्त्रसामान्यात्",
+     "iast": "sarvatantrasāmānyāt",
+     "en": "because it is common to all branches",
+     "hi": "सभी तन्त्रों में समान होने के कारण"
+    }
+   ],
+   "english": "\"Among all the eight branches of Āyurveda, this one is regarded as the most important, because it gives quick results, because it uses blunt instruments, sharp instruments, alkali and fire, and because it is common to all the branches.\"",
+   "hindi": "\"आयुर्वेद के आठों तन्त्रों में यही (शल्य) सबसे श्रेष्ठ माना गया है, क्योंकि इससे शीघ्र लाभ होता है, इसमें यन्त्र, शस्त्र, क्षार और अग्नि का प्रयोग होता है, और यह सभी तन्त्रों में समान रूप से काम आता है।\"",
+   "explanation_en": "Three reasons for the superiority of śalya tantra: (1) āśukriyākaraṇa, quick action; (2) use of yantra, śastra, kṣāra and agni; (3) sarvatantrasāmānya, it is useful in all other branches (for example, eye surgery in śālākya, delivery of an obstructed foetus in obstetrics). This list of three reasons is a very common exam question.",
+   "explanation_hi": "शल्य तन्त्र की श्रेष्ठता के तीन कारण: (1) आशुक्रियाकरण, यानी शीघ्र लाभ; (2) यन्त्र, शस्त्र, क्षार और अग्नि का प्रयोग; (3) सर्वतन्त्रसामान्य, यानी यह अन्य सभी अंगों में काम आता है (जैसे शालाक्य में नेत्र-शल्य, प्रसूति में अटके गर्भ को निकालना)। ये तीन कारण परीक्षा में बहुत पूछे जाते हैं।",
+   "modern_correlation": {
+    "en": "Surgery is valued in modern medicine too for rapid, often definitive results in conditions such as trauma, obstruction or abscess, and surgical skills are used across many specialties.",
+    "hi": "आधुनिक चिकित्सा में भी सर्जरी को चोट, अवरोध या फोड़े जैसी स्थितियों में तेज़ और अक्सर निर्णायक परिणाम के लिए महत्व दिया जाता है, और सर्जिकल कौशल कई विशेषज्ञताओं में उपयोग होता है।"
+   },
+   "key_terms": [
+    "śalya tantra",
+    "āśukriyākaraṇa",
+    "sarvatantrasāmānya"
+   ],
+   "tags": [
+    "shalya",
+    "superiority"
+   ],
+   "importance": "high",
+   "mnemonic": "Why śalya is best: \"Quick, Tools, Common to all\".",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sutra.1.19",
+   "word_meanings": [
+    {
+     "sa": "तत् इदम्",
+     "iast": "tat idam",
+     "en": "this (branch)",
+     "hi": "यह"
+    },
+    {
+     "sa": "शाश्वतम्",
+     "iast": "śāśvatam",
+     "en": "eternal",
+     "hi": "शाश्वत"
+    },
+    {
+     "sa": "पुण्यम्",
+     "iast": "puṇyam",
+     "en": "meritorious",
+     "hi": "पुण्यदायक"
+    },
+    {
+     "sa": "स्वर्ग्यम्",
+     "iast": "svargyam",
+     "en": "leading to heaven",
+     "hi": "स्वर्ग देने वाला"
+    },
+    {
+     "sa": "यशस्यम्",
+     "iast": "yaśasyam",
+     "en": "bringing fame",
+     "hi": "यश देने वाला"
+    },
+    {
+     "sa": "आयुष्यम्",
+     "iast": "āyuṣyam",
+     "en": "promoting life",
+     "hi": "आयु बढ़ाने वाला"
+    },
+    {
+     "sa": "वृत्तिकरम्",
+     "iast": "vṛttikaram",
+     "en": "providing livelihood",
+     "hi": "आजीविका देने वाला"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "इति",
+     "iast": "iti",
+     "en": "thus",
+     "hi": "इस प्रकार"
+    }
+   ],
+   "english": "\"This (science) is eternal, meritorious, leads to heaven, brings fame, promotes life and provides a livelihood.\"",
+   "hindi": "\"यह (शल्य-शास्त्र) शाश्वत, पुण्यदायक, स्वर्ग देने वाला, यश देने वाला, आयु बढ़ाने वाला और आजीविका देने वाला है।\"",
+   "explanation_en": "Six praises of the science are given: śāśvata, puṇya, svargya, yaśasya, āyuṣya, vṛttikara. These show that medicine served both spiritual and worldly goals for the physician. Remember the six adjectives as a list.",
+   "explanation_hi": "यहाँ शास्त्र की छह प्रशंसाएँ दी गई हैं: शाश्वत, पुण्य, स्वर्ग्य, यशस्य, आयुष्य, वृत्तिकर। इनसे पता चलता है कि चिकित्सा वैद्य के लिए धार्मिक और सांसारिक दोनों लक्ष्यों को पूरा करती थी। छह विशेषण सूची के रूप में याद रखें।",
+   "modern_correlation": null,
+   "key_terms": [
+    "śāśvata",
+    "vṛttikara"
+   ],
+   "tags": [
+    "praise"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sutra.1.20",
+   "word_meanings": [
+    {
+     "sa": "ब्रह्मा",
+     "iast": "brahmā",
+     "en": "Brahmā",
+     "hi": "ब्रह्मा"
+    },
+    {
+     "sa": "प्रोवाच",
+     "iast": "provāca",
+     "en": "proclaimed",
+     "hi": "ने कहा"
+    },
+    {
+     "sa": "ततः",
+     "iast": "tataḥ",
+     "en": "from him",
+     "hi": "उनसे"
+    },
+    {
+     "sa": "प्रजापतिः",
+     "iast": "prajāpatiḥ",
+     "en": "Prajāpati (Dakṣa)",
+     "hi": "प्रजापति (दक्ष)"
+    },
+    {
+     "sa": "अधिजगे",
+     "iast": "adhijage",
+     "en": "learned",
+     "hi": "ने सीखा"
+    },
+    {
+     "sa": "तस्मात्",
+     "iast": "tasmāt",
+     "en": "from him",
+     "hi": "उनसे"
+    },
+    {
+     "sa": "अश्विनौ",
+     "iast": "aśvinau",
+     "en": "the two Aśvins",
+     "hi": "दोनों अश्विनीकुमार"
+    },
+    {
+     "sa": "अश्विभ्याम्",
+     "iast": "aśvibhyām",
+     "en": "from the Aśvins",
+     "hi": "अश्विनों से"
+    },
+    {
+     "sa": "इन्द्रः",
+     "iast": "indraḥ",
+     "en": "Indra",
+     "hi": "इन्द्र"
+    },
+    {
+     "sa": "इन्द्रात्",
+     "iast": "indrāt",
+     "en": "from Indra",
+     "hi": "इन्द्र से"
+    },
+    {
+     "sa": "अहम्",
+     "iast": "aham",
+     "en": "I",
+     "hi": "मैंने"
+    },
+    {
+     "sa": "मया",
+     "iast": "mayā",
+     "en": "by me",
+     "hi": "मेरे द्वारा"
+    },
+    {
+     "sa": "इह",
+     "iast": "iha",
+     "en": "here (on earth)",
+     "hi": "यहाँ (पृथ्वी पर)"
+    },
+    {
+     "sa": "प्रदेयम्",
+     "iast": "pradeyam",
+     "en": "is to be given",
+     "hi": "दिया जाना है"
+    },
+    {
+     "sa": "अर्थिभ्यः",
+     "iast": "arthibhyaḥ",
+     "en": "to those who seek it",
+     "hi": "चाहने वालों को"
+    },
+    {
+     "sa": "प्रजाहितहेतोः",
+     "iast": "prajāhitahetoḥ",
+     "en": "for the welfare of people",
+     "hi": "प्रजा के हित के लिए"
+    }
+   ],
+   "english": "\"Brahmā proclaimed it; from him Prajāpati learned it; from him the Aśvins; from the Aśvins, Indra; and from Indra, I. Here on earth I am to give it to those who seek it, for the welfare of the people.\"",
+   "hindi": "\"ब्रह्मा ने इसे कहा; उनसे प्रजापति ने सीखा; उनसे अश्विनीकुमारों ने; अश्विनों से इन्द्र ने; और इन्द्र से मैंने। अब मुझे इसे यहाँ (पृथ्वी पर) प्रजा के हित के लिए चाहने वालों को देना है।\"",
+   "explanation_en": "This is the lineage (avataraṇa) of Āyurveda according to Suśruta: Brahmā → Prajāpati → Aśvins → Indra → Dhanvantari → Suśruta and others. Caraka's line differs after Indra (Indra → Bharadvāja → Ātreya → Agniveśa and others). Comparing the two lineages is a classic exam question.",
+   "explanation_hi": "यह सुश्रुत के अनुसार आयुर्वेद की परम्परा (अवतरण) है: ब्रह्मा → प्रजापति → अश्विनीकुमार → इन्द्र → धन्वन्तरि → सुश्रुत आदि। चरक की परम्परा इन्द्र के बाद अलग है (इन्द्र → भरद्वाज → आत्रेय → अग्निवेश आदि)। दोनों परम्पराओं की तुलना परीक्षा का पुराना प्रश्न है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "āyurvedāvataraṇa",
+    "Brahmā",
+    "Prajāpati",
+    "Aśvinīkumāra",
+    "Indra",
+    "Dhanvantari"
+   ],
+   "tags": [
+    "history",
+    "lineage"
+   ],
+   "importance": "high",
+   "mnemonic": "B-P-A-I-D: Brahmā, Prajāpati, Aśvins, Indra, Dhanvantari (\"Big People Always Inspire Doctors\").",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sutra.1.21",
+   "word_meanings": [
+    {
+     "sa": "भवति च अत्र",
+     "iast": "bhavati ca atra",
+     "en": "and here there is (a verse)",
+     "hi": "और यहाँ (श्लोक) है"
+    },
+    {
+     "sa": "अहम्",
+     "iast": "aham",
+     "en": "I",
+     "hi": "मैं"
+    },
+    {
+     "sa": "धन्वन्तरिः",
+     "iast": "dhanvantariḥ",
+     "en": "Dhanvantari",
+     "hi": "धन्वन्तरि"
+    },
+    {
+     "sa": "आदिदेवः",
+     "iast": "ādidevaḥ",
+     "en": "the first god",
+     "hi": "आदिदेव"
+    },
+    {
+     "sa": "जरा",
+     "iast": "jarā",
+     "en": "old age",
+     "hi": "बुढ़ापा"
+    },
+    {
+     "sa": "रुजा",
+     "iast": "rujā",
+     "en": "disease",
+     "hi": "रोग"
+    },
+    {
+     "sa": "मृत्यु",
+     "iast": "mṛtyu",
+     "en": "death",
+     "hi": "मृत्यु"
+    },
+    {
+     "sa": "हरः",
+     "iast": "haraḥ",
+     "en": "remover",
+     "hi": "हरने वाला"
+    },
+    {
+     "sa": "अमराणाम्",
+     "iast": "amarāṇām",
+     "en": "of the immortals",
+     "hi": "देवताओं के"
+    },
+    {
+     "sa": "शल्याङ्गम्",
+     "iast": "śalyāṅgam",
+     "en": "the branch of surgery",
+     "hi": "शल्य अंग"
+    },
+    {
+     "sa": "अङ्गैः अपरैः",
+     "iast": "aṅgaiḥ aparaiḥ",
+     "en": "with the other branches",
+     "hi": "अन्य अंगों के साथ"
+    },
+    {
+     "sa": "उपेतम्",
+     "iast": "upetam",
+     "en": "accompanied",
+     "hi": "युक्त"
+    },
+    {
+     "sa": "प्राप्तः अस्मि",
+     "iast": "prāptaḥ asmi",
+     "en": "I have come",
+     "hi": "मैं आया हूँ"
+    },
+    {
+     "sa": "गाम्",
+     "iast": "gām",
+     "en": "to the earth",
+     "hi": "पृथ्वी पर"
+    },
+    {
+     "sa": "भूयः",
+     "iast": "bhūyaḥ",
+     "en": "again",
+     "hi": "फिर से"
+    },
+    {
+     "sa": "इह",
+     "iast": "iha",
+     "en": "here",
+     "hi": "यहाँ"
+    },
+    {
+     "sa": "उपदेष्टुम्",
+     "iast": "upadeṣṭum",
+     "en": "to teach",
+     "hi": "उपदेश देने के लिए"
+    }
+   ],
+   "english": "Here there is a verse: \"I am Dhanvantari, the first god, who removed old age, disease and death from the immortals. I have come to the earth again to teach the branch of surgery together with the other branches.\"",
+   "hindi": "यहाँ एक श्लोक है: \"मैं आदिदेव धन्वन्तरि हूँ, जिसने देवताओं के बुढ़ापे, रोग और मृत्यु को दूर किया। मैं शल्य अंग को अन्य अंगों सहित पढ़ाने के लिए फिर से पृथ्वी पर आया हूँ।\"",
+   "explanation_en": "Dhanvantari declares his divine identity: he is the god of medicine who has taken birth on earth (as Divodāsa) to teach surgery along with the other seven branches. \"Śalyāṅgam aṅgair aparair upetam\" summarises the plan of the Suśrutasaṃhitā: surgery first, other branches alongside. This verse is often quoted to answer \"Who is Dhanvantari?\".",
+   "explanation_hi": "धन्वन्तरि अपना दिव्य परिचय देते हैं: वे चिकित्सा के देवता हैं, जिन्होंने (दिवोदास के रूप में) पृथ्वी पर जन्म लिया ताकि शल्य को अन्य सात अंगों सहित पढ़ा सकें। \"शल्याङ्गमङ्गैरपरैरुपेतम्\" सुश्रुतसंहिता की योजना का सार है: शल्य प्रमुख, बाकी अंग साथ में। \"धन्वन्तरि कौन हैं?\" इसके उत्तर में यह श्लोक दिया जाता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "Dhanvantari",
+    "ādideva",
+    "śalyāṅga"
+   ],
+   "tags": [
+    "history",
+    "lineage"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sutra.1.22",
+   "word_meanings": [
+    {
+     "sa": "अस्मिन् शास्त्रे",
+     "iast": "asmin śāstre",
+     "en": "in this science",
+     "hi": "इस शास्त्र में"
+    },
+    {
+     "sa": "पञ्चमहाभूत",
+     "iast": "pañcamahābhūta",
+     "en": "the five great elements",
+     "hi": "पाँच महाभूत"
+    },
+    {
+     "sa": "शरीरि",
+     "iast": "śarīri",
+     "en": "the embodied one (soul)",
+     "hi": "शरीरी (आत्मा)"
+    },
+    {
+     "sa": "समवायः",
+     "iast": "samavāyaḥ",
+     "en": "union, combination",
+     "hi": "संयोग, समवाय"
+    },
+    {
+     "sa": "पुरुषः",
+     "iast": "puruṣaḥ",
+     "en": "the person",
+     "hi": "पुरुष"
+    },
+    {
+     "sa": "उच्यते",
+     "iast": "ucyate",
+     "en": "is called",
+     "hi": "कहा जाता है"
+    },
+    {
+     "sa": "तस्मिन्",
+     "iast": "tasmin",
+     "en": "in him",
+     "hi": "उसमें"
+    },
+    {
+     "sa": "क्रिया",
+     "iast": "kriyā",
+     "en": "treatment",
+     "hi": "चिकित्सा"
+    },
+    {
+     "sa": "सः",
+     "iast": "saḥ",
+     "en": "he",
+     "hi": "वह"
+    },
+    {
+     "sa": "अधिष्ठानम्",
+     "iast": "adhiṣṭhānam",
+     "en": "the substratum, seat",
+     "hi": "अधिष्ठान, आधार"
+    },
+    {
+     "sa": "कस्मात्",
+     "iast": "kasmāt",
+     "en": "why?",
+     "hi": "क्यों?"
+    },
+    {
+     "sa": "लोकस्य",
+     "iast": "lokasya",
+     "en": "of the world",
+     "hi": "संसार के"
+    },
+    {
+     "sa": "द्वैविध्यात्",
+     "iast": "dvaividhyāt",
+     "en": "because of being twofold",
+     "hi": "दो प्रकार का होने से"
+    },
+    {
+     "sa": "लोकः",
+     "iast": "lokaḥ",
+     "en": "the world",
+     "hi": "संसार"
+    },
+    {
+     "sa": "द्विविधः",
+     "iast": "dvividhaḥ",
+     "en": "twofold",
+     "hi": "दो प्रकार का"
+    },
+    {
+     "sa": "स्थावरः",
+     "iast": "sthāvaraḥ",
+     "en": "immobile",
+     "hi": "स्थावर (अचल)"
+    },
+    {
+     "sa": "जङ्गमः",
+     "iast": "jaṅgamaḥ",
+     "en": "mobile",
+     "hi": "जंगम (चल)"
+    },
+    {
+     "sa": "द्विविधात्मकः",
+     "iast": "dvividhātmakaḥ",
+     "en": "twofold in nature",
+     "hi": "दो स्वभाव वाला"
+    },
+    {
+     "sa": "आग्नेयः",
+     "iast": "āgneyaḥ",
+     "en": "fiery",
+     "hi": "आग्नेय"
+    },
+    {
+     "sa": "सौम्यः",
+     "iast": "saumyaḥ",
+     "en": "cool, watery (lunar)",
+     "hi": "सौम्य"
+    },
+    {
+     "sa": "तद्भूयस्त्वात्",
+     "iast": "tadbhūyastvāt",
+     "en": "due to predominance of these",
+     "hi": "उनकी अधिकता से"
+    },
+    {
+     "sa": "पञ्चात्मकः वा",
+     "iast": "pañcātmakaḥ vā",
+     "en": "or fivefold",
+     "hi": "या पाँच स्वभाव वाला"
+    },
+    {
+     "sa": "चतुर्विधः",
+     "iast": "caturvidhaḥ",
+     "en": "fourfold",
+     "hi": "चार प्रकार का"
+    },
+    {
+     "sa": "भूतग्रामः",
+     "iast": "bhūtagrāmaḥ",
+     "en": "group of living beings",
+     "hi": "प्राणियों का समूह"
+    },
+    {
+     "sa": "संस्वेदज",
+     "iast": "saṃsvedaja",
+     "en": "born of moisture/sweat",
+     "hi": "स्वेदज"
+    },
+    {
+     "sa": "जरायुज",
+     "iast": "jarāyuja",
+     "en": "born from a womb (with placenta)",
+     "hi": "जरायुज"
+    },
+    {
+     "sa": "अण्डज",
+     "iast": "aṇḍaja",
+     "en": "born from eggs",
+     "hi": "अण्डज"
+    },
+    {
+     "sa": "उद्भिज्ज",
+     "iast": "udbhijja",
+     "en": "sprouting from the ground",
+     "hi": "उद्भिज्ज"
+    },
+    {
+     "sa": "संज्ञः",
+     "iast": "saṃjñaḥ",
+     "en": "named",
+     "hi": "नामक"
+    },
+    {
+     "sa": "प्रधानम्",
+     "iast": "pradhānam",
+     "en": "the chief",
+     "hi": "प्रधान"
+    },
+    {
+     "sa": "उपकरणम्",
+     "iast": "upakaraṇam",
+     "en": "means, instrument",
+     "hi": "साधन"
+    },
+    {
+     "sa": "अन्यत्",
+     "iast": "anyat",
+     "en": "the rest",
+     "hi": "बाकी सब"
+    },
+    {
+     "sa": "तस्मात्",
+     "iast": "tasmāt",
+     "en": "therefore",
+     "hi": "इसलिए"
+    }
+   ],
+   "english": "In this science, the puruṣa (person) is said to be the combination of the five great elements (pañcamahābhūta) and the embodied soul (śarīrī). Treatment (kriyā) is done on him; he is the substratum (adhiṣṭhāna). Why? Because the world is twofold: immobile (sthāvara) and mobile (jaṅgama). It is also twofold in nature, fiery (āgneya) and cool (saumya), according to which of these predominates; or it may be regarded as fivefold (made of the five elements). The group of living beings is fourfold: saṃsvedaja (born of moisture), jarāyuja (womb-born), aṇḍaja (egg-born) and udbhijja (sprouting from the earth). Among these, the person is the chief, and everything else is his means. Therefore the person is the substratum (of treatment).",
+   "hindi": "इस शास्त्र में पाँच महाभूतों और शरीरी (आत्मा) के संयोग को पुरुष कहा जाता है। उसी में चिकित्सा की जाती है; वही अधिष्ठान (आधार) है। क्यों? क्योंकि संसार दो प्रकार का है: स्थावर (अचल) और जंगम (चल)। स्वभाव से भी यह दो प्रकार का है: आग्नेय और सौम्य, जिसकी अधिकता हो उसके अनुसार; या इसे पाँचभौतिक भी कहा जा सकता है। प्राणियों का समूह चार प्रकार का है: स्वेदज, जरायुज, अण्डज और उद्भिज्ज। इनमें पुरुष प्रधान है और बाकी सब उसके साधन हैं। इसलिए पुरुष ही चिकित्सा का अधिष्ठान है।",
+   "explanation_en": "This defines the \"karma puruṣa\" or \"cikitsā puruṣa\" of Suśruta: the five mahābhūtas plus the soul. Caraka (Śā 1) gives a similar definition with six dhātus (five elements + consciousness). The world is classified as sthāvara/jaṅgama, as āgneya/saumya (the basis of the hot-cold, agni-soma duality), and as pañcabhautika. The fourfold classification of beings by mode of birth is a common short note. Tip: \"Puruṣa = 5 bhūtas + ātmā; he is the seat of treatment.\"",
+   "explanation_hi": "यह सुश्रुत के \"कर्मपुरुष\" या \"चिकित्सा-पुरुष\" की परिभाषा है: पाँच महाभूत और आत्मा। चरक (शारीर 1) भी षड्धातु (पाँच महाभूत + चेतना) वाली ऐसी ही परिभाषा देते हैं। संसार को स्थावर/जंगम, आग्नेय/सौम्य (अग्नि-सोम का द्वन्द्व) और पाञ्चभौतिक, तीन तरह से बाँटा गया है। जन्म के आधार पर प्राणियों के चार भेद छोटे प्रश्न के रूप में पूछे जाते हैं। याद रखें: \"पुरुष = 5 महाभूत + आत्मा; वही चिकित्सा का आधार है।\"",
+   "modern_correlation": {
+    "en": "The idea that the human being, not the disease alone, is the focus of treatment is often compared to the modern patient-centred approach. The fourfold birth classification (viviparous, oviparous, from moisture, sprouting) is a pre-modern biological classification and should not be equated with modern taxonomy.",
+    "hi": "यह विचार कि चिकित्सा का केन्द्र केवल रोग नहीं बल्कि मनुष्य है, अक्सर आधुनिक रोगी-केन्द्रित (patient-centred) दृष्टिकोण से तुलना किया जाता है। जन्म के आधार पर चार भेद (जरायुज, अण्डज आदि) एक प्राचीन जैविक वर्गीकरण है, इसे आधुनिक वर्गिकी (taxonomy) के बराबर नहीं मानना चाहिए।"
+   },
+   "key_terms": [
+    "puruṣa",
+    "pañcamahābhūta",
+    "śarīrī",
+    "adhiṣṭhāna",
+    "sthāvara",
+    "jaṅgama",
+    "āgneya",
+    "saumya",
+    "jarāyuja",
+    "aṇḍaja",
+    "svedaja",
+    "udbhijja"
+   ],
+   "tags": [
+    "purusha",
+    "siddhanta",
+    "classification"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sutra.1.23",
+   "word_meanings": [
+    {
+     "sa": "तत्",
+     "iast": "tat",
+     "en": "that (person)",
+     "hi": "उस (पुरुष) का"
+    },
+    {
+     "sa": "दुःख",
+     "iast": "duḥkha",
+     "en": "suffering, pain",
+     "hi": "दुःख"
+    },
+    {
+     "sa": "संयोगाः",
+     "iast": "saṃyogāḥ",
+     "en": "contacts, unions",
+     "hi": "संयोग"
+    },
+    {
+     "sa": "व्याधयः",
+     "iast": "vyādhayaḥ",
+     "en": "diseases",
+     "hi": "व्याधियाँ, रोग"
+    },
+    {
+     "sa": "उच्यन्ते",
+     "iast": "ucyante",
+     "en": "are called",
+     "hi": "कहलाते हैं"
+    }
+   ],
+   "english": "The contact of that (person) with suffering (duḥkha) is called disease (vyādhi).",
+   "hindi": "उस पुरुष का दुःख से संयोग होना ही व्याधि (रोग) कहलाता है।",
+   "explanation_en": "This is Suśruta's definition of disease: vyādhi = puruṣa + duḥkha saṃyoga, that is, whatever brings suffering to the person. It is short and very commonly asked. Contrast with the definition of health in Su 15.41 (svastha lakṣaṇa).",
+   "explanation_hi": "यह सुश्रुत की रोग की परिभाषा है: व्याधि = पुरुष का दुःख से संयोग, यानी जो कुछ भी व्यक्ति को कष्ट दे। यह छोटी परिभाषा बहुत पूछी जाती है। इसकी तुलना सूत्रस्थान 15.41 की स्वास्थ्य की परिभाषा (स्वस्थ लक्षण) से करें।",
+   "modern_correlation": {
+    "en": "Defining disease through the person's suffering is often compared to the patient-reported concept of \"illness\", as distinct from objective pathology. Modern medicine also recognises disease without symptoms, so the two ideas overlap only partly.",
+    "hi": "रोग को व्यक्ति के दुःख से परिभाषित करना अक्सर रोगी के अनुभव पर आधारित \"illness\" की अवधारणा से तुलना किया जाता है, जो वस्तुनिष्ठ विकृति (pathology) से अलग है। आधुनिक चिकित्सा बिना लक्षण वाले रोग भी मानती है, इसलिए दोनों विचार केवल आंशिक रूप से मेल खाते हैं।"
+   },
+   "key_terms": [
+    "vyādhi",
+    "duḥkha saṃyoga"
+   ],
+   "tags": [
+    "definitions",
+    "vyadhi"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sutra.1.24",
+   "word_meanings": [
+    {
+     "sa": "ते",
+     "iast": "te",
+     "en": "they (diseases)",
+     "hi": "वे (रोग)"
+    },
+    {
+     "sa": "चतुर्विधाः",
+     "iast": "caturvidhāḥ",
+     "en": "fourfold",
+     "hi": "चार प्रकार के"
+    },
+    {
+     "sa": "आगन्तवः",
+     "iast": "āgantavaḥ",
+     "en": "external, accidental",
+     "hi": "आगन्तुज"
+    },
+    {
+     "sa": "शारीराः",
+     "iast": "śārīrāḥ",
+     "en": "bodily",
+     "hi": "शारीरिक"
+    },
+    {
+     "sa": "मानसाः",
+     "iast": "mānasāḥ",
+     "en": "mental",
+     "hi": "मानसिक"
+    },
+    {
+     "sa": "स्वाभाविकाः",
+     "iast": "svābhāvikāḥ",
+     "en": "natural",
+     "hi": "स्वाभाविक"
+    },
+    {
+     "sa": "च इति",
+     "iast": "ca iti",
+     "en": "and so",
+     "hi": "और इस प्रकार"
+    }
+   ],
+   "english": "Diseases are of four kinds: āgantu (external, accidental), śārīra (bodily), mānasa (mental) and svābhāvika (natural).",
+   "hindi": "रोग चार प्रकार के हैं: आगन्तुज (बाहरी कारण से), शारीरिक, मानसिक और स्वाभाविक।",
+   "explanation_en": "This fourfold classification of disease is specific to Suśruta and very frequently asked. Compare: Caraka gives three (nija, āgantu, mānasa), and Suśruta later in Sū 24 gives a sevenfold classification (ādibala-pravṛtta etc.). The next verse defines each of the four.",
+   "explanation_hi": "रोगों का यह चार प्रकार का वर्गीकरण सुश्रुत का अपना है और बहुत पूछा जाता है। तुलना करें: चरक तीन प्रकार (निज, आगन्तुज, मानस) बताते हैं, और सुश्रुत आगे सूत्रस्थान 24 में सात प्रकार (आदिबलप्रवृत्त आदि) बताते हैं। अगले वाक्य में चारों की परिभाषा है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "āgantu",
+    "śārīra",
+    "mānasa",
+    "svābhāvika",
+    "vyādhi bheda"
+   ],
+   "tags": [
+    "vyadhi",
+    "classification"
+   ],
+   "importance": "high",
+   "mnemonic": "\"ĀŚMS\": Āgantu, Śārīra, Mānasa, Svābhāvika.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sutra.1.25",
+   "word_meanings": [
+    {
+     "sa": "तेषाम्",
+     "iast": "teṣām",
+     "en": "of these",
+     "hi": "इनमें"
+    },
+    {
+     "sa": "आगन्तवः",
+     "iast": "āgantavaḥ",
+     "en": "external diseases",
+     "hi": "आगन्तुज रोग"
+    },
+    {
+     "sa": "अभिघातनिमित्ताः",
+     "iast": "abhighātanimittāḥ",
+     "en": "caused by injury/trauma",
+     "hi": "चोट (अभिघात) से उत्पन्न"
+    },
+    {
+     "sa": "शारीराः",
+     "iast": "śārīrāḥ",
+     "en": "bodily diseases",
+     "hi": "शारीरिक रोग"
+    },
+    {
+     "sa": "अन्नपानमूलाः",
+     "iast": "annapānamūlāḥ",
+     "en": "rooted in food and drink",
+     "hi": "अन्न-पान मूलक"
+    },
+    {
+     "sa": "वात पित्त कफ शोणित संनिपात",
+     "iast": "vāta pitta kapha śoṇita saṃnipāta",
+     "en": "vāta, pitta, kapha, blood and their combination",
+     "hi": "वात, पित्त, कफ, रक्त और सन्निपात"
+    },
+    {
+     "sa": "वैषम्यनिमित्ताः",
+     "iast": "vaiṣamyanimittāḥ",
+     "en": "caused by imbalance",
+     "hi": "विषमता से उत्पन्न"
+    },
+    {
+     "sa": "मानसाः",
+     "iast": "mānasāḥ",
+     "en": "mental diseases",
+     "hi": "मानसिक रोग"
+    },
+    {
+     "sa": "क्रोध",
+     "iast": "krodha",
+     "en": "anger",
+     "hi": "क्रोध"
+    },
+    {
+     "sa": "शोक",
+     "iast": "śoka",
+     "en": "grief",
+     "hi": "शोक"
+    },
+    {
+     "sa": "भय",
+     "iast": "bhaya",
+     "en": "fear",
+     "hi": "भय"
+    },
+    {
+     "sa": "हर्ष",
+     "iast": "harṣa",
+     "en": "excessive joy",
+     "hi": "हर्ष"
+    },
+    {
+     "sa": "विषाद",
+     "iast": "viṣāda",
+     "en": "dejection",
+     "hi": "विषाद"
+    },
+    {
+     "sa": "ईर्ष्या",
+     "iast": "īrṣyā",
+     "en": "jealousy",
+     "hi": "ईर्ष्या"
+    },
+    {
+     "sa": "अभ्यसूया",
+     "iast": "abhyasūyā",
+     "en": "envy, fault-finding",
+     "hi": "असूया"
+    },
+    {
+     "sa": "दैन्य",
+     "iast": "dainya",
+     "en": "depression, wretchedness",
+     "hi": "दीनता"
+    },
+    {
+     "sa": "मात्सर्य",
+     "iast": "mātsarya",
+     "en": "malice",
+     "hi": "मात्सर्य"
+    },
+    {
+     "sa": "काम",
+     "iast": "kāma",
+     "en": "desire, lust",
+     "hi": "काम"
+    },
+    {
+     "sa": "लोभ",
+     "iast": "lobha",
+     "en": "greed",
+     "hi": "लोभ"
+    },
+    {
+     "sa": "प्रभृतयः",
+     "iast": "prabhṛtayaḥ",
+     "en": "and others",
+     "hi": "आदि"
+    },
+    {
+     "sa": "इच्छा",
+     "iast": "icchā",
+     "en": "liking, desire",
+     "hi": "इच्छा"
+    },
+    {
+     "sa": "द्वेष",
+     "iast": "dveṣa",
+     "en": "aversion",
+     "hi": "द्वेष"
+    },
+    {
+     "sa": "भेदैः",
+     "iast": "bhedaiḥ",
+     "en": "by the varieties",
+     "hi": "भेदों से"
+    },
+    {
+     "sa": "भवन्ति",
+     "iast": "bhavanti",
+     "en": "arise",
+     "hi": "होते हैं"
+    },
+    {
+     "sa": "स्वाभाविकाः",
+     "iast": "svābhāvikāḥ",
+     "en": "natural",
+     "hi": "स्वाभाविक"
+    },
+    {
+     "sa": "क्षुत्",
+     "iast": "kṣut",
+     "en": "hunger",
+     "hi": "भूख"
+    },
+    {
+     "sa": "पिपासा",
+     "iast": "pipāsā",
+     "en": "thirst",
+     "hi": "प्यास"
+    },
+    {
+     "sa": "जरा",
+     "iast": "jarā",
+     "en": "old age",
+     "hi": "बुढ़ापा"
+    },
+    {
+     "sa": "मृत्यु",
+     "iast": "mṛtyu",
+     "en": "death",
+     "hi": "मृत्यु"
+    },
+    {
+     "sa": "निद्रा",
+     "iast": "nidrā",
+     "en": "sleep",
+     "hi": "नींद"
+    },
+    {
+     "sa": "प्रकृतयः",
+     "iast": "prakṛtayaḥ",
+     "en": "of such nature",
+     "hi": "स्वभाव वाले"
+    }
+   ],
+   "english": "Of these, āgantu (external) diseases are caused by injury (abhighāta). Śārīra (bodily) diseases are rooted in food and drink and are caused by imbalance of vāta, pitta, kapha, blood (śoṇita), or all of them together (sannipāta). Mānasa (mental) diseases, such as anger, grief, fear, excessive joy, dejection, jealousy, envy, depression, malice, lust and greed, arise from the varieties of desire (icchā) and aversion (dveṣa). Svābhāvika (natural) diseases are hunger, thirst, old age, death, sleep and the like.",
+   "hindi": "इनमें आगन्तुज रोग चोट (अभिघात) से होते हैं। शारीरिक रोग अन्न-पान से उत्पन्न होते हैं और वात, पित्त, कफ, रक्त या सबके मिलकर (सन्निपात) विषम होने से होते हैं। मानसिक रोग, जैसे क्रोध, शोक, भय, हर्ष, विषाद, ईर्ष्या, असूया, दीनता, मात्सर्य, काम, लोभ आदि, इच्छा और द्वेष के भेदों से होते हैं। स्वाभाविक रोग हैं: भूख, प्यास, बुढ़ापा, मृत्यु, नींद आदि।",
+   "explanation_en": "Each class has a clear cause: āgantu from trauma, śārīra from diet causing doṣa (and śoṇita) imbalance, mānasa from icchā and dveṣa, and svābhāvika from nature itself. Note that Suśruta includes śoṇita (blood) along with the three doṣas as a cause of disease, a special feature of this surgical text. Hunger, thirst, ageing and death are called \"diseases\" because they are natural sources of suffering.",
+   "explanation_hi": "हर वर्ग का कारण स्पष्ट है: आगन्तुज चोट से, शारीरिक आहार से दोष (और रक्त) की विषमता से, मानसिक इच्छा-द्वेष से, और स्वाभाविक प्रकृति से। ध्यान दें कि सुश्रुत तीन दोषों के साथ शोणित (रक्त) को भी रोग का कारण मानते हैं; यह इस शल्य-ग्रन्थ की विशेषता है। भूख, प्यास, बुढ़ापा और मृत्यु को \"रोग\" इसलिए कहा गया क्योंकि ये स्वाभाविक रूप से दुःख देते हैं।",
+   "modern_correlation": {
+    "en": "The scheme loosely parallels modern categories: injuries (trauma), diet- and metabolism-related disorders, psychological states and disorders, and physiological or age-related processes. Modern medicine does not classify hunger, sleep or ageing as diseases, so this parallel is only partial.",
+    "hi": "यह वर्गीकरण मोटे तौर पर आधुनिक श्रेणियों से मिलता है: चोट (trauma), आहार और चयापचय से जुड़े विकार, मनोवैज्ञानिक अवस्थाएँ और विकार, और शारीरिक या आयु से जुड़ी प्रक्रियाएँ। आधुनिक चिकित्सा भूख, नींद या बुढ़ापे को रोग नहीं मानती, इसलिए यह तुलना आंशिक है।"
+   },
+   "key_terms": [
+    "abhighāta",
+    "śoṇita",
+    "sannipāta",
+    "icchā",
+    "dveṣa",
+    "svābhāvika vyādhi"
+   ],
+   "tags": [
+    "vyadhi",
+    "classification",
+    "manas"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sutra.1.26",
+   "word_meanings": [
+    {
+     "sa": "ते एते",
+     "iast": "te ete",
+     "en": "these very (diseases)",
+     "hi": "ये सभी (रोग)"
+    },
+    {
+     "sa": "मनः",
+     "iast": "manaḥ",
+     "en": "mind",
+     "hi": "मन"
+    },
+    {
+     "sa": "शरीर",
+     "iast": "śarīra",
+     "en": "body",
+     "hi": "शरीर"
+    },
+    {
+     "sa": "अधिष्ठानाः",
+     "iast": "adhiṣṭhānāḥ",
+     "en": "having as their seat",
+     "hi": "आश्रय वाले"
+    }
+   ],
+   "english": "All these (diseases) have the mind and the body as their seat.",
+   "hindi": "ये सभी रोग मन और शरीर में आश्रित रहते हैं।",
+   "explanation_en": "The two seats (adhiṣṭhāna) of disease are manas and śarīra. Caraka says the same (Ca. Sū. 1.55). This short line is useful for questions on the psychosomatic approach of Āyurveda.",
+   "explanation_hi": "रोग के दो अधिष्ठान हैं: मन और शरीर। चरक भी यही कहते हैं (च. सू. 1.55)। आयुर्वेद के मनो-दैहिक दृष्टिकोण पर प्रश्नों में यह छोटा वाक्य उपयोगी है।",
+   "modern_correlation": {
+    "en": "This is often compared with the modern biopsychosocial view that mind and body together are the setting of illness.",
+    "hi": "इसकी तुलना अक्सर आधुनिक बायो-साइको-सोशल (biopsychosocial) दृष्टिकोण से की जाती है, जिसमें मन और शरीर दोनों को रोग का क्षेत्र माना जाता है।"
+   },
+   "key_terms": [
+    "vyādhi adhiṣṭhāna",
+    "manas",
+    "śarīra"
+   ],
+   "tags": [
+    "vyadhi",
+    "manas"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sutra.1.27",
+   "word_meanings": [
+    {
+     "sa": "तेषाम्",
+     "iast": "teṣām",
+     "en": "of these",
+     "hi": "इनके"
+    },
+    {
+     "sa": "संशोधन",
+     "iast": "saṃśodhana",
+     "en": "purification",
+     "hi": "संशोधन"
+    },
+    {
+     "sa": "संशमन",
+     "iast": "saṃśamana",
+     "en": "pacification",
+     "hi": "संशमन"
+    },
+    {
+     "sa": "आहार",
+     "iast": "āhāra",
+     "en": "diet",
+     "hi": "आहार"
+    },
+    {
+     "sa": "आचाराः",
+     "iast": "ācārāḥ",
+     "en": "conduct, regimen",
+     "hi": "आचार"
+    },
+    {
+     "sa": "सम्यक्प्रयुक्ताः",
+     "iast": "samyakprayuktāḥ",
+     "en": "properly applied",
+     "hi": "उचित रूप से प्रयुक्त"
+    },
+    {
+     "sa": "निग्रहहेतवः",
+     "iast": "nigrahahetavaḥ",
+     "en": "means of control",
+     "hi": "निग्रह (नियन्त्रण) के साधन"
+    }
+   ],
+   "english": "Purification therapy (saṃśodhana), pacification therapy (saṃśamana), diet (āhāra) and conduct (ācāra), when properly applied, are the means of controlling these (diseases).",
+   "hindi": "संशोधन, संशमन, आहार और आचार, यदि ठीक से प्रयोग किए जाएँ, तो इन रोगों को नियन्त्रित करने के साधन हैं।",
+   "explanation_en": "Four means of treating disease: saṃśodhana (eliminating doṣas, e.g. emesis, purgation), saṃśamana (pacifying doṣas within the body), āhāra (diet) and ācāra (lifestyle/conduct). \"Samyak prayukta\" (properly applied) is the key word: wrong use causes harm. Remember the four as \"Śo-Śa-Ā-Ā\".",
+   "explanation_hi": "रोग नियन्त्रण के चार साधन: संशोधन (दोषों को बाहर निकालना, जैसे वमन, विरेचन), संशमन (शरीर के अंदर दोषों को शान्त करना), आहार और आचार (दिनचर्या/व्यवहार)। मुख्य शब्द है \"सम्यक् प्रयुक्त\" (ठीक से प्रयोग): गलत प्रयोग हानि करता है। चारों को \"शो-श-आ-आ\" के रूप में याद रखें।",
+   "modern_correlation": null,
+   "key_terms": [
+    "saṃśodhana",
+    "saṃśamana",
+    "āhāra",
+    "ācāra"
+   ],
+   "tags": [
+    "chikitsa",
+    "treatment-principles"
+   ],
+   "importance": "high",
+   "mnemonic": "Śo-Śa-Ā-Ā: Śodhana, Śamana, Āhāra, Ācāra.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sutra.1.28",
+   "word_meanings": [
+    {
+     "sa": "प्राणिनाम्",
+     "iast": "prāṇinām",
+     "en": "of living beings",
+     "hi": "प्राणियों का"
+    },
+    {
+     "sa": "पुनः",
+     "iast": "punaḥ",
+     "en": "moreover",
+     "hi": "और"
+    },
+    {
+     "sa": "मूलम्",
+     "iast": "mūlam",
+     "en": "root, basis",
+     "hi": "मूल"
+    },
+    {
+     "sa": "आहारः",
+     "iast": "āhāraḥ",
+     "en": "food",
+     "hi": "आहार"
+    },
+    {
+     "sa": "बल",
+     "iast": "bala",
+     "en": "strength",
+     "hi": "बल"
+    },
+    {
+     "sa": "वर्ण",
+     "iast": "varṇa",
+     "en": "complexion",
+     "hi": "वर्ण"
+    },
+    {
+     "sa": "ओजसाम्",
+     "iast": "ojasām",
+     "en": "and of ojas",
+     "hi": "और ओज का"
+    },
+    {
+     "sa": "सः",
+     "iast": "saḥ",
+     "en": "it (food)",
+     "hi": "वह (आहार)"
+    },
+    {
+     "sa": "षट्सु रसेषु",
+     "iast": "ṣaṭsu raseṣu",
+     "en": "on the six tastes",
+     "hi": "छह रसों पर"
+    },
+    {
+     "sa": "आयत्तः",
+     "iast": "āyattaḥ",
+     "en": "depends",
+     "hi": "निर्भर"
+    },
+    {
+     "sa": "रसाः",
+     "iast": "rasāḥ",
+     "en": "tastes",
+     "hi": "रस"
+    },
+    {
+     "sa": "द्रव्याश्रयाः",
+     "iast": "dravyāśrayāḥ",
+     "en": "reside in substances",
+     "hi": "द्रव्य में आश्रित"
+    },
+    {
+     "sa": "द्रव्याणि",
+     "iast": "dravyāṇi",
+     "en": "substances",
+     "hi": "द्रव्य"
+    },
+    {
+     "sa": "ओषधयः",
+     "iast": "oṣadhayaḥ",
+     "en": "medicinal substances (plants etc.)",
+     "hi": "औषधियाँ"
+    },
+    {
+     "sa": "ताः",
+     "iast": "tāḥ",
+     "en": "they",
+     "hi": "वे"
+    },
+    {
+     "sa": "द्विविधाः",
+     "iast": "dvividhāḥ",
+     "en": "twofold",
+     "hi": "दो प्रकार की"
+    },
+    {
+     "sa": "स्थावराः",
+     "iast": "sthāvarāḥ",
+     "en": "immobile (plant)",
+     "hi": "स्थावर"
+    },
+    {
+     "sa": "जङ्गमाः",
+     "iast": "jaṅgamāḥ",
+     "en": "mobile (animal)",
+     "hi": "जंगम"
+    }
+   ],
+   "english": "Food (āhāra) is the root of living beings and of their strength, complexion and ojas. Food depends on the six tastes (rasa); tastes reside in substances (dravya); and substances are medicinal materials (oṣadhi). These are of two kinds: immobile (sthāvara) and mobile (jaṅgama).",
+   "hindi": "आहार प्राणियों का मूल है और बल, वर्ण तथा ओज का भी मूल है। आहार छह रसों पर निर्भर है; रस द्रव्यों में रहते हैं; और द्रव्य ही औषधियाँ हैं। ये दो प्रकार की हैं: स्थावर (वनस्पति) और जंगम (प्राणिज)।",
+   "explanation_en": "A chain is set out: life → food → six rasas → dravya → oṣadhi. This shows that food and medicine are made of the same substances; the difference is in their use. Ojas, the essence of all dhātus, is said to depend on food. The twofold classification of dravya (sthāvara, jaṅgama) is expanded in the next verses; with pārthiva and kālakṛta (verses 32-33) Suśruta gets four groups.",
+   "explanation_hi": "यहाँ एक क्रम बताया गया है: जीवन → आहार → छह रस → द्रव्य → औषधि। इससे पता चलता है कि आहार और औषधि एक ही द्रव्यों से बने हैं; अन्तर उनके प्रयोग में है। ओज, जो सब धातुओं का सार है, आहार पर निर्भर बताया गया है। द्रव्य के दो भेद (स्थावर, जंगम) आगे विस्तार से हैं; पार्थिव और कालकृत (श्लोक 32-33) मिलाकर सुश्रुत चार वर्ग बनाते हैं।",
+   "modern_correlation": {
+    "en": "The statement that food is the basis of strength and health is broadly in line with modern nutrition science, which links diet to growth, immunity and tissue maintenance.",
+    "hi": "यह कथन कि आहार बल और स्वास्थ्य का आधार है, आधुनिक पोषण-विज्ञान से मोटे तौर पर मेल खाता है, जो आहार को वृद्धि, रोग-प्रतिरोधक क्षमता और ऊतकों के रखरखाव से जोड़ता है।"
+   },
+   "key_terms": [
+    "āhāra",
+    "ojas",
+    "ṣaḍrasa",
+    "dravya",
+    "oṣadhi",
+    "sthāvara",
+    "jaṅgama"
+   ],
+   "tags": [
+    "ahara",
+    "dravya",
+    "classification"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sutra.1.29",
+   "word_meanings": [
+    {
+     "sa": "तासाम्",
+     "iast": "tāsām",
+     "en": "of these",
+     "hi": "इनमें"
+    },
+    {
+     "sa": "स्थावराः",
+     "iast": "sthāvarāḥ",
+     "en": "immobile (plants)",
+     "hi": "स्थावर"
+    },
+    {
+     "sa": "चतुर्विधाः",
+     "iast": "caturvidhāḥ",
+     "en": "fourfold",
+     "hi": "चार प्रकार के"
+    },
+    {
+     "sa": "वनस्पतयः",
+     "iast": "vanaspatayaḥ",
+     "en": "vanaspati",
+     "hi": "वनस्पति"
+    },
+    {
+     "sa": "वृक्षाः",
+     "iast": "vṛkṣāḥ",
+     "en": "trees",
+     "hi": "वृक्ष"
+    },
+    {
+     "sa": "वीरुधः",
+     "iast": "vīrudhaḥ",
+     "en": "creepers and shrubs",
+     "hi": "वीरुध्"
+    },
+    {
+     "sa": "ओषधयः",
+     "iast": "oṣadhayaḥ",
+     "en": "annual herbs",
+     "hi": "ओषधि"
+    },
+    {
+     "sa": "अपुष्पाः",
+     "iast": "apuṣpāḥ",
+     "en": "without (visible) flowers",
+     "hi": "बिना फूल वाले"
+    },
+    {
+     "sa": "फलवन्तः",
+     "iast": "phalavantaḥ",
+     "en": "bearing fruit",
+     "hi": "फल वाले"
+    },
+    {
+     "sa": "पुष्पफलवन्तः",
+     "iast": "puṣpaphalavantaḥ",
+     "en": "bearing flowers and fruit",
+     "hi": "फूल और फल वाले"
+    },
+    {
+     "sa": "प्रतानवत्यः",
+     "iast": "pratānavatyaḥ",
+     "en": "spreading (creepers)",
+     "hi": "फैलने वाली (लताएँ)"
+    },
+    {
+     "sa": "स्तम्बिन्यः",
+     "iast": "stambinyaḥ",
+     "en": "bushy, with clumps",
+     "hi": "गुल्म वाली (झाड़ियाँ)"
+    },
+    {
+     "sa": "फलपाकनिष्ठाः",
+     "iast": "phalapākaniṣṭhāḥ",
+     "en": "ending with the ripening of fruit",
+     "hi": "फल पकने पर नष्ट होने वाली"
+    }
+   ],
+   "english": "Of these, the immobile (plant) substances are of four kinds: vanaspati, vṛkṣa, vīrudh and oṣadhi. Those that bear fruit without (visible) flowers are vanaspati; those with flowers and fruit are vṛkṣa; spreading creepers and bushy plants are vīrudh; and those that die after their fruit ripens are oṣadhi.",
+   "hindi": "इनमें स्थावर द्रव्य चार प्रकार के हैं: वनस्पति, वृक्ष, वीरुध् और ओषधि। जिनमें बिना (दिखाई देने वाले) फूल के फल लगते हैं वे वनस्पति हैं; जिनमें फूल और फल दोनों होते हैं वे वृक्ष हैं; फैलने वाली लताएँ और झाड़ियाँ वीरुध् हैं; और जो फल पकने के बाद सूख जाते हैं वे ओषधि हैं।",
+   "explanation_en": "Suśruta's fourfold plant classification is a classic Dravyaguṇa question. Example: the fig (udumbara) is vanaspati (flowers are hidden inside the fruit), mango is vṛkṣa, guḍūcī is vīrudh (pratānavatī), and rice or wheat is oṣadhi (dies after fruiting). Caraka has a similar fourfold list (Ca. Sū. 1.71-72).",
+   "explanation_hi": "सुश्रुत का पौधों का चार प्रकार का वर्गीकरण द्रव्यगुण का पुराना प्रश्न है। उदाहरण: उदुम्बर (गूलर) वनस्पति है (फूल फल के अंदर छिपे होते हैं), आम वृक्ष है, गुडूची वीरुध् (प्रतानवती) है, और धान या गेहूँ ओषधि है (फल के बाद सूख जाता है)। चरक में भी ऐसी ही सूची है (च. सू. 1.71-72)।",
+   "modern_correlation": {
+    "en": "This resembles a simple life-form classification: woody perennials with inconspicuous flowers (such as figs, whose flowers are inside the syconium), flowering trees, climbers and shrubs, and annual herbs that die after seeding. It is not a modern botanical taxonomy.",
+    "hi": "यह जीवन-रूप पर आधारित एक सरल वर्गीकरण जैसा है: छिपे फूलों वाले वृक्ष (जैसे अंजीर/गूलर, जिनके फूल फल के अंदर होते हैं), फूल वाले वृक्ष, लताएँ और झाड़ियाँ, और बीज बनने के बाद सूखने वाली वार्षिक ओषधियाँ। यह आधुनिक वनस्पति वर्गिकी नहीं है।"
+   },
+   "key_terms": [
+    "vanaspati",
+    "vṛkṣa",
+    "vīrudh",
+    "oṣadhi",
+    "sthāvara dravya"
+   ],
+   "tags": [
+    "dravya",
+    "classification",
+    "plants"
+   ],
+   "importance": "high",
+   "mnemonic": "V-V-V-O: Vanaspati (no flower), Vṛkṣa (flower+fruit), Vīrudh (creeper/bush), Oṣadhi (dies after fruit).",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sutra.1.30",
+   "word_meanings": [
+    {
+     "sa": "जङ्गमाः",
+     "iast": "jaṅgamāḥ",
+     "en": "mobile (animal) beings",
+     "hi": "जंगम"
+    },
+    {
+     "sa": "खलु अपि",
+     "iast": "khalu api",
+     "en": "also indeed",
+     "hi": "भी"
+    },
+    {
+     "sa": "चतुर्विधाः",
+     "iast": "caturvidhāḥ",
+     "en": "fourfold",
+     "hi": "चार प्रकार के"
+    },
+    {
+     "sa": "जरायुज",
+     "iast": "jarāyuja",
+     "en": "womb-born",
+     "hi": "जरायुज"
+    },
+    {
+     "sa": "अण्डज",
+     "iast": "aṇḍaja",
+     "en": "egg-born",
+     "hi": "अण्डज"
+    },
+    {
+     "sa": "स्वेदज",
+     "iast": "svedaja",
+     "en": "born of moisture",
+     "hi": "स्वेदज"
+    },
+    {
+     "sa": "उद्भिज्जाः",
+     "iast": "udbhijjāḥ",
+     "en": "sprouting from the earth",
+     "hi": "उद्भिज्ज"
+    },
+    {
+     "sa": "पशु",
+     "iast": "paśu",
+     "en": "domestic animals",
+     "hi": "पशु"
+    },
+    {
+     "sa": "मनुष्य",
+     "iast": "manuṣya",
+     "en": "humans",
+     "hi": "मनुष्य"
+    },
+    {
+     "sa": "व्याल",
+     "iast": "vyāla",
+     "en": "beasts of prey",
+     "hi": "हिंसक पशु"
+    },
+    {
+     "sa": "खग",
+     "iast": "khaga",
+     "en": "birds",
+     "hi": "पक्षी"
+    },
+    {
+     "sa": "सर्प",
+     "iast": "sarpa",
+     "en": "snakes",
+     "hi": "साँप"
+    },
+    {
+     "sa": "सरीसृप",
+     "iast": "sarīsṛpa",
+     "en": "reptiles",
+     "hi": "रेंगने वाले"
+    },
+    {
+     "sa": "कृमि",
+     "iast": "kṛmi",
+     "en": "worms",
+     "hi": "कृमि"
+    },
+    {
+     "sa": "कीट",
+     "iast": "kīṭa",
+     "en": "insects",
+     "hi": "कीट"
+    },
+    {
+     "sa": "पिपीलिका",
+     "iast": "pipīlikā",
+     "en": "ants",
+     "hi": "चींटी"
+    },
+    {
+     "sa": "इन्द्रगोप",
+     "iast": "indragopa",
+     "en": "indragopa (red velvet mite)",
+     "hi": "इन्द्रगोप (बीरबहूटी)"
+    },
+    {
+     "sa": "मण्डूक",
+     "iast": "maṇḍūka",
+     "en": "frogs",
+     "hi": "मेंढक"
+    },
+    {
+     "sa": "प्रभृतयः",
+     "iast": "prabhṛtayaḥ",
+     "en": "and others",
+     "hi": "आदि"
+    }
+   ],
+   "english": "Mobile (animal) beings are also of four kinds: jarāyuja (womb-born), aṇḍaja (egg-born), svedaja (born of moisture) and udbhijja (emerging from the earth). Domestic animals, humans, beasts of prey and so on are womb-born; birds, snakes, reptiles and so on are egg-born; worms, insects, ants and so on are born of moisture; and indragopa, frogs and so on emerge from the earth.",
+   "hindi": "जंगम प्राणी भी चार प्रकार के हैं: जरायुज, अण्डज, स्वेदज और उद्भिज्ज। पशु, मनुष्य, हिंसक पशु आदि जरायुज (गर्भ से जन्मे) हैं; पक्षी, साँप, रेंगने वाले जीव आदि अण्डज (अण्डे से जन्मे) हैं; कृमि, कीड़े, चींटियाँ आदि स्वेदज (नमी/पसीने से उत्पन्न) हैं; और इन्द्रगोप (बीरबहूटी), मेंढक आदि उद्भिज्ज (धरती फोड़कर निकलने वाले) हैं।",
+   "explanation_en": "The classification of animals by mode of birth, with examples, is commonly asked. Frogs and the indragopa insect were called udbhijja because they appear suddenly from the ground after rain. This reflects ancient observation rather than modern zoology, but the categories womb-born and egg-born are clear.",
+   "explanation_hi": "जन्म के आधार पर प्राणियों का वर्गीकरण, उदाहरणों सहित, अक्सर पूछा जाता है। मेंढक और इन्द्रगोप (बीरबहूटी) को उद्भिज्ज इसलिए कहा गया क्योंकि वर्षा के बाद वे अचानक धरती से निकलते दिखते हैं। यह प्राचीन अवलोकन है, आधुनिक प्राणी-विज्ञान नहीं, पर जरायुज और अण्डज के वर्ग स्पष्ट हैं।",
+   "modern_correlation": {
+    "en": "Jarāyuja and aṇḍaja correspond roughly to viviparous and oviparous animals. The svedaja and udbhijja groups reflect the ancient belief in spontaneous generation; modern biology has shown that insects and frogs develop from eggs.",
+    "hi": "जरायुज और अण्डज मोटे तौर पर जरायुज (viviparous) और अण्डज (oviparous) प्राणियों से मिलते हैं। स्वेदज और उद्भिज्ज वर्ग स्वतः उत्पत्ति (spontaneous generation) की प्राचीन धारणा दर्शाते हैं; आधुनिक जीव-विज्ञान बताता है कि कीड़े और मेंढक भी अण्डों से ही विकसित होते हैं।"
+   },
+   "key_terms": [
+    "jarāyuja",
+    "aṇḍaja",
+    "svedaja",
+    "udbhijja",
+    "jaṅgama"
+   ],
+   "tags": [
+    "classification",
+    "animals"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sutra.1.31",
+   "word_meanings": [
+    {
+     "sa": "तत्र",
+     "iast": "tatra",
+     "en": "there",
+     "hi": "उनमें"
+    },
+    {
+     "sa": "स्थावरेभ्यः",
+     "iast": "sthāvarebhyaḥ",
+     "en": "from plants",
+     "hi": "स्थावर (वनस्पति) से"
+    },
+    {
+     "sa": "त्वक्",
+     "iast": "tvak",
+     "en": "bark",
+     "hi": "छाल"
+    },
+    {
+     "sa": "पत्त्र",
+     "iast": "pattra",
+     "en": "leaf",
+     "hi": "पत्ता"
+    },
+    {
+     "sa": "पुष्प",
+     "iast": "puṣpa",
+     "en": "flower",
+     "hi": "फूल"
+    },
+    {
+     "sa": "फल",
+     "iast": "phala",
+     "en": "fruit",
+     "hi": "फल"
+    },
+    {
+     "sa": "मूल",
+     "iast": "mūla",
+     "en": "root",
+     "hi": "जड़"
+    },
+    {
+     "sa": "कन्द",
+     "iast": "kanda",
+     "en": "tuber",
+     "hi": "कन्द"
+    },
+    {
+     "sa": "निर्यास",
+     "iast": "niryāsa",
+     "en": "exudate, resin",
+     "hi": "निर्यास (गोंद)"
+    },
+    {
+     "sa": "स्वरस",
+     "iast": "svarasa",
+     "en": "expressed juice",
+     "hi": "स्वरस"
+    },
+    {
+     "sa": "आदयः",
+     "iast": "ādayaḥ",
+     "en": "and others",
+     "hi": "आदि"
+    },
+    {
+     "sa": "प्रयोजनवन्तः",
+     "iast": "prayojanavantaḥ",
+     "en": "are useful",
+     "hi": "उपयोगी हैं"
+    },
+    {
+     "sa": "जङ्गमेभ्यः",
+     "iast": "jaṅgamebhyaḥ",
+     "en": "from animals",
+     "hi": "जंगम (प्राणियों) से"
+    },
+    {
+     "sa": "चर्म",
+     "iast": "carma",
+     "en": "skin, hide",
+     "hi": "चर्म"
+    },
+    {
+     "sa": "नख",
+     "iast": "nakha",
+     "en": "nails, claws",
+     "hi": "नख"
+    },
+    {
+     "sa": "रोम",
+     "iast": "roma",
+     "en": "hair",
+     "hi": "रोम"
+    },
+    {
+     "sa": "रुधिर",
+     "iast": "rudhira",
+     "en": "blood",
+     "hi": "रक्त"
+    }
+   ],
+   "english": "From plants, the useful parts are bark, leaves, flowers, fruits, roots, tubers, exudates, expressed juices and so on; from animals, skin, nails, hair, blood and so on.",
+   "hindi": "वनस्पतियों से छाल, पत्ते, फूल, फल, जड़, कन्द, निर्यास (गोंद), स्वरस आदि उपयोगी हैं; और प्राणियों से चर्म, नख, रोम, रक्त आदि उपयोगी हैं।",
+   "explanation_en": "This lists the medicinally useful parts (prayojyāṅga) of plant and animal sources. It is the basis of the later Dravyaguṇa concept of \"useful part\" of a drug. A short note on prayojyāṅga can be written from this verse.",
+   "explanation_hi": "यहाँ वनस्पति और प्राणिज स्रोतों के औषधीय उपयोगी भाग (प्रयोज्याङ्ग) बताए गए हैं। यही बाद में द्रव्यगुण के \"प्रयोज्य अंग\" की अवधारणा का आधार है। इस वाक्य से प्रयोज्याङ्ग पर छोटी टिप्पणी लिखी जा सकती है।",
+   "modern_correlation": {
+    "en": "Pharmacognosy similarly specifies the plant part used (bark, leaf, root, resin and so on), since active constituents often differ between parts.",
+    "hi": "फार्माकोग्नॉसी (pharmacognosy) में भी पौधे का प्रयुक्त भाग (छाल, पत्ता, जड़, राल आदि) बताया जाता है, क्योंकि सक्रिय तत्व अलग-अलग भागों में अलग होते हैं।"
+   },
+   "key_terms": [
+    "prayojyāṅga",
+    "tvak",
+    "niryāsa",
+    "svarasa"
+   ],
+   "tags": [
+    "dravya",
+    "useful-parts"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sutra.1.32",
+   "word_meanings": [
+    {
+     "sa": "पार्थिवाः",
+     "iast": "pārthivāḥ",
+     "en": "earthy (mineral) substances",
+     "hi": "पार्थिव द्रव्य"
+    },
+    {
+     "sa": "सुवर्ण",
+     "iast": "suvarṇa",
+     "en": "gold",
+     "hi": "सोना"
+    },
+    {
+     "sa": "रजत",
+     "iast": "rajata",
+     "en": "silver",
+     "hi": "चाँदी"
+    },
+    {
+     "sa": "मणि",
+     "iast": "maṇi",
+     "en": "gems",
+     "hi": "मणि"
+    },
+    {
+     "sa": "मुक्ता",
+     "iast": "muktā",
+     "en": "pearl",
+     "hi": "मोती"
+    },
+    {
+     "sa": "मनःशिला",
+     "iast": "manaḥśilā",
+     "en": "realgar",
+     "hi": "मनःशिला"
+    },
+    {
+     "sa": "मृत्",
+     "iast": "mṛt",
+     "en": "clay",
+     "hi": "मिट्टी"
+    },
+    {
+     "sa": "कपाल",
+     "iast": "kapāla",
+     "en": "potsherd / skull",
+     "hi": "कपाल (खपरा)"
+    },
+    {
+     "sa": "आदयः",
+     "iast": "ādayaḥ",
+     "en": "and others",
+     "hi": "आदि"
+    }
+   ],
+   "english": "Earthy (mineral) substances (pārthiva) are gold, silver, gems, pearls, realgar (manaḥśilā), clay, potsherd and so on.",
+   "hindi": "पार्थिव (खनिज) द्रव्य हैं: सोना, चाँदी, मणि, मोती, मनःशिला, मिट्टी, कपाल (खपरा) आदि।",
+   "explanation_en": "This is the third group of dravya: pārthiva or mineral substances. Pearl is included here although it comes from an oyster, because it is hard and earthy. This group is the seed of the later Rasaśāstra. \"Kapāla\" here usually means potsherd (broken earthen pot), used in preparations.",
+   "explanation_hi": "यह द्रव्य का तीसरा वर्ग है: पार्थिव या खनिज द्रव्य। मोती सीप से आता है, फिर भी कठोर और पार्थिव होने से यहाँ गिना गया। यही वर्ग बाद के रसशास्त्र का बीज है। \"कपाल\" का अर्थ यहाँ प्रायः मिट्टी के टूटे बर्तन का टुकड़ा (खपरा) लिया जाता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "pārthiva dravya",
+    "manaḥśilā"
+   ],
+   "tags": [
+    "dravya",
+    "minerals"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sutra.1.33",
+   "word_meanings": [
+    {
+     "sa": "कालकृताः",
+     "iast": "kālakṛtāḥ",
+     "en": "produced by time",
+     "hi": "काल द्वारा उत्पन्न"
+    },
+    {
+     "sa": "प्रवात",
+     "iast": "pravāta",
+     "en": "windy weather",
+     "hi": "तेज़ हवा"
+    },
+    {
+     "sa": "निवात",
+     "iast": "nivāta",
+     "en": "still air",
+     "hi": "हवा-रहित स्थिति"
+    },
+    {
+     "sa": "आतप",
+     "iast": "ātapa",
+     "en": "sunshine",
+     "hi": "धूप"
+    },
+    {
+     "sa": "छाया",
+     "iast": "chāyā",
+     "en": "shade",
+     "hi": "छाया"
+    },
+    {
+     "sa": "ज्योत्स्ना",
+     "iast": "jyotsnā",
+     "en": "moonlight",
+     "hi": "चाँदनी"
+    },
+    {
+     "sa": "तमः",
+     "iast": "tamaḥ",
+     "en": "darkness",
+     "hi": "अन्धकार"
+    },
+    {
+     "sa": "शीत",
+     "iast": "śīta",
+     "en": "cold",
+     "hi": "शीत"
+    },
+    {
+     "sa": "उष्ण",
+     "iast": "uṣṇa",
+     "en": "heat",
+     "hi": "उष्ण"
+    },
+    {
+     "sa": "वर्ष",
+     "iast": "varṣa",
+     "en": "rain",
+     "hi": "वर्षा"
+    },
+    {
+     "sa": "अहोरात्र",
+     "iast": "ahorātra",
+     "en": "day and night",
+     "hi": "दिन-रात"
+    },
+    {
+     "sa": "पक्ष",
+     "iast": "pakṣa",
+     "en": "fortnight",
+     "hi": "पक्ष"
+    },
+    {
+     "sa": "मास",
+     "iast": "māsa",
+     "en": "month",
+     "hi": "मास"
+    },
+    {
+     "sa": "ऋतु",
+     "iast": "ṛtu",
+     "en": "season",
+     "hi": "ऋतु"
+    },
+    {
+     "sa": "अयन",
+     "iast": "ayana",
+     "en": "half-year (solstice period)",
+     "hi": "अयन"
+    },
+    {
+     "sa": "आदयः",
+     "iast": "ādayaḥ",
+     "en": "and others",
+     "hi": "आदि"
+    },
+    {
+     "sa": "संवत्सरविशेषाः",
+     "iast": "saṃvatsaraviśeṣāḥ",
+     "en": "divisions of the year",
+     "hi": "वर्ष के भेद"
+    }
+   ],
+   "english": "Factors produced by time (kālakṛta) are wind and still air, sunshine and shade, moonlight and darkness, cold, heat and rain, day and night, fortnight, month, season, half-year (ayana) and so on; these are the divisions of the year.",
+   "hindi": "कालकृत (समय द्वारा उत्पन्न) द्रव्य हैं: तेज़ हवा और हवा-रहित स्थिति, धूप और छाया, चाँदनी और अन्धकार, सर्दी, गर्मी और वर्षा, दिन-रात, पक्ष, मास, ऋतु, अयन आदि; ये वर्ष के ही भेद हैं।",
+   "explanation_en": "The fourth group of \"dravya\" in Suśruta is kālakṛta: environmental and seasonal factors. Suśruta counts them among things that affect the body because they act on the doṣas (next verse). This links to ṛtucaryā (seasonal regimen) and to the concept of kāla as a cause of doṣa changes.",
+   "explanation_hi": "सुश्रुत के अनुसार \"द्रव्य\" का चौथा वर्ग कालकृत है: पर्यावरण और ऋतु से सम्बन्धित कारक। इन्हें इसलिए गिना गया क्योंकि ये दोषों पर प्रभाव डालते हैं (अगला वाक्य)। इसका सम्बन्ध ऋतुचर्या और दोषों के परिवर्तन में काल की भूमिका से है।",
+   "modern_correlation": {
+    "en": "Modern physiology and epidemiology also recognise environmental and seasonal influences on health, such as circadian rhythms and seasonal patterns of illness.",
+    "hi": "आधुनिक शरीर-क्रिया विज्ञान और महामारी-विज्ञान भी स्वास्थ्य पर पर्यावरण और ऋतु के प्रभाव को मानते हैं, जैसे सर्केडियन लय (circadian rhythm) और रोगों का ऋतु के अनुसार बदलना।"
+   },
+   "key_terms": [
+    "kālakṛta",
+    "ṛtu",
+    "ayana",
+    "pakṣa"
+   ],
+   "tags": [
+    "kala",
+    "environment"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sutra.1.34",
+   "word_meanings": [
+    {
+     "sa": "ते एते",
+     "iast": "te ete",
+     "en": "these very (factors)",
+     "hi": "ये सभी"
+    },
+    {
+     "sa": "स्वभावतः एव",
+     "iast": "svabhāvataḥ eva",
+     "en": "by their very nature",
+     "hi": "स्वभाव से ही"
+    },
+    {
+     "sa": "दोषाणाम्",
+     "iast": "doṣāṇām",
+     "en": "of the doṣas",
+     "hi": "दोषों के"
+    },
+    {
+     "sa": "संचय",
+     "iast": "saṃcaya",
+     "en": "accumulation",
+     "hi": "संचय"
+    },
+    {
+     "sa": "प्रकोप",
+     "iast": "prakopa",
+     "en": "aggravation",
+     "hi": "प्रकोप"
+    },
+    {
+     "sa": "प्रशम",
+     "iast": "praśama",
+     "en": "pacification",
+     "hi": "प्रशम"
+    },
+    {
+     "sa": "प्रतीकार",
+     "iast": "pratīkāra",
+     "en": "remedy, counteraction",
+     "hi": "प्रतीकार"
+    },
+    {
+     "sa": "हेतवः",
+     "iast": "hetavaḥ",
+     "en": "causes",
+     "hi": "कारण"
+    },
+    {
+     "sa": "प्रयोजनवन्तः",
+     "iast": "prayojanavantaḥ",
+     "en": "useful",
+     "hi": "उपयोगी"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    }
+   ],
+   "english": "By their very nature, these (time-produced factors) are causes of the accumulation (saṃcaya), aggravation (prakopa), pacification (praśama) and remedy (pratīkāra) of the doṣas, and they are useful (in treatment).",
+   "hindi": "ये (कालकृत) कारक स्वभाव से ही दोषों के संचय, प्रकोप, प्रशम और प्रतीकार के कारण हैं, और (चिकित्सा में) उपयोगी हैं।",
+   "explanation_en": "Seasons naturally cause doṣas to accumulate, become aggravated and subside (for example, kapha accumulates in śiśira and is aggravated in vasanta). Saṃcaya and prakopa are also the first two stages of ṣaṭkriyākāla described in Su 21. Understanding this helps in planning seasonal purification.",
+   "explanation_hi": "ऋतुएँ स्वाभाविक रूप से दोषों का संचय, प्रकोप और प्रशम करती हैं (जैसे कफ शिशिर में संचित होता है और वसन्त में कुपित होता है)। संचय और प्रकोप सूत्रस्थान 21 के षट्क्रियाकाल की पहली दो अवस्थाएँ भी हैं। यह समझने से ऋतु के अनुसार शोधन की योजना बनाने में मदद मिलती है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "saṃcaya",
+    "prakopa",
+    "praśama",
+    "doṣa"
+   ],
+   "tags": [
+    "kala",
+    "dosha",
+    "kriyakala"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sutra.1.35",
+   "word_meanings": [
+    {
+     "sa": "भवन्ति च अत्र श्लोकाः",
+     "iast": "bhavanti ca atra ślokāḥ",
+     "en": "and here are verses",
+     "hi": "और यहाँ श्लोक हैं"
+    },
+    {
+     "sa": "शारीराणाम्",
+     "iast": "śārīrāṇām",
+     "en": "of bodily",
+     "hi": "शारीरिक"
+    },
+    {
+     "sa": "विकाराणाम्",
+     "iast": "vikārāṇām",
+     "en": "disorders",
+     "hi": "विकारों के"
+    },
+    {
+     "sa": "एषः",
+     "iast": "eṣaḥ",
+     "en": "this",
+     "hi": "यह"
+    },
+    {
+     "sa": "वर्गः",
+     "iast": "vargaḥ",
+     "en": "group",
+     "hi": "वर्ग"
+    },
+    {
+     "sa": "चतुर्विधः",
+     "iast": "caturvidhaḥ",
+     "en": "fourfold",
+     "hi": "चार प्रकार का"
+    },
+    {
+     "sa": "प्रकोपे",
+     "iast": "prakope",
+     "en": "in aggravation",
+     "hi": "प्रकोप में"
+    },
+    {
+     "sa": "प्रशमे",
+     "iast": "praśame",
+     "en": "in pacification",
+     "hi": "प्रशम में"
+    },
+    {
+     "sa": "च एव",
+     "iast": "ca eva",
+     "en": "and also",
+     "hi": "और भी"
+    },
+    {
+     "sa": "हेतुः",
+     "iast": "hetuḥ",
+     "en": "cause",
+     "hi": "कारण"
+    },
+    {
+     "sa": "उक्तः",
+     "iast": "uktaḥ",
+     "en": "is declared",
+     "hi": "कहा गया है"
+    },
+    {
+     "sa": "चिकित्सकैः",
+     "iast": "cikitsakaiḥ",
+     "en": "by physicians",
+     "hi": "चिकित्सकों द्वारा"
+    }
+   ],
+   "english": "And here are verses: \"This fourfold group (plant, animal, mineral and time-produced) is declared by physicians to be the cause both of the aggravation and of the pacification of bodily disorders.\"",
+   "hindi": "यहाँ श्लोक हैं: \"यह चार प्रकार का वर्ग (स्थावर, जंगम, पार्थिव और कालकृत) चिकित्सकों द्वारा शारीरिक रोगों के प्रकोप और प्रशम, दोनों का कारण बताया गया है।\"",
+   "explanation_en": "The same four groups of substances can cause disease when used wrongly and cure it when used rightly. This is a key principle: every substance can be medicine or cause of disease depending on use. Remember the four groups: sthāvara, jaṅgama, pārthiva, kālakṛta.",
+   "explanation_hi": "यही चार वर्ग गलत प्रयोग से रोग उत्पन्न करते हैं और ठीक प्रयोग से रोग दूर करते हैं। यह मुख्य सिद्धान्त है: हर द्रव्य प्रयोग के अनुसार औषधि या रोग का कारण बन सकता है। चार वर्ग याद रखें: स्थावर, जंगम, पार्थिव, कालकृत।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sthāvara",
+    "jaṅgama",
+    "pārthiva",
+    "kālakṛta"
+   ],
+   "tags": [
+    "dravya",
+    "classification"
+   ],
+   "importance": "medium",
+   "mnemonic": "Four sources: Plant, Animal, Mineral, Time (S-J-P-K).",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sutra.1.36",
+   "word_meanings": [
+    {
+     "sa": "आगन्तवः",
+     "iast": "āgantavaḥ",
+     "en": "external",
+     "hi": "आगन्तुज"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "परन्तु"
+    },
+    {
+     "sa": "ये रोगाः",
+     "iast": "ye rogāḥ",
+     "en": "those diseases which",
+     "hi": "जो रोग"
+    },
+    {
+     "sa": "ते",
+     "iast": "te",
+     "en": "they",
+     "hi": "वे"
+    },
+    {
+     "sa": "द्विधा",
+     "iast": "dvidhā",
+     "en": "in two ways",
+     "hi": "दो प्रकार से"
+    },
+    {
+     "sa": "निपतन्ति",
+     "iast": "nipatanti",
+     "en": "fall upon, occur",
+     "hi": "आक्रमण करते हैं"
+    },
+    {
+     "sa": "हि",
+     "iast": "hi",
+     "en": "indeed",
+     "hi": "निश्चय ही"
+    },
+    {
+     "sa": "मनसि",
+     "iast": "manasi",
+     "en": "in the mind",
+     "hi": "मन में"
+    },
+    {
+     "sa": "अन्ये",
+     "iast": "anye",
+     "en": "some",
+     "hi": "कुछ"
+    },
+    {
+     "sa": "शरीरे",
+     "iast": "śarīre",
+     "en": "in the body",
+     "hi": "शरीर में"
+    },
+    {
+     "sa": "अन्ये",
+     "iast": "anye",
+     "en": "others",
+     "hi": "दूसरे"
+    },
+    {
+     "sa": "तेषाम्",
+     "iast": "teṣām",
+     "en": "of them",
+     "hi": "उनकी"
+    },
+    {
+     "sa": "द्विविधा",
+     "iast": "dvividhā",
+     "en": "twofold",
+     "hi": "दो प्रकार की"
+    },
+    {
+     "sa": "क्रिया",
+     "iast": "kriyā",
+     "en": "treatment",
+     "hi": "चिकित्सा"
+    }
+   ],
+   "english": "External (āgantu) diseases occur in two ways: some affect the mind, others the body. Their treatment is accordingly of two kinds.",
+   "hindi": "जो आगन्तुज रोग हैं, वे दो प्रकार से आक्रमण करते हैं: कुछ मन पर, कुछ शरीर पर। इसलिए उनकी चिकित्सा भी दो प्रकार की है।",
+   "explanation_en": "An external cause, such as an injury or a fright, may hurt the body or the mind. Suśruta therefore divides āgantu diseases into physical and mental, each needing its own approach (explained in the next verse).",
+   "explanation_hi": "बाहरी कारण, जैसे चोट या डर, शरीर या मन किसी को भी हानि पहुँचा सकता है। इसलिए सुश्रुत आगन्तुज रोगों को शारीरिक और मानसिक में बाँटते हैं, जिनकी चिकित्सा अलग-अलग है (अगला श्लोक)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "āgantu roga"
+   ],
+   "tags": [
+    "vyadhi",
+    "chikitsa"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sutra.1.37",
+   "word_meanings": [
+    {
+     "sa": "शरीरपतितानाम्",
+     "iast": "śarīrapatitānām",
+     "en": "of those that affect the body",
+     "hi": "शरीर पर पड़ने वाले"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "तो"
+    },
+    {
+     "sa": "शारीरवत्",
+     "iast": "śārīravat",
+     "en": "like bodily diseases",
+     "hi": "शारीरिक रोगों की तरह"
+    },
+    {
+     "sa": "उपक्रमः",
+     "iast": "upakramaḥ",
+     "en": "treatment",
+     "hi": "उपक्रम (चिकित्सा)"
+    },
+    {
+     "sa": "मानसानाम्",
+     "iast": "mānasānām",
+     "en": "of the mental ones",
+     "hi": "मानसिक के लिए"
+    },
+    {
+     "sa": "शब्द आदिः",
+     "iast": "śabda ādiḥ",
+     "en": "sound and the other sense objects",
+     "hi": "शब्द आदि विषय"
+    },
+    {
+     "sa": "इष्टः",
+     "iast": "iṣṭaḥ",
+     "en": "pleasant, desired",
+     "hi": "प्रिय"
+    },
+    {
+     "sa": "वर्गः",
+     "iast": "vargaḥ",
+     "en": "group",
+     "hi": "वर्ग"
+    },
+    {
+     "sa": "सुखावहः",
+     "iast": "sukhāvahaḥ",
+     "en": "bringing happiness",
+     "hi": "सुख देने वाला"
+    }
+   ],
+   "english": "Those that affect the body are treated like bodily (śārīra) diseases; for the mental ones, the group of pleasant sense objects, beginning with sound (śabda), which bring happiness, is recommended.",
+   "hindi": "जो शरीर पर पड़ते हैं, उनकी चिकित्सा शारीरिक रोगों की तरह होती है; और मानसिक रोगों के लिए शब्द आदि प्रिय विषयों का समूह, जो सुख देता है, उचित है।",
+   "explanation_en": "Physical injuries are treated like other bodily disorders, while mental shock is treated with pleasant sound, touch, sight, taste and smell (the five sense objects). This early idea of comforting the mind through the senses is worth noting for questions on mental health care in Suśruta.",
+   "explanation_hi": "शारीरिक चोटों की चिकित्सा अन्य शारीरिक रोगों जैसी होती है, जबकि मानसिक आघात में प्रिय शब्द, स्पर्श, रूप, रस और गन्ध (पाँच इन्द्रिय-विषय) से उपचार किया जाता है। मन को इन्द्रियों के द्वारा सुख देने का यह विचार सुश्रुत में मानसिक स्वास्थ्य से जुड़े प्रश्नों के लिए उपयोगी है।",
+   "modern_correlation": {
+    "en": "Using pleasant sensory input to comfort a distressed mind is often compared to supportive approaches such as music or environmental comfort in modern psychological care. No claim of equivalence with specific therapies is intended.",
+    "hi": "दुःखी मन को प्रिय इन्द्रिय-विषयों से सुख देने की तुलना अक्सर आधुनिक मनोवैज्ञानिक देखभाल में संगीत या आरामदायक वातावरण जैसे सहायक उपायों से की जाती है। इसे किसी विशेष थेरेपी के बराबर बताना उद्देश्य नहीं है।"
+   },
+   "key_terms": [
+    "upakrama",
+    "śabdādi viṣaya"
+   ],
+   "tags": [
+    "chikitsa",
+    "manas"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sutra.1.38",
+   "word_meanings": [
+    {
+     "sa": "एवम्",
+     "iast": "evam",
+     "en": "thus",
+     "hi": "इस प्रकार"
+    },
+    {
+     "sa": "एतत्",
+     "iast": "etat",
+     "en": "this",
+     "hi": "यह"
+    },
+    {
+     "sa": "पुरुषः",
+     "iast": "puruṣaḥ",
+     "en": "the person",
+     "hi": "पुरुष"
+    },
+    {
+     "sa": "व्याधिः",
+     "iast": "vyādhiḥ",
+     "en": "disease",
+     "hi": "व्याधि"
+    },
+    {
+     "sa": "औषधम्",
+     "iast": "auṣadham",
+     "en": "medicine",
+     "hi": "औषध"
+    },
+    {
+     "sa": "क्रियाकालः",
+     "iast": "kriyākālaḥ",
+     "en": "procedure and time of treatment",
+     "hi": "क्रिया और काल"
+    },
+    {
+     "sa": "चतुष्टयम्",
+     "iast": "catuṣṭayam",
+     "en": "group of four",
+     "hi": "चतुष्टय"
+    },
+    {
+     "sa": "समासेन",
+     "iast": "samāsena",
+     "en": "in brief",
+     "hi": "संक्षेप में"
+    },
+    {
+     "sa": "व्याख्यातम्",
+     "iast": "vyākhyātam",
+     "en": "explained",
+     "hi": "बताया गया"
+    },
+    {
+     "sa": "पुरुषग्रहणात्",
+     "iast": "puruṣagrahaṇāt",
+     "en": "by the word \"person\"",
+     "hi": "\"पुरुष\" शब्द से"
+    },
+    {
+     "sa": "तत्सम्भवद्रव्यसमूहः",
+     "iast": "tatsambhavadravyasamūhaḥ",
+     "en": "the aggregate of substances that produce him",
+     "hi": "उसको उत्पन्न करने वाले द्रव्यों का समूह"
+    },
+    {
+     "sa": "भूतादिः",
+     "iast": "bhūtādiḥ",
+     "en": "the elements and the rest",
+     "hi": "महाभूत आदि"
+    },
+    {
+     "sa": "उक्तः",
+     "iast": "uktaḥ",
+     "en": "is meant",
+     "hi": "कहा गया"
+    },
+    {
+     "sa": "तदङ्गप्रत्यङ्गविकल्पाः",
+     "iast": "tadaṅgapratyaṅgavikalpāḥ",
+     "en": "the divisions of his major and minor parts",
+     "hi": "उसके अंग-प्रत्यंगों के भेद"
+    },
+    {
+     "sa": "त्वक्",
+     "iast": "tvak",
+     "en": "skin",
+     "hi": "त्वचा"
+    },
+    {
+     "sa": "मांस",
+     "iast": "māṃsa",
+     "en": "muscle",
+     "hi": "मांस"
+    },
+    {
+     "sa": "अस्थि",
+     "iast": "asthi",
+     "en": "bone",
+     "hi": "अस्थि"
+    },
+    {
+     "sa": "सिरा",
+     "iast": "sirā",
+     "en": "vessels",
+     "hi": "सिरा"
+    },
+    {
+     "sa": "स्नायु",
+     "iast": "snāyu",
+     "en": "ligaments, sinews",
+     "hi": "स्नायु"
+    },
+    {
+     "sa": "प्रभृतयः",
+     "iast": "prabhṛtayaḥ",
+     "en": "and others",
+     "hi": "आदि"
+    },
+    {
+     "sa": "व्याधिग्रहणात्",
+     "iast": "vyādhigrahaṇāt",
+     "en": "by the word \"disease\"",
+     "hi": "\"व्याधि\" शब्द से"
+    },
+    {
+     "sa": "सर्वे एव व्याधयः",
+     "iast": "sarve eva vyādhayaḥ",
+     "en": "all diseases",
+     "hi": "सभी रोग"
+    },
+    {
+     "sa": "औषधग्रहणात्",
+     "iast": "auṣadhagrahaṇāt",
+     "en": "by the word \"medicine\"",
+     "hi": "\"औषध\" शब्द से"
+    },
+    {
+     "sa": "द्रव्य रस गुण वीर्य विपाकानाम्",
+     "iast": "dravya rasa guṇa vīrya vipākānām",
+     "en": "of substance, taste, quality, potency and post-digestive effect",
+     "hi": "द्रव्य, रस, गुण, वीर्य, विपाक का"
+    },
+    {
+     "sa": "आदेशः",
+     "iast": "ādeśaḥ",
+     "en": "indication, teaching",
+     "hi": "निर्देश"
+    },
+    {
+     "sa": "क्रियाग्रहणात्",
+     "iast": "kriyāgrahaṇāt",
+     "en": "by the word \"procedure\"",
+     "hi": "\"क्रिया\" शब्द से"
+    },
+    {
+     "sa": "छेद्य आदीनि",
+     "iast": "chedya ādīni",
+     "en": "excision and the other (surgical procedures)",
+     "hi": "छेदन आदि"
+    },
+    {
+     "sa": "स्नेह आदीनि",
+     "iast": "sneha ādīni",
+     "en": "oleation and the other (procedures)",
+     "hi": "स्नेहन आदि"
+    },
+    {
+     "sa": "कर्माणि",
+     "iast": "karmāṇi",
+     "en": "procedures",
+     "hi": "कर्म"
+    },
+    {
+     "sa": "कालग्रहणात्",
+     "iast": "kālagrahaṇāt",
+     "en": "by the word \"time\"",
+     "hi": "\"काल\" शब्द से"
+    },
+    {
+     "sa": "सर्वक्रियाकालानाम्",
+     "iast": "sarvakriyākālānām",
+     "en": "of all times for treatment",
+     "hi": "सब क्रियाकालों का"
+    }
+   ],
+   "english": "Thus the group of four, namely the person (puruṣa), disease (vyādhi), medicine (auṣadha), and procedure and time (kriyā and kāla), has been explained in brief. By \"person\" is meant the aggregate of substances from which he is formed, beginning with the elements, and the divisions of his major and minor parts such as skin, muscle, bone, vessels and ligaments. By \"disease\" are meant all diseases caused by imbalance of vāta, pitta, kapha, blood, or their combination. By \"medicine\" is indicated the teaching on substance (dravya), taste (rasa), quality (guṇa), potency (vīrya) and post-digestive effect (vipāka). By \"procedure\" are meant the procedures beginning with excision (chedya) and those beginning with oleation (sneha). By \"time\" all the times for treatment are indicated.",
+   "hindi": "इस प्रकार पुरुष, व्याधि, औषध और क्रियाकाल, यह चतुष्टय संक्षेप में बताया गया। \"पुरुष\" से उसे उत्पन्न करने वाले महाभूत आदि द्रव्यों का समूह और त्वचा, मांस, अस्थि, सिरा, स्नायु आदि अंग-प्रत्यंगों के भेद समझने चाहिए। \"व्याधि\" से वात, पित्त, कफ, रक्त और सन्निपात की विषमता से होने वाले सभी रोग समझने चाहिए। \"औषध\" से द्रव्य, रस, गुण, वीर्य और विपाक का निर्देश समझना चाहिए। \"क्रिया\" से छेदन आदि (शल्य कर्म) और स्नेहन आदि कर्म समझने चाहिए। \"काल\" से चिकित्सा के सभी उचित समय समझने चाहिए।",
+   "explanation_en": "This is the famous \"catuṣṭaya\" of Suśruta: puruṣa, vyādhi, auṣadha, kriyākāla. Each term is a heading for a large part of the text: puruṣa → Śārīrasthāna, vyādhi → Nidāna, auṣadha → dravya-rasa-guṇa-vīrya-vipāka, kriyā → surgical (chedya etc.) and medical (sneha etc.) procedures, kāla → kriyākāla. Do not confuse this with Caraka's cikitsā catuṣpāda (physician, drug, attendant, patient). A frequent comparison question.",
+   "explanation_hi": "यह सुश्रुत का प्रसिद्ध \"चतुष्टय\" है: पुरुष, व्याधि, औषध, क्रियाकाल। हर शब्द ग्रन्थ के एक बड़े भाग का शीर्षक है: पुरुष → शारीरस्थान, व्याधि → निदान, औषध → द्रव्य-रस-गुण-वीर्य-विपाक, क्रिया → छेदन आदि शल्य कर्म और स्नेहन आदि कर्म, काल → क्रियाकाल। इसे चरक के चिकित्सा-चतुष्पाद (वैद्य, द्रव्य, उपस्थाता, रोगी) से भ्रमित न करें। यह तुलना का प्रश्न अक्सर आता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "catuṣṭaya",
+    "puruṣa",
+    "vyādhi",
+    "auṣadha",
+    "kriyākāla",
+    "dravya",
+    "rasa",
+    "guṇa",
+    "vīrya",
+    "vipāka"
+   ],
+   "tags": [
+    "siddhanta",
+    "framework"
+   ],
+   "importance": "high",
+   "mnemonic": "Su's four: Patient (Puruṣa), Pathology (Vyādhi), Pharmacy (Auṣadha), Procedure & Period (Kriyā-Kāla).",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sutra.1.39",
+   "word_meanings": [
+    {
+     "sa": "भवति च अत्र",
+     "iast": "bhavati ca atra",
+     "en": "and here there is (a verse)",
+     "hi": "और यहाँ (श्लोक) है"
+    },
+    {
+     "sa": "बीजम्",
+     "iast": "bījam",
+     "en": "seed",
+     "hi": "बीज"
+    },
+    {
+     "sa": "चिकित्सितस्य",
+     "iast": "cikitsitasya",
+     "en": "of treatment (the science of treatment)",
+     "hi": "चिकित्सा का"
+    },
+    {
+     "sa": "एतत्",
+     "iast": "etat",
+     "en": "this",
+     "hi": "यह"
+    },
+    {
+     "sa": "समासेन",
+     "iast": "samāsena",
+     "en": "in brief",
+     "hi": "संक्षेप में"
+    },
+    {
+     "sa": "प्रकीर्तितम्",
+     "iast": "prakīrtitam",
+     "en": "has been stated",
+     "hi": "कहा गया"
+    },
+    {
+     "sa": "सविंशम्",
+     "iast": "saviṃśam",
+     "en": "with twenty more",
+     "hi": "बीस सहित"
+    },
+    {
+     "sa": "अध्यायशतम्",
+     "iast": "adhyāyaśatam",
+     "en": "a hundred chapters",
+     "hi": "सौ अध्याय"
+    },
+    {
+     "sa": "अस्य",
+     "iast": "asya",
+     "en": "its",
+     "hi": "इसकी"
+    },
+    {
+     "sa": "व्याख्या",
+     "iast": "vyākhyā",
+     "en": "detailed explanation",
+     "hi": "व्याख्या"
+    },
+    {
+     "sa": "भविष्यति",
+     "iast": "bhaviṣyati",
+     "en": "will be",
+     "hi": "होगी"
+    }
+   ],
+   "english": "Here there is a verse: \"This seed of the science of treatment has been stated in brief; its detailed explanation will be given in one hundred and twenty chapters.\"",
+   "hindi": "यहाँ एक श्लोक है: \"चिकित्सा-शास्त्र का यह बीज संक्षेप में कहा गया है; इसकी विस्तृत व्याख्या एक सौ बीस अध्यायों में होगी।\"",
+   "explanation_en": "The catuṣṭaya of the previous verse is called the \"seed\" (bīja) of the whole science; the rest of the text expands it. The 120 chapters refer to the first five sthānas; the Uttaratantra (66 chapters) is added later, making 186 in all.",
+   "explanation_hi": "पिछले श्लोक का चतुष्टय पूरे शास्त्र का \"बीज\" कहा गया है; शेष ग्रन्थ उसी का विस्तार है। 120 अध्याय पहले पाँच स्थानों के हैं; उत्तरतन्त्र (66 अध्याय) बाद में जोड़कर कुल 186 अध्याय होते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "bīja",
+    "adhyāya"
+   ],
+   "tags": [
+    "structure"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sutra.1.40",
+   "word_meanings": [
+    {
+     "sa": "तत् च",
+     "iast": "tat ca",
+     "en": "and that",
+     "hi": "और वह"
+    },
+    {
+     "sa": "सविंशम् अध्यायशतम्",
+     "iast": "saviṃśam adhyāyaśatam",
+     "en": "the 120 chapters",
+     "hi": "एक सौ बीस अध्याय"
+    },
+    {
+     "sa": "पञ्चसु स्थानेषु",
+     "iast": "pañcasu sthāneṣu",
+     "en": "in five sections",
+     "hi": "पाँच स्थानों में"
+    },
+    {
+     "sa": "सूत्र",
+     "iast": "sūtra",
+     "en": "Sūtra",
+     "hi": "सूत्र"
+    },
+    {
+     "sa": "निदान",
+     "iast": "nidāna",
+     "en": "Nidāna",
+     "hi": "निदान"
+    },
+    {
+     "sa": "शारीर",
+     "iast": "śārīra",
+     "en": "Śārīra",
+     "hi": "शारीर"
+    },
+    {
+     "sa": "चिकित्सित",
+     "iast": "cikitsita",
+     "en": "Cikitsita",
+     "hi": "चिकित्सित"
+    },
+    {
+     "sa": "कल्पेषु",
+     "iast": "kalpeṣu",
+     "en": "and Kalpa",
+     "hi": "और कल्प में"
+    },
+    {
+     "sa": "अर्थवशात्",
+     "iast": "arthavaśāt",
+     "en": "according to subject matter",
+     "hi": "विषय के अनुसार"
+    },
+    {
+     "sa": "संविभज्य",
+     "iast": "saṃvibhajya",
+     "en": "having divided",
+     "hi": "बाँटकर"
+    },
+    {
+     "sa": "उत्तरे तन्त्रे",
+     "iast": "uttare tantre",
+     "en": "in the Uttara Tantra (later section)",
+     "hi": "उत्तरतन्त्र में"
+    },
+    {
+     "sa": "शेषान् अर्थान्",
+     "iast": "śeṣān arthān",
+     "en": "the remaining topics",
+     "hi": "बचे हुए विषय"
+    },
+    {
+     "sa": "व्याख्यास्यामः",
+     "iast": "vyākhyāsyāmaḥ",
+     "en": "we shall explain",
+     "hi": "हम व्याख्या करेंगे"
+    }
+   ],
+   "english": "\"Those one hundred and twenty chapters are divided according to subject into five sections (sthāna): Sūtra, Nidāna, Śārīra, Cikitsita and Kalpa. The remaining topics we shall explain in the Uttara Tantra (the later section).\"",
+   "hindi": "\"वे एक सौ बीस अध्याय विषय के अनुसार पाँच स्थानों में बाँटे गए हैं: सूत्र, निदान, शारीर, चिकित्सित और कल्प। बचे हुए विषयों की व्याख्या हम उत्तरतन्त्र में करेंगे।\"",
+   "explanation_en": "Structure of the Suśrutasaṃhitā: Sūtra (46 chapters), Nidāna (16), Śārīra (10), Cikitsā (40), Kalpa (8) = 120, plus Uttaratantra (66) = 186 chapters. The Uttaratantra mainly covers śālākya, kaumārabhṛtya, kāyacikitsā and bhūtavidyā topics. This is a must-know fact for the history paper.",
+   "explanation_hi": "सुश्रुतसंहिता की रचना: सूत्र (46 अध्याय), निदान (16), शारीर (10), चिकित्सा (40), कल्प (8) = 120, और उत्तरतन्त्र (66) = कुल 186 अध्याय। उत्तरतन्त्र में मुख्यतः शालाक्य, कौमारभृत्य, कायचिकित्सा और भूतविद्या के विषय हैं। इतिहास के पेपर के लिए यह ज़रूर याद रखें।",
+   "modern_correlation": null,
+   "key_terms": [
+    "sthāna",
+    "Uttaratantra",
+    "Sūtrasthāna",
+    "Nidānasthāna",
+    "Śārīrasthāna",
+    "Cikitsāsthāna",
+    "Kalpasthāna"
+   ],
+   "tags": [
+    "structure",
+    "history"
+   ],
+   "importance": "high",
+   "mnemonic": "46-16-10-40-8 (=120) + 66 Uttara = 186.",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "SS.sutra.1.41",
+   "word_meanings": [
+    {
+     "sa": "भवति च अत्र",
+     "iast": "bhavati ca atra",
+     "en": "and here there is (a verse)",
+     "hi": "और यहाँ (श्लोक) है"
+    },
+    {
+     "sa": "स्वयम्भुवा",
+     "iast": "svayambhuvā",
+     "en": "by the Self-born (Brahmā)",
+     "hi": "स्वयम्भू (ब्रह्मा) द्वारा"
+    },
+    {
+     "sa": "प्रोक्तम्",
+     "iast": "proktam",
+     "en": "proclaimed",
+     "hi": "कहा गया"
+    },
+    {
+     "sa": "इदम्",
+     "iast": "idam",
+     "en": "this",
+     "hi": "यह"
+    },
+    {
+     "sa": "सनातनम्",
+     "iast": "sanātanam",
+     "en": "eternal",
+     "hi": "सनातन"
+    },
+    {
+     "sa": "पठेत्",
+     "iast": "paṭhet",
+     "en": "would study, recite",
+     "hi": "पढ़े"
+    },
+    {
+     "sa": "हि",
+     "iast": "hi",
+     "en": "indeed",
+     "hi": "निश्चय ही"
+    },
+    {
+     "sa": "यः",
+     "iast": "yaḥ",
+     "en": "whoever",
+     "hi": "जो"
+    },
+    {
+     "sa": "काशिपतिप्रकाशितम्",
+     "iast": "kāśipatiprakāśitam",
+     "en": "made known by the lord of Kāśī",
+     "hi": "काशीपति (दिवोदास) द्वारा प्रकाशित"
+    },
+    {
+     "sa": "सः",
+     "iast": "saḥ",
+     "en": "he",
+     "hi": "वह"
+    },
+    {
+     "sa": "पुण्यकर्मा",
+     "iast": "puṇyakarmā",
+     "en": "of meritorious deeds",
+     "hi": "पुण्यकर्मा"
+    },
+    {
+     "sa": "भुवि",
+     "iast": "bhuvi",
+     "en": "on earth",
+     "hi": "पृथ्वी पर"
+    },
+    {
+     "sa": "पूजितः",
+     "iast": "pūjitaḥ",
+     "en": "honoured",
+     "hi": "पूजित"
+    },
+    {
+     "sa": "नृपैः",
+     "iast": "nṛpaiḥ",
+     "en": "by kings",
+     "hi": "राजाओं द्वारा"
+    },
+    {
+     "sa": "असुक्षये",
+     "iast": "asukṣaye",
+     "en": "at the end of life",
+     "hi": "प्राण छूटने पर"
+    },
+    {
+     "sa": "शक्रसलोकताम्",
+     "iast": "śakrasalokatām",
+     "en": "residence in the world of Indra",
+     "hi": "इन्द्रलोक में निवास"
+    },
+    {
+     "sa": "व्रजेत्",
+     "iast": "vrajet",
+     "en": "attains",
+     "hi": "प्राप्त करता है"
+    }
+   ],
+   "english": "Here there is a verse: \"Whoever studies this eternal science, proclaimed by the Self-born (Brahmā) and made known by the lord of Kāśī, becomes a doer of meritorious deeds, is honoured by kings on earth, and at the end of life attains the world of Śakra (Indra).\"",
+   "hindi": "यहाँ एक श्लोक है: \"जो व्यक्ति स्वयम्भू (ब्रह्मा) द्वारा कहे गए और काशीपति (दिवोदास धन्वन्तरि) द्वारा प्रकाशित इस सनातन शास्त्र को पढ़ता है, वह पुण्यकर्मा होता है, पृथ्वी पर राजाओं द्वारा सम्मानित होता है, और प्राण छूटने पर इन्द्रलोक को प्राप्त करता है।\"",
+   "explanation_en": "The chapter ends with a phalaśruti (statement of the reward of study), a common feature of classical texts. It again connects the science to Brahmā (origin) and to the king of Kāśī (Divodāsa Dhanvantari, the teacher). Such verses encouraged students to study the text with devotion.",
+   "explanation_hi": "अध्याय फलश्रुति (अध्ययन के फल का कथन) से समाप्त होता है, जो प्राचीन ग्रन्थों की सामान्य विशेषता है। यह फिर से शास्त्र को ब्रह्मा (उत्पत्ति) और काशी के राजा (दिवोदास धन्वन्तरि, उपदेशक) से जोड़ता है। ऐसे श्लोक विद्यार्थियों को श्रद्धा से अध्ययन के लिए प्रेरित करते थे।",
+   "modern_correlation": null,
+   "key_terms": [
+    "phalaśruti",
+    "Kāśipati"
+   ],
+   "tags": [
+    "phalashruti",
+    "chapter-closing"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  }
+ ]
+}

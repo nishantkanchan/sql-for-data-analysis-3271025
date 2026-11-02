@@ -1,0 +1,4050 @@
+{
+ "chapter": {
+  "id": "CS.sutra.20",
+  "text": "charaka_samhita",
+  "sthana": "sutra",
+  "chapter": 20,
+  "title_iast": "Mahāroga Adhyāya",
+  "title_devanagari": "महारोगाध्यायः",
+  "title_en": "The chapter on the major (great) diseases",
+  "title_hi": "महारोग अध्याय (रोगों का व्यापक विवेचन)",
+  "summary_en": "The last chapter of the Roga catuṣka gives a compact theory of disease. Diseases are one by suffering, two by origin (āgantu and nija) and by seat (mind and body), four by type (āgantu, vātaja, pittaja, kaphaja) and countless by their variations. Āgantu disease starts with injury and later disturbs the doṣas; nija disease starts with doṣa imbalance and later produces pain. The three general causes (asātmyendriyārtha-saṃyoga, prajñāparādha, pariṇāma) underlie both. The seats of each doṣa are listed with their chief seats (pakvāśaya, āmāśaya, uras). The chapter's core is the list of nānātmaja disorders, those produced by one doṣa alone: 80 of vāta, 40 of pitta and 20 of kapha, with the unchanging ātmarūpa and karma of each doṣa that allows any unnamed disorder to be identified. Treatment principles follow, with basti, virecana and vamana named as the best therapies for vāta, pitta and kapha, each with a memorable simile. It closes with the rule: examine the disease first, then the medicine, then act.",
+  "summary_hi": "रोग चतुष्क का यह अन्तिम अध्याय रोग का संक्षिप्त सिद्धान्त देता है। पीड़ा की दृष्टि से रोग एक है, प्रकृति (आगन्तु और निज) और अधिष्ठान (मन और शरीर) से दो, प्रकार से चार (आगन्तु, वातज, पित्तज, कफज) और भेदों से असंख्य। आगन्तु रोग चोट से शुरू होकर बाद में दोषों को बिगाड़ता है; निज रोग दोष-विषमता से शुरू होकर बाद में पीड़ा देता है। तीन सामान्य कारण (असात्म्येन्द्रियार्थसंयोग, प्रज्ञापराध, परिणाम) दोनों के मूल में हैं। प्रत्येक दोष के स्थान और प्रधान स्थान (पक्वाशय, आमाशय, उर) बताए गए हैं। अध्याय का मुख्य भाग नानात्मज विकारों की सूची है - जो केवल एक दोष से होते हैं: वात के 80, पित्त के 40 और कफ के 20, साथ में प्रत्येक दोष का अपरिवर्तनीय आत्मरूप और कर्म जिनसे किसी भी अनाम विकार को पहचाना जा सकता है। फिर चिकित्सा-सिद्धान्त हैं, जिनमें वात, पित्त और कफ के लिए क्रमशः बस्ति, विरेचन और वमन श्रेष्ठ बताए गए हैं, प्रत्येक एक यादगार उपमा के साथ। अन्त में नियम है: पहले रोग की परीक्षा, फिर औषध की, फिर कर्म।",
+  "key_concepts": [
+   "roga classification (1-2-2-4-countless)",
+   "āgantu vs nija",
+   "trividha hetu",
+   "doṣa sthāna",
+   "nānātmaja vs sāmānyaja vikāra",
+   "80 vāta, 40 pitta, 20 kapha disorders",
+   "ātmarūpa and karma of doṣas",
+   "basti-virecana-vamana as best therapies",
+   "rogam ādau parīkṣeta"
+  ],
+  "exam_focus_en": [
+   "Nānātmaja vikāras: definition and numbers (vāta 80, pitta 40, kapha 20) with examples from each list (Su 20.10-17).",
+   "Difference between āgantu and nija roga, including the sequence of vyathā and doṣa vaiṣamya (Su 20.3-7).",
+   "Doṣa sthānas and the chief seat of each doṣa: pakvāśaya, āmāśaya, uras (Su 20.8).",
+   "Ātmarūpa (intrinsic properties) and karma of vāta, pitta and kapha used to identify unnamed disorders (Su 20.12, 15, 18).",
+   "Best therapy for each doṣa with similes: basti (tree root), virecana (fire removed), vamana (broken dyke) (Su 20.13, 16, 19).",
+   "'Rogam ādau parīkṣeta tato'nantaram auṣadham' - order of clinical work (Su 20.20-22)."
+  ],
+  "exam_focus_hi": [
+   "नानात्मज विकार: परिभाषा और संख्या (वात 80, पित्त 40, कफ 20) और प्रत्येक सूची से उदाहरण (सू. 20.10-17)।",
+   "आगन्तु और निज रोग में अन्तर, व्यथा और दोष-वैषम्य के क्रम सहित (सू. 20.3-7)।",
+   "दोष-स्थान और प्रत्येक दोष का प्रधान स्थान: पक्वाशय, आमाशय, उर (सू. 20.8)।",
+   "वात, पित्त, कफ के आत्मरूप और कर्म जिनसे अनाम विकार पहचाने जाते हैं (सू. 20.12, 15, 18)।",
+   "प्रत्येक दोष की श्रेष्ठ चिकित्सा और उपमाएँ: बस्ति (पेड़ की जड़), विरेचन (आग हटाना), वमन (मेड़ टूटना) (सू. 20.13, 16, 19)।",
+   "'रोगमादौ परीक्षेत ततोऽनन्तरमौषधम्' - चिकित्सा का क्रम (सू. 20.20-22)।"
+  ],
+  "syllabus_refs": [
+   "AyUG-SA2"
+  ],
+  "review_status": "ai_draft"
+ },
+ "verses": [
+  {
+   "id": "CS.sutra.20.1",
+   "word_meanings": [
+    {
+     "sa": "अथ",
+     "iast": "atha",
+     "en": "now, next",
+     "hi": "अब"
+    },
+    {
+     "sa": "अतः",
+     "iast": "ataḥ",
+     "en": "therefore, hence",
+     "hi": "इसलिए"
+    },
+    {
+     "sa": "महारोग",
+     "iast": "mahāroga",
+     "en": "the major (great) diseases",
+     "hi": "महारोग"
+    },
+    {
+     "sa": "अध्यायम्",
+     "iast": "adhyāyam",
+     "en": "chapter",
+     "hi": "अध्याय को"
+    },
+    {
+     "sa": "व्याख्यास्यामः",
+     "iast": "vyākhyāsyāmaḥ",
+     "en": "we shall explain",
+     "hi": "हम व्याख्या करेंगे"
+    }
+   ],
+   "english": "Now we shall explain the chapter on the major diseases (Mahāroga Adhyāya).",
+   "hindi": "अब हम महारोग अध्याय की व्याख्या करेंगे।",
+   "explanation_en": "This is the standard opening formula of every Caraka chapter. 'Mahāroga' here does not mean only serious illnesses: Cakrapāṇi explains that the chapter deals with disease in a broad (great) sense, covering classification, doṣa seats, the nānātmaja disorders and their principles of treatment. Chapter 20 belongs to the Roga catuṣka (Su 17-20), the tetrad on diseases.",
+   "explanation_hi": "यह चरक के हर अध्याय का सामान्य आरम्भ-वाक्य है। 'महारोग' का अर्थ केवल गम्भीर रोग नहीं है; चक्रपाणि के अनुसार इस अध्याय में रोग का व्यापक विवेचन है - वर्गीकरण, दोषों के स्थान, नानात्मज विकार और उनकी चिकित्सा के सिद्धान्त। अध्याय 20 रोग चतुष्क (सू. 17-20) का अन्तिम अध्याय है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "mahāroga",
+    "roga catuṣka"
+   ],
+   "tags": [
+    "introduction",
+    "roga-chatushka"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.20.2",
+   "word_meanings": [
+    {
+     "sa": "इति",
+     "iast": "iti",
+     "en": "thus",
+     "hi": "इस प्रकार"
+    },
+    {
+     "sa": "ह स्म आह",
+     "iast": "ha sma āha",
+     "en": "indeed said",
+     "hi": "कहा था"
+    },
+    {
+     "sa": "भगवान्",
+     "iast": "bhagavān",
+     "en": "the revered (lord)",
+     "hi": "भगवान"
+    },
+    {
+     "sa": "आत्रेयः",
+     "iast": "ātreyaḥ",
+     "en": "Ātreya (Punarvasu Ātreya)",
+     "hi": "आत्रेय ने"
+    }
+   ],
+   "english": "Thus said the revered Ātreya.",
+   "hindi": "ऐसा भगवान आत्रेय ने कहा।",
+   "explanation_en": "The teaching is attributed to Punarvasu Ātreya, the teacher of Agniveśa. This line appears after the opening sentence of every chapter and reminds the student that the Carakasaṃhitā is presented as Ātreya's teaching, recorded by Agniveśa and later redacted by Caraka and Dṛḍhabala.",
+   "explanation_hi": "यह उपदेश पुनर्वसु आत्रेय का है, जो अग्निवेश के गुरु थे। यह पंक्ति हर अध्याय के आरम्भ में आती है और याद दिलाती है कि चरक संहिता आत्रेय का उपदेश है जिसे अग्निवेश ने लिखा और बाद में चरक तथा दृढ़बल ने प्रतिसंस्कृत किया।",
+   "modern_correlation": null,
+   "key_terms": [
+    "Ātreya"
+   ],
+   "tags": [
+    "introduction"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.20.3",
+   "word_meanings": [
+    {
+     "sa": "चत्वारः",
+     "iast": "catvāraḥ",
+     "en": "four",
+     "hi": "चार"
+    },
+    {
+     "sa": "रोगाः",
+     "iast": "rogāḥ",
+     "en": "diseases",
+     "hi": "रोग"
+    },
+    {
+     "sa": "भवन्ति",
+     "iast": "bhavanti",
+     "en": "are",
+     "hi": "होते हैं"
+    },
+    {
+     "sa": "आगन्तु",
+     "iast": "āgantu",
+     "en": "exogenous, external (injury etc.)",
+     "hi": "आगन्तु (बाहरी कारण से)"
+    },
+    {
+     "sa": "वात पित्त श्लेष्म",
+     "iast": "vāta pitta śleṣma",
+     "en": "vāta, pitta and kapha",
+     "hi": "वात, पित्त और कफ"
+    },
+    {
+     "sa": "निमित्ताः",
+     "iast": "nimittāḥ",
+     "en": "caused by",
+     "hi": "से उत्पन्न"
+    },
+    {
+     "sa": "तेषाम् चतुर्णाम् अपि रोगाणाम्",
+     "iast": "teṣām caturṇām api rogāṇām",
+     "en": "of all these four diseases",
+     "hi": "इन चारों रोगों का"
+    },
+    {
+     "sa": "रोगत्वम्",
+     "iast": "rogatvam",
+     "en": "the state of being a disease",
+     "hi": "रोगत्व"
+    },
+    {
+     "sa": "एकविधम्",
+     "iast": "ekavidham",
+     "en": "of one kind",
+     "hi": "एक प्रकार का"
+    },
+    {
+     "sa": "रुक्",
+     "iast": "ruk",
+     "en": "pain, suffering",
+     "hi": "पीड़ा, कष्ट"
+    },
+    {
+     "sa": "सामान्यात्",
+     "iast": "sāmānyāt",
+     "en": "because of commonness",
+     "hi": "समानता के कारण"
+    },
+    {
+     "sa": "द्विविधा",
+     "iast": "dvividhā",
+     "en": "of two kinds",
+     "hi": "दो प्रकार की"
+    },
+    {
+     "sa": "पुनः",
+     "iast": "punaḥ",
+     "en": "again, further",
+     "hi": "फिर"
+    },
+    {
+     "sa": "प्रकृतिः",
+     "iast": "prakṛtiḥ",
+     "en": "origin, cause",
+     "hi": "प्रकृति (उत्पत्ति का कारण)"
+    },
+    {
+     "sa": "एषाम्",
+     "iast": "eṣām",
+     "en": "of these",
+     "hi": "इनकी"
+    },
+    {
+     "sa": "आगन्तु निज विभागात्",
+     "iast": "āgantu nija vibhāgāt",
+     "en": "by division into exogenous and endogenous",
+     "hi": "आगन्तु और निज के भेद से"
+    },
+    {
+     "sa": "अधिष्ठानम्",
+     "iast": "adhiṣṭhānam",
+     "en": "seat, location",
+     "hi": "अधिष्ठान, आश्रय"
+    },
+    {
+     "sa": "मनः शरीर विशेषात्",
+     "iast": "manaḥ śarīra viśeṣāt",
+     "en": "by distinction of mind and body",
+     "hi": "मन और शरीर के भेद से"
+    },
+    {
+     "sa": "विकाराः",
+     "iast": "vikārāḥ",
+     "en": "disorders",
+     "hi": "विकार"
+    },
+    {
+     "sa": "अपरिसंख्येयाः",
+     "iast": "aparisaṃkhyeyāḥ",
+     "en": "countless, innumerable",
+     "hi": "असंख्य"
+    },
+    {
+     "sa": "प्रकृति",
+     "iast": "prakṛti",
+     "en": "cause",
+     "hi": "प्रकृति (कारण)"
+    },
+    {
+     "sa": "अधिष्ठान",
+     "iast": "adhiṣṭhāna",
+     "en": "seat",
+     "hi": "अधिष्ठान"
+    },
+    {
+     "sa": "लिङ्ग",
+     "iast": "liṅga",
+     "en": "signs, symptoms",
+     "hi": "लिंग (लक्षण)"
+    },
+    {
+     "sa": "आयतन",
+     "iast": "āyatana",
+     "en": "etiological factors",
+     "hi": "आयतन (हेतु)"
+    },
+    {
+     "sa": "विकल्प",
+     "iast": "vikalpa",
+     "en": "variations, combinations",
+     "hi": "विकल्प (भेद)"
+    },
+    {
+     "sa": "विशेष",
+     "iast": "viśeṣa",
+     "en": "specific differences",
+     "hi": "विशेष"
+    },
+    {
+     "sa": "अपरिसंख्येयत्वात्",
+     "iast": "aparisaṃkhyeyatvāt",
+     "en": "because they are innumerable",
+     "hi": "असंख्य होने के कारण"
+    }
+   ],
+   "english": "Diseases are four: those caused by external factors (āgantu), and those caused by vāta, pitta and kapha. As 'disease', all four are of one kind, because pain/suffering (ruk) is common to all. Their origin (prakṛti) is of two kinds, divided into exogenous (āgantu) and endogenous (nija). Their seat (adhiṣṭhāna) is also of two kinds, the mind and the body. The disorders themselves, however, are countless, because the variations of their causes, seats, signs and etiological factors are innumerable.",
+   "hindi": "रोग चार हैं: आगन्तु (बाहरी कारण से) तथा वात, पित्त और कफ से उत्पन्न। रोग के रूप में चारों एक ही प्रकार के हैं क्योंकि पीड़ा (रुक्) सबमें समान है। इनकी प्रकृति (उत्पत्ति) दो प्रकार की है - आगन्तु और निज। इनका अधिष्ठान (आश्रय) भी दो प्रकार का है - मन और शरीर। परन्तु विकार असंख्य हैं, क्योंकि उनके कारण, अधिष्ठान, लक्षण और हेतुओं के भेद असंख्य हैं।",
+   "explanation_en": "This verse gives a graded classification of disease: 1 (by ruk, suffering), 2 (by origin: āgantu/nija), 2 (by seat: manas/śarīra), 4 (āgantu + three doṣa types) and finally countless (aparisaṃkhyeya). It is a favourite exam question: 'roga is one, two, four or innumerable - explain'. Remember the chain 1-2-2-4-∞. Compare Su 18.44-47, where Caraka also says that new diseases need not be named but understood by doṣa, seat and cause.",
+   "explanation_hi": "यह श्लोक रोग का क्रमिक वर्गीकरण देता है: एक (रुक् - पीड़ा से), दो (प्रकृति से: आगन्तु/निज), दो (अधिष्ठान से: मन/शरीर), चार (आगन्तु + तीन दोषज) और अन्त में असंख्य। परीक्षा में अक्सर पूछा जाता है: 'रोग एक, दो, चार या असंख्य कैसे हैं?' क्रम याद रखें: 1-2-2-4-असंख्य। सू. 18.44-47 से तुलना करें जहाँ कहा गया है कि नए रोगों का नाम आवश्यक नहीं, दोष, स्थान और हेतु से उन्हें समझना चाहिए।",
+   "modern_correlation": {
+    "en": "Modern nosology also classifies disease at several levels, e.g. external causes (trauma, poisoning, infection) versus internal causes (metabolic, degenerative, genetic), and physical versus mental disorders, while recognising that individual presentations are almost unlimited. The āgantu/nija split is often compared to the distinction between exogenous and endogenous causes of disease; the parallel is conceptual, not a one-to-one match.",
+    "hi": "आधुनिक रोग-वर्गीकरण भी कई स्तरों पर होता है, जैसे बाहरी कारण (आघात, विष, संक्रमण) और आन्तरिक कारण (मेटाबॉलिक, डीजेनेरेटिव, जेनेटिक), तथा शारीरिक और मानसिक विकार; साथ ही यह माना जाता है कि रोगों के प्रस्तुत रूप लगभग असीमित हैं। आगन्तु/निज विभाजन की तुलना अक्सर एक्सोजिनस और एण्डोजिनस कारणों से की जाती है; यह समानता वैचारिक है, पूर्णतः समान नहीं।"
+   },
+   "key_terms": [
+    "roga",
+    "āgantu",
+    "nija",
+    "adhiṣṭhāna",
+    "ruk",
+    "aparisaṃkhyeya"
+   ],
+   "tags": [
+    "classification",
+    "roga",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "1-2-2-4-∞: one suffering, two origins, two seats, four types, countless disorders",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.20.4",
+   "word_meanings": [
+    {
+     "sa": "मुखानि",
+     "iast": "mukhāni",
+     "en": "entry points, causes",
+     "hi": "मुख (प्रवेश-द्वार, कारण)"
+    },
+    {
+     "sa": "तु खलु",
+     "iast": "tu khalu",
+     "en": "but indeed",
+     "hi": "परन्तु निश्चय ही"
+    },
+    {
+     "sa": "आगन्तोः",
+     "iast": "āgantoḥ",
+     "en": "of the exogenous (disease)",
+     "hi": "आगन्तु रोग के"
+    },
+    {
+     "sa": "नख",
+     "iast": "nakha",
+     "en": "nails (scratching)",
+     "hi": "नख (नाखून से)"
+    },
+    {
+     "sa": "दशन",
+     "iast": "daśana",
+     "en": "teeth (bite)",
+     "hi": "दाँत (काटना)"
+    },
+    {
+     "sa": "पतन",
+     "iast": "patana",
+     "en": "falling",
+     "hi": "गिरना"
+    },
+    {
+     "sa": "अभिचार",
+     "iast": "abhicāra",
+     "en": "black magic, sorcery",
+     "hi": "अभिचार (जादू-टोना)"
+    },
+    {
+     "sa": "अभिशाप",
+     "iast": "abhiśāpa",
+     "en": "curse",
+     "hi": "अभिशाप"
+    },
+    {
+     "sa": "अभिषङ्ग",
+     "iast": "abhiṣaṅga",
+     "en": "possession, emotional seizure (by spirits or passions)",
+     "hi": "अभिषंग (ग्रह-आवेश, काम-क्रोधादि का आवेग)"
+    },
+    {
+     "sa": "अभिघात",
+     "iast": "abhighāta",
+     "en": "blow, injury",
+     "hi": "अभिघात (चोट)"
+    },
+    {
+     "sa": "व्यध",
+     "iast": "vyadha",
+     "en": "piercing",
+     "hi": "वेधन (छेदना)"
+    },
+    {
+     "sa": "बन्धन",
+     "iast": "bandhana",
+     "en": "binding",
+     "hi": "बन्धन"
+    },
+    {
+     "sa": "वेष्टन",
+     "iast": "veṣṭana",
+     "en": "wrapping tightly, coiling",
+     "hi": "वेष्टन (लपेटना)"
+    },
+    {
+     "sa": "पीडन",
+     "iast": "pīḍana",
+     "en": "pressing, crushing",
+     "hi": "पीडन (दबाना)"
+    },
+    {
+     "sa": "रज्जु",
+     "iast": "rajju",
+     "en": "rope (strangulation)",
+     "hi": "रस्सी"
+    },
+    {
+     "sa": "दहन",
+     "iast": "dahana",
+     "en": "burning",
+     "hi": "दहन (जलना)"
+    },
+    {
+     "sa": "शस्त्र",
+     "iast": "śastra",
+     "en": "weapon",
+     "hi": "शस्त्र"
+    },
+    {
+     "sa": "अशनि",
+     "iast": "aśani",
+     "en": "thunderbolt, lightning",
+     "hi": "अशनि (बिजली गिरना)"
+    },
+    {
+     "sa": "भूत उपसर्ग",
+     "iast": "bhūta upasarga",
+     "en": "contact with/attack by bhūtas (organisms, spirits)",
+     "hi": "भूत-उपसर्ग"
+    },
+    {
+     "sa": "आदीनि",
+     "iast": "ādīni",
+     "en": "etc.",
+     "hi": "आदि"
+    },
+    {
+     "sa": "निजस्य",
+     "iast": "nijasya",
+     "en": "of the endogenous (disease)",
+     "hi": "निज रोग का"
+    },
+    {
+     "sa": "मुखम्",
+     "iast": "mukham",
+     "en": "entry point, cause",
+     "hi": "मुख (कारण)"
+    },
+    {
+     "sa": "वात पित्त श्लेष्मणाम्",
+     "iast": "vāta pitta śleṣmaṇām",
+     "en": "of vāta, pitta and kapha",
+     "hi": "वात, पित्त और कफ का"
+    },
+    {
+     "sa": "वैषम्यम्",
+     "iast": "vaiṣamyam",
+     "en": "imbalance",
+     "hi": "विषमता"
+    }
+   ],
+   "english": "The causes (entry points) of exogenous disease are nails, teeth (bites), falls, sorcery, curses, possession, blows, piercing, binding, tight wrapping, crushing, ropes, burns, weapons, lightning, contact with bhūtas and the like. The cause of endogenous (nija) disease is the imbalance (vaiṣamya) of vāta, pitta and kapha.",
+   "hindi": "आगन्तु रोग के मुख (कारण) हैं: नाखून, दाँत (काटना), गिरना, अभिचार, अभिशाप, अभिषंग (आवेश), चोट, छेदना, बाँधना, कसकर लपेटना, दबाना, रस्सी, जलना, शस्त्र, बिजली, भूतों का उपसर्ग आदि। निज रोग का मुख वात, पित्त और कफ की विषमता है।",
+   "explanation_en": "The key contrast: āgantu diseases begin from an external event, nija diseases begin from doṣa imbalance. 'Bhūtopasarga' is explained by commentators as attack by bhūtas, which include unseen agents; some modern authors read this as an early idea of invasion by organisms, but this is an interpretation. Exam tip: list at least 8-10 āgantu causes and state the single nija cause, doṣa vaiṣamya.",
+   "explanation_hi": "मुख्य अन्तर: आगन्तु रोग बाहरी घटना से शुरू होते हैं, निज रोग दोष-विषमता से। 'भूतोपसर्ग' को टीकाकार भूतों (अदृश्य कारकों) का आक्रमण बताते हैं; कुछ आधुनिक लेखक इसे सूक्ष्म जीवों के आक्रमण की प्रारम्भिक धारणा मानते हैं, पर यह व्याख्या मात्र है। परीक्षा टिप: 8-10 आगन्तु कारण लिखें और निज रोग का एक कारण - दोष-वैषम्य - बताएँ।",
+   "modern_correlation": {
+    "en": "The āgantu causes overlap with categories of external injury used today: mechanical trauma (falls, blows, piercing), bites, thermal and electrical injury (burns, lightning), asphyxia (rope, crushing) and, on some readings, infection (bhūtopasarga). Items like curses and sorcery reflect the culture of the time and have no biomedical counterpart.",
+    "hi": "आगन्तु कारण आज की बाहरी चोट की श्रेणियों से मेल खाते हैं: यान्त्रिक आघात (गिरना, चोट, छेदना), काटना, ताप और विद्युत चोट (जलना, बिजली), श्वासावरोध (रस्सी, दबाना), और कुछ व्याख्याओं में संक्रमण (भूतोपसर्ग)। अभिशाप और अभिचार उस समय की संस्कृति के हैं, इनका जैव-चिकित्सीय समकक्ष नहीं है।"
+   },
+   "key_terms": [
+    "āgantu",
+    "nija",
+    "doṣa vaiṣamya",
+    "bhūtopasarga",
+    "abhighāta"
+   ],
+   "tags": [
+    "etiology",
+    "agantu",
+    "nija"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.20.5",
+   "word_meanings": [
+    {
+     "sa": "द्वयोः",
+     "iast": "dvayoḥ",
+     "en": "of both",
+     "hi": "दोनों के"
+    },
+    {
+     "sa": "तु खलु",
+     "iast": "tu khalu",
+     "en": "but indeed",
+     "hi": "परन्तु"
+    },
+    {
+     "sa": "आगन्तु निजयोः",
+     "iast": "āgantu nijayoḥ",
+     "en": "of exogenous and endogenous (diseases)",
+     "hi": "आगन्तु और निज (रोगों) के"
+    },
+    {
+     "sa": "प्रेरणम्",
+     "iast": "preraṇam",
+     "en": "precipitating cause, impeller",
+     "hi": "प्रेरक कारण"
+    },
+    {
+     "sa": "असात्म्य इन्द्रियार्थ संयोगः",
+     "iast": "asātmya indriyārtha saṃyogaḥ",
+     "en": "unwholesome contact of senses with their objects",
+     "hi": "असात्म्य इन्द्रियार्थ संयोग"
+    },
+    {
+     "sa": "प्रज्ञापराधः",
+     "iast": "prajñāparādhaḥ",
+     "en": "error of intellect (failure of judgement)",
+     "hi": "प्रज्ञापराध (बुद्धि का अपराध)"
+    },
+    {
+     "sa": "परिणामः",
+     "iast": "pariṇāmaḥ",
+     "en": "time, transformation (seasons, age)",
+     "hi": "परिणाम (काल)"
+    },
+    {
+     "sa": "च इति",
+     "iast": "ca iti",
+     "en": "and thus",
+     "hi": "और"
+    }
+   ],
+   "english": "The precipitating causes of both exogenous and endogenous diseases are: unwholesome contact of the senses with their objects (asātmyendriyārtha-saṃyoga), error of intellect (prajñāparādha) and time (pariṇāma).",
+   "hindi": "आगन्तु और निज दोनों रोगों के प्रेरक कारण हैं: असात्म्य इन्द्रियार्थ संयोग, प्रज्ञापराध और परिणाम (काल)।",
+   "explanation_en": "These are the famous three general causes of disease (trividha hetu), already taught in Su 11.43 and Śā 1. Even an external injury usually happens because of a lapse of judgement (prajñāparādha), misuse of the senses, or the effect of time and season. Exam tip: remember 'A-P-P': Asātmyendriyārtha, Prajñāparādha, Pariṇāma.",
+   "explanation_hi": "ये रोग के प्रसिद्ध तीन सामान्य कारण (त्रिविध हेतु) हैं जो सू. 11.43 और शारीर 1 में भी आते हैं। बाहरी चोट भी प्रायः बुद्धि की चूक (प्रज्ञापराध), इन्द्रियों के दुरुपयोग या काल के प्रभाव से होती है। याद रखें: असात्म्येन्द्रियार्थ, प्रज्ञापराध, परिणाम।",
+   "modern_correlation": {
+    "en": "This triad is often compared to the modern view of disease risk as a product of environmental exposures (sensory and physical inputs), behaviour and lifestyle choices (lapses of judgement), and time-dependent factors such as ageing and seasonal variation.",
+    "hi": "इस त्रयी की तुलना अक्सर आधुनिक दृष्टिकोण से की जाती है जिसमें रोग का जोखिम पर्यावरणीय सम्पर्क (इन्द्रिय और भौतिक प्रभाव), व्यवहार और जीवनशैली (निर्णय की चूक) तथा समय-निर्भर कारकों (आयु, ऋतु) से बनता है।"
+   },
+   "key_terms": [
+    "asātmyendriyārtha saṃyoga",
+    "prajñāparādha",
+    "pariṇāma",
+    "trividha hetu"
+   ],
+   "tags": [
+    "etiology",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "A-P-P: Asātmyendriyārtha, Prajñāparādha, Pariṇāma",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.20.6",
+   "word_meanings": [
+    {
+     "sa": "सर्वे अपि",
+     "iast": "sarve api",
+     "en": "all",
+     "hi": "सभी"
+    },
+    {
+     "sa": "तु खलु",
+     "iast": "tu khalu",
+     "en": "but indeed",
+     "hi": "परन्तु"
+    },
+    {
+     "sa": "एते",
+     "iast": "ete",
+     "en": "these",
+     "hi": "ये"
+    },
+    {
+     "sa": "अभिप्रवृद्धाः",
+     "iast": "abhipravṛddhāḥ",
+     "en": "greatly aggravated",
+     "hi": "अत्यधिक बढ़े हुए"
+    },
+    {
+     "sa": "चत्वारः रोगाः",
+     "iast": "catvāraḥ rogāḥ",
+     "en": "four diseases",
+     "hi": "चार रोग"
+    },
+    {
+     "sa": "परस्परम्",
+     "iast": "parasparam",
+     "en": "mutually, one another",
+     "hi": "परस्पर"
+    },
+    {
+     "sa": "अनुबध्नन्ति",
+     "iast": "anubadhnanti",
+     "en": "follow, become associated with",
+     "hi": "अनुबन्ध करते हैं (पीछे लग जाते हैं)"
+    },
+    {
+     "sa": "न च",
+     "iast": "na ca",
+     "en": "and not",
+     "hi": "और नहीं"
+    },
+    {
+     "sa": "अन्योन्येन सह",
+     "iast": "anyonyena saha",
+     "en": "with one another",
+     "hi": "एक-दूसरे के साथ"
+    },
+    {
+     "sa": "संदेहम्",
+     "iast": "saṃdeham",
+     "en": "confusion",
+     "hi": "सन्देह, भ्रम"
+    },
+    {
+     "sa": "आपद्यन्ते",
+     "iast": "āpadyante",
+     "en": "fall into",
+     "hi": "प्राप्त होते हैं"
+    }
+   ],
+   "english": "All these four kinds of disease, when greatly aggravated, become associated with one another; yet they do not become confused with one another.",
+   "hindi": "ये चारों प्रकार के रोग अधिक बढ़ जाने पर एक-दूसरे से जुड़ जाते हैं; फिर भी इनमें आपस में भ्रम नहीं होता।",
+   "explanation_en": "A severe āgantu disease will draw in the doṣas, and a severe doṣaja disease may combine with others. Yet a skilled physician can still distinguish the primary (pradhāna) disease from the secondary (anubandha) one, because each has its own sequence and features (explained in the next verse). This links to the concept of anubandha and upadrava.",
+   "explanation_hi": "गम्भीर आगन्तु रोग दोषों को भी बिगाड़ देता है और गम्भीर दोषज रोग दूसरे रोगों से जुड़ सकता है। फिर भी कुशल वैद्य प्रधान रोग और अनुबन्ध (गौण) रोग को अलग पहचान सकता है क्योंकि हर एक का अपना क्रम और लक्षण होता है (अगला श्लोक)। यह अनुबन्ध और उपद्रव की अवधारणा से जुड़ता है।",
+   "modern_correlation": {
+    "en": "Clinically, a primary injury or illness often triggers secondary systemic changes (for example trauma leading to inflammation, fever or infection), yet clinicians distinguish the primary condition from its complications.",
+    "hi": "नैदानिक रूप से प्राथमिक चोट या रोग प्रायः द्वितीयक शारीरिक परिवर्तन (जैसे आघात के बाद सूजन, ज्वर या संक्रमण) उत्पन्न करता है, फिर भी चिकित्सक प्राथमिक स्थिति को उसकी जटिलताओं से अलग पहचानते हैं।"
+   },
+   "key_terms": [
+    "anubandha",
+    "āgantu",
+    "nija"
+   ],
+   "tags": [
+    "pathology",
+    "roga"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.20.7",
+   "word_meanings": [
+    {
+     "sa": "आगन्तुः हि",
+     "iast": "āgantuḥ hi",
+     "en": "the exogenous (disease) indeed",
+     "hi": "आगन्तु रोग तो"
+    },
+    {
+     "sa": "व्यथा पूर्वम्",
+     "iast": "vyathā pūrvam",
+     "en": "with pain first",
+     "hi": "पहले पीड़ा के साथ"
+    },
+    {
+     "sa": "समुत्पन्नः",
+     "iast": "samutpannaḥ",
+     "en": "arisen",
+     "hi": "उत्पन्न हुआ"
+    },
+    {
+     "sa": "जघन्यम्",
+     "iast": "jaghanyam",
+     "en": "afterwards",
+     "hi": "बाद में"
+    },
+    {
+     "sa": "वात पित्त श्लेष्मणाम्",
+     "iast": "vāta pitta śleṣmaṇām",
+     "en": "of vāta, pitta and kapha",
+     "hi": "वात, पित्त, कफ की"
+    },
+    {
+     "sa": "वैषम्यम्",
+     "iast": "vaiṣamyam",
+     "en": "imbalance",
+     "hi": "विषमता"
+    },
+    {
+     "sa": "आपादयति",
+     "iast": "āpādayati",
+     "en": "brings about",
+     "hi": "उत्पन्न करता है"
+    },
+    {
+     "sa": "निजे",
+     "iast": "nije",
+     "en": "in the endogenous (disease)",
+     "hi": "निज रोग में"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "परन्तु"
+    },
+    {
+     "sa": "वात पित्त श्लेष्माणः",
+     "iast": "vāta pitta śleṣmāṇaḥ",
+     "en": "vāta, pitta and kapha",
+     "hi": "वात, पित्त, कफ"
+    },
+    {
+     "sa": "पूर्वम्",
+     "iast": "pūrvam",
+     "en": "first",
+     "hi": "पहले"
+    },
+    {
+     "sa": "वैषम्यम् आपद्यन्ते",
+     "iast": "vaiṣamyam āpadyante",
+     "en": "become imbalanced",
+     "hi": "विषम होते हैं"
+    },
+    {
+     "sa": "जघन्यम्",
+     "iast": "jaghanyam",
+     "en": "afterwards",
+     "hi": "बाद में"
+    },
+    {
+     "sa": "व्यथाम्",
+     "iast": "vyathām",
+     "en": "pain",
+     "hi": "पीड़ा"
+    },
+    {
+     "sa": "अभिनिर्वर्तयन्ति",
+     "iast": "abhinirvartayanti",
+     "en": "produce",
+     "hi": "उत्पन्न करते हैं"
+    }
+   ],
+   "english": "An exogenous disease arises first with pain (injury) and afterwards brings about imbalance of vāta, pitta and kapha. In an endogenous disease, vāta, pitta and kapha first become imbalanced and afterwards produce pain.",
+   "hindi": "आगन्तु रोग पहले पीड़ा (चोट) के साथ उत्पन्न होता है और बाद में वात, पित्त, कफ को विषम करता है। निज रोग में पहले वात, पित्त, कफ विषम होते हैं और बाद में पीड़ा उत्पन्न करते हैं।",
+   "explanation_en": "This is the key differentiating rule between āgantu and nija diseases: the order of events. Āgantu: vyathā → doṣa vaiṣamya. Nija: doṣa vaiṣamya → vyathā. Remember it as 'injury first or imbalance first'. This sequence is why the two do not get confused (Su 20.6).",
+   "explanation_hi": "यह आगन्तु और निज रोग में भेद का मुख्य नियम है - घटनाओं का क्रम। आगन्तु: व्यथा → दोष-वैषम्य। निज: दोष-वैषम्य → व्यथा। याद रखें: 'चोट पहले या असन्तुलन पहले'। इसी क्रम के कारण दोनों में भ्रम नहीं होता (सू. 20.6)।",
+   "modern_correlation": {
+    "en": "This resembles the distinction between conditions that start with an external insult followed by systemic responses (e.g. trauma followed by stress hormones, inflammation, altered metabolism), and conditions that start with internal dysregulation that later produces symptoms.",
+    "hi": "यह उन स्थितियों के अन्तर से मिलता है जिनमें पहले बाहरी आघात होता है और फिर शरीर की प्रतिक्रिया (जैसे स्ट्रेस हार्मोन, सूजन, मेटाबॉलिज़्म में बदलाव), और वे स्थितियाँ जिनमें पहले आन्तरिक असन्तुलन होता है और बाद में लक्षण आते हैं।"
+   },
+   "key_terms": [
+    "āgantu",
+    "nija",
+    "vyathā",
+    "doṣa vaiṣamya"
+   ],
+   "tags": [
+    "pathology",
+    "agantu",
+    "nija",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Āgantu: Ache then Aggravation; Nija: Imbalance then Injury-like pain",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.20.8",
+   "word_meanings": [
+    {
+     "sa": "तेषाम् त्रयाणाम् अपि दोषाणाम्",
+     "iast": "teṣām trayāṇām api doṣāṇām",
+     "en": "of all these three doṣas",
+     "hi": "इन तीनों दोषों का"
+    },
+    {
+     "sa": "शरीरे",
+     "iast": "śarīre",
+     "en": "in the body",
+     "hi": "शरीर में"
+    },
+    {
+     "sa": "स्थान विभागः",
+     "iast": "sthāna vibhāgaḥ",
+     "en": "division of sites",
+     "hi": "स्थानों का विभाजन"
+    },
+    {
+     "sa": "उपदेक्ष्यते",
+     "iast": "upadekṣyate",
+     "en": "will be taught",
+     "hi": "बताया जाएगा"
+    },
+    {
+     "sa": "तद्यथा",
+     "iast": "tadyathā",
+     "en": "namely",
+     "hi": "जैसे"
+    },
+    {
+     "sa": "वस्तिः",
+     "iast": "vastiḥ",
+     "en": "urinary bladder",
+     "hi": "बस्ति (मूत्राशय)"
+    },
+    {
+     "sa": "पुरीषाधानम्",
+     "iast": "purīṣādhānam",
+     "en": "rectum, receptacle of faeces",
+     "hi": "पुरीषाधान (मलाशय)"
+    },
+    {
+     "sa": "कटिः",
+     "iast": "kaṭiḥ",
+     "en": "waist, lumbar region",
+     "hi": "कटि (कमर)"
+    },
+    {
+     "sa": "सक्थिनी",
+     "iast": "sakthinī",
+     "en": "thighs (lower limbs)",
+     "hi": "सक्थि (जाँघें)"
+    },
+    {
+     "sa": "पादौ",
+     "iast": "pādau",
+     "en": "feet",
+     "hi": "पैर"
+    },
+    {
+     "sa": "अस्थीनि",
+     "iast": "asthīni",
+     "en": "bones",
+     "hi": "अस्थियाँ"
+    },
+    {
+     "sa": "पक्वाशयः",
+     "iast": "pakvāśayaḥ",
+     "en": "colon, large intestine",
+     "hi": "पक्वाशय"
+    },
+    {
+     "sa": "वातस्थानानि",
+     "iast": "vātasthānāni",
+     "en": "sites of vāta",
+     "hi": "वात के स्थान"
+    },
+    {
+     "sa": "तत्र अपि",
+     "iast": "tatra api",
+     "en": "among these too",
+     "hi": "उनमें भी"
+    },
+    {
+     "sa": "विशेषेण",
+     "iast": "viśeṣeṇa",
+     "en": "especially",
+     "hi": "विशेष रूप से"
+    },
+    {
+     "sa": "स्वेदः",
+     "iast": "svedaḥ",
+     "en": "sweat",
+     "hi": "स्वेद (पसीना)"
+    },
+    {
+     "sa": "रसः",
+     "iast": "rasaḥ",
+     "en": "rasa dhātu (plasma, nutrient fluid)",
+     "hi": "रस धातु"
+    },
+    {
+     "sa": "लसीका",
+     "iast": "lasīkā",
+     "en": "lymph, serous fluid",
+     "hi": "लसीका"
+    },
+    {
+     "sa": "रुधिरम्",
+     "iast": "rudhiram",
+     "en": "blood",
+     "hi": "रक्त"
+    },
+    {
+     "sa": "आमाशयः",
+     "iast": "āmāśayaḥ",
+     "en": "stomach and upper gut",
+     "hi": "आमाशय"
+    },
+    {
+     "sa": "पित्तस्थानानि",
+     "iast": "pittasthānāni",
+     "en": "sites of pitta",
+     "hi": "पित्त के स्थान"
+    },
+    {
+     "sa": "उरः",
+     "iast": "uraḥ",
+     "en": "chest",
+     "hi": "उर (छाती)"
+    },
+    {
+     "sa": "शिरः",
+     "iast": "śiraḥ",
+     "en": "head",
+     "hi": "शिर"
+    },
+    {
+     "sa": "ग्रीवा",
+     "iast": "grīvā",
+     "en": "neck",
+     "hi": "ग्रीवा (गर्दन)"
+    },
+    {
+     "sa": "पर्वाणि",
+     "iast": "parvāṇi",
+     "en": "joints",
+     "hi": "पर्व (सन्धियाँ)"
+    },
+    {
+     "sa": "मेदः",
+     "iast": "medaḥ",
+     "en": "fat tissue",
+     "hi": "मेद"
+    },
+    {
+     "sa": "श्लेष्मस्थानानि",
+     "iast": "śleṣmasthānāni",
+     "en": "sites of kapha",
+     "hi": "कफ के स्थान"
+    }
+   ],
+   "english": "Now the division of the sites of the three doṣas in the body will be taught. The urinary bladder, rectum, waist, thighs, feet, bones and colon (pakvāśaya) are the sites of vāta; of these the colon is especially the site of vāta. Sweat, rasa, lymph (lasīkā), blood and the stomach region (āmāśaya) are the sites of pitta; of these the āmāśaya is especially the site of pitta. Chest, head, neck, joints, āmāśaya and fat (medas) are the sites of kapha; of these the chest is especially the site of kapha.",
+   "hindi": "अब शरीर में तीनों दोषों के स्थानों का विभाजन बताया जाता है। बस्ति, पुरीषाधान, कटि, सक्थि (जाँघें), पैर, अस्थियाँ और पक्वाशय वात के स्थान हैं; इनमें पक्वाशय विशेष रूप से वात का स्थान है। स्वेद, रस, लसीका, रक्त और आमाशय पित्त के स्थान हैं; इनमें आमाशय विशेष रूप से पित्त का स्थान है। उर, शिर, ग्रीवा, पर्व (सन्धियाँ), आमाशय और मेद कफ के स्थान हैं; इनमें उर विशेष रूप से कफ का स्थान है।",
+   "explanation_en": "A very frequently asked list: doṣa sthānas according to Caraka. The 'principal seat' of each is: vāta - pakvāśaya, pitta - āmāśaya, kapha - uras. Note that Caraka lists āmāśaya for both pitta and kapha (commentators explain the upper part for kapha and the lower part, around the grahaṇī, for pitta). Compare with Aṣṭāṅgahṛdaya Su 12, which gives slightly different lists (e.g. nābhi as the chief pitta site).",
+   "explanation_hi": "दोषों के स्थान - बहुत अधिक पूछा जाने वाला प्रश्न। प्रत्येक का प्रधान स्थान: वात - पक्वाशय, पित्त - आमाशय, कफ - उर। ध्यान दें कि चरक ने आमाशय को पित्त और कफ दोनों का स्थान बताया है (टीकाकार ऊपरी भाग को कफ का और निचले भाग को पित्त का मानते हैं)। अष्टांगहृदय सू. 12 से तुलना करें जहाँ सूची थोड़ी अलग है (जैसे नाभि पित्त का प्रधान स्थान)।",
+   "modern_correlation": {
+    "en": "Some authors compare the vāta sites with regions of strong neuromuscular and motor activity (colon motility, pelvis, lower limbs, bones), pitta sites with metabolically active fluids and digestion (stomach-duodenum, blood), and kapha sites with lubricated, structural or mucus-rich regions (chest, joints, fat). These are interpretive associations, not anatomical identities.",
+    "hi": "कुछ लेखक वात के स्थानों की तुलना तीव्र न्यूरोमस्कुलर और गति वाले क्षेत्रों (बृहदान्त्र की गति, श्रोणि, निचले अंग, अस्थि) से, पित्त के स्थानों की तुलना मेटाबॉलिक रूप से सक्रिय द्रवों और पाचन (आमाशय-ग्रहणी, रक्त) से, और कफ के स्थानों की तुलना स्नेहित, संरचनात्मक या श्लेष्मा-युक्त क्षेत्रों (छाती, सन्धियाँ, मेद) से करते हैं। ये व्याख्यात्मक सम्बन्ध हैं, शारीरिक समानता नहीं।"
+   },
+   "key_terms": [
+    "doṣa sthāna",
+    "pakvāśaya",
+    "āmāśaya",
+    "uras",
+    "vātasthāna",
+    "pittasthāna",
+    "śleṣmasthāna"
+   ],
+   "tags": [
+    "dosha",
+    "sthana",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Main seats: Vāta - Pakvāśaya, Pitta - Āmāśaya, Kapha - Uras (P-A-U)",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.20.9",
+   "word_meanings": [
+    {
+     "sa": "सर्व शरीर चराः",
+     "iast": "sarva śarīra carāḥ",
+     "en": "moving through the whole body",
+     "hi": "सम्पूर्ण शरीर में घूमने वाले"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "परन्तु"
+    },
+    {
+     "sa": "वात पित्त श्लेष्माणः",
+     "iast": "vāta pitta śleṣmāṇaḥ",
+     "en": "vāta, pitta and kapha",
+     "hi": "वात, पित्त, कफ"
+    },
+    {
+     "sa": "सर्वस्मिन् शरीरे",
+     "iast": "sarvasmin śarīre",
+     "en": "in the entire body",
+     "hi": "पूरे शरीर में"
+    },
+    {
+     "sa": "कुपित अकुपिताः",
+     "iast": "kupita akupitāḥ",
+     "en": "aggravated or unaggravated",
+     "hi": "कुपित या अकुपित"
+    },
+    {
+     "sa": "शुभ अशुभानि",
+     "iast": "śubha aśubhāni",
+     "en": "good and bad (effects)",
+     "hi": "शुभ और अशुभ"
+    },
+    {
+     "sa": "कुर्वन्ति",
+     "iast": "kurvanti",
+     "en": "produce",
+     "hi": "करते हैं"
+    },
+    {
+     "sa": "प्रकृतिभूताः",
+     "iast": "prakṛtibhūtāḥ",
+     "en": "being in normal state",
+     "hi": "प्राकृत अवस्था में"
+    },
+    {
+     "sa": "शुभानि",
+     "iast": "śubhāni",
+     "en": "good effects",
+     "hi": "शुभ फल"
+    },
+    {
+     "sa": "उपचय",
+     "iast": "upacaya",
+     "en": "growth, nourishment",
+     "hi": "उपचय (पुष्टि)"
+    },
+    {
+     "sa": "बल",
+     "iast": "bala",
+     "en": "strength",
+     "hi": "बल"
+    },
+    {
+     "sa": "वर्ण",
+     "iast": "varṇa",
+     "en": "complexion",
+     "hi": "वर्ण"
+    },
+    {
+     "sa": "प्रसाद",
+     "iast": "prasāda",
+     "en": "clarity, cheerfulness",
+     "hi": "प्रसाद (प्रसन्नता)"
+    },
+    {
+     "sa": "आदीनि",
+     "iast": "ādīni",
+     "en": "etc.",
+     "hi": "आदि"
+    },
+    {
+     "sa": "अशुभानि",
+     "iast": "aśubhāni",
+     "en": "bad effects",
+     "hi": "अशुभ फल"
+    },
+    {
+     "sa": "विकृतिम् आपन्नाः",
+     "iast": "vikṛtim āpannāḥ",
+     "en": "having become abnormal",
+     "hi": "विकृत होकर"
+    },
+    {
+     "sa": "विकार संज्ञकानि",
+     "iast": "vikāra saṃjñakāni",
+     "en": "known as disorders",
+     "hi": "विकार नाम वाले"
+    }
+   ],
+   "english": "But vāta, pitta and kapha move throughout the whole body, and, aggravated or unaggravated, they produce good and bad effects everywhere in the body. In their normal state (prakṛti) they produce good effects such as growth, strength, complexion and clarity; when they become abnormal (vikṛti) they produce bad effects that are called disorders (vikāra).",
+   "hindi": "परन्तु वात, पित्त और कफ पूरे शरीर में घूमते हैं और कुपित या अकुपित होकर पूरे शरीर में शुभ और अशुभ फल देते हैं। प्राकृत अवस्था में वे पुष्टि, बल, वर्ण, प्रसन्नता आदि शुभ फल देते हैं; विकृत होने पर अशुभ फल देते हैं जिन्हें विकार कहते हैं।",
+   "explanation_en": "Though each doṣa has special seats (Su 20.8), all three pervade the whole body. The same doṣa is the basis of health in prakṛti and of disease in vikṛti. This echoes Su 12.13 and the definition of health as doṣa sāmya. Exam tip: quote 'prakṛtibhūtāḥ śubhāni... vikṛtim āpannā vikārasaṃjñakāni'.",
+   "explanation_hi": "यद्यपि प्रत्येक दोष के विशेष स्थान हैं (सू. 20.8), तीनों पूरे शरीर में व्याप्त हैं। एक ही दोष प्राकृत अवस्था में स्वास्थ्य का और विकृत अवस्था में रोग का आधार है। यह सू. 12.13 और 'दोषसाम्य = आरोग्य' की परिभाषा से जुड़ता है।",
+   "modern_correlation": {
+    "en": "This parallels the idea of homeostasis: the same regulatory systems (nervous, endocrine, metabolic, immune) maintain health when balanced and cause disease when dysregulated.",
+    "hi": "यह होमियोस्टेसिस की धारणा से मिलता है: वही नियामक तन्त्र (तंत्रिका, अन्तःस्रावी, मेटाबॉलिक, प्रतिरक्षा) सन्तुलित रहने पर स्वास्थ्य बनाए रखते हैं और असन्तुलित होने पर रोग करते हैं।"
+   },
+   "key_terms": [
+    "prakṛti",
+    "vikṛti",
+    "doṣa",
+    "upacaya",
+    "bala",
+    "varṇa"
+   ],
+   "tags": [
+    "dosha",
+    "physiology"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.20.10",
+   "word_meanings": [
+    {
+     "sa": "तत्र",
+     "iast": "tatra",
+     "en": "there, among them",
+     "hi": "उनमें"
+    },
+    {
+     "sa": "विकाराः",
+     "iast": "vikārāḥ",
+     "en": "disorders",
+     "hi": "विकार"
+    },
+    {
+     "sa": "सामान्यजाः",
+     "iast": "sāmānyajāḥ",
+     "en": "arising from (doṣas) in common, i.e. from more than one doṣa",
+     "hi": "सामान्यज (अनेक दोषों से उत्पन्न)"
+    },
+    {
+     "sa": "नानात्मजाः",
+     "iast": "nānātmajāḥ",
+     "en": "arising from a single doṣa alone",
+     "hi": "नानात्मज (केवल एक दोष से उत्पन्न)"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "पूर्वम्",
+     "iast": "pūrvam",
+     "en": "earlier",
+     "hi": "पहले"
+    },
+    {
+     "sa": "अष्टोदरीये",
+     "iast": "aṣṭodarīye",
+     "en": "in the Aṣṭodarīya chapter (Su 19)",
+     "hi": "अष्टोदरीय अध्याय में"
+    },
+    {
+     "sa": "व्याख्याताः",
+     "iast": "vyākhyātāḥ",
+     "en": "have been explained",
+     "hi": "बताए गए हैं"
+    },
+    {
+     "sa": "तु",
+     "iast": "tu",
+     "en": "but",
+     "hi": "परन्तु"
+    },
+    {
+     "sa": "इह अध्याये",
+     "iast": "iha adhyāye",
+     "en": "in this chapter",
+     "hi": "इस अध्याय में"
+    },
+    {
+     "sa": "अनुव्याख्यास्यामः",
+     "iast": "anuvyākhyāsyāmaḥ",
+     "en": "we shall explain",
+     "hi": "व्याख्या करेंगे"
+    },
+    {
+     "sa": "तद्यथा",
+     "iast": "tadyathā",
+     "en": "namely",
+     "hi": "जैसे"
+    },
+    {
+     "sa": "अशीतिः",
+     "iast": "aśītiḥ",
+     "en": "eighty",
+     "hi": "अस्सी"
+    },
+    {
+     "sa": "वातविकाराः",
+     "iast": "vātavikārāḥ",
+     "en": "disorders of vāta",
+     "hi": "वात विकार"
+    },
+    {
+     "sa": "चत्वारिंशत्",
+     "iast": "catvāriṃśat",
+     "en": "forty",
+     "hi": "चालीस"
+    },
+    {
+     "sa": "पित्तविकाराः",
+     "iast": "pittavikārāḥ",
+     "en": "disorders of pitta",
+     "hi": "पित्त विकार"
+    },
+    {
+     "sa": "विंशतिः",
+     "iast": "viṃśatiḥ",
+     "en": "twenty",
+     "hi": "बीस"
+    },
+    {
+     "sa": "श्लेष्मविकाराः",
+     "iast": "śleṣmavikārāḥ",
+     "en": "disorders of kapha",
+     "hi": "कफ विकार"
+    }
+   ],
+   "english": "Among them, disorders are of two kinds: sāmānyaja (caused by doṣas in common) and nānātmaja (caused by a single doṣa specifically). The sāmānyaja were explained earlier in the Aṣṭodarīya chapter; the nānātmaja will be explained in this chapter, namely eighty disorders of vāta, forty of pitta and twenty of kapha.",
+   "hindi": "उनमें विकार दो प्रकार के हैं: सामान्यज (दोषों के मिले-जुले प्रभाव से) और नानात्मज (केवल एक दोष से)। सामान्यज विकार पहले अष्टोदरीय अध्याय में बताए गए; नानात्मज विकार इस अध्याय में बताए जाएँगे - वात के अस्सी, पित्त के चालीस और कफ के बीस।",
+   "explanation_en": "One of the most commonly asked questions in BAMS exams: nānātmaja vikāra = disorders produced by one doṣa only (never by the others), whereas sāmānyaja vikāra (like jvara, the 8 udaras, etc. listed in Su 19) can be produced by any doṣa or combination. Numbers: vāta 80, pitta 40, kapha 20 (total 140). Mnemonic: halve each time, 80-40-20.",
+   "explanation_hi": "BAMS परीक्षा का अत्यन्त प्रचलित प्रश्न: नानात्मज विकार = केवल एक दोष से होने वाले विकार (दूसरे दोष से कभी नहीं), जबकि सामान्यज विकार (जैसे ज्वर, आठ उदर आदि, सू. 19) किसी भी दोष या दोषों के संयोग से हो सकते हैं। संख्या: वात 80, पित्त 40, कफ 20 (कुल 140)। याद रखें: हर बार आधा - 80-40-20।",
+   "modern_correlation": {
+    "en": "The idea that some symptom patterns are characteristic of one regulatory disturbance, while others are shared final pathways of many causes, is similar to the modern distinction between specific (pathognomonic) features and non-specific symptoms such as fever or pain.",
+    "hi": "यह विचार कि कुछ लक्षण-समूह एक ही प्रकार की गड़बड़ी के विशिष्ट होते हैं जबकि कुछ अनेक कारणों का साझा परिणाम होते हैं, आधुनिक चिकित्सा में विशिष्ट (पैथोग्नोमोनिक) और अविशिष्ट लक्षणों (जैसे ज्वर, दर्द) के अन्तर जैसा है।"
+   },
+   "key_terms": [
+    "nānātmaja vikāra",
+    "sāmānyaja vikāra",
+    "aṣṭodarīya",
+    "vātavikāra",
+    "pittavikāra",
+    "śleṣmavikāra"
+   ],
+   "tags": [
+    "nanatmaja",
+    "classification",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "80-40-20: halve each time - Vāta 80, Pitta 40, Kapha 20",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.20.11",
+   "word_meanings": [
+    {
+     "sa": "तत्र आदौ",
+     "iast": "tatra ādau",
+     "en": "there, first",
+     "hi": "उनमें पहले"
+    },
+    {
+     "sa": "वातविकारान्",
+     "iast": "vātavikārān",
+     "en": "disorders of vāta",
+     "hi": "वात विकारों की"
+    },
+    {
+     "sa": "अनुव्याख्यास्यामः",
+     "iast": "anuvyākhyāsyāmaḥ",
+     "en": "we shall explain",
+     "hi": "व्याख्या करेंगे"
+    },
+    {
+     "sa": "नखभेदः",
+     "iast": "nakhabhedaḥ",
+     "en": "cracking/splitting of nails",
+     "hi": "नखभेद (नाखून फटना)"
+    },
+    {
+     "sa": "विपादिका",
+     "iast": "vipādikā",
+     "en": "cracking of the feet (fissures of soles)",
+     "hi": "विपादिका (पैरों में बिवाई)"
+    },
+    {
+     "sa": "पादशूलम्",
+     "iast": "pādaśūlam",
+     "en": "pain in the feet",
+     "hi": "पादशूल (पैरों में दर्द)"
+    },
+    {
+     "sa": "पादभ्रंशः",
+     "iast": "pādabhraṃśaḥ",
+     "en": "foot drop, loss of control of foot",
+     "hi": "पादभ्रंश"
+    },
+    {
+     "sa": "पादसुप्तता",
+     "iast": "pādasuptatā",
+     "en": "numbness of feet",
+     "hi": "पादसुप्तता (पैरों का सुन्न होना)"
+    },
+    {
+     "sa": "वातखुड्डता",
+     "iast": "vātakhuḍḍatā",
+     "en": "stiffness/deformity of the ankle (club foot-like)",
+     "hi": "वातखुड्डता"
+    },
+    {
+     "sa": "गुल्फग्रहः",
+     "iast": "gulphagrahaḥ",
+     "en": "stiffness of the ankle",
+     "hi": "गुल्फग्रह (टखने की जकड़न)"
+    },
+    {
+     "sa": "पिण्डिकोद्वेष्टनम्",
+     "iast": "piṇḍikodveṣṭanam",
+     "en": "cramps in the calf",
+     "hi": "पिण्डिकोद्वेष्टन (पिण्डली में ऐंठन)"
+    },
+    {
+     "sa": "गृध्रसी",
+     "iast": "gṛdhrasī",
+     "en": "sciatica",
+     "hi": "गृध्रसी (साइटिका)"
+    },
+    {
+     "sa": "जानुभेदः",
+     "iast": "jānubhedaḥ",
+     "en": "splitting pain in the knee",
+     "hi": "जानुभेद"
+    },
+    {
+     "sa": "जानुविश्लेषः",
+     "iast": "jānuviśleṣaḥ",
+     "en": "laxity/separation of the knee joint",
+     "hi": "जानुविश्लेष"
+    },
+    {
+     "sa": "ऊरुस्तम्भः",
+     "iast": "ūrustambhaḥ",
+     "en": "stiffness of the thighs",
+     "hi": "ऊरुस्तम्भ"
+    },
+    {
+     "sa": "ऊरुसादः",
+     "iast": "ūrusādaḥ",
+     "en": "weakness of the thighs",
+     "hi": "ऊरुसाद"
+    },
+    {
+     "sa": "पाङ्गुल्यम्",
+     "iast": "pāṅgulyam",
+     "en": "lameness of both legs",
+     "hi": "पांगुल्य (लँगड़ापन)"
+    },
+    {
+     "sa": "गुदभ्रंशः",
+     "iast": "gudabhraṃśaḥ",
+     "en": "rectal prolapse",
+     "hi": "गुदभ्रंश"
+    },
+    {
+     "sa": "गुदार्तिः",
+     "iast": "gudārtiḥ",
+     "en": "pain in the anus",
+     "hi": "गुदार्ति"
+    },
+    {
+     "sa": "वृषणाक्षेपः",
+     "iast": "vṛṣaṇākṣepaḥ",
+     "en": "retraction/jerking of the scrotum",
+     "hi": "वृषणाक्षेप"
+    },
+    {
+     "sa": "शेफस्तम्भः",
+     "iast": "śephastambhaḥ",
+     "en": "stiffness of the penis",
+     "hi": "शेफस्तम्भ"
+    },
+    {
+     "sa": "वङ्क्षणानाहः",
+     "iast": "vaṅkṣaṇānāhaḥ",
+     "en": "tension/distension in the groin",
+     "hi": "वंक्षणानाह"
+    },
+    {
+     "sa": "श्रोणिभेदः",
+     "iast": "śroṇibhedaḥ",
+     "en": "splitting pain in the pelvis",
+     "hi": "श्रोणिभेद"
+    },
+    {
+     "sa": "विड्भेदः",
+     "iast": "viḍbhedaḥ",
+     "en": "loose/broken stools",
+     "hi": "विड्भेद"
+    },
+    {
+     "sa": "उदावर्तः",
+     "iast": "udāvartaḥ",
+     "en": "upward movement of vāta, reverse peristalsis",
+     "hi": "उदावर्त"
+    },
+    {
+     "sa": "खञ्जत्वम्",
+     "iast": "khañjatvam",
+     "en": "limping (one leg)",
+     "hi": "खञ्जत्व"
+    },
+    {
+     "sa": "कुब्जत्वम्",
+     "iast": "kubjatvam",
+     "en": "hunchback",
+     "hi": "कुब्जत्व (कुबड़ापन)"
+    },
+    {
+     "sa": "वामनत्वम्",
+     "iast": "vāmanatvam",
+     "en": "dwarfism",
+     "hi": "वामनत्व (बौनापन)"
+    },
+    {
+     "sa": "त्रिकग्रहः",
+     "iast": "trikagrahaḥ",
+     "en": "stiffness of the sacral region",
+     "hi": "त्रिकग्रह"
+    },
+    {
+     "sa": "पृष्ठग्रहः",
+     "iast": "pṛṣṭhagrahaḥ",
+     "en": "stiffness of the back",
+     "hi": "पृष्ठग्रह"
+    },
+    {
+     "sa": "पार्श्वावमर्दः",
+     "iast": "pārśvāvamardaḥ",
+     "en": "crushing pain in the flanks",
+     "hi": "पार्श्वावमर्द"
+    },
+    {
+     "sa": "उदरावेष्टः",
+     "iast": "udarāveṣṭaḥ",
+     "en": "gripping pain in the abdomen",
+     "hi": "उदरावेष्ट"
+    },
+    {
+     "sa": "हृन्मोहः",
+     "iast": "hṛnmohaḥ",
+     "en": "bradycardia/fainting sensation of the heart",
+     "hi": "हृन्मोह"
+    },
+    {
+     "sa": "हृद्द्रवः",
+     "iast": "hṛddravaḥ",
+     "en": "palpitation, tachycardia",
+     "hi": "हृद्द्रव"
+    },
+    {
+     "sa": "वक्षौद्धर्षः",
+     "iast": "vakṣauddharṣaḥ",
+     "en": "rubbing/grating sensation in the chest",
+     "hi": "वक्ष-उद्धर्ष"
+    },
+    {
+     "sa": "वक्षौपरोधः",
+     "iast": "vakṣauparodhaḥ",
+     "en": "constriction of the chest",
+     "hi": "वक्ष-उपरोध"
+    },
+    {
+     "sa": "वक्षस्तोदः",
+     "iast": "vakṣastodaḥ",
+     "en": "pricking pain in the chest",
+     "hi": "वक्षस्तोद"
+    },
+    {
+     "sa": "बाहुशोषः",
+     "iast": "bāhuśoṣaḥ",
+     "en": "wasting of the arm",
+     "hi": "बाहुशोष"
+    },
+    {
+     "sa": "ग्रीवास्तम्भः",
+     "iast": "grīvāstambhaḥ",
+     "en": "stiffness of the neck",
+     "hi": "ग्रीवास्तम्भ"
+    },
+    {
+     "sa": "मन्यास्तम्भः",
+     "iast": "manyāstambhaḥ",
+     "en": "torticollis, stiffness of the side of neck",
+     "hi": "मन्यास्तम्भ"
+    },
+    {
+     "sa": "कण्ठोद्ध्वंसः",
+     "iast": "kaṇṭhoddhvaṃsaḥ",
+     "en": "hoarseness of voice",
+     "hi": "कण्ठोद्ध्वंस (स्वरभंग)"
+    },
+    {
+     "sa": "हनुभेदः",
+     "iast": "hanubhedaḥ",
+     "en": "pain in the jaw",
+     "hi": "हनुभेद"
+    },
+    {
+     "sa": "ओष्ठभेदः",
+     "iast": "oṣṭhabhedaḥ",
+     "en": "cracking/pain of the lips",
+     "hi": "ओष्ठभेद"
+    },
+    {
+     "sa": "अक्षिभेदः",
+     "iast": "akṣibhedaḥ",
+     "en": "splitting pain in the eyes",
+     "hi": "अक्षिभेद"
+    },
+    {
+     "sa": "दन्तभेदः",
+     "iast": "dantabhedaḥ",
+     "en": "toothache",
+     "hi": "दन्तभेद"
+    },
+    {
+     "sa": "दन्तशैथिल्यम्",
+     "iast": "dantaśaithilyam",
+     "en": "looseness of teeth",
+     "hi": "दन्तशैथिल्य"
+    },
+    {
+     "sa": "मूकत्वम्",
+     "iast": "mūkatvam",
+     "en": "dumbness, inability to speak",
+     "hi": "मूकत्व"
+    },
+    {
+     "sa": "वाक्सङ्गः",
+     "iast": "vāksaṅgaḥ",
+     "en": "obstruction of speech, stammering",
+     "hi": "वाक्संग"
+    },
+    {
+     "sa": "कषायास्यता",
+     "iast": "kaṣāyāsyatā",
+     "en": "astringent taste in mouth",
+     "hi": "कषायास्यता"
+    },
+    {
+     "sa": "मुखशोषः",
+     "iast": "mukhaśoṣaḥ",
+     "en": "dryness of mouth",
+     "hi": "मुखशोष"
+    },
+    {
+     "sa": "अरसज्ञता",
+     "iast": "arasajñatā",
+     "en": "loss of taste",
+     "hi": "अरसज्ञता"
+    },
+    {
+     "sa": "घ्राणनाशः",
+     "iast": "ghrāṇanāśaḥ",
+     "en": "loss of smell",
+     "hi": "घ्राणनाश"
+    },
+    {
+     "sa": "कर्णशूलम्",
+     "iast": "karṇaśūlam",
+     "en": "earache",
+     "hi": "कर्णशूल"
+    },
+    {
+     "sa": "अशब्दश्रवणम्",
+     "iast": "aśabdaśravaṇam",
+     "en": "hearing sounds that are absent (tinnitus)",
+     "hi": "अशब्दश्रवण"
+    },
+    {
+     "sa": "उच्चैःश्रुतिः",
+     "iast": "uccaiḥśrutiḥ",
+     "en": "hearing only loud sounds (hard of hearing)",
+     "hi": "उच्चैःश्रुति"
+    },
+    {
+     "sa": "बाधिर्यम्",
+     "iast": "bādhiryam",
+     "en": "deafness",
+     "hi": "बाधिर्य"
+    },
+    {
+     "sa": "वर्त्मस्तम्भः",
+     "iast": "vartmastambhaḥ",
+     "en": "stiffness of eyelids",
+     "hi": "वर्त्मस्तम्भ"
+    },
+    {
+     "sa": "वर्त्मसंकोचः",
+     "iast": "vartmasaṃkocaḥ",
+     "en": "contraction of eyelids",
+     "hi": "वर्त्मसंकोच"
+    },
+    {
+     "sa": "तिमिरम्",
+     "iast": "timiram",
+     "en": "blurring/dimness of vision",
+     "hi": "तिमिर"
+    },
+    {
+     "sa": "अक्षिशूलम्",
+     "iast": "akṣiśūlam",
+     "en": "pain in the eye",
+     "hi": "अक्षिशूल"
+    },
+    {
+     "sa": "अक्षिव्युदासः",
+     "iast": "akṣivyudāsaḥ",
+     "en": "displacement of eyeball (ptosis/squint)",
+     "hi": "अक्षिव्युदास"
+    },
+    {
+     "sa": "भ्रूव्युदासः",
+     "iast": "bhrūvyudāsaḥ",
+     "en": "displacement/drooping of eyebrows",
+     "hi": "भ्रूव्युदास"
+    },
+    {
+     "sa": "शङ्खभेदः",
+     "iast": "śaṅkhabhedaḥ",
+     "en": "pain in the temples",
+     "hi": "शंखभेद"
+    },
+    {
+     "sa": "ललाटभेदः",
+     "iast": "lalāṭabhedaḥ",
+     "en": "pain in the forehead",
+     "hi": "ललाटभेद"
+    },
+    {
+     "sa": "शिरोरुक्",
+     "iast": "śiroruk",
+     "en": "headache",
+     "hi": "शिरोरुक्"
+    },
+    {
+     "sa": "केशभूमिस्फुटनम्",
+     "iast": "keśabhūmisphuṭanam",
+     "en": "cracking of the scalp",
+     "hi": "केशभूमिस्फुटन"
+    },
+    {
+     "sa": "अर्दितम्",
+     "iast": "arditam",
+     "en": "facial palsy",
+     "hi": "अर्दित"
+    },
+    {
+     "sa": "एकाङ्गरोगः",
+     "iast": "ekāṅgarogaḥ",
+     "en": "monoplegia, disease of one limb",
+     "hi": "एकांगरोग"
+    },
+    {
+     "sa": "सर्वाङ्गरोगः",
+     "iast": "sarvāṅgarogaḥ",
+     "en": "disease of the whole body, generalised paralysis",
+     "hi": "सर्वांगरोग"
+    },
+    {
+     "sa": "पक्षवधः",
+     "iast": "pakṣavadhaḥ",
+     "en": "hemiplegia",
+     "hi": "पक्षवध"
+    },
+    {
+     "sa": "आक्षेपकः",
+     "iast": "ākṣepakaḥ",
+     "en": "convulsions",
+     "hi": "आक्षेपक"
+    },
+    {
+     "sa": "दण्डकः",
+     "iast": "daṇḍakaḥ",
+     "en": "rigidity like a stick",
+     "hi": "दण्डक"
+    },
+    {
+     "sa": "तमः",
+     "iast": "tamaḥ",
+     "en": "feeling of darkness, fainting",
+     "hi": "तम (अन्धकार-प्रतीति)"
+    },
+    {
+     "sa": "भ्रमः",
+     "iast": "bhramaḥ",
+     "en": "giddiness",
+     "hi": "भ्रम (चक्कर)"
+    },
+    {
+     "sa": "वेपथुः",
+     "iast": "vepathuḥ",
+     "en": "tremor",
+     "hi": "वेपथु (कम्पन)"
+    },
+    {
+     "sa": "जृम्भा",
+     "iast": "jṛmbhā",
+     "en": "yawning",
+     "hi": "जृम्भा (जम्हाई)"
+    },
+    {
+     "sa": "हिक्का",
+     "iast": "hikkā",
+     "en": "hiccup",
+     "hi": "हिक्का (हिचकी)"
+    },
+    {
+     "sa": "विषादः",
+     "iast": "viṣādaḥ",
+     "en": "depression, dejection",
+     "hi": "विषाद"
+    },
+    {
+     "sa": "अतिप्रलापः",
+     "iast": "atipralāpaḥ",
+     "en": "excessive talking, delirium",
+     "hi": "अतिप्रलाप"
+    },
+    {
+     "sa": "रौक्ष्यम्",
+     "iast": "raukṣyam",
+     "en": "dryness",
+     "hi": "रौक्ष्य (रूखापन)"
+    },
+    {
+     "sa": "पारुष्यम्",
+     "iast": "pāruṣyam",
+     "en": "roughness",
+     "hi": "पारुष्य (खुरदुरापन)"
+    },
+    {
+     "sa": "श्यावारुणावभासता",
+     "iast": "śyāvāruṇāvabhāsatā",
+     "en": "dusky or reddish-brown discoloration",
+     "hi": "श्यावारुणावभासता"
+    },
+    {
+     "sa": "अस्वप्नः",
+     "iast": "asvapnaḥ",
+     "en": "insomnia",
+     "hi": "अस्वप्न (अनिद्रा)"
+    },
+    {
+     "sa": "अनवस्थितचित्तत्वम्",
+     "iast": "anavasthitacittatvam",
+     "en": "instability of mind",
+     "hi": "अनवस्थितचित्तत्व"
+    },
+    {
+     "sa": "इति अशीतिः वातविकाराः",
+     "iast": "iti aśītiḥ vātavikārāḥ",
+     "en": "thus eighty vāta disorders",
+     "hi": "इस प्रकार अस्सी वात विकार"
+    },
+    {
+     "sa": "वातविकाराणाम् अपरिसंख्येयानाम्",
+     "iast": "vātavikārāṇām aparisaṃkhyeyānām",
+     "en": "of the innumerable vāta disorders",
+     "hi": "असंख्य वात विकारों में से"
+    },
+    {
+     "sa": "आविष्कृततमाः",
+     "iast": "āviṣkṛtatamāḥ",
+     "en": "the most evident/manifest",
+     "hi": "सबसे अधिक प्रकट"
+    },
+    {
+     "sa": "व्याख्याताः",
+     "iast": "vyākhyātāḥ",
+     "en": "have been explained",
+     "hi": "बताए गए"
+    }
+   ],
+   "english": "First we shall explain the disorders of vāta, namely: cracking of nails, fissures of the feet (vipādikā), pain in the feet, foot drop, numbness of the feet, vātakhuḍḍatā (ankle deformity), stiffness of the ankle, calf cramps, sciatica (gṛdhrasī), splitting pain in the knee, laxity of the knee joint, stiffness of the thighs, weakness of the thighs, lameness, rectal prolapse, anal pain, retraction of the scrotum, stiffness of the penis, tension in the groin, splitting pain in the pelvis, loose stools, udāvarta (upward movement of vāta), limping, hunchback, dwarfism, stiffness of the sacral region, stiffness of the back, crushing pain in the flanks, gripping abdominal pain, hṛnmoha (slowing/sinking of the heart), hṛddrava (palpitation), grating sensation in the chest, constriction of the chest, pricking chest pain, wasting of the arm, stiffness of the neck, torticollis (manyāstambha), hoarseness, pain in the jaw, pain of the lips, pain in the eyes, toothache, loose teeth, dumbness, obstructed speech, astringent taste in the mouth, dryness of the mouth, loss of taste, loss of smell, earache, hearing non-existent sounds (tinnitus), hearing only loud sounds, deafness, stiffness of the eyelids, contraction of the eyelids, dimness of vision (timira), eye pain, displacement of the eyeball, displacement of the eyebrows, pain in the temples, pain in the forehead, headache, cracking of the scalp, facial palsy (ardita), monoplegia, generalised paralysis, hemiplegia (pakṣavadha), convulsions (ākṣepaka), rigidity (daṇḍaka), fainting with darkness (tama), giddiness, tremor, yawning, hiccup, dejection, excessive talk, dryness, roughness, dusky-reddish discoloration, insomnia and instability of mind. Thus the eighty vāta disorders, the most evident among the innumerable vāta disorders, have been explained.",
+   "hindi": "पहले हम वात विकारों की व्याख्या करेंगे, जैसे: नखभेद, विपादिका (पैरों में बिवाई), पादशूल, पादभ्रंश, पादसुप्तता, वातखुड्डता, गुल्फग्रह, पिण्डिकोद्वेष्टन (पिण्डली में ऐंठन), गृध्रसी (साइटिका), जानुभेद, जानुविश्लेष, ऊरुस्तम्भ, ऊरुसाद, पांगुल्य (लँगड़ापन), गुदभ्रंश, गुदार्ति, वृषणाक्षेप, शेफस्तम्भ, वंक्षणानाह, श्रोणिभेद, विड्भेद, उदावर्त, खञ्जत्व, कुब्जत्व (कुबड़ापन), वामनत्व (बौनापन), त्रिकग्रह, पृष्ठग्रह, पार्श्वावमर्द, उदरावेष्ट, हृन्मोह, हृद्द्रव (धड़कन), वक्ष-उद्धर्ष, वक्ष-उपरोध, वक्षस्तोद, बाहुशोष, ग्रीवास्तम्भ, मन्यास्तम्भ, कण्ठोद्ध्वंस (स्वरभंग), हनुभेद, ओष्ठभेद, अक्षिभेद, दन्तभेद, दन्तशैथिल्य, मूकत्व, वाक्संग, कषायास्यता, मुखशोष, अरसज्ञता, घ्राणनाश, कर्णशूल, अशब्दश्रवण (कान में आवाज़ें), उच्चैःश्रुति, बाधिर्य (बहरापन), वर्त्मस्तम्भ, वर्त्मसंकोच, तिमिर, अक्षिशूल, अक्षिव्युदास, भ्रूव्युदास, शंखभेद, ललाटभेद, शिरोरुक् (सिरदर्द), केशभूमिस्फुटन, अर्दित (मुख का लकवा), एकांगरोग, सर्वांगरोग, पक्षवध (आधे शरीर का लकवा), आक्षेपक (दौरे), दण्डक, तम, भ्रम (चक्कर), वेपथु (कम्पन), जृम्भा (जम्हाई), हिक्का (हिचकी), विषाद, अतिप्रलाप, रौक्ष्य, पारुष्य, श्यावारुणावभासता, अस्वप्न (अनिद्रा) और अनवस्थितचित्तत्व (मन की अस्थिरता)। इस प्रकार असंख्य वात विकारों में से सबसे प्रकट अस्सी वात विकार बताए गए।",
+   "explanation_en": "The list runs roughly from the toe-nails to the head (pāda to śiras) and then to generalised and mental disorders, which helps memorisation: feet and legs → pelvis and anus → back and trunk → heart and chest → neck, mouth, ear, eye, head → whole body (paralysis, convulsions) → mind (viṣāda, asvapna, anavasthitacittatva). The text says these are only the 'most evident' of innumerable vāta disorders. Note on counting: a straight count of this corpus reading gives 81 names because hikkā is present; several printed lists omit hikkā (or combine items) to keep the traditional number eighty, so check your prescribed edition.",
+   "explanation_hi": "यह सूची लगभग पैर के नाखून से सिर तक (पाद से शिर) और फिर पूरे शरीर और मन के विकारों तक जाती है, जिससे याद करना आसान है: पैर और टाँगें → श्रोणि और गुदा → पीठ और धड़ → हृदय और छाती → गर्दन, मुख, कान, आँख, सिर → पूरा शरीर (लकवा, दौरे) → मन (विषाद, अस्वप्न, अनवस्थितचित्तत्व)। ग्रन्थ कहता है कि ये असंख्य वात विकारों में से केवल 'सबसे प्रकट' हैं। गिनती पर टिप्पणी: इस पाठ की सीधी गिनती 81 नाम देती है क्योंकि इसमें हिक्का भी है; कई मुद्रित सूचियों में हिक्का नहीं है (या कुछ नाम मिलाए गए हैं) ताकि परम्परागत संख्या अस्सी रहे, अतः अपने निर्धारित संस्करण से मिलान करें।",
+   "modern_correlation": {
+    "en": "A large share of this list consists of neurological and musculoskeletal presentations: sciatica (gṛdhrasī), foot drop, hemiplegia (pakṣavadha), facial palsy (ardita), convulsions, tremor, vertigo, tinnitus and deafness, torticollis, insomnia and mood disturbance. This is why many authors compare vāta with neural control and movement. The correlation is broad and pattern-level; individual items do not map exactly onto modern diagnoses.",
+    "hi": "इस सूची का बड़ा भाग तंत्रिका-तन्त्र और मांसपेशी-अस्थि सम्बन्धी लक्षणों का है: साइटिका (गृध्रसी), फुट ड्रॉप, हेमीप्लीजिया (पक्षवध), फेशियल पाल्सी (अर्दित), दौरे, कम्पन, चक्कर, टिनिटस और बहरापन, टॉर्टिकॉलिस, अनिद्रा और मनोदशा विकार। इसी कारण अनेक लेखक वात की तुलना तंत्रिका-नियन्त्रण और गति से करते हैं। यह तुलना व्यापक और पैटर्न-स्तर की है; हर नाम किसी आधुनिक निदान से ठीक-ठीक मेल नहीं खाता।"
+   },
+   "key_terms": [
+    "vātavikāra",
+    "nānātmaja",
+    "gṛdhrasī",
+    "pakṣavadha",
+    "ardita",
+    "ākṣepaka",
+    "udāvarta",
+    "hṛnmoha",
+    "hṛddrava"
+   ],
+   "tags": [
+    "nanatmaja",
+    "vata",
+    "list",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Read the 80 from foot to head: Nakha → Pāda → Jānu → Ūru → Guda → Pṛṣṭha → Hṛd → Grīvā → Mukha → Karṇa → Akṣi → Śiras → Sarvāṅga → Citta",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.20.12",
+   "word_meanings": [
+    {
+     "sa": "सर्वेषु अपि खलु एतेषु",
+     "iast": "sarveṣu api khalu eteṣu",
+     "en": "in all these indeed",
+     "hi": "इन सभी में"
+    },
+    {
+     "sa": "वातविकारेषु",
+     "iast": "vātavikāreṣu",
+     "en": "in vāta disorders",
+     "hi": "वात विकारों में"
+    },
+    {
+     "sa": "उक्तेषु अन्येषु च अनुक्तेषु",
+     "iast": "ukteṣu anyeṣu ca anukteṣu",
+     "en": "the stated and others unstated",
+     "hi": "कहे गए और अन्य न कहे गए"
+    },
+    {
+     "sa": "वायोः",
+     "iast": "vāyoḥ",
+     "en": "of vāyu (vāta)",
+     "hi": "वायु का"
+    },
+    {
+     "sa": "इदम्",
+     "iast": "idam",
+     "en": "this",
+     "hi": "यह"
+    },
+    {
+     "sa": "आत्मरूपम्",
+     "iast": "ātmarūpam",
+     "en": "intrinsic nature, own form",
+     "hi": "आत्मरूप (स्वाभाविक रूप)"
+    },
+    {
+     "sa": "अपरिणामि",
+     "iast": "apariṇāmi",
+     "en": "unchanging",
+     "hi": "अपरिणामी (न बदलने वाला)"
+    },
+    {
+     "sa": "कर्मणः च स्वलक्षणम्",
+     "iast": "karmaṇaḥ ca svalakṣaṇam",
+     "en": "and the characteristic feature of its action",
+     "hi": "और कर्म का स्वलक्षण"
+    },
+    {
+     "sa": "यत् उपलभ्य",
+     "iast": "yat upalabhya",
+     "en": "perceiving which",
+     "hi": "जिसे देखकर"
+    },
+    {
+     "sa": "तदवयवम् वा",
+     "iast": "tadavayavam vā",
+     "en": "or a part of it",
+     "hi": "या उसका कोई अंश"
+    },
+    {
+     "sa": "विमुक्तसंदेहाः",
+     "iast": "vimuktasaṃdehāḥ",
+     "en": "free from doubt",
+     "hi": "सन्देह-रहित होकर"
+    },
+    {
+     "sa": "वातविकारम् एव",
+     "iast": "vātavikāram eva",
+     "en": "vāta disorder only",
+     "hi": "वात विकार ही"
+    },
+    {
+     "sa": "अध्यवस्यन्ति",
+     "iast": "adhyavasyanti",
+     "en": "conclude",
+     "hi": "निश्चय करते हैं"
+    },
+    {
+     "sa": "कुशलाः",
+     "iast": "kuśalāḥ",
+     "en": "the experts",
+     "hi": "कुशल वैद्य"
+    },
+    {
+     "sa": "रौक्ष्यम्",
+     "iast": "raukṣyam",
+     "en": "dryness",
+     "hi": "रूक्षता"
+    },
+    {
+     "sa": "शैत्यम्",
+     "iast": "śaityam",
+     "en": "coldness",
+     "hi": "शीतलता"
+    },
+    {
+     "sa": "लाघवम्",
+     "iast": "lāghavam",
+     "en": "lightness",
+     "hi": "लघुता"
+    },
+    {
+     "sa": "वैशद्यम्",
+     "iast": "vaiśadyam",
+     "en": "non-sliminess, clarity",
+     "hi": "विशदता"
+    },
+    {
+     "sa": "गतिः",
+     "iast": "gatiḥ",
+     "en": "movement",
+     "hi": "गति"
+    },
+    {
+     "sa": "अमूर्तत्वम्",
+     "iast": "amūrtatvam",
+     "en": "formlessness",
+     "hi": "अमूर्तता (निराकारता)"
+    },
+    {
+     "sa": "अनवस्थितत्वम्",
+     "iast": "anavasthitatvam",
+     "en": "instability",
+     "hi": "अस्थिरता"
+    },
+    {
+     "sa": "आत्मरूपाणि",
+     "iast": "ātmarūpāṇi",
+     "en": "intrinsic properties",
+     "hi": "आत्मरूप"
+    },
+    {
+     "sa": "एवंविधत्वात्",
+     "iast": "evaṃvidhatvāt",
+     "en": "because of being of such nature",
+     "hi": "ऐसे स्वभाव के कारण"
+    },
+    {
+     "sa": "तम् तम् शरीरावयवम् आविशतः",
+     "iast": "tam tam śarīrāvayavam āviśataḥ",
+     "en": "entering this or that part of the body",
+     "hi": "शरीर के उस-उस अंग में प्रवेश करते हुए"
+    },
+    {
+     "sa": "स्रंस",
+     "iast": "sraṃsa",
+     "en": "looseness, sagging",
+     "hi": "स्रंस (ढीलापन)"
+    },
+    {
+     "sa": "भ्रंश",
+     "iast": "bhraṃśa",
+     "en": "displacement",
+     "hi": "भ्रंश (अपने स्थान से हटना)"
+    },
+    {
+     "sa": "व्यास",
+     "iast": "vyāsa",
+     "en": "dilatation, expansion",
+     "hi": "व्यास (फैलना)"
+    },
+    {
+     "sa": "सङ्ग",
+     "iast": "saṅga",
+     "en": "obstruction",
+     "hi": "संग (रुकावट)"
+    },
+    {
+     "sa": "भेद",
+     "iast": "bheda",
+     "en": "splitting pain, breaking",
+     "hi": "भेद"
+    },
+    {
+     "sa": "साद",
+     "iast": "sāda",
+     "en": "weakness, depression",
+     "hi": "साद (शिथिलता)"
+    },
+    {
+     "sa": "हर्ष",
+     "iast": "harṣa",
+     "en": "horripilation, tingling",
+     "hi": "हर्ष (रोमांच, झनझनाहट)"
+    },
+    {
+     "sa": "तर्ष",
+     "iast": "tarṣa",
+     "en": "thirst, craving",
+     "hi": "तर्ष (प्यास)"
+    },
+    {
+     "sa": "कम्प",
+     "iast": "kampa",
+     "en": "tremor",
+     "hi": "कम्प"
+    },
+    {
+     "sa": "वर्त",
+     "iast": "varta",
+     "en": "rolling, twisting",
+     "hi": "वर्त (ऐंठन)"
+    },
+    {
+     "sa": "चाल",
+     "iast": "cāla",
+     "en": "movement, shaking",
+     "hi": "चाल (हिलना)"
+    },
+    {
+     "sa": "तोद",
+     "iast": "toda",
+     "en": "pricking pain",
+     "hi": "तोद (सुई चुभने सी पीड़ा)"
+    },
+    {
+     "sa": "व्यथा",
+     "iast": "vyathā",
+     "en": "pain",
+     "hi": "व्यथा"
+    },
+    {
+     "sa": "चेष्टा",
+     "iast": "ceṣṭā",
+     "en": "movement, activity",
+     "hi": "चेष्टा"
+    },
+    {
+     "sa": "खर",
+     "iast": "khara",
+     "en": "rough",
+     "hi": "खर"
+    },
+    {
+     "sa": "परुष",
+     "iast": "paruṣa",
+     "en": "harsh, coarse",
+     "hi": "परुष"
+    },
+    {
+     "sa": "विशद",
+     "iast": "viśada",
+     "en": "non-slimy, clear",
+     "hi": "विशद"
+    },
+    {
+     "sa": "सुषिर",
+     "iast": "suṣira",
+     "en": "porosity, hollowness",
+     "hi": "सुषिर (छिद्रयुक्तता)"
+    },
+    {
+     "sa": "अरुणवर्ण",
+     "iast": "aruṇavarṇa",
+     "en": "reddish-dusky colour",
+     "hi": "अरुण वर्ण"
+    },
+    {
+     "sa": "कषाय विरस मुखत्व",
+     "iast": "kaṣāya virasa mukhatva",
+     "en": "astringent or bad taste in mouth",
+     "hi": "मुख में कषाय या विरस स्वाद"
+    },
+    {
+     "sa": "शोष",
+     "iast": "śoṣa",
+     "en": "wasting, drying",
+     "hi": "शोष"
+    },
+    {
+     "sa": "शूल",
+     "iast": "śūla",
+     "en": "colic pain",
+     "hi": "शूल"
+    },
+    {
+     "sa": "सुप्ति",
+     "iast": "supti",
+     "en": "numbness",
+     "hi": "सुप्ति (सुन्नता)"
+    },
+    {
+     "sa": "संकोचन",
+     "iast": "saṃkocana",
+     "en": "contraction",
+     "hi": "संकोचन"
+    },
+    {
+     "sa": "स्तम्भन",
+     "iast": "stambhana",
+     "en": "stiffness",
+     "hi": "स्तम्भन (जकड़न)"
+    },
+    {
+     "sa": "खञ्जता",
+     "iast": "khañjatā",
+     "en": "lameness",
+     "hi": "खञ्जता"
+    },
+    {
+     "sa": "कर्माणि",
+     "iast": "karmāṇi",
+     "en": "actions",
+     "hi": "कर्म"
+    },
+    {
+     "sa": "तैः अन्वितम्",
+     "iast": "taiḥ anvitam",
+     "en": "accompanied by these",
+     "hi": "इनसे युक्त"
+    },
+    {
+     "sa": "अध्यवस्येत्",
+     "iast": "adhyavasyet",
+     "en": "should conclude",
+     "hi": "निश्चय करे"
+    }
+   ],
+   "english": "In all these vāta disorders, those stated and others not stated, there is an unchanging intrinsic nature (ātmarūpa) of vāyu and a characteristic feature of its action (karma), perceiving which, or even a part of it, experts conclude without doubt that it is a vāta disorder. Dryness, coldness, lightness, non-sliminess (vaiśadya), movement, formlessness and instability are the intrinsic properties of vāyu. Because of this nature, vāyu, entering this or that part of the body, produces these characteristic actions: looseness, displacement, dilatation, obstruction, splitting pain, weakness, tingling, thirst, tremor, twisting, shaking, pricking pain, ache and (abnormal) movement; also roughness, harshness, non-sliminess, porosity, dusky-red colour, astringent or bad taste in the mouth, wasting, colic, numbness, contraction, stiffness and lameness. A disorder accompanied by these should be concluded to be a vāta disorder.",
+   "hindi": "इन सभी वात विकारों में, कहे गए और न कहे गए, वायु का एक अपरिवर्तनीय आत्मरूप (स्वाभाविक गुण) और उसके कर्म का स्वलक्षण होता है, जिसे या उसके किसी अंश को देखकर कुशल वैद्य बिना सन्देह के निश्चय करते हैं कि यह वात विकार है। रूक्षता, शीतलता, लघुता, विशदता, गति, अमूर्तता और अस्थिरता वायु के आत्मरूप हैं। इसी स्वभाव के कारण वायु शरीर के जिस-जिस अंग में प्रवेश करता है वहाँ ये कर्म करता है: स्रंस (ढीलापन), भ्रंश, व्यास (फैलाव), संग (रुकावट), भेद, साद, हर्ष (झनझनाहट), तर्ष (प्यास), कम्प, वर्त (ऐंठन), चाल, तोद, व्यथा, चेष्टा; तथा खरता, परुषता, विशदता, सुषिरता, अरुण वर्ण, मुख में कषाय या विरस स्वाद, शोष, शूल, सुप्ति (सुन्नता), संकोच, स्तम्भ (जकड़न) और खञ्जता। इनसे युक्त विकार को वात विकार ही समझना चाहिए।",
+   "explanation_en": "This is the diagnostic key that makes the list of 80 open-ended: any disorder, even one not named, can be recognised as vātaja from vāta's ātmarūpa (seven properties) and karma (typical actions). Ātmarūpa is 'apariṇāmi' - it does not change in any disease. Exam tip: write the 7 ātmarūpas (rūkṣa, śīta, laghu, viśada, gati, amūrtatva, anavasthitatva) and at least 10 karmas such as śūla, toda, supti, stambha, kampa, saṃkoca, śoṣa.",
+   "explanation_hi": "यह निदान की कुंजी है जिससे 80 की सूची खुली रहती है: कोई भी विकार, भले उसका नाम न हो, वात के आत्मरूप (सात गुण) और कर्म (विशिष्ट क्रियाएँ) देखकर वातज पहचाना जा सकता है। आत्मरूप 'अपरिणामी' है - किसी भी रोग में नहीं बदलता। परीक्षा टिप: 7 आत्मरूप (रूक्ष, शीत, लघु, विशद, गति, अमूर्तत्व, अनवस्थितत्व) और कम से कम 10 कर्म (शूल, तोद, सुप्ति, स्तम्भ, कम्प, संकोच, शोष आदि) लिखें।",
+   "modern_correlation": {
+    "en": "Many listed actions (numbness, tingling, tremor, cramps, stiffness, shooting or pricking pain, wasting) resemble features seen in disorders of nerves and muscles, and in dehydration or degenerative states. This supports the common comparison of vāta with neuromuscular function, but the comparison is interpretive.",
+    "hi": "सूचीबद्ध कर्मों में से कई (सुन्नता, झनझनाहट, कम्पन, ऐंठन, जकड़न, चुभने वाला दर्द, शोष) तंत्रिका और मांसपेशियों के विकारों तथा डिहाइड्रेशन या डीजेनेरेटिव अवस्थाओं में दिखने वाले लक्षणों जैसे हैं। इससे वात की न्यूरोमस्कुलर कार्य से तुलना को समर्थन मिलता है, पर यह तुलना व्याख्यात्मक है।"
+   },
+   "key_terms": [
+    "ātmarūpa",
+    "apariṇāmi",
+    "vāta karma",
+    "śūla",
+    "toda",
+    "supti",
+    "stambha"
+   ],
+   "tags": [
+    "vata",
+    "diagnosis",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.20.13",
+   "word_meanings": [
+    {
+     "sa": "तम्",
+     "iast": "tam",
+     "en": "that (vāta disorder)",
+     "hi": "उसे"
+    },
+    {
+     "sa": "मधुर अम्ल लवण",
+     "iast": "madhura amla lavaṇa",
+     "en": "sweet, sour, salty",
+     "hi": "मधुर, अम्ल, लवण"
+    },
+    {
+     "sa": "स्निग्ध उष्णैः",
+     "iast": "snigdha uṣṇaiḥ",
+     "en": "unctuous and hot",
+     "hi": "स्निग्ध और उष्ण"
+    },
+    {
+     "sa": "उपक्रमैः उपक्रमेत",
+     "iast": "upakramaiḥ upakrameta",
+     "en": "should treat with measures",
+     "hi": "उपायों से चिकित्सा करे"
+    },
+    {
+     "sa": "स्नेह",
+     "iast": "sneha",
+     "en": "oleation",
+     "hi": "स्नेहन"
+    },
+    {
+     "sa": "स्वेद",
+     "iast": "sveda",
+     "en": "sudation",
+     "hi": "स्वेदन"
+    },
+    {
+     "sa": "आस्थापन",
+     "iast": "āsthāpana",
+     "en": "decoction enema",
+     "hi": "आस्थापन बस्ति"
+    },
+    {
+     "sa": "अनुवासन",
+     "iast": "anuvāsana",
+     "en": "oil enema",
+     "hi": "अनुवासन बस्ति"
+    },
+    {
+     "sa": "नस्तःकर्म",
+     "iast": "nastaḥkarma",
+     "en": "nasal medication",
+     "hi": "नस्य कर्म"
+    },
+    {
+     "sa": "भोजन",
+     "iast": "bhojana",
+     "en": "diet",
+     "hi": "भोजन"
+    },
+    {
+     "sa": "अभ्यङ्ग",
+     "iast": "abhyaṅga",
+     "en": "oil massage",
+     "hi": "अभ्यंग"
+    },
+    {
+     "sa": "उत्सादन",
+     "iast": "utsādana",
+     "en": "anointing, rubbing with paste",
+     "hi": "उत्सादन (उबटन)"
+    },
+    {
+     "sa": "परिषेक",
+     "iast": "pariṣeka",
+     "en": "pouring of liquids, affusion",
+     "hi": "परिषेक"
+    },
+    {
+     "sa": "आदिभिः",
+     "iast": "ādibhiḥ",
+     "en": "etc.",
+     "hi": "आदि से"
+    },
+    {
+     "sa": "वातहरैः",
+     "iast": "vātaharaiḥ",
+     "en": "vāta-pacifying",
+     "hi": "वातनाशक"
+    },
+    {
+     "sa": "मात्राम् कालम् च",
+     "iast": "mātrām kālam ca",
+     "en": "dose and time",
+     "hi": "मात्रा और काल को"
+    },
+    {
+     "sa": "प्रमाणीकृत्य",
+     "iast": "pramāṇīkṛtya",
+     "en": "taking into account",
+     "hi": "ध्यान में रखकर"
+    },
+    {
+     "sa": "तत्र",
+     "iast": "tatra",
+     "en": "among them",
+     "hi": "उनमें"
+    },
+    {
+     "sa": "आस्थापन अनुवासनम्",
+     "iast": "āsthāpana anuvāsanam",
+     "en": "enemas (decoction and oil)",
+     "hi": "आस्थापन और अनुवासन (बस्ति)"
+    },
+    {
+     "sa": "सर्वत्र उपक्रमेभ्यः",
+     "iast": "sarvatra upakramebhyaḥ",
+     "en": "among all measures",
+     "hi": "सभी उपायों में"
+    },
+    {
+     "sa": "वाते",
+     "iast": "vāte",
+     "en": "in vāta",
+     "hi": "वात में"
+    },
+    {
+     "sa": "प्रधानतमम्",
+     "iast": "pradhānatamam",
+     "en": "the most important",
+     "hi": "सबसे प्रधान"
+    },
+    {
+     "sa": "मन्यन्ते भिषजः",
+     "iast": "manyante bhiṣajaḥ",
+     "en": "physicians consider",
+     "hi": "वैद्य मानते हैं"
+    },
+    {
+     "sa": "आदित एव",
+     "iast": "ādita eva",
+     "en": "right at the start",
+     "hi": "आरम्भ से ही"
+    },
+    {
+     "sa": "पक्वाशयम् अनुप्रविश्य",
+     "iast": "pakvāśayam anupraviśya",
+     "en": "entering the colon",
+     "hi": "पक्वाशय में प्रवेश करके"
+    },
+    {
+     "sa": "केवलम्",
+     "iast": "kevalam",
+     "en": "entirely",
+     "hi": "पूर्णतः"
+    },
+    {
+     "sa": "वैकारिकम्",
+     "iast": "vaikārikam",
+     "en": "morbid",
+     "hi": "विकृत"
+    },
+    {
+     "sa": "वातमूलम्",
+     "iast": "vātamūlam",
+     "en": "root of vāta",
+     "hi": "वात की जड़"
+    },
+    {
+     "sa": "छिनत्ति",
+     "iast": "chinatti",
+     "en": "cuts",
+     "hi": "काटती है"
+    },
+    {
+     "sa": "अवजिते",
+     "iast": "avajite",
+     "en": "when conquered",
+     "hi": "जीत लिए जाने पर"
+    },
+    {
+     "sa": "शरीरान्तर्गताः",
+     "iast": "śarīrāntargatāḥ",
+     "en": "located within the body",
+     "hi": "शरीर के भीतर स्थित"
+    },
+    {
+     "sa": "प्रशान्तिम् आपद्यन्ते",
+     "iast": "praśāntim āpadyante",
+     "en": "become pacified",
+     "hi": "शान्त हो जाते हैं"
+    },
+    {
+     "sa": "यथा",
+     "iast": "yathā",
+     "en": "just as",
+     "hi": "जैसे"
+    },
+    {
+     "sa": "वनस्पतेः मूले छिन्ने",
+     "iast": "vanaspateḥ mūle chinne",
+     "en": "when the root of a tree is cut",
+     "hi": "पेड़ की जड़ कटने पर"
+    },
+    {
+     "sa": "स्कन्ध",
+     "iast": "skandha",
+     "en": "trunk",
+     "hi": "तना"
+    },
+    {
+     "sa": "शाखा",
+     "iast": "śākhā",
+     "en": "branches",
+     "hi": "शाखाएँ"
+    },
+    {
+     "sa": "प्ररोह",
+     "iast": "praroha",
+     "en": "shoots",
+     "hi": "अंकुर"
+    },
+    {
+     "sa": "कुसुम",
+     "iast": "kusuma",
+     "en": "flowers",
+     "hi": "फूल"
+    },
+    {
+     "sa": "फल",
+     "iast": "phala",
+     "en": "fruits",
+     "hi": "फल"
+    },
+    {
+     "sa": "पलाश",
+     "iast": "palāśa",
+     "en": "leaves",
+     "hi": "पत्ते"
+    },
+    {
+     "sa": "नियतः विनाशः",
+     "iast": "niyataḥ vināśaḥ",
+     "en": "certain destruction",
+     "hi": "निश्चित नाश"
+    },
+    {
+     "sa": "तद्वत्",
+     "iast": "tadvat",
+     "en": "likewise",
+     "hi": "उसी प्रकार"
+    }
+   ],
+   "english": "One should treat a vāta disorder with measures that are sweet, sour, salty, unctuous and hot, such as oleation, sudation, decoction enema (āsthāpana), oil enema (anuvāsana), nasal medication, diet, massage, anointing and affusion, which pacify vāta, keeping dose and time in view. Among all measures, physicians consider enema (āsthāpana and anuvāsana) the most important in vāta, because, entering the colon right at the start, it cuts the very root of the morbid vāta. When vāta there is conquered, the vāta disorders located elsewhere in the body also subside, just as when the root of a tree is cut, its trunk, branches, shoots, flowers, fruits and leaves are certainly destroyed.",
+   "hindi": "वात विकार की चिकित्सा मधुर, अम्ल, लवण, स्निग्ध और उष्ण उपायों से करनी चाहिए - जैसे स्नेहन, स्वेदन, आस्थापन, अनुवासन, नस्य, भोजन, अभ्यंग, उत्सादन और परिषेक आदि वातनाशक उपाय - मात्रा और काल को ध्यान में रखकर। सभी उपायों में वैद्य बस्ति (आस्थापन और अनुवासन) को वात के लिए सबसे प्रधान मानते हैं, क्योंकि यह आरम्भ से ही पक्वाशय में प्रवेश करके विकृत वात की जड़ को पूरी तरह काट देती है। वहाँ वात के जीत लिए जाने पर शरीर के अन्य भागों के वात विकार भी शान्त हो जाते हैं, जैसे पेड़ की जड़ कटने पर उसके तने, शाखाएँ, अंकुर, फूल, फल और पत्ते निश्चित रूप से नष्ट हो जाते हैं।",
+   "explanation_en": "Principle: treat by opposites (vāta is rūkṣa, śīta, laghu, so use snigdha, uṣṇa, guru-type measures and madhura-amla-lavaṇa rasas). Basti is the 'best' for vāta because the pakvāśaya is vāta's chief seat (Su 20.8). The simile of cutting the root of a tree is a favourite exam quote. Remember the pairs: vāta - basti, pitta - virecana, kapha - vamana (Su 20.13, 16, 19).",
+   "explanation_hi": "सिद्धान्त: विपरीत गुणों से चिकित्सा (वात रूक्ष, शीत, लघु है, अतः स्निग्ध, उष्ण उपाय और मधुर-अम्ल-लवण रस)। बस्ति वात के लिए 'श्रेष्ठ' है क्योंकि पक्वाशय वात का प्रधान स्थान है (सू. 20.8)। पेड़ की जड़ काटने की उपमा परीक्षा में अक्सर लिखी जाती है। जोड़े याद रखें: वात - बस्ति, पित्त - विरेचन, कफ - वमन (सू. 20.13, 16, 19)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "basti",
+    "āsthāpana",
+    "anuvāsana",
+    "vātahara",
+    "pakvāśaya"
+   ],
+   "tags": [
+    "chikitsa",
+    "vata",
+    "basti",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "V-P-K → B-V-V: Vāta-Basti, Pitta-Virecana, Kapha-Vamana",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.20.14",
+   "word_meanings": [
+    {
+     "sa": "पित्तविकारान् चत्वारिंशतम्",
+     "iast": "pittavikārān catvāriṃśatam",
+     "en": "the forty pitta disorders",
+     "hi": "पित्त के चालीस विकारों की"
+    },
+    {
+     "sa": "अतः ऊर्ध्वम्",
+     "iast": "ataḥ ūrdhvam",
+     "en": "hereafter",
+     "hi": "इसके बाद"
+    },
+    {
+     "sa": "अनुव्याख्यास्यामः",
+     "iast": "anuvyākhyāsyāmaḥ",
+     "en": "we shall explain",
+     "hi": "व्याख्या करेंगे"
+    },
+    {
+     "sa": "ओषः",
+     "iast": "oṣaḥ",
+     "en": "slight burning, heat",
+     "hi": "ओष (हल्की जलन)"
+    },
+    {
+     "sa": "प्लोषः",
+     "iast": "ploṣaḥ",
+     "en": "scorching sensation",
+     "hi": "प्लोष (झुलसने जैसी जलन)"
+    },
+    {
+     "sa": "दाहः",
+     "iast": "dāhaḥ",
+     "en": "burning",
+     "hi": "दाह"
+    },
+    {
+     "sa": "दवथुः",
+     "iast": "davathuḥ",
+     "en": "burning like a forest fire, boiling heat",
+     "hi": "दवथु"
+    },
+    {
+     "sa": "धूमकः",
+     "iast": "dhūmakaḥ",
+     "en": "sensation of fumes (hot eructation)",
+     "hi": "धूमक (धुआँ उठने जैसा)"
+    },
+    {
+     "sa": "अम्लकः",
+     "iast": "amlakaḥ",
+     "en": "sour eructation, acidity",
+     "hi": "अम्लक (खट्टी डकार)"
+    },
+    {
+     "sa": "विदाहः",
+     "iast": "vidāhaḥ",
+     "en": "burning with indigestion (heartburn)",
+     "hi": "विदाह"
+    },
+    {
+     "sa": "अन्तर्दाहः",
+     "iast": "antardāhaḥ",
+     "en": "internal burning",
+     "hi": "अन्तर्दाह"
+    },
+    {
+     "sa": "अंसदाहः",
+     "iast": "aṃsadāhaḥ",
+     "en": "burning in the shoulders",
+     "hi": "अंसदाह"
+    },
+    {
+     "sa": "ऊष्माधिक्यम्",
+     "iast": "ūṣmādhikyam",
+     "en": "excess of body heat",
+     "hi": "ऊष्माधिक्य"
+    },
+    {
+     "sa": "अतिस्वेदः",
+     "iast": "atisvedaḥ",
+     "en": "excessive sweating",
+     "hi": "अतिस्वेद"
+    },
+    {
+     "sa": "अङ्गस्वेदः",
+     "iast": "aṅgasvedaḥ",
+     "en": "sweating of the body parts",
+     "hi": "अंगस्वेद"
+    },
+    {
+     "sa": "अङ्गगन्धः",
+     "iast": "aṅgagandhaḥ",
+     "en": "body odour",
+     "hi": "अंगगन्ध (शरीर की दुर्गन्ध)"
+    },
+    {
+     "sa": "अङ्गावदरणम्",
+     "iast": "aṅgāvadaraṇam",
+     "en": "cracking/splitting of body parts",
+     "hi": "अंगावदरण"
+    },
+    {
+     "sa": "शोणितक्लेदः",
+     "iast": "śoṇitakledaḥ",
+     "en": "sliminess/putrefaction of blood",
+     "hi": "शोणितक्लेद"
+    },
+    {
+     "sa": "मांसक्लेदः",
+     "iast": "māṃsakledaḥ",
+     "en": "sliminess/putrefaction of flesh",
+     "hi": "मांसक्लेद"
+    },
+    {
+     "sa": "त्वग्दाहः",
+     "iast": "tvagdāhaḥ",
+     "en": "burning of the skin",
+     "hi": "त्वग्दाह"
+    },
+    {
+     "sa": "मांसदाहः",
+     "iast": "māṃsadāhaḥ",
+     "en": "burning in the muscles",
+     "hi": "मांसदाह"
+    },
+    {
+     "sa": "त्वगवदरणम्",
+     "iast": "tvagavadaraṇam",
+     "en": "cracking of the skin",
+     "hi": "त्वगवदरण"
+    },
+    {
+     "sa": "चर्मदलनम्",
+     "iast": "carmadalanam",
+     "en": "peeling of the skin",
+     "hi": "चर्मदलन"
+    },
+    {
+     "sa": "रक्तकोठः",
+     "iast": "raktakoṭhaḥ",
+     "en": "red urticarial patches",
+     "hi": "रक्तकोठ"
+    },
+    {
+     "sa": "रक्तविस्फोटः",
+     "iast": "raktavisphoṭaḥ",
+     "en": "red blisters/vesicles",
+     "hi": "रक्तविस्फोट"
+    },
+    {
+     "sa": "रक्तपित्तम्",
+     "iast": "raktapittam",
+     "en": "bleeding disorder (haemorrhage)",
+     "hi": "रक्तपित्त"
+    },
+    {
+     "sa": "रक्तमण्डलानि",
+     "iast": "raktamaṇḍalāni",
+     "en": "red circular patches",
+     "hi": "रक्तमण्डल"
+    },
+    {
+     "sa": "हरितत्वम्",
+     "iast": "haritatvam",
+     "en": "greenish discoloration",
+     "hi": "हरितत्व"
+    },
+    {
+     "sa": "हारिद्रत्वम्",
+     "iast": "hāridratvam",
+     "en": "yellowish discoloration",
+     "hi": "हारिद्रत्व (हल्दी जैसा पीलापन)"
+    },
+    {
+     "sa": "नीलिका",
+     "iast": "nīlikā",
+     "en": "bluish-black moles/patches",
+     "hi": "नीलिका"
+    },
+    {
+     "sa": "कक्षा",
+     "iast": "kakṣā",
+     "en": "herpes-like eruption in axilla",
+     "hi": "कक्षा"
+    },
+    {
+     "sa": "कामला",
+     "iast": "kāmalā",
+     "en": "jaundice",
+     "hi": "कामला (पीलिया)"
+    },
+    {
+     "sa": "तिक्तास्यता",
+     "iast": "tiktāsyatā",
+     "en": "bitter taste in the mouth",
+     "hi": "तिक्तास्यता"
+    },
+    {
+     "sa": "लोहितगन्धास्यता",
+     "iast": "lohitagandhāsyatā",
+     "en": "smell of blood from mouth",
+     "hi": "लोहितगन्धास्यता"
+    },
+    {
+     "sa": "पूतिमुखता",
+     "iast": "pūtimukhatā",
+     "en": "foul smell of mouth",
+     "hi": "पूतिमुखता"
+    },
+    {
+     "sa": "तृष्णाधिक्यम्",
+     "iast": "tṛṣṇādhikyam",
+     "en": "excessive thirst",
+     "hi": "तृष्णाधिक्य"
+    },
+    {
+     "sa": "अतृप्तिः",
+     "iast": "atṛptiḥ",
+     "en": "non-satiety",
+     "hi": "अतृप्ति"
+    },
+    {
+     "sa": "आस्यविपाकः",
+     "iast": "āsyavipākaḥ",
+     "en": "stomatitis, inflammation of mouth",
+     "hi": "आस्यविपाक (मुँह में छाले)"
+    },
+    {
+     "sa": "गलपाकः",
+     "iast": "galapākaḥ",
+     "en": "inflammation of throat",
+     "hi": "गलपाक"
+    },
+    {
+     "sa": "अक्षिपाकः",
+     "iast": "akṣipākaḥ",
+     "en": "inflammation of eyes (conjunctivitis)",
+     "hi": "अक्षिपाक"
+    },
+    {
+     "sa": "गुदपाकः",
+     "iast": "gudapākaḥ",
+     "en": "inflammation of anus",
+     "hi": "गुदपाक"
+    },
+    {
+     "sa": "मेढ्रपाकः",
+     "iast": "meḍhrapākaḥ",
+     "en": "inflammation of penis",
+     "hi": "मेढ्रपाक"
+    },
+    {
+     "sa": "जीवादानम्",
+     "iast": "jīvādānam",
+     "en": "loss of blood (haemorrhage of vital blood)",
+     "hi": "जीवादान"
+    },
+    {
+     "sa": "तमःप्रवेशः",
+     "iast": "tamaḥpraveśaḥ",
+     "en": "fainting with blackout",
+     "hi": "तमःप्रवेश"
+    },
+    {
+     "sa": "हरित हारिद्र नेत्र मूत्र वर्चस्त्वम्",
+     "iast": "harita hāridra netra mūtra varcastvam",
+     "en": "greenish-yellow eyes, urine and stools",
+     "hi": "आँखों, मूत्र और मल का हरा-पीला होना"
+    },
+    {
+     "sa": "इति चत्वारिंशत् पित्तविकाराः",
+     "iast": "iti catvāriṃśat pittavikārāḥ",
+     "en": "thus forty pitta disorders",
+     "hi": "इस प्रकार चालीस पित्त विकार"
+    },
+    {
+     "sa": "आविष्कृततमाः व्याख्याताः",
+     "iast": "āviṣkṛtatamāḥ vyākhyātāḥ",
+     "en": "the most evident, explained",
+     "hi": "सबसे प्रकट बताए गए"
+    }
+   ],
+   "english": "Hereafter we shall explain the forty pitta disorders: oṣa (mild burning), ploṣa (scorching), dāha (burning), davathu (intense boiling heat), dhūmaka (fume-like eructation), amlaka (sour eructation), vidāha (heartburn), internal burning, burning in the shoulders, excess body heat, excessive sweating, sweating of body parts, body odour, cracking of body parts, sliminess of blood, sliminess of flesh, burning of the skin, burning in the muscles, cracking of the skin, peeling of the skin, red urticarial patches, red blisters, raktapitta (bleeding disorder), red circular patches, greenish discoloration, yellowish discoloration, nīlikā (bluish patches), kakṣā (axillary eruption), kāmalā (jaundice), bitter taste in the mouth, smell of blood from the mouth, foul breath, excessive thirst, non-satiety, stomatitis, inflammation of the throat, of the eyes, of the anus and of the penis, jīvādāna (loss of vital blood), fainting with blackout, and greenish-yellow eyes, urine and stools. Thus the forty pitta disorders, the most evident of innumerable pitta disorders, have been explained.",
+   "hindi": "इसके बाद हम पित्त के चालीस विकारों की व्याख्या करेंगे: ओष, प्लोष, दाह, दवथु, धूमक, अम्लक (खट्टी डकार), विदाह, अन्तर्दाह, अंसदाह, ऊष्माधिक्य, अतिस्वेद, अंगस्वेद, अंगगन्ध, अंगावदरण, शोणितक्लेद, मांसक्लेद, त्वग्दाह, मांसदाह, त्वगवदरण, चर्मदलन, रक्तकोठ, रक्तविस्फोट, रक्तपित्त, रक्तमण्डल, हरितत्व, हारिद्रत्व, नीलिका, कक्षा, कामला (पीलिया), तिक्तास्यता (मुँह कड़वा), लोहितगन्धास्यता, पूतिमुखता, तृष्णाधिक्य, अतृप्ति, आस्यविपाक, गलपाक, अक्षिपाक, गुदपाक, मेढ्रपाक, जीवादान, तमःप्रवेश और आँखों, मूत्र व मल का हरा-पीला होना। इस प्रकार असंख्य पित्त विकारों में से सबसे प्रकट चालीस पित्त विकार बताए गए।",
+   "explanation_en": "The pitta list is dominated by burning (oṣa, ploṣa, dāha, davathu, vidāha), inflammation and suppuration (-pāka), sweating and odour, bleeding (raktapitta, jīvādāna) and yellow-green discoloration (kāmalā, hāridratva). Exam tip: group them as 'heat, sweat, skin, blood, colour, mouth, pāka'. A straight count of this reading gives 42 names; editions and commentators differ on which items are counted together to keep the traditional forty.",
+   "explanation_hi": "पित्त की सूची में मुख्यतः जलन (ओष, प्लोष, दाह, दवथु, विदाह), सूजन और पकना (-पाक), पसीना और दुर्गन्ध, रक्तस्राव (रक्तपित्त, जीवादान) और पीला-हरा रंग (कामला, हारिद्रत्व) हैं। याद रखें: 'ताप, स्वेद, त्वचा, रक्त, रंग, मुख, पाक'। इस पाठ की सीधी गिनती 42 नाम देती है; परम्परागत चालीस बनाए रखने के लिए कौन-से नाम साथ गिने जाएँ, इस पर संस्करणों और टीकाकारों में मतभेद है।",
+   "modern_correlation": {
+    "en": "Many of these resemble features of inflammation (burning, redness, suppuration, mucositis, conjunctivitis), hyperacidity and reflux (amlaka, vidāha), excessive sweating, bleeding tendencies and hepatobiliary disorders (jaundice, yellow urine and stools). This underlies the frequent comparison of pitta with metabolic heat, digestive secretions and inflammatory processes; it is a broad pattern-level comparison.",
+    "hi": "इनमें से कई सूजन (जलन, लालिमा, पकना, म्यूकोसाइटिस, कंजंक्टिवाइटिस), हाइपरएसिडिटी और रिफ्लक्स (अम्लक, विदाह), अधिक पसीना, रक्तस्राव की प्रवृत्ति और यकृत-पित्त विकारों (पीलिया, पीला मूत्र और मल) जैसे हैं। इसी आधार पर पित्त की तुलना मेटाबॉलिक ताप, पाचक स्रावों और सूजन की प्रक्रियाओं से की जाती है; यह व्यापक, पैटर्न-स्तर की तुलना है।"
+   },
+   "key_terms": [
+    "pittavikāra",
+    "nānātmaja",
+    "dāha",
+    "amlaka",
+    "raktapitta",
+    "kāmalā",
+    "pāka"
+   ],
+   "tags": [
+    "nanatmaja",
+    "pitta",
+    "list",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Pitta 40 = Heat, Sweat, Skin, Blood, Colour, Mouth, Pāka",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.20.15",
+   "word_meanings": [
+    {
+     "sa": "सर्वेषु अपि खलु एतेषु पित्तविकारेषु",
+     "iast": "sarveṣu api khalu eteṣu pittavikāreṣu",
+     "en": "in all these pitta disorders",
+     "hi": "इन सभी पित्त विकारों में"
+    },
+    {
+     "sa": "उक्तेषु अन्येषु च अनुक्तेषु",
+     "iast": "ukteṣu anyeṣu ca anukteṣu",
+     "en": "stated and unstated",
+     "hi": "कहे और न कहे गए"
+    },
+    {
+     "sa": "पित्तस्य इदम् आत्मरूपम् अपरिणामि",
+     "iast": "pittasya idam ātmarūpam apariṇāmi",
+     "en": "this unchanging intrinsic nature of pitta",
+     "hi": "पित्त का यह अपरिवर्तनीय आत्मरूप"
+    },
+    {
+     "sa": "कर्मणः च स्वलक्षणम्",
+     "iast": "karmaṇaḥ ca svalakṣaṇam",
+     "en": "and characteristic of its action",
+     "hi": "और कर्म का स्वलक्षण"
+    },
+    {
+     "sa": "विमुक्तसंदेहाः",
+     "iast": "vimuktasaṃdehāḥ",
+     "en": "free from doubt",
+     "hi": "सन्देहरहित"
+    },
+    {
+     "sa": "औष्ण्यम्",
+     "iast": "auṣṇyam",
+     "en": "heat",
+     "hi": "उष्णता"
+    },
+    {
+     "sa": "तैक्ष्ण्यम्",
+     "iast": "taikṣṇyam",
+     "en": "sharpness, penetrating quality",
+     "hi": "तीक्ष्णता"
+    },
+    {
+     "sa": "द्रवत्वम्",
+     "iast": "dravatvam",
+     "en": "liquidity",
+     "hi": "द्रवता"
+    },
+    {
+     "sa": "अनतिस्नेहः",
+     "iast": "anatisnehaḥ",
+     "en": "slight unctuousness (not excessively oily)",
+     "hi": "अनतिस्नेह (थोड़ी स्निग्धता)"
+    },
+    {
+     "sa": "वर्णः शुक्ल अरुण वर्जः",
+     "iast": "varṇaḥ śukla aruṇa varjaḥ",
+     "en": "colour other than white and reddish",
+     "hi": "श्वेत और अरुण को छोड़कर वर्ण"
+    },
+    {
+     "sa": "गन्धः विस्रः",
+     "iast": "gandhaḥ visraḥ",
+     "en": "fleshy (raw-meat-like) smell",
+     "hi": "विस्र (कच्चे मांस जैसी) गन्ध"
+    },
+    {
+     "sa": "रसौ कटुक अम्लौ",
+     "iast": "rasau kaṭuka amlau",
+     "en": "pungent and sour tastes",
+     "hi": "कटु और अम्ल रस"
+    },
+    {
+     "sa": "सरत्वम्",
+     "iast": "saratvam",
+     "en": "fluidity, mobility (laxative nature)",
+     "hi": "सरत्व (सरकने का गुण)"
+    },
+    {
+     "sa": "पित्तस्य आत्मरूपाणि",
+     "iast": "pittasya ātmarūpāṇi",
+     "en": "intrinsic properties of pitta",
+     "hi": "पित्त के आत्मरूप"
+    },
+    {
+     "sa": "दाह",
+     "iast": "dāha",
+     "en": "burning",
+     "hi": "दाह"
+    },
+    {
+     "sa": "औष्ण्य",
+     "iast": "auṣṇya",
+     "en": "heat",
+     "hi": "उष्णता"
+    },
+    {
+     "sa": "पाक",
+     "iast": "pāka",
+     "en": "inflammation, suppuration",
+     "hi": "पाक"
+    },
+    {
+     "sa": "स्वेद",
+     "iast": "sveda",
+     "en": "sweating",
+     "hi": "स्वेद"
+    },
+    {
+     "sa": "क्लेद",
+     "iast": "kleda",
+     "en": "moistness, putrefaction",
+     "hi": "क्लेद"
+    },
+    {
+     "sa": "कोथ",
+     "iast": "kotha",
+     "en": "putrefaction, decay",
+     "hi": "कोथ (सड़न)"
+    },
+    {
+     "sa": "कण्डू",
+     "iast": "kaṇḍū",
+     "en": "itching",
+     "hi": "कण्डू (खुजली)"
+    },
+    {
+     "sa": "स्राव",
+     "iast": "srāva",
+     "en": "discharge",
+     "hi": "स्राव"
+    },
+    {
+     "sa": "रागाः",
+     "iast": "rāgāḥ",
+     "en": "redness",
+     "hi": "राग (लालिमा)"
+    },
+    {
+     "sa": "यथास्वम्",
+     "iast": "yathāsvam",
+     "en": "according to its own nature",
+     "hi": "अपने स्वभाव के अनुसार"
+    },
+    {
+     "sa": "गन्ध वर्ण रस अभिनिर्वर्तनम्",
+     "iast": "gandha varṇa rasa abhinirvartanam",
+     "en": "production of smell, colour and taste",
+     "hi": "गन्ध, वर्ण और रस उत्पन्न करना"
+    },
+    {
+     "sa": "पित्तस्य कर्माणि",
+     "iast": "pittasya karmāṇi",
+     "en": "actions of pitta",
+     "hi": "पित्त के कर्म"
+    }
+   ],
+   "english": "In all these pitta disorders, stated and unstated, there is an unchanging intrinsic nature (ātmarūpa) of pitta and a characteristic feature of its action, perceiving which, or even a part of it, experts conclude without doubt that it is a pitta disorder. Heat, sharpness, liquidity, slight unctuousness, colour other than white and reddish (aruṇa), raw-flesh smell, pungent and sour tastes and fluidity (sara) are the intrinsic properties of pitta. Because of this nature, pitta, entering this or that part of the body, produces burning, heat, suppuration, sweating, moistness, putrefaction, itching, discharge and redness, and produces its own characteristic smell, colour and taste. A disorder accompanied by these should be concluded to be a pitta disorder.",
+   "hindi": "इन सभी पित्त विकारों में, कहे और न कहे गए, पित्त का एक अपरिवर्तनीय आत्मरूप और उसके कर्म का स्वलक्षण होता है, जिसे या उसके अंश को देखकर कुशल वैद्य निःसन्देह पित्त विकार का निश्चय करते हैं। उष्णता, तीक्ष्णता, द्रवता, थोड़ी स्निग्धता, श्वेत और अरुण को छोड़कर अन्य वर्ण, विस्र (कच्चे मांस जैसी) गन्ध, कटु और अम्ल रस तथा सरत्व पित्त के आत्मरूप हैं। इसी स्वभाव के कारण पित्त शरीर के जिस अंग में प्रवेश करता है वहाँ दाह, उष्णता, पाक, स्वेद, क्लेद, कोथ (सड़न), कण्डू, स्राव और राग (लालिमा) उत्पन्न करता है, तथा अपने अनुसार गन्ध, वर्ण और रस उत्पन्न करता है। इनसे युक्त विकार को पित्त विकार ही समझना चाहिए।",
+   "explanation_en": "Parallel to Su 20.12 for vāta. Pitta's ātmarūpa: uṣṇa, tīkṣṇa, drava, anati-snigdha, any colour except white and aruṇa (white belongs to kapha, aruṇa to vāta), visra gandha, kaṭu-amla rasa, sara. Pitta's karma: dāha, uṣṇatā, pāka, sveda, kleda, kotha, kaṇḍū, srāva, rāga. Students often forget 'anatisneha' (slightly oily) and 'visra gandha'.",
+   "explanation_hi": "यह वात के सू. 20.12 के समान है। पित्त का आत्मरूप: उष्ण, तीक्ष्ण, द्रव, अनति-स्निग्ध, श्वेत और अरुण को छोड़ कोई भी वर्ण (श्वेत कफ का, अरुण वात का), विस्र गन्ध, कटु-अम्ल रस, सर। पित्त के कर्म: दाह, उष्णता, पाक, स्वेद, क्लेद, कोथ, कण्डू, स्राव, राग। छात्र अक्सर 'अनतिस्नेह' और 'विस्र गन्ध' भूल जाते हैं।",
+   "modern_correlation": {
+    "en": "Burning, heat, redness, discharge and suppuration are classic features of inflammation (calor, rubor and exudation), which is why pitta is often compared with inflammatory and metabolic processes. The comparison is interpretive.",
+    "hi": "दाह, ताप, लालिमा, स्राव और पाक सूजन (इन्फ्लेमेशन) के प्रसिद्ध लक्षण (कैलर, रूबर, स्राव) हैं, इसलिए पित्त की तुलना अक्सर सूजन और मेटाबॉलिक प्रक्रियाओं से की जाती है। यह तुलना व्याख्यात्मक है।"
+   },
+   "key_terms": [
+    "ātmarūpa",
+    "pitta karma",
+    "uṣṇa",
+    "tīkṣṇa",
+    "visra",
+    "pāka"
+   ],
+   "tags": [
+    "pitta",
+    "diagnosis",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.20.16",
+   "word_meanings": [
+    {
+     "sa": "तम्",
+     "iast": "tam",
+     "en": "that (pitta disorder)",
+     "hi": "उसे"
+    },
+    {
+     "sa": "मधुर तिक्त कषाय शीतैः",
+     "iast": "madhura tikta kaṣāya śītaiḥ",
+     "en": "sweet, bitter, astringent and cold",
+     "hi": "मधुर, तिक्त, कषाय और शीत"
+    },
+    {
+     "sa": "उपक्रमैः उपक्रमेत",
+     "iast": "upakramaiḥ upakrameta",
+     "en": "should treat with measures",
+     "hi": "उपायों से चिकित्सा करे"
+    },
+    {
+     "sa": "स्नेह",
+     "iast": "sneha",
+     "en": "oleation",
+     "hi": "स्नेहन"
+    },
+    {
+     "sa": "विरेक",
+     "iast": "vireka",
+     "en": "purgation",
+     "hi": "विरेचन"
+    },
+    {
+     "sa": "प्रदेह",
+     "iast": "pradeha",
+     "en": "thick ointment",
+     "hi": "प्रदेह (लेप)"
+    },
+    {
+     "sa": "परिषेक",
+     "iast": "pariṣeka",
+     "en": "affusion",
+     "hi": "परिषेक"
+    },
+    {
+     "sa": "अभ्यङ्ग",
+     "iast": "abhyaṅga",
+     "en": "massage",
+     "hi": "अभ्यंग"
+    },
+    {
+     "sa": "पित्तहरैः",
+     "iast": "pittaharaiḥ",
+     "en": "pitta-pacifying",
+     "hi": "पित्तनाशक"
+    },
+    {
+     "sa": "मात्राम् कालम् च प्रमाणीकृत्य",
+     "iast": "mātrām kālam ca pramāṇīkṛtya",
+     "en": "considering dose and time",
+     "hi": "मात्रा और काल का ध्यान रखकर"
+    },
+    {
+     "sa": "विरेचनम्",
+     "iast": "virecanam",
+     "en": "purgation",
+     "hi": "विरेचन"
+    },
+    {
+     "sa": "सर्वोपक्रमेभ्यः",
+     "iast": "sarvopakramebhyaḥ",
+     "en": "among all measures",
+     "hi": "सभी उपायों में"
+    },
+    {
+     "sa": "पित्ते प्रधानतमम्",
+     "iast": "pitte pradhānatamam",
+     "en": "most important in pitta",
+     "hi": "पित्त में सबसे प्रधान"
+    },
+    {
+     "sa": "आमाशयम् अनुप्रविश्य",
+     "iast": "āmāśayam anupraviśya",
+     "en": "entering the āmāśaya",
+     "hi": "आमाशय में प्रवेश करके"
+    },
+    {
+     "sa": "पित्तमूलम्",
+     "iast": "pittamūlam",
+     "en": "root of pitta",
+     "hi": "पित्त की जड़"
+    },
+    {
+     "sa": "अपकर्षति",
+     "iast": "apakarṣati",
+     "en": "draws out, removes",
+     "hi": "बाहर निकालता है"
+    },
+    {
+     "sa": "यथा",
+     "iast": "yathā",
+     "en": "just as",
+     "hi": "जैसे"
+    },
+    {
+     "sa": "अग्नौ व्यपोढे",
+     "iast": "agnau vyapoḍhe",
+     "en": "when the fire is removed",
+     "hi": "आग हटा देने पर"
+    },
+    {
+     "sa": "अग्निगृहम्",
+     "iast": "agnigṛham",
+     "en": "fire-house, room with the hearth",
+     "hi": "अग्निगृह (चूल्हे वाला कमरा)"
+    },
+    {
+     "sa": "शीतीभवति",
+     "iast": "śītībhavati",
+     "en": "becomes cool",
+     "hi": "ठण्डा हो जाता है"
+    },
+    {
+     "sa": "तद्वत्",
+     "iast": "tadvat",
+     "en": "likewise",
+     "hi": "उसी प्रकार"
+    }
+   ],
+   "english": "One should treat a pitta disorder with measures that are sweet, bitter, astringent and cold, such as oleation, purgation, ointments, affusions and massage, which pacify pitta, considering dose and time. Among all measures, physicians consider purgation (virecana) the most important in pitta, because, entering the āmāśaya right at the start, it draws out the very root of the morbid pitta. When pitta there is conquered, the pitta disorders elsewhere in the body also subside, just as a room with a hearth becomes cool when the fire is removed.",
+   "hindi": "पित्त विकार की चिकित्सा मधुर, तिक्त, कषाय और शीत उपायों से करनी चाहिए - जैसे स्नेहन, विरेचन, प्रदेह, परिषेक और अभ्यंग आदि पित्तनाशक उपाय - मात्रा और काल का ध्यान रखकर। सभी उपायों में वैद्य विरेचन को पित्त के लिए सबसे प्रधान मानते हैं, क्योंकि यह आरम्भ से ही आमाशय में प्रवेश करके विकृत पित्त की जड़ को बाहर निकाल देता है। वहाँ पित्त के जीत लिए जाने पर शरीर के अन्य भागों के पित्त विकार भी शान्त हो जाते हैं, जैसे आग हटा देने पर चूल्हे वाला कमरा ठण्डा हो जाता है।",
+   "explanation_en": "Pitta is uṣṇa, tīkṣṇa and has kaṭu-amla rasa, so it is pacified by madhura, tikta, kaṣāya and śīta measures. Virecana is the best for pitta (simile: removing the fire cools the fire-room). Note that the āmāśaya here refers to pitta's chief seat (Su 20.8). Remember the three similes: tree root (vāta), fire removed (pitta), breached dyke (kapha).",
+   "explanation_hi": "पित्त उष्ण, तीक्ष्ण और कटु-अम्ल रस वाला है, अतः मधुर, तिक्त, कषाय और शीत उपायों से शान्त होता है। विरेचन पित्त के लिए श्रेष्ठ है (उपमा: आग हटाने से अग्निगृह ठण्डा)। यहाँ आमाशय पित्त का प्रधान स्थान है (सू. 20.8)। तीन उपमाएँ याद रखें: पेड़ की जड़ (वात), आग हटाना (पित्त), मेड़ टूटना (कफ)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "virecana",
+    "pittahara",
+    "āmāśaya"
+   ],
+   "tags": [
+    "chikitsa",
+    "pitta",
+    "virechana",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Three similes: Root cut (vāta-basti), Fire removed (pitta-virecana), Dyke broken (kapha-vamana)",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.20.17",
+   "word_meanings": [
+    {
+     "sa": "श्लेष्मविकारान् च विंशतिम्",
+     "iast": "śleṣmavikārān ca viṃśatim",
+     "en": "and the twenty kapha disorders",
+     "hi": "और कफ के बीस विकार"
+    },
+    {
+     "sa": "अतः ऊर्ध्वम् व्याख्यास्यामः",
+     "iast": "ataḥ ūrdhvam vyākhyāsyāmaḥ",
+     "en": "hereafter we shall explain",
+     "hi": "इसके बाद बताएँगे"
+    },
+    {
+     "sa": "तद्यथा",
+     "iast": "tadyathā",
+     "en": "namely",
+     "hi": "जैसे"
+    },
+    {
+     "sa": "तृप्तिः",
+     "iast": "tṛptiḥ",
+     "en": "feeling of satiety (aversion to food)",
+     "hi": "तृप्ति (भरा-भरा लगना)"
+    },
+    {
+     "sa": "तन्द्रा",
+     "iast": "tandrā",
+     "en": "drowsiness",
+     "hi": "तन्द्रा"
+    },
+    {
+     "sa": "निद्राधिक्यम्",
+     "iast": "nidrādhikyam",
+     "en": "excessive sleep",
+     "hi": "निद्राधिक्य"
+    },
+    {
+     "sa": "स्तैमित्यम्",
+     "iast": "staimityam",
+     "en": "feeling of being wet-wrapped, sluggishness",
+     "hi": "स्तैमित्य (गीले कपड़े में लिपटे होने जैसा भाव)"
+    },
+    {
+     "sa": "गुरुगात्रता",
+     "iast": "gurugātratā",
+     "en": "heaviness of the body",
+     "hi": "गुरुगात्रता"
+    },
+    {
+     "sa": "आलस्यम्",
+     "iast": "ālasyam",
+     "en": "laziness",
+     "hi": "आलस्य"
+    },
+    {
+     "sa": "मुखमाधुर्यम्",
+     "iast": "mukhamādhuryam",
+     "en": "sweet taste in mouth",
+     "hi": "मुखमाधुर्य"
+    },
+    {
+     "sa": "मुखस्रावः",
+     "iast": "mukhasrāvaḥ",
+     "en": "salivation",
+     "hi": "मुखस्राव (लार आना)"
+    },
+    {
+     "sa": "श्लेष्मोद्गिरणम्",
+     "iast": "śleṣmodgiraṇam",
+     "en": "expectoration of mucus",
+     "hi": "श्लेष्मोद्गिरण (कफ निकलना)"
+    },
+    {
+     "sa": "मलस्य आधिक्यम्",
+     "iast": "malasya ādhikyam",
+     "en": "excess of excreta",
+     "hi": "मल की अधिकता"
+    },
+    {
+     "sa": "बलासकः",
+     "iast": "balāsakaḥ",
+     "en": "loss of strength with kapha (a kapha disorder)",
+     "hi": "बलासक"
+    },
+    {
+     "sa": "अपक्तिः",
+     "iast": "apaktiḥ",
+     "en": "indigestion",
+     "hi": "अपक्ति (अपच)"
+    },
+    {
+     "sa": "हृदयोपलेपः",
+     "iast": "hṛdayopalepaḥ",
+     "en": "sensation of coating on the heart region",
+     "hi": "हृदयोपलेप"
+    },
+    {
+     "sa": "कण्ठोपलेपः",
+     "iast": "kaṇṭhopalepaḥ",
+     "en": "sensation of coating in the throat",
+     "hi": "कण्ठोपलेप"
+    },
+    {
+     "sa": "धमनीप्रतिचयः",
+     "iast": "dhamanīpraticayaḥ",
+     "en": "thickening/hardening of blood vessels",
+     "hi": "धमनीप्रतिचय"
+    },
+    {
+     "sa": "गलगण्डः",
+     "iast": "galagaṇḍaḥ",
+     "en": "goitre",
+     "hi": "गलगण्ड"
+    },
+    {
+     "sa": "अतिस्थौल्यम्",
+     "iast": "atisthaulyam",
+     "en": "obesity",
+     "hi": "अतिस्थौल्य (मोटापा)"
+    },
+    {
+     "sa": "शीताग्निता",
+     "iast": "śītāgnitā",
+     "en": "weak (cold) digestive fire",
+     "hi": "शीताग्निता (मन्दाग्नि)"
+    },
+    {
+     "sa": "उदर्दः",
+     "iast": "udardaḥ",
+     "en": "urticaria, wheals",
+     "hi": "उदर्द (शीतपित्त जैसा)"
+    },
+    {
+     "sa": "श्वेतावभासता",
+     "iast": "śvetāvabhāsatā",
+     "en": "pallor, whitish lustre",
+     "hi": "श्वेतावभासता"
+    },
+    {
+     "sa": "श्वेत मूत्र नेत्र वर्चस्त्वम्",
+     "iast": "śveta mūtra netra varcastvam",
+     "en": "whiteness of urine, eyes and stools",
+     "hi": "मूत्र, नेत्र और मल की सफ़ेदी"
+    },
+    {
+     "sa": "इति विंशतिः श्लेष्मविकाराः",
+     "iast": "iti viṃśatiḥ śleṣmavikārāḥ",
+     "en": "thus twenty kapha disorders",
+     "hi": "इस प्रकार बीस कफ विकार"
+    },
+    {
+     "sa": "आविष्कृततमाः व्याख्याताः भवन्ति",
+     "iast": "āviṣkṛtatamāḥ vyākhyātāḥ bhavanti",
+     "en": "the most evident are explained",
+     "hi": "सबसे प्रकट बताए गए"
+    }
+   ],
+   "english": "Hereafter we shall explain the twenty kapha disorders, namely: false satiety (tṛpti), drowsiness, excessive sleep, sluggishness (staimitya), heaviness of the body, laziness, sweet taste in the mouth, salivation, expectoration of mucus, excess of excreta, balāsaka (loss of strength), indigestion, sensation of coating over the heart, sensation of coating in the throat, thickening of the vessels (dhamanīpraticaya), goitre (galagaṇḍa), obesity, weak digestive fire, urticaria (udarda), pallor and whiteness of urine, eyes and stools. Thus the twenty kapha disorders, the most evident of the innumerable kapha disorders, have been explained.",
+   "hindi": "इसके बाद हम कफ के बीस विकार बताएँगे, जैसे: तृप्ति, तन्द्रा, निद्राधिक्य, स्तैमित्य, गुरुगात्रता (शरीर में भारीपन), आलस्य, मुखमाधुर्य, मुखस्राव (लार), श्लेष्मोद्गिरण, मल की अधिकता, बलासक, अपक्ति (अपच), हृदयोपलेप, कण्ठोपलेप, धमनीप्रतिचय, गलगण्ड (घेंघा), अतिस्थौल्य (मोटापा), शीताग्निता (मन्दाग्नि), उदर्द और श्वेतावभासता तथा मूत्र, नेत्र और मल की सफ़ेदी। इस प्रकार असंख्य कफ विकारों में से सबसे प्रकट बीस कफ विकार बताए गए।",
+   "explanation_en": "Kapha disorders reflect kapha's heavy, cold, slimy, stable nature: heaviness, sleepiness, sluggish digestion, excess mucus and saliva, obesity, goitre, vessel thickening and whiteness. The first word is read as 'tṛpti' (feeling of fullness) - do not confuse it with 'atṛpti', which is in the pitta list. A straight count gives 21 names; the last two 'whiteness' items are sometimes treated together to keep the number twenty.",
+   "explanation_hi": "कफ विकार कफ के गुरु, शीत, पिच्छिल और स्थिर स्वभाव को दिखाते हैं: भारीपन, नींद, धीमा पाचन, अधिक कफ और लार, मोटापा, गलगण्ड, धमनियों का मोटा होना और सफ़ेदी। पहला शब्द 'तृप्ति' (भरापन) है - इसे पित्त सूची की 'अतृप्ति' से न मिलाएँ। सीधी गिनती 21 नाम देती है; अन्तिम दो 'सफ़ेदी' वाले नाम कभी-कभी एक साथ गिने जाते हैं ताकि संख्या बीस रहे।",
+   "modern_correlation": {
+    "en": "Several items resemble features of metabolic slowing and excess storage: obesity, lethargy and hypersomnolence, sluggish digestion, goitre and hypothyroid-like features, mucus hypersecretion, and thickening of vessels (sometimes compared with atherosclerosis). These are broad comparisons; the classical terms are not exact equivalents of modern diagnoses.",
+    "hi": "कई नाम मेटाबॉलिज़्म के धीमे होने और अधिक संचय जैसे हैं: मोटापा, सुस्ती और अधिक नींद, धीमा पाचन, घेंघा और हाइपोथायरॉइड जैसे लक्षण, अधिक म्यूकस, और धमनियों का मोटा होना (जिसकी तुलना कभी-कभी एथेरोस्क्लेरोसिस से की जाती है)। ये व्यापक तुलनाएँ हैं; शास्त्रीय शब्द आधुनिक निदानों के ठीक समकक्ष नहीं हैं।"
+   },
+   "key_terms": [
+    "śleṣmavikāra",
+    "nānātmaja",
+    "dhamanīpraticaya",
+    "galagaṇḍa",
+    "atisthaulya",
+    "udarda",
+    "tandrā"
+   ],
+   "tags": [
+    "nanatmaja",
+    "kapha",
+    "list",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Kapha 20 = Heavy, Sleepy, Sweet, Slimy, Swollen (fat/goitre), White",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.20.18",
+   "word_meanings": [
+    {
+     "sa": "सर्वेषु अपि खलु एतेषु श्लेष्मविकारेषु",
+     "iast": "sarveṣu api khalu eteṣu śleṣmavikāreṣu",
+     "en": "in all these kapha disorders",
+     "hi": "इन सभी कफ विकारों में"
+    },
+    {
+     "sa": "उक्तेषु अन्येषु च अनुक्तेषु",
+     "iast": "ukteṣu anyeṣu ca anukteṣu",
+     "en": "stated and unstated",
+     "hi": "कहे और न कहे गए"
+    },
+    {
+     "sa": "श्लेष्मणः इदम् आत्मरूपम् अपरिणामि",
+     "iast": "śleṣmaṇaḥ idam ātmarūpam apariṇāmi",
+     "en": "this unchanging intrinsic nature of kapha",
+     "hi": "कफ का यह अपरिवर्तनीय आत्मरूप"
+    },
+    {
+     "sa": "स्नेह",
+     "iast": "sneha",
+     "en": "unctuousness",
+     "hi": "स्निग्धता"
+    },
+    {
+     "sa": "शैत्य",
+     "iast": "śaitya",
+     "en": "coldness",
+     "hi": "शीतलता"
+    },
+    {
+     "sa": "शौक्ल्य",
+     "iast": "śauklya",
+     "en": "whiteness",
+     "hi": "शुक्लता (सफ़ेदी)"
+    },
+    {
+     "sa": "गौरव",
+     "iast": "gaurava",
+     "en": "heaviness",
+     "hi": "गुरुता"
+    },
+    {
+     "sa": "माधुर्य",
+     "iast": "mādhurya",
+     "en": "sweetness",
+     "hi": "मधुरता"
+    },
+    {
+     "sa": "स्थैर्य",
+     "iast": "sthairya",
+     "en": "stability",
+     "hi": "स्थिरता"
+    },
+    {
+     "sa": "पैच्छिल्य",
+     "iast": "paicchilya",
+     "en": "sliminess",
+     "hi": "पिच्छिलता"
+    },
+    {
+     "sa": "मार्त्स्न्यानि",
+     "iast": "mārtsnyāni",
+     "en": "smoothness (clay-like)",
+     "hi": "मृत्स्नता (चिकनाई)"
+    },
+    {
+     "sa": "श्लेष्मणः आत्मरूपाणि",
+     "iast": "śleṣmaṇaḥ ātmarūpāṇi",
+     "en": "intrinsic properties of kapha",
+     "hi": "कफ के आत्मरूप"
+    },
+    {
+     "sa": "श्वैत्य",
+     "iast": "śvaitya",
+     "en": "whiteness",
+     "hi": "श्वेतता"
+    },
+    {
+     "sa": "कण्डू",
+     "iast": "kaṇḍū",
+     "en": "itching",
+     "hi": "कण्डू"
+    },
+    {
+     "sa": "सुप्ति",
+     "iast": "supti",
+     "en": "numbness",
+     "hi": "सुप्ति"
+    },
+    {
+     "sa": "क्लेद",
+     "iast": "kleda",
+     "en": "moistness",
+     "hi": "क्लेद"
+    },
+    {
+     "sa": "उपदेह",
+     "iast": "upadeha",
+     "en": "coating",
+     "hi": "उपदेह (लेप जैसा आवरण)"
+    },
+    {
+     "sa": "बन्ध",
+     "iast": "bandha",
+     "en": "binding, compactness",
+     "hi": "बन्ध"
+    },
+    {
+     "sa": "चिरकारित्वानि",
+     "iast": "cirakāritvāni",
+     "en": "slowness of action, chronicity",
+     "hi": "चिरकारिता (देर से काम करना)"
+    },
+    {
+     "sa": "श्लेष्मणः कर्माणि",
+     "iast": "śleṣmaṇaḥ karmāṇi",
+     "en": "actions of kapha",
+     "hi": "कफ के कर्म"
+    },
+    {
+     "sa": "तैः अन्वितम्",
+     "iast": "taiḥ anvitam",
+     "en": "accompanied by these",
+     "hi": "इनसे युक्त"
+    },
+    {
+     "sa": "श्लेष्मविकारम् एव अध्यवस्येत्",
+     "iast": "śleṣmavikāram eva adhyavasyet",
+     "en": "should conclude it to be a kapha disorder",
+     "hi": "कफ विकार ही निश्चित करे"
+    }
+   ],
+   "english": "In all these kapha disorders, stated and unstated, there is an unchanging intrinsic nature of kapha and a characteristic feature of its action, perceiving which, or even a part of it, experts conclude without doubt that it is a kapha disorder. Unctuousness, coldness, whiteness, heaviness, sweetness, stability, sliminess and smoothness are the intrinsic properties of kapha. Because of this nature, kapha, entering this or that part of the body, produces whiteness, coldness, itching, stability, heaviness, unctuousness, numbness, moistness, coating, binding, sweetness and slowness (chronicity). A disorder accompanied by these should be concluded to be a kapha disorder.",
+   "hindi": "इन सभी कफ विकारों में, कहे और न कहे गए, कफ का एक अपरिवर्तनीय आत्मरूप और उसके कर्म का स्वलक्षण होता है, जिसे या उसके अंश को देखकर कुशल वैद्य निःसन्देह कफ विकार का निश्चय करते हैं। स्निग्धता, शीतलता, शुक्लता, गुरुता, मधुरता, स्थिरता, पिच्छिलता और मृत्स्नता कफ के आत्मरूप हैं। इसी स्वभाव के कारण कफ शरीर के जिस अंग में प्रवेश करता है वहाँ श्वेतता, शीतलता, कण्डू, स्थिरता, गुरुता, स्निग्धता, सुप्ति, क्लेद, उपदेह, बन्ध, मधुरता और चिरकारिता उत्पन्न करता है। इनसे युक्त विकार को कफ विकार ही समझना चाहिए।",
+   "explanation_en": "Parallel to Su 20.12 and 20.15. Kapha's 8 ātmarūpas: snigdha, śīta, śukla, guru, madhura, sthira, picchila, mṛtsna. Karma includes 'cirakāritva', the tendency to act slowly and become chronic - a useful clue that kapha diseases are slow in onset and in cure. Itching (kaṇḍū) and numbness (supti) appear in more than one doṣa; diagnosis depends on the whole pattern.",
+   "explanation_hi": "यह सू. 20.12 और 20.15 के समान है। कफ के 8 आत्मरूप: स्निग्ध, शीत, शुक्ल, गुरु, मधुर, स्थिर, पिच्छिल, मृत्स्न। कर्मों में 'चिरकारिता' (धीरे काम करना, पुराना होना) महत्त्वपूर्ण है - कफ रोग धीरे शुरू होते हैं और धीरे ठीक होते हैं। कण्डू और सुप्ति एक से अधिक दोषों में आते हैं; निदान पूरे लक्षण-समूह से होता है।",
+   "modern_correlation": {
+    "en": "Features such as heaviness, coldness, mucus and coating, slowness and chronicity are often compared with anabolic, storage and secretory states; the comparison is interpretive.",
+    "hi": "भारीपन, ठण्डक, कफ और आवरण, धीमापन और चिरकारिता जैसे लक्षणों की तुलना अक्सर एनाबॉलिक, संचय और स्रावी अवस्थाओं से की जाती है; यह तुलना व्याख्यात्मक है।"
+   },
+   "key_terms": [
+    "ātmarūpa",
+    "kapha karma",
+    "picchila",
+    "cirakāritva",
+    "upadeha"
+   ],
+   "tags": [
+    "kapha",
+    "diagnosis",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.20.19",
+   "word_meanings": [
+    {
+     "sa": "तम्",
+     "iast": "tam",
+     "en": "that (kapha disorder)",
+     "hi": "उसे"
+    },
+    {
+     "sa": "कटुक तिक्त कषाय",
+     "iast": "kaṭuka tikta kaṣāya",
+     "en": "pungent, bitter, astringent",
+     "hi": "कटु, तिक्त, कषाय"
+    },
+    {
+     "sa": "तीक्ष्ण उष्ण रूक्षैः",
+     "iast": "tīkṣṇa uṣṇa rūkṣaiḥ",
+     "en": "sharp, hot and dry",
+     "hi": "तीक्ष्ण, उष्ण और रूक्ष"
+    },
+    {
+     "sa": "उपक्रमैः उपक्रमेत",
+     "iast": "upakramaiḥ upakrameta",
+     "en": "should treat with measures",
+     "hi": "उपायों से चिकित्सा करे"
+    },
+    {
+     "sa": "स्वेद",
+     "iast": "sveda",
+     "en": "sudation",
+     "hi": "स्वेदन"
+    },
+    {
+     "sa": "वमन",
+     "iast": "vamana",
+     "en": "emesis",
+     "hi": "वमन"
+    },
+    {
+     "sa": "शिरोविरेचन",
+     "iast": "śirovirecana",
+     "en": "purification of the head (nasal)",
+     "hi": "शिरोविरेचन"
+    },
+    {
+     "sa": "व्यायाम",
+     "iast": "vyāyāma",
+     "en": "exercise",
+     "hi": "व्यायाम"
+    },
+    {
+     "sa": "श्लेष्महरैः",
+     "iast": "śleṣmaharaiḥ",
+     "en": "kapha-pacifying",
+     "hi": "कफनाशक"
+    },
+    {
+     "sa": "वमनम्",
+     "iast": "vamanam",
+     "en": "emesis",
+     "hi": "वमन"
+    },
+    {
+     "sa": "श्लेष्मणि प्रधानतमम्",
+     "iast": "śleṣmaṇi pradhānatamam",
+     "en": "most important in kapha",
+     "hi": "कफ में सबसे प्रधान"
+    },
+    {
+     "sa": "आमाशयम् अनुप्रविश्य",
+     "iast": "āmāśayam anupraviśya",
+     "en": "entering the āmāśaya",
+     "hi": "आमाशय में प्रवेश करके"
+    },
+    {
+     "sa": "उरोगतम्",
+     "iast": "urogatam",
+     "en": "located in the chest",
+     "hi": "उर में स्थित"
+    },
+    {
+     "sa": "श्लेष्ममूलम्",
+     "iast": "śleṣmamūlam",
+     "en": "root of kapha",
+     "hi": "कफ की जड़"
+    },
+    {
+     "sa": "ऊर्ध्वम् उत्क्षिपति",
+     "iast": "ūrdhvam utkṣipati",
+     "en": "throws upward",
+     "hi": "ऊपर की ओर निकाल देता है"
+    },
+    {
+     "sa": "यथा",
+     "iast": "yathā",
+     "en": "just as",
+     "hi": "जैसे"
+    },
+    {
+     "sa": "भिन्ने केदारसेतौ",
+     "iast": "bhinne kedārasetau",
+     "en": "when the dyke of a field is broken",
+     "hi": "खेत की मेड़ टूट जाने पर"
+    },
+    {
+     "sa": "शालि यव षष्टिक आदीनि",
+     "iast": "śāli yava ṣaṣṭika ādīni",
+     "en": "rice, barley, ṣaṣṭika rice etc.",
+     "hi": "शालि, यव, षष्टिक आदि"
+    },
+    {
+     "sa": "अनभिष्यन्द्यमानानि अम्भसा",
+     "iast": "anabhiṣyandyamānāni ambhasā",
+     "en": "not being soaked by water",
+     "hi": "पानी से न सिंचने पर"
+    },
+    {
+     "sa": "प्रशोषम् आपद्यन्ते",
+     "iast": "praśoṣam āpadyante",
+     "en": "dry up",
+     "hi": "सूख जाते हैं"
+    },
+    {
+     "sa": "तद्वत् इति",
+     "iast": "tadvat iti",
+     "en": "likewise",
+     "hi": "उसी प्रकार"
+    }
+   ],
+   "english": "One should treat a kapha disorder with measures that are pungent, bitter, astringent, sharp, hot and dry, such as sudation, emesis, head purification (nasal) and exercise, which pacify kapha, considering dose and time. Among all measures, physicians consider emesis (vamana) the most important in kapha, because, entering the āmāśaya right at the start, it throws upward and out the very root of morbid kapha located in the chest. When kapha there is conquered, the kapha disorders elsewhere in the body also subside, just as when the dyke of a field is broken, rice, barley, ṣaṣṭika and other crops, no longer soaked by water, dry up.",
+   "hindi": "कफ विकार की चिकित्सा कटु, तिक्त, कषाय, तीक्ष्ण, उष्ण और रूक्ष उपायों से करनी चाहिए - जैसे स्वेदन, वमन, शिरोविरेचन और व्यायाम आदि कफनाशक उपाय - मात्रा और काल का ध्यान रखकर। सभी उपायों में वैद्य वमन को कफ के लिए सबसे प्रधान मानते हैं, क्योंकि यह आरम्भ से ही आमाशय में प्रवेश करके उर में स्थित विकृत कफ की जड़ को ऊपर की ओर बाहर फेंक देता है। वहाँ कफ के जीत लिए जाने पर शरीर के अन्य कफ विकार भी शान्त हो जाते हैं, जैसे खेत की मेड़ टूट जाने पर शालि, यव, षष्टिक आदि फसलें पानी न मिलने से सूख जाती हैं।",
+   "explanation_en": "Kapha is guru, śīta, snigdha and madhura, so it is countered by kaṭu-tikta-kaṣāya rasas and tīkṣṇa-uṣṇa-rūkṣa qualities. Vamana is the best for kapha; the simile is the breached dyke that drains water from a paddy field. Exam tip: the triad 'best therapy for each doṣa' (basti-virecana-vamana) with its three similes is a common short note.",
+   "explanation_hi": "कफ गुरु, शीत, स्निग्ध और मधुर है, अतः कटु-तिक्त-कषाय रस और तीक्ष्ण-उष्ण-रूक्ष गुणों से शान्त होता है। वमन कफ के लिए श्रेष्ठ है; उपमा है खेत की मेड़ टूटने से पानी निकल जाना। परीक्षा टिप: 'प्रत्येक दोष की श्रेष्ठ चिकित्सा' (बस्ति-विरेचन-वमन) तीन उपमाओं के साथ सामान्य लघु प्रश्न है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "vamana",
+    "śleṣmahara",
+    "uras",
+    "śirovirecana"
+   ],
+   "tags": [
+    "chikitsa",
+    "kapha",
+    "vamana",
+    "exam"
+   ],
+   "importance": "high",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.20.20",
+   "word_meanings": [
+    {
+     "sa": "भवन्ति च अत्र",
+     "iast": "bhavanti ca atra",
+     "en": "and here there are (verses)",
+     "hi": "यहाँ ये श्लोक हैं"
+    },
+    {
+     "sa": "रोगम्",
+     "iast": "rogam",
+     "en": "disease",
+     "hi": "रोग की"
+    },
+    {
+     "sa": "आदौ",
+     "iast": "ādau",
+     "en": "first",
+     "hi": "पहले"
+    },
+    {
+     "sa": "परीक्षेत",
+     "iast": "parīkṣeta",
+     "en": "should examine",
+     "hi": "परीक्षा करे"
+    },
+    {
+     "sa": "ततः अनन्तरम्",
+     "iast": "tataḥ anantaram",
+     "en": "thereafter",
+     "hi": "उसके बाद"
+    },
+    {
+     "sa": "औषधम्",
+     "iast": "auṣadham",
+     "en": "medicine",
+     "hi": "औषध की"
+    },
+    {
+     "sa": "ततः",
+     "iast": "tataḥ",
+     "en": "then",
+     "hi": "फिर"
+    },
+    {
+     "sa": "कर्म",
+     "iast": "karma",
+     "en": "treatment, therapeutic action",
+     "hi": "कर्म (चिकित्सा)"
+    },
+    {
+     "sa": "भिषक्",
+     "iast": "bhiṣak",
+     "en": "physician",
+     "hi": "वैद्य"
+    },
+    {
+     "sa": "पश्चात्",
+     "iast": "paścāt",
+     "en": "afterwards",
+     "hi": "बाद में"
+    },
+    {
+     "sa": "ज्ञानपूर्वम्",
+     "iast": "jñānapūrvam",
+     "en": "based on knowledge",
+     "hi": "ज्ञानपूर्वक"
+    },
+    {
+     "sa": "समाचरेत्",
+     "iast": "samācaret",
+     "en": "should carry out",
+     "hi": "करे"
+    }
+   ],
+   "english": "Here are the verses: The physician should first examine the disease, then the medicine, and afterwards carry out the treatment, guided by knowledge.",
+   "hindi": "यहाँ ये श्लोक हैं: वैद्य को पहले रोग की परीक्षा करनी चाहिए, उसके बाद औषध की, और फिर ज्ञानपूर्वक चिकित्सा करनी चाहिए।",
+   "explanation_en": "A golden rule of clinical practice: rogaparīkṣā first, then auṣadha (drug) selection, then karma (therapy). This is one of the most quoted verses of Caraka for the order of clinical work. Memorise it as 'Diagnose → Drug → Do'.",
+   "explanation_hi": "चिकित्सा का स्वर्णिम नियम: पहले रोग-परीक्षा, फिर औषध का चयन, फिर कर्म (चिकित्सा)। चिकित्सा-क्रम के लिए यह चरक का सबसे अधिक उद्धृत श्लोक है। याद रखें: 'निदान → औषध → कर्म'।",
+   "modern_correlation": {
+    "en": "This corresponds to the basic sequence of modern clinical practice: establish the diagnosis, choose an appropriate intervention, then implement it.",
+    "hi": "यह आधुनिक चिकित्सा के मूल क्रम से मेल खाता है: पहले निदान, फिर उपयुक्त उपचार का चयन, फिर उसका प्रयोग।"
+   },
+   "key_terms": [
+    "rogaparīkṣā",
+    "auṣadha",
+    "karma"
+   ],
+   "tags": [
+    "clinical-method",
+    "quotable",
+    "exam"
+   ],
+   "importance": "high",
+   "mnemonic": "Diagnose → Drug → Do",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.20.21",
+   "word_meanings": [
+    {
+     "sa": "यः तु",
+     "iast": "yaḥ tu",
+     "en": "but one who",
+     "hi": "परन्तु जो"
+    },
+    {
+     "sa": "रोगम् अविज्ञाय",
+     "iast": "rogam avijñāya",
+     "en": "without knowing the disease",
+     "hi": "रोग को जाने बिना"
+    },
+    {
+     "sa": "कर्माणि आरभते",
+     "iast": "karmāṇi ārabhate",
+     "en": "starts treatments",
+     "hi": "चिकित्सा आरम्भ करता है"
+    },
+    {
+     "sa": "भिषक्",
+     "iast": "bhiṣak",
+     "en": "physician",
+     "hi": "वैद्य"
+    },
+    {
+     "sa": "अपि औषधविधानज्ञः",
+     "iast": "api auṣadhavidhānajñaḥ",
+     "en": "even if he knows the use of medicines",
+     "hi": "औषध-विधि जानते हुए भी"
+    },
+    {
+     "sa": "तस्य",
+     "iast": "tasya",
+     "en": "his",
+     "hi": "उसकी"
+    },
+    {
+     "sa": "सिद्धिः",
+     "iast": "siddhiḥ",
+     "en": "success",
+     "hi": "सफलता"
+    },
+    {
+     "sa": "यदृच्छया",
+     "iast": "yadṛcchayā",
+     "en": "by chance only",
+     "hi": "संयोग से ही"
+    }
+   ],
+   "english": "The physician who begins treatment without knowing the disease, even if he knows how to use medicines, succeeds only by chance.",
+   "hindi": "जो वैद्य रोग को जाने बिना चिकित्सा आरम्भ करता है, वह औषध-प्रयोग जानते हुए भी केवल संयोग से ही सफल होता है।",
+   "explanation_en": "This stresses that knowledge of drugs is useless without diagnosis. 'Yadṛcchayā siddhiḥ' (success by chance) is a phrase worth quoting in answers on the importance of roga parīkṣā.",
+   "explanation_hi": "यह बताता है कि निदान के बिना औषध का ज्ञान व्यर्थ है। 'यदृच्छया सिद्धिः' (संयोग से सफलता) - रोग-परीक्षा के महत्त्व पर उत्तर में यह वाक्यांश लिखें।",
+   "modern_correlation": null,
+   "key_terms": [
+    "rogaparīkṣā",
+    "yadṛcchā",
+    "siddhi"
+   ],
+   "tags": [
+    "clinical-method",
+    "quotable"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.20.22",
+   "word_meanings": [
+    {
+     "sa": "यः तु",
+     "iast": "yaḥ tu",
+     "en": "but one who",
+     "hi": "परन्तु जो"
+    },
+    {
+     "sa": "रोगविशेषज्ञः",
+     "iast": "rogaviśeṣajñaḥ",
+     "en": "knows the specific features of disease",
+     "hi": "रोग के विशेष लक्षणों को जानने वाला"
+    },
+    {
+     "sa": "सर्वभैषज्यकोविदः",
+     "iast": "sarvabhaiṣajyakovidaḥ",
+     "en": "expert in all medicines",
+     "hi": "सभी औषधियों में निपुण"
+    },
+    {
+     "sa": "देश काल प्रमाणज्ञः",
+     "iast": "deśa kāla pramāṇajñaḥ",
+     "en": "knows place, time and dose",
+     "hi": "देश, काल और मात्रा को जानने वाला"
+    },
+    {
+     "sa": "तस्य सिद्धिः",
+     "iast": "tasya siddhiḥ",
+     "en": "his success",
+     "hi": "उसकी सफलता"
+    },
+    {
+     "sa": "असंशयम्",
+     "iast": "asaṃśayam",
+     "en": "without doubt",
+     "hi": "निःसन्देह"
+    }
+   ],
+   "english": "But the physician who knows the specific features of diseases, is expert in all medicines, and knows place, time and dosage, succeeds without doubt.",
+   "hindi": "परन्तु जो वैद्य रोग के विशेष लक्षणों को जानता है, सभी औषधियों में निपुण है और देश, काल तथा मात्रा को जानता है, वह निःसन्देह सफल होता है।",
+   "explanation_en": "The ideal physician combines three kinds of knowledge: disease (roga), drugs (bhaiṣajya) and the context of their use (deśa, kāla, pramāṇa). Verses 20-22 form a set and are often asked together under 'qualities of a successful physician'.",
+   "explanation_hi": "आदर्श वैद्य में तीन प्रकार का ज्ञान होता है: रोग, औषध और प्रयोग का सन्दर्भ (देश, काल, प्रमाण)। श्लोक 20-22 एक समूह हैं और 'सफल वैद्य के गुण' पर प्रश्न में साथ पूछे जाते हैं।",
+   "modern_correlation": null,
+   "key_terms": [
+    "rogaviśeṣa",
+    "bhaiṣajya",
+    "deśa",
+    "kāla",
+    "pramāṇa"
+   ],
+   "tags": [
+    "clinical-method",
+    "physician",
+    "quotable"
+   ],
+   "importance": "medium",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.20.23",
+   "word_meanings": [
+    {
+     "sa": "तत्र श्लोकाः",
+     "iast": "tatra ślokāḥ",
+     "en": "here are the summary verses",
+     "hi": "यहाँ सारांश श्लोक हैं"
+    },
+    {
+     "sa": "संग्रहः",
+     "iast": "saṃgrahaḥ",
+     "en": "collection, classification (of diseases)",
+     "hi": "संग्रह (रोगों का वर्गीकरण)"
+    },
+    {
+     "sa": "प्रकृतिः",
+     "iast": "prakṛtiḥ",
+     "en": "origin",
+     "hi": "प्रकृति (उत्पत्ति)"
+    },
+    {
+     "sa": "देशः",
+     "iast": "deśaḥ",
+     "en": "location, seat",
+     "hi": "देश (अधिष्ठान)"
+    },
+    {
+     "sa": "विकारमुखम्",
+     "iast": "vikāramukham",
+     "en": "entry points (causes) of disorders",
+     "hi": "विकारों के मुख (कारण)"
+    },
+    {
+     "sa": "ईरणम्",
+     "iast": "īraṇam",
+     "en": "precipitating cause",
+     "hi": "ईरण (प्रेरक कारण)"
+    },
+    {
+     "sa": "असंदेहः",
+     "iast": "asaṃdehaḥ",
+     "en": "non-confusion",
+     "hi": "असन्देह"
+    },
+    {
+     "sa": "अनुबन्धः",
+     "iast": "anubandhaḥ",
+     "en": "association, sequence",
+     "hi": "अनुबन्ध"
+    },
+    {
+     "sa": "च",
+     "iast": "ca",
+     "en": "and",
+     "hi": "और"
+    },
+    {
+     "sa": "रोगाणाम्",
+     "iast": "rogāṇām",
+     "en": "of diseases",
+     "hi": "रोगों का"
+    },
+    {
+     "sa": "संप्रकाशितः",
+     "iast": "saṃprakāśitaḥ",
+     "en": "has been explained",
+     "hi": "बताया गया है"
+    }
+   ],
+   "english": "Summary verses: The classification of diseases, their origin, seat, causes (entry points), precipitating factors, non-confusion and association have been explained;",
+   "hindi": "सारांश श्लोक: रोगों का संग्रह (वर्गीकरण), प्रकृति, देश (अधिष्ठान), विकारों के मुख, प्रेरक कारण, असन्देह और अनुबन्ध बताए गए हैं;",
+   "explanation_en": "The concluding verses (23-25) list the topics of the chapter in order: saṃgraha and prakṛti (20.3), deśa (20.3), vikāramukha (20.4), īraṇa (20.5), asaṃdeha and anubandha (20.6-7). They are useful for quick revision of the chapter structure.",
+   "explanation_hi": "अन्तिम श्लोक (23-25) अध्याय के विषय क्रम से बताते हैं: संग्रह और प्रकृति (20.3), देश (20.3), विकारमुख (20.4), ईरण (20.5), असन्देह और अनुबन्ध (20.6-7)। अध्याय की संरचना के त्वरित पुनरावलोकन के लिए उपयोगी।",
+   "modern_correlation": null,
+   "key_terms": [
+    "saṃgraha",
+    "prakṛti",
+    "vikāramukha",
+    "anubandha"
+   ],
+   "tags": [
+    "summary"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.20.24",
+   "word_meanings": [
+    {
+     "sa": "दोषस्थानानि",
+     "iast": "doṣasthānāni",
+     "en": "sites of the doṣas",
+     "hi": "दोषों के स्थान"
+    },
+    {
+     "sa": "रोगाणाम् गणाः",
+     "iast": "rogāṇām gaṇāḥ",
+     "en": "groups of diseases",
+     "hi": "रोगों के समूह"
+    },
+    {
+     "sa": "नानात्मजाः च ये",
+     "iast": "nānātmajāḥ ca ye",
+     "en": "and those that are nānātmaja",
+     "hi": "और जो नानात्मज हैं"
+    },
+    {
+     "sa": "रूपम् पृथक् च दोषाणाम्",
+     "iast": "rūpam pṛthak ca doṣāṇām",
+     "en": "and the separate form of each doṣa",
+     "hi": "और दोषों का अलग-अलग रूप"
+    },
+    {
+     "sa": "कर्म च अपरिणामि यत्",
+     "iast": "karma ca apariṇāmi yat",
+     "en": "and their unchanging action",
+     "hi": "और उनका अपरिवर्तनीय कर्म"
+    }
+   ],
+   "english": "the sites of the doṣas, the groups of nānātmaja diseases, the separate intrinsic form of each doṣa and their unchanging action;",
+   "hindi": "दोषों के स्थान, नानात्मज रोगों के समूह, प्रत्येक दोष का अलग आत्मरूप और उनका अपरिवर्तनीय कर्म;",
+   "explanation_en": "Continuation of the summary: doṣa sthāna (20.8), nānātmaja groups (20.10-11, 14, 17), and the ātmarūpa and karma of each doṣa (20.12, 15, 18).",
+   "explanation_hi": "सारांश जारी: दोष-स्थान (20.8), नानात्मज समूह (20.10-11, 14, 17), और प्रत्येक दोष का आत्मरूप और कर्म (20.12, 15, 18)।",
+   "modern_correlation": null,
+   "key_terms": [
+    "doṣasthāna",
+    "nānātmaja",
+    "ātmarūpa"
+   ],
+   "tags": [
+    "summary"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.20.25",
+   "word_meanings": [
+    {
+     "sa": "पृथक्त्वेन च",
+     "iast": "pṛthaktvena ca",
+     "en": "and separately",
+     "hi": "और अलग-अलग"
+    },
+    {
+     "sa": "दोषाणाम्",
+     "iast": "doṣāṇām",
+     "en": "of the doṣas",
+     "hi": "दोषों के"
+    },
+    {
+     "sa": "निर्दिष्टाः",
+     "iast": "nirdiṣṭāḥ",
+     "en": "have been described",
+     "hi": "बताए गए हैं"
+    },
+    {
+     "sa": "समुपक्रमाः",
+     "iast": "samupakramāḥ",
+     "en": "proper treatments",
+     "hi": "उचित उपक्रम (चिकित्सा)"
+    },
+    {
+     "sa": "सम्यक्",
+     "iast": "samyak",
+     "en": "properly",
+     "hi": "भली-भाँति"
+    },
+    {
+     "sa": "महति रोगाणाम् अध्याये",
+     "iast": "mahati rogāṇām adhyāye",
+     "en": "in the great chapter on diseases",
+     "hi": "महारोग अध्याय में"
+    },
+    {
+     "sa": "तत्त्वदर्शिना",
+     "iast": "tattvadarśinā",
+     "en": "by the seer of truth (Ātreya)",
+     "hi": "तत्त्वदर्शी (आत्रेय) द्वारा"
+    }
+   ],
+   "english": "and the treatments of each doṣa separately: all this has been properly described in this great chapter on diseases by the seer of truth.",
+   "hindi": "और प्रत्येक दोष की अलग-अलग चिकित्सा: यह सब तत्त्वदर्शी (आत्रेय) ने इस महारोग अध्याय में भली-भाँति बताया है।",
+   "explanation_en": "The summary ends with the treatment principles for each doṣa (20.13, 16, 19). 'Tattvadarśin' (one who sees the truth) refers to Ātreya. The phrase 'mahati rogāṇām adhyāye' explains the chapter name Mahāroga.",
+   "explanation_hi": "सारांश प्रत्येक दोष की चिकित्सा (20.13, 16, 19) के साथ समाप्त होता है। 'तत्त्वदर्शी' आत्रेय के लिए है। 'महति रोगाणामध्याये' अध्याय के नाम महारोग को समझाता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "upakrama",
+    "tattvadarśin"
+   ],
+   "tags": [
+    "summary"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  },
+  {
+   "id": "CS.sutra.20.26",
+   "word_meanings": [
+    {
+     "sa": "इति",
+     "iast": "iti",
+     "en": "thus",
+     "hi": "इस प्रकार"
+    },
+    {
+     "sa": "अग्निवेशकृते तन्त्रे",
+     "iast": "agniveśakṛte tantre",
+     "en": "in the treatise composed by Agniveśa",
+     "hi": "अग्निवेश द्वारा रचित तन्त्र में"
+    },
+    {
+     "sa": "चरकप्रतिसंस्कृते",
+     "iast": "carakapratisaṃskṛte",
+     "en": "redacted by Caraka",
+     "hi": "चरक द्वारा प्रतिसंस्कृत"
+    },
+    {
+     "sa": "श्लोकस्थाने",
+     "iast": "ślokasthāne",
+     "en": "in the Ślokasthāna (Sūtrasthāna)",
+     "hi": "श्लोकस्थान (सूत्रस्थान) में"
+    },
+    {
+     "sa": "महारोगाध्यायः नाम",
+     "iast": "mahārogādhyāyaḥ nāma",
+     "en": "named Mahāroga Adhyāya",
+     "hi": "महारोग नाम का अध्याय"
+    },
+    {
+     "sa": "विंशः अध्यायः",
+     "iast": "viṃśaḥ adhyāyaḥ",
+     "en": "the twentieth chapter",
+     "hi": "बीसवाँ अध्याय"
+    }
+   ],
+   "english": "Thus ends the twentieth chapter, named Mahāroga, in the Ślokasthāna (Sūtrasthāna) of the treatise composed by Agniveśa and redacted by Caraka.",
+   "hindi": "इस प्रकार अग्निवेश द्वारा रचित और चरक द्वारा प्रतिसंस्कृत तन्त्र के श्लोकस्थान (सूत्रस्थान) में महारोग नामक बीसवाँ अध्याय समाप्त होता है।",
+   "explanation_en": "The colophon. Sūtrasthāna is also called Ślokasthāna. Chapter 20 closes the Roga catuṣka (17 Kiyantaḥśirasīya, 18 Triśothīya, 19 Aṣṭodarīya, 20 Mahāroga).",
+   "explanation_hi": "यह पुष्पिका (समाप्ति-वाक्य) है। सूत्रस्थान को श्लोकस्थान भी कहते हैं। अध्याय 20 रोग चतुष्क (17 कियन्तःशिरसीय, 18 त्रिशोथीय, 19 अष्टोदरीय, 20 महारोग) को पूरा करता है।",
+   "modern_correlation": null,
+   "key_terms": [
+    "colophon",
+    "roga catuṣka"
+   ],
+   "tags": [
+    "colophon"
+   ],
+   "importance": "low",
+   "review_status": "ai_draft"
+  }
+ ]
+}

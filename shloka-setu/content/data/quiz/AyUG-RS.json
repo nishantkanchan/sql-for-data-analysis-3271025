@@ -1,0 +1,2786 @@
+{
+  "subject_id": "AyUG-RS",
+  "questions": [
+    {
+      "id": "AyUG-RS-0001",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-sharira-intro",
+      "topic_en": "Śārīra: introduction and body divisions",
+      "topic_hi": "शारीर: परिचय एवं शरीर विभाग",
+      "type": "mcq",
+      "question_en": "According to Caraka, the body is described as 'ṣaḍaṅga'. The six aṅgas are:",
+      "question_hi": "चरक के अनुसार शरीर 'षडङ्ग' है। छह अंग हैं:",
+      "options": [
+        {
+          "en": "Six layers of skin",
+          "hi": "त्वचा की छह परतें"
+        },
+        {
+          "en": "Five sense organs and the mind",
+          "hi": "पाँच ज्ञानेन्द्रियाँ और मन"
+        },
+        {
+          "en": "Two arms, two legs, head-neck and trunk (antarādhi)",
+          "hi": "दो बाहु, दो सक्थि, शिरोग्रीवा और अन्तराधि (धड़)"
+        },
+        {
+          "en": "Six dhātus",
+          "hi": "छह धातुएँ"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "CS Śā 7.5: \"dvau bāhū dve sakthinī śirogrīvam antarādhiḥ iti ṣaḍaṅgam aṅgam\".",
+      "explanation_hi": "च.शा. 7.5: \"द्वौ बाहू द्वे सक्थिनी शिरोग्रीवमन्तराधिः इति षडङ्गमङ्गम्\"।",
+      "reference": "CS.sharira.7.5",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0002",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-sharira-intro",
+      "topic_en": "Śārīra: introduction and body divisions",
+      "topic_hi": "शारीर: परिचय एवं शरीर विभाग",
+      "type": "mcq",
+      "question_en": "How many koṣṭhāṅgas (organs of the trunk) does Caraka enumerate?",
+      "question_hi": "चरक कितने कोष्ठाङ्ग गिनाते हैं?",
+      "options": [
+        {
+          "en": "Fifteen",
+          "hi": "पन्द्रह"
+        },
+        {
+          "en": "Ten",
+          "hi": "दस"
+        },
+        {
+          "en": "Twelve",
+          "hi": "बारह"
+        },
+        {
+          "en": "Fifty-six",
+          "hi": "छप्पन"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "CS Śā 7.10: nābhi, hṛdaya, kloma, yakṛt, plīhā, vṛkka, basti, purīṣādhāra, āmāśaya, pakvāśaya, uttaraguda, adharaguda, kṣudrāntra, sthūlāntra and vapāvahana = 15. Fifty-six is the number of pratyaṅgas (Śā 7.11).",
+      "explanation_hi": "च.शा. 7.10: नाभि, हृदय, क्लोम, यकृत्, प्लीहा, वृक्क, बस्ति, पुरीषाधार, आमाशय, पक्वाशय, उत्तरगुद, अधरगुद, क्षुद्रान्त्र, स्थूलान्त्र और वपावहन = 15। छप्पन प्रत्यंगों की संख्या है (शा. 7.11)।",
+      "reference": "CS.sharira.7.10",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0003",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-sharira-intro",
+      "topic_en": "Śārīra: introduction and body divisions",
+      "topic_hi": "शारीर: परिचय एवं शरीर विभाग",
+      "type": "mcq",
+      "question_en": "According to Caraka Śārīra 7, the number of pratyaṅgas is:",
+      "question_hi": "चरक शारीर 7 के अनुसार प्रत्यंगों की संख्या है:",
+      "options": [
+        {
+          "en": "Fifteen",
+          "hi": "पन्द्रह"
+        },
+        {
+          "en": "Fifty-six",
+          "hi": "छप्पन"
+        },
+        {
+          "en": "One hundred and seven",
+          "hi": "एक सौ सात"
+        },
+        {
+          "en": "Two hundred",
+          "hi": "दो सौ"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "CS Śā 7.11: \"ṣaṭpañcāśat pratyaṅgāni ṣaṭsv aṅgeṣūpanibaddhāni\" (calves, thighs, buttocks, testes, etc.). Fifteen is the koṣṭhāṅga count, 107 the marma count.",
+      "explanation_hi": "च.शा. 7.11: \"षट्पञ्चाशत् प्रत्यङ्गानि षट्स्वङ्गेषूपनिबद्धानि\" (पिण्डलियाँ, ऊरु, स्फिक्, वृषण आदि)। पन्द्रह कोष्ठाङ्ग और 107 मर्म की संख्या है।",
+      "reference": "CS.sharira.7.11",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0004",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-sharira-intro",
+      "topic_en": "Śārīra: introduction and body divisions",
+      "topic_hi": "शारीर: परिचय एवं शरीर विभाग",
+      "type": "mcq",
+      "question_en": "Which list matches Suśruta's summary of the body (Śārīra 5.6)?",
+      "question_hi": "सुश्रुत के शरीर-संक्षेप (शारीर 5.6) से कौन-सी सूची मेल खाती है?",
+      "options": [
+        {
+          "en": "6 tvak, 7 kalā, 8 āśaya, 400 sirā, 500 peśī, 900 snāyu, 360 asthi, 200 sandhi, 107 marma, 200 dhamanī",
+          "hi": "6 त्वक्, 7 कला, 8 आशय, 400 सिरा, 500 पेशी, 900 स्नायु, 360 अस्थि, 200 सन्धि, 107 मर्म, 200 धमनी"
+        },
+        {
+          "en": "7 tvak, 6 kalā, 7 āśaya, 700 sirā, 400 peśī, 900 snāyu, 300 asthi, 210 sandhi, 107 marma, 10 dhamanī",
+          "hi": "7 त्वक्, 6 कला, 7 आशय, 700 सिरा, 400 पेशी, 900 स्नायु, 300 अस्थि, 210 सन्धि, 107 मर्म, 10 धमनी"
+        },
+        {
+          "en": "7 tvak, 7 kalā, 7 āśaya, 700 sirā, 500 peśī, 900 snāyu, 360 asthi, 200 sandhi, 108 marma, 24 dhamanī",
+          "hi": "7 त्वक्, 7 कला, 7 आशय, 700 सिरा, 500 पेशी, 900 स्नायु, 360 अस्थि, 200 सन्धि, 108 मर्म, 24 धमनी"
+        },
+        {
+          "en": "7 tvak, 7 kalā, 7 āśaya, 700 sirā, 500 peśī, 900 snāyu, 300 asthi, 210 sandhi, 107 marma, 24 dhamanī",
+          "hi": "7 त्वक्, 7 कला, 7 आशय, 700 सिरा, 500 पेशी, 900 स्नायु, 300 अस्थि, 210 सन्धि, 107 मर्म, 24 धमनी"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "SS Śā 5.6 gives exactly these numbers (plus 3 doṣas, 3 malas and 9 srotas). Caraka (Śā 7.6, 7.14) differs: 360 asthi, 200 sandhi, 400 peśī, 200 dhamanī, 6 tvak.",
+      "explanation_hi": "सु.शा. 5.6 में ठीक यही संख्याएँ हैं (साथ में 3 दोष, 3 मल, 9 स्रोतस्)। चरक (शा. 7.6, 7.14) भिन्न है: 360 अस्थि, 200 सन्धि, 400 पेशी, 200 धमनी, 6 त्वचा।",
+      "reference": "SS.sharira.5.6",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0005",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-sharira-intro",
+      "topic_en": "Śārīra: introduction and body divisions",
+      "topic_hi": "शारीर: परिचय एवं शरीर विभाग",
+      "type": "mcq",
+      "question_en": "The height of the body measured in one's own aṅgulas is 84 according to Caraka. According to Suśruta it is:",
+      "question_hi": "अपने अंगुल से नापने पर शरीर की ऊँचाई चरक के अनुसार 84 अंगुल है। सुश्रुत के अनुसार यह है:",
+      "options": [
+        {
+          "en": "120 aṅgula",
+          "hi": "120 अंगुल"
+        },
+        {
+          "en": "84 aṅgula",
+          "hi": "84 अंगुल"
+        },
+        {
+          "en": "96 aṅgula",
+          "hi": "96 अंगुल"
+        },
+        {
+          "en": "108 aṅgula",
+          "hi": "108 अंगुल"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "Caraka (Vi 8.117) gives 84 svāṅgula; Suśruta (Sū 35.12) gives 120 svāṅgula. Students must name the authority.",
+      "explanation_hi": "चरक (वि. 8.117) 84 स्वांगुल और सुश्रुत (सू. 35.12) 120 स्वांगुल बताते हैं। प्रश्न में आचार्य का नाम ध्यान से देखें।",
+      "reference": "CS.vimana.8.117;",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0006",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-sharira-intro",
+      "topic_en": "Śārīra: introduction and body divisions",
+      "topic_hi": "शारीर: परिचय एवं शरीर विभाग",
+      "type": "mcq",
+      "question_en": "For cadaver study, Suśruta advises keeping the wrapped body in a cage in slowly flowing water for how long before examining it?",
+      "question_hi": "शव-विच्छेदन के लिए सुश्रुत लपेटे हुए शव को पिंजरे में धीमे बहते जल में कितने समय तक रखने को कहते हैं?",
+      "options": [
+        {
+          "en": "Three nights",
+          "hi": "तीन रात"
+        },
+        {
+          "en": "Fifteen nights",
+          "hi": "पन्द्रह रात"
+        },
+        {
+          "en": "One month",
+          "hi": "एक मास"
+        },
+        {
+          "en": "Seven nights",
+          "hi": "सात रात"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "SS Śā 5.49: an intact body, not poisoned, not long diseased and under 100 years old, is placed in a cage (pañjara) in flowing water for seven nights (saptarātra); the decomposed body is then rubbed with a brush of uśīra, bāla, veṇu or valkala to expose structures layer by layer.",
+      "explanation_hi": "सु.शा. 5.49: पूर्ण अंगों वाला, विषरहित, दीर्घरोग-रहित, सौ वर्ष से कम आयु का शव पिंजरे में बहते जल में सात रात रखा जाता है; फिर उशीर, बाल, वेणु या वल्कल की कूँची से रगड़कर परत-दर-परत अंग देखे जाते हैं।",
+      "reference": "SS.sharira.5.49",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0007",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-sharira-intro",
+      "topic_en": "Śārīra: introduction and body divisions",
+      "topic_hi": "शारीर: परिचय एवं शरीर विभाग",
+      "type": "mcq",
+      "question_en": "Which of the following is NOT a criterion for selecting a body for dissection in Suśruta Śārīra 5?",
+      "question_hi": "सुश्रुत शारीर 5 में विच्छेदन हेतु शव चुनने का कौन-सा मानदण्ड नहीं है?",
+      "options": [
+        {
+          "en": "All parts intact",
+          "hi": "सब अंग पूर्ण"
+        },
+        {
+          "en": "Not killed by poison",
+          "hi": "विष से न मरा हो"
+        },
+        {
+          "en": "Older than one hundred years",
+          "hi": "सौ वर्ष से अधिक आयु"
+        },
+        {
+          "en": "Not suffering from a long illness",
+          "hi": "दीर्घ रोग से पीड़ित न रहा हो"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "SS Śā 5.49 requires an avarṣaśatika body, i.e. less than 100 years old, with intestines cleared of faeces. The other three are stated criteria.",
+      "explanation_hi": "सु.शा. 5.49 में 'अवर्षशतिक' अर्थात् सौ वर्ष से कम आयु का शव चाहिए, जिसकी आँतें मलरहित हों। अन्य तीन मानदण्ड बताए गए हैं।",
+      "reference": "SS.sharira.5.49",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0008",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-sharira-intro",
+      "topic_en": "Śārīra: introduction and body divisions",
+      "topic_hi": "शारीर: परिचय एवं शरीर विभाग",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Suśrutasaṃhitā Śārīrasthāna 5.51). Choose the correct second half of the śloka that begins as shown.",
+      "question_hi": "श्लोक पूरा कीजिए (सुश्रुतसंहिता शारीरस्थान 5.51)। दिए गए पूर्वार्ध का सही उत्तरार्ध चुनिए।",
+      "question_sa": "शरीरे चैव शास्त्रे च दृष्टार्थः स्याद्विशारदः ।",
+      "options": [
+        {
+          "en": "peśīsnāyusirāṇāṃ tu saṃdhisaṃkhyā na vidyate",
+          "hi": "पेशीस्नायुसिराणां तु संधिसंख्या न विद्यते"
+        },
+        {
+          "en": "dṛṣṭaśrutābhyāṃ saṃdeham avāpohyācaret kriyāḥ",
+          "hi": "दृष्टश्रुताभ्यां संदेहमवापोह्याचरेत्क्रियाः"
+        },
+        {
+          "en": "vaikalyaṃ maraṇaṃ cāpi vyadhāttāsāṃ dhruvaṃ bhavet",
+          "hi": "वैकल्यं मरणं चापि व्यधात्तासां ध्रुवं भवेत्"
+        },
+        {
+          "en": "āśayyābhyāsayogena karotyāśayasaṃbhavam",
+          "hi": "आशय्याभ्यासयोगेन करोत्याशयसंभवम्"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "\"One who has seen things directly both in the body (by dissection) and in the śāstra becomes an expert; removing doubts by what is seen and heard, he should then act\" (SS Śā 5.51). This verse states Suśruta's insistence on practical anatomy.",
+      "explanation_hi": "\"जो शरीर (विच्छेदन) और शास्त्र दोनों में प्रत्यक्ष देख चुका है, वही विशारद होता है; देखे और सुने से संशय दूर करके कर्म करे\" (सु.शा. 5.51)। यह सुश्रुत के प्रायोगिक शारीर पर बल का श्लोक है।",
+      "reference": "SS.sharira.5.51",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0009",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-garbha",
+      "topic_en": "Garbha Śārīra",
+      "topic_hi": "गर्भ शारीर",
+      "type": "mcq",
+      "question_en": "According to Caraka, the term 'garbha' applies when which three unite in the uterus?",
+      "question_hi": "चरक के अनुसार गर्भाशय में किन तीन के संयोग से 'गर्भ' संज्ञा होती है?",
+      "options": [
+        {
+          "en": "Vāta, pitta, kapha",
+          "hi": "वात, पित्त, कफ"
+        },
+        {
+          "en": "Rasa, rakta, māṃsa",
+          "hi": "रस, रक्त, मांस"
+        },
+        {
+          "en": "Śukra, śoṇita and jīva",
+          "hi": "शुक्र, शोणित और जीव"
+        },
+        {
+          "en": "Manas, buddhi, ahaṅkāra",
+          "hi": "मन, बुद्धि, अहंकार"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "CS Śā 4.5: \"śukraśoṇitajīvasaṃyoge tu khalu kukṣigate garbhasaṃjñā bhavati\". Without the jīva (ātmā), śukra and śoṇita alone do not make a garbha.",
+      "explanation_hi": "च.शा. 4.5: \"शुक्रशोणितजीवसंयोगे तु खलु कुक्षिगते गर्भसंज्ञा भवति\"। जीव (आत्मा) के बिना केवल शुक्र-शोणित से गर्भ नहीं होता।",
+      "reference": "CS.sharira.4.5",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0010",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-garbha",
+      "topic_en": "Garbha Śārīra",
+      "topic_hi": "गर्भ शारीर",
+      "type": "mcq",
+      "question_en": "According to Suśruta, in the first month the embryo is in which form?",
+      "question_hi": "सुश्रुत के अनुसार प्रथम मास में गर्भ किस रूप में होता है?",
+      "options": [
+        {
+          "en": "Ghana",
+          "hi": "घन"
+        },
+        {
+          "en": "Peśī",
+          "hi": "पेशी"
+        },
+        {
+          "en": "Piṇḍa",
+          "hi": "पिण्ड"
+        },
+        {
+          "en": "Kalala",
+          "hi": "कलल"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "SS Śā 3.18: first month kalala (jelly-like); second month ghana (solid), which is piṇḍa if male, peśī if female, arbuda if napuṃsaka.",
+      "explanation_hi": "सु.शा. 3.18: प्रथम मास कलल; द्वितीय मास घन - पुरुष में पिण्ड, स्त्री में पेशी और नपुंसक में अर्बुद।",
+      "reference": "SS.sharira.3.18",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0011",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-garbha",
+      "topic_en": "Garbha Śārīra",
+      "topic_hi": "गर्भ शारीर",
+      "type": "mcq",
+      "question_en": "In the second month, according to Caraka, a 'peśī' shaped mass indicates a:",
+      "question_hi": "चरक के अनुसार द्वितीय मास में 'पेशी' आकार का पिण्ड किसका सूचक है?",
+      "options": [
+        {
+          "en": "Female foetus",
+          "hi": "स्त्री गर्भ"
+        },
+        {
+          "en": "Male foetus",
+          "hi": "पुरुष गर्भ"
+        },
+        {
+          "en": "Napuṃsaka (neuter) foetus",
+          "hi": "नपुंसक गर्भ"
+        },
+        {
+          "en": "Twins",
+          "hi": "जुड़वाँ"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "CS Śā 4.10: \"tatra ghanaḥ puruṣaḥ peśī strī arbudaṃ napuṃsakam\": ghana (piṇḍa) - male, peśī - female, arbuda - napuṃsaka.",
+      "explanation_hi": "च.शा. 4.10: \"तत्र घनः पुरुषः पेशी स्त्री अर्बुदं नपुंसकम्\" - घन (पिण्ड) पुरुष, पेशी स्त्री, अर्बुद नपुंसक।",
+      "reference": "CS.sharira.4.10",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0012",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-garbha",
+      "topic_en": "Garbha Śārīra",
+      "topic_hi": "गर्भ शारीर",
+      "type": "mcq",
+      "question_en": "According to Caraka, in which month do all the indriyas and all the limbs appear simultaneously?",
+      "question_hi": "चरक के अनुसार किस मास में सब इन्द्रियाँ और सब अंग-अवयव एक साथ प्रकट होते हैं?",
+      "options": [
+        {
+          "en": "Second",
+          "hi": "द्वितीय"
+        },
+        {
+          "en": "Third",
+          "hi": "तृतीय"
+        },
+        {
+          "en": "Fifth",
+          "hi": "पञ्चम"
+        },
+        {
+          "en": "Seventh",
+          "hi": "सप्तम"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "CS Śā 4.11: \"tṛtīye māsi sarvendriyāṇi sarvāṅgāvayavāś ca yaugapadyenābhinirvartante\".",
+      "explanation_hi": "च.शा. 4.11: \"तृतीये मासि सर्वेन्द्रियाणि सर्वाङ्गावयवाश्च यौगपद्येनाभिनिर्वर्तन्ते\"।",
+      "reference": "CS.sharira.4.11",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0013",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-garbha",
+      "topic_en": "Garbha Śārīra",
+      "topic_hi": "गर्भ शारीर",
+      "type": "mcq",
+      "question_en": "According to Suśruta, in which month does the manas become more awakened (pratibuddhatara)?",
+      "question_hi": "सुश्रुत के अनुसार किस मास में मन अधिक प्रबुद्ध होता है?",
+      "options": [
+        {
+          "en": "Fourth",
+          "hi": "चतुर्थ"
+        },
+        {
+          "en": "Fifth",
+          "hi": "पञ्चम"
+        },
+        {
+          "en": "Sixth",
+          "hi": "षष्ठ"
+        },
+        {
+          "en": "Seventh",
+          "hi": "सप्तम"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "SS Śā 3.30: fifth month manas, sixth month buddhi, seventh month clear division of all aṅga-pratyaṅga, eighth month ojas unstable.",
+      "explanation_hi": "सु.शा. 3.30: पञ्चम मास मन, षष्ठ मास बुद्धि, सप्तम मास सब अंग-प्रत्यंगों का स्पष्ट विभाग, अष्टम मास ओज अस्थिर।",
+      "reference": "SS.sharira.3.30",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0014",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-garbha",
+      "topic_en": "Garbha Śārīra",
+      "topic_hi": "गर्भ शारीर",
+      "type": "mcq",
+      "question_en": "Why does a baby born in the eighth month usually not survive, according to Suśruta?",
+      "question_hi": "सुश्रुत के अनुसार आठवें मास में जन्मा शिशु प्रायः क्यों नहीं जीता?",
+      "options": [
+        {
+          "en": "Ojas is unstable (moving between mother and foetus)",
+          "hi": "ओज अस्थिर रहता है (माता और गर्भ के बीच आता-जाता है)"
+        },
+        {
+          "en": "Its buddhi has not developed",
+          "hi": "बुद्धि विकसित नहीं होती"
+        },
+        {
+          "en": "Its bones are not formed",
+          "hi": "अस्थियाँ नहीं बनतीं"
+        },
+        {
+          "en": "Its heart has not formed",
+          "hi": "हृदय नहीं बना होता"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "SS Śā 3.30: \"aṣṭame 'sthirībhavaty ojas tatra jātaś cen na jīven nirojastvān nairṛtabhāgatvāc ca\".",
+      "explanation_hi": "सु.शा. 3.30: \"अष्टमेऽस्थिरीभवत्योजस्तत्र जातश्चेन्न जीवेन्निरोजस्त्वान्नैरृतभागत्वाच्च\"।",
+      "reference": "SS.sharira.3.30",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0015",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-garbha",
+      "topic_en": "Garbha Śārīra",
+      "topic_hi": "गर्भ शारीर",
+      "type": "mcq",
+      "question_en": "According to Suśruta, which of the following is a pitṛja (paternal) bhāva?",
+      "question_hi": "सुश्रुत के अनुसार इनमें से कौन पितृज भाव है?",
+      "options": [
+        {
+          "en": "Māṃsa",
+          "hi": "मांस"
+        },
+        {
+          "en": "Hṛdaya",
+          "hi": "हृदय"
+        },
+        {
+          "en": "Asthi",
+          "hi": "अस्थि"
+        },
+        {
+          "en": "Yakṛt",
+          "hi": "यकृत्"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "SS Śā 3.33: firm (sthira) parts - keśa, śmaśru, loma, asthi, nakha, danta, sirā, snāyu, dhamanī, retas - are pitṛja; soft (mṛdu) parts - māṃsa, śoṇita, medas, majjā, hṛdaya, nābhi, yakṛt, plīhā, antra, guda - are mātṛja.",
+      "explanation_hi": "सु.शा. 3.33: स्थिर भाग - केश, श्मश्रु, लोम, अस्थि, नख, दन्त, सिरा, स्नायु, धमनी, रेतस् - पितृज हैं; मृदु भाग - मांस, शोणित, मेद, मज्जा, हृदय, नाभि, यकृत्, प्लीहा, आन्त्र, गुद - मातृज हैं।",
+      "reference": "SS.sharira.3.33",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0016",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-garbha",
+      "topic_en": "Garbha Śārīra",
+      "topic_hi": "गर्भ शारीर",
+      "type": "true_false",
+      "question_en": "According to Suśruta, hṛdaya and yakṛt are mātṛja bhāvas.",
+      "question_hi": "सुश्रुत के अनुसार हृदय और यकृत् मातृज भाव हैं।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "True. SS Śā 3.33 lists hṛdaya, nābhi, yakṛt, plīhā, antra and guda among the soft, mātṛja parts.",
+      "explanation_hi": "सत्य। सु.शा. 3.33 में हृदय, नाभि, यकृत्, प्लीहा, आन्त्र और गुद मृदु, मातृज भागों में गिनाए गए हैं।",
+      "reference": "SS.sharira.3.33",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0017",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-garbha",
+      "topic_en": "Garbha Śārīra",
+      "topic_hi": "गर्भ शारीर",
+      "type": "mcq",
+      "question_en": "How many garbhakara bhāvas (factors forming the foetus) does Caraka describe?",
+      "question_hi": "चरक कितने गर्भकर भाव बताते हैं?",
+      "options": [
+        {
+          "en": "Four",
+          "hi": "चार"
+        },
+        {
+          "en": "Five",
+          "hi": "पाँच"
+        },
+        {
+          "en": "Eight",
+          "hi": "आठ"
+        },
+        {
+          "en": "Six",
+          "hi": "छह"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "Caraka Śā 3 (Khuḍḍikāgarbhāvakrānti): mātṛja, pitṛja, ātmaja, sātmyaja, rasaja and sattvaja = six.",
+      "explanation_hi": "चरक शा. 3 (खुड्डिकागर्भावक्रान्ति): मातृज, पितृज, आत्मज, सात्म्यज, रसज और सत्त्वज = छह।",
+      "reference": "CS.sharira.3",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0018",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-garbha",
+      "topic_en": "Garbha Śārīra",
+      "topic_hi": "गर्भ शारीर",
+      "type": "mcq",
+      "question_en": "According to Suśruta, the phupphusa (lung) develops from:",
+      "question_hi": "सुश्रुत के अनुसार फुफ्फुस किससे बनता है?",
+      "options": [
+        {
+          "en": "The kiṭṭa (dregs) of śoṇita",
+          "hi": "शोणित के किट्ट से"
+        },
+        {
+          "en": "Prasāda of rakta and medas",
+          "hi": "रक्त और मेद के प्रसाद से"
+        },
+        {
+          "en": "Prasāda of kapha and māṃsa",
+          "hi": "कफ और मांस के प्रसाद से"
+        },
+        {
+          "en": "The froth (phena) of śoṇita",
+          "hi": "शोणित के फेन से"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "SS Śā 4.25: yakṛt and plīhā from śoṇita, phupphusa from śoṇita-phena, uṇḍuka from śoṇita-kiṭṭa. Vṛkka is from rakta-medas prasāda (4.31).",
+      "explanation_hi": "सु.शा. 4.25: यकृत्-प्लीहा शोणित से, फुफ्फुस शोणित-फेन से, उण्डुक शोणित-किट्ट से। वृक्क रक्त-मेद प्रसाद से बनते हैं (4.31)।",
+      "reference": "SS.sharira.4.25",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0019",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-garbha",
+      "topic_en": "Garbha Śārīra",
+      "topic_hi": "गर्भ शारीर",
+      "type": "mcq",
+      "question_en": "According to Suśruta, the vṛkka (kidneys) are formed from the prasāda (essence) of:",
+      "question_hi": "सुश्रुत के अनुसार वृक्क किसके प्रसाद से बनते हैं?",
+      "options": [
+        {
+          "en": "Śoṇita and kapha",
+          "hi": "शोणित और कफ"
+        },
+        {
+          "en": "Rakta and medas",
+          "hi": "रक्त और मेद"
+        },
+        {
+          "en": "Māṃsa, asṛk, kapha and medas",
+          "hi": "मांस, असृक्, कफ और मेद"
+        },
+        {
+          "en": "Kapha, śoṇita and māṃsa",
+          "hi": "कफ, शोणित और मांस"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "SS Śā 4.31: vṛkka from rakta-medas prasāda; vṛṣaṇa from māṃsa-asṛk-kapha-medas prasāda; hṛdaya from śoṇita-kapha prasāda. Jihvā is from the sāra of kapha, śoṇita and māṃsa (4.28).",
+      "explanation_hi": "सु.शा. 4.31: वृक्क रक्त-मेद प्रसाद से; वृषण मांस-असृक्-कफ-मेद प्रसाद से; हृदय शोणित-कफ प्रसाद से। जिह्वा कफ, शोणित, मांस के सार से बनती है (4.28)।",
+      "reference": "SS.sharira.4.31",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0020",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-garbha",
+      "topic_en": "Garbha Śārīra",
+      "topic_hi": "गर्भ शारीर",
+      "type": "mcq",
+      "question_en": "According to Suśruta, hṛdaya is formed from the prasāda of:",
+      "question_hi": "सुश्रुत के अनुसार हृदय किसके प्रसाद से बनता है?",
+      "options": [
+        {
+          "en": "Śoṇita and kapha",
+          "hi": "शोणित और कफ"
+        },
+        {
+          "en": "Rakta and medas",
+          "hi": "रक्त और मेद"
+        },
+        {
+          "en": "Śoṇita phena",
+          "hi": "शोणित फेन"
+        },
+        {
+          "en": "Māṃsa and medas",
+          "hi": "मांस और मेद"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "SS Śā 4.31: \"śoṇitakaphaprasādajaṃ hṛdayam\", the seat of the prāṇavaha dhamanīs and especially of cetanā.",
+      "explanation_hi": "सु.शा. 4.31: \"शोणितकफप्रसादजं हृदयम्\" - यह प्राणवह धमनियों का आश्रय और विशेष रूप से चेतना का स्थान है।",
+      "reference": "SS.sharira.4.31",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0021",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-garbha",
+      "topic_en": "Garbha Śārīra",
+      "topic_hi": "गर्भ शारीर",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Suśrutasaṃhitā Śārīrasthāna 4.28). Choose the correct second half of the śloka that begins as shown.",
+      "question_hi": "श्लोक पूरा कीजिए (सुश्रुतसंहिता शारीरस्थान 4.28)। दिए गए पूर्वार्ध का सही उत्तरार्ध चुनिए।",
+      "question_sa": "कफशोणितमांसानां सारो जिह्वा प्रजायते ।",
+      "options": [
+        {
+          "en": "medasaḥ snehamādāya sirāsnāyutvamāpnuyāt",
+          "hi": "मेदसः स्नेहमादाय सिरास्नायुत्वमाप्नुयात्"
+        },
+        {
+          "en": "āśayyābhyāsayogena karotyāśayasaṃbhavam",
+          "hi": "आशय्याभ्यासयोगेन करोत्याशयसंभवम्"
+        },
+        {
+          "en": "yathārtham ūṣmaṇā yukto vāyuḥ srotāṃsi dārayet",
+          "hi": "यथार्थमूष्मणा युक्तो वायुः स्रोतांसि दारयेत्"
+        },
+        {
+          "en": "taṃ pacyamānaṃ pittena vāyuścāpyanudhāvati",
+          "hi": "तं पच्यमानं पित्तेन वायुश्चाप्यनुधावति"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "\"The jihvā (tongue) arises from the essence of kapha, śoṇita and māṃsa; vāyu, joined with ūṣmā, opens up the srotas as needed\" (SS Śā 4.28).",
+      "explanation_hi": "\"कफ, शोणित और मांस के सार से जिह्वा बनती है; ऊष्मा से युक्त वायु यथावश्यक स्रोतों का निर्माण (विदारण) करता है\" (सु.शा. 4.28)।",
+      "reference": "SS.sharira.4.28",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0022",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-garbha",
+      "topic_en": "Garbha Śārīra",
+      "topic_hi": "गर्भ शारीर",
+      "type": "true_false",
+      "question_en": "According to Suśruta, the uṇḍuka (caecum) is formed from the froth of śoṇita.",
+      "question_hi": "सुश्रुत के अनुसार उण्डुक शोणित के फेन से बनता है।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "False. Uṇḍuka arises from śoṇita-kiṭṭa (dregs of blood); it is the phupphusa that arises from śoṇita-phena (SS Śā 4.25).",
+      "explanation_hi": "असत्य। उण्डुक शोणित-किट्ट से बनता है; शोणित-फेन से फुफ्फुस बनता है (सु.शा. 4.25)।",
+      "reference": "SS.sharira.4.25",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0023",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-marma",
+      "topic_en": "Marma Śārīra",
+      "topic_hi": "मर्म शारीर",
+      "type": "mcq",
+      "question_en": "How many marmas are described by Suśruta?",
+      "question_hi": "सुश्रुत कितने मर्म बताते हैं?",
+      "options": [
+        {
+          "en": "101",
+          "hi": "101"
+        },
+        {
+          "en": "107",
+          "hi": "107"
+        },
+        {
+          "en": "108",
+          "hi": "108"
+        },
+        {
+          "en": "210",
+          "hi": "210"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "SS Śā 6.3: \"saptottaraṃ marmaśatam\" (107). Caraka (Śā 7.14) and Vāgbhaṭa also give 107. 101 is Suśruta's number of yantras and 210 his number of sandhis.",
+      "explanation_hi": "सु.शा. 6.3: \"सप्तोत्तरं मर्मशतम्\" (107)। चरक (शा. 7.14) और वाग्भट भी 107 बताते हैं। 101 सुश्रुत के यन्त्रों की और 210 सन्धियों की संख्या है।",
+      "reference": "SS.sharira.6.3",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0024",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-marma",
+      "topic_en": "Marma Śārīra",
+      "topic_hi": "मर्म शारीर",
+      "type": "mcq",
+      "question_en": "Suśruta defines marma as:",
+      "question_hi": "सुश्रुत मर्म की परिभाषा देते हैं:",
+      "options": [
+        {
+          "en": "The meeting place (sannipāta) of māṃsa, sirā, snāyu, asthi and sandhi, where prāṇa especially resides",
+          "hi": "मांस, सिरा, स्नायु, अस्थि और सन्धि का सन्निपात, जहाँ प्राण विशेष रूप से रहते हैं"
+        },
+        {
+          "en": "A joint of two bones only",
+          "hi": "केवल दो अस्थियों की सन्धि"
+        },
+        {
+          "en": "A large blood vessel",
+          "hi": "एक बड़ी रक्तवाहिनी"
+        },
+        {
+          "en": "Any painful point on the skin",
+          "hi": "त्वचा पर कोई भी पीड़ा-बिन्दु"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "SS Śā 6.15: \"marmāṇi nāma māṃsa-sirā-snāyv-asthi-sandhi-saṃnipātāḥ, teṣu svabhāvata eva viśeṣeṇa prāṇās tiṣṭhanti\"; injury to them produces the corresponding effects.",
+      "explanation_hi": "सु.शा. 6.15: \"मर्माणि नाम मांससिरास्नाय्वस्थिसन्धिसंनिपाताः, तेषु स्वभावत एव विशेषेण प्राणास्तिष्ठन्ति\"; इन पर आघात से विशेष परिणाम होते हैं।",
+      "reference": "SS.sharira.6.15",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0025",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-marma",
+      "topic_en": "Marma Śārīra",
+      "topic_hi": "मर्म शारीर",
+      "type": "mcq",
+      "question_en": "According to Suśruta's structural (racanā) classification, the largest group of marmas is:",
+      "question_hi": "सुश्रुत के रचना-आधारित वर्गीकरण में सबसे बड़ा मर्म-समूह है:",
+      "options": [
+        {
+          "en": "Māṃsa marma",
+          "hi": "मांस मर्म"
+        },
+        {
+          "en": "Snāyu marma",
+          "hi": "स्नायु मर्म"
+        },
+        {
+          "en": "Sandhi marma",
+          "hi": "सन्धि मर्म"
+        },
+        {
+          "en": "Sirā marma",
+          "hi": "सिरा मर्म"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "SS Śā 6.4: māṃsa 11, sirā 41, snāyu 27, asthi 8, sandhi 20 = 107.",
+      "explanation_hi": "सु.शा. 6.4: मांस 11, सिरा 41, स्नायु 27, अस्थि 8, सन्धि 20 = 107।",
+      "reference": "SS.sharira.6.4",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0026",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-marma",
+      "topic_en": "Marma Śārīra",
+      "topic_hi": "मर्म शारीर",
+      "type": "mcq",
+      "question_en": "How many asthi marmas does Suśruta describe?",
+      "question_hi": "सुश्रुत कितने अस्थि मर्म बताते हैं?",
+      "options": [
+        {
+          "en": "Eleven",
+          "hi": "ग्यारह"
+        },
+        {
+          "en": "Twenty",
+          "hi": "बीस"
+        },
+        {
+          "en": "Eight",
+          "hi": "आठ"
+        },
+        {
+          "en": "Twenty-seven",
+          "hi": "सत्ताईस"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "SS Śā 6.4: asthi marmas are 8 (kaṭīkataruṇa 2, nitamba 2, aṃsaphalaka 2, śaṅkha 2). Eleven are māṃsa, 20 sandhi, 27 snāyu.",
+      "explanation_hi": "सु.शा. 6.4: अस्थि मर्म 8 हैं (कटीकतरुण 2, नितम्ब 2, अंसफलक 2, शङ्ख 2)। 11 मांस, 20 सन्धि और 27 स्नायु मर्म हैं।",
+      "reference": "SS.sharira.6.4",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0027",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-marma",
+      "topic_en": "Marma Śārīra",
+      "topic_hi": "मर्म शारीर",
+      "type": "mcq",
+      "question_en": "According to Suśruta, the number of snāyu marmas is:",
+      "question_hi": "सुश्रुत के अनुसार स्नायु मर्मों की संख्या है:",
+      "options": [
+        {
+          "en": "Twenty-seven",
+          "hi": "सत्ताईस"
+        },
+        {
+          "en": "Eleven",
+          "hi": "ग्यारह"
+        },
+        {
+          "en": "Twenty",
+          "hi": "बीस"
+        },
+        {
+          "en": "Forty-one",
+          "hi": "इकतालीस"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "SS Śā 6.4: snāyu marmas 27 (e.g. kṣipra, kūrca, basti, utkṣepa, viṭapa, kakṣadhara). Forty-one is the sirā marma count.",
+      "explanation_hi": "सु.शा. 6.4: स्नायु मर्म 27 (जैसे क्षिप्र, कूर्च, बस्ति, उत्क्षेप, विटप, कक्षधर)। इकतालीस सिरा मर्मों की संख्या है।",
+      "reference": "SS.sharira.6.4",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0028",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-marma",
+      "topic_en": "Marma Śārīra",
+      "topic_hi": "मर्म शारीर",
+      "type": "mcq",
+      "question_en": "According to Suśruta, how many marmas are present in each upper or lower limb (śākhā)?",
+      "question_hi": "सुश्रुत के अनुसार प्रत्येक शाखा (हाथ या पैर) में कितने मर्म हैं?",
+      "options": [
+        {
+          "en": "Seven",
+          "hi": "सात"
+        },
+        {
+          "en": "Nine",
+          "hi": "नौ"
+        },
+        {
+          "en": "Eleven",
+          "hi": "ग्यारह"
+        },
+        {
+          "en": "Fourteen",
+          "hi": "चौदह"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "SS Śā 6.5: 11 in each limb (44 in all four), 12 in udara-uras, 14 in pṛṣṭha, 37 above the clavicle.",
+      "explanation_hi": "सु.शा. 6.5: प्रत्येक शाखा में 11 (चारों में 44), उदर-उरस् में 12, पृष्ठ में 14 और जत्रु से ऊपर 37।",
+      "reference": "SS.sharira.6.5",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0029",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-marma",
+      "topic_en": "Marma Śārīra",
+      "topic_hi": "मर्म शारीर",
+      "type": "mcq",
+      "question_en": "How many marmas are located above the clavicle (jatrūrdhva) according to Suśruta?",
+      "question_hi": "सुश्रुत के अनुसार जत्रु से ऊपर कितने मर्म हैं?",
+      "options": [
+        {
+          "en": "Twelve",
+          "hi": "बारह"
+        },
+        {
+          "en": "Fourteen",
+          "hi": "चौदह"
+        },
+        {
+          "en": "Forty-four",
+          "hi": "चवालीस"
+        },
+        {
+          "en": "Thirty-seven",
+          "hi": "सैंतीस"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "SS Śā 6.5: \"grīvāṃ pratyūrdhvaṃ saptatriṃśat\" (37). Twelve are in udara-uras, 14 in pṛṣṭha, 44 in the four limbs.",
+      "explanation_hi": "सु.शा. 6.5: \"ग्रीवां प्रत्यूर्ध्वं सप्तत्रिंशत्\" (37)। 12 उदर-उरस् में, 14 पृष्ठ में और 44 चारों शाखाओं में हैं।",
+      "reference": "SS.sharira.6.5",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0030",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-marma",
+      "topic_en": "Marma Śārīra",
+      "topic_hi": "मर्म शारीर",
+      "type": "mcq",
+      "question_en": "How many sadyaḥprāṇahara marmas (causing quick death when injured) are there according to Suśruta?",
+      "question_hi": "सुश्रुत के अनुसार सद्यःप्राणहर मर्म कितने हैं?",
+      "options": [
+        {
+          "en": "Three",
+          "hi": "तीन"
+        },
+        {
+          "en": "Nineteen",
+          "hi": "उन्नीस"
+        },
+        {
+          "en": "Eight",
+          "hi": "आठ"
+        },
+        {
+          "en": "Thirty-three",
+          "hi": "तैंतीस"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "SS Śā 6.8: sadyaḥprāṇahara 19, kālāntaraprāṇahara 33, viśalyaghna 3, vaikalyakara 44, rujākara 8.",
+      "explanation_hi": "सु.शा. 6.8: सद्यःप्राणहर 19, कालान्तरप्राणहर 33, विशल्यघ्न 3, वैकल्यकर 44, रुजाकर 8।",
+      "reference": "SS.sharira.6.8",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0031",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-marma",
+      "topic_en": "Marma Śārīra",
+      "topic_hi": "मर्म शारीर",
+      "type": "mcq",
+      "question_en": "The largest group of marmas by effect of injury (pariṇāma) in Suśruta is:",
+      "question_hi": "आघात के परिणाम के अनुसार सुश्रुत में सबसे बड़ा मर्म-समूह है:",
+      "options": [
+        {
+          "en": "Kālāntaraprāṇahara",
+          "hi": "कालान्तरप्राणहर"
+        },
+        {
+          "en": "Vaikalyakara",
+          "hi": "वैकल्यकर"
+        },
+        {
+          "en": "Sadyaḥprāṇahara",
+          "hi": "सद्यःप्राणहर"
+        },
+        {
+          "en": "Rujākara",
+          "hi": "रुजाकर"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "Vaikalyakara (deformity-causing) marmas are 44, more than kālāntaraprāṇahara (33) and sadyaḥprāṇahara (19).",
+      "explanation_hi": "वैकल्यकर मर्म 44 हैं, जो कालान्तरप्राणहर (33) और सद्यःप्राणहर (19) से अधिक हैं।",
+      "reference": "SS.sharira.6.8",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0032",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-marma",
+      "topic_en": "Marma Śārīra",
+      "topic_hi": "मर्म शारीर",
+      "type": "mcq",
+      "question_en": "Which marmas are viśalyaghna (fatal when the foreign body is removed)?",
+      "question_hi": "कौन-से मर्म विशल्यघ्न हैं (शल्य निकालने पर प्राणघातक)?",
+      "options": [
+        {
+          "en": "Gulpha, maṇibandha, kūrcaśiras",
+          "hi": "गुल्फ, मणिबन्ध, कूर्चशिर"
+        },
+        {
+          "en": "Hṛdaya, basti, nābhi",
+          "hi": "हृदय, बस्ति, नाभि"
+        },
+        {
+          "en": "Utkṣepa (2) and sthapanī (1)",
+          "hi": "उत्क्षेप (2) और स्थपनी (1)"
+        },
+        {
+          "en": "Kṣipra and tala",
+          "hi": "क्षिप्र और तल"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "SS Śā 6.11: \"utkṣepau sthapanī caiva viśalyaghnāni nirdiśet\" (3). Gulpha etc. are rujākara; hṛdaya, basti, nābhi are sadyaḥprāṇahara; kṣipra and tala are kālāntaraprāṇahara.",
+      "explanation_hi": "सु.शा. 6.11: \"उत्क्षेपौ स्थपनी चैव विशल्यघ्नानि निर्दिशेत्\" (3)। गुल्फ आदि रुजाकर; हृदय, बस्ति, नाभि सद्यःप्राणहर; क्षिप्र और तल कालान्तरप्राणहर हैं।",
+      "reference": "SS.sharira.6.11",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0033",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-marma",
+      "topic_en": "Marma Śārīra",
+      "topic_hi": "मर्म शारीर",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Suśrutasaṃhitā Śārīrasthāna 6.11). Choose the correct second half of the śloka that begins as shown.",
+      "question_hi": "श्लोक पूरा कीजिए (सुश्रुतसंहिता शारीरस्थान 6.11)। दिए गए पूर्वार्ध का सही उत्तरार्ध चुनिए।",
+      "question_sa": "नितम्बाविति चैतानि कालान्तरहराणि तु ।",
+      "options": [
+        {
+          "en": "utkṣepau sthapanī caiva viśalyaghnāni nirdiśet",
+          "hi": "उत्क्षेपौ स्थपनी चैव विशल्यघ्नानि निर्दिशेत्"
+        },
+        {
+          "en": "vaikalyakaraṇānyāhurāvartau dvau tathaiva ca",
+          "hi": "वैकल्यकरणान्याहुरावर्तौ द्वौ तथैव च"
+        },
+        {
+          "en": "kukundare kakṣadhare vidhure sakṛkāṭike",
+          "hi": "कुकुन्दरे कक्षधरे विधुरे सकृकाटिके"
+        },
+        {
+          "en": "kurvantyante ca vaikalyaṃ kuvaidyavaśago yadi",
+          "hi": "कुर्वन्त्यन्ते च वैकल्यं कुवैद्यवशगो यदि"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "\"...and the two nitambas: these are kālāntaraprāṇahara; the two utkṣepas and the sthapanī should be known as viśalyaghna\" (SS Śā 6.11).",
+      "explanation_hi": "\"...और दोनों नितम्ब - ये कालान्तरप्राणहर हैं; दोनों उत्क्षेप और स्थपनी को विशल्यघ्न जानें\" (सु.शा. 6.11)।",
+      "reference": "SS.sharira.6.11",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0034",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-marma",
+      "topic_en": "Marma Śārīra",
+      "topic_hi": "मर्म शारीर",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Suśrutasaṃhitā Śārīrasthāna 6.9). Choose the correct second half of the śloka that begins as shown.",
+      "question_hi": "श्लोक पूरा कीजिए (सुश्रुतसंहिता शारीरस्थान 6.9)। दिए गए पूर्वार्ध का सही उत्तरार्ध चुनिए।",
+      "question_sa": "शृङ्गाटकान्यधिपतिः शङ्खौ कण्ठसिरा गुदम् ।",
+      "options": [
+        {
+          "en": "kaṭīkataruṇe sandhī pārśvajau bṛhatī ca yā",
+          "hi": "कटीकतरुणे सन्धी पार्श्वजौ बृहती च या"
+        },
+        {
+          "en": "viśalyaghneṣu vijñeyaṃ pūrvoktaṃ yacca kāraṇam",
+          "hi": "विशल्यघ्नेषु विज्ञेयं पूर्वोक्तं यच्च कारणम्"
+        },
+        {
+          "en": "utkṣepau sthapanī caiva viśalyaghnāni nirdiśet",
+          "hi": "उत्क्षेपौ स्थपनी चैव विशल्यघ्नानि निर्दिशेत्"
+        },
+        {
+          "en": "hṛdayaṃ bastinābhī ca ghnanti sadyo hatāni tu",
+          "hi": "हृदयं बस्तिनाभी च घ्नन्ति सद्यो हतानि तु"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "\"Śṛṅgāṭakas, adhipati, the two śaṅkhas, kaṇṭhasirā (mātṛkā), guda, hṛdaya, basti and nābhi kill quickly when injured\" (SS Śā 6.9): the 19 sadyaḥprāṇahara marmas.",
+      "explanation_hi": "\"शृङ्गाटक, अधिपति, दोनों शङ्ख, कण्ठसिरा (मातृका), गुद, हृदय, बस्ति और नाभि - इन पर आघात होने पर ये शीघ्र मारते हैं\" (सु.शा. 6.9) - 19 सद्यःप्राणहर मर्म।",
+      "reference": "SS.sharira.6.9",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0035",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-marma",
+      "topic_en": "Marma Śārīra",
+      "topic_hi": "मर्म शारीर",
+      "type": "mcq",
+      "question_en": "Which group of marmas is rujākara (causing pain)?",
+      "question_hi": "कौन-सा मर्म-समूह रुजाकर (पीड़ाकारक) है?",
+      "options": [
+        {
+          "en": "Utkṣepa and sthapanī",
+          "hi": "उत्क्षेप और स्थपनी"
+        },
+        {
+          "en": "Śṛṅgāṭaka (4) and adhipati",
+          "hi": "शृङ्गाटक (4) और अधिपति"
+        },
+        {
+          "en": "Aṃsa, nīlā and manyā",
+          "hi": "अंस, नीला और मन्या"
+        },
+        {
+          "en": "Gulpha (2), maṇibandha (2) and kūrcaśiras (4)",
+          "hi": "गुल्फ (2), मणिबन्ध (2) और कूर्चशिर (4)"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "SS Śā 6.14: \"gulphau dvau maṇibandhau dvau dve dve kūrcaśirāṃsi ca, rujākarāṇi\" (8). Aṃsa, nīlā, manyā are vaikalyakara.",
+      "explanation_hi": "सु.शा. 6.14: \"गुल्फौ द्वौ मणिबन्धौ द्वौ द्वे द्वे कूर्चशिरांसि च, रुजाकराणि\" (8)। अंस, नीला, मन्या वैकल्यकर हैं।",
+      "reference": "SS.sharira.6.14",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0036",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-marma",
+      "topic_en": "Marma Śārīra",
+      "topic_hi": "मर्म शारीर",
+      "type": "mcq",
+      "question_en": "Which of the following is NOT a sadyaḥprāṇahara marma?",
+      "question_hi": "इनमें से कौन सद्यःप्राणहर मर्म नहीं है?",
+      "options": [
+        {
+          "en": "Kṣipra",
+          "hi": "क्षिप्र"
+        },
+        {
+          "en": "Adhipati",
+          "hi": "अधिपति"
+        },
+        {
+          "en": "Śaṅkha",
+          "hi": "शङ्ख"
+        },
+        {
+          "en": "Basti",
+          "hi": "बस्ति"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "Kṣipra (between the great toe/thumb and the second digit) is kālāntaraprāṇahara (SS Śā 6.10). The sadyaḥprāṇahara are śṛṅgāṭaka, adhipati, śaṅkha, kaṇṭhasirā, guda, hṛdaya, basti and nābhi.",
+      "explanation_hi": "क्षिप्र (अंगूठे और दूसरी अंगुली के बीच) कालान्तरप्राणहर है (सु.शा. 6.10)। सद्यःप्राणहर हैं शृङ्गाटक, अधिपति, शङ्ख, कण्ठसिरा, गुद, हृदय, बस्ति और नाभि।",
+      "reference": "SS.sharira.6.9",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0037",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-marma",
+      "topic_en": "Marma Śārīra",
+      "topic_hi": "मर्म शारीर",
+      "type": "mcq",
+      "question_en": "In Suśruta's structural classification, hṛdaya and nābhi are classed as:",
+      "question_hi": "सुश्रुत के रचना वर्गीकरण में हृदय और नाभि किस प्रकार के मर्म हैं?",
+      "options": [
+        {
+          "en": "Māṃsa marma",
+          "hi": "मांस मर्म"
+        },
+        {
+          "en": "Snāyu marma",
+          "hi": "स्नायु मर्म"
+        },
+        {
+          "en": "Sirā marma",
+          "hi": "सिरा मर्म"
+        },
+        {
+          "en": "Sandhi marma",
+          "hi": "सन्धि मर्म"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "SS Śā 6.7 lists hṛdaya and nābhi among sirā marmas. Guda is a māṃsa marma and basti a snāyu marma.",
+      "explanation_hi": "सु.शा. 6.7 में हृदय और नाभि सिरा मर्मों में हैं। गुद मांस मर्म और बस्ति स्नायु मर्म है।",
+      "reference": "SS.sharira.6.7",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0038",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-marma",
+      "topic_en": "Marma Śārīra",
+      "topic_hi": "मर्म शारीर",
+      "type": "mcq",
+      "question_en": "Adhipati marma is classified structurally as a:",
+      "question_hi": "अधिपति मर्म रचना के अनुसार किस प्रकार का है?",
+      "options": [
+        {
+          "en": "Sirā marma",
+          "hi": "सिरा मर्म"
+        },
+        {
+          "en": "Sandhi marma",
+          "hi": "सन्धि मर्म"
+        },
+        {
+          "en": "Asthi marma",
+          "hi": "अस्थि मर्म"
+        },
+        {
+          "en": "Snāyu marma",
+          "hi": "स्नायु मर्म"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "SS Śā 6.7 places jānu, kūrpara, sīmanta, adhipati, gulpha, maṇibandha, kukundara, āvarta and kṛkāṭikā among sandhi marmas. Śaṅkha is an asthi marma.",
+      "explanation_hi": "सु.शा. 6.7 में जानु, कूर्पर, सीमन्त, अधिपति, गुल्फ, मणिबन्ध, कुकुन्दर, आवर्त और कृकाटिका सन्धि मर्म हैं। शङ्ख अस्थि मर्म है।",
+      "reference": "SS.sharira.6.7",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0039",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-marma",
+      "topic_en": "Marma Śārīra",
+      "topic_hi": "मर्म शारीर",
+      "type": "mcq",
+      "question_en": "The size (pramāṇa) of hṛdaya, basti, kūrca, guda and nābhi marmas, according to Suśruta, is:",
+      "question_hi": "सुश्रुत के अनुसार हृदय, बस्ति, कूर्च, गुद और नाभि मर्मों का प्रमाण है:",
+      "options": [
+        {
+          "en": "One's own pāṇitala (palm, about four aṅgula)",
+          "hi": "अपना पाणितल (लगभग चार अंगुल)"
+        },
+        {
+          "en": "Half aṅgula",
+          "hi": "अर्ध अंगुल"
+        },
+        {
+          "en": "One aṅgula",
+          "hi": "एक अंगुल"
+        },
+        {
+          "en": "Two aṅgula",
+          "hi": "दो अंगुल"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "SS Śā 6.29: these (and some in the head and neck) are \"svapāṇitalakuñcitasaṃmita\", the size of one's own cupped palm; the rest are half an aṅgula. Ūrvī, viṭapa etc. are one aṅgula; maṇibandha and gulpha two (6.28).",
+      "explanation_hi": "सु.शा. 6.29: ये (और सिर-गले के कुछ) \"स्वपाणितलकुञ्चितसंमित\" अर्थात् अपनी मुड़ी हथेली जितने हैं; शेष अर्ध अंगुल। ऊर्वी, विटप आदि एक अंगुल और मणिबन्ध, गुल्फ दो अंगुल हैं (6.28)।",
+      "reference": "SS.sharira.6.29",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0040",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-marma",
+      "topic_en": "Marma Śārīra",
+      "topic_hi": "मर्म शारीर",
+      "type": "mcq",
+      "question_en": "The pramāṇa of jānu and kūrpara marmas according to Suśruta is:",
+      "question_hi": "सुश्रुत के अनुसार जानु और कूर्पर मर्मों का प्रमाण है:",
+      "options": [
+        {
+          "en": "One aṅgula",
+          "hi": "एक अंगुल"
+        },
+        {
+          "en": "Two aṅgula",
+          "hi": "दो अंगुल"
+        },
+        {
+          "en": "Three aṅgula",
+          "hi": "तीन अंगुल"
+        },
+        {
+          "en": "Half aṅgula",
+          "hi": "अर्ध अंगुल"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "SS Śā 6.28: \"trīṇy eva jānu saparaṃ saha kūrparābhyām\": jānu and kūrpara are three aṅgula; maṇibandha and gulpha two; ūrvī, kūrcaśiras, viṭapa, kakṣadhara, pārśva, stanamūla one.",
+      "explanation_hi": "सु.शा. 6.28: \"त्रीण्येव जानु सपरं सह कूर्पराभ्याम्\" - जानु और कूर्पर तीन अंगुल; मणिबन्ध, गुल्फ दो; ऊर्वी, कूर्चशिर, विटप, कक्षधर, पार्श्व, स्तनमूल एक अंगुल।",
+      "reference": "SS.sharira.6.28",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0041",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-marma",
+      "topic_en": "Marma Śārīra",
+      "topic_hi": "मर्म शारीर",
+      "type": "true_false",
+      "question_en": "According to Suśruta, injury to a sadyaḥprāṇahara marma causes death within seven nights.",
+      "question_hi": "सुश्रुत के अनुसार सद्यःप्राणहर मर्म पर आघात से सात रात के भीतर मृत्यु होती है।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "True. SS Śā 6.23: sadyaḥprāṇahara marmas kill within seven nights (saptarātrābhyantarāt); kālāntaraprāṇahara within a fortnight or a month.",
+      "explanation_hi": "सत्य। सु.शा. 6.23: सद्यःप्राणहर मर्म सात रात के भीतर (सप्तरात्राभ्यन्तरात्) और कालान्तरप्राणहर पक्ष या मास में मारते हैं।",
+      "reference": "SS.sharira.6.23",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0042",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-marma",
+      "topic_en": "Marma Śārīra",
+      "topic_hi": "मर्म शारीर",
+      "type": "true_false",
+      "question_en": "According to Suśruta, sadyaḥprāṇahara marmas are predominantly saumya (of the nature of soma).",
+      "question_hi": "सुश्रुत के अनुसार सद्यःप्राणहर मर्म मुख्यतः सौम्य स्वभाव के हैं।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "False. SS Śā 6.16: sadyaḥprāṇahara marmas are āgneya (their agni guṇas are quickly lost); kālāntaraprāṇahara are saumya-āgneya; viśalyaghna are vāyavya; vaikalyakara are saumya; rujākara are āgneya-vāyavya.",
+      "explanation_hi": "असत्य। सु.शा. 6.16: सद्यःप्राणहर मर्म आग्नेय हैं (अग्निगुण शीघ्र क्षीण होते हैं); कालान्तरप्राणहर सौम्याग्नेय; विशल्यघ्न वायव्य; वैकल्यकर सौम्य; रुजाकर आग्नेयवायव्य।",
+      "reference": "SS.sharira.6.16",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0043",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-marma",
+      "topic_en": "Marma Śārīra",
+      "topic_hi": "मर्म शारीर",
+      "type": "true_false",
+      "question_en": "Suśruta classifies the 107 marmas structurally into five types: māṃsa, sirā, snāyu, asthi and sandhi.",
+      "question_hi": "सुश्रुत 107 मर्मों को रचना के अनुसार पाँच प्रकारों में बाँटते हैं: मांस, सिरा, स्नायु, अस्थि और सन्धि।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "True. SS Śā 6.3-4. (Vāgbhaṭa adds dhamanī marma and distributes the 107 differently, so name the authority in exams.)",
+      "explanation_hi": "सत्य। सु.शा. 6.3-4। (वाग्भट धमनी मर्म भी जोड़ते हैं और 107 को अलग प्रकार से बाँटते हैं, इसलिए परीक्षा में आचार्य का नाम देखें।)",
+      "reference": "SS.sharira.6.4",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0044",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-marma",
+      "topic_en": "Marma Śārīra",
+      "topic_hi": "मर्म शारीर",
+      "type": "mcq",
+      "question_en": "Vāgbhaṭa classifies marmas structurally into six types (ṣoḍhā). How many dhamanī marmas does he describe?",
+      "question_hi": "वाग्भट मर्मों को रचना के अनुसार छह प्रकार (षोढा) में बाँटते हैं। वे कितने धमनी मर्म बताते हैं?",
+      "options": [
+        {
+          "en": "Eight",
+          "hi": "आठ"
+        },
+        {
+          "en": "Twenty",
+          "hi": "बीस"
+        },
+        {
+          "en": "Thirty-seven",
+          "hi": "सैंतीस"
+        },
+        {
+          "en": "Nine",
+          "hi": "नौ"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "AH Śā 4.39-42: māṃsa 10, asthi 8, snāyu 23, dhamanī 9, sirā 37, sandhi 20 = 107. Suśruta has no dhamanī group (māṃsa 11, sirā 41, snāyu 27, asthi 8, sandhi 20).",
+      "explanation_hi": "अ.हृ.शा. 4.39-42: मांस 10, अस्थि 8, स्नायु 23, धमनी 9, सिरा 37, सन्धि 20 = 107। सुश्रुत में धमनी वर्ग नहीं है (मांस 11, सिरा 41, स्नायु 27, अस्थि 8, सन्धि 20)।",
+      "reference": "AH.sharira.4.39",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0045",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-asthi-sandhi",
+      "topic_en": "Asthi and Sandhi",
+      "topic_hi": "अस्थि एवं सन्धि",
+      "type": "mcq",
+      "question_en": "Bone count differs between authorities. Which pairing is correct?",
+      "question_hi": "अस्थि-संख्या आचार्यों में भिन्न है। कौन-सा युग्म सही है?",
+      "options": [
+        {
+          "en": "Caraka 300; Suśruta 360",
+          "hi": "चरक 300; सुश्रुत 360"
+        },
+        {
+          "en": "Caraka 360; Suśruta 300",
+          "hi": "चरक 360; सुश्रुत 300"
+        },
+        {
+          "en": "Both 206",
+          "hi": "दोनों 206"
+        },
+        {
+          "en": "Caraka 300; Suśruta 300",
+          "hi": "चरक 300; सुश्रुत 300"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "CS Śā 7.6: 360 bones including 32 teeth, 32 tooth sockets and 20 nails. SS Śā 5.18 notes that 'vedavādins' say 360 but in śalyatantra there are 300. 206 is the modern adult count.",
+      "explanation_hi": "च.शा. 7.6: 360 अस्थियाँ, जिनमें 32 दन्त, 32 दन्तोलूखल और 20 नख शामिल हैं। सु.शा. 5.18 कहता है कि 'वेदवादी' 360 कहते हैं पर शल्यतन्त्र में 300 हैं। 206 आधुनिक वयस्क संख्या है।",
+      "reference": "SS.sharira.5.18;",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0046",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-asthi-sandhi",
+      "topic_en": "Asthi and Sandhi",
+      "topic_hi": "अस्थि एवं सन्धि",
+      "type": "mcq",
+      "question_en": "According to Suśruta, how many of the 300 bones are in the four śākhās (limbs)?",
+      "question_hi": "सुश्रुत के अनुसार 300 अस्थियों में से चार शाखाओं में कितनी हैं?",
+      "options": [
+        {
+          "en": "63",
+          "hi": "63"
+        },
+        {
+          "en": "117",
+          "hi": "117"
+        },
+        {
+          "en": "120",
+          "hi": "120"
+        },
+        {
+          "en": "180",
+          "hi": "180"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "SS Śā 5.18: 120 in the śākhās, 117 in śroṇi-pārśva-pṛṣṭha-uras, 63 from the neck upward (120 + 117 + 63 = 300).",
+      "explanation_hi": "सु.शा. 5.18: शाखाओं में 120, श्रोणि-पार्श्व-पृष्ठ-उरस् में 117 और ग्रीवा से ऊपर 63 (120 + 117 + 63 = 300)।",
+      "reference": "SS.sharira.5.18",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0047",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-asthi-sandhi",
+      "topic_en": "Asthi and Sandhi",
+      "topic_hi": "अस्थि एवं सन्धि",
+      "type": "mcq",
+      "question_en": "How many types of asthi does Suśruta describe?",
+      "question_hi": "सुश्रुत अस्थि के कितने प्रकार बताते हैं?",
+      "options": [
+        {
+          "en": "Three",
+          "hi": "तीन"
+        },
+        {
+          "en": "Five",
+          "hi": "पाँच"
+        },
+        {
+          "en": "Four",
+          "hi": "चार"
+        },
+        {
+          "en": "Eight",
+          "hi": "आठ"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "SS Śā 5.20: kapāla, rucaka, taruṇa, valaya and nalaka. Eight is the number of sandhi types.",
+      "explanation_hi": "सु.शा. 5.20: कपाल, रुचक, तरुण, वलय और नलक। आठ सन्धि के प्रकारों की संख्या है।",
+      "reference": "SS.sharira.5.20",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0048",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-asthi-sandhi",
+      "topic_en": "Asthi and Sandhi",
+      "topic_hi": "अस्थि एवं सन्धि",
+      "type": "mcq",
+      "question_en": "According to Suśruta, the teeth (daśana) are which type of asthi?",
+      "question_hi": "सुश्रुत के अनुसार दन्त किस प्रकार की अस्थि हैं?",
+      "options": [
+        {
+          "en": "Rucaka",
+          "hi": "रुचक"
+        },
+        {
+          "en": "Kapāla",
+          "hi": "कपाल"
+        },
+        {
+          "en": "Taruṇa",
+          "hi": "तरुण"
+        },
+        {
+          "en": "Nalaka",
+          "hi": "नलक"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "SS Śā 5.20: \"daśanās tu rucakāni\". Kapāla - jānu, nitamba, aṃsa, gaṇḍa, tālu, śaṅkha, śiras; taruṇa - ghrāṇa, karṇa, grīvā, akṣikośa; nalaka - long bones.",
+      "explanation_hi": "सु.शा. 5.20: \"दशनास्तु रुचकानि\"। कपाल - जानु, नितम्ब, अंस, गण्ड, तालु, शङ्ख, शिर; तरुण - घ्राण, कर्ण, ग्रीवा, अक्षिकोश; नलक - लम्बी अस्थियाँ।",
+      "reference": "SS.sharira.5.20",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0049",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-asthi-sandhi",
+      "topic_en": "Asthi and Sandhi",
+      "topic_hi": "अस्थि एवं सन्धि",
+      "type": "mcq",
+      "question_en": "The cartilages of the nose and ear (ghrāṇa, karṇa) are called which type of asthi by Suśruta?",
+      "question_hi": "सुश्रुत नाक और कान (घ्राण, कर्ण) की अस्थियों को किस प्रकार की अस्थि कहते हैं?",
+      "options": [
+        {
+          "en": "Valaya",
+          "hi": "वलय"
+        },
+        {
+          "en": "Rucaka",
+          "hi": "रुचक"
+        },
+        {
+          "en": "Kapāla",
+          "hi": "कपाल"
+        },
+        {
+          "en": "Taruṇa",
+          "hi": "तरुण"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "SS Śā 5.20: taruṇa asthi (soft, cartilaginous) are in ghrāṇa, karṇa, grīvā and akṣikośa, corresponding to modern cartilage.",
+      "explanation_hi": "सु.शा. 5.20: तरुण अस्थि (कोमल) घ्राण, कर्ण, ग्रीवा और अक्षिकोश में हैं, जो आधुनिक उपास्थि (कार्टिलेज) के समान हैं।",
+      "reference": "SS.sharira.5.20",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0050",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-asthi-sandhi",
+      "topic_en": "Asthi and Sandhi",
+      "topic_hi": "अस्थि एवं सन्धि",
+      "type": "mcq",
+      "question_en": "How many sandhis (joints) does Suśruta describe?",
+      "question_hi": "सुश्रुत कितनी सन्धियाँ बताते हैं?",
+      "options": [
+        {
+          "en": "210",
+          "hi": "210"
+        },
+        {
+          "en": "107",
+          "hi": "107"
+        },
+        {
+          "en": "200",
+          "hi": "200"
+        },
+        {
+          "en": "300",
+          "hi": "300"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "SS Śā 5.26: 210 sandhis (68 in śākhās, 59 in koṣṭha, 83 from the neck upward). Caraka gives 200 (Śā 7.14).",
+      "explanation_hi": "सु.शा. 5.26: 210 सन्धियाँ (शाखाओं में 68, कोष्ठ में 59, ग्रीवा से ऊपर 83)। चरक 200 बताते हैं (शा. 7.14)।",
+      "reference": "SS.sharira.5.26",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0051",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-asthi-sandhi",
+      "topic_en": "Asthi and Sandhi",
+      "topic_hi": "अस्थि एवं सन्धि",
+      "type": "mcq",
+      "question_en": "According to Suśruta, the joints of the fingers, wrist, ankle, knee and elbow are which type of sandhi?",
+      "question_hi": "सुश्रुत के अनुसार अंगुली, मणिबन्ध, गुल्फ, जानु और कूर्पर की सन्धियाँ किस प्रकार की हैं?",
+      "options": [
+        {
+          "en": "Ulūkhala",
+          "hi": "उलूखल"
+        },
+        {
+          "en": "Sāmudga",
+          "hi": "सामुद्ग"
+        },
+        {
+          "en": "Kora",
+          "hi": "कोर"
+        },
+        {
+          "en": "Pratara",
+          "hi": "प्रतर"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "SS Śā 5.27: kora (hinge-like) in aṅguli, maṇibandha, gulpha, jānu, kūrpara; ulūkhala in kakṣā, vaṅkṣaṇa, daśana; sāmudga in aṃsapīṭha, guda, bhaga, nitamba; pratara in grīvā and pṛṣṭhavaṃśa.",
+      "explanation_hi": "सु.शा. 5.27: कोर (कब्ज़े जैसी) अंगुली, मणिबन्ध, गुल्फ, जानु, कूर्पर में; उलूखल कक्षा, वङ्क्षण, दशन में; सामुद्ग अंसपीठ, गुद, भग, नितम्ब में; प्रतर ग्रीवा और पृष्ठवंश में।",
+      "reference": "SS.sharira.5.27",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0052",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-asthi-sandhi",
+      "topic_en": "Asthi and Sandhi",
+      "topic_hi": "अस्थि एवं सन्धि",
+      "type": "mcq",
+      "question_en": "The shoulder (kakṣā) and hip (vaṅkṣaṇa) joints are ulūkhala sandhis. In modern terms they are:",
+      "question_hi": "कन्धे (कक्षा) और कूल्हे (वङ्क्षण) की सन्धि उलूखल सन्धि है। आधुनिक भाषा में ये हैं:",
+      "options": [
+        {
+          "en": "Hinge joints",
+          "hi": "हिंज सन्धि"
+        },
+        {
+          "en": "Ball-and-socket joints",
+          "hi": "बॉल-एण्ड-सॉकेट सन्धि"
+        },
+        {
+          "en": "Sutures",
+          "hi": "सूचर"
+        },
+        {
+          "en": "Pivot joints",
+          "hi": "पिवट सन्धि"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "Ulūkhala means mortar: a rounded head moving in a cup, i.e. ball-and-socket. Kora corresponds to hinge joints and tunnasevanī to sutures.",
+      "explanation_hi": "उलूखल = ओखली: प्याले में घूमता गोल सिर, अर्थात् बॉल-एण्ड-सॉकेट। कोर हिंज और तुन्नसेवनी सूचर के समान है।",
+      "reference": "SS.sharira.5.27",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0053",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-asthi-sandhi",
+      "topic_en": "Asthi and Sandhi",
+      "topic_hi": "अस्थि एवं सन्धि",
+      "type": "mcq",
+      "question_en": "The sutures of the skull and the kaṭīkapāla are which type of sandhi according to Suśruta?",
+      "question_hi": "सुश्रुत के अनुसार कपाल और कटीकपाल की सन्धियाँ किस प्रकार की हैं?",
+      "options": [
+        {
+          "en": "Pratara",
+          "hi": "प्रतर"
+        },
+        {
+          "en": "Maṇḍala",
+          "hi": "मण्डल"
+        },
+        {
+          "en": "Śaṅkhāvarta",
+          "hi": "शङ्खावर्त"
+        },
+        {
+          "en": "Tunnasevanī",
+          "hi": "तुन्नसेवनी"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "SS Śā 5.27: \"śiraḥkaṭīkapāleṣu tunnasevanyaḥ\" (like stitched seams). The mandible joints are vāyasatuṇḍa; maṇḍala are in throat, heart, eyes, kloma and nāḍī; śaṅkhāvarta in śrotra and śṛṅgāṭaka.",
+      "explanation_hi": "सु.शा. 5.27: \"शिरःकटीकपालेषु तुन्नसेवन्यः\" (सिलाई जैसी)। हनु की सन्धियाँ वायसतुण्ड; मण्डल कण्ठ, हृदय, नेत्र, क्लोम, नाडी में; शङ्खावर्त श्रोत्र और शृङ्गाटक में।",
+      "reference": "SS.sharira.5.27",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0054",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-asthi-sandhi",
+      "topic_en": "Asthi and Sandhi",
+      "topic_hi": "अस्थि एवं सन्धि",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Suśrutasaṃhitā Śārīrasthāna 5.28). Choose the correct second half of the śloka that begins as shown.",
+      "question_hi": "श्लोक पूरा कीजिए (सुश्रुतसंहिता शारीरस्थान 5.28)। दिए गए पूर्वार्ध का सही उत्तरार्ध चुनिए।",
+      "question_sa": "अस्थ्नां तु संधयो ह्येते केवलाः परिकीर्तिताः ।",
+      "options": [
+        {
+          "en": "dṛṣṭaśrutābhyāṃ saṃdeham avāpohyācaret kriyāḥ",
+          "hi": "दृष्टश्रुताभ्यां संदेहमवापोह्याचरेत्क्रियाः"
+        },
+        {
+          "en": "peśīsnāyusirāṇāṃ tu saṃdhisaṃkhyā na vidyate",
+          "hi": "पेशीस्नायुसिराणां तु संधिसंख्या न विद्यते"
+        },
+        {
+          "en": "vaikalyaṃ maraṇaṃ cāpi vyadhāttāsāṃ dhruvaṃ bhavet",
+          "hi": "वैकल्यं मरणं चापि व्यधात्तासां ध्रुवं भवेत्"
+        },
+        {
+          "en": "kurvantyante ca vaikalyaṃ kuvaidyavaśago yadi",
+          "hi": "कुर्वन्त्यन्ते च वैकल्यं कुवैद्यवशगो यदि"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "\"These sandhis are described only for bones; for peśī, snāyu and sirā the number of joints cannot be stated\" (SS Śā 5.28).",
+      "explanation_hi": "\"ये सन्धियाँ केवल अस्थियों की बताई गई हैं; पेशी, स्नायु और सिराओं की सन्धियों की संख्या नहीं है\" (सु.शा. 5.28)।",
+      "reference": "SS.sharira.5.28",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0055",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-snayu-peshi",
+      "topic_en": "Snāyu, Peśī, Kaṇḍarā",
+      "topic_hi": "स्नायु, पेशी, कण्डरा",
+      "type": "mcq",
+      "question_en": "How many snāyus does Suśruta describe?",
+      "question_hi": "सुश्रुत कितनी स्नायु बताते हैं?",
+      "options": [
+        {
+          "en": "900",
+          "hi": "900"
+        },
+        {
+          "en": "500",
+          "hi": "500"
+        },
+        {
+          "en": "700",
+          "hi": "700"
+        },
+        {
+          "en": "210",
+          "hi": "210"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "SS Śā 5.6: 900 snāyu, 500 peśī, 700 sirā, 210 sandhi.",
+      "explanation_hi": "सु.शा. 5.6: 900 स्नायु, 500 पेशी, 700 सिरा, 210 सन्धि।",
+      "reference": "SS.sharira.5.6",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0056",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-snayu-peshi",
+      "topic_en": "Snāyu, Peśī, Kaṇḍarā",
+      "topic_hi": "स्नायु, पेशी, कण्डरा",
+      "type": "mcq",
+      "question_en": "Which of the following is NOT one of Suśruta's four types of snāyu?",
+      "question_hi": "इनमें से कौन सुश्रुत के चार प्रकार की स्नायु में नहीं है?",
+      "options": [
+        {
+          "en": "Pratānavatī",
+          "hi": "प्रतानवती"
+        },
+        {
+          "en": "Vṛtta",
+          "hi": "वृत्त"
+        },
+        {
+          "en": "Kora",
+          "hi": "कोर"
+        },
+        {
+          "en": "Suṣira",
+          "hi": "सुषिर"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "SS Śā 5.30: pratānavatī, vṛtta, pṛthula (pṛthvī) and suṣira. Kora is a type of sandhi.",
+      "explanation_hi": "सु.शा. 5.30: प्रतानवती, वृत्त, पृथुल (पृथ्वी) और सुषिर। कोर सन्धि का प्रकार है।",
+      "reference": "SS.sharira.5.30",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0057",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-snayu-peshi",
+      "topic_en": "Snāyu, Peśī, Kaṇḍarā",
+      "topic_hi": "स्नायु, पेशी, कण्डरा",
+      "type": "shloka_completion",
+      "question_en": "Complete the verse (Suśrutasaṃhitā Śārīrasthāna 5.30). Choose the correct second half of the śloka that begins as shown.",
+      "question_hi": "श्लोक पूरा कीजिए (सुश्रुतसंहिता शारीरस्थान 5.30)। दिए गए पूर्वार्ध का सही उत्तरार्ध चुनिए।",
+      "question_sa": "स्नायूश्चतुर्विधा विद्यात्तास्तु सर्वा निबोध मे ।",
+      "options": [
+        {
+          "en": "dṛṣṭaśrutābhyāṃ saṃdeham avāpohyācaret kriyāḥ",
+          "hi": "दृष्टश्रुताभ्यां संदेहमवापोह्याचरेत्क्रियाः"
+        },
+        {
+          "en": "peśīsnāyusirāṇāṃ tu saṃdhisaṃkhyā na vidyate",
+          "hi": "पेशीस्नायुसिराणां तु संधिसंख्या न विद्यते"
+        },
+        {
+          "en": "medasaḥ snehamādāya sirāsnāyutvamāpnuyāt",
+          "hi": "मेदसः स्नेहमादाय सिरास्नायुत्वमाप्नुयात्"
+        },
+        {
+          "en": "pratānavatyo vṛttāś ca pṛthvyaś ca śuṣirāstathā",
+          "hi": "प्रतानवत्यो वृत्ताश्च पृथ्व्यश्च शुषिरास्तथा"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "\"Know the snāyus to be of four kinds; hear about all of them from me: pratānavatī (branching), vṛtta (round), pṛthu (broad) and śuṣira (hollow)\" (SS Śā 5.30).",
+      "explanation_hi": "\"स्नायु चार प्रकार की जानो, सब मुझसे सुनो: प्रतानवती, वृत्त, पृथु और शुषिर\" (सु.शा. 5.30)।",
+      "reference": "SS.sharira.5.30",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0058",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-snayu-peshi",
+      "topic_en": "Snāyu, Peśī, Kaṇḍarā",
+      "topic_hi": "स्नायु, पेशी, कण्डरा",
+      "type": "mcq",
+      "question_en": "According to Suśruta, the number of peśīs in males is 500. Women have how many additional peśīs?",
+      "question_hi": "सुश्रुत के अनुसार पुरुषों में 500 पेशियाँ हैं। स्त्रियों में कितनी अतिरिक्त पेशियाँ हैं?",
+      "options": [
+        {
+          "en": "Ten",
+          "hi": "दस"
+        },
+        {
+          "en": "Thirty",
+          "hi": "तीस"
+        },
+        {
+          "en": "Twenty",
+          "hi": "बीस"
+        },
+        {
+          "en": "Five",
+          "hi": "पाँच"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "Suśruta (Śā 5.39) adds twenty in women (ten in the breasts and ten related to the reproductive organs), giving 520. Caraka counts 400 peśī (Śā 7.14).",
+      "explanation_hi": "सुश्रुत (शा. 5.39) स्त्रियों में बीस अधिक बताते हैं (दस स्तनों में और दस प्रजनन अंगों से सम्बन्धित), कुल 520। चरक 400 पेशियाँ गिनते हैं (शा. 7.14)।",
+      "reference": "SS.sharira.5.39",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0059",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-snayu-peshi",
+      "topic_en": "Snāyu, Peśī, Kaṇḍarā",
+      "topic_hi": "स्नायु, पेशी, कण्डरा",
+      "type": "mcq",
+      "question_en": "How many kaṇḍarās (large tendons) does Suśruta describe?",
+      "question_hi": "सुश्रुत कितनी कण्डराएँ बताते हैं?",
+      "options": [
+        {
+          "en": "Sixteen",
+          "hi": "सोलह"
+        },
+        {
+          "en": "Four",
+          "hi": "चार"
+        },
+        {
+          "en": "Ten",
+          "hi": "दस"
+        },
+        {
+          "en": "Twenty-four",
+          "hi": "चौबीस"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "SS Śā 5.11: sixteen kaṇḍarās, four in each of the feet, hands, neck and back. Twenty-four is the number of dhamanīs.",
+      "explanation_hi": "सु.शा. 5.11: सोलह कण्डराएँ - पैरों, हाथों, ग्रीवा और पृष्ठ में चार-चार। चौबीस धमनियों की संख्या है।",
+      "reference": "SS.sharira.5.11",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0060",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-sira-dhamani-srotas",
+      "topic_en": "Sirā, Dhamanī, Srotas",
+      "topic_hi": "सिरा, धमनी, स्रोतस्",
+      "type": "mcq",
+      "question_en": "How many sirās does Suśruta describe?",
+      "question_hi": "सुश्रुत कितनी सिराएँ बताते हैं?",
+      "options": [
+        {
+          "en": "24",
+          "hi": "24"
+        },
+        {
+          "en": "40",
+          "hi": "40"
+        },
+        {
+          "en": "900",
+          "hi": "900"
+        },
+        {
+          "en": "700",
+          "hi": "700"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "SS Śā 7.3: 700 sirās nourish the body like irrigation channels in a garden. Forty are the mūla sirās (7.6) and 24 the dhamanīs.",
+      "explanation_hi": "सु.शा. 7.3: 700 सिराएँ उद्यान की नालियों की तरह शरीर का पोषण करती हैं। चालीस मूल सिराएँ (7.6) और 24 धमनियाँ हैं।",
+      "reference": "SS.sharira.7.3",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0061",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-sira-dhamani-srotas",
+      "topic_en": "Sirā, Dhamanī, Srotas",
+      "topic_hi": "सिरा, धमनी, स्रोतस्",
+      "type": "mcq",
+      "question_en": "According to Suśruta, the 40 mūla sirās are divided as:",
+      "question_hi": "सुश्रुत के अनुसार 40 मूल सिराओं का विभाजन है:",
+      "options": [
+        {
+          "en": "20 vāta and 20 pitta",
+          "hi": "20 वात और 20 पित्त"
+        },
+        {
+          "en": "10 each of vāta, pitta, kapha and rakta",
+          "hi": "वात, पित्त, कफ और रक्त की 10-10"
+        },
+        {
+          "en": "10 vāta, 10 pitta, 20 kapha",
+          "hi": "10 वात, 10 पित्त, 20 कफ"
+        },
+        {
+          "en": "40 rakta only",
+          "hi": "केवल 40 रक्त"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "SS Śā 7.6: vātavāhinī 10, pittavāhinī 10, kaphavāhinī 10 and raktavāhinī 10; these branch into 175 each (700 total).",
+      "explanation_hi": "सु.शा. 7.6: वातवाहिनी 10, पित्तवाहिनी 10, कफवाहिनी 10 और रक्तवाहिनी 10; ये 175-175 में बँटकर कुल 700 होती हैं।",
+      "reference": "SS.sharira.7.6",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0062",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-sira-dhamani-srotas",
+      "topic_en": "Sirā, Dhamanī, Srotas",
+      "topic_hi": "सिरा, धमनी, स्रोतस्",
+      "type": "mcq",
+      "question_en": "According to Suśruta, the vātavaha sirās are of what colour?",
+      "question_hi": "सुश्रुत के अनुसार वातवह सिराओं का रंग है:",
+      "options": [
+        {
+          "en": "Aruṇa (reddish-dusky)",
+          "hi": "अरुण"
+        },
+        {
+          "en": "Nīla (blue)",
+          "hi": "नील"
+        },
+        {
+          "en": "Gaura (white)",
+          "hi": "गौर"
+        },
+        {
+          "en": "Rohiṇī (red)",
+          "hi": "रोहिणी"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "SS Śā 7.18: vātavaha aruṇa, pittavaha nīla and warm, kaphavaha gaura and cold, raktavaha rohiṇī and neither hot nor cold.",
+      "explanation_hi": "सु.शा. 7.18: वातवह अरुण, पित्तवह नील व उष्ण, कफवह गौर व शीत, रक्तवह रोहिणी और न अति उष्ण न शीत।",
+      "reference": "SS.sharira.7.18",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0063",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-sira-dhamani-srotas",
+      "topic_en": "Sirā, Dhamanī, Srotas",
+      "topic_hi": "सिरा, धमनी, स्रोतस्",
+      "type": "mcq",
+      "question_en": "How many dhamanīs does Suśruta describe, and where do they originate?",
+      "question_hi": "सुश्रुत कितनी धमनियाँ बताते हैं और उनका उद्गम कहाँ है?",
+      "options": [
+        {
+          "en": "Ten, from the hṛdaya",
+          "hi": "दस, हृदय से"
+        },
+        {
+          "en": "Seven hundred, from the nābhi",
+          "hi": "सात सौ, नाभि से"
+        },
+        {
+          "en": "Twenty-four, from the nābhi",
+          "hi": "चौबीस, नाभि से"
+        },
+        {
+          "en": "Two hundred, from the hṛdaya",
+          "hi": "दो सौ, हृदय से"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "SS Śā 9.3: twenty-four dhamanīs arise from the nābhi (10 upward, 10 downward, 4 oblique). Caraka speaks of ten mahāmūla dhamanīs attached to the heart and counts 200 dhamanīs in Śā 7.",
+      "explanation_hi": "सु.शा. 9.3: चौबीस धमनियाँ नाभि से निकलती हैं (10 ऊर्ध्वग, 10 अधोग, 4 तिर्यग्)। चरक हृदय से जुड़ी दस महामूल धमनियों का वर्णन करते हैं और शा. 7 में 200 धमनियाँ गिनते हैं।",
+      "reference": "SS.sharira.9.3",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0064",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-sira-dhamani-srotas",
+      "topic_en": "Sirā, Dhamanī, Srotas",
+      "topic_hi": "सिरा, धमनी, स्रोतस्",
+      "type": "mcq",
+      "question_en": "Suśruta describes how many pairs of yogavaha (internal) srotas?",
+      "question_hi": "सुश्रुत आन्तरिक (योगवह) स्रोतस् के कितने जोड़े बताते हैं?",
+      "options": [
+        {
+          "en": "Nine",
+          "hi": "नौ"
+        },
+        {
+          "en": "Thirteen",
+          "hi": "तेरह"
+        },
+        {
+          "en": "Sixteen",
+          "hi": "सोलह"
+        },
+        {
+          "en": "Eleven",
+          "hi": "ग्यारह"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "SS Śā 9.12: prāṇa, anna, udaka, rasa, rakta, māṃsa, medas, mūtra, purīṣa, śukra and ārtava: 11 pairs (22). Caraka lists 13 (plus manovaha). Nine is the number of external openings in men.",
+      "explanation_hi": "सु.शा. 9.12: प्राण, अन्न, उदक, रस, रक्त, मांस, मेद, मूत्र, पुरीष, शुक्र और आर्तव - 11 जोड़े (22)। चरक 13 (और मनोवह) बताते हैं। नौ पुरुषों के बाह्य छिद्रों की संख्या है।",
+      "reference": "SS.sharira.9.12",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0065",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-sira-dhamani-srotas",
+      "topic_en": "Sirā, Dhamanī, Srotas",
+      "topic_hi": "सिरा, धमनी, स्रोतस्",
+      "type": "mcq",
+      "question_en": "How many bahirmukha (externally opening) srotas are there in women according to Suśruta?",
+      "question_hi": "सुश्रुत के अनुसार स्त्रियों में कितने बहिर्मुख स्रोतस् हैं?",
+      "options": [
+        {
+          "en": "Nine",
+          "hi": "नौ"
+        },
+        {
+          "en": "Twelve",
+          "hi": "बारह"
+        },
+        {
+          "en": "Ten",
+          "hi": "दस"
+        },
+        {
+          "en": "Thirteen",
+          "hi": "तेरह"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "SS Śā 5.10: nine in men (2 ears, 2 eyes, mouth, 2 nostrils, anus, urethra); women have three more (two in the breasts and one for menstrual blood) = 12.",
+      "explanation_hi": "सु.शा. 5.10: पुरुषों में नौ (2 कान, 2 आँख, मुख, 2 नासा, गुद, मेढ्र); स्त्रियों में तीन अधिक (दो स्तनों में और एक रक्तवह) = 12।",
+      "reference": "SS.sharira.5.10",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0066",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-sira-dhamani-srotas",
+      "topic_en": "Sirā, Dhamanī, Srotas",
+      "topic_hi": "सिरा, धमनी, स्रोतस्",
+      "type": "true_false",
+      "question_en": "According to Suśruta, the mūla of prāṇavaha srotas is hṛdaya and the rasavāhinī dhamanīs.",
+      "question_hi": "सुश्रुत के अनुसार प्राणवह स्रोतस् का मूल हृदय और रसवाहिनी धमनियाँ हैं।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "True. SS Śā 9.12: \"prāṇavahe dve, tayor mūlaṃ hṛdayaṃ rasavāhinyaś ca dhamanyaḥ\". Caraka gives hṛdaya and mahāsrotas.",
+      "explanation_hi": "सत्य। सु.शा. 9.12: \"प्राणवहे द्वे, तयोर्मूलं हृदयं रसवाहिन्यश्च धमन्यः\"। चरक हृदय और महास्रोतस् बताते हैं।",
+      "reference": "SS.sharira.9.12",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0067",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-kala-ashaya-tvak",
+      "topic_en": "Kalā, Āśaya, Tvak",
+      "topic_hi": "कला, आशय, त्वक्",
+      "type": "mcq",
+      "question_en": "How many kalās does Suśruta describe?",
+      "question_hi": "सुश्रुत कितनी कलाएँ बताते हैं?",
+      "options": [
+        {
+          "en": "Five",
+          "hi": "पाँच"
+        },
+        {
+          "en": "Six",
+          "hi": "छह"
+        },
+        {
+          "en": "Eight",
+          "hi": "आठ"
+        },
+        {
+          "en": "Seven",
+          "hi": "सात"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "SS Śā 4.5: seven kalās, the boundaries (maryādā) between dhātu and āśaya: māṃsadharā, raktadharā, medodharā, śleṣmadharā, purīṣadharā, pittadharā and śukradharā.",
+      "explanation_hi": "सु.शा. 4.5: सात कलाएँ, जो धातु और आशय के बीच की मर्यादा हैं: मांसधरा, रक्तधरा, मेदोधरा, श्लेष्मधरा, पुरीषधरा, पित्तधरा और शुक्रधरा।",
+      "reference": "SS.sharira.4.5",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0068",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-kala-ashaya-tvak",
+      "topic_en": "Kalā, Āśaya, Tvak",
+      "topic_hi": "कला, आशय, त्वक्",
+      "type": "mcq",
+      "question_en": "Which kalā is identified with the grahaṇī (holding food in the region of the pakvāmāśaya)?",
+      "question_hi": "कौन-सी कला ग्रहणी से अभिन्न मानी गई है?",
+      "options": [
+        {
+          "en": "Purīṣadharā",
+          "hi": "पुरीषधरा"
+        },
+        {
+          "en": "Śleṣmadharā",
+          "hi": "श्लेष्मधरा"
+        },
+        {
+          "en": "Pittadharā",
+          "hi": "पित्तधरा"
+        },
+        {
+          "en": "Raktadharā",
+          "hi": "रक्तधरा"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "SS Śā 4 (and Uttara 40): the sixth kalā, pittadharā, holds the four kinds of food between āmāśaya and pakvāśaya and is called grahaṇī. Purīṣadharā (the fifth) separates faeces in the pakvāśaya.",
+      "explanation_hi": "सु.शा. 4 (और उत्तर 40): छठी पित्तधरा कला आमाशय और पक्वाशय के बीच चारों प्रकार के अन्न को धारण करती है और ग्रहणी कहलाती है। पाँचवीं पुरीषधरा पक्वाशय में मल अलग करती है।",
+      "reference": "SS.sharira.4.18",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0069",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-kala-ashaya-tvak",
+      "topic_en": "Kalā, Āśaya, Tvak",
+      "topic_hi": "कला, आशय, त्वक्",
+      "type": "mcq",
+      "question_en": "According to Suśruta, which āśaya is found only in women?",
+      "question_hi": "सुश्रुत के अनुसार कौन-सा आशय केवल स्त्रियों में होता है?",
+      "options": [
+        {
+          "en": "Raktāśaya",
+          "hi": "रक्ताशय"
+        },
+        {
+          "en": "Garbhāśaya",
+          "hi": "गर्भाशय"
+        },
+        {
+          "en": "Mūtrāśaya",
+          "hi": "मूत्राशय"
+        },
+        {
+          "en": "Pakvāśaya",
+          "hi": "पक्वाशय"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "SS Śā 5.8: vāta, pitta, śleṣma, rakta, āma, pakva and mūtra āśayas (7), and in women the garbhāśaya as the eighth.",
+      "explanation_hi": "सु.शा. 5.8: वात, पित्त, श्लेष्म, रक्त, आम, पक्व और मूत्र आशय (7), और स्त्रियों में आठवाँ गर्भाशय।",
+      "reference": "SS.sharira.5.8",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0070",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-kala-ashaya-tvak",
+      "topic_en": "Kalā, Āśaya, Tvak",
+      "topic_hi": "कला, आशय, त्वक्",
+      "type": "mcq",
+      "question_en": "How many layers of tvak (skin) does Suśruta describe?",
+      "question_hi": "सुश्रुत त्वचा की कितनी परतें बताते हैं?",
+      "options": [
+        {
+          "en": "Seven",
+          "hi": "सात"
+        },
+        {
+          "en": "Five",
+          "hi": "पाँच"
+        },
+        {
+          "en": "Six",
+          "hi": "छह"
+        },
+        {
+          "en": "Nine",
+          "hi": "नौ"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "SS Śā 4.4: seven layers form like cream on boiling milk: avabhāsinī, lohitā, śvetā, tāmrā, vedinī, rohiṇī, māṃsadharā. Caraka describes six (Śā 7.4).",
+      "explanation_hi": "सु.शा. 4.4: उबलते दूध पर मलाई की तरह सात परतें बनती हैं: अवभासिनी, लोहिता, श्वेता, ताम्रा, वेदिनी, रोहिणी, मांसधरा। चरक छह बताते हैं (शा. 7.4)।",
+      "reference": "SS.sharira.4.4",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0071",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-kala-ashaya-tvak",
+      "topic_en": "Kalā, Āśaya, Tvak",
+      "topic_hi": "कला, आशय, त्वक्",
+      "type": "mcq",
+      "question_en": "The outermost layer of skin, which reflects all complexions and the five kinds of chāyā, is:",
+      "question_hi": "त्वचा की सबसे बाहरी परत, जो सब वर्णों और पाँच प्रकार की छाया को प्रकाशित करती है, है:",
+      "options": [
+        {
+          "en": "Lohitā",
+          "hi": "लोहिता"
+        },
+        {
+          "en": "Rohiṇī",
+          "hi": "रोहिणी"
+        },
+        {
+          "en": "Avabhāsinī",
+          "hi": "अवभासिनी"
+        },
+        {
+          "en": "Māṃsadharā",
+          "hi": "मांसधरा"
+        }
+      ],
+      "answer_index": 2,
+      "explanation_en": "SS Śā 4.4: the first layer, avabhāsinī, displays all colours; it is 1/18 of a vrīhi thick and is the seat of sidhma and padmakaṇṭaka. Māṃsadharā is the seventh, deepest layer.",
+      "explanation_hi": "सु.शा. 4.4: पहली परत अवभासिनी सब वर्णों को प्रकाशित करती है; यह व्रीहि का 1/18 मोटी है और सिध्म, पद्मकण्टक का स्थान है। मांसधरा सातवीं, सबसे गहरी परत है।",
+      "reference": "SS.sharira.4.4",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0072",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-kala-ashaya-tvak",
+      "topic_en": "Kalā, Āśaya, Tvak",
+      "topic_hi": "कला, आशय, त्वक्",
+      "type": "mcq",
+      "question_en": "According to Suśruta, granthi, apacī, arbuda, ślīpada and galagaṇḍa arise in which layer of skin?",
+      "question_hi": "सुश्रुत के अनुसार ग्रन्थि, अपची, अर्बुद, श्लीपद और गलगण्ड त्वचा की किस परत में होते हैं?",
+      "options": [
+        {
+          "en": "Tāmrā",
+          "hi": "ताम्रा"
+        },
+        {
+          "en": "Rohiṇī",
+          "hi": "रोहिणी"
+        },
+        {
+          "en": "Vedinī",
+          "hi": "वेदिनी"
+        },
+        {
+          "en": "Śvetā",
+          "hi": "श्वेता"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "SS Śā 4.4: rohiṇī (sixth layer, one vrīhi thick) is the seat of granthi, apacī, arbuda, ślīpada and galagaṇḍa. Bhagandara, vidradhi and arśas are in māṃsadharā; kilāsa and kuṣṭha in tāmrā.",
+      "explanation_hi": "सु.शा. 4.4: रोहिणी (छठी परत, एक व्रीहि मोटी) ग्रन्थि, अपची, अर्बुद, श्लीपद और गलगण्ड का स्थान है। भगन्दर, विद्रधि, अर्श मांसधरा में और किलास, कुष्ठ ताम्रा में होते हैं।",
+      "reference": "SS.sharira.4.4",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0073",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-kala-ashaya-tvak",
+      "topic_en": "Kalā, Āśaya, Tvak",
+      "topic_hi": "कला, आशय, त्वक्",
+      "type": "mcq",
+      "question_en": "The thickness of the māṃsadharā (seventh) layer of skin according to Suśruta is:",
+      "question_hi": "सुश्रुत के अनुसार मांसधरा (सातवीं) परत की मोटाई है:",
+      "options": [
+        {
+          "en": "1/18 vrīhi",
+          "hi": "1/18 व्रीहि"
+        },
+        {
+          "en": "1/5 vrīhi",
+          "hi": "1/5 व्रीहि"
+        },
+        {
+          "en": "One vrīhi",
+          "hi": "एक व्रीहि"
+        },
+        {
+          "en": "Two vrīhi",
+          "hi": "दो व्रीहि"
+        }
+      ],
+      "answer_index": 3,
+      "explanation_en": "SS Śā 4.4: avabhāsinī 1/18, lohitā 1/16, śvetā 1/12, tāmrā 1/8, vedinī 1/5, rohiṇī 1, māṃsadharā 2 vrīhi.",
+      "explanation_hi": "सु.शा. 4.4: अवभासिनी 1/18, लोहिता 1/16, श्वेता 1/12, ताम्रा 1/8, वेदिनी 1/5, रोहिणी 1, मांसधरा 2 व्रीहि।",
+      "reference": "SS.sharira.4.4",
+      "difficulty": "hard",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0074",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-kala-ashaya-tvak",
+      "topic_en": "Kalā, Āśaya, Tvak",
+      "topic_hi": "कला, आशय, त्वक्",
+      "type": "true_false",
+      "question_en": "According to Suśruta, men have seven āśayas.",
+      "question_hi": "सुश्रुत के अनुसार पुरुषों में सात आशय होते हैं।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 0,
+      "explanation_en": "True. SS Śā 5.8 lists seven āśayas; women have garbhāśaya as an eighth.",
+      "explanation_hi": "सत्य। सु.शा. 5.8 में सात आशय हैं; स्त्रियों में आठवाँ गर्भाशय है।",
+      "reference": "SS.sharira.5.8",
+      "difficulty": "easy",
+      "exam_tags": [
+        "university",
+        "aiapget"
+      ],
+      "review_status": "ai_draft"
+    },
+    {
+      "id": "AyUG-RS-0075",
+      "subject_id": "AyUG-RS",
+      "topic_id": "rs-kala-ashaya-tvak",
+      "topic_en": "Kalā, Āśaya, Tvak",
+      "topic_hi": "कला, आशय, त्वक्",
+      "type": "true_false",
+      "question_en": "Lohitā is the deepest (seventh) layer of skin according to Suśruta.",
+      "question_hi": "सुश्रुत के अनुसार लोहिता त्वचा की सबसे गहरी (सातवीं) परत है।",
+      "options": [
+        {
+          "en": "True",
+          "hi": "सत्य"
+        },
+        {
+          "en": "False",
+          "hi": "असत्य"
+        }
+      ],
+      "answer_index": 1,
+      "explanation_en": "False. Lohitā is the second layer; the seventh and deepest is māṃsadharā (SS Śā 4.4).",
+      "explanation_hi": "असत्य। लोहिता दूसरी परत है; सातवीं और सबसे गहरी परत मांसधरा है (सु.शा. 4.4)।",
+      "reference": "SS.sharira.4.4",
+      "difficulty": "medium",
+      "exam_tags": [
+        "university"
+      ],
+      "review_status": "ai_draft"
+    }
+  ]
+}
